@@ -31,6 +31,8 @@ Train 2048は、クラシックな2048パズルゲームに列車のテーマを
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Arrow Keys` `arrow keys` `Swipe`
 
 
 操作はシンプルで分かりやすいです：
@@ -56,3 +58,4 @@ Train 2048は、クラシックな2048パズルゲームに列車のテーマを
 
 <!-- i18n:faq:id=faq:train-2048:q-which-corner-is-best-6321e15b -->
     - **Q: 勝利条件は何ですか？**
+

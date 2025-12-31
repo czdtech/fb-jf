@@ -31,6 +31,8 @@ Tumble Towersは、ジェンガスタイルのブロック引き抜きゲーム�
 - 微調整：小さなブロックで上面を整えると安定しやすいです。
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `drop`
 
  - **マウス：** ブロックをドラッグして引き抜く
 
@@ -42,5 +44,6 @@ Tumble Towersは、ジェンガスタイルのブロック引き抜きゲーム�
 - Q: タワーがぐらつきます。
 <!-- i18n:faq:id=faq:tumble-towers:can-i-salvage-a-lean-8fa4b483 -->
 **ゲームの目標は何ですか？**
+
 
 

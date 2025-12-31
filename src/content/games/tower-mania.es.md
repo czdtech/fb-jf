@@ -33,6 +33,8 @@ Tower Mania es un arcade sencillo pero muy adictivo que pone a prueba tu precisi
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drop` `Click` `left` `button` `tap`
 
 *   **Soltar bloque:** haz clic con el botón izquierdo del ratón o toca la pantalla para dejar caer el bloque cuando creas que está alineado.
 
@@ -50,5 +52,6 @@ Tower Mania es un arcade sencillo pero muy adictivo que pone a prueba tu precisi
 <!-- i18n:faq:id=faq:tower-mania:q-what-happens-if-a-e9455c4a -->
 *   **Q: ¿Qué pasa si un bloque no cae perfectamente alineado?**
     *   **A:** La parte que sobresale se recorta. Eso deja una base más pequeña para el siguiente bloque y aumenta la dificultad.
+
 
 

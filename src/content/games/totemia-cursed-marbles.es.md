@@ -32,6 +32,8 @@ Totemia: Cursed Marbles es un trepidante juego de acción y puzles al estilo de 
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `left` `button` `click` `press` `spacebar`
 
 - **Apuntar:** mueve el ratón para orientar el disparo del tótem.
 - **Disparar:** haz clic con el botón izquierdo para lanzar la canica.
@@ -51,5 +53,6 @@ Totemia: Cursed Marbles es un trepidante juego de acción y puzles al estilo de 
 <!-- i18n:faq:id=faq:totemia-cursed-marbles:q-how-do-i-get-da481c1b -->
 *   **Q: ¿Cómo consigo la máxima puntuación?**
     *   **A:** Encadenando reacciones y combos. Cuantas más canicas hagas estallar seguidas, mayor será el multiplicador de puntos. Terminar rápido también suele otorgar bonificaciones de tiempo.
+
 
 

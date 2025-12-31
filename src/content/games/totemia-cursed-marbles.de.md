@@ -32,6 +32,8 @@ Totemia: Cursed Marbles ist ein schneller Action‑Puzzler im Stil von Klassiker
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `left` `button` `click` `press` `spacebar`
 
 - **Zielen:** Bewege die Maus, um den Tiki‑Schießer auszurichten.
 - **Schießen:** Linksklick, um die aktuell geladene Kugel abzufeuern.
@@ -55,4 +57,5 @@ Totemia: Cursed Marbles ist ein schneller Action‑Puzzler im Stil von Klassiker
         entfernen. Je mehr Gruppen du in kurzer Zeit platzen lässt, desto höher
         steigt dein Multiplikator. Schnelles Abschließen eines Levels bringt oft
         zusätzliche Zeit‑ oder Bonuspunkte.
+
 

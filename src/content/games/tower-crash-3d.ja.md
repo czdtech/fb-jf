@@ -30,6 +30,8 @@ Tower Crash 3Dは、ボールを落として回転する塔を破壊するシン
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `swipe` `Click` `left` `button` `tap`
 
 
 操作はシンプルで分かりやすいです。
@@ -55,3 +57,4 @@ Tower Crash 3Dは、ボールを落として回転する塔を破壊するシン
 
 <!-- i18n:faq:id=faq:tower-crash-3d:q-what-is-the-best-53b988a8 -->
     - **Q: 撃ったのに壊れないのはなぜ？**
+

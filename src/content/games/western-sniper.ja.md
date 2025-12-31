@@ -31,6 +31,8 @@ Western Sniperは、西部開拓時代を舞台にしたスナイパーシュー
 - 任意目標：周囲が安全なときだけ狙います。
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `click` `hold`
 
  - **マウス：** 狙いと射撃
  - **スペースバー：** ズーム
@@ -43,5 +45,6 @@ Western Sniperは、西部開拓時代を舞台にしたスナイパーシュー
 - Q: 動く標的に当たりません。
 <!-- i18n:faq:id=faq:western-sniper:ammo-runs-out-7881997a -->
 **ゲームの目標は何ですか？**
+
 
 

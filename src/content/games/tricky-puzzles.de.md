@@ -30,6 +30,8 @@ Jedes Level präsentiert dir ein eigenes kleines Rätsel. Die offensichtliche An
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `mouse` `tap` `Drag` `Tap` `hold` `mouse` `drag`
 
 - **Tippen:** Mit Finger (Mobil) oder Maus (PC) auf Objekte tippen.
 - **Ziehen:** Gedrückt halten und bewegen, um Elemente zu verschieben.
@@ -46,3 +48,4 @@ In der Regel nicht. Du kannst dir so viel Zeit lassen, wie du möchtest, und ver
 
 **Wie bekomme ich Hinweise?**  
 Je nach Version kannst du gegen In‑Game‑Währung oder nach einem kurzen Werbespot Hinweise freischalten, die dich in die richtige Richtung schubsen, ohne sofort alles zu verraten.
+

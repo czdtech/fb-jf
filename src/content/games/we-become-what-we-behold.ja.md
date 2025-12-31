@@ -30,6 +30,8 @@ We Become What We Beholdは、メディアと社会行動の関係を探るユ�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse` `mouse` `click`
 
  - **マウス：** カメラを動かして撮影
 
@@ -47,4 +49,5 @@ We Become What We Beholdは、メディアと社会行動の関係を探るユ�
 **どれくらいの長さですか？**
 
 短いですが、非常に印象的な体験です（約5-10分）。
+
 

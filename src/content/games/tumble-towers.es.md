@@ -33,6 +33,8 @@ Tumble Towers es un puzle basado en físicas en el que debes hacer que las torre
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drop`
 
 - Haz clic o toca sobre los bloques que quieras eliminar y observa cómo responde la estructura.
 
@@ -46,5 +48,6 @@ Tumble Towers es un puzle basado en físicas en el que debes hacer que las torre
 <!-- i18n:faq:id=faq:tumble-towers:can-i-salvage-a-lean-8fa4b483 -->
 - **Q: ¿Hay límite de tiempo?**  
   **A:** Normalmente no, pero cuanto más rápido resuelvas el nivel, mejor puede ser tu puntuación.
+
 
 

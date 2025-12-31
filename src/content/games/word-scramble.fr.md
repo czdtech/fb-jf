@@ -33,7 +33,7 @@ Word Scramble est un jeu de puzzle de mots classique et captivant qui te défie 
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `Enter`
+- Touches (alignement)： `click` `drag` `Press` `Enter`
 
 -   **Saisie :** Utilise ton clavier pour taper le mot que tu penses être correct.
 -   **Réarranger les lettres :** Certaines versions te permettent de cliquer-glisser les lettres pour les réarranger visuellement, ou proposent un bouton « mélanger ».
@@ -50,4 +50,5 @@ La plupart des jeux proposent des indices ou une option « passer ». Tu peux au
 
 **Existe-t-il différents types de Word Scramble ?**
 Oui, les variantes incluent des jeux avec différentes longueurs de mots, catégories (ex. : animaux, pays), ou des modes multijoueurs compétitifs où les joueurs s'affrontent pour résoudre l'anagramme en premier.
+
 

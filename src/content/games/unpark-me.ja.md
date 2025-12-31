@@ -29,6 +29,8 @@ Unpark Meは、混雑した駐車場から赤い車を脱出させるロジッ�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `drag` `drop` `Click` `hold` `Drag` `space`
 
 
 操作はドラッグ＆ドロップ中心です。
@@ -52,3 +54,4 @@ Unpark Meは、混雑した駐車場から赤い車を脱出させるロジッ�
 
 <!-- i18n:faq:id=faq:unpark-me:q-im-completely-stuck-what-792b4fbc -->
     - **Q: ゲームの目的は何ですか？**
+

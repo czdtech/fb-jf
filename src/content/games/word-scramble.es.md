@@ -33,7 +33,7 @@ Word Scramble es un puzle de palabras clásico y muy entretenido en el que debes
 <!-- i18n:section:controls -->
 ### Controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `Enter`
+- Teclas (alineación)： `click` `drag` `Press` `Enter`
 
 - **Escritura:** usa el teclado para escribir la palabra que creas correcta.
 - **Reordenar letras:** algunas versiones permiten arrastrar letras con el ratón o usar un botón de “barajar” para ver el anagrama de otra forma.
@@ -53,5 +53,6 @@ Suele haber pistas o una opción de pasar al siguiente anagrama. También puedes
 **¿Hay distintos tipos de Word Scramble?**
 
 Sí: hay variantes por categorías (animales, países, etc.), por longitudes de palabra o incluso modos competitivos en los que varios jugadores compiten por resolver primero.
+
 
 

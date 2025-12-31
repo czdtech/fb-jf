@@ -32,6 +32,8 @@ Le gameplay principal consiste à observer l'écran et utiliser ta caméra pour 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `mouse` `click`
 
 -   **Souris :** Utilise ta souris pour viser la caméra et clique pour prendre une photo.
 
@@ -46,4 +48,5 @@ C'est une expérience très courte, durant environ cinq minutes, conçue pour d�
 
 **Y a-t-il une « bonne » façon de jouer ou de gagner ?**
 Le jeu n'a pas de condition de victoire traditionnelle. Son but est de te faire réfléchir sur la consommation médiatique et son impact sociétal, plutôt que d'atteindre un score élevé ou une fin spécifique.
+
 

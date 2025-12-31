@@ -33,6 +33,8 @@ Truck Trials es un juego de conducción todoterreno en el que recorres circuitos
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Arrow Keys` `arrow keys`
 
 - Acelerar / frenar: teclas Arriba / Abajo o W / S.
 - Inclinar el camión: Izquierda / Derecha o A / D para controlar el balance en saltos y pendientes.
@@ -47,4 +49,5 @@ Truck Trials es un juego de conducción todoterreno en el que recorres circuitos
 <!-- i18n:faq:id=faq:truck-trials:q-what-is-the-differential-664dd98f -->
 *   **Q: ¿Para qué sirve el bloqueo del diferencial?**
     *   **A:** El bloqueo del diferencial mejora la tracción en terrenos difíciles (barro, zonas resbaladizas), ayudándote a avanzar cuando una rueda pierde agarre.
+
 

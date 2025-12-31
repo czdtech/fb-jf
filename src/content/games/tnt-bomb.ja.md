@@ -30,6 +30,8 @@ TNT Bombは、物理エンジンを使った爆破パズルゲームです。TNT
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Click` `Click` `click`
 
  - **マウス：** TNTをドラッグして配置
  - **クリック：** 起爆
@@ -54,3 +56,4 @@ TNT Bombは、物理エンジンを使った爆破パズルゲームです。TNT
 
 <!-- i18n:faq:id=faq:tnt-bomb:q-can-i-place-more-9ba6a330 -->
     - **Q: 各レベルの目標は何ですか？**
+

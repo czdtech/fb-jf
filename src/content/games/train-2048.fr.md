@@ -33,6 +33,8 @@ Train 2048 est un puzzle captivant qui réinvente la formule 2048 bien-aimée av
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Arrow Keys` `arrow keys` `Swipe`
 
 Les contrôles sont simples et intuitifs :
 
@@ -53,4 +55,5 @@ Les contrôles sont simples et intuitifs :
 <!-- i18n:faq:id=faq:train-2048:q-which-corner-is-best-6321e15b -->
 *   **Q : Quel coin est le meilleur pour le wagon le plus élevé ?**
     *   **R :** N'importe quel coin fonctionne, mais la constance est la clé. Une fois que tu choisis un coin, garde-le. La plupart des joueurs trouvent un coin du bas légèrement plus facile.
+
 

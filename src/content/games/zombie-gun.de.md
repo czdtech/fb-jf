@@ -31,6 +31,8 @@ In Zombie Gun liegt der Fokus auf Winkel‑Schüssen. Du lässt Kugeln an Wände
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `click`
 
 - Zielen mit der Maus, Klick zum Schießen; über die UI kannst du Level neu starten. In vielen Leveln steht dir nur eine begrenzte Anzahl Schüsse zur Verfügung.
 
@@ -42,4 +44,5 @@ In Zombie Gun liegt der Fokus auf Winkel‑Schüssen. Du lässt Kugeln an Wände
 - Q: I run out of ammo.
 <!-- i18n:faq:id=faq:zombie-gun:armored-ones-dont-die-09eee214 -->
 **Ich gehe ständig die Munition aus – was mache ich falsch?**  
+
 

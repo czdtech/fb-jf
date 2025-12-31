@@ -33,6 +33,8 @@ Das Gameplay dreht sich darum, die richtige Reihenfolge von Aktionen zu finden.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `mouse` `Click` `Click` `Click` `Click` `Drag`
 
 - **Maus:**
     - Klicke auf Objekte in der Szene, um sie zu bedienen.
@@ -50,4 +52,5 @@ Ja, die Reihe ist sehr familienfreundlich: Es gibt keine Gewalt, dafür viele ch
 
 **Wie viele Wheely‑Teile gibt es?**  
 Es existieren mehrere Episoden, die du oft direkt hintereinander spielen kannst – jede mit neuen Schauplätzen und Rätselideen.
+
 

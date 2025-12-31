@@ -32,6 +32,8 @@ Tranche des légumes avec des mouvements amples, construis des chaînes de combo
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Swipe` `click` `drag`
 
 -   Glisse/clique-glisse pour couper ; pause/réessayer via l'interface.
 
@@ -45,4 +47,5 @@ Tranche des légumes avec des mouvements amples, construis des chaînes de combo
 <!-- i18n:faq:id=faq:veggies-cut:how-to-score-high-602cd322 -->
 -   **Q : Comment scorer haut ?**
     **R :** Concentre-toi sur les longues multi-coupes et une cadence constante.
+
 

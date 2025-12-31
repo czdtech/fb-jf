@@ -33,6 +33,8 @@ Fusiona objetos en grupos de 3 o 5 para mejorar recursos, despejar la niebla y d
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `tap`
 
 - Arrastra para combinar objetos; toca los edificios para recoger producción y muévete entre islas usando el mapa.
 
@@ -46,5 +48,6 @@ Fusiona objetos en grupos de 3 o 5 para mejorar recursos, despejar la niebla y d
 <!-- i18n:faq:id=faq:tropical-merge:energy-too-slow-29048010 -->
 - **Q: ¿La energía se regenera muy despacio?**  
   **A:** Intenta coordinar tus sesiones de juego con los tiempos de regeneración y las recompensas de misiones y cofres.
+
 
 

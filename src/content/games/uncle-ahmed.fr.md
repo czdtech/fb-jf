@@ -33,6 +33,8 @@ Uncle Ahmed est un platformer 2D classique à défilement latéral qui évoquera
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Arrow Keys` `Press`
 
 *   **Se déplacer :** Utilise les **flèches gauche et droite** ou les boutons à l'écran pour déplacer Uncle Ahmed.
 *   **Sauter :** Appuie sur la **flèche haut** ou le bouton de saut dédié.
@@ -52,4 +54,5 @@ Uncle Ahmed est un platformer 2D classique à défilement latéral qui évoquera
 <!-- i18n:faq:id=faq:uncle-ahmed:q-how-do-i-beat-1856fd4a -->
 *   **Q : Comment battre le boss final ?**
     *   **R :** Les combats de boss nécessitent généralement d'apprendre leurs patterns d'attaque. Esquive leurs attaques et cherche un moment de vulnérabilité pour sauter sur leur tête ou les toucher avec un projectile.
+
 

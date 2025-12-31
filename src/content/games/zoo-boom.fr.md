@@ -33,6 +33,8 @@ Zoo Boom est un jeu de puzzle match-2 coloré et captivant qui t'emmène dans un
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `click` `tap`
 
 *   **Tapoter pour exploser :** Clique ou tape simplement sur un groupe de deux blocs d'animaux identiques adjacents ou plus pour les éliminer.
 
@@ -50,4 +52,5 @@ Zoo Boom est un jeu de puzzle match-2 coloré et captivant qui t'emmène dans un
 <!-- i18n:faq:id=faq:zoo-boom:q-what-happens-if-i-63c9772b -->
 *   **Q : Que se passe-t-il si je n'ai plus de coups ?**
     *   **R :** Si tu n'as plus de coups avant d'avoir complété les objectifs du niveau, tu échoues et peux perdre une vie. Tu peux ensuite choisir de réessayer.
+
 

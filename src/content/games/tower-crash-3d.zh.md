@@ -31,6 +31,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `mouse` `swipe` `Click` `left` `button` `tap`
 
 
 操作简单直观。
@@ -56,3 +58,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:faq:id=faq:tower-crash-3d:q-what-is-the-best-53b988a8 -->
     - **问：为什么我射中了方块却没碎？**
+

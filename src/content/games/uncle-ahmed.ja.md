@@ -30,6 +30,8 @@ Uncle Ahmedは、ストーリー駆動のアドベンチャーパズルゲーム
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Arrow Keys` `Press`
 
  - **マウス：** クリックして選択と相互作用
  - **キーボード：** メニューとアクション
@@ -54,3 +56,4 @@ Uncle Ahmedは、ストーリー駆動のアドベンチャーパズルゲーム
 
 <!-- i18n:faq:id=faq:uncle-ahmed:q-how-do-i-beat-1856fd4a -->
     - **Q: 敵はどう倒しますか？**
+

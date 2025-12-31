@@ -33,6 +33,8 @@ Unpark Me est un puzzle de blocs coulissants classique, aussi connu sous le nom 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `drop` `Click` `hold` `Drag` `space`
 
 Le jeu se joue avec un simple glisser-déposer.
 
@@ -52,4 +54,5 @@ Le jeu se joue avec un simple glisser-déposer.
 <!-- i18n:faq:id=faq:unpark-me:q-im-completely-stuck-what-792b4fbc -->
 *   **Q : Je suis complètement bloqué. Que faire ?**
     *   **R :** La plupart des versions incluent un bouton d'indice qui te montre le prochain coup correct. Si tu n'as plus d'indices, tu peux utiliser le bouton de réinitialisation pour recommencer le niveau avec une nouvelle perspective.
+
 

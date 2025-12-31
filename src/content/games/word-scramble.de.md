@@ -30,7 +30,7 @@ Word Scramble ist ein klassisches Wortpuzzle, bei dem dir ein durcheinandergerat
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `Enter`
+- Tasten (Abgleich)： `click` `drag` `Press` `Enter`
 
 - **Tippen:** Gib das gesuchte Wort über die Tastatur ein.
 - **Buchstaben anordnen:** In manchen Versionen kannst du Buchstaben per Klick und Drag neu anordnen oder per „Shuffle“-Button durchmischen.
@@ -47,3 +47,4 @@ Nutze Shuffle, um die Buchstaben neu zu sortieren, oder greife auf Hinweise bzw.
 
 **Gibt es verschiedene Varianten?**  
 Ja, z. B. mit längeren Wörtern, thematischen Kategorien (Tiere, Länder usw.) oder Mehrspielermodi, in denen ihr gegeneinander um die schnellste Lösung antretet.
+

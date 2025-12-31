@@ -32,6 +32,8 @@ Word Connect est un jeu de puzzle de mots populaire et relaxant qui défie les j
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Swipe` `Drag` `mouse` `drag` `Click` `Click`
 
 -   **Glisser/Faire glisser :** Utilise ton doigt (mobile) ou ta souris (PC) pour tracer les lettres et former des mots.
 -   **Clic :** Clique sur les boutons de mélange ou d'indice.
@@ -47,4 +49,5 @@ La plupart des versions de Word Connect n'ont pas de limite de temps, permettant
 
 **Qu'est-ce qui rend un mot valide ?**
 Les mots doivent avoir au moins trois lettres et être des mots anglais valides présents dans le dictionnaire du jeu.
+
 

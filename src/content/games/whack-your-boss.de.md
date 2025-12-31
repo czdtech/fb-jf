@@ -33,6 +33,8 @@ Das Gameplay ist simpel:
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `mouse` `click`
 
 - **Maus:** Bewege den Cursor über die Szene und klicke auf Gegenstände, um Animationen auszulösen.
 
@@ -47,4 +49,5 @@ Ja, es existieren mehrere Varianten wie „Whack Your Computer“ oder „Whack 
 
 **Ist das nicht zu gewalttätig?**  
 Die Darstellung ist stark überzeichnet und cartoonhaft. Das Spiel versteht sich als satirische Übertreibung und nicht als realistische Gewaltfantasie.
+
 

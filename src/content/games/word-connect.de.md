@@ -29,6 +29,8 @@ Word Connect ist ein gemütliches Wortpuzzle, bei dem du aus einem kleinen Buchs
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Swipe` `Drag` `mouse` `drag` `Click` `Click`
 
 - **Ziehen/Wischen:** Ziehe mit dem Finger oder der Maus über die Buchstaben im Kreis, um Wörter zu bilden.
 - **Klick:** Tippe auf die Buttons für Mischen oder Hinweise.
@@ -44,3 +46,4 @@ In den meisten Word‑Connect‑Varianten kannst du dir beliebig viel Zeit lasse
 
 **Welche Wörter sind gültig?**  
 In der Regel alle Wörter mit mindestens drei Buchstaben, die im Wörterbuch des Spiels existieren. Manche kurzen oder umgangssprachlichen Wörter werden dabei bewusst weggelassen.
+

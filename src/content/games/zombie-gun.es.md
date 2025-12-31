@@ -33,6 +33,8 @@ Zombie Gun se centra en la puntería con rebotes: dispara contra paredes para ca
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `click`
 
 - Apunta con el ratón y haz clic para disparar; reinicia la sala desde la interfaz. Algunas versiones limitan el número de balas disponible.
 
@@ -46,4 +48,5 @@ Zombie Gun se centra en la puntería con rebotes: dispara contra paredes para ca
 <!-- i18n:faq:id=faq:zombie-gun:armored-ones-dont-die-09eee214 -->
 - **Q: ¿Por qué los acorazados no mueren con disparos directos?**  
   **A:** Usa barriles y objetos pesados del entorno para causarles daño indirecto.
+
 

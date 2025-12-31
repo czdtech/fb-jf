@@ -30,6 +30,8 @@ Word Wipe ist ein dynamisches Wortpuzzle, das Wortsuche mit einem „fallende Bl
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `Click` `drag` `swipe`
 
 - **Maus/Touch:** Klicke und ziehe (oder wische) über zusammenhängende Buchstaben, um ein Wort zu markieren und einzureichen.
 
@@ -44,3 +46,4 @@ Schaffst du die geforderte Anzahl an Reihen nicht rechtzeitig, ist das Level ver
 
 **Tipps für hohe Punktzahlen?**  
 Suche nach längeren Wörtern, versuche ganze Reihen gezielt zu leeren und nutze Bomben, um große Bereiche auf einmal frei zu machen – so entstehen neue Wortchancen in Kettenreaktionen.
+

@@ -31,6 +31,8 @@ Tower Maniaは、ブロックを正確に積み上げて高いタワーを建設
 - **パワーアップ（ある場合）：** タワーを安定させたり、パーフェクト配置を助けたりする機能がある場合があります。高くなって不安定なときに使うと効果的です。
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Drop` `Click` `left` `button` `tap`
 
  - **マウス/タッチ：** タップまたはクリックでブロックを配置
 
@@ -52,3 +54,4 @@ Tower Maniaは、ブロックを正確に積み上げて高いタワーを建設
 
 <!-- i18n:faq:id=faq:tower-mania:q-what-happens-if-a-e9455c4a -->
     - **Q: Tower Maniaの目的は何ですか？**
+

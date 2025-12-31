@@ -33,6 +33,8 @@ Unpark Me ist ein Schiebeblock‑Puzzle im „Parking Jam“-Stil. Auf einem vol
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `Click` `hold` `Drag` `space`
 
 
 Das Spiel wird mit einfacher Drag-and-Drop-Steuerung gespielt.
@@ -57,4 +59,5 @@ Das Spiel wird mit einfacher Drag-and-Drop-Steuerung gespielt.
     *   **A:** Nutze gegebenenfalls die Hinweis‑Funktion, falls vorhanden, oder setze
         das Level zurück und probiere eine neue Strategie, statt den gleichen
         Fehlerpfad weiterzuspielen.
+
 

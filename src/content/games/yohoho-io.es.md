@@ -34,7 +34,7 @@ YoHoHo.io es un .io de batalla real rápido y caótico con temática pirata, en 
 <!-- i18n:section:controls -->
 ### Controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `WASD` `Arrow Keys` `Left Click` `Spacebar` `Left Click` `Spacebar` `Right Click`
+- Teclas (alineación)： `WASD` `Arrow Keys` `Drag` `mouse` `Mouse` `Left Click` `Spacebar` `Tap` `Hold` `Left Click` `Spacebar` `Right Click` `Mouse`
 
 - **Movimiento:** WASD o flechas del teclado; en ratón/táctil, arrastra para dirigir al pirata.
 - **Ataque:** clic izquierdo o barra espaciadora / toque en pantalla.
@@ -55,5 +55,6 @@ Si entras en el área roja fuera del círculo seguro, empezarás a recibir daño
 **¿Hay distintos personajes pirata?**
 
 Sí. A medida que juegas y consigues más oro, puedes desbloquear piratas con apariencias distintas y, en algunas versiones, con ligeras diferencias de estadísticas o habilidades iniciales.
+
 
 

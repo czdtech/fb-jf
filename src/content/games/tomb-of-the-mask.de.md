@@ -30,7 +30,7 @@ Tomb of the Mask ist ein rasantes Arcade‑Spiel, das Labyrinth‑Navigation mit
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `Arrow Keys` `WASD`
+- Tasten (Abgleich)： `Swipe` `Swipe` `Arrow Keys` `WASD`
 
 - **Wischen:** Auf dem Handy wischst du in die gewünschte Richtung. Am PC steuerst du je nach Version mit Pfeiltasten oder WASD.
 
@@ -45,3 +45,4 @@ In der Regel bedeutet eine Berührung mit Stacheln, Fallen oder Gegnern den sofo
 
 **Gibt es verschiedene Masken?**  
 Ja, mit gesammelten Münzen kannst du neue Masken freischalten. Viele davon bringen besondere Effekte oder kleine Boni und verändern deinen Spielstil leicht.
+

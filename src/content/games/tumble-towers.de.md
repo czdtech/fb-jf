@@ -32,6 +32,8 @@ Tumble Towers ist ein Stapel‑Puzzle, bei dem jeder fallende Block den Schwerpu
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drop`
 
 - Ziele den nächsten Block, drehe ihn ggf. (falls möglich) und lass ihn per UI‑Taste oder Klick fallen. Neustart erfolgt über die Bildschirm‑Buttons.
 
@@ -43,4 +45,5 @@ Tumble Towers ist ein Stapel‑Puzzle, bei dem jeder fallende Block den Schwerpu
 - Q: Tower keeps swaying apart.
 <!-- i18n:faq:id=faq:tumble-towers:can-i-salvage-a-lean-8fa4b483 -->
 **Mein Turm gerät ständig ins Schwingen und bricht auseinander – warum?**  
+
 

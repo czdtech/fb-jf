@@ -29,6 +29,8 @@ Zumba Oceanは、美しい海をテーマにしたマーブルシューターパ
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `Click` `left` `button` `click` `press` `spacebar`
 
  - **マウス：** 狙いと発射
 
@@ -54,3 +56,4 @@ Zumba Oceanは、美しい海をテーマにしたマーブルシューターパ
 
 <!-- i18n:faq:id=faq:zumba-ocean:q-how-do-i-get-73fd7840 -->
     - **Q: ゲームの目的は何ですか？**
+

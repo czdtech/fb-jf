@@ -32,6 +32,8 @@ Word Pics est un jeu de puzzle de mots où tu devines un seul mot ou une express
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `mouse`
 
 *   **Clavier :** Utilise le clavier pour taper les lettres du mot.
 *   **Souris/Tactile :** Utilise la souris ou l'écran tactile pour interagir avec les menus et les indices.
@@ -45,4 +47,5 @@ Word Pics est un jeu de puzzle de mots où tu devines un seul mot ou une express
 <!-- i18n:faq:id=faq:word-pics:q-are-there-different-difficul-0e96782f -->
 *   **Q : Y a-t-il différents niveaux de difficulté ?**
     *   **R :** Le jeu a différents modes, dont un mode expert pour un plus grand défi. Les puzzles deviennent aussi progressivement plus difficiles à mesure que tu avances.
+
 

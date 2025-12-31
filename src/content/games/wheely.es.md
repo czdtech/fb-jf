@@ -33,6 +33,8 @@ La mecánica principal consiste en observar la escena y descubrir la secuencia c
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `mouse` `Click` `Click` `Click` `Click` `Drag`
 
 - **Ratón / táctil:** todas las interacciones se hacen con clics o toques.
     - **Clic:** haz clic en objetos para activarlos.
@@ -54,4 +56,5 @@ Sí, la serie Wheely es conocida por ser familiar, con retos de lógica suaves, 
 **¿Cuántos juegos de Wheely hay?**
 
 La serie tiene muchas entregas, y cada una ofrece nuevas aventuras y puzles para disfrutar.
+
 

@@ -33,6 +33,8 @@ Tower Crash 3D es un adictivo puzle basado en físicas en el que tu misión es d
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `swipe` `Click` `left` `button` `tap`
 
 Los controles son muy sencillos:
 
@@ -53,5 +55,6 @@ Los controles son muy sencillos:
 <!-- i18n:faq:id=faq:tower-crash-3d:q-what-is-the-best-53b988a8 -->
 *   **Q: ¿Qué hago si la torre tiene muchos colores mezclados?**
     *   **A:** Espera a que el cañón cargue el color que necesitas. El color de la bola va rotando, así que ten paciencia y dispara solo cuando puedas atacar un punto débil importante.
+
 
 

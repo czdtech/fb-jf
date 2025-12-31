@@ -32,6 +32,8 @@ Unblock That ist ein forderndes Schiebepuzzle mit Holzblöcken unterschiedlicher
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `Click` `hold` `space`
 
 
 Das Spiel wird mit einfacher Drag-and-Drop-Steuerung gespielt.
@@ -55,4 +57,5 @@ Das Spiel wird mit einfacher Drag-and-Drop-Steuerung gespielt.
 *   **F: Wozu dienen die Zugzähler oder Sterne?**
     *   **A:** Viele Varianten bewerten dich nach der Anzahl der Züge. Je weniger
         du benötigst, desto besser fällt deine Bewertung aus.
+
 

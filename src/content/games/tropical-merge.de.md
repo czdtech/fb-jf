@@ -32,6 +32,8 @@ In Tropical Merge verschmilzt du gleiche Objekte auf einer tropischen Insel zu i
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `tap`
 
 - Ziehe Objekte per Drag‑and‑Drop zusammen, um sie zu mergen.
 - Tippe auf Gebäude und Produktionsobjekte, um Belohnungen einzusammeln.
@@ -45,4 +47,5 @@ In Tropical Merge verschmilzt du gleiche Objekte auf einer tropischen Insel zu i
 - Q: No space left.
 <!-- i18n:faq:id=faq:tropical-merge:energy-too-slow-29048010 -->
 **Mein Feld ist voll – was tun?**  
+
 

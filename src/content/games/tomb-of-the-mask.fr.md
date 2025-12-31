@@ -33,7 +33,7 @@ Tomb of the Mask est un jeu arcade hautement addictif et rapide qui combine navi
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `Arrow Keys` `WASD`
+- Touches (alignement)： `Swipe` `Swipe` `Arrow Keys` `WASD`
 
 -   **Balayer :** Balaie ton doigt sur l'ecran (mobile) ou utilise les Fleches / WASD (PC) pour controler le mouvement de ton personnage.
 
@@ -48,4 +48,5 @@ Toucher un obstacle resulte generalement en une mort instantanee, terminant ta c
 
 **Y a-t-il differents masques ?**
 Oui, en progressant et collectant des pieces, tu peux debloquer differents masques. Chaque masque peut offrir une capacite unique ou un bonus, ajoutant une couche strategique a tes courses.
+
 

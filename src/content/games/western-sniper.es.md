@@ -34,6 +34,8 @@ Western Sniper es un juego de disparos sencillo y directo ambientado en el lejan
 - **Objetivos opcionales:** inténtalos solo cuando el escenario esté bajo control.
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `click` `hold`
 
 - Apunta moviendo el ratón o el dedo sobre la pantalla y toca/clic para disparar.
 
@@ -50,4 +52,5 @@ Western Sniper es un juego de disparos sencillo y directo ambientado en el lejan
 - **Q: Me quedo sin munición.**
   
   **A:** No dispares a lo loco: apunta con calma y ahorra balas aprovechando explosivos y el entorno cuando puedas.
+
 

@@ -39,7 +39,7 @@ YoHoHo.io는 해적을 테마로 한 빠른 템포의 배틀로얄 .io 게임으
 <!-- i18n:section:controls -->
 ### 조작 방법 안내
 <!-- i18n:controls:keys -->
-- 키(정렬)： `WASD` `Arrow Keys` `Left Click` `Spacebar` `Left Click` `Spacebar` `Right Click`
+- 키(정렬)： `WASD` `Arrow Keys` `Drag` `mouse` `Mouse` `Left Click` `Spacebar` `Tap` `Hold` `Left Click` `Spacebar` `Right Click` `Mouse`
 
 - **이동**: 키보드의 WASD 또는 방향키로 이동하거나, 마우스/터치 드래그로 해적을 움직입니다.
 - **공격**: 마우스 왼쪽 클릭 혹은 스페이스바, 터치에서는 탭으로 칼을 휘두릅니다.
@@ -60,4 +60,5 @@ A. 붉게 표시된 영역 바깥에 있으면 지속적인 피해를 입게 되
 **Q. 해적 캐릭터는 종류가 여러 가지인가요?**  
 A. 네, 플레이를 통해 더 많은 금화를 모으면 외형이 다른 다양한 해적 캐릭터를 해금할 수 있습니다.
 일부 버전에서는 시작 능력치나 스킨 효과가 조금씩 다른 캐릭터도 제공될 수 있습니다.
+
 

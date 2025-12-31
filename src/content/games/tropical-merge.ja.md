@@ -31,6 +31,8 @@ Tropical Mergeは、トロピカルな島を舞台にしたマージパズルゲ
 - イベント前に備える：空きスペースや素材を確保しておくと進めやすいです。
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Drag` `tap`
 
  - **マウス：** アイテムをドラッグしてマージ
 
@@ -42,5 +44,6 @@ Tropical Mergeは、トロピカルな島を舞台にしたマージパズルゲ
 - Q: スペースが足りません。
 <!-- i18n:faq:id=faq:tropical-merge:energy-too-slow-29048010 -->
 **ゲームの目標は何ですか？**
+
 
 

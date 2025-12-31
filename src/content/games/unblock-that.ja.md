@@ -29,6 +29,8 @@ Unblock Thatは、クラシックなブロック解除パズルゲームです�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `drag` `drop` `Click` `hold` `space`
 
 
 操作はドラッグ＆ドロップ中心です。
@@ -52,3 +54,4 @@ Unblock Thatは、クラシックなブロック解除パズルゲームです�
 
 <!-- i18n:faq:id=faq:unblock-that:q-how-is-the-score-eb504d39 -->
     - **Q: ゲームの目的は何ですか？**
+

@@ -33,6 +33,8 @@ Chaque niveau presente une enigme ou un puzzle unique. La solution est rarement 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `mouse` `tap` `Drag` `Tap` `hold` `mouse` `drag`
 
 -   **Taper :** Utilise ton doigt (mobile) ou la souris (PC) pour taper sur les objets.
 -   **Glisser :** Tape et maintiens, puis deplace ton doigt/souris pour faire glisser les objets.
@@ -49,4 +51,5 @@ Generalement, il n'y a pas de limite de temps pour resoudre les puzzles, te perm
 
 **Comment obtenir des indices ?**
 Les indices sont generalement disponibles apres avoir regarde une pub ou en utilisant de la monnaie du jeu. Ils fournissent des pistes pour t'aider a resoudre le puzzle sans donner la reponse complete immediatement.
+
 

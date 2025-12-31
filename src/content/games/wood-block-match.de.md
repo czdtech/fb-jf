@@ -33,6 +33,8 @@ Wood Block Match ist ein 10×10‑Block‑Legespiel mit warmem Holzstil. In jede
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag`
 
 - Ziehe die angebotenen Holzteile per Drag‑and‑Drop auf das 10×10‑Raster. In manchen Varianten lassen sich Teile auch drehen; vollständige Reihen und Spalten verschwinden automatisch und geben Punkte.
 
@@ -48,5 +50,6 @@ Wood Block Match ist ein 10×10‑Block‑Legespiel mit warmem Holzstil. In jede
 <!-- i18n:faq:id=faq:wood-block-match:any-tip-for-high-scores-87d58841 -->
 - Q: Can I rotate pieces?
 Du solltest die Mitte schützen, dir eine feste Tasche für schwierige Teile lassen und lieber Doppel‑Clears planen, statt wahllos Einzelreihen zu räumen.
+
 
 

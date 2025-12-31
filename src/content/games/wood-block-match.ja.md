@@ -31,6 +31,8 @@ Wood Block Matchは、木製ブロックを配置して列や行をクリアす�
 - 取り消しの使い所：機能がある場合、袋小路を作る配置をしてしまったら早めに戻します。
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Drag`
 
  - **マウス：** ブロックをドラッグして配置
 
@@ -47,5 +49,6 @@ Wood Block Matchは、木製ブロックを配置して列や行をクリアす�
 <!-- i18n:faq:id=faq:wood-block-match:any-tip-for-high-scores-87d58841 -->
 - Q: ピースは回転できますか？
 ブロックを配置して列や行をクリアし、高得点を獲得することです。
+
 
 

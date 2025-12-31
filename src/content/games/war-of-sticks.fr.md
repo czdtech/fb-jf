@@ -34,6 +34,8 @@ War of Sticks est un jeu de stratégie en temps réel où tu diriges une armée 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse`
 
 -   **Souris :** Utilisée principalement pour toutes les interactions : cliquer sur les boutons pour entraîner des unités, sélectionner des unités et diriger ton armée sur le champ de bataille.
 
@@ -48,4 +50,5 @@ Entraîne plus de mineurs pour collecter de l'or. Tu peux aussi convertir la pie
 
 **Quelles sont les meilleures unités à utiliser ?**
 Une armée diversifiée est généralement la plus efficace. Les boucliers offrent une ligne de front solide, les archers un soutien à distance, et les barbares sont bons au corps à corps. Les sorciers peuvent fournir un précieux contrôle de foule.
+
 

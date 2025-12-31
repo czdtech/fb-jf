@@ -33,6 +33,8 @@ Zumba Ocean est un jeu de tir de billes coloré et addictif, dans la lignée des
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `left` `button` `click` `press` `spacebar`
 
 *   **Viser :** Déplace la souris pour orienter le lanceur.
 *   **Tirer :** Clique sur le bouton gauche de la souris pour lancer la perle.
@@ -52,4 +54,5 @@ Zumba Ocean est un jeu de tir de billes coloré et addictif, dans la lignée des
 <!-- i18n:faq:id=faq:zumba-ocean:q-how-do-i-get-73fd7840 -->
 *   **Q : Comment obtenir un meilleur score ?**
     *   **R :** En enchaînant les combos et en terminant le niveau rapidement. Plus tu crées de réactions en chaîne et plus tu finis vite, plus ton score grimpe.
+
 

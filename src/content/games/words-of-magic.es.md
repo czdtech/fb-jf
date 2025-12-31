@@ -33,6 +33,8 @@ Words of Magic es un juego de palabras relajante y con un toque encantado, pensa
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `drag` `mouse` `swipe` `mouse`
 
 *   **Formar una palabra:** haz clic y arrastra el ratón (o desliza el dedo) sobre las letras del círculo en el orden correcto para escribir la palabra. Suelta al final para enviarla.
 
@@ -50,5 +52,6 @@ Words of Magic es un juego de palabras relajante y con un toque encantado, pensa
 <!-- i18n:faq:id=faq:words-of-magic:q-how-do-i-get-e7bf4c44 -->
 *   **Q: ¿Cómo consigo más pistas?**
     *   **A:** Normalmente se obtienen al completar niveles, descubriendo palabras extra o mediante recompensas diarias.
+
 
 

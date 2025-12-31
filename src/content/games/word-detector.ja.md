@@ -29,6 +29,8 @@ Word Detectorは、グリッド内の隠された単語を見つける単語検�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `click` `drag` `Click` `hold` `mouse` `drag` `mouse`
 
 
 操作はクリックしてドラッグするだけです。
@@ -52,3 +54,4 @@ Word Detectorは、グリッド内の隠された単語を見つける単語検�
 
 <!-- i18n:faq:id=faq:word-detector:q-what-happens-if-time-dc1723e2 -->
     - **Q: 最短何文字から有効ですか？**
+

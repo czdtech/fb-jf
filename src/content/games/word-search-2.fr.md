@@ -32,6 +32,8 @@ Word Search est un jeu de puzzle de mots classique et adoré. L'objectif est de 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `click` `drag` `click` `hold` `mouse` `drag`
 
 Le jeu se joue avec un simple cliquer-glisser.
 
@@ -51,4 +53,5 @@ Le jeu se joue avec un simple cliquer-glisser.
 <!-- i18n:faq:id=faq:word-search-2:q-is-there-a-penalty-bbf14d60 -->
 *   **Q : Y a-t-il une pénalité pour une mauvaise réponse ?**
     *   **R :** Non. Si tu surligne une sélection de lettres qui n'est pas un mot de la liste, elle se dé-surlignera simplement, et tu peux réessayer sans pénalité.
+
 

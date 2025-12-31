@@ -31,6 +31,8 @@ Timber Guy es un juego de un solo botón centrado en la sincronización. Tienes 
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap`
 
 - Cortar / cambiar de lado: toca a la izquierda o derecha (o pulsa las teclas indicadas) para cortar desde ese lado del tronco.
 - Pausa / reinicio: disponibles desde la interfaz.
@@ -49,4 +51,5 @@ Timber Guy es un juego de un solo botón centrado en la sincronización. Tienes 
 <!-- i18n:faq:id=faq:timber-guy:any-powerups-49499345 -->
 - **¿Hay potenciadores?**  
   Algunas versiones incluyen mejoras temporales, pero en general la consistencia y la concentración son lo más importante.
+
 

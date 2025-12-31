@@ -31,6 +31,8 @@ Tripeaks Solitaire 是一款流行且快节奏的纸牌变体，结合了高尔�
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `mouse` `Click` `Click`
 
 游戏完全使用鼠标或触摸操作。
 
@@ -51,4 +53,5 @@ Tripeaks Solitaire 是一款流行且快节奏的纸牌变体，结合了高尔�
 <!-- i18n:faq:id=faq:tripeaks-solitaire:q-what-happens-if-i-e189d065 -->
 *   **问：如果牌库用完了但牌面上还有牌怎么办？**
     *   **答：** 如果你的牌库空了并且无法从牌面上进行合法移动，游戏结束，你输掉了这一局。
+
 

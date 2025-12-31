@@ -32,6 +32,8 @@ Cada nivel plantea una situación o pregunta diferente, y tu meta es dar con la 
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `Click` `mouse` `tap` `click` `Drag` `Tap` `hold` `drag`
 
 - **Tocar / hacer clic:** usa el dedo o el ratón para seleccionar elementos en pantalla.
 - **Arrastrar:** mantén pulsado y arrastra para mover objetos o revelar zonas ocultas.
@@ -51,5 +53,6 @@ Sí. Si te atascas en un nivel, normalmente podrás acceder a pistas que te orie
 **¿Es apto para todas las edades?**
 
 En general sí: el tono es desenfadado y la dificultad está pensada para cualquier persona a la que le gusten los puzles.
+
 
 

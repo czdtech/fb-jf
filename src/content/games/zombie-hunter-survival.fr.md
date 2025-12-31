@@ -32,6 +32,8 @@ Zombie Hunter: Survival est un shooter de survie. Déplace-toi dans des arènes 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD` `mouse`
 
 -   Déplace-toi avec WASD/Flèches ; vise avec la souris ou les touches ; tire/recharge selon l'interface.
 -   Change d'arme si disponible.
@@ -45,4 +47,5 @@ Zombie Hunter: Survival est un shooter de survie. Déplace-toi dans des arènes 
 -   **Les munitions sont rares — conseils ?** Vise les groupes, utilise des tirs uniques, et ramasse seulement quand c'est sûr.
 <!-- i18n:faq:id=faq:zombie-hunter-survival:bosses-5a57d05f -->
 -   **Des boss ?** Certaines vagues ajoutent des élites — kite plus large et élimine d'abord les sbires.
+
 

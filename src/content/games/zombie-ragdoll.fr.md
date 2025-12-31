@@ -33,6 +33,8 @@ Zombie Ragdoll est un puzzle shooter où tu lances des ragdolls pour déclencher
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag`
 
 -   Glisse pour définir l'angle et la puissance, puis relâche pour lancer ; redémarre via l'interface.
 
@@ -46,4 +48,5 @@ Zombie Ragdoll est un puzzle shooter où tu lances des ragdolls pour déclencher
 <!-- i18n:faq:id=faq:zombie-ragdoll:shots-feel-random-2886f531 -->
 -   **Q : Mes tirs semblent aléatoires.**
     **R :** Fais un tir de repérage, puis affine avec de petits ajustements d'angle et de puissance.
+
 

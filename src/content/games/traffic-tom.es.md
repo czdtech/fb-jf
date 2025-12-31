@@ -33,6 +33,8 @@ Traffic Tom es un juego de motos en tercera persona y ritmo frenético que te si
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Press` `Press`
 
 *   **Girar a la izquierda:** pulsa la tecla A o la Flecha izquierda.
 *   **Girar a la derecha:** pulsa la tecla D o la Flecha derecha.
@@ -51,5 +53,6 @@ Traffic Tom es un juego de motos en tercera persona y ritmo frenético que te si
 <!-- i18n:faq:id=faq:traffic-tom:q-is-there-a-way-2e68a91b -->
 *   **Q: ¿Hay forma de ir más rápido?**
     *   **A:** Además de subir la velocidad máxima de la moto, algunos niveles incluyen zonas de aceleración en la calzada que te dan un impulso temporal al pasar por encima.
+
 
 

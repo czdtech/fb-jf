@@ -33,6 +33,8 @@ Chaque niveau présente une situation ou question unique, et ton objectif est de
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `Click` `mouse` `tap` `click` `Drag` `Tap` `hold` `drag`
 
 -   **Tap/Clic :** Utilise ton doigt (mobile) ou ta souris (PC) pour taper ou cliquer sur les éléments à l'écran.
 -   **Glisser :** Tape et maintiens, puis glisse pour déplacer des objets ou révéler des zones cachées.
@@ -49,4 +51,5 @@ Oui, si tu bloques sur un niveau, des indices sont généralement disponibles. I
 
 **Le jeu est-il adapté à tous les âges ?**
 Bien que les puzzles puissent être stimulants, le contenu est généralement familial, le rendant adapté à un large éventail de joueurs qui apprécient les casse-tête.
+
 

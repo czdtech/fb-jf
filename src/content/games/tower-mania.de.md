@@ -32,6 +32,8 @@ Tower Mania ist ein fesselndes und süchtig machendes Arcade-Spiel, das deine Pr
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drop` `Click` `left` `button` `tap`
 
 *   **Block fallen lassen:** Klicke die linke Maustaste oder tippe auf den Bildschirm, um den schwingenden Block loszulassen.
 
@@ -49,4 +51,5 @@ Tower Mania ist ein fesselndes und süchtig machendes Arcade-Spiel, das deine Pr
 <!-- i18n:faq:id=faq:tower-mania:q-what-happens-if-a-e9455c4a -->
 *   **F: Was passiert, wenn ein Block nicht perfekt ausgerichtet ist?**
     *   **A:** Wenn ein Block nicht perfekt ausgerichtet ist, wird jeder Teil davon, der über den Block darunter hinausragt, abgeschnitten. Das macht den nächsten Block, den du fallen lässt, kleiner und erhöht die Schwierigkeit.
+
 

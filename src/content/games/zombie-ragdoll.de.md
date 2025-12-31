@@ -33,6 +33,8 @@ Zombie Ragdoll ist ein physikbasiertes Puzzle, in dem du „Ragdoll“-Zombies a
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag`
 
 - Ziehe mit der Maus oder dem Finger, um Abschusswinkel und Schusskraft festzulegen, und lasse los, um den Zombie zu starten. Über die UI kannst du das Level jederzeit neu versuchen.
 
@@ -44,4 +46,5 @@ Zombie Ragdoll ist ein physikbasiertes Puzzle, in dem du „Ragdoll“-Zombies a
 - Q: I barely move structures.
 <!-- i18n:faq:id=faq:zombie-ragdoll:shots-feel-random-2886f531 -->
 **Ich bringe die Konstruktionen kaum ins Wanken – woran liegt das?**  
+
 

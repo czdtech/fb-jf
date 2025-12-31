@@ -32,6 +32,8 @@ Western Sniper propose des missions courtes avec des bandits, des explosifs et d
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `click` `hold`
 
 -   Vise avec la souris ; tire avec un clic ; lunette/retiens ta respiration si supporté ; recharge via l'interface.
 
@@ -45,4 +47,5 @@ Western Sniper propose des missions courtes avec des bandits, des explosifs et d
 <!-- i18n:faq:id=faq:western-sniper:ammo-runs-out-7881997a -->
 -   **Q : Je tombe à court de munitions.**
     **R :** Fais des tirs mesurés ; économise les balles en utilisant les kills environnementaux.
+
 

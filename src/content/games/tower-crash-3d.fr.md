@@ -33,6 +33,8 @@ Tower Crash 3D est un jeu de puzzle physique satisfaisant et addictif ou ton obj
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `swipe` `Click` `left` `button` `tap`
 
 Les controles sont simples et intuitifs.
 
@@ -53,4 +55,5 @@ Les controles sont simples et intuitifs.
 <!-- i18n:faq:id=faq:tower-crash-3d:q-what-is-the-best-53b988a8 -->
 *   **Q : Quelle est la meilleure strategie si la tour est multicolore ?**
     *   **R :** Attends que ton canon charge la couleur dont tu as besoin. La couleur de la balle change, alors sois patient et attends la bonne couleur pour cibler le point faible de la tour.
+
 

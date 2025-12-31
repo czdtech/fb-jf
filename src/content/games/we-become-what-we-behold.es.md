@@ -32,6 +32,8 @@ La mecánica central consiste en observar la pantalla y usar la cámara para fot
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `mouse` `click`
 
 - Haz clic con el ratón para encuadrar y sacar fotos cuando aparezcan situaciones interesantes. No hay más controles: la experiencia se basa en observar y decidir qué mostrar.
 
@@ -49,5 +51,6 @@ Hay variaciones según tus decisiones, pero el mensaje principal gira siempre en
 **¿Es adecuado para todas las edades?**
 
 Aunque el estilo visual es sencillo, los temas que trata (odio, miedo, polarización) están pensados para un público que pueda reflexionar sobre el papel de los medios.
+
 
 

@@ -32,6 +32,8 @@ Le gameplay est simple :
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `mouse` `click`
 
 -   **Souris :** Utilise ta souris pour survoler et cliquer sur les objets interactifs de la scène.
 
@@ -46,4 +48,5 @@ Oui, il existe plusieurs versions de « Whack Your Boss » et jeux similaires, c
 
 **Le jeu est-il violent ?**
 Bien que le thème implique de « casser » un patron, les animations sont très stylisées, cartoonesques et souvent absurdes, les rendant plus humoristiques que véritablement violentes.
+
 

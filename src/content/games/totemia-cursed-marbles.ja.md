@@ -29,6 +29,8 @@ Totemia Cursed Marblesは、古代トーテムをテーマにしたマーブル�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `Click` `left` `button` `click` `press` `spacebar`
 
  - **マウス：** 狙いと発射
 
@@ -54,3 +56,4 @@ Totemia Cursed Marblesは、古代トーテムをテーマにしたマーブル�
 
 <!-- i18n:faq:id=faq:totemia-cursed-marbles:q-how-do-i-get-da481c1b -->
     - **Q: ゲームの目的は何ですか？**
+

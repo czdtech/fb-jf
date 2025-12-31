@@ -33,6 +33,8 @@ Totemia: Cursed Marbles est un jeu action-puzzle palpitant dans le style des tir
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `left` `button` `click` `press` `spacebar`
 
 *   **Viser :** Déplace ta souris pour viser le tireur en pierre tiki.
 *   **Tirer :** Clique sur le bouton gauche de la souris pour tirer la bille.
@@ -52,4 +54,5 @@ Totemia: Cursed Marbles est un jeu action-puzzle palpitant dans le style des tir
 <!-- i18n:faq:id=faq:totemia-cursed-marbles:q-how-do-i-get-da481c1b -->
 *   **Q : Comment obtenir le meilleur score ?**
     *   **R :** En créant de longues réactions en chaîne et des combos. Plus tu fais exploser de billes rapidement, plus ton multiplicateur de score sera élevé. Terminer le niveau rapidement donne souvent un bonus de temps.
+
 

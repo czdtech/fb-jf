@@ -33,6 +33,8 @@ Zoo Boom ist ein farbenfrohes Match-2-Spiel, das dich durch einen Zoo voller bun
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `click` `tap`
 
 *   **Tippen zum Sprengen:** Klicke oder tippe auf eine Gruppe aus mindestens zwei benachbarten, identischen Tierblöcken, um sie zu entfernen.
 
@@ -50,4 +52,5 @@ Zoo Boom ist ein farbenfrohes Match-2-Spiel, das dich durch einen Zoo voller bun
 <!-- i18n:faq:id=faq:zoo-boom:q-what-happens-if-i-63c9772b -->
 *   **F: Was passiert, wenn mir die Züge ausgehen?**
     *   **A:** Wenn dir die Züge ausgehen, bevor du die Levelziele erfüllt hast, wirst du das Level nicht bestehen und möglicherweise ein Leben verlieren. Du kannst dann wählen, das Level erneut zu versuchen.
+
 

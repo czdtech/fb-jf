@@ -29,6 +29,8 @@ Der Kern des Gameplays besteht darin, die Szene zu beobachten und gezielt Fotos 
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `mouse` `click`
 
 - **Maus:** Ziele mit dem Mauszeiger wie mit einer Kamera und klicke, um ein Foto aufzunehmen.
 
@@ -43,3 +45,4 @@ Sehr kurz – meist 5–10 Minuten – dafür aber konzentriert auf eine klare B
 
 **Gibt es eine „richtige“ Art zu spielen?**  
 Nicht im klassischen Sinne. Das Spiel zielt eher darauf ab, dich über deinen Medienkonsum und dessen Wirkung nachdenken zu lassen, als dir einen Highscore oder ein „perfektes“ Ende vorzusetzen.
+

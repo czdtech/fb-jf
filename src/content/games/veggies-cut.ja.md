@@ -31,6 +31,8 @@ Veggies Cutは、シンプルで楽しい野菜切りゲームです。タイミ
 - ミス後は立て直す：外した後はいったんリズムを戻してから続けます。
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Swipe` `click` `drag`
 
  - **マウス/タッチ：** スワイプして野菜を切る
 
@@ -42,5 +44,6 @@ Veggies Cutは、シンプルで楽しい野菜切りゲームです。タイミ
 - Q: 危険物に当たってしまいます。
 <!-- i18n:faq:id=faq:veggies-cut:how-to-score-high-602cd322 -->
 **ゲームの目標は何ですか？**
+
 
 

@@ -29,6 +29,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `drag` `drop` `Click` `hold` `space`
 
 游戏使用简单的拖放操控方式。
 
@@ -50,4 +52,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:unblock-that:q-how-is-the-score-eb504d39 -->
 *   **问：分数是如何确定的？**
     *   **答：** 你的表现通常根据解决谜题所用的移动步数来评定。使用的步数越少，你的分数或星级评价就越高。
+
 

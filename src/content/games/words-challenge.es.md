@@ -32,6 +32,8 @@ Words Challenge mezcla resolución de anagramas, pequeños crucigramas y pregunt
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `click`
 
 - Arrastra letras para anagramas, escribe en los crucigramas y haz clic en opciones cuando se trate de preguntas tipo test.
 
@@ -45,5 +47,6 @@ Words Challenge mezcla resolución de anagramas, pequeños crucigramas y pregunt
 <!-- i18n:faq:id=faq:words-challenge:are-proper-nouns-allowed-c43148f9 -->
 - **Q: ¿Acepta nombres propios?**  
   **A:** Normalmente no; consulta las reglas de diccionario del modo que estés jugando.
+
 
 

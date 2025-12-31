@@ -33,6 +33,8 @@ Traffic Tom est un jeu de course moto rapide a la troisieme personne qui te plac
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Press` `Press`
 
 *   **Tourner a gauche :** Appuie sur la touche **A** ou la **Fleche Gauche**.
 *   **Tourner a droite :** Appuie sur la touche **D** ou la **Fleche Droite**.
@@ -51,4 +53,5 @@ Traffic Tom est un jeu de course moto rapide a la troisieme personne qui te plac
 <!-- i18n:faq:id=faq:traffic-tom:q-is-there-a-way-2e68a91b -->
 *   **Q : Y a-t-il un moyen d'aller plus vite ?**
     *   **R :** En plus d'ameliorer la vitesse maximale de ta moto, certains niveaux peuvent avoir des zones de boost sur la route qui te donnent une acceleration temporaire quand tu roules dessus.
+
 

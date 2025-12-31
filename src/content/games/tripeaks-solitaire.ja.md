@@ -33,6 +33,8 @@ TriPeaks Solitaireは、3つのピラミッド型に配置されたカードを�
 - **山札から引く：** 場（タブロー）から出せるカードがなくなったら、山札をクリックして捨て札に新しいベースカードを出します。
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `Click` `Click`
 
 
 操作はマウス（またはタップ）だけで進められます。
@@ -58,3 +60,4 @@ TriPeaks Solitaireは、3つのピラミッド型に配置されたカードを�
 
 <!-- i18n:faq:id=faq:tripeaks-solitaire:q-what-happens-if-i-e189d065 -->
     - **Q: ゲームの目的は何ですか？**
+

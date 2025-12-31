@@ -33,6 +33,8 @@ Jedes Level präsentiert eine einzigartige Situation oder Frage, und dein Ziel i
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `Click` `mouse` `tap` `click` `Drag` `Tap` `hold` `drag`
 
 - **Tippen/Klicken:** Nutze Finger oder Maus, um auf Elemente im Bild zu tippen.
 - **Ziehen:** Halte und ziehe, um Objekte zu verschieben oder verborgene Hinweise sichtbar zu machen.
@@ -49,4 +51,5 @@ Ja, wenn du festhängst, kannst du meist Hinweise nutzen. Diese geben dir kleine
 
 **Ist das Spiel für alle Altersgruppen geeignet?**  
 Der Inhalt ist in der Regel familienfreundlich, die Aufgaben können aber durchaus anspruchsvoll sein – ideal für alle, die gerne Denkspiele mögen.
+
 

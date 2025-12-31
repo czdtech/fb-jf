@@ -29,6 +29,8 @@ Words of Magicは、単語パズルとRPG要素を組み合わせたユニーク
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Click` `drag` `mouse` `swipe` `mouse`
 
  - **マウス/キーボード：** 文字を選択して単語を作成
 
@@ -50,3 +52,4 @@ Words of Magicは、単語パズルとRPG要素を組み合わせたユニーク
 
 <!-- i18n:faq:id=faq:words-of-magic:q-how-do-i-get-e7bf4c44 -->
     - **Q: ゲームの目的は何ですか？**
+

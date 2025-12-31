@@ -31,7 +31,7 @@ Tomb of the Maskは、古代の墓の迷路を探索する速いペースのア�
 <!-- i18n:section:controls -->
 ### 操作ガイド
 <!-- i18n:controls:keys -->
-- キー（整合）： `Arrow Keys` `WASD`
+- キー（整合）： `Swipe` `Swipe` `Arrow Keys` `WASD`
 
  - **矢印キー/WASD：** 移動方向
  - **スワイプ：** モバイルでの移動
@@ -50,4 +50,5 @@ Tomb of the Maskは、古代の墓の迷路を探索する速いペースのア�
 **難易度は高いですか？**
 
 徐々に難しくなり、速い反応と戦略が必要になります。
+
 

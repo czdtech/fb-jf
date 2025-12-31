@@ -44,6 +44,8 @@ Totemia: Cursed Marbles는 Zuma, Luxor 같은 고전 구슬 슈터의 계보를 
 
 <!-- i18n:section:controls -->
 ### 조작 방법 안내
+<!-- i18n:controls:keys -->
+- 키(정렬)： `mouse` `Click` `left` `button` `click` `press` `spacebar`
 
 *   **조준**: 마우스를 움직여 티키 석상의 조준 방향을 정합니다.
 *   **발사**: 마우스 왼쪽 버튼을 클릭해 구슬을 발사합니다.
@@ -67,4 +69,5 @@ Totemia: Cursed Marbles는 Zuma, Luxor 같은 고전 구슬 슈터의 계보를 
     *   **A:** 연속해서 구슬을 터뜨려 콤보를 만들고, 짧은 시간 안에 많은 구슬을 제거할수록 점수
         배수가 올라갑니다. 스테이지를 빠르게 클리어하면 추가 시간 보너스를 받는 경우도 있으니,
         무리하지 않는 선에서 속도도 함께 챙겨 보세요.
+
 

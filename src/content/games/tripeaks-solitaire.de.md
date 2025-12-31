@@ -34,6 +34,8 @@ Tripeaks Solitaire ist eine schnelle Patience‑Variante, die Elemente aus Golf 
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `Click`
 
 Das Spiel wird komplett mit Maus oder Touch gesteuert.
 
@@ -57,4 +59,5 @@ Das Spiel wird komplett mit Maus oder Touch gesteuert.
 *   **F: Was passiert, wenn der Nachziehstapel leer ist und noch Karten liegen?**
     *   **A:** Sind keine Spielzüge mehr möglich und der Stapel ist leer, ist die
         Runde verloren und du musst neu beginnen.
+
 

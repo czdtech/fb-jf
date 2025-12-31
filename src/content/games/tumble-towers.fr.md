@@ -33,6 +33,8 @@ Tumble Towers est un jeu d'empilement où chaque bloc déposé modifie le centre
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drop`
 
 -   Vise et dépose ; tourne si autorisé ; redémarre via l'interface.
 
@@ -46,4 +48,5 @@ Tumble Towers est un jeu d'empilement où chaque bloc déposé modifie le centre
 <!-- i18n:faq:id=faq:tumble-towers:can-i-salvage-a-lean-8fa4b483 -->
 -   **Q : Puis-je rattraper une inclinaison ?**
     **R :** Contre-poids du côté haut et réduis les débordements.
+
 

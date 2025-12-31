@@ -32,6 +32,8 @@ Truck Trials ist ein Offroad‑Fahrspiel, bei dem du mit verschiedenen Trucks an
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow Keys` `arrow keys`
 
 - **Beschleunigen/Bremsen:** Pfeil nach oben / Pfeil nach unten oder Pedal‑Buttons auf dem Bildschirm.
 - **Lenken/Neigen:** Seitliche Pfeile, Tasten oder Kippsteuerung je nach Version.
@@ -48,4 +50,5 @@ Truck Trials ist ein Offroad‑Fahrspiel, bei dem du mit verschiedenen Trucks an
 *   **F: Wofür ist die Differentialsperre gut?**
     *   **A:** Sie sorgt für bessere Traktion auf schwierigem Terrain und hilft
         dir, durch Schlamm oder rutschige Passagen zu kommen.
+
 

@@ -33,6 +33,8 @@ TNT Bomb es un puzle estratégico basado en físicas en el que tu objetivo es la
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `Click` `click`
 
 *   **Elegir bomba:** haz clic en el tipo de explosivo que quieras usar desde tu inventario.
 *   **Colocar bomba:** haz clic en el bloque de la estructura donde quieras colocarla.
@@ -52,4 +54,5 @@ TNT Bomb es un puzle estratégico basado en físicas en el que tu objetivo es la
 <!-- i18n:faq:id=faq:tnt-bomb:q-can-i-place-more-9ba6a330 -->
 *   **Q: ¿Puedo colocar más de una bomba?**
     *   **A:** Sí. Debes colocar todas las bombas disponibles para ese nivel antes de poder detonarlas y ver el efecto combinado.
+
 

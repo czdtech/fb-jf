@@ -31,6 +31,8 @@ Zombie Ragdollは、物理エンジンを使った面白いゾンビゲームで
 - 少ない弾で倒す：弾数を抑えるとボーナスになる場合があります。撃つ前に狙いを決めます。
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Drag`
 
  - **マウス：** 狙いと射撃
 
@@ -42,5 +44,6 @@ Zombie Ragdollは、物理エンジンを使った面白いゾンビゲームで
 - Q: ほとんど壊れません。
 <!-- i18n:faq:id=faq:zombie-ragdoll:shots-feel-random-2886f531 -->
 **ゲームの目標は何ですか？**
+
 
 

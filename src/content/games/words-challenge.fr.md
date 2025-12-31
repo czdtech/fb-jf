@@ -32,6 +32,8 @@ Words Challenge mêle résolution d'anagrammes, mini mots croisés et questions 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `click`
 
 -   Glisse les lettres pour les anagrammes ; tape pour les mots croisés ; clique sur les options pour les questions.
 
@@ -45,4 +47,5 @@ Words Challenge mêle résolution d'anagrammes, mini mots croisés et questions 
 <!-- i18n:faq:id=faq:words-challenge:are-proper-nouns-allowed-c43148f9 -->
 -   **Q : Les noms propres sont-ils autorisés ?**
     **R :** En général non ; consulte les règles du dictionnaire.
+
 

@@ -34,6 +34,8 @@ Cada nivel presenta un acertijo o un puzle único. La solución casi nunca es di
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `mouse` `tap` `Drag` `Tap` `hold` `mouse` `drag`
 
 - **Toque:** en móvil, usa el dedo; en PC, el ratón para pulsar sobre objetos.
 - **Arrastrar:** mantén pulsado y mueve el dedo o el ratón para desplazar elementos.
@@ -53,5 +55,6 @@ Por lo general no. Puedes tomarte tu tiempo para probar ideas y experimentar sin
 **¿Cómo consigo pistas?**
 
 Normalmente se desbloquean viendo anuncios o gastando moneda interna. Dan pistas graduales para orientarte sin arruinar por completo la solución.
+
 
 

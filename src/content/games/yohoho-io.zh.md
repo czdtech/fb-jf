@@ -48,7 +48,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### 操作说明
 <!-- i18n:controls:keys -->
-- 按键（对齐）： `WASD` `Arrow Keys` `Left Click` `Spacebar` `Left Click` `Spacebar` `Right Click`
+- 按键（对齐）： `WASD` `Arrow Keys` `Drag` `mouse` `Mouse` `Left Click` `Spacebar` `Tap` `Hold` `Left Click` `Spacebar` `Right Click` `Mouse`
 
 - **移动：** 使用 WASD 或方向键控制角色移动，
   或在移动端通过拖动摇杆/手指来移动。
@@ -73,3 +73,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 **答：** 有。随着你在对局中表现出色、积累金币，
 可以解锁外观各异的海盗角色，有些版本中不同角色还会带有微小属性差异或特性，
 让你在战场上既好看又好用。
+

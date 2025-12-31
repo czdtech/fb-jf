@@ -44,6 +44,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `drag` `mouse` `swipe` `mouse`
 
 *   **拼字：** 用鼠标或手指在字母圈中按顺序滑动，
     连过组成单词的字母，松手即可提交。
@@ -62,4 +64,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:words-of-magic:q-how-do-i-get-e7bf4c44 -->
 *   **问：怎么获得更多提示？**
     *   **答：** 通常可以通过通关、发现额外单词，或领取每日登录奖励来获得更多提示次数。
+
 

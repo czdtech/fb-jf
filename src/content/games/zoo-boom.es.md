@@ -34,6 +34,8 @@ Zoo Boom es un vibrante y adictivo puzle match‑2 que te lleva de aventura por 
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `click` `tap`
 
 *   **Toca para hacer explotar:** haz clic o toca sobre grupos de dos o más bloques de animales idénticos para eliminarlos.
 
@@ -51,5 +53,6 @@ Zoo Boom es un vibrante y adictivo puzle match‑2 que te lleva de aventura por 
 <!-- i18n:faq:id=faq:zoo-boom:q-what-happens-if-i-63c9772b -->
 *   **Q: ¿Qué pasa si me quedo sin movimientos?**
     *   **A:** Si agotas todos los movimientos sin cumplir los objetivos, fallarás el nivel y consumirás una vida; luego podrás reintentarlo.
+
 
 

@@ -34,6 +34,8 @@ La jugabilidad es muy sencilla:
 - **Reiniciar:** tras cada animación suele aparecer una opción de “limpieza” para reiniciar la escena y probar otro objeto.
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `mouse` `click`
 
 - Usa el ratón o el dedo para apuntar y hacer clic en los distintos elementos del despacho.
 
@@ -51,4 +53,5 @@ Sí. Existen varias versiones de Whack Your Boss y otros títulos similares, con
 **¿El juego es violento?**
 
 El tema gira en torno a “darle su merecido” al jefe, pero todo está presentado de forma exagerada, caricaturesca y absurda, más como humor negro que como violencia realista.
+
 

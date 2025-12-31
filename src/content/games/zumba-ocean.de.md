@@ -32,6 +32,8 @@ Zumba Ocean ist ein maritimer Marble‑Shooter im Stil von Zuma. Eine bunte Perl
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `left` `button` `click` `press` `spacebar`
 
 - **Zielen:** Bewege die Maus, um den Perlenwerfer auszurichten.
 - **Schießen:** Linksklick, um die aktuell geladene Perle abzufeuern.
@@ -53,4 +55,5 @@ Zumba Ocean ist ein maritimer Marble‑Shooter im Stil von Zuma. Eine bunte Perl
 *   **F: Wie bekomme ich einen hohen Score?**
     *   **A:** Indem du viele Kombos auslöst, mehrere Kettenabschnitte in kurzer
         Folge abräumst und Levels möglichst schnell abschließt.
+
 

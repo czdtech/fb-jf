@@ -33,6 +33,8 @@ Train 2048 ist ein Puzzlespiel, das die bekannte 2048‑Mechanik in ein Zug‑Se
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow Keys` `arrow keys` `Swipe`
 
 
 Die Steuerung ist einfach und intuitiv:
@@ -59,3 +61,4 @@ Die Steuerung ist einfach und intuitiv:
         eine entscheidest und dabei bleibst, damit deine Struktur geordnet bleibt.
         Viele Spieler bevorzugen eine der unteren Ecken, weil sich Swipes nach unten
         intuitiver vermeiden lassen.
+

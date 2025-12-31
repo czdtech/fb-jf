@@ -32,6 +32,8 @@ Unblock That est un puzzle de blocs coulissants classique et stimulant. Le jeu t
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `drop` `Click` `hold` `space`
 
 Le jeu se joue avec un simple glisser-déposer.
 
@@ -51,4 +53,5 @@ Le jeu se joue avec un simple glisser-déposer.
 <!-- i18n:faq:id=faq:unblock-that:q-how-is-the-score-eb504d39 -->
 *   **Q : Comment le score est-il déterminé ?**
     *   **R :** Ta performance est généralement évaluée par le nombre de coups pour résoudre le puzzle. Moins tu utilises de coups, meilleur est ton score ou ton classement par étoiles.
+
 

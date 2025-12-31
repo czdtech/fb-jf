@@ -31,6 +31,8 @@ Word Search ist ein klassisches und beliebtes Worträtsel-Spiel. Das Ziel ist es
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `click` `drag` `click` `hold` `mouse` `drag`
 
 Das Spiel wird mit einer einfachen Klick-und-Zieh-Bewegung gespielt.
 
@@ -50,4 +52,5 @@ Das Spiel wird mit einer einfachen Klick-und-Zieh-Bewegung gespielt.
 <!-- i18n:faq:id=faq:word-search-2:q-is-there-a-penalty-bbf14d60 -->
 *   **F: Gibt es eine Strafe für falsches Raten?**
     *   **A:** Nein. Wenn du eine Buchstabenauswahl markierst, die kein Wort auf der Liste ist, wird sie einfach wieder demarkiert, und du kannst es ohne Strafe erneut versuchen.
+
 

@@ -31,6 +31,8 @@ Yummy Taco ist eine flotte Koch‑Simulation, in der du in die Rolle eines Taco�
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `mouse` `Click` `click` `Drag` `Drop` `Drag` `drag`
 
 - **Maus/Touch:**
     - Klicken, um Zutaten zu wählen oder Kunden/Buttons anzutippen.
@@ -47,4 +49,5 @@ Arbeite fehlerfrei und schnell – Serien perfekter Bestellungen bringen oft Bon
 
 **Kann ich Küche oder Rezepte upgraden?**  
 Ja, typischerweise kannst du neue Zutaten, bessere Geräte oder komplexere Taco‑Rezepte freischalten, um mehr Kunden anzulocken und höhere Einnahmen zu erzielen.
+
 

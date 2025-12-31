@@ -32,6 +32,8 @@ In Veggies Cut fliegen Gemüse und andere Zutaten durch die Luft, und du zerteil
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Swipe` `click` `drag`
 
 - **Schneiden:** Wische mit dem Finger oder ziehe mit gedrückter Maustaste eine Linie über die fliegenden Zutaten.
 - **Pause/Neustart:** Über die UI‑Buttons kannst du das Spiel anhalten oder ein Level neu beginnen.
@@ -44,4 +46,5 @@ In Veggies Cut fliegen Gemüse und andere Zutaten durch die Luft, und du zerteil
 - Q: I hit hazards.
 <!-- i18n:faq:id=faq:veggies-cut:how-to-score-high-602cd322 -->
 **Ich treffe ständig Bomben oder Messer – was tun?**  
+
 

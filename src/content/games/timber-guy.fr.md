@@ -32,6 +32,8 @@ Timber Guy est un jeu de timing à un seul bouton. Coupe le tronc tout en change
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap`
 
 -   **Couper/Changer :** Tape à gauche/droite pour couper de ce côté.
 -   **Pause/Réessayer via l'interface.**
@@ -45,4 +47,5 @@ Timber Guy est un jeu de timing à un seul bouton. Coupe le tronc tout en change
 -   **La vitesse augmente-t-elle ?** Oui ; le rythme aide à l'adaptation.
 <!-- i18n:faq:id=faq:timber-guy:any-powerups-49499345 -->
 -   **Des bonus ?** Certaines versions incluent des boosters ; concentre-toi sur la constance.
+
 

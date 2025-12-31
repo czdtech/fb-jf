@@ -32,6 +32,8 @@ Word Search es un puzle clásico muy querido. El objetivo es encontrar y marcar 
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `click` `drag` `click` `hold` `mouse` `drag`
 
 El juego se maneja con un simple gesto de clic y arrastre.
 
@@ -51,5 +53,6 @@ El juego se maneja con un simple gesto de clic y arrastre.
 <!-- i18n:faq:id=faq:word-search-2:q-is-there-a-penalty-bbf14d60 -->
 *   **Q: ¿Hay penalización por marcar algo que no es una palabra?**
     *   **A:** Normalmente no; si marcas una selección que no corresponde a una palabra, se desmarcará y podrás intentarlo de nuevo sin castigo.
+
 
 

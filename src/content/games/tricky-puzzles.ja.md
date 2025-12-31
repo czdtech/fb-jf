@@ -30,6 +30,8 @@ Tricky Puzzlesは、常識を覆すトリッキーなパズルゲームです。
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Tap` `mouse` `tap` `Drag` `Tap` `hold` `mouse` `drag`
 
  - **マウス：** クリックして相互作用
 
@@ -51,4 +53,5 @@ Tricky Puzzlesは、常識を覆すトリッキーなパズルゲームです。
 **ヒントはありますか？**
 
 困ったときに使えるヒントシステムがあります。
+
 

@@ -34,6 +34,8 @@ Wood Block Match est un jeu de placement de blocs style 10×10 avec une esthéti
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag`
 
 -   Glisse les pièces dans la grille ; tourne si le mode le permet ; effacer des lignes/colonnes rapporte des points.
 
@@ -51,4 +53,5 @@ Wood Block Match est un jeu de placement de blocs style 10×10 avec une esthéti
 <!-- i18n:faq:id=faq:wood-block-match:any-tip-for-high-scores-87d58841 -->
 -   **Q : Un conseil pour les scores élevés ?**
     **R :** Enchaîne les doubles effacements consécutifs et évite les simples d'urgence qui cassent la structure.
+
 

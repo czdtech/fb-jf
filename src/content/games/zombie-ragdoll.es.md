@@ -34,6 +34,8 @@ Zombie Ragdoll es un puzle de disparos en el que lanzas cuerpos de zombi tipo ra
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag`
 
 - Arrastra para elegir ángulo y potencia y suelta para lanzar; reinicia el nivel desde la interfaz si quieres volver a intentarlo.
 
@@ -47,4 +49,5 @@ Zombie Ragdoll es un puzle de disparos en el que lanzas cuerpos de zombi tipo ra
 <!-- i18n:faq:id=faq:zombie-ragdoll:shots-feel-random-2886f531 -->
 - **Q: Siento que los disparos son muy aleatorios.**  
   **A:** Toma uno o dos tiros de exploración y, a partir de ahí, ajusta en pequeños incrementos el ángulo o la potencia en lugar de cambiarlo todo de golpe.
+
 

@@ -33,6 +33,8 @@ Word Connect es un juego de puzles de palabras popular y relajante en el que deb
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Swipe` `Drag` `mouse` `drag` `Click` `Click`
 
 - **Deslizar/arrastrar:** usa el dedo (en móvil) o el ratón (en PC) para unir letras y formar palabras.
 - **Clic:** pulsa los botones de barajar o de pista para usarlos.
@@ -51,5 +53,6 @@ La mayoría de versiones no imponen límite; puedes resolver cada panel a tu rit
 **¿Qué cuenta como palabra válida?**
 
 Por lo general deben tener al menos tres letras y aparecer en el diccionario interno del juego.
+
 
 

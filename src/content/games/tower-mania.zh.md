@@ -32,6 +32,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 - **使用道具（如有）：** 部分版本会提供能稳定塔身或让你“完美落下”的道具。塔越高越不稳时，越要把道具留在关键时刻使用。
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Drop` `Click` `left` `button` `tap`
 
 *   **放置楼层：** 在方块移动至你认为合适的位置时，点击屏幕或按下指定按键让其落下。
 
@@ -53,3 +55,4 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:faq:id=faq:tower-mania:q-what-happens-if-a-e9455c4a -->
     - **问：Tower Mania 的目标是什么？**
+

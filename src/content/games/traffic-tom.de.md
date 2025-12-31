@@ -33,6 +33,8 @@ Traffic Tom ist ein schnelles Motorrad‑Rennspiel aus der Third‑Person‑Pers
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Press` `Press`
 
 - **Nach links lenken:** A oder Pfeil nach links.
 - **Nach rechts lenken:** D oder Pfeil nach rechts.
@@ -56,4 +58,5 @@ Traffic Tom ist ein schnelles Motorrad‑Rennspiel aus der Third‑Person‑Pers
     *   **A:** Neben Upgrades für die Höchstgeschwindigkeit gibt es in manchen
         Leveln Boost‑Pads, die dir beim Drüberfahren kurzzeitig einen
         Geschwindigkeitsschub geben.
+
 

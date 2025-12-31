@@ -33,6 +33,8 @@ TNT Bomb est un jeu de puzzle stratégique basé sur la physique où ton objecti
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `Click` `click`
 
 *   **Sélectionner une bombe :** Clique sur le type d'explosif que tu veux utiliser dans ton inventaire.
 *   **Placer une bombe :** Clique sur un bloc dans la structure pour y placer la bombe sélectionnée.
@@ -52,4 +54,5 @@ TNT Bomb est un jeu de puzzle stratégique basé sur la physique où ton objecti
 <!-- i18n:faq:id=faq:tnt-bomb:q-can-i-place-more-9ba6a330 -->
 *   **Q : Puis-je placer plusieurs bombes ?**
     *   **R :** Oui, tu dois placer toutes les bombes fournies dans ton inventaire pour ce niveau avant de pouvoir les faire exploser.
+
 

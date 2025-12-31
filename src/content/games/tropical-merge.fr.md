@@ -33,6 +33,8 @@ Fusionne des objets par groupes de 3 ou 5 pour améliorer les ressources, dissip
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `tap`
 
 -   Glisse pour fusionner ; tape sur les bâtiments pour collecter ; navigue via la carte.
 
@@ -46,4 +48,5 @@ Fusionne des objets par groupes de 3 ou 5 pour améliorer les ressources, dissip
 <!-- i18n:faq:id=faq:tropical-merge:energy-too-slow-29048010 -->
 -   **Q : L'énergie se régénère trop lentement.**
     **R :** Planifie tes sessions avec la régénération et les récompenses.
+
 

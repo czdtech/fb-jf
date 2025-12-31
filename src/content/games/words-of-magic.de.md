@@ -31,6 +31,8 @@ Words of Magic ist ein entspanntes Wortpuzzle mit leichtem Fantasy‑Touch. In j
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `drag` `mouse` `swipe` `mouse`
 
 - **Wort bilden:** Ziehe mit Maus oder Finger über die Buchstaben im Kreis in der richtigen Reihenfolge und lass los, um das Wort einzureichen.
 
@@ -52,4 +54,5 @@ Words of Magic ist ein entspanntes Wortpuzzle mit leichtem Fantasy‑Touch. In j
 *   **F: Wie bekomme ich mehr Hinweise?**
     *   **A:** Meist durch das Abschließen von Levels, das Finden von Bonuswörtern
         oder tägliche Belohnungen.
+
 

@@ -30,6 +30,8 @@ Traffic Tomは、忙しい道路を横断するタイミングゲームです。
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Press` `Press`
 
  - **上矢印/W：** 前進
  - **下矢印/S：** 後退
@@ -53,3 +55,4 @@ Traffic Tomは、忙しい道路を横断するタイミングゲームです。
 
 <!-- i18n:faq:id=faq:traffic-tom:q-is-there-a-way-2e68a91b -->
     - **Q: 車にぶつかるとどうなりますか？**
+

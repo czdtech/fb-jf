@@ -29,6 +29,8 @@ Word Search 2は、クラシックな単語検索ゲームの改良版です。�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `click` `drag` `click` `hold` `mouse` `drag`
 
 
 操作はクリックしてドラッグするだけです。
@@ -52,3 +54,4 @@ Word Search 2は、クラシックな単語検索ゲームの改良版です。�
 
 <!-- i18n:faq:id=faq:word-search-2:q-is-there-a-penalty-bbf14d60 -->
     - **Q: 単語は逆向きにもありますか？**
+

@@ -33,6 +33,8 @@ Wood Block Match es un juego de colocación de bloques estilo 10×10 con estéti
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag`
 
 - Arrastra las piezas hasta la cuadrícula; si el modo lo permite, gíralas antes de soltarlas. Completar filas o columnas suma puntos.
 
@@ -50,5 +52,6 @@ Wood Block Match es un juego de colocación de bloques estilo 10×10 con estéti
 <!-- i18n:faq:id=faq:wood-block-match:any-tip-for-high-scores-87d58841 -->
 - **Q: ¿Algún consejo para lograr puntuaciones altas?**  
   **A:** Encadena varias dobles eliminaciones seguidas y evita los “parches” de emergencia que rompen la estructura del tablero.
+
 
 

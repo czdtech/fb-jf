@@ -31,6 +31,8 @@ Timber Guy ist ein einsteigerfreundliches One‑Button‑Timing‑Spiel. Du hack
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap`
 
 - **Hacken/Seite wählen:** Tippe links oder rechts (oder nutze die entsprechenden Tasten), um von dieser Seite aus zuzuschlagen.
 - **Pause/Neustart:** Über die Bildschirm‑UI.
@@ -49,3 +51,4 @@ Timber Guy ist ein einsteigerfreundliches One‑Button‑Timing‑Spiel. Du hack
 <!-- i18n:faq:id=faq:timber-guy:any-powerups-49499345 -->
 - **Gibt es Power‑ups?**  
   Manche Versionen bieten temporäre Booster, aber am wichtigsten sind saubere Eingaben und Konzentration.
+

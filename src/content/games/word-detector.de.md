@@ -32,6 +32,8 @@ Word Detector ist ein schnelles Wortfindungs-Puzzle-Spiel, das deinen Wortschatz
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `click` `drag` `Click` `hold` `mouse` `drag` `mouse`
 
 Das Spiel wird mit einer einfachen Klick-und-Zieh-Bewegung gespielt.
 
@@ -51,4 +53,5 @@ Das Spiel wird mit einer einfachen Klick-und-Zieh-Bewegung gespielt.
 <!-- i18n:faq:id=faq:word-detector:q-what-happens-if-time-dc1723e2 -->
 *   **F: Was passiert, wenn die Zeit abläuft?**
     *   **A:** Wenn du das Levelziel (wie einen Zielpunktestand) nicht erreichst, bevor der Timer abläuft, musst du das Level neu starten.
+
 

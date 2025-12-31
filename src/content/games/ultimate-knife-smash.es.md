@@ -32,6 +32,8 @@ Ultimate Knife Smash es un juego arcade basado en la sincronización. Tienes que
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `tap`
 
 - Lanzar: haz clic o toca la pantalla para lanzar un cuchillo cuando el hueco esté alineado.
 - Pausa / reinicio: utiliza los botones de la interfaz para parar o reiniciar la partida.
@@ -50,5 +52,6 @@ Ultimate Knife Smash es un juego arcade basado en la sincronización. Tienes que
 <!-- i18n:faq:id=faq:ultimate-knife-smash:are-there-powerups-0fea9ab4 -->
 - **Q: ¿Hay potenciadores?**  
   **A:** Algunas versiones ofrecen multicuchillos o efectos de ralentización; guárdalos para oleadas especialmente densas.
+
 
 

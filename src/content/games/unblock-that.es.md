@@ -32,6 +32,8 @@ Unblock That es un puzle clásico y desafiante de bloques deslizantes. El tabler
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `Click` `hold` `space`
 
 El juego usa controles de arrastrar y soltar muy sencillos.
 
@@ -51,5 +53,6 @@ El juego usa controles de arrastrar y soltar muy sencillos.
 <!-- i18n:faq:id=faq:unblock-that:q-how-is-the-score-eb504d39 -->
 *   **Q: ¿Cómo se calcula la puntuación?**
     *   **A:** Normalmente se valora tu rendimiento por el número de movimientos que uses para resolver el puzle: cuantos menos pasos des, mejor será tu puntuación o tu número de estrellas.
+
 
 

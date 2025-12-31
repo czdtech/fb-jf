@@ -34,6 +34,8 @@ Word Wipe es un dinámico puzle de palabras que combina la búsqueda de término
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `Click` `drag` `swipe`
 
 - **Ratón / táctil:** haz clic y arrastra (o desliza) sobre letras adyacentes para formar palabras.
 
@@ -51,5 +53,6 @@ Si no has eliminado las filas necesarias antes de que el temporizador llegue a c
 **¿Hay estrategias para puntuaciones altas?**
 
 Busca palabras largas que limpien varias filas, intenta crear reacciones en cadena y usa las bombas con cabeza para liberar grandes áreas cuando te quedes sin opciones claras.
+
 
 

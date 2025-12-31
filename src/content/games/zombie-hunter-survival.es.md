@@ -32,6 +32,8 @@ Zombie Hunter: Survival es un juego de disparos de supervivencia visto desde arr
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD` `mouse`
 
 - Muévete con WASD o flechas; apunta con el ratón o teclas; dispara y recarga según los botones indicados en la interfaz.
 - Cambia de arma si el juego ofrece un arsenal múltiple.
@@ -50,4 +52,5 @@ Zombie Hunter: Survival es un juego de disparos de supervivencia visto desde arr
 <!-- i18n:faq:id=faq:zombie-hunter-survival:bosses-5a57d05f -->
 - **Q: ¿Hay jefes?**  
   **A:** Algunas oleadas introducen enemigos élite; en esos casos, abre más el círculo de kite y elimina antes a los esbirros normales.
+
 

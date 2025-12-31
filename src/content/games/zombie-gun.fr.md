@@ -32,6 +32,8 @@ Zombie Gun met l'accent sur les tirs d'angle : fais ricocher les balles sur les 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `click`
 
 -   Vise et clique pour tirer ; redémarre via l'interface ; certaines versions limitent les munitions par salle.
 
@@ -45,4 +47,5 @@ Zombie Gun met l'accent sur les tirs d'angle : fais ricocher les balles sur les 
 <!-- i18n:faq:id=faq:zombie-gun:armored-ones-dont-die-09eee214 -->
 -   **Q : Les blindés ne meurent pas.**
     **R :** Fais tomber des objets ou explose des barils près d'eux.
+
 

@@ -31,6 +31,8 @@ Word Pics ist ein Wortpuzzle, bei dem du aus zwei Bildern auf ein gemeinsames Wo
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `mouse`
 
 - **Tastatur:** Gib die Buchstaben des gesuchten Wortes direkt ein.
 - **Maus/Touch:** Nutze Maus oder Touchscreen, um Buchstaben anzutippen, Menüs zu bedienen oder Hinweise zu aktivieren.
@@ -48,4 +50,5 @@ Word Pics ist ein Wortpuzzle, bei dem du aus zwei Bildern auf ein gemeinsames Wo
 *   **F: Gibt es unterschiedliche Schwierigkeitsgrade?**
     *   **A:** Ja. Es gibt verschiedene Modi (z. B. einen Expertenmodus) und die
         Rätsel werden mit dem Fortschritt nach und nach schwieriger.
+
 

@@ -32,6 +32,8 @@ Yummy Taco es un simulador de cocina ágil y muy simpático en el que te convier
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `mouse` `Click` `click` `Drag` `Drop` `Drag` `drag`
 
 - **Ratón / táctil:** todas las acciones se realizan con clics o toques.
     -   **Clic:** selecciona ingredientes, interactúa con los clientes o navega por menús.
@@ -51,5 +53,6 @@ Sirve sin errores y lo más rápido que puedas. Las rachas largas de pedidos per
 **¿Puedo mejorar mi cocina o las recetas?**
 
 Sí. En muchos simuladores como Yummy Taco puedes invertir tus ganancias en equipamiento mejor, ingredientes nuevos o recetas más complejas para atraer a más clientes y ganar aún más.
+
 
 

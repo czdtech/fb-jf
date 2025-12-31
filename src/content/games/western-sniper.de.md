@@ -32,6 +32,8 @@ Western Sniper wirft dich in kurze, knackige Einsätze gegen Banditen, Bomben un
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `click` `hold`
 
 - **Zielen:** Mit der Maus den Blick und das Fadenkreuz bewegen.
 - **Schießen:** Mausklick, um einen Schuss abzugeben; Zoom/Halten des Atems je nach Version über rechte Maustaste oder UI.
@@ -45,4 +47,5 @@ Western Sniper wirft dich in kurze, knackige Einsätze gegen Banditen, Bomben un
 - Q: I miss moving targets.
 <!-- i18n:faq:id=faq:western-sniper:ammo-runs-out-7881997a -->
 **Ich treffe bewegliche Ziele kaum – Tipps?**  
+
 

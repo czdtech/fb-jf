@@ -33,6 +33,8 @@ Uncle Ahmed es un plataformas 2D de desplazamiento lateral que despierta la nost
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Arrow Keys` `Press`
 
 *   **Moverse:** usa las flechas Izquierda y Derecha o los botones en pantalla para desplazar a Ahmed.
 *   **Saltar:** pulsa la flecha Arriba o el botón de salto.
@@ -52,5 +54,6 @@ Uncle Ahmed es un plataformas 2D de desplazamiento lateral que despierta la nost
 <!-- i18n:faq:id=faq:uncle-ahmed:q-how-do-i-beat-1856fd4a -->
 *   **Q: ¿Cómo venzo al jefe final?**
     *   **A:** Los jefes suelen tener patrones de ataque. Esquiva sus golpes y espera un momento de vulnerabilidad para saltar sobre su cabeza o golpearlo con proyectiles.
+
 
 

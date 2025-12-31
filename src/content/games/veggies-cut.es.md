@@ -32,6 +32,8 @@ En Veggies Cut rebanas verduras con trazos amplios, construyes cadenas de combos
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Swipe` `click` `drag`
 
 - Desliza o haz clic y arrastra para cortar; pausa y reinicia desde la interfaz.
 
@@ -45,5 +47,6 @@ En Veggies Cut rebanas verduras con trazos amplios, construyes cadenas de combos
 <!-- i18n:faq:id=faq:veggies-cut:how-to-score-high-602cd322 -->
 - **Q: ¿Cómo hago más puntos?**  
   **A:** Concéntrate en cortes largos que pasen por varias piezas a la vez y mantén un ritmo estable en lugar de gestos cortos y caóticos.
+
 
 

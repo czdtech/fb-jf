@@ -31,6 +31,8 @@ Zombie Hunter: Survival ist ein Survival‑Shooter aus der Vogelperspektive. Du 
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD` `mouse`
 
 - **Bewegen:** WASD oder Pfeiltasten.
 - **Zielen/Schießen:** Maus oder entsprechende Tasten, Schuss per Mausklick bzw. Feuer‑Taste.
@@ -48,3 +50,4 @@ Zombie Hunter: Survival ist ein Survival‑Shooter aus der Vogelperspektive. Du 
 
 <!-- i18n:faq:id=faq:zombie-hunter-survival:bosses-5a57d05f -->
 - I get cornered—fix? Avoid dead‑ends; always leave an exit lane.
+

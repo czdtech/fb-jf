@@ -31,6 +31,8 @@ Words Challengeは、様々な単語パズルとチャレンジを提供する�
 - 連続正解：一定のペースで解くと倍率を維持しやすいです。
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Drag` `click`
 
  - **マウス/キーボード：** チャレンジのタイプに応じて操作
 
@@ -42,5 +44,6 @@ Words Challengeは、様々な単語パズルとチャレンジを提供する�
 - Q: アナグラムで止まってしまいます。
 <!-- i18n:faq:id=faq:words-challenge:are-proper-nouns-allowed-c43148f9 -->
 **ゲームの目標は何ですか？**
+
 
 

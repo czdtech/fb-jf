@@ -32,6 +32,8 @@ Word Detector est un jeu de recherche de mots rapide qui met à l'épreuve ton v
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `click` `drag` `Click` `hold` `mouse` `drag` `mouse`
 
 Le jeu se joue avec un simple cliquer-glisser.
 
@@ -51,4 +53,5 @@ Le jeu se joue avec un simple cliquer-glisser.
 <!-- i18n:faq:id=faq:word-detector:q-what-happens-if-time-dc1723e2 -->
 *   **Q : Que se passe-t-il si le temps est écoulé ?**
     *   **R :** Si tu n'atteins pas l'objectif du niveau (comme un score cible) avant la fin du chrono, tu dois recommencer le niveau.
+
 

@@ -33,6 +33,8 @@ Train 2048 es un puzle muy entretenido que reimagina la fórmula de 2048 con tem
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Arrow Keys` `arrow keys` `Swipe`
 
 Los controles son sencillos e intuitivos:
 
@@ -53,5 +55,6 @@ Los controles son sencillos e intuitivos:
 <!-- i18n:faq:id=faq:train-2048:q-which-corner-is-best-6321e15b -->
 *   **Q: ¿Qué esquina es mejor para el vagón más alto?**
     *   **A:** Cualquier esquina sirve, siempre que seas constante. Una vez elijas una (por ejemplo, arriba a la derecha), mantente fiel a ella. Muchos jugadores prefieren una esquina inferior porque resulta más natural evitar deslizar hacia abajo.
+
 
 

@@ -33,6 +33,8 @@ Uncle Ahmed ist ein klassischer 2D‑Sidescroller, der starke Retro‑Vibes à l
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow Keys` `Press`
 
 - **Bewegen:** Pfeil links / Pfeil rechts oder virtuelle Buttons, um Uncle Ahmed zu steuern.
 - **Springen:** Pfeil nach oben oder der separate Sprungbutton.
@@ -56,4 +58,5 @@ Uncle Ahmed ist ein klassischer 2D‑Sidescroller, der starke Retro‑Vibes à l
     *   **A:** Beobachte die Angriffsmuster des Bosses, weich den Angriffen aus und
         warte auf kurze Phasen, in denen du auf seinen Kopf springen oder ihn mit
         Projektilen treffen kannst.
+
 

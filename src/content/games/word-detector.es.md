@@ -32,6 +32,8 @@ Word Detector es un rápido puzle de palabras que pone a prueba tu vocabulario y
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `click` `drag` `Click` `hold` `mouse` `drag` `mouse`
 
 El control se basa en un gesto de clic y arrastre.
 
@@ -51,5 +53,6 @@ El control se basa en un gesto de clic y arrastre.
 <!-- i18n:faq:id=faq:word-detector:q-what-happens-if-time-dc1723e2 -->
 *   **Q: ¿Qué pasa si se acaba el tiempo?**
     *   **A:** Si no alcanzas la puntuación objetivo (o el objetivo del nivel) antes de que termine el temporizador, tendrás que repetir el nivel.
+
 
 

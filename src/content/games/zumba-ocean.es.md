@@ -33,6 +33,8 @@ Zumba Ocean es un vistoso y adictivo juego de disparos de canicas al estilo de c
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `left` `button` `click` `press` `spacebar`
 
 *   **Apuntar:** mueve el ratón para orientar el lanzador de perlas.
 *   **Disparar:** haz clic con el botón izquierdo para lanzar una perla.
@@ -52,5 +54,6 @@ Zumba Ocean es un vistoso y adictivo juego de disparos de canicas al estilo de c
 <!-- i18n:faq:id=faq:zumba-ocean:q-how-do-i-get-73fd7840 -->
 *   **Q: ¿Cómo consigo una puntuación alta?**
     *   **A:** Encadenando combos largos y terminando los niveles rápidamente. Cuanto más corta sea la partida y más reacciones provoques, mayor será tu marcador.
+
 
 

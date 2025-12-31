@@ -32,6 +32,8 @@ Ultimate Knife Smash est un jeu d'arcade basé sur le timing. Lance des couteaux
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `tap`
 
 -   **Lancer :** Clique/tape pour lancer un couteau quand l'écart s'aligne.
 -   **Pause/Réessayer :** Utilise les contrôles de l'interface pour redémarrer.
@@ -45,4 +47,5 @@ Ultimate Knife Smash est un jeu d'arcade basé sur le timing. Lance des couteaux
 -   **La rotation change-t-elle ?** Souvent oui ; sois prêt pour les accélérations et inversions de direction.
 <!-- i18n:faq:id=faq:ultimate-knife-smash:are-there-powerups-0fea9ab4 -->
 -   **Y a-t-il des bonus ?** Certaines versions donnent des multi-couteaux ou des ralentis — utilise-les sur les vagues denses.
+
 

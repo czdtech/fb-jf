@@ -34,6 +34,8 @@ War of Sticks es un juego de estrategia en tiempo real en el que lideras a un ej
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse`
 
 - **Ratón:** úsalo para todas las acciones: entrenar unidades, seleccionar tropas y dirigirlas en el campo de batalla.
 
@@ -51,5 +53,6 @@ Entrenando más mineros para aumentar la recolección y convirtiendo piedra en o
 **¿Qué unidades son las mejores?**
 
 Lo más efectivo suele ser un ejército variado: escuderos para aguantar en primera línea, arqueros para apoyo a distancia, bárbaros para destrozar la primera fila enemiga y magos para controlar grupos grandes.
+
 
 

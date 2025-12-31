@@ -33,6 +33,8 @@ Word Wipe est un jeu de puzzle de mots dynamique qui combine la recherche de mot
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `Click` `drag` `swipe`
 
 -   **Souris/Tactile :** Clique et fais glisser (ou balaie) sur les lettres adjacentes pour former des mots.
 
@@ -47,4 +49,5 @@ Si tu n'as pas effacé le nombre de lignes requis avant la fin du chrono, la par
 
 **Des conseils pour un score élevé ?**
 Concentre-toi sur les mots longs et l'effacement de lignes complètes. Essaie de créer des réactions en chaîne où un mot en révèle d'autres. Utilise les bombes bonus stratégiquement quand tu es bloqué ou que tu dois dégager une grande zone.
+
 

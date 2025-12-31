@@ -29,6 +29,8 @@ Word Picsは、画像のヒントから単語を推測する楽しいパズル�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse` `mouse`
 
  - **マウス：** 文字をクリックして単語を作成
 
@@ -47,3 +49,4 @@ Word Picsは、画像のヒントから単語を推測する楽しいパズル�
 
 <!-- i18n:faq:id=faq:word-pics:q-are-there-different-difficul-0e96782f -->
     - **Q: 単語が分からないときはどうすればいいですか？**
+

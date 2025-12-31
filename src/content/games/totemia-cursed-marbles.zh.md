@@ -32,6 +32,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `mouse` `Click` `left` `button` `click` `press` `spacebar`
 
 *   **瞄准发射：** 使用鼠标移动或拖动控制发射方向，点击即可射出当前弹珠；
 *   **切换弹珠颜色（若有）：** 点击发射器或特定按钮可切换当前准备发射的弹珠颜色；
@@ -50,6 +52,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:totemia-cursed-marbles:q-how-do-i-get-da481c1b -->
 *   **问：怎样才能拿到最高分？**
     *   **答：** 通过制造更长的连锁反应与连击。短时间内消除越多，分数倍率越高；尽快通关通常也会带来时间加成。
+
 
 
 

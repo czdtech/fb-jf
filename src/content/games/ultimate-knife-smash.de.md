@@ -32,6 +32,8 @@ Ultimate Knife Smash ist ein timingbasiertes Arcade‑Spiel. Du wirfst Messer au
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `tap`
 
 - **Werfen:** Klicke oder tippe, um ein Messer zu werfen, sobald die gewünschte Lücke vor dir steht.
 - **Pause/Neustart:** Über die UI kannst du das Level anhalten oder neu beginnen.
@@ -45,4 +47,5 @@ Ultimate Knife Smash ist ein timingbasiertes Arcade‑Spiel. Du wirfst Messer au
 - Ändert sich die Rotation wirklich so oft? Ja, viele Level variieren Geschwindigkeit und Richtung, um dich aus dem Konzept zu bringen – bleib aufmerksam.
 <!-- i18n:faq:id=faq:ultimate-knife-smash:are-there-powerups-0fea9ab4 -->
 - Gibt es Power‑ups? Manche Versionen bieten Mehrfachmesser oder Zeitlupen‑Effekte. Heb dir solche Power‑ups für dichte Messerwände und Boss‑Phasen auf.
+
 

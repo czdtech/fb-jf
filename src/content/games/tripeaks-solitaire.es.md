@@ -34,6 +34,8 @@ Tripeaks Solitaire es una variante de solitario muy popular y dinámica que comb
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `Click`
 
 El juego se controla por completo con el ratón o con toques.
 
@@ -54,5 +56,6 @@ El juego se controla por completo con el ratón o con toques.
 <!-- i18n:faq:id=faq:tripeaks-solitaire:q-what-happens-if-i-e189d065 -->
 *   **Q: ¿Qué pasa si se acaba el mazo y aún quedan cartas en el tablero?**
     *   **A:** Si el mazo está vacío y no te quedan jugadas legales en el tablero, la ronda termina y la pierdes.
+
 
 

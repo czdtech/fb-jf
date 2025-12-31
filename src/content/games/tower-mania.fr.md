@@ -33,6 +33,8 @@ Tower Mania est un jeu d'arcade captivant et addictif qui défie ta précision e
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drop` `Click` `left` `button` `tap`
 
 *   **Lâcher le bloc :** Clique avec le bouton gauche de la souris ou tape sur l'écran pour lâcher le bloc oscillant.
 
@@ -50,4 +52,5 @@ Tower Mania est un jeu d'arcade captivant et addictif qui défie ta précision e
 <!-- i18n:faq:id=faq:tower-mania:q-what-happens-if-a-e9455c4a -->
 *   **Q : Que se passe-t-il si un bloc n'est pas parfaitement aligné ?**
     *   **R :** Si un bloc n'est pas parfaitement aligné, toute partie qui dépasse du bloc en dessous sera coupée. Cela réduit la surface pour le bloc suivant, augmentant la difficulté.
+
 

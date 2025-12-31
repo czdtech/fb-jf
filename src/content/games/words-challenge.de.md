@@ -32,6 +32,8 @@ Words Challenge mischt verschiedene Wortdisziplinen: Du löst Anagramme, füllst
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `click`
 
 - Ziehe Buchstaben per Drag‑and‑Drop, um Anagramme zu bilden.
 - Tippe bei Kreuzworträtseln Wörter direkt über die Tastatur ein.
@@ -45,4 +47,5 @@ Words Challenge mischt verschiedene Wortdisziplinen: Du löst Anagramme, füllst
 - Q: I stall on anagrams.
 <!-- i18n:faq:id=faq:words-challenge:are-proper-nouns-allowed-c43148f9 -->
 **Ich hänge oft an Anagrammen fest – Tipps?**  
+
 

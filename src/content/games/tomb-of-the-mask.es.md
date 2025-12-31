@@ -34,7 +34,7 @@ Tomb of the Mask es un arcade extremadamente adictivo y rápido que combina labe
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `Arrow Keys` `WASD`
+- Teclas (alineación)： `Swipe` `Swipe` `Arrow Keys` `WASD`
 
 - **Deslizar:** en móvil, mueve el dedo en la dirección deseada para que el personaje se lance; en PC, usa las teclas de dirección o WASD para indicar el movimiento.
 
@@ -52,5 +52,6 @@ La mayoría de trampas provocan muerte instantánea y la partida termina. Alguno
 **¿Hay distintas máscaras?**
 
 Sí. A medida que avanzas y acumulas monedas podrás desbloquear nuevas máscaras. Muchas otorgan habilidades o bonificaciones únicas, añadiendo una capa estratégica a cada intento.
+
 
 

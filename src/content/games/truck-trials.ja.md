@@ -29,6 +29,8 @@ Truck Trialsは、トラックを操作して挑戦的なオフロードコー�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Arrow Keys` `arrow keys`
 
  - **上矢印：** アクセル
  - **下矢印：** ブレーキ/バック
@@ -47,3 +49,4 @@ Truck Trialsは、トラックを操作して挑戦的なオフロードコー�
 
 <!-- i18n:faq:id=faq:truck-trials:q-what-is-the-differential-664dd98f -->
     - **Q: 転倒を避けるコツは？**
+

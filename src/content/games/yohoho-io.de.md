@@ -29,7 +29,7 @@ YoHoHo.io ist ein schnelles Battle‑Royale‑.io‑Spiel mit Piraten‑Setting.
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `WASD` `Arrow Keys` `Left Click` `Spacebar` `Left Click` `Spacebar` `Right Click`
+- Tasten (Abgleich)： `WASD` `Arrow Keys` `Drag` `mouse` `Mouse` `Left Click` `Spacebar` `Tap` `Hold` `Left Click` `Spacebar` `Right Click` `Mouse`
 
 - **Bewegen:** WASD oder Pfeiltasten / Ziehen mit Maus bzw. Finger.
 - **Angreifen:** Linksklick oder Leertaste / Tippen.
@@ -47,3 +47,4 @@ Im roten Bereich verlierst du kontinuierlich Leben. Bleib so viel wie möglich i
 
 **Gibt es verschiedene Piratencharaktere?**  
 Ja, du kannst nach und nach neue Piraten mit anderen Looks (und teils leicht unterschiedlichen Werten) freischalten, wenn du genug Gold/Erfolge sammelst.
+

@@ -32,6 +32,8 @@ Le gameplay principal consiste à observer la scène et trouver la bonne séquen
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `mouse` `Click` `Click` `Click` `Click` `Drag`
 
 -   **Souris :** Toutes les interactions se font à la souris.
     -   **Clic :** Clique sur les objets pour les activer.
@@ -49,4 +51,5 @@ Oui, la série Wheely est généralement considérée comme familiale et adapté
 
 **Combien de jeux Wheely existe-t-il ?**
 La série Wheely compte de nombreux épisodes, chacun offrant de nouvelles aventures et puzzles pour les joueurs.
+
 

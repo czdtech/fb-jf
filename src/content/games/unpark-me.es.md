@@ -33,6 +33,8 @@ Unpark Me es un puzle clásico de bloques deslizantes, también conocido como un
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `Click` `hold` `Drag` `space`
 
 El juego utiliza controles sencillos de arrastrar y soltar.
 
@@ -52,5 +54,6 @@ El juego utiliza controles sencillos de arrastrar y soltar.
 <!-- i18n:faq:id=faq:unpark-me:q-im-completely-stuck-what-792b4fbc -->
 *   **Q: Estoy completamente bloqueado. ¿Qué puedo hacer?**
     *   **A:** Muchas versiones incluyen un botón de pista que te sugiere el siguiente movimiento. Si no tienes pistas, reinicia el nivel y vuelve a intentarlo con otra estrategia.
+
 
 

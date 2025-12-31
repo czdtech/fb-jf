@@ -29,7 +29,7 @@ Yohoho.ioは、海賊をテーマにしたバトルロイヤルIOゲームです
 <!-- i18n:section:controls -->
 ### 操作ガイド
 <!-- i18n:controls:keys -->
-- キー（整合）： `WASD` `Arrow Keys` `Left Click` `Spacebar` `Left Click` `Spacebar` `Right Click`
+- キー（整合）： `WASD` `Arrow Keys` `Drag` `mouse` `Mouse` `Left Click` `Spacebar` `Tap` `Hold` `Left Click` `Spacebar` `Right Click` `Mouse`
 
  - **マウス：** 移動方向
  - **左クリック：** ダッシュ/攻撃
@@ -52,4 +52,5 @@ Yohoho.ioは、海賊をテーマにしたバトルロイヤルIOゲームです
 **チーム戦はありますか？**
 
 いいえ、全員が敵のバトルロイヤルです。
+
 

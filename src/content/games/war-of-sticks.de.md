@@ -34,6 +34,8 @@ War of Sticks ist ein Echtzeit‑Strategiespiel, in dem du eine Strichmännchen�
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse`
 
 - **Maus:** Nutze die Maus, um Einheiten in der UI zu rekrutieren, Gebäude auszuwählen und deine Armee zu befehligen. Befehle zum Vorrücken, Rückzug oder Fokus auf bestimmte Ziele werden ebenfalls per Klick vergeben.
 
@@ -48,4 +50,5 @@ Bild mehr Miner aus und schicke sie an die Goldquelle. Wenn möglich, nutze Konv
 
 **Welche Einheiten sind am stärksten?**  
 Eine reine Einheitensorte ist selten optimal. Schildträger vorn, Bogenschützen und Magier dahinter und Barbaren als Durchbruchstruppe sind ein solides Grundsetup.
+
 

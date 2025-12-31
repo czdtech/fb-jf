@@ -31,6 +31,8 @@ Word Pics es un juego de palabras en el que debes adivinar un término o frase a
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `mouse`
 
 *   **Teclado:** escribe la palabra que crees correcta.
 *   **Ratón / táctil:** interactúa con menús, botones de pistas y demás opciones.
@@ -45,5 +47,6 @@ Word Pics es un juego de palabras en el que debes adivinar un término o frase a
 <!-- i18n:faq:id=faq:word-pics:q-are-there-different-difficul-0e96782f -->
 *   **Q: ¿Hay distintos niveles de dificultad?**
     *   **A:** Sí. Los puzles suelen volverse más rebuscados a medida que avanzas, y algunos modos están pensados específicamente para jugadores avanzados.
+
 
 
