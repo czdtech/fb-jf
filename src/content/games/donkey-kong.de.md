@@ -37,6 +37,8 @@ schneller und schwieriger.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow keys`
 
 - Pfeiltasten: Bewegen und Klettern.  
 - Nach oben: Leitern hinaufsteigen; Springen: meist über eine zugewiesene Taste
@@ -70,3 +72,4 @@ schneller und schwieriger.
 - **F: Wodurch endet ein Run?**  
   **A:** Durch Kollisionen mit Gegnern, einen zu langen Sturz oder wenn der
   Bonustimer auf null fällt.
+

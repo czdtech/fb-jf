@@ -43,6 +43,8 @@ estrategia con cartas de toda la vida.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `drag` `Click`
 
 *   **Mover cartas:** Haz clic y arrastra las cartas entre pilas.
 *   **Robar del mazo:** Haz clic en el mazo para pasar una carta al descarte.
@@ -68,4 +70,5 @@ estrategia con cartas de toda la vida.
 *   **P: ¿Puedo jugar los puzles de días anteriores?**
     *   **R:** Muchos juegos diarios incluyen un calendario que te permite
         volver atrás y jugar fechas que te hayas perdido.
+
 

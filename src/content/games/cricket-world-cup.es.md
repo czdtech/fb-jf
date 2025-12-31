@@ -43,6 +43,8 @@ número limitado de overs.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `tap`
 
 - Apunta el golpe con las direcciones disponibles y pulsa en el momento
   adecuado para balancear el bate; según la versión, podrás alternar entre golpe
@@ -67,3 +69,4 @@ número limitado de overs.
 - P: ¿Se puede lanzar o solo batear?
   
   R: La mayoría de versiones están centradas exclusivamente en el bateo.
+

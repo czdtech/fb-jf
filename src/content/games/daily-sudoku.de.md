@@ -36,6 +36,8 @@ Notizfunktionen und Prüftools bereit.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `enter` `Shift` `click`
 
 - Zahlentasten zum Eintragen; Shift/Rechtsklick (je nach Seite) wechselt in den
   Notizmodus; Undo/Redo und Prüf-Tools sind meist vorhanden.
@@ -62,5 +64,6 @@ Notizfunktionen und Prüftools bereit.
 - F: Unterstützen Online-Versionen Notizen?
   
   A: Ja, die meisten Implementierungen bieten Kandidaten- und Notizfunktionen.
+
 
 

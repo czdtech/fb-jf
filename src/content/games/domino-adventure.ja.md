@@ -35,6 +35,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `drag` `drop` `click` `Click` `drag` `click`
 
 
 このゲームは、ドラッグ＆ドロップまたはクリックだけで直感的にプレイできるように設計されています。
@@ -60,4 +62,5 @@ locale: ja
 <!-- i18n:faq:id=faq:domino-adventure:what-is-the-trophy-road-d3a9b95e -->
 **4. トロフィーロードとは何ですか？**
 プレイや勝利で報酬を獲得できる進行システムです。新しい牌セットなどのコレクション要素やコスメティック報酬が含まれることがあります。
+
 

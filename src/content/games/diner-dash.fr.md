@@ -34,6 +34,8 @@ des améliorations entre les niveaux.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `click` `drag` `drop`
 - Souris/tactile : clique sur les destinations dans l’ordre pour enchaîner les
   actions ; certaines versions permettent le glisser‑déposer pour placer/servir.
 
@@ -54,5 +56,6 @@ points/combos supplémentaires.
 - Q: Puis‑je rejouer pour un meilleur score ?
 A: Oui : rejouer pour optimiser les trajets et les enchaînements fait partie du
 jeu.
+
 
 

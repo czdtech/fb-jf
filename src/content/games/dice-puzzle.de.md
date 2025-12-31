@@ -32,6 +32,8 @@ Dice Puzzle ist ein cleveres und strategisches Puzzle-Spiel, das Logik mit einem
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `Click`
 
 *   **Würfel drehen:** Klicke auf den Würfel im Haltebereich, um ihn vor dem Platzieren zu drehen.
 *   **Würfel platzieren:** Klicke auf ein leeres Feld auf dem 5×5-Gitter, um den aktuellen Würfel zu platzieren.
@@ -50,4 +52,5 @@ Dice Puzzle ist ein cleveres und strategisches Puzzle-Spiel, das Logik mit einem
 <!-- i18n:faq:id=faq:dice-puzzle:q-what-happens-when-i-68b2ff3c -->
 *   **F: Was passiert, wenn ich drei '6er'-Würfel verschmelze?**
     *   **A:** Das Verschmelzen von drei 6-Punkte-Würfeln erstellt einen speziellen Juwelenwürfel. Bei deiner nächsten Verschmelzung, die dieses Juwel einbezieht, wird es eine kleine Explosion auslösen, die den 3×3-Bereich um es herum räumt und dir einen großen Punktebonus gibt.
+
 

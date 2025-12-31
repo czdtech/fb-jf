@@ -45,6 +45,8 @@ sans répétition sur chaque ligne, colonne et bloc 3×3.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `Enter` `click` `enter`
 
 - **Placer un chiffre** : sélectionne une case puis choisis un chiffre.  
 - **Notes / gomme / vérification** : via les boutons dédiés.
@@ -75,3 +77,4 @@ affichant les conflits en rouge, ce qui te permet de corriger tout de suite.
 R : Sur les grilles faciles, ce n’est pas indispensable. Mais sur du moyen à
 difficile, c’est presque impossible de garder toutes les possibilités en tête.
 Noter les candidats est une technique de base pour résoudre méthodiquement.
+

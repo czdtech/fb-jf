@@ -40,6 +40,8 @@ bahnen sauber triffst oder im Chaos landest.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag`
 
 - Ziehe mit gedrückter Maustaste oder per Touch, um Richtung und Stärke des
   Schusses festzulegen; lasse los, um den Ball abzufeuern.
@@ -65,4 +67,5 @@ bahnen sauber triffst oder im Chaos landest.
   
   Falls es Timer gibt, priorisiere sichere Schüsse, die dich weiterbringen,
   statt riskanter Trick-Shots.
+
 

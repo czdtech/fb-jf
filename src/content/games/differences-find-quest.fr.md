@@ -38,6 +38,8 @@ des angles piégeux et une légère pression de temps.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap`
 
 - Tape/clique sur une différence sur l’une ou l’autre image ; les erreurs peuvent
   coûter du temps.
@@ -63,5 +65,6 @@ sois précis.
 
 A: Plisse légèrement les yeux ou zoome : ça peut révéler de petits écarts de
 contraste.
+
 
 

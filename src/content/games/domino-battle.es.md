@@ -49,6 +49,8 @@ que planear a largo plazo y, cuando puedas, bloquear los movimientos del rival.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `drag` `click`
 
 *   **Jugar una ficha:** Haz clic y arrastra una ficha desde tu mano hasta uno
     de los extremos abiertos de la cadena.
@@ -75,4 +77,5 @@ que planear a largo plazo y, cuando puedas, bloquear los movimientos del rival.
     *   **R:** Observa qué números quedan en los extremos. Si intuyes que tu
         oponente tiene muchas fichas de un valor concreto, intenta evitar que
         ese número quede abierto en los extremos, obligándole a robar o pasar.
+
 

@@ -34,6 +34,8 @@ Turbo und Gewicht und schaltest neue Strecken frei.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD` `Space`
 
 - WASD/Pfeiltasten: Lenken und Gas/Bremse.  
 - Leertaste: Handbremse.  
@@ -65,3 +67,4 @@ Turbo und Gewicht und schaltest neue Strecken frei.
   **A:** Viele Versionen erlauben es, Tuning-Presets anzulegen – so kannst du ein
   Setup für technische, langsame Kurse und eines für schnelle Highspeed-Strecken
   speichern.
+

@@ -87,6 +87,8 @@ Die Strategie bei Cookie Clicker dreht sich um Effizienz und das Wissen, wann wi
 
 <!-- i18n:section:controls -->
 ### **Steuerung**
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Mouse` `Click` `Click` `CTRL` `SHIFT` `Click` `CTRL` `Click` `SHIFT` `Click`
 
 Das Spiel wird fast komplett mit der Maus gesteuert.
 
@@ -130,3 +132,4 @@ Das Spiel wird fast komplett mit der Maus gesteuert.
 **5. Hat Cookie Clicker ein Ende?**  
 > Nein, das Spiel ist praktisch endlos. Ziel ist, Zahlen explodieren zu lassen
 > und möglichst viele Upgrades und Achievements freizuschalten.
+

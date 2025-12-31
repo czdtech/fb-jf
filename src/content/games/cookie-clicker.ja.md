@@ -46,6 +46,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `Mouse` `Click` `Click` `CTRL` `SHIFT` `Click` `CTRL` `Click` `SHIFT` `Click`
 
 ほとんどはマウス操作ですが、いくつかのUIとショートカットを覚えると効率が上がります。
 
@@ -78,4 +80,5 @@ locale: ja
 <!-- i18n:faq:id=faq:cookie-clicker:is-there-an-end-to-ce958c6b -->
 **5. Cookie Clicker に終わりはありますか？**
 ありません。数字を伸ばし続け、実績やアップグレードを集めていく「終わりのない」放置ゲームです。
+
 

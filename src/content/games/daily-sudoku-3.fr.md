@@ -44,6 +44,8 @@ niveau expert.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `Enter` `click` `enter`
 
 - **Saisie de chiffres** : clique/tape sur une case puis sur le chiffre voulu.  
 - **Outils** : notes, gomme, vérification, aide, selon ce que propose la
@@ -75,3 +77,4 @@ affichant les conflits en rouge, ce qui te permet de corriger tout de suite.
 R : Sur les grilles faciles, ce n’est pas indispensable. Mais sur du moyen à
 difficile, c’est presque impossible de garder toutes les possibilités en tête.
 Noter les candidats est une technique de base pour résoudre méthodiquement.
+

@@ -50,6 +50,8 @@ simplement de regarder ta ferme grandir.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `Click` `Click`
 
 - **Planter / Arroser / Récolter** : touche ou clique sur une parcelle pour
   interagir (choisir une graine, arroser, ramasser la récolte).  
@@ -98,4 +100,5 @@ progresses plus lentement si tu ne t’occupes pas de tes cultures.
 **Q : Y a‑t‑il une fin ?**  
 R : La plupart des jeux de ferme sont ouverts. Ton objectif principal est de
 faire grandir ta ferme et de débloquer le plus de contenus possible.
+
 

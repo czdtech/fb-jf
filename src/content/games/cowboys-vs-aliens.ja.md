@@ -34,7 +34,7 @@ locale: ja
 <!-- i18n:section:controls -->
 ### 操作ガイド
 <!-- i18n:controls:keys -->
-- キー（整合）： `W` `A` `S` `D` `Left Mouse Button` `Space Bar` `1` `2` `3...`
+- キー（整合）： `W` `A` `S` `D` `Arrow Keys` `Mouse` `Left` `Button` `Space Bar` `1` `2` `3...` `Mouse`
 
 *   **PC/Web:**
     *   **移動:** W, A, S, D または 矢印キー
@@ -45,4 +45,5 @@ locale: ja
 *   **Mobile:**
     *   **移動:** 画面左側のバーチャルスティック
     *   **照準/射撃:** 画面右側のボタン（射撃/ジャンプ/スキルなど）
+
 

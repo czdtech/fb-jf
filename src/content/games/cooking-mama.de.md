@@ -54,6 +54,8 @@ vorgesehene Abfolge zu durchlaufen.
 
 <!-- i18n:section:controls -->
 ### **Steuerung**
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Mouse` `Click` `Drag` `mouse`
 
 Das ursprünglich Flash-basierte Browsergame verwendet einfache Maussteuerung.
 
@@ -86,4 +88,5 @@ Das ursprünglich Flash-basierte Browsergame verwendet einfache Maussteuerung.
 > Ursprünglich lief es kostenlos auf der PETA-Webseite. Da es auf Flash
 > basiert, ist es in modernen Browsern nur noch über Erhaltungsprojekte (z. B.
 > Archive mit eingebettetem Flash-Emulator) spielbar.
+
 

@@ -83,7 +83,7 @@ Cuphead는 높은 난이도로 유명하며, 정밀한 조작과 빠른 반사 �
 <!-- i18n:section:controls -->
 ### **조작 방법**
 <!-- i18n:controls:keys -->
-- 키(정렬)： `Arrow Keys` `W, A, S, D` `Z` `Space Bar` `X` `Left Ctrl` `Left Shift` `V` `Right Ctrl` `C` `Tab` `E` `Q`
+- 키(정렬)： `Arrow Keys` `W, A, S, D` `Z` `Space Bar` `X` `Left Ctrl` `Left Shift` `Hold` `V` `Right Ctrl` `C` `Tab` `E` `Q`
 
 아래는 기본 키보드 조작 기준입니다(플랫폼/버전에 따라 다를 수 있음).
 
@@ -128,3 +128,4 @@ Cuphead는 높은 난이도로 유명하며, 정밀한 조작과 빠른 반사 �
 플레이어 실력과 호흡에 따라 다릅니다. 서로를 부활시킬 수 있다는 점은 큰 장점이지만,
 보스 체력이 늘어나고 화면이 더 복잡해져 오히려 난이도가 올라가기도 합니다.
 서로 역할을 정하고 소통이 잘 맞는다면 훨씬 수월해질 수 있습니다.  
+

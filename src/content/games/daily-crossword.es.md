@@ -35,6 +35,8 @@ comprobar o revelar entradas.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `arrow keys` `Backspace` `Enter` `Tab`
 
 - Teclea A–Z; usa las flechas para moverte; Backspace borra; Enter/Tab cambia de
   dirección o avanza (dependiendo del sitio).
@@ -45,4 +47,5 @@ comprobar o revelar entradas.
 - Empieza por pistas cortas y fáciles y amplía a partir de las letras cruzadas.
 - Si el sitio mide el tiempo, utiliza las herramientas de Comprobar/Revelar con
   moderación para evitar penalizaciones.
+
 

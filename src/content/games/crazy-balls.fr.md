@@ -46,6 +46,8 @@ les cibles avant d’être submergé ou à court de tirs.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag`
 
 - **Viser / Tirer** : clique et fais glisser pour choisir l’angle, puis relâche
   pour lancer les balles (ou utilise les touches indiquées si tu contrôles
@@ -68,4 +70,5 @@ les cibles avant d’être submergé ou à court de tirs.
 <!-- i18n:faq:id=faq:crazy-balls:timed-levels-05d52f9e -->
 - Q: Niveaux chronométrés ?
   A: S’il y a un chrono, privilégie une progression sûre plutôt que des tirs risqués.
+
 

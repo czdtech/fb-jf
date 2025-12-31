@@ -42,6 +42,8 @@ Logik sind identisch: Jede Zeile, Spalte und Box muss die Ziffern 1–9 genau
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `Enter` `click` `enter`
 
 *   **Zelle wählen:** Klicke auf ein leeres Feld im 9×9‑Gitter.
 *   **Zahl eingeben:** Wähle danach eine Zahl über das Zahlenfeld am Bildschirm oder per Tastatur.
@@ -66,4 +68,5 @@ Logik sind identisch: Jede Zeile, Spalte und Box muss die Ziffern 1–9 genau
         Sollte ein Rätsel wirklich festgefahren wirken, kann ein
         vorsichtiger "Guess" mit Notizen helfen, aber nutze diese Option nur
         als letztes Mittel.
+
 

@@ -50,7 +50,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### **操作指南**
 <!-- i18n:controls:keys -->
-- 按键（对齐）： `W` `A` `S` `D` `Left Mouse Button` `Space Bar` `1` `2` `3...`
+- 按键（对齐）： `W` `A` `S` `D` `Arrow Keys` `Mouse` `Left` `Button` `Space Bar` `1` `2` `3...` `Mouse`
 
 *   **PC/Web 版本：**
     *   **移动：** 使用 W、A、S、D 或方向键进行前后左右移动；
@@ -65,3 +65,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
         ”的方式自动瞄准。
 
 > 具体按键可能会因网站或移植版本略有不同，建议进入设置/帮助菜单确认当前映射。
+

@@ -31,6 +31,8 @@ mobiles et des plateformes fragiles.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD` `Esc`
 - Flèches/WASD : avancer/reculer/basculer ; R : recommencer ; Esc/P : pause (selon
   l’hébergeur).
 
@@ -52,5 +54,6 @@ et bascule.
 <!-- i18n:faq:id=faq:drive-mad:why-break-on-bridges-01cab9f5 -->
 - Q: Pourquoi je “casse” sur les ponts ?
 A: Trop de vitesse comprime la suspension et te fait rebondir hors du pont.
+
 
 

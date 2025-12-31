@@ -73,6 +73,8 @@ Cookie Clicker의 전략은 “언제, 무엇에 투자할지”를 효율적으
 
 <!-- i18n:section:controls -->
 ### **조작 방법**
+<!-- i18n:controls:keys -->
+- 키(정렬)： `mouse` `Mouse` `Click` `Click` `CTRL` `SHIFT` `Click` `CTRL` `Click` `SHIFT` `Click`
 
 이 게임은 대부분 마우스로 조작하지만, 인터페이스의 몇 가지 요소를 알아 두면 훨씬 편합니다.
 
@@ -115,3 +117,4 @@ Cookie Clicker의 전략은 “언제, 무엇에 투자할지”를 효율적으
 **5. Cookie Clicker에는 엔딩이 있나요?**  
 사실상 없습니다. 숫자가 끝없이 올라가고, 모든 업그레이드와 업적을 모으는 것이 장기적인 목표일
 뿐입니다. 느긋하게 성장과 최적화를 즐기는 게임이라고 생각하면 됩니다.
+

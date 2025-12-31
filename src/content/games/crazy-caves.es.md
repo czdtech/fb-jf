@@ -49,6 +49,8 @@ es doble: esquivar la lluvia de escombros para seguir con vida y, al mismo
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `drag` `Click` `left` `button` `tap`
 
 *   **Moverse:** Usa el ratón o el dedo para arrastrar la vagoneta de izquierda
     a derecha por la parte inferior de la pantalla.
@@ -74,4 +76,5 @@ es doble: esquivar la lluvia de escombros para seguir con vida y, al mismo
     *   **R:** Las rocas grandes necesitan varios impactos. Lanza varios picos
         seguidos mientras sigues esquivando el resto de escombros y procura
         empezar a dañarlas cuando aún estén lejos de tu posición.
+
 

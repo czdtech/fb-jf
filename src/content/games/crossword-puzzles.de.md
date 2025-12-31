@@ -35,6 +35,8 @@ Rätsel und ein Archiv.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `arrow keys` `Backspace` `Enter` `Tab`
 
 - A–Z tippen, Pfeiltasten zum Navigieren, Backspace zum Löschen.
 - Enter/Tab: Richtung wechseln oder zum nächsten Hinweis springen
@@ -64,5 +66,6 @@ Rätsel und ein Archiv.
   
   A: Häufig gibt es ein Archiv, in dem du vergangene Rätsel jederzeit nachholen
   kannst.
+
 
 

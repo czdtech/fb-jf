@@ -38,6 +38,8 @@ jugar con tiempo para un desafío extra o sin límite para desconectar.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag`
 
 - Arrastra sobre las letras para seleccionar una palabra y suelta para
   confirmarla.
@@ -63,4 +65,5 @@ jugar con tiempo para un desafío extra o sin límite para desconectar.
   
   R: El modo cronometrado es ideal para practicar rapidez; el modo relajado es
   perfecto para desconectar sin presión.
+
 

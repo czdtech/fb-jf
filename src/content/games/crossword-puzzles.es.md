@@ -35,6 +35,8 @@ rotación diaria de crucigramas y un archivo histórico.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `arrow keys` `Backspace` `Enter` `Tab`
 
 - Teclea A–Z; usa las flechas para moverte; Backspace borra; Enter/Tab cambia de
   dirección o salta a la siguiente pista (según la web).
@@ -62,4 +64,5 @@ rotación diaria de crucigramas y un archivo histórico.
   
   R: Lo normal es que el portal mantenga un archivo para que puedas resolver
   temas de días pasados.
+
 

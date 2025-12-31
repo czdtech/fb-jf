@@ -45,6 +45,8 @@ quotidienne.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `drag` `drop`
 
 - **Explorer** : clique/tape sur les zones interactives pour zoomer ou ramasser
   des objets.  
@@ -63,5 +65,6 @@ quotidienne.
 <!-- i18n:faq:id=faq:daily-room-escape:too-dark-to-see-3ece7f99 -->
 - Q: Les objets ne se combinent pas ?
 R : Selon le site, un menu peut permettre de rejouer les niveaux précédents.
+
 
 

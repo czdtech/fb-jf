@@ -55,6 +55,8 @@ länger durchzuhalten.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `drag` `Click` `left` `button` `tap`
 
 *   Bewegen: Ziehe den Wagen mit Maus oder Finger am unteren Bildschirmrand
     nach links und rechts.
@@ -79,4 +81,5 @@ länger durchzuhalten.
 *   F: Wie gehe ich mit sehr großen Brocken um?
     *   A: Bleibe mobil, wirf mehrere Spitzhacken schnell hintereinander und
         fange früh an, solche Brocken zu bearbeiten, bevor sie zu nah kommen.
+
 

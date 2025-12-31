@@ -58,6 +58,8 @@ alguien alcanza una puntuación objetivo (por ejemplo, 15 puntos).
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `click` `Click` `drag` `click`
 
 El juego está pensado para un control intuitivo con ratón o táctil.
 
@@ -90,4 +92,5 @@ contrincante se queda con [6‑5] y [2‑1], recibes (6+5+2+1) = 14 puntos.
 **4. ¿Qué es el "Trophy Road"?**  
 Es un sistema de progresión en el que desbloqueas recompensas al jugar
 partidas: nuevos sets de fichas, aspectos y otros extras cosméticos.
+
 

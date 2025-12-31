@@ -47,6 +47,8 @@ exercice pour affiner ta stratégie et suivre ta progression au fil du temps.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `drag` `Click`
 
 - **Déplacer les cartes** : clique‑glisse une carte ou une séquence valide
   entre les colonnes ou vers les fondations.  
@@ -74,3 +76,4 @@ difficile.
 **Q : Puis‑je jouer aux puzzles des jours précédents ?**  
 R : Souvent oui : beaucoup de jeux quotidiens proposent un calendrier permettant
 de rejouer les puzzles des dates précédentes que tu as manquées.
+

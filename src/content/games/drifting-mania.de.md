@@ -39,6 +39,8 @@ Gas und suchst perfekte Kurvenausgänge, um Rundenzeiten stetig zu verbessern.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Space`
 
 - Lenken: A/D oder Links/Rechts.  
 - Gas/Bremse: W/S oder Hoch/Runter.  
@@ -62,3 +64,4 @@ Gas und suchst perfekte Kurvenausgänge, um Rundenzeiten stetig zu verbessern.
   **A:** Saubere Linien und stabile Drifts schlagen rohen Topspeed – halte
   konstanten Rhythmus, anstatt alles in einer einzigen riskanten Kurve zu
   verlieren.
+

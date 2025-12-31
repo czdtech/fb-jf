@@ -36,6 +36,8 @@ beeinflussen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse`
 
 - Maus/Touch: Wische über Seile, um sie zu zerschneiden; Buttons dienen zum
   Neustart oder zum Wechsel ins nächste Level. Manche Versionen bieten
@@ -65,5 +67,6 @@ beeinflussen.
   
   A: Einige Versionen bieten optionale Hilfen oder Hinweise; die Verfügbarkeit
   hängt vom jeweiligen Host ab.
+
 
 

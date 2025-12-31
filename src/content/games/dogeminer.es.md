@@ -37,6 +37,8 @@ más allá mediante cohetes.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `click`
 
 - Ratón/táctil: haz clic para minar manualmente y usa los botones de la
   interfaz para comprar mejoras, ayudantes y piezas de cohete.
@@ -64,4 +66,5 @@ más allá mediante cohetes.
 - **P: ¿Cuál es el objetivo a largo plazo?**  
   **R:** Escalar tu producción lo suficiente como para lanzar cohetes, llegar a
   la Luna y seguir desbloqueando nuevas zonas y mejoras.
+
 

@@ -42,6 +42,8 @@ Zuckerplatte reißen – und die Runde ist verloren.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag`
 
 - Ziehe mit Maus oder Finger entlang der Kontur, um die Form aus der
   Zuckerwabe zu schneiden; Empfindlichkeit für Druck/Winkel variiert nach
@@ -68,4 +70,5 @@ Zuckerplatte reißen – und die Runde ist verloren.
   
   Schneide zuerst die langen, äußeren Linien und hebe die engen Innenradien
   bis zum Schluss auf.
+
 

@@ -36,6 +36,8 @@ niveaux de difficulté. Le but est de remplir la grille avec des chiffres de 1 �
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `enter` `Shift` `click`
 
 - **Placer un chiffre** : clique/tape sur une case, puis sur un chiffre dans le
   panneau ou via ton clavier.  
@@ -68,4 +70,5 @@ niveaux de difficulté. Le but est de remplir la grille avec des chiffres de 1 �
 - Q: Les versions en ligne gèrent‑elles les notes (pencil marks) ?
 R : Les grilles quotidiennes sont en général générées pour n’avoir qu’une seule
 solution.
+
 

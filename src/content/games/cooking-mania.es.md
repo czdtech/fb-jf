@@ -41,6 +41,8 @@ más rápida te permiten encadenar pedidos y conseguir monedas extra.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `drag` `tap`
 
 - Toca para preparar ingredientes, arrastra para montar el plato y toca al
   cliente para servirle.
@@ -66,4 +68,5 @@ más rápida te permiten encadenar pedidos y conseguir monedas extra.
   
   R: Muchos niveles no permiten pausar en plena hora punta; organiza tu tiempo
   antes de empezar.
+
 

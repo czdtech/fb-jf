@@ -31,6 +31,8 @@ accumuler des pièces et améliorer ton véhicule.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `Space` `hold`
 - Souris/Espace/Tactile : maintiens pour drifter ; relâche pour aller tout droit.
 
 <!-- i18n:section:tips -->
@@ -54,5 +56,6 @@ tolérante.
 - Q: Comment farmer des pièces plus vite ?
 A: Enchaîne de longues runs et fais les défis quotidiens/de piste quand ils
 existent.
+
 
 

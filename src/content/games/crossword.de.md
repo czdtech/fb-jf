@@ -36,6 +36,8 @@ meist 180°-Rotationssymmetrie. Übliche Größen sind 15×15 an Wochentagen und
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `arrow keys` `Backspace` `Enter` `Tab`
 
 - A–Z tippen, Pfeiltasten bewegen den Cursor zwischen Feldern.
 - Backspace löscht den vorherigen Buchstaben.
@@ -66,5 +68,6 @@ meist 180°-Rotationssymmetrie. Übliche Größen sind 15×15 an Wochentagen und
   
   A: In amerikanischen Gitterstandards wird normalerweise jeder Buchstabe durch
   ein kreuzendes Wort geprüft.
+
 
 

@@ -35,6 +35,8 @@ Drift Hunters는 정교한 드리프트 조작과 차량 튜닝에 초점을 맞
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `WASD` `Space`
 
 - WASD / 방향키: 조향 및 가속·감속  
 - Space: 핸드브레이크  
@@ -62,4 +64,5 @@ Drift Hunters는 정교한 드리프트 조작과 차량 튜닝에 초점을 맞
 <!-- i18n:faq:id=faq:drift-hunters:can-i-tune-per-track-07404505 -->
 - Q: 트랙별로 세팅을 바꿀 수 있나요?  
   A: 가능한 버전이라면 트랙 성격에 맞춰 프리셋을 저장해 두는 것이 좋습니다.
+
 

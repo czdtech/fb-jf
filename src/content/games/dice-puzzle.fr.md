@@ -50,6 +50,8 @@ partie se termine lorsque plus aucune case n’est disponible pour poser un dé.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `Click`
 
 - **Placer un dé** : clique/tape sur une case vide pour y poser le dé actuel.  
 - **Rotation** (si prévue) : clique sur le dé en attente pour le faire pivoter
@@ -90,4 +92,5 @@ chaînant fusions et explosions de cubes‑bijoux.
 <!-- i18n:faq:id=faq:dice-puzzle:q-what-happens-when-i-68b2ff3c -->
 **Q : Que se passe‑t‑il quand la grille est pleine ?**  
 R : Si aucun emplacement n’est libre pour le prochain dé, la partie s’arrête.
+
 

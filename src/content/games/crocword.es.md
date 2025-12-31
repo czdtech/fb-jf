@@ -39,6 +39,8 @@ con rejillas más largas y retorcidas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag`
 
 - Arrastra sobre las letras para formar palabras y suelta para enviarlas.
 - Usa las pistas con moderación para revelar letras o palabras cuando sea
@@ -64,4 +66,5 @@ con rejillas más largas y retorcidas.
   
   R: Sí, en muchas versiones puedes volver a puzles anteriores para acumular
   monedas si el modo lo permite.
+
 

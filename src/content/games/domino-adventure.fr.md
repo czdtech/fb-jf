@@ -59,6 +59,8 @@ score cible (par ex. 15 points, selon la version).
 
 <!-- i18n:section:controls -->
 ### **Commandes**
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `drop` `click` `Click` `drag` `click`
 
 Le jeu est pensé pour un gameplay simple au clic ou au glisser‑déposer.
 
@@ -91,5 +93,6 @@ sur les dominos restants dans la main du perdant**. Par exemple, s’il lui rest
 **4. Qu’est‑ce que la “Trophy Road” ?**
 La Trophy Road est un système de progression où tu gagnes des récompenses en
 jouant (souvent des sets de tuiles à collectionner et d’autres éléments cosmétiques).
+
 
 

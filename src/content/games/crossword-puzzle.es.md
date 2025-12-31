@@ -40,6 +40,8 @@ formatos de cuadrícula y convenciones de pista.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `enter` `arrow keys` `Backspace` `Enter` `Tab` `Mouse` `tap`
 
 - Teclas A–Z para introducir letras; flechas para desplazarte por la cuadrícula.
 - Backspace: borrar la letra anterior.
@@ -80,4 +82,5 @@ formatos de cuadrícula y convenciones de pista.
   
   R: La mayoría de crucigramas ignoran puntuación y tildes; normalmente solo se
   rellenan letras, salvo que se indique lo contrario.
+
 

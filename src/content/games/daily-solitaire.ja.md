@@ -31,6 +31,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Click` `drag` `Click`
 
 *   **移動:** カードをクリックしてドラッグ＆ドロップします。
 *   **配布:** 山札をクリックしてカードをめくります。
@@ -50,3 +52,4 @@ locale: ja
 <!-- i18n:faq:id=faq:daily-solitaire:q-can-i-play-previous-f5b5cc34 -->
 *   **Q: 過去の日付のパズルは遊べますか？**
     *   **A:** 多くのバージョンにはカレンダー機能があり、見逃した日のパズルに遡って挑戦することができます。
+

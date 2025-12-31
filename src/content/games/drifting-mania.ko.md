@@ -43,6 +43,8 @@ Drifting Mania는 위에서 내려다보는 탑다운 방식의 드리프트 레
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `Space`
 
 - 조향: A/D 또는 좌/우 방향키  
 - 가속/브레이크: W/S 또는 위/아래 방향키  
@@ -64,4 +66,5 @@ Drifting Mania는 위에서 내려다보는 탑다운 방식의 드리프트 레
 <!-- i18n:faq:id=faq:drifting-mania:best-times-55300466 -->
 - **Q: 빠른 기록을 내려면 무엇이 중요하나요?**  
   **A:** 무리하게 속도를 내기보다 코너를 깔끔하게 이어 가는 라인이 더 좋은 기록으로 이어집니다.
+
 

@@ -40,6 +40,8 @@ Plus tu descends, plus la vitesse augmente et plus les obstacles se compliquent.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `tap`
 
 - **Déplacement** : inclinaison (sur mobile) ou touches/flèches pour bouger à
   gauche/droite.  
@@ -75,4 +77,5 @@ Plus tu descends, plus la vitesse augmente et plus les obstacles se compliquent.
 - Q: Y a‑t‑il des bonus (bonus) ?
 R : La plupart des versions sont de type endless, avec une difficulté croissante
 et un score basé sur la profondeur atteinte.
+
 

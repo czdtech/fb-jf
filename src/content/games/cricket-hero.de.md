@@ -45,6 +45,8 @@ wirklich zum Cricket Hero zu werden?
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `left` `button` `tap` `click`
 
 *   Schlag ausführen: Klicke mit der linken Maustaste oder tippe auf den
     Bildschirm, um den Schläger zu schwingen. Das Timing deines Klicks ist
@@ -68,4 +70,5 @@ wirklich zum Cricket Hero zu werden?
     *   A: Ja, mit steigender Run-Zahl triffst du auf unterschiedliche Bowler
         mit variierenden Geschwindigkeiten und Stilen, was den Schwierigkeits-
         grad erhöht.
+
 

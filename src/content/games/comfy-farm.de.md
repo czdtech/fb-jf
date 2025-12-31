@@ -50,6 +50,8 @@ zusätzliche Felder freischalten.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `Click` `Click`
 
 Das Spiel wird vollständig mit Maus oder Touch bedient.
 
@@ -79,4 +81,5 @@ Das Spiel wird vollständig mit Maus oder Touch bedient.
 *   F: Warum ist eine Pflanze verschwunden?
     *   A: Vermutlich waren Schädlinge schneller. Achte auf Warnsignale und
         klicke Eindringlinge sofort weg, damit deine Ernte sicher ist.
+
 

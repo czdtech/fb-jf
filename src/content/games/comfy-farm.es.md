@@ -49,6 +49,8 @@ automatizar y ampliar tu cómoda granja.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `Click` `Click`
 
 El juego se maneja por completo con clics de ratón o toques en pantalla.
 
@@ -79,4 +81,5 @@ El juego se maneja por completo con clics de ratón o toques en pantalla.
     *   **R:** Lo más probable es que una plaga se la haya comido. Tienes que
         reaccionar rápido y hacer clic sobre cuervos o insectos en cuanto los veas
         sobre tus cultivos para evitar que se los lleven.
+
 

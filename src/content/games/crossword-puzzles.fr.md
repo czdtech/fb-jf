@@ -49,6 +49,8 @@ avancer progressivement même si certaines définitions sont difficiles.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `arrow keys` `Backspace` `Enter` `Tab`
 
 - **Saisir une réponse** : clique/tape sur une case ou une définition, puis
   entre les lettres au clavier.  
@@ -80,4 +82,5 @@ avancer progressivement même si certaines définitions sont difficiles.
   abréviations courantes.
 <!-- i18n:faq:id=faq:crossword-puzzles:can-i-play-past-themes-10b18b21 -->
 **Q : Puis‑je vérifier une seule lettre sans tout révéler ?**  
+
 

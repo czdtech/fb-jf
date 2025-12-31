@@ -45,6 +45,8 @@ Reine Logik, keine Mathematik – gefragt sind Geduld und Konzentration.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `Enter` `click` `enter`
 
 *   Feld wählen: Klicke ein leeres Feld im 9×9-Gitter an.
 *   Zahl eintragen: Klicke anschließend auf eine Zahl im On-Screen-Nummernfeld.
@@ -70,4 +72,5 @@ Reine Logik, keine Mathematik – gefragt sind Geduld und Konzentration.
     *   A: Bei leichten Rätseln kommst du oft ohne aus. Bei mittleren und
         schweren Sudokus sind Notizen jedoch praktisch unverzichtbar, um
         Kandidaten systematisch zu verwalten.
+
 

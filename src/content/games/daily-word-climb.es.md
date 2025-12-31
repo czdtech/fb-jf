@@ -49,6 +49,8 @@ limitado de movimientos, tienes que pensar cada jugada.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `click`
 
 El juego se maneja con clics o toques muy sencillos.
 
@@ -73,4 +75,5 @@ El juego se maneja con clics o toques muy sencillos.
 *   **P: ¿De verdad hay un puzle nuevo cada día?**
     *   **R:** Sí, la idea de Daily Word Climb es ofrecerte un reto fresco y
         diferente cada día.
+
 

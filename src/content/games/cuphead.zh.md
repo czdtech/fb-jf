@@ -64,7 +64,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### **操作指南**
 <!-- i18n:controls:keys -->
-- 按键（对齐）： `Arrow Keys` `W, A, S, D` `Z` `Space Bar` `X` `Left Ctrl` `Left Shift` `V` `Right Ctrl` `C` `Tab` `E` `Q`
+- 按键（对齐）： `Arrow Keys` `W, A, S, D` `Z` `Space Bar` `X` `Left Ctrl` `Left Shift` `Hold` `V` `Right Ctrl` `C` `Tab` `E` `Q`
 
 以下为常见键盘默认操作，具体可在游戏内设置查看：
 
@@ -106,3 +106,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 要看你和队友的配合。能互相 Parry 复活队友确实是巨大优势，但 Boss 血量会显着增加，而且
 屏幕变得更加混乱。如果两人沟通良好、分工明确（例如一人偏输出、一人偏躲避与救援），整
 体体验会相对轻松；否则可能反而更乱。  
+

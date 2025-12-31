@@ -46,6 +46,8 @@ frappes puissantes pour rattraper un retard au score.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `tap`
 
 - **Sélection du tir** : direction ou bouton pour choisir la zone de frappe.  
 - **Timing** : touche l’écran ou clique au moment optimal pour envoyer la balle
@@ -63,3 +65,4 @@ frappes puissantes pour rattraper un retard au score.
 
 <!-- i18n:faq:id=faq:cricket-mania:can-i-bowl-b3542147 -->
 - Trop de catches ? Tu joues trop de balles levées en profondeur : privilégie les coups au sol.
+

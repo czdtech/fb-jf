@@ -38,6 +38,8 @@ partida.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Arrow Keys` `Space`
 
 - Flechas de dirección: moverse / saltar (Arriba) / agacharse (Abajo).
 - Barra espaciadora: ataque de giro (la tecla puede variar según la web que
@@ -74,4 +76,5 @@ partida.
   
   R: La mayoría de versiones Flash o de navegador no guardan el progreso más
   allá de la sesión actual.
+
 

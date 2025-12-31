@@ -34,6 +34,8 @@ weiter, bis du schließlich "out" bist.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `tap` `click`
 
 - Maus/Touch: Ein einfacher Klick oder Tap reicht zum Schlagen. Timing bestimmt
   Richtung und Schlagkraft.
@@ -64,3 +66,4 @@ weiter, bis du schließlich "out" bist.
 - **F: Wie wird mein Score gespeichert?**  
   **A:** In der Regel lokal bzw. nur für die aktuelle Sitzung; das hängt vom
   jeweiligen Host ab.
+

@@ -52,6 +52,8 @@ besten Fall zu blockieren.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `drag` `click`
 
 - **Stein legen:** Klicke einen Domino in deiner Hand an und ziehe ihn auf ein
   passendes offenes Ende der Kette.
@@ -78,4 +80,5 @@ besten Fall zu blockieren.
         Steine vermutest, dass dein Gegner eine bestimmte Zahl kaum oder gar nicht
         besitzt, vermeide es, diese Zahl offen liegen zu lassen. So zwingst du ihn
         eher zum Nachziehen oder Passen.
+
 

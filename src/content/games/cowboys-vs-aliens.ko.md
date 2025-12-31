@@ -51,7 +51,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### **조작 방법**
 <!-- i18n:controls:keys -->
-- 키(정렬)： `W` `A` `S` `D` `Left Mouse Button` `Space Bar` `1` `2` `3...`
+- 키(정렬)： `W` `A` `S` `D` `Arrow Keys` `Mouse` `Left` `Button` `Space Bar` `1` `2` `3...` `Mouse`
 
 * **PC/웹 버전**  
     - **이동**: W, A, S, D 또는 방향키  
@@ -64,4 +64,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
     - **이동**: 화면 왼쪽의 가상 조이스틱  
     - **조준/공격**: 화면 오른쪽에 있는 버튼들로 조준, 사격, 점프, 특수 스킬 등을
     사용합니다. 게임에 따라 스킬 버튼 구성은 조금씩 달라질 수 있습니다.
+
 

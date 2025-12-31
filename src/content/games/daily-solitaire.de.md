@@ -43,6 +43,8 @@ Kartentaktik einzutauchen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `drag` `Click`
 
 *   Karten ziehen: Klicke und ziehe Karten oder Sequenzen zwischen den Stapeln.
 *   Talon nutzen: Klicke auf den Nachziehstapel, um neue Karten auf den
@@ -69,4 +71,5 @@ Kartentaktik einzutauchen.
 *   F: Kann ich verpasste Tagesrätsel nachholen?
     *   A: Viele Daily-Formate bieten einen Kalender, über den du frühere
         Puzzles erneut aufrufen kannst.
+
 

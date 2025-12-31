@@ -45,6 +45,8 @@ L’objectif est de réaliser le plus de points possible avant de te faire
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `left` `button` `tap` `click`
 
 - **Choisir un coup** : selon la version, touche un bouton ou fais glisser dans
   une direction pour choisir le type de frappe (coup droit, leg side, loft,…).  
@@ -83,4 +85,5 @@ beaucoup de runs mais te gardent en vie.
 **Q : Le jeu simule‑t‑il tout le cricket ?**  
 R : Non, Cricket Hero se focalise en général sur le batting, sans gestion
 complète des équipes ou de la partie.
+
 

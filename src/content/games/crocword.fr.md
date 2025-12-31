@@ -48,6 +48,8 @@ complexes.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag`
 
 - **Former un mot** : fais glisser ton doigt ou ta souris sur les lettres dans
   l’ordre voulu, puis relâche pour valider.  
@@ -66,4 +68,5 @@ complexes.
 <!-- i18n:faq:id=faq:crocword:can-i-replay-for-bonus-30158913 -->
 - Q: Les noms propres sont‑ils acceptés ?
 R : Vérifie les lettres déjà placées dans la grille : une erreur précédente peut
+
 

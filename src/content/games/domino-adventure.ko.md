@@ -57,6 +57,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `drag` `drop` `click` `Click` `drag` `click`
 
 게임은 직관적인 드래그 앤 드롭 또는 클릭 방식으로 즐길 수 있습니다.
 
@@ -91,4 +93,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 **4. "Trophy Road"는 무엇인가요?**  
 > Trophy Road는 플레이를 통해 트로피를 모으고, 그에 따라 새로운 타일 세트나 기타
 > 꾸미기 요소를 해금할 수 있는 진행 시스템입니다.
+
 

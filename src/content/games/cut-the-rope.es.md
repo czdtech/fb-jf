@@ -36,6 +36,8 @@ peligros que alteran la trayectoria y el tiempo de caída del caramelo.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse`
 
 - Desliza con el ratón o el dedo para cortar; usa los botones de la interfaz
   para reiniciar el nivel o pasar al siguiente. Algunas versiones añaden sistema
@@ -65,4 +67,5 @@ peligros que alteran la trayectoria y el tiempo de caída del caramelo.
   
   R: Algunas versiones incluyen ayudas opcionales o pistas; su disponibilidad
   depende de la página donde juegues.
+
 

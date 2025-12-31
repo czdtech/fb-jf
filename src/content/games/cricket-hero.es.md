@@ -48,6 +48,8 @@ carreras podrás conseguir antes de caer?
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `left` `button` `tap` `click`
 
 *   **Golpear la pelota:** Haz clic con el botón izquierdo del ratón o toca la
     pantalla para balancear el bate. El momento del clic es tu único control,
@@ -72,4 +74,5 @@ carreras podrás conseguir antes de caer?
 *   **P: ¿Hay distintos tipos de lanzadores?**
     *   **R:** Sí, a medida que sumas carreras irás enfrentándote a lanzadores
         con distintas velocidades y estilos, lo que aumenta el desafío.
+
 

@@ -52,6 +52,8 @@ un jeu de lettres à relier.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `click`
 
 - **Former un mot** : glisse ton doigt ou ta souris sur les lettres dans l’ordre
   voulu, ou clique/tape sur chaque lettre.  
@@ -75,3 +77,4 @@ tu rates le niveau et dois recommencer.
 **Q : Y a‑t‑il un nouveau puzzle chaque jour ?**  
 R : Oui. Comme son nom l’indique, tu as un nouveau puzzle de mots à résoudre
 chaque jour.
+

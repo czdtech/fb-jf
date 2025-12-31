@@ -76,7 +76,7 @@ una mentalidad de prueba‑y‑error para aprender cada patrón enemigo.
 <!-- i18n:section:controls -->
 ### **Guía de controles**
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `Arrow Keys` `W, A, S, D` `Z` `Space Bar` `X` `Left Ctrl` `Left Shift` `V` `Right Ctrl` `C` `Tab` `E` `Q`
+- Teclas (alineación)： `Arrow Keys` `W, A, S, D` `Z` `Space Bar` `X` `Left Ctrl` `Left Shift` `Hold` `V` `Right Ctrl` `C` `Tab` `E` `Q`
 
 Los controles son muy precisos. Estos son los mapeos de teclado más habituales:
 
@@ -119,4 +119,5 @@ jefes.
 Depende. Poder revivir al compañero es una gran ventaja, pero los jefes tienen
 más vida y la pantalla se llena de todavía más proyectiles. Si os coordináis
 bien, puede ser más llevadero; si no, puede ser incluso más caótico.
+
 

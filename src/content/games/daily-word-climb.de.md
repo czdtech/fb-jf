@@ -47,6 +47,8 @@ Zugzahl musst du deine Swaps gut planen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `click`
 
 Die Steuerung ist einfach — siehe unten.
 
@@ -71,4 +73,5 @@ Die Steuerung ist einfach — siehe unten.
 *   F: Gibt es wirklich jeden Tag ein neues Rätsel?
     *   **A:** Ja, wie der Name andeutet, wird dir täglich ein neues, einzigartiges
         Wortpuzzle präsentiert.
+
 

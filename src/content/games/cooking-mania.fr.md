@@ -48,6 +48,8 @@ priorités.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `drag` `tap`
 
 - **Préparer un plat** : touche ou clique sur les ingrédients dans l’ordre
   indiqué pour assembler la commande.  
@@ -68,3 +70,4 @@ priorités.
 
 <!-- i18n:faq:id=faq:cooking-mania:can-i-pause-54d738e5 -->
 - Q: Which upgrades are best early?
+

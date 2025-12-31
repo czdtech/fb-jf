@@ -39,6 +39,8 @@ sens de la déduction.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `arrow keys` `Backspace` `Enter` `Tab`
 
 - **Saisie** : clique/tape dans une case, puis entre les lettres au clavier.  
 - **Navigation** : flèches, Tab ou clic sur les définitions pour passer d’un
@@ -58,4 +60,5 @@ puzzles.
 
 **Q : Les grilles sont‑elles en anglais ?**  
 R : Oui, ce jeu particulier propose des mots croisés anglophones.
+
 

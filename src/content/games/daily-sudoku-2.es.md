@@ -48,6 +48,8 @@ matemáticas: solo lógica, paciencia y concentración.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `Enter` `click` `enter`
 
 *   **Seleccionar casilla:** Haz clic en cualquier casilla vacía del 9x9.
 *   **Introducir número:** Tras seleccionar una casilla, haz clic en un número
@@ -79,4 +81,5 @@ matemáticas: solo lógica, paciencia y concentración.
         y difícil es casi imposible llevar todos los candidatos en la cabeza.
         Anotar posibilidades es la base para resolver puzles complejos de
         forma sistemática.
+
 

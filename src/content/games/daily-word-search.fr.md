@@ -41,6 +41,8 @@ parfois à l’envers.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag`
 
 - **Sélectionner un mot** : clique et fais glisser (ou glisse du doigt) de la
   première à la dernière lettre du mot.  
@@ -58,4 +60,5 @@ parfois à l’envers.
 <!-- i18n:faq:id=faq:daily-word-search:timed-vs-relaxed-which-to-bca123dc -->
 - Q: Les mots peuvent‑ils se chevaucher ?
 R : Oui, mais les mots seront déjà connus ; c’est surtout utile pour t’entraîner
+
 

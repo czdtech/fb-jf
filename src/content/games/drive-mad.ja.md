@@ -28,6 +28,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD` `Esc`
 
 *   **移動:** 矢印キー、またはWASDキー（前進、バック、バランス調整）
 *   **リスタート:** Rキー
@@ -52,4 +54,5 @@ locale: ja
 <!-- i18n:faq:id=faq:drive-mad:why-break-on-bridges-01cab9f5 -->
 - Q: 橋で壊れたり跳ねたりするのはなぜ？  
   A: 速度を出しすぎるとサスペンションが沈み、反動で弾かれやすくなります。
+
 

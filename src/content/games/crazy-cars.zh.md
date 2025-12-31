@@ -36,6 +36,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `WASD` `Arrow Keys` `Space` `Esc`
 
 - WASD 或方向键：车辆前进/后退/转向  
 - Space：刹车/手刹（部分版本中也作为氮气触发键）  
@@ -67,4 +69,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:crazy-cars:my-car-flipped-overwhat-now-4f7d27ef -->
 - **Q: 如果车翻了或者卡在奇怪位置怎么办？**  
   **A：** 按 `R` 键即可重置车辆到最近的安全位置，无需重新读取关卡。  
+
 

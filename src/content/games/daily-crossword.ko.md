@@ -35,6 +35,8 @@ Daily Crossword는 미국식 규칙을 따르는 일간 크로스워드 퍼즐�
 
 <!-- i18n:section:controls -->
 ### 조작법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `arrow keys` `Backspace` `Enter` `Tab`
 
 - 키보드 A–Z: 글자 입력  
 - 방향키: 격자 내에서 커서 이동  
@@ -48,4 +50,5 @@ Daily Crossword는 미국식 규칙을 따르는 일간 크로스워드 퍼즐�
   퍼져 나가듯 확장해 나가세요.  
 - 타이머가 있는 모드에서는 Check 같은 정답 확인 기능을 너무 자주 사용하면
   시간 패널티가 있을 수 있으니, 막혔을 때 최소한으로만 활용하는 편이 좋습니다.  
+
 

@@ -33,6 +33,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Mouse` `tap` `click`
 
 - 鼠标/触屏：单次点击/轻触即可挥棒，具体击球落点与力量取决于出手时机。  
 
@@ -58,4 +60,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:doodle-cricket:how-is-score-saved-3a56fadc -->
 - **Q: 分数会被长期保存吗？**  
   **A：** 一般只会在本地/当前会话中记录最高分，刷新页面或更换设备后可能需要重新挑战纪录。  
+
 

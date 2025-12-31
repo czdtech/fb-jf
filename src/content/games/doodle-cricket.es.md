@@ -35,6 +35,8 @@ wicket (los palos).
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `tap` `click`
 
 - Ratón/táctil: un único toque o clic para batear. El momento del impacto define
   la dirección y la potencia del golpe.
@@ -63,4 +65,5 @@ wicket (los palos).
 <!-- i18n:faq:id=faq:doodle-cricket:how-is-score-saved-3a56fadc -->
 - **P: ¿Cómo se guarda la puntuación?**  
   **R:** Normalmente se registra solo en la sesión/local; depende del host.
+
 

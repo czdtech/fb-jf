@@ -36,6 +36,8 @@ los tamaños más habituales son 15×15 entre semana y 21×21 los domingos.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `arrow keys` `Backspace` `Enter` `Tab`
 
 - Teclea A–Z; usa las flechas para moverte entre casillas; Backspace borra; y
   Enter/Tab suelen cambiar la dirección o saltar a la siguiente pista (según la
@@ -65,4 +67,5 @@ los tamaños más habituales son 15×15 entre semana y 21×21 los domingos.
   
   R: En la mayoría de rejillas de estilo americano, cada letra se comprueba con
   al menos otra respuesta que la cruza.
+
 

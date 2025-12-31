@@ -44,6 +44,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `click`
 
 游戏操作非常直观：
 
@@ -64,4 +66,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:daily-word-climb:q-is-there-a-new-60884d82 -->
 *   **Q: 真的是每天都有新谜题吗？**
     *   **A：** 是的，游戏会每天更新一组新的单词网格，适合当作日常的英语小练习。
+
 

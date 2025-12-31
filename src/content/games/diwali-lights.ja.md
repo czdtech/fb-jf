@@ -31,6 +31,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Tap` `Click`
 
 *   **操作:** タップ（クリック）でランプを点灯、またはスイッチを操作します。
 *   **ツール:** アンドゥ（一手戻る）やリセットボタンが使えます。
@@ -40,10 +42,12 @@ locale: ja
 
 <!-- i18n:faq:id=faq:diwali-lights:i-keep-failing-on-move-cedc706f -->
 *   **Q: 移動回数が足りません。**
-<!-- i18n:faq:id=faq:diwali-lights:timed-boards-de29568d -->
     *   **A:** 遠回りしていませんか？一筆書きの要領で、効率的なルートを考え直してみましょう。
 
-<!-- i18n:faq:id=faq:diwali-lights:are-hints-available-6c76ed5b -->
+<!-- i18n:faq:id=faq:diwali-lights:timed-boards-de29568d -->
 *   **Q: 時間制限が厳しいです。**
     *   **A:** 時間制限がある場合は、タイマーの近くにあるランプや、ボーナス時間をくれるアイテムを優先的に処理しましょう。
 
+<!-- i18n:faq:id=faq:diwali-lights:are-hints-available-6c76ed5b -->
+*   **Q: ヒントは使えますか？**
+    *   **A:** 多くの場合は用意されています。頼りすぎない程度に活用すると、詰まったときの助けになります。

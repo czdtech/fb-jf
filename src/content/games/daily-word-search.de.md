@@ -39,6 +39,8 @@ Herausforderung spielen oder im entspannten Modus einfach stöbern.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag`
 
 - Ziehe mit gedrückter Maus oder per Touch über zusammenhängende Buchstaben,
   um ein Wort zu markieren, und lasse los, um es zu bestätigen.
@@ -63,4 +65,5 @@ Herausforderung spielen oder im entspannten Modus einfach stöbern.
   
   A: Timer-Modus eignet sich zum Geschwindigkeitstraining; der entspannte
   Modus ist ideal zum Abschalten.
+
 

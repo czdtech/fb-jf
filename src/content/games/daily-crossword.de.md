@@ -34,6 +34,8 @@ zeigen Timer, Hinweisliste und Tools zum Prüfen oder Aufdecken von Einträgen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `arrow keys` `Backspace` `Enter` `Tab`
 
 - A–Z tippen; Pfeiltasten zum Navigieren; Backspace zum Löschen; Enter/Tab
   wechselt Richtung oder springt zum nächsten Hinweis (host-abhängig).
@@ -45,4 +47,5 @@ zeigen Timer, Hinweisliste und Tools zum Prüfen oder Aufdecken von Einträgen.
   Kreuzungen.
 - Nutze Prüf-Tools sparsam, besonders wenn Zeiten oder Serien getrackt
   werden.
+
 

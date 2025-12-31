@@ -35,6 +35,8 @@ para saltar de una pared a otra mientras la gravedad te empuja hacia abajo.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `tap`
 
 - Ratón/táctil: toca para saltar; en otras variantes se usan las teclas
   Izquierda/Derecha o A/D para saltar desde cada pared. Los detalles cambian
@@ -64,4 +66,5 @@ para saltar de una pared a otra mientras la gravedad te empuja hacia abajo.
   
   R: En ciertas versiones aparecen escudos o cámara lenta; su presencia depende
   del portal donde lo juegues.
+
 

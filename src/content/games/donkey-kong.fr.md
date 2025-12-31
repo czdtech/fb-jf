@@ -34,6 +34,8 @@ niveau.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Arrow keys`
 - Flèches : se déplacer / grimper.
 - Haut : monter aux échelles ; Saut : touche dédiée selon l’hébergeur.
 - Action : le marteau est automatique une fois ramassé et dure un court instant.
@@ -57,5 +59,6 @@ A: Oui, les stages se répètent à difficulté plus élevée après chaque nive
 <!-- i18n:faq:id=faq:donkey-kong:what-ends-a-run-ed280e19 -->
 - Q: Qu’est‑ce qui met fin à une run ?
 A: Une collision, une chute trop longue, ou le timer de bonus qui tombe à zéro.
+
 
 

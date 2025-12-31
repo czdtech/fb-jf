@@ -36,6 +36,8 @@ Raketen bauen, um zum Mond und darüber hinaus zu reisen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `click`
 
 - Maus/Touch: Klicke auf den großen Mining-Button für manuelles Schürfen und
   verwende die Buttons im Interface, um Upgrades, Helfer und Raketen zu kaufen.
@@ -64,3 +66,4 @@ Raketen bauen, um zum Mond und darüber hinaus zu reisen.
 - **F: Was ist das langfristige Ziel?**  
   **A:** Du willst deine Produktion so weit steigern, dass du Raketen zum Mond
   starten kannst und anschließend weitere Gebiete und Inhalte freischaltest.
+

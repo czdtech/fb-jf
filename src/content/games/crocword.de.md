@@ -41,6 +41,8 @@ komplizierteren Grids steigt der Schwierigkeitsgrad.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag`
 
 - Ziehe mit der Maus oder per Finger über die Buchstaben, um ein Wort zu bilden,
   und lasse los, um es zu bestätigen.
@@ -66,4 +68,5 @@ komplizierteren Grids steigt der Schwierigkeitsgrad.
   
   In vielen Versionen ja – du kannst frühere Grids erneut aufrufen, um
   Bonuswörter und zusätzliche Münzen zu farmen.
+
 

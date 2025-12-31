@@ -45,6 +45,8 @@ en cómo apilar, dejar espacios y evitar fusiones accidentales.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `Drop` `Click` `tap`
 
 - **Apuntar/colocar:** Mueve el cursor o arrastra para elegir la posición de
   caída; algunas versiones permiten rotar el punto de vista o el propio dado.
@@ -69,4 +71,5 @@ en cómo apilar, dejar espacios y evitar fusiones accidentales.
 - **P: ¿Cuándo termina la partida?**  
   **R:** Cuando ya no quedan posiciones legales o el contenedor se desborda.
   Tu objetivo es alcanzar al menos 2048, y si puedes, seguir subiendo.
+
 

@@ -48,6 +48,8 @@ Kettenreaktionen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `Drop` `Click` `tap`
 
 - **Zielen/Platzieren:** Bewege den Cursor oder ziehe, um die
   Abwurfposition zu wählen; manche Versionen erlauben auch das Drehen des
@@ -75,3 +77,4 @@ Kettenreaktionen.
   **A:** Die Partie endet, wenn du keinen Würfel mehr sinnvoll platzieren kannst
   oder das Gefäß überläuft. Dein Ziel ist es, mindestens die 2048 zu erreichen –
   oder sogar darüber hinaus.
+

@@ -50,7 +50,7 @@ Hier sind ein paar hilfreiche Tipps.
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `W` `A` `S` `D` `Left Mouse Button` `Space Bar` `1` `2` `3...`
+- Tasten (Abgleich)： `W` `A` `S` `D` `Arrow Keys` `Mouse` `Left` `Button` `Space Bar` `1` `2` `3...` `Mouse`
 
 - **PC/Web:**  
     - **Bewegung:** W, A, S, D oder Pfeiltasten  
@@ -63,4 +63,5 @@ Hier sind ein paar hilfreiche Tipps.
     - **Bewegung:** Virtueller Joystick links  
     - **Zielen/Schießen:** Buttons rechts (je nach Version getrennte Tasten für
       Schuss, Sprung und Spezialfähigkeiten)
+
 

@@ -38,6 +38,8 @@ cada curva para enlazar giros y marcar buenos tiempos por vuelta.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Space`
 
 - Dirección: A/D o Flechas izquierda/derecha.
 - Acelerador/Freno: W/S o Flechas arriba/abajo.
@@ -60,4 +62,5 @@ cada curva para enlazar giros y marcar buenos tiempos por vuelta.
 - **P: ¿Qué es más importante para un buen tiempo?**  
   **R:** Una trazada limpia y constante suele ser mejor que entrar demasiado
   rápido y perder el coche en cada curva.
+
 

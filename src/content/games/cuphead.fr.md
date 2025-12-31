@@ -72,7 +72,7 @@ parfait pour esquiver, tirer et utiliser tes capacités spéciales.
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `Arrow Keys` `W, A, S, D` `Z` `Space Bar` `X` `Left Ctrl` `Left Shift` `V` `Right Ctrl` `C` `Tab` `E` `Q`
+- Touches (alignement)： `Arrow Keys` `W, A, S, D` `Z` `Space Bar` `X` `Left Ctrl` `Left Shift` `Hold` `V` `Right Ctrl` `C` `Tab` `E` `Q`
 
 - **Déplacement / Saut / Tir / Dash** : selon la version, utilise les touches
   directionnelles ou ZQSD, la barre d’espace, les clics et quelques touches
@@ -125,3 +125,4 @@ Emporium), qui peuvent faire la différence contre les boss.
 revanche, les boss ont plus de vie et, avec deux personnages et plus de
 projectiles à l’écran, ça peut devenir difficile à lire. Avec une bonne
 coordination, ça peut être plus simple.
+

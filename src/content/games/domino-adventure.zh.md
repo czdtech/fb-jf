@@ -50,6 +50,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### **操作指南**
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `drag` `drop` `click` `Click` `drag` `click`
 
 本作采用直观的拖拽/点击操作，非常适合鼠标或触屏：
 
@@ -79,3 +81,4 @@ releaseDate: 2025-10-18T00:00:00.000Z
 **4. 游戏里提到的 “Trophy Road” 是什么？**  
 “Trophy Road（奖杯之路）”是游戏中的进度与奖励系统，通过不断游玩可以解锁新的牌面皮肤和其
 他外观奖励，用以展示你的成就与段位。  
+

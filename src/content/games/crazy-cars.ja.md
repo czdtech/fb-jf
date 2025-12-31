@@ -33,6 +33,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD` `Arrow Keys` `Space` `Esc`
 
 *   **移動:** W, A, S, D または 矢印キー
 *   **ブレーキ/ドリフト:** Spaceキー
@@ -65,4 +67,5 @@ locale: ja
 - Q: 車がひっくり返って動けません。
   
   A: `R`キーで車をリセットし、近くの安全な場所に復帰できます。
+
 

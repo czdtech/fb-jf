@@ -48,6 +48,8 @@ blocs, faire descendre des objets, etc.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `click` `drag`
 
 - **Échanger des gemmes** : fais glisser une gemme vers une voisine pour tenter
   de former un trio (ou plus) de même couleur.  
@@ -73,3 +75,4 @@ cinq peut créer une bombe ou un bonus qui nettoie une couleur.
 **Q : Y a‑t‑il une limite de temps dans le jeu ?**  
 R : Beaucoup de niveaux sont chronométrés : tu dois remplir l’objectif avant la
 fin du temps. D’autres niveaux sont plutôt limités en nombre de coups.
+

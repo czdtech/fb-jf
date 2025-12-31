@@ -40,6 +40,8 @@ Crazy Balls te reta a lanzar bolas a través de niveles llenos de obstáculos,
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag`
 
 - Arrastra para apuntar y ajustar la potencia; suelta para disparar.
 - Usa los botones de la interfaz para reiniciar el nivel cuando lo necesites.
@@ -64,4 +66,5 @@ Crazy Balls te reta a lanzar bolas a través de niveles llenos de obstáculos,
   
   R: Si hay límite de tiempo, prioriza el progreso seguro frente a los tiros
   espectaculares pero arriesgados.
+
 

@@ -37,6 +37,8 @@ entre niveles.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `click` `drag` `drop`
 
 - Ratón/táctil: haz clic en los distintos destinos en orden para crear una
   cola de acciones; algunas versiones permiten arrastrar y soltar para sentar o
@@ -64,4 +66,5 @@ entre niveles.
 - **P: ¿Puedo repetir un nivel para mejorar mi puntuación?**  
   **R:** Sí, repetir niveles y optimizar rutas y cadenas de acciones es parte
   del bucle principal del juego.
+
 

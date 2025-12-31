@@ -33,6 +33,8 @@ cruces controlados. Con las ganancias mejoras y personalizas tus coches
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD` `Space`
 
 - WASD/Flechas para dirección y aceleración/freno.
 - Espacio: freno de mano.
@@ -63,4 +65,5 @@ cruces controlados. Con las ganancias mejoras y personalizas tus coches
 - **P: ¿Puedo ajustar el coche para cada circuito?**  
   **R:** Sí. Si el juego lo permite, guarda ajustes predefinidos distintos para circuitos
   técnicos y para trazados de alta velocidad.
+
 

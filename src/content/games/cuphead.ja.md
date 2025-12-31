@@ -44,7 +44,7 @@ locale: ja
 <!-- i18n:section:controls -->
 ### 操作ガイド
 <!-- i18n:controls:keys -->
-- キー（整合）： `Arrow Keys` `W, A, S, D` `Z` `Space Bar` `X` `Left Ctrl` `Left Shift` `V` `Right Ctrl` `C` `Tab` `E` `Q`
+- キー（整合）： `Arrow Keys` `W, A, S, D` `Z` `Space Bar` `X` `Left Ctrl` `Left Shift` `Hold` `V` `Right Ctrl` `C` `Tab` `E` `Q`
 
 操作はレスポンスが良く、正確です。以下は一般的なキーボード操作です。
 
@@ -78,4 +78,5 @@ locale: ja
 <!-- i18n:faq:id=faq:cuphead:is-twoplayer-coop-easier-75f09c78 -->
 **5. 2人協力プレイの方が簡単ですか？**
 状況次第です。相方を復活できる利点は大きい一方で、ボスのHPが増え、弾幕も増えて視認性が悪くなります。連携が取れるなら有利になりやすいです。
+
 

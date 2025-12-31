@@ -36,6 +36,8 @@ Timing und Feingefühl beim Gasgeben erfordern.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD` `Esc`
 
 - Pfeiltasten/WASD: Vorwärts, rückwärts und Neigen des Fahrzeugs.  
 - R: Level neu starten.  
@@ -69,3 +71,4 @@ Timing und Feingefühl beim Gasgeben erfordern.
   **A:** Zu hohe Geschwindigkeit belastet die Federung zu stark und lässt dich
   abprallen oder durchbrechen. Fahre langsamer und gleichmäßiger, um sicher
   rüberzukommen.
+

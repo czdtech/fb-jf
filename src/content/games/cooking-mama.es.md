@@ -59,6 +59,8 @@ secuencia tal y como la han diseñado sus creadores.
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Mouse` `Click` `Drag` `mouse`
 
 El juego nació como título en Flash para navegador y utiliza controles muy
   simples con el ratón.
@@ -96,4 +98,5 @@ Originalmente se ofrecía gratis en la web de PETA. Como se creó en Adobe Flash
   ahora puede resultar difícil ejecutarlo en navegadores modernos. Es posible
   que aún se pueda encontrar en proyectos de preservación de Flash o en
   colecciones como la Software Library de Internet Archive.
+
 

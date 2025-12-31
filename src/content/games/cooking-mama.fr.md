@@ -55,6 +55,8 @@ c’est une expérience linéaire, pensée avant tout pour délivrer un message.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Mouse` `Click` `Drag` `mouse`
 
 Ce jeu (à l’origine en Flash) utilise des contrôles très simples à la souris.
 
@@ -91,3 +93,4 @@ végétariens.
 avec Adobe Flash (désormais abandonné), il peut être difficile à lancer dans un
 navigateur moderne. Il peut parfois être accessible via des projets de
 préservation de Flash ou des archives comme l’Internet Archive.
+

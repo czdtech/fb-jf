@@ -48,6 +48,8 @@ matemáticas: solo lógica, paciencia y concentración.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `Enter` `click` `enter`
 
 *   **Seleccionar casilla:** Haz clic en cualquier casilla vacía del 9x9.
 *   **Introducir número:** Tras seleccionar una casilla, pulsa una tecla
@@ -76,4 +78,5 @@ matemáticas: solo lógica, paciencia y concentración.
 *   **P: ¿Cuándo conviene usar el modo "notas"?**
     *   **R:** En los sudokus de dificultad media y alta es casi imprescindible.
         Te permite trabajar de forma estructurada sin depender de la memoria.
+
 

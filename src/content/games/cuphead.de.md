@@ -76,7 +76,7 @@ Gegnerpattern.
 <!-- i18n:section:controls -->
 ### **Steuerung**
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `Arrow Keys` `W, A, S, D` `Z` `Space Bar` `X` `Left Ctrl` `Left Shift` `V` `Right Ctrl` `C` `Tab` `E` `Q`
+- Tasten (Abgleich)： `Arrow Keys` `W, A, S, D` `Z` `Space Bar` `X` `Left Ctrl` `Left Shift` `Hold` `V` `Right Ctrl` `C` `Tab` `E` `Q`
 
 Die Steuerung ist präzise und reaktionsschnell (Standardbelegung):
 
@@ -118,4 +118,5 @@ Die Steuerung ist präzise und reaktionsschnell (Standardbelegung):
 > Kommt auf euch an: Wiederbelebungen sind stark, aber Bosse haben mehr Leben
 > und der Bildschirm wird chaotischer. Gute Absprache macht Koop lohnend,
 > sonst kann Solo einfacher sein.
+
 

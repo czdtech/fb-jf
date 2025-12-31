@@ -44,6 +44,8 @@ Pfannen und schnellerer Vorbereitung kannst du Bestellungen in Serie abarbeiten
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `drag` `tap`
 
 - Tippen/Klicken, um Zutaten vorzubereiten.
 - Ziehen, um Bestandteile zu kompletten Gerichten zu kombinieren.
@@ -71,4 +73,5 @@ Pfannen und schnellerer Vorbereitung kannst du Bestellungen in Serie abarbeiten
   
   Viele Level erlauben kein Pausieren mitten im Ansturm – plane deine
   Upgrades und Pausen zwischen den Runden.
+
 

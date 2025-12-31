@@ -32,6 +32,8 @@ Domino Battle est une adaptation numérique du jeu de tuiles classique, les Domi
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `drag` `click`
 
 *   **Jouer une tuile :** clique et fais glisser un domino de ta main vers une extrémité ouverte valide sur le plateau.
 *   **Piocher une tuile :** si tu n'as pas de coups valides, clique sur la pile de réserve face cachée pour tirer un nouveau domino.
@@ -50,4 +52,5 @@ Domino Battle est une adaptation numérique du jeu de tuiles classique, les Domi
 <!-- i18n:faq:id=faq:domino-battle:q-how-can-i-block-5f610509 -->
 *   **Q : Comment puis-je bloquer mon adversaire ?**
     *   **R :** Fais attention aux nombres sur les extrémités ouvertes de la chaîne. Si tu sais que ton adversaire a beaucoup d'un certain nombre (parce que tu as la plupart des autres), tu peux essayer de jouer des tuiles qui évitent de laisser ce nombre ouvert, le forçant potentiellement à piocher dans la réserve.
+
 

@@ -51,6 +51,8 @@ Cooking Mama 中永远不会出现的屠宰过程。PETA 的目的不是“好�
 
 <!-- i18n:section:controls -->
 ### **操作指南**
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `mouse` `Mouse` `Click` `Drag` `mouse`
 
 本游戏最初以 Flash 网页游戏形式存在，操作非常简单。
 
@@ -80,3 +82,4 @@ Cooking Mama 中永远不会出现的屠宰过程。PETA 的目的不是“好�
 它最早可以在 PETA 官网免费游玩，但由于基于 Adobe Flash 技术，而 Flash 现已停止支持，
 在现代浏览器中直接运行会比较困难。你可能需要依赖 Flash 保存项目或互联网档案馆等平
 台中提供的兼容方案。
+

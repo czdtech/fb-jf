@@ -36,6 +36,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `enter` `arrow keys` `Backspace` `Enter` `Tab` `Mouse` `tap`
 
 - 直接输入 A–Z 键可在当前格子中填入字母，方向键用于在格子间移动。  
 - Backspace：删除前一个字母。  
@@ -69,4 +71,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **Q: 需要输入音标、重音符号或标点吗？**  
   **A：** 绝大多数填字游戏都忽略标点与重音，只需要按字母填入即可，除非题目特别说明需
   要特殊符号。  
+
 

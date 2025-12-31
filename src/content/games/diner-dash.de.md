@@ -38,6 +38,8 @@ kannst.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `click` `drag` `drop`
 
 - Maus/Touch: Klicke oder tippe nacheinander auf Zielorte und Objekte, um
   Aktionen in eine Warteschlange zu legen. In manchen Versionen kannst du Gäste
@@ -66,3 +68,4 @@ kannst.
   **A:** Ja, das erneute Spielen von Leveln, um Wege und Aktionsketten zu
   optimieren, gehört zum Kern von Diner Dash und hilft dir, höhere Scores und
   mehr Upgrades freizuschalten.
+

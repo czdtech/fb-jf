@@ -44,6 +44,8 @@ modo que cubran los caminos por los que avanzan los invasores.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `mouse`
 
 *   **Ratón/Pantalla táctil:** Usa el ratón o los gestos táctiles para
     seleccionar, colocar y mejorar tus torres.
@@ -64,4 +66,5 @@ modo que cubran los caminos por los que avanzan los invasores.
     *   **R:** Las estrellas dependen de cuántas vidas conservas al terminar. Si
         impides que casi todos los enemigos alcancen tu Cube Tower, obtendrás la
         puntuación máxima.
+
 

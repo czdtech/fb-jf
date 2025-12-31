@@ -42,6 +42,8 @@ reto más interesante.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `Click`
 
 - Toca o haz clic sobre las lámparas, interruptores o casillas activables según
   las reglas de cada puzle.
@@ -64,4 +66,5 @@ reto más interesante.
 - **P: ¿El juego tiene sistema de pistas?**  
   **R:** Muchas versiones incluyen pistas; úsalas como último recurso para no
   quitarle gracia al puzle.
+
 

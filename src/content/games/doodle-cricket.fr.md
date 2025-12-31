@@ -32,6 +32,8 @@ vitesse et le type de lancer. Les runs s’accumulent jusqu’à ton éliminatio
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `tap` `click`
 - Souris/tactile : un tap/clic pour frapper. Le timing détermine le placement et
   la puissance.
 
@@ -52,5 +54,6 @@ A: La vitesse et les patterns de lancers varient quand ton score monte.
 <!-- i18n:faq:id=faq:doodle-cricket:how-is-score-saved-3a56fadc -->
 - Q: Comment le score est‑il sauvegardé ?
 A: En général, seulement en local/dans la session.
+
 
 

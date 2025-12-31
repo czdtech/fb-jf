@@ -25,6 +25,8 @@ Crossword Puzzlesは、一般的なアメリカンスタイルのルールに従
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `arrow keys` `Backspace` `Enter` `Tab`
 - A～Zを入力。矢印キーでナビゲート。バックスペースで削除。エンター/タブで方向を切り替えるか、次のヒントに移動（サイト依存）。
 
 <!-- i18n:section:tips -->
@@ -41,4 +43,5 @@ Crossword Puzzlesは、一般的なアメリカンスタイルのルールに従
 <!-- i18n:faq:id=faq:crossword-puzzles:can-i-play-past-themes-10b18b21 -->
 - **Q: 過去のテーマをプレイできますか？**  
   A: ホストは多くの場合アーカイブを保持しているため、以前のパズルをプレイできます。
+
 

@@ -36,6 +36,8 @@ wechselst, während die Schwerkraft dich nach unten zieht.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `tap`
 
 - Maus/Touch: Tippen oder Klicken, um zu springen; manche Versionen verwenden
   Links/Rechts oder A/D, um dich von der entsprechenden Wand abzustoßen.
@@ -63,4 +65,5 @@ wechselst, während die Schwerkraft dich nach unten zieht.
 - **F: Gibt es Power-ups?**  
   **A:** In manchen Varianten gibt es Extras wie Schilde oder Zeitlupe; welche
   Power-ups verfügbar sind, entscheidet der jeweilige Anbieter des Spiels.
+
 

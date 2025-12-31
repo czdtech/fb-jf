@@ -40,6 +40,8 @@ cryptiques utilisent d’autres conventions de définitions et de motifs.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `enter` `arrow keys` `Backspace` `Enter` `Tab` `Mouse` `tap`
 
 - **A–Z** : saisir des lettres dans la grille.  
 - **Flèches** : naviguer entre les cases.  
@@ -71,4 +73,5 @@ cryptiques utilisent d’autres conventions de définitions et de motifs.
 <!-- i18n:faq:id=faq:crossword-puzzle:are-diacritics-or-punctuation-92188e66 -->
 - Q: Quelle taille fait une grille quotidienne typique ?
 R : Les grilles américaines ont généralement toutes les lettres croisées et une
+
 

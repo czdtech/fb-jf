@@ -48,6 +48,8 @@ acheter des améliorations.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `drag` `Click` `left` `button` `tap`
 
 - **Viser / Tirer** : déplace la souris ou ton doigt pour viser, clique/tape
   pour lancer le projectile.  
@@ -73,3 +75,4 @@ Ensuite, améliorer tes gains est aussi un bon choix.
 R : Les gros rochers demandent plusieurs impacts. Commence à les frapper tôt et
 enchaîne les tirs tout en esquivant les autres chutes, avant qu’ils ne soient
 trop proches.
+

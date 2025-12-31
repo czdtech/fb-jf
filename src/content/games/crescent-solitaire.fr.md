@@ -48,6 +48,8 @@ mouvements ou remélanges autorisés.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `drag` `tap`
 
 - **Déplacer une carte** : clique‑glisse une carte depuis l’arc vers l’une des
   piles centrales compatible.  
@@ -96,4 +98,5 @@ R : Comme pour beaucoup de solitaires, certaines dispositions sont très
 - Q: Qu’est‑ce que le “transfert de fondation” ?
 compliquées voire impossibles. Le défi consiste à maximiser ton taux de
 victoire.
+
 

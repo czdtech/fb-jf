@@ -40,6 +40,8 @@ des niveaux ajoutent des coups limités, des interrupteurs et parfois du timing.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `Click`
 
 - Tape/clique sur les lampes, interrupteurs ou cases selon les règles du puzzle.
 - Annule/Réinitialise si le mode le permet.
@@ -54,5 +56,6 @@ des niveaux ajoutent des coups limités, des interrupteurs et parfois du timing.
 - Niveaux chronométrés ? Commence par les motifs proches des timers.
 <!-- i18n:faq:id=faq:diwali-lights:are-hints-available-6c76ed5b -->
 - Y a‑t‑il des indices ? Souvent oui ; utilise‑les avec parcimonie.
+
 
 

@@ -34,6 +34,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `Mouse` `Click` `Drag` `mouse`
 
 元々はFlashゲームとして作られたもので、シンプルなマウス操作のみです。
 
@@ -58,4 +60,5 @@ locale: ja
 <!-- i18n:faq:id=faq:cooking-mama:where-can-i-play-this-4bfcb29e -->
 **4. どこで遊べますか？**
 元々はPETAのサイトで公開されていました。Flash製のため現行ブラウザでは遊びにくいことがありますが、Flash保存プロジェクトやアーカイブ（Internet ArchiveのSoftware Libraryなど）で見つかる場合があります。
+
 

@@ -44,6 +44,8 @@ Verlauf der Level.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `mouse`
 
 *   Maus/Touch: Nutze Mausklick oder Touch, um Turm-Slots auszuwählen,
     Türme zu platzieren und Upgrades im Menü zu kaufen.
@@ -60,4 +62,5 @@ Verlauf der Level.
 *   F: Wie bekomme ich 3 Sterne?
     *   A: Sterne richten sich meist nach verbleibenden Leben am Levelende.
         Lasse möglichst wenige Gegner bis zum Cube Tower durch.
+
 

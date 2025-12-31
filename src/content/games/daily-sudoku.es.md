@@ -36,6 +36,8 @@ modo de notas y herramientas de validación.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `enter` `Shift` `click`
 
 - Teclas numéricas para introducir dígitos; Shift o clic derecho suelen activar
   el modo notas (según la web). Las funciones de Deshacer/Rehacer y Comprobar
@@ -64,4 +66,5 @@ modo de notas y herramientas de validación.
   
   R: Casi todas las implementaciones modernas incluyen modo de candidatos y
   marcado de notas.
+
 

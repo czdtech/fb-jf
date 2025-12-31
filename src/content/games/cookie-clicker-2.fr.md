@@ -86,6 +86,8 @@ spéciaux et les bonus temporaires.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Mouse` `Click` `Click` `CTRL` `SHIFT` `Click` `CTRL` `Click` `SHIFT` `Click`
 
 - **Cliquer pour produire** : tape ou clique sur le cookie principal.  
 - **Acheter / améliorer** : utilise les boutons de l’interface pour investir
@@ -128,3 +130,4 @@ C’est surtout une question de chance. Le sort « Force the Hand of Fate » du 
 <!-- i18n:faq:id=faq:cookie-clicker-2:is-there-an-end-to-ce958c6b -->
 **5. Y a‑t‑il une fin à Cookie Clicker ?**
 Non. Le jeu est conçu pour être pratiquement infini. L’objectif est de faire grimper les chiffres et de débloquer l’ensemble des succès et améliorations, ce qui peut prendre énormément de temps.
+

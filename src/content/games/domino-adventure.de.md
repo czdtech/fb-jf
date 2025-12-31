@@ -63,6 +63,8 @@ wie im Beispiel).
 
 <!-- i18n:section:controls -->
 ### **Steuerung**
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `click` `Click` `drag` `click`
 
 Das Spiel setzt auf eine einfache, intuitive Steuerung per Drag-and-Drop oder
 Mausklicks.
@@ -99,4 +101,5 @@ in der Hand des Verlierers**. Hat dein Gegner zum Beispiel die Steine [6-5] und
 Die Trophy Road ist ein Fortschrittssystem, über das du exklusive Belohnungen
 freischaltest, während du spielst. Dazu gehören vermutlich neue, sammelbare
 Steinsätze und andere kosmetische Extras.
+
 

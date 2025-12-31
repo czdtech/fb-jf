@@ -91,6 +91,8 @@ las decisiones clave.
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Mouse` `Click` `Click` `CTRL` `SHIFT` `Click` `CTRL` `Click` `SHIFT` `Click`
 
 El juego se controla casi por completo con el ratón, pero hay algunos elementos
 clave de la interfaz que conviene conocer.
@@ -142,3 +144,4 @@ Depende en gran parte de la suerte. El hechizo "Force the Hand of Fate" del
 No. El juego está pensado para ser prácticamente infinito. El objetivo real es
   ver cómo los números siguen creciendo y desbloquear todos los logros y
   mejoras, lo cual es una tarea gigantesca.
+

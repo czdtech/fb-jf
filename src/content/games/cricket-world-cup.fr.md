@@ -49,6 +49,8 @@ pour viser les limites.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `tap`
 
 - **Aimer le tir** : utilise les touches directionnelles ou les boutons pour
   choisir la zone où tu veux envoyer la balle.  
@@ -70,3 +72,4 @@ pour viser les limites.
 
 <!-- i18n:faq:id=faq:cricket-world-cup:bowling-available-edaee621 -->
 - Q: Le jeu gère‑t‑il les différents formats (T20, ODI…) ?
+

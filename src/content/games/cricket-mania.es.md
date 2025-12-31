@@ -40,6 +40,8 @@ la colocación de los defensores y acumular carreras bajo la presión del marcad
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `tap`
 
 - Usa las entradas direccionales para orientar el golpe y pulsa en el momento
   adecuado para balancear el bate.
@@ -66,3 +68,4 @@ la colocación de los defensores y acumular carreras bajo la presión del marcad
   
   R: La mayoría de versiones están centradas exclusivamente en el bateo; el
   juego no suele ofrecer un modo completo de lanzamiento.
+

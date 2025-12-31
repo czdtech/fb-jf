@@ -34,6 +34,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `Click` `Click` `Click`
 
 すべてマウスクリック（またはタップ）で操作します。
 
@@ -55,4 +57,5 @@ locale: ja
 <!-- i18n:faq:id=faq:comfy-farm:q-why-did-one-of-390e6ea6 -->
 *   **Q: 作物が消えてしまいました！**
     *   **A:** 害虫に食べられてしまった可能性があります。警告音や画面の変化に注意し、害虫が現れたら最優先で対処しましょう。
+
 

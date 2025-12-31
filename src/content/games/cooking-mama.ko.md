@@ -53,6 +53,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### **조작 방법**
+<!-- i18n:controls:keys -->
+- 키(정렬)： `mouse` `Mouse` `Click` `Drag` `mouse`
 
 이 게임은 원래 플래시 기반 브라우저 게임이었으며, 조작은 매우 단순한 마우스 입력만
 사용합니다.
@@ -87,3 +89,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 Adobe Flash가 지원 종료되어 최신 브라우저에서는 직접 실행하기 어렵습니다. 인터넷
 Internet Archive 같은 보존 프로젝트나 플래시 에뮬레이터를 통해서만
 접속 가능한 경우가 많습니다.
+

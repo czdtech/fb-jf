@@ -54,6 +54,8 @@ bestimmte Steine ab oder befreist das Feld von Hindernissen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `click` `drag`
 
 - **Diamanten tauschen:** Benutze die Maus oder den Touchscreen, um zwei
   benachbarte Steine zu vertauschen. Der Tausch ist nur gültig, wenn dabei eine
@@ -79,4 +81,5 @@ bestimmte Steine ab oder befreist das Feld von Hindernissen.
     *   **A:** Viele Level sind zeitlich begrenzt und verlangen, dass du die Ziele
         erfüllst, bevor der Countdown endet. Andere Level arbeiten stattdessen mit
         einer begrenzten Anzahl an Zügen.
+
 

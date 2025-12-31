@@ -39,6 +39,8 @@ steht zudem lokaler Splitscreen zur Verfügung.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD` `Arrow Keys` `Space` `Esc`
 
 - WASD oder Pfeiltasten: Fahren/Lenken
 - Leertaste: Bremse/Handbremse (bzw. Nitro, je nach Host)
@@ -78,5 +80,6 @@ steht zudem lokaler Splitscreen zur Verfügung.
   
   A: Drücke R, um dein Fahrzeug in der Nähe der letzten Position
   zurückzusetzen.
+
 
 

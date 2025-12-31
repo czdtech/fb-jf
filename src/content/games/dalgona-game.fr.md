@@ -42,6 +42,8 @@ Le défi réside dans la précision de tes gestes et parfois dans un temps limit
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag`
 
 - **Tracer** : clique/maintiens ou glisse ton doigt pour suivre le tracé sur le
   biscuit.  
@@ -59,5 +61,6 @@ Le défi réside dans la précision de tes gestes et parfois dans un temps limit
 <!-- i18n:faq:id=faq:dalgona-game:any-tips-for-starsumbrellas-714927fc -->
 - Q: La pression est‑elle prise en compte ?
 R : La partie est perdue pour ce niveau, mais tu peux le relancer.
+
 
 

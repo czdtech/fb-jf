@@ -44,6 +44,8 @@ musst.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `Click`
 
 - Tippe oder klicke auf Diyas, Schalter oder Felder entsprechend den Regeln
   des jeweiligen Puzzles.
@@ -67,3 +69,4 @@ musst.
 - **F: Gibt es Hinweise im Spiel?**  
   **A:** In vielen Versionen kannst du Hinweise nutzen. Verwende sie aber
   sparsam, um dir den Rätselspaß nicht zu nehmen.
+

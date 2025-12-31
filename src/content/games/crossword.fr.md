@@ -47,6 +47,8 @@ quotidiens peuvent influencer quelques réponses clés.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `arrow keys` `Backspace` `Enter` `Tab`
 
 - **Saisie** : tape les lettres directement dans les cases sélectionnées.  
 - **Navigation** : flèches, Tab ou clic sur les définitions pour changer de
@@ -84,4 +86,5 @@ quotidiens peuvent influencer quelques réponses clés.
 - Q: Toutes les lettres se croisent‑elles ?
 R : Ce jeu spécifique est basé sur des mots croisés anglophones, il faudra donc
 un minimum de vocabulaire en anglais.
+
 

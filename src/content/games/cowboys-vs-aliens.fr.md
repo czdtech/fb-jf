@@ -49,7 +49,7 @@ rapides et résistants.
 <!-- i18n:section:controls -->
 #### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `W` `A` `S` `D` `Left Mouse Button` `Space Bar` `1` `2` `3...`
+- Touches (alignement)： `W` `A` `S` `D` `Arrow Keys` `Mouse` `Left` `Button` `Space Bar` `1` `2` `3...` `Mouse`
 
 - **Viser / Tirer** : déplace la souris ou ton doigt pour viser, clique ou tape
   pour tirer.  
@@ -95,4 +95,5 @@ progressant ou en gagnant de la monnaie en jeu.
 **Q : Y a‑t‑il une fin ?**  
 R : Certaines campagnes ont un nombre de niveaux fini, d’autres enchaînent les
 vagues de plus en plus difficiles pour un score infini.
+
 

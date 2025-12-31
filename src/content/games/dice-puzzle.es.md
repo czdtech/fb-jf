@@ -49,6 +49,8 @@ llena y ya no puedes colocar más dados.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `Click`
 
 *   **Girar el dado:** Haz clic sobre el dado en la zona de espera para rotarlo
     antes de colocarlo (si el juego lo permite).
@@ -74,4 +76,5 @@ llena y ya no puedes colocar más dados.
     *   **R:** Obtienes un cubo de joya. En la siguiente fusión en la que
         participe, desencadena una pequeña explosión que limpia el área 3x3 que
         lo rodea y otorga un gran bonus de puntos.
+
 

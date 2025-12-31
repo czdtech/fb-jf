@@ -47,6 +47,8 @@ Chaque type de cube a ses propres caractéristiques (portée, dégâts, vitesse 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `mouse`
 
 - **Placer un cube** : clique/tape sur une case valide près du chemin, puis
   choisis le type de cube.  
@@ -78,4 +80,5 @@ R : Selon la version, tu dois souvent vendre un cube pour en reposer un ailleur
 **Q : Les ennemis ont‑ils des résistances ?**  
 R : Certains jeux introduisent des ennemis résistants à un type de dégâts
 particulier, d’où l’importance de varier ton arsenal.
+
 

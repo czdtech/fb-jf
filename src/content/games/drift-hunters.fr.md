@@ -31,6 +31,8 @@ et débloque de nouvelles voitures et de nouveaux circuits.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD` `Space`
 - WASD/Flèches : diriger/accélérer/freiner ; Espace : frein à main ; C : caméra ;
   R : reset (selon l’hébergeur).
 
@@ -52,5 +54,6 @@ A: Les pneus d’abord, puis la puissance et la réduction de poids.
 - Q: Peut‑on régler la voiture selon le circuit ?
 A: Oui ; si la version le permet, sauvegarde des presets pour circuits techniques
 et circuits rapides.
+
 
 

@@ -40,6 +40,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `left` `button` `tap` `click`
 
 *   **挥棒击球：** 点击鼠标左键或轻触屏幕即可挥动球棒。你唯一能控制的就是“何时挥棒”，
     因此每一次点击都要尽量精准。
@@ -58,4 +60,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:cricket-hero:q-are-there-different-types-62d850aa -->
 *   **问：后面会出现不同类型的投球手吗？**
     *   **答：** 会。随着你得分提升，很可能会遇到投速更快、风格不同的投球手，他们的出手节奏和变化会让挥棒时机更难把握。
+
 

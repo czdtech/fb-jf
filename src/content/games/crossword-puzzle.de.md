@@ -38,6 +38,8 @@ cryptic-Varianten verwenden andere Hinweis-Konventionen und Gridmuster.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `enter` `arrow keys` `Backspace` `Enter` `Tab` `Mouse` `tap`
 
 - A–Z tippen, um Buchstaben einzutragen; Pfeiltasten bewegen den Cursor.
 - Backspace löscht den vorherigen Buchstaben.
@@ -79,5 +81,6 @@ cryptic-Varianten verwenden andere Hinweis-Konventionen und Gridmuster.
   
   A: Meist werden nur Buchstaben ohne Akzente und Satzzeichen verwendet, sofern
   nichts anderes angegeben ist.
+
 
 

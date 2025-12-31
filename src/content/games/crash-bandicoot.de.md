@@ -38,6 +38,8 @@ Bosskampf; triffst du ihn mit Eisenkisten per Wirbel, beendest du das Spiel mit
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow Keys` `Space`
 
 - Pfeiltasten: Bewegen / Springen (Oben) / Ducken (Unten)
 - Leertaste: Wirbelangriff (Taste kann je nach Host leicht variieren)
@@ -74,5 +76,6 @@ Bosskampf; triffst du ihn mit Eisenkisten per Wirbel, beendest du das Spiel mit
   
   A: In den meisten Flash-/Browser-Versionen wird der Fortschritt nur für die
   aktuelle Sitzung behalten.
+
 
 

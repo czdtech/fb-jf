@@ -47,6 +47,8 @@ pour un score parfait.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse`
 
 - **Couper une corde** : fais glisser ton doigt ou la souris sur la corde pour
   la trancher.  
@@ -83,4 +85,5 @@ pour un score parfait.
 - Q: Y a‑t‑il des bonus (bonus) ?
 R : Non, une seule réussite du niveau suffit pour progresser, mais les étoiles
 servent souvent à débloquer de nouveaux chapitres.
+
 

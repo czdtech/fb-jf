@@ -35,6 +35,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Click` `click`
 
 
 操作はシンプルで、クリック（タップ）だけで遊べます。
@@ -54,4 +56,5 @@ locale: ja
 <!-- i18n:faq:id=faq:daily-word-climb:q-is-there-a-new-60884d82 -->
 *   **Q: 毎日新しい問題が出ますか？**
     *   **A:** はい、その名の通り、毎日新鮮でユニークなパズルが配信されます。
+
 

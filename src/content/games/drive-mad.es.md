@@ -35,6 +35,8 @@ que se rompen.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD` `Esc`
 
 - Flechas o WASD para avanzar/retroceder e inclinar el vehículo.
 - R: reiniciar nivel.
@@ -66,4 +68,5 @@ que se rompen.
 - **P: ¿Por qué me caigo al cruzar algunos puentes?**  
   **R:** Entrar demasiado rápido comprime la suspensión y provoca rebotes;
   cruza esos tramos con más calma.
+
 

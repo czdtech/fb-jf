@@ -52,7 +52,7 @@ cada fase y derrotar al jefe final.
 <!-- i18n:section:controls -->
 ### **Guía de controles**
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `W` `A` `S` `D` `Left Mouse Button` `Space Bar` `1` `2` `3...`
+- Teclas (alineación)： `W` `A` `S` `D` `Arrow Keys` `Mouse` `Left` `Button` `Space Bar` `1` `2` `3...` `Mouse`
 
 *   **PC/Web:**
     *   **Movimiento:** teclas W, A, S, D o flechas de dirección.
@@ -65,4 +65,5 @@ cada fase y derrotar al jefe final.
     *   **Apuntar/Disparar:** botones en la parte derecha; normalmente hay un
         botón para disparar, otro para saltar y, a veces, para habilidades
         especiales.
+
 

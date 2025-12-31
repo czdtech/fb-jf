@@ -43,6 +43,8 @@ contrôle des fusions accidentelles.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `drop` `Drop` `Click` `tap`
 
 - Viser/placer : déplace le curseur ou fais glisser pour choisir la position ;
   certaines versions permettent la rotation.
@@ -62,5 +64,6 @@ contrôle des fusions accidentelles.
 <!-- i18n:faq:id=faq:dices-2048-3d:is-there-an-end-0d3d5bd5 -->
 - Y a‑t‑il une fin ? La partie se termine quand aucun placement légal ne reste
   ou quand le conteneur déborde ; vise 2048 (ou plus).
+
 
 

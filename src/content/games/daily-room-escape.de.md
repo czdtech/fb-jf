@@ -42,6 +42,8 @@ Ausgang zu öffnen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `drag` `drop`
 
 - Tippe/Klicke, um Objekte zu untersuchen, einzusammeln und zu verwenden; einige
   Rätsel nutzen Drag-and-Drop.
@@ -67,4 +69,5 @@ Ausgang zu öffnen.
   
   Nutze In-Game-Lichtquellen wie Lampen oder Taschenlampen, falls vorhanden,
   oder erhöhe notfalls die Bildschirmhelligkeit.
+
 

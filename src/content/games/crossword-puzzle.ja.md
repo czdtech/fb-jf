@@ -30,6 +30,8 @@ locale: ja
 - 多くのウェブ版には、Check/Reveal/Undo（確認/答え表示/一手戻る）やタイマーなどの便利機能が用意されています。
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `enter` `arrow keys` `Backspace` `Enter` `Tab` `Mouse` `tap`
 
 *   **文字入力:** キーボードのA〜Z
 *   **移動:** 矢印キー、マウス
@@ -63,4 +65,5 @@ locale: ja
 - Q: 記号やアクセント記号は必要ですか？
   
   A: 多くのクロスワードでは句読点やアクセント記号は無視し、指定がない限りアルファベットのみを入力します。
+
 

@@ -33,6 +33,8 @@ para mejorar y desbloquear vehículos.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `Space` `hold`
 
 - Ratón/Espacio/Táctil: mantén pulsado para derrapar; suelta para ir recto.
 
@@ -63,4 +65,5 @@ para mejorar y desbloquear vehículos.
 - **P: ¿Cómo consigo monedas más rápido?**  
   **R:** Encadena recorridos largos sin caer y completa desafíos diarios o de
   circuito cuando estén disponibles.
+
 

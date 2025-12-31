@@ -47,6 +47,8 @@ secuencia, puedes transferir cartas entre ellas (salvo el As y el Rey base).
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `drag` `tap`
 
 - Ratón/táctil: selecciona o arrastra cartas; toca los botones de Deshacer,
   Pista o Redeal (según lo que ofrezca la página anfitriona).
@@ -85,4 +87,5 @@ secuencia, puedes transferir cartas entre ellas (salvo el As y el Rey base).
   R: Si las dos bases de un palo (As y Rey) están en secuencia, puedes mover una
   o varias cartas de la parte superior de una base a la otra (sin incluir el As
   o el Rey base) para seguir construyendo.
+
 

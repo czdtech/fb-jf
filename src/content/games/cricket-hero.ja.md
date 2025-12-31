@@ -31,6 +31,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Click` `left` `button` `tap` `click`
 
 *   **スイング:** 画面をタップ（またはクリック）するだけです。方向キーなどは使わず、スイングする「タイミング」のみをコントロールします。
 
@@ -48,4 +50,5 @@ locale: ja
 <!-- i18n:faq:id=faq:cricket-hero:q-are-there-different-types-62d850aa -->
 *   **Q: 違う種類のボウラー（投手）は出ますか？**
     *   **A:** はい、スコアが伸びると、より速い球を投げたり、変化球を投げる手強いボウラーが登場します。
+
 

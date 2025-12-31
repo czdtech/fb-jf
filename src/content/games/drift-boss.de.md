@@ -34,6 +34,8 @@ Münzen, mit denen du neue Autos mit besserem Handling freischalten kannst.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `Space` `hold`
 
 - Maus/Leertaste/Touch: Halten, um zu driften; loslassen, um geradeaus zu
   fahren.
@@ -65,3 +67,4 @@ Münzen, mit denen du neue Autos mit besserem Handling freischalten kannst.
 - **F: Wie sammle ich schneller Münzen?**  
   **A:** Spiele möglichst lange Runs, ohne abzustürzen, und nutze eventuelle
   Tagesaufgaben oder Strecken-Challenges, wenn dein Host sie anbietet.
+

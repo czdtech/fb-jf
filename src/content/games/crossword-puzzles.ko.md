@@ -35,6 +35,8 @@ Crossword Puzzles는 미국식 규칙을 따르는 테마형 크로스워드를 
 
 <!-- i18n:section:controls -->
 ### 조작법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `arrow keys` `Backspace` `Enter` `Tab`
 
 - 키보드 A–Z: 글자 입력  
 - 방향키: 칸 이동  
@@ -63,4 +65,5 @@ Crossword Puzzles는 미국식 규칙을 따르는 테마형 크로스워드를 
 - **Q: 지난 테마 퍼즐도 다시 플레이할 수 있나요?**  
   **A:** 대부분의 호스트가 아카이브를 제공해 이전 날짜의 퍼즐도 자유롭게
   선택해 플레이할 수 있습니다.  
+
 

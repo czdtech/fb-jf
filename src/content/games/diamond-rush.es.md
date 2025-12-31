@@ -53,6 +53,8 @@ objetivos específicos para avanzar por los niveles.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `click` `drag`
 
 *   **Intercambiar diamantes:** Usa el ratón o el dedo para hacer clic y arrastrar
     un diamante hacia una casilla adyacente e intercambiarlo. El movimiento solo
@@ -79,4 +81,5 @@ objetivos específicos para avanzar por los niveles.
     *   **R:** Muchos niveles son cronometrados y te obligan a completar los
         objetivos antes de que se agote el tiempo, pero otros están limitados
         por número de movimientos.
+
 

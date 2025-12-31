@@ -48,6 +48,8 @@ locale: ja
 *   **角砂糖（英: Sugar Lumps）:** 約24時間に1個手に入ります。施設をレベルアップさせ、CpSを永続的に1%上げる貴重なアイテムです。
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `Mouse` `Click` `Click` `CTRL` `SHIFT` `Click` `CTRL` `Click` `SHIFT` `Click`
 
 基本的にマウスのみですが、効率化のためのショートカットがあります。
 
@@ -80,3 +82,4 @@ locale: ja
 <!-- i18n:faq:id=faq:cookie-clicker-2:is-there-an-end-to-ce958c6b -->
 **5. ゲームに終わりはありますか？**
 ありません。数字を伸ばし続け、実績やアップグレードを集めていく「終わりのない」放置ゲームです。
+

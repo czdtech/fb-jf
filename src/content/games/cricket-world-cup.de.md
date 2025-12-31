@@ -40,6 +40,8 @@ Overs zu erreichen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `tap`
 
 - Ziele mit der jeweiligen Richtungssteuerung in die gewünschte Schlagrichtung
   und tippe/klicke rechtzeitig, um zu schwingen. Loft-/Ground-Toggles hängen
@@ -64,4 +66,5 @@ Overs zu erreichen.
 - Kann ich auch bowlen?
   
   Die meisten Varianten konzentrieren sich ausschließlich auf das Batting.
+
 

@@ -47,6 +47,8 @@ ihnen hin- und herschichten.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `drag` `tap`
 
 - Maus/Touch: Karten anklicken oder ziehen; Buttons für Undo/Hint/Redeal je
   nach Host.
@@ -86,5 +88,6 @@ ihnen hin- und herschichten.
   A: Wenn Ass- und König-Fundament einer Farbe direkt aufeinanderfolgend sind,
   darfst du beliebig viele Karten (außer dem Basis-Ass/-König) vom einen auf
   das andere Fundament verschieben, um den Aufbau fortzusetzen.
+
 
 

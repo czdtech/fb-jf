@@ -38,6 +38,8 @@ y pierdes la ronda.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag`
 
 - Arrastra el dedo o el ratón para seguir el contorno; según la versión, puede
   haber sensibilidad a la presión o al ángulo.
@@ -63,4 +65,5 @@ y pierdes la ronda.
   
   R: Empieza por los tramos largos y rectos y deja las curvas cerradas y picos
   para el final, cuando estés más cómodo con el margen de error.
+
 

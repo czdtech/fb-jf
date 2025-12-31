@@ -34,6 +34,8 @@ réaliser des temps réguliers.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Space`
 
 - Direction : A/D ou Gauche/Droite ; Accélérer/Freiner : W/S ou Haut/Bas.
 - Frein à main (si présent) : Espace pour faire pivoter.
@@ -48,5 +50,6 @@ réaliser des temps réguliers.
   la régularité.
 <!-- i18n:faq:id=faq:drifting-mania:best-times-55300466 -->
 - Meilleurs temps ? Une ligne propre bat une vitesse “sale”.
+
 
 

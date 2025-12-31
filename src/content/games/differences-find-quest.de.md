@@ -44,6 +44,8 @@ musst.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap`
 
 - Tippe oder klicke auf die Stelle, an der du einen Unterschied entdeckt hast
   (in der Regel reicht ein Klick auf eines der beiden Bilder).
@@ -68,3 +70,4 @@ musst.
 - **F: Gibt es einen Trick für minimale Farbunterschiede?**  
   **A:** Ein leichtes Zusammenkneifen der Augen oder ein Zoom kann Kontraste
   hervorheben und winzige Farbverschiebungen sichtbarer machen.
+

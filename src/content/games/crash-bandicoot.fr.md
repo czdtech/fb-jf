@@ -46,6 +46,8 @@ sans perdre toutes tes vies.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Arrow Keys` `Space`
 
 - **Déplacements / Sauts / Attaques** : selon la version, utilise les flèches
   directionnelles, la barre d’espace ou les touches dédiées pour sauter, tourner
@@ -92,4 +94,5 @@ le site/hébergeur, certaines touches peuvent varier.
 - Q: La progression est‑elle sauvegardée ?
 R : La plupart des versions web ne sauvegardent pas une progression durable au‑delà
 de la session.
+
 

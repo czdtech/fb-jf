@@ -44,6 +44,8 @@ ta vitesse ou ton score.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD` `Arrow Keys` `Space` `Esc`
 
 - **Diriger la voiture** : utilise les touches fléchées, A/D ou le gyroscope
   (mobile) pour changer de voie.  
@@ -90,4 +92,5 @@ multijoueur en ligne est généralement absent.
 <!-- i18n:faq:id=faq:crazy-cars:my-car-flipped-overwhat-now-4f7d27ef -->
 - Q: Ma voiture s’est retournée — je fais quoi ?
 R : Appuie sur `R` pour réinitialiser le véhicule près de ta dernière position.
+
 

@@ -39,6 +39,8 @@ versiones también incluyen modo local a pantalla dividida.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD` `Arrow Keys` `Space` `Esc`
 
 - WASD o flechas: conducir y girar.
 - Espacio: freno de mano/freno (según la versión); también puede activar el
@@ -77,4 +79,5 @@ versiones también incluyen modo local a pantalla dividida.
 - P: Mi coche ha volcado, ¿qué puedo hacer?
   
   R: Pulsa R para restablecerlo cerca de tu posición anterior.
+
 

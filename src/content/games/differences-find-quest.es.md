@@ -42,6 +42,8 @@ presión de tiempo.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap`
 
 - Toca o haz clic sobre la zona donde veas una diferencia en cualquiera de las
   dos imágenes; los fallos pueden restar tiempo o puntuación.
@@ -65,4 +67,5 @@ presión de tiempo.
 - **P: ¿Algún truco para cambios muy pequeños de color?**  
   **R:** Entornar un poco los ojos o usar zoom ayuda a resaltar diferencias de
   contraste que a simple vista pasan desapercibidas.
+
 

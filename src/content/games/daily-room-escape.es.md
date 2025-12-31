@@ -42,6 +42,8 @@ objetos en el lugar adecuado para desbloquear la puerta.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `drag` `drop`
 
 - Toca para inspeccionar zonas, recoger objetos y usarlos; algunos puzles usan
   arrastrar y soltar.
@@ -67,4 +69,5 @@ objetos en el lugar adecuado para desbloquear la puerta.
   
   R: Sube el brillo de la pantalla o busca lámparas, interruptores o linternas
   dentro del propio juego.
+
 

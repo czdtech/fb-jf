@@ -35,6 +35,8 @@ comme voyager vers la Lune (et au‑delà) via des améliorations de fusée.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `click`
 - Souris/tactile : clique pour miner manuellement ; utilise les boutons de l’UI
   pour acheter améliorations, assistants et fusées.
 
@@ -57,5 +59,6 @@ ouvert ; le vrai “offline” dépend de l’hébergeur.
 - Q: Quel est l’objectif à long terme ?
 A: Construire assez de production pour lancer des fusées vers la Lune, puis
 progresser vers des zones plus avancées.
+
 
 

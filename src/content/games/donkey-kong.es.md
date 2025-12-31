@@ -35,6 +35,8 @@ Pauline. Después de cada nivel, las fases se repiten con patrones más rápidos
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Arrow keys`
 
 - Flechas: mover y trepar.
 - Arriba: subir escaleras; el salto suele estar asignado a otra tecla específica
@@ -69,4 +71,5 @@ Pauline. Después de cada nivel, las fases se repiten con patrones más rápidos
 - **P: ¿Qué puede terminar mi partida?**  
   **R:** Chocar con un enemigo o barril, caer desde demasiada altura o agotar el
   temporizador de bonus.
+
 

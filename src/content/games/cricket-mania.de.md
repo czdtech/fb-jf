@@ -40,6 +40,8 @@ Zielvorgaben Runs sammelst.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `tap`
 
 - Richte den Schlag mit der jeweiligen Richtungssteuerung aus und tippe/klicke
   im richtigen Moment, um zu schlagen.
@@ -64,4 +66,5 @@ Zielvorgaben Runs sammelst.
 - Kann ich auch bowlen?
   
   Die meisten Versionen legen den Fokus ausschließlich auf das Batting.
+
 
