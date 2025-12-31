@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: speed-master
-title: 'Speed Master'
-description: >-
-  Speed Master est un jeu de réflexes minimaliste qui met ton timing à rude
-  épreuve : appuie pile au bon moment sur les indications pour enchaîner les
-  « perfects » et garder ton calme quand la vitesse s’emballe.
+title: Speed Master
+description: "Speed Master est un jeu de réflexes minimaliste qui met ton timing à rude épreuve\_: appuie pile au bon moment sur les indications pour enchaîner les «\_perfects\_» et garder ton calme quand la vitesse s’emballe."
 iframeSrc: 'https://6e0ej8ct9hdj8.h5games.usercontent.goog/v/1fssfmqquil18/'
 thumbnail: /new-images/thumbnails/speed-master.png
 tags:
@@ -26,6 +23,7 @@ rythmes piégeux et plusieurs « voies » à suivre qui punissent aussi bien l
 appuis trop précoces que trop tardifs.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Compter en rythme :** cale‑toi sur un tempo interne stable et appuie

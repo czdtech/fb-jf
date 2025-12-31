@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Tile Puzzle est un jeu de tuiles moderne et captivant qui défie ta planification et ta stratégie. L'objectif est de vider un plateau empilé de tuiles variées. Tu fais ça en sélectionnant une tuile et en l'envoyant vers un plateau de collection en bas. Quand tu as trois tuiles identiques dans le plateau, elles matchent et disparaissent, libérant de l'espace. Tu dois vider tout le plateau pour gagner, mais attention—si tu remplis le plateau complètement, tu perds !
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Réfléchis avant de taper :** Le plateau de collection a une capacité très limitée (généralement sept emplacements). Avant de taper sur une tuile, aie un plan. Ne tape pas au hasard en espérant le meilleur.

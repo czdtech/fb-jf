@@ -27,6 +27,7 @@ glisse, éviter les collisions et franchir la ligne d’arrivée le plus vite
 possible. Le jeu est connu pour son rythme rapide et la précision qu’il
 demande.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Gérer la vitesse :** apprends à ralentir ou accélérer au bon moment

@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Sushi Grab est un jeu de sélection rapide sur le thème du sushi sur tapis roulant. Prends uniquement les pièces demandées, évite les mauvais choix ou les pièges, et enchaîne les bonnes prises pour atteindre l’objectif de score avant la fin du timer.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégie
 
 1.  **Lis la commande :** concentre‑toi sur la demande actuelle, n’attrape pas « au hasard ».

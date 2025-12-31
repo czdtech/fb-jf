@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Tripeaks Solitaire est une variante populaire et rapide du solitaire qui combine des éléments du Golf Solitaire et du Pyramid Solitaire. Le jeu tire son nom de la disposition initiale des cartes, disposées en trois pyramides superposées, ou « pics ». L'objectif est de dégager tout le tableau en sélectionnant des cartes d'un rang directement supérieur ou inférieur à la carte de la pile de défausse, créant de longues séries et vidant le plateau avant d'épuiser ta pioche.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **L'objectif :** Dégager toutes les cartes des trois pics du tableau.

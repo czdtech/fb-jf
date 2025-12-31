@@ -1,13 +1,15 @@
 ---
-title: "3D Free Kick 3D フリーキック"
-description: "「3D フリーキック」でプロのようなカーブシュートを決めましょう。壁を越え、ボールを曲げ、スタイリッシュなセットプレーでゴールを奪おう！"
-iframeSrc: "https://78b0enfiv98go.h5games.usercontent.goog/v/00acsktd29tjg/"
+title: 3D Free Kick 3D フリーキック
+description: 「3D フリーキック」でプロのようなカーブシュートを決めましょう。壁を越え、ボールを曲げ、スタイリッシュなセットプレーでゴールを奪おう！
+iframeSrc: 'https://78b0enfiv98go.h5games.usercontent.goog/v/00acsktd29tjg/'
 thumbnail: /new-images/thumbnails/3d-free-kick.png
-urlstr: "3d-free-kick"
-score: "4.1/5  (1866 votes)"
-tags: ["sports", "soccer"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: 3d-free-kick
+score: 4.1/5  (1866 votes)
+tags:
+  - sports
+  - soccer
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 *3D Free Kick（3D フリーキック）*は、セットプレーのテクニックに特化したゲームです。ターゲットを選び、壁を迂回するカーブをかけ、キーパーを破りましょう。ステージごとに壁のサイズ、キーパーの反応速度、距離、風向きが変化し、正確なコントロールとシュート技術が試されます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **四隅を狙う：** ゴールの高い位置や低い位置の隅（コーナー）は、キーパーが最も届きにくい場所です。

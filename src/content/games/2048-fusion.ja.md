@@ -1,13 +1,18 @@
 ---
-title: "2048 Fusion 2048 フュージョン"
-description: "名作パズル「2048」を現代風にアレンジした「2048 フュージョン」。タイルをスライドさせて合体させ、2048タイル、そしてその先を目指しましょう！計画的に動かさないと盤面がいっぱいになってしまいます！"
-iframeSrc: "https://7t79nelq6lu50.h5games.usercontent.goog/v/7jm0opa5dtf00/"
+title: 2048 Fusion 2048 フュージョン
+description: >-
+  名作パズル「2048」を現代風にアレンジした「2048
+  フュージョン」。タイルをスライドさせて合体させ、2048タイル、そしてその先を目指しましょう！計画的に動かさないと盤面がいっぱいになってしまいます！
+iframeSrc: 'https://7t79nelq6lu50.h5games.usercontent.goog/v/7jm0opa5dtf00/'
 thumbnail: /new-images/thumbnails/2048-fusion.png
-urlstr: "2048-fusion"
-score: "4.3/5  (2000 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: 2048-fusion
+score: 4.3/5  (2000 votes)
+tags:
+  - puzzle
+  - thinky
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +22,7 @@ locale: ja
 *2048 Fusion（2048 フュージョン）*は、スライド式ブロックパズルの金字塔「2048」をスタイリッシュかつ現代的に進化させたバージョンです。4x4のグリッド上で番号の付いたタイルをスライドさせ、組み合わせていきます。同じ数字のタイル同士が触れ合うと、それらは合体（フュージョン）し、値が合計された1つのタイルになります。主な目標は、なかなか現れない「2048」のタイルを作り出すことですが、さらに高いスコアを目指してプレイを続けることも可能です。先読みの力、戦略、そして少しの運が試されるゲームです。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **コーナー戦略（角に集める）：** これは最も有名で効果的な戦法です。グリッドの四隅のどこか（例：右上）を1つ決め、常にそこに「最も数字の大きいタイル」を固定するようにします。ここを拠点にして、数字を育てていきましょう。

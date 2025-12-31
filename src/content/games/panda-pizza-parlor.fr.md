@@ -20,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Bienvenue chez Panda Pizza Parlor, un jeu de cuisine charmant et rapide où tu gères ta propre pizzeria ! En tant que chef panda en chef, ton travail est de prendre les commandes, préparer de délicieuses pizzas avec les bonnes garnitures, les cuire à la perfection et les servir à une variété de clients animaux affamés. Gère efficacement ton temps pour garder tes clients satisfaits, gagner de l'argent et faire grandir ton commerce de pizza d'une humble pizzeria à un restaurant de renommée mondiale.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Vérifier la commande :** dès qu'un client arrive, regarde la bulle au‑dessus de sa tête pour voir quel type de pizza il veut. Fais bien attention aux garnitures.

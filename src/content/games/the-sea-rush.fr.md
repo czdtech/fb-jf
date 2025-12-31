@@ -3,8 +3,8 @@ locale: fr
 urlstr: the-sea-rush
 title: The Sea Rush
 description: >-
-  The Sea Rush est un puzzle match-3 sous-marin : aligne trois animaux marins
-  ou plus pour marquer des points et progresser dans l aventure.
+  The Sea Rush est un puzzle match-3 sous-marin : aligne trois animaux marins ou
+  plus pour marquer des points et progresser dans l aventure.
 iframeSrc: 'https://thesearush.h5games.usercontent.goog/v/5ie3e5aghbr18/'
 thumbnail: /new-images/thumbnails/the-sea-rush.png
 tags:
@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 The Sea Rush est un jeu de puzzle match-3 ou les joueurs embarquent pour une aventure sous-marine. L objectif est d aligner trois animaux marins similaires ou plus en ligne ou en colonne en echangeant les animaux adjacents.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 Utilise un clic de souris ou un balayage tactile pour echanger les animaux marins adjacents. Aligner trois animaux similaires ou plus les efface. Effacer plusieurs blocs simultanement rapporte plus de points. En accumulant des points, tu passes au niveau de difficulte suivant, le jeu devenant de plus en plus difficile. Une reflexion strategique est necessaire. Planifie tes coups a l avance et vise des alignements de plus de trois blocs pour des points bonus. Garde un oeil sur les limites de temps et fais des mouvements rapides pour maximiser ton score.

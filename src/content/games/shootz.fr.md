@@ -28,6 +28,7 @@ vagues de zombies et d’autres monstres. Tu dois utiliser différentes armes
 pour survivre à un rythme de combat élevé, tout en profitant d’un système
 d’armement varié et évolutif.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Améliorer les armes :** collecte des ressources ou de la monnaie

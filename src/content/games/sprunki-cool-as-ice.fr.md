@@ -9,7 +9,7 @@ tags:
   - sprunki cool as ice
   - sprunki cool as ice online
 score: 4.2/5  (324 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Présentation de Sprunki Cool As Ice
@@ -48,6 +48,7 @@ Quelques notions suffisent pour te lancer :
 
 Note : le jeu peut mettre 30-45 secondes à se charger selon ta connexion ; sois patient.
 
+<!-- i18n:section:tips -->
 ### Conseils pour bien profiter de Sprunki: Cool As Ice
 
 - **Varie les combinaisons :** mélange personnages rythmiques, mélodiques et

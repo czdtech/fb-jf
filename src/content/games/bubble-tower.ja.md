@@ -1,13 +1,16 @@
 ---
-title: "Bubble Tower 3D バブルタワー3D"
-description: "「Bubble Tower 3D」は回転するタワーが舞台のバブルシューティングゲーム！タワーを回して狙いを定め、連鎖でバブルを消し去ろう。"
-iframeSrc: "https://bubbletower.h5games.usercontent.goog/v/7ebcukaef3voo/"
+title: Bubble Tower 3D バブルタワー3D
+description: 「Bubble Tower 3D」は回転するタワーが舞台のバブルシューティングゲーム！タワーを回して狙いを定め、連鎖でバブルを消し去ろう。
+iframeSrc: 'https://bubbletower.h5games.usercontent.goog/v/7ebcukaef3voo/'
 thumbnail: /new-images/thumbnails/bubble-tower.png
-urlstr: "bubble-tower"
-score: "4.3/5  (1950 votes)"
-tags: ["puzzle", "shooting", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: bubble-tower
+score: 4.3/5  (1950 votes)
+tags:
+  - puzzle
+  - shooting
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 *Bubble Tower 3D（バブルタワー3D）*は、古典的なバブルシューターの公式にエキサイティングな3次元要素を加えたゲームです。色とりどりのバブルが、回転する円筒形のタワー（塔）の外側にくっついています。プレイヤーの目的は、画面下の大砲からバブルを発射し、同じ色のバブルを3つ以上くっつけて消していくことです。タワーを左右に回転させて死角をなくし、最適な射撃角度を見つけて大連鎖を狙いましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **回転して確認する:** 撃つ前に必ずタワーを左右に回して、全体の配置を確認しましょう。隠れた場所に同じ色の大きな塊があるかもしれません。そこを狙えば一気に崩せる可能性があります。

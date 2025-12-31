@@ -1,13 +1,17 @@
 ---
-title: "Archery World Tour アーチェリー・ワールドツアー"
-description: "「アーチェリー・ワールドツアー」へようこそ。風向きや距離を計算してブルズアイを射抜き、世界中の大会でチャンピオンを目指すリアルなアーチェリーゲームです。"
-iframeSrc: "https://archery.h5games.usercontent.goog/v/f12fb2aa-d64b-4074-8974-31705698e2e6/"
+title: Archery World Tour アーチェリー・ワールドツアー
+description: 「アーチェリー・ワールドツアー」へようこそ。風向きや距離を計算してブルズアイを射抜き、世界中の大会でチャンピオンを目指すリアルなアーチェリーゲームです。
+iframeSrc: >-
+  https://archery.h5games.usercontent.goog/v/f12fb2aa-d64b-4074-8974-31705698e2e6/
 thumbnail: /new-images/thumbnails/archery.jpg
-urlstr: "archery"
-score: "4.4/5  (2700 votes)"
-tags: ["sports", "shooting", "action"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: archery
+score: 4.4/5  (2700 votes)
+tags:
+  - sports
+  - shooting
+  - action
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +21,7 @@ locale: ja
 *Archery World Tour（アーチェリー・ワールドツアー）*は、リアルでやりごたえのあるアーチェリーシミュレーションゲームです。プレイヤーは風光明媚なロケーションを巡り、様々なアーチェリー大会に参加します。目的はターゲット（的）に矢を放ち、できるだけ高いスコアを獲得することです。成功するには単に手がブレないようにするだけでは不十分です。「風速」「風向き」そして「ターゲットまでの距離」といった環境要因を計算に入れる必要があり、真の実力が試されます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **風を計算する：** 毎回のショットの前に、風向計を見てください。風の向きと強さが表示されています。矢は風に流されるため、風とは**逆方向**に狙いをずらす（オフセットする）必要があります。

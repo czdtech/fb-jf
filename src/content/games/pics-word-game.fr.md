@@ -23,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Pics Word Game est un jeu de puzzle de mots où on te présente des images et tu dois déduire un seul mot qui les relie. C'est une manière ludique de tester ton vocabulaire et tes compétences de réflexion critique.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Étudier les images :** examine attentivement toutes les images fournies pour le puzzle. Cherche des thèmes communs, objets, actions ou concepts.

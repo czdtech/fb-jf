@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Ultimate Knife Smash est un jeu d'arcade basé sur le timing. Lance des couteaux dans une cible tournante sans toucher les lames déjà plantées. La vitesse de rotation et la direction changent souvent, exigeant un timing précis, du rythme et un bon contrôle du risque pour les étapes combo.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Observe les rotations :** Note les changements de vitesse et les inversions de direction avant de lancer.

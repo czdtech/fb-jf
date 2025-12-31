@@ -1,13 +1,15 @@
 ---
-title: "Bricks Breaker House ブリックス・ブレイカー・ハウス"
-description: "「Bricks Breaker House」は優しいテーマのブロック崩し。角度を操り、パワーアップを活用し、家を守りながらレンガを崩そう。"
-iframeSrc: "https://1s6hqqts5ko6o.h5games.usercontent.goog/v/7n8ge2nvqqksg/"
+title: Bricks Breaker House ブリックス・ブレイカー・ハウス
+description: 「Bricks Breaker House」は優しいテーマのブロック崩し。角度を操り、パワーアップを活用し、家を守りながらレンガを崩そう。
+iframeSrc: 'https://1s6hqqts5ko6o.h5games.usercontent.goog/v/7n8ge2nvqqksg/'
 thumbnail: /new-images/thumbnails/bricks-breaker-house.png
-urlstr: "bricks-breaker-house"
-score: "3.8/5  (1679 votes)"
-tags: ["puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: bricks-breaker-house
+score: 3.8/5  (1679 votes)
+tags:
+  - puzzle
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 *Bricks Breaker House（ブリックス・ブレイカー・ハウス）*は、馴染み深いブロック崩しに、穏やかで可愛らしいテーマを取り入れたゲームです。各ステージには新しい障害物やちょっとしたギミックが登場します。基本的なルールはクラシックです。ボールを落とさないように打ち返し、高得点のタイルを狙い、パワーアップアイテムを駆使してステージをクリアしていきましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **安定した角度：** 30度〜45度くらいの角度で打ち返すと、ボールの軌道が読みやすく、制御しやすいループを作ることができます。

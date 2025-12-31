@@ -1,13 +1,18 @@
 ---
-title: "Basketball Legends バスケットボール・レジェンド"
-description: "「Basketball Legends」でコートの伝説となれ！レジェンド選手たちを操り、1対1や2対2の対戦、トーナメントを勝ち抜くための完全攻略ガイド。スーパーショットの使い方が勝負を決める。"
-iframeSrc: "https://webglmath.github.io/basketball-legends/"
+title: Basketball Legends バスケットボール・レジェンド
+description: >-
+  「Basketball
+  Legends」でコートの伝説となれ！レジェンド選手たちを操り、1対1や2対2の対戦、トーナメントを勝ち抜くための完全攻略ガイド。スーパーショットの使い方が勝負を決める。
+iframeSrc: 'https://webglmath.github.io/basketball-legends/'
 thumbnail: /new-images/thumbnails/basketball-legends.jpg
-urlstr: "basketball-legends"
-score: "4.5/5  (832 votes)"
-tags: ["sports", "basketball", "multiplayer"]
-developer: "MadPuffers"
-releaseDate: 2025-08-16
+urlstr: basketball-legends
+score: 4.5/5  (832 votes)
+tags:
+  - sports
+  - basketball
+  - multiplayer
+developer: MadPuffers
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -20,6 +25,7 @@ locale: ja
 このゲームの魅力は、スピーディーでアクロバティックなバスケットボール体験です。1対1のデュエル、またはCPUとチームを組んだ2対2の試合を楽しむことができます。「トーナメント」モードでは、勝ち抜き戦で優勝を目指し、「クイックマッチ」では手軽に試合を楽しめます。さらに、1つのキーボードを使って友達と対戦する2人プレイモードも搭載されており、友情（とライバル心）を育むのに最適です。豪快なダンクシュートや、必殺の「スーパーショット」を決めて、観客を沸かせましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 *Basketball Legends* で勝つためには、「移動」「タイミング」、そして「スーパーショット」を使いこなす戦略性が必要です。
@@ -41,6 +47,7 @@ locale: ja
 3.  **スティール（ボール奪取）：** 相手がドリブルしている時に「スティール」キーを使うと、ボールを弾き飛ばせます。速攻のチャンスを作るのに有効です。
 4.  **守備でもダッシュ：** 戻りが遅れた時や、相手シューターに距離を詰めたい時は迷わずダッシュを使いましょう。
 
+<!-- i18n:section:controls -->
 ### 操作ガイド
 
 1つのキーボードで2人対戦ができるように配置されています。

@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: secret-agent
-title: 'Secret Agent'
-description: >-
-  Secret Agent est un jeu d’infiltration‑action : faufile‑toi derrière les
-  gardes, désactive les pièges et remplis tes objectifs en utilisant tes
-  gadgets et un timing millimétré.
+title: Secret Agent
+description: "Secret Agent est un jeu d’infiltration‑action\_: faufile‑toi derrière les gardes, désactive les pièges et remplis tes objectifs en utilisant tes gadgets et un timing millimétré."
 iframeSrc: 'https://087cce7dimlq8.h5games.usercontent.goog/v/6na8sphqpnhlo/'
 thumbnail: /new-images/thumbnails/secret-agent.png
 tags:
@@ -27,6 +24,7 @@ collecter des informations avant l’exfiltration. Un bon tracé de route et
 un usage précis de tes gadgets valent mieux que la force brute.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Gérer les cônes de vision :** ne te déplace que lorsque les cônes des

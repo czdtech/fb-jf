@@ -31,6 +31,7 @@ physique de tir : tu dois régler l’angle et la puissance de tes lancers de
 balle de tennis (et d’autres projectiles) pour faire tomber les ennemis de
 leurs radeaux dans l’eau.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Maîtriser les tirs :** apprends à ajuster l’angle et la puissance de

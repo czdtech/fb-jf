@@ -21,6 +21,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Pets Rush est un jeu de match‑3 survie rapide et excitant avec un adorable thème animalier. Contrairement aux jeux de match‑3 traditionnels basés sur des niveaux, c'est un jeu de survie. Un mur de blocs d'animaux colorés monte continuellement depuis le bas de l'écran, et tu dois frénétiquement créer des matches pour l'empêcher d'atteindre le haut. Échange des animaux adjacents pour créer des lignes de trois ou plus, déclenche des combos et nettoie le plateau aussi longtemps que possible pour obtenir un score élevé.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Garder la hauteur sous contrôle :** ton objectif principal est d'empêcher n'importe quelle colonne d'atteindre le haut de l'écran. Privilégie toujours les matches dans tes colonnes les plus hautes pour les faire redescendre.

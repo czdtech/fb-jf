@@ -3,8 +3,7 @@ title: Classic Solitaire クラシック・ソリティア
 description: >-
   「Classic
   Solitaire」は世界中で最も有名なカードゲーム。クロンダイクのルールで、カードを並べ替え、エースからキングまで揃えよう。シンプルで奥深いパズル。
-iframeSrc: >-
-  https://6uj90l2koon6g.h5games.usercontent.goog/v/2a72i89u7qfe8/
+iframeSrc: 'https://6uj90l2koon6g.h5games.usercontent.goog/v/2a72i89u7qfe8/'
 thumbnail: /new-images/thumbnails/classic-solitaire.png
 urlstr: classic-solitaire
 score: 4.7/5  (2950 votes)
@@ -13,7 +12,7 @@ tags:
   - casual
   - classic
 developer: ''
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +24,7 @@ locale: ja
 ゲームの目的は、ジョーカーを除く52枚のトランプカードを、マーク（スート）ごとに4つの「組札（ホームセル）」に、エース（A）からキング（K）の順にすべて積み上げることです。場札にあるカードをルールに従って動かし、隠されたカードをめくりながら、全てのカードを整列させましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 運の要素もありますが、仕組みを理解すると勝率を上げられます。

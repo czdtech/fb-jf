@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Tumble Towers est un jeu d'empilement où chaque bloc déposé modifie le centre de gravité. Un bon jeu consiste à répartir le poids, limiter les débordements et anticiper les oscillations pour que la tour survive aux secousses après chaque pose.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  Les bases larges l'emportent sur les constructions en hauteur.

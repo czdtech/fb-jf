@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Totemia: Cursed Marbles est un jeu action-puzzle palpitant dans le style des tireurs de billes classiques comme Zuma ou Luxor. Une chaîne de billes colorées maudites roule le long d'un chemin vers une chambre secrète. Tu contrôles une puissante pierre tiki qui tire des billes. Ton objectif est de détruire toute la chaîne en tirant des billes pour créer des matchs de trois ou plus de la même couleur avant que la première bille n'atteigne la fin de la ligne.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Vise les combos :** La clé d'un bon score et d'un nettoyage efficace des niveaux est de créer des combos. Quand tu fais exploser un groupe de billes, la chaîne s'arrête temporairement. Si les deux nouvelles extrémités de la chaîne sont de la même couleur, elles s'attireront, se rétractera et fusionneront, créant souvent un nouveau match automatique. C'est un combo !

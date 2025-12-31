@@ -26,6 +26,7 @@ se nourrit d’orbes brillants pour grandir. Tu dois éviter de percuter les
 corps des autres serpents, tout en essayant de provoquer leur collision pour
 récupérer une pluie d’orbes et grimper au classement.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Croissance sûre :** en début de partie, concentre‑toi sur les petits

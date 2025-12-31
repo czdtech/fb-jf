@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Parking Jam est un puzzle dans l'esprit de Rush Hour : tu fais glisser des voitures le long de leurs axes pour dégager la route de ton véhicule cible. Les niveaux avancés remplissent le parking de voitures de tailles différentes, de flèches imposant un sens de circulation et d'obstacles qui demandent un ordre de déplacement très précis.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Remonter depuis la sortie :** pars de la sortie et identifie les voitures qui bloquent réellement le chemin à libérer.

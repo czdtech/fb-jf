@@ -25,6 +25,7 @@ rebondit et tranche au passage des fruits, des blocs et d’autres objets.
 L’objectif est de réussir des coupes propres, d’enchaîner les tranches et
 de ramasser un maximum de récompenses sans heurter les obstacles.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Maîtriser le timing des coups :** coupe au bon moment pour maximiser

@@ -19,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Pokemon Fire Red est un remake fidèle du jeu Pokémon Rouge original. Les joueurs se lancent dans une aventure à travers la région de Kanto, capturant et entraînant des Pokémon, combattant les Champions d'Arène et déjouant les plans de la Team Rocket avec l'objectif ultime de devenir le Champion de la Ligue Pokémon. Le jeu conserve l'histoire classique et le gameplay de l'original, avec des améliorations visuelles et fonctionnelles de l'ère GBA.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Choisir ton Pokémon starter :** au début du jeu, sélectionne l'un des trois Pokémon — Bulbizarre, Salamèche ou Carapuce — comme partenaire.

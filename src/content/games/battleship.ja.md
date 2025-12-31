@@ -1,13 +1,16 @@
 ---
-title: "Battleship バトルシップ：海戦ゲーム"
-description: "「Battleship」は戦略と運の古典的海戦ゲームです。敵艦隊を推測して攻撃し、自分の艦隊を守りながら相手の全艦を撃沈せよ。完全攻略とルール解説。"
-iframeSrc: "https://cdn.gamesnacks.com/battleship2/gameCode/index.html"
+title: Battleship バトルシップ：海戦ゲーム
+description: 「Battleship」は戦略と運の古典的海戦ゲームです。敵艦隊を推測して攻撃し、自分の艦隊を守りながら相手の全艦を撃沈せよ。完全攻略とルール解説。
+iframeSrc: 'https://cdn.gamesnacks.com/battleship2/gameCode/index.html'
 thumbnail: /new-images/thumbnails/battleship.jpg
-urlstr: "battleship"
-score: "4.4/5  (986 votes)"
-tags: ["puzzle", "strategy", "thinky"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: battleship
+score: 4.4/5  (986 votes)
+tags:
+  - puzzle
+  - strategy
+  - thinky
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -26,10 +29,12 @@ locale: ja
 
 双方が配置を終えると交互に座標（例：D5）を宣言して砲撃します。相手は命中なら「Hit!」、外れなら「Miss!」と返答し、プレイヤーは記録盤にヒット／ミスをマーキングして論理的に敵艦を絞り込んでいきます。艦の全マスが命中した時点でその艦は沈没となり、残る艦の捜索へ移行します。
 
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略
 
 勝つためには巧みな配置と論理的な推理を組み合わせる必要があります。
 
+<!-- i18n:section:tips -->
 #### 船の配置戦略（防御）
 
 1.  **定番スポットを避ける:** 角や端は狙われやすいので、艦を散らして配置し読みを外させましょう。

@@ -1,13 +1,18 @@
 ---
-title: "Atari Breakout アタリ・ブロック崩し"
-description: "伝説のアーケードゲーム「Atari Breakout」を極めよう。すべてのブロックを粉砕し、ハイスコアを叩き出すための勝利の戦略、操作方法、そしてコツを伝授。"
-iframeSrc: "https://app-184523.games.s3.yandex.net/184523/bdryh2h6iqjirujzrk3tlum0j0n28j1o/index.html"
+title: Atari Breakout アタリ・ブロック崩し
+description: >-
+  伝説のアーケードゲーム「Atari
+  Breakout」を極めよう。すべてのブロックを粉砕し、ハイスコアを叩き出すための勝利の戦略、操作方法、そしてコツを伝授。
+iframeSrc: >-
+  https://app-184523.games.s3.yandex.net/184523/bdryh2h6iqjirujzrk3tlum0j0n28j1o/index.html
 thumbnail: /new-images/thumbnails/atari-breakout.jpg
-urlstr: "atari-breakout"
-score: "3.7/5  (602 votes)"
-tags: ["casual", "action"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: atari-breakout
+score: 3.7/5  (602 votes)
+tags:
+  - casual
+  - action
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,10 +23,12 @@ locale: ja
 
 ボールがブロックに当たると、ブロックは破壊され、ボールは跳ね返ります。画面上のすべてのブロックを破壊すると次のレベルに進めます。ゲームが進むにつれてボールの速度が上がり、より速い反射神経が求められます。ボールを打ち損じて画面下に落としてしまうと、ライフ（ライフ）を失います。すべてのライフを失うとゲームオーバーです。
 
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 シンプルに見えますが、スコアを伸ばし効率よくクリアするための重要な戦略があります。
 
+<!-- i18n:section:tips -->
 #### 1. 「トンネリング（穴掘り）」戦略
 これは最も有名で効果的な戦法です。画面の左右どちらかの端にあるブロックを集中的に狙い、縦に貫通する穴（トンネル）を開けます。ボールをブロック層の**上側**に送り込むことができれば、ボールは天井とブロックの間で激しく跳ね返り、パドルで打ち返すリスクなしに自動的に大量のブロックを破壊してくれます。これが最速のクリア方法です。
 

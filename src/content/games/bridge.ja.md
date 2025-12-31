@@ -1,13 +1,16 @@
 ---
-title: "Bridge コントラクト・ブリッジ"
-description: "「Bridge」で世界最高峰の頭脳スポーツに挑戦。パートナーと協力してビッドとトリックテイキングを制し、契約（コントラクト）を達成せよ。"
-iframeSrc: "https://2ipri8asu56io.h5games.usercontent.goog/v/0gn3i94fda0h0/"
+title: Bridge コントラクト・ブリッジ
+description: 「Bridge」で世界最高峰の頭脳スポーツに挑戦。パートナーと協力してビッドとトリックテイキングを制し、契約（コントラクト）を達成せよ。
+iframeSrc: 'https://2ipri8asu56io.h5games.usercontent.goog/v/0gn3i94fda0h0/'
 thumbnail: /new-images/thumbnails/bridge.png
-urlstr: "bridge"
-score: "4.7/5  (3000 votes)"
-tags: ["card", "puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: bridge
+score: 4.7/5  (3000 votes)
+tags:
+  - card
+  - puzzle
+  - thinky
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +22,7 @@ locale: ja
 ゲームは大きく分けて「オークション（ビッド）」と「プレイ」の2つのフェーズで構成されます。オークションでは、どのスート（マーク）を切り札にするか、いくつのトリック（勝負）を取るかを宣言し合い、「コントラクト（契約）」を決定します。プレイフェーズでは、契約を勝ち取った側（デクレアラー）が宣言通りにトリックを取れるか、防御側（ディフェンダー）がそれを阻止できるかを競います。世界中で「マインドスポーツ」として愛されています。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **ビッド（オークション）：** 最初のフェーズです。プレイヤーは順番に「ビッド」を行います。ビッドは数字（1〜7）とスート（クラブ、ダイヤ、ハート、スペード、またはノートランプ：NT）で構成されます。数字は「6つ以上のトリックに追加して取る数」を意味します（例：「3ハート」のビッドは、ハートを切り札として9トリック以上取るという宣言）。最も高いビッドが最終的な契約になります。

@@ -20,6 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Pocket Champs est un jeu de course multijoueur idle où tu ne contrôles pas directement la course, mais tout ce qui mène à la victoire. Ton rôle est d'entraîner ton « Champ » dans différentes disciplines comme la course, le vol et l'escalade. Avant chaque course, tu dois équiper stratégiquement ton Champ avec les bons gadgets pour le parcours. Une fois la course lancée, tu regardes ta préparation porter ses fruits tandis que ton Champ concourt automatiquement pour ramener la victoire.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Entraîner, entraîner, entraîner :** la base de ton succès est l'entraînement. Garde ton Champ en entraînement permanent pour améliorer ses compétences de course, vol, escalade et natation. C'est un jeu idle, donc l'entraînement continue même quand tu es hors ligne.

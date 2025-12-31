@@ -26,6 +26,7 @@ rouges. Cette version apporte des graphismes 3D plus propres, de nouveaux
 types d’obstacles et des tracés plus sophistiqués pour les joueurs
 expérimentés.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **S’habituer aux nouveaux effets visuels :** adapte‑toi aux effets

@@ -1,13 +1,16 @@
 ---
-title: "Cannon Balls 3D キャノンボール3D"
-description: "「Cannon Balls 3D」で破壊の限りを尽くせ！大砲で狙いを定め、建物を粉々に破壊する爽快3D物理パズル。弱点を狙って弾薬を節約しよう。"
-iframeSrc: "https://cannonballs3d.h5games.usercontent.goog/v/004m7ejm69rs0/"
+title: Cannon Balls 3D キャノンボール3D
+description: 「Cannon Balls 3D」で破壊の限りを尽くせ！大砲で狙いを定め、建物を粉々に破壊する爽快3D物理パズル。弱点を狙って弾薬を節約しよう。
+iframeSrc: 'https://cannonballs3d.h5games.usercontent.goog/v/004m7ejm69rs0/'
 thumbnail: /new-images/thumbnails/cannon-balls-3d.png
-urlstr: "cannon-balls-3d"
-score: "4.2/5  (1900 votes)"
-tags: ["shooting", "puzzle", "action"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: cannon-balls-3d
+score: 4.2/5  (1900 votes)
+tags:
+  - shooting
+  - puzzle
+  - action
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 *Cannon Balls 3D（キャノンボール3D）*は、強力な大砲を操り、様々な建造物を破壊する爽快な物理パズルゲームです。各レベルにはユニークな建物やブロックの塔が登場します。プレイヤーの目的は、限られた数の砲弾を使って、ターゲットの建物を崩壊させることです。ただ撃つだけでなく、建物の構造的な「弱点」を見抜き、最小限の弾数で最大の破壊を引き起こす戦略眼が求められます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **構造を分析する:** 撃ち始める前に、建物をよく観察しましょう。建物を支えている主要な柱や、爆発するTNTタルなどの弱点はどこでしょうか？連鎖反応を狙いましょう。

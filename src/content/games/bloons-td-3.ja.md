@@ -1,13 +1,17 @@
 ---
-title: "Bloons TD 3 ブルーンズTD 3"
-description: "「Bloons TD 3」でシリーズは大きく飛躍！新マップ8種、スパイク・オー・パルトなどの新タワー、そしてシリーズの顔「MOAB」が初登場。戦略の幅が広がった名作TD。"
-iframeSrc: "https://1000freegames.github.io/swf/bloons-td-3.html"
+title: Bloons TD 3 ブルーンズTD 3
+description: >-
+  「Bloons TD
+  3」でシリーズは大きく飛躍！新マップ8種、スパイク・オー・パルトなどの新タワー、そしてシリーズの顔「MOAB」が初登場。戦略の幅が広がった名作TD。
+iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-3.html'
 thumbnail: /new-images/thumbnails/bloons-td-3.jpg
-urlstr: "bloons-td-3"
-score: "4.9/5  (538 votes)"
-tags: ["casual", "strategy"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: bloons-td-3
+score: 4.9/5  (538 votes)
+tags:
+  - casual
+  - strategy
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -27,6 +31,7 @@ locale: ja
 -   **継続するブルーン耐性:** 鋭利攻撃無効の Lead、爆発無効の Black、凍結無効の White など、耐性ブルーンへの対策が戦略の要です。  
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 -   **序盤はバランス良く:** ダーツモンキーとタックシューターで序盤を支え、早めに「Piercing Darts」へアップグレード。ブーメラン・スロワーは曲線区間の掃討役に最適です。  

@@ -1,13 +1,17 @@
 ---
-title: "Basket Battle バスケット・バトル"
-description: "「Basket Battle」は物理演算を駆使したバスケットボール対決です。弧を描いてシュートし、リバウンドを制し、スピーディーな試合展開で相手を圧倒しましょう。"
-iframeSrc: "https://1e2ocejsf0rm8.h5games.usercontent.goog/v/093f1a2jf2p98/"
+title: Basket Battle バスケット・バトル
+description: >-
+  「Basket
+  Battle」は物理演算を駆使したバスケットボール対決です。弧を描いてシュートし、リバウンドを制し、スピーディーな試合展開で相手を圧倒しましょう。
+iframeSrc: 'https://1e2ocejsf0rm8.h5games.usercontent.goog/v/093f1a2jf2p98/'
 thumbnail: /new-images/thumbnails/basket-battle.png
-urlstr: "basket-battle"
-score: "3.9/5  (1728 votes)"
-tags: ["sports", "basketball"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: basket-battle
+score: 3.9/5  (1728 votes)
+tags:
+  - sports
+  - basketball
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +21,7 @@ locale: ja
 *Basket Battle（バスケット・バトル）*は、手軽でありながら物理演算の要素を取り入れたバスケットボール・ミニゲームです。このゲームの魅力は、シュートの「弧（アーチ）」を読み、タイミングを合わせ、リバウンドの攻防を制することにあります。短時間の激しいラウンドで対戦相手を出し抜き、勝利を掴み取りましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **アーチを描く：** 高い軌道（アーチ）を描くシュートは、ボールが柔らかく落下するため、低いシュートよりも入りやすいです。

@@ -26,6 +26,7 @@ bonne humeur. De nombreux mini‑jeux et activités te permettent de gagner des
 pièces, d’acheter de nouveaux objets et décorations et de passer plus de
 temps avec ton Pou.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Satisfaire les besoins de base :** nourris Pou, lave‑le et couche‑le

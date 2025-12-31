@@ -5,8 +5,7 @@ title: 'One Line Only: Dot to Dot'
 description: >-
   One Line Only: Dot to Dot est un puzzle de tracé où tu dois relier tous les
   points avec un seul trait continu sans repasser deux fois au même endroit.
-iframeSrc: >-
-  https://7n3sql2bqn9eg.h5games.usercontent.goog/v/2br4t62jndh88/
+iframeSrc: 'https://7n3sql2bqn9eg.h5games.usercontent.goog/v/2br4t62jndh88/'
 thumbnail: /new-images/thumbnails/one-line-only-dot-to-dot.jpg
 tags:
   - puzzle
@@ -22,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 One Line Only: Dot to Dot est un jeu de réflexion minimaliste basé sur le tracé d'un seul trait. Sur chaque grille, des points sont reliés par des segments possibles ; ton objectif est de dessiner un chemin qui passe une fois et une seule sur chaque segment sans lever le doigt ou la souris. Plus les niveaux avancent, plus les formes deviennent complexes.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Observer avant de tracer :** prends quelques secondes pour repérer les nœuds clés (points avec beaucoup de segments) avant de dessiner.

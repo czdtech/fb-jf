@@ -20,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Only Up est un platformer 3D extrêmement exigeant. L'objectif est de grimper continuellement dans un monde massif composé d'objets flottants, de bâtiments abandonnés et de structures étranges. Le jeu n'a pas de points de sauvegarde ; chaque erreur peut te faire chuter de grandes hauteurs et te forcer à repartir du début, ce qui met à l'épreuve ta précision et ta force mentale.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Observation méticuleuse :** avant chaque saut, observe attentivement la position, la distance et le matériau de la prochaine plateforme, et planifie le meilleur itinéraire.

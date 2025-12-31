@@ -26,6 +26,7 @@ alien qui fonce à travers un tunnel en 3D, saute par‑dessus les vides et
 originale et sa difficulté progressive offrent une expérience à la fois
 simple à comprendre et difficile à maîtriser.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Maîtriser le timing des sauts :** apprends à sauter au bon moment

@@ -5,15 +5,14 @@ title: Om Nom Run
 description: >-
   Om Nom Run est un runner dynamique : cours avec Om Nom, évite les obstacles,
   collecte des pièces et active des bonus pour battre tes records.
-iframeSrc: >-
-  https://omnomrun.h5games.usercontent.goog/v/38udj70raubl0/
+iframeSrc: 'https://omnomrun.h5games.usercontent.goog/v/38udj70raubl0/'
 thumbnail: /new-images/thumbnails/om-nom-run.png
 tags:
   - runner
   - action
   - casual
 developer: ''
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 score: 4.5/5  (3400 votes)
 ---
 
@@ -23,6 +22,7 @@ score: 4.5/5  (3400 votes)
 Om Nom Run est un jeu de course infinie où tu incarnes Om Nom et ses amis dans des rues pleines d'obstacles, de voitures et de bonus. Tu dois changer de voie, sauter par‑dessus les barrières, glisser sous les obstacles et utiliser des bonus pour aller toujours plus loin. Certaines versions proposent aussi des missions et objectifs spécifiques à accomplir.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Lire loin devant :** regarde toujours plusieurs cases devant Om Nom pour anticiper les obstacles plutôt que de réagir au dernier moment.

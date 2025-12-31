@@ -24,6 +24,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Om Nom Connect Classic est un puzzle de connexion rapide mettant en scène les personnages de l'univers Cut the Rope. Le but est de vider le plateau en trouvant des paires de tuiles identiques. La difficulté vient de la règle de connexion : tu ne peux retirer une paire que si le chemin entre les deux tuiles comporte au maximum deux angles droits et ne traverse aucune autre tuile. Avec un chrono qui défile, il faut être à la fois rapide et méthodique.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Comprendre la règle de liaison :** une paire n'est valide que si tu peux dessiner une ligne entre les deux tuiles avec au plus deux virages et aucun blocage.

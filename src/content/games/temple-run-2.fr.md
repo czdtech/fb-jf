@@ -24,6 +24,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 Temple Run 2 est un jeu d'aventure de course infinie ou tu navigues sur des chemins de temple perilleux, collectant des pieces et bonus tout en evitant les obstacles et les singes demons qui te poursuivent. Le jeu se deroule dans des environnements magnifiques, offrant une experience de jeu et des effets visuels plus riches que son predecesseur.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Collecte les pieces :** Priorise la collecte des pieces sur le chemin pour ameliorer les personnages et acheter des bonus.

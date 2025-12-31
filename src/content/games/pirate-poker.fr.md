@@ -11,7 +11,7 @@ tags:
   - casual
 score: 4.3/5  (2200 votes)
 developer: ''
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -20,6 +20,7 @@ releaseDate: 2025-10-17
 Pirate Poker est un jeu de poker à cinq cartes classique avec un thème pirate flamboyant. Tu t'assieds à une table avec des adversaires pirates salés, pariant tes doublons d'or et essayant de construire la meilleure main de cinq cartes possible. Le jeu implique des tours de mise, une chance d'échanger tes cartes pour améliorer ta main, et un abattage final pour voir qui remporte le pot. C'est un jeu de stratégie, de psychologie et d'un peu de chance.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Connaître le classement des mains :** l'objectif est de faire la meilleure main de cinq cartes. Du plus haut au plus bas, le classement standard est : Quinte Flush Royale, Quinte Flush, Carré, Full, Couleur, Suite, Brelan, Deux Paires, Une Paire et Carte Haute.

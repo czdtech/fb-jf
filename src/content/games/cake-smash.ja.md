@@ -1,13 +1,16 @@
 ---
-title: "Cake Smash ケーキ・スマッシュ"
-description: "「Cake Smash」でおいしいケーキをマッチ＆スマッシュ！楽しくて中毒性のあるマッチ3パズルゲーム。"
-iframeSrc: "https://41la6sld9ed88.h5games.usercontent.goog/v/36d90atplnu7o/"
+title: Cake Smash ケーキ・スマッシュ
+description: 「Cake Smash」でおいしいケーキをマッチ＆スマッシュ！楽しくて中毒性のあるマッチ3パズルゲーム。
+iframeSrc: 'https://41la6sld9ed88.h5games.usercontent.goog/v/36d90atplnu7o/'
 thumbnail: /new-images/thumbnails/cake-smash.png
-urlstr: "cake-smash"
-score: "4.3/5 (1543 votes)"
-tags: ["puzzle", "casual", "clicker"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: cake-smash
+score: 4.3/5 (1543 votes)
+tags:
+  - puzzle
+  - casual
+  - clicker
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 *Cake Smash（ケーキ・スマッシュ）*は、色鮮やかで魅力的なマッチ3パズルゲームです。隣り合ったケーキを入れ替えて、同じ種類のケーキを3つ以上並べましょう。揃ったケーキは「スマッシュ（粉砕）」されて消え、上から新しいケーキが落ちてきます。各レベルには「特定のスコアに到達する」「特定の種類のケーキを何個消す」といった目標が設定されています。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **3つ以上揃える:** 基本は、隣り合う2つのケーキを入れ替えて、同じケーキを3つ並べることです。

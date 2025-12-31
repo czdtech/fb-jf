@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: quiz-x
-title: 'Quiz x'
-description: >-
-  Quiz x est un quiz rapide façon jeu télé : lis les questions, pense large et
-  choisis la réponse la plus pertinente sous une légère pression de temps.
+title: Quiz x
+description: "Quiz x est un quiz rapide façon jeu télé\_: lis les questions, pense large et choisis la réponse la plus pertinente sous une légère pression de temps."
 iframeSrc: 'https://5348abrdhudu8.h5games.usercontent.goog/v/35ge2no4verb8/'
 thumbnail: /new-images/thumbnails/quiz-x.png
 tags:
@@ -29,6 +27,7 @@ bonus. Une pensée large et l’élimination des mauvaises options valent mieux
 qu’une hyper‑spécialisation.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Éliminer d’abord :** supprime mentalement les propositions

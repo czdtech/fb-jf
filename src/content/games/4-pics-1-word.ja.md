@@ -1,13 +1,15 @@
 ---
-title: "4 Pics 1 Word 4写真1単語"
-description: "世界中で大人気のパズルゲーム「4 Pics 1 Word」。4枚の写真に共通する1つの言葉を当てましょう。シンプルだけど奥が深い連想ゲームです！"
-iframeSrc: "https://previews.customer.envatousercontent.com/files/309288896/index.html"
+title: 4 Pics 1 Word 4写真1単語
+description: 世界中で大人気のパズルゲーム「4 Pics 1 Word」。4枚の写真に共通する1つの言葉を当てましょう。シンプルだけど奥が深い連想ゲームです！
+iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288896/index.html'
 thumbnail: /new-images/thumbnails/4-pics-1-word.jpg
-urlstr: "4-pics-1-word"
-score: "4.5/5  (144 votes)"
-tags: ["puzzle", "word"]
-developer: "So Far So Good"
-releaseDate: 2025-08-16
+urlstr: 4-pics-1-word
+score: 4.5/5  (144 votes)
+tags:
+  - puzzle
+  - word
+developer: So Far So Good
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -38,6 +40,7 @@ locale: ja
 
 ---
 
+<!-- i18n:section:tips -->
 ### 攻略とヒント
 
 ゲームはシンプルですが、いくつかのコツを知っておくと効率よく解けます。

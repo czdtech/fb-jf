@@ -1,13 +1,16 @@
 ---
-title: "Bloxorz ブロックス"
-description: "1×2×1 のブロックを転がし、穴に直立状態で落とし込む 3D ロジックパズル Bloxorz。精密な読みと計画で 33 ステージを攻略しよう。"
-iframeSrc: "https://ad-freegames.github.io/flash/game/bloxorz.html"
+title: Bloxorz ブロックス
+description: 1×2×1 のブロックを転がし、穴に直立状態で落とし込む 3D ロジックパズル Bloxorz。精密な読みと計画で 33 ステージを攻略しよう。
+iframeSrc: 'https://ad-freegames.github.io/flash/game/bloxorz.html'
 thumbnail: /new-images/thumbnails/bloxorz.jpg
-urlstr: "bloxorz"
-score: "3.9/5  (922 votes)"
-tags: ["puzzle", "thinky", "classic"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: bloxorz
+score: 3.9/5  (922 votes)
+tags:
+  - puzzle
+  - thinky
+  - classic
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -27,6 +30,7 @@ locale: ja
     -   **`<>` 分割スイッチ:** ブロックが横倒しで跨ると、1×1 のキューブ 2 個に分裂します。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 攻略のコツ
 
 -   **先読みしてから動く:** 次のマスで直立するのか横倒しなのか、オレンジタイルに乗らないか、落下しないかを毎回確認してから操作しましょう。

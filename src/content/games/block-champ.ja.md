@@ -1,13 +1,17 @@
 ---
-title: "Block Champ ブロック・チャンプ"
-description: "「Block Champ」は10x10のグリッドパズルゲーム。戦略性が問われる配置ゲームで、雷や氷の特殊ブロックを駆使してラインを消し、ハイスコアを目指そう。"
-iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/block-champ/"
+title: Block Champ ブロック・チャンプ
+description: >-
+  「Block
+  Champ」は10x10のグリッドパズルゲーム。戦略性が問われる配置ゲームで、雷や氷の特殊ブロックを駆使してラインを消し、ハイスコアを目指そう。
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/block-champ/'
 thumbnail: /new-images/thumbnails/block-champ.jpg
-urlstr: "block-champ"
-score: "4.6/5  (926 votes)"
-tags: ["puzzle", "board Game"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: block-champ
+score: 4.6/5  (926 votes)
+tags:
+  - puzzle
+  - board Game
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -25,6 +29,7 @@ locale: ja
 ハイスコアを狙うには、先を読む力とスペース管理の丁寧さが不可欠です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 *   **選択肢を確保する：** 1マスの孤立した「穴」を作らないようにしましょう。これを埋めるには、めったに来ない「1x1ブロック」を待つしかなく、非常に困難です。常に盤面を平らに、広く保つのがコツです。

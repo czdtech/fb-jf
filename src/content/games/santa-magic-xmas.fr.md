@@ -19,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Santa Magic Xmas est un jeu de puzzle match‑3 joyeux et festif qui t'immerge dans l'esprit des fêtes. Ton objectif est d'aider le Père Noël en alignant des objets de Noël colorés comme des cloches, des décorations et des bonshommes en pain d'épices. Échange des objets adjacents pour créer des lignes de trois ou plus, déclenche des combos puissants et complète les objectifs de chaque niveau pour t'assurer que tous les cadeaux sont livrés à temps !
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Créer des bonus festifs :** la meilleure façon de nettoyer le plateau est de fabriquer des objets spéciaux à partir de matches plus grands.

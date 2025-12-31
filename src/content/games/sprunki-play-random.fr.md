@@ -9,7 +9,7 @@ tags:
   - sprunki play random
   - sprunki play random online
 score: 4.5/5  (614 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Présentation de Sprunki Play Random
@@ -23,6 +23,7 @@ En bref, Sprunki Play Random transforme la création musicale en aventure pleine
 ---
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Comment jouer à Sprunki Play Random ?
 
 La prise en main est très simple, à la souris ou au doigt :

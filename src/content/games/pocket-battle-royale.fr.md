@@ -11,7 +11,7 @@ tags:
   - battle royale
 score: 4.2/5  (2100 votes)
 developer: ''
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -20,6 +20,7 @@ releaseDate: 2025-10-17
 Pocket Battle Royale est un shooter 2D vue du dessus rapide qui distille l'excitation du genre battle royale en rounds courts et pleins d'action. Tu es largué dans une arène labyrinthique avec d'autres joueurs et dois te battre pour être le dernier survivant. Fouille pour trouver des armes, munitions et packs de vie tout en restant devant la zone de sécurité en constante réduction qui force les joueurs à se rapprocher. C'est un test pur de survie, de réflexes et de stratégie.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Looter vite :** ta première priorité quand le jeu commence est de trouver une arme. Parcours les bâtiments et zones ouvertes pour trouver des armes, munitions et kits de vie. Tu es sans défense sans arme.

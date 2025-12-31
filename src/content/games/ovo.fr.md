@@ -20,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 OvO Game est un platformer rapide et extrêmement exigeant. Les joueurs contrôlent un personnage en forme de bonhomme allumette, utilisant des sauts précis, des glissades et des rebonds muraux pour naviguer dans des niveaux complexes, visant à atteindre la ligne d'arrivée le plus vite possible. Le jeu est réputé pour sa haute difficulté et ses contrôles fluides, testant la vitesse de réaction et la précision de mouvement des joueurs.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Maîtriser les mouvements de base :** maîtriser parfaitement les mouvements de base comme le saut, la glissade, le double saut et le rebond mural est essentiel pour réussir les niveaux.

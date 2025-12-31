@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Western Sniper propose des missions courtes avec des bandits, des explosifs et des cibles mobiles. Le succès repose sur un réticule calme, des choix de cibles prioritaires (fusils/lanceurs en premier) et la gestion des ressources (munitions/temps/objectifs bonus).
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Priorité :** Élimine d'abord les menaces à distance et les explosifs.

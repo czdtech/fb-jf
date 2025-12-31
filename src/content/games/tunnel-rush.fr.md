@@ -23,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 Tunnel Rush est un endless runner ultra-rapide où tu navigues dans un tunnel 3D coloré, évitant obstacles et barrières à grande vitesse. Cette expérience palpitante teste tes réflexes et ta concentration, avec une vitesse qui augmente au fil du jeu.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Entraînement des réflexes :** Pratique des réactions rapides pour gérer les obstacles soudains.

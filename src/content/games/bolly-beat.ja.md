@@ -1,13 +1,17 @@
 ---
-title: "Bolly Beat ボリー・ビート"
-description: "「Bolly Beat」はボリウッドスタイルに乗って楽しむリズムアクション。ビートに合わせてタップし、コンボを繋げよう。エネルギッシュな音楽とリズム感が試される。"
-iframeSrc: "https://bollybeat.h5games.usercontent.goog/v/4k75msiudusn0/"
+title: Bolly Beat ボリー・ビート
+description: >-
+  「Bolly
+  Beat」はボリウッドスタイルに乗って楽しむリズムアクション。ビートに合わせてタップし、コンボを繋げよう。エネルギッシュな音楽とリズム感が試される。
+iframeSrc: 'https://bollybeat.h5games.usercontent.goog/v/4k75msiudusn0/'
 thumbnail: /new-images/thumbnails/bolly-beat.jpg
-urlstr: "bolly-beat"
-score: "4.0/5  (1672 votes)"
-tags: ["casual", "action"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: bolly-beat
+score: 4.0/5  (1672 votes)
+tags:
+  - casual
+  - action
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +21,7 @@ locale: ja
 *Bolly Beat（ボリー・ビート）*は、エネルギッシュで陽気な「ボリウッド（インド映画）」スタイルの楽曲をテーマにした、手軽に楽しめるリズムタップゲームです。画面上の合図に合わせてノーツが流れてきます。タイミングよくタップしてコンボを途切れさせないようにしましょう。正確なタイミングで叩くほどスコアと星の評価が上がり、連続成功（ストリーク）を続けることでボーナスマルチプライヤーが発動し、より複雑で楽しいパターンがアンロックされていきます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **判定ラインを見極める：** ビート（拍）に合わせて叩くことに集中しましょう。早すぎたり遅すぎたりするとコンボが切れ、スコア倍率が下がってしまいます。

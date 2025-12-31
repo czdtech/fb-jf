@@ -1,13 +1,18 @@
 ---
-title: "Bad Time Simulator (Sans Fight) サンズ戦シミュレーター"
-description: "「Bad Time Simulator」で、Undertale最難関のサンズ戦をブラウザで体験。すべての攻撃パターンや回避方法を練習して、悪夢のような弾幕を生き延びろ。"
-iframeSrc: "https://gotoanddie.github.io/c2-sans-fight/"
+title: Bad Time Simulator (Sans Fight) サンズ戦シミュレーター
+description: >-
+  「Bad Time
+  Simulator」で、Undertale最難関のサンズ戦をブラウザで体験。すべての攻撃パターンや回避方法を練習して、悪夢のような弾幕を生き延びろ。
+iframeSrc: 'https://gotoanddie.github.io/c2-sans-fight/'
 thumbnail: /new-images/thumbnails/bad-time-simulator.jpg
-urlstr: "bad-time-simulator"
-score: "4.6/5  (1058 votes)"
-tags: ["action", "rhythm", "bullet-hell"]
-developer: "Jcw87"
-releaseDate: 2025-08-16
+urlstr: bad-time-simulator
+score: 4.6/5  (1058 votes)
+tags:
+  - action
+  - rhythm
+  - bullet-hell
+developer: Jcw87
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +24,7 @@ locale: ja
 このシミュレーターは、本編をプレイせずに悪名高い「サンズ戦」を体験したい人や、本編でどうしても勝てずに練習をしたい人のために作られました。プレイヤーは小さな「ハート（SOUL）」を操作し、サンズが繰り出す容赦のない骨の攻撃やガスターブラスターのビームの嵐を回避し続けなければなりません。これは純粋な弾幕回避ゲームであり、極限の集中力と記憶力が試されます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 この戦いは「覚えゲー」の最高峰です。反射神経も大切ですが、それ以上に「次に何が来るか」を知っているかどうかが生死を分けます。

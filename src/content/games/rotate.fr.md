@@ -29,6 +29,7 @@ changeant l’orientation du monde, tu modifies la direction de la gravité et
 donc la trajectoire de la bille. Tu dois contrôler finement l’angle et le
 timing de chaque rotation pour amener la bille sur la case d’arrivée.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Comprendre la gravité :** apprends comment chaque rotation modifie la

@@ -1,13 +1,17 @@
 ---
-title: "Bloons TD 2 ブルーンズTD 2"
-description: "古典的な名作タワーディフェンスの続編「Bloons TD 2」。3つの難易度、新タワー「モンキービーコン」、そして厄介な「鉛（Lead）ブルーン」が登場。戦略を練って風船を割ろう！"
-iframeSrc: "https://1000freegames.github.io/swf/bloons-td-2.html"
+title: Bloons TD 2 ブルーンズTD 2
+description: >-
+  古典的な名作タワーディフェンスの続編「Bloons TD
+  2」。3つの難易度、新タワー「モンキービーコン」、そして厄介な「鉛（Lead）ブルーン」が登場。戦略を練って風船を割ろう！
+iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-2.html'
 thumbnail: /new-images/thumbnails/bloons-td-2.jpg
-urlstr: "bloons-td-2"
-score: "4.9/5  (574 votes)"
-tags: ["casual", "strategy"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: bloons-td-2
+score: 4.9/5  (574 votes)
+tags:
+  - casual
+  - strategy
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -33,6 +37,7 @@ locale: ja
     -   **レインボーブルーン：** 本作最強のブルーン。割るとゼブラを2体放出します。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略
 
 -   **バランスの取れた防衛を維持：** ブラックは爆発無効、ホワイトは凍結無効なので、単一ダメージに頼ると突破されます。ダートモンキーやタックシューターなど万能火力と、ボム／アイスといった専門職を組み合わせましょう。

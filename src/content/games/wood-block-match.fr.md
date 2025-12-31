@@ -23,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Wood Block Match est un jeu de placement de blocs style 10×10 avec une esthétique bois. À chaque tour, tu reçois un lot de formes ; place-les pour compléter des lignes/colonnes et libérer de l'espace. La partie se termine quand aucune des pièces restantes ne rentre — le succès réside donc dans la préservation de couloirs flexibles tout en préparant des effacements multi-lignes.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Espace central :** Garde le centre du plateau ouvert ; arrange les bords pour éviter les pièges à une seule case.

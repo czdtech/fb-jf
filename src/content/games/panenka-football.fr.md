@@ -19,6 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Panenka Football met en avant la Panenka, ce penalty piqué doucement au centre alors que le gardien plonge d'un côté. Tu alternes entre chips, frappes placées et variations de hauteur pour tromper le gardien. La clé est de lire ses habitudes, de masquer ta direction jusqu'au dernier moment et de choisir le bon type de tir en fonction de son comportement.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Lire le gardien :** s'il plonge très tôt, une Panenka plein centre est idéale ; s'il attend, mieux vaut viser les coins.

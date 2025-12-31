@@ -19,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Smarty Bubbles 2 prolonge le plaisir du classique bubble shooter avec un habillage plus soigné et des centaines de nouveaux niveaux. Le principe ne change pas : vider le plateau de toutes ses bulles colorées en tirant et en formant des groupes d'au moins trois bulles de même couleur. Cette suite te pousse à réfléchir stratégiquement pour créer d'énormes réactions en chaîne et nettoyer chaque niveau, tout en gérant tes tirs pour empêcher le plafond de descendre.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Éviter les tirs « dans le vide » :** comme dans l'original, chaque tir compte. Après un certain nombre de tirs qui ne font éclater aucune bulle, une nouvelle rangée descend du haut et complique la partie. Un indicateur sur le côté te montre combien d'essais il te reste.

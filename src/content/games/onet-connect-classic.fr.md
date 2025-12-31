@@ -3,8 +3,7 @@ locale: fr
 urlstr: onet-connect-classic
 title: Onet Connect Classic
 description: "Onet Connect Classic est un jeu de connexion de tuiles façon mahjong\_: relie des paires identiques avec un chemin à deux virages max pour vider le plateau."
-iframeSrc: >-
-  https://onetconnectclassic.h5games.usercontent.goog/v/0q8248mt11l3g/
+iframeSrc: 'https://onetconnectclassic.h5games.usercontent.goog/v/0q8248mt11l3g/'
 thumbnail: /new-images/thumbnails/onet-connect-classic.png
 tags:
   - puzzle
@@ -12,7 +11,7 @@ tags:
   - mahjong
 score: 4.3/5  (1840 votes)
 developer: ''
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -21,6 +20,7 @@ releaseDate: 2025-10-17
 Onet Connect Classic reprend les principes des jeux Onet et des mahjongs de connexion. Tu dois trouver des paires de tuiles identiques (fruits, animaux, symboles) et les relier par un chemin comportant au plus deux virages. Si le chemin est libre et respecte la règle, la paire disparaît. Le défi augmente à mesure que le plateau se vide et que le temps file.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **La règle de connexion :** tu ne peux supprimer une paire de tuiles identiques que si le chemin entre elles est libre et peut être tracé avec une ligne comportant **au maximum deux virages à 90 degrés**. Le chemin peut donc être :

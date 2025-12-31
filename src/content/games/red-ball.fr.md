@@ -27,6 +27,7 @@ remplis d’obstacles, d’ennemis et de petits casse‑têtes. En jouant sur
 l’élan, les pentes et la gravité, tu dois atteindre la fin de chaque
 niveau en un seul morceau.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Maîtriser la physique de base :** apprends à utiliser le rebond et le

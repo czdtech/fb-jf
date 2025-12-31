@@ -22,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Paper Minecraft est une version 2D de Minecraft qui transpose le bac à sable dans un monde à défilement horizontal. Tu peux explorer, miner des ressources, fabriquer des objets, construire des structures et survivre aux monstres qui apparaissent dans l'obscurité. Le jeu conserve l'ADN du Minecraft original tout en proposant une approche plus simple à lire en 2D.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Rassembler des ressources :** coupe du bois, mine les minerais en sous‑sol et stocke suffisamment de pierre et de charbon pour tes outils et ton abri.

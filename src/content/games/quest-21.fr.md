@@ -19,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Quest 21 est une aventure de cartes amusante et stratégique basée sur les règles du Blackjack classique. Au lieu de jouer simplement à une table de casino, tu te lances dans une quête, affrontant une série d'adversaires. Pour les vaincre et avancer, tu dois gagner des mains de 21. L'objectif dans chaque main est d'obtenir un total de cartes plus proche de 21 que ton adversaire sans le dépasser. Cela combine la chance du tirage avec des décisions simples mais stratégiques.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **L'objectif :** obtenir un total de main aussi proche de 21 que possible, sans le dépasser. Une main au‑dessus de 21 est un « bust » et une perte automatique.

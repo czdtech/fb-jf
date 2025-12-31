@@ -20,6 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Neon Tower est un jeu d'arcade 3D rapide et addictif où tu guides une balle rebondissante le long d'une immense tour hélicoïdale. Le principe est simple : tu fais pivoter la tour pour aligner les trous dans les plateformes et laisser la balle tomber d'étage en étage. L'objectif est d'atteindre le bas de la tour tout en évitant les plateformes rouges, qui détruisent instantanément la balle.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Chercher les ouvertures :** le mécanisme central consiste à faire pivoter la tour pour aligner les ouvertures avec la trajectoire de la balle. Laisse la gravité faire le travail.

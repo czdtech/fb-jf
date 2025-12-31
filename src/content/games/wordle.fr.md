@@ -22,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 Wordle est un jeu de devinette de mots quotidien devenu viral. Tu as six tentatives pour trouver un mot de cinq lettres. Après chaque essai, les cases changent de couleur pour t'indiquer si les lettres sont correctes et bien placées. Simple à comprendre, difficile à maîtriser, c'est le défi vocabulaire parfait pour se creuser les méninges chaque jour.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Choix du premier mot :** Privilégie un mot contenant des voyelles courantes (A, E, I, O, U) pour maximiser les informations dès le départ.

@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: rampage-road
-title: 'Rampage Road'
-description: >-
-  Rampage Road est un shooter automobile chaotique : faufile‑toi dans la
-  circulation, fais exploser tes ennemis et survie à des poursuites
-  explosives.
+title: Rampage Road
+description: "Rampage Road est un shooter automobile chaotique\_: faufile‑toi dans la circulation, fais exploser tes ennemis et survie à des poursuites explosives."
 iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
 thumbnail: /new-images/thumbnails/rampage-road.png
 tags:
@@ -28,6 +25,7 @@ de recharge et neutraliser des cibles tout en gardant ton véhicule en un
 seul morceau à travers des vagues d’ennemis.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Tracer des trajectoires propres :** reste dans des voies avec des

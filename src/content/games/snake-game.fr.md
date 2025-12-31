@@ -26,6 +26,7 @@ un maximum d’items sans percuter les murs ni ton propre corps. Grâce à son
 gameplay à la fois ultra simple et terriblement addictif, il est devenu un
 incontournable de l’histoire du jeu vidéo.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Planifier ton trajet :** anticipe toujours quelques cases à l’avance

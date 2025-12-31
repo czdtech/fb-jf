@@ -1,13 +1,17 @@
 ---
-title: "Basketball serial shooter バスケットボール・シリアルシューター"
-description: "「Basketball serial shooter」は、連射と技術が融合したバスケ・チャレンジ。リズムを刻み、弧を描き、プレッシャーの中で連続ゴールを決めろ。"
-iframeSrc: "https://41d3mmm660u50.h5games.usercontent.goog/v/1t2n5uvjnbv1o/"
+title: Basketball serial shooter バスケットボール・シリアルシューター
+description: >-
+  「Basketball serial
+  shooter」は、連射と技術が融合したバスケ・チャレンジ。リズムを刻み、弧を描き、プレッシャーの中で連続ゴールを決めろ。
+iframeSrc: 'https://41d3mmm660u50.h5games.usercontent.goog/v/1t2n5uvjnbv1o/'
 thumbnail: /new-images/thumbnails/basketball-serial-shooter.jpg
-urlstr: "basketball-serial-shooter"
-score: "4.3/5  (2141 votes)"
-tags: ["sports", "basketball"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: basketball-serial-shooter
+score: 4.3/5  (2141 votes)
+tags:
+  - sports
+  - basketball
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +23,7 @@ locale: ja
 ゲームの核心は、再現性のあるリリース（発射）ポイントを見つけ、ゴールの動きを読み、リングに触れずにスパッと入る「スウィッシュ」を連続させることです。レベルが進むにつれ、障害物や動くバックボード、ゴールの高さの変化などが加わり、よりクリーンで正確なメカニクスが求められます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **再現性のあるフォームを作る：** 毎回同じリズムで打てるように、カーソルの位置やリリースのタイミングを固定しましょう。

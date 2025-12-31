@@ -23,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 Tiny Fishing est un jeu de pêche casual relaxant où tu lances ta ligne dans les profondeurs, attrapes différentes espèces de poissons et améliores ton équipement pour atteindre des eaux plus profondes et découvrir des créatures rares. Le jeu est adoré des joueurs pour ses contrôles simples et son expérience de jeu relaxante.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Améliore la ligne de pêche :** Priorise l'amélioration de la longueur de la ligne pour atteindre des eaux plus profondes et attraper des poissons rares.

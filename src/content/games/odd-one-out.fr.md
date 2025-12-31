@@ -23,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Odd One Out est un jeu de réflexion basé sur l'observation. À chaque niveau, une série d'objets ou de personnages est affichée, et un seul ne correspond pas au groupe : couleur, forme, orientation, thème… À toi de trouver l'élément qui ne colle pas avant la fin du temps imparti. Plus tu progresses, plus les différences deviennent subtiles.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Balayer l'écran rapidement :** commence par un coup d'œil global pour repérer immédiatement les différences évidentes (taille, couleur, direction).

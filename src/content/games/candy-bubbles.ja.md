@@ -1,13 +1,17 @@
 ---
-title: "Candy Bubbles"
-description: "甘い世界に足を踏み入れ、カラフルなキャンディバブルをポップしましょう！大砲を狙い、3つ以上をマッチさせ、この楽しいバブルシューターパズルゲームでボードをクリアしましょう。"
-iframeSrc: "https://candybubbles.h5games.usercontent.goog/v/370v1t5h5266g/"
+title: Candy Bubbles
+description: >-
+  甘い世界に足を踏み入れ、カラフルなキャンディバブルをポップしましょう！大砲を狙い、3つ以上をマッチさせ、この楽しいバブルシューターパズルゲームでボードをクリアしましょう。
+iframeSrc: 'https://candybubbles.h5games.usercontent.goog/v/370v1t5h5266g/'
 thumbnail: /new-images/thumbnails/candy-bubbles.png
-urlstr: "candy-bubbles"
-score: "4.3/5  (2050 votes)"
-tags: ["shooting", "puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: candy-bubbles
+score: 4.3/5  (2050 votes)
+tags:
+  - shooting
+  - puzzle
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +21,7 @@ locale: ja
 Candy Bubblesは、クラシックなバブルシューターをキャンディテーマでアレンジしたパズルゲームです。大砲で狙いを定めて撃ち、同じ色のバブルを3つ以上つなげてポップさせましょう。数百のレベルが用意されており、壁反射や連鎖落下を活かしたコンボでテンポよく遊べます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **高く狙う:** バブルシューターで最も効果的な戦略は、ボードの高いところにあるマッチを狙うことです。バブルのクラスターをポップすると、そのクラスター（と他には何もつながっていないもの）にのみ取り付けられているバブルも落下し、ボードの大きなセクションを一度にクリアして、巨大なボーナスポイントを獲得できます。

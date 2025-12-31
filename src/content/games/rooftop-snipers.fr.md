@@ -29,6 +29,7 @@ physiques. Deux petits personnages pixelisés se tirent dessus sur des toits
 l’adversaire dans le vide. Le jeu est célèbre pour ses effets ragdoll très
 drôles et son gameplay aussi simple que punitif.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Maîtriser les commandes de base :** deviens fluide dans la

@@ -19,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Table Tennis est un jeu de simulation sportive rapide et engageant qui apporte l'expérience classique du ping-pong sur ton écran. Les joueurs affrontent un adversaire contrôlé par l'ordinateur dans un match où réflexes, timing et stratégie sont essentiels. L'objectif est de surpasser ton adversaire en frappant la balle au-delà de lui, en respectant les règles de base du tennis de table. Avec des contrôles intuitifs et une physique réaliste, le jeu offre une expérience accessible mais stimulante pour les joueurs de tous niveaux.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Service et retour :** chaque point commence par un service. La clé est de frapper la balle après qu'elle a rebondi une fois de ton côté. En retournant un coup, concentre-toi sur la trajectoire de la balle et positionne ta raquette en conséquence.

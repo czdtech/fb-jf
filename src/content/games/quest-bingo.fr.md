@@ -19,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Quest Bingo prend le plaisir intemporel du Bingo classique et le transforme en une aventure excitante. Dans ce jeu, tu ne joues pas simplement des parties isolées ; tu te lances dans un voyage à travers une carte remplie de niveaux uniques. Au fur et à mesure que les numéros sont appelés, tu coches ta carte pour former des motifs gagnants. Mais tu compléteras aussi des quêtes, utiliseras de puissants boosters et collecteras des pièces de puzzle cachées pour débloquer de belles œuvres d'art, ajoutant une couche de progression et de découverte au gameplay familier.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Les bases du Bingo :** le gameplay de base est le Bingo classique. Un numéro est appelé, et si tu l'as sur ta carte, tu le coches. L'objectif est de compléter un motif requis (comme une ligne droite, quatre coins ou une forme spécifique) sur ta carte.

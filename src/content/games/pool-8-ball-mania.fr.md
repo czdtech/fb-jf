@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: pool-8-ball-mania
-title: 'Pool 8 Ball Mania'
-description: >-
-  Pool 8 Ball Mania modernise le billard de bar : vise avec précision,
-  contrôle la blanche avec les effets et nettoie la table grâce à un bon
-  jeu de position.
+title: Pool 8 Ball Mania
+description: "Pool 8 Ball Mania modernise le billard de bar\_: vise avec précision, contrôle la blanche avec les effets et nettoie la table grâce à un bon jeu de position."
 iframeSrc: 'https://4i2ksm0sqbsr0.h5games.usercontent.goog/v/6fbgaukuhtvqo/'
 thumbnail: /new-images/thumbnails/pool-8-ball-mania.png
 tags:
@@ -28,6 +25,7 @@ topspin pour faire avancer la bille, le rétro (backspin) pour la faire
 revenir, et le side‑spin sur les bandes pour ajuster les trajectoires.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Anticipe la position suivante :** avant chaque poche, réfléchis à

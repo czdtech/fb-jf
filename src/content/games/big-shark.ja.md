@@ -1,13 +1,16 @@
 ---
-title: "Big Shark ビッグ・シャーク"
-description: "「Big Shark」の海で王者になれ！凶暴なサメを操り、小魚を食べて巨大化し、危険なライバルや機雷を避けて海の食物連鎖の頂点を目指すサバイバルガイド。"
-iframeSrc: "https://g2.igroutka.ru/lib/crazy/games/big-shark/"
+title: Big Shark ビッグ・シャーク
+description: 「Big Shark」の海で王者になれ！凶暴なサメを操り、小魚を食べて巨大化し、危険なライバルや機雷を避けて海の食物連鎖の頂点を目指すサバイバルガイド。
+iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/big-shark/'
 thumbnail: /new-images/thumbnails/big-shark.jpg
-urlstr: "big-shark"
-score: "4.0/5  (372 votes)"
-tags: ["action", "survival", "animal"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: big-shark
+score: 4.0/5  (372 votes)
+tags:
+  - action
+  - survival
+  - animal
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +22,7 @@ locale: ja
 広大な海を泳ぎ回り、自分より小さな魚や生き物を食べて成長しましょう。最初は小さな獲物しか狙えませんが、食べれば食べるほどサメは巨大化し、より大きな獲物を狙えるようになります。しかし注意してください。海にはあなたより大きなサメや、触れると即死する危険な機雷（爆弾）、その他の脅威が潜んでいます。エンドレスなこの海で、あなたはどれだけ大きく成長し、どれだけ長く生き残れるでしょうか？
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 *Big Shark* で生き残るには、「積極性」と「慎重さ」のバランスが重要です。

@@ -1,13 +1,15 @@
 ---
-title: "4-in-Row Mania フォープラス・マニア"
-description: "「4-in-Row Mania」でクラシックな四目並べを楽しもう。列に4つの駒を揃えるだけのシンプルなルールで、戦略的な対戦が熱いボードゲームです。"
-iframeSrc: "https://4vt1c4a3eda48.h5games.usercontent.goog/v/73p1lulj7oe3o/"
+title: 4-in-Row Mania フォープラス・マニア
+description: 「4-in-Row Mania」でクラシックな四目並べを楽しもう。列に4つの駒を揃えるだけのシンプルなルールで、戦略的な対戦が熱いボードゲームです。
+iframeSrc: 'https://4vt1c4a3eda48.h5games.usercontent.goog/v/73p1lulj7oe3o/'
 thumbnail: /new-images/thumbnails/4-in-row-mania.jpg
-urlstr: "4-in-row-mania"
-score: "4.1/5  (1993 votes)"
-tags: ["board", "puzzle"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: 4-in-row-mania
+score: 4.1/5  (1993 votes)
+tags:
+  - board
+  - puzzle
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 *4-in-Row Mania（フォープラス・マニア）*は、時代を超えて愛される「四目並べ」ボードゲームをデジタル化したものです。コンピューター（AI）と対戦することも、同じデバイスを使って友達と対戦することもできます。先に自分の色のディスク（駒）を縦・横・斜めのいずれかに4つ並べた方が勝ちとなります。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **中央を制する：** 7列あるボードのうち、中央の列（4列目）は最も多くの勝利ラインに関与します。序盤はこの列にディスクを置くことを優先しましょう。

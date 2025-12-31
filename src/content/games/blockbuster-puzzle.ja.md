@@ -1,13 +1,15 @@
 ---
-title: "Blockbuster Puzzle ブロックバスター・パズル"
-description: "「Blockbuster Puzzle」で爽快ブロック崩し！配置を計画し、爆破連鎖を起こそう。スペース管理が鍵となる戦略パズルの攻略法を紹介。"
-iframeSrc: "https://177gd8gft04p0.h5games.usercontent.goog/v/0md288db3fuq8/"
+title: Blockbuster Puzzle ブロックバスター・パズル
+description: 「Blockbuster Puzzle」で爽快ブロック崩し！配置を計画し、爆破連鎖を起こそう。スペース管理が鍵となる戦略パズルの攻略法を紹介。
+iframeSrc: 'https://177gd8gft04p0.h5games.usercontent.goog/v/0md288db3fuq8/'
 thumbnail: /new-images/thumbnails/blockbuster-puzzle.png
-urlstr: "blockbuster-puzzle"
-score: "4.0/5  (1862 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: blockbuster-puzzle
+score: 4.0/5  (1862 votes)
+tags:
+  - puzzle
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 *Blockbuster Puzzle（ブロックバスター・パズル）*は、手持ちのブロックをはめ込んでラインや塊（クラスター）を消去していく、満足感の高いブロック消しゲームです。このゲームの芸術性は「ペース配分」にあります。複数のルートを常に確保し、広範囲を一掃する「ボム」のような一手を準備し、最後の逃げ道であるポケットを無駄に使い潰さないようにしましょう。連鎖を狙ってスペースを広げ続けるのがコツです。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **2本のラインを確保：** 扱いにくい変な形のブロックが来てもいいように、常に少なくとも2つの柔軟なビルドルート（建設可能な列）を空けておきましょう。

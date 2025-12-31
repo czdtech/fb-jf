@@ -1,13 +1,17 @@
 ---
-title: "2048 Giant 2048 ジャイアント"
-description: "名作パズル「2048」を、巨大な新しいスタイルで体験できる「2048 ジャイアント」。より大きな盤面でタイルを合体させ、圧倒的なハイスコアを目指しましょう。"
-iframeSrc: "https://2048giant.h5games.usercontent.goog/v/4bea87e2-a9a9-4f4b-b1c8-8b777220c567/"
+title: 2048 Giant 2048 ジャイアント
+description: 名作パズル「2048」を、巨大な新しいスタイルで体験できる「2048 ジャイアント」。より大きな盤面でタイルを合体させ、圧倒的なハイスコアを目指しましょう。
+iframeSrc: >-
+  https://2048giant.h5games.usercontent.goog/v/4bea87e2-a9a9-4f4b-b1c8-8b777220c567/
 thumbnail: /new-images/thumbnails/2048-giant.jpg
-urlstr: "2048-giant"
-score: "4.5/5 (2500 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: 2048-giant
+score: 4.5/5 (2500 votes)
+tags:
+  - puzzle
+  - thinky
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +21,7 @@ locale: ja
 *2048 Giant（2048 ジャイアント）*は、クラシックな「2048」パズルゲームをベースにしつつ、より大きなグリッド（盤面）でプレイできるバージョンです。目標は変わりません。番号の付いたタイルをスライドさせて合体させ、「2048」以上のタイルを作り出すことです。しかし、盤面が広くなったことで新たなレベルの挑戦が可能になり、より長期的な戦略計画が求められます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 通常の2048の基本戦略はここでも通用しますが、広い盤面に合わせた応用が必要です。

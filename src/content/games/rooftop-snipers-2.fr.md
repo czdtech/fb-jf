@@ -26,6 +26,7 @@ physique. Deux personnages bâtons se disputent la place sur des toits
 en bas du toit avant qu’il ne te fasse chuter. Les effets ragdoll rendent
 chaque manche imprévisible et très drôle.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Gérer le timing des tirs :** apprends à tirer au bon moment en

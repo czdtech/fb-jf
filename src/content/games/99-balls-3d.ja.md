@@ -1,13 +1,18 @@
 ---
-title: "99 Balls 3D ナインティナイン・ボールズ 3D"
-description: "「99 Balls 3D」は、病みつきになるアーケードシューティングゲームです。ボールを発射して、番号付きのブロックが底に到達する前に破壊しましょう！戦略と物理演算が融合した爽快パズル。"
-iframeSrc: "https://99balls3d.h5games.usercontent.goog/v/0b35ksethbio8/"
+title: 99 Balls 3D ナインティナイン・ボールズ 3D
+description: >-
+  「99 Balls
+  3D」は、病みつきになるアーケードシューティングゲームです。ボールを発射して、番号付きのブロックが底に到達する前に破壊しましょう！戦略と物理演算が融合した爽快パズル。
+iframeSrc: 'https://99balls3d.h5games.usercontent.goog/v/0b35ksethbio8/'
 thumbnail: /new-images/thumbnails/99-balls-3d.jpeg
-urlstr: "99-balls-3d"
-score: "4.3/5  (2300 votes)"
-tags: ["arcade", "ball", "shooter"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: 99-balls-3d
+score: 4.3/5  (2300 votes)
+tags:
+  - arcade
+  - ball
+  - shooter
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +22,7 @@ locale: ja
 *99 Balls 3D（ナインティナイン・ボールズ 3D）*は、クラシックなバブルシューターやブロック崩しゲームを現代風に3Dアレンジした、活気あふれるアーケードゲームです。プレイヤーの目標はシンプルで、ナンバリングされた3Dの球体（ブロック）に向かってボールを発射し、それらが画面の一番下に到達する前にすべて破壊することです。各ボールに書かれた数字は、破壊するために必要なヒット数を示しています。ボールを撃つたびにブロックは一段ずつ下がってくるので、効率よく消していく戦略性が求められます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **角度が命：** このゲームで最も重要なのは、ボールの入射角です。完璧な角度を見つけて撃つことで、ボールが複数のブロック間で跳ね返り（リバウンド）、一度のショットで大量のダメージを与えることができます。

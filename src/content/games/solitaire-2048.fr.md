@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: solitaire-2048
-title: 'Solitaire 2048'
-description: >-
-  Solitaire 2048 mélange 2048 et un flux de cartes : pose des cartes
-  numérotées pour fusionner les valeurs et gère tes colonnes pour déclencher
-  de gros enchaînements.
+title: Solitaire 2048
+description: "Solitaire 2048 mélange 2048 et un flux de cartes\_: pose des cartes numérotées pour fusionner les valeurs et gère tes colonnes pour déclencher de gros enchaînements."
 iframeSrc: 'https://041gj41756cjg.h5games.usercontent.goog/v/7n148hti57veo/'
 thumbnail: /new-images/thumbnails/solitaire-2048.png
 tags:
@@ -27,6 +24,7 @@ difficulté consiste à ordonner les poses pour déclencher des cascades de
 fusions qui libèrent de la place au lieu de bloquer les colonnes.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Colonne d’ancrage :** garde ta plus haute valeur vers le centre pour

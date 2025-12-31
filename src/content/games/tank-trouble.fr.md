@@ -23,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 Tank Trouble est un jeu de bataille de chars multijoueur ou tu controles un char dans une arene labyrinthique, tirant sur tes adversaires tout en naviguant entre les murs et obstacles pour etre le dernier char debout. Le jeu est populaire pour ses combats rapides et son gameplay de positionnement strategique.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Utilise les murs :** Les balles ricochent sur les murs ; apprends a utiliser les rebonds pour des attaques indirectes sur tes adversaires.

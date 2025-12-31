@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Tiger Run est un runner infini simple situe dans la jungle. Lis les dangers a venir, change de voie ou saute/glisse pour eviter les obstacles, et enchaine les collectes de pieces tout en maintenant un rythme stable alors que la vitesse augmente.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Regarde devant :** Anticipe pour preparer les changements de voie tot.

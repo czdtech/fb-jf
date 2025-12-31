@@ -1,14 +1,18 @@
 ---
 locale: fr
-urlstr: "neon-dash"
-title: "Neon Dash"
-description: "Neon Dash est un runner de précision ultra dynamique : saute, évite les pièges et cale ton timing pour survivre à des parcours néon truffés d’obstacles."
-iframeSrc: "https://1bveca4tkimog.h5games.usercontent.goog/v/4bq2naj6mtutg/"
+urlstr: neon-dash
+title: Neon Dash
+description: >-
+  Neon Dash est un runner de précision ultra dynamique : saute, évite les pièges
+  et cale ton timing pour survivre à des parcours néon truffés d’obstacles.
+iframeSrc: 'https://1bveca4tkimog.h5games.usercontent.goog/v/4bq2naj6mtutg/'
 thumbnail: /new-images/thumbnails/neon-dash.png
-tags: ["action", "thinky"]
-score: "4.2/5  (1589 votes)"
-developer: ""
-releaseDate: 2025-10-18
+tags:
+  - action
+  - thinky
+score: 4.2/5  (1589 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -17,6 +21,7 @@ releaseDate: 2025-10-18
 Neon Dash est un runner basé sur les réflexes, rempli de pics, de plateformes et de pièges synchronisés avec la musique. Les niveaux misent sur la propreté du timing : petits sauts, impulsions tardives et rythme régulier sont indispensables pour traverser les séquences d’obstacles serrées. Selon le mode, tu joues avec checkpoints ou en « one‑shot » sans erreur possible.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Apprendre les arcs de saut :** entraîne‑toi à distinguer les petits et grands sauts (tap court / long) afin de gérer précisément la distance ; un saut déclenché légèrement plus tard évite souvent mieux les pics.  

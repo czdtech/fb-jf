@@ -1,13 +1,15 @@
 ---
-title: "60 Seconds Burger Run 60秒バーガーラン"
-description: "「60秒バーガーラン」は、閉店間際のハンバーガーショップを目指して疾走する、カラフルでエキサイティングなスピードラン・プラットフォーマーです！制限時間は厳守の60秒！"
-iframeSrc: "https://www.playfiddlebops.com/embed/60s-burger-run/index.html"
+title: 60 Seconds Burger Run 60秒バーガーラン
+description: >-
+  「60秒バーガーラン」は、閉店間際のハンバーガーショップを目指して疾走する、カラフルでエキサイティングなスピードラン・プラットフォーマーです！制限時間は厳守の60秒！
+iframeSrc: 'https://www.playfiddlebops.com/embed/60s-burger-run/index.html'
 thumbnail: /new-images/thumbnails/60s-burger-run.jpg
-urlstr: "60s-burger-run"
-score: "4.6/5  (1344 votes)"
-tags: ["60 seconds burger run"]
+urlstr: 60s-burger-run
+score: 4.6/5  (1344 votes)
+tags:
+  - 60 seconds burger run
 locale: ja
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -24,6 +26,7 @@ releaseDate: 2025-12-04
 
 ---
 
+<!-- i18n:section:tips -->
 ### 攻略とヒント
 
 *   **暗記が鍵：** レベルが変わってもタイマーはリセットされないため、最大の攻略法は「コースを覚えること」です。このゲームは反復練習を推奨しています。失敗しても落ち込まないでください。毎回の挑戦が、次のランのための学習になります。

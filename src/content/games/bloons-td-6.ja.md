@@ -1,13 +1,17 @@
 ---
-title: "Bloons TD 6 ブルーンズTD 6"
-description: "シリーズ最新作「Bloons TD 6」で3Dタワーディフェンスの頂点を体験せよ。ヒーローユニット、3つのアップグレードパス、そして最強の「パラゴン」。戦略は無限大へ。"
-iframeSrc: "https://html5.gamenora.com/Bloons%20TD%206/"
+title: Bloons TD 6 ブルーンズTD 6
+description: >-
+  シリーズ最新作「Bloons TD
+  6」で3Dタワーディフェンスの頂点を体験せよ。ヒーローユニット、3つのアップグレードパス、そして最強の「パラゴン」。戦略は無限大へ。
+iframeSrc: 'https://html5.gamenora.com/Bloons%20TD%206/'
 thumbnail: /new-images/thumbnails/bloons-td-6.jpg
-urlstr: "bloons-td-6"
-score: "4.8/5  (1057 votes)"
-tags: ["casual", "strategy"]
-developer: "Ninja Kiwi"
-releaseDate: 2025-08-16
+urlstr: bloons-td-6
+score: 4.8/5  (1057 votes)
+tags:
+  - casual
+  - strategy
+developer: Ninja Kiwi
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -27,6 +31,7 @@ locale: ja
 -   **Paragon:** 同系統の 3 つのティア 5 タワーを犠牲にして合成する究極形態。ボスイベントや超高ラウンドを突破する切り札です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 -   **シナジーが勝敗を分ける:** BTD6 の強さは組み合わせから生まれます。例として 2/0/3 のスーパーモンキーに 4/2/0 の **Alchemist（ストロンガー・スティム）** を隣接させると、攻撃力と攻撃速度が一気に跳ね上がります。

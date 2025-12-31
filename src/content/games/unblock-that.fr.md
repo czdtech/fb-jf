@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Unblock That est un puzzle de blocs coulissants classique et stimulant. Le jeu te présente une grille remplie de blocs en bois de différentes tailles. Ton objectif est de faire glisser stratégiquement ces blocs pour dégager un passage permettant au bloc rouge spécial de s'échapper par la sortie. Avec des centaines de niveaux allant de facile à expert, c'est le jeu parfait pour entraîner ta logique et ta résolution de problèmes.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Identifie les bloqueurs principaux :** Regarde le bloc rouge et identifie les blocs directement sur son chemin vers la sortie. Ton premier objectif est de déplacer ces bloqueurs principaux.

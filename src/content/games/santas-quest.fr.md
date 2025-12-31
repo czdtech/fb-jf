@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: santas-quest
-title: "Santa's Quest"
-description: >-
-  Santa's Quest est une petite aventure de puzzles de Noël : résous de
-  simples objectifs, dégage les chemins et assure la livraison des cadeaux à
-  temps.
+title: Santa's Quest
+description: "Santa's Quest est une petite aventure de puzzles de Noël\_: résous de simples objectifs, dégage les chemins et assure la livraison des cadeaux à temps."
 iframeSrc: 'https://santasquest.h5games.usercontent.goog/v/737gsbva7bkqo/'
 thumbnail: /new-images/thumbnails/santas-quest.png
 tags:
@@ -28,6 +25,7 @@ ou les impasses. Les niveaux sont courts, parfaits pour de rapides
 sessions hivernales.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Planifier l’itinéraire :** repère d’abord les clés, interrupteurs ou

@@ -23,6 +23,7 @@ sur différents circuits en 3D. Le jeu mélange les sensations de la course
 classique avec des éléments de combat pour des parties aussi chaotiques que
 fun.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Gestion des bonus :** apprends à utiliser chaque objet au bon

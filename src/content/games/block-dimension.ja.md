@@ -1,13 +1,16 @@
 ---
-title: "Block Dimension ブロック・ディメンション"
-description: "「Block Dimension」は空間認識力が試される3Dパズルゲームです。構造を回転させ、ブロックを完璧にはめ込みましょう。"
-iframeSrc: "https://62dfg8ps4f7lg.h5games.usercontent.goog/v/0k3gcfq0ljti8/"
+title: Block Dimension ブロック・ディメンション
+description: 「Block Dimension」は空間認識力が試される3Dパズルゲームです。構造を回転させ、ブロックを完璧にはめ込みましょう。
+iframeSrc: 'https://62dfg8ps4f7lg.h5games.usercontent.goog/v/0k3gcfq0ljti8/'
 thumbnail: /new-images/thumbnails/block-dimension.png
-urlstr: "block-dimension"
-score: "3.8/5  (1432 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: block-dimension
+score: 3.8/5  (1432 votes)
+tags:
+  - puzzle
+  - thinky
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 *Block Dimension（ブロック・ディメンション）*は、古典的なブロックはめ込みパズルの公式を新たな次元へと引き上げた、魅力的なパズルゲームです。10x10のグリッド上でプレイするのは変わりませんが、スタイリッシュで現代的な美学とユニークなひねりが加えられています。垂直・水平方向にラインを揃えてブロックを消していき、スペースがなくなる前にコンボを繋げてハイスコアを目指しましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **先を読む：** 通常、一度に3つのブロック候補が表示されます。最初の1つを置く前に、残りの2つがどこに入るか（あるいは入らなくなるか）をイメージしてください。長期的な生存には計画性が不可欠です。

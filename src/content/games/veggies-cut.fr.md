@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Tranche des légumes avec des mouvements amples, construis des chaînes de combo et évite les dangers de cuisine (couteaux/bombes). Les longues coupes droites et un rythme calme dominent les tableaux de scores.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  Longs traits à travers plusieurs légumes pour la valeur combo.

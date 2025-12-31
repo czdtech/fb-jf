@@ -1,13 +1,17 @@
 ---
-title: "Baldi's Basics バルディ先生の教育実習"
-description: "「Baldi's Basics」の完全攻略ガイド。バルディ先生から逃げ切り、ノートを集め、この恐怖の学校から脱出するための戦略、アイテムの使い方、キャラクター対策を解説。"
-iframeSrc: "https://html5.iclouds.io/baldis-basics/index.html"
+title: Baldi's Basics バルディ先生の教育実習
+description: >-
+  「Baldi's
+  Basics」の完全攻略ガイド。バルディ先生から逃げ切り、ノートを集め、この恐怖の学校から脱出するための戦略、アイテムの使い方、キャラクター対策を解説。
+iframeSrc: 'https://html5.iclouds.io/baldis-basics/index.html'
 thumbnail: /new-images/thumbnails/baldis-basics.jpg
-urlstr: "baldis-basics"
-score: "4.5/5  (781 votes)"
-tags: ["puzzle", "horror"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: baldis-basics
+score: 4.5/5  (781 votes)
+tags:
+  - puzzle
+  - horror
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +23,7 @@ locale: ja
 ゲームは無邪気な算数の問題から始まります。しかし、2冊目のノートで「解読不能な問題」に直面した瞬間、ゲームの本性が明らかになります。この問題を間違えると（というか絶対に間違えるのですが）、バルディ先生は激怒し、定規を持ってプレイヤーを追いかけ始めます。ここから先は、教育ゲームではなく命がけの鬼ごっこです。バルディや、一癖も二癖もある奇妙なキャラクターたちから逃げながら、残りのノートを集め、学校から脱出する方法を見つけなければなりません。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 *Baldi's Basics* の攻略には、聴覚への集中、リソース管理、そしてキャラの特性理解が不可欠です。

@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: retro-drift
-title: 'Retro Drift'
-description: >-
-  Retro Drift est un jeu de drift rétro en vue de dessus : dose l’accélérateur,
-  gère tes angles et glisse proprement dans chaque virage.
+title: Retro Drift
+description: "Retro Drift est un jeu de drift rétro en vue de dessus\_: dose l’accélérateur, gère tes angles et glisse proprement dans chaque virage."
 iframeSrc: 'https://retrodrift.h5games.usercontent.goog/v/3jr7fjtqu0j18/'
 thumbnail: /new-images/thumbnails/retro-drift.jpg
 tags:
@@ -28,6 +26,7 @@ bon timing du contre‑braquage et la vitesse en sortie déterminent tes
 chronos et tes multiplicateurs de score.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Entrer lentement, sortir vite :** accepte de sacrifier un peu de

@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: reversi-mania
-title: 'Reversi Mania'
-description: >-
-  Reversi Mania apporte le classique Othello dans ton navigateur : encercle
-  les pions adverses, sécurise les coins et gagne grâce à une bonne gestion de
-  la fin de partie.
+title: Reversi Mania
+description: "Reversi Mania apporte le classique Othello dans ton navigateur\_: encercle les pions adverses, sécurise les coins et gagne grâce à une bonne gestion de la fin de partie."
 iframeSrc: 'https://reversimania.h5games.usercontent.goog/v/7rhqf6sl8lpf0/'
 thumbnail: /new-images/thumbnails/reversi-mania.png
 tags:
@@ -32,6 +29,7 @@ lorsqu’aucun des deux joueurs ne peut jouer (généralement lorsque le
 plateau est rempli) ; le joueur possédant le plus de pions l’emporte.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Priorité aux coins :** un pion placé dans un coin ne peut plus être

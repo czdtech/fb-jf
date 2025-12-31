@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: puzzle-pieces
-title: 'Puzzle Pieces'
-description: >-
-  Puzzle Pieces propose des casse‑têtes épurés : fais pivoter les pièces,
-  emboîte les formes et remplis le plateau sans laisser de trou.
+title: Puzzle Pieces
+description: "Puzzle Pieces propose des casse‑têtes épurés\_: fais pivoter les pièces, emboîte les formes et remplis le plateau sans laisser de trou."
 iframeSrc: 'https://05c9vfh919cbg.h5games.usercontent.goog/v/0ki2bua5asq00/'
 thumbnail: /new-images/thumbnails/puzzle-pieces.png
 tags:
@@ -26,6 +24,7 @@ plateau, en gérant l’espace limité et les orientations possibles à mesure
 que les grilles deviennent plus complexes.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Placer les pièces de référence :** commence par les formes grandes ou

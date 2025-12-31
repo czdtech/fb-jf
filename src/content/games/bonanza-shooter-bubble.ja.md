@@ -1,13 +1,15 @@
 ---
-title: "Bonanza Shooter Bubble ボナンザ・シューター・バブル"
-description: "「Bonanza Shooter Bubble」はカラフルな王道バブルシューティング。壁反射を使い、色を管理し、大量のバブルを一度に落として高得点を狙おう。"
-iframeSrc: "https://65bijcm9l375g.h5games.usercontent.goog/v/6v521t1km2i30/"
+title: Bonanza Shooter Bubble ボナンザ・シューター・バブル
+description: 「Bonanza Shooter Bubble」はカラフルな王道バブルシューティング。壁反射を使い、色を管理し、大量のバブルを一度に落として高得点を狙おう。
+iframeSrc: 'https://65bijcm9l375g.h5games.usercontent.goog/v/6v521t1km2i30/'
 thumbnail: /new-images/thumbnails/bonanza-shooter-bubble.jpg
-urlstr: "bonanza-shooter-bubble"
-score: "4.1/5  (1937 votes)"
-tags: ["puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: bonanza-shooter-bubble
+score: 4.1/5  (1937 votes)
+tags:
+  - puzzle
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 *Bonanza Shooter Bubble*は、壁の反射（バンクショット）と爽快な落下連鎖が楽しめる、クラシックなバブルシューティングゲームです。狙いを定めて発射し、同じ色のバブルを3つ以上繋げて消していきましょう。塊（クラスター）の根元を消せば、ぶら下がっているバブルを一網打尽に落とすことができます。成功の鍵は、角度のコントロール、色の管理、そして次の一手の計画です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **壁反射（バンクショット）：** 壁に反射させることで、直接狙えない奥まった場所にあるバブルに当てることができます。

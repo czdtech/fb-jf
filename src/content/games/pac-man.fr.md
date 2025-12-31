@@ -22,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 PAC‑MAN est un jeu d'arcade de labyrinthe classique. Les joueurs contrôlent le Pac‑Man jaune, se déplaçant dans un labyrinthe complexe avec l'objectif de manger toutes les pastilles. En même temps, tu dois éviter quatre fantômes colorés — Blinky, Pinky, Inky et Clyde. Quand Pac‑Man mange une super pastille, il peut temporairement inverser les rôles et poursuivre les fantômes pour les dévorer et marquer des points bonus.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Comprendre le comportement des fantômes :** chaque fantôme a son propre modèle d'IA. Blinky (rouge) est un chasseur, Pinky (rose) essaie d'embusquer, Inky (bleu clair) a des mouvements plus complexes, et Clyde (orange) tend à errer de manière aléatoire.

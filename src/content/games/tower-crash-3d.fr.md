@@ -5,7 +5,8 @@ title: Tower Crash 3D
 description: >-
   Tower Crash 3D est un jeu de physique satisfaisant : tire des balles de la
   meme couleur que les blocs pour provoquer des effondrements epiques.
-iframeSrc: 'https://towercrash3d.h5games.usercontent.goog/v/7c54afc1-3ca4-4121-a52a-9ea74e30f0d7/'
+iframeSrc: >-
+  https://towercrash3d.h5games.usercontent.goog/v/7c54afc1-3ca4-4121-a52a-9ea74e30f0d7/
 thumbnail: /new-images/thumbnails/tower-crash-3d.jpg
 tags:
   - action
@@ -22,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Tower Crash 3D est un jeu de puzzle physique satisfaisant et addictif ou ton objectif est de demolir des tours faites de blocs colores. L'astuce est que tu dois tirer des balles d'une couleur specifique, et elles ne detruiront que les blocs de la meme couleur. Avec des munitions limitees pour chaque niveau, tu dois viser strategiquement pour toucher les blocs de support critiques et faire s'effondrer toute la structure.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Fais correspondre les couleurs :** C'est la regle la plus importante. Regarde la couleur de la balle chargee dans ton canon et vise seulement les blocs de cette meme couleur. Toucher un bloc de couleur differente ne fera rien et gaspillera un tir precieux.

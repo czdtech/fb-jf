@@ -20,6 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Scooter Xtreme 3D est un jeu de stunts et de course plein d'action qui te met sur une trottinette dans un monde 3D vibrant. Ton objectif est de naviguer à travers des parcours difficiles remplis de rampes, rails et obstacles. Réalise des figures incroyables comme des flips et des grinds pour accumuler des points, collecte des pièces et fonce vers la ligne d'arrivée. Utilise tes gains pour débloquer de nouvelles trottinettes et personnages pour devenir le champion ultime de la trottinette.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Maîtriser les bases :** avant d'essayer des tricks complexes, habitue‑toi aux contrôles. Entraîne‑toi à accélérer, tourner et sauter pour sentir la physique de la trottinette.

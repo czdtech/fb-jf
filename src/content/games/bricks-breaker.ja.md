@@ -1,13 +1,18 @@
 ---
-title: "Bricks Breaker ブリックス・ブレイカー"
-description: "「Bricks Breaker」は不朽の名作ブロック崩しの現代版。パドルでボールを打ち返し、全てのレンガを破壊しよう。マルチボールやレーザーなどのパワーアップも魅力。"
-iframeSrc: "https://5enjropk1ren8.h5games.usercontent.goog/v/6u5qapt4kt1j8/"
+title: Bricks Breaker ブリックス・ブレイカー
+description: >-
+  「Bricks
+  Breaker」は不朽の名作ブロック崩しの現代版。パドルでボールを打ち返し、全てのレンガを破壊しよう。マルチボールやレーザーなどのパワーアップも魅力。
+iframeSrc: 'https://5enjropk1ren8.h5games.usercontent.goog/v/6u5qapt4kt1j8/'
 thumbnail: /new-images/thumbnails/bricks-breaker.jpg
-urlstr: "bricks-breaker"
-score: "4.4/5  (1984 votes)"
-tags: ["action", "casual", "flash"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: bricks-breaker
+score: 4.4/5  (1984 votes)
+tags:
+  - action
+  - casual
+  - flash
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +24,7 @@ locale: ja
 プレイヤーは画面下部のパドルを左右に操作してボールを落とさないようにキープします。レンガを破壊していくと、パドルを伸ばしたり、ボールを分裂させたり、強力なレーザーを発射したりできる様々な「パワーアップアイテム」が落ちてきます。豊富なレベルとトリッキーなブロック配置があなたを待っています。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **パドル操作の基本：** パドルの位置取りが全てです。パドルの「端」でボールを打つと、反射角度が変わり、ボールを予期せぬ方向へ飛ばすことができます。これをマスターして狙った場所へ打ち込みましょう。

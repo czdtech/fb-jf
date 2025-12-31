@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Words Challenge mêle résolution d'anagrammes, mini mots croisés et questions rapides. Le succès repose sur la reconnaissance de motifs (préfixes/suffixes), l'intuition de fréquence des lettres et une élimination calme sous légère pression du chrono.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Morphologie :** Exploite d'abord les préfixes (RE/UN) et suffixes (-ING/-ED/-ER).

@@ -1,13 +1,17 @@
 ---
-title: "Cake Slice Ninja"
-description: "Cake Slice Ninjaは甘いスライシングラッシュです。スワイプでクリーンカットし、コンボをチェインさせ、ハザードを避けてハイスコアを目指しましょう。"
-iframeSrc: "https://cakesliceninja.h5games.usercontent.goog/v/5bh2c88k8pku8/"
+title: Cake Slice Ninja
+description: >-
+  Cake Slice
+  Ninjaは甘いスライシングラッシュです。スワイプでクリーンカットし、コンボをチェインさせ、ハザードを避けてハイスコアを目指しましょう。
+iframeSrc: 'https://cakesliceninja.h5games.usercontent.goog/v/5bh2c88k8pku8/'
 thumbnail: /new-images/thumbnails/cake-slice-ninja.jpeg
-urlstr: "cake-slice-ninja"
-score: "4.2/5  (1931 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: cake-slice-ninja
+score: 4.2/5  (1931 votes)
+tags:
+  - action
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +21,7 @@ locale: ja
 Cake Slice Ninjaは、クラシックなスライス系アクションを取り入れています。飛んでくるケーキをフリックでスライスし、素早い連続カットでコンボチェーンを構築し、ストリークを壊す爆弾やペナルティをかわしましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **長い直線スワイプ:** 1回の動作で複数のピースをスライスして、コンボを貯めましょう。

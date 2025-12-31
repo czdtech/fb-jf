@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Stickman Hook est un jeu de balancement basé sur la physique. Tu contrôles un stickman équipé d’un grappin, et tu dois te balancer de point d’ancrage en point d’ancrage, éviter les obstacles et atteindre l’arrivée. Le jeu est apprécié pour ses sensations fluides et son gameplay addictif.
 
+<!-- i18n:section:tips -->
 ### Stratégie de gameplay
 
 1.  **Maîtrise du timing :** apprends à lâcher et accrocher le grappin au bon moment pour garder un rythme optimal.

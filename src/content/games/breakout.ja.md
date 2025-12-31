@@ -1,13 +1,15 @@
 ---
-title: "Breakout ブレイクアウト"
-description: "「ブレイクアウト」は全てのブロック崩しの原点。パドルを操作し、ボールを跳ね返し、全てのレンガを破壊せよ。レジェンド級アーケードゲームの完全攻略ガイド。"
-iframeSrc: "https://ad-freegames.github.io/flash/game/atari-breakout.html"
+title: Breakout ブレイクアウト
+description: 「ブレイクアウト」は全てのブロック崩しの原点。パドルを操作し、ボールを跳ね返し、全てのレンガを破壊せよ。レジェンド級アーケードゲームの完全攻略ガイド。
+iframeSrc: 'https://ad-freegames.github.io/flash/game/atari-breakout.html'
 thumbnail: /new-images/thumbnails/breakout.jpg
-urlstr: "breakout"
-score: "3.8/5  (494 votes)"
-tags: ["arcade", "casual"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: breakout
+score: 3.8/5  (494 votes)
+tags:
+  - arcade
+  - casual
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -21,6 +23,7 @@ locale: ja
 レンガを壊していくとボールのスピードが上がったり、パドルが短くなったりして難易度が上がります。反射神経と、ボールの軌道をコントロールする技術が試されます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 *   **反射角をマスターする:** これが最も重要なテクニックです。ボールが跳ね返る方向は、**パドルのどこに当たったか**で決まります。

@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Timber Guy est un jeu de timing à un seul bouton. Coupe le tronc tout en changeant de côté pour éviter les branches qui arrivent. Le rythme s'accélère, exigeant des changements de côté propres et un rythme régulier.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Lis à l'avance :** Regarde les prochaines branches et planifie tes changements à l'avance.

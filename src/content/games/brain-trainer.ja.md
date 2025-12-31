@@ -1,13 +1,17 @@
 ---
-title: "Brain Trainer ブレイン・トレーナー"
-description: "「Brain Trainer」で脳を活性化！記憶力、論理力、計算力、空間認識力を鍛える多彩なミニゲーム集。楽しみながら脳年齢を若返らせよう。"
-iframeSrc: "https://braintrainer.h5games.usercontent.goog/v/4f2ffbc6-4208-4087-bfaf-ab0db086da02/"
+title: Brain Trainer ブレイン・トレーナー
+description: 「Brain Trainer」で脳を活性化！記憶力、論理力、計算力、空間認識力を鍛える多彩なミニゲーム集。楽しみながら脳年齢を若返らせよう。
+iframeSrc: >-
+  https://braintrainer.h5games.usercontent.goog/v/4f2ffbc6-4208-4087-bfaf-ab0db086da02/
 thumbnail: /new-images/thumbnails/brain-trainer.jpg
-urlstr: "brain-trainer"
-score: "4.6/5  (3100 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: brain-trainer
+score: 4.6/5  (3100 votes)
+tags:
+  - puzzle
+  - thinky
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +21,7 @@ locale: ja
 *Brain Trainer（ブレイン・トレーナー）*は、あなたの認知スキルを鍛えるために設計された、楽しくて刺激的なミニゲームコレクションです。記憶力、論理的思考力、計算速度、空間認識能力など、脳のさまざまな領域をターゲットにしています。短時間で遊べる挑戦的なパズルを通じて、頭の回転の速さをテストしたり、集中力を高めたり、日々のパフォーマンスを記録したりできます。楽しみながら脳をシャープに保つのに最適です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 Brain Trainerにはいくつかの種類のミニゲームが含まれています。例として以下のようなものがあります：

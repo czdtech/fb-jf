@@ -25,6 +25,7 @@ tes tirs pour atteindre tes adversaires tandis que la physique réaliste et
 le manque d’équilibre des archers rendent chaque flèche imprévisible et
 souvent très drôle.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Maîtriser le tir :** apprends à régler précisément l’angle de ton

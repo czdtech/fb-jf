@@ -1,13 +1,17 @@
 ---
-title: "BlockDrop ブロックドロップ"
-description: "「BlockDrop」はクラシックでリラックスできるブロックパズル。10x10のグリッドに形をはめてラインを消そう。シンプルだけど奥深い、ハイスコアを目指す戦略ガイド。"
-iframeSrc: "https://51vi4vae20f8o.h5games.usercontent.goog/v/66bqinuuh36b8/"
+title: BlockDrop ブロックドロップ
+description: >-
+  「BlockDrop」はクラシックでリラックスできるブロックパズル。10x10のグリッドに形をはめてラインを消そう。シンプルだけど奥深い、ハイスコアを目指す戦略ガイド。
+iframeSrc: 'https://51vi4vae20f8o.h5games.usercontent.goog/v/66bqinuuh36b8/'
 thumbnail: /new-images/thumbnails/blockdrop.png
-urlstr: "blockdrop"
-score: "4.3/5  (2200 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: blockdrop
+score: 4.3/5  (2200 votes)
+tags:
+  - puzzle
+  - thinky
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +21,7 @@ locale: ja
 *BlockDrop（ブロックドロップ）*は、戦略的思考と空間認識能力が試される、時代を超えて愛されるパズルゲームです。目的は、テトリスのような様々な形のブロックを10x10のグリッド（格子）に配置し、縦または横に完全に隙間なく埋まったラインを作ることです。ラインが完成すると消滅し、スペースが空いてポイントが入ります。時間制限がないため、盤面がいっぱいにならないようにじっくりと次の手を考えられる、リラックスしつつも手ごわいゲームです。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **3つすべてを計画する：** ゲームでは一度に3つのブロック候補が渡されます。最初の1つを置く前に、頭の中でシミュレーションして、**3つすべて**を置ける場所があるか確認しましょう。これを怠ると、置けないピースが手元に残って詰む原因になります。

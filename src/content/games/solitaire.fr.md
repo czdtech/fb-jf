@@ -23,6 +23,7 @@ les piles de fondation et de vider le tableau. Facile à comprendre mais
 riche en décisions, c’est un puzzle intemporel apprécié pour son mélange de
 chance et de stratégie.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Prioriser les cartes cachées :** essaie en priorité les coups qui

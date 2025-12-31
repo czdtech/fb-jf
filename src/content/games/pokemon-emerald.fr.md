@@ -19,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Pokemon Emerald est un jeu vidéo de rôle de la série Pokémon où les joueurs se lancent dans une aventure dans la région de Hoenn. L'objectif principal est de capturer et entraîner des Pokémon, combattre divers dresseurs, défier les Champions d'Arène et finalement devenir le Champion de la Ligue Pokémon. En parallèle, les joueurs seront entraînés dans le conflit entre les organisations maléfiques « Team Magma » et « Team Aqua », tentant d'arrêter leurs plans pour remodeler le monde.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Capturer des Pokémon :** rencontre des Pokémon sauvages dans les hautes herbes, plans d'eau, grottes, etc., affaiblis‑les, puis capture‑les avec des Poké Balls.

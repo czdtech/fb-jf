@@ -20,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Pick a Lock est un jeu de rythme‑timing minimaliste : une aiguille tourne autour d'une serrure, et tu dois taper exactement quand elle passe sur les marqueurs surlignés. Les serrures avancées ajoutent plusieurs marqueurs, des fenêtres plus serrées et des rotations inversées, récompensant la concentration calme.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Compter le rythme :** cale‑toi sur le battement de l'aiguille ; tape sur le rythme plutôt que seulement à l'œil.

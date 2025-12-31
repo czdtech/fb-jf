@@ -1,13 +1,16 @@
 ---
-title: "Basketball Master 2 バスケットボール・マスター2"
-description: "「Basketball Master 2」でシュートスキルを見せつけろ！障害物を破壊し、正確な狙いでゴールを決める、楽しくも挑戦的なバスケットボールゲーム。"
-iframeSrc: "https://basketballmaster2.h5games.usercontent.goog/v/267j5oehq25q0/"
+title: Basketball Master 2 バスケットボール・マスター2
+description: 「Basketball Master 2」でシュートスキルを見せつけろ！障害物を破壊し、正確な狙いでゴールを決める、楽しくも挑戦的なバスケットボールゲーム。
+iframeSrc: 'https://basketballmaster2.h5games.usercontent.goog/v/267j5oehq25q0/'
 thumbnail: /new-images/thumbnails/basketball-master-2.png
-urlstr: "basketball-master-2"
-score: "4.5/5 (2345 votes)"
-tags: ["sports", "basketball", "shooting"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: basketball-master-2
+score: 4.5/5 (2345 votes)
+tags:
+  - sports
+  - basketball
+  - shooting
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 *Basketball Master 2（バスケットボール・マスター2）*は、バスケットボールのシュートスキルを磨くことに焦点を当てたスポーツパズルゲームです。基本的なゲームプレイは、画面をドラッグしてシュートの角度と強さを調整し、ボールをバスケットに入れることです。単に投げるだけでなく、時には木箱や氷のブロックなどの障害物を、強力なシュートで破壊しながらゴールを目指す必要があります。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **狙いを定めて撃つ：** タップ＆ドラッグの直感的な操作で、シュートの軌道とパワーをコントロールしましょう。ガイドラインを参考に微調整するのがコツです。

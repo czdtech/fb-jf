@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Word Pics est un jeu de puzzle de mots où tu devines un seul mot ou une expression à partir de deux indices visuels. Le jeu est conçu pour être fun, addictif et un excellent moyen d'enrichir ton vocabulaire.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Analyse les images :** Observe les deux images et essaie de trouver un thème commun ou un mot qui les relie.

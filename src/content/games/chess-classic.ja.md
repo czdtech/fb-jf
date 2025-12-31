@@ -1,13 +1,16 @@
 ---
-title: "Chess Classic チェス・クラシック"
-description: "「Chess Classic」で王道のチェスを楽しもう。コンピュータの難易度を調整して、初心者から上級者までスキルアップ。チェックメイトの芸術を学べ。"
-iframeSrc: "https://chessclassic.h5games.usercontent.goog/v/7hf0vulane380/"
+title: Chess Classic チェス・クラシック
+description: 「Chess Classic」で王道のチェスを楽しもう。コンピュータの難易度を調整して、初心者から上級者までスキルアップ。チェックメイトの芸術を学べ。
+iframeSrc: 'https://chessclassic.h5games.usercontent.goog/v/7hf0vulane380/'
 thumbnail: /new-images/thumbnails/chess-classic.png
-urlstr: "chess-classic"
-score: "4.8/5  (2345 votes)"
-tags: ["thinky", "2 player", "card"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: chess-classic
+score: 4.8/5  (2345 votes)
+tags:
+  - thinky
+  - 2 player
+  - card
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 *Chess Classic（チェス・クラシック）*は、時代を超えて愛される戦略ボードゲーム、チェスをブラウザで手軽に体験できるゲームです。初心者の方でも、熟練のプレイヤーでも、難易度調整可能なコンピュータ（AI）を相手に腕試しができます。国際的な標準ルールに準拠しており、基本を学び、練習し、チェックメイトの技を磨くのに最適なプラットフォームです。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **中央を制圧する:** 序盤（オープニング）では、ポーンや駒を使って盤面の中央4マス（e4, d4, e5, d5）の支配権を争いましょう。中央に配置された駒は動きやすく、ゲーム全体への影響力が強くなります。

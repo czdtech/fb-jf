@@ -22,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Paper.io est un jeu de conquête de territoire en ligne. Tu contrôles un petit bloc coloré dont la trace dessine les contours de ta zone. Pour agrandir ton territoire, tu sors de ta zone, traces une boucle et la refermes pour remplir la surface ainsi encerclée. Attention : tant que tu es en dehors, ta trace est vulnérable ; si un adversaire la coupe, c'est l'élimination.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Expansion prudente :** au début, agrandis ton territoire par de petites boucles proches de ta base pour limiter les risques.

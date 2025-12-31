@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Truck Trials est un jeu de conduite tout-terrain où tu navigues sur des parcours difficiles avec des camions, en privilégiant l'adresse et la précision plutôt que la vitesse. L'objectif est d'atteindre la ligne d'arrivée sans crash ni perte de cargaison.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **La patience est la clé :** Ce jeu nécessite des manœuvres prudentes plutôt qu'une haute vitesse. Prends ton temps pour négocier les obstacles.

@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: sortworks
-title: 'SortWorks'
-description: >-
-  SortWorks est un puzzle de tri et d’empilement épuré : classe les objets
-  selon des règles, gère tes emplacements tampons et évite les blocages
-  alors que la pression monte.
+title: SortWorks
+description: "SortWorks est un puzzle de tri et d’empilement épuré\_: classe les objets selon des règles, gère tes emplacements tampons et évite les blocages alors que la pression monte."
 iframeSrc: 'https://293f3i461vfvo.h5games.usercontent.goog/v/31blvf8tg44g0/'
 thumbnail: /new-images/thumbnails/sortworks.png
 tags:
@@ -27,6 +24,7 @@ embouteillages. Les niveaux avancés accélèrent le rythme et ajoutent des
 catégories plus vicieuses.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Hiérarchie des règles :** applique d’abord les règles critiques (par

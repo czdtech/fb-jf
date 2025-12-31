@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: solitaire-0-21
-title: 'Solitaire 0-21'
-description: >-
-  Solitaire 0‑21 revisite le solitaire avec des contraintes mathématiques :
-  place les cartes pour que la somme de chaque ligne reste entre 0 et 21, en
-  équilibrant en permanence risque et sécurité.
+title: Solitaire 0-21
+description: "Solitaire 0‑21 revisite le solitaire avec des contraintes mathématiques\_: place les cartes pour que la somme de chaque ligne reste entre 0 et 21, en équilibrant en permanence risque et sécurité."
 iframeSrc: 'https://4hcssrsmrpvv0.h5games.usercontent.goog/v/2oipnrim9ar08/'
 thumbnail: /new-images/thumbnails/solitaire-0-21.png
 tags:
@@ -28,6 +25,7 @@ partie consiste à alterner placements sûrs et gestion de « pics » pour
 garder de la marge.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Garder une marge :** laisse toujours un peu d’espace avant 21 ; évite

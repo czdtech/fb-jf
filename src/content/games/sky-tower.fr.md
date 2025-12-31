@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: sky-tower
-title: 'Sky Tower'
-description: >-
-  Sky Tower est un jeu d’empilement : déclenche tes chutes au bon moment pour
-  aligner les étages, limiter les débords et construire la tour la plus haute
-  et la plus propre possible.
+title: Sky Tower
+description: "Sky Tower est un jeu d’empilement\_: déclenche tes chutes au bon moment pour aligner les étages, limiter les débords et construire la tour la plus haute et la plus propre possible."
 iframeSrc: 'https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/'
 thumbnail: /new-images/thumbnails/sky-tower.png
 tags:
@@ -29,6 +26,7 @@ construire une tour haute et stable ; des placements approximatifs réduisent
 rapidement la largeur et écourtent la partie.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Repère central :** choisis un élément de décor en arrière‑plan comme

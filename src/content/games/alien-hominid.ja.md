@@ -1,13 +1,17 @@
 ---
-title: "Alien Hominid エイリアン・ホミニッド"
-description: "クラシックなラン＆ガン・シューティングゲーム「Alien Hominid」の究極ガイド。The Behemothが贈るこの高難易度な横スクロールアクションを攻略するための戦略、操作方法、FAQを網羅。"
-iframeSrc: "https://ad-freegames.github.io/flash/game/alien-hominid.html"
+title: Alien Hominid エイリアン・ホミニッド
+description: >-
+  クラシックなラン＆ガン・シューティングゲーム「Alien Hominid」の究極ガイド。The
+  Behemothが贈るこの高難易度な横スクロールアクションを攻略するための戦略、操作方法、FAQを網羅。
+iframeSrc: 'https://ad-freegames.github.io/flash/game/alien-hominid.html'
 thumbnail: /new-images/thumbnails/alien-hominid.jpg
-urlstr: "alien-hominid"
-score: "5.0/5  (126 votes)"
-tags: ["shooting", "action"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: alien-hominid
+score: 5.0/5  (126 votes)
+tags:
+  - shooting
+  - action
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,6 +22,7 @@ locale: ja
 
 設定はシンプルです。プレイヤーは、FBIによってUFOを撃墜された小さな黄色いエイリアンを操作します。地球に取り残されたエイリアンは、宇宙船を取り戻してこの惑星から脱出するために、秘密工作員やKGBの兵士、そして様々なボスの波を突破して戦わなければなりません。『魂斗羅（コントラ）』や『メタルスラッグ』などの古典的なアーケードシューティングゲームに強く影響を受けており、「一撃死」システム、執拗な敵の波、正確な操作とパターン認識を必要とする激しいボス戦が特徴です。
 
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 Alien Hominid の難易度は非常に高いことで有名です。成功するためには、反射神経、パターンの暗記、そしてエイリアンの多彩なアクションをマスターすることが不可欠です。
@@ -32,6 +37,7 @@ Alien Hominid の難易度は非常に高いことで有名です。成功する
 *   **近接攻撃（ナイフ）：** 敵に圧倒され、すぐにスペースを空ける必要がある場合、ナイフによる近接攻撃が驚くほど効果的です。
 *   **グレネードは親友：** グレネードは広範囲に大きなダメージを与えます。敵の大群や、ボスに大ダメージを与えるために温存しておきましょう。
 
+<!-- i18n:section:tips -->
 #### 3. 戦闘のヒント
 *   **チャージショット：** 発射ボタンを押し続けるとブラスターをチャージし、複数の敵を貫通する強力なショットを撃てます。ただし、チャージ中は動けないため無防備になります。安全な隙がある時に戦略的に使いましょう。
 *   **脅威の優先順位：** 常に最も危険な敵（通常は連射武器を持つ敵や、発射物を飛ばしてくる敵）を特定し、最初に排除しましょう。

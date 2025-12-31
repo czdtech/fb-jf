@@ -1,12 +1,12 @@
 ---
 locale: fr
 urlstr: red-ball-4
-title: 'Red Ball 4'
+title: Red Ball 4
 description: >-
   Red Ball 4 est un jeu de plateforme basé sur la physique où tu contrôles une
   petite boule rouge en mission pour sauver le monde de méchants carrés qui
-  veulent tout transformer en cubes. Parcours des niveaux remplis
-  d’obstacles et d’énigmes.
+  veulent tout transformer en cubes. Parcours des niveaux remplis d’obstacles et
+  d’énigmes.
 iframeSrc: 'https://class198.github.io/g177/red-ball-4/'
 thumbnail: /new-images/thumbnails/red-ball-4.jpg
 tags:
@@ -30,6 +30,7 @@ de transformer le monde entier en blocs. Chaque niveau propose des
 plates‑formes, pièges et petits puzzles qui te demandent d’utiliser
 l’inertie, les rebonds et le roulis de la balle pour avancer.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Jouer avec la physique :** exploite le rebond et le roulement de la

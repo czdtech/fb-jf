@@ -3,8 +3,7 @@ title: Bubble Woods Ultimate バブル・ウッズ・アルティメット
 description: >-
   「Bubble Woods
   Ultimate」は60秒一本勝負の高速バブルシューター。魔法の森で可愛いリスと協力し、スペシャルバブルを駆使してハイスコアを叩き出せ。
-iframeSrc: >-
-  https://bubblewoods4.h5games.usercontent.goog/v/4jslovpheann0/
+iframeSrc: 'https://bubblewoods4.h5games.usercontent.goog/v/4jslovpheann0/'
 thumbnail: /new-images/thumbnails/bubble-woods-ultimate.png
 urlstr: bubble-woods-ultimate
 score: 4.4/5  (2500 votes)
@@ -33,6 +32,7 @@ locale: ja
     *   **砂時計:** これが最も重要です。消すと制限時間を少しだけ延長できます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 *   **スピードが命:** 残り時間は60秒しかありません。じっくり考える暇はないので、とにかく速く撃ちましょう。迷うくらいなら多少強引にでも撃って、次のバブルを回したほうが良い結果になることが多いです。

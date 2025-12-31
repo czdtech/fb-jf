@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Tangram Puzzle te demande d’assembler sept pièces géométriques (les tans) pour remplir exactement une silhouette. Pas de chevauchement, pas de trou : seules les rotations sont autorisées, et les symétries (miroir) peuvent être interdites selon le mode. La compétence clé consiste à reconnaître les poches concaves/convexes et à faire correspondre les angles.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Angles d’abord :** place les grands triangles dans les sommets de la silhouette.

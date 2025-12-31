@@ -1,13 +1,18 @@
 ---
-title: "Cards of the Undead カーズ・オブ・ザ・アンデッド"
-description: "「Cards of the Undead」でゾンビ溢れるカードの世界を生き残れ！カードをめくって戦い、アイテムを集め、ヒーローを強化するターン制サバイバルパズル。"
-iframeSrc: "https://4afojpng981kg.h5games.usercontent.goog/v/1ge6qnd6h4ss0/"
+title: Cards of the Undead カーズ・オブ・ザ・アンデッド
+description: >-
+  「Cards of the
+  Undead」でゾンビ溢れるカードの世界を生き残れ！カードをめくって戦い、アイテムを集め、ヒーローを強化するターン制サバイバルパズル。
+iframeSrc: 'https://4afojpng981kg.h5games.usercontent.goog/v/1ge6qnd6h4ss0/'
 thumbnail: /new-images/thumbnails/cards-of-the-undead.png
-urlstr: "cards-of-the-undead"
-score: "4.3/5  (2250 votes)"
-tags: ["puzzle", "strategy", "zombie"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: cards-of-the-undead
+score: 4.3/5  (2250 votes)
+tags:
+  - puzzle
+  - strategy
+  - zombie
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +24,7 @@ locale: ja
 プレイヤーは隣接するカードをめくりながら探索します。めくったカードが武器や回復薬ならラッキーですが、ゾンビなら戦闘になります。あなたの行動の一つ一つが命取りになる緊張感と、シンプルなルールながら深い戦略性が融合しています。全てのゾンビを倒し、コインを集め、生き延びてください。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **動く前に確認:** ゾンビのカードに向かって移動する前に、必ず自分のヒーローのステータス（HPとアーマー）と、ゾンビの攻撃力を比較しましょう。勝てる計算が立つまでは無闇に突っ込んではいけません。まずは回復薬や防具を探すのが賢明です。

@@ -20,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 PolyMatch est un jeu de puzzle d'association de tuiles engageant qui met à l'épreuve ton observation et ta réflexion stratégique. Le jeu te présente un plateau rempli de diverses tuiles, chacune avec une image ou un motif unique. Ton objectif est de vider le plateau en trouvant et associant des paires de tuiles identiques. La difficulté réside dans la zone de réserve limitée en bas de l'écran, qui ne peut contenir que quelques tuiles. Tu dois sélectionner soigneusement les tuiles pour t'assurer de pouvoir faire des associations et empêcher la zone de réserve de se remplir, ce qui mènerait à un game over.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Prioriser les associations visibles :** cherche toujours et fais les associations qui sont immédiatement visibles et accessibles. Cela aide à libérer de l'espace et révéler plus de tuiles.

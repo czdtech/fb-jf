@@ -1,13 +1,17 @@
 ---
-title: "Checkers Legend チェッカー・レジェンド"
-description: "「Checkers Legend」で伝統的なボードゲームを極めよう。斜めに進み、相手を飛び越えて取り、キングになって盤面を支配せよ。"
-iframeSrc: "https://checkerslegend.h5games.usercontent.goog/v/43mkj41ari948/"
+title: Checkers Legend チェッカー・レジェンド
+description: 「Checkers Legend」で伝統的なボードゲームを極めよう。斜めに進み、相手を飛び越えて取り、キングになって盤面を支配せよ。
+iframeSrc: 'https://checkerslegend.h5games.usercontent.goog/v/43mkj41ari948/'
 thumbnail: /new-images/thumbnails/checkers-legend.png
-urlstr: "checkers-legend"
-score: "4.6/5  (2900 votes)"
-tags: ["puzzle", "thinky", "casual", "card"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: checkers-legend
+score: 4.6/5  (2900 votes)
+tags:
+  - puzzle
+  - thinky
+  - casual
+  - card
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +21,7 @@ locale: ja
 *Checkers Legend（チェッカー・レジェンド）*は、「ドラフツ（Draughts）」としても知られる古典的な戦略ボードゲームのデジタル版です。8x8のチェック柄のボードで、2人のプレイヤーが対戦します。ルールはシンプルですが、奥深い戦略性があります。斜めに駒を動かし、相手の駒をすべて取るか、相手が動けなくなるように追い詰めれば勝利です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **基本の動き:** 自分の駒（マン）は、斜め前方の空いている黒いマスに1歩ずつしか進めません。

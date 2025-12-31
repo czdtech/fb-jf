@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Tower Mania est un jeu d'arcade captivant et addictif qui défie ta précision et ton timing. L'objectif est simple : construire la tour la plus haute possible en empilant soigneusement des blocs les uns sur les autres. Les blocs oscillent d'avant en arrière, et tu dois taper ou cliquer au moment précis pour les lâcher parfaitement alignés. Toute partie d'un bloc qui dépasse sera coupée, rendant le niveau suivant plus petit et augmentant la difficulté.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Le timing est crucial :** Le cœur du jeu est de chronométrer parfaitement ton tap. Regarde le bloc oscillant et essaie de le lâcher quand il est directement au-dessus du centre du bloc en dessous.

@@ -1,13 +1,15 @@
 ---
-title: "Bloons TD 5 ブルーンズTD 5"
-description: "「Bloons TD 5」で防衛戦略を極めろ！8つのアップグレード、2つのパス、新登場のエージェント。タワーを育てて毎日変わるデイリーチャレンジに挑もう。"
-iframeSrc: "https://1000freegames.github.io/swf/bloons-tower-defense-5.html"
+title: Bloons TD 5 ブルーンズTD 5
+description: 「Bloons TD 5」で防衛戦略を極めろ！8つのアップグレード、2つのパス、新登場のエージェント。タワーを育てて毎日変わるデイリーチャレンジに挑もう。
+iframeSrc: 'https://1000freegames.github.io/swf/bloons-tower-defense-5.html'
 thumbnail: /new-images/thumbnails/bloons-td-5.jpg
-urlstr: "bloons-td-5"
-score: "3.7/5  (628 votes)"
-tags: ["casual", "strategy"]
-developer: "Ninja Kiwi"
-releaseDate: 2025-08-16
+urlstr: bloons-td-5
+score: 3.7/5  (628 votes)
+tags:
+  - casual
+  - strategy
+developer: Ninja Kiwi
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -28,6 +30,7 @@ BTD5 では以下の要素が追加・強化されています。
 -   **アクティブアビリティ：** 多くのティア4アップグレードが強力な発動型スキルを与えます（例：Bomb Tower の「MOAB Assassin」、Heli Pilot の「Downdraft」など）。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 -   **経済がすべて：** 早期に Banana Farm を建てて資金源を確保するのが勝利への近道です。最終的には 4/2（アップグレード：`Banana Research Facility` + `More Bananas`）構成を目指し、毎ラウンド大量のキャッシュを得ましょう。

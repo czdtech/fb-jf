@@ -19,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Road Fury est un shooter vertical en vue de dessus à haute intensité qui te met au volant d'un véhicule lourdement armé sur une autoroute chaotique. Ta mission est de survivre le plus longtemps possible contre des vagues de voitures, camions et boss ennemis. Faufile‑toi entre le trafic, collecte des boosters puissants et utilise les pièces gagnées en détruisant tes ennemis pour améliorer les armes et l'armure de ta voiture et déchaîner la fureur maximale.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Mouvement constant :** la clé de la survie est de ne jamais s'arrêter de bouger. Zigzague à gauche et à droite pour esquiver les tirs ennemis et les collisions. Rester sur place est le moyen le plus rapide de se faire détruire.

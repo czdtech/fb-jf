@@ -20,6 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Poly Art (ou Poly Puzzle) est un jeu de puzzle 3D visuellement époustouflant et mentalement relaxant. Chaque niveau commence par ce qui semble être un amas chaotique de fragments colorés low‑poly. Le défi est de faire tourner ce groupe de polygones dans l'espace 3D pour trouver l'angle précis où les morceaux éparpillés s'alignent parfaitement, révélant une belle œuvre d'art reconnaissable, comme un animal, un objet ou un personnage. C'est un jeu de perception, de patience et de découverte.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Tourner lentement et régulièrement :** ne fais pas de balayages sauvages. Fais tourner le puzzle lentement dans une direction (par ex. horizontalement) pour voir si des formes reconnaissables commencent à apparaître. Si tu vois l'ébauche d'une forme, continue à tourner prudemment autour de cet axe.

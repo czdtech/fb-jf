@@ -1,13 +1,16 @@
 ---
-title: "Chess Mania チェス・マニア"
-description: "「Chess Mania」でチェスの世界に没頭しよう。400以上のレベル、難解なパズル、そして強力なコンピュータ対戦。スキルを磨き、チェスマスターを目指せ。"
-iframeSrc: "https://chessmania.h5games.usercontent.goog/v/3if0hd2c47oo8/"
+title: Chess Mania チェス・マニア
+description: 「Chess Mania」でチェスの世界に没頭しよう。400以上のレベル、難解なパズル、そして強力なコンピュータ対戦。スキルを磨き、チェスマスターを目指せ。
+iframeSrc: 'https://chessmania.h5games.usercontent.goog/v/3if0hd2c47oo8/'
 thumbnail: /new-images/thumbnails/chess-mania.png
-urlstr: "chess-mania"
-score: "4.5/5  (2401 votes)"
-tags: ["thinky", "puzzle", "strategy"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: chess-mania
+score: 4.5/5  (2401 votes)
+tags:
+  - thinky
+  - puzzle
+  - strategy
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +22,7 @@ locale: ja
 スキルを磨きたい初心者にも、自分の腕を試したい熟練者にも最適です。「1手でチェックメイト」「2手でチェックメイト」といったパズル形式のチャレンジモードや、通常のAI対戦モードなど、飽きさせない工夫が満載です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **オープニングを極める:** ゲームの序盤（オープニング）では、駒を中央に向かって展開することが定石です。良いスタートダッシュは、ゲーム全体の主導権を握ることにつながります。

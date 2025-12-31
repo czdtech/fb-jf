@@ -1,13 +1,15 @@
 ---
-title: "Categories"
-description: "Categoriesは素早い単語分類の脳トレです。テーマでアイテムをグループ化し、外れ値を推測し、時計を打ち負かしましょう。"
-iframeSrc: "https://1ssgr48qrfod0.h5games.usercontent.goog/v/20nv9be906iho/"
+title: Categories
+description: Categoriesは素早い単語分類の脳トレです。テーマでアイテムをグループ化し、外れ値を推測し、時計を打ち負かしましょう。
+iframeSrc: 'https://1ssgr48qrfod0.h5games.usercontent.goog/v/20nv9be906iho/'
 thumbnail: /new-images/thumbnails/categories.png
-urlstr: "categories"
-score: "4.0/5  (1855 votes)"
-tags: ["thinky", "puzzle"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: categories
+score: 4.0/5  (1855 votes)
+tags:
+  - thinky
+  - puzzle
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Categoriesは、単語やアイテムを「テーマごとのグループ」に分類していく軽めのロジックゲームです。共通点を見つけてグループを確定し、紛らわしいおとり（外れ）を見抜きながら、制限時間や手数の範囲でセットを解いていきます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **簡単なセットから確定:** 直感で分かるグループを先に固めると、残りの候補が減って見通しが良くなります。

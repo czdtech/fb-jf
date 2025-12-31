@@ -30,6 +30,7 @@ atteindre la sortie sans perdre l’équilibre. Le jeu est connu pour ses
 contrôles volontairement maladroits et ses animations hilarantes, ce qui en
 fait une expérience à la fois drôle et exigeante.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Maîtriser les commandes :** habitue‑toi à contrôler chaque partie du

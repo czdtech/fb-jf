@@ -1,13 +1,16 @@
 ---
-title: "Bob the Robber ボブ・ザ・ロバー"
-description: "「Bob the Robber」で義賊になろう！警備員をかわし、カメラを無効化し、金庫を破れ。ステルスとパズルが融合した大人気泥棒アクションゲーム。"
-iframeSrc: "https://app-190385.games.s3.yandex.net/190385/i7ty94goiswe8ohxdysos1uzmur0yfwk/index.html"
+title: Bob the Robber ボブ・ザ・ロバー
+description: 「Bob the Robber」で義賊になろう！警備員をかわし、カメラを無効化し、金庫を破れ。ステルスとパズルが融合した大人気泥棒アクションゲーム。
+iframeSrc: >-
+  https://app-190385.games.s3.yandex.net/190385/i7ty94goiswe8ohxdysos1uzmur0yfwk/index.html
 thumbnail: /new-images/thumbnails/bob-the-robber.jpg
-urlstr: "bob-the-robber"
-score: "3.7/5  (403 votes)"
-tags: ["stealth", "puzzle"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: bob-the-robber
+score: 3.7/5  (403 votes)
+tags:
+  - stealth
+  - puzzle
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +22,7 @@ locale: ja
 ゲームプレイの中心は「見つからないこと（ステルス）」です。巡回する警備員、監視カメラ、レーザーセンサー、電子ロックされた扉など、多彩なセキュリティが待ち受けています。影に隠れてやり過ごしたり、背後から気絶させたり、暗号を見つけて扉を開けたりと、観察力とタイミングが試される緊張感あるパズル要素が満載です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 *   **忍耐が最大の武器:** 急いではいけません。警備員の巡回ルートに飛び込んでしまうのが最も多い失敗原因です。新しい部屋に入ったら、まず敵とカメラの動きをじっくり観察しましょう。

@@ -19,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Puzzle Pieces Merge propose une variante sereine et innovante du puzzle classique. Plutôt qu'un plateau statique, ce jeu t'invite à faire glisser, déposer et fusionner des pièces de puzzle pour révéler de beaux paysages captivants. La mécanique centrale implique de placer correctement les pièces les unes à côté des autres, moment où elles fusionneront en un segment plus grand de l'image finale. Avec la possibilité de faire pivoter les pièces et d'utiliser des bonus stratégiques, c'est une expérience relaxante mais engageante pour les amateurs de puzzles.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Commencer par les bords :** comme pour un puzzle du monde réel, une bonne stratégie est d'identifier et placer d'abord les pièces de bord et de coin. Cela t'aide à construire un cadre pour le reste de l'image.

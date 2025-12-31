@@ -1,13 +1,16 @@
 ---
-title: "Carrom Clash キャロム・クラッシュ"
-description: "「Carrom Clash」で本格的なボードゲーム体験を。おはじきビリヤードとも呼ばれるキャロムで、ストライカーを弾き、自分の駒をポケットに入れよう。"
-iframeSrc: "https://carromclash.h5games.usercontent.goog/v/4pmfd00515bbg/"
+title: Carrom Clash キャロム・クラッシュ
+description: 「Carrom Clash」で本格的なボードゲーム体験を。おはじきビリヤードとも呼ばれるキャロムで、ストライカーを弾き、自分の駒をポケットに入れよう。
+iframeSrc: 'https://carromclash.h5games.usercontent.goog/v/4pmfd00515bbg/'
 thumbnail: /new-images/thumbnails/carrom-clash.png
-urlstr: "carrom-clash"
-score: "4.4/5  (2600 votes)"
-tags: ["sports", "puzzle", "action"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: carrom-clash
+score: 4.4/5  (2600 votes)
+tags:
+  - sports
+  - puzzle
+  - action
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +22,7 @@ locale: ja
 正確なショット、戦略的な配置、そして角度の理解が勝利への鍵となります。相手よりも先に自分の持ち駒を全てポケットに入れ、勝利を掴み取りましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **目的:** 自分の割り当てられた色（黒または白）の駒を、相手より先に全てポケットに入れることです。勝利を確定させるには、最後に赤い「クイーン」も落としてカバーする必要があります。

@@ -19,6 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Super Bowling Mania apporte l'expérience classique du bowling à dix quilles sur ton écran avec une physique réaliste et des contrôles intuitifs. Que tu sois un joueur de bowling expérimenté ou nouveau dans ce sport, tu peux profiter du frisson de viser le strike parfait. Le jeu te met au défi d'abattre les dix quilles à chaque frame. Marque des strikes, ramasse des spares délicats et vise un jeu parfait de 300. Avec son gameplay engageant, c'est un moyen parfait de profiter du bowling à tout moment, n'importe où.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Positionne ton joueur :** avant de lancer, tu peux généralement ajuster ta position de départ sur la piste. Te déplacer à gauche ou à droite peut t'aider à trouver l'angle parfait pour toucher la "poche" (entre la quille de tête et celle derrière).

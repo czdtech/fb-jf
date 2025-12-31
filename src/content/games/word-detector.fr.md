@@ -12,7 +12,7 @@ tags:
   - thinky
   - casual
 score: 4.4/5  (2350 votes)
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
@@ -22,6 +22,7 @@ releaseDate: 2025-10-17
 Word Detector est un jeu de recherche de mots rapide qui met à l'épreuve ton vocabulaire et ta vivacité. Tu fais face à une grille de lettres et dois trouver un maximum de mots en reliant des lettres adjacentes. Les mots peuvent être formés horizontalement, verticalement ou en diagonale. L'objectif est généralement d'atteindre un score cible ou de trouver un certain nombre de mots dans le temps imparti pour passer au niveau suivant.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Cherche les préfixes et suffixes courants :** Repère les combinaisons fréquentes comme « S », « ED », « ER » ou « ING ». Elles peuvent être le début ou la fin de plusieurs mots et t'aider à en trouver rapidement.

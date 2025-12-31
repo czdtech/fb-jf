@@ -22,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 Trap the Cat est un jeu de puzzle stratégique où tu dois bloquer les voies d'évasion d'un chat rusé en plaçant des barrières sur une grille hexagonale, utilisant logique et planification pour empêcher le chat d'atteindre le bord. Ce jeu teste tes capacités de prédiction et ta réflexion stratégique.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Contrôle du centre :** Essaie de placer les barrières autour du chat d'abord, réduisant progressivement sa zone de mouvement.

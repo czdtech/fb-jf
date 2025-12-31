@@ -1,13 +1,16 @@
 ---
-title: "Billiards Classic クラシック・ビリヤード"
-description: "「Billiards Classic」で正統派8ボールを楽しもう。狙いを定め、スピンを操り、相手より先に自分のボールを全て落として勝利をつかめ！"
-iframeSrc: "https://billiardsclassic.h5games.usercontent.goog/v/27m4mvjv84l70/"
+title: Billiards Classic クラシック・ビリヤード
+description: 「Billiards Classic」で正統派8ボールを楽しもう。狙いを定め、スピンを操り、相手より先に自分のボールを全て落として勝利をつかめ！
+iframeSrc: 'https://billiardsclassic.h5games.usercontent.goog/v/27m4mvjv84l70/'
 thumbnail: /new-images/thumbnails/billiards-classic.png
-urlstr: "billiards-classic"
-score: "4.5/5  (2900 votes)"
-tags: ["sports", "puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: billiards-classic
+score: 4.5/5  (2900 votes)
+tags:
+  - sports
+  - puzzle
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 *Billiards Classic（クラシック・ビリヤード）*は、伝統的な「8ボール」プールゲームを画面上で再現した作品です。このシミュレーションゲームでは、スキル、戦略、そして物理演算を駆使してコンピュータ対戦相手と勝負します。目的は、割り当てられたグループのボール（ソリッド：1〜7番、またはストライプ：9〜15番）を全てポケットに入れ、最後に合法的に8番ボールを沈めて勝利することです。リアルな物理挙動と直感的な操作で、時代を超えて愛されるパブゲームの定番を楽しめます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **ブレイクショット：** ゲームはブレイクショットから始まります。ラック（球の塊）の先頭のボールを狙い、ボールを効果的に散らばらせましょう。

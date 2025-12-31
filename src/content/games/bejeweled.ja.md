@@ -1,13 +1,16 @@
 ---
-title: "Bejeweled ビジュエルド"
-description: "「Bejeweled」を極めよう！宝石を3つ揃えて消す、元祖マッチ3パズルゲームの完全ガイド。ハイスコアを取るための戦略、各モードの特徴、ヒントを網羅。"
-iframeSrc: "https://files.acticdn.com/278374/30464/index.html"
+title: Bejeweled ビジュエルド
+description: 「Bejeweled」を極めよう！宝石を3つ揃えて消す、元祖マッチ3パズルゲームの完全ガイド。ハイスコアを取るための戦略、各モードの特徴、ヒントを網羅。
+iframeSrc: 'https://files.acticdn.com/278374/30464/index.html'
 thumbnail: /new-images/thumbnails/bejeweled.png
-urlstr: "bejeweled"
-score: "4.8/5  (654 votes)"
-tags: ["puzzle", "match-3", "classic"]
-developer: "PopCap Games"
-releaseDate: 2025-12-04
+urlstr: bejeweled
+score: 4.8/5  (654 votes)
+tags:
+  - puzzle
+  - match-3
+  - classic
+developer: PopCap Games
+releaseDate: 2025-12-04T00:00:00.000Z
 locale: ja
 ---
 
@@ -37,6 +40,7 @@ locale: ja
 - **Classic:** 時間制限がなく、動かせる手がなくなるまでプレイできます。
 - **Action / Blitz:** 約 60 秒など制限時間付きで、短時間にスコアを稼ぐスピードモードです。
 
+<!-- i18n:section:tips -->
 ### 戦略とヒント
 
 -  **大きなマッチを狙う:** 三連だけで満足せず、常に四連・五連や T/L 形を探してスペシャルジェムを作りましょう。

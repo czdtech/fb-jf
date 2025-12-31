@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Zumba Ocean est un jeu de tir de billes coloré et addictif, dans la lignée des classiques comme Zuma. Dans un décor océanique, une chaîne de perles colorées avance lentement le long d'un chemin. Tu contrôles un lanceur qui projette des perles. Ta mission : éliminer toute la chaîne en formant des groupes de trois perles ou plus de la même couleur avant qu'elle n'atteigne le coquillage final.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Crée des combos :** Le meilleur moyen de dégager la chaîne est de déclencher des réactions en chaîne. Quand tu fais un trio, si les deux nouvelles extrémités sont de la même couleur, elles fusionnent et peuvent provoquer un nouveau match automatique. Ce combo rapporte des points bonus.

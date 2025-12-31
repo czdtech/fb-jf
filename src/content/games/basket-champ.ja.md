@@ -1,13 +1,16 @@
 ---
-title: "Basket Champ バスケット・チャンプ"
-description: "「Basket Champ」はワンタッチで遊べるバスケット・チャレンジ。放物線を定め、クリーンシュートを決め、連続ゴールでハイスコアを目指せ。"
-iframeSrc: "https://0outkmbudufj8.h5games.usercontent.goog/v/1stcrgq2b9d08/"
+title: Basket Champ バスケット・チャンプ
+description: 「Basket Champ」はワンタッチで遊べるバスケット・チャレンジ。放物線を定め、クリーンシュートを決め、連続ゴールでハイスコアを目指せ。
+iframeSrc: 'https://0outkmbudufj8.h5games.usercontent.goog/v/1stcrgq2b9d08/'
 thumbnail: /new-images/thumbnails/basket-champ.png
-urlstr: "basket-champ"
-score: "4.0/5  (1816 votes)"
-tags: ["sports", "basketball", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: basket-champ
+score: 4.0/5  (1816 votes)
+tags:
+  - sports
+  - basketball
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 *Basket Champ（バスケット・チャンプ）*は、タイミング重視のミニマルなバスケットボールゲームです。タップ一つでシュートの軌道とパワーを決め、動くゴールリングや障害物の間を縫ってシュートを成功させましょう。連続ゴール（ストリーク）を維持してハイスコアを狙うのが醍醐味です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **リングの中心より上を狙う：** ボールが上から吸い込まれるような柔らかいシュートを意識しましょう。

@@ -21,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Superhot est un FPS innovant où le temps n’avance que lorsque tu bouges, créant une expérience de puzzle tactique qui mélange action et planification. Chaque mouvement doit être pensé avec précision dans un monde au ralenti.
 
+<!-- i18n:section:tips -->
 ### Conseils de gameplay
 
 1.  **Contrôle du temps :** le temps s’arrête presque quand tu restes immobile, et repart quand tu te déplaces.

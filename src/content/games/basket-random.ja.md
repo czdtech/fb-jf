@@ -1,13 +1,18 @@
 ---
-title: "Basket Random バスケット・ランダム"
-description: "「Basket Random」は、物理演算ベースの予測不能ハチャメチャ・バスケゲームの完全ガイド。ワンボタン操作をマスターし、カオスな状況を楽しみながら2人対戦で勝利を掴もう。"
-iframeSrc: "https://app-197304.games.s3.yandex.net/197304/kj9rcykboy6eol5xnn250jesr7v0hoh1/index.html"
+title: Basket Random バスケット・ランダム
+description: >-
+  「Basket
+  Random」は、物理演算ベースの予測不能ハチャメチャ・バスケゲームの完全ガイド。ワンボタン操作をマスターし、カオスな状況を楽しみながら2人対戦で勝利を掴もう。
+iframeSrc: >-
+  https://app-197304.games.s3.yandex.net/197304/kj9rcykboy6eol5xnn250jesr7v0hoh1/index.html
 thumbnail: /new-images/thumbnails/basket-random.jpg
-urlstr: "basket-random"
-score: "4.2/5  (284 votes)"
-tags: ["casual", "sports"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: basket-random
+score: 4.2/5  (284 votes)
+tags:
+  - casual
+  - sports
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -21,6 +26,7 @@ locale: ja
 プレイヤーはキャラクターを細かく操作することはできません。できるのは、たった一つのボタンを押して「ジャンプ＆腕を振る」ことだけ。この不自由で予測不能な動きこそが、すべての試合をお祭り騒ぎのような楽しい体験にしてくれます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 *Basket Random* で勝つコツは、カオスを制御することではなく、カオスと「うまく付き合う」ことです。

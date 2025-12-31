@@ -1,13 +1,15 @@
 ---
-title: "Bloons TD 4 ブルーンズTD 4"
-description: "シリーズの転換点「Bloons TD 4」。分岐するアップグレード、ランク制度、そして赤い悪夢「BFB」が登場。育成と選択が鍵となる現代的TDの原点。"
-iframeSrc: "https://1000freegames.github.io/swf/bloons-td-4.html"
+title: Bloons TD 4 ブルーンズTD 4
+description: シリーズの転換点「Bloons TD 4」。分岐するアップグレード、ランク制度、そして赤い悪夢「BFB」が登場。育成と選択が鍵となる現代的TDの原点。
+iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-4.html'
 thumbnail: /new-images/thumbnails/bloons-td-4.jpg
-urlstr: "bloons-td-4"
-score: "4.3/5  (852 votes)"
-tags: ["casual", "strategy"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: bloons-td-4
+score: 4.3/5  (852 votes)
+tags:
+  - casual
+  - strategy
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -29,6 +31,7 @@ locale: ja
 -   **消耗品：** Road Spikes や Monkey Glue をコース上に直接置ける一次的防衛手段が追加。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 -   **アップグレード計画を立てる：** すべての強化を買うことはできないため、「このタワーは対 MOAB」「このタワーは範囲処理」といった役割を決めてルートを選択。

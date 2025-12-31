@@ -19,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Ping Pong est un jeu d'arcade sportif classique. Deux joueurs (ou un joueur contre l'IA) contrôlent chacun une raquette pour renvoyer une balle de part et d'autre de l'écran, avec l'objectif de marquer des points en faisant rater la balle à l'adversaire. Le jeu est connu pour son gameplay simple et intuitif et son rythme rapide, ce qui en fait un excellent choix pour le divertissement décontracté et les matchs compétitifs.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Contrôler la raquette :** déplace ta raquette de manière flexible pour t'assurer de pouvoir frapper la balle entrante.

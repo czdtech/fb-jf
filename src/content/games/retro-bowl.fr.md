@@ -27,6 +27,7 @@ dirigeant l’attaque sur le terrain grâce à des passes et des courses
 spectaculaires. Il mélange gestion d’équipe et contrôle en temps réel pour
 offrir une expérience de foot US complète.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Maîtriser la passe :** apprends à viser précisément tes receveurs.

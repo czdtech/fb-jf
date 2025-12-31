@@ -1,13 +1,16 @@
 ---
-title: "Battleships Armada バトルシップ・アルマダ"
-description: "古典的な海戦ゲームの決定版！艦隊を戦略的に配置し、敵の座標を砲撃して、あなたの船が沈められる前に敵艦隊を全滅させよう。"
-iframeSrc: "https://3hcluun64uid0.h5games.usercontent.goog/v/0op00pgc2n4kg/"
+title: Battleships Armada バトルシップ・アルマダ
+description: 古典的な海戦ゲームの決定版！艦隊を戦略的に配置し、敵の座標を砲撃して、あなたの船が沈められる前に敵艦隊を全滅させよう。
+iframeSrc: 'https://3hcluun64uid0.h5games.usercontent.goog/v/0op00pgc2n4kg/'
 thumbnail: /new-images/thumbnails/battleships-armada.png
-urlstr: "battleships-armada"
-score: "4.5/5  (2900 votes)"
-tags: ["puzzle", "strategy", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: battleships-armada
+score: 4.5/5  (2900 votes)
+tags:
+  - puzzle
+  - strategy
+  - thinky
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 *Battleships Armada（バトルシップ・アルマダ）*は、古典的なボードゲーム「バトルシップ（海戦ゲーム）」のデジタル版です。これは純粋な戦略と推理、そして少しの運が試されるゲームです。各プレイヤーは自分の艦隊をグリッド（格子状の盤面）に**秘密裏**に配置します。そして、交互に相手のグリッドに向かって砲撃を行い、見えない敵艦の位置を特定して撃沈することを目指します。先に相手の船をすべて沈めたプレイヤーの勝利です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **戦略的な配置：** ゲームは配置フェーズから始まります。船を全部一箇所に固めたり、端っこに並べたりするのは避けましょう。バラバラでランダムに見える配置のほうが、相手にとって予測しづらくなります。

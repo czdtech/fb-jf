@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Unpark Me est un puzzle de blocs coulissants classique, aussi connu sous le nom de « parking jam ». Tu fais face à une grille de parking bondée remplie de voitures et de camions. Ton objectif est de faire glisser stratégiquement les autres véhicules pour dégager un passage permettant à la voiture cible (généralement la rouge) de sortir. Le jeu est un vrai test de logique et de pensée séquentielle, te défiant de résoudre le puzzle en un minimum de coups.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Identifie le bloqueur :** D'abord, identifie les voitures qui bloquent directement le chemin de la voiture rouge vers la sortie.

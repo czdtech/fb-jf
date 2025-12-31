@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Northern Heights t'embarque sur des pistes enneigées à grande vitesse. Tu y contrôles un skieur qui enchaîne descentes vertigineuses, sauts spectaculaires et figures pour gagner des points bonus. En cours de route, tu peux récupérer des pièces pour débloquer de nouveaux équipements et personnalisations. Le jeu repose sur un équilibre subtil entre vitesse, contrôle et prise de risque.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Maîtriser les commandes :** apprends d'abord à tourner proprement et à gérer la réception des sauts avant de chercher les gros scores.

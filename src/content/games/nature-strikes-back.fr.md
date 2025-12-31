@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Nature Strikes Back est un mélange original entre jeu de fusion et tower defense. Tu dois protéger le Cœur de la Nature contre des monstres pollueurs appelés Mucklings. Pour y parvenir, tu invoques des Esprits gardiens, les fusionnes pour les faire évoluer et les déploies le long du chemin afin qu'ils repoussent automatiquement les vagues d'ennemis.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Invoquer et fusionner :** dépense ton énergie pour invoquer des Esprits de base sur le plateau de fusion. Fais glisser un Esprit sur un autre identique pour les fusionner en une version de niveau supérieur plus puissante.

@@ -24,6 +24,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Tiletopia est un jeu de puzzle de construction de ville paisible et créatif où tu crées de beaux paysages en expansion en plaçant des tuiles hexagonales. Tu commences avec une seule tuile et pioches dans une pile de tuiles générées procéduralement. L'objectif est de placer ces tuiles stratégiquement pour créer un monde cohérent et pittoresque, en faisant correspondre les bords comme les forêts, les champs et les villages. Le jeu inclut souvent de petites quêtes pour guider ta création et maximiser ton score.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Fais correspondre les bords :** La règle fondamentale est de faire correspondre les bords des tuiles que tu places. Connecte un bord de forêt à un autre bord de forêt, un champ à un champ, etc. Chaque correspondance correcte te rapporte des points.

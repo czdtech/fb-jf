@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Zombie Gun met l'accent sur les tirs d'angle : fais ricocher les balles sur les murs, touche des barils explosifs et fais tomber des objets pour éliminer les zombies avec peu de tirs. Les salles avancées ajoutent des ennemis blindés qui nécessitent des éliminations environnementales.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Tirs en rebond :** Utilise les murs pour atteindre les cibles cachées.

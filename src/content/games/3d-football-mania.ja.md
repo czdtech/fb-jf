@@ -1,13 +1,15 @@
 ---
-title: "3D Football Mania 3D サッカーマニア"
-description: "「3D サッカーマニア」は、サッカーの決定的な瞬間を切り取ったゲームです。ドリブル、パス、そして絶妙なタイミングのシュートでゴールネットを揺らしましょう。"
-iframeSrc: "https://0iadidf74ef9o.h5games.usercontent.goog/v/4cmv5jsv0n25g/"
+title: 3D Football Mania 3D サッカーマニア
+description: 「3D サッカーマニア」は、サッカーの決定的な瞬間を切り取ったゲームです。ドリブル、パス、そして絶妙なタイミングのシュートでゴールネットを揺らしましょう。
+iframeSrc: 'https://0iadidf74ef9o.h5games.usercontent.goog/v/4cmv5jsv0n25g/'
 thumbnail: /new-images/thumbnails/3d-football-mania.png
-urlstr: "3d-football-mania"
-score: "3.9/5  (1738 votes)"
-tags: ["sports", "soccer"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: 3d-football-mania
+score: 3.9/5  (1738 votes)
+tags:
+  - sports
+  - soccer
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 *3D Football Mania（3D サッカーマニア）*は、サッカーの基本を短いシナリオに凝縮したゲームです。ディフェンダーの動きを読み、パスコースを選び、キーパーのタイミングを外してシュートを決めましょう。手軽にリプレイできるクイックなチャレンジが満載です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **スルーパスを使う：** 味方の足元ではなく、進行方向のスペース（空き地）にパスを出して攻撃をリードしましょう。

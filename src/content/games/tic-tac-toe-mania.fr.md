@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Tic Tac Toe Mania modernise le morpion avec des visuels epures et des variantes (plateaux plus grands, misere). Le jeu de base consiste a forcer des lignes ou neutraliser les menaces ; un jeu parfait en 3x3 mene au match nul sauf erreur.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Centre d abord :** En 3x3, le centre maximise les fourches ; les coins ensuite.

@@ -1,13 +1,17 @@
 ---
-title: "Age of War いにしえの戦争"
-description: "「Age of War」は、石器時代から未来へと進化しながら敵の基地を破壊する、クラシックな防衛戦略ゲームです。文明を発展させ、最強の軍隊を築き上げよう！"
-iframeSrc: "https://app-196716.games.s3.yandex.net/196716/h5h3xwa1kxsz7wcma59tvvmko0zorc80/index.html"
+title: Age of War いにしえの戦争
+description: 「Age of War」は、石器時代から未来へと進化しながら敵の基地を破壊する、クラシックな防衛戦略ゲームです。文明を発展させ、最強の軍隊を築き上げよう！
+iframeSrc: >-
+  https://app-196716.games.s3.yandex.net/196716/h5h3xwa1kxsz7wcma59tvvmko0zorc80/index.html
 thumbnail: /new-images/thumbnails/age-of-war.jpg
-urlstr: "age-of-war"
-score: "4.5/5  (525 votes)"
-tags: ["strategy", "defense", "war"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: age-of-war
+score: 4.5/5  (525 votes)
+tags:
+  - strategy
+  - defense
+  - war
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,10 +22,12 @@ locale: ja
 
 このゲームの最大の特徴は「進化」システムです。最初は原始的な石器時代から始まり、こん棒を持った穴居人（原始人）や恐竜ライダーを使って戦います。しかし、経験値（XP）を稼ぐことによって、中世、ルネサンス、現代、そして最終的には未来のスーパーソルジャーの時代へと、自軍の文明を進化させることができます。各時代には独自のユニット、防衛タワー、そして強力な特殊攻撃が用意されています。
 
+<!-- i18n:section:tips -->
 ### ゲーム攻略と戦略
 
 勝利のカギは、攻撃と防衛のバランス、そして進化のタイミングです。
 
+<!-- i18n:section:how-to-play -->
 #### 1. 序盤戦略（石器時代）
 
 *   **穴居人ラッシュ:** クラブマンや恐竜ライダーを絶えず送り込み、敵ベース手前で圧をかけてXPとゴールドを稼ぎます。

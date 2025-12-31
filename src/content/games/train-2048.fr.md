@@ -5,7 +5,8 @@ title: Train 2048
 description: >-
   Train 2048 est un puzzle créatif : fais glisser et fusionne des wagons
   identiques pour construire un train plus avancé et atteindre le wagon 2048.
-iframeSrc: 'https://train2048.h5games.usercontent.goog/v/efebc769-0d8d-48f4-b437-af712b013132/'
+iframeSrc: >-
+  https://train2048.h5games.usercontent.goog/v/efebc769-0d8d-48f4-b437-af712b013132/
 thumbnail: /new-images/thumbnails/train-2048.jpg
 tags:
   - puzzle
@@ -22,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Train 2048 est un puzzle captivant qui réinvente la formule 2048 bien-aimée avec un thème de train charmant. Au lieu de tuiles numérotées, les joueurs glissent et combinent des wagons du même type sur une grille ferroviaire. Chaque combinaison fusionne deux wagons identiques en un nouveau wagon de niveau supérieur. L'objectif est de gérer stratégiquement l'espace limité du plateau, continuer à fusionner des wagons et finalement créer le fameux wagon « 2048 ».
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Stratégie du coin :** Une stratégie 2048 classique qui fonctionne parfaitement ici. Essaie de garder ton wagon de plus haute valeur dans un coin de la grille en permanence. Cela l'empêche d'être coincé au milieu du plateau.

@@ -28,6 +28,7 @@ commandes sont contre‑intuitives, ce qui rend le moindre pas en avant
 déjà hilarant et très difficile.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Comprendre le rôle des touches :** Q et W contrôlent la cuisse et le

@@ -20,6 +20,7 @@ cours entre les trains, évites les plots et les barrières, ramasses des pièce
 et gères des bonus, le tout dans un métro bondé.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégie et astuces
 
 1. **Regarde loin devant** plutôt que juste devant ton personnage.

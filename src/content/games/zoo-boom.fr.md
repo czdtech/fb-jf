@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Zoo Boom est un jeu de puzzle match-2 coloré et captivant qui t'emmène dans une aventure à travers un zoo animé. Ta mission : tapoter sur des groupes de deux blocs d'animaux identiques ou plus pour les faire exploser et dégager le plateau. Chaque niveau propose des défis et objectifs uniques, comme collecter un certain nombre d'animaux spécifiques, éliminer des obstacles ou atteindre un score cible avec un nombre de coups limité. Déclenche des boosters puissants en combinant de grands groupes pour créer des réactions en chaîne spectaculaires.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Vise les grands groupes :** Tu peux matcher seulement deux blocs identiques, mais privilégie les groupes de trois ou plus. Plus tu combines de blocs, plus tu gagnes de points et plus tu crées de boosters.

@@ -1,13 +1,15 @@
 ---
-title: "Clash of Warriors クラッシュ・オブ・ウォリアーズ"
-description: "「Clash of Warriors」は短時間で遊べるコンパクトなカードバトル。マナカーブを意識し、有利な交換を繰り返し、戦略で相手を打ち負かせ。"
-iframeSrc: "https://7t89fh6irdv0g.h5games.usercontent.goog/v/5gpd6kf06hr8g/"
+title: Clash of Warriors クラッシュ・オブ・ウォリアーズ
+description: 「Clash of Warriors」は短時間で遊べるコンパクトなカードバトル。マナカーブを意識し、有利な交換を繰り返し、戦略で相手を打ち負かせ。
+iframeSrc: 'https://7t89fh6irdv0g.h5games.usercontent.goog/v/5gpd6kf06hr8g/'
 thumbnail: /new-images/thumbnails/clash-of-warriors.png
-urlstr: "clash-of-warriors"
-score: "3.9/5  (1668 votes)"
-tags: ["card", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: clash-of-warriors
+score: 3.9/5  (1668 votes)
+tags:
+  - card
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 *Clash of Warriors（クラッシュ・オブ・ウォリアーズ）*は、カードバトルの醍醐味を短いラウンドに凝縮したタクティカルゲームです。ハースストーンやシャドウバースのような本格的なカードゲームの要素を持ちつつ、ブラウザで手軽に遊べるように設計されています。効率的なプレイでテンポを掴み、相手の行動を読み、盤面を支配して勝利を掴み取りましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **マナカーブを守る:** 毎ターン、与えられたリソース（マナやコスト）を使い切るようにカードをプレイしましょう。無駄なく動くことが勝利への第一歩です。

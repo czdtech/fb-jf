@@ -19,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Pixel Shooter est un jeu de tir au style pixel art rétro où les joueurs contrôlent un personnage pour combattre des hordes d'ennemis à travers différents niveaux, collectant des bonus et améliorant leurs armes pour survivre. Le jeu attire les joueurs avec ses graphismes pixel classiques et son expérience de tir rapide.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Bouger et tirer :** déplace ton personnage de manière flexible pour esquiver les attaques ennemies et tire avec précision pour les éliminer.

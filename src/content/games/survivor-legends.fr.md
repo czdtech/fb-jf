@@ -23,6 +23,7 @@ personnage tire automatiquement, tu te contentes de te déplacer, d’esquiver
 et de choisir les améliorations à chaque montée de niveau.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégie de jeu
 
 1. **Grandes trajectoires de kite :** fais des boucles larges pour garder des

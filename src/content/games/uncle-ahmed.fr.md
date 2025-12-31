@@ -5,7 +5,8 @@ title: Uncle Ahmed
 description: >-
   Uncle Ahmed est un platformer 2D classique : saute sur les ennemis, collecte
   les pièces et utilise les bonus pour sauver ton neveu d'un sorcier maléfique.
-iframeSrc: 'https://uncleahmed.h5games.usercontent.goog/v/31ca380f-5493-4371-b5ac-5c3c2da67626/'
+iframeSrc: >-
+  https://uncleahmed.h5games.usercontent.goog/v/31ca380f-5493-4371-b5ac-5c3c2da67626/
 thumbnail: /new-images/thumbnails/uncle-ahmed.jpg
 tags:
   - action
@@ -22,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Uncle Ahmed est un platformer 2D classique à défilement latéral qui évoquera la nostalgie de jeux comme Super Mario Bros. Tu incarnes l'héroïque Oncle Ahmed dans une quête pour sauver son neveu, kidnappé par un sorcier maléfique. Tu traverseras des dizaines de niveaux remplis d'ennemis variés, d'obstacles retors et de bonus utiles. L'objectif est d'atteindre la fin de chaque niveau, vaincre le sorcier et sauver la situation.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Maîtrise le saut :** Ta compétence la plus importante est le saut. Utilise-le pour écraser les ennemis, casser des blocs pour trouver pièces et bonus, et naviguer au-dessus des pièges et des piques.

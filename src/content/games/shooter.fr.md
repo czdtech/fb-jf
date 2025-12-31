@@ -26,6 +26,7 @@ pure. Armé de différents flingues, tu dois tenir le plus longtemps possible
 face à des vagues de robots qui se jettent sur toi. Le jeu mélange
 l’ambiance horrifique classique de FNAF avec le rythme d’un shooter arcade.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Choix des armes :** apprends les caractéristiques de chaque arme et

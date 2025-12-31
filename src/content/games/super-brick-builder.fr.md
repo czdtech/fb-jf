@@ -2,7 +2,9 @@
 locale: fr
 urlstr: super-brick-builder
 title: Super Brick Builder
-description: "Super Brick Builder est un puzzle d’empilement satisfaisant : pose des briques proprement, planifie les appuis et complète des structures sans effondrement."
+description: >-
+  Super Brick Builder est un puzzle d’empilement satisfaisant : pose des briques
+  proprement, planifie les appuis et complète des structures sans effondrement.
 iframeSrc: 'https://0hlb6nt2jsom8.h5games.usercontent.goog/v/4jac78qnv0nr8/'
 thumbnail: /new-images/thumbnails/super-brick-builder.png
 tags:
@@ -22,6 +24,7 @@ s’effondre. Une pose propre et des appuis solides valent mieux qu’un remplis
 agressif.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Base d’abord :** construis une fondation stable et symétrique avant de

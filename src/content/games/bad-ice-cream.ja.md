@@ -1,13 +1,16 @@
 ---
-title: "Bad Ice-Cream バッド・アイスクリーム"
-description: "「Bad Ice-Cream」で氷の迷宮を制覇しよう！氷の壁を作り、壊し、敵を閉じ込めながらフルーツを全部集める、人気のピクセルアート・アクションパズル。"
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x4/index.html"
+title: Bad Ice-Cream バッド・アイスクリーム
+description: 「Bad Ice-Cream」で氷の迷宮を制覇しよう！氷の壁を作り、壊し、敵を閉じ込めながらフルーツを全部集める、人気のピクセルアート・アクションパズル。
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x4/index.html
 thumbnail: /new-images/thumbnails/bad-ice-cream.jpg
-urlstr: "bad-ice-cream"
-score: "4.9/5  (1015 votes)"
-tags: ["puzzle", "action"]
-developer: "Nitrome"
-releaseDate: 2025-08-16
+urlstr: bad-ice-cream
+score: 4.9/5  (1015 votes)
+tags:
+  - puzzle
+  - action
+developer: Nitrome
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,6 +21,7 @@ locale: ja
 
 このゲーム最大の特徴は、主人公が「氷の壁を作り、また破壊できる」という能力です。この氷作成能力を攻防の要として使い、パトロールする敵をブロックしたり、安全な通路を作ったり、モンスターを閉じ込めたりします。ソロプレイはもちろん、1つのキーボードを使って2人同時に遊べる協力モード（Co-op）もあり、チームワークと多少の混乱が入り混じる楽しいプレイが魅力です。
 
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 勝利への鍵は、反射神経とパズルのような戦術的思考の組み合わせです。
@@ -40,6 +44,7 @@ locale: ja
 #### 4. スピードと安全のバランス
 制限時間があるため、のんびりはできませんが、焦りは禁物です。無謀なダッシュは死を招きます。氷の壁で小さな「安全地帯」を作り、その中のフルーツを集め、壁を壊して次の安全地帯を作る...というように、着実に進みましょう。
 
+<!-- i18n:section:tips -->
 #### 5. 2人プレイの戦略
 *   **分担作業：** マップを左右（または上下）で分割し、それぞれが受け持ちエリアのフルーツを集めるのが最速です。
 *   **囮（デコイ）作戦：** 一人のプレイヤーが敵の注意を引きつけて逃げ回り、その間にもう一人が安全にフルーツを集めるという高度な戦術も有効です。

@@ -18,6 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 "Sudoku" est un jeu de puzzle classique où les joueurs remplissent une grille 9×9 avec les chiffres de 1 à 9, en s'assurant que chaque ligne, colonne et carré 3×3 contienne tous les chiffres exactement une fois. Ce casse-tête basé sur la logique met à l'épreuve les capacités de raisonnement et la patience des joueurs.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Commencer simple :** cherche d'abord les cases avec une seule réponse possible ; ce sont généralement des points de départ.

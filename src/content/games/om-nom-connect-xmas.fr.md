@@ -24,6 +24,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Om Nom Connect Xmas reprend les mécaniques d'Om Nom Connect dans une ambiance de fêtes. Sur le plateau, tu dois connecter des paires de tuiles représentant des bonbons, cadeaux et décorations de Noël. Comme toujours, la ligne reliant deux tuiles ne peut comporter plus de deux virages et ne doit pas traverser d'autres tuiles. Le tout se déroule sous la pression d'un chronomètre festif.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Nettoyer les bords :** attaque d'abord les paires faciles le long des bords et dans les coins pour ouvrir l'intérieur du plateau.

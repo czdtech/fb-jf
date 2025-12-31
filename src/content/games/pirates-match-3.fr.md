@@ -3,7 +3,8 @@ locale: fr
 urlstr: pirates-match-3
 title: Pirates Match 3
 description: "Pirates Match 3 est un match‑3 à thème pirate\_: aligne des symboles, charge des bonus et remplis les objectifs pour faire voguer ton équipage vers le trésor."
-iframeSrc: 'https://piratesmatch3.h5games.usercontent.goog/v/fea2f25f-a39a-4273-93c1-38f8f9bd8260/'
+iframeSrc: >-
+  https://piratesmatch3.h5games.usercontent.goog/v/fea2f25f-a39a-4273-93c1-38f8f9bd8260/
 thumbnail: /new-images/thumbnails/pirates-match-3.jpg
 tags:
   - puzzle
@@ -11,7 +12,7 @@ tags:
   - match-3
 score: 4.3/5  (2150 votes)
 developer: ''
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -20,6 +21,7 @@ releaseDate: 2025-10-17
 Pirates Match 3 est un jeu de puzzle match‑3 classique avec un thème pirate flamboyant. Les joueurs plongent dans un monde de cartes au trésor et de butin pirate, échangeant des icônes colorées sur le thème pirate comme des têtes de mort, ancres, roues de navire et pièces. L'objectif est de créer des lignes de trois éléments identiques ou plus pour compléter des objectifs spécifiques à chaque niveau, comme atteindre un score cible ou nettoyer des tuiles spéciales, le tout avec un nombre de coups limité.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Créer des bonus :** la clé pour réussir les niveaux difficiles est de créer des objets spéciaux en alignant plus de trois pièces.

@@ -21,6 +21,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Parking Rush est un jeu de puzzle de dessin de lignes intelligent et addictif qui te met aux commandes d'un parking chaotique. Ton travail est de jouer le rôle d'un gardien de parking et de guider chaque voiture vers sa place de parking désignée, de même couleur. Le défi est de tracer des chemins pour toutes les voitures sans qu'elles ne se percutent. Au fur et à mesure que les niveaux progressent, le nombre de voitures et d'obstacles augmente, nécessitant une planification minutieuse et un bon timing pour réussir.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Planifier tes itinéraires :** avant de tracer la moindre ligne, jette un œil à l'ensemble du plan. Identifie quelles voitures ont les chemins les plus courts ou les plus directs et lesquelles pourraient avoir besoin d'un itinéraire plus long pour éviter une collision.

@@ -19,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Roll This Ball est un puzzle de blocs coulissants classique et stimulant conçu pour tester ta logique et tes compétences de planification. Le jeu te présente une grille de tuiles, dont certaines sont fixées en place, tandis que d'autres peuvent être déplacées. Ton objectif est de faire glisser les blocs mobiles pour former un chemin continu et sans interruption pour qu'une bille roule de son point de départ jusqu'au but. C'est un concept simple avec des puzzles étonnamment profonds et stimulants.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Analyser le chemin :** avant de commencer à déplacer des blocs, trace le chemin potentiel avec tes yeux. Identifie les pièces clés qui doivent connecter les points de départ et d'arrivée.

@@ -1,13 +1,16 @@
 ---
-title: "Blocks Puzzle ブロックス・パズル"
-description: "「Blocks Puzzle」は10x10グリッドに挑む、中毒性の高い定番ブロックパズル。戦略的な配置でラインを消し、コンボを決めてハイスコアを目指そう。"
-iframeSrc: "https://6ljls661l4lkg.h5games.usercontent.goog/v/1mil2011qbul0/"
+title: Blocks Puzzle ブロックス・パズル
+description: 「Blocks Puzzle」は10x10グリッドに挑む、中毒性の高い定番ブロックパズル。戦略的な配置でラインを消し、コンボを決めてハイスコアを目指そう。
+iframeSrc: 'https://6ljls661l4lkg.h5games.usercontent.goog/v/1mil2011qbul0/'
 thumbnail: /new-images/thumbnails/blocks-puzzle.jpg
-urlstr: "blocks-puzzle"
-score: "4.2/5  (1765 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: blocks-puzzle
+score: 4.2/5  (1765 votes)
+tags:
+  - puzzle
+  - casual
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 *Blocks Puzzle（ブロックス・パズル）*は、空間認識力に挑戦するクラシックで魅力的なパズルゲームです。目的はシンプルです。様々な形のブロックを10x10のグリッドにはめ込むこと。縦または横の列（ライン）が完全に埋まると、そのラインは消去され、スペースが空き、ポイントが入ります。与えられたどのブロックも盤面に置けなくなったらゲームオーバーです。時間制限はないので、戦略的に考えてハイスコアを目指しましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **先を読む：** 配られた3つのブロックを見てください。1つ置く前に、残りの2つがどう収まるか、そしてその手が将来の盤面にどう影響するかを考えましょう。

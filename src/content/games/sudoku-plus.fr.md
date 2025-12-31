@@ -21,6 +21,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Sudoku Plus offre une expérience premium pour le puzzle de logique intemporel basé sur le placement de chiffres. L'objectif est de remplir une grille 9×9 de sorte que chaque colonne, chaque ligne et chacune des neuf sous-grilles 3×3 contiennent tous les chiffres de 1 à 9. Cette version est remplie de fonctionnalités utiles comme les indices, un mode notes et la vérification d'erreurs, la rendant parfaite pour les débutants qui apprennent les bases et les joueurs avancés cherchant une interface fluide et polie.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **La règle d'or :** le cœur du Sudoku est simple : 1 à 9, une fois par ligne, une fois par colonne et une fois par carré 3×3. Aucune répétition n'est permise dans ces zones.

@@ -1,13 +1,17 @@
 ---
-title: "Block Blaster Puzzle ブロック・ブラスター・パズル"
-description: "「Block Blaster Puzzle」で脳トレ！ブロックを隙間なく配置し、ラインを揃えて爆破しよう。戦略的な配置とスペース管理が鍵となる爽快パズルゲーム。"
-iframeSrc: "https://0nrdbfos8jhv8.h5games.usercontent.goog/v/6ovao2cpe86og/"
+title: Block Blaster Puzzle ブロック・ブラスター・パズル
+description: >-
+  「Block Blaster
+  Puzzle」で脳トレ！ブロックを隙間なく配置し、ラインを揃えて爆破しよう。戦略的な配置とスペース管理が鍵となる爽快パズルゲーム。
+iframeSrc: 'https://0nrdbfos8jhv8.h5games.usercontent.goog/v/6ovao2cpe86og/'
 thumbnail: /new-images/thumbnails/block-blaster-puzzle.png
-urlstr: "block-blaster-puzzle"
-score: "3.9/5  (1748 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: block-blaster-puzzle
+score: 3.9/5  (1748 votes)
+tags:
+  - puzzle
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +23,7 @@ locale: ja
 このゲームの要は「スペース管理」です。後から出てくる扱いにくい大きなブロックや奇妙な形のブロックを受け入れるために、常に盤面をきれいに整えておく必要があります。手詰まりにならないように、複数ライン同時消しなどを駆使してハイスコアを目指しましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **端をきれいに埋める：** 盤面の端がデコボコしていると、孤立した1マス（単独セル）ができやすく、そこを埋めるのが非常に難しくなります。できるだけ平らな状態を保ちましょう。

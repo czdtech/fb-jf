@@ -26,6 +26,7 @@ rouges. Le gameplay est simple à comprendre mais difficile à maîtriser :
 le moteur physique est fluide et la vitesse augmente progressivement, ce
 qui rend chaque seconde de plus en plus intense.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Contrôles de base :** maîtrise bien les mouvements gauche/droite et

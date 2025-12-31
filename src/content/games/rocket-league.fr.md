@@ -23,6 +23,7 @@ sautes et tu fonces dans un ballon géant pour marquer dans le but adverse.
 Le jeu est célèbre pour ses duels aériens rapides et son moteur physique
 spectaculaire.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Maîtriser les commandes de base :** deviens à l’aise avec

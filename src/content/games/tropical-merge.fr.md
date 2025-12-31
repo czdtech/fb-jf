@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Fusionne des objets par groupes de 3 ou 5 pour améliorer les ressources, dissiper le brouillard et débloquer des îles. Les quêtes guident ta progression ; l'énergie et l'espace limité récompensent la planification plutôt que les fusions à l'aveugle.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  Privilégie les fusions de 5 pour un meilleur rendement quand c'est possible.

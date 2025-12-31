@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Zombie Hunter: Survival est un shooter de survie. Déplace-toi dans des arènes exiguës, gère les munitions et les temps de rechargement, et trace des chemins de kiting sûrs pendant que les vagues croissantes mettent à l'épreuve ton positionnement et ta gestion des foules.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Kite en cercle :** Cours en larges cercles pour regrouper les zombies et tire dans les tas.

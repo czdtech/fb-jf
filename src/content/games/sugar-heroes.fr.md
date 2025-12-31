@@ -21,6 +21,7 @@ animés. Tes objectifs peuvent aller de la suppression de gelées à la collecte
 d’ingrédients, avec des niveaux de plus en plus denses en blocs et obstacles.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégie de jeu
 
 1. **Joue pour l’objectif :** priorise la destruction des bloqueurs ou la

@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Tile Journey est un jeu de puzzle moderne et relaxant qui met à l'épreuve ta réflexion stratégique. L'objectif est de vider un plateau empilé de tuiles variées en sélectionnant trois tuiles identiques. Contrairement aux jeux match-3 traditionnels, tu ne permutes pas les tuiles. Tu les sélectionnes et les déplaces vers un plateau de collection à capacité limitée en bas de l'écran. Quand trois tuiles identiques sont dans le plateau, elles sont effacées. Tu dois planifier tes coups pour vider le plateau sans remplir le plateau de collection.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **La règle d'or :** Le plateau de collection est limité (généralement à sept emplacements). Si tu le remplis complètement sans faire de match, tu perds. Chaque coup doit être fait avec ça en tête.

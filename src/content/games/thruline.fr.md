@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Thruline te demande de tracer un chemin continu qui visite tous les noeuds requis tout en obeissant aux regles sur les virages, croisements et couverture. Les grilles avancees ajoutent des portes, ponts et astuces de parite qui recompensent le placement precoce des goulots d etranglement.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Goulots d abord :** Revendique les couloirs etroits avant qu ils ne se ferment.

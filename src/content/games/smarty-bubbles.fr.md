@@ -19,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Smarty Bubbles est un bubble shooter très soigné et extrêmement addictif qui offre une expérience classique pure. Le but est de vider le plateau de ses bulles colorées en tirant et en les faisant correspondre. Oriente ton canon, tire une bulle, et si tu touches un groupe de trois bulles ou plus de la même couleur, elles éclatent. Le jeu te met au défi de nettoyer le plateau efficacement, car les tirs ratés font descendre le plafond, ce qui ajoute de la pression à ce puzzle pourtant relaxant.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Limiter les tirs ratés :** c'est la règle d'or de Smarty Bubbles. Après un certain nombre de tirs qui n'éclatent aucune bulle, une nouvelle rangée descend du haut. Surveille l'indicateur (souvent une rangée de bulles grises) qui montre combien d'erreurs il te reste.

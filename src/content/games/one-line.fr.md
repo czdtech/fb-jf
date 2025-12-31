@@ -21,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 One Line reprend le principe du dessin d'un seul trait : chaque niveau présente une figure géométrique faite de segments et de points d'intersection. Ton but est de tracer la figure entière en un mouvement continu, sans repasser deux fois sur le même segment. C'est simple à comprendre, mais les figures compliquées demandent une vraie gymnastique mentale.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Stratégies de jeu et progression
 
 1.  **Analyser la figure :** repère les points très connectés et ceux qui semblent « en bout de chaîne ».

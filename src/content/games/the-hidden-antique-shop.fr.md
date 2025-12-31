@@ -23,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Explore une boutique vintage pleine de curiosites : trouve des objets caches, fais correspondre des silhouettes et resous des serrures simples pour ouvrir de nouvelles etageres. Des chronometre doux et des indices rendent le jeu accessible tout en recompensant l observation attentive.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Balayage par grille :** Divise les scenes et scanne zone par zone.

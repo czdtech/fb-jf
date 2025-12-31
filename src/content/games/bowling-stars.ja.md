@@ -1,13 +1,15 @@
 ---
-title: "Bowling Stars ボウリング・スターズ"
-description: "「Bowling Stars」で本格的な10ピンボウリングをブラウザで体験。レーンのオイルを読み、角度を決め、ストライクを連発しよう。"
-iframeSrc: "https://0pst60kfu8pi8.h5games.usercontent.goog/v/249kviafiu6co/"
+title: Bowling Stars ボウリング・スターズ
+description: 「Bowling Stars」で本格的な10ピンボウリングをブラウザで体験。レーンのオイルを読み、角度を決め、ストライクを連発しよう。
+iframeSrc: 'https://0pst60kfu8pi8.h5games.usercontent.goog/v/249kviafiu6co/'
 thumbnail: /new-images/thumbnails/bowling-stars.png
-urlstr: "bowling-stars"
-score: "4.0/5  (1743 votes)"
-tags: ["sports", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: bowling-stars
+score: 4.0/5  (1743 votes)
+tags:
+  - sports
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 *Bowling Stars*は、狙い（エイム）、パワー、そしてフック（カーブ）のコントロールが楽しめるカジュアルな10ピンボウリングシミュレーションです。ハイスコアの鍵は「安定性」と「スペアの処理」です。リリースのタイミングを調整し、レーンの挙動に合わせてストライクを積み重ねましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **ポケットヒット：** 右利きの場合は1番ピンと3番ピンの間、左利きの場合は1番と2番の間（ポケットと呼ばれる場所）を狙いましょう。

@@ -1,13 +1,17 @@
 ---
-title: "Big Shot Boxing ビッグショット・ボクシング"
-description: "「Big Shot Boxing」で伝説のチャンピオンを目指せ！ストリートファイトから世界王者へ。レトロスタイルの熱いボクシングゲームの攻略法、トレーニング戦略、操作テクニックを完全解説。"
-iframeSrc: "https://rebemanae.github.io/big-shot-boxing/"
+title: Big Shot Boxing ビッグショット・ボクシング
+description: >-
+  「Big Shot
+  Boxing」で伝説のチャンピオンを目指せ！ストリートファイトから世界王者へ。レトロスタイルの熱いボクシングゲームの攻略法、トレーニング戦略、操作テクニックを完全解説。
+iframeSrc: 'https://rebemanae.github.io/big-shot-boxing/'
 thumbnail: /new-images/thumbnails/big-shot-boxing.jpg
-urlstr: "big-shot-boxing"
-score: "4.8/5  (1401 votes)"
-tags: ["sports", "action"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: big-shot-boxing
+score: 4.8/5  (1401 votes)
+tags:
+  - sports
+  - action
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +23,7 @@ locale: ja
 ゲームの核となるのは、試合だけでなく「ボクサーの育成」です。試合で稼いだ賞金を使ってトレーニングを行い、「パワー」「スピード」「チン（打たれ強さ）」といった能力値を強化します。勝ち進むたびに、それぞれ異なるファイトスタイルや能力を持つ強敵が現れます。簡単操作で誰でもすぐに楽しめますが、すべての対戦相手を倒してベルトを勝ち取るには、高度なテクニックと戦略が求められます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 -   **忍耐と防御が鍵:** 何も考えずにパンチを連打してはいけません。スタミナがすぐに尽きてしまい、カウンターの餌食になります。「ガード」をしっかり固め、相手のコンボが終わるのを待ちましょう。相手が打ち疲れた一瞬の隙こそが反撃のチャンスです。

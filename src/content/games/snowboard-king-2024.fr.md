@@ -19,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Snowboard King 2024 est un jeu d'arcade à haute intensité dans lequel tu dévales une montagne sans fin sur ton snowboard. Ton objectif principal est de survivre le plus longtemps possible en évitant les obstacles (arbres, rochers, blocs de glace…) tout en étant poursuivi par une avalanche qui te talonne. Tu dois conserver ta vitesse, réagir vite et ramasser des pièces pour améliorer les compétences de ton rider entre deux runs.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Regarder loin devant :** la clé d'une longue descente, c'est l'anticipation. Garde les yeux fixés loin sur la pente pour repérer les obstacles et préparer ta trajectoire.

@@ -9,7 +9,7 @@ tags:
   - super sprunki brasil
   - super sprunki brasil online
 score: 4.3/5  (380 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Présentation de Super Sprunki Brasil
@@ -35,6 +35,7 @@ Le gameplay est très simple, maîtrise les points suivants et tu pourras aussi 
  
 ---
  
+<!-- i18n:section:tips -->
 ### Astuces pour Super Sprunki Brasil :
  
  - **Explore les rythmes brésiliens :** concentre-toi sur l'incorporation de rythmes et instruments traditionnels brésiliens pour un ressenti authentique.

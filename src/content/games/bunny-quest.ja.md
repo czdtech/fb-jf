@@ -1,13 +1,15 @@
 ---
-title: "Bunny Quest バニー・クエスト"
-description: "「Bunny Quest」はスライドパズルで道を作る冒険。タイルを動かし、ルートを繋げ、ウサギをゴールまで導こう。ニンジンを集めてハイスコアを目指せ。"
-iframeSrc: "https://630h8fcg3e938.h5games.usercontent.goog/v/51qfd4fr90dro/"
+title: Bunny Quest バニー・クエスト
+description: 「Bunny Quest」はスライドパズルで道を作る冒険。タイルを動かし、ルートを繋げ、ウサギをゴールまで導こう。ニンジンを集めてハイスコアを目指せ。
+iframeSrc: 'https://630h8fcg3e938.h5games.usercontent.goog/v/51qfd4fr90dro/'
 thumbnail: /new-images/thumbnails/bunny-quest.png
-urlstr: "bunny-quest"
-score: "4.1/5  (1881 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: bunny-quest
+score: 4.1/5  (1881 votes)
+tags:
+  - puzzle
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 *Bunny Quest（バニー・クエスト）*は、スライドパズルの要領で道を作るパズルゲームです。バラバラに配置された道のタイルをスライドさせて並べ替え、スタート地点からゴール地点まで繋がる一本のルートを作りましょう。ウサギが安全に通り抜けられるようにするのが目的です。ステージが進むと手数制限が厳しくなり、より効率的な配置が求められます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **大枠を作る:** まずはスタートとゴール、そして曲がり角（コーナー）や直線のタイルを使って、メインとなるルートの概略をイメージしましょう。

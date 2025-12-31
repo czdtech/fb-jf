@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Zombie Ragdoll est un puzzle shooter où tu lances des ragdolls pour déclencher des leviers, toucher des explosifs et faire s'effondrer des structures. Maîtriser les angles de tir et l'enchaînement des pièges offre des éliminations en chaîne très satisfaisantes.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  Le premier tir sert à repérer la physique ; ajuste l'angle et la puissance après observation.

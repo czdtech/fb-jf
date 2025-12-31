@@ -1,13 +1,15 @@
 ---
-title: "Doodle Baseball ドゥードゥル・ベースボール"
-description: "「Doodle Baseball」の完全ガイド。魅力的でシンプルなタイミング勝負の野球ゲーム。ホームランのコツ、操作方法、そしてよくある質問への答えを網羅。"
-iframeSrc: "https://freeonlinegames.github.io/fourth-of-july-2019.html"
+title: Doodle Baseball ドゥードゥル・ベースボール
+description: 「Doodle Baseball」の完全ガイド。魅力的でシンプルなタイミング勝負の野球ゲーム。ホームランのコツ、操作方法、そしてよくある質問への答えを網羅。
+iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
 thumbnail: /new-images/thumbnails/baseball.jpg
-urlstr: "baseball"
-score: "4.4/5  (525 votes)"
-tags: ["casual", "sports"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: baseball
+score: 4.4/5  (525 votes)
+tags:
+  - casual
+  - sports
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +21,7 @@ locale: ja
 目的は単純明快。ピッチャーが投げるボールを打ち返し、できるだけ多くのラン（得点）を稼ぐことです。ゲームプレイは完全に「バッティング」に特化しています。守備や走塁の操作は不要で、打球の質によって自動的に判定されます。難しいのは、敵チームが投げてくる多彩な変化球です。ゲームが進むにつれて、速球（ストレート）、カーブ、そしてタイミングを外すスローボールなどが織り交ぜられ、一振りごとの瞬時の判断が求められます。3回ストライク（三振）を取られるとゲームオーバー。目指すは自己ベストのハイスコアです。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 ボタン一つで遊べるシンプルさですが、極めるには集中力とタイミングが必要です。

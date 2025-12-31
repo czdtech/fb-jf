@@ -1,17 +1,15 @@
 ---
 locale: fr
 urlstr: stars-aligned
-title: 'Stars Aligned'
-description: >-
-  Stars Aligned est un puzzle relaxant de constellations : fais pivoter les
-  fragments, aligne les segments et complète les motifs d’étoiles.
+title: Stars Aligned
+description: "Stars Aligned est un puzzle relaxant de constellations\_: fais pivoter les fragments, aligne les segments et complète les motifs d’étoiles."
 iframeSrc: 'https://starsaligned.h5games.usercontent.goog/v/3i88p78sohtig/'
 thumbnail: /new-images/thumbnails/stars-aligned.jpg
 tags:
   - puzzle
   - thinky
   - casual
-score: "4.4/5  (2183 votes)"
+score: 4.4/5  (2183 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
@@ -25,6 +23,7 @@ avancés ajoutent davantage de fragments et des rotations très subtiles qui
 demandent une attention particulière.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies et solutions
 
 1. **Commence par les évidences :** repère d’abord les segments qui s’emboîtent

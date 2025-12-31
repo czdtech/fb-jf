@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Word Search est un jeu de puzzle de mots classique et adoré. L'objectif est de trouver et marquer tous les mots cachés dans une grille de lettres. Une liste de mots est fournie, et tu dois scanner la grille pour les localiser. Les mots peuvent être placés horizontalement, verticalement ou en diagonale, et peuvent être épelés à l'endroit ou à l'envers, créant un défi amusant pour tes capacités d'observation.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Balaye systématiquement :** Ne regarde pas au hasard. Parcours la grille ligne par ligne, à l'endroit et à l'envers, pour repérer la première lettre d'un mot de ta liste. Fais de même pour chaque colonne.

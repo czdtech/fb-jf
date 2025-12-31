@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Om Nom Bubbles est un bubble shooter classique mettant en vedette le célèbre Om Nom de Cut the Rope. Tu dois viser et tirer des bulles colorées pour former des groupes de trois ou plus et ainsi les faire éclater. Un bon usage des rebonds sur les murs, une gestion intelligente des couleurs et un minimum de coups gaspillés sont essentiels pour empêcher le plafond de descendre trop bas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Cibler les points d'ancrage :** supprime en priorité les bulles qui soutiennent de grandes grappes ; faire tomber un bloc entier est bien plus rentable que de petites séries.

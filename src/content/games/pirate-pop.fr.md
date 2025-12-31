@@ -10,7 +10,7 @@ tags:
   - casual
 score: 4.3/5  (2100 votes)
 developer: ''
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -19,6 +19,7 @@ releaseDate: 2025-10-17
 Pirate Pop est un jeu de bubble shooter amusant et addictif avec un thème pirate flamboyant. Ton objectif est de nettoyer l'écran des bulles colorées en tirant avec ton canon et en alignant trois bulles ou plus de la même couleur. Vise soigneusement, utilise les murs pour faire des tirs rebondis difficiles, et crée de grandes réactions en chaîne pour faire tomber de gros amas de bulles et réclamer le trésor pirate !
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Viser haut pour de grosses chutes :** la façon la plus efficace de marquer gros est de faire éclater un groupe de bulles qui supporte d'autres bulles en dessous. Cela provoquera une énorme avalanche, nettoyant une grande partie du plateau d'un coup et te rapportant des points de combo massifs.

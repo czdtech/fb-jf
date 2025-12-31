@@ -1,13 +1,18 @@
 ---
-title: "Butterfly Shimai バタフライ姉妹"
-description: "「Butterfly Shimai」は美しい蝶のパズルアドベンチャー！同じ羽根をつなげて、蝶を大空へ羽ばたかせよう。リラックスしながら楽しめる二角取りパズル。"
-iframeSrc: "https://1pq2qond4eka0.h5games.usercontent.goog/v/4oiv5e7dd7vd8/"
+title: Butterfly Shimai バタフライ姉妹
+description: >-
+  「Butterfly
+  Shimai」は美しい蝶のパズルアドベンチャー！同じ羽根をつなげて、蝶を大空へ羽ばたかせよう。リラックスしながら楽しめる二角取りパズル。
+iframeSrc: 'https://1pq2qond4eka0.h5games.usercontent.goog/v/4oiv5e7dd7vd8/'
 thumbnail: /new-images/thumbnails/butterfly-shimai.png
-urlstr: "butterfly-shimai"
-score: "4.6/5  (2100 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: butterfly-shimai
+score: 4.6/5  (2100 votes)
+tags:
+  - puzzle
+  - casual
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -20,6 +25,7 @@ locale: ja
 このゲームのルールはシンプルですが奥が深いです。ペアをつなぐ線が「2回以内の屈折（曲がり角）」で結べる場合のみ、消すことができます。他の羽根が邪魔しているとつなげません。制限時間内にすべての蝶を解放してあげましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **隣り合うペアを探す:** 最も簡単なマッチは、隣り合っている同じ羽根や、一直線で結べるペアです。まずはこれらを消してスペースを空けましょう。

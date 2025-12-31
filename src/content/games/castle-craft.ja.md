@@ -1,13 +1,16 @@
 ---
-title: "Castle Craft キャッスル・クラフト"
-description: "「Castle Craft」でマージ（合成）して王国を築くパズル。アイテムを合体させて資源を集め、クエストをこなし、霧を晴らしながら土地を広げましょう。"
-iframeSrc: "https://1hjdl8ff4msl0.h5games.usercontent.goog/v/2mn9n3pfbrrtg/"
+title: Castle Craft キャッスル・クラフト
+description: 「Castle Craft」でマージ（合成）して王国を築くパズル。アイテムを合体させて資源を集め、クエストをこなし、霧を晴らしながら土地を広げましょう。
+iframeSrc: 'https://1hjdl8ff4msl0.h5games.usercontent.goog/v/2mn9n3pfbrrtg/'
 thumbnail: /new-images/thumbnails/castle-craft.png
-urlstr: "castle-craft"
-score: "4.3/5  (2104 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: castle-craft
+score: 4.3/5  (2104 votes)
+tags:
+  - puzzle
+  - casual
+  - thinky
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +22,7 @@ locale: ja
 小麦、木材、石材などの資源を戦略的に合成して、クエストを達成し、コインを稼ぎましょう。集めた鍵で霧を晴らせば新しい領土がアンロックされ、あなたの帝国はどんどん広がり、繁栄していきます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **「5つマージ」を意識する:** 3つで合成するのが基本ですが、**同じアイテムを5つまとめて合成**するように心がけましょう。3つ合成だと上位アイテムが1つですが、5つ合成だと上位アイテムが「2つ」手に入ります（ボーナスで1つおまけ）。これは効率が段違いに良いので必須テクニックです。

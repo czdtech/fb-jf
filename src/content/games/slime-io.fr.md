@@ -18,6 +18,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Slime.io est un jeu d'arcade 3D chaotique et extrêmement satisfaisant du genre « .io ». Tu contrôles un petit slime dans une ville animée avec un seul objectif : devenir le plus gros. Pour y arriver, glisse sur la carte et absorbe tout ce qui est plus petit que toi — des lampadaires et voitures jusqu'aux immeubles entiers. Affronte les autres joueurs, avale les plus petits et fuis les géants pour dominer le classement avant la fin du temps imparti.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Commencer petit :** au début, tu es minuscule et vulnérable. Concentre‑toi sur les petits objets (piétons, clôtures, bancs…) pour grossir rapidement et en sécurité.

@@ -1,13 +1,17 @@
 ---
-title: "Billiard Hustlers ビリヤード・ハスラー"
-description: "「Billiard Hustlers」でビリヤードの基礎から応用までマスターしよう。狙いを定め、スピンを操り、手球を完璧にコントロールしてテーブルを支配せよ。"
-iframeSrc: "https://75hivpjsm2230.h5games.usercontent.goog/v/04igpiqnom6k0/"
+title: Billiard Hustlers ビリヤード・ハスラー
+description: >-
+  「Billiard
+  Hustlers」でビリヤードの基礎から応用までマスターしよう。狙いを定め、スピンを操り、手球を完璧にコントロールしてテーブルを支配せよ。
+iframeSrc: 'https://75hivpjsm2230.h5games.usercontent.goog/v/04igpiqnom6k0/'
 thumbnail: /new-images/thumbnails/billiard-hustlers.jpg
-urlstr: "billiard-hustlers"
-score: "4.2/5  (2217 votes)"
-tags: ["sports", "pool"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: billiard-hustlers
+score: 4.2/5  (2217 votes)
+tags:
+  - sports
+  - pool
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +21,7 @@ locale: ja
 *Billiard Hustlers（ビリヤード・ハスラー）*は、狙い、スピン（回転）、そして手球（キューボール）のコントロールを重視した、本格的なビリヤードシミュレーターです。8ボール、9ボール、あるいはシンプルなポットチャレンジ（球入れ）など、どのルールで遊んでも基本は同じです。「的球（オブジェクトボール）をポケットに入れつつ、次のショットが打ちやすい場所に手球を止めること」です。滑りの良いラシャ（テーブルクロス）と反応の良いテーブルが、正確な力加減と繊細なひねり（イングリッシュ）を使ったコース取りを可能にします。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **出し（ポジションプレー）を事前に計画する：** ショットを打つ前に、手球を次のショットのためにどこに止めたいか必ず決めましょう。

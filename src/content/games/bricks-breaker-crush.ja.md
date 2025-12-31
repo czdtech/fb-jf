@@ -1,13 +1,16 @@
 ---
-title: "Bricks Breaker Crush ブリックス・ブレイカー・クラッシュ"
-description: "「Bricks Breaker Crush」は大量のボールを降らせてブロックを削る爽快パズル。角度を計算し、ボールを増やし、壁が底につく前に粉砕しよう。"
-iframeSrc: "https://7uvo1rchfrhr8.h5games.usercontent.goog/v/4tk6unop5lefg/"
+title: Bricks Breaker Crush ブリックス・ブレイカー・クラッシュ
+description: 「Bricks Breaker Crush」は大量のボールを降らせてブロックを削る爽快パズル。角度を計算し、ボールを増やし、壁が底につく前に粉砕しよう。
+iframeSrc: 'https://7uvo1rchfrhr8.h5games.usercontent.goog/v/4tk6unop5lefg/'
 thumbnail: /new-images/thumbnails/bricks-breaker-crush.png
-urlstr: "bricks-breaker-crush"
-score: "4.0/5  (1906 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: bricks-breaker-crush
+score: 4.0/5  (1906 votes)
+tags:
+  - puzzle
+  - thinky
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +22,7 @@ locale: ja
 プレイヤーは発射角度を決め、ボールを一斉に放ちます。レンガに書かれた数字は耐久値で、ボールが当たるたびにカウントダウンし、0になると消滅します。ターンが終わるごとにレンガの壁が迫ってきます。いかにボールを隙間に「流し込み」、壁とレンガの間で何度も反射（リコシェ）させてダメージを稼ぐかが攻略の鍵です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 1.  **浅い角度を狙う：** 真正面から当てるよりも、水平に近い浅い角度で壁や天井に反射させることで、ボールが画面内を長く飛び回り、より多くのヒット数を稼げます。

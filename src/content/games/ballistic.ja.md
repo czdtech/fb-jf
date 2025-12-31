@@ -1,13 +1,16 @@
 ---
-title: "Ballistic バリスティック"
-description: "「Ballistic」を完全攻略！ボールを発射してブロックを壊し、画面が埋まる前にハイスコアを目指す、中毒性抜群の物理パズルゲームの戦略とコツを紹介。"
-iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/"
+title: Ballistic バリスティック
+description: 「Ballistic」を完全攻略！ボールを発射してブロックを壊し、画面が埋まる前にハイスコアを目指す、中毒性抜群の物理パズルゲームの戦略とコツを紹介。
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/'
 thumbnail: /new-images/thumbnails/ballistic.jpg
-urlstr: "ballistic"
-score: "4.5/5  (764 votes)"
-tags: ["puzzle", "arcade", "physics"]
-developer: "Voodoo"
-releaseDate: 2025-08-16
+urlstr: ballistic
+score: 4.5/5  (764 votes)
+tags:
+  - puzzle
+  - arcade
+  - physics
+developer: Voodoo
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +22,7 @@ locale: ja
 ゲームプレイはブロック崩しとバブルシューターを組み合わせたようなものです。一度に複数のボールを発射し、それらがブロックに当たって跳ね返ることで、ブロックに書かれた数字（耐久値）を減らしていきます。各ターンの後、ブロックは一段下に降りてきます。ブロックが画面最下部の赤いラインに到達してしまうとゲームオーバーです。また、新しいボールを獲得できるアイテムも登場し、ボールの数を増やして攻撃力を上げることができます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲーム攻略と戦略
 
 ハイスコアを目指すには、常に数手先まで読んでショットを組み立てることが大切です。

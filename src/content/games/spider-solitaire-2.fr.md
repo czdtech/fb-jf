@@ -19,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Spider Solitaire est l'une des variantes de solitaire les plus connues et les plus exigeantes. Il se joue avec deux jeux complets (104 cartes). Le but est de vider le tableau en construisant huit suites complètes d'une même couleur, du Roi jusqu'à l'As. Une fois une séquence complète formée, elle est retirée du jeu. Sa difficulté et la profondeur de ses décisions en font un classique, surtout en 2 ou 4 couleurs.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Objectif :** construire huit suites dans le tableau, chacune allant du Roi à l'As dans une seule couleur. Quand une séquence K→A est complète, elle est automatiquement retirée. La partie est gagnée lorsque le tableau est vide.

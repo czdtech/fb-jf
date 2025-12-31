@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Etends un bras elastique pour voler des objets tout en esquivant les lasers, gardes et scies circulaires. Les niveaux recompensent la planification de chemin : contourne les declencheurs, exploite les fenetres de timing et retracte vite quand les dangers se reinitalisent.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Sonde le chemin :** Bouge lentement pour tester les portees des declencheurs.

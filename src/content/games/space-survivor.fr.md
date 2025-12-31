@@ -19,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Space Survivor est un roguelike de survie façon « Vampire Survivors ». Tu pilotes un vaisseau qui tire automatiquement ; ton seul vrai boulot est de te faufiler au milieu de hordes d'aliens qui ne cessent de grossir. En abattant les ennemis et en récupérant les gemmes d'XP qu'ils lâchent, tu montes de niveau et peux choisir de nouvelles armes ou améliorations puissantes. Chaque run est différente et t'invite à créer un build unique et complètement pété pour survivre le plus longtemps possible.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Priorité à la survie :** au début, l'important est de ne pas te faire toucher. Faufile‑toi dans les groupes d'ennemis et concentre‑toi sur la collecte des gemmes bleues d'expérience ; ton arme de base est faible, donc l'esquive compte plus que le kill.

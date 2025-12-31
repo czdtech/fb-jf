@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 The Jigsaw Game est une experience de puzzle numerique classique avec des images et nombres de pieces selectionnables. Travaille d'abord les bords, regroupe par couleurs/motifs, et assemble des sections avant de les joindre dans l'image finale.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Passe de bords :** Complete le cadre tot pour ancrer les groupes interieurs.

@@ -19,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Perfect Piano est un jeu de rythme rapide et engageant qui simule le piano, similaire au genre populaire « Piano Tiles ». Des notes sous forme de tuiles tombent du haut de l'écran, et tu dois les toucher au moment précis où elles atteignent la ligne du clavier en bas. Le jeu teste tes réflexes, ton timing et ton sens du rythme pendant que tu joues sur une variété de belles chansons stimulantes.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Se concentrer sur la ligne du bas :** ne regarde pas les tuiles tomber du haut. Garde tes yeux concentrés sur la ligne cible en bas de l'écran. C'est là que tu dois réagir.

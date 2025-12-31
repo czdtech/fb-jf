@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Tile Guru utilise la formule du plateau à triple match : prends des tuiles dans un plateau limité ; trois du même type s'effacent. Le puzzle est la gestion des piles — évite d'enterrer des sets dépareillés qui bloquent le plateau et forcent les impasses.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Discipline des paires :** Ne commence pas trop de sets à la fois ; résous les paires rapidement.

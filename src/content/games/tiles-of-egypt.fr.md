@@ -5,7 +5,8 @@ title: Tiles of Egypt
 description: >-
   Tiles of Egypt est un puzzle triple-tuiles theme Egypte antique : selectionne
   trois tuiles identiques non bloquees pour les effacer du plateau.
-iframeSrc: 'https://tilesofegypt.h5games.usercontent.goog/v/dd964fa3-8999-4546-a4a0-d55a0cc72248/'
+iframeSrc: >-
+  https://tilesofegypt.h5games.usercontent.goog/v/dd964fa3-8999-4546-a4a0-d55a0cc72248/
 thumbnail: /new-images/thumbnails/tiles-of-egypt.jpg
 tags:
   - puzzle
@@ -22,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Tiles of Egypt est un puzzle strategique de match de tuiles par trois avec un theme captivant d'Egypte ancienne. Le jeu te defie de vider un plateau empile de tuiles finement dessinees. Pour ce faire, tu dois selectionner trois tuiles identiques et les placer dans un plateau de collection en bas. Une fois trois tuiles correspondantes dans le plateau, elles disparaissent. L'objectif est de vider tout le plateau, mais tu dois planifier soigneusement car le plateau a un espace limite.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **La regle des trois :** Tout le jeu tourne autour du match de tuiles par sets de trois. Tu dois selectionner trois tuiles identiques pour les retirer.

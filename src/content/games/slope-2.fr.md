@@ -28,6 +28,7 @@ rouges, les trous et les virages brusques tout en gardant le contrôle.
 Cette suite conserve le cœur du gameplay d’origine mais ajoute de nouveaux
 types d’obstacles et des parcours encore plus exigeants.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Vitesse de réaction :** entraîne‑toi à réagir vite face aux obstacles

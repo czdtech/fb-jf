@@ -22,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 World's Hardest Game est un jeu d'arcade extrêmement difficile où tu contrôles un carré rouge à travers des niveaux remplis de cercles bleus en mouvement. Il exige un timing ultra-précis et une patience à toute épreuve pour éviter les obstacles et atteindre l'objectif. Ce jeu est célèbre pour sa difficulté démesurée et son gameplay simple mais terriblement frustrant.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Observe les schémas :** Avant de bouger, étudie attentivement les trajectoires et le rythme des cercles bleus.
