@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: 99-balls-3d
-title: '99 Balls 3D 99 볼즈 3D'
+title: 99 Balls 3D 99 볼즈 3D
 description: >-
-  번호가 적힌 공들을 향해 연속으로 공을 쏘아 없애는 물리 퍼즐 슈팅 게임입니다.
-  반사각을 이용해 한 번의 샷으로 최대한 많은 타격을 노려 보세요.
+  번호가 적힌 공들을 향해 연속으로 공을 쏘아 없애는 물리 퍼즐 슈팅 게임입니다. 반사각을 이용해 한 번의 샷으로 최대한 많은 타격을 노려
+  보세요.
 iframeSrc: 'https://99balls3d.h5games.usercontent.goog/v/0b35ksethbio8/'
 thumbnail: /new-images/thumbnails/99-balls-3d.jpeg
 tags:
@@ -25,6 +25,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 횟수로 맞추는 것이 관건입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략 팁
 
 1.  **뱅크샷 숙달하기:** 한 공만 향해 직선으로 쏘기보다는, 벽과 다른 공에 여러

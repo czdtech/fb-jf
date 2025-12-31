@@ -29,6 +29,7 @@ Super Sprunki Brasilは、ブラジルの音楽と文化をSprunkiシリーズ�
  - **文化的融合：** Sprunkiの遊び方にブラジル風の要素が加わり、いつもと違う音作りができます
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### ゲームプレイ
 
  - 音アイコンを選び、キャラクターにドラッグ＆ドロップして音を鳴らします

@@ -1,13 +1,16 @@
 ---
-title: "Rampage Road"
-description: "Rampage Roadは破壊要素のあるレーシングゲームです。車を運転して障害物を壊し、スコアを稼ぎます。"
-iframeSrc: "https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/"
+title: Rampage Road
+description: Rampage Roadは破壊要素のあるレーシングゲームです。車を運転して障害物を壊し、スコアを稼ぎます。
+iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
 thumbnail: /new-images/thumbnails/rampage-road.png
-urlstr: "rampage-road"
-score: "3.9/5  (1753 votes)"
-tags: ["action", "racing", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: rampage-road
+score: 3.9/5  (1753 votes)
+tags:
+  - action
+  - racing
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Rampage Roadは、レーシングと破壊を組み合わせたゲームです。車を運転して障害物を壊しながら進み、ポイントを獲得します。車をアップグレードして、より効率よくスコアを伸ばします。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **できるだけ破壊:** 壊すほどポイントが伸びます。

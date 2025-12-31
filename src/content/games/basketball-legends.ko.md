@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: basketball-legends
-title: 'Basketball Legends 농구 레전드'
+title: Basketball Legends 농구 레전드
 description: >-
-  과장된 캐릭터와 화려한 덩크가 난무하는 아케이드 농구 게임입니다. 1:1 혹은
-  2:2로 공격·수비와 슈퍼샷 타이밍을 익혀 전설 선수들로 코트를 지배해 보세요.
+  과장된 캐릭터와 화려한 덩크가 난무하는 아케이드 농구 게임입니다. 1:1 혹은 2:2로 공격·수비와 슈퍼샷 타이밍을 익혀 전설 선수들로
+  코트를 지배해 보세요.
 iframeSrc: 'https://webglmath.github.io/basketball-legends/'
 thumbnail: /new-images/thumbnails/basketball-legends.jpg
 tags:
@@ -29,6 +29,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 혼자 도전하기에도, 친구와 한 키보드로 겨루기에도 좋은 구성이 특징입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 성공적인 플레이를 위해서는 이동, 타이밍, 그리고 특수 능력의 사용 시기를
@@ -63,6 +64,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 4.  **수비에서도 대시 활용:** 놓친 상대를 따라잡거나, 외곽 슈터에게 빠르게
     붙어 슛을 방해할 때 대시는 필수입니다.
 
+<!-- i18n:section:controls -->
 ### 조작 방법
 
 한 키보드에서 두 명이 동시에 플레이하도록 설계된 조작 체계를 사용합니다.

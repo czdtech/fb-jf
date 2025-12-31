@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: brain-trainer
-title: 'Brain Trainer 브레인 트레이너'
+title: Brain Trainer 브레인 트레이너
 description: >-
-  Brain Trainer는 다양한 미니 게임으로 기억력, 논리력, 계산 속도, 공간 지각
-  능력을 두루 시험해 보는 두뇌 트레이닝 게임입니다. 짧고 집중도 높은 퍼즐들로
-  즐겁게 머리를 깨워 보세요.
+  Brain Trainer는 다양한 미니 게임으로 기억력, 논리력, 계산 속도, 공간 지각 능력을 두루 시험해 보는 두뇌 트레이닝 게임입니다.
+  짧고 집중도 높은 퍼즐들로 즐겁게 머리를 깨워 보세요.
 iframeSrc: >-
   https://braintrainer.h5games.usercontent.goog/v/4f2ffbc6-4208-4087-bfaf-ab0db086da02/
 thumbnail: /new-images/thumbnails/brain-trainer.jpg
@@ -29,6 +28,7 @@ Brain Trainer는 여러 종류의 짧고 자극적인 미니 게임으로 인지
 어떻게 변하는지 확인하는 재미도 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 구성 & 간단 공략
 
 Brain Trainer에는 여러 유형의 미니 게임이 섞여 있습니다. 대표적인 예시는 다음과 같습니다.

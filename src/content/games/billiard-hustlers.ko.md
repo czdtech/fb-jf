@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: billiard-hustlers
-title: 'Billiard Hustlers 빌리어드 허슬러스'
+title: Billiard Hustlers 빌리어드 허슬러스
 description: >-
-  Billiard Hustlers는 에임과 회전, 수구 컨트롤에 집중한 포켓볼 게임입니다.
-  정확한 샷과 포지셔닝으로 다음 공까지 계산하며 테이블을 정리해 보세요.
+  Billiard Hustlers는 에임과 회전, 수구 컨트롤에 집중한 포켓볼 게임입니다. 정확한 샷과 포지셔닝으로 다음 공까지 계산하며
+  테이블을 정리해 보세요.
 iframeSrc: 'https://75hivpjsm2230.h5games.usercontent.goog/v/04igpiqnom6k0/'
 thumbnail: /new-images/thumbnails/billiard-hustlers.jpg
 tags:
@@ -24,6 +24,7 @@ Billiard Hustlers는 에임, 회전(스핀), 수구 컨트롤을 중점적으로
 루트를 만들기 쉬워집니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **포지션부터 계획하기:** 매 샷마다 "이번 공을 넣은 후 수구가 어디에

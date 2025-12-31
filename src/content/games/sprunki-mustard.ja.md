@@ -1,13 +1,14 @@
 ---
-title: "Sprunki Mustard - Play Sprunki Mustard Online"
-description: "Sprunki Mustardはマスタードイエロー基調の配色で遊べるModです。色味と演出で不穏な雰囲気を作りながら、音を重ねて曲を作れます。"
-iframeSrc: "https://html-classic.itch.zone/html/14281578/index.html"
+title: Sprunki Mustard - Play Sprunki Mustard Online
+description: Sprunki Mustardはマスタードイエロー基調の配色で遊べるModです。色味と演出で不穏な雰囲気を作りながら、音を重ねて曲を作れます。
+iframeSrc: 'https://html-classic.itch.zone/html/14281578/index.html'
 thumbnail: /new-images/thumbnails/sprunki-mustard.png
-urlstr: "sprunki-mustard"
-score: "3.9/5  (827 votes)"
-tags: ["sprunki mustard"]
+urlstr: sprunki-mustard
+score: 3.9/5  (827 votes)
+tags:
+  - sprunki mustard
 locale: ja
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Mustardとは何ですか？
@@ -29,6 +30,7 @@ Sprunki Mustardは、単なる色替えにとどまらないModです。キャ�
  - **ボーナスアニメーション：** 特定のサウンドの組み合わせで特別なアニメーションが解放され、ホラーテーマに深みが出ます。
  
  
+<!-- i18n:section:controls -->
 ### Sprunki Mustardの操作：
 
 Sprunki Mustardの操作はシンプルで直感的です。Incrediboxシリーズが好きな人ならすぐに馴染めます。いつも通りキャラクターを選び、ステージにドラッグして配置するだけで、このModならではの不穏な音のレイヤーが重なっていきます。

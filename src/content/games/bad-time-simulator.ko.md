@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: bad-time-simulator
-title: 'Bad Time Simulator 배드 타임 시뮬레이터'
+title: Bad Time Simulator 배드 타임 시뮬레이터
 description: >-
-  언더테일 학살 루트의 샌즈 전투를 재현한 팬메이드 게임 Bad Time Simulator
-  공략입니다. 패턴을 외우고, 정밀한 조작으로 지옥 같은 공격을 버텨 보세요.
+  언더테일 학살 루트의 샌즈 전투를 재현한 팬메이드 게임 Bad Time Simulator 공략입니다. 패턴을 외우고, 정밀한 조작으로 지옥
+  같은 공격을 버텨 보세요.
 iframeSrc: 'https://gotoanddie.github.io/c2-sans-fight/'
 thumbnail: /new-images/thumbnails/bad-time-simulator.jpg
 tags:
@@ -32,6 +32,7 @@ Bad Time Simulator는 *Undertale* 학살(Genocide) 루트에서 등장하는 샌
 "한 번도 맞지 않는" 것을 목표로 해야 합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 Bad Time Simulator를 클리어하는 핵심은 공격보다 **지구력과 암기**에

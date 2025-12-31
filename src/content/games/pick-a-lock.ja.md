@@ -1,13 +1,15 @@
 ---
-title: "Pick a Lock"
-description: "Pick a Lockはロック解除パズルです。タイミングを合わせてピンを揃え、ロックを解除します。"
-iframeSrc: "https://17ul52pgrglf0.h5games.usercontent.goog/v/5b4f1rj0on970/"
+title: Pick a Lock
+description: Pick a Lockはロック解除パズルです。タイミングを合わせてピンを揃え、ロックを解除します。
+iframeSrc: 'https://17ul52pgrglf0.h5games.usercontent.goog/v/5b4f1rj0on970/'
 thumbnail: /new-images/thumbnails/pick-a-lock.jpg
-urlstr: "pick-a-lock"
-score: "3.9/5  (1712 votes)"
-tags: ["puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: pick-a-lock
+score: 3.9/5  (1712 votes)
+tags:
+  - puzzle
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Pick a Lockは、ロックピッキング風の仕組みを使ったパズルです。ピンを正しい位置で止めるタイミングを合わせて、ロックを解除します。操作はシンプルですが、集中力が必要になります。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **タイミングを見る:** ピンが正しい位置に揃うのを待ちます。

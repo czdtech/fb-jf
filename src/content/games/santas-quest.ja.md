@@ -1,13 +1,15 @@
 ---
-title: "Santas Quest"
-description: "Santas Questはホリデー風のプラットフォームゲームです。プレゼントを集め、敵や罠を避けてゴールを目指します。"
-iframeSrc: "https://santasquest.h5games.usercontent.goog/v/737gsbva7bkqo/"
+title: Santas Quest
+description: Santas Questはホリデー風のプラットフォームゲームです。プレゼントを集め、敵や罠を避けてゴールを目指します。
+iframeSrc: 'https://santasquest.h5games.usercontent.goog/v/737gsbva7bkqo/'
 thumbnail: /new-images/thumbnails/santas-quest.png
-urlstr: "santas-quest"
-score: "3.9/5  (1688 votes)"
-tags: ["platformer", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: santas-quest
+score: 3.9/5  (1688 votes)
+tags:
+  - platformer
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Santas Questは、サンタがプレゼントを収集し、敵を避けて各レベルを完了するプラットフォームアドベンチャーです。クリスマステーマのレベルを通してジャンプし、走り、すべてのプレゼントを収集します。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **プレゼントを回収:** 余裕があれば回収してスコアを伸ばします。

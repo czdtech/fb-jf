@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: 3d-free-kick
-title: '3D Free Kick 3D 프리킥'
-description: >-
-  프리킥 상황에 집중한 축구 게임입니다. 수비벽과 골키퍼를 피해 공을 휘어 차
-  멋진 프리킥 골을 넣어 보세요.
+title: 3D Free Kick 3D 프리킥
+description: 프리킥 상황에 집중한 축구 게임입니다. 수비벽과 골키퍼를 피해 공을 휘어 차 멋진 프리킥 골을 넣어 보세요.
 iframeSrc: 'https://78b0enfiv98go.h5games.usercontent.goog/v/00acsktd29tjg/'
 thumbnail: /new-images/thumbnails/3d-free-kick.png
 tags:
@@ -23,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 정확한 조준과 섬세한 궤적 컨트롤이 요구됩니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략 팁
 
 1.  **골문 구석을 노리기:** 골키퍼가 닿기 가장 어려운 곳은 상·하단 모서리

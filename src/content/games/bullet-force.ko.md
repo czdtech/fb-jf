@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: bullet-force
-title: 'Bullet Force 불릿 포스'
+title: Bullet Force 불릿 포스
 description: >-
-  Bullet Force는 빠른 전투 템포와 다양한 무기 커스터마이징을 갖춘 현대식
-  멀티플레이 1인칭 슈팅(FPS) 게임입니다. 여러 게임 모드에서 전 세계 플레이어와
-  싸우거나, 오프라인 봇전으로 실력을 연마해 보세요.
+  Bullet Force는 빠른 전투 템포와 다양한 무기 커스터마이징을 갖춘 현대식 멀티플레이 1인칭 슈팅(FPS) 게임입니다. 여러 게임
+  모드에서 전 세계 플레이어와 싸우거나, 오프라인 봇전으로 실력을 연마해 보세요.
 iframeSrc: 'https://ubg44.github.io/BulletForce/'
 thumbnail: /new-images/thumbnails/bullet-force.jpg
 tags:
@@ -42,6 +41,7 @@ Bullet Force는 브라우저와 모바일에서 즐길 수 있는 현대식 멀�
     무기 리스트를 끝까지 돌파하는 것을 목표로 합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 -   **이동을 몸에 익히기**  

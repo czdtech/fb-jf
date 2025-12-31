@@ -1,14 +1,17 @@
 ---
-# Frontmatter: config.ts の schema に従う
-title: "Solitaire"
-description: "Solitaireは、プレイヤーが特定のシーケンスとスートでカードを配置するクラシックな一人用カードゲーム。すべてのカードをファウンデーションパイルに移動してタブローをクリアすることを目指す、この不朽のパズルゲーム。"
-iframeSrc: "https://www.edogan.us/solitaire-js/"
+title: Solitaire
+description: >-
+  Solitaireは、プレイヤーが特定のシーケンスとスートでカードを配置するクラシックな一人用カードゲーム。すべてのカードをファウンデーションパイルに移動してタブローをクリアすることを目指す、この不朽のパズルゲーム。
+iframeSrc: 'https://www.edogan.us/solitaire-js/'
 thumbnail: /new-images/thumbnails/solitaire.jpg
-urlstr: "solitaire"
-score: "4.8/5  (1242 votes)"
-tags: ["card game", "classic", "puzzle"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: solitaire
+score: 4.8/5  (1242 votes)
+tags:
+  - card game
+  - classic
+  - puzzle
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +22,7 @@ locale: ja
 
 「Solitaire」は、プレイヤーが特定のシーケンスとスートでカードを配置するクラシックな一人用カードゲームです。すべてのカードをファウンデーションパイルに移動してタブローをクリアすることを目指します。この不朽のパズルゲームは、学びやすいが戦略が必要な特性で広く人気があります。
 
+<!-- i18n:section:tips -->
 ### ゲームプレイ戦略
 
 1.  **隠されたカードを優先的に明らかにする**：隠されたカードを明らかにできるカードを優先的に移動し、利用可能な移動オプションを増やします。

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: bowling-stars
-title: 'Bowling Stars 볼링 스타즈'
+title: Bowling Stars 볼링 스타즈
 description: >-
-  Bowling Stars는 십핀 볼링을 부드러운 조작으로 즐길 수 있는 캐주얼 볼링
-  시뮬레이션 게임입니다. 레인 상태를 읽고 각도와 회전을 조절해, 스트라이크와
-  스페어를 꾸준히 이어 가 보세요.
+  Bowling Stars는 십핀 볼링을 부드러운 조작으로 즐길 수 있는 캐주얼 볼링 시뮬레이션 게임입니다. 레인 상태를 읽고 각도와 회전을
+  조절해, 스트라이크와 스페어를 꾸준히 이어 가 보세요.
 iframeSrc: 'https://0pst60kfu8pi8.h5games.usercontent.goog/v/249kviafiu6co/'
 thumbnail: /new-images/thumbnails/bowling-stars.png
 tags:
@@ -27,6 +26,7 @@ Bowling Stars는 방향, 파워, 훅(회전) 조절을 중심으로 한 십핀 �
 조금씩 각도와 회전을 조정해 자신의 루틴을 만드는 재미가 있는 게임입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **포켓을 정확히 노리기**  

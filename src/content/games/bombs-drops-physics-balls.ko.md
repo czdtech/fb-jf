@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: bombs-drops-physics-balls
-title: 'Bombs Drops Physics balls 폭탄 드롭 피직스 볼'
+title: Bombs Drops Physics balls 폭탄 드롭 피직스 볼
 description: >-
-  Bombs Drops Physics balls는 중력과 타이밍, 간단한 폭파 기믹이 어우러진
-  물리 퍼즐 게임입니다. 공이나 폭탄을 떨어뜨려 구조물을 무너뜨리고, 연쇄
-  반응을 일으켜 최소한의 드롭으로 목표를 달성해 보세요.
+  Bombs Drops Physics balls는 중력과 타이밍, 간단한 폭파 기믹이 어우러진 물리 퍼즐 게임입니다. 공이나 폭탄을 떨어뜨려
+  구조물을 무너뜨리고, 연쇄 반응을 일으켜 최소한의 드롭으로 목표를 달성해 보세요.
 iframeSrc: 'https://6nhcl6kaecsio.h5games.usercontent.goog/v/09ccnat7ptqs8/'
 thumbnail: /new-images/thumbnails/bombs-drops-physics-balls.jpg
 tags:
@@ -28,6 +27,7 @@ Bombs Drops Physics balls는 떨어지는 공과 폭탄, 그리고 중력을 활
 내는 우아한 해법**을 찾아내는 과정에서 큰 재미를 느낄 수 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **약점을 먼저 찾아보기**  

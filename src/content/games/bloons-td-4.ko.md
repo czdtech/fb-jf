@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: bloons-td-4
-title: 'Bloons TD 4 블룬스 TD 4'
+title: Bloons TD 4 블룬스 TD 4
 description: >-
-  Bloons TD 4는 분기 업그레이드, 새로운 강력한 타워, BFB 비행선 등으로
-  전략성이 한층 깊어진 고전 타워 디펜스 게임입니다. 랭크를 올리며 콘텐츠를
-  해금하고, 다양한 조합으로 최적의 수비 라인을 만들어 보세요.
+  Bloons TD 4는 분기 업그레이드, 새로운 강력한 타워, BFB 비행선 등으로 전략성이 한층 깊어진 고전 타워 디펜스 게임입니다.
+  랭크를 올리며 콘텐츠를 해금하고, 다양한 조합으로 최적의 수비 라인을 만들어 보세요.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-4.html'
 thumbnail: /new-images/thumbnails/bloons-td-4.jpg
 tags:
@@ -54,6 +53,7 @@ Bloons TD 4는 Bloons Tower Defense 시리즈가 한 단계 도약하는 전환�
     Puddle 같은 일회성 방어 수단이 도입됩니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 -   **업그레이드 방향을 먼저 계획하기**  

@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: 2048-fusion
-title: '2048 Fusion 2048 퓨전'
-description: >-
-  고전 2048 퍼즐을 현대적으로 다듬은 버전입니다. 숫자 타일을 밀어 합치며
-  2048 타일을 만들고 그 이상까지 도전해 보세요.
+title: 2048 Fusion 2048 퓨전
+description: 고전 2048 퍼즐을 현대적으로 다듬은 버전입니다. 숫자 타일을 밀어 합치며 2048 타일을 만들고 그 이상까지 도전해 보세요.
 iframeSrc: 'https://7t79nelq6lu50.h5games.usercontent.goog/v/7jm0opa5dtf00/'
 thumbnail: /new-images/thumbnails/2048-fusion.png
 tags:
@@ -25,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 무엇보다도 앞을 내다보는 전략이 중요한 게임입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략 팁
 
 1.  **코너 전략 사용하기:** 가장 널리 쓰이면서도 효과적인 전략입니다. 그리드의

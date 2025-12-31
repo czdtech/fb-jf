@@ -1,13 +1,16 @@
 ---
-title: "Space Survivor"
-description: "Space Survivorはローグライク系のサバイバルアクションです。宇宙船を操作して敵の群れを避け、経験値で武器や強化を選びながら生き残ります。"
-iframeSrc: "https://76sb7kgqtg5kg.h5games.usercontent.goog/v/5s72d5756n840/"
+title: Space Survivor
+description: Space Survivorはローグライク系のサバイバルアクションです。宇宙船を操作して敵の群れを避け、経験値で武器や強化を選びながら生き残ります。
+iframeSrc: 'https://76sb7kgqtg5kg.h5games.usercontent.goog/v/5s72d5756n840/'
 thumbnail: /new-images/thumbnails/space-survivor.png
-urlstr: "space-survivor"
-score: "4.5/5  (2900 votes)"
-tags: ["action", "shooting", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: space-survivor
+score: 4.5/5  (2900 votes)
+tags:
+  - action
+  - shooting
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,6 +21,7 @@ locale: ja
 Space Survivorは、「Vampire Survivors」系のローグライクサバイバルゲームです。自動攻撃する宇宙船を操縦し、プレイヤーは主に移動と回避で敵の群れをさばきます。敵を倒して落ちる経験値ジェムを集めるとレベルアップし、武器やアップグレードを選べます。ランごとに展開が変わるため、長く生き残るためのビルドを組み立てていきます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略とウォークスルー
 
 1.  **生存に集中：** 初期ゲームでは、最優先事項は攻撃を受けないことです。敵の群れを縫うように進み、彼らがドロップする青い経験値ジェムを集めることに集中します。初期武器は弱いので、すべてを倒そうとするよりも回避の方が重要です。

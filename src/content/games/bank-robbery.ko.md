@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: bank-robbery
-title: 'Bank Robbery 뱅크 로버리'
+title: Bank Robbery 뱅크 로버리
 description: >-
-  팀 기반 FPS Bank Robbery 2에서 경찰팀과 강도팀으로 나뉘어 은행 습격전을
-  벌이는 게임입니다. 드릴을 지키고, 진입로를 커버하며 완벽한 턴을 노려
-  보세요.
+  팀 기반 FPS Bank Robbery 2에서 경찰팀과 강도팀으로 나뉘어 은행 습격전을 벌이는 게임입니다. 드릴을 지키고, 진입로를 커버하며
+  완벽한 턴을 노려 보세요.
 iframeSrc: >-
   https://app-183971.games.s3.yandex.net/183971/l0eme2yqkthl0y8stmfuz0u8pdpux64m/index.html
 thumbnail: /new-images/thumbnails/bank-robbery.jpg
@@ -38,6 +37,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 보상으로 더 좋은 장비를 구매해 다음 판에서 우위를 점할 수 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 팀에 따라 접근 방식이 크게 달라집니다.

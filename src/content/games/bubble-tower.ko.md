@@ -28,6 +28,7 @@ Bubble Tower 3D는 고전 버블 슈터에 3D 타워 구조를 더한 변형 버
 전략이 필요합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **먼저 타워를 돌려 전체 상황 파악하기**  

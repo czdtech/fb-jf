@@ -10,7 +10,7 @@ tags:
   - 2 player
   - casual
 developer: ''
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -20,6 +20,7 @@ locale: ja
 Pocket Championsは、さまざまなファイターで戦う格闘ゲームです。キャラクターごとに技や動きが異なり、コンボや必殺技を使い分けて相手を倒します。操作はシンプルですが、距離感とタイミングが重要です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **キャラクターを学ぶ:** 各チャンピオンの移動を知ります。

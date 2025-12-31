@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: alien-hominid
-title: "Alien Hominid 에일리언 호미니드"
+title: Alien Hominid 에일리언 호미니드
 description: >-
-  Alien Hominid는 The Behemoth가 개발한 클래식 런앤건 슈팅 게임으로, 빠른 전개와
-  높은 난이도, 손그림 스타일의 아트가 특징입니다. 이 가이드는 스테이지 공략,
-  조작법, FAQ를 통해 도전적인 2D 액션을 정복하는 데 도움을 줍니다.
+  Alien Hominid는 The Behemoth가 개발한 클래식 런앤건 슈팅 게임으로, 빠른 전개와 높은 난이도, 손그림 스타일의 아트가
+  특징입니다. 이 가이드는 스테이지 공략, 조작법, FAQ를 통해 도전적인 2D 액션을 정복하는 데 도움을 줍니다.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/alien-hominid.html'
 thumbnail: /new-images/thumbnails/alien-hominid.jpg
 tags:
@@ -30,6 +29,7 @@ KGB 병사, 각종 보스를 뚫고 나가 우주선을 되찾고 탈출해야 �
 *Contra*, *Metal Slug* 같은 고전 아케이드 슈팅에서 영감을 받아, 한 방에 죽는 높은
 난이도와 끊임없이 쏟아지는 적, 패턴 암기가 필요한 보스전으로 구성됩니다.
 
+<!-- i18n:section:how-to-play -->
 ### 공략 & 진행 팁
 
 Alien Hominid는 악명 높을 정도로 어렵습니다. 성공을 위해서는 빠른 반사신경,
@@ -45,6 +45,7 @@ Alien Hominid는 악명 높을 정도로 어렵습니다. 성공을 위해서는
 - **근접 공격도 활용:** 가까운 거리에서는 칼 공격이 의외로 강력합니다. 사방에서 적이 몰려올 때 한 번에 공간을 정리할 수 있습니다.
 - **수류탄 아끼기:** 수류탄은 광역 피해가 크므로 적이 몰렸을 때나 보스에게 큰 피해를 주고 싶을 때를 위해 아껴 두세요.
 
+<!-- i18n:section:tips -->
 #### 3. 전투 전반 팁
 - **차지 샷:** 공격 버튼을 누르고 있으면 관통력이 강한 차지 샷을 쏠 수 있지만 그동안은 움직일 수 없으니 안전한 타이밍에만 사용하세요.
 - **위협 우선 정리:** 연발 사격이나 투사체를 쓰는 적처럼 위험도가 높은 목표부터 먼저 제거해야 회피 난도가 급격히 오르지 않습니다.

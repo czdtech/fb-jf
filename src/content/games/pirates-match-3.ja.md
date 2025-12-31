@@ -1,7 +1,8 @@
 ---
 title: Pirates Match 3
 description: Pirates Match 3は海賊テーマのマッチ3パズルです。宝石をそろえて消し、パワーアップを作りながら目標達成を目指します。
-iframeSrc: 'https://piratesmatch3.h5games.usercontent.goog/v/fea2f25f-a39a-4273-93c1-38f8f9bd8260/'
+iframeSrc: >-
+  https://piratesmatch3.h5games.usercontent.goog/v/fea2f25f-a39a-4273-93c1-38f8f9bd8260/
 thumbnail: /new-images/thumbnails/pirates-match-3.jpg
 urlstr: pirates-match-3
 score: 4.3/5  (2150 votes)
@@ -19,6 +20,7 @@ locale: ja
 Pirates Match 3は、海賊の冒険をテーマにしたマッチ3パズルです。3つ以上の同じ宝石をマッチしてポップし、パワーアップを作成し、レベル目標を完了します。カラフルなグラフィックと海賊テーマ。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **目標に焦点を当てる:** 各レベルには特定の目標があります。

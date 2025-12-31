@@ -28,6 +28,7 @@ Bubble Shooter HD는 남녀노소 누구나 쉽게 즐길 수 있는 고전 버�
 적합합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **조준선(가이드라인)을 적극 활용하기**  

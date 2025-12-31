@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: categories
-title: 'Categories 카테고리즈'
+title: Categories 카테고리즈
 description: >-
-  Categories는 제시된 단어·아이템들을 공통 주제별로 묶어 나가는 분류 퍼즐 게임입니다.
-  제한 시간 안에 공통점을 찾아 그룹을 만들고, 헷갈리는 미끼 단어를 가려 내 보세요.
+  Categories는 제시된 단어·아이템들을 공통 주제별로 묶어 나가는 분류 퍼즐 게임입니다. 제한 시간 안에 공통점을 찾아 그룹을 만들고,
+  헷갈리는 미끼 단어를 가려 내 보세요.
 iframeSrc: 'https://1ssgr48qrfod0.h5games.usercontent.goog/v/20nv9be906iho/'
 thumbnail: /new-images/thumbnails/categories.png
 tags:
@@ -27,6 +27,7 @@ Categories는 여러 개의 단어 혹은 아이템을 보고, 이들을 공통 
 동시에 요구됩니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **가장 분명한 그룹부터 확정하기**  

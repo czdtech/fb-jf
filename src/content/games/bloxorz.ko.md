@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: bloxorz
-title: 'Bloxorz Magic 블록소르즈 매직'
+title: Bloxorz Magic 블록소르즈 매직
 description: >-
-  직사각형 블록을 굴려 스테이지 끝의 구멍까지 보내는 3D 퍼즐 게임 Bloxorz
-  Magic입니다. 떨어지기 쉬운 발판과 각종 스위치, 블록 분할 기믹을 이용해
-  정교하게 굴려 나가야 하는 두뇌 풀가동 퍼즐을 즐겨 보세요.
+  직사각형 블록을 굴려 스테이지 끝의 구멍까지 보내는 3D 퍼즐 게임 Bloxorz Magic입니다. 떨어지기 쉬운 발판과 각종 스위치, 블록
+  분할 기믹을 이용해 정교하게 굴려 나가야 하는 두뇌 풀가동 퍼즐을 즐겨 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/bloxorz.html'
 thumbnail: /new-images/thumbnails/bloxorz.jpg
 tags:
@@ -42,6 +41,7 @@ Bloxorz는 1x2x1 크기의 직사각형 블록을 조작해 공중에 떠 있는
         블록이 두 개의 작은 1x1 큐브로 분할됩니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 -   **충분히 생각하고 굴리기**  

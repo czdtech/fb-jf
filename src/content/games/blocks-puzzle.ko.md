@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: blocks-puzzle
-title: 'Blocks Puzzle 블록 퍼즐'
-description: >-
-  Blocks Puzzle는 10x10 격자에 다양한 모양의 블록을 끼워 넣으며 높은 점수를
-  노리는 고전 퍼즐 게임입니다.
+title: Blocks Puzzle 블록 퍼즐
+description: Blocks Puzzle는 10x10 격자에 다양한 모양의 블록을 끼워 넣으며 높은 점수를 노리는 고전 퍼즐 게임입니다.
 iframeSrc: 'https://6ljls661l4lkg.h5games.usercontent.goog/v/1mil2011qbul0/'
 thumbnail: /new-images/thumbnails/blocks-puzzle.jpg
 tags:
@@ -28,6 +26,7 @@ Blocks Puzzle는 직관적이면서도 깊이 있게 즐길 수 있는 고전 �
 한 수 한 수 신중하게 두어 최고 점수를 노려 보세요.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **미리 계획하며 배치하기**  

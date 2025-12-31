@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: bubble-shooter
-title: 'Bubble Shooter 버블 슈터'
+title: Bubble Shooter 버블 슈터
 description: >-
-  Bubble Shooter는 같은 색 버블을 3개 이상 맞춰 화면을 비워 나가는 고전 퍼즐
-  게임입니다. 조준을 잘 잡고 벽 반사를 활용해, 한 번에 큰 덩어리를 떨어뜨리며
-  높은 점수에 도전해 보세요.
+  Bubble Shooter는 같은 색 버블을 3개 이상 맞춰 화면을 비워 나가는 고전 퍼즐 게임입니다. 조준을 잘 잡고 벽 반사를 활용해,
+  한 번에 큰 덩어리를 떨어뜨리며 높은 점수에 도전해 보세요.
 iframeSrc: 'https://www.bubbleshooter-new.com/'
 thumbnail: /new-images/thumbnails/bubble-shooter.jpg
 tags:
@@ -30,6 +29,7 @@ Bubble Shooter는 단순하면서도 중독성이 강한 대표 버블 퍼즐 �
 강해지는 구조입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 -   **높은 위치의 버블을 우선 노리기**  

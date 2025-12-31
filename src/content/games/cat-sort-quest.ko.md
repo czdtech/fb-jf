@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: cat-sort-quest
-title: 'Cat Sort Quest 캣 소트 퀘스트'
+title: Cat Sort Quest 캣 소트 퀘스트
 description: >-
-  Cat Sort Quest는 여러 색 고양이들을 기둥 사이로 옮겨 색깔별로 정리하는 퍼즐
-  게임입니다. 제한된 빈 기둥을 버퍼처럼 활용해, 각 기둥에 한 가지 색 고양이만
-  남도록 깔끔하게 분류해 보세요.
+  Cat Sort Quest는 여러 색 고양이들을 기둥 사이로 옮겨 색깔별로 정리하는 퍼즐 게임입니다. 제한된 빈 기둥을 버퍼처럼 활용해, 각
+  기둥에 한 가지 색 고양이만 남도록 깔끔하게 분류해 보세요.
 iframeSrc: 'https://4ajc8tu89od7g.h5games.usercontent.goog/v/49be5kf9v96j0/'
 thumbnail: /new-images/thumbnails/cat-sort-quest.png
 tags:
@@ -29,6 +28,7 @@ Cat Sort Quest는 인기 있는 액체/공 색 정렬 퍼즐을 귀여운 고양
 필요합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **빈 기둥 하나는 가능한 오래 남겨 두기**  

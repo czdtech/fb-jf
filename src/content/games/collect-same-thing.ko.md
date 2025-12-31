@@ -27,6 +27,7 @@ Collect Same Thing는 여러 겹으로 쌓인 타일 또는 아이템들 가운�
 동시에 요구됩니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **통로부터 열어 숨은 타일 드러내기**  

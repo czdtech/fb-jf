@@ -1,13 +1,16 @@
 ---
-title: "Solitaire 2048"
-description: "Solitaire 2048は数字カードをマージして大きい数を作るパズルです。レーン管理で連鎖を狙います。"
-iframeSrc: "https://041gj41756cjg.h5games.usercontent.goog/v/7n148hti57veo/"
+title: Solitaire 2048
+description: Solitaire 2048は数字カードをマージして大きい数を作るパズルです。レーン管理で連鎖を狙います。
+iframeSrc: 'https://041gj41756cjg.h5games.usercontent.goog/v/7n148hti57veo/'
 thumbnail: /new-images/thumbnails/solitaire-2048.png
-urlstr: "solitaire-2048"
-score: "4.1/5  (1961 votes)"
-tags: ["card", "puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: solitaire-2048
+score: 4.1/5  (1961 votes)
+tags:
+  - card
+  - puzzle
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,6 +21,7 @@ locale: ja
 Solitaire 2048は、2048系のマージロジックをカード配置で遊ぶパズルです。カード（2、4、8…）を列に置き、隣接する同じ値を次の値へマージします。マージが連鎖して詰まるのではなく、スペースを作れるように順番を組み立てるのがコツです。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略とウォークスルー
 
 1.  アンカー列：最高値は中央寄りに置き、マージの自由度を確保します。

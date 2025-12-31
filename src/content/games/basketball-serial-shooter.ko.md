@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: basketball-serial-shooter
-title: 'Basketball serial shooter 농구 시리얼 슈터'
+title: Basketball serial shooter 농구 시리얼 슈터
 description: >-
-  연속 슛으로 점수를 겨루는 농구 스코어 어택 게임입니다. 포물선을 안정적으로
-  잡고 리듬을 유지해, 움직이는 골대와 바람 속에서도 연속 스윗스팟을 노려
-  보세요.
+  연속 슛으로 점수를 겨루는 농구 스코어 어택 게임입니다. 포물선을 안정적으로 잡고 리듬을 유지해, 움직이는 골대와 바람 속에서도 연속
+  스윗스팟을 노려 보세요.
 iframeSrc: 'https://41d3mmm660u50.h5games.usercontent.goog/v/1t2n5uvjnbv1o/'
 thumbnail: /new-images/thumbnails/basketball-serial-shooter.jpg
 tags:
@@ -24,6 +23,7 @@ Basketball serial shooter는 짧은 시간 안에 가능한 한 많은 골을 �
 할수록 높은 점수를 노릴 수 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **반복 가능한 폼 만들기:** 커서 위치와 드래그 길이를 일정하게 유지해, 매번

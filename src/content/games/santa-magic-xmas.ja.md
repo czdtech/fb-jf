@@ -9,7 +9,7 @@ tags:
   - casual
   - adventure
 developer: ''
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +19,7 @@ locale: ja
 Santa Magic Xmasは、サンタが魔法を使ってプレゼントを配達するホリデーアドベンチャーです。障害物を避けながら進み、時間内に配達を終えることを目指します。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **魔法を賢く使う:** 魔法は必要な場面で使います。

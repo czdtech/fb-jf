@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: basket-random
-title: 'Basket Random 배스킷 랜덤'
+title: Basket Random 배스킷 랜덤
 description: >-
-  물리 엔진으로 캐릭터가 엉뚱하게 날아다니는 1버튼 농구 게임입니다. 매 라운드
-  코트와 공, 캐릭터가 랜덤으로 바뀌는 혼돈 속에서 5점을 먼저 넣어 보세요.
+  물리 엔진으로 캐릭터가 엉뚱하게 날아다니는 1버튼 농구 게임입니다. 매 라운드 코트와 공, 캐릭터가 랜덤으로 바뀌는 혼돈 속에서 5점을 먼저
+  넣어 보세요.
 iframeSrc: >-
   https://app-197304.games.s3.yandex.net/197304/kj9rcykboy6eol5xnn250jesr7v0hoh1/index.html
 thumbnail: /new-images/thumbnails/basket-random.jpg
@@ -32,6 +32,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 반 예측 불가능한 상황에서 웃음을 주는 파티용 게임에 가깝습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 이기는 비결은 혼돈을 **통제하려 하기보다, 적당히 길들이는 것**입니다.

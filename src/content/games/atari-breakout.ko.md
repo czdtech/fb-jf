@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: atari-breakout
-title: 'Atari Breakout 아타리 브레이크아웃'
+title: Atari Breakout 아타리 브레이크아웃
 description: >-
-  고전 아케이드 게임 Atari Breakout 공략입니다. 패들을 조종해 공을 튕기며
-  벽돌을 모두 깨고, 터널 전략으로 고득점을 노려 보세요.
+  고전 아케이드 게임 Atari Breakout 공략입니다. 패들을 조종해 공을 튕기며 벽돌을 모두 깨고, 터널 전략으로 고득점을 노려
+  보세요.
 iframeSrc: >-
   https://app-184523.games.s3.yandex.net/184523/bdryh2h6iqjirujzrk3tlum0j0n28j1o/index.html
 thumbnail: /new-images/thumbnails/atari-breakout.jpg
@@ -25,11 +25,13 @@ Atari Breakout은 비디오 게임 역사에서 빠질 수 없는 고전 아케�
 모든 벽돌을 제거하면 다음 레벨로 넘어가며, 진행할수록 공의 속도가 빨라져
 반응 속도가 점점 더 중요해집니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 겉보기에는 단순하지만, 점수를 극대화하고 효율적으로 레벨을 지우기 위한
 몇 가지 핵심 전략이 있습니다.
 
+<!-- i18n:section:tips -->
 #### 1. "터널(Tunneling)" 전략
 
 가장 유명하고 강력한 전략입니다. 화면 양쪽 끝(가장 왼쪽 또는 오른쪽)에

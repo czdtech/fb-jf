@@ -1,13 +1,15 @@
 ---
-title: "Sky Tower"
-description: "Sky Towerはタワー構築ゲームです。ブロックを積み重ね、タワーを構築し、バランスを保ち、できるだけ高く構築します。"
-iframeSrc: "https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/"
+title: Sky Tower
+description: Sky Towerはタワー構築ゲームです。ブロックを積み重ね、タワーを構築し、バランスを保ち、できるだけ高く構築します。
+iframeSrc: 'https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/'
 thumbnail: /new-images/thumbnails/sky-tower.png
-urlstr: "sky-tower"
-score: "3.9/5  (1731 votes)"
-tags: ["casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: sky-tower
+score: 3.9/5  (1731 votes)
+tags:
+  - casual
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Sky Towerは、ブロックをできるだけ高く積み重ねることに挑戦します。各ブロックがスイングし、完璧にタイミングを合わせてタワーにドロップする必要があります。不完全な配置はタワーを不安定にします。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **タイミングを合わせる:** できるだけ中央に置きます。

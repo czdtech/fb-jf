@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: bonanza-shooter-bubble
-title: 'Bonanza Shooter Bubble 보난자 버블 슈터'
+title: Bonanza Shooter Bubble 보난자 버블 슈터
 description: >-
-  Bonanza Shooter Bubble은 화려한 색감이 돋보이는 클래식 버블 슈터 게임입니다.
-  각도를 계산해 버블을 쏘고, 같은 색 버블을 3개 이상 맞춰 큰 덩어리를 떨어뜨리며
-  점수를 노려 보세요.
+  Bonanza Shooter Bubble은 화려한 색감이 돋보이는 클래식 버블 슈터 게임입니다. 각도를 계산해 버블을 쏘고, 같은 색 버블을
+  3개 이상 맞춰 큰 덩어리를 떨어뜨리며 점수를 노려 보세요.
 iframeSrc: 'https://65bijcm9l375g.h5games.usercontent.goog/v/6v521t1km2i30/'
 thumbnail: /new-images/thumbnails/bonanza-shooter-bubble.jpg
 tags:
@@ -27,6 +26,7 @@ Bonanza Shooter Bubble은 넉넉한 벽 반사 판정과 시원한 콤보가 특
 짧게 즐기기에도, 기록에 도전하기에도 적합한 구성이 특징입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **뱅크 샷(벽 반사)을 적극 활용하기**  

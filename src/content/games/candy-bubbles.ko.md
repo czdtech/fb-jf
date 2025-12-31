@@ -27,6 +27,7 @@ Candy Bubbles는 알록달록한 사탕 버블로 가득한 보드를 단계별�
 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **위쪽 연결부를 우선 공략하기**  

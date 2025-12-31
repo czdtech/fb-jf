@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: bob-the-robber
-title: 'Bob the Robber 밥 더 로버'
+title: Bob the Robber 밥 더 로버
 description: >-
-  잠입과 퍼즐 요소가 결합된 2D 스텔스 게임 시리즈 Bob the Robber입니다.
-  정의감(?) 넘치는 도둑 밥이 되어 경비원을 피해 잠입하고, 카메라를 끄고,
-  금고를 털어 귀중한 전리품을 훔쳐 보세요.
+  잠입과 퍼즐 요소가 결합된 2D 스텔스 게임 시리즈 Bob the Robber입니다. 정의감(?) 넘치는 도둑 밥이 되어 경비원을 피해
+  잠입하고, 카메라를 끄고, 금고를 털어 귀중한 전리품을 훔쳐 보세요.
 iframeSrc: >-
   https://app-190385.games.s3.yandex.net/190385/i7ty94goiswe8ohxdysos1uzmur0yfwk/index.html
 thumbnail: /new-images/thumbnails/bob-the-robber.jpg
@@ -36,6 +35,7 @@ Bob the Robber는 2D 스텔스 퍼즐 플랫포머 시리즈로, 플레이어는
 것이 Bob the Robber의 재미입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 -   **인내심이 최고의 도구**  

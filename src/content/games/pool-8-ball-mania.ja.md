@@ -1,13 +1,16 @@
 ---
-title: "Pool 8 Ball Mania"
-description: "Pool 8 Ball Maniaはクラシックな8球ビリヤードです。ボールをポケットに入れ、対戦相手と競い、プールチャンピオンになります。"
-iframeSrc: "https://4i2ksm0sqbsr0.h5games.usercontent.goog/v/6fbgaukuhtvqo/"
+title: Pool 8 Ball Mania
+description: Pool 8 Ball Maniaはクラシックな8球ビリヤードです。ボールをポケットに入れ、対戦相手と競い、プールチャンピオンになります。
+iframeSrc: 'https://4i2ksm0sqbsr0.h5games.usercontent.goog/v/6fbgaukuhtvqo/'
 thumbnail: /new-images/thumbnails/pool-8-ball-mania.png
-urlstr: "pool-8-ball-mania"
-score: "4.2/5  (2059 votes)"
-tags: ["sports", "casual", "2 player"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: pool-8-ball-mania
+score: 4.2/5  (2059 votes)
+tags:
+  - sports
+  - casual
+  - 2 player
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Pool 8 Ball Maniaは、クラシックな8球ビリヤードをデジタル形式で再現します。ソリッド（1-7）またはストライプ（9-15）をポケットに入れ、次に8ボールをポケットに入れて勝ちます。正確なショットと戦略的位置決めが必要です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **ブレイクを計画:** 良いブレイクはゲームを設定します。

@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: bad-ice-cream
-title: 'Bad Ice-Cream 배드 아이스크림'
+title: Bad Ice-Cream 배드 아이스크림
 description: >-
-  시리즈의 첫 작품 Bad Ice-Cream입니다. 얼음 블록을 만들고 부수며 적을 피해
-  과일을 모두 모아, 40개의 얼음 미로 스테이지를 정복해 보세요.
+  시리즈의 첫 작품 Bad Ice-Cream입니다. 얼음 블록을 만들고 부수며 적을 피해 과일을 모두 모아, 40개의 얼음 미로 스테이지를
+  정복해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x4/index.html
 thumbnail: /new-images/thumbnails/bad-ice-cream.jpg
@@ -30,6 +30,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 시간 초과로 실패할 수 있습니다. 혼자서도 즐길 수 있고, 한 키보드에서 함께
 즐기는 2인 협동 모드도 지원합니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 빠른 판단과 계획적인 길 설계가 성공의 열쇠입니다.
@@ -55,6 +56,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 타이머가 있다고 무작정 돌진하면 오히려 목숨을 잃습니다. 작은 안전 구역을 만들고 과일을 비운 뒤, 다음 구역으로 넘어가는 식으로 진행하세요.
 
+<!-- i18n:section:tips -->
 #### 5. 2인 협동 전략
 
 *   **맵 분배:** 왼쪽/오른쪽처럼 구역을 나눠 맡으면 훨씬 빠르게 과일을 모을 수 있습니다.  

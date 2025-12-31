@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: big-shark
-title: 'Big Shark 빅 샤크'
+title: Big Shark 빅 샤크
 description: >-
-  상어가 되어 바닷속을 누비며 먹이를 먹고 성장하는 액션 생존 게임 Big Shark입니다.
-  더 큰 상어와 지뢰를 피해 살아남아 최고 점수를 노려 보세요.
+  상어가 되어 바닷속을 누비며 먹이를 먹고 성장하는 액션 생존 게임 Big Shark입니다. 더 큰 상어와 지뢰를 피해 살아남아 최고 점수를
+  노려 보세요.
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/big-shark/'
 thumbnail: /new-images/thumbnails/big-shark.jpg
 tags:
@@ -31,6 +31,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 것입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 공격성과 신중함의 균형을 잘 맞추는 것이 중요합니다.

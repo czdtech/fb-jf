@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: breakout
-title: 'Breakout 브레이크아웃'
+title: Breakout 브레이크아웃
 description: >-
-  패들을 움직여 공을 튕기고 위쪽의 벽돌을 모두 부수는 고전 아케이드 게임
-  Breakout입니다. 각도 조절과 터널 전략을 익혀, 시대를 초월한 블록 브레이커의
-  손맛을 즐겨 보세요.
+  패들을 움직여 공을 튕기고 위쪽의 벽돌을 모두 부수는 고전 아케이드 게임 Breakout입니다. 각도 조절과 터널 전략을 익혀, 시대를
+  초월한 블록 브레이커의 손맛을 즐겨 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/atari-breakout.html'
 thumbnail: /new-images/thumbnails/breakout.jpg
 tags:
@@ -33,6 +32,7 @@ Breakout은 아케이드 역사에서 큰 영향을 끼친 대표적인 벽돌 �
 정리하는 것이 가장 큰 도전입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 -   **반사 각도 컨트롤 익히기**  

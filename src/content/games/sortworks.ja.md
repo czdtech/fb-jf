@@ -1,13 +1,16 @@
 ---
-title: "SortWorks"
-description: "SortWorksはソート＆スタックのパズルです。ルールに従ってアイテムを振り分け、バッファを管理しながら詰まりを防ぎます。"
-iframeSrc: "https://293f3i461vfvo.h5games.usercontent.goog/v/31blvf8tg44g0/"
+title: SortWorks
+description: SortWorksはソート＆スタックのパズルです。ルールに従ってアイテムを振り分け、バッファを管理しながら詰まりを防ぎます。
+iframeSrc: 'https://293f3i461vfvo.h5games.usercontent.goog/v/31blvf8tg44g0/'
 thumbnail: /new-images/thumbnails/sortworks.png
-urlstr: "sortworks"
-score: "4.0/5  (1889 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: sortworks
+score: 4.0/5  (1889 votes)
+tags:
+  - puzzle
+  - thinky
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,6 +21,7 @@ locale: ja
 SortWorksは、ビジュアルソートとビンの制約（色/形状/タイプなど）を組み合わせたゲームです。ベルト上に流れてくるアイテムをルールに従って正しいビンへ入れ、バッファスロットで詰まりを防ぎます。後半になるほどテンポが上がり、判別が難しいカテゴリが増えます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略とウォークスルー
 
 1.  ルールの優先度：重要なルール（例：危険物/非危険物）を先に当てはめ、次に細かい分類へ進みます。

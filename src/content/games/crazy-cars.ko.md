@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: crazy-cars
-title: "Crazy Cars 크레이지 카"
+title: Crazy Cars 크레이지 카
 description: >-
-  3D 도시 맵을 자유롭게 달리며 점프와 스턴트를 즐기는 캐주얼 레이싱 게임
-  Crazy Cars입니다. 이벤트를 완료하고 별과 스패너를 모아 더 빠른 차량을
-  해금해 보세요.
+  3D 도시 맵을 자유롭게 달리며 점프와 스턴트를 즐기는 캐주얼 레이싱 게임 Crazy Cars입니다. 이벤트를 완료하고 별과 스패너를 모아
+  더 빠른 차량을 해금해 보세요.
 iframeSrc: 'https://g.igroutka.ru/games/164/2afwOT8yZFmeYWGJ/2/crazy_cars/'
 thumbnail: /new-images/thumbnails/crazy-cars.jpg
 tags:
@@ -45,6 +44,7 @@ Crazy Cars는 램프와 점프 지점, 각종 이벤트 포인트가 배치된 �
 - Esc / P: 일시정지 및 메뉴  
 - 스플릿 스크린: 두 번째 플레이어는 다른 키 세트를 사용해 조작  
 
+<!-- i18n:section:tips -->
 ### 팁 & 전략
 
 - 급코너에서는 가속을 살짝 떼면서 돌아 언더스티어를 줄이세요.  

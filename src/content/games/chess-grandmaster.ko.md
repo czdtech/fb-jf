@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: chess-grandmaster
-title: 'Chess Grandmaster 체스 그랜드마스터'
+title: Chess Grandmaster 체스 그랜드마스터
 description: >-
-  Chess Grandmaster는 AI 또는 로컬 대전으로 즐기는 본격 체스 게임입니다.
-  오프닝, 미들게임 전술, 엔드게임 기본기를 단계별로 익히며 그랜드마스터를
-  향해 실력을 쌓아 보세요.
+  Chess Grandmaster는 AI 또는 로컬 대전으로 즐기는 본격 체스 게임입니다. 오프닝, 미들게임 전술, 엔드게임 기본기를 단계별로
+  익히며 그랜드마스터를 향해 실력을 쌓아 보세요.
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
 thumbnail: /new-images/thumbnails/chess-grandmaster.jpg
 tags:
@@ -28,6 +27,7 @@ AI 난이도를 조절해 혼자 연습하거나, 한 기기에서 번갈아 두
 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **오프닝: 전개와 중앙, 킹 안전**  

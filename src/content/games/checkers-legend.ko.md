@@ -25,6 +25,7 @@ Checkers Legend는 Draughts로도 알려진 고전 전략 보드게임 체커스
 앞 수를 내다보는 전술과 수읽기가 중요한 두뇌 싸움 게임입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **기본 이동**  

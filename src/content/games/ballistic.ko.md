@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: ballistic
-title: "Ballistic 볼리스틱 게임"
+title: Ballistic 볼리스틱 게임
 description: >-
-  Ballistic는 화면 위에서 내려오는 숫자 블록들을 향해 공을 쏘아 없애는 물리 기반
-  아케이드 게임입니다. 각 블록은 맞아야 하는 횟수가 적힌 숫자를 가지고 있으며,
-  벽과 블록에 튕기는 궤적을 잘 계산해 연쇄 타격을 노리는 것이 핵심입니다.
+  Ballistic는 화면 위에서 내려오는 숫자 블록들을 향해 공을 쏘아 없애는 물리 기반 아케이드 게임입니다. 각 블록은 맞아야 하는 횟수가
+  적힌 숫자를 가지고 있으며, 벽과 블록에 튕기는 궤적을 잘 계산해 연쇄 타격을 노리는 것이 핵심입니다.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/'
 thumbnail: /new-images/thumbnails/ballistic.jpg
 tags:
@@ -24,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 게임의 묘미는 물리 엔진이 만들어 내는 반사각 계산에 있습니다. 벽이나 다른 블록을 활용해 각도를 만들면 한 번의 발사로 여러 줄을 동시에 공격할 수 있고, 추가 공과 파워업을 수집해 화력을 꾸준히 늘리면 캐주얼 플레이부터 하드코어 스코어링까지 모두 즐길 수 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 *Ballistic*를 잘 플레이하려면 몇 수 앞을 내다보며 한 발 한 발을 아껴 써야 합니다.

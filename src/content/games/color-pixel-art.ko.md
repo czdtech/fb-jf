@@ -27,6 +27,7 @@ Color Pixel Art Classic은 픽셀로 이루어진 그림을 숫자에 따라 칠
 색칠하는 데 집중하기 좋은 힐링용 게임입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 방법
 
 1.  **이미지 선택하기**  

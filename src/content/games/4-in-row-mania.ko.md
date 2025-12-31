@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: 4-in-row-mania
-title: '4 In Row MANIA 사목 매니아'
+title: 4 In Row MANIA 사목 매니아
 description: >-
-  4 In Row MANIA는 고전 사목(Connect Four)을 기반으로 한 대전 퍼즐입니다.
-  열을 장악하고 상대를 견제하며 네 개를 먼저 일직선으로 이어 보세요.
+  4 In Row MANIA는 고전 사목(Connect Four)을 기반으로 한 대전 퍼즐입니다. 열을 장악하고 상대를 견제하며 네 개를 먼저
+  일직선으로 이어 보세요.
 iframeSrc: 'https://4vt1c4a3eda48.h5games.usercontent.goog/v/73p1lulj7oe3o/'
 thumbnail: /new-images/thumbnails/4-in-row-mania.jpg
 tags:
@@ -23,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 설계하는 것이 핵심입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략 팁
 
 1.  **중앙 열 장악:** 중앙 열은 가로·세로·대각선 모든 방향에서 가장 많은

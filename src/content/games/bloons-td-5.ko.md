@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: bloons-td-5
-title: "Bloons TD 5 블룬스 타워 디펜스 5"
+title: Bloons TD 5 블룬스 타워 디펜스 5
 description: >-
-  Bloons TD 5는 깊이 있는 전략, 다양한 원숭이 타워, 강력한 스페셜 에이전트로 사랑받는
-  타워 디펜스 게임입니다. 최강 방어 라인을 구축해 Monkey God 사원까지 완성하고,
-  가장 강력한 ZOMG를 포함한 모든 Bloon을 터뜨려 보세요.
+  Bloons TD 5는 깊이 있는 전략, 다양한 원숭이 타워, 강력한 스페셜 에이전트로 사랑받는 타워 디펜스 게임입니다. 최강 방어 라인을
+  구축해 Monkey God 사원까지 완성하고, 가장 강력한 ZOMG를 포함한 모든 Bloon을 터뜨려 보세요.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-tower-defense-5.html'
 thumbnail: /new-images/thumbnails/bloons-td-5.jpg
 tags:
@@ -45,6 +44,7 @@ BTD5에서는 다음과 같은 요소들이 새로 추가되어 세계관과 전
   스킬로 위기 상황을 뒤집을 수 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 - **경제가 전부입니다:** BTD5에서 가장 중요한 전략은 강력한 경제 기반을 만드는

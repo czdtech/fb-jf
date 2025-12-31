@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: bloons-td-6
-title: 'Bloons TD 6 블룬스 TD 6'
+title: Bloons TD 6 블룬스 TD 6
 description: >-
-  3D 그래픽과 히어로, 타워별 3갈래 업그레이드 경로, 최종 형태인 파라곤까지
-  모두 담은 시리즈 최신작 Bloons TD 6입니다. 침략해 오는 모든 블룬을 터뜨리기
-  위한 완벽한 수비 전략을 세워 보세요.
+  3D 그래픽과 히어로, 타워별 3갈래 업그레이드 경로, 최종 형태인 파라곤까지 모두 담은 시리즈 최신작 Bloons TD 6입니다. 침략해
+  오는 모든 블룬을 터뜨리기 위한 완벽한 수비 전략을 세워 보세요.
 iframeSrc: 'https://html5.gamenora.com/Bloons%20TD%206/'
 thumbnail: /new-images/thumbnails/bloons-td-6.jpg
 tags:
@@ -51,6 +50,7 @@ BTD6의 핵심 변화는 각 타워에 **세 가지 업그레이드 경로**가 
     버전으로 합칠 수 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 -   **시너지 조합이 최우선**  

@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: battleships-armada
-title: 'Battleships Armada 배틀십 아르마다'
+title: Battleships Armada 배틀십 아르마다
 description: >-
-  고전 보드게임 배틀쉽을 디지털로 즐기는 전략 게임입니다. 바다 위 격자에
-  함대를 배치하고, 상대의 위치를 추리해 먼저 모든 전함을 격침시키세요.
+  고전 보드게임 배틀쉽을 디지털로 즐기는 전략 게임입니다. 바다 위 격자에 함대를 배치하고, 상대의 위치를 추리해 먼저 모든 전함을
+  격침시키세요.
 iframeSrc: 'https://3hcluun64uid0.h5games.usercontent.goog/v/0op00pgc2n4kg/'
 thumbnail: /new-images/thumbnails/battleships-armada.png
 tags:
@@ -24,6 +24,7 @@ Battleships Armada는 고전 해전 보드게임 "Battleship"을 디지털로 �
 상대 함대를 전부 침몰시키는 쪽이 승리합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **함대 배치 전략:** 배치 단계에서 모든 함선을 모서리나 한 구역에만

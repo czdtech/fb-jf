@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: captain-gold
-title: 'Captain Gold 캡틴 골드'
+title: Captain Gold 캡틴 골드
 description: >-
-  Captain Gold는 고전 골드 마이너 방식의 캐주얼 게임입니다. 흔들리는 갈고리를
-  타이밍 맞춰 내려 황금과 보물을 낚아 올리고, 값싼 바위는 피하면서 라운드마다
-  요구되는 금액을 채워 보세요.
+  Captain Gold는 고전 골드 마이너 방식의 캐주얼 게임입니다. 흔들리는 갈고리를 타이밍 맞춰 내려 황금과 보물을 낚아 올리고, 값싼
+  바위는 피하면서 라운드마다 요구되는 금액을 채워 보세요.
 iframeSrc: 'https://5djvqvgrgqc0o.h5games.usercontent.goog/v/58gqt26rjid7o/'
 thumbnail: /new-images/thumbnails/captain-gold.png
 tags:
@@ -29,6 +28,7 @@ Captain Gold는 좌우로 흔들리는 갈고리를 내려 지하의 황금과 �
 구입할 수 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **큰 금덩이와 돈가방을 우선 공략하기**  

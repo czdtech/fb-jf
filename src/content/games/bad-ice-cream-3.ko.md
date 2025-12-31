@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: bad-ice-cream-3
-title: 'Bad Ice Cream 3 배드 아이스크림 3'
+title: Bad Ice Cream 3 배드 아이스크림 3
 description: >-
-  새로운 적과 퍼즐이 추가된 시리즈 3편 Bad Ice-Cream 3입니다. 얼음 블록을
-  이용해 적을 따돌리고, 과일을 모두 모아 미로를 탈출해 보세요.
+  새로운 적과 퍼즐이 추가된 시리즈 3편 Bad Ice-Cream 3입니다. 얼음 블록을 이용해 적을 따돌리고, 과일을 모두 모아 미로를
+  탈출해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x5/index.html
 thumbnail: /new-images/thumbnails/bad-ice-cream-3.jpg
@@ -31,6 +31,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 함께 즐길 수 있는 2인 협동 모드도 그대로 지원됩니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 새롭게 추가된 적에 적응하는 동시에, 기본 시스템을 더욱 정교하게 활용해야

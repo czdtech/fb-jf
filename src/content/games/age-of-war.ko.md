@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: age-of-war
-title: 'Age of War 에이지 오브 워'
+title: Age of War 에이지 오브 워
 description: >-
-  동굴인에서 미래 병사까지 시대를 진화시키며 적 기지를 파괴하는 고전 전략
-  게임 Age of War입니다. 공격과 수비, 진화 타이밍을 조절해 전장을 지배해
-  보세요.
+  동굴인에서 미래 병사까지 시대를 진화시키며 적 기지를 파괴하는 고전 전략 게임 Age of War입니다. 공격과 수비, 진화 타이밍을 조절해
+  전장을 지배해 보세요.
 iframeSrc: >-
   https://app-196716.games.s3.yandex.net/196716/h5h3xwa1kxsz7wcma59tvvmko0zorc80/index.html
 thumbnail: /new-images/thumbnails/age-of-war.jpg
@@ -28,10 +27,12 @@ Age of War는 플래시 게임 시절 큰 인기를 끌었던 2D 횡스크롤 �
 전부 회복됩니다. 최종 목표는 적의 파상공세를 버티며 상대 기지를 먼저
 파괴하는 것입니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략 & 공략 가이드
 
 공격, 수비, 진화 타이밍의 균형을 잡는 것이 승리의 핵심입니다.
 
+<!-- i18n:section:how-to-play -->
 #### 1. 초반 전략 (석기 시대)
 
 *   **클럽맨 러시:** 가장 저렴한 기본 유닛인 "Club Man"(몽둥이맨)을 여러

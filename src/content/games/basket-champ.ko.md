@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: basket-champ
-title: 'Basket Champ 배스킷 챔프'
-description: >-
-  한 번의 터치로 각도와 힘을 정해 골대를 노리는 농구 타이밍 게임입니다.
-  움직이는 골대와 장애물을 피하며 연속 득점을 이어 가 보세요.
+title: Basket Champ 배스킷 챔프
+description: 한 번의 터치로 각도와 힘을 정해 골대를 노리는 농구 타이밍 게임입니다. 움직이는 골대와 장애물을 피하며 연속 득점을 이어 가 보세요.
 iframeSrc: 'https://0outkmbudufj8.h5games.usercontent.goog/v/1stcrgq2b9d08/'
 thumbnail: /new-images/thumbnails/basket-champ.png
 tags:
@@ -24,6 +22,7 @@ Basket Champ는 최소한의 조작으로 슛 타이밍을 겨루는 농구 게�
 것이 쉽지만은 않습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **림 위를 향한 높은 각도:** 림 중앙보다 조금 위를 겨냥해 공이 부드럽게

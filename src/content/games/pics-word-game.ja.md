@@ -10,7 +10,7 @@ tags:
   - thinky
   - casual
 developer: ''
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -20,6 +20,7 @@ locale: ja
 Pics Word Gameは、4つの写真を見てそれらをリンクする単語を推測することに挑戦します。各パズルには共通のテーマまたは概念があります。観察スキルと語彙をテストします。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **共通点を探す:** 4つの写真すべてが共有するもの。

@@ -1,13 +1,16 @@
 ---
-title: "Parking Jam"
-description: "Parking Jamは駐車パズルゲームです。車を前後に動かして渋滞を解消し、出口までの道を作ります。"
-iframeSrc: "https://4knmpq6joecbg.h5games.usercontent.goog/v/1uamg2frss2qg/"
+title: Parking Jam
+description: Parking Jamは駐車パズルゲームです。車を前後に動かして渋滞を解消し、出口までの道を作ります。
+iframeSrc: 'https://4knmpq6joecbg.h5games.usercontent.goog/v/1uamg2frss2qg/'
 thumbnail: /new-images/thumbnails/parking-jam.png
-urlstr: "parking-jam"
-score: "4.2/5  (2031 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: parking-jam
+score: 4.2/5  (2031 votes)
+tags:
+  - puzzle
+  - thinky
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Parking Jamは、混雑した駐車場から車を脱出させることに挑戦します。前後に車を移動して、目標車両のためのパスをクリアします。各レベルは、より複雑な駐車の悪夢を提示します。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **目標を識別:** どの車を脱出させる必要がありますか？

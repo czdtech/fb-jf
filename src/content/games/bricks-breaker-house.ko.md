@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: bricks-breaker-house
-title: 'Bricks Breaker House 브릭스 브레이커 하우스'
+title: Bricks Breaker House 브릭스 브레이커 하우스
 description: >-
-  Bricks Breaker House는 아기자기한 집 테마가 더해진 벽돌 깨기 게임입니다.
-  각도를 세밀하게 조절해 볼을 오래 살리고, 파워업을 놓치지 않으면서도 안전하게
-  집(패들)을 지켜 보세요.
+  Bricks Breaker House는 아기자기한 집 테마가 더해진 벽돌 깨기 게임입니다. 각도를 세밀하게 조절해 볼을 오래 살리고,
+  파워업을 놓치지 않으면서도 안전하게 집(패들)을 지켜 보세요.
 iframeSrc: 'https://1s6hqqts5ko6o.h5games.usercontent.goog/v/7n8ge2nvqqksg/'
 thumbnail: /new-images/thumbnails/bricks-breaker-house.png
 tags:
@@ -28,6 +27,7 @@ Bricks Breaker House는 스테이지마다 새로운 장애물과 기믹이 등�
 경로를 유도하며, 적절한 타이밍에 파워업을 활용해 난관을 돌파해야 합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **30~45도 정도의 안정적인 각도 유지**  

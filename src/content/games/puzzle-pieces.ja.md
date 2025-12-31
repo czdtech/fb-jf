@@ -1,13 +1,15 @@
 ---
-title: "Puzzle Pieces"
-description: "Puzzle Piecesはクラシックなジグソーパズルです。ピースを配置し、画像を完成させ、リラックスしたパズルを楽しみます。"
-iframeSrc: "https://05c9vfh919cbg.h5games.usercontent.goog/v/0ki2bua5asq00/"
+title: Puzzle Pieces
+description: Puzzle Piecesはクラシックなジグソーパズルです。ピースを配置し、画像を完成させ、リラックスしたパズルを楽しみます。
+iframeSrc: 'https://05c9vfh919cbg.h5games.usercontent.goog/v/0ki2bua5asq00/'
 thumbnail: /new-images/thumbnails/puzzle-pieces.png
-urlstr: "puzzle-pieces"
-score: "4.0/5  (1888 votes)"
-tags: ["puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: puzzle-pieces
+score: 4.0/5  (1888 votes)
+tags:
+  - puzzle
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Puzzle Piecesは、デジタル形式のクラシックなジグソーパズルです。ピースをドラッグして正しい位置に配置し、美しい画像を完成させます。エッジから始め、色とパターンをマッチングするためにパズルを構築します。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **エッジから始める:** 最初にボーダーピースを見つけて配置します。

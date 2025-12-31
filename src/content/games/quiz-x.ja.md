@@ -1,13 +1,16 @@
 ---
-title: "Quiz X"
-description: "Quiz Xはトリビアクイズゲームです。質問に答え、知識をテストし、スコアを競い、クイズチャンピオンになります。"
-iframeSrc: "https://5348abrdhudu8.h5games.usercontent.goog/v/35ge2no4verb8/"
+title: Quiz X
+description: Quiz Xはトリビアクイズゲームです。質問に答え、知識をテストし、スコアを競い、クイズチャンピオンになります。
+iframeSrc: 'https://5348abrdhudu8.h5games.usercontent.goog/v/35ge2no4verb8/'
 thumbnail: /new-images/thumbnails/quiz-x.png
-urlstr: "quiz-x"
-score: "3.9/5  (1725 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: quiz-x
+score: 3.9/5  (1725 votes)
+tags:
+  - puzzle
+  - thinky
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Quiz Xは、さまざまなトピックからの質問をテストするトリビアクイズゲームです。複数の選択肢から正しい答えを選択し、ポイントを獲得し、リーダーボードを登ります。知識、速度、戦略がスコアを決定します。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **速く答える:** 速い答えはより多くのポイントを獲得します。

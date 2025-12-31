@@ -1,9 +1,9 @@
 ---
 locale: ko
 urlstr: battleship
-title: "Battleship 배틀십"
-description: "배틀십 완전 공략: 함대를 비밀리에 배치하고 논리적인 포격 패턴으로 상대 함선을 모두 침몰시키세요."
-iframeSrc: "https://cdn.gamesnacks.com/battleship2/gameCode/index.html"
+title: Battleship 배틀십
+description: '배틀십 완전 공략: 함대를 비밀리에 배치하고 논리적인 포격 패턴으로 상대 함선을 모두 침몰시키세요.'
+iframeSrc: 'https://cdn.gamesnacks.com/battleship2/gameCode/index.html'
 thumbnail: /new-images/thumbnails/battleship.jpg
 tags:
   - strategy
@@ -27,10 +27,12 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 양쪽 모두 배치를 마치면 좌표(예: D5)를 번갈아 외치며 포격합니다. 상대는 해당 칸에 함선이 있으면 "히트", 비어 있으면 "미스"라고 응답하고, 플레이어는 이 결과를 적 보드에 표시해 논리적으로 위치를 좁혀 갑니다. 함선의 모든 칸이 맞으면 해당 함선은 침몰 처리됩니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 배치의 영리함과 체계적인 추리가 모두 필요합니다.
 
+<!-- i18n:section:tips -->
 #### 함선 배치 전략(수비)
 
 1.  **뻔한 자리 피하기:** 모서리와 가장자리는 초반에 집중 포격을 받습니다. 함선을 보드 전역에 분산하세요.

@@ -1,13 +1,15 @@
 ---
-title: "Speed Master"
-description: "Speed Masterはタイミング重視の反応ゲームです。表示に合わせて入力し、精度と連続成功を目指します。"
-iframeSrc: "https://6e0ej8ct9hdj8.h5games.usercontent.goog/v/1fssfmqquil18/"
+title: Speed Master
+description: Speed Masterはタイミング重視の反応ゲームです。表示に合わせて入力し、精度と連続成功を目指します。
+iframeSrc: 'https://6e0ej8ct9hdj8.h5games.usercontent.goog/v/1fssfmqquil18/'
 thumbnail: /new-images/thumbnails/speed-master.png
-urlstr: "speed-master"
-score: "4.0/5  (1811 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: speed-master
+score: 4.0/5  (1811 votes)
+tags:
+  - action
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Speed Masterは、タイミングと集中力が問われるミニマルな反応ゲームです。画面を横切るプロンプトに合わせて、決められたタイミングでタップ/入力します。進むほどテンポが上がり、リズムの変化や複数レーンの入力で難しくなります。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略とウォークスルー
 
 1.  ビートを数える：目の動きだけに頼らず、一定のカウントで入力します。

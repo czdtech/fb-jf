@@ -1,13 +1,18 @@
 ---
-title: "Solitaire Classic"
-description: "Solitaire ClassicはKlondike（クロンダイク）としても知られる定番ソリティアです。52枚をスートごとにA〜Kでファウンデーションにそろえます。"
-iframeSrc: "https://solitaireclassic.h5games.usercontent.goog/v/7sbt28mppqim8/"
+title: Solitaire Classic
+description: >-
+  Solitaire
+  ClassicはKlondike（クロンダイク）としても知られる定番ソリティアです。52枚をスートごとにA〜Kでファウンデーションにそろえます。
+iframeSrc: 'https://solitaireclassic.h5games.usercontent.goog/v/7sbt28mppqim8/'
 thumbnail: /new-images/thumbnails/solitaire-classic.png
-urlstr: "solitaire-classic"
-score: "4.7/5  (3100 votes)"
-tags: ["card", "puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: solitaire-classic
+score: 4.7/5  (3100 votes)
+tags:
+  - card
+  - puzzle
+  - casual
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,6 +23,7 @@ locale: ja
 Solitaire ClassicはKlondikeとしても知られ、世界で最も有名で愛されている一人用カードゲームの1つです。目標は、シャッフルされた52枚のカードデッキを、各スートごとに1つずつ、エースからキングまで昇順に4つのファウンデーションパイルに整理することです。ゲームは戦略、忍耐、そして少しの運を必要とします。タブローでカードを操作して隠されたカードを明らかにし、ファウンデーションを構築します。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略とウォークスルー
 
 1.  **ゲームコンポーネント：**

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: blockbuster-puzzle
-title: 'Blockbuster Puzzle 블록버스터 퍼즐'
+title: Blockbuster Puzzle 블록버스터 퍼즐
 description: >-
-  Blockbuster Puzzle은 블록을 배치해 줄·클러스터를 지우는 퍼즐 게임입니다.
-  탈출용 공간을 남겨 두고, 연쇄 폭발처럼 여러 줄을 한 번에 지울 기회를
-  노려 보세요.
+  Blockbuster Puzzle은 블록을 배치해 줄·클러스터를 지우는 퍼즐 게임입니다. 탈출용 공간을 남겨 두고, 연쇄 폭발처럼 여러 줄을
+  한 번에 지울 기회를 노려 보세요.
 iframeSrc: 'https://177gd8gft04p0.h5games.usercontent.goog/v/0md288db3fuq8/'
 thumbnail: /new-images/thumbnails/blockbuster-puzzle.png
 tags:
@@ -24,6 +23,7 @@ Blockbuster Puzzle은 주어지는 블록 조각을 보드 위에 배치해 줄�
 공간을 함부로 막지 않는 운영이 중요합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **두 개의 주요 라인 확보:** 항상 난이도 높은 조각을 수용할 수 있는 여유

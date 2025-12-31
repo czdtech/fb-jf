@@ -1,13 +1,15 @@
 ---
-title: "Sprunki Basical - Play Sprunki Basical Online"
-description: "Sprunki Basicalはシンプルな操作で音を重ねて曲を作る音楽制作ゲームです。キャラクターにサウンドを割り当て、組み合わせを試しながら仕上げます。"
-iframeSrc: "https://sprunki-basical.pages.dev/"
+title: Sprunki Basical - Play Sprunki Basical Online
+description: Sprunki Basicalはシンプルな操作で音を重ねて曲を作る音楽制作ゲームです。キャラクターにサウンドを割り当て、組み合わせを試しながら仕上げます。
+iframeSrc: 'https://sprunki-basical.pages.dev/'
 thumbnail: /new-images/thumbnails/sprunki-basical.png
-urlstr: "sprunki-basical"
-score: "4.4/5  (420 votes)"
-tags: ["sprunki basical", "sprunki basical online"]
+urlstr: sprunki-basical
+score: 4.4/5  (420 votes)
+tags:
+  - sprunki basical
+  - sprunki basical online
 locale: ja
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Basicalの紹介
@@ -29,6 +31,7 @@ Sprunki Basicalは、余計な要素をそぎ落とした“原点回帰”の�
  
 ---
  
+<!-- i18n:section:tips -->
 ### Sprunki Basicalをプレイするためのヒント：
 
  - **ビートから始める：** まずはリズムの土台を置き、全体のテンポ感を決めます。

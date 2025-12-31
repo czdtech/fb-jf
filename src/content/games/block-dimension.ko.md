@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: block-dimension
-title: 'Block Dimension 블록 디멘션'
+title: Block Dimension 블록 디멘션
 description: >-
-  Block Dimension은 10×10 격자에서 블록을 배치해 줄을 지우는 퍼즐 게임입니다.
-  다양한 모양의 블록을 전략적으로 배치해 공간을 관리하며 높은 점수를 노려
-  보세요.
+  Block Dimension은 10×10 격자에서 블록을 배치해 줄을 지우는 퍼즐 게임입니다. 다양한 모양의 블록을 전략적으로 배치해 공간을
+  관리하며 높은 점수를 노려 보세요.
 iframeSrc: 'https://62dfg8ps4f7lg.h5games.usercontent.goog/v/0k3gcfq0ljti8/'
 thumbnail: /new-images/thumbnails/block-dimension.png
 tags:
@@ -22,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Block Dimension은 클래식 블록 맞추기 퍼즐을 현대적으로 재해석한 작품입니다. 10×10 보드에 다양한 모양의 블록을 배치해 가로줄이나 세로줄을 완전히 채우면 줄이 지워지고 점수가 오르며, 연속 콤보를 만들수록 더 큰 보너스를 얻습니다. 세 블록 중 어느 것도 둘 수 없는 순간 게임이 종료되므로, 공간 관리와 장기적인 설계가 핵심입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **세 블록 모두를 고려하기:** 동시에 주어지는 세 조각이 모두 들어갈 자리가 있는지 먼저 확인한 뒤, 첫 수를 결정하세요. 한 조각만 보고 두면 다음 조각이 막힐 위험이 큽니다.

@@ -1,13 +1,15 @@
 ---
-title: "Panenka Football"
-description: "Panenka Footballはペナルティキックゲームです。Panenka（チップキック）のタイミングをつかみ、キーパーの動きを見て決めます。"
-iframeSrc: "https://15n5pfdq70ung.h5games.usercontent.goog/v/2ftdtu6n19sk8/"
+title: Panenka Football
+description: Panenka Footballはペナルティキックゲームです。Panenka（チップキック）のタイミングをつかみ、キーパーの動きを見て決めます。
+iframeSrc: 'https://15n5pfdq70ung.h5games.usercontent.goog/v/2ftdtu6n19sk8/'
 thumbnail: /new-images/thumbnails/panenka-football.png
-urlstr: "panenka-football"
-score: "4.0/5  (1863 votes)"
-tags: ["sports", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: panenka-football
+score: 4.0/5  (1863 votes)
+tags:
+  - sports
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Panenka Footballは、有名なPanenkaペナルティキック技術に焦点を当てます。ショットのパワーと方向を選択し、完璧にタイミングを合わせて、ゴールキーパーがダイブした後にボールを中央にチップします。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **キーパーを読む:** 彼らのダイブ傾向を観察します。

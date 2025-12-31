@@ -1,11 +1,12 @@
 ---
 locale: ko
 urlstr: 2048-giant
-title: '2048 Giant 2048 자이언트'
+title: 2048 Giant 2048 자이언트
 description: >-
-  넓은 보드에서 고전 2048 퍼즐을 즐길 수 있는 버전입니다. 숫자 타일을 합쳐
-  2048을 만들고, 커진 공간에서 더 높은 점수를 노려 보세요.
-iframeSrc: https://2048giant.h5games.usercontent.goog/v/4bea87e2-a9a9-4f4b-b1c8-8b777220c567/
+  넓은 보드에서 고전 2048 퍼즐을 즐길 수 있는 버전입니다. 숫자 타일을 합쳐 2048을 만들고, 커진 공간에서 더 높은 점수를 노려
+  보세요.
+iframeSrc: >-
+  https://2048giant.h5games.usercontent.goog/v/4bea87e2-a9a9-4f4b-b1c8-8b777220c567/
 thumbnail: /new-images/thumbnails/2048-giant.jpg
 tags:
   - puzzle
@@ -24,6 +25,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 만큼, 한층 더 깊은 전략이 요구됩니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략 팁
 
 2048의 핵심 전략은 그대로 적용되지만, 더 큰 보드에 맞게 응용해야 합니다.

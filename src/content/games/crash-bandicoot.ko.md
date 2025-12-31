@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: crash-bandicoot
-title: "Crash Bandicoot 크래시 밴디쿳"
+title: Crash Bandicoot 크래시 밴디쿳
 description: >-
-  레트로 감성의 아케이드 플랫포머 Crash Bandicoot 브라우저 버전입니다. 달리고,
-  점프하고, 회전 공격으로 상자를 부수며 움파 열매와 크리스털을 모아 스테이지를
-  클리어해 보세요.
+  레트로 감성의 아케이드 플랫포머 Crash Bandicoot 브라우저 버전입니다. 달리고, 점프하고, 회전 공격으로 상자를 부수며 움파
+  열매와 크리스털을 모아 스테이지를 클리어해 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crash-bandicoot.html'
 thumbnail: /new-images/thumbnails/crash-bandicoot.jpg
 tags:
@@ -40,6 +39,7 @@ TNT 상자를 피해 나가야 합니다. 크리스털을 다섯 개 모으면 �
 - 방향키: 이동 / 점프(위) / 숙이기(아래)  
 - 스페이스: 회전 공격(호스팅 사이트에 따라 키가 달라질 수 있음)  
 
+<!-- i18n:section:tips -->
 ### 팁 & 전략
 
 - 움직이는 발판과 간격이 넓은 구간에서는 점프 타이밍을 정확히 맞추는 것이 중요합니다.  

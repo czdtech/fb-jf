@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: archery
-title: 'Archery World Tour 아처리 월드 투어'
+title: Archery World Tour 아처리 월드 투어
 description: >-
-  활과 화살을 들고 전 세계의 사격장을 돌며 점수를 겨루는 사실적인 양궁 게임
-  Archery World Tour입니다. 바람과 거리까지 고려해 한가운데를 맞혀 보세요.
+  활과 화살을 들고 전 세계의 사격장을 돌며 점수를 겨루는 사실적인 양궁 게임 Archery World Tour입니다. 바람과 거리까지 고려해
+  한가운데를 맞혀 보세요.
 iframeSrc: >-
   https://archery.h5games.usercontent.goog/v/f12fb2aa-d64b-4074-8974-31705698e2e6/
 thumbnail: /new-images/thumbnails/archery.jpg
@@ -26,6 +26,7 @@ Archery World Tour는 현실감을 강조한 양궁 시뮬레이션 게임입니
 섬세한 조준이 필요합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **바람 보정하기:** 매 사격 전에 화면의 바람 표시를 확인하세요. 바람의

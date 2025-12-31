@@ -1,13 +1,16 @@
 ---
-title: "Solitaire 0-21"
-description: "Solitaire 0-21は、合計を0〜21に保ちながら進めるソリティアです。リスクと余裕のバランスを見てカードを配置します。"
-iframeSrc: "https://4hcssrsmrpvv0.h5games.usercontent.goog/v/2oipnrim9ar08/"
+title: Solitaire 0-21
+description: Solitaire 0-21は、合計を0〜21に保ちながら進めるソリティアです。リスクと余裕のバランスを見てカードを配置します。
+iframeSrc: 'https://4hcssrsmrpvv0.h5games.usercontent.goog/v/2oipnrim9ar08/'
 thumbnail: /new-images/thumbnails/solitaire-0-21.png
-urlstr: "solitaire-0-21"
-score: "4.0/5  (1885 votes)"
-tags: ["card", "puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: solitaire-0-21
+score: 4.0/5  (1885 votes)
+tags:
+  - card
+  - puzzle
+  - thinky
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,6 +21,7 @@ locale: ja
 Solitaire 0-21は、ソリティアに算術の制約を加えたゲームです。数字カードを配置して、進行中の合計を0〜21の範囲に保ちます。修飾子（+/-/×）や特殊効果が絡むため、先読みが重要です。安全圏を保ちつつ、急な増減に備えて余裕を残すのがポイントです。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略とウォークスルー
 
 1.  バッファを残す：早い段階で合計を端に寄せず、余裕を持たせます。

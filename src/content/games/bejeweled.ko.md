@@ -1,17 +1,16 @@
 ---
 locale: ko
 urlstr: bejeweled
-title: "Bejeweled 비주얼드 온라인 플레이"
+title: Bejeweled 비주얼드 온라인 플레이
 description: >-
-  Bejeweled는 인접한 보석을 맞바꾸어 같은 색 보석 3개 이상을 이어 없애는 고전 퍼즐
-  게임으로, 단순하지만 중독성 강한 "매치 3" 게임 플레이로 캐주얼 게임 장르를
-  대표하는 작품이 되었습니다.
+  Bejeweled는 인접한 보석을 맞바꾸어 같은 색 보석 3개 이상을 이어 없애는 고전 퍼즐 게임으로, 단순하지만 중독성 강한 "매치 3"
+  게임 플레이로 캐주얼 게임 장르를 대표하는 작품이 되었습니다.
 iframeSrc: 'https://files.acticdn.com/278374/30464/index.html'
 thumbnail: /new-images/thumbnails/bejeweled.png
 tags:
   - bejeweled
 score: 4.8/5  (654 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -47,6 +46,7 @@ releaseDate: 2025-12-04
 - **Action/Blitz Mode:** 보통 60초 제한이 있는 빠른 타임어택 모드로, 제한 시간 안에
   최대한 높은 점수를 얻는 것이 목표입니다.
 
+<!-- i18n:section:tips -->
 ### 전략과 팁
 
 - **더 큰 매치를 노리기:** 단순히 3개 매치만 노리기보다는, 4개 또는 5개를 한 번에

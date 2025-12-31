@@ -1,13 +1,15 @@
 ---
-title: "Sprunki Night Time - Play Sprunki Night Time Online"
-description: "Sprunki Night Timeは夜の雰囲気で音作りを楽しめるModです。低音やアンビエント、リバーブ系の音を重ねて落ち着いたトラックを作れます。"
-iframeSrc: "https://turbowarp.org/1100659044/embed"
+title: Sprunki Night Time - Play Sprunki Night Time Online
+description: Sprunki Night Timeは夜の雰囲気で音作りを楽しめるModです。低音やアンビエント、リバーブ系の音を重ねて落ち着いたトラックを作れます。
+iframeSrc: 'https://turbowarp.org/1100659044/embed'
 thumbnail: /new-images/thumbnails/sprunki-night-time.png
-urlstr: "sprunki-night-time"
-score: "4.2/5  (324 votes)"
-tags: ["sprunki night time", "sprunki night time online"]
+urlstr: sprunki-night-time
+score: 4.2/5  (324 votes)
+tags:
+  - sprunki night time
+  - sprunki night time online
 locale: ja
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Night Timeの紹介
@@ -29,6 +31,7 @@ Sprunki Night Timeは、夜の静けさの中でサイケデリックな音の�
  - **微調整：** ミックスを微調整して、不穏で未来的な夜の雰囲気に仕上げます。
  
  
+<!-- i18n:section:tips -->
 ### Sprunki Night Timeをプレイするためのヒント：
 
  - **マウスでドラッグ：** 要素をドラッグ＆ドロップしてサウンドスケープを組み立てます。

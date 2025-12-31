@@ -31,6 +31,7 @@ Capybara Clicker는 "인터넷이 사랑하는 평온한 동물" 카피바라를
 얻는 프레스티지(Ascension) 시스템도 사용할 수 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 -   **클릭과 자동 생산의 균형 맞추기**  

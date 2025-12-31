@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: crazy-balls
-title: "Crazy Balls 크레이지 볼즈"
+title: Crazy Balls 크레이지 볼즈
 description: >-
-  물리 엔진으로 움직이는 공을 쏘아 장애물 미로를 돌파하는 아케이드 게임
-  Crazy Balls입니다. 각도를 재고 힘을 조절해 튕기기와 벽 맞추기를 활용해 보세요.
+  물리 엔진으로 움직이는 공을 쏘아 장애물 미로를 돌파하는 아케이드 게임 Crazy Balls입니다. 각도를 재고 힘을 조절해 튕기기와 벽
+  맞추기를 활용해 보세요.
 iframeSrc: 'https://05hi0oufvrcro.h5games.usercontent.goog/v/0qeok5765gar8/'
 thumbnail: /new-images/thumbnails/crazy-balls.png
 tags:
@@ -24,6 +24,7 @@ Crazy Balls에서는 각종 장애물로 가득한 스테이지에 공을 발사
 되기도 하고 완전히 엉망이 되기도 합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **측면 벽을 적극적으로 활용하기**  

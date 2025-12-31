@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: big-shot-boxing
-title: 'Big Shot Boxing 빅 샷 복싱'
+title: Big Shot Boxing 빅 샷 복싱
 description: >-
-  아케이드 감성의 복싱 커리어 게임 Big Shot Boxing입니다. 선수를 육성해 랭크를
-  올리고 간단하지만 깊이 있는 조작으로 세계 챔피언에 도전해 보세요.
+  아케이드 감성의 복싱 커리어 게임 Big Shot Boxing입니다. 선수를 육성해 랭크를 올리고 간단하지만 깊이 있는 조작으로 세계
+  챔피언에 도전해 보세요.
 iframeSrc: 'https://rebemanae.github.io/big-shot-boxing/'
 thumbnail: /new-images/thumbnails/big-shot-boxing.jpg
 tags:
@@ -27,6 +27,7 @@ Big Shot Boxing은 레트로 감성의 픽셀 아트 그래픽으로 즐기는 �
 마스터하기는 어려운 타입의 게임입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 -   **무작정 펀치를 남발하지 않기:** 버튼을 마구 눌러 공격만 하다 보면

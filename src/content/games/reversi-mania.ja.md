@@ -10,7 +10,7 @@ tags:
   - thinky
   - 2 player
 developer: ''
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -20,6 +20,7 @@ locale: ja
 Reversi Maniaは、Reversi（Othelloとしても知られる）のクラシックな戦略ボードゲームです。ピースを配置して対戦相手のピースを挟み、ひっくり返します。ゲーム終了時に最も多くのピースを持つプレイヤーが勝ちます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **コーナーを制御:** コーナーはひっくり返せません。

@@ -1,13 +1,15 @@
 ---
-title: "Retro Drift"
-description: "Retro Driftはレトロ風のドリフトレースです。コーナーでドリフトしてポイントを稼ぎ、トラックの走り方に慣れていきます。"
-iframeSrc: "https://retrodrift.h5games.usercontent.goog/v/3jr7fjtqu0j18/"
+title: Retro Drift
+description: Retro Driftはレトロ風のドリフトレースです。コーナーでドリフトしてポイントを稼ぎ、トラックの走り方に慣れていきます。
+iframeSrc: 'https://retrodrift.h5games.usercontent.goog/v/3jr7fjtqu0j18/'
 thumbnail: /new-images/thumbnails/retro-drift.jpg
-urlstr: "retro-drift"
-score: "3.7/5  (1338 votes)"
-tags: ["racing", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: retro-drift
+score: 3.7/5  (1338 votes)
+tags:
+  - racing
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +19,7 @@ locale: ja
 Retro Driftは、レトロなピクセルアートで遊べるアーケード系ドリフトレースです。コーナーでドリフトしてポイントを稼ぎ、トラックの癖を覚えながら走り方を安定させます。操作はシンプルですが、走行ラインとタイミングで差が出ます。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **ドリフトをマスター:** 完璧なドリフトがポイントを獲得します。

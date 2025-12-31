@@ -1,13 +1,17 @@
 ---
-title: "Sprunki Craft 🎮 Play Sprunki Craft Online"
-description: "Sprunki CraftはMinecraftとIncrediboxを掛け合わせた音楽作成ゲームです。おなじみのMinecraft風キャラクターで音を重ね、オリジナルの作品を作れます。"
-iframeSrc: "https://www.minijuegos.com/embed/sprunki-craft"
+title: "Sprunki Craft \U0001F3AE Play Sprunki Craft Online"
+description: >-
+  Sprunki
+  CraftはMinecraftとIncrediboxを掛け合わせた音楽作成ゲームです。おなじみのMinecraft風キャラクターで音を重ね、オリジナルの作品を作れます。
+iframeSrc: 'https://www.minijuegos.com/embed/sprunki-craft'
 thumbnail: /new-images/thumbnails/sprunki-craft.jpg
-urlstr: "sprunki-craft"
-score: "4.9/5  (724 votes)"
-tags: ["sprunki craft", "sprunki craft online"]
+urlstr: sprunki-craft
+score: 4.9/5  (724 votes)
+tags:
+  - sprunki craft
+  - sprunki craft online
 locale: ja
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Craftの紹介
@@ -38,6 +42,7 @@ Sprunki Craftの魅力は、触りながら作れるインタラクティブな�
 
 ---
  
+<!-- i18n:section:controls -->
 ### シンプルな操作、すべての年齢層に適している：
 
 Sprunki Craftはシンプルで直感的に操作できます。マウスはもちろん、スマホやタブレットのタッチ操作でも始めやすく、音楽制作が初めてでもMinecraftが好きでも楽しめます。

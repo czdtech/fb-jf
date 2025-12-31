@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: bad-ice-cream-2
-title: 'Bad Ice Cream 2 배드 아이스크림 2'
+title: Bad Ice Cream 2 배드 아이스크림 2
 description: >-
-  얼음 블록을 만들고 부수며 과일을 모으는 퍼즐 액션 게임 Bad Ice-Cream 2입니다.
-  친구와 함께 협동 플레이로 미로를 공략해 보세요.
+  얼음 블록을 만들고 부수며 과일을 모으는 퍼즐 액션 게임 Bad Ice-Cream 2입니다. 친구와 함께 협동 플레이로 미로를 공략해
+  보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x6/index.html
 thumbnail: /new-images/thumbnails/bad-ice-cream-2.jpg
@@ -31,6 +31,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 바쁜 팀플레이를 경험할 수 있습니다. 제한 시간 안에 모든 과일을 모으고 살아
 남으면 스테이지 클리어입니다.
 
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 성공적으로 클리어하려면 빠른 반응과 퍼즐적인 길 설계가 모두 필요합니다.
@@ -59,6 +60,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 얼음 벽으로 작은 안전 구역을 만들고 그 안의 과일을 먼저 정리한 뒤, 벽을 부수고
 다음 구역으로 넘어가는 식으로 리듬을 잡는 것이 좋습니다.
 
+<!-- i18n:section:tips -->
 #### 5. 2인 협동 모드 팁
 
 *   **맵 분할:** 한 사람은 왼쪽, 다른 사람은 오른쪽 등으로 영역을 나누면 훨씬 빨리 과일을 처리할 수 있습니다.  

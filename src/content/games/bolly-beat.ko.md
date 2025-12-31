@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: bolly-beat
-title: 'Bolly Beat 볼리 비트'
+title: Bolly Beat 볼리 비트
 description: >-
-  경쾌한 볼리우드 스타일 음악에 맞춰 화면을 두드리는 리듬 게임 Bolly Beat입니다.
-  박자에 맞게 탭하고 콤보를 이어 가며, 화려한 비트와 함께 높은 점수에 도전해
-  보세요.
+  경쾌한 볼리우드 스타일 음악에 맞춰 화면을 두드리는 리듬 게임 Bolly Beat입니다. 박자에 맞게 탭하고 콤보를 이어 가며, 화려한
+  비트와 함께 높은 점수에 도전해 보세요.
 iframeSrc: 'https://bollybeat.h5games.usercontent.goog/v/4k75msiudusn0/'
 thumbnail: /new-images/thumbnails/bolly-beat.jpg
 tags:
@@ -25,6 +24,7 @@ Bolly Beat은 밝고 신나는 볼리우드 스타일 곡에 맞춰 화면을 �
 패턴도 클리어할 수 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **판정 타이밍 익히기**  

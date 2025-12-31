@@ -28,6 +28,7 @@ Bubble Woods Ultimate는 활기찬 숲을 배경으로 펼쳐지는 고속 버�
 한 번만 더"를 부르는 타입의 게임입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **속도가 곧 생명**  

@@ -10,7 +10,7 @@ tags:
   - thinky
   - casual
 developer: ''
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -20,6 +20,7 @@ locale: ja
 Puzzle Pieces Mergeは、パズルピースをマージして完全な画像を作成することに挑戦します。同じピースをマージしてより大きなピースを作成し、最終的に完全な画像を明らかにします。論理的思考とパターン認識が必要です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **小さなピースから始める:** 最初に小さなピースをマージします。

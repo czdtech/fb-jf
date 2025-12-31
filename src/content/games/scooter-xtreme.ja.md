@@ -1,7 +1,8 @@
 ---
 title: Scooter Xtreme
 description: Scooter Xtremeはスクーターのスタントゲームです。ジャンプやトリックで得点し、バランスよく着地して進みます。
-iframeSrc: 'https://scooterxtreme.h5games.usercontent.goog/v/c842db43-7823-45bc-b575-acbd9bda5de4/'
+iframeSrc: >-
+  https://scooterxtreme.h5games.usercontent.goog/v/c842db43-7823-45bc-b575-acbd9bda5de4/
 thumbnail: /new-images/thumbnails/scooter-xtreme.jpg
 urlstr: scooter-xtreme
 score: 4.3/5  (2200 votes)
@@ -10,7 +11,7 @@ tags:
   - sports
   - casual
 developer: ''
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -20,6 +21,7 @@ locale: ja
 Scooter Xtremeは、スクーターでスタントを実行することに挑戦します。ランプをジャンプし、トリックを実行し、バランスを維持し、クラッシュせずに着地します。ポイントを獲得して新しいレベルとスクーターをアンロックします。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **バランスを意識:** 着地時の傾きを制御します。

@@ -9,7 +9,7 @@ tags:
   - casual
   - action
 developer: ''
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +19,7 @@ locale: ja
 Parking Rushは、タイムプレッシャー下で車を駐車することに挑戦します。狭いスペースをナビゲートし、障害物を避け、クラッシュせずに駐車スポットに到達します。速度と精度が必要です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **ゆっくり始める:** 急ぐ前にコントロールを学びます。

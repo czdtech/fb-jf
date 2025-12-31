@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: bricks-breaker-crush
-title: 'Bricks Breaker Crush 브릭스 브레이커 크러시'
+title: Bricks Breaker Crush 브릭스 브레이커 크러시
 description: >-
-  Bricks Breaker Crush는 숫자가 적힌 벽돌에 연속으로 볼을 튕겨 넣는 벽돌 깨기
-  퍼즐 게임입니다. 각도를 잡아 다중 튕김 경로를 만들고, +볼 아이템으로 볼 수를
-  늘리며, 아래로 내려오는 벽을 막아 보세요.
+  Bricks Breaker Crush는 숫자가 적힌 벽돌에 연속으로 볼을 튕겨 넣는 벽돌 깨기 퍼즐 게임입니다. 각도를 잡아 다중 튕김
+  경로를 만들고, +볼 아이템으로 볼 수를 늘리며, 아래로 내려오는 벽을 막아 보세요.
 iframeSrc: 'https://7uvo1rchfrhr8.h5games.usercontent.goog/v/4tk6unop5lefg/'
 thumbnail: /new-images/thumbnails/bricks-breaker-crush.png
 tags:
@@ -30,6 +29,7 @@ Bricks Breaker Crush에서는 한 번에 여러 개의 볼을 발사해 숫자 �
 것입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **얕은 각도로 시작하기**  

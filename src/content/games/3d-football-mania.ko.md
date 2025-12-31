@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: 3d-football-mania
-title: '3D Football Mania 3D 풋볼 매니아'
-description: >-
-  짧은 상황으로 축구의 핵심을 담은 3D 풋볼 매니아입니다. 드리블하고 패스하며,
-  타이밍을 맞춰 골키퍼를 제치는 슛을 노려 보세요.
+title: 3D Football Mania 3D 풋볼 매니아
+description: '짧은 상황으로 축구의 핵심을 담은 3D 풋볼 매니아입니다. 드리블하고 패스하며, 타이밍을 맞춰 골키퍼를 제치는 슛을 노려 보세요.'
 iframeSrc: 'https://0iadidf74ef9o.h5games.usercontent.goog/v/4cmv5jsv0n25g/'
 thumbnail: /new-images/thumbnails/3d-football-mania.png
 tags:
@@ -22,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 결정적인 슛을 노리는 식으로 짧지만 반복해서 즐길 수 있는 도전이 이어집니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략 팁
 
 1.  **스루 패스를 활용하기:** 발 앞으로만 주는 패스보다, 빈 공간으로 찔러 주는

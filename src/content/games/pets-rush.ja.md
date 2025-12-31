@@ -1,7 +1,8 @@
 ---
 title: Pets Rush
 description: Pets Rushはマッチ3パズルです。同じペットをそろえて消し、レベル目標の達成を目指します。
-iframeSrc: 'https://petsrush2.h5games.usercontent.goog/v/e566fdbf-c420-4ec6-af2a-7e9a6edab856/'
+iframeSrc: >-
+  https://petsrush2.h5games.usercontent.goog/v/e566fdbf-c420-4ec6-af2a-7e9a6edab856/
 thumbnail: /new-images/thumbnails/pets-rush.jpg
 urlstr: pets-rush
 score: 4.3/5  (2150 votes)
@@ -19,6 +20,7 @@ locale: ja
 Pets Rushは、ペットが並ぶボードで3つ以上をそろえて消していくマッチ3パズルです。ボードを整理しながら、レベルごとの目標を達成します。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **目標に焦点を当てる:** 各レベルには特定の目標があります。

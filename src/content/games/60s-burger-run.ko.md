@@ -1,17 +1,16 @@
 ---
 locale: ko
 urlstr: 60s-burger-run
-title: '60 Seconds Burger Run 60초 버거 런'
+title: 60 Seconds Burger Run 60초 버거 런
 description: >-
-  60초라는 제한 시간 안에 햄버거 가게에 도착해야 하는 스피드 런 플랫폼 게임
-  60 Seconds Burger Run입니다. 빠른 판단과 점프로 최대한 많은 스테이지를
-  돌파해 보세요.
+  60초라는 제한 시간 안에 햄버거 가게에 도착해야 하는 스피드 런 플랫폼 게임 60 Seconds Burger Run입니다. 빠른 판단과
+  점프로 최대한 많은 스테이지를 돌파해 보세요.
 iframeSrc: 'https://www.playfiddlebops.com/embed/60s-burger-run/index.html'
 thumbnail: /new-images/thumbnails/60s-burger-run.jpg
 tags:
   - 60 seconds burger run
 score: 4.6/5  (1344 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -42,6 +41,7 @@ releaseDate: 2025-12-04
 
 ---
 
+<!-- i18n:section:tips -->
 ### 전략과 팁
 
 - **길 외우기가 핵심:** 스테이지가 바뀌어도 타이머는 초기화되지 않기 때문에,

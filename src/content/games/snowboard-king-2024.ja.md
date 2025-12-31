@@ -1,13 +1,16 @@
 ---
-title: "Snowboard King 2024"
-description: "Snowboard King 2024は雪山を滑り降りるアーケードゲームです。雪崩に追われながら障害物を避け、コインで能力を強化します。"
-iframeSrc: "https://61nls5ipnd8o8.h5games.usercontent.goog/v/6mdu5qlsugsl0/"
+title: Snowboard King 2024
+description: Snowboard King 2024は雪山を滑り降りるアーケードゲームです。雪崩に追われながら障害物を避け、コインで能力を強化します。
+iframeSrc: 'https://61nls5ipnd8o8.h5games.usercontent.goog/v/6mdu5qlsugsl0/'
 thumbnail: /new-images/thumbnails/snowboard-king-2024.png
-urlstr: "snowboard-king-2024"
-score: "4.4/5  (2500 votes)"
-tags: ["sports", "action", "driving"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: snowboard-king-2024
+score: 4.4/5  (2500 votes)
+tags:
+  - sports
+  - action
+  - driving
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,6 +21,7 @@ locale: ja
 Snowboard King 2024は、危険な無限の山の斜面をスノーボードで滑り降りる、スリリングでスピード感あふれるアーケードゲームです。主な目標は、木や岩などの障害物を巧みに避けながら、できるだけ長く生き延びることです。さらに挑戦的なのは、致命的な雪崩があなたを背後から常に追いかけており、スピードを維持し素早く考えることを余儀なくされることです。途中でコインを集めて能力をアップグレードし、Snowboard Kingの称号を固めましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略とウォークスルー
 
 1.  **先を見る：** 長く走るための鍵は予測です。斜面のはるか先に目を向けて、次に来る障害物を確認し、事前に経路を計画しましょう。

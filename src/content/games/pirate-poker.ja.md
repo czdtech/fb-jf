@@ -9,7 +9,7 @@ tags:
   - card
   - casual
 developer: ''
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -19,6 +19,7 @@ locale: ja
 Pirate Pokerは、クラシックなポーカーゲームプレイに海賊テーマを追加します。手を作り、賭け、ブラフし、海賊対戦相手を打ち負かします。テキサスホールデムルールで、海賊の雰囲気。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **手のランキングを学ぶ:** ポーカーハンドを知ります。

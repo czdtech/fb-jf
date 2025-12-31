@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: clash-of-warriors
-title: 'Clash of Warriors 클래시 오브 워리어즈'
+title: Clash of Warriors 클래시 오브 워리어즈
 description: >-
-  Clash of Warriors는 짧고 굵은 카드 배틀이 핵심인 전략 게임입니다. 마나曲선에
-  맞춰 카드를 내고, 효율적인 교환으로 보드를 장악해 상대를 읽어내며 승리를
-  노려 보세요.
+  Clash of Warriors는 짧고 굵은 카드 배틀이 핵심인 전략 게임입니다. 마나曲선에 맞춰 카드를 내고, 효율적인 교환으로 보드를
+  장악해 상대를 읽어내며 승리를 노려 보세요.
 iframeSrc: 'https://7t89fh6irdv0g.h5games.usercontent.goog/v/5gpd6kf06hr8g/'
 thumbnail: /new-images/thumbnails/clash-of-warriors.png
 tags:
@@ -28,6 +27,7 @@ Clash of Warriors는 턴마다 카드를 내어 싸우는 카드 배틀을 짧�
 성격이 크게 달라질 수 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **마나 커브(코스트 곡선)를 지키기**  

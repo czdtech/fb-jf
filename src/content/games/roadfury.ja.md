@@ -10,7 +10,7 @@ tags:
   - racing
   - shooter
 developer: ''
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -20,6 +20,7 @@ locale: ja
 RoadFuryは、レーシングとシューティングを激しいカーチェイスで組み合わせます。運転し、敵の車両を射撃し、障害物を避け、できるだけ長く生き残ります。アップグレード可能な武器と車両。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **射撃を止めない:** 敵を破壊してポイントを稼ぎます。

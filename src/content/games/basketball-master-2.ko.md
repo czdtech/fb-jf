@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: basketball-master-2
-title: 'Basketball Master 2 농구 마스터 2'
+title: Basketball Master 2 농구 마스터 2
 description: >-
-  드래그로 각도와 힘을 조절해 슛을 넣는 농구 슈팅 연습 게임입니다. 나무와
-  얼음 블록을 부수며 골대를 노리고, 난이도가 올라가는 스테이지를 클리어해
-  보세요.
+  드래그로 각도와 힘을 조절해 슛을 넣는 농구 슈팅 연습 게임입니다. 나무와 얼음 블록을 부수며 골대를 노리고, 난이도가 올라가는 스테이지를
+  클리어해 보세요.
 iframeSrc: 'https://basketballmaster2.h5games.usercontent.goog/v/267j5oehq25q0/'
 thumbnail: /new-images/thumbnails/basketball-master-2.png
 tags:
@@ -26,6 +25,7 @@ Basketball Master 2는 골대에 공을 집어넣는 데 집중한 농구 슈팅
 됩니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **각도 우선, 힘은 미세 조절:** 먼저 적절한 포물선 각도를 찾고, 이후에는

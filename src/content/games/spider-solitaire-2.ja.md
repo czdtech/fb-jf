@@ -1,13 +1,16 @@
 ---
-title: "Spider Solitaire"
-description: "Spider Solitaireは104枚で遊ぶソリティアです。スートごとに降順の並びを作ってタブローをクリアします。"
-iframeSrc: "https://spidersolitaire.h5games.usercontent.goog/v/42fd7cuq80rao/"
+title: Spider Solitaire
+description: Spider Solitaireは104枚で遊ぶソリティアです。スートごとに降順の並びを作ってタブローをクリアします。
+iframeSrc: 'https://spidersolitaire.h5games.usercontent.goog/v/42fd7cuq80rao/'
 thumbnail: /new-images/thumbnails/spider-solitaire-2.png
-urlstr: "spider-solitaire-2"
-score: "4.8/5  (3200 votes)"
-tags: ["card", "puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: spider-solitaire-2
+score: 4.8/5  (3200 votes)
+tags:
+  - card
+  - puzzle
+  - thinky
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 locale: ja
 ---
 
@@ -18,6 +21,7 @@ locale: ja
 Spider Solitaireは、ソリティアの最も人気があり挑戦的なバリエーションの1つです。2つの完全なカードデッキでプレイし、目標はキングからエースまでの1つのスートの完全な降順シーケンスを8つ構築してタブローをクリアすることです。完全なシーケンスが完成すると、プレイから削除されます。このゲームは、特に2つまたは4つのスートでプレイする場合、その難しさと勝つために必要な戦略的深さで有名です。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略とウォークスルー
 
 1.  **目標：** タブロー内で、各キングからエースまでの1つのスートで8つのカードシーケンスを構築すること。完全なK-to-Aシーケンスが形成されると、ボードから自動的に削除されます。タブローが空になるとゲームに勝ちます。

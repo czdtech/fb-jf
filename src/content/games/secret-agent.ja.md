@@ -1,13 +1,16 @@
 ---
-title: "Secret Agent"
-description: "Secret Agentはステルスアクションゲームです。基地に侵入し、見つからないようにミッションを達成します。"
-iframeSrc: "https://087cce7dimlq8.h5games.usercontent.goog/v/6na8sphqpnhlo/"
+title: Secret Agent
+description: Secret Agentはステルスアクションゲームです。基地に侵入し、見つからないようにミッションを達成します。
+iframeSrc: 'https://087cce7dimlq8.h5games.usercontent.goog/v/6na8sphqpnhlo/'
 thumbnail: /new-images/thumbnails/secret-agent.png
-urlstr: "secret-agent"
-score: "4.0/5  (1874 votes)"
-tags: ["action", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: secret-agent
+score: 4.0/5  (1874 votes)
+tags:
+  - action
+  - thinky
+  - casual
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 locale: ja
 ---
 
@@ -17,6 +20,7 @@ locale: ja
 Secret Agentは、敵の基地に侵入し、検出を避け、ミッションを完了するステルスベースのアクションゲームです。カバーの後ろに隠れ、ガードをテイクダウンし、目標を安全に達成します。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイ戦略と攻略法
 
 1.  **ステルスを使う:** 見つからない動きを優先します。

@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: baseball
-title: 'Doodle Baseball 두들 베이스볼'
+title: Doodle Baseball 두들 베이스볼
 description: >-
-  손그림 스타일로 즐기는 아케이드 야구 게임 Doodle Baseball입니다. 투수의
-  공을 보고 타이밍에 맞춰 한 번의 클릭으로 홈런을 노려 보세요.
+  손그림 스타일로 즐기는 아케이드 야구 게임 Doodle Baseball입니다. 투수의 공을 보고 타이밍에 맞춰 한 번의 클릭으로 홈런을 노려
+  보세요.
 iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
 thumbnail: /new-images/thumbnails/baseball.jpg
 tags:
@@ -27,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 삼진을 당하면 게임이 종료되며, 그때까지 얻은 점수가 최종 기록이 됩니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략
 
 한 번의 버튼 입력만 사용하는 게임이지만, 좋은 기록을 내기 위해서는 집중력과

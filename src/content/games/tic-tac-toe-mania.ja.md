@@ -19,6 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Tic Tac Toe Maniaは、クラシックな三目並べゲームに新しいモードと挑戦を加えた拡張版です。AIまたは友達と対戦しましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイガイド
 
  - **交互に配置：** X または O を配置します

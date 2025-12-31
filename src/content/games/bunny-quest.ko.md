@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: bunny-quest
-title: 'Bunny Quest 버니 퀘스트'
+title: Bunny Quest 버니 퀘스트
 description: >-
-  Bunny Quest는 타일을 밀어 길을 만드는 경로 퍼즐 게임입니다. 타일을 슬라이드해
-  토끼가 출발점에서 목표 지점까지 끊기지 않는 길을 만들고, 가능하다면 중간의
-  아이템도 챙겨 보세요.
+  Bunny Quest는 타일을 밀어 길을 만드는 경로 퍼즐 게임입니다. 타일을 슬라이드해 토끼가 출발점에서 목표 지점까지 끊기지 않는 길을
+  만들고, 가능하다면 중간의 아이템도 챙겨 보세요.
 iframeSrc: 'https://630h8fcg3e938.h5games.usercontent.goog/v/51qfd4fr90dro/'
 thumbnail: /new-images/thumbnails/bunny-quest.png
 tags:
@@ -29,6 +28,7 @@ Bunny Quest는 길이 그려진 타일을 미끄러뜨려 연결하는 슬라이
 찾는 것이 핵심입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **직선·코너 타일로 메인 길부터 그리기**  

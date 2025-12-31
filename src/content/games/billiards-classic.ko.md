@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: billiards-classic
-title: 'Billiards Classic 클래식 당구'
+title: Billiards Classic 클래식 당구
 description: >-
-  클래식 8볼 룰을 브라우저에서 즐길 수 있는 Billiards Classic입니다. 에임과
-  회전을 조절해 자신의 공을 모두 넣고, 마지막에 8번 볼까지 정확히 넣어
-  승리를 노려 보세요.
+  클래식 8볼 룰을 브라우저에서 즐길 수 있는 Billiards Classic입니다. 에임과 회전을 조절해 자신의 공을 모두 넣고, 마지막에
+  8번 볼까지 정확히 넣어 승리를 노려 보세요.
 iframeSrc: 'https://billiardsclassic.h5games.usercontent.goog/v/27m4mvjv84l70/'
 thumbnail: /new-images/thumbnails/billiards-classic.png
 tags:
@@ -26,6 +25,7 @@ Billiards Classic은 전통적인 8볼 포켓볼을 디지털로 재현한 게�
 가지 않고도 클래식 룰을 연습할 수 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **브레이크 샷:** 게임은 브레이크로 시작합니다. 삼각 랙의 정면 공을 정확히

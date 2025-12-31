@@ -1,7 +1,8 @@
 ---
 title: Train 2048
 description: Train 2048は、2048ゲームと列車を組み合わせたパズルゲームです。同じ数字の列車を合体させましょう。
-iframeSrc: 'https://train2048.h5games.usercontent.goog/v/efebc769-0d8d-48f4-b437-af712b013132/'
+iframeSrc: >-
+  https://train2048.h5games.usercontent.goog/v/efebc769-0d8d-48f4-b437-af712b013132/
 thumbnail: /new-images/thumbnails/train-2048.jpg
 urlstr: train-2048
 score: 4.1/5  (1120 votes)
@@ -10,7 +11,7 @@ tags:
   - numbers
   - merge
 locale: ja
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -19,6 +20,7 @@ releaseDate: 2025-10-17
 Train 2048は、クラシックな2048パズルゲームに列車のテーマを加えたゲームです。同じ数字の列車を合体させて、2048列車を作りましょう。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### ゲームプレイガイド
 
  - **列車を動かす：** 矢印キーで列車を移動させます

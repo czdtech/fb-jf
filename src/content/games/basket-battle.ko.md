@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: basket-battle
-title: 'Basket Battle 배스킷 배틀'
+title: Basket Battle 배스킷 배틀
 description: >-
-  Basket Battle은 물리 기반 농구 대전 미니게임입니다. 슛 각도와 힘을 맞추고
-  리바운드를 장악해 짧은 한 판에서 상대보다 더 많은 점수를 넣어 보세요.
+  Basket Battle은 물리 기반 농구 대전 미니게임입니다. 슛 각도와 힘을 맞추고 리바운드를 장악해 짧은 한 판에서 상대보다 더 많은
+  점수를 넣어 보세요.
 iframeSrc: 'https://1e2ocejsf0rm8.h5games.usercontent.goog/v/093f1a2jf2p98/'
 thumbnail: /new-images/thumbnails/basket-battle.png
 tags:
@@ -22,6 +22,7 @@ Basket Battle은 짧고 빠른 라운드로 진행되는 물리 기반 농구 �
 곧바로 다시 공격을 이어 가는 것이 핵심입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **높은 호 아크로 던지기:** 림 바로 위를 살짝 넘기는 높은 포물선을 그리는
