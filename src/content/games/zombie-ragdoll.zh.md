@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: zombie-ragdoll
-title: 'Zombie Ragdoll：布偶僵尸弹射解谜'
+title: Zombie Ragdoll：布偶僵尸弹射解谜
 description: >-
-  《Zombie Ragdoll》是一款带 ragdoll 物理效果的射击解谜游戏。
-  把僵尸布偶像炮弹一样发射出去，触发机关、引爆炸药、推倒结构，
+  《Zombie Ragdoll》是一款带 ragdoll 物理效果的射击解谜游戏。 把僵尸布偶像炮弹一样发射出去，触发机关、引爆炸药、推倒结构，
   利用连锁反应清除整片关卡。
 iframeSrc: 'https://04qb5fhi49qmg.h5games.usercontent.goog/v/64br0v92f7928/'
 thumbnail: /new-images/thumbnails/zombie-ragdoll.jpg
@@ -29,6 +28,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 才能用尽可能少的发射次数完成任务，拿到更高评价。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游玩策略与通关思路
 
 1.  **第一发当“侦察弹”：**  

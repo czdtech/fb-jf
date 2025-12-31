@@ -3,14 +3,15 @@ locale: zh
 urlstr: tiles-of-egypt
 title: 《Tiles of Egypt》埃及方块秘境
 description: 《Tiles of Egypt》是一款以古埃及为主题的方块配对消除游戏。在金字塔与神庙背景下，从堆叠的方块中找出相同图案进行消除，解开古老的谜团。
-iframeSrc: 'https://tilesofegypt.h5games.usercontent.goog/v/dd964fa3-8999-4546-a4a0-d55a0cc72248/'
+iframeSrc: >-
+  https://tilesofegypt.h5games.usercontent.goog/v/dd964fa3-8999-4546-a4a0-d55a0cc72248/
 thumbnail: /new-images/thumbnails/tiles-of-egypt.jpg
 tags:
   - puzzle
   - match 3
   - casual
 score: 4.4/5  (2350 votes)
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -19,6 +20,7 @@ releaseDate: 2025-10-17
 《Tiles of Egypt》将三消/连连看式玩法与埃及风美术结合。你需要在层叠的方块堆中找出图案相同的方块，将它们加入下方托盘并凑成三张以完成消除。随着关卡推进，方块堆的结构会越来越复杂，图案也更繁多，需要更好的观察力与规划能力。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游玩策略与通关指引
 
 1.  **拆解高层与遮挡：** 优先消除位于高层或明显压在其他方块上的那几块，以尽快打开视野，让更多方块可用。

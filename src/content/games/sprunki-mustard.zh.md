@@ -1,14 +1,14 @@
 ---
-locale: "zh"
-urlstr: "sprunki-mustard"
-
-title: "Sprunki Mustard - 在线玩 Sprunki Mustard"
-description: "在这款 Sprunki Mustard Mod 中，所有角色都被重新塑造，呈现出统一的芥末黄配色方案，为原本充满活力的画面增添了一种挥之不去的诡异感。"
-iframeSrc: "https://html-classic.itch.zone/html/14281578/index.html"
+locale: zh
+urlstr: sprunki-mustard
+title: Sprunki Mustard - 在线玩 Sprunki Mustard
+description: 在这款 Sprunki Mustard Mod 中，所有角色都被重新塑造，呈现出统一的芥末黄配色方案，为原本充满活力的画面增添了一种挥之不去的诡异感。
+iframeSrc: 'https://html-classic.itch.zone/html/14281578/index.html'
 thumbnail: /new-images/thumbnails/sprunki-mustard.png
-score: "3.9/5  (827 votes)"
-tags: ["sprunki mustard"]
-releaseDate: 2025-12-04
+score: 3.9/5  (827 votes)
+tags:
+  - sprunki mustard
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### 什么是 Sprunki Mustard？
@@ -28,6 +28,7 @@ Sprunki Mustard 不仅仅是一个换色的 Mod，它是视觉与听觉的奇妙
 - **创意音乐作品：** 每个角色的声音都可以叠加，构建复杂的、沉浸式的曲目，符合 Mod 的风格。
 - **奖励动画：** 发现由特定声音组合触发的特殊动画，为恐怖主题增添深度。
 
+<!-- i18n:section:controls -->
 ### Sprunki Mustard 的操作
 
 Sprunki Mustard 的操作简单直接。Incredibox 系列的粉丝肯定不会陌生。你只需像往常一样选择角色并将它们拖到舞台上，然后就可以开始聆听这场独特的音乐盛宴了。

@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: powerwall
-title: 'Powerwall'
-description: >-
-  在快节奏街机游戏 Powerwall 中守护你的球门。使用能量屏障拦截来球，展现你的反应速度和时机把握能力。
+title: Powerwall
+description: 在快节奏街机游戏 Powerwall 中守护你的球门。使用能量屏障拦截来球，展现你的反应速度和时机把握能力。
 iframeSrc: 'https://powerwall2.h5games.usercontent.goog/v/2744b7jm5t0jg/'
 thumbnail: /new-images/thumbnails/powerwall.png
 tags:
@@ -22,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Powerwall 是一款极简风格、高能量的街机游戏，考验你的反应速度和时机把握。游戏目标是通过激活临时能量屏障——Powerwall——来守护你的球门线，阻挡高速移动的球。随着球在场地中不断弹跳，速度会越来越快，要求你做出更快的反应。你坚持的时间越长，不让球通过，得分就越高。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与攻略
 1.  **时机就是一切：** 核心机制是在球即将击中球门线的精确时刻激活 Powerwall。激活太早，屏障会消失；激活太晚，球就会穿过。多加练习，找到节奏感。
 2.  **专注于球：** 眼睛紧盯球的运动轨迹，不要被屏幕上的其他东西分散注意力。预判球从其他墙壁反弹后的路径。

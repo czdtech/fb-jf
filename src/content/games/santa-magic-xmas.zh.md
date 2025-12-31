@@ -2,8 +2,7 @@
 locale: zh
 urlstr: santa-magic-xmas
 title: 《Santa Magic Xmas》圣诞老人的魔法礼物
-description: >-
-  《Santa Magic Xmas》是一款充满节日气息的三消解谜游戏！通过匹配色彩缤纷的圣诞装饰品并清空棋盘，帮助圣诞老人送出礼物，感受圣诞魔法。
+description: 《Santa Magic Xmas》是一款充满节日气息的三消解谜游戏！通过匹配色彩缤纷的圣诞装饰品并清空棋盘，帮助圣诞老人送出礼物，感受圣诞魔法。
 iframeSrc: 'https://santamagicxmas.h5games.usercontent.goog/v/27gpp489kce80/'
 thumbnail: /new-images/thumbnails/santa-magic-xmas.png
 tags:
@@ -20,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 《Santa Magic Xmas》是一款充满欢乐和节日气息的三消解谜游戏，让你完全沉浸在圣诞氛围中。你的目标是通过匹配色彩缤纷的圣诞物品如铃铛、装饰球和姜饼人来帮助圣诞老人。交换相邻的物品创造三个或更多的连线，触发强力连击，完成每个关卡的目标，确保所有礼物都能准时送达！
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏玩法与攻略
 
 1.  **制作节日强化道具：** 清空棋盘的最佳方法是通过更大的匹配来制作特殊物品。

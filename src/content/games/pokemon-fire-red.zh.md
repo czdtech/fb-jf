@@ -1,9 +1,10 @@
 ---
 locale: zh
 urlstr: pokemon-fire-red
-title: "《Pokemon Fire Red》宝可梦 火红版"
+title: 《Pokemon Fire Red》宝可梦 火红版
 description: >-
-  《Pokemon Fire Red》是初代《宝可梦 红》的忠实重制版，你将在关都地区展开冒险，捕捉与培养宝可梦、挑战八大道馆并挫败火箭队的阴谋，最终成为宝可梦联盟冠军。
+  《Pokemon Fire Red》是初代《宝可梦
+  红》的忠实重制版，你将在关都地区展开冒险，捕捉与培养宝可梦、挑战八大道馆并挫败火箭队的阴谋，最终成为宝可梦联盟冠军。
 iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonred'
 thumbnail: /new-images/thumbnails/pokemon-fire-red.jpg
 tags:
@@ -21,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 《Pokemon Fire Red》（宝可梦 火红版）是对初代《宝可梦 红》的 GBA 世代重制作品。你将从真新镇出发，以新晋训练家的身份游历关都地区，与劲敌一同成长，一边在各地捕捉宝可梦、强化队伍，一边挑战八大道馆并不断打击邪恶组织火箭队的阴谋，最终向四天王与冠军发起挑战。
 
+<!-- i18n:section:tips -->
 ### 玩法策略
 
 1.  **选择你的初始伙伴：** 游戏开局可在妙蛙种子（草）、小火龙（火）和杰尼龟（水）三只御三家中选择一只作为初始伙伴。不同御三家在前中期的体验略有差异，可根据对道馆属性和个人喜好来决定。

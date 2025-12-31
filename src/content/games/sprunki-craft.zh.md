@@ -1,14 +1,17 @@
 ---
-locale: "zh"
-urlstr: "sprunki-craft"
-
-title: "Sprunki Craft 🎮 在线玩 Sprunki Craft"
-description: "Sprunki Craft 是 Minecraft 和 Incredibox 的完美结合，为玩家提供了一个充满创意和乐趣的音乐创作平台。快来加入 Sprunki Craft 的世界，用你熟悉的 Minecraft 角色创作属于你自己的专属音乐作品！"
-iframeSrc: "https://www.minijuegos.com/embed/sprunki-craft"
+locale: zh
+urlstr: sprunki-craft
+title: "Sprunki Craft \U0001F3AE 在线玩 Sprunki Craft"
+description: >-
+  Sprunki Craft 是 Minecraft 和 Incredibox 的完美结合，为玩家提供了一个充满创意和乐趣的音乐创作平台。快来加入
+  Sprunki Craft 的世界，用你熟悉的 Minecraft 角色创作属于你自己的专属音乐作品！
+iframeSrc: 'https://www.minijuegos.com/embed/sprunki-craft'
 thumbnail: /new-images/thumbnails/sprunki-craft.jpg
-score: "4.9/5  (724 votes)"
-tags: ["sprunki craft", "sprunki craft online"]
-releaseDate: 2025-12-04
+score: 4.9/5  (724 votes)
+tags:
+  - sprunki craft
+  - sprunki craft online
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Craft 介绍
@@ -38,6 +41,7 @@ Sprunki Craft 最吸引人的地方是它互动式的音乐创作方式。你可
 
 ---
 
+<!-- i18n:section:controls -->
 ### 简单操作，适合所有年龄
 
 Sprunki Craft 的操作非常简单直观，无论是使用鼠标还是在手机和平板上使用触控，都能轻松上手。无论你是音乐创作的新手还是 Minecraft 的老玩家，都能在 Sprunki Craft 的世界中找到属于自己的快乐。

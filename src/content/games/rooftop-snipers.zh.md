@@ -1,9 +1,10 @@
 ---
 locale: zh
 urlstr: rooftop-snipers
-title: "《Rooftop Snipers》天台布偶狙击战"
+title: 《Rooftop Snipers》天台布偶狙击战
 description: >-
-  《Rooftop Snipers》是系列初代作品，两名像素小人站在楼顶上，用极其简单的操作互相射击、把对方掀下楼。夸张的 ragdoll 布偶物理和“看似简单其实很坑”的操作，让对战既好笑又有难度。
+  《Rooftop Snipers》是系列初代作品，两名像素小人站在楼顶上，用极其简单的操作互相射击、把对方掀下楼。夸张的 ragdoll
+  布偶物理和“看似简单其实很坑”的操作，让对战既好笑又有难度。
 iframeSrc: 'https://webglmath.github.io/rooftop-snipers/'
 thumbnail: /new-images/thumbnails/rooftop-snipers.jpg
 tags:
@@ -20,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 《Rooftop Snipers》是本系列最早的布偶物理对战射击游戏。两名像素风角色站在高楼天台上，通过简单的移动、跳跃和射击操作，把对手从楼顶打落下去。游戏以滑稽的布偶动作、不可预期的反冲效果和“操作越紧张越容易翻车”的特性着称，也为后续续作打下了玩法基础。
 
+<!-- i18n:section:tips -->
 ### 游玩策略
 
 1.  **先练好基础操作：** 熟悉移动、跳跃与射击的组合键位，学会在保持平衡的前提下完成连贯动作，是稳定发挥的前提。

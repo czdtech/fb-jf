@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: puzzle-pieces
-title: "《Puzzle Pieces》极简方块拼图挑战"
-description: >-
-  《Puzzle Pieces》是一款干净利落的方块拼图游戏，通过拖动和旋转拼图块，恰到好处地填满棋盘，不留任何空格。
+title: 《Puzzle Pieces》极简方块拼图挑战
+description: 《Puzzle Pieces》是一款干净利落的方块拼图游戏，通过拖动和旋转拼图块，恰到好处地填满棋盘，不留任何空格。
 iframeSrc: 'https://05c9vfh919cbg.h5games.usercontent.goog/v/0ki2bua5asq00/'
 thumbnail: /new-images/thumbnails/puzzle-pieces.png
 tags:
@@ -20,6 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Puzzle Pieces》是一款精致的平面拼图游戏。你需要拖动并旋转各式各样的多边形拼图块，恰好填满棋盘上的所有格子。随着关卡推进，布局会越来越复杂，你必须在有限空间中合理安放每一块拼图。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 通关思路与策略指南
 
 1.  先放“锚点”拼图：优先摆放形状独特或体积较大的拼图块，减少后续摆放的不确定性。

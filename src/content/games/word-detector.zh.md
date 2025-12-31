@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: word-detector
-title: 'Word Detector：单词侦探'
-description: >-
-  《Word Detector》是一款节奏明快的找词游戏。
-  在字母方阵中连线拼出单词，在时间耗尽前尽可能多地得分，
-  一边检验词汇量，一边提升观察与反应速度。
+title: Word Detector：单词侦探
+description: 《Word Detector》是一款节奏明快的找词游戏。 在字母方阵中连线拼出单词，在时间耗尽前尽可能多地得分， 一边检验词汇量，一边提升观察与反应速度。
 iframeSrc: 'https://worddetector.h5games.usercontent.goog/v/4gaf9ej9hp398/'
 thumbnail: /new-images/thumbnails/word-detector.png
 tags:
@@ -29,6 +26,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 你需要在倒计时结束前达成目标才能解锁下一关。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游玩策略与通关思路
 
 1.  **优先留意常见前后缀：**  

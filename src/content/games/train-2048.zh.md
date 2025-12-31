@@ -3,14 +3,15 @@ locale: zh
 urlstr: train-2048
 title: 《Train 2048》火车版 2048
 description: 《Train 2048》是一款将 2048 合并机制与火车元素结合的数字益智游戏。通过滑动整排车厢，使相同数字的车厢相遇合并，努力合成更高数值的列车。
-iframeSrc: 'https://train2048.h5games.usercontent.goog/v/efebc769-0d8d-48f4-b437-af712b013132/'
+iframeSrc: >-
+  https://train2048.h5games.usercontent.goog/v/efebc769-0d8d-48f4-b437-af712b013132/
 thumbnail: /new-images/thumbnails/train-2048.jpg
 tags:
   - puzzle
   - numbers
   - '2048'
 score: 4.1/5  (1120 votes)
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
@@ -20,6 +21,7 @@ releaseDate: 2025-10-17
 《Train 2048》延续经典 2048 的数字合并玩法，只不过棋盘上的元素变成了一节节火车车厢。你通过滑动指令让所有车厢向一个方向移动，当两个相同数字的车厢碰到一起时就会合并成更高级的车厢。每一步移动后都会生成新的低级车厢，当棋盘被填满且无法合并时，游戏结束。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游玩策略与通关指引
 
 1.  **固定高数车厢角落：** 与传统 2048 一样，尽量让最高数值的车厢长期待在某个角落，这样不会轻易被移动到棋盘中间而被“搅乱布局”。

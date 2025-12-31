@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: wood-block-match
-title: 'Wood Block Match：木质方块消除'
+title: Wood Block Match：木质方块消除
 description: >-
-  《Wood Block Match》是一款节奏舒缓的木质方块拼图游戏。
-  拖动不同形状的木块填满行或列来清除棋盘，用聪明的布局预留空间、制造多行连消，
+  《Wood Block Match》是一款节奏舒缓的木质方块拼图游戏。 拖动不同形状的木块填满行或列来清除棋盘，用聪明的布局预留空间、制造多行连消，
   在宁静木纹中挑战高分。
 iframeSrc: 'https://2rfr65hktjv5o.h5games.usercontent.goog/v/46h85f5g0sldo/'
 thumbnail: /new-images/thumbnails/wood-block-match.png
@@ -29,6 +28,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 一边避免被“卡死”，一边精心设计一次清掉多行的连消。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游玩策略与通关思路
 
 1.  **保护中心空域：**

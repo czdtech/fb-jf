@@ -1,7 +1,7 @@
 ---
 locale: zh
 urlstr: unpark-me
-title: 'Unpark Me：停车场华容道'
+title: Unpark Me：停车场华容道
 description: >-
   《Unpark Me》是一款经典“停车场华容道”益智游戏。你需要在拥挤的停车场中移动
   其它车辆，为目标红色小车开辟一条通往出口的道路，用尽可能少的步数完成解谜。
@@ -30,6 +30,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 想要真正精通这款游戏，不仅要能“解出来”，还要追求用尽可能少的步数完成挑战。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游玩策略与通关思路
 
 1.  **先找出关键阻挡车辆：**

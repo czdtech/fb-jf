@@ -1,11 +1,8 @@
 ---
 locale: zh
 urlstr: zoo-boom
-title: 'Zoo Boom：动物方块连消乐园'
-description: >-
-  欢迎来到《Zoo Boom》！这是一款色彩缤纷的消除游戏，
-  点击相邻的同色动物方块即可爆破，完成关卡目标、触发华丽连锁反应，
-  在轻松的动物园冒险中一路闯关。
+title: Zoo Boom：动物方块连消乐园
+description: 欢迎来到《Zoo Boom》！这是一款色彩缤纷的消除游戏， 点击相邻的同色动物方块即可爆破，完成关卡目标、触发华丽连锁反应， 在轻松的动物园冒险中一路闯关。
 iframeSrc: 'https://zooboom.h5games.usercontent.goog/v/4g2tps61g9djg/'
 thumbnail: /new-images/thumbnails/zoo-boom.png
 tags:
@@ -32,6 +29,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 再配合连锁爆破，轻松清出大片空间、收获高分。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游玩策略与通关思路
 
 1.  **优先寻找大团动物：**  

@@ -2,10 +2,7 @@
 locale: zh
 urlstr: zombie-hunter-survival
 title: 'Zombie Hunter: Survival：顶视角丧尸生存战'
-description: >-
-  《Zombie Hunter: Survival》是一款俯视角生存射击游戏。
-  在狭窄地图中风筝成群僵尸，精打细算每一发子弹，
-  在一波又一波尸潮中活得更久。
+description: '《Zombie Hunter: Survival》是一款俯视角生存射击游戏。 在狭窄地图中风筝成群僵尸，精打细算每一发子弹， 在一波又一波尸潮中活得更久。'
 iframeSrc: 'https://6ctmcm40nbff0.h5games.usercontent.goog/v/2a81mr3h8ut10/'
 thumbnail: /new-images/thumbnails/zombie-hunter-survival.png
 tags:
@@ -27,6 +24,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 你的站位、换弹时机和捡补给的路线规划都会变得至关重要。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游玩策略与通关思路
 
 1.  **画大圈风筝：**  

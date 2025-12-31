@@ -1,9 +1,10 @@
 ---
 locale: zh
 urlstr: raft-wars
-title: "《Raft Wars》木筏宝藏大作战"
+title: 《Raft Wars》木筏宝藏大作战
 description: >-
-  《Raft Wars》是一款回合制物理射击+策略小游戏。玩家要帮助两位发现宝藏的小兄弟，用网球等各类投射武器，在海上与海盗、维京人等敌人对战，守护来之不易的财富。
+  《Raft
+  Wars》是一款回合制物理射击+策略小游戏。玩家要帮助两位发现宝藏的小兄弟，用网球等各类投射武器，在海上与海盗、维京人等敌人对战，守护来之不易的财富。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210301/jj8/index.html
 thumbnail: /new-images/thumbnails/raft-wars.jpg
@@ -21,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 《Raft Wars》是一款充满童趣又不失策略性的回合制射击游戏。两个小男孩在海滩上意外挖到宝藏，却因此招来一大堆海盗、雇佣兵和维京人前来抢夺。你需要站在小木筏上，利用网球和后续解锁的各种弹药，通过调节角度与力度，把敌人一一击落海中，或者炸翻他们的木筏。
 
+<!-- i18n:section:tips -->
 ### 游玩策略
 
 1.  **先练好射击手感：** 通过不断尝试来熟悉抛物线弹道，多观察子弹飞行轨迹与落点，高度和力度的微小调整都会带来截然不同的结果。

@@ -1,9 +1,10 @@
 ---
 locale: zh
 urlstr: ragdoll-archers
-title: "《Ragdoll Archers》布偶射箭对决"
+title: 《Ragdoll Archers》布偶射箭对决
 description: >-
-  《Ragdoll Archers》是一款基于真实物理的箭术对战游戏。你要操控摇摇晃晃的布偶弓箭手，用弓箭射倒对手，夸张的 ragdoll 物理效果让每一箭都充满变数和笑点。
+  《Ragdoll Archers》是一款基于真实物理的箭术对战游戏。你要操控摇摇晃晃的布偶弓箭手，用弓箭射倒对手，夸张的 ragdoll
+  物理效果让每一箭都充满变数和笑点。
 iframeSrc: 'https://bitlifeonline.github.io/ragdoll-archers/'
 thumbnail: /new-images/thumbnails/ragdoll-archers.jpg
 tags:
@@ -20,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 《Ragdoll Archers》是一款强调物理反馈的射箭对战游戏。你操控的是身体软绵绵、重心不稳的布偶弓箭手，在战场上与其他弓手对射。每一箭的抛物线、落点和命中部位都会受到重力与人物姿势影响，再加上角色容易东倒西歪的 ragdoll 动作，让战斗既有操作感，又充满喜感与意外。
 
+<!-- i18n:section:tips -->
 ### 游玩策略
 
 1.  **先掌握射击手感：** 通过反复练习来熟悉拉弓角度和蓄力强度，学会根据重力和飞行距离预判箭矢的下坠幅度。

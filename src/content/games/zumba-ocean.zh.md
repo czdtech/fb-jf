@@ -1,10 +1,9 @@
 ---
 locale: zh
 urlstr: zumba-ocean
-title: 'Zumba Ocean：海底祖玛冒险'
+title: Zumba Ocean：海底祖玛冒险
 description: >-
-  在《Zumba Ocean》中潜入海底，体验经典祖玛式弹珠消除玩法。
-  向不断前进的彩色珠链发射珍珠，凑成三颗或以上同色即可消除，
+  在《Zumba Ocean》中潜入海底，体验经典祖玛式弹珠消除玩法。 向不断前进的彩色珠链发射珍珠，凑成三颗或以上同色即可消除，
   在珠链冲到终点之前全部清空它们。
 iframeSrc: 'https://zumbaocean.h5games.usercontent.goog/v/1gb65icesunig/'
 thumbnail: /new-images/thumbnails/zumba-ocean.png
@@ -32,6 +31,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 形成炫目的连锁反应与更高得分。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游玩策略与通关思路
 
 1.  **制造连锁：**  

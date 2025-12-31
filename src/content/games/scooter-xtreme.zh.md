@@ -3,14 +3,15 @@ locale: zh
 urlstr: scooter-xtreme
 title: 《Scooter Xtreme》极限滑板车竞速
 description: 《Scooter Xtreme》是一款街头风格的滑板车竞速游戏。骑上你的踏板车在城市赛道上加速、跳跃、躲避障碍，和对手比拼谁能率先冲过终点。
-iframeSrc: 'https://scooterxtreme.h5games.usercontent.goog/v/c842db43-7823-45bc-b575-acbd9bda5de4/'
+iframeSrc: >-
+  https://scooterxtreme.h5games.usercontent.goog/v/c842db43-7823-45bc-b575-acbd9bda5de4/
 thumbnail: /new-images/thumbnails/scooter-xtreme.jpg
 tags:
   - racing
   - driving
   - casual
 score: 4.3/5  (2200 votes)
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
@@ -20,6 +21,7 @@ releaseDate: 2025-10-17
 《Scooter Xtreme》是一款操作轻松却颇具手感的滑板车竞速游戏。你将骑着小巧灵活的踏板车，在城市街道、坡道和障碍满满的赛道上狂飙。除了比拼最高时速之外，更重要的是踩准跳台、躲开路面障碍和来往车辆，在保证不失误的前提下保持最优路线，用技术赢下每一场比赛。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游玩策略与通关指引
 
 1.  **提前熟悉赛道：** 多跑几圈记住弯道位置、跳台高度以及障碍分布，越熟悉赛道就越能在关键位置提前调整。

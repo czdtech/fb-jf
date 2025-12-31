@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: polymatch
-title: "《PolyMatch》多图案连连消"
-description: >-
-  《PolyMatch》是一款考验观察力与规划能力的图案配对消除游戏，你需要从棋盘上找出成对相同的图块，并在下方有限的暂存槽中合理调度，逐步清空整个版面。
+title: 《PolyMatch》多图案连连消
+description: 《PolyMatch》是一款考验观察力与规划能力的图案配对消除游戏，你需要从棋盘上找出成对相同的图块，并在下方有限的暂存槽中合理调度，逐步清空整个版面。
 iframeSrc: 'https://4h72h3ha1dnh0.h5games.usercontent.goog/v/4mrusdmqik1l8/'
 thumbnail: /new-images/thumbnails/polymatch.png
 tags:
@@ -22,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《PolyMatch》是一款节奏适中、视觉风格清爽的图块配对游戏。棋盘上会铺满各种颜色与图案各异的方块，你的任务是通过点击选中图块，将它们暂存到屏幕下方的“收纳槽”中，只要槽中同一图案的方块凑成一对或一组三消，即可自动消除。难点在于收纳槽容量有限，如果被不成对的图块塞满，而你又找不到新的可配对方块，局面就会进入死局甚至直接失败。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **优先消除看得见的配对：** 先从棋盘上明显已成双成对的图块入手，直接点击并让它们在收纳槽中完成匹配，以便尽快腾出空间、翻出下层被遮挡的图块。

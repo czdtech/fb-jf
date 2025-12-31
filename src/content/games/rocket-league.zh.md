@@ -1,9 +1,10 @@
 ---
 locale: zh
 urlstr: rocket-league
-title: "《Rocket League》火箭联盟式赛车足球"
+title: 《Rocket League》火箭联盟式赛车足球
 description: >-
-  《Rocket League》是一款把足球与火箭喷射赛车结合在一起的高能体育游戏。你驾驶装有喷射推进器的战车在场上飞驰、跳跃、腾空撞球，把巨大足球撞进对方球门，完成一连串精彩空中配合。
+  《Rocket
+  League》是一款把足球与火箭喷射赛车结合在一起的高能体育游戏。你驾驶装有喷射推进器的战车在场上飞驰、跳跃、腾空撞球，把巨大足球撞进对方球门，完成一连串精彩空中配合。
 iframeSrc: 'https://ubg77.github.io/edit/rocket-soccer-derby/'
 thumbnail: /new-images/thumbnails/rocket-league.jpg
 tags:
@@ -20,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 《Rocket League》是一款节奏极快的车辆足球游戏。球员不再是人，而是装载火箭助推器的赛车。你需要通过驾驶、起跳和喷射加速等操作去撞击巨大的足球，将球送入对方球门。游戏依靠物理引擎模拟真实碰撞与飞行轨迹，以炫酷的空中对抗和高观赏度对局而闻名。
 
+<!-- i18n:section:tips -->
 ### 游玩策略
 
 1.  **先熟悉基础操作：** 扎实掌握加速、刹车、转向、跳跃以及喷射加速的基本手感，这是进阶玩法的前提。

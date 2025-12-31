@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: rotate
-title: "《Rotate》旋转世界解谜"
-description: >-
-  《Rotate》是一款难度不俗的物理解谜游戏。你需要不断旋转整个关卡，让小球在重力作用下滚过迷宫与障碍，最终抵达终点。
+title: 《Rotate》旋转世界解谜
+description: 《Rotate》是一款难度不俗的物理解谜游戏。你需要不断旋转整个关卡，让小球在重力作用下滚过迷宫与障碍，最终抵达终点。
 iframeSrc: 'https://rebemanae.github.io/rotate/'
 thumbnail: /new-images/thumbnails/rotate.jpg
 tags:
@@ -20,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 《Rotate》是一款以“旋转世界”作为核心机制的解谜游戏。你无法直接操控小球，只能通过旋转整个关卡来改变重力方向，让小球在斜坡、平台和陷阱之间滚动、滑落或加速前进。每一关都布置了复杂的迷宫结构和机关，你必须在合适的时机调整角度和节奏，才能把小球安全送到终点。
 
+<!-- i18n:section:tips -->
 ### 游玩策略
 
 1.  **理解重力方向变化：** 每一次旋转都会改变重力指向，小球的运动轨迹也会随之发生明显变化。先在脑中预演一下“旋转后重力朝哪边，小球会往哪滚”。

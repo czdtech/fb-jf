@@ -1,14 +1,15 @@
 ---
-locale: "zh"
-urlstr: "sprunki-play-random"
-
-title: "Sprunki Play Random - 在线玩 Sprunki Play Random"
-description: "Sprunki Play Random 是一款充满惊喜和乐趣的音乐创作游戏。如果你喜欢挑战和探索，那么 Sprunki Play Random 绝对适合你！"
-iframeSrc: "https://turbowarp.org/1148555262/embed"
+locale: zh
+urlstr: sprunki-play-random
+title: Sprunki Play Random - 在线玩 Sprunki Play Random
+description: Sprunki Play Random 是一款充满惊喜和乐趣的音乐创作游戏。如果你喜欢挑战和探索，那么 Sprunki Play Random 绝对适合你！
+iframeSrc: 'https://turbowarp.org/1148555262/embed'
 thumbnail: /new-images/thumbnails/sprunki-play-random.png
-score: "4.5/5  (614 votes)"
-tags: ["sprunki play random", "sprunki play random online"]
-releaseDate: 2025-12-04
+score: 4.5/5  (614 votes)
+tags:
+  - sprunki play random
+  - sprunki play random online
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Play Random 介绍
@@ -41,6 +42,7 @@ Sprunki Play Random 是一款充满惊喜和乐趣的音乐创作游戏。如果
 
 ---
 
+<!-- i18n:section:tips -->
 ### Sprunki Play Random 游戏技巧
 
 - **尝试不同的排列：** 角色的位置会影响最终的音效，大胆尝试找到最合适的排列！

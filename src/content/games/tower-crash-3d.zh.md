@@ -3,7 +3,8 @@ locale: zh
 urlstr: tower-crash-3d
 title: 《Tower Crash 3D》立体塔楼粉碎
 description: 《Tower Crash 3D》是一款物理弹射类拆塔游戏。发射彩色球体击中对应颜色的塔块，一层层摧毁高塔，享受解压的破坏感。
-iframeSrc: 'https://towercrash3d.h5games.usercontent.goog/v/7c54afc1-3ca4-4121-a52a-9ea74e30f0d7/'
+iframeSrc: >-
+  https://towercrash3d.h5games.usercontent.goog/v/7c54afc1-3ca4-4121-a52a-9ea74e30f0d7/
 thumbnail: /new-images/thumbnails/tower-crash-3d.jpg
 tags:
   - arcade
@@ -20,6 +21,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 《Tower Crash 3D》中，你面对的是一座由多层彩色砖块环绕堆叠而成的立体高塔。你的炮台会发射不同颜色的球体，只有击中相同颜色的塔块时，才能将其摧毁并让上层掉落。目标是在尽量少的射击次数内把整座高塔完全击垮。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游玩策略与拆塔指引
 
 1.  **优先瞄准结构薄弱处：** 寻找某一层或某一侧颜色集中、支撑较少的区域，击碎后更容易造成连锁坍塌。

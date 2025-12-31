@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: western-sniper
-title: 'Western Sniper：西部狙击手'
-description: >-
-  《Western Sniper》是一款节奏紧凑的西部狙击射击游戏。稳住准星、控制呼吸，
-  优先击杀远程威胁与爆炸物，在一关关短小精悍的任务中完成清剿目标。
+title: Western Sniper：西部狙击手
+description: 《Western Sniper》是一款节奏紧凑的西部狙击射击游戏。稳住准星、控制呼吸， 优先击杀远程威胁与爆炸物，在一关关短小精悍的任务中完成清剿目标。
 iframeSrc: 'https://4oill7a9ltc9g.h5games.usercontent.goog/v/54hea44l6fm4o/'
 thumbnail: /new-images/thumbnails/western-sniper.png
 tags:
@@ -26,6 +24,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 利用环境中的爆炸桶、绳索等机关，一发子弹即可解决多名敌人，是高效狙击手的标志。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游玩策略与通关思路
 
 1.  **优先击杀远程与爆炸威胁：**  

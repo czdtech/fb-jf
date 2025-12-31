@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: veggies-cut
-title: 'Veggies Cut：厨房切菜高手'
-description: >-
-  《Veggies Cut》是一款节奏感十足的切菜休闲游戏。用流畅的滑动划出利落刀路，
-  一次性切开尽可能多的蔬菜，躲开炸弹与危险道具，用稳定节奏冲击高分连击。
+title: Veggies Cut：厨房切菜高手
+description: 《Veggies Cut》是一款节奏感十足的切菜休闲游戏。用流畅的滑动划出利落刀路， 一次性切开尽可能多的蔬菜，躲开炸弹与危险道具，用稳定节奏冲击高分连击。
 iframeSrc: 'https://01pgt4aflffvo.h5games.usercontent.goog/v/2kpv41q3jen50/'
 thumbnail: /new-images/thumbnails/veggies-cut.jpg
 tags:
@@ -27,6 +25,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 所以每一次挥刀都要在“贪心多切一点”和“安全避开危险”之间做出取舍。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游玩策略与通关思路
 
 1.  **优先画长线连击：**

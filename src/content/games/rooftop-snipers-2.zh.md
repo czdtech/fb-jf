@@ -1,9 +1,10 @@
 ---
 locale: zh
 urlstr: rooftop-snipers-2
-title: "《Rooftop Snipers 2》天台布偶狙击战 2"
+title: 《Rooftop Snipers 2》天台布偶狙击战 2
 description: >-
-  《Rooftop Snipers 2》是一款充满搞笑 ragdoll 物理效果的对战射击小游戏。两名火柴人站在天台边缘，用各种武器把对手击飞下楼，过程充满失衡、反冲和意外翻车场面。
+  《Rooftop Snipers 2》是一款充满搞笑 ragdoll
+  物理效果的对战射击小游戏。两名火柴人站在天台边缘，用各种武器把对手击飞下楼，过程充满失衡、反冲和意外翻车场面。
 iframeSrc: 'https://rebemanae.github.io/rooftop-snipers-2/'
 thumbnail: /new-images/thumbnails/rooftop-snipers-2.jpg
 tags:
@@ -20,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 《Rooftop Snipers 2》是一款以物理引擎和夸张动作见长的对战射击游戏。两个火柴人站在楼顶边缘，用各式各样的武器互相射击、撞击，目标不是“打空血条”，而是把对手直接震飞出天台。由于采用 ragdoll 布偶物理，每一次射击和后坐力都会让角色摇摇晃晃，常常演变成充满笑点的混乱场面。
 
+<!-- i18n:section:tips -->
 ### 游玩策略
 
 1.  **掌握开枪时机：** 尽量在对手起跳、换位或露出大破绽时开火，提前预判对方移动轨迹，而不是盲目乱射。

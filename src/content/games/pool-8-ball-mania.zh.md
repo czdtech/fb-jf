@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: pool-8-ball-mania
-title: "《Pool 8 Ball Mania》八球桌球高手"
-description: >-
-  《Pool 8 Ball Mania》是一款规则接近酒吧八球的台球游戏，你需要精准瞄准、利用旋转控制主球走位，用合理的母球线路规划来清台取胜。
+title: 《Pool 8 Ball Mania》八球桌球高手
+description: 《Pool 8 Ball Mania》是一款规则接近酒吧八球的台球游戏，你需要精准瞄准、利用旋转控制主球走位，用合理的母球线路规划来清台取胜。
 iframeSrc: 'https://4i2ksm0sqbsr0.h5games.usercontent.goog/v/6fbgaukuhtvqo/'
 thumbnail: /new-images/thumbnails/pool-8-ball-mania.png
 tags:
@@ -20,6 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Pool 8 Ball Mania》模拟了操作手感相当顺滑的休闲八球桌球体验。核心不只是把球打进袋，而是通过精准控制母球（白球）的落点，为下一杆预留舒适的出杆角度。通过上旋让母球跟进、下旋把母球拉回、侧旋配合库边改变线路，你可以完成一整套流畅的清台路线。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 通关策略与玩法思路
 
 1.  **提前规划母球落点：** 每打一球前，先想好进球之后母球应该停在哪个区域，方便下一杆的衔接，而不是只顾眼前这一杆能不能进。

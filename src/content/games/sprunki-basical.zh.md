@@ -1,14 +1,17 @@
 ---
-locale: "zh"
-urlstr: "sprunki-basical"
-
-title: "Sprunki Basical - 在线玩 Sprunki Basical"
-description: "Sprunki Basical 是一款回归本源的音乐创作游戏，让你在简单的操作中体验最纯粹的音乐乐趣。如果你喜欢 Incredibox 并想尝试新东西，那么 Sprunki Basical 绝对是个好选择！"
-iframeSrc: "https://sprunki-basical.pages.dev/"
+locale: zh
+urlstr: sprunki-basical
+title: Sprunki Basical - 在线玩 Sprunki Basical
+description: >-
+  Sprunki Basical 是一款回归本源的音乐创作游戏，让你在简单的操作中体验最纯粹的音乐乐趣。如果你喜欢 Incredibox 并想尝试新东西，那么
+  Sprunki Basical 绝对是个好选择！
+iframeSrc: 'https://sprunki-basical.pages.dev/'
 thumbnail: /new-images/thumbnails/sprunki-basical.png
-score: "4.4/5  (420 votes)"
-tags: ["sprunki basical", "sprunki basical online"]
-releaseDate: 2025-12-04
+score: 4.4/5  (420 votes)
+tags:
+  - sprunki basical
+  - sprunki basical online
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Basical 介绍
@@ -29,6 +32,7 @@ Sprunki Basical 是一款回归本源的音乐创作游戏，让你在简单的�
 
 ---
 
+<!-- i18n:section:tips -->
 ### Sprunki Basical 游戏技巧
 
 - **从节拍开始：** 首先为你的音乐打下基础，将一个有节奏的声音拖到角色身上。

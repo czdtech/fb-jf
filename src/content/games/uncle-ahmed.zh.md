@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: uncle-ahmed
-title: 'Uncle Ahmed：经典横版闯关冒险'
-description: >-
-  踏上一场经典 2D 横版闯关之旅！操控 Uncle Ahmed 踩踏敌人、收集金币并使用各种强化道具，
-  打败邪恶巫师，从黑暗魔法中救回被绑架的侄子。
+title: Uncle Ahmed：经典横版闯关冒险
+description: 踏上一场经典 2D 横版闯关之旅！操控 Uncle Ahmed 踩踏敌人、收集金币并使用各种强化道具， 打败邪恶巫师，从黑暗魔法中救回被绑架的侄子。
 iframeSrc: >-
   https://uncleahmed.h5games.usercontent.goog/v/31ca380f-5493-4371-b5ac-5c3c2da67626/
 thumbnail: /new-images/thumbnails/uncle-ahmed.jpg
@@ -29,6 +27,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 找到终点旗帜或传送门，向最终的 BOSS 决战迈进。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游玩策略与通关思路
 
 1.  **熟练掌握跳跃：**

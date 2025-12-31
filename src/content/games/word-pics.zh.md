@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: word-pics
-title: 'Word Pics：看图猜词'
-description: >-
-  《Word Pics》是一款通过两张图片来猜一个单词或短语的益智游戏。
-  仔细观察图中暗示，找出把两张图“串联”起来的那个关键词，一边闯关一边扩充词汇量。
+title: Word Pics：看图猜词
+description: 《Word Pics》是一款通过两张图片来猜一个单词或短语的益智游戏。 仔细观察图中暗示，找出把两张图“串联”起来的那个关键词，一边闯关一边扩充词汇量。
 iframeSrc: 'https://wordpics.h5games.usercontent.goog/v/7sfi13vvf0cro/'
 thumbnail: /new-images/thumbnails/word-pics.jpg
 tags:
@@ -27,6 +25,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 游戏节奏轻松，很适合作为日常碎片时间的小训练。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游玩策略与通关思路
 
 1.  **先整体再细节：**  

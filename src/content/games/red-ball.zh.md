@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: red-ball
-title: "《Red Ball》红球大冒险"
-description: >-
-  《Red Ball》是这一系列的初代物理横版闯关游戏。你要操控一颗会弹跳的红色小球，在充满陷阱、敌人和小谜题的关卡中前进，利用惯性与物理特性跨越各种难关。
+title: 《Red Ball》红球大冒险
+description: 《Red Ball》是这一系列的初代物理横版闯关游戏。你要操控一颗会弹跳的红色小球，在充满陷阱、敌人和小谜题的关卡中前进，利用惯性与物理特性跨越各种难关。
 iframeSrc: >-
   https://app-185271.games.s3.yandex.net/185271/uvjrp10onrrllry3esbc3gpnf7s40cj5/index.html
 thumbnail: /new-images/thumbnails/red-ball.jpg
@@ -21,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 《Red Ball》是红球系列的开端，也是经典的物理横版平台游戏之一。你将控制一颗红色小球穿越一关关精心设计的地图，这些关卡布满坑洞、机关、敌人以及隐藏区域。游戏很注重惯性与重力效果，需要你合理利用红球的滚动和弹跳来解决问题，因此在简单的操作背后藏着颇有深度的挑战。
 
+<!-- i18n:section:tips -->
 ### 游玩策略
 
 1.  **先掌握基础物理：** 熟悉红球在不同坡度下的加速与减速，以及弹跳高度与起跳速度之间的关系，这会直接影响你能否准确落到安全平台。
