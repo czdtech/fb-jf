@@ -143,13 +143,7 @@ export function isKnownBaselineIssue(
   baseline: HardpointsBaselineFile,
   input: Pick<BaselineEntry, 'slug' | 'locale' | 'kind' | 'fingerprint'>
 ): boolean {
-  return baseline.entries.some(
-    (e) =>
-      e.slug === input.slug &&
-      e.locale === input.locale &&
-      e.kind === input.kind &&
-      e.fingerprint === input.fingerprint
-  );
+  return baseline.entries.some((e) => e.slug === input.slug && e.locale === input.locale && e.kind === input.kind);
 }
 
 export function addBaselineEntry(

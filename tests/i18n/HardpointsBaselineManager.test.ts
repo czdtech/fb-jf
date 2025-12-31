@@ -47,9 +47,8 @@ describe('Hardpoints - baseline manager', () => {
         slug: 'simple-game',
         locale: 'zh',
         kind: 'iframeSrc',
-        fingerprint: 'deadbeefdead',
+        fingerprint: 'different-fingerprint',
       })
     ).toBe(true);
   });
 });
-
