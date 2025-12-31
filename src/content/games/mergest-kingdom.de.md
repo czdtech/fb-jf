@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: mergest-kingdom
-title: "Mergest Kingdom"
+title: Mergest Kingdom
 description: >-
   Mergest Kingdom ist ein Merge-und-Build-Fantasyspiel: Kombiniere Felder,
   erfülle Quests und erweitere dein Königreich mit clever geplanten
@@ -27,6 +27,7 @@ Events geben dir klare Ziele, während Energie und begrenzter Platz verhindern,
 dass du wahllos merg st – durchdachte Ketten sind der Schlüssel.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **3er- vs. 5er-Merge**  

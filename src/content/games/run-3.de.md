@@ -27,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  Wänden oder der Decke weiterzulaufen.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spieltipps & Strategien
 
 1.  **Sprungtiming lernen:** Übe, Lücken im richtigen Moment zu überspringen.

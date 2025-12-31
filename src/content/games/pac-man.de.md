@@ -29,6 +29,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  dir und können für Extra-Punkte gefressen werden.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spieltipps & Strategien
 
 1.  **Geisterverhalten verstehen:** Jeder Geist hat sein eigenes

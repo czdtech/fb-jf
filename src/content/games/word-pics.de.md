@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Word Pics ist ein Wortpuzzle, bei dem du aus zwei Bildern auf ein gemeinsames Wort oder eine kurze Phrase schließen musst. Die Motive geben dir Hinweise auf Bedeutung, Klang oder Wortbestandteile. Das Spiel ist leicht verständlich, aber fordert deine Kombinationsgabe und dein Sprachgefühl.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Bilder genau analysieren:** Schau dir beide Bilder in Ruhe an und überlege, welcher Begriff, welcher Ort oder welches Konzept beide Motive verbindet.

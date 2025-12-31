@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: moving-co
-title: "Moving Co"
+title: Moving Co
 description: >-
   Moving Co. macht den Umzugstag zum Puzzle: Plane Routen, trage Möbel sicher
   und schlage die Uhr mit cleverer Logistik.
@@ -25,6 +25,7 @@ zerbrechliche Gegenstände und sperrige Formen verwandeln jeden Auftrag in ein
 räumliches Rätsel unter Zeitdruck.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Erst Überblick verschaffen**  

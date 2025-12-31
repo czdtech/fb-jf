@@ -28,6 +28,7 @@ zu verwalten, stetig zu merg en, neue Edelsteinarten freizuschalten und Aufgaben
 für Extrapunkte und Münzen zu erfüllen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Merge-Kette nutzen**  

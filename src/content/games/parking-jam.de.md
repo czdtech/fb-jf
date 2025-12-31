@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: parking-jam
-title: "Parking Jam"
+title: Parking Jam
 description: >-
   Parking Jam ist ein räumliches Schiebepuzzle: Bewege die Autos in der
   richtigen Reihenfolge, räume die Ausfahrtsgasse frei und löse enge Parkplätze
@@ -27,6 +27,7 @@ Parking Jam erinnert an das klassische Rush-Hour-Puzzle: Du schiebst Autos in
  ans Ziel.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Vom Ziel her denken:** Überlege zuerst, welche Fahrzeuge die Ausfahrt

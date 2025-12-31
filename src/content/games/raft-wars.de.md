@@ -28,6 +28,7 @@ Waffen schießt du von deinem Floß aus auf gegnerische Boote und versuchst, sie
 von ihren Plattformen ins Wasser zu befördern.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spieltipps & Strategien
 
 1.  **Schussgefühl trainieren:** Übe, Winkel und Schusskraft fein zu dosieren.

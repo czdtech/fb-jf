@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: blockdrop
-title: "BlockDrop"
+title: BlockDrop
 description: >-
-  Un clásico y relajante puzle de bloques. Arrastra y suelta las piezas sobre
-  la cuadrícula de 10x10 para formar líneas completas y limpiarlas del tablero.
+  Un clásico y relajante puzle de bloques. Arrastra y suelta las piezas sobre la
+  cuadrícula de 10x10 para formar líneas completas y limpiarlas del tablero.
   ¿Hasta qué puntuación podrás llegar?
 iframeSrc: 'https://51vi4vae20f8o.h5games.usercontent.goog/v/66bqinuuh36b8/'
 thumbnail: /new-images/thumbnails/blockdrop.png
@@ -29,6 +29,7 @@ pero exigente en el que debes planear bien cada movimiento para que el tablero
 no se llene.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1.  **Planifica para las tres piezas:** El juego te ofrece tres formas a la vez.

@@ -1,8 +1,11 @@
 ---
 locale: de
 urlstr: sortworks
-title: "SortWorks"
-description: "SortWorks ist ein aufgeräumtes Sortier- und Stapelrätsel: Ordne Objekte nach Regeln, plane Pufferzonen ein und vermeide Blockaden, während der Druck immer weiter steigt."
+title: SortWorks
+description: >-
+  SortWorks ist ein aufgeräumtes Sortier- und Stapelrätsel: Ordne Objekte nach
+  Regeln, plane Pufferzonen ein und vermeide Blockaden, während der Druck immer
+  weiter steigt.
 iframeSrc: 'https://293f3i461vfvo.h5games.usercontent.goog/v/31blvf8tg44g0/'
 thumbnail: /new-images/thumbnails/sortworks.png
 tags:
@@ -19,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 SortWorks verknüpft visuelles Sortieren mit strengen Vorgaben für Behälter – etwa nach Farbe, Form oder Typ. Die Objekte rollen auf Förderbändern heran und du musst sie in die richtigen Behälter leiten. Pufferplätze helfen dir, Engpässe zu entschärfen. In späteren Leveln steigt die Geschwindigkeit und es kommen zusätzliche, schwerer zu unterscheidende Kategorien hinzu.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1.  **Regeln priorisieren:** Wende zuerst die wichtigsten Regeln an (z. B. gefährlich vs. ungefährlich) und verfeinere dann mit Unterkategorien.

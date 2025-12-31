@@ -28,6 +28,7 @@ Pirate Pop ist ein spaßiger, süchtig machender Bubble-Shooter im
  Blasen-Cluster herabstürzen und sicherst dir so jede Menge Piratenbeute.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Hoch zielen für große Abstürze:** Am meisten punktest du, wenn du

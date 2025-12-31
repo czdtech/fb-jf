@@ -34,6 +34,7 @@ Das Gameplay ist sehr übersichtlich und in ein paar Schritten erklärt:
 
 ---
 
+<!-- i18n:section:tips -->
 ### Tipps für Sprunki-Basical-Spieler
 
 - **Mit dem Beat beginnen:** Lege zuerst eine solide Rhythmus-Basis, indem du ein paar saubere Drum-Sounds platzierst.

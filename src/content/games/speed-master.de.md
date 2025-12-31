@@ -1,8 +1,11 @@
 ---
 locale: de
 urlstr: speed-master
-title: "Speed Master"
-description: "Speed Master ist ein präzises Reaktionsspiel: Triff eingehende Signale genau im Takt, kette Perfect-Treffer aneinander und bleib ruhig, wenn das Tempo plötzlich anzieht."
+title: Speed Master
+description: >-
+  Speed Master ist ein präzises Reaktionsspiel: Triff eingehende Signale genau
+  im Takt, kette Perfect-Treffer aneinander und bleib ruhig, wenn das Tempo
+  plötzlich anzieht.
 iframeSrc: 'https://6e0ej8ct9hdj8.h5games.usercontent.goog/v/1fssfmqquil18/'
 thumbnail: /new-images/thumbnails/speed-master.png
 tags:
@@ -18,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Speed Master ist ein minimalistisches Reaktionsspiel, das dein Timing und deine Konzentration bis an die Grenze bringt. Signale gleiten über den Bildschirm, und du musst genau in dem Moment tippen, in dem sie mit der Zielmarkierung überlappen. Mit jeder Stufe werden die Bewegungen schneller, die Rhythmen trickreicher und mehrere Bahnen gleichzeitig fordern dich heraus – frühe Zuckungen und zu späte Klicks werden sofort bestraft.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1.  **Im Takt zählen:** Entwickle einen inneren Zählrhythmus und tippe zum Beat, statt dich nur auf deine Augen zu verlassen.

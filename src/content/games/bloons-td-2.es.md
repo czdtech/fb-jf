@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: bloons-td-2
-title: "Bloons TD 2"
+title: Bloons TD 2
 description: >-
-  Disfruta del clásico Bloons TD 2. Coloca y mejora cinco torres de monos
-  únicas para defenderte de 50 oleadas de globos y domina la estrategia
-  necesaria para contrarrestar a los Bloons negros y blancos inmunes.
+  Disfruta del clásico Bloons TD 2. Coloca y mejora cinco torres de monos únicas
+  para defenderte de 50 oleadas de globos y domina la estrategia necesaria para
+  contrarrestar a los Bloons negros y blancos inmunes.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-2.html'
 thumbnail: /new-images/thumbnails/bloons-td-2.jpg
 tags:
@@ -54,6 +54,7 @@ específicas.
         suelta dos Zebra Bloons.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego
 
 -   **La defensa equilibrada es esencial:** Esta es la idea más importante en

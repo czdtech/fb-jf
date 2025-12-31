@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: big-shot-boxing
-title: "Big Shot Boxing carrera de boxeo retro"
+title: Big Shot Boxing carrera de boxeo retro
 description: >-
   En Big Shot Boxing comienzas como un boxeador novato y asciendes desde peleas
   callejeras hasta campeonatos mundiales. Entrena, mejora tus estadísticas y
@@ -32,6 +32,7 @@ levantar el cinturón de campeón. Es fácil de entender, pero ofrece un reto
 satisfactorio de dominar.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego
 
 -   **Paciencia y defensa primero:** No repitas golpes sin parar; gastarás la

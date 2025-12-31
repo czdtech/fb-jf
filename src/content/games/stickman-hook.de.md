@@ -22,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 In „Stickman Hook“ steuerst du ein Strichmännchen, das sich mithilfe von Greifhaken durch die Level schwingt. Du hängst dich an feste Punkte, baust Schwung auf, meidest Hindernisse und versuchst, mit möglichst flüssigen Bewegungen die Ziellinie zu erreichen.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spielstrategie
 
 1.  **Timing meistern:** Entscheidend ist, den Haken im richtigen Moment zu lösen oder neu anzubringen, damit dein Schwung nicht verloren geht.

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: bubble-shooter
-title: "Bubble Shooter"
+title: Bubble Shooter
 description: >-
   Apunta, dispara y combina burbujas de colores para limpiar el tablero en el
   clásico puzle Bubble Shooter. Planifica tus tiros, usa las paredes y derriba
@@ -34,6 +34,7 @@ sin eliminar nada, aparece una nueva fila de burbujas arriba, aumentando la
 presión.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego
 
 -   **Apunta a las burbujas más altas:** Lo importante no es solo hacer grupos,

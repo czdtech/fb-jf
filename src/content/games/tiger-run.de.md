@@ -1,8 +1,10 @@
 ---
 locale: de
 urlstr: tiger-run
-title: "Tiger Run"
-description: "Tiger Run ist ein Dschungel‑Endless‑Runner: Laufe, springe und rutsche, um Hindernissen auszuweichen und unterwegs Münzen einzusammeln."
+title: Tiger Run
+description: >-
+  Tiger Run ist ein Dschungel‑Endless‑Runner: Laufe, springe und rutsche, um
+  Hindernissen auszuweichen und unterwegs Münzen einzusammeln.
 iframeSrc: 'https://tigerrun.h5games.usercontent.goog/v/1cl0c4rtsjsqo/'
 thumbnail: /new-images/thumbnails/tiger-run.jpeg
 tags:
@@ -18,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Tiger Run ist ein geradliniger Endless‑Runner im Dschungel. Du rennst automatisch nach vorne, liest Hindernisse frühzeitig und wechselst Spuren, springst oder rutschst darunter hindurch. Während die Geschwindigkeit immer weiter anzieht, versuchst du, möglichst viele Münzen in Serie einzusammeln, ohne irgendwo hängen zu bleiben.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Blick nach vorn:** Richte deinen Blick ein Stück vor die Spielfigur, damit du Spurwechsel und Sprünge früh planen kannst.

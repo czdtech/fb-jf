@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: block-dimension
-title: "Block Dimension"
+title: Block Dimension
 description: >-
   Adéntrate en Block Dimension, un juego de puzles en 3D que pondrá a prueba tu
   visión espacial. Gira la estructura y encaja los bloques a la perfección.
@@ -28,6 +28,7 @@ El objetivo es conseguir la mayor puntuación posible limpiando líneas y creand
 combos antes de quedarte sin espacio en el tablero.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1.  **Piensa por adelantado:** Normalmente verás tres piezas a la vez. Antes de

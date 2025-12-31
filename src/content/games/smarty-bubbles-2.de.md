@@ -28,6 +28,7 @@ Smarty Bubbles 2 knüpft an den Klassiker an und erweitert ihn um ein
  zu verhindern, dass die Decke zu weit nach unten rutscht.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Fehlschüsse vermeiden:** Jeder Schuss, der keine Blasen platzen lässt,

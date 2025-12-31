@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: puzzle-pieces
-title: "Puzzle Pieces"
+title: Puzzle Pieces
 description: >-
   Puzzle Pieces liefert klare Denkaufgaben: Drehe Formen, setze sie passgenau
   ein und fülle jedes Brett lückenlos aus.
@@ -24,6 +24,7 @@ Puzzle Pieces ist ein aufgeräumtes Formpuzzle: Du ziehst verschieden geformte
  Formen knapper und du musst genauer planen, wohin welches Teil passt.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Große/ungewöhnliche Teile zuerst:** Platziere zuerst besonders große oder

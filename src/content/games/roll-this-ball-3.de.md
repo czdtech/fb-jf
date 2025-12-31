@@ -27,6 +27,7 @@ Roll This Ball ist ein klassisches Schiebeblock-Puzzle, das dein
  bis zum Zielfeld entsteht, auf der die Kugel ununterbrochen rollen kann.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Weg vorab analysieren:** Bevor du Blöcke verschiebst, verfolge mit den

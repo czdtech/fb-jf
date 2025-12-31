@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: blockbuster-puzzle
-title: "Blockbuster Puzzle"
+title: Blockbuster Puzzle
 description: >-
   Blockbuster Puzzle es un puzle de limpiar bloques muy satisfactorio: planifica
   tus colocaciones, encadena explosiones y evita cerrar los espacios clave del
@@ -26,6 +26,7 @@ que limpien grandes zonas y no gastar tu último bolsillo de emergencia salvo qu
 asegure una buena cadena de limpiezas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1.  **Mantén dos vías libres:** Procura conservar al menos dos columnas o filas

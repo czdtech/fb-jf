@@ -22,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 „Tic-Tac-Toe“ ist ein einfaches, aber überraschend taktisches Duell für zwei Personen. Ihr setzt abwechselnd X und O auf ein 3×3‑Raster und versucht, als Erste/r drei gleiche Symbole in einer waagerechten Reihe, senkrechten Spalte oder Diagonale zu bilden. Die Regeln sind schnell erklärt, aber wer vorausschauend denkt, hat klare Vorteile.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spielstrategie
 
 1. **Zentrum besetzen:** Wenn möglich, schnapp dir zuerst das mittlere Feld – von dort aus kannst du die meisten Gewinnlinien bilden.

@@ -1,8 +1,11 @@
 ---
 locale: de
 urlstr: solitaire-2048
-title: "Solitaire 2048"
-description: "Solitaire 2048 mischt das 2048-Prinzip mit Karten – lege Zahlenkarten in Spalten, lasse gleiche Werte verschmelzen und verwalte deine Bahnen für große Kombos."
+title: Solitaire 2048
+description: >-
+  Solitaire 2048 mischt das 2048-Prinzip mit Karten – lege Zahlenkarten in
+  Spalten, lasse gleiche Werte verschmelzen und verwalte deine Bahnen für große
+  Kombos.
 iframeSrc: 'https://041gj41756cjg.h5games.usercontent.goog/v/7n148hti57veo/'
 thumbnail: /new-images/thumbnails/solitaire-2048.png
 tags:
@@ -19,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Solitaire 2048 verwandelt das bekannte Merge-Prinzip in einen Kartenstrom. Du platzierst Karten mit Werten wie 2, 4, 8 usw. in Spalten; benachbarte Karten mit demselben Wert verschmelzen zur nächsthöheren Zahl. Die Kunst besteht darin, die Reihenfolge deiner Züge so zu planen, dass Kettenreaktionen entstehen und Platz freigeräumt wird, statt die Spalten zu verstopfen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1.  **Ankerspalte wählen:** Halte deine höchste Zahl möglichst in einer zentralen Spalte, damit du sie von beiden Seiten gut weiter kombinieren kannst.

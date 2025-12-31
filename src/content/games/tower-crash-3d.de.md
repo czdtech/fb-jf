@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Tower Crash 3D ist ein befriedigendes Physik‑Puzzle, in dem du Türme aus farbigen Blöcken zum Einsturz bringen sollst. Du feuerst Kugeln auf den Turm, aber jede Kugel zerstört nur Blöcke in ihrer eigenen Farbe. Mit begrenzter Munition musst du gezielt tragende Elemente treffen, damit der gesamte Turm unter die Markierungslinie stürzt.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Farben matchen:** Wichtigste Regel: Achte auf die Kugelfarbe im Geschütz und ziele ausschließlich auf Blöcke derselben Farbe. Schüsse auf andere Farben richten keinen Schaden an und verschwenden wertvolle Munition.

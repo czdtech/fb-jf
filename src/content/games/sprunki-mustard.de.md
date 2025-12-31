@@ -11,7 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-mustard.png
 tags:
   - sprunki mustard
 score: 3.9/5  (827 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Was ist Sprunki Mustard?
@@ -31,6 +31,7 @@ Sprunki Mustard ist mehr als ein einfacher Farbfilter. In diesem Mod sind alle F
 - **Layerbare Soundlandschaft:** Du kannst einzelne Charakter-Sounds zu dichten, unruhigen Klangteppichen kombinieren.
 - **Bonusanimationen:** Manche Sound-Setups lösen spezielle Effekte aus, die den Horror-Ton noch verstärken.
 
+<!-- i18n:section:controls -->
 ### Steuerung
 
 Fans der Incredibox-/Sprunki-Reihe finden sich sofort zurecht: Figuren auswählen, auf die Bühne ziehen, zuhören, mischen, entfernen – fertig. So entsteht ohne komplizierte Steuerung ein ungewöhnlich düsterer Sprunki-Mix.

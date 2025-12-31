@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Spider Solitaire gehört zu den bekanntesten und zugleich anspruchsvollsten Solitaire-Varianten. Gespielt wird mit zwei kompletten Kartendecks. Dein Ziel ist es, das gesamte Tableau zu leeren, indem du acht vollständige, absteigende Folgen einer Farbe von König bis Ass bildest. Sobald eine komplette K-bis-A-Sequenz fertig ist, wird sie automatisch entfernt. Vor allem mit zwei oder vier Farben wird das Spiel zu einer echten Denkaufgabe, die sorgfältige Planung erfordert.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1.  **Ziel des Spiels:** Baue acht vollständige Folgen innerhalb des Tableaus, jeweils von König bis Ass in einer Farbe. Jede abgeschlossene K-bis-A-Folge wird vom Spielfeld entfernt. Gewonnen hast du, wenn das Tableau komplett leer ist.

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: basket-champ
-title: "Basket Champ reto de encestar con un toque"
+title: Basket Champ reto de encestar con un toque
 description: >-
   Basket Champ es un juego minimalista de baloncesto a un toque. Ajusta la
   parábola, encesta limpio y encadena tiros perfectos para subir tu marcador.
@@ -25,6 +25,7 @@ pelota en aros que pueden estar quietos, en movimiento o rodeados de obstáculos
 Tu objetivo es mantener rachas de aciertos para lograr puntuaciones altas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1.  **Apunta ligeramente por encima del centro del aro:** Así consigues una

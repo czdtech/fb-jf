@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Tile Puzzle ist ein modernes, forderndes Tile‑Matching‑Spiel, das deine Planung und dein Gefühl für Reihenfolgen testet. Das Spielfeld ist mit verschiedenen Motivkacheln gestapelt. Du wählst Kacheln aus und schickst sie in ein Tablett am unteren Bildschirmrand. Sobald drei identische Kacheln im Tablett liegen, verschwinden sie wieder und machen Platz. Dein Ziel: Das komplette Brett leerräumen – ohne dass das Tablett bis zum Anschlag vollläuft.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Erst denken, dann tippen:** Dein Tablett hat nur wenige Slots (meist sieben). Überlege dir vor jedem Klick, wohin die Kachel passt – wildes Herumklicken führt schnell zum Game Over.

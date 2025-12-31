@@ -12,7 +12,7 @@ tags:
   - sprunki cool as ice
   - sprunki cool as ice online
 score: 4.2/5  (324 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Einführung in Sprunki: Cool As Ice
@@ -37,6 +37,7 @@ Die Bedienung ist wirklich einfach – hier die wichtigsten Punkte:
 - **Versteckte Specials entdecken:** Bestimmte Kombinationen schalten geheime Animationen oder Soundsequenzen frei.
 - **Themen wechseln:** Wenn du mutig bist, kannst du auf ein Horror-Thema umschalten und den Kontrast aus Frost und Grusel erleben. Einfach auf die Figur unten rechts klicken. Zurück zum Standard-Thema kommst du über den Pfeil oben rechts.
 
+<!-- i18n:section:tips -->
 ### Tipps für deinen Eis-Mix
 
 - **Mit Kombos experimentieren:** Probiere verschiedene Zusammenstellungen, um einzigartige Klangszenen zu erschaffen.

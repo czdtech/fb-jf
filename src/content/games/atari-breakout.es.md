@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: atari-breakout
-title: "Atari Breakout guía del clásico de arcade"
+title: Atari Breakout guía del clásico de arcade
 description: >-
-  Atari Breakout es uno de los clásicos fundamentales de los videojuegos. Descubre
-  estrategias, controles y trucos para romper todos los ladrillos y lograr
-  puntuaciones altas.
+  Atari Breakout es uno de los clásicos fundamentales de los videojuegos.
+  Descubre estrategias, controles y trucos para romper todos los ladrillos y
+  lograr puntuaciones altas.
 iframeSrc: >-
   https://app-184523.games.s3.yandex.net/184523/bdryh2h6iqjirujzrk3tlum0j0n28j1o/index.html
 thumbnail: /new-images/thumbnails/atari-breakout.jpg
@@ -33,11 +33,13 @@ medida que avanzas, la velocidad de la bola suele incrementarse, exigiendo
 reflejos más rápidos. Si fallas y la bola pasa de largo, pierdes una vida. La
 partida termina cuando te quedas sin vidas.
 
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 Aunque Breakout parece sencillo, hay varias estrategias clave para maximizar la
 puntuación y limpiar niveles de forma eficiente.
 
+<!-- i18n:section:tips -->
 #### 1. Estrategia del "túnel"
 
 Es la táctica más famosa y efectiva. Consiste en abrir un pasillo vertical por

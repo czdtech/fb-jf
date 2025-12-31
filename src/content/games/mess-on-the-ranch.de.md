@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: mess-on-the-ranch
-title: "Mess on the Ranch"
+title: Mess on the Ranch
 description: >-
   Mess on the Ranch ist ein Aufräum-Puzzle: Sortiere Tiere und Werkzeuge,
   repariere Zäune und bring die Ranch mit cleverer Routenplanung wieder in
@@ -27,6 +27,7 @@ von Zug- oder Zeitlimits. In jedem Level geht es um gute Wegplanung und
 Priorisierung.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Tiere zuerst sichern**  

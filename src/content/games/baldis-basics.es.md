@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: baldis-basics
-title: "Baldi's Basics guía del terror de supervivencia educativo"
+title: Baldi's Basics guía del terror de supervivencia educativo
 description: >-
   Baldi's Basics es un juego de terror y supervivencia que se disfraza de título
   educativo de los 90. Aprende a conseguir los cuadernos, usar los objetos,
@@ -34,6 +34,7 @@ restantes evitando a Baldi y a un elenco de personajes extraños que intentarán
 entorpecerte, y al final encontrar una salida de la escuela.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego
 
 Para tener éxito en *Baldi's Basics* necesitas buen oído, gestionar bien los

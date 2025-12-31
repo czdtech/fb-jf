@@ -28,6 +28,7 @@ Frucht – die Wassermelone – zu erzeugen und einen Highscore aufzustellen,
 ohne dass der Fruchtberg über den oberen Rand hinauswächst.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Frucht-Reihenfolge kennen**  

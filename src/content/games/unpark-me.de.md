@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Unpark Me ist ein Schiebeblock‑Puzzle im „Parking Jam“-Stil. Auf einem vollen Parkplatz‑Raster stehen Autos und Trucks kreuz und quer, und dein rotes Auto steckt mittendrin fest. Ziel ist es, die anderen Fahrzeuge so zu verschieben, dass der rote Wagen eine freie Spur bis zur Ausfahrt bekommt – ideal, um logisches und vorausschauendes Denken zu trainieren.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Hauptblocker finden:** Schau dir zuerst an, welche Fahrzeuge direkt die Fahrspur des roten Autos Richtung Ausgang versperren.

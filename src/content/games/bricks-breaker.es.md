@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: bricks-breaker
-title: "Bricks Breaker"
+title: Bricks Breaker
 description: >-
   Prepárate para la acción arcade clásica en Bricks Breaker. Controla la pala,
   devuelve la bola y destruye todos los ladrillos para superar los niveles.
@@ -28,6 +28,7 @@ ladrillos desafiantes y potenciadores variados, Bricks Breaker ofrece diversión
 sin fin.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Controla la pala:** Tu tarea principal es colocar la pala en el sitio

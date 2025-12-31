@@ -26,6 +26,7 @@ Gruppe von Gegenständen, von denen die meisten einem gemeinsamen Muster folgen
 ist es, den einen Gegenstand zu finden, der nicht in diese Gruppe passt.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Alle Objekte genau ansehen:** Nimm dir einen Moment Zeit, um jedes Objekt

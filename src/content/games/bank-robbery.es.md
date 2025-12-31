@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: bank-robbery
-title: "Bank Robbery 2 asaltos al banco PvP"
+title: Bank Robbery 2 asaltos al banco PvP
 description: >-
   Bank Robbery 2 es un juego de disparos en primera persona por equipos donde
   policías y ladrones se enfrentan en un gran atraco. Aprende estrategias para
@@ -42,6 +42,7 @@ estrategia de tu equipo, y ganas dinero en partidas para comprar mejor equipo en
 las siguientes rondas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego
 
 La forma de jugar cambia bastante según el bando.

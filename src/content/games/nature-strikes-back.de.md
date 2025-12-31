@@ -27,6 +27,7 @@ sie zu immer stärkeren Formen und platzierst sie auf dem Schlachtfeld, wo sie
  automatisch Welle um Welle abwehren.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Beschwören & Mergen**  

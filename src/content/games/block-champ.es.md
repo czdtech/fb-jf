@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: block-champ
-title: "Block Champ"
+title: Block Champ
 description: >-
   Pon a prueba tu mente estratégica con Block Champ, un puzle en una cuadrícula
   de 10x10. Coloca las piezas para limpiar líneas, domina los bloques especiales
@@ -45,6 +45,7 @@ El juego exige previsión y una buena gestión del espacio para alcanzar una
 puntuación alta.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego
 
 -   **Mantén abiertas tus opciones:** Evita crear casillas vacías sueltas. Esos

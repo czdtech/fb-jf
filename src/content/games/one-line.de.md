@@ -28,6 +28,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  anzieht.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spieltipps & Strategien
 
 1.  **Wege vorab betrachten:** Bevor du mit dem Zeichnen beginnst, schau dir

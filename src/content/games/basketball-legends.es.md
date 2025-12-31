@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: basketball-legends
-title: "Basketball Legends arcade de estrellas del basket"
+title: Basketball Legends arcade de estrellas del basket
 description: >-
   Basketball Legends es un juego de baloncesto arcade rápido con versiones
   caricaturizadas de grandes estrellas. Aprende controles, estrategias de ataque
@@ -32,6 +32,7 @@ jugadores en el mismo teclado, es perfecto tanto para jugar solo como para picar
 te con amigos.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego
 
 Ganar en *Basketball Legends* requiere dominar el movimiento, la sincronización y el uso
@@ -68,6 +69,7 @@ y entrar a canasta para un mate fácil o para quedar libre y tirar en suspensió
 4.  **Dash también en defensa:** El dash es igual de importante atrás. Úsalo para
     recuperar posición con rapidez o para salir a puntear un tiro exterior.
 
+<!-- i18n:section:controls -->
 ### Guía de controles
 
 El juego está optimizado para dos personas en un solo teclado.

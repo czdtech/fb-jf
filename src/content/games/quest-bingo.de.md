@@ -28,6 +28,7 @@ Quest Bingo bringt das klassische Bingo in ein Level- und Quest-System.
  frei und nutzt Booster, um knifflige Situationen zu meistern.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Bingo-Grundprinzip:** Eine Zahl wird aufgerufen – steht sie auf deiner

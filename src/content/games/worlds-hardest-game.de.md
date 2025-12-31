@@ -22,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 World's Hardest Game gilt nicht ohne Grund als eines der schwierigsten Arcade‑Spiele überhaupt. Du steuerst ein kleines rotes Quadrat durch Labyrinthe, in denen sich blaue Kreise nach festen Mustern bewegen. Schon ein einziger Treffer setzt dich zurück – gefragt sind extrem präzise Bewegungen, perfekte Timings und eine Menge Frustrationstoleranz.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spielstrategie
 
 1. **Muster beobachten:** Bevor du losrennst, sieh dir die Bewegungsabläufe der blauen Kreise genau an und präge dir ihre Zyklen ein.

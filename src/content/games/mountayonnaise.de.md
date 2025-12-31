@@ -12,7 +12,7 @@ tags:
   - sprunki mountayonnaise
   - sprunki mountayonnaise online
 score: 4.8/5  (649 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -36,6 +36,7 @@ Das Spielprinzip ist simpel und in wenigen Schritten erklärt:
 - **Live-Mixing:** Passe dein Stück jederzeit an – Sounds stummschalten,
   entfernen oder neu anordnen, bis der Mix für dich perfekt klingt.
 
+<!-- i18n:section:tips -->
 ### Tipps für bessere Mixes
 
 - **Mit dem Beat beginnen:** Lege zuerst eine rhythmische Basis, bevor du

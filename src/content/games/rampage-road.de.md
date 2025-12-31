@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: rampage-road
-title: "Rampage Road"
+title: Rampage Road
 description: >-
   Rampage Road ist ein chaotischer Auto-Shooter aus der Top-Down-Perspektive:
   Schlängle dich durch den Verkehr, schalte Gegner aus und überlebe explosive
@@ -26,6 +26,7 @@ Rampage Road kombiniert Top-Down-Fahren mit Arcade-Shooter-Action. Du lenkst
  fahren zu lassen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Saubere Linien fahren:** Bleib in Spuren mit gut sichtbaren Lücken, um

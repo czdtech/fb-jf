@@ -1,8 +1,11 @@
 ---
 locale: de
 urlstr: survivor-legends
-title: "Survivor Legends"
-description: "Survivor Legends ist ein Auto-Angriff-Horde-Survivor: Du kreist Gegner aus, draftest Synergien und mähst Wellen mit guter Cooldown-Ökonomie und Positionierung nieder." 
+title: Survivor Legends
+description: >-
+  Survivor Legends ist ein Auto-Angriff-Horde-Survivor: Du kreist Gegner aus,
+  draftest Synergien und mähst Wellen mit guter Cooldown-Ökonomie und
+  Positionierung nieder.
 iframeSrc: 'https://244mb60l209a8.h5games.usercontent.goog/v/1koih6fev3le8/'
 thumbnail: /new-images/thumbnails/survivor-legends.png
 tags:
@@ -18,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Survivor Legends folgt dem bekannten Auto‑Attack‑Survivor‑Prinzip: Deine Waffen feuern automatisch, du steuerst vor allem Bewegung, Level‑Ups und Build. Du ziehst Kreise um die Gegnerhorden, sammelst XP‑Orbs ein, wählst neue Waffen und Passive und versuchst, immer dichtere Wellen zu überstehen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1.  **Weite Kites:** Laufe in großen Ovalen oder Kreisen, damit du Zeit für Korrekturen hast und nicht in Sackgassen gerätst.

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: bloons-td-4
-title: "Bloons TD 4"
+title: Bloons TD 4
 description: >-
   Sumérgete en Bloons TD 4, un clásico de defensa de torres con rutas de mejora
   ramificadas, potentes torres nuevas y el temible dirigible BFB. Diseña tu
@@ -54,6 +54,7 @@ modos de juego, creando una sensación de progresión constante.
     el camino como defensas de un solo uso.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego
 
 -   **Planifica tus mejoras:** Como ya no puedes comprar todas las mejoras,

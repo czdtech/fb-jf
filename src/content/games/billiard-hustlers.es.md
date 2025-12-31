@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: billiard-hustlers
-title: "Billiard Hustlers simulador de billar con efecto"
+title: Billiard Hustlers simulador de billar con efecto
 description: >-
   Billiard Hustlers lleva los fundamentos del billar a tu navegador: apunta con
   precisión, controla la blanca con efecto y limpia la mesa con buen juego de
@@ -26,6 +26,7 @@ la blanca en la posición perfecta para el siguiente tiro. Mesas rápidas y pañ
 ligeros recompensan una potencia precisa y un uso sutil del efecto.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1.  **Planifica la posición antes de cada tiro:** No pienses solo en embocar la

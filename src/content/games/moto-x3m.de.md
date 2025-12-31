@@ -26,6 +26,7 @@ führst dabei spektakuläre Saltos aus. Ziel ist es, die Ziellinie so schnell wi
 möglich zu erreichen und mit möglichst vielen Stunts Bonuszeit gutzumachen.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spielstrategie
 
 1.  **Balance halten**  

@@ -27,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  besser deine Zeit und Punktzahl.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spieltipps & Strategien
 
 1.  **Tempo kontrollieren:** Lerne, dein Tempo zu dosieren. Manchmal ist es

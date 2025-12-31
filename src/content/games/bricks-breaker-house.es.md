@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: bricks-breaker-house
-title: "Bricks Breaker House"
+title: Bricks Breaker House
 description: >-
   Bricks Breaker House le da un toque acogedor al rompebloques clásico: marca
   ángulos, juega con los potenciadores y mantén la casa en pie.
@@ -24,6 +24,7 @@ siempre: mantener vivas las ráfagas, dirigir los disparos hacia las casillas de
 mayor valor y aprovechar los potenciadores sin perder el control de la bola.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Busca carambolas controladas:** Sirve con ángulos de unos 30–45° para

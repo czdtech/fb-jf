@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Super Bowling Mania bringt Zehn‑Pin‑Bowling auf deinen Bildschirm: Du positionierst dich auf der Bahn, legst Kraft und ggf. Spin fest und versuchst, alle zehn Pins abzuräumen. Strikes, knifflige Spares und der Traum von der perfekten 300 rücken mit jedem Wurf näher.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1.  **Position wählen:** Verschiebe deinen Startpunkt leicht nach links oder rechts, um die „Pocket“ (zwischen Kopfpin und dahinterliegendem Pin) besser zu treffen.

@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: om-nom-bubbles
-title: "Om Nom Bubbles"
+title: Om Nom Bubbles
 description: >-
   Om Nom Bubbles ist ein farbenfroher Bubble-Shooter mit dem beliebten Om Nom.
   Ziele, kombiniere Farben und räume das Spielfeld mit cleveren Winkeln.
@@ -27,6 +27,7 @@ Om Nom Bubbles ist ein klassischer Bubble-Shooter mit dem liebenswerten Om Nom
  zu weit nach unten rutscht.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Tragende Punkte entfernen:** Konzentriere dich auf Blasen, die große

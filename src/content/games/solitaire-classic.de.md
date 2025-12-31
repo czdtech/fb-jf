@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Solitaire Classic, auch als Klondike bekannt, ist eines der bekanntesten und beliebtesten Einzelspieler-Kartenspiele der Welt. Dein Ziel ist es, ein gemischtes 52-Karten-Deck in vier Ablagestapel zu sortieren – einen pro Farbe – in aufsteigender Reihenfolge von Ass bis König. Dabei brauchst du Strategie, Geduld und ein bisschen Glück: Auf dem Tableau musst du geschickt Karten verschieben, verdeckte Karten freilegen und Schritt für Schritt deine Ablagen aufbauen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1.  **Spielelemente verstehen:**

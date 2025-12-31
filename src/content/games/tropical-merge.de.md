@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 In Tropical Merge verschmilzt du gleiche Objekte auf einer tropischen Insel zu immer höherwertigen Ressourcen. Durch 3er‑ oder 5er‑Merges räumst du Nebel beiseite, schaltest neue Flächen frei und baust Schritt für Schritt eine farbenfrohe Inselwelt auf. Quests und Events geben dir Ziele vor, während begrenzte Energie und Spielfeldgröße vorausschauendes Planen belohnen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Wenn möglich 5‑mergen:** Wo es geht, versuche fünf gleiche Objekte gleichzeitig zu kombinieren – so erhältst du einen extra Bonus‑Gegenstand gegenüber einem einfachen 3‑Merge.

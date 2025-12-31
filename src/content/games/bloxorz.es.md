@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: bloxorz
-title: "Bloxorz Magic"
+title: Bloxorz Magic
 description: >-
   Guía tu bloque rectangular a través de desafiantes puzles 3D en Bloxorz. Cruza
   baldosas frágiles, acciona interruptores, divide el bloque en dos y hazlo
@@ -44,6 +44,7 @@ interruptores:
         se divide en dos cubos independientes de 1x1.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego
 
 -   **Piensa y planifica con anticipación:** Bloxorz es un juego de visión a

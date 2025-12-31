@@ -21,6 +21,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Sudoku Plus bietet eine moderne Umsetzung des klassischen Logikrätsels. Ziel ist es, ein 9×9‑Raster so zu füllen, dass in jeder Zeile, jeder Spalte und in jedem 3×3‑Block die Ziffern 1 bis 9 genau einmal vorkommen. Diese Version bringt Komfortfunktionen wie Hinweise, Notizenmodus und Fehlerprüfung mit – hilfreich für Neulinge und praktisch für alle, die viele Rätsel am Stück lösen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1.  **Grundregel verinnerlichen:** Jede Zahl von 1 bis 9 darf pro Zeile, Spalte und 3×3‑Block nur einmal vorkommen.

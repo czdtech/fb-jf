@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Words Challenge mischt verschiedene Wortdisziplinen: Du löst Anagramme, füllst kleine Kreuzworträtsel und beantwortest schnelle Wort‑Prompts. Wer Muster in Vorsilben und Endungen erkennt und ein Gefühl für Buchstabenhäufigkeiten hat, ist klar im Vorteil – leichte Zeitlimits sorgen für ein angenehmes Tempo.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Morpheme nutzen:** Ziehe typische Vorsilben wie „RE‑“, „UN‑“ oder Endungen wie „‑ING“, „‑ED“, „‑ER“ als Bausteine heran.

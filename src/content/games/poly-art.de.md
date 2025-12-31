@@ -29,6 +29,7 @@ Poly Art (auch als Poly Puzzle bekannt) ist ein optisch beeindruckendes,
  Geduld und das befriedigende „Aha!“-Erlebnis.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Langsam drehen:** Wische nicht hektisch hin und her, sondern drehe das

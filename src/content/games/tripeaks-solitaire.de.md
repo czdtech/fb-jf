@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Tripeaks Solitaire ist eine schnelle Patience‑Variante, die Elemente aus Golf und Pyramid Solitaire kombiniert. Die Karten liegen anfangs in drei überlappenden Pyramiden – den „Peaks“. Dein Ziel ist es, das gesamte Tableau abzuräumen, indem du nacheinander Karten spielst, die genau einen Rang höher oder niedriger sind als die offene Karte auf dem Ablagestapel. Je längere Serien du schaffst, desto schneller räumst du das Feld.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Ziel:** Befreie alle Karten der drei Gipfel auf dem Tableau.

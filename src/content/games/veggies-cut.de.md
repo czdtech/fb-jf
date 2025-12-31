@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 In Veggies Cut fliegen Gemüse und andere Zutaten durch die Luft, und du zerteilst sie mit schwungvollen Schnittlinien. Je mehr Stücke du mit einem Wisch triffst, desto höher deine Kombos. Gleichzeitig musst du Küchenfallen wie Messer oder Bomben meiden – ein falscher Schnitt durch eine Gefahr kann deinen Lauf ruinieren.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Lange Schnitte bevorzugen:** Versuche, mit einem Strich gleich mehrere Gemüsestücke zu erwischen, um hohe Kombowertungen zu erzielen.

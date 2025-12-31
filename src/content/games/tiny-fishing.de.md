@@ -22,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 Tiny Fishing ist ein ruhiges Casual‑Angelspiel. Du wirfst deine Leine ins Wasser, ziehst verschiedene Fischarten an Land und investierst deine Einnahmen in Upgrades. Mit jeder Verbesserung kommst du tiefer hinab und hast die Chance auf seltene, besonders wertvolle Fische.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spielstrategie
 
 1. **Schnell in die Tiefe:** Verbessere zuerst die maximale Tiefe deiner Angelschnur, damit du früh Zugang zu seltenen Fischen bekommst.

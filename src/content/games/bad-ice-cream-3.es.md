@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: bad-ice-cream-3
-title: "Bad Ice-Cream 3 nuevos laberintos helados"
+title: Bad Ice-Cream 3 nuevos laberintos helados
 description: >-
   Bad Ice-Cream 3 es la tercera entrega de la serie de puzles helados. Domina
   los muros de hielo, esquiva a los nuevos enemigos y recoge toda la fruta en
@@ -35,6 +35,7 @@ creas, obligándote a adaptar tus tácticas. El juego mantiene sus modos de jueg
 para un jugador y cooperativo para dos jugadores en el mismo teclado.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 Dominar *Bad Ice-Cream 3* consiste en adaptarse a las nuevas amenazas y

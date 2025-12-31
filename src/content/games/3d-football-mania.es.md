@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: 3d-football-mania
-title: "3D Football Mania juego de fútbol 3D"
+title: 3D Football Mania juego de fútbol 3D
 description: >-
   3D Football Mania condensa la esencia del fútbol en pequeños retos. Lee el
   movimiento de los defensas, elige el pase correcto y remata con buen
@@ -24,6 +24,7 @@ Debes leer la posición de los defensas, decidir si pasar o encarar y ajustar el
 momento del disparo para superar al portero en desafíos rápidos y rejugables.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1.  **Aprovecha los pases al hueco:** Prioriza los pases al espacio en lugar de

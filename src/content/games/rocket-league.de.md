@@ -28,6 +28,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  spektakulär.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spieltipps & Strategien
 
 1.  **Basics beherrschen:** Lerne zuerst Gas geben, lenken, springen und boosten

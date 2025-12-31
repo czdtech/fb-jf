@@ -1,10 +1,10 @@
 ---
 locale: de
 urlstr: metal-guns-fury
-title: "Metal Guns Fury"
+title: Metal Guns Fury
 description: >-
-  Metal Guns Fury ist ein Run-and-Gun-Arcadeshooter: Weiche Kugeln aus,
-  wechsle geschickt die Waffen und ballere dich mit präziser Bewegung durch
+  Metal Guns Fury ist ein Run-and-Gun-Arcadeshooter: Weiche Kugeln aus, wechsle
+  geschickt die Waffen und ballere dich mit präziser Bewegung durch
   Gegnerwellen.
 iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
 thumbnail: /new-images/thumbnails/metal-guns-fury.jpg
@@ -27,6 +27,7 @@ Slide-Ausweichmanöver und ein bewusster Umgang mit Munition trennen stabile
 Runs von chaotischen Niederlagen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Zielprioritäten setzen**  

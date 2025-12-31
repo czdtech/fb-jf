@@ -28,6 +28,7 @@ Road Fury ist ein rasanter Top-Down-Vertical-Shooter, in dem du ein schwer
  Wagens dauerhaft zu verbessern.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Ständig in Bewegung bleiben:** Wechsle permanent die Spur, um gegnerischem

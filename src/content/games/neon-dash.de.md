@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: neon-dash
-title: "Neon Dash"
+title: Neon Dash
 description: >-
   Neon Dash ist ein schneller Präzisions-Runner: Springe im richtigen Moment,
   weiche Fallen aus und time deine Eingaben perfekt, um neonleuchtende Parcours
@@ -25,6 +25,7 @@ und ein konstanter Rhythmus helfen dir, enge Hindernisketten zu meistern.
 Je nach Modus erwarten dich Level mit Checkpoints oder One-Shot-Runs.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Sprungkurven lernen**  

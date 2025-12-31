@@ -21,6 +21,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Minesweeper ist ein klassisches Einzelspieler-Logikpuzzle, das seit Jahrzehnten ein fester Bestandteil der PC-Unterhaltung ist. Das Ziel ist es, ein rechteckiges Gitter mit versteckten "Minen" oder Bomben zu räumen, ohne eine davon zur Explosion zu bringen. Dazu verwendest du Hinweise von aufgedeckten Feldern, die dir sagen, wie viele Minen sich in den angrenzenden acht Feldern befinden. Es ist ein Spiel der reinen Deduktion und sorgfältigen Risikoabschätzung.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1.  **Der erste Klick:** Dein erster Klick ist immer sicher. Wenn du auf ein Feld klickst, das keine angrenzenden Minen hat, öffnet sich ein großer Bereich, was ein toller Start ist.

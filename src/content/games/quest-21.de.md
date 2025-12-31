@@ -27,6 +27,7 @@ Quest 21 ist ein kartenbasiertes Abenteuer auf Basis der klassischen
  die 21 zu überschreiten.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Ziel verstehen:** Du willst so nah wie möglich an 21 heran, aber nicht

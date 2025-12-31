@@ -27,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  eignet sich das Spiel sowohl für kurze Pausen als auch für hitzige Duelle.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spieltipps & Strategien
 
 1.  **Paddle kontrollieren:** Bewege dein Paddle flüssig, damit du sowohl

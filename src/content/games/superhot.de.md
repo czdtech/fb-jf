@@ -22,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 „Superhot“ ist ein ungewöhnlicher First‑Person‑Shooter: Zeit läuft nur dann annähernd normal, wenn du dich bewegst oder umschaust. Bleibst du stehen, friert sie fast ein. Dadurch wird jede Begegnung weniger zu einem reinen Reflex‑Duell, sondern zu einem taktischen Puzzle in Zeitlupe.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spielstrategie
 
 1.  **Zeit einfrieren:** Nutze das Stehenbleiben, um dich zu orientieren, Kugelbahnen zu lesen und deinen nächsten Schritt zu planen.

@@ -29,6 +29,7 @@ Onet Connect Classic ist ein schnelles, süchtig machendes
  Verbindungsregeln und den mitlaufenden Timer.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Die Verbindungsregel:** Du kannst zwei gleiche Kacheln nur entfernen,

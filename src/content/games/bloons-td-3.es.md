@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: bloons-td-3
-title: "Bloons TD 3"
+title: Bloons TD 3
 description: >-
   Defiéndete de oleadas de coloridos Bloons en Bloons TD 3. Coloca y mejora 8
   torres únicas, aprovecha el poder del Monkey Beacon y prepárate para
@@ -50,6 +50,7 @@ unidad, a diferencia de los juegos posteriores con ramas exclusivas.
     (inmunes al congelamiento) son centrales para la estrategia.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego
 
 -   **Inicio equilibrado:** Empieza con Dart Monkeys y Tack Shooters. Mejora tus

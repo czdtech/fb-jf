@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 TNT Bomb ist ein strategisches, physikbasiertes Puzzle-Spiel, bei dem dein Ziel der Abriss ist. In jedem Level bekommst du eine Struktur und ein begrenztes Inventar an Sprengstoff präsentiert. Deine Aufgabe ist es, deine Bomben sorgfältig an der Struktur zu platzieren, um den meisten Schaden anzurichten. Indem du wichtige Stützpunkte identifizierst und die richtige Bombe für die Aufgabe verwendest, musst du versuchen, die gesamte Struktur zu zerstören, um zur nächsten Herausforderung zu gelangen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1.  **Struktur analysieren:** Bevor du irgendwelche Bomben platzierst, untersuche das Design der Struktur. Suche nach Schwachstellen, wichtigen Stützbalken und tragenden Blöcken an der Basis.

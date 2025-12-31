@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: battleships-armada
-title: "Battleships Armada batalla naval por turnos"
+title: Battleships Armada batalla naval por turnos
 description: >-
   Battleships Armada es una adaptación digital del clásico juego de combate
   naval. Coloca tu flota con cabeza y dispara al tablero enemigo para localizar
@@ -27,6 +27,7 @@ sobre las coordenadas del tablero rival intentando localizar y hundir todos sus
 barcos. El primero en hacerlo gana.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1.  **Colocación estratégica:** La partida comienza con la fase de despliegue.

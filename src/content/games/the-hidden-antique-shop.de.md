@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 The Hidden Antique Shop ist ein entspanntes Wimmelbild‑Spiel in einem alten Antiquitätenladen voller Kuriositäten. Du durchsuchst Regale, Kisten und Vitrinen, findest versteckte Gegenstände, ordnest Schattenrisse zu und öffnest nach und nach neue Bereiche des Ladens.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Raster‑Scan:** Teile die Szene gedanklich in mehrere Zonen und scanne sie nacheinander, statt planlos herumzuklicken.

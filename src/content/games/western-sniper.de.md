@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Western Sniper wirft dich in kurze, knackige Einsätze gegen Banditen, Bomben und bewegliche Ziele. Um erfolgreich zu sein, brauchst du einen ruhigen Zielarm, ein gutes Auge für Prioritäten (Schützen und Werfer zuerst) und einen sparsamen Umgang mit Munition und Zeit.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Ziele priorisieren:** Nimm zuerst Gegner mit Fernwaffen oder in der Nähe von Explosivfässern raus – sie sind am gefährlichsten.

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: 4-in-row-mania
-title: "4 In Row MANIA conecta 4 clásico"
+title: 4 In Row MANIA conecta 4 clásico
 description: >-
   4 In Row MANIA es un duelo clásico de conecta 4. Domina las columnas, crea
   amenazas dobles y sé el primero en alinear cuatro fichas.
@@ -24,6 +24,7 @@ controlando la paridad de las columnas y preparando posiciones de doble
 amenaza.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1.  **Controla el centro:** La columna central ofrece la mayor cantidad de

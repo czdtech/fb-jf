@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: block-blaster-puzzle
-title: "Block Blaster Puzzle"
+title: Block Blaster Puzzle
 description: >-
   Block Blaster Puzzle combina la colocación de bloques con limpiezas en cadena:
   encaja las piezas, prepara explosiones de varias líneas y mantén el tablero
@@ -27,6 +27,7 @@ limpiezas de varias líneas y evitar cavidades selladas que ya no se puedan
 rellenar.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1.  **Higiene de bordes:** Mantén los bordes lo más lisos posible para reducir

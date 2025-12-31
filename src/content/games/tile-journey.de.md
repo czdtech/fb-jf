@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Tile Journey ist ein modernes, entspannendes Tile‑Matching‑Puzzle, das trotzdem gutes Planen verlangt. Dein Ziel ist es, ein Stapelbrett voller verschieden gemusterter Kacheln zu leeren, indem du jeweils drei identische Kacheln sammelst. Anders als in klassischen Match‑3‑Spielen tauschst du nichts, sondern schickst ausgewählte Kacheln in ein Tablett mit begrenzter Kapazität am unteren Bildschirmrand. Sobald drei gleiche Kacheln im Tablett liegen, werden sie entfernt – schaffst du das nicht rechtzeitig und das Tablett läuft voll, ist die Runde verloren.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Die goldene Regel:** Das Tablett bietet nur wenige Plätze (meist sieben). Wenn es voll ist und kein Drilling entsteht, verlierst du. Jeder Zug sollte diese Grenze im Hinterkopf behalten.

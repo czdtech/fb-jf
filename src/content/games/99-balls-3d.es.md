@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: 99-balls-3d
-title: "99 Balls 3D disparos y física"
+title: 99 Balls 3D disparos y física
 description: >-
   99 Balls 3D es un adictivo juego de disparos con física que mezcla Breakout y
   Bubble Shooter. Apunta, lanza una lluvia de bolas y destruye los objetivos
@@ -29,6 +29,7 @@ apuntar bien para generar largas cadenas de rebotes y limpiar el tablero antes
 de que las bolas numeradas lleguen al fondo.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1.  **Domina los tiros a banda:** Evita disparar directo a una sola bola. Lo

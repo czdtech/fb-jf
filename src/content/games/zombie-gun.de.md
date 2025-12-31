@@ -20,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 In Zombie Gun liegt der Fokus auf Winkel‑Schüssen. Du lässt Kugeln an Wänden abprallen, triffst explosive Fässer und bringst Konstruktionen zum Einsturz, um Zombies mit möglichst wenigen Schüssen auszuschalten. In späteren Räumen tauchen gepanzerte Gegner auf, die du nur über die Umgebung effektiv erledigen kannst.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Banden nutzen:** Schieße über Wände, um versteckte oder abgeschirmte Gegner zu treffen.

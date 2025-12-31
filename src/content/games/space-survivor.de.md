@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Space Survivor ist ein actionreiches roguelike Survival-Spiel im Stil von "Vampire Survivors". Dein Raumschiff feuert automatisch, und deine Hauptaufgabe ist es, dich geschickt durch immer dichter werdende Gegnerhorden zu manövrieren. Indem du Feinde besiegst und die Erfahrungskristalle einsammelst, die sie fallen lassen, steigst du im Level auf und kannst neue Waffen oder Upgrades wählen. Jeder Durchlauf ist anders – du baust dir jedes Mal eine neue, immer stärkere Kombination, um möglichst lange zu überleben.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1.  **Überleben zuerst:** Zu Beginn ist es wichtiger, keinen Schaden zu nehmen, als alles zu zerstören. Schlängle dich durch die Gegnergruppen und sammle vor allem die blauen Erfahrungskristalle ein. Deine Startwaffe ist noch schwach, also hat Ausweichen Vorrang.

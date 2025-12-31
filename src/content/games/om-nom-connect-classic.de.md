@@ -30,6 +30,7 @@ Om Nom Connect Classic ist ein schnelles, liebevoll gestaltetes
  einen guten Blick als auch schnelle Entscheidungen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Die Verbindungsregel verstehen:** Du kannst zwei identische Kacheln nur

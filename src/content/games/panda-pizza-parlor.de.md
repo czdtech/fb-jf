@@ -29,6 +29,7 @@ Willkommen im Panda Pizza Parlor, einem liebevoll gestalteten, schnellen
  einer weltberühmten Pizzeria wachsen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Bestellung prüfen:** Sobald ein Gast erscheint, schau in die Sprechblase

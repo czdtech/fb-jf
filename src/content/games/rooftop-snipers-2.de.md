@@ -27,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  das sorgt für viele lustige Momente.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spieltipps & Strategien
 
 1.  **Schuss-Timing üben:** Warte auf den richtigen Moment, um zu feuern, und

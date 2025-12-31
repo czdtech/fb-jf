@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Tiles of Egypt ist ein strategisches Triple‑Match‑Puzzle mit ägyptischem Flair. Ein Stapel kunstvoll verzierter Kacheln bedeckt das Spielfeld. Du wählst freiliegende Kacheln aus und legst sie in ein Tablett am unteren Bildschirmrand. Immer wenn drei identische Kacheln dort liegen, lösen sie sich auf. Ziel ist es, das komplette Brett abzuräumen – doch dein Tablett bietet nur begrenzt Platz, also musst du deine Züge gut planen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Regel der Drei:** Alles dreht sich um Drillinge. Nur wenn du drei identische Kacheln gesammelt hast, verschwinden sie endgültig.

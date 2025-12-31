@@ -1,11 +1,11 @@
 ---
 locale: de
 urlstr: pool-8-ball-mania
-title: "Pool 8 Ball Mania"
+title: Pool 8 Ball Mania
 description: >-
-  Pool 8 Ball Mania bringt Billard auf den Bildschirm: Ziele präzise, kontrolliere
-  die Weiße mit Effet und räume die Kugeln mit kluger Positionierung in möglichst
-  wenigen Stößen ab.
+  Pool 8 Ball Mania bringt Billard auf den Bildschirm: Ziele präzise,
+  kontrolliere die Weiße mit Effet und räume die Kugeln mit kluger
+  Positionierung in möglichst wenigen Stößen ab.
 iframeSrc: 'https://4i2ksm0sqbsr0.h5games.usercontent.goog/v/6fbgaukuhtvqo/'
 thumbnail: /new-images/thumbnails/pool-8-ball-mania.png
 tags:
@@ -25,6 +25,7 @@ Pool 8 Ball Mania simuliert lockeres 8-Ball-Billard mit feinfühligem Zielen und
  Vorlauf (Topspin), Rückläufer (Backspin) und Seiteneffet über die Banden.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Nächste Position planen:** Überlege vor jedem Stoß, wo die Weiße landen

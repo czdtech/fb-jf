@@ -22,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 „Sudoku“ ist ein logikbasiertes Zahlenrätsel. Du füllst ein 9×9‑Raster mit den Ziffern 1 bis 9, sodass in jeder Zeile, jeder Spalte und in jedem 3×3‑Block jede Zahl genau einmal auftaucht. Statt Mathematik brauchst du hier vor allem Kombinationsgabe und Geduld.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spielstrategie
 
 1.  **Einfach anfangen:** Suche Felder, in denen nur noch eine Zahl logisch möglich ist – das sind deine ersten Ansatzpunkte.

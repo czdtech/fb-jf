@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Table Tennis bringt eine vereinfachte, aber flotte Tischtennis‑Simulation auf deinen Bildschirm. Du trittst gegen eine KI‑Gegnerin an und versuchst, mit gut platzierten Schlägen Punkte zu holen – ganz wie an der echten Platte.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1.  **Aufschlag & Rückschlag:** Jeder Ballwechsel startet mit einem Aufschlag. Triff den Ball nach dem einmaligen Aufspringen auf deiner Seite und platziere ihn so, dass die KI in Bewegung kommt.

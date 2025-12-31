@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: bolly-beat
-title: "Bolly Beat"
+title: Bolly Beat
 description: >-
   Bolly Beat es un reto de ritmo en el que debes pulsar al compás, encadenar
   combos y dominar ritmos al estilo Bollywood.
@@ -26,6 +26,7 @@ estrellas, y las rachas largas desbloquean multiplicadores de puntos y patrones
 más exigentes.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Aprende las ventanas de tiempo:** Concéntrate en golpear justo en el

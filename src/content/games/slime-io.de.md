@@ -27,6 +27,7 @@ Slime.io ist ein 3D-Arcadespiel aus der beliebten .io-Reihe. Du startest als
  du fressen kannst oder vor denen du fliehen musst.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Klein anfangen:** Am Anfang bist du verletzlich. Konzentriere dich auf

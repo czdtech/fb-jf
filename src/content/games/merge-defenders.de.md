@@ -27,6 +27,7 @@ Grundeinheiten kaufst, sie zu stärkeren Verteidigern merg st und sie dann
 gezielt an der Frontlinie positionierst.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Merge-Zyklus verstehen**  

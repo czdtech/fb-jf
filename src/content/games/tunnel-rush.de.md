@@ -23,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 Tunnel Rush ist ein rasanter 3D‑Endless‑Runner, in dem du dich durch einen farbenfrohen Tunnel voller Barrieren bewegst. Je länger du überlebst, desto höher wird das Tempo, und jede falsche Bewegung endet direkt im Crash. Das Spiel fordert deine Reaktionsgeschwindigkeit und Konzentration bis an die Grenze.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spielstrategie
 
 1. **Reaktionen trainieren:** Nutze die ersten Sekunden des Laufs, um dich an das Tempo zu gewöhnen, und versuche, möglichst früh auf neue Hindernisse zu reagieren.

@@ -30,6 +30,7 @@ Pets Rush ist ein rasantes Match-3-Spiel mit niedlichem Tier-Theme. Anders als
  Feld so lange wie möglich sauber, um eine hohe Punktzahl zu erzielen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Hohe Spalten zuerst abräumen:** Dein Hauptziel ist, zu verhindern, dass

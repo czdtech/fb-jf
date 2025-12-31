@@ -1,8 +1,11 @@
 ---
 locale: de
 urlstr: subway-jumper
-title: "Subway Jumper"
-description: "Subway Jumper ist ein flinker Drei-Spuren-Runner: Wechsel die Spur, spring oder rutsche im richtigen Moment und halte den Rhythmus durch volle U-Bahn-Schächte." 
+title: Subway Jumper
+description: >-
+  Subway Jumper ist ein flinker Drei-Spuren-Runner: Wechsel die Spur, spring
+  oder rutsche im richtigen Moment und halte den Rhythmus durch volle
+  U-Bahn-Schächte.
 iframeSrc: 'https://34clth7bs1mtg.h5games.usercontent.goog/v/20un142k99goo/'
 thumbnail: /new-images/thumbnails/subway-jumper.png
 tags:
@@ -18,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Subway Jumper spielt sich wie ein klassischer Endless‑Runner auf drei Spuren. Dir rasen Züge, Hütchen, Barrieren und andere Hindernisse entgegen. Mit gut getimten Spurwechseln, Sprüngen und Slides weichst du ihnen aus, sammelst Münzen und Power‑ups und hältst deine Serie so lange wie möglich am Leben.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1.  **Weit voraus schauen:** Fixiere nicht den Boden direkt vor dir, sondern die nächsten ein bis zwei Hindernisse.

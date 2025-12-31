@@ -22,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 „UNO Game“ ist die digitale Version des weltberühmten Kartenspiels UNO. Ziel ist es, als Erste/r alle eigenen Karten loszuwerden. In jedem Zug legst du eine Karte ab, die entweder die gleiche Farbe oder die gleiche Zahl wie die offene Karte hat – oder du spielst eine Aktions‑ bzw. Jokerkarte, um den Spielfluss ordentlich durcheinanderzubringen.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spielstrategie
 
 1. **Farben im Blick behalten:** Versuche, deine Hand so zu spielen, dass du mehrere Farben übrig hast. So bist du flexibler, wenn die Farbe auf dem Ablagestapel wechselt.

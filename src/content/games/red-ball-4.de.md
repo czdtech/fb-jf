@@ -27,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  Gegner.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spieltipps & Strategien
 
 1.  **Physik ausnutzen:** Nutze das Spring- und Rollverhalten des Balls, um

@@ -25,6 +25,7 @@ ist eine entspannte, aber knifflige Art, dein Vokabular und dein
 Kombinationsvermögen zu trainieren.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Bilder genau betrachten:** Schau dir jedes Bild aufmerksam an. Achte auf

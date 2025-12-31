@@ -21,6 +21,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Words of Magic ist ein entspanntes Wortpuzzle mit leichtem Fantasy‑Touch. In jedem Level erhältst du einen Kreis aus Buchstaben und darüber ein Kreuzwort‑ähnliches Gitter. Aus den gegebenen Buchstaben formst du alle gesuchten Wörter, bis das Gitter vollständig gefüllt ist – perfekt, um nebenbei dein Vokabular und dein Anagramm‑Gefühl zu trainieren.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Mit kurzen Wörtern starten:** Fange mit offensichtlichen Drei‑Buchstaben‑Wörtern an, um erste Felder im Gitter aufzudecken. Dadurch ergeben sich Hinweise auf längere Begriffe.

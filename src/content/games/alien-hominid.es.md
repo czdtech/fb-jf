@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: alien-hominid
-title: "Alien Hominid: guía del clásico juego de disparos"
+title: 'Alien Hominid: guía del clásico juego de disparos'
 description: >-
-  Alien Hominid es un frenético juego de acción y disparos de desplazamiento lateral creado por The
-  Behemoth. Descubre estrategias, controles y consejos para dominar este
-  desafiante clásico de disparos.
+  Alien Hominid es un frenético juego de acción y disparos de desplazamiento
+  lateral creado por The Behemoth. Descubre estrategias, controles y consejos
+  para dominar este desafiante clásico de disparos.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/alien-hominid.html'
 thumbnail: /new-images/thumbnails/alien-hominid.jpg
 tags:
@@ -32,6 +32,7 @@ escapar del planeta. Jugablemente, se inspira en clásicos arcade como *Contra* 
 *Metal Slug*: muertes de un solo golpe, enemigos constantes y combates contra
 jefes que exigen precisión y aprender patrones.
 
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 Alien Hominid es famoso por su dificultad. Para progresar necesitas reflejos,
@@ -49,6 +50,7 @@ memoria de patrones y dominar todo el repertorio de movimientos del alien.
 *   **Cuerpo a cuerpo cuando haga falta:** El cuchillo es sorprendentemente útil a corta distancia, sobre todo cuando te rodean y necesitas despejar espacio.
 *   **Las granadas son tus aliadas:** Hacen mucho daño en área; resérvalas para grupos grandes o para infligir daño masivo a los jefes.
 
+<!-- i18n:section:tips -->
 #### 3. Consejos generales de combate
 
 *   **Disparos cargados:** Mantener pulsado el botón de disparo carga un tiro más potente que atraviesa a varios enemigos, pero mientras cargas no puedes moverte, así que úsalo solo cuando tengas una ventana segura.

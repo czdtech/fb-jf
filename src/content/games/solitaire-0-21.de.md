@@ -1,8 +1,11 @@
 ---
 locale: de
 urlstr: solitaire-0-21
-title: "Solitaire 0-21"
-description: "Solitaire 0-21 verbindet klassisches Solitaire mit Mathe: Lege Karten so, dass die Summen in den Reihen immer zwischen 0 und 21 bleiben – und balanciere dabei Risiko und Sicherheit."
+title: Solitaire 0-21
+description: >-
+  Solitaire 0-21 verbindet klassisches Solitaire mit Mathe: Lege Karten so, dass
+  die Summen in den Reihen immer zwischen 0 und 21 bleiben – und balanciere
+  dabei Risiko und Sicherheit.
 iframeSrc: 'https://4hcssrsmrpvv0.h5games.usercontent.goog/v/2oipnrim9ar08/'
 thumbnail: /new-images/thumbnails/solitaire-0-21.png
 tags:
@@ -19,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Solitaire 0-21 kombiniert das Layout eines Solitaire-Spiels mit strengen Zahlenlimits. Du legst Zahlenkarten in Reihen, wobei die laufenden Summen immer im Bereich von 0 bis 21 bleiben müssen. Modifikatoren wie Plus-, Minus- oder Multiplikationskarten und spezielle Effekte machen die Planung knifflig. Gute Züge schaffen sichere Zwischenschritte und lassen zugleich Platz für spätere, größere Sprünge.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1.  **Puffer lassen:** Spiele deine Reihen nicht direkt an die Grenzen 0 oder 21 heran. Ein bisschen Spielraum verhindert, dass du dich früh blockierst.

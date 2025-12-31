@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Word Detector ist ein schnelles Wortfindungs-Puzzle-Spiel, das deinen Wortschatz und deine Geschwindigkeit herausfordert. Du bekommst ein Buchstabengitter präsentiert und musst so viele Wörter wie möglich finden, indem du benachbarte Buchstaben verbindest. Wörter können gebildet werden, indem du Buchstaben horizontal, vertikal oder diagonal verbindest. Das Ziel ist typischerweise, einen Zielpunktestand zu erreichen oder eine bestimmte Anzahl von Wörtern innerhalb eines Zeitlimits zu finden, um zum nächsten Level zu gelangen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1.  **Nach häufigen Präfixen und Suffixen scannen:** Suche nach häufigen Buchstabenkombinationen wie "S", "ED", "ER" oder "ING". Diese können oft der Anfang oder das Ende mehrerer Wörter sein und dir helfen, schnell mehrere Wörter zu finden.

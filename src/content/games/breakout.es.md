@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: breakout
-title: "Breakout"
+title: Breakout
 description: >-
   Controla la pala, devuelve la bola y destruye todos los ladrillos en el
-  clásico arcade Breakout. Aprende trucos y consejos para dominar este
-  atemporal rompebloques.
+  clásico arcade Breakout. Aprende trucos y consejos para dominar este atemporal
+  rompebloques.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/atari-breakout.html'
 thumbnail: /new-images/thumbnails/breakout.jpg
 tags:
@@ -36,6 +36,7 @@ crece. La dificultad está en controlar la trayectoria de la bola y limpiar la
 pantalla sin quedarte sin vidas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego
 
 -   **Domina el control de ángulos:** Es la habilidad más importante en

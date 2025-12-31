@@ -1,11 +1,12 @@
 ---
 locale: es
 urlstr: age-of-war
-title: "Age of War guía y estrategia"
+title: Age of War guía y estrategia
 description: >-
-  Age of War es un clásico juego de estrategia lateral en el que haces evolucionar
-  tu ejército desde la Edad de Piedra hasta el futuro. Aprende tácticas,
-  controles y consejos para resistir los ataques enemigos y destruir su base.
+  Age of War es un clásico juego de estrategia lateral en el que haces
+  evolucionar tu ejército desde la Edad de Piedra hasta el futuro. Aprende
+  tácticas, controles y consejos para resistir los ataques enemigos y destruir
+  su base.
 iframeSrc: >-
   https://app-196716.games.s3.yandex.net/196716/h5h3xwa1kxsz7wcma59tvvmko0zorc80/index.html
 thumbnail: /new-images/thumbnails/age-of-war.jpg
@@ -30,10 +31,12 @@ evolución desbloquea unidades y torretas defensivas más poderosas y, además,
 restaura por completo la salud de tu base. El objetivo final es simple: resistir
 las oleadas enemigas y destruir su base.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego y recorrido
 
 Dominar Age of War requiere equilibrar ataque, defensa y el momento de evolucionar.
 
+<!-- i18n:section:how-to-play -->
 #### 1. Estrategia de inicio de partida (Edad de Piedra)
 
 *   **Rush de cavernícolas:** La apertura más habitual y efectiva consiste en

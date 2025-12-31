@@ -29,6 +29,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  erhalten, ergänzt um Grafik- und Komfortverbesserungen der GBA-Generation.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spieltipps & Strategien
 
 1.  **Starter wählen:** Zu Beginn suchst du dir eines von drei Pokémon als

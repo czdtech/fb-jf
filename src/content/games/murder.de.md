@@ -28,6 +28,7 @@ rechtzeitig zu stoppen. Jede Runde ist von psychologischen Bluff-Duellen und
 Unsicherheiten geprägt.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spielstrategie
 
 1.  **Als Mörder**  

@@ -1,17 +1,17 @@
 ---
 locale: es
 urlstr: bejeweled
-title: "Bejeweled juego clásico de combinar gemas"
+title: Bejeweled juego clásico de combinar gemas
 description: >-
-  Bejeweled es el legendario puzle de combinar gemas que popularizó el
-  género "match‑3". Intercambia gemas adyacentes, encadena cascadas y utiliza
-  gemas especiales para lograr puntuaciones enormes.
+  Bejeweled es el legendario puzle de combinar gemas que popularizó el género
+  "match‑3". Intercambia gemas adyacentes, encadena cascadas y utiliza gemas
+  especiales para lograr puntuaciones enormes.
 iframeSrc: 'https://files.acticdn.com/278374/30464/index.html'
 thumbnail: /new-images/thumbnails/bejeweled.png
 tags:
   - bejeweled
 score: 4.8/5  (654 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -51,6 +51,7 @@ son la clave para puntuaciones altas:
 - **Action / Blitz:** Modo cronometrado (a menudo 60 segundos) en el que necesitas
   hacer la mayor cantidad de puntos antes de que el tiempo se agote.
 
+<!-- i18n:section:tips -->
 ### Estrategia y consejos
 
 -  **Busca combinaciones grandes:** No te conformes siempre con tríos. Escanea el

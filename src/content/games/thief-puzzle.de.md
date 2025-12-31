@@ -20,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 In Thief Puzzle steuerst du einen extrem dehnbaren Arm, mit dem du Gegenstände stiehlst, ohne Alarme auszulösen. Dabei musst du Lasern, Wachen, Sägeblättern und anderen Fallen geschickt ausweichen. Gute Planung und sauberes Timing werden mit schnellen, befriedigenden Level‑Lösungen belohnt.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Weg testen:** Bewege den Arm zuerst langsam nach vorn, um herauszufinden, wann Sensoren oder Fallen auslösen.

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: bowling-stars
-title: "Bowling Stars"
+title: Bowling Stars
 description: >-
   Bowling Stars lleva a tu navegador una experiencia de bolos de diez pinos muy
   fluida: lee la pista, elige bien los ángulos y encadena strikes de forma
@@ -25,6 +25,7 @@ altas está en la consistencia y en convertir los spares: ajusta tu suelta y
 adáptate al comportamiento de la pista para encadenar tiradas perfectas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Golpea el bolsillo:** Si lanzas con mano derecha, apunta entre los bolos

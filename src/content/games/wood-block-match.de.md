@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Wood Block Match ist ein 10×10‑Block‑Legespiel mit warmem Holzstil. In jeder Runde bekommst du eine kleine Auswahl an Formen, die du auf dem Raster platzierst. Komplett gefüllte Reihen und Spalten verschwinden und schaffen neuen Platz. Die Partie endet, sobald keins der nächsten Teile mehr ins Raster passt – Erfolg hängt also davon ab, wie gut du flexible Freiflächen erhältst und Mehrfach‑Clears vorbereitest.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Luft im Zentrum:** Halte die Mitte des Spielfelds möglichst offen und räume zuerst chaotische Ränder auf, damit keine Einzelzellen‑Fallen entstehen.

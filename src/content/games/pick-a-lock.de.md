@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: pick-a-lock
-title: "Pick a Lock"
+title: Pick a Lock
 description: >-
   Pick a Lock testet Timing und Konzentration: Stoppe den Zeiger exakt auf den
   Markierungen, reihe perfekte Treffer aneinander und öffne immer kniffligere
@@ -27,6 +27,7 @@ Pick a Lock ist ein minimalistisches Rhythmus- und Timing-Spiel. Ein Zeiger
  – ruhige Nerven und ein gutes Gefühl für Takt sind hier Gold wert.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Rhythmus zählen:** Versuche, dich auf den Takt des Zeigers einzustellen

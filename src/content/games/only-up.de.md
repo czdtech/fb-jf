@@ -30,6 +30,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  daher Pflicht.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spieltipps & Strategien
 
 1.  **Genau beobachten:** Schaue dir vor jedem Sprung die Position,

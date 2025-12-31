@@ -27,6 +27,7 @@ mit positiver Bilanz übrig zu bleiben. Strategie, Verhandlungsgeschick und eine
 Prise Glück spielen zusammen.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spielstrategie
 
 1.  **Straßen kaufen**  

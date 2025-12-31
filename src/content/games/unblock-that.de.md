@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Unblock That ist ein forderndes Schiebepuzzle mit Holzblöcken unterschiedlicher Länge. Auf einem Raster liegen die Blöcke so verteilt, dass der rote Block zunächst feststeckt. Deine Aufgabe ist es, die übrigen Klötze in die richtige Reihenfolge zu schieben, bis der rote Block den Ausgang erreicht. Mit vielen Leveln von leicht bis knifflig ist es ein perfekter Logiktrainer für zwischendurch.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Hauptblocker erkennen:** Schau dir als Erstes an, welche Blöcke direkt im Weg des roten Blocks stehen – diese müssen auf jeden Fall bewegt werden.

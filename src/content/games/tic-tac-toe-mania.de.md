@@ -1,8 +1,11 @@
 ---
 locale: de
 urlstr: tic-tac-toe-mania
-title: "Tic Tac Toe Mania"
-description: "Tic Tac Toe Mania bringt das Klassiker‑Duell auf Tempo: setze Gabeln, blocke Drohungen und erzwinge Remis oder Sieg – je nach Variante auch auf größeren Brettern."
+title: Tic Tac Toe Mania
+description: >-
+  Tic Tac Toe Mania bringt das Klassiker‑Duell auf Tempo: setze Gabeln, blocke
+  Drohungen und erzwinge Remis oder Sieg – je nach Variante auch auf größeren
+  Brettern.
 iframeSrc: 'https://7dcsid310v1u8.h5games.usercontent.goog/v/13cfdat69ufug/'
 thumbnail: /new-images/thumbnails/tic-tac-toe-mania.png
 tags:
@@ -18,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Tic Tac Toe Mania modernisiert „Drei gewinnt“ mit cleanem Look und spannenden Varianten wie größeren Spielfeldern oder Sonderregeln (z. B. Misère‑Modus). Im Kern geht es immer darum, eigene Dreierreihen zu erzwingen oder gegnerische Drohungen rechtzeitig zu neutralisieren. Auf dem klassischen 3×3‑Brett endet eine fehlerfreie Partie zwar im Remis – aber schon ein kleiner Patzer entscheidet das Match.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Mitte zuerst (3×3):** Auf dem Standardbrett ist das Zentrum das stärkste Feld – von hier aus kannst du die meisten Linien und Gabeln aufbauen. Danach kommen die Ecken.

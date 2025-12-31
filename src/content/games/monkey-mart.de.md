@@ -28,6 +28,7 @@ Gewinn zu machen und deinen Laden zu erweitern. Mit der Zeit schaltest du neue
 Produkte frei, rüstest Maschinen auf und stellst weitere Affen als Personal ein.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spielstrategie
 
 1.  **Pflanzen & Ernten**  

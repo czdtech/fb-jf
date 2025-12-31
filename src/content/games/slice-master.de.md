@@ -27,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  unzerstörbaren Hindernissen zu scheitern.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spieltipps & Strategien
 
 1.  **Timing der Schnitte:** Schneide im richtigen Moment, um Objekte sauber zu

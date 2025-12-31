@@ -29,6 +29,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  langjährige Fans ihren Spaß haben.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spieltipps & Strategien
 
 1.  **Labyrinthe kennenlernen:** Jedes Level hat ein eigenes Layout. Je besser

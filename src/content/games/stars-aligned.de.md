@@ -1,8 +1,10 @@
 ---
 locale: de
 urlstr: stars-aligned
-title: "Stars Aligned"
-description: "Stars Aligned ist ein beruhigendes Sternbild-Puzzle: Drehe Fragmente, verbinde Linien und lass nach und nach vollständige Sternmuster entstehen." 
+title: Stars Aligned
+description: >-
+  Stars Aligned ist ein beruhigendes Sternbild-Puzzle: Drehe Fragmente, verbinde
+  Linien und lass nach und nach vollständige Sternmuster entstehen.
 iframeSrc: 'https://starsaligned.h5games.usercontent.goog/v/3i88p78sohtig/'
 thumbnail: /new-images/thumbnails/stars-aligned.jpg
 tags:
@@ -19,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Stars Aligned ist ein ruhiges, räumliches Knobelspiel: Du drehst Sternfragmente und richtest Linien und Knoten so aus, dass daraus komplette Sternbilder entstehen. In späteren Levels kommen mehr Fragmente und feinere Drehwinkel dazu, wodurch du genauer hinschauen musst.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1.  **Mit Ankern beginnen:** Finde offensichtliche Teilstücke, die klar zusammengehören, und platziere sie zuerst – so reduzierst du die Möglichkeiten.

@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Puzzle Pieces Merge bietet eine ruhige und innovative Variante des klassischen Puzzles. Anstatt eines statischen Bretts lädt dieses Spiel dich ein, Puzzleteile zu ziehen, zu legen und zu verschmelzen, um wunderschöne, fesselnde Landschaften zu enthüllen. Die Kernmechanik besteht darin, Teile korrekt nebeneinander zu platzieren, woraufhin sie zu einem größeren Segment des Endbildes verschmelzen. Mit der Möglichkeit, Teile zu drehen und strategische Power-ups zu nutzen, ist es eine entspannende und dennoch fesselnde Erfahrung für Puzzle-Liebhaber.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1.  **Mit den Rändern beginnen:** Wie bei einem echten Puzzle ist es eine gute Strategie, zuerst die Rand- und Eckstücke zu identifizieren und zu platzieren. Das hilft dir, einen Rahmen für den Rest des Bildes zu bauen.

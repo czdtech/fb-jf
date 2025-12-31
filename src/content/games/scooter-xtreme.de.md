@@ -28,6 +28,7 @@ Scooter Xtreme 3D ist ein actionreicher Stunt- und Rennspaß auf dem Roller.
  frei und wirst nach und nach zum ultimativen Scooter-Champion.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Grundsteuerung meistern:** Bevor du komplexe Tricks versuchst, übe

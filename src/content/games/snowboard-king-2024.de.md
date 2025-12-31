@@ -28,6 +28,7 @@ Snowboard King 2024 ist ein rasanter Arcade-Ride den Berg hinunter. Du fährst
  Snowboard King verdienen kannst.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Weit voraus schauen:** Richte den Blick möglichst weit nach unten, um

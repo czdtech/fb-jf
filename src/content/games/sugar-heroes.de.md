@@ -1,8 +1,11 @@
 ---
 locale: de
 urlstr: sugar-heroes
-title: "Sugar Heroes"
-description: "Sugar Heroes ist ein farbenfrohes Match‑3 mit Comic-Helden und Süßigkeiten-Blockern: Räum Gelee ab, sammle Zutaten und kombiniere Power-ups, um selbst dichte Boards zu sprengen." 
+title: Sugar Heroes
+description: >-
+  Sugar Heroes ist ein farbenfrohes Match‑3 mit Comic-Helden und
+  Süßigkeiten-Blockern: Räum Gelee ab, sammle Zutaten und kombiniere Power-ups,
+  um selbst dichte Boards zu sprengen.
 iframeSrc: 'https://2f4eprapfvtoo.h5games.usercontent.goog/v/4bc5h26thvau8/'
 thumbnail: /new-images/thumbnails/sugar-heroes.png
 tags:
@@ -19,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Sugar Heroes ist ein kombolastiges Match‑3, in dem du bunte Süßigkeiten vertauschst, Comic‑Helden freischaltest und spezielle Blocker beseitigst. Die Levelziele reichen vom Entfernen von Gelee über das Sammeln bestimmter Items bis hin zum Freispielen einzelner Felder. Kombinierst du Power‑ups (z. B. Bombe + Linie oder Farbe‑Clears), räumst du selbst sehr volle Spielfelder im Handumdrehen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1.  **Ziel zuerst:** Spiel nicht nur „auf Punkte“ – konzentriere dich auf Gelee, Zutaten oder Missionsobjekte.

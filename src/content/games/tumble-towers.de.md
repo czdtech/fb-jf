@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Tumble Towers ist ein Stapel‑Puzzle, bei dem jeder fallende Block den Schwerpunkt deines Turms verändert. Erfolgreiches Spielen bedeutet, das Gewicht gleichmäßig zu verteilen, Überhänge zu begrenzen und die unvermeidlichen Wackler nach einem Block‑Drop vorauszuahnen, damit die Konstruktion nicht zusammenbricht.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Breite Basis statt Höhenrausch:** Baue zuerst eine stabile, breite Grundlage, bevor du in die Höhe gehst.

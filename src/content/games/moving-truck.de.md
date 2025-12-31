@@ -27,6 +27,7 @@ Ende heil am Ziel ankommen. Das Spiel fordert dein räumliches Vorstellungs-
 vermögen und deine Planungsfähigkeit.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spielstrategie
 
 1.  **Formen genau betrachten**  

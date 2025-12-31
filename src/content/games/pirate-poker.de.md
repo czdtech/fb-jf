@@ -28,6 +28,7 @@ Pirate Poker ist klassisches Five-Card-Draw-Poker mit Piraten-Flair. Du sitzt
  spielen dabei zusammen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Blatt-Rangfolgen kennen:** Ziel ist das beste Fünf-Karten-Blatt. Von

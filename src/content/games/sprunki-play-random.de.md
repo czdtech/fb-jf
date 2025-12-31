@@ -1,15 +1,17 @@
 ---
 locale: de
 urlstr: sprunki-play-random
-title: "Sprunki Play Random - Sprunki Play Random online spielen"
-description: "Sprunki Play Random ist ein Musikbaukasten voller Überraschungen: Zufällige Sounds, unerwartete Kombinationen und jede Menge Raum zum Ausprobieren."
+title: Sprunki Play Random - Sprunki Play Random online spielen
+description: >-
+  Sprunki Play Random ist ein Musikbaukasten voller Überraschungen: Zufällige
+  Sounds, unerwartete Kombinationen und jede Menge Raum zum Ausprobieren.
 iframeSrc: 'https://turbowarp.org/1148555262/embed'
 thumbnail: /new-images/thumbnails/sprunki-play-random.png
 tags:
   - sprunki play random
   - sprunki play random online
 score: 4.5/5  (614 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Einführung in Sprunki Play Random
@@ -42,6 +44,7 @@ Die Bedienung ist simpel, egal ob mit Maus oder Touch:
 
 ---
 
+<!-- i18n:section:tips -->
 ### Tipps für Sprunki Play Random
 
 - **Verschiedene Layouts testen:** Position und Auswahl der Figuren beeinflussen das Gesamtbild – ruhig viel ausprobieren.

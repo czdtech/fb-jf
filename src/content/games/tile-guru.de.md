@@ -1,8 +1,11 @@
 ---
 locale: de
 urlstr: tile-guru
-title: "Tile Guru"
-description: "Tile Guru ist ein poliertes Triple‑Match‑Puzzle: Sammle Kachel‑Drillinge, verwalte deinen Ablagestapel geschickt und räume das Tablett, ohne es zu verstopfen."
+title: Tile Guru
+description: >-
+  Tile Guru ist ein poliertes Triple‑Match‑Puzzle: Sammle Kachel‑Drillinge,
+  verwalte deinen Ablagestapel geschickt und räume das Tablett, ohne es zu
+  verstopfen.
 iframeSrc: 'https://5en3tugq69tdo.h5games.usercontent.goog/v/4pu6to0p0cgrg/'
 thumbnail: /new-images/thumbnails/tile-guru.png
 tags:
@@ -18,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Tile Guru nutzt das bekannte Triple‑Match‑Tablett‑Prinzip: Du nimmst Kacheln vom Spielfeld auf und legst sie in ein begrenztes Tablett. Immer wenn drei identische Kacheln dort liegen, verschwinden sie. Die eigentliche Herausforderung ist das Stapel‑Management – du darfst dir den Platz nicht mit zu vielen angebrochenen Sets zustellen, sonst blockierst du dich selbst.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Setzdisziplin:** Fang nicht zu viele Kacheltypen gleichzeitig an. Vervollständige begonnene Paare möglichst schnell, statt überall nur einzelne Stücke zu sammeln.

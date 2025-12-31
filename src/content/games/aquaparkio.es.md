@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: aquaparkio
-title: "Aquapark.io carreras en tobogán de agua"
+title: Aquapark.io carreras en tobogán de agua
 description: >-
   En aquapark.io compites en un enorme parque acuático para ser el primero en
   llegar a la piscina. Aprende atajos aéreos, derriba rivales del tobogán y
@@ -34,6 +34,7 @@ simple, de un solo toque, y al ganar carreras obtienes monedas para desbloquear
 nuevos personajes y cosméticos.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 Ganar en *aquapark.io* consiste en dominar los atajos y gestionar bien el riesgo.

@@ -29,6 +29,7 @@ Ziel ist es, den Boden des Turms zu erreichen, ohne auf tödliche rote
 Plattformen zu prallen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Lücken finden**  

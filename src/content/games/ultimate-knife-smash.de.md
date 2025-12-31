@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Ultimate Knife Smash ist ein timingbasiertes Arcade‑Spiel. Du wirfst Messer auf ein rotierendes Ziel und musst alle Klingen platzieren, ohne bereits steckende Messer zu treffen. Drehgeschwindigkeit und -richtung ändern sich oft, sodass du Rhythmus, Reaktionsvermögen und Risikobereitschaft kombinieren musst, um hohe Kombos zu erreichen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Rotation beobachten:** Nimm dir zu Beginn eines Levels ein paar Umdrehungen Zeit, um Geschwindigkeit und mögliche Richtungswechsel zu lesen, bevor du ernsthaft wirfst.

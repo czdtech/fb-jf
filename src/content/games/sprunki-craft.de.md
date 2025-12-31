@@ -1,15 +1,18 @@
 ---
 locale: de
 urlstr: sprunki-craft
-title: "Sprunki Craft 🎮 Sprunki Craft online spielen"
-description: "Sprunki Craft vereint Minecraft und Incredibox: Mit Steve, Creeper und Co. baust du dir deinen eigenen Block-Soundchor und kombinierst vertraute Minecraft-Figuren mit einem interaktiven Musikbaukasten."
+title: "Sprunki Craft \U0001F3AE Sprunki Craft online spielen"
+description: >-
+  Sprunki Craft vereint Minecraft und Incredibox: Mit Steve, Creeper und Co.
+  baust du dir deinen eigenen Block-Soundchor und kombinierst vertraute
+  Minecraft-Figuren mit einem interaktiven Musikbaukasten.
 iframeSrc: 'https://www.minijuegos.com/embed/sprunki-craft'
 thumbnail: /new-images/thumbnails/sprunki-craft.jpg
 tags:
   - sprunki craft
   - sprunki craft online
 score: 4.9/5  (724 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Einführung in Sprunki Craft
@@ -43,6 +46,7 @@ Das eigentliche Highlight ist der interaktive Charakter des Musikmachens:
 
 ---
 
+<!-- i18n:section:controls -->
 ### Einfache Bedienung für alle Altersgruppen
 
 Sprunki Craft lässt sich intuitiv mit Maus oder Touch steuern. Egal, ob du mit Musikbaukästen noch nie gearbeitet hast oder Minecraft-Profi bist – du kommst schnell rein:

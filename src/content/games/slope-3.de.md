@@ -27,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  Steuerung.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spieltipps & Strategien
 
 1.  **An neue Optik gewöhnen:** Die verbesserte 3D-Grafik und Effekte können

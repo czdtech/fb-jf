@@ -12,7 +12,7 @@ tags:
   - sprunki night time
   - sprunki night time online
 score: 4.2/5  (324 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Einführung in Sprunki Night Time
@@ -33,6 +33,7 @@ Die Bedienung ist wirklich einfach – hier die wichtigsten Punkte:
 - **Versteckte Übergänge finden:** Bestimmte Anordnungen können spezielle Übergänge, Filterfahrten oder Licht-Effekte triggern.
 - **Feintuning:** Passe Mischung und Timing an, damit dein Track genau die gewünschte Nachtstimmung einfängt – von chillig bis bedrohlich.
 
+<!-- i18n:section:tips -->
 ### Tipps für deinen Nacht-Mix
 
 - Ziehe Elemente per Maus auf die Bühne und höre dir die Kombination aufmerksam an.

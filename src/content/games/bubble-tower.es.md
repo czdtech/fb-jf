@@ -1,11 +1,12 @@
 ---
 locale: es
 urlstr: bubble-tower
-title: "Bubble Tower 3D"
+title: Bubble Tower 3D
 description: >-
-  Enfréntate a una nueva dimensión del clásico juego de disparar burbujas en Bubble Tower 3D.
-  Gira la torre, apunta tus disparos y combina tres o más burbujas del mismo
-  color para limpiar el tablero antes de que alcancen la parte inferior.
+  Enfréntate a una nueva dimensión del clásico juego de disparar burbujas en
+  Bubble Tower 3D. Gira la torre, apunta tus disparos y combina tres o más
+  burbujas del mismo color para limpiar el tablero antes de que alcancen la
+  parte inferior.
 iframeSrc: 'https://bubbletower.h5games.usercontent.goog/v/7ebcukaef3voo/'
 thumbnail: /new-images/thumbnails/bubble-tower.png
 tags:
@@ -29,6 +30,7 @@ estrategia: tendrás que buscar el ángulo ideal para cada disparo, crear grande
 reacciones en cadena y dejar la torre completamente despejada.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Gira e inspecciona:** Antes de cada disparo, tómate un momento para girar

@@ -29,6 +29,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  als alle anderen.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spieltipps & Strategien
 
 1.  **Sicher wachsen:** Zu Beginn bist du klein und verwundbar. Sammle erst

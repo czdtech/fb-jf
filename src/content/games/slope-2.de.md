@@ -27,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  Spieltempo stetig zunimmt und neue Hindernisformen dazukommen.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spieltipps & Strategien
 
 1.  **Reaktionsgeschwindigkeit trainieren:** Übe schnelle Richtungswechsel, um

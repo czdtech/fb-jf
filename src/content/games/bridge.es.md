@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: bridge
-title: "Bridge"
+title: Bridge
 description: >-
   Juega al clásico juego de cartas por parejas, Bridge. Coopera con tu compañero
   en la subasta y en el juego de bazas para superar a los rivales y cumplir el
@@ -31,6 +31,7 @@ tratan de impedirlo. Está considerado uno de los grandes deportes mentales del
 mundo.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y desarrollo de la partida
 
 1.  **La subasta:** Es la primera fase. Los jugadores, por turnos,

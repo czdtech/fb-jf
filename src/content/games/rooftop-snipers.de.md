@@ -27,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  unberechenbar wirken – perfekt für chaotische Duelle.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spieltipps & Strategien
 
 1.  **Grundsteuerung lernen:** Übe erst das Zusammenspiel aus Bewegen,

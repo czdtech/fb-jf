@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Traffic Tom ist ein schnelles Motorrad‑Rennspiel aus der Third‑Person‑Perspektive. Als Kater Tom fährst du über vollgestopfte Highways, weichst Autos und Bussen aus und erfüllst Missionsziele, um Münzen zu verdienen. Mit deinem Verdienst verbesserst du dein aktuelles Bike oder kaufst neue Maschinen, um dich Stück für Stück zum König der Straße hochzuarbeiten.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Weit nach vorn schauen:** Konzentrier dich nicht nur auf das Fahrzeug direkt vor dir, sondern lies das Verkehrsmuster weit auf der Straße. So hast du genug Zeit für sichere Spurwechsel.

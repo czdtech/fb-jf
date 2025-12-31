@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: bad-ice-cream-2
-title: "Bad Ice-Cream 2 laberintos helados con puzles"
+title: Bad Ice-Cream 2 laberintos helados con puzles
 description: >-
   Bad Ice-Cream 2 es un encantador arcade de puzles en pixel art. Controla a un
   helado viviente, crea y rompe muros de hielo, esquiva enemigos y recoge toda
@@ -24,6 +24,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 La mecánica estrella es tu capacidad para **crear o destruir filas de bloques de hielo**. Gracias a ella bloqueas a los enemigos, abres caminos seguros o los atrapas en pasillos. Cada nivel introduce monstruos con patrones de movimiento diferentes y, si te tocan, pierdes una vida. Puedes jugar en solitario o en cooperativo local a dos jugadores en el mismo teclado; la meta es simple: recoger toda la fruta antes de que el temporizador llegue a cero.
 
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 Para tener éxito en *Bad Ice-Cream 2* necesitas reflejos rápidos y, al mismo tiempo, pensar como en un puzle.
@@ -46,6 +47,7 @@ Los enemigos no se mueven al azar; siguen rutas previsibles. Obsérvalos unos se
 
 Hay un temporizador, así que no puedes ir demasiado despacio, pero precipitarte te costará vidas. Busca un equilibrio: crea pequeños “refugios” de hielo, despeja la zona y luego rompe una salida para avanzar al siguiente sector.
 
+<!-- i18n:section:tips -->
 #### 5. Estrategia cooperativa (modo 2 jugadores)
 
 *   **Dividir y conquistar:** Repartíos el mapa para cubrirlo antes.  

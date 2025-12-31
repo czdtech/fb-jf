@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: baseball
-title: "Doodle Baseball béisbol doodle del 4 de julio"
+title: Doodle Baseball béisbol doodle del 4 de julio
 description: >-
   Doodle Baseball es un encantador juego arcade de bateo con estética doodle.
   Aprende a jugar, consigue más jonrones, domina el momento del bateo y resuelve
@@ -34,6 +34,7 @@ necesitas ajustar el momento de cada swing. La partida termina cuando acumulas
 tres strikeouts, y tu meta es firmar la puntuación más alta posible.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego
 
 Aunque solo usas un botón, dominarlo exige concentración y buena sincronización.

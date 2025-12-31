@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: 4-pics-1-word
-title: "4 Pics 1 Word juego de 4 fotos 1 palabra"
+title: 4 Pics 1 Word juego de 4 fotos 1 palabra
 description: >-
   4 Pics 1 Word es un popular juego de puzles de palabras: observa cuatro fotos,
   descubre qué palabra las une y pon a prueba tu vocabulario y tu capacidad para
@@ -60,6 +60,7 @@ La mecánica es muy simple e intuitiva, apta para jugadores de todas las edades.
 
 ---
 
+<!-- i18n:section:tips -->
 ### Estrategia y consejos
 
 Aunque la idea es sencilla, hay trucos que te ayudarán a resolver puzles más

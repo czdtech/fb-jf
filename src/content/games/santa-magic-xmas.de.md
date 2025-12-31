@@ -28,6 +28,7 @@ Santa Magic Xmas ist ein fröhliches Weihnachts-Match-3, das dich direkt in
  ankommen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Power-ups erzeugen:** Größere Kombinationen erzeugen Spezialsteine.

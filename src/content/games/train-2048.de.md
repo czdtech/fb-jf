@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Train 2048 ist ein Puzzlespiel, das die bekannte 2048‑Mechanik in ein Zug‑Setting verlegt. Statt nummerierter Kacheln schiebst du Waggons desselben Typs auf einem Raster zusammen. Treffen zwei gleiche Wagen aufeinander, verschmelzen sie zu einem neuen, höherwertigen Zugteil. Deine Herausforderung besteht darin, den begrenzten Platz klug zu nutzen, weiter zu kombinieren und letztlich den 2048‑Waggon zu erschaffen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Ecke festlegen:** Nutze die klassische 2048‑Taktik: Halte deinen wertvollsten Waggon konsequent in einer Ecke des Spielfelds. So verhinderst du, dass er mitten im Grid blockiert wird, und kannst ringsherum weiter aufbauen.

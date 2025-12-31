@@ -21,6 +21,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Word Search ist ein klassisches und beliebtes Worträtsel-Spiel. Das Ziel ist es, alle versteckten Wörter in einem Buchstabengitter zu finden und zu markieren. Eine Liste von Wörtern wird bereitgestellt, und Spieler müssen das Gitter durchsuchen, um sie zu finden. Die Wörter können horizontal, vertikal oder diagonal platziert sein und vorwärts oder rückwärts geschrieben sein, was es zu einer unterhaltsamen Herausforderung für deine Beobachtungsfähigkeiten macht.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1.  **Systematisch scannen:** Schau nicht einfach zufällig. Scanne das Gitter Zeile für Zeile, sowohl vorwärts als auch rückwärts, nach dem ersten Buchstaben eines Wortes auf deiner Liste. Dann mach dasselbe für jede Spalte.

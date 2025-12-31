@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: 3d-free-kick
-title: "3D Free Kick tiros libres en 3D"
+title: 3D Free Kick tiros libres en 3D
 description: >-
   3D Free Kick te deja lanzar tiros libres como un profesional: apunta a la
   barrera, imprime efecto al balón y marca goles de falta con estilo.
@@ -25,6 +25,7 @@ incluso el viento, poniendo a prueba tu precisión y tu capacidad para dar
 forma al disparo.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1.  **Apunta a las esquinas:** Las esquinas alta y baja son las zonas más

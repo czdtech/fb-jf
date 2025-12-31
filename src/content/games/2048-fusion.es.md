@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: 2048-fusion
-title: "2048 Fusion puzle de fichas"
+title: 2048 Fusion puzle de fichas
 description: >-
   2048 Fusion es una versión moderna del clásico puzle 2048. Desliza y combina
   fichas numeradas para crear la casilla 2048 (y más allá). Planifica bien tus
@@ -29,6 +29,7 @@ allá para conseguir una puntuación todavía mayor. Es un juego de previsión,
 estrategia y un pequeño toque de suerte.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Estrategia de la esquina:** Es la táctica más popular y efectiva. Elige

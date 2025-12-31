@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: battleship
-title: "Battleship hundir la flota clásico"
+title: Battleship hundir la flota clásico
 description: >-
   Battleship es el clásico juego de estrategia para hundir la flota enemiga.
   Aquí tienes reglas, tácticas de colocación de barcos, patrones de búsqueda
@@ -40,11 +40,13 @@ Una vez colocados, los jugadores se alternan declarando coordenadas (por
 posición de la flota rival. Un barco se considera hundido cuando todas sus
 casillas han sido alcanzadas.
 
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego
 
 Ganar en *Battleship* requiere tanto colocar bien tus barcos como disparar con
 lógica.
 
+<!-- i18n:section:tips -->
 #### Estrategia de colocación (defensa)
 
 1.  **Evita lo obvio:** Muchos jugadores colocan barcos pegados a bordes o

@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Zumba Ocean ist ein maritimer Marble‑Shooter im Stil von Zuma. Eine bunte Perlenkette schlängelt sich durch eine Unterwasserlandschaft auf eine Muschel am Bahnende zu. Du steuerst einen Shooter, der farbige Perlen abfeuert. Dein Ziel: Die komplette Kette zerstören, indem du mindestens drei gleichfarbige Perlen in Folge bildest, bevor die vorderste Kugel die Muschel erreicht.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Auf Kombos spielen:** Am effektivsten räumst du die Kette über Kettenreaktionen. Wenn nach einem Treffer zwei Kettenenden gleicher Farbe aufeinanderstoßen, ziehen sie sich zusammen und lösen oft automatisch eine weitere Kombination aus – das bringt Bonuspunkte.

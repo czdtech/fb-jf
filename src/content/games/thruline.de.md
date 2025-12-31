@@ -1,8 +1,11 @@
 ---
 locale: de
 urlstr: thruline
-title: "Thruline"
-description: "Thruline ist ein klares Verbindungs‑Puzzle: Ziehe eine einzige durchgehende Linie über alle Knoten und erfülle dabei Vorgaben für Kurven, Abdeckung und erlaubte Kreuzungen."
+title: Thruline
+description: >-
+  Thruline ist ein klares Verbindungs‑Puzzle: Ziehe eine einzige durchgehende
+  Linie über alle Knoten und erfülle dabei Vorgaben für Kurven, Abdeckung und
+  erlaubte Kreuzungen.
 iframeSrc: 'https://4bl9sdeaqndto.h5games.usercontent.goog/v/4qierjmnf0kng/'
 thumbnail: /new-images/thumbnails/thruline.jpg
 tags:
@@ -18,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 In Thruline sollst du einen einzigen, ununterbrochenen Pfad zeichnen, der alle benötigten Knoten verbindet und dabei bestimmte Regeln beachtet – etwa, wie oft du abbiegen darfst, wo Linien sich kreuzen dürfen und welche Felder abgedeckt werden müssen. In späteren Leveln kommen zusätzliche Elemente wie Tore, Brücken und Paritäts‑Tricks dazu, die gutes Vorausplanen und cleveres Setzen von „Engpässen“ belohnen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Engpässe zuerst:** Sichere dir schmale Korridore und kritische Übergänge früh, bevor du sie mit falschen Linien verbaut hast.

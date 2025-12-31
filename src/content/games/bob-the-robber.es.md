@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: bob-the-robber
-title: "Bob the Robber"
+title: Bob the Robber
 description: >-
   Conviértete en un ladrón maestro en Bob the Robber. Esquiva guardias, anula
   cámaras, fuerza cajas fuertes y roba botines valiosos en esta desafiante saga
@@ -36,6 +36,7 @@ resolver pequeños puzles, como encontrar códigos de teclados o forzar cerradur
 siempre procurando que nadie te vea.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego
 
 -   **La paciencia es tu mejor herramienta:** No te precipites. El error más

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: brain-trainer
-title: "Brain Trainer"
+title: Brain Trainer
 description: >-
   Pon a prueba tu mente con una colección de minijuegos divertidos y
   estimulantes. Entrena memoria, lógica, velocidad de cálculo y visión espacial
@@ -29,6 +29,7 @@ concentración y podrás seguir la evolución de tu rendimiento con el tiempo. E
 una forma perfecta de mantener la mente despierta mientras te diviertes.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y tipos de prueba
 
 Brain Trainer incluye distintos tipos de minijuegos. Algunos ejemplos:

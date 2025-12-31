@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: bad-ice-cream
-title: "Bad Ice-Cream guía del original"
+title: Bad Ice-Cream guía del original
 description: >-
   Bad Ice-Cream es el primer juego de la querida serie de puzles helados.
   Aprende estrategias, controles y consejos para recoger toda la fruta mientras
@@ -33,6 +33,7 @@ cuenta con un temporizador que añade tensión. Puedes jugar en solitario o
 acompañado en un modo cooperativo para dos jugadores en el mismo teclado, toda
 una seña de identidad de la saga.
 
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 Para tener éxito, debes combinar reflejos rápidos con planificación.
@@ -65,6 +66,7 @@ El temporizador mete presión, pero la prisa suele ser el motivo principal de la
 muertes. Avanza con método: crea una zona segura, limpia la fruta de su
 interior, rompe una salida y pasa a construir tu siguiente refugio.
 
+<!-- i18n:section:tips -->
 #### 5. Estrategia para dos jugadores
 
 *   **Dividir y conquistar:** La táctica más eficiente en cooperativo es repartirse el mapa; cada jugador cubre una mitad para acelerar la recogida de fruta.  

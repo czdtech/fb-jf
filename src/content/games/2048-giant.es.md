@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: 2048-giant
-title: "2048 Giant versión de tablero grande"
+title: 2048 Giant versión de tablero grande
 description: >-
   2048 Giant lleva el clásico puzle 2048 a un tablero más grande. Combina fichas
   numeradas, crea la casilla 2048 y aprovecha el espacio extra para lograr
@@ -27,6 +27,7 @@ fusionarlas y crear la casilla 2048. Sin embargo, el tablero grande añade una
 capa extra de dificultad y exige una planificación más profunda.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 Las estrategias básicas de 2048 siguen funcionando aquí, pero hay que

@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Zombie Ragdoll ist ein physikbasiertes Puzzle, in dem du „Ragdoll“-Zombies aus einer Schleuder schießt. Triff Schalter, explosive Fässer oder tragende Balken, bring Konstruktionen zum Einsturz und erledige so alle Ziele im Level. Der Schlüssel zum Erfolg liegt in gut gewählten Abschusswinkeln und sauber vorbereiteten Kettenreaktionen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Erster Schuss als Test:** Nutze den ersten Versuch, um ein Gefühl für Flugbahn und Physik zu bekommen, und passe Winkel und Stärke danach fein an.

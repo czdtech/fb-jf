@@ -28,6 +28,7 @@ Feldern liegen. Mehrere Schwierigkeitsgrade bieten sowohl Einsteiger:innen als
 auch Profis immer neue Herausforderungen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Erster Klick ist sicher**  

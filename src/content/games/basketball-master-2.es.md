@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: basketball-master-2
-title: "Basketball Master 2 práctica de tiro a canasta"
+title: Basketball Master 2 práctica de tiro a canasta
 description: >-
   Basketball Master 2 es un juego centrado en perfeccionar tu tiro. Apunta,
   lanza y rompe obstáculos para encestar en niveles cada vez más desafiantes.
@@ -26,6 +26,7 @@ algunos niveles también debes romper bloques de madera o hielo disparando con
 más fuerza.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1.  **Apunta y lanza con precisión:** Mantén pulsado y arrastra para controlar

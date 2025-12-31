@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: ballistic
-title: "Ballistic juego de bloques y rebotes"
+title: Ballistic juego de bloques y rebotes
 description: >-
   Ballistic es un arcade moderno con física donde lanzas una lluvia de bolas
   contra bloques numerados. Aprende a apuntar, recoger bolas extra, usar
-  potenciadores y lograr puntuaciones altas antes de que los bloques lleguen
-  al fondo.
+  potenciadores y lograr puntuaciones altas antes de que los bloques lleguen al
+  fondo.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/'
 thumbnail: /new-images/thumbnails/ballistic.jpg
 tags:
@@ -36,6 +36,7 @@ convierten en un juego muy adictivo tanto para partidas casuales como para
 cazar récords.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego
 
 Dominar *Ballistic* consiste en pensar varios tiros por delante y aprovechar

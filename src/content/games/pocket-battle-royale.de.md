@@ -27,6 +27,7 @@ Pocket Battle Royale ist ein schneller 2D-Shooter aus der Vogelperspektive, der
  kann nur ein Spieler übrig bleiben.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Schnell looten:** Deine erste Priorität ist eine Waffe. Durchsuche Gebäude

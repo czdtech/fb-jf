@@ -26,6 +26,7 @@ erledigst Missionen. Mit verschiedenen Power-ups kannst du weiter laufen,
 höhere Punktzahlen erreichen und nach und nach neue Inhalte freischalten.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Wischgesten meistern:** Die Steuerung basiert auf schnellen Reaktionen.

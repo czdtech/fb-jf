@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: archery
-title: "Archery World Tour simulador de tiro con arco"
+title: Archery World Tour simulador de tiro con arco
 description: >-
   Archery World Tour es un simulador realista de tiro con arco. Viaja por el
   mundo, ajusta tus disparos al viento y a la distancia y apunta al centro de la
@@ -29,6 +29,7 @@ factores ambientales como la velocidad y dirección del viento, así como la
 distancia al objetivo.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1.  **Compensa el viento:** Antes de cada disparo, fíjate en el indicador de

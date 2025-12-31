@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: bombs-drops-physics-balls
-title: "Bombs Drops Physics Balls"
+title: Bombs Drops Physics Balls
 description: >-
   Bombs Drops Physics balls es un puzle de física desenfadado: calcula el
   momento de cada caída, encadena reacciones en cadena y limpia los objetivos
@@ -26,6 +26,7 @@ cadena para cumplir los objetivos de cada nivel. La gracia está en encontrar
 soluciones mínimas y elegantes que aprovechen la física a tu favor.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Localiza los puntos débiles:** Apunta a soportes, cuñas o piezas en

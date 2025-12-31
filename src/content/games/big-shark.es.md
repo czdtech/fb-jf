@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: big-shark
-title: "Big Shark come o sé comido"
+title: Big Shark come o sé comido
 description: >-
   Big Shark es un juego de acción y supervivencia submarina en 2D. Controla a un
   tiburón, come para crecer, evita peligros como tiburones más grandes y minas y
@@ -32,6 +32,7 @@ instante. Es una experiencia arcade infinita centrada en batir tu propio récord
 de puntuación.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego
 
 Tener éxito en *Big Shark* es una mezcla de agresividad controlada y prudencia.

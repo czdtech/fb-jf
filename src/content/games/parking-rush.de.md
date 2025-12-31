@@ -30,6 +30,7 @@ Parking Rush ist ein einfallsreiches, süchtig machendes
  immer wichtiger werden.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Routen vorher planen:** Bevor du die erste Linie zeichnest, betrachte das

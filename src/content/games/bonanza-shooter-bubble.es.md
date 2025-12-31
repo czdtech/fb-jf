@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: bonanza-shooter-bubble
-title: "Bonanza Shooter Bubble"
+title: Bonanza Shooter Bubble
 description: >-
-  Bonanza Shooter Bubble es un colorido juego de disparar burbujas: ajusta ángulos,
-  gestiona colores y suelta enormes racimos para sumar puntos.
+  Bonanza Shooter Bubble es un colorido juego de disparar burbujas: ajusta
+  ángulos, gestiona colores y suelta enormes racimos para sumar puntos.
 iframeSrc: 'https://65bijcm9l375g.h5games.usercontent.goog/v/6v521t1km2i30/'
 thumbnail: /new-images/thumbnails/bonanza-shooter-bubble.jpg
 tags:
@@ -25,6 +25,7 @@ abajo. El éxito depende de controlar bien los ángulos, gestionar los colores q
 quedan en pantalla y planificar con qué burbuja vas a disparar a continuación.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Usa los rebotes:** Apóyate en las paredes laterales para llegar a grupos

@@ -30,6 +30,7 @@ In Om Nom Connect Xmas begleitest du den knuffigen Om Nom durch ein
  der Adventszeit.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Passende Paare finden:** Scanne das Feld nach zwei identischen Kacheln.

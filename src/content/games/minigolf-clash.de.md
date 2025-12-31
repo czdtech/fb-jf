@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: minigolf-clash
-title: "Minigolf Clash"
+title: Minigolf Clash
 description: >-
   Minigolf Clash serviert kreative Minigolf-Puzzles: Lies das Gefälle, spiele
   saubere Banden und loch auf skurrilen Kursen mit möglichst wenigen Schlägen
@@ -26,6 +26,7 @@ Par abzuschließen. Wer Winkel und Schlagstärke meistert, findet
 Trickschuss-Linien und holt Low Scores.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Tempo kontrollieren**  

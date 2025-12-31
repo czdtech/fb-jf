@@ -27,6 +27,7 @@ Perfect Piano ist ein schnelles, mitreißendes Rhythmusspiel im Stil von
  schwierigeren Songs spielst.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Auf die Ziellinie schauen:** Konzentriere dich nicht auf die fallenden

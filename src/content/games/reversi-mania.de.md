@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: reversi-mania
-title: "Reversi Mania"
+title: Reversi Mania
 description: >-
   Reversi Mania bringt klassisches Othello in den Browser: Umzingele Steine,
   sichere dir die Ecken und gewinne mit cleverem Endspiel- und Paritätsspiel.
@@ -28,6 +28,7 @@ Reversi Mania ist eine klassische Umsetzung von Reversi, auch bekannt als
  voll ist –, und wer dann mehr Steine besitzt, gewinnt.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Ecken sind König:** Steine in den vier Ecken können nicht mehr gedreht

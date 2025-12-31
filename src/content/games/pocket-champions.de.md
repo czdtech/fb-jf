@@ -29,6 +29,7 @@ Pocket Champs ist ein Idle-Mehrspieler-Rennspiel, in dem du das Rennen selbst
  richtige Wahl waren.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Konsequent trainieren:** Der wichtigste Schlüssel zum Erfolg ist

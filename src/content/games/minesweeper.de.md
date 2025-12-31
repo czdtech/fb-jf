@@ -27,6 +27,7 @@ ablesen, wie viele Minen im Umfeld versteckt sind, sichere Felder freilegen und
 Minen markieren.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spielstrategie
 
 1.  **Zahlen verstehen**  

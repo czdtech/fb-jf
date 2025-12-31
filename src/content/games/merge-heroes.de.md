@@ -27,6 +27,7 @@ Platziere deine Heldenformation geschickt auf dem Schlachtfeld und beobachte,
 wie sie Welle um Welle automatisch bekämpfen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Kaufen und Mergen**  

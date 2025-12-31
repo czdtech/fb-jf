@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: bloons-td-5
-title: "Bloons TD 5"
+title: Bloons TD 5
 description: >-
   Domina Bloons TD 5 con su profundidad estratégica, su gran variedad de torres
-  y sus poderosos Agentes Especiales. Construye la defensa definitiva, desbloquea
-  el imponente Temple of the Monkey God y revienta hasta el último Bloon,
-  incluido el temible ZOMG.
+  y sus poderosos Agentes Especiales. Construye la defensa definitiva,
+  desbloquea el imponente Temple of the Monkey God y revienta hasta el último
+  Bloon, incluido el temible ZOMG.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-tower-defense-5.html'
 thumbnail: /new-images/thumbnails/bloons-td-5.jpg
 tags:
@@ -48,6 +48,7 @@ BTD5 amplía el universo del juego con varias incorporaciones clave:
     del Heli Pilot.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego
 
 -   **La economía lo es todo:** La clave para triunfar en BTD5 es construir una

@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: santas-quest
-title: "Santa's Quest"
+title: Santa's Quest
 description: >-
   Santa's Quest ist ein weihnachtliches Puzzleabenteuer: Plane Santas Route,
   räume den Weg frei und bringe alle Geschenke rechtzeitig ans Ziel.
@@ -26,6 +26,7 @@ Santa's Quest ist ein leicht zugängliches, weihnachtliches Puzzlespiel. Du
  Runde zwischendurch.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Route zuerst planen:** Schau dir vor dem ersten Schritt an, wo

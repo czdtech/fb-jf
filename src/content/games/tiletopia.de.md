@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Tiletopia ist ein ruhiges, kreatives Städtebau‑Puzzle, in dem du mit sechseckigen Kacheln nach und nach eine schöne Landschaft aufbaust. Du startest mit einem einzigen Feld und ziehst neue, prozedural erzeugte Kacheln aus einem Stapel. Durch geschicktes Platzieren verbindest du Wald‑, Feld‑, Wasser‑ und Dorf‑Segmente zu einem stimmigen Gesamtbild. Kleine Aufträge und Herausforderungen geben dir Ziele vor und sorgen dafür, dass du für clevere Platzierungen Extrapunkte erhältst.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Kanten passend legen:** Grundregel: Gleiche Terrain‑Kanten sollten aneinanderstoßen – Wald an Wald, Feld an Feld usw. Jede perfekt passende Kante bringt Punkte.

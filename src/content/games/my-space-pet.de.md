@@ -28,6 +28,7 @@ verdienst du Münzen, mit denen du Outfits, Accessoires und Deko für Zuubs
 Weltraumzuhause freischaltest.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Zuubs Bedürfnisse im Blick behalten**  

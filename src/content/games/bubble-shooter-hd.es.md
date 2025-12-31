@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: bubble-shooter-hd
-title: "Bubble Shooter HD"
+title: Bubble Shooter HD
 description: >-
   Disfruta del clásico y adictivo Bubble Shooter HD. Apunta tu burbuja y forma
   grupos de tres o más del mismo color para limpiar el tablero.
@@ -26,6 +26,7 @@ intuitiva, gráficos nítidos y reacciones en cadena muy satisfactorias, ofrece
 horas y horas de diversión estratégica para jugadores de cualquier nivel.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Apunta con cuidado:** El juego muestra una guía de trayectoria para ayudar

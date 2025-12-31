@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Zoo Boom ist ein farbenfrohes Match-2-Spiel, das dich durch einen Zoo voller bunter Tierblöcke führt. Mit jedem Tipp entfernst du Gruppen aus mindestens zwei identischen Tiersymbolen vom Spielfeld. Jedes Level stellt eigene Aufgaben – etwa bestimmte Tiere zu sammeln, Hindernisse zu beseitigen oder eine Zielpunktzahl in begrenzten Zügen zu erreichen. Größere Gruppen erzeugen mächtige Booster, die ganze Reihen oder Bereiche sprengen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1.  **Große Gruppen bevorzugen:** Auch wenn Zweiergruppen erlaubt sind, solltest du auf Dreier, Vierer oder mehr hinarbeiten – das gibt mehr Punkte und lädt Booster.

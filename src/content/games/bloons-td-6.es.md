@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: bloons-td-6
-title: "Bloons TD 6"
+title: Bloons TD 6
 description: >-
   Domina Bloons TD 6, la entrega definitiva de defensa de torres con gráficos en
   3D, héroes, 3 rutas de mejora por torre y poderosos monos Parágon. Diseña la
@@ -53,6 +53,7 @@ especializados para cada torre.
     para crear una versión Paragon increíblemente poderosa.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego
 
 -   **La sinergia manda:** BTD6 va de combinaciones entre torres. Una de las más

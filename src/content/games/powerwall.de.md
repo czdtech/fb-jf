@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Powerwall ist ein minimalistisches, energiegeladenes Arcade-Spiel, das deine Reflexe und dein Timing testet. Das Ziel ist es, deine Torlinie zu verteidigen, indem du eine temporäre Energiebarriere – die Powerwall – aktivierst, um einen schnellen Ball zu blocken. Während der Ball in der Arena abprallt, erhöht sich seine Geschwindigkeit und erfordert schnellere Reaktionen. Je länger du überleben kannst, ohne den Ball durchzulassen, desto höher wird dein Punktestand sein.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1.  **Timing ist alles:** Die Kernmechanik ist, deine Powerwall genau in dem Moment zu aktivieren, wenn der Ball deine Torlinie treffen wird. Aktiviere sie zu früh, und die Wand verschwindet. Aktiviere sie zu spät, und der Ball kommt durch. Übe dein Timing, um ein Gefühl für den Rhythmus zu bekommen.

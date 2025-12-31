@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: merge-fruit
-title: "Merge Fruit"
+title: Merge Fruit
 description: >-
   Merge Fruit ist ein saftiges Merge-und-Drop-Spiel: Kombiniere identische
   Früchte, kontrolliere die Stapelhöhe und löse Kettenreaktionen für hohe
@@ -26,6 +26,7 @@ größeren Frucht. Die Kunst liegt darin, das Stapeln so zu planen, dass sich
 viele Merges ergeben, ohne dass der Turm bis zur Oberkante wächst.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Große Früchte im Zentrum halten**  

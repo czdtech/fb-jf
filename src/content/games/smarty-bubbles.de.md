@@ -28,6 +28,7 @@ Smarty Bubbles ist ein sauber gestalteter, sehr süchtig machender
  lassen die Decke nach unten wandern und erhöhen den Druck.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Fehlschüsse im Blick:** Nach einer bestimmten Anzahl von Schüssen ohne

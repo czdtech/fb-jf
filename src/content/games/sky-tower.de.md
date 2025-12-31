@@ -1,11 +1,10 @@
 ---
 locale: de
 urlstr: sky-tower
-title: "Sky Tower"
+title: Sky Tower
 description: >-
   Sky Tower ist ein Stapelspiel: Lasse die schwebenden Stockwerke im richtigen
-  Moment fallen, minimiere Überstände und baue so den höchsten, saubersten
-  Turm.
+  Moment fallen, minimiere Überstände und baue so den höchsten, saubersten Turm.
 iframeSrc: 'https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/'
 thumbnail: /new-images/thumbnails/sky-tower.png
 tags:
@@ -28,6 +27,7 @@ Sky Tower fordert dich heraus, Stockwerke präzise aufeinander zu stapeln. Ein
  Fundament und endet schnell im Game Over.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Fixpunkte nutzen:** Orientiere dich an Details im Hintergrund (z. B.

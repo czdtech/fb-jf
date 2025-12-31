@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: one-line-only-dot-to-dot
-title: "One line only: dot to dot"
+title: 'One line only: dot to dot'
 description: >-
   One line only: dot to dot ist ein elegantes Einstrich-Puzzle: Zeichne eine
   einzige Linie, die alle Punkte und Strecken abdeckt, ohne Wege doppelt zu
@@ -26,6 +26,7 @@ One line only: dot to dot orientiert sich an klassischen Euler-Pfaden: Du
  Planen und diszipliniertes Zurücksetzen erfordern.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Grad der Knoten prüfen:** Schau dir an, wie viele Linien an einem Punkt

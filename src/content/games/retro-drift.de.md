@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: retro-drift
-title: "Retro Drift"
+title: Retro Drift
 description: >-
   Retro Drift ist ein Oldschool-Driftspiel aus der Top-Down-Perspektive: Dosier
   das Gas, halte den Driftwinkel im Griff und gleite sauber durch die
@@ -27,6 +27,7 @@ Retro Drift ist ein minimalistisches Rennspiel aus der Vogelperspektive mit
  entscheiden über Rundenzeiten und Punktemultiplikatoren.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Langsam rein, schnell raus:** Nimm am Kurveneingang lieber etwas Tempo

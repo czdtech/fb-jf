@@ -27,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  Ausgang zu manövrieren.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spieltipps & Strategien
 
 1.  **Schwerkraft verstehen:** Jede Drehung verschiebt die „unten“-Richtung.

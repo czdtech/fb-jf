@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: quiz-x
-title: "Quiz x"
+title: Quiz x
 description: >-
   Quiz x ist eine schnelle Quizshow: Lies die Fragen, denke breit und wähle
   unter leichtem Zeitdruck die passendste Antwort aus.
@@ -25,6 +25,7 @@ Quiz x stellt dir im Schnellfeuer-Modus Fragen aus Allgemeinwissen,
  Querzudenken und Ausschlussverfahren sind wichtiger als tiefes Spezialwissen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Ausschlussprinzip:** Streiche zuerst offensichtlich falsche Antworten,

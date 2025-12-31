@@ -29,6 +29,7 @@ Pirates Match 3 ist ein klassisches 3-Gewinnt-Puzzlespiel mit Piratenflair.
  spezielle Felder zu zerstören – und das alles mit begrenzter Anzahl an Zügen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Power-ups erschaffen:** Schwierige Level meisterst du mit Spezialsteinen,

@@ -28,6 +28,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  späteren Red-Ball-Spiele.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spieltipps & Strategien
 
 1.  **Physik verstehen:** Gewöhne dich an das Roll- und Sprungverhalten der

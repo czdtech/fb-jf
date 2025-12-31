@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: bubble-trouble
-title: "Bubble Trouble"
+title: Bubble Trouble
 description: >-
   Revienta burbujas que rebotan usando tu arpón en este trepidante arcade de
   acción. Divide las burbujas grandes en otras más pequeñas mientras evitas el
-  contacto, domina los potenciadores y limpia la pantalla antes de que se acabe el
-  tiempo.
+  contacto, domina los potenciadores y limpia la pantalla antes de que se acabe
+  el tiempo.
 iframeSrc: >-
   https://app-96647.games.s3.yandex.net/96647/w4h0ydt7quklspc0jxwg9kauaiii2lnx/index.html
 thumbnail: /new-images/thumbnails/bubble-trouble.jpg
@@ -39,6 +39,7 @@ burbujas, disposiciones iniciales más complejas y límites de tiempo más ajust
 El juego también incluye un popular modo cooperativo para dos jugadores.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego
 
 -   **Prioriza las burbujas grandes:** Intenta reventar primero las más grandes.

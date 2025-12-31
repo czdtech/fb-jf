@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: bricks-breaker-crush
-title: "Bricks Breaker Crush"
+title: Bricks Breaker Crush
 description: >-
   Bricks Breaker Crush te lanza lluvias de ladrillos que debes destrozar: apunta
   tus ráfagas, acumula multiplicadores y traza ángulos óptimos a través de
@@ -27,6 +27,7 @@ rebotes, maximizar el número de contactos por ráfaga y evitar que el muro
 numérico llegue a la parte inferior.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Ángulos poco pronunciados:** Empieza con ángulos moderados para fomentar

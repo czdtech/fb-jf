@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: basket-random
-title: "Basket Random baloncesto caótico con un botón"
+title: Basket Random baloncesto caótico con un botón
 description: >-
   Basket Random es un juego de baloncesto con físicas locas y cambios aleatorios
   en cada punto. Domina el único botón, acepta el caos y aprende a ganar en
@@ -38,6 +38,7 @@ mandar la bola al aro rival. Ese caos calculado hace que cada partida sea un
 espectáculo frenético y muy divertido.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego
 
 Ganar en *Basket Random* consiste en domar el caos, no en controlarlo del todo.

@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Totemia: Cursed Marbles ist ein schneller Action‑Puzzler im Stil von Klassikern wie Zuma oder Luxor. Eine Kette verfluchter, farbiger Kugeln schlängelt sich auf einer Bahn Richtung geheime Kammer. Du steuerst einen Tiki‑Schießer und feuerst Kugeln in die Kette. Dein Ziel: Dreier‑ oder größere Gruppen gleicher Farben bilden, um die Kette Stück für Stück zu sprengen, bevor die erste Kugel das Ende der Strecke erreicht.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Auf Kombos spielen:** Für hohe Punktzahlen sind Kombos entscheidend. Wenn du eine Gruppe platzen lässt, stoppt die Kette kurz. Treffen dann zwei Kettenenden gleicher Farbe aufeinander, ziehen sie sich zusammen und bilden oft automatisch eine weitere Gruppe – eine kostenlose Kombo.

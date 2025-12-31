@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Truck Trials ist ein Offroad‑Fahrspiel, bei dem du mit verschiedenen Trucks anspruchsvolle Parcours bewältigst. Anders als in Rennspielen zählt hier nicht Höchstgeschwindigkeit, sondern sauberes Fahren: Du musst Steigungen, Sprünge und Hindernisse meistern, ohne deinen Truck zu überschlagen oder zu stark zu beschädigen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Geduld statt Vollgas:** Nimm dir Zeit für jedes Hindernis. Vorsichtige Beschleunigung bringt dich weiter als blindes Durchdrücken.

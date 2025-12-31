@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: secret-agent
-title: "Secret Agent"
+title: Secret Agent
 description: >-
   Secret Agent ist ein Schleich-Action-Spiel: Schleiche an Wachen vorbei,
   schalte Fallen aus und erfülle deine Missionsziele mit Gadgets und präzisem
@@ -25,6 +25,7 @@ Secret Agent verbindet Stealth-Gameplay mit leichten Routen-Puzzles. Du
  gut getimte Gadget-Einsätze sind wichtiger als rohe Gewalt.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Sichtkegel lesen:** Bewege dich nur, wenn die Blickfelder der Wachen sich

@@ -1,8 +1,10 @@
 ---
 locale: de
 urlstr: timber-guy
-title: "Timber Guy"
-description: "Timber Guy ist ein schnelles Hack‑Arcade‑Spiel: Fäll den Baum, weiche Ästen aus und sammle Schlag um Schlag für einen neuen Highscore."
+title: Timber Guy
+description: >-
+  Timber Guy ist ein schnelles Hack‑Arcade‑Spiel: Fäll den Baum, weiche Ästen
+  aus und sammle Schlag um Schlag für einen neuen Highscore.
 iframeSrc: 'https://timberguy.h5games.usercontent.goog/v/2ke6osh59ras0/'
 thumbnail: /new-images/thumbnails/timber-guy.png
 tags:
@@ -18,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Timber Guy ist ein einsteigerfreundliches One‑Button‑Timing‑Spiel. Du hackst Abschnitt für Abschnitt einen Baumstamm um und wechselst dabei die Seite, um herabfallenden Ästen auszuweichen. Mit jedem Schlag steigt das Tempo, sodass du immer schneller und präziser die Seite wechseln musst, um nicht getroffen zu werden.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Voraus lesen:** Behalte die nächsten paar Äste im Blick und entscheide früh, wann du die Seite wechseln musst.

@@ -29,6 +29,7 @@ PolyMatch ist ein entspanntes, aber anspruchsvolles Kachel-Puzzlespiel, das
  die Runde verloren.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Sichtbare Paare zuerst:** Bilde zuerst offensichtliche Paare, die leicht

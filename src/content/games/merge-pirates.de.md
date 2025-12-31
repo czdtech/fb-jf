@@ -28,6 +28,7 @@ zu immer hochwertigeren Objekten. Ziel ist es, die Aufträge deiner Crew zu
 erfüllen, Gold zu verdienen und alle legendären Piratenitems freizuschalten.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Merge-Kette verstehen**  

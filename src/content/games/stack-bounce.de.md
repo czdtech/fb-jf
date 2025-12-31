@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Stack Bounce ist ein lebhaftes und süchtig machendes 3D-Arcade-Spiel, das das Timing und die Reflexe der Spieler testet. Das Spiel zeigt einen springenden Ball, der durch einen Helix-Turm aus farbigen, zerstörbaren Plattformen absteigen muss. Das Ziel ist es, den Boden des Turms zu erreichen, indem du durch die Stapel zerschmetterst. Allerdings müssen Spieler strategisch die schwarzen, unzerstörbaren Abschnitte der Plattformen vermeiden, da das Auftreffen auf sie zu einem sofortigen Game Over führt. Mit seiner einfachen Ein-Touch-Steuerung und befriedigenden Zerstörungsphysik ist Stack Bounce leicht zu erlernen, aber schwer zu meistern.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1.  **Halten zum Zerschmettern:** Die Kernmechanik ist einfach: Drücke und halte den Bildschirm oder die Maustaste, um den Ball durch die farbigen Plattformen zerschmettern zu lassen. Je länger du hältst, desto schneller steigst du ab.

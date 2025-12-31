@@ -1,8 +1,10 @@
 ---
 locale: de
 urlstr: sushi-grab
-title: "Sushi Grab"
-description: "Sushi Grab ist ein schnelles Förderband-Spiel: Greif das richtige Sushi, meide Fallen und erfülle Bestellungen, bevor der Timer abläuft." 
+title: Sushi Grab
+description: >-
+  Sushi Grab ist ein schnelles Förderband-Spiel: Greif das richtige Sushi, meide
+  Fallen und erfülle Bestellungen, bevor der Timer abläuft.
 iframeSrc: 'https://sushigrab.h5games.usercontent.goog/v/0ehlec2inmmrg/'
 thumbnail: /new-images/thumbnails/sushi-grab.png
 tags:
@@ -18,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Sushi Grab spielt an einem laufenden Sushi‑Band: Du siehst verschiedene Teller vorbeifahren und musst genau die Sorten anklicken, die bestellt sind. Falsche Teller, Fallen oder Sonderplatten kosten Punkte oder unterbrechen deine Serie.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1.  **Bestellung lesen:** Konzentriere dich immer auf die aktuelle Order und klick nichts „auf Verdacht“.

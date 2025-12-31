@@ -30,6 +30,7 @@ Minispiele sorgen dafür, dass es nie langweilig wird und du nebenbei Münzen
 verdienen kannst.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spieltipps & Strategien
 
 1.  **Grundbedürfnisse im Blick:** Achte auf Hunger, Hygiene, Energie und

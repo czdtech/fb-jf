@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: basketball-serial-shooter
-title: "Basketball Serial Shooter reto de tiro en serie"
+title: Basketball Serial Shooter reto de tiro en serie
 description: >-
   Basketball Serial Shooter es un desafío de tiro a canasta rápido y basado en
   física. Ajusta la parábola, gestiona el ritmo y encadena tiros limpios bajo
@@ -30,6 +30,7 @@ A medida que avanzas, aparecen obstáculos, tableros móviles y cambios en la
 altura de la canasta que exigen una mecánica cada vez más pulida.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1.  **Construye una forma repetible:** Elige una posición del cursor y un ritmo

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: bad-time-simulator
-title: "Bad Time Simulator recreación del combate con Sans"
+title: Bad Time Simulator recreación del combate con Sans
 description: >-
   Bad Time Simulator es un juego de navegador creado por fans que recrea el
   famoso combate contra Sans de la ruta genocida de Undertale. Aquí tienes
@@ -34,6 +34,7 @@ lo que permite recibir muchos golpes en muy poco tiempo, y por el efecto de **Ka
 de veneno que drena tu vida tras cada impacto.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego
 
 Ganar en Bad Time Simulator va más de aguantar y memorizar que de atacar.

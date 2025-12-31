@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 The Jigsaw Game ist ein klassisches digitales Puzzle mit unterschiedlichen Bildern und wählbarer Teileanzahl. Du beginnst mit einem Haufen verstreuter Teile, arbeitest dich zuerst an den Rand, sortierst nach Farben und Mustern und setzt nach und nach das komplette Motiv zusammen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1. **Rahmen zuerst:** Beginne mit den Kanten‑ und Eckteilen, um den Rahmen zu schließen. Er dient dir als Orientierung für alle weiteren Gruppen.

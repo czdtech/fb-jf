@@ -27,6 +27,7 @@ Northern Heights ist ein Ski-Spiel, das dich über verschneite Hänge und
  die Ausrüstung optisch anzupassen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategien & Spieltipps
 
 1.  **Steuerung beherrschen:** Lerne zuerst die grundlegende Steuerung, damit du

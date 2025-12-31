@@ -1,7 +1,7 @@
 ---
 locale: de
 urlstr: minesweeper-1000
-title: "Minesweeper 1000"
+title: Minesweeper 1000
 description: >-
   Minesweeper 1000 frischt den Klassiker auf: Lies die Zahlenlogik, markiere
   Bomben und räume riesige Felder mit effizienten Techniken.
@@ -25,6 +25,7 @@ Diagonalen. Auf großen Brettern sind Mustererkennung, schnelles Chorden und
 möglichst wenig Raten entscheidend.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Strategie & Tipps
 
 1.  **Grundmuster lernen**  

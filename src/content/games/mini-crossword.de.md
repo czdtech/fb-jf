@@ -26,6 +26,7 @@ kurze Spielsessions, um den Wortschatz zu trainieren und ein bisschen
 Knobelspaß zu haben.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spielstrategie
 
 1.  **Hinweise genau lesen**  

@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Uncle Ahmed ist ein klassischer 2D‑Sidescroller, der starke Retro‑Vibes à la Super Mario versprüht. Du schlüpfst in die Rolle von Onkel Ahmed, der sich aufmacht, seinen Neffen aus den Fängen eines bösen Zauberers zu befreien. Auf dem Weg durch zahlreiche Level begegnest du verschiedensten Gegnern, Fallen und versteckten Power‑ups – dein Ziel ist es, jeden Abschnitt lebend zu erreichen und den Schurken am Ende zu stellen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielanleitung
 
 1. **Sprung meistern:** Springen ist deine wichtigste Aktion. Damit besiegst du Gegner, zerschlägst Blöcke für Münzen und Power‑ups und überwindest Abgründe oder Stacheln.

@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 The Sea Rush ist ein Match‑3‑Puzzle in einer bunten Unterwasserwelt. Du vertauschst benachbarte Meeresbewohner, um Reihen oder Spalten aus mindestens drei gleichen Symbolen zu bilden und so das Spielfeld zu räumen und Punkte zu sammeln.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 Nutze Mausklicks oder Wischgesten, um zwei benachbarte Tiere zu tauschen. Entsteht dadurch eine Kombination aus drei oder mehr gleichen Symbolen, verschwinden sie und du kassierst Punkte.

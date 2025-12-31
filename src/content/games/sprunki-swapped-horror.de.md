@@ -14,7 +14,7 @@ tags:
   - sprunki swapped horror
   - sprunki swapped horror online
 score: 4.4/5  (395 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -31,6 +31,7 @@ Sprunki Swapped Horror ist ein kreativer Incredibox-Mod, der durch seinen innova
 - **Aufgefrischte Charakteranimationen:** Das Spiel fügt auch neu gestaltete Charakteranimationen hinzu, um die verwandelte Identität jedes Charakters lebhaft zu zeigen und deine Musik visuell atemberaubend zu machen.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Wie spielt man Sprunki Swapped Horror?
 
 Willst du den einzigartigen Charme von Sprunki Swapped Horror erleben? Die Bedienung ist sehr einfach:

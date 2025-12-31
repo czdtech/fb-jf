@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: basket-battle
-title: "Basket Battle duelos de tiro a canasta"
+title: Basket Battle duelos de tiro a canasta
 description: >-
   Basket Battle es un minijuego de baloncesto con física donde dos rivales se
   enfrentan a base de tiros rápidos, rebotes y buenos ángulos de lanzamiento.
@@ -23,6 +23,7 @@ física. Tu objetivo es encadenar mejores tiros que tu oponente en rondas cortas
 y caóticas, ajustando la parábola, el momento del lanzamiento y los rebotes.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1.  **Ajusta bien el arco:** Los tiros con arco alto caen más suaves y tienen

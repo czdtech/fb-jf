@@ -1,8 +1,11 @@
 ---
 locale: de
 urlstr: solitaire
-title: "Solitaire"
-description: "Solitaire ist der klassische Einzelspieler-Kartenspaß: Du ordnest Karten in bestimmten Reihenfolgen und Farben, räumst das Tableau frei und legst alle Karten auf die Ablagestapel dieses zeitlosen Puzzlespiels."
+title: Solitaire
+description: >-
+  Solitaire ist der klassische Einzelspieler-Kartenspaß: Du ordnest Karten in
+  bestimmten Reihenfolgen und Farben, räumst das Tableau frei und legst alle
+  Karten auf die Ablagestapel dieses zeitlosen Puzzlespiels.
 iframeSrc: 'https://www.edogan.us/solitaire-js/'
 thumbnail: /new-images/thumbnails/solitaire.jpg
 tags:
@@ -18,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 "Solitaire" ist ein klassisches Einzelspieler-Kartenspiel. Du sortierst Karten nach festen Regeln in Reihenfolgen und Farben, um sie nach und nach auf die Ablagestapel zu verschieben und das Tableau vollständig zu leeren. Das Spiel ist leicht zu verstehen, belohnt aber vorausschauende Planung und clevere Zugabfolgen.
 
+<!-- i18n:section:tips -->
 ### Spielstrategie
 
 1.  **Verdeckte Karten priorisieren:** Versuche zuerst Züge, die verdeckte Karten aufdecken. Je mehr offene Karten du hast, desto mehr Optionen stehen dir zur Verfügung.

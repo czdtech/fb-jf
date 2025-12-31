@@ -29,6 +29,7 @@ extrem viel Freiheit. Zu den wichtigsten Modi gehören Überleben, Kreativ,
 Abenteuer und Zuschauermodus.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Spielstrategie
 
 1.  **Ressourcen sammeln**  

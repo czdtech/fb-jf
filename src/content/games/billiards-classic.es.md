@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: billiards-classic
-title: "Billiards Classic billar americano de 8 bolas"
+title: Billiards Classic billar americano de 8 bolas
 description: >-
   Billiards Classic trae el clásico billar de 8 bolas a tu pantalla. Apunta,
   aplica efecto y emboca tu grupo de bolas antes de meter la negra para ganar.
@@ -26,6 +26,7 @@ partida. Con físicas razonablemente realistas y controles intuitivos, es una
 buena forma de disfrutar de este clásico de bar.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1.  **El saque (break):** La partida empieza con el saque. Apunta a la bola

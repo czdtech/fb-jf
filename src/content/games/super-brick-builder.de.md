@@ -1,8 +1,11 @@
 ---
 locale: de
 urlstr: super-brick-builder
-title: "Super Brick Builder"
-description: "Super Brick Builder ist ein physikbewusstes Bau-Puzzle: Platziere Steine sauber, plane Tragstrukturen und vervollständige Silhouetten mit möglichst wenig Wacklern." 
+title: Super Brick Builder
+description: >-
+  Super Brick Builder ist ein physikbewusstes Bau-Puzzle: Platziere Steine
+  sauber, plane Tragstrukturen und vervollständige Silhouetten mit möglichst
+  wenig Wacklern.
 iframeSrc: 'https://0hlb6nt2jsom8.h5games.usercontent.goog/v/4jac78qnv0nr8/'
 thumbnail: /new-images/thumbnails/super-brick-builder.png
 tags:
@@ -19,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Super Brick Builder spielt sich wie ein statikorientiertes Stapel‑Puzzle: Du musst Formen fertigstellen, indem du Steine so platzierst, dass die Konstruktion nicht einstürzt. Saubere Auflageflächen und durchdachte Stützen sind wichtiger als möglichst schnelles Auffüllen.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Spielstrategie & Walkthrough
 
 1.  **Fundament zuerst:** Baue eine möglichst symmetrische, stabile Basis, bevor du in die Höhe gehst.
