@@ -60,6 +60,8 @@ Recht als eine der anspruchsvollsten Denksportarten der Welt.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `click` `Click`
 
 *   Reizen: Klicke auf die gewünschte Kombination aus Zahl und Farbe oder wähle
     "Pass", wenn du nicht reizen möchtest.
@@ -86,3 +88,4 @@ Recht als eine der anspruchsvollsten Denksportarten der Welt.
         Spieler ebenfalls Pik spielen, sofern sie diese Farbe auf der Hand
         haben. Wer keine Karte in dieser Farbe besitzt, darf eine andere Farbe
         oder auch Trumpf abwerfen.
+

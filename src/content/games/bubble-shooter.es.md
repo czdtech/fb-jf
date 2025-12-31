@@ -60,6 +60,8 @@ presión.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `mouse` `click` `mouse` `press` `Spacebar` `click`
 
 Los controles son muy simples e intuitivos, tanto con ratón como con pantalla
  táctil.
@@ -95,4 +97,5 @@ Los controles son muy simples e intuitivos, tanto con ratón como con pantalla
 > Intenta hacer caer grandes grupos de burbujas con un solo impacto. Cuantas más
 > burbujas caigan que no pertenecían al grupo inicial, mayor será la bonificación.
 > Céntrate en tiros altos con rebote para conseguirlo.
+
 

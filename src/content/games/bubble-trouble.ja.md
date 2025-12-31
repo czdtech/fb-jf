@@ -39,6 +39,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Arrow Keys` `Spacebar`
 
 シンプルですが、素早い反応が求められます。
 
@@ -70,4 +72,5 @@ locale: ja
 <!-- i18n:faq:id=faq:bubble-trouble:what-happens-when-the-timer-5c991ddc -->
 **4. 時間切れになるとどうなりますか？**
 > 時間切れ前にバブルをすべて消せないとライフを1つ失い、ステージをやり直します。ライフが残っていなければゲームオーバーです。
+
 

@@ -50,6 +50,8 @@ und lässt ganze Blöcke auf einmal herabfallen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `Click` `drag` `arrow keys` `Mouse` `Click` `left` `button`
 
 *   Turm drehen:
     *   Maus: Klicke und ziehe den Hintergrund, um den Turm zu drehen.
@@ -76,3 +78,4 @@ und lässt ganze Blöcke auf einmal herabfallen.
         möglichen Treffer übersehen hast. Gibt es wirklich keine passende
         Stelle, platziere die Blase taktisch so, dass sie möglichst wenig
         stört oder dir später eine neue Kombination ermöglicht.
+

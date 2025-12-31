@@ -44,6 +44,8 @@ ligeros se recogen enseguida. Cada fase marca un objetivo de dinero y un límite
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `Click` `tap`
 
 - **Soltar gancho:** Un toque o clic para lanzar el gancho.
 - **Usar dinamita:** Otro toque/clic mientras estás recogiendo un objeto (si la
@@ -70,4 +72,5 @@ ligeros se recogen enseguida. Cada fase marca un objetivo de dinero y un límite
 
   R: Aprende el ritmo del balanceo y suelta un pelín antes del punto ideal para
   compensar el movimiento.
+
 

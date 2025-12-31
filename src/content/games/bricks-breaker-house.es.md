@@ -40,6 +40,8 @@ mayor valor y aprovechar los potenciadores sin perder el control de la bola.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Space` `Click`
 
 - Mueve la pala con A/D o flechas izquierda/derecha; también puedes usar ratón o
   pantalla táctil.
@@ -65,4 +67,5 @@ mayor valor y aprovechar los potenciadores sin perder el control de la bola.
 
   R: Los ángulos medios (30–45°) suelen ofrecer el mejor equilibrio entre
   control y cobertura del tablero.
+
 

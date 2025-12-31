@@ -48,6 +48,8 @@ sin fin.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `left` `button`
 
 *   **Mover la pala:** Mueve el ratón a izquierda y derecha para posicionar la
     pala.
@@ -72,4 +74,5 @@ sin fin.
     *   **R:** Depende del icono, pero los más comunes amplían la pala, dividen
         la bola en tres (multi‑bola), convierten la bola en un proyectil que
         atraviesa varios ladrillos o equipan la pala con láseres.
+
 

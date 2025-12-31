@@ -48,6 +48,8 @@ convirtiendo cada partida en una carrera contrarreloj.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `left` `button` `click`
 
 *   **Apuntar:** Mueve el ratón para orientar el cañón de burbujas.
 *   **Disparar:** Haz clic con el botón izquierdo para lanzar la burbuja.
@@ -73,3 +75,4 @@ convirtiendo cada partida en una carrera contrarreloj.
     *   **R:** Es tu medidor de bola de fuego. Se llena con cada disparo acertado.
         Cuando encadenas 10 aciertos seguidos se llena por completo y tu siguiente
         tiro será una poderosa bola de fuego.
+

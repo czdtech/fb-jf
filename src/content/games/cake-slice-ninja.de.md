@@ -46,6 +46,8 @@ unterbrechen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `drag` `swipe`
 
 - Schneiden: Halte die Maustaste gedrückt und ziehe oder wische mit dem Finger
   über die Ziele, um sie zu zerteilen.
@@ -73,4 +75,5 @@ unterbrechen.
   Behalte ihre Flugbahn im Blick und plane Schnitte so, dass die Linie nie eine
   Bombe kreuzt. Kurze, kontrollierte Wischer sind oft sicherer als wilde
   Gesten.
+
 

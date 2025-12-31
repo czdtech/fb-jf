@@ -51,6 +51,8 @@ estratégico para limpiar todas las mariposas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `click` `click`
 
 *   **Seleccionar y conectar:** Haz clic con el ratón en la primera ala de
     mariposa y luego en su pareja idéntica. Si existe un camino válido, la
@@ -74,4 +76,5 @@ estratégico para limpiar todas las mariposas.
 *   **P: ¿Qué pasa si se termina el tiempo?**
     *   **R:** Si el temporizador llega a cero antes de despejar el tablero, la
         partida de ese nivel termina y tendrás que volver a intentarlo.
+
 

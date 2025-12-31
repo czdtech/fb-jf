@@ -43,6 +43,8 @@ Le principal défi est d’éviter tout contact avec les bulles rebondissantes. 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Arrow Keys` `Spacebar`
 
 
 Les commandes sont simples, pensées pour une action arcade rapide.
@@ -82,5 +84,6 @@ Les commandes sont simples, pensées pour une action arcade rapide.
 
 
 > Si le chrono atteint zéro avant que tu aies nettoyé toutes les bulles, tu perds une vie et tu dois recommencer le niveau. Sans vie restante, c’est le game over.
+
 
 

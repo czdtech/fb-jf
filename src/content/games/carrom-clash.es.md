@@ -49,6 +49,8 @@ oponente y ser el primero en limpiar tus piezas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `drag` `Click`
 
 *   **Colocar el striker:** Haz clic y arrastra el striker a izquierda o derecha
     a lo largo de tu línea de salida para alinearlo con la jugada.
@@ -74,4 +76,5 @@ oponente y ser el primero en limpiar tus piezas.
 *   **P: ¿Y si emboco una ficha del rival?**
     *   **R:** Pierdes el turno. Solo conservas turno cuando embocas fichas
         propias.
+
 

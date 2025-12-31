@@ -37,6 +37,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `shift`
 
 - Fais glisser une tuile dans une rangée/colonne pour la déplacer selon les règles de glissement du niveau.  
 - Utilise retour ou reset si le jeu le permet pour revoir ton plan.
@@ -61,5 +63,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:faq:id=faq:bunny-quest:hints-27c5017f -->
 - Stuck with one tile off? Backtrack earlier; try anchoring start and end first.
+
 
 

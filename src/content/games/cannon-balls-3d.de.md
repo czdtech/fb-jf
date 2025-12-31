@@ -46,6 +46,8 @@ um mit wenigen Schüssen größtmögliche Kettenreaktionen auszulösen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `left` `button`
 
 Die Steuerung ist simpel und direkt.
 
@@ -73,4 +75,5 @@ Die Steuerung ist simpel und direkt.
     *   A: Nein, sorgfältig gezielte Schüsse sind fast immer besser. Da deine
         Munition begrenzt ist, ist ein einziges, perfekt platziertes Projektil
         wertvoller als mehrere zufällige Treffer.
+
 

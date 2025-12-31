@@ -51,6 +51,8 @@ wie möglich zu überleben.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `space`
 
 Das Spiel wird vollständig mit Maus oder Touch bedient.
 
@@ -77,4 +79,5 @@ Das Spiel wird vollständig mit Maus oder Touch bedient.
 *   F: Was passiert, wenn meine Lebenspunkte auf 0 fallen?
     *   A: Dann ist der Run vorbei und du musst einen neuen Versuch starten –
         idealerweise mit dem Wissen aus deinem letzten Durchgang.
+
 

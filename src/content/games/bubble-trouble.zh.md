@@ -39,6 +39,8 @@ Bubble Trouble 是一款快节奏的街机动作游戏。玩家控制屏幕底�
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Arrow Keys` `Spacebar`
 
 操作简单，专为快节奏街机动作设计。
 
@@ -70,3 +72,4 @@ Bubble Trouble 是一款快节奏的街机动作游戏。玩家控制屏幕底�
 <!-- i18n:faq:id=faq:bubble-trouble:what-happens-when-the-timer-5c991ddc -->
 **4. 倒计时归零会怎样？**
 > 如果在你清除所有泡泡之前倒计时归零，你会失去一条命并必须重新开始该关卡。如果你没有剩余生命，游戏就结束了。
+

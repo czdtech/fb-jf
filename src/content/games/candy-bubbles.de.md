@@ -49,6 +49,8 @@ ist es ein entspannendes Puzzle für jedes Alter.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `left` `button`
 
 *   Zielen: Bewege die Maus, um die Kanone auszurichten. Eine Hilfslinie zeigt
     dir die ungefähre Flugbahn des Schusses.
@@ -76,3 +78,4 @@ ist es ein entspannendes Puzzle für jedes Alter.
     *   A: Versuche, sie an eine Stelle zu schießen, an der sie später nicht
         stört oder sogar nützlich werden könnte. Wenn es eine Tauschfunktion
         gibt, prüfe, ob die nächste Blase besser passt.
+

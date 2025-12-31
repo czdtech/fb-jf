@@ -30,6 +30,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse` `mouse` `click` `drag` `tap`
 
 *   **入れ替え:** マウスでドラッグするか、隣り合う2つのケーキを順番にクリック（タップ）して入れ替えます。
 
@@ -42,5 +44,6 @@ locale: ja
 <!-- i18n:faq:id=faq:cake-smash:q-how-do-i-beat-0ef45382 -->
 *   **Q: 難しいレベルをクリアするには？**
     *   **A:** できるだけ多くのスペシャルケーキを作り、さらにそれらを組み合わせて（ミックスして）使うのがコツです。
+
 
 

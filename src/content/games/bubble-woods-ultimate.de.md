@@ -55,6 +55,8 @@ belohnt, wird jede Runde zu einem kleinen Sprint um den Highscore.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `left` `button` `click`
 
 *   Zielen: Bewege die Maus, um die Kanone auszurichten.
 *   Schießen: Klicke mit der linken Maustaste, um eine Blase abzufeuern.
@@ -79,3 +81,4 @@ belohnt, wird jede Runde zu einem kleinen Sprint um den Highscore.
     *   A: Das ist deine Fireball-Anzeige. Sie füllt sich mit jedem erfolgreichen
         Treffer. Nach 10 Treffern in Folge ist sie voll und dein nächster
         Schuss wird zu einem mächtigen Fireball.
+

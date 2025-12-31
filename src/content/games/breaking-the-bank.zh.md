@@ -43,6 +43,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `mouse` `Mouse` `Click` `Click`
 
 游戏完全通过鼠标进行。
 
@@ -73,3 +75,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:breaking-the-bank:where-is-the-gameplay-i-dc81522e -->
 **4. 只有一个选择算哪门子游戏？**  
 > 乐趣在于看遍所有搞笑失败。建议先把每个选项都点一遍，享受动画和彩蛋，再回头体验那个正确解。  
+

@@ -41,6 +41,8 @@ la racha.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `drag` `swipe`
 
 - **Cortar:** Arrastra con el ratón o desliza el dedo para rebanar los objetivos.
 - **Pausa/Reintentar:** Usa los botones en pantalla.
@@ -62,4 +64,5 @@ la racha.
 - **¿Cómo evito las bombas?**
   Observa su trayectoria y la mecha; nunca completes un trazo que cruce una
   bomba, aunque parezca que puedes rascar alguna porción extra.
+
 

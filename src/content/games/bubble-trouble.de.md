@@ -70,6 +70,8 @@ Zeitlimits knapper. Beliebt ist außerdem der kooperative Zweispieler-Modus.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow Keys` `Spacebar`
 
 Die Steuerung ist einfach gehalten und auf schnelle Reaktionen ausgelegt.
 
@@ -110,4 +112,5 @@ unterscheiden, z. B. X und C für Bewegung und W zum Schießen.)*
 > Läuft die Zeit ab, bevor du alle Blasen zerstört hast, verlierst du ein Leben
 > und musst das Level neu starten. Hast du keine Leben mehr übrig, ist das
 > Spiel vorbei.
+
 

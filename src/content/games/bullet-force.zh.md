@@ -86,7 +86,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 #### PC（键盘与鼠标）
 <!-- i18n:controls:keys -->
-- 按键（对齐）： `W` `A` `S` `D` `Spacebar` `Shift` `C` `Right Mouse Button` `Left Mouse Button` `R` `1` `2` `3` `E` `Tab`
+- 按键（对齐）： `Mouse` `W` `A` `S` `D` `Spacebar` `Shift` `C` `Right` `Button` `Left` `Button` `R` `1` `2` `3` `Mouse` `E` `Tab` `Swipe`
 
 - **移动：** WASD 键控制前后左右移动。  
 - **跳跃：** 空格键。  
@@ -123,3 +123,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:bullet-force:can-i-play-with-my-501f32fd -->
 **问：我可以和朋友一起玩吗？**  
 **答：** 可以。在多人菜单中选择 Create Room 创建自定义房间，设置密码后把房间名和密码发给朋友即可加入同局。  
+

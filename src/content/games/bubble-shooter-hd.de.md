@@ -48,6 +48,8 @@ sich das Spiel für Einsteiger wie Profis gleichermaßen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `left` `button`
 
 *   Zielen: Bewege die Maus, um die Richtung des Blasenwerfers festzulegen.
 *   Schießen: Klicke mit der linken Maustaste, um eine Blase abzufeuern.
@@ -74,4 +76,5 @@ sich das Spiel für Einsteiger wie Profis gleichermaßen.
         Blase mit der nächsten zu tauschen, andere nicht. Sieh dir die
         Benutzeroberfläche an – ein Tausch-Symbol oder zweites Blasenfeld
         zeigt dir, ob diese Funktion verfügbar ist.
+
 

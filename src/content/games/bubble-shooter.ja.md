@@ -38,6 +38,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `mouse` `click` `mouse` `press` `Spacebar` `click`
 
 マウスのみで完結するシンプルな操作です。
 
@@ -63,4 +65,5 @@ locale: ja
 <!-- i18n:faq:id=faq:bubble-shooter:what-is-the-best-strategy-46032367 -->
 **4. 高得点を取るコツは？**
 > 根元の支点を狙って大きな塊をまとめて落とすのが近道です。特に上部でのバンクショットを使い、連鎖落下を起こしましょう。
+
 

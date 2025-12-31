@@ -62,6 +62,8 @@ pantalla sin quedarte sin vidas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Arrow Keys` `Mouse` `mouse` `Drag` `Tap` `drag`
 
 Los controles de Breakout son famosos por su sencillez (aunque cambian un poco
 según la plataforma).
@@ -107,4 +109,5 @@ según la plataforma).
 > de juegos rompebloques, y muchos sucesores modernos (como *Arkanoid*) sí
 > incorporan potenciadores como multi‑bola, pala más larga, cañones láser, bola
 > lenta, pala pegajosa, etc.
+
 

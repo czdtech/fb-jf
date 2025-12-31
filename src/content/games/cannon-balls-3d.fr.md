@@ -32,6 +32,8 @@ Cannon Balls 3D est un jeu de puzzle satisfaisant basé sur la physique où tu p
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `left` `button`
 
 Les contrôles sont simples et directs.
 
@@ -52,4 +54,5 @@ Les contrôles sont simples et directs.
 <!-- i18n:faq:id=faq:cannon-balls-3d:q-is-it-better-to-964b6eec -->
 *   **Q : Vaut-il mieux tirer vite ou viser soigneusement ?**
     *   **R :** Viser soigneusement est toujours mieux. Puisque les munitions sont limitées, un seul tir bien placé qui cause un effondrement majeur a bien plus de valeur que plusieurs tirs aléatoires et inefficaces.
+
 

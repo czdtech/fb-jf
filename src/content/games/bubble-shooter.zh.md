@@ -41,6 +41,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `mouse` `mouse` `click` `mouse` `press` `Spacebar` `click`
 
 
 操作非常简单直观，适用于鼠标或触屏。
@@ -67,4 +69,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:bubble-shooter:what-is-the-best-strategy-46032367 -->
 **问：想拿高分的最佳策略是什么？**  
 **答：** 重点不是“凑三连”，而是尽量打掉高位连接点，让大团泡泡整片坠落；同时熟练使用侧墙反弹把球送进难打位置。  
+
 

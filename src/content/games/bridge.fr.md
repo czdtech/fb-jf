@@ -29,6 +29,8 @@ Le Bridge est un jeu de cartes classique et hautement stratégique de prise de p
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `click` `Click`
 
 *   **Enchères :** clique sur le nombre et la couleur que tu souhaites enchérir, ou clique sur "Passe".
 *   **Jouer une carte :** clique sur la carte de ta main (ou de la main du mort, si tu es le déclarant) que tu souhaites jouer.
@@ -47,4 +49,5 @@ Le Bridge est un jeu de cartes classique et hautement stratégique de prise de p
 <!-- i18n:faq:id=faq:bridge:q-what-does-it-mean-90d6e773 -->
 *   **Q : Que signifie "fournir la couleur" ?**
     *   **R :** Si la première carte jouée dans une levée est un Pique, tous les autres joueurs doivent jouer un Pique s'ils en ont un dans leur main. S'ils n'ont pas de Pique, ils peuvent jouer n'importe quelle autre carte, y compris une carte d'atout.
+
 

@@ -35,6 +35,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `click` `click` `Click` `Click`
 
 マウスのみで遊べます。
 
@@ -62,3 +64,4 @@ locale: ja
 <!-- i18n:faq:id=faq:capybara-clicker:how-do-i-unlock-the-008a68ac -->
 **4. 新しい帽子やスキンはどうやってアンロックしますか？**
 > 総生産数（例：10億、1兆など）のマイルストーン到達で自動アンロックされます。新しいアイテムが開放されると通知されます。
+

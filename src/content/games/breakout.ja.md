@@ -35,6 +35,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Arrow Keys` `Mouse` `mouse` `Drag` `Tap` `drag`
 
 バージョンによって多少異なりますが、基本はシンプルです。
 
@@ -68,4 +70,5 @@ locale: ja
 **4. アイテムやパワーアップはある？**
 
 > 初代 *Breakout* にはありません。レーザー、マルチボール、パドル拡張などのパワーアップは『Arkanoid（アルカノイド）』をはじめとする派生作品で追加された要素です。
+
 

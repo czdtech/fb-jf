@@ -75,7 +75,7 @@ configurables.
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `W` `A` `S` `D` `Spacebar` `Shift` `C` `Right Mouse Button` `Left Mouse Button` `R` `1` `2` `3` `E` `Tab`
+- Teclas (alineación)： `Mouse` `W` `A` `S` `D` `Spacebar` `Shift` `C` `Right` `Button` `Left` `Button` `R` `1` `2` `3` `Mouse` `E` `Tab` `Swipe`
 
 #### PC (teclado y ratón)
 -   **Movimiento:** W, A, S, D
@@ -122,4 +122,5 @@ configurables.
 > Sí. Puedes crear una sala personalizada desde el menú multijugador
 > seleccionando "Create Room". Ponle contraseña y comparte nombre y clave con
 > tus amigos para que se unan.
+
 

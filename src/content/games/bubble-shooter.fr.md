@@ -36,6 +36,8 @@ Si les bulles descendent jusqu’à la ligne du bas, la partie est finie.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `mouse` `click` `mouse` `press` `Spacebar` `click`
 
 
 Les contrôles sont très simples et intuitifs, conçus pour la souris ou le tactile.
@@ -65,4 +67,5 @@ Les contrôles sont très simples et intuitifs, conçus pour la souris ou le tac
 
 
 > Le meilleur moyen de faire un gros score est de faire tomber de gros amas de bulles d’un seul tir. Plus tu fais tomber de bulles qui n’étaient pas dans le match direct, plus le bonus est élevé. Vise donc haut et utilise les tirs en bande pour décrocher de gros paquets.
+
 

@@ -42,6 +42,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `tap`
 
 - Glisse pour viser, relâche pour lancer la salve.  
 - Les bonus se déclenchent en les touchant ou via clic, selon la version.
@@ -63,4 +65,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 - **Q : Le mur descend trop vite, comment m’en sortir ?**
   
   R : Abandonne les setups complexes et vise directement les briques aux chiffres les plus élevés proches de la ligne de défaite pour regagner de l’espace.
+
 

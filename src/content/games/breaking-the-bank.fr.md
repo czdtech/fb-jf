@@ -38,6 +38,8 @@ L’écran affiche six méthodes possibles :
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Mouse` `Click` `Click`
 
 Le jeu se contrôle exclusivement à la souris.
 
@@ -69,4 +71,5 @@ Le jeu se contrôle exclusivement à la souris.
 <!-- i18n:faq:id=faq:breaking-the-bank:where-is-the-gameplay-i-dc81522e -->
 **Q : Où est le “gameplay” si je ne fais qu’un choix ?**  
 > Le gameplay, c’est de collectionner tous les FAILs. On joue pour l’animation et les blagues, pas pour un run parfait.  
+
 

@@ -45,6 +45,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `mouse` `click` `click` `Click` `Click`
 
 
 本游戏全程用鼠标即可操作。
@@ -76,3 +78,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:faq:id=faq:capybara-clicker:how-do-i-unlock-the-008a68ac -->
 **3. 改变天气有什么作用？**
+

@@ -79,7 +79,7 @@ Bullet Force는 브라우저와 모바일에서 즐길 수 있는 현대식 멀�
 <!-- i18n:section:controls -->
 ### 조작 방법
 <!-- i18n:controls:keys -->
-- 키(정렬)： `W` `A` `S` `D` `Spacebar` `Shift` `C` `Right Mouse Button` `Left Mouse Button` `R` `1` `2` `3` `E` `Tab`
+- 키(정렬)： `Mouse` `W` `A` `S` `D` `Spacebar` `Shift` `C` `Right` `Button` `Left` `Button` `R` `1` `2` `3` `Mouse` `E` `Tab` `Swipe`
 
 #### PC (키보드 & 마우스)
 
@@ -126,4 +126,5 @@ Bullet Force는 브라우저와 모바일에서 즐길 수 있는 현대식 멀�
 > 가능합니다. 멀티플레이 메뉴에서 "Create Room"을 선택해 비공개 방을 만들고
 > 비밀번호를 설정한 뒤, 방 이름과 비밀번호를 친구에게 알려주면 함께 접속해
 > 플레이할 수 있습니다.
+
 

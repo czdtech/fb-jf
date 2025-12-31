@@ -45,6 +45,8 @@ Zeitlimit; zwischen den Levels kannst du im Laden Upgrades kaufen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `Click` `tap`
 
 - Tippen/Klicken, um den Haken in seiner aktuellen Position herunterzulassen.
 - Erneut tippen/klicken, um – falls vorhanden – Dynamit zu zünden und das
@@ -72,4 +74,5 @@ Zeitlimit; zwischen den Levels kannst du im Laden Upgrades kaufen.
   
   Nicht direkt – du musst das Pendelgefühl trainieren. Löse den Haken einen
   Moment früher aus, als du intuitiv denkst, um das Ziel zu treffen.
+
 

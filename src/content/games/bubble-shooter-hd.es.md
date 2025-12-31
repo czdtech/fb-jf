@@ -48,6 +48,8 @@ horas y horas de diversión estratégica para jugadores de cualquier nivel.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `left` `button`
 
 *   **Apuntar:** Mueve el ratón para orientar el lanzador.
 *   **Disparar:** Haz clic con el botón izquierdo para lanzar la burbuja.
@@ -71,4 +73,5 @@ horas y horas de diversión estratégica para jugadores de cualquier nivel.
     *   **R:** Algunas versiones permiten intercambiar la burbuja actual con la
         siguiente de la cola, pero no siempre está disponible. Busca un botón de
         intercambio en la interfaz para comprobar si el modo lo permite.
+
 

@@ -59,6 +59,8 @@ les prochains runs.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `Click` `tap`
 
 - **Lancer le crochet** : clique ou touche l’écran pour faire descendre le
   grappin quand il pointe vers la zone voulue.  
@@ -79,5 +81,6 @@ les prochains runs.
 <!-- i18n:faq:id=faq:captain-gold:can-i-control-hook-angle-a0dde751 -->
 - Q : La dynamite vaut‑elle le coup ?
 R : Concentre‑toi sur les plus grosses pépites et sacs de valeur, surtout au milieu du niveau.
+
 
 

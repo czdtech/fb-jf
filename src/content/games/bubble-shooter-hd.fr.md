@@ -39,6 +39,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `left` `button`
 
 - Déplace la souris pour viser, clique pour tirer.  
 - Sur mobile, vise et tire en glissant/tapant.
@@ -57,5 +59,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:bubble-shooter-hd:q-can-i-swap-the-9bcb99fa -->
 - **Q : Puis-je échanger la bulle actuelle avec la suivante ?**
     - **R :** Certaines versions proposent un bouton ou une touche d’échange, d’autres non. Vérifie l’interface pour savoir si cette option est disponible.
+
 
 

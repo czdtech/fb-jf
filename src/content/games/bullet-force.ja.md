@@ -49,7 +49,7 @@ locale: ja
 <!-- i18n:section:controls -->
 ### 操作ガイド
 <!-- i18n:controls:keys -->
-- キー（整合）： `W` `A` `S` `D` `Spacebar` `Shift` `C` `Right Mouse Button` `Left Mouse Button` `R` `1` `2` `3` `E` `Tab`
+- キー（整合）： `Mouse` `W` `A` `S` `D` `Spacebar` `Shift` `C` `Right` `Button` `Left` `Button` `R` `1` `2` `3` `Mouse` `E` `Tab` `Swipe`
 
 #### PC (キーボード & マウス)
 *   **移動:** W, A, S, D
@@ -86,4 +86,5 @@ locale: ja
 <!-- i18n:faq:id=faq:bullet-force:can-i-play-with-my-501f32fd -->
 **4. 友達と遊べますか？**
 > はい。マルチプレイヤーメニューから部屋を作成（作成ボタン：Create Room）し、部屋名とパスワードを共有すればプライベートマッチができます。
+
 

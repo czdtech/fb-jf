@@ -57,6 +57,8 @@ anspruchsvoller wird das Timing.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow Keys` `Mouse` `mouse` `Drag` `Tap` `drag`
 
 Breakout wird fast ausschließlich über horizontale Paddle‑Bewegungen gesteuert; die Eingabegeräte unterscheiden sich je nach Plattform nur leicht.
 
@@ -92,4 +94,5 @@ Breakout wird fast ausschließlich über horizontale Paddle‑Bewegungen gesteue
 **4. Gibt es Power‑ups?**
 
 > Das Original‑Breakout hatte keine. Spätere Block‑Breaker wie Arkanoid ergänzten aber Extras wie Multi‑Ball, größere Paddles oder Laser – je nach Version, die du spielst.
+
 

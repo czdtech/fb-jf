@@ -40,6 +40,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Arrow Keys` `Mouse` `mouse` `Drag` `Tap` `drag`
 
 Breakout 的操作非常简单，不过不同平台的控制方式略有差异。
 
@@ -69,4 +71,5 @@ Breakout 的操作非常简单，不过不同平台的控制方式略有差异�
 <!-- i18n:faq:id=faq:breakout:are-there-powerups-in-breakout-a7fa8400 -->
 **4. 原版 Breakout 有道具吗？**  
 > 没有。最初的 Breakout 只有挡板和小球。后来衍生的 Arkanoid 等作品才加入多球、加长挡板、激光等强化效果。  
+
 

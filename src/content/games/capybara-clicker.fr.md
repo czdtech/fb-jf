@@ -64,6 +64,8 @@ de système de prestige pour booster définitivement ta production.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `click` `click` `Click` `Click`
 
 - **Générer des capybaras** : clique répétitivement sur le gros capybara au
   centre de l’écran.  
@@ -105,5 +107,6 @@ R : Ils se débloquent en atteignant certains seuils de population ou après un
 nombre donné de prestiges. Continue simplement à produire des capybaras et
 surveille les notifications quand un nouvel objet cosmétique devient
 disponible.
+
 
 

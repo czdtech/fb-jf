@@ -49,6 +49,8 @@ Konstellationen ergeben. Je besser du Winkel, Tempo und Power-ups kombinierst,
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Space` `Click`
 
 - Bewege den Schläger mit den Tasten A/D oder den Pfeiltasten Links/Rechts;
   alternativ kannst du Maus oder Touch-Steuerung verwenden.
@@ -77,4 +79,5 @@ Konstellationen ergeben. Je besser du Winkel, Tempo und Power-ups kombinierst,
   
   A: Mittlere Winkel zwischen 30 und 45 Grad bieten meist den besten Kompromiss
   aus Kontrolle und Flächenabdeckung.
+
 

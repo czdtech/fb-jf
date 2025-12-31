@@ -39,6 +39,8 @@ Dans *Bricks Breaker*, tu dois détruire toutes les briques d’un niveau en ren
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `left` `button`
 
 - Souris : déplace la raquette en glissant et clique pour lancer la balle.  
 - Clavier (selon version) : flèches gauche/droite pour bouger, espace pour lancer.
@@ -57,4 +59,5 @@ Dans *Bricks Breaker*, tu dois détruire toutes les briques d’un niveau en ren
 <!-- i18n:faq:id=faq:bricks-breaker:q-what-do-the-different-b6a457e3 -->
 - **Q : À quoi servent les différents bonus ?**
     - **R :** Certains élargissent la raquette, d’autres divisent la balle ou la rendent perforante, et certains ajoutent des lasers. Priorise ceux qui te donnent plus de contrôle.
+
 

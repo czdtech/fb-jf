@@ -54,6 +54,8 @@ Breaker langanhaltenden Spielspaß.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `left` `button`
 
 *   Schläger bewegen: Bewege die Maus nach links oder rechts, um die Position
     des Schlägers zu steuern.
@@ -80,4 +82,5 @@ Breaker langanhaltenden Spielspaß.
         drei), ein feuriger Ball, der mehrere Blöcke hintereinander
         durchschlägt, oder Laser, mit denen du direkt auf Blöcke schießen
         kannst.
+
 

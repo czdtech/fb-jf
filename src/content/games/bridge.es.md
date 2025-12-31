@@ -54,6 +54,8 @@ mundo.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `click` `Click`
 
 *   **Subasta:** Haz clic en la combinación de número y palo que quieras ofertar
     o pulsa Pass para pasar.
@@ -79,4 +81,5 @@ mundo.
     *   **R:** Si la primera carta de la baza es, por ejemplo, de Picas, todos
         los jugadores que tengan Picas deben jugar una. Solo si no tienen
         ninguna pueden descartar otra carta o jugar triunfo.
+
 

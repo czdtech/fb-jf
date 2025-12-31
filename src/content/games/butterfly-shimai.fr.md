@@ -30,6 +30,8 @@ Butterfly Shimai est un jeu de puzzle captivant et relaxant qui combine des él�
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `click` `click`
 
 *   **Sélectionner et connecter :** utilise ta souris pour cliquer sur la première aile de papillon, puis clique sur son aile jumelle identique. Si un chemin valide existe, les papillons s'envoleront.
 
@@ -47,4 +49,5 @@ Butterfly Shimai est un jeu de puzzle captivant et relaxant qui combine des él�
 <!-- i18n:faq:id=faq:butterfly-shimai:q-what-happens-if-i-b351c844 -->
 *   **Q : Que se passe-t-il si je n'ai plus de temps ?**
     *   **R :** Si le chrono atteint zéro avant que tu vides le plateau, la partie se termine et tu devras recommencer le niveau.
+
 

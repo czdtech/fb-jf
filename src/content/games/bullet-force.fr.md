@@ -64,7 +64,7 @@ Tu peux jouer en ligne dans des salons publics ou privés, ou t’entraîner hor
 <!-- i18n:section:controls -->
 ### Commandes (PC)
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `W` `A` `S` `D` `Spacebar` `Shift` `C` `Right Mouse Button` `Left Mouse Button` `R` `1` `2` `3` `E` `Tab`
+- Touches (alignement)： `Mouse` `W` `A` `S` `D` `Spacebar` `Shift` `C` `Right` `Button` `Left` `Button` `R` `1` `2` `3` `Mouse` `E` `Tab` `Swipe`
 
 
 #### PC (Keyboard & Mouse)
@@ -139,5 +139,6 @@ Tu peux jouer en ligne dans des salons publics ou privés, ou t’entraîner hor
 - **Changer d’arme :** `1`, `2`, `3` ou molette
 
 - **Recharger :** `R`
+
 
 

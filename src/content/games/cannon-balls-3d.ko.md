@@ -40,6 +40,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `mouse` `Click` `left` `button`
 
 
 조작은 간단하고 직관적입니다.
@@ -60,4 +62,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:cannon-balls-3d:q-is-it-better-to-964b6eec -->
 *   **Q: 빠르게 쏘는 게 좋나요, 천천히 조준하는 게 좋나요?**
     *   **A:** 탄약이 제한되어 있으므로 신중하게 조준하는 편이 더 좋습니다. 큰 붕괴를 일으키는 정확한 한 발이 무작위로 엉성하게 여러 발을 쏘는 것보다 훨씬 가치가 큽니다.
+
 

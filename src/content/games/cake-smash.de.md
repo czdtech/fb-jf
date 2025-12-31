@@ -43,6 +43,8 @@ gleiche Kuchen durch einen einfachen Tausch nebeneinander zu bringen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `mouse` `click` `drag` `tap`
 
 *   Maus/Touch: Klicke oder tippe auf zwei benachbarte Kuchen und ziehe, um
     sie zu vertauschen. Nur gültige Tauschvorgänge, die ein Match erzeugen,
@@ -62,4 +64,5 @@ gleiche Kuchen durch einen einfachen Tausch nebeneinander zu bringen.
     *   A: Versuche, möglichst viele Spezialkuchen zu erzeugen und sie
         miteinander zu kombinieren. Plane deine Züge voraus und konzentriere
         dich immer auf das Levelziel statt nur auf Einzelmatches.
+
 

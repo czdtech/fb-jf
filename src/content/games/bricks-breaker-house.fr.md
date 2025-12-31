@@ -38,6 +38,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Space` `Click`
 
 - Déplace la raquette avec les flèches, A/D, la souris ou le tactile selon la version.  
 - Lance la balle avec Espace ou clic.
@@ -59,3 +61,4 @@ releaseDate: 2025-10-18T00:00:00.000Z
 - **Q : Quel est l’angle de service le plus fiable ?**
   
   R : Des trajectoires autour de 30–45° offrent en général le meilleur compromis entre contrôle et couverture de surface.
+

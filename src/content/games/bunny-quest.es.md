@@ -40,6 +40,8 @@ los límites de movimientos se vuelven cada vez más estrictos.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `shift`
 
 - Desliza las fichas arrastrando; se desplazan por filas o columnas según las
   reglas del nivel.
@@ -62,4 +64,5 @@ los límites de movimientos se vuelven cada vez más estrictos.
 - **¿Hay sistema de pistas?**
   Muchas versiones incluyen pistas; úsalas con moderación para no arruinar el
   reto.
+
 

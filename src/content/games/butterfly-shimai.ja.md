@@ -36,6 +36,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `click` `click`
 
 *   **選択と接続:** マウスを使って、まず片方の羽根をクリックし、次にもう片方の同じ羽根をクリックします。ルートが有効であれば蝶になって飛んでいきます。
 
@@ -53,4 +55,5 @@ locale: ja
 <!-- i18n:faq:id=faq:butterfly-shimai:q-what-happens-if-i-b351c844 -->
 *   **Q: 時間切れになるとどうなりますか？**
     *   **A:** タイムオーバーとなり、そのレベルを最初からやり直す必要があります。
+
 

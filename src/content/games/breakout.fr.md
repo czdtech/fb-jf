@@ -42,6 +42,8 @@ Plus tu détruis de briques, plus la balle accélère, ce qui demande des réfle
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Arrow Keys` `Mouse` `mouse` `Drag` `Tap` `drag`
 
 Breakout se contrôle presque uniquement via un mouvement latéral de la raquette, avec de légères variantes selon la plateforme.
 
@@ -71,4 +73,5 @@ Breakout se contrôle presque uniquement via un mouvement latéral de la raquett
 <!-- i18n:faq:id=faq:breakout:are-there-powerups-in-breakout-a7fa8400 -->
 **4. Y a‑t‑il des bonus dans Breakout ?**  
 > Dans le Breakout d’origine, non. Les bonus (multi‑ball, laser, raquette plus longue, etc.) sont apparus plus tard dans Arkanoid et les autres casse‑briques inspirés de ce classique.  
+
 

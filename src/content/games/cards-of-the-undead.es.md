@@ -49,6 +49,8 @@ el mayor tiempo posible.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `space`
 
 El juego se maneja con clics o toques sencillos.
 
@@ -74,4 +76,5 @@ El juego se maneja con clics o toques sencillos.
 *   **P: ¿Qué pasa si me quedo sin vida?**
     *   **R:** Si los puntos de vida de tu héroe llegan a cero, la partida termina y
         tendrás que empezar de nuevo.
+
 

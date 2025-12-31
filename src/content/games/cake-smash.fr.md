@@ -29,6 +29,8 @@ Cake Smash est un jeu de puzzle match-3 vibrant et engageant. L'objectif est d'�
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `mouse` `click` `drag` `tap`
 
 *   **Souris/Tactile :** utilise la souris ou l'écran tactile pour cliquer et glisser ou taper sur des gâteaux adjacents pour les échanger.
 
@@ -41,4 +43,5 @@ Cake Smash est un jeu de puzzle match-3 vibrant et engageant. L'objectif est d'�
 <!-- i18n:faq:id=faq:cake-smash:q-how-do-i-beat-0ef45382 -->
 *   **Q : Comment battre les niveaux difficiles ?**
     *   **R :** Essaie de créer autant de gâteaux spéciaux que possible et combine-les pour un effet maximum. Planifie tes coups à l'avance et concentre-toi sur l'objectif du niveau.
+
 

@@ -55,6 +55,8 @@ Fehlschlägen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Mouse` `Click` `Click`
 
 Das komplette Spiel wird mit der Maus gesteuert.
 
@@ -89,4 +91,5 @@ Das komplette Spiel wird mit der Maus gesteuert.
 **F: Wo ist hier das „Gameplay“, wenn ich nur einmal klicke?**
 
 > Der Spaß besteht darin, alle Optionen samt ihrer Fail-Gags zu sehen, bevor du die richtige findest – es ist eher ein interaktiver Cartoon.
+
 

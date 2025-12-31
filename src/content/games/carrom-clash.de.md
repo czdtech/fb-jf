@@ -48,6 +48,8 @@ vollständig abräumt.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `drag` `Click`
 
 *   Striker positionieren: Ziehe den Striker mit der Maus oder per Touch an die
     gewünschte Position auf deiner Grundlinie.
@@ -73,4 +75,5 @@ vollständig abräumt.
 *   F: Was, wenn ich einen gegnerischen Stein loche?
     *   A: In der Regel endet dein Zug sofort. Du erhältst keinen Bonusstoß –
         weiter geht es erst wieder, wenn du eigene Steine versenkst.
+
 

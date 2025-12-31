@@ -63,6 +63,8 @@ permanenten Produktionsbonus.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `click` `click` `Click` `Click`
 
 Das gesamte Spiel wird mit der Maus (oder per Touch) gesteuert.
 
@@ -100,4 +102,5 @@ Das gesamte Spiel wird mit der Maus (oder per Touch) gesteuert.
 > Neue kosmetische Items erhältst du, wenn du bestimmte Populationsgrenzen
 > erreichst (z. B. 1 Milliarde, 1 Billion usw.). Das Spiel informiert dich,
 > sobald etwas Neues verfügbar ist.
+
 

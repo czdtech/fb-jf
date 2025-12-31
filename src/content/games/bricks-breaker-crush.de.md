@@ -57,6 +57,8 @@ Score.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `tap`
 
 - Ziehe mit gedrückter Maustaste oder dem Finger, um die Schussrichtung der
   Ballsalve festzulegen.
@@ -87,4 +89,5 @@ Score.
   A: Wahrscheinlich verlierst du zu viele Züge mit riskanten Winkeln. Schieße
   direkter auf die höchsten Zahlen nahe am unteren Rand und nutze starke
   Power-ups, um kritische Spalten schnell zu entfernen.
+
 

@@ -42,6 +42,8 @@ späteren Leveln sind die verfügbaren Züge begrenzt, sodass jeder Schritt zäh
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `shift`
 
 - Ziehe Kacheln mit der Maus oder per Touch, um sie in Reihen oder Spalten zu
   verschieben – die Bewegung folgt den jeweiligen Puzzleregeln.
@@ -68,4 +70,5 @@ späteren Leveln sind die verfügbaren Züge begrenzt, sodass jeder Schritt zäh
   
   In vielen Versionen gibt es ein Hinweissystem. Nutze es sparsam – je mehr du
   selbst tüftelst, desto besser wirst du im Erkennen von Pfaden.
+
 

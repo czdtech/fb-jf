@@ -60,6 +60,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `drag` `Click`
 
 -   **摆位 Striker：** 在己方底边可用区域内左右拖动 Striker，确定击球起点。  
     - **瞄准与发射：** 按住 Striker 向后拉出瞄准线，调整方向与力度后松开，Striker 即被弹出。  
@@ -76,4 +78,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:carrom-clash:q-what-if-i-pocket-632057db -->
 *   **问：如果我不小心把对手的棋子打进袋里会怎样？**  
     *   **答：** 你会失去本回合。只有打进己方棋子时才能继续出杆。
+
 

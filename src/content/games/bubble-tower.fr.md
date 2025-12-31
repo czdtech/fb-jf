@@ -29,6 +29,8 @@ Bubble Tower 3D ajoute une troisième dimension excitante à la formule classiqu
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `Click` `drag` `arrow keys` `Mouse` `Click` `left` `button`
 
 *   **Faire tourner la tour :**
     *   **Souris :** clique et fais glisser l'arrière-plan pour faire tourner la tour.
@@ -50,4 +52,5 @@ Bubble Tower 3D ajoute une troisième dimension excitante à la formule classiqu
 <!-- i18n:faq:id=faq:bubble-tower:q-i-cant-find-a-19045f66 -->
 *   **Q : Je ne trouve pas de match pour la bulle dans mon canon. Que dois-je faire ?**
     *   **R :** D'abord, fais tourner la tour complètement pour t'assurer que tu n'as pas raté un match potentiel. S'il n'y a vraiment aucun match, tu devras faire un tir tactique, plaçant la bulle dans un endroit où elle causera le moins de problèmes ou préparera un futur match.
+
 

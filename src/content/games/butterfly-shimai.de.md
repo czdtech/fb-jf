@@ -54,6 +54,8 @@ kombinieren.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `click` `click`
 
 *   Auswählen und verbinden: Klicke mit der Maus (oder tippe) zuerst auf einen
     Flügel und anschließend auf seinen identischen Partner. Existiert ein
@@ -77,4 +79,5 @@ kombinieren.
 *   F: Was passiert, wenn mir die Zeit ausgeht?
     *   A: Läuft der Timer auf null, bevor alle Paare entfernt sind, ist das
         Level verloren und du musst es neu starten.
+
 

@@ -32,6 +32,8 @@ Carrom Clash est une version numérique réaliste du jeu de plateau bien-aimé, 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `drag` `Click`
 
 *   **Positionner le striker :** clique et fais glisser le striker à gauche et à droite le long de ta ligne de base pour le positionner pour ton tir.
 *   **Viser et tirer :** clique sur le striker et tire en arrière. Une ligne de visée apparaîtra. Plus tu tires loin, plus ton tir sera puissant. Relâche pour tirer.
@@ -50,4 +52,5 @@ Carrom Clash est une version numérique réaliste du jeu de plateau bien-aimé, 
 <!-- i18n:faq:id=faq:carrom-clash:q-what-if-i-pocket-632057db -->
 *   **Q : Et si j'empoche une pièce de mon adversaire ?**
     *   **R :** Tu perds ton tour. Tu ne peux tirer à nouveau que si tu empoche une de tes propres pièces.
+
 

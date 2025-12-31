@@ -33,6 +33,8 @@ Cards of the Undead est un jeu de puzzle roguelike au tour par tour situé dans 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `space`
 
 Le jeu se joue avec de simples clics de souris ou touches.
 
@@ -52,4 +54,5 @@ Le jeu se joue avec de simples clics de souris ou touches.
 <!-- i18n:faq:id=faq:cards-of-the-undead:q-what-happens-if-i-3bdd7c15 -->
 *   **Q : Que se passe-t-il si je n'ai plus de santé ?**
     *   **R :** Si les PV de ton héros tombent à zéro, ta partie est terminée et tu dois recommencer.
+
 

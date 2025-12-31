@@ -38,6 +38,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `drag` `swipe`
 
 - Souris ou tactile : clique/glisse à travers les gâteaux pour les trancher.  
 - Boutons à l’écran pour pause et redémarrage.
@@ -53,5 +55,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 - Astuces à deux doigts ? Sur mobile, les glissements multi‑doigts peuvent couvrir plus de surface si la version le gère.
 <!-- i18n:faq:id=faq:cake-slice-ninja:how-to-avoid-bombs-afbe5ed8 -->
 - Comment éviter les bombes ? Suis leurs trajectoires ; ne termine jamais un geste qui traverse une bombe.
+
 
 

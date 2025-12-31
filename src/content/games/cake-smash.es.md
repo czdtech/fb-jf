@@ -43,6 +43,8 @@ eliminar un número específico de un tipo de pastel.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `mouse` `click` `drag` `tap`
 
 *   **Ratón/Pantalla táctil:** Haz clic y arrastra, o toca dos pasteles
     adyacentes, para intercambiarlos.
@@ -61,4 +63,5 @@ eliminar un número específico de un tipo de pastel.
     *   **R:** Intenta crear tantos pasteles especiales como puedas y
         combínalos entre sí para maximizar su efecto. Planifica varios movimientos
         por adelantado y mantén siempre en mente el objetivo del nivel.
+
 

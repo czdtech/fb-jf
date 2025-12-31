@@ -38,6 +38,8 @@ Dans *Bubble Woods Ultimate*, tu n’as que 60 secondes pour faire un maximum d
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `left` `button` `click`
 
 *   **Viser :** déplace la souris pour orienter le canon à bulles.
 *   **Tirer :** clique (bouton gauche) pour lancer la bulle.
@@ -57,3 +59,4 @@ Dans *Bubble Woods Ultimate*, tu n’as que 60 secondes pour faire un maximum d
 <!-- i18n:faq:id=faq:bubble-woods-ultimate:q-what-is-the-bar-7e10f73f -->
 *   **Q : À quoi sert la barre en bas, près du canon ?**
     *   **R :** C’est ta jauge Fireball. Elle se remplit à chaque tir réussi. Après 10 touches consécutives, elle est pleine et ton prochain tir devient une Fireball très puissante.
+

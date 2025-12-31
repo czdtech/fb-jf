@@ -75,7 +75,7 @@ möchte, nutzt den Offline-Modus mit anpassbaren KI-Bots.
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `W` `A` `S` `D` `Spacebar` `Shift` `C` `Right Mouse Button` `Left Mouse Button` `R` `1` `2` `3` `E` `Tab`
+- Tasten (Abgleich)： `Mouse` `W` `A` `S` `D` `Spacebar` `Shift` `C` `Right` `Button` `Left` `Button` `R` `1` `2` `3` `Mouse` `E` `Tab` `Swipe`
 
 #### PC (Tastatur & Maus)
 -   Bewegung: W, A, S, D
@@ -125,4 +125,5 @@ möchte, nutzt den Offline-Modus mit anpassbaren KI-Bots.
 > Ja. Im Multiplayer-Menü kannst du über "Create Room" einen eigenen Raum
 > erstellen, Optionen und Passwort festlegen und Name sowie Passwort an deine
 > Freunde weitergeben, damit sie beitreten können.
+
 

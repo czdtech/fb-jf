@@ -36,6 +36,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Mouse` `Click` `drag` `arrow keys` `Mouse` `Click` `left` `button`
 
 *   **旋转塔体：**
     *   **鼠标：** 点击并拖拽背景/空白区域即可旋转塔体。
@@ -56,4 +58,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:bubble-tower:q-i-cant-find-a-19045f66 -->
 *   **问：发射器里的泡泡找不到匹配怎么办？**
     *   **答：** 先把塔完整旋转一圈，确认没有遗漏的匹配点；如果确实没有，就把泡泡打到不碍事的位置，尽量为下一步创造匹配机会。
+
 

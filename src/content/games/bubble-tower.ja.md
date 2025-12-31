@@ -30,6 +30,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse` `Click` `drag` `arrow keys` `Mouse` `Click` `left` `button`
 
 *   **タワーの回転:**
     *   **マウス:** 背景をドラッグするとタワーが回転します。
@@ -51,4 +53,5 @@ locale: ja
 <!-- i18n:faq:id=faq:bubble-tower:q-i-cant-find-a-19045f66 -->
 *   **Q: 撃てる色のバブルが見当たりません。**
     *   **A:** まずはタワーを一周回してよく探してください。それでも無ければ、後で邪魔になりにくい場所、もしくは次のショットで消しやすい場所に「捨て弾」として配置するしかありません。
+
 

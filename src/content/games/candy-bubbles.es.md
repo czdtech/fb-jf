@@ -48,6 +48,8 @@ todas las edades.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `left` `button`
 
 *   **Apuntar:** Mueve el ratón para orientar el cañón; una guía mostrará la
     trayectoria.
@@ -75,3 +77,4 @@ todas las edades.
     *   **R:** Intenta dispararlo a una zona donde moleste lo menos posible o
         donde pueda servirte más adelante. Si el modo permite intercambio,
         comprueba si la siguiente burbuja ofrece una mejor opción.
+

@@ -58,6 +58,8 @@ el progreso a cambio de un multiplicador permanente a la producción.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `click` `click` `Click` `Click`
 
 El juego se maneja íntegramente con el ratón.
 
@@ -93,4 +95,5 @@ El juego se maneja íntegramente con el ratón.
 **4. ¿Cómo desbloqueo nuevos gorros y skins?**
 > Alcanzando hitos de población (mil millones, un billón, etc.). El juego te
 > avisará cuando haya un nuevo objeto disponible.
+
 

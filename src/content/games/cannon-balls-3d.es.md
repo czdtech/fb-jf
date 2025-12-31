@@ -46,6 +46,8 @@ colapso con el mínimo de disparos.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `left` `button`
 
 Los controles son sencillos y directos.
 
@@ -73,4 +75,5 @@ Los controles son sencillos y directos.
     *   **R:** Apuntar con calma casi siempre es mejor. Como la munición es
         limitada, un tiro bien colocado que provoque un gran derrumbe vale mucho
         más que varios disparos aleatorios poco efectivos.
+
 

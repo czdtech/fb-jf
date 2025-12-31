@@ -30,6 +30,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `Click` `left` `button`
 
 操作は直感的でシンプルです。
 
@@ -50,4 +52,5 @@ locale: ja
 <!-- i18n:faq:id=faq:cannon-balls-3d:q-is-it-better-to-964b6eec -->
 *   **Q: 速く撃つほうがいいですか？**
     *   **A:** いいえ、慎重に狙いを定めたほうが良いです。弾数が限られているため、適当な数発よりも、計算された一発のほうが価値があります。
+
 

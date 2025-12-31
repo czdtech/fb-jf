@@ -46,6 +46,8 @@ numérico llegue a la parte inferior.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `tap`
 
 - Arrastra para apuntar y suelta para disparar la ráfaga.
 - Los potenciadores se activan al recogerlos o tocarlos, según la versión.
@@ -72,4 +74,5 @@ numérico llegue a la parte inferior.
 
   R: Deja de construir trampas de rebote y céntrate en disparos quirúrgicos
   contra los números más altos que estén cerca del borde inferior.
+
 

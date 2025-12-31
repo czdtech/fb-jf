@@ -62,6 +62,8 @@ und erhöht den Druck.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `mouse` `click` `mouse` `press` `Spacebar` `click`
 
 Die Steuerung ist sehr einfach und intuitiv und eignet sich ideal für Maus oder
 Touch-Eingabe.
@@ -102,4 +104,5 @@ Touch-Eingabe.
 > lassen. Je mehr Blasen mit herunterfallen, die nicht direkt Teil der
 > Dreiergruppe waren, desto mehr Bonuspunkte erhältst du. Konzentriere dich auf
 > präzise Bank-Schüsse auf hohe Stellen, um solche Kettenreaktionen auszulösen.
+
 

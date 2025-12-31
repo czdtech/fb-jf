@@ -34,6 +34,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `Click` `space`
 
 マウス（またはタップ）のみの簡単操作です。
 
@@ -53,4 +55,5 @@ locale: ja
 <!-- i18n:faq:id=faq:cards-of-the-undead:q-what-happens-if-i-3bdd7c15 -->
 *   **Q: HPが0になったらどうなりますか？**
     *   **A:** ゲームオーバーとなり、そのラン（挑戦）は終了です。最初からやり直しになります。
+
 

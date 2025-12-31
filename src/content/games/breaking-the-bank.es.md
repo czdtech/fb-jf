@@ -55,6 +55,8 @@ Verás seis opciones en la parte inferior de la pantalla:
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Mouse` `Click` `Click`
 
 El juego se maneja íntegramente con el ratón.
 
@@ -93,4 +95,5 @@ El juego se maneja íntegramente con el ratón.
 > El juego consiste precisamente en ver todos los desenlaces posibles. La idea
 > no es ganar a la primera, sino ir probando cada opción para disfrutar de las
 > animaciones y chistes de cada FAIL antes de llegar a la elección correcta.
+
 

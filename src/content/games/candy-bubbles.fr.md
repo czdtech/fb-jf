@@ -32,6 +32,8 @@ Candy Bubbles est une variante sucrée et colorée du genre classique du bubble 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `left` `button`
 
 *   **Viser :** déplace ta souris pour viser le canon. Une ligne de guidage te montrera la trajectoire de ton tir.
 *   **Tirer :** clique sur le bouton gauche de la souris pour tirer la bulle.
@@ -51,4 +53,5 @@ Candy Bubbles est une variante sucrée et colorée du genre classique du bubble 
 <!-- i18n:faq:id=faq:candy-bubbles:q-i-have-a-bubble-fd61d78a -->
 *   **Q : J'ai une couleur de bulle que je ne peux pas utiliser. Que dois-je faire ?**
     *   **R :** Essaie de la tirer dans un endroit où elle ne gênera pas, ou où elle pourrait être utile plus tard. Si la fonction d'échange est disponible, vérifie si ta prochaine bulle est une meilleure option.
+
 

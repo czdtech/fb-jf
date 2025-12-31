@@ -51,6 +51,8 @@ reacciones en cadena y dejar la torre completamente despejada.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `Click` `drag` `arrow keys` `Mouse` `Click` `left` `button`
 
 *   **Girar la torre:**
     *   **Ratón:** Haz clic y arrastra el fondo para girar la torre.
@@ -77,3 +79,4 @@ reacciones en cadena y dejar la torre completamente despejada.
         escapa ninguna coincidencia. Si realmente no hay, tendrás que hacer un
         disparo táctico y colocar la burbuja en un lugar donde estorbe lo menos
         posible o prepare una combinación futura.
+

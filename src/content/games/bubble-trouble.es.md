@@ -70,6 +70,8 @@ El juego también incluye un popular modo cooperativo para dos jugadores.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Arrow Keys` `Spacebar`
 
 Los controles están pensados para una acción ágil de recreativa.
 
@@ -108,4 +110,5 @@ usando, por ejemplo, X y C para moverse y W para disparar.)*
 **4. ¿Qué ocurre cuando se acaba el tiempo?**
 > Si el cronómetro llega a cero antes de que limpies todas las burbujas, pierdes
 > una vida y repites el nivel. Si ya no te quedan vidas, la partida termina.
+
 
