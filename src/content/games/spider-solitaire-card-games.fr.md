@@ -44,6 +44,8 @@ Roi à l’As. Dès qu’une suite complète est formée, elle est retirée du j
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `Click` `drag` `click`
 
 - **Souris / tactile :** clique‑dépose les cartes pour les déplacer entre
   les colonnes. Beaucoup de versions permettent aussi un simple clic pour
@@ -69,4 +71,5 @@ Essaie de vider des colonnes le plus vite possible pour créer des espaces
 où réorganiser tes cartes. Il est aussi crucial de retourner les cartes
 face cachée afin d’augmenter tes options. Dès que possible, privilégie les
 suites mono‑couleur.
+
 

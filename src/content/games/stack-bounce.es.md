@@ -51,6 +51,8 @@ complicado de dominar.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Press` `hold` `left` `button` `Press` `hold`
 
 - **PC:** mantén pulsado el **botón izquierdo del ratón** para atravesar
   plataformas; suelta para dejar que la bola rebote.
@@ -81,4 +83,5 @@ complicado de dominar.
     *   **R:** El juego es por niveles. Tu objetivo es llegar al fondo de la torre
         para completar el nivel actual y pasar al siguiente, que suele ser más largo o
         complejo.
+
 

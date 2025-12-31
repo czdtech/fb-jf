@@ -30,10 +30,13 @@ Sprunki Mustard 不仅仅是一个换色的 Mod，它是视觉与听觉的奇妙
 
 <!-- i18n:section:controls -->
 ### Sprunki Mustard 的操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `drag`
 
 Sprunki Mustard 的操作简单直接。Incredibox 系列的粉丝肯定不会陌生。你只需像往常一样选择角色并将它们拖到舞台上，然后就可以开始聆听这场独特的音乐盛宴了。
 
 ### 为什么要玩 Sprunki Mustard？
 
 Incredibox 和 Sprunki 的粉丝一定会喜欢 Sprunki Mustard Mod 带来的角色美学新诠释，以及这款 Mod 为音乐制作玩法带来的新奇诡异氛围。如果你敢于挑战自己，就来到 Sprunki Mustard 的世界，用怪诞的音符演奏属于你自己的恐怖乐章吧！
+
 

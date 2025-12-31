@@ -41,6 +41,8 @@ exigen revisar cada detalle con calma.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag`
 
 - Rota las piezas y arrástralas a su posición usando la interfaz del juego.
 - Utiliza deshacer o reiniciar cuando quieras probar patrones nuevos.
@@ -62,4 +64,5 @@ exigen revisar cada detalle con calma.
 - **P: ¿Existen pistas?**  
   **R:** Algunas versiones incluyen sistema de pistas; conviene usarlas solo
   cuando de verdad te quedes bloqueado.
+
 

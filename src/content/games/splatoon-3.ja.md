@@ -30,7 +30,7 @@ Splatoon 3は、目標が相手を倒すだけでなく、マップをチーム�
 <!-- i18n:section:controls -->
 ### 操作ガイド
 <!-- i18n:controls:keys -->
-- キー（整合）： `WASD` `Arrow Keys` `Left Mouse Button` `Right Mouse Button` `G` `Shift` `Spacebar` `Spacebar`
+- キー（整合）： `WASD` `Arrow Keys` `Left` `Button` `Right` `Button` `G` `Shift` `Spacebar` `Hold` `Spacebar`
 
 特定の操作は異なる場合がありますが、一般的に標準的なシューターのレイアウトに基づいています：
 - **移動：** WASDまたは矢印キー
@@ -53,4 +53,5 @@ Splatoon 3は、目標が相手を倒すだけでなく、マップをチーム�
 **陣地を覆うのと相手をスプラットするのとどちらが良いですか？**
 
 両方とも重要です！相手をスプラットすると一時的にフィールドから削除され、チームが妨害されずにより多くの陣地を覆う機会が得られます。しかし、最終的な勝者はインクのカバレッジによって決まるので、地面を塗ることを怠らないでください。
+
 

@@ -33,6 +33,8 @@ Spider Solitaire gehört zu den bekanntesten und zugleich anspruchsvollsten Soli
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `drag` `Click`
 
 - **Karten bewegen:** Klicke und ziehe einzelne Karten oder gültige Sequenzen in eine andere Spalte.
 - **Neue Karten austeilen:** Klicke auf den Stockstapel in der Ecke, um eine neue Reihe Karten auszuteilen.
@@ -52,4 +54,5 @@ Spider Solitaire gehört zu den bekanntesten und zugleich anspruchsvollsten Soli
 <!-- i18n:faq:id=faq:spider-solitaire-2:q-what-is-the-best-72397c7d -->
 *   **F: Welche Strategie ist für Einsteiger am besten?**
     *   **A:** Starte am besten im 1-Farben-Modus, um die Grundlagen zu lernen. Konzentriere dich darauf, verdeckte Karten aufzudecken und leere Spalten zu erzeugen. Baue bevorzugt Sequenzen auf Spalten, unter denen nur wenige verdeckte Karten liegen.
+
 

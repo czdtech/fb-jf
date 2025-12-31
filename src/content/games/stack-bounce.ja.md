@@ -31,6 +31,8 @@ Stack Bounceは、タイミングと精度をテストするエキサイティ�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Press` `hold` `left` `button` `Press` `hold`
 
  - **マウス/タッチ：** 画面を長押しして離す
 
@@ -59,3 +61,4 @@ Stack Bounceは、タイミングと精度をテストするエキサイティ�
 
 <!-- i18n:faq:id=faq:stack-bounce:q-is-there-an-end-efd8fcf4 -->
     - **Q: 黒い床に当たるとどうなりますか？**
+

@@ -42,6 +42,8 @@ ordenadas de Rey a As. Cuando completes una secuencia, se retirará del tablero.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `Click` `drag` `click`
 
 - **Ratón/Táctil:** Haz clic y arrastra las cartas para moverlas entre columnas.
   La mayoría de versiones permiten también un clic simple para mover una carta a
@@ -68,3 +70,4 @@ araña.
 Intenta vaciar columnas lo antes posible para tener espacio con el que
 reordenar cartas. Destapar cartas boca abajo es crucial para ampliar tus
 opciones, y siempre que puedas, construye secuencias de un solo palo.
+

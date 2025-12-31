@@ -39,6 +39,8 @@ demandent une attention particulière.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag`
 
 - Fais pivoter les pièces et fais‑les glisser à leur place via l’interface.
 - Utilise Annuler/Réinitialiser pour tester d’autres configurations.
@@ -57,5 +59,6 @@ demandent une attention particulière.
 - **Des indices existent‑ils ?**  
   Certains modes en proposent ; à utiliser avec parcimonie pour garder le
   plaisir de la recherche.
+
 
 

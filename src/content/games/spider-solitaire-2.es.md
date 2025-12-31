@@ -50,6 +50,8 @@ con dos o cuatro palos.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `drag` `Click`
 
 *   **Mover cartas:** Haz clic y arrastra una carta o una secuencia válida a
     otra columna.
@@ -79,4 +81,5 @@ con dos o cuatro palos.
     *   **R:** Empieza con el modo de 1 palo para aprender la mecánica. Céntrate
         en destapar cartas nuevas y en crear columnas vacías. Intenta construir
         secuencias en columnas que no tengan muchas cartas boca abajo.
+
 

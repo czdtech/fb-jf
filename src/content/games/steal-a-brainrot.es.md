@@ -67,7 +67,7 @@ naturaleza ridícula de los memes.
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `W` `A` `S` `D` `Space Bar` `Shift` `Ctrl` `C` `E` `F` `1` `2` `3` `Q`
+- Teclas (alineación)： `W` `A` `S` `D` `Space Bar` `Hold` `Shift` `Ctrl` `C` `E` `F` `1` `2` `3` `Q`
 
 Como juego de Roblox, los controles siguen el esquema estándar de la
 plataforma:
@@ -105,4 +105,5 @@ físico que puedes robar, de ahí parte de su gracia.
 Lo más habitual es que gane el equipo que robe y devuelva más Brainrots a su
 base dentro del tiempo límite. En otros modos, puede que el reto sea completar
 el golpe sin que te detecten.
+
 

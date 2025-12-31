@@ -30,7 +30,7 @@ Der wichtigste Modus ist Revierkampf: ein 4-gegen-4-Match, in dem das Team gewin
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `WASD` `Arrow Keys` `Left Mouse Button` `Right Mouse Button` `G` `Shift` `Spacebar` `Spacebar`
+- Tasten (Abgleich)： `WASD` `Arrow Keys` `Left` `Button` `Right` `Button` `G` `Shift` `Spacebar` `Hold` `Spacebar`
 
 Die genaue Steuerung kann je nach Version variieren, orientiert sich aber an üblichen Shooter-Layouts:
 
@@ -54,4 +54,5 @@ Ist dein Tank leer, kannst du vorübergehend nicht schießen. Wechsle dann in di
 **Ist es wichtiger, Flächen zu färben oder Gegner zu splatten?**
 
 Beides ist wichtig. Wenn du Gegner splattest, sind sie kurzzeitig aus dem Spiel und dein Team kann ungestört Farbe verteilen. Am Ende entscheidet aber die eingefärbte Fläche über den Sieg – vergiss also nicht, auch den Boden und die Wände gründlich zu bemalen.
+
 

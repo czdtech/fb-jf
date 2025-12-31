@@ -28,6 +28,8 @@ Spider Solitaire ist eine anspruchsvolle und sehr beliebte Variante des klassisc
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `Click` `drag` `click`
 
 - **Maus/Touch:** Klicke und ziehe Karten, um sie zwischen den Spalten zu bewegen. In vielen Versionen kannst du eine Karte auch einfach anklicken, damit sie automatisch auf eine gültige Position wandert, falls es eine gibt.
 
@@ -48,4 +50,5 @@ Der Name bezieht sich auf die acht Folgen, die du bilden musst – genau wie ein
 **Was ist eine gute Grundstrategie?**
 
 Versuche, verdeckte Karten möglichst früh aufzudecken und freie Spalten zu erzeugen. Freie Spalten sind extrem wertvoll, um Karten zwischenzuparken und einfarbige, absteigende Sequenzen aufzubauen.
+
 

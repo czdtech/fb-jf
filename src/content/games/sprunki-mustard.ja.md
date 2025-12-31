@@ -32,9 +32,12 @@ Sprunki Mustardは、単なる色替えにとどまらないModです。キャ�
  
 <!-- i18n:section:controls -->
 ### Sprunki Mustardの操作：
+<!-- i18n:controls:keys -->
+- キー（整合）： `drag`
 
 Sprunki Mustardの操作はシンプルで直感的です。Incrediboxシリーズが好きな人ならすぐに馴染めます。いつも通りキャラクターを選び、ステージにドラッグして配置するだけで、このModならではの不穏な音のレイヤーが重なっていきます。
  
 ### なぜSprunki Mustardをプレイするのか？
 
 Sprunki Mustard Modは、キャラクター美学の新しい解釈と、音作りにまとわりつく奇妙な空気感が魅力です。IncrediboxやSprunkiのファンなら、いつもの制作体験が別の顔を見せるはずです。挑戦する気があるなら、歪んだ音で自分だけのホラーの一曲を鳴らしてみてください。
+

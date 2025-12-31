@@ -32,6 +32,8 @@ Stack Bounce est un jeu d'arcade 3D dynamique et addictif qui teste le timing et
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Press` `hold` `left` `button` `Press` `hold`
 
 *   **Bureau/Laptop :** maintiens le **bouton gauche de la souris** pour fracasser les plateformes. Relâche le bouton pour arrêter de fracasser et laisser la balle rebondir.
 *   **Mobile/Tablette :** maintiens ton **doigt sur l'écran** pour fracasser. Lève ton doigt pour arrêter.
@@ -54,4 +56,5 @@ Stack Bounce est un jeu d'arcade 3D dynamique et addictif qui teste le timing et
 <!-- i18n:faq:id=faq:stack-bounce:q-is-there-an-end-efd8fcf4 -->
 *   **Q : Y a‑t‑il une fin au jeu ?**
     *   **R :** Le jeu est basé sur des niveaux. Ton objectif est d'atteindre le bas de la tour hélicoïdale pour compléter le niveau actuel et passer au suivant, qui sera souvent plus long ou plus complexe.
+
 

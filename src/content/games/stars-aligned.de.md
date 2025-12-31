@@ -32,6 +32,8 @@ Stars Aligned ist ein ruhiges, räumliches Knobelspiel: Du drehst Sternfragmente
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag`
 
 - Fragmente per UI drehen und an die gewünschte Position ziehen.
 - Bei Bedarf Schritte rückgängig machen oder das Level zurücksetzen.
@@ -50,4 +52,5 @@ Stars Aligned ist ein ruhiges, räumliches Knobelspiel: Du drehst Sternfragmente
 <!-- i18n:faq:id=faq:stars-aligned:hints-27c5017f -->
 - **Gibt es Hinweise?**  
   Manche Versionen bieten Hinweisfunktionen – am besten sparsam nutzen, damit das Rätselgefühl erhalten bleibt.
+
 

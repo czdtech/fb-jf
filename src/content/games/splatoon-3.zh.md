@@ -32,7 +32,7 @@ releaseDate: 2025-08-16
 <!-- i18n:section:controls -->
 ### 操作说明
 <!-- i18n:controls:keys -->
-- 按键（对齐）： `WASD` `Arrow Keys` `Left Mouse Button` `Right Mouse Button` `G` `Shift` `Spacebar` `Spacebar`
+- 按键（对齐）： `WASD` `Arrow Keys` `Left` `Button` `Right` `Button` `G` `Shift` `Spacebar` `Hold` `Spacebar`
 
 
 具体按键可能因版本不同而变化，但整体遵循常见射击游戏布局：
@@ -56,3 +56,4 @@ releaseDate: 2025-08-16
 
 **问：涂地和击杀哪个更重要？**
 答：** 二者都重要。击败对手能让对方暂时离场，给你们争取一段安全涂地的窗口；但最终胜负仍由颜料覆盖率决定，所以别只顾打架而忽略了“刷地盘”。
+

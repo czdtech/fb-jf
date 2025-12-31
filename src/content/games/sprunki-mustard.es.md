@@ -48,6 +48,8 @@ original.
 
 <!-- i18n:section:controls -->
 ### Manejo de Sprunki Mustard
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag`
 
 El manejo de Sprunki Mustard es sencillo y directo. Si ya conoces la serie
 Incredibox, te sentirás como en casa: basta con seleccionar tus personajes y
@@ -61,4 +63,5 @@ que aporta Sprunki Mustard, así como la atmósfera extraña y perturbadora que
 añade al proceso de creación musical. Si te gustan los retos y no temes lo
 raro, entra en el mundo de Sprunki Mustard y deja que unas notas retorcidas den
 forma a tu propia sinfonía de terror.
+
 

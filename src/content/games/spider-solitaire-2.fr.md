@@ -30,6 +30,8 @@ Spider Solitaire est l'une des variantes de solitaire les plus connues et les pl
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `drag` `Click`
 
 *   **Déplacer des cartes :** clique‑dépose une carte ou une séquence valide vers une autre colonne.
 *   **Distribuer des cartes :** clique sur la pioche pour ajouter une nouvelle rangée.
@@ -49,4 +51,5 @@ Spider Solitaire est l'une des variantes de solitaire les plus connues et les pl
 <!-- i18n:faq:id=faq:spider-solitaire-2:q-what-is-the-best-72397c7d -->
 *   **Q : Quelle est la meilleure approche pour débuter ?**
     *   **R :** Commence en 1 couleur pour apprendre les mécaniques. Vise en priorité le retournement de nouvelles cartes et la création de colonnes vides. Essaye de construire des suites sur des colonnes avec peu de cartes cachées dessous.
+
 

@@ -38,7 +38,7 @@ releaseDate: 2025-08-16
 <!-- i18n:section:controls -->
 ### **操作指南**
 <!-- i18n:controls:keys -->
-- 按键（对齐）： `W` `A` `S` `D` `Space Bar` `Shift` `Ctrl` `C` `E` `F` `1` `2` `3` `Q`
+- 按键（对齐）： `W` `A` `S` `D` `Space Bar` `Hold` `Shift` `Ctrl` `C` `E` `F` `1` `2` `3` `Q`
 
 作为 Roblox 游戏，操作遵循平台的标准格式。
 
@@ -67,4 +67,5 @@ releaseDate: 2025-08-16
 <!-- i18n:faq:id=faq:steal-a-brainrot:what-is-the-objective-to-b300ad36 -->
 **4. 如何赢得游戏？**
 通常，目标是让一个团队在时间限制内成功偷取并将"脑腐"带回基地最多次。可能存在其他游戏模式，例如在完全不被发现的情况下完成抢劫。
+
 

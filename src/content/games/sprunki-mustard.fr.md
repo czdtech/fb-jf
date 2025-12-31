@@ -44,6 +44,8 @@ volontairement troublant.
 
 <!-- i18n:section:controls -->
 ### Operation of Sprunki Mustard:
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag`
   animations spéciales parfaitement dans le thème.
 
 
@@ -51,4 +53,5 @@ volontairement troublant.
 Sprunki Mustard s’adresse aux joueurs qui aiment les Mods un peu dérangeants
 et qui veulent voir jusqu’où on peut pousser l’univers Sprunki. Ose composer
 ta propre « symphonie moutarde » !
+
 

@@ -39,7 +39,7 @@ Le plaisir vient surtout du chaos multijoueur imprévisible et du contraste entr
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `W` `A` `S` `D` `Space Bar` `Shift` `Ctrl` `C` `E` `F` `1` `2` `3` `Q`
+- Touches (alignement)： `W` `A` `S` `D` `Space Bar` `Hold` `Shift` `Ctrl` `C` `E` `F` `1` `2` `3` `Q`
 
 Comme c’est un jeu Roblox, les commandes suivent le standard de la plateforme :
 
@@ -72,3 +72,4 @@ C’est un terme d’argot Internet pour parler de contenus viraux « bas de gam
 **4. Quel est l’objectif pour gagner ?**
 
 En général, une équipe doit voler et ramener le Brainrot à sa base le plus de fois possible dans une limite de temps. D’autres modes peuvent exister, comme réussir le casse sans se faire repérer.
+

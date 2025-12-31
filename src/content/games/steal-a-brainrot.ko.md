@@ -67,7 +67,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### 조작 방법 안내
 <!-- i18n:controls:keys -->
-- 키(정렬)： `W` `A` `S` `D` `Space Bar` `Shift` `Ctrl` `C` `E` `F` `1` `2` `3` `Q`
+- 키(정렬)： `W` `A` `S` `D` `Space Bar` `Hold` `Shift` `Ctrl` `C` `E` `F` `1` `2` `3` `Q`
 
 Roblox 게임답게 기본 조작은 플랫폼 공통 키 배열을 따릅니다.
 
@@ -107,4 +107,5 @@ Roblox 플랫폼에서 무료로 즐길 수 있습니다. Roblox 앱이나 웹�
 일반적으로 제한 시간 안에 더 많이 Brainrot를 훔쳐 기지로 가져오는 팀이
 승리합니다. 특정 모드에서는 한 번도 들키지 않고 성공하는 등 별도의 승리
 조건이 있을 수도 있습니다.
+
 

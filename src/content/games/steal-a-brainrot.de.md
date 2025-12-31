@@ -51,7 +51,7 @@ Der Spaß des Spiels ergibt sich größtenteils aus seinen chaotischen, unvorher
 <!-- i18n:section:controls -->
 ### **Steuerungsanleitung**
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `W` `A` `S` `D` `Space Bar` `Shift` `Ctrl` `C` `E` `F` `1` `2` `3` `Q`
+- Tasten (Abgleich)： `W` `A` `S` `D` `Space Bar` `Hold` `Shift` `Ctrl` `C` `E` `F` `1` `2` `3` `Q`
 
 Als Roblox-Spiel folgt die Steuerung dem Standard-Format der Plattform.
 
@@ -80,3 +80,4 @@ Es ist ein Internet-Slangbegriff für virale Online-Inhalte von geringer Qualit�
 <!-- i18n:faq:id=faq:steal-a-brainrot:what-is-the-objective-to-b300ad36 -->
 **4. Was ist das Ziel, um das Spiel zu gewinnen?**
 Typischerweise ist das Ziel, dass ein Team das „Brainrot" erfolgreich stiehlt und innerhalb eines Zeitlimits am häufigsten zu seiner Basis zurückbringt. Andere Spielmodi könnten existieren, wie den Heist komplett unentdeckt abzuschließen.
+

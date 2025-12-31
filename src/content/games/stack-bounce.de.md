@@ -32,6 +32,8 @@ Stack Bounce ist ein lebhaftes und süchtig machendes 3D-Arcade-Spiel, das das T
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Press` `hold` `left` `button` `Press` `hold`
 
 *   **Desktop/Laptop:** Drücke und halte die **linke Maustaste**, um durch Plattformen zu zerschmettern. Lass die Taste los, um aufzuhören zu zerschmettern und den Ball springen zu lassen.
 *   **Mobil/Tablet:** Drücke und halte deinen **Finger auf dem Bildschirm**, um zu zerschmettern. Heb deinen Finger, um aufzuhören.
@@ -54,4 +56,5 @@ Stack Bounce ist ein lebhaftes und süchtig machendes 3D-Arcade-Spiel, das das T
 <!-- i18n:faq:id=faq:stack-bounce:q-is-there-an-end-efd8fcf4 -->
 *   **F: Gibt es ein Ende des Spiels?**
     *   **A:** Das Spiel ist levelbasiert. Dein Ziel ist es, den Boden des Helix-Turms zu erreichen, um das aktuelle Level abzuschließen und zum nächsten zu gelangen, das oft länger oder komplexer sein wird.
+
 

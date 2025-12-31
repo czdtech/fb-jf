@@ -46,7 +46,7 @@ recouvert le plus de surface de la carte avec sa couleur d’encre au bout de
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `WASD` `Arrow Keys` `Left Mouse Button` `Right Mouse Button` `G` `Shift` `Spacebar` `Spacebar`
+- Touches (alignement)： `WASD` `Arrow Keys` `Left` `Button` `Right` `Button` `G` `Shift` `Spacebar` `Hold` `Spacebar`
 
 (Les contrôles exacts dépendent de la version, mais restent proches des
 shooters classiques.)  
@@ -72,4 +72,5 @@ quelques secondes dans l’encre de ton équipe.
 Les deux comptent : splatter un adversaire le retire temporairement du
 terrain et te donne une fenêtre pour peindre, mais au final, seule la
 surface recouverte d’encre décide du vainqueur.***
+
 

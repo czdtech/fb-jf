@@ -45,7 +45,7 @@ Steal a Brainrotは、戦略的思考とステルスメカニクスを組み合�
 <!-- i18n:section:controls -->
 ### 操作ガイド
 <!-- i18n:controls:keys -->
-- キー（整合）： `W` `A` `S` `D` `Space Bar` `Shift` `Ctrl` `C` `E` `F` `1` `2` `3` `Q`
+- キー（整合）： `W` `A` `S` `D` `Space Bar` `Hold` `Shift` `Ctrl` `C` `E` `F` `1` `2` `3` `Q`
 
 
 （Roblox系の作品である場合）操作はプラットフォーム標準の形式に近いことが多いです。
@@ -83,4 +83,5 @@ Steal a Brainrotは、戦略的思考とステルスメカニクスを組み合�
 
 <!-- i18n:faq:id=faq:steal-a-brainrot:what-is-the-objective-to-b300ad36 -->
 **4. 勝利条件は何ですか？**
+
 

@@ -44,7 +44,7 @@ equipo que cubra el mayor porcentaje del mapa con su color en tres minutos gana.
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `WASD` `Arrow Keys` `Left Mouse Button` `Right Mouse Button` `G` `Shift` `Spacebar` `Spacebar`
+- Teclas (alineación)： `WASD` `Arrow Keys` `Left` `Button` `Right` `Button` `G` `Shift` `Spacebar` `Hold` `Spacebar`
 
 Los controles varían según la versión, pero en PC suelen imitar esquemas
 estándar de juegos de disparos:
@@ -72,3 +72,4 @@ nada unos segundos en tu propia tinta.
 Ambas cosas importan. Eliminar rivales los saca temporalmente del campo y te
 abre una ventana para pintar sin oposición, pero el ganador se decide por la
 cantidad de tinta en el suelo, así que nunca descuides el territorio.
+

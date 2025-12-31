@@ -43,6 +43,8 @@ retira del tablero.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `Click` `drag` `click`
 
 - **Ratón/Táctil:** Haz clic y arrastra las cartas para moverlas entre columnas.
   La mayoría de versiones también permiten un solo clic para enviar una carta a
@@ -71,3 +73,4 @@ Intenta vaciar columnas lo antes posible para disponer de espacio libre con el
 que reorganizar las cartas. También es crucial destapar cartas boca abajo para
 multiplicar tus opciones. Siempre que puedas, intenta construir secuencias del
 mismo palo.
+

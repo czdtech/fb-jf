@@ -44,6 +44,8 @@ jusqu’à l’As. Une fois la suite formée, elle est retirée du plateau.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `Click` `drag` `click`
 
 - **Souris / tactile :** clique et fais glisser les cartes pour les
   déplacer entre colonnes. La plupart des versions proposent aussi un clic
@@ -69,4 +71,5 @@ araignée.
 Essaie de vider des colonnes pour créer des emplacements où réorganiser tes
 cartes, et retourne rapidement les cartes face cachée pour multiplier les
 options. Dès que possible, privilégie les suites mono‑couleur.
+
 

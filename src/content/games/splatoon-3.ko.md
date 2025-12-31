@@ -43,7 +43,7 @@ Splatoon 3는 적을 쓰러뜨리는 것보다 "맵을 얼마나 많이 칠했�
 <!-- i18n:section:controls -->
 ### 조작 방법 안내
 <!-- i18n:controls:keys -->
-- 키(정렬)： `WASD` `Arrow Keys` `Left Mouse Button` `Right Mouse Button` `G` `Shift` `Spacebar` `Spacebar`
+- 키(정렬)： `WASD` `Arrow Keys` `Left` `Button` `Right` `Button` `G` `Shift` `Spacebar` `Hold` `Spacebar`
 
 플랫폼에 따라 세부 조작은 다를 수 있지만, 기본 구조는 일반적인 슈팅 게임과
 비슷합니다.
@@ -73,3 +73,4 @@ Splatoon 3는 적을 쓰러뜨리는 것보다 "맵을 얼마나 많이 칠했�
 보내 버릴 수 있어, 그 사이에 넓게 칠할 기회를 만들 수 있습니다.
 하지만 최종 승패는 잉크 점유율로 결정되므로, 전투에만 몰두하지 말고
 틈틈이 바닥과 벽을 칠해 영역을 넓히는 것이 좋습니다.
+

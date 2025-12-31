@@ -52,6 +52,8 @@ Sprunki Mustard는 단순히 색만 바꾼 모드가 아니라, 시각과 청각
 
 <!-- i18n:section:controls -->
 ### Sprunki Mustard 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `drag`
 
 Sprunki Mustard의 조작은 다른 Sprunki 모드와 동일해, Incredibox 시리즈에 익숙한
 플레이어라면 바로 적응할 수 있습니다. 캐릭터를 선택해 무대에 올리고, 마음에
@@ -64,4 +66,5 @@ Incredibox와 Sprunki를 좋아하면서도, 조금 더 어둡고 기묘한 분�
 이상한 공포 사운드가 어우러져, 익숙한 시스템으로도 전혀 새로운 감각의 곡을
 만들 수 있게 해 줍니다. 약간의 스릴과 독특한 미감을 좋아한다면, 스프룽키
 머스터드 세계에 들어가 당신만의 괴이한 트랙을 만들어 보세요.
+
 
