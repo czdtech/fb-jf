@@ -17,7 +17,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 *Alien Hominid* est un jeu de tir 2D à défilement horizontal développé par The Behemoth. Né comme jeu Flash sur Newgrounds au début des années 2000, il est devenu culte grâce à son style cartoon dessiné à la main, son humour absurde et sa difficulté élevée façon arcade.
 
-Tu incarnes un petit alien jaune dont le vaisseau a été abattu par le FBI. Coincé sur Terre, tu dois affronter des vagues d’agents secrets, de soldats et de boss gigantesques pour récupérer ton vaisseau et t’échapper. Le gameplay s’inspire de titres comme *Contra* ou *Metal Slug* : beaucoup d’ennemis, des tirs partout, des morts en un coup et des combats de boss à patterns.
+Tu incarnes un petit alien jaune dont le vaisseau a été abattu par le FBI. Coincé sur Terre, tu dois affronter des vagues d’agents secrets, de soldats et de boss gigantesques pour récupérer ton vaisseau et t’échapper. Le jeu s’inspire de titres comme *Contra* ou *Metal Slug* : beaucoup d’ennemis, des tirs partout, des morts en un coup et des combats de boss aux schémas d’attaque à apprendre.
 
 ### Guide de jeu et stratégies
 
@@ -39,7 +39,7 @@ Tu incarnes un petit alien jaune dont le vaisseau a été abattu par le FBI. Coi
 
 - **Tirs chargés :** en maintenant le bouton de tir, tu lances un tir chargé qui traverse plusieurs ennemis. Tu es cependant vulnérable pendant la charge, donc choisis bien le moment.  
 - **Priorise les menaces :** élimine en premier les ennemis à tir rapide ou ceux qui lancent des projectiles difficiles à esquiver.  
-- **Apprends les patterns de boss :** chaque boss suit un ensemble d’attaques répétitives. Observe quelques tentatives pour repérer les zones sûres et les fenêtres d’attaque, puis reste patient.
+- **Apprends les schémas d’attaque des boss :** chaque boss suit un ensemble d’attaques répétitives. Observe quelques tentatives pour repérer les zones sûres et les fenêtres d’attaque, puis reste patient.
 
 <!-- i18n:section:controls -->
 ### Commandes
@@ -69,9 +69,8 @@ Les commandes varient légèrement selon la version, mais la logique reste la m�
 
 <!-- i18n:faq:id=faq:alien-hominid:q-how-do-i-beat-1856fd4a -->
 - **Q : Comment battre le boss final ?**  
-    - **R :** Le combat final se déroule en plusieurs phases. Le plus important est de maîtriser les patterns de chaque phase : concentre‑toi d’abord sur l’esquive, puis place quelques tirs sûrs dès que tu as une ouverture.
+    - **R :** Le combat final se déroule en plusieurs phases. Le plus important est de maîtriser le schéma de chaque phase : concentre‑toi d’abord sur l’esquive, puis place quelques tirs sûrs dès que tu as une ouverture.
 
 <!-- i18n:faq:id=faq:alien-hominid:q-is-alien-hominid-invasion-6b18b22e -->
 - **Q : Alien Hominid Invasion est‑il le même jeu ?**  
     - **R :** Non. *Alien Hominid Invasion* est une réinterprétation moderne axée coop et progression rogue‑lite dans le même univers, mais avec niveaux et système différents.
-

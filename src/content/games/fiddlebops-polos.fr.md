@@ -1,7 +1,7 @@
 ---
 locale: fr
 urlstr: fiddlebops-polos
-title: "Fiddlebops Polos - Play Fiddlebops Polos Online"
+title: "Fiddlebops Polos - Jouer à Fiddlebops Polos en ligne"
 description: "Fiddlebops Polos est un jeu musical créatif où tu composes des morceaux, explores des histoires interactives et échanges avec une communauté dynamique – gratuitement en ligne."
 iframeSrc: 'https://turbowarp.org/1149630445/embed'
 thumbnail: /new-images/thumbnails/fiddlebops-polos.png
@@ -14,7 +14,7 @@ releaseDate: 2025-12-04
 
 ### Qu’est‑ce qui distingue Fiddlebops Polos ?
 
-Fiddlebops Polos n’est pas juste un énième jeu musical ; c’est un jeu de création en ligne innovant qui t’invite dans un univers fantaisiste rempli de personnages originaux et de paysages sonores uniques. Son objectif : offrir aussi bien aux débutants qu’aux musicien·ne·s expérimenté·e·s un moyen ludique de créer et de se connecter aux autres à travers la musique.
+Fiddlebops Polos n’est pas juste un énième jeu musical ; c’est un jeu de création en ligne innovant qui t’invite dans un univers fantaisiste rempli de personnages originaux et de paysages sonores uniques. Son objectif : offrir aussi bien aux débutants qu’aux musiciens aguerris un moyen ludique de créer et de se connecter aux autres à travers la musique.
 
 ### Comment t’immerger dans le monde de Fiddlebops Polos ?
 
@@ -27,10 +27,9 @@ Fiddlebops Polos n’est pas juste un énième jeu musical ; c’est un jeu de c
 
 - **Des personnages exclusifs t’attendent :** ces personnages Fiddlebops Polos sont uniques au mod. Découvre toutes leurs variantes et tous les sons qui n’attendent qu’à être testés.
 - **Liberté créative totale :** sans limite rigide, tu peux façonner une musique authentique, fidèle à ta vision.
-- **Deviens auteur de la « lore » :** les récits guidés par tes choix te permettent d’écrire l’histoire de ces sons uniques. Chaque storyline est un monde à explorer.
-- **Rejoins un crew passionné :** échange des astuces, partage ton talent musical, collabore et célèbre la créativité de chacun tout en laissant ton imagination s’emballer.
+- **Deviens scénariste :** les récits guidés par tes choix te permettent d’écrire l’histoire de ces sons uniques. Chaque scénario est un monde à explorer.
+- **Rejoins une communauté passionnée :** échange des astuces, partage ton talent musical, collabore et célèbre la créativité de chacun tout en laissant ton imagination s’emballer.
 
 Avec Fiddlebops Polos, c’est le moment ou jamais d’essayer de devenir un véritable maître de la musique. Si tu cherchais une aventure créative pleine de cœur et de couleur, ce mod est fait pour toi. Plonge‑y et découvre un univers de créativité dans lequel tout le monde peut trouver sa place.
 
 Il est temps de monter sur scène et d’enflammer le public… version Fiddlebops Polos !
-

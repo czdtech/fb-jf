@@ -35,9 +35,9 @@ C’est très simple, il suffit de maîtriser ces points :
 
 ### Astuces pour jouer à Sprunki Night Time
 
-- **Glisse à la souris :** fais du drag‑and‑drop pour composer ton paysage sonore.
+- **Glisse à la souris :** fais du glisser‑déposer pour composer ton paysage sonore.
 - **Ajuste au clavier :** si la version le permet, règle tempo, effets et transitions pour un résultat plus fin.
-- **Explore sans retenue :** essaye plusieurs couches sonores pour révéler des beats et des visuels cachés.
+- **Explore sans retenue :** essaye plusieurs couches sonores pour révéler des rythmes et des visuels cachés.
 
 ### Points forts de Sprunki Night Time
 
@@ -49,4 +49,3 @@ C’est très simple, il suffit de maîtriser ces points :
 ### En conclusion
 
 Sprunki Night Time te plonge dans un monde sombre et mystérieux, et te fait vivre un voyage musical dans le silence de la nuit. Rejoins Sprunki Night Time et utilise ta musique pour illuminer cette nuit profonde.
-

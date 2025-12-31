@@ -1,23 +1,24 @@
 ---
 locale: fr
 urlstr: ayocs-sprunkr
-title: "AYOCS Sprunkr - Play AYOCS Sprunkr Online"
-description: "AYOCS Sprunkr est un mod stylé de Sprunki où de nouveaux personnages ultra lookés et leurs sons originaux te permettent de créer des mixes encore plus tendance."
+title: "AYOCS Sprunkr - Jouer à AYOCS Sprunkr en ligne"
+description: "AYOCS Sprunkr est un mod Sprunki au style moderne : de nouveaux personnages et leurs sons originaux te permettent de créer des compositions encore plus inventives."
 iframeSrc: "https://turbowarp.org/1114188520/embed"
 thumbnail: /new-images/thumbnails/ayocs-sprunkr.png
 tags:
   - ayocs sprunkr
+  - music
 score: 4.1/5  (54 votes)
 releaseDate: 2025-12-04
 ---
 
 <!-- i18n:section:introduction -->
 ### Présentation d’AYOCS Sprunkr
-Un mod idéal pour les fans de Sprunki qui veulent un relooking complet, entre mode et effets sonores plus luxueux.
+Un mod idéal pour les fans de Sprunki qui veulent un relooking complet, entre esthétique soignée et sonorités plus travaillées.
 
 ### Présentation du jeu
 
-*AYOCS Sprunkr* est un mod du jeu musical Sprunki qui donne un coup de jeune à tout l’univers. Les personnages classiques laissent la place à une nouvelle clique « AYOCS » au design très mode, chacun avec une personnalité affirmée et des boucles sonores inédites. Le principe reste le même : tu construis un morceau en déposant des personnages sur la scène, mais le résultat a une esthétique beaucoup plus moderne et tendance.
+*AYOCS Sprunkr* est un mod du jeu musical Sprunki qui donne un coup de jeune à tout l’univers. Les personnages classiques laissent la place à une nouvelle équipe « AYOCS » au design plus moderne, chacun avec une personnalité affirmée et des boucles sonores inédites. Le principe reste le même : tu construis un morceau en déposant des personnages sur la scène, mais le résultat a une esthétique plus contemporaine.
 
 ### Points forts d’AYOCS Sprunkr
 

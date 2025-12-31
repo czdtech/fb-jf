@@ -8,7 +8,7 @@ thumbnail: /new-images/thumbnails/emoji-with-friends.png
 tags:
   - puzzle
   - casual
-  - 2 player
+  - 2-player
 score: 3.9/5  (1517 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
@@ -23,7 +23,7 @@ Emoji With Friends mélange enchaînements rapides et petite déduction à parti
 ### Guide de jeu et stratégies
 
 1.  Analyse les motifs : repère les groupes d’emojis qui reviennent souvent pour créer des chaînes rapides.
-2.  Priorise les objectifs : si la manche impose des buts spécifiques, termine‑les avant de chercher des matches « pour le style ».
+2.  Priorise les objectifs : si la manche impose des buts spécifiques, termine‑les avant de chercher des associations « pour le style ».
 3.  Gêne ton adversaire (mode versus) : prends rapidement les tuiles convoitées pour casser ses chaînes potentielles.
 4.  Garde le plateau respirable : évite de tout bloquer au centre ; laisse de l’espace pour de futures connexions.
 5.  Garde tes bonus pour les bons moments : utilise les bonus dans les fins de course serrées ou pour débloquer un plateau figé.
@@ -52,4 +52,3 @@ Emoji With Friends mélange enchaînements rapides et petite déduction à parti
 - Q : Une manche dure combien de temps ?
   
   R : En général moins de quelques minutes, ce qui en fait un jeu parfait pour des sessions courtes.
-

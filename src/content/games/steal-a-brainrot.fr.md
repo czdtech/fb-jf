@@ -15,13 +15,13 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:introduction -->
 ### Présentation de Steal a Brainrot
 
-*Steal a Brainrot* est un jeu d’action‑infiltration multijoueur populaire sur la plateforme Roblox. Son objectif est aussi absurde que drôle : **infiltrer une zone lourdement gardée, voler un personnage‑meme (« Brainrot »), puis le ramener à ta base.**
+*Steal a Brainrot* est un jeu multijoueur d’infiltration et d’action populaire sur la plateforme Roblox. Son objectif est aussi absurde que drôle : **infiltrer une zone lourdement gardée, voler un personnage‑meme (« Brainrot »), puis le ramener à ta base.**
 
-Le jeu mélange l’esprit « capture du drapeau » / braquage avec la culture meme du moment. Au lieu de voler un trésor, tu dois kidnapper des personnages comme **Skibidi Toilet, Sigma Face, The Rizzler**, et d’autres.
+Le jeu mélange l’esprit « capture du drapeau » / braquage avec la culture meme du moment. Au lieu de voler un trésor, tu dois dérober des personnages comme **Skibidi Toilet, Sigma Face, The Rizzler**, et d’autres.
 
 La carte est généralement un espace complexe rempli d’obstacles, de pièges et de gardes en patrouille. Il faut utiliser le décor, des gadgets et le travail d’équipe pour éviter les lignes de vue, désactiver la sécurité et atteindre la cible. Une fois le « Brainrot » récupéré, la fuite est souvent plus dangereuse : on va parfois plus lentement, une alarme peut se déclencher, et tous les gardes se mettent à chercher.
 
-Le fun vient surtout du chaos multijoueur imprévisible et du contraste entre un gameplay d’infiltration « sérieux » et des memes complètement ridicules.
+Le plaisir vient surtout du chaos multijoueur imprévisible et du contraste entre des mécaniques d’infiltration « sérieuses » et des memes complètement ridicules.
 
 <!-- i18n:section:tips -->
 ### Conseils de gameplay et tactiques
@@ -30,7 +30,7 @@ Le fun vient surtout du chaos multijoueur imprévisible et du contraste entre un
 2.  **Travail d’équipe :** attribuer des rôles augmente fortement les chances de réussite.
     - **Leurre :** attire l’attention des gardes pour créer une ouverture.
     - **Soutien :** désactive les pièges, ouvre les portes et sécurise le chemin.
-    - **Runner :** le plus rapide récupère le Brainrot dès que la voie est libre.
+    - **Coureur :** le plus rapide récupère le Brainrot dès que la voie est libre.
 3.  **Bien utiliser les gadgets :** flash, invisibilité (selon la version), etc. peuvent retourner une situation s’ils sont gardés pour le bon moment.
 4.  **Reste discret :** marcher accroupi/à vitesse réduite fait souvent moins de bruit. Évite de sprinter près des gardes.
 5.  **Prévois une route de sortie différente :** au retour, tu peux être ralenti ou déclencher une alarme. Choisis un chemin plus direct ou plus couvert que l’aller.
@@ -72,4 +72,3 @@ C’est un terme d’argot Internet pour parler de contenus viraux « bas de gam
 **4. Quel est l’objectif pour gagner ?**
 
 En général, une équipe doit voler et ramener le Brainrot à sa base le plus de fois possible dans une limite de temps. D’autres modes peuvent exister, comme réussir le casse sans se faire repérer.
-

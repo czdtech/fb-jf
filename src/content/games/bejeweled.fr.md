@@ -1,12 +1,13 @@
 ---
 locale: fr
 urlstr: bejeweled
-title: "Bejeweled - Play Bejeweled Online"
+title: "Bejeweled - Jouer à Bejeweled en ligne"
 description: "Bejeweled est le match‑3 culte où tu échanges des gemmes adjacentes pour aligner des séries, déclencher des cascades et créer des gemmes spéciales explosives."
 iframeSrc: "https://files.acticdn.com/278374/30464/index.html"
 thumbnail: /new-images/thumbnails/bejeweled.png
 tags:
   - bejeweled
+  - puzzle
 score: 4.8/5  (654 votes)
 releaseDate: 2025-12-04
 ---
@@ -35,7 +36,7 @@ releaseDate: 2025-12-04
 ### Stratégies et astuces
 
 - **Cherche les gros coups :** ne te contente pas de simples alignements de trois ; essaie autant que possible de préparer des 4 ou 5 pour générer des gemmes spéciales.  
-- **Travaille depuis le bas :** faire des matches près du bas du plateau déclenche souvent des cascades plus grandes, car beaucoup de gemmes tombent et se réorganisent.  
+- **Travaille depuis le bas :** faire des alignements près du bas du plateau déclenche souvent des cascades plus grandes, car beaucoup de gemmes tombent et se réorganisent.  
 - **Garde les Hyper Cubes pour les bons moments :** ne les gaspille pas dès que tu en obtiens un. Attends qu’une couleur domine le plateau ou combine‑les avec une gemme spéciale pour un effet massif (selon la version).  
 - **En mode classique, prends ton temps :** observe tout le plateau avant de jouer et utilise le bouton d’indice seulement si tu es vraiment bloqué.
 
@@ -50,4 +51,3 @@ releaseDate: 2025-12-04
 
 **Q : Différence entre Bejeweled Classic et Bejeweled Blitz ?**  
 **R :** Classic est un jeu posé et stratégique sans limite de temps. Blitz est un mode ultra rapide de 60 secondes orienté score et classement entre amis.
-

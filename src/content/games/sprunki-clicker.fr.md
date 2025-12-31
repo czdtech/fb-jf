@@ -3,7 +3,7 @@ locale: fr
 urlstr: sprunki-clicker
 title: 'Sprunki Clicker - Jouer à Sprunki Clicker en ligne'
 description: >-
-  Sprunki Clicker est un jeu idle/clicker musical où chaque clic fait évoluer
+  Sprunki Clicker est un jeu idle / clicker musical où chaque clic fait évoluer
   ton univers sonore. Accumule de l’énergie, débloque de nouveaux personnages
   et fais grandir ton arbre d’harmonie au rythme de tes mélodies.
 iframeSrc: 'https://1games.io/game/sprunki-clicker/'
@@ -34,7 +34,7 @@ motif en véritable symphonie.
   des notes qui alimentent ton monde musical.
 - **Débloque des personnages et esprits sonores :** utilise tes gains pour
   ajouter de nouveaux avatars, chacun apportant un style musical différent.
-- **Améliore ton setup :** investis dans des améliorations qui automatisent
+- **Améliore ton équipement :** investis dans des améliorations qui automatisent
   une partie des clics ou amplifient les gains.
 - **Fais évoluer l’Arbre d’Harmonie :** plus tu progresses, plus ton arbre et
   ton environnement se développent visuellement et musicalement.
@@ -54,5 +54,4 @@ motif en véritable symphonie.
 
 Sprunki Clicker, c’est plus qu’un simple clicker : c’est un petit laboratoire
 musical où tu fais naître ta propre ambiance sonore, à ton rythme.
-
 

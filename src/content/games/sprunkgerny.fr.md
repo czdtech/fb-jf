@@ -1,7 +1,7 @@
 ---
 locale: fr
 urlstr: sprunkgerny
-title: 'Sprunkgerny - Play Sprunkgerny Online'
+title: 'Sprunkgerny - Jouer à Sprunkgerny en ligne'
 description: >-
   Si tu cherches une expérience musicale vraiment unique, Sprunkgerny est
   immanquable ! Le jeu brise les codes des jeux de rythme classiques, t’invite
@@ -31,7 +31,7 @@ personnages complètement absurdes.
 
 En gros, Sprunkgerny est le cousin déjanté de Sprunki. Il laisse tomber le
 polissage et le sérieux d’Incredibox pour embrasser l’expérimentation, la
-créativité pure et le nonsense assumé. Ici, l’harmonie n’est plus reine :
+créativité pure et le non-sens assumé. Ici, l’harmonie n’est plus reine :
 ce sont le chaos et l’humour qui dominent.
 
 ### Qu’est‑ce qui rend Sprunkgerny différent ?
@@ -46,9 +46,9 @@ ce sont le chaos et l’humour qui dominent.
 - **Effets visuels interactifs :** au fil de ta composition, les décors se
   déforment, les paysages deviennent abstraits et tout se cale sur ton
   rythme.  
-- **Easter eggs et mini‑histoires :** teste différentes combinaisons de
-  sons pour débloquer des scènes cachées et petites histoires. Chaque note
-  peut cacher un secret.
+- **Clins d’œil et mini‑histoires :** teste différentes combinaisons de sons
+  pour débloquer des scènes cachées et de petites histoires. Chaque note peut
+  cacher un secret.
 
 ---
 
@@ -64,4 +64,3 @@ Sprunkgerny, c’est comme un laboratoire musical décalé : on t’encourage �
 briser les règles, tout essayer, embrasser le chaos et créer des morceaux
 vraiment uniques. Prêt pour ce grand huit audio‑visuel ? Plonge dans le
 monde de Sprunkgerny et laisse ton rythme partir en vrille !
-

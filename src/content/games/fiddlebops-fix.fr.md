@@ -1,7 +1,7 @@
 ---
 locale: fr
 urlstr: fiddlebops-fix
-title: "Fiddlebops Fix - Play Fiddlebops Fix Online"
+title: "Fiddlebops Fix - Jouer à Fiddlebops Fix en ligne"
 description: "Fiddlebops Fix est un jeu musical créatif où tu composes des morceaux, explores des histoires interactives et échanges avec une communauté vibrante – le tout gratuitement en ligne."
 iframeSrc: 'https://turbowarp.org/1131610529/embed'
 thumbnail: /new-images/thumbnails/fiddlebops-fix.png
@@ -18,7 +18,7 @@ Fiddlebops Fix n’est pas un simple jeu de plus dans la liste : c’est un jeu 
 
 ### Comment plonger dans l’univers de Fiddlebops Fix ?
 
-- **Rassemble ton crew musical :** parcoure la galerie de personnages Fiddlebops Fix et choisis ceux qui poseront les bases de ton morceau. Leurs sons et rythmes colorés sont ce qui fait briller cette phase du mod.
+- **Rassemble ton équipe musicale :** parcoure la galerie de personnages Fiddlebops Fix et choisis ceux qui poseront les bases de ton morceau. Leurs sons et rythmes colorés sont ce qui fait briller cette phase du mod.
 - **Compose ton chef‑d’œuvre :** profite du système de glisser‑déposer pour créer des pistes qui te ressemblent. Combine de nouveaux sons uniques avec des classiques incontournables.
 - **Écoute ton son évoluer :** ce monde créatif est vivant ; grâce aux retours et à la collaboration de la communauté, tu peux constamment améliorer tes compositions.
 - **Deviens conteur :** tes choix modifient les personnages et façonnent des histoires interactives ; chaque parcours devient un récit musical unique.
@@ -27,10 +27,9 @@ Fiddlebops Fix n’est pas un simple jeu de plus dans la liste : c’est un jeu 
 
 - **Des personnages originaux t’attendent :** tu ne trouveras ces personnages Fiddlebops Fix nulle part ailleurs. Explore toutes les options et teste tous les sons qu’ils ont à offrir.
 - **Liberté totale pour ton cœur créatif :** sans limite de combinaisons, tu crées une musique authentique, fidèle à ta vision.
-- **Écris l’histoire :** grâce aux scénarios guidés par tes choix, tu forges la « lore » de ces sons uniques. Chaque histoire est un petit univers à découvrir.
+- **Écris l’histoire :** grâce aux scénarios guidés par tes choix, tu construis l’univers de ces sons uniques. Chaque histoire est un petit univers à découvrir.
 - **Rejoins la meilleure équipe en ville :** partage des astuces, montre ton talent musical, collabore avec d’autres et célèbre la créativité de chacun.
 
 Avec Fiddlebops Fix, c’est le moment idéal pour tenter ta chance et devenir un véritable maître de la musique, dans un univers qui a quelque chose à offrir à tout le monde. Si tu cherchais ce genre de voyage créatif, je te recommande vraiment d’essayer : c’est un monde chaleureux et foisonnant d’idées où chaque joueur peut plonger.
 
 Il est temps de monter sur scène et d’enflammer le monde… à la façon Fiddlebops Fix !
-
