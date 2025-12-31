@@ -30,6 +30,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `mouse` `Click` `left` `button`
 
 *   **瞄准发射：** 拖动或移动鼠标调整发射方向，点击或轻触屏幕即可射出当前泡泡。
 *   **切换泡泡（如有）：** 某些版本允许暂存一个备用泡泡，可通过点击交换来应对不合适的颜色。
@@ -45,4 +47,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:smarty-bubbles-2:q-how-do-i-get-73fd7840 -->
 *   **问：和初代《Smarty Bubbles》相比有什么不同？****
     *   答：** 《Smarty Bubbles 2》通常在美术、动画和关卡节奏上更精致，部分版本还会增加特殊泡泡或新的挑战规则。
+
 

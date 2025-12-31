@@ -45,6 +45,8 @@ Slime.io ist ein 3D-Arcadespiel aus der beliebten .io-Reihe. Du startest als
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `Click` `hold` `left` `button` `drag`
 
 Die Steuerung erfolgt per einfacher Ziehbewegung.
 
@@ -67,4 +69,5 @@ Die Steuerung erfolgt per einfacher Ziehbewegung.
 *   **F: Wie gewinne ich eine Runde?**
     *   **A:** Indem du am Ende der Zeit den höchsten Punktestand hast – also
         mehr Objekte und Spieler verschlungen hast als deine Konkurrenz.
+
 

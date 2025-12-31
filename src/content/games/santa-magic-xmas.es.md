@@ -53,6 +53,8 @@ regalos lleguen a su destino.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `drag`
 
 El juego utiliza un sistema sencillo de intercambio de piezas.
 
@@ -77,4 +79,5 @@ El juego utiliza un sistema sencillo de intercambio de piezas.
 *   **P: ¿Qué ocurre si me quedo sin movimientos?**
     *   **R:** Si no logras cumplir el objetivo del nivel antes de agotar los
         movimientos, tendrás que reiniciar la partida de ese nivel.
+
 

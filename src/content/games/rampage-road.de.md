@@ -43,6 +43,8 @@ Rampage Road kombiniert Top-Down-Fahren mit Arcade-Shooter-Action. Du lenkst
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `Space`
 
 - **Lenken:** Mit A/D oder Links/Rechts steuerst du das Auto seitlich.
 - **Gas/Bremse:** W/S oder Pfeil hoch/runter für Beschleunigen und Abbremsen.
@@ -69,4 +71,5 @@ Rampage Road kombiniert Top-Down-Fahren mit Arcade-Shooter-Action. Du lenkst
   
   Spätere Wellen können starke Gegnerfahrzeuge bringen. Heb dir dafür
   Boosts und starke Waffen auf und halte Abstand, um ihren Angriffen auszuweichen.
+
 

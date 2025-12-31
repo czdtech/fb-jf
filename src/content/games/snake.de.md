@@ -37,7 +37,7 @@ Die Mechanik ist simpel: Lenke die Schlange zum Futter, ohne dich selbst
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `W` `A` `S` `D` `Spacebar`
+- Tasten (Abgleich)： `Arrow Keys` `arrow keys` `WASD` `W` `A` `S` `D` `Spacebar`
 
 Die Steuerung ist einfach und intuitiv:
 - **Pfeiltasten:** Steuere die Schlange mit Oben, Unten, Links, Rechts.
@@ -63,4 +63,5 @@ Viele Spieler fahren lange Schleifen entlang des Randes oder nutzen ein
 
 Die Idee geht bis auf das Arcade-Spiel „Blockade“ von 1976 zurück, weltberühmt
  wurde Snake aber vor allem durch die Nokia-Handys ab 1998.
+
 

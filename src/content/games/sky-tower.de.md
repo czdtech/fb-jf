@@ -47,6 +47,8 @@ Sky Tower fordert dich heraus, Stockwerke präzise aufeinander zu stapeln. Ein
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `Click` `drop`
 
 - **Stockwerk abwerfen:** Tippe oder klicke, um das aktuelle Stockwerk fallen
   zu lassen.
@@ -73,4 +75,5 @@ Sky Tower fordert dich heraus, Stockwerke präzise aufeinander zu stapeln. Ein
   
   Nein, wichtig ist Präzision. Wer konstant gut zentriert, baut automatisch
   einen hohen Turm.
+
 

@@ -43,6 +43,8 @@ complicadas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `tap`
 
 - Arrastra o toca los objetos para enviarlos a los contenedores; pausa y reinicia
   desde la interfaz; algunas versiones ofrecen pistas resaltando el destino
@@ -69,4 +71,5 @@ complicadas.
   
   **R:** Sí, las rachas aumentan la puntuación. Aliméntalas priorizando objetos
   sencillos cuando necesites subir el multiplicador.
+
 

@@ -42,6 +42,8 @@ castigan tanto los toques adelantados como los retrasados.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `press` `WASD`
 
 - Pulsa cuando los avisos alcancen los marcadores. En modos multicarriI se suele
   usar flechas o WASD (según la versión). Pausa y reinicio desde la interfaz.
@@ -66,4 +68,5 @@ castigan tanto los toques adelantados como los retrasados.
   
   **R:** Un framerate estable ayuda mucho; cierra aplicaciones de fondo si notas
   inconsistencias en la sincronización.
+
 

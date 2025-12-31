@@ -33,6 +33,8 @@ Solitaire 0-21 kombiniert das Layout eines Solitaire-Spiels mit strengen Zahlenl
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `drag`
 
 - Klicke oder ziehe Karten auf die gewünschte Reihe und nutze bei Bedarf die Undo- oder Hinweis-Funktionen im Interface.
 
@@ -53,4 +55,5 @@ Solitaire 0-21 kombiniert das Layout eines Solitaire-Spiels mit strengen Zahlenl
 - **F: Ist das Spiel hauptsächlich glücksabhängig?**
   
   **A:** Die Ziehung der Karten enthält Zufall, aber deine Platzierungsstrategie hat großen Einfluss darauf, wie oft du ein Level schaffst.
+
 

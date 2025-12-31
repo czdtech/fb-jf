@@ -31,7 +31,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### 操作说明
 <!-- i18n:controls:keys -->
-- 按键（对齐）： `WASD` `Arrow Keys` `Shift` `Spacebar` `Right Mouse Button`
+- 按键（对齐）： `WASD` `Arrow Keys` `Press` `Shift` `Spacebar` `Right` `Button`
 
 - **移动：** 使用 WASD 或方向键控制车辆在场地上的前进、后退和转向；
 - **加速 / 冲刺：** 按 Shift 或空格键获得短暂的爆发速度，用于抢点或极限补防；
@@ -48,4 +48,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 **问：它和普通足球有什么不同？****
 答：** 在《SocCar》中你操控的是车而不是人，可以利用高速冲撞、喷射加速和跳跃等动作与足球互动，形成传统足球里无法出现的夸张射门和空中对抗，让比赛节奏更爆炸、更娱乐化。
+
 

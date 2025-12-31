@@ -38,7 +38,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### 조작 방법
 <!-- i18n:controls:keys -->
-- 키(정렬)： `WASD`
+- 키(정렬)： `Mouse` `mouse` `WASD` `arrow keys` `Hold` `left` `button` `spacebar` `drag`
 
 **PC/웹 브라우저:**
 - **마우스:** 커서 방향으로 뱀이 따라 움직입니다.
@@ -61,4 +61,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 **Q: 친구와 함께 할 수 있나요?**  
 > 같은 서버에 접속해 누가 더 높은 점수와 긴 몸 길이를 기록하는지 겨룰 수 있습니다.
+
 

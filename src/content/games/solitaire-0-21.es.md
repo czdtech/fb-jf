@@ -44,6 +44,8 @@ seguras y reservar espacio para picos de valor.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `drag`
 
 - Haz clic o arrastra para colocar cartas; usa los botones de deshacer y pistas
   según aparezcan en la interfaz.
@@ -68,4 +70,5 @@ seguras y reservar espacio para picos de valor.
   
   **R:** El azar influye en el orden de las cartas, pero la estrategia de
   colocación marca una gran diferencia en los resultados.
+
 

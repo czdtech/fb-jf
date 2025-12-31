@@ -43,6 +43,8 @@ imprecisión hace que los pisos se encojan y la partida termine pronto.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `Click` `drop`
 
 - **Soltar piso:** Toca o haz clic para dejar caer la plataforma.
 - **Pausa/Repetir:** Usa los botones de la interfaz.
@@ -68,4 +70,5 @@ imprecisión hace que los pisos se encojan y la partida termine pronto.
   
   **R:** No tanto como ser preciso. La altura viene de muchos pisos bien
   centrados, no de ir a toda prisa.
+
 

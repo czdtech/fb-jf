@@ -37,6 +37,8 @@ cabeza de una serpiente, desciendes hasta la casilla de su cola.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `Click` `tap`
 
 - **Ratón/Táctil:** Haz clic o toca en la zona indicada para lanzar el dado. El
   juego moverá tu ficha automáticamente.
@@ -64,3 +66,4 @@ En muchas variantes, sacar un seis te concede un turno extra.
 Depende de la versión. En las reglas tradicionales, debes sacar el número justo
 para caer en la casilla final. Si te pasas, normalmente "rebotas" hacia atrás el
 exceso de casillas.
+

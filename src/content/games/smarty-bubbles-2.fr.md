@@ -29,6 +29,8 @@ Smarty Bubbles 2 prolonge le plaisir du classique bubble shooter avec un habilla
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `left` `button`
 
 *   **Viser :** déplace la souris pour orienter le canon ; une ligne guide la trajectoire.
 *   **Tirer :** clique avec le bouton gauche pour lancer la bulle.
@@ -47,4 +49,5 @@ Smarty Bubbles 2 prolonge le plaisir du classique bubble shooter avec un habilla
 <!-- i18n:faq:id=faq:smarty-bubbles-2:q-how-do-i-get-73fd7840 -->
 *   **Q : Comment obtenir un score élevé ?**
     *   **R :** Termine les niveaux efficacement et provoque la chute de gros amas de bulles en un seul tir. Plus tu fais tomber de bulles d'un coup, plus ton score grimpe.
+
 

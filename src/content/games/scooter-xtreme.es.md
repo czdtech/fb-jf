@@ -48,6 +48,8 @@ rey del skatepark.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Press` `Press` `Press` `Spacebar`
 
 *   **Acelerar:** Tecla **W** o **Flecha arriba**.
 *   **Girar:** Teclas **A/D** o **Flechas izquierda/derecha**.
@@ -73,4 +75,5 @@ rey del skatepark.
 *   **P: ¿Cómo desbloqueo nuevos patinetes y personajes?**
     *   **R:** Reúne las monedas repartidas por los niveles y luego entra en la
         tienda del juego para comprar nuevo equipo y riders.
+
 

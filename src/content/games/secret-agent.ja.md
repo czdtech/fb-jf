@@ -31,6 +31,8 @@ Secret Agentは、敵の基地に侵入し、検出を避け、ミッション�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD`
 
 - WASD/矢印：移動します。
 - スペース/特定のキー：アクション（隠れる、テイクダウン）。
@@ -48,4 +50,5 @@ Secret Agentは、敵の基地に侵入し、検出を避け、ミッション�
 <!-- i18n:faq:id=faq:secret-agent:can-i-ghost-levels-337f3b17 -->
 - **Q: どれくらいのミッションがありますか？**  
   A: バージョンによって異なります。多くは数十。
+
 

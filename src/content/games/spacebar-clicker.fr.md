@@ -41,7 +41,7 @@ maximiser tes points par seconde.
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `Spacebar` `Mouse Click`
+- Touches (alignement)： `Spacebar` `Press` `Mouse Click` `mouse`
 
 - **Action principale :** Espace – chaque pression génère des points.  
 - **Améliorations :** clic souris – achète des upgrades dans les menus.
@@ -63,4 +63,5 @@ améliorations.
 Au début, mise beaucoup sur le clic manuel pour acheter rapidement tes
 premières améliorations. Donne ensuite la priorité aux revenus passifs
 avant de passer aux upgrades chères qui multiplient massivement tes gains.
+
 

@@ -33,6 +33,8 @@ Space Survivorは、「Vampire Survivors」系のローグライクサバイバ�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD` `Arrow Keys` `click` `drag` `mouse`
 
 ゲームはシンプルな移動操作を使用します。
 
@@ -53,4 +55,5 @@ Space Survivorは、「Vampire Survivors」系のローグライクサバイバ�
 <!-- i18n:faq:id=faq:space-survivor:q-what-is-the-goal-ab58581b -->
 *   **Q: ゲームの目標は何ですか？**
     *   **A:** 特定の時間（例：15分または30分）生き延びるか、エンドレスモードでは、無限の敵の波に対してできるだけ長く生き延びることです。
+
 

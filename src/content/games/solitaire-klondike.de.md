@@ -30,6 +30,8 @@ Dein Hauptziel ist es, vier vollständige Ablagestapel aufzubauen, beginnend mit
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `Click` `drag` `click`
 
 - **Maus/Touch:** Klicke und ziehe Karten, um sie zwischen den Stapeln zu bewegen. In vielen Versionen kannst du eine Karte auch einfach anklicken, damit sie automatisch auf eine passende Position gezogen wird, falls ein gültiger Zug existiert.
 
@@ -47,3 +49,4 @@ Der Name soll auf den Klondike-Goldrausch in Kanada zurückgehen – vermutlich,
 **Ist jede Runde Klondike-Solitaire gewinnbar?**
 
 Nein. Durch die zufällige Verteilung der Karten sind manche Partien mathematisch nicht lösbar. Genau diese Unsicherheit macht einen Teil der Herausforderung aus.
+

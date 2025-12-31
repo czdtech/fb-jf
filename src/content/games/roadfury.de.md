@@ -46,6 +46,8 @@ Road Fury ist ein rasanter Top-Down-Vertical-Shooter, in dem du ein schwer
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `Click` `hold` `left` `button` `drag`
 
 Die Steuerung erfolgt per einfacher Ziehbewegung.
 
@@ -70,4 +72,5 @@ Die Steuerung erfolgt per einfacher Ziehbewegung.
     *   **A:** Zu Beginn lohnt es sich, den Schaden deiner Hauptwaffe zu
         erhöhen, damit du Gegner schneller zerstörst und mehr Münzen bekommst.
         Danach ist zusätzliche Panzerung entscheidend, um länger durchzuhalten.
+
 

@@ -48,6 +48,8 @@ quien tenga más fichas de su color en el tablero.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `tap`
 
 - **Colocar ficha:** Haz clic o toca una casilla legal (la mayoría de versiones
   marcan los movimientos válidos). Una jugada legal debe voltear al menos una
@@ -84,4 +86,5 @@ quien tenga más fichas de su color en el tablero.
   **R:** No te obsesiones con voltear muchas fichas al principio. Protege tus
   opciones de movimiento y evita las casillas X hasta que puedas asegurar las
   esquinas.
+
 

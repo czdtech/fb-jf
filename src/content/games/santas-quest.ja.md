@@ -30,6 +30,8 @@ Santas Questは、サンタがプレゼントを収集し、敵を避けて各�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Arrow keys` `WASD` `swipe`
 
 - 矢印キー/WASD：移動、ジャンプします。
 - プレゼントを収集します。
@@ -47,4 +49,5 @@ Santas Questは、サンタがプレゼントを収集し、敵を避けて各�
 <!-- i18n:faq:id=faq:santas-quest:do-i-need-all-stars-c6a73dae -->
 - **Q: すべてのプレゼントを収集する必要がありますか？**  
   A: いいえ、しかしそれらはより良いスコアを与えます。
+
 

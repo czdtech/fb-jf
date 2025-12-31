@@ -38,6 +38,8 @@ sur une case avec une tête de serpent, tu dois redescendre jusqu’à sa queue.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `Click` `tap`
 
 - **Souris / Tactile :** clique ou touche la zone prévue pour lancer le
   dé. Le jeu déplace ton pion automatiquement.
@@ -61,4 +63,5 @@ Dans beaucoup de variantes, un six te donne un tour supplémentaire.
 Cela dépend des règles de la version jouée. Dans les règles classiques, il
 faut généralement tomber exactement sur la case finale. Si ton jet dépasse,
 tu rebondis en arrière du nombre de cases excédentaires.
+
 

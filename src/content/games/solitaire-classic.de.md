@@ -40,6 +40,8 @@ Solitaire Classic, auch als Klondike bekannt, ist eines der bekanntesten und bel
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `drag` `Click` `click`
 
 - **Karten bewegen:** Klicke und ziehe eine einzelne Karte oder eine gültige Sequenz von einem Stapel zum anderen.
 - **Vom Stock ziehen:** Klicke auf den verdeckten Nachziehstapel, um eine (oder je nach Variante drei) Karte(n) aufzudecken, die auf den Waste-Stapel gelegt werden.
@@ -59,4 +61,5 @@ Solitaire Classic, auch als Klondike bekannt, ist eines der bekanntesten und bel
 <!-- i18n:faq:id=faq:solitaire-classic:q-can-i-move-cards-a79d9fc6 -->
 *   **F: Kann ich Karten von den Ablagestapeln zurück auf das Tableau legen?**
     *   **A:** Ja, in den meisten Versionen kannst du die oberste Karte eines Ablagestapels zurück auf das Tableau legen, wenn dir das hilft, verdeckte Karten freizulegen. Das ist oft ein wichtiger strategischer Kniff.
+
 

@@ -46,6 +46,8 @@ tiempo.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `Click` `hold` `left` `button` `drag`
 
 El juego se maneja con un sencillo control de arrastre.
 
@@ -70,4 +72,5 @@ El juego se maneja con un sencillo control de arrastre.
 *   **P: ¿Cómo se gana la partida?**
     *   **R:** El jugador con mayor puntuación al final del tiempo es el ganador.
         Tu puntuación depende de cuántos objetos y jugadores hayas absorbido.
+
 

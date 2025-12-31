@@ -38,6 +38,8 @@ Ziel ist es, als Erster das Zielfeld – meist Feld 100 – zu erreichen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `Click` `tap`
 
 - **Maus/Touch:** Tippe oder klicke auf das Würfelfeld, um zu würfeln. Die
   Spielfiguren bewegen sich automatisch.
@@ -65,3 +67,4 @@ In vielen Varianten bekommst du bei einer gewürfelten Sechs einen Bonuszug und
 Das hängt von der Hausregel ab. Klassisch musst du genau auf das Zielfeld
  kommen; überzählige Augen lassen dich zurück „prallen“ oder du bleibst stehen,
  bis ein passender Wurf kommt – das könnt ihr vor der Partie festlegen.
+

@@ -38,7 +38,7 @@ collision fatale.
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `W` `A` `S` `D` `Spacebar`
+- Touches (alignement)： `Arrow Keys` `arrow keys` `WASD` `W` `A` `S` `D` `Spacebar`
 
 Les commandes sont généralement très simples :  
 - **Flèches directionnelles :** Haut, Bas, Gauche, Droite pour orienter le
@@ -64,4 +64,5 @@ de prévoir tes déplacements à l’avance.
 **D’où vient Snake ?**  
 Le concept vient du jeu d’arcade « Blockade » de 1976, mais il a explosé en
 popularité lorsqu’il a été intégré aux téléphones Nokia à partir de 1998.
+
 

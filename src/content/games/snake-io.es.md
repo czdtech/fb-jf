@@ -41,7 +41,7 @@ serpiente o con los límites de la arena.
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `WASD`
+- Teclas (alineación)： `Mouse` `mouse` `WASD` `arrow keys` `Hold` `left` `button` `spacebar` `drag`
 
 **PC/Navegador:**
 - **Ratón:** Tu serpiente sigue la dirección del cursor.
@@ -71,4 +71,5 @@ para la serpiente y mundos temáticos distintos.
 
 Puedes competir con tus amigos para ver quién consigue la puntuación más alta y
 se convierte en la serpiente más grande de la sala.
+
 

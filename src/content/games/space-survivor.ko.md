@@ -48,6 +48,8 @@ Space Survivor는 "Vampire Survivors" 스타일의 로그라이크 생존 액션
 
 <!-- i18n:section:controls -->
 ### 조작 방법 안내
+<!-- i18n:controls:keys -->
+- 키(정렬)： `WASD` `Arrow Keys` `click` `drag` `mouse`
 
 이 게임은 매우 단순한 이동 조작만 사용합니다.
 
@@ -76,4 +78,5 @@ Space Survivor는 "Vampire Survivors" 스타일의 로그라이크 생존 액션
     *   **A:** 모드에 따라 15분 또는 30분처럼 정해진 시간 동안 살아남는 것,
         혹은 엔드리스 모드에서 가능한 한 오래 버티는 것이 목표입니다.
         끝없이 강해지는 적들을 상대로 자신만의 최강 빌드를 만들어 보세요.
+
 

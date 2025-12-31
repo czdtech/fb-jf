@@ -45,6 +45,8 @@ enemigos y disparos.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `Space`
 
 - **Conducir:** A/D o Flechas Izquierda/Derecha para cambiar de carril; W/S o
   Flechas Arriba/Abajo para acelerar o frenar, según la versión.
@@ -72,3 +74,4 @@ enemigos y disparos.
   
   **R:** Algunas fases introducen oleadas más duras o jefes. Asegúrate de llegar
   a ellas con vida suficiente y con tus turbos listos.
+

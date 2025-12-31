@@ -28,6 +28,8 @@ Slime.io est un jeu d'arcade 3D chaotique et extrêmement satisfaisant du genre 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `Click` `hold` `left` `button` `drag`
 
 Le jeu se joue avec un simple système de glisser.
 
@@ -47,4 +49,5 @@ Le jeu se joue avec un simple système de glisser.
 <!-- i18n:faq:id=faq:slime-io:q-how-do-i-win-82c5f7c2 -->
 *   **Q : Comment gagner une partie ?**
     *   **R :** Le joueur qui a le plus de points à la fin du temps imparti remporte la manche. Ton score dépend du nombre et de la taille des objets (et joueurs) que tu as avalés.
+
 

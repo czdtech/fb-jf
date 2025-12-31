@@ -38,7 +38,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### 조작 가이드
 <!-- i18n:controls:keys -->
-- 키(정렬)： `WASD` `Arrow Keys` `Shift` `Spacebar` `Right Mouse Button`
+- 키(정렬)： `WASD` `Arrow Keys` `Press` `Shift` `Spacebar` `Right` `Button`
 
 - **이동**: WASD 또는 방향키로 차량을 움직입니다.  
 - **부스트/대시**: Shift 또는 스페이스바로 순간 가속을 사용해
@@ -62,4 +62,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 **A:** 사람 대신 자동차를 조종하기 때문에, 부스트로 순간 가속을
 하거나 점프로 공중 볼을 노리는 등 현실 축구에서는 불가능한
 다이내믹한 장면을 연출할 수 있습니다.
+
 

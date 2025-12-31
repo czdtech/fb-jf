@@ -30,6 +30,8 @@ Sky Towerは、ブロックをできるだけ高く積み重ねることに挑�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Tap` `Click` `drop`
 
 - クリック/タップしてブロックをドロップします。
 - タワーにブロックを積み重ねます。
@@ -47,4 +49,5 @@ Sky Towerは、ブロックをできるだけ高く積み重ねることに挑�
 <!-- i18n:faq:id=faq:sky-tower:is-speed-important-fcd4f607 -->
 - **Q: パワーアップはありますか？**  
   A: 一部のバージョンには特別なブロックがあります。
+
 

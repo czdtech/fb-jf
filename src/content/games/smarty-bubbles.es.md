@@ -45,6 +45,8 @@ los tiros fallidos harán que el techo descienda poco a poco.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `left` `button`
 
 *   **Apuntar:** Mueve el ratón para orientar el cañón. Una línea guía indica la
     trayectoria del disparo.
@@ -70,3 +72,4 @@ los tiros fallidos harán que el techo descienda poco a poco.
     *   **R:** Provocando grandes reacciones en cadena. Si rompes las burbujas
         que sujetan a otras muchas, harás que caigan todas juntas y obtendrás
         una gran bonificación.
+

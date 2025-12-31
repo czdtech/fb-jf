@@ -40,6 +40,8 @@ fusions qui libèrent de la place au lieu de bloquer les colonnes.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click`
 
 - Clique sur une colonne pour y poser la carte en cours ; utilise les
   fonctions d’annulation / indices si l’interface le permet.
@@ -60,4 +62,5 @@ fusions qui libèrent de la place au lieu de bloquer les colonnes.
 - **Puis‑je me remettre d’une mauvaise pile ?**  
   Oui : commence par aplatir les colonnes les plus hautes puis reconstruis
   des paires avant de relancer des fusions.
+
 

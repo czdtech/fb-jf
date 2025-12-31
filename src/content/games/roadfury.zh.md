@@ -32,6 +32,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `drag` `Click` `hold` `left` `button` `drag`
 
 游戏采用非常直观的拖拽操控方式。
 
@@ -49,4 +51,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:roadfury:q-what-is-the-best-3ed21c46 -->
 *   **问：一开始应该优先升级什么？****
     *   答：** 前期推荐将主武器伤害点高一点，这能让你更快清掉前方车辆并获得更多金币。其后再补强装甲，提高被打中几次后仍然不爆的容错空间。
+
 

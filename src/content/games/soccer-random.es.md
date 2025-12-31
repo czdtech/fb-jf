@@ -41,7 +41,7 @@ bien los saltos y así atacar la pelota y, al mismo tiempo, defender tu porterí
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `W` `Up Arrow`
+- Teclas (alineación)： `W` `Up Arrow` `Press`
 
 El juego está pensado para ser muy sencillo y jugarse entre uno o dos jugadores
 en el mismo teclado.
@@ -68,4 +68,5 @@ teclado.
 Esa es la esencia de Soccer Random. La aleatoriedad del campo, los jugadores y
 el balón tras cada gol hace que ninguna partida se parezca a otra y mantiene la
 acción fresca y muy divertida.
+
 

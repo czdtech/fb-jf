@@ -44,6 +44,8 @@ Retro Drift ist ein minimalistisches Rennspiel aus der Vogelperspektive mit
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Space`
 
 - **Lenken:** A/D oder Pfeil links/rechts.
 - **Gas/Bremse:** W/S oder Pfeil hoch/runter.
@@ -71,4 +73,5 @@ Retro Drift ist ein minimalistisches Rennspiel aus der Vogelperspektive mit
   
   Manche Versionen bieten neue Fahrzeuge oder leichte Upgrades – der wichtigste
   „Boost“ bleibt aber deine fahrerische Konstanz.
+
 

@@ -42,6 +42,8 @@ fiestas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Arrow keys` `WASD` `swipe`
 
 - **Moverse:** Flechas de dirección, WASD o deslizamiento en pantalla táctil.
 - **Interactuar:** Normalmente se activa automáticamente al pisar una casilla o
@@ -68,4 +70,5 @@ fiestas.
 - **P: ¿Es obligatorio conseguir todas las estrellas?**
   
   **R:** No, suelen ser opcionales y sirven para completar el juego al 100 %.
+
 

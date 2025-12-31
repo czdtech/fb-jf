@@ -30,6 +30,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `drag` `drop` `Click` `drag` `space`
 
 游戏采用简单直观的拖拽/滑动操作。
 
@@ -46,3 +48,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:roll-this-ball-3:q-ive-made-a-path-3f11df42 -->
 *   **问：明明已经有路了，小球却没有滚动？****
     *   答：** 很可能在某处存在细小的断点或方向错误，例如轨道开口没有完全对上。建议从起点到终点仔细检查每一块的朝向，确认整条线路真正首尾相连。
+

@@ -35,6 +35,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `drag`
 
 游戏使用简单的交换机制进行操作。
 
@@ -54,4 +56,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:santa-magic-xmas:q-what-happens-if-i-63c9772b -->
 *   **问：如果步数用完会怎样？**
     *   **答：** 如果你在步数限制内没有完成关卡目标，你将需要重新开始该关卡。
+
 

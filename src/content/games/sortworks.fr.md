@@ -40,6 +40,8 @@ catégories plus vicieuses.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `tap`
 
 - Fais glisser ou tape sur les objets pour les envoyer dans les bacs ;
   pause / relance via l’UI ; les indices peuvent parfois surligner la
@@ -61,4 +63,5 @@ catégories plus vicieuses.
 <!-- i18n:faq:id=faq:sortworks:do-streaks-matter-a57f4782 -->
 - **Les séries (streaks) sont‑elles importantes ?**  
   Oui, elles augmentent le score ; nourris‑les avec les objets faciles.
+
 

@@ -38,7 +38,7 @@ posible comiendo tanta comida como puedas antes de colisionar.
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `W` `A` `S` `D` `Spacebar`
+- Teclas (alineación)： `Arrow Keys` `arrow keys` `WASD` `W` `A` `S` `D` `Spacebar`
 
 Los controles suelen ser muy simples:
 - **Flechas:** Usa las flechas arriba, abajo, izquierda y derecha para dirigir la
@@ -65,4 +65,5 @@ adelantado.
 
 El concepto nació con el arcade "Blockade" de 1976, pero se hizo mundialmente
 famoso al incluirse en los móviles Nokia a finales de los 90.
+
 

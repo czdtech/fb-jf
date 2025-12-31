@@ -46,6 +46,8 @@ habilidades y consolidar tu título de rey del snowboard.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Arrow keys` `Press` `Spacebar`
 
 *   **Girar:** Teclas **A/D** o **Flechas izquierda/derecha**.
 *   **Boost:** Barra espaciadora para activar un impulso temporal de velocidad.
@@ -67,4 +69,5 @@ habilidades y consolidar tu título de rey del snowboard.
     *   **R:** Tu puntuación depende de la distancia recorrida. Cuanto más lejos
         llegues, mejor. Mejorar tus habilidades es la forma más efectiva de
         aumentar tu potencial de distancia.
+
 

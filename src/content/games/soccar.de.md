@@ -26,7 +26,7 @@ Dein Ziel ist es, innerhalb des Zeitlimits mehr Tore zu erzielen als dein Gegner
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `WASD` `Arrow Keys` `Shift` `Spacebar` `Right Mouse Button`
+- Tasten (Abgleich)： `WASD` `Arrow Keys` `Press` `Shift` `Spacebar` `Right` `Button`
 
 - **Bewegung:** Steuere dein Auto mit WASD oder den Pfeiltasten über das Feld.
 - **Boost/Dash:** Drücke Shift oder die Leertaste, um einen Geschwindigkeitsschub zu bekommen – ideal, um zuerst am Ball zu sein oder eine Rettungsaktion vor dem Tor zu machen.
@@ -46,4 +46,5 @@ Teamwork und Positionierung sind entscheidend. Lass nicht alle Spieler gleichzei
 **Worin unterscheidet sich SocCar von normalem Fußball?**
 
 In SocCar steuerst du ein Auto statt eines Spielers. Dadurch kannst du mit hoher Geschwindigkeit, Boosts und Sprüngen mit dem Ball interagieren – das sorgt für spektakuläre Aktionen, die im echten Fußball unmöglich wären.
+
 

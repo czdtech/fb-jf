@@ -57,6 +57,8 @@ construir tus fundaciones.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `drag` `Click` `click`
 
 *   **Mover cartas:** Haz clic y arrastra una carta (o una secuencia válida) de
     una pila a otra.
@@ -85,4 +87,5 @@ construir tus fundaciones.
     *   **R:** En la mayoría de versiones sí. Puedes devolver la carta superior
         de una fundación al tableau si eso te ayuda a desbloquear otras cartas.
         A menudo es una jugada clave para ganar partidas complicadas.
+
 

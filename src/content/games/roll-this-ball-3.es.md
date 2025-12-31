@@ -48,6 +48,8 @@ sorprendentemente profundos.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `Click` `drag` `space`
 
 El juego se maneja con controles sencillos de arrastrar y soltar.
 
@@ -73,4 +75,5 @@ El juego se maneja con controles sencillos de arrastrar y soltar.
     *   **R:** Asegúrate de que realmente no haya ningún hueco y de que todas las
         piezas estén orientadas correctamente. A veces un pequeño desajuste en
         una pieza impide que el recorrido sea válido.
+
 

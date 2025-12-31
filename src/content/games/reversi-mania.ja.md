@@ -31,6 +31,8 @@ Reversi Maniaは、Reversi（Othelloとしても知られる）のクラシッ�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Click` `tap`
 
 - クリック/タップしてピースを配置します。
 - 対戦相手のピースを挟んでひっくり返します。
@@ -51,4 +53,5 @@ Reversi Maniaは、Reversi（Othelloとしても知られる）のクラシッ�
 <!-- i18n:faq:id=faq:reversi-mania:any-quick-tip-for-beginners-955da046 -->
 - **Q: マルチプレイヤーはありますか？**
   A: 一部のバージョンはローカルまたはオンライン対戦を提供します。
+
 

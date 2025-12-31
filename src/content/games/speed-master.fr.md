@@ -39,6 +39,8 @@ appuis trop précoces que trop tardifs.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `press` `WASD`
 
 - Appuie / clique lorsque les symboles atteignent les repères.  
 - Les touches associées aux différentes voies utilisent généralement les
@@ -62,5 +64,6 @@ appuis trop précoces que trop tardifs.
 - **Q : Le framerate a‑t‑il de l’importance ?**  
   R : Oui, une fréquence d’images stable aide au timing. Ferme les applis
   en arrière‑plan si tu sens des saccades qui perturbent tes appuis.
+
 
 

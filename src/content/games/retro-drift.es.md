@@ -42,6 +42,8 @@ con buena velocidad para marcar vueltas rápidas y multiplicadores de puntuació
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Space`
 
 - **Giro:** A/D o Flechas Izquierda/Derecha.
 - **Acelerar/Frenar:** W/S o Flechas Arriba/Abajo.
@@ -70,4 +72,5 @@ con buena velocidad para marcar vueltas rápidas y multiplicadores de puntuació
   
   **R:** Algunas versiones permiten desbloquear coches o variantes, pero el
   verdadero progreso viene de tu habilidad y consistencia al volante.
+
 

@@ -45,6 +45,8 @@ Santa's Quest ist ein leicht zugängliches, weihnachtliches Puzzlespiel. Du
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow keys` `WASD` `swipe`
 
 - **Bewegen:** Mit Pfeiltasten oder WASD steuerst du Santa über das Gitter.
 - **Interaktion:** Viele Objekte werden automatisch beim Betreten aktiviert;
@@ -71,4 +73,5 @@ Santa's Quest ist ein leicht zugängliches, weihnachtliches Puzzlespiel. Du
 - **F: Muss ich alle Sterne sammeln?**
   
   Nein, Sterne sind meist optional und dienen der 100%-Vervollständigung.
+
 

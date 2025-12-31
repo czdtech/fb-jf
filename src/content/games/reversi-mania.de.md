@@ -49,6 +49,8 @@ Reversi Mania ist eine klassische Umsetzung von Reversi, auch bekannt als
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `tap`
 
 - **Stein setzen:** Klicke oder tippe auf ein gültiges Feld. Ein gültiger Zug
   muss mindestens eine gegnerische Reihe einkesseln und drehen.
@@ -82,4 +84,5 @@ Reversi Mania ist eine klassische Umsetzung von Reversi, auch bekannt als
   
   Drehe nicht zu früh „alles“, sondern halte das Brett flexibel, meide
   X-Felder, bis du Ecken sicher übernehmen kannst.
+
 

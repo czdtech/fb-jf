@@ -29,6 +29,8 @@ Road Fury est un shooter vertical en vue de dessus à haute intensité qui te me
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `Click` `hold` `left` `button` `drag`
 
 Le jeu se joue avec de simples commandes de glissement.
 
@@ -49,4 +51,5 @@ Le jeu se joue avec de simples commandes de glissement.
 <!-- i18n:faq:id=faq:roadfury:q-what-is-the-best-3ed21c46 -->
 *   **Q : Quelle est la meilleure amélioration ?**
     *   **R :** Au début, améliorer les dégâts de ton arme principale est un excellent investissement car cela t'aide à détruire les ennemis plus vite et à gagner des pièces plus rapidement. Après cela, augmenter ton armure pour survivre à plus de coups est aussi très important.
+
 

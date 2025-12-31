@@ -34,6 +34,8 @@ Space Survivor ist ein actionreiches roguelike Survival-Spiel im Stil von "Vampi
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD` `Arrow Keys` `click` `drag` `mouse`
 
 Das Spiel hat einfache Bewegungssteuerung.
 
@@ -54,4 +56,5 @@ Das Spiel hat einfache Bewegungssteuerung.
 <!-- i18n:faq:id=faq:space-survivor:q-what-is-the-goal-ab58581b -->
 *   **F: Was ist das eigentliche Ziel des Spiels?**
     *   **A:** Je nach Modus musst du eine bestimmte Zeit (z. B. 15 oder 30 Minuten) überleben – oder im Endlosmodus einfach so lange wie möglich gegen unendliche Gegnerwellen standhalten.
+
 

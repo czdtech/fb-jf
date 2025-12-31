@@ -40,7 +40,7 @@ Dein Hauptziel ist Wachstum. Normale Pellets bringen stetig Länge, die
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `WASD`
+- Tasten (Abgleich)： `Mouse` `mouse` `WASD` `arrow keys` `Hold` `left` `button` `spacebar` `drag`
 
 **PC/Browser:**
 - **Maus:** Deine Schlange folgt dem Mauszeiger.
@@ -68,4 +68,5 @@ Das Grundprinzip ist ähnlich, Snake.io bietet aber je nach Version andere
 
 Ihr könnt euch in dieselbe Runde einloggen und um den höchsten Score wetteifern
  – wer die größte Schlange wird, gewinnt das inoffizielle Duell.
+
 

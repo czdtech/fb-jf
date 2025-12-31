@@ -43,6 +43,8 @@ rapidement la largeur et écourtent la partie.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `Click` `drop`
 
 - Tape / clique pour faire tomber les étages ; mise en pause et relance via
   l’interface.
@@ -64,4 +66,5 @@ rapidement la largeur et écourtent la partie.
 - **La vitesse est‑elle importante ?**  
   La régularité compte plus que la vitesse ; la hauteur viendra
   naturellement avec de bons centrages.
+
 

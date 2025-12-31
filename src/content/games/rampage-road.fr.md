@@ -42,6 +42,8 @@ seul morceau à travers des vagues d’ennemis.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `Space`
 
 - Conduite : A/D ou Gauche/Droite ; accélérer/freiner avec W/S ou
   Haut/Bas.  
@@ -65,4 +67,5 @@ seul morceau à travers des vagues d’ennemis.
 - **Y a‑t‑il des combats de boss ?**  
   Certaines vagues montent clairement en intensité ; garde des boosts et
   un peu d’espace pour manœuvrer.
+
 

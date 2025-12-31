@@ -47,6 +47,8 @@ de tu coche y desatar toda la furia de la carretera.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `Click` `hold` `left` `button` `drag`
 
 El juego se controla con un simple gesto de arrastre.
 
@@ -73,3 +75,4 @@ El juego se controla con un simple gesto de arrastre.
     *   **R:** Mejorar el daño del arma principal suele ser lo más rentable al
         inicio, porque destruyes enemigos más rápido y generas más monedas.
         Después, aumentar la armadura te ayudará a soportar más golpes.
+

@@ -45,6 +45,8 @@ Snowboard King 2024 ist ein rasanter Arcade-Ride den Berg hinunter. Du fährst
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow keys` `Press` `Spacebar`
 
 *   **Lenken:** Mit **A/D** oder den Pfeiltasten links/rechts steuerst du dein
     Board.
@@ -67,4 +69,5 @@ Snowboard King 2024 ist ein rasanter Arcade-Ride den Berg hinunter. Du fährst
 *   **F: Wie steigere ich meinen Score?**
     *   **A:** Dein Punktestand richtet sich nach der Distanz. Upgrades, gutes
     Ausweichen und klug eingesetzter Boost helfen, weiter zu kommen.
+
 

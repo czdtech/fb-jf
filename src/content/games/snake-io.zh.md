@@ -31,7 +31,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### 操作说明
 <!-- i18n:controls:keys -->
-- 按键（对齐）： `WASD`
+- 按键（对齐）： `Mouse` `mouse` `WASD` `arrow keys` `Hold` `left` `button` `spacebar` `drag`
 
 **PC / 浏览器：**
 - **鼠标：** 蛇会自动朝鼠标光标的方向移动。
@@ -52,4 +52,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 **问：能和朋友一起玩吗？****
 答：** 可以与朋友同时进入同一服务器或房间，比拼谁的得分更高、谁能先上排行榜，也可以玩“谁存活更久”的自定义小挑战。
+
 

@@ -41,6 +41,8 @@ Secret Agent verbindet Stealth-Gameplay mit leichten Routen-Puzzles. Du
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD`
 
 - **Bewegen:** Mit WASD oder Pfeiltasten steuerst du deinen Agenten.
 - **Gadgets wählen:** Über Zahlentasten oder ein Gadget-Rad wählst du Ausrüstung
@@ -71,4 +73,5 @@ Secret Agent verbindet Stealth-Gameplay mit leichten Routen-Puzzles. Du
   
   Viele Versionen belohnen dich mit Boni, wenn du ein Level ohne Alarm oder
   Treffer abschließt – ein gutes Ziel, wenn du die Grundlagen drauf hast.
+
 

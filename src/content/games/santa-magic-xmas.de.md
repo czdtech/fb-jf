@@ -50,6 +50,8 @@ Santa Magic Xmas ist ein fröhliches Weihnachts-Match-3, das dich direkt in
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `drag`
 
 Gespielt wird mit einer einfachen Tausch-Mechanik.
 
@@ -73,4 +75,5 @@ Gespielt wird mit einer einfachen Tausch-Mechanik.
 *   **F: Was passiert, wenn mir die Züge ausgehen?**
     *   **A:** Hast du das Ziel bis dahin nicht erreicht, musst du das Level neu
         starten (oder je nach Version zusätzliche Züge kaufen).
+
 

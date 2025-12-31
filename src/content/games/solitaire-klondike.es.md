@@ -45,6 +45,8 @@ por el Rey de cada palo (por ejemplo, A♣, 2♣, 3♣...).
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `Click` `drag` `click`
 
 - **Ratón/Táctil:** Haz clic y arrastra cartas para moverlas entre pilas. En
   muchas versiones, basta con hacer clic en una carta para que se mueva
@@ -68,3 +70,4 @@ que el juego se popularizó entre los buscadores.
 
 No. Debido al barajado aleatorio, algunas partidas son matemáticamente
 imposibles de resolver, lo que forma parte del desafío.
+

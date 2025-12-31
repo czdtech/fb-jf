@@ -53,6 +53,8 @@ exageradamente poderosa para sobrevivir el máximo tiempo posible.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD` `Arrow Keys` `click` `drag` `mouse`
 
 El juego utiliza controles de movimiento muy simples.
 
@@ -79,4 +81,5 @@ El juego utiliza controles de movimiento muy simples.
     *   **R:** Sobrevivir durante un tiempo determinado (por ejemplo, 15 o 30
         minutos) o, en modo infinito, aguantar tanto como puedas frente a
         oleadas sin fin.
+
 

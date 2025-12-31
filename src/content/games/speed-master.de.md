@@ -32,6 +32,8 @@ Speed Master ist ein minimalistisches Reaktionsspiel, das dein Timing und deine 
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `press` `WASD`
 
 - Tippe oder drücke eine Taste, sobald die Signale die Markierungen erreichen. Bei Mehrspur-Inputs werden meist Pfeiltasten oder WASD genutzt (je nach Version). Pausieren oder neu starten kannst du über die UI.
 
@@ -52,4 +54,5 @@ Speed Master ist ein minimalistisches Reaktionsspiel, das dein Timing und deine 
 - **F: Spielt die Bildrate eine Rolle?**
   
   **A:** Ja, ein stabiles FPS-Gefühl hilft beim Timing. Schließe möglichst andere Programme im Hintergrund, wenn dir das Timing ungleichmäßig vorkommt.
+
 

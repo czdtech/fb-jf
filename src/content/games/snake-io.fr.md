@@ -40,7 +40,7 @@ percutes le corps d’un autre serpent ou les limites de l’arène.
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `WASD`
+- Touches (alignement)： `Mouse` `mouse` `WASD` `arrow keys` `Hold` `left` `button` `spacebar` `drag`
 
 **PC / Navigateur :**  
 - **Souris :** ton serpent suit la direction du curseur.  
@@ -66,4 +66,5 @@ skins et de thèmes visuels.
 **Puis‑je jouer avec des amis ?**  
 Tu peux au moins comparer vos scores et voir qui parvient à devenir le plus
 gros serpent de l’arène.
+
 

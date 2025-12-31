@@ -31,6 +31,8 @@ Rampage Roadは、レーシングと破壊を組み合わせたゲームです�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Click` `Space`
 
 - 矢印キー/WASD：ドライブ、ステア。
 - スペース：ブレーキ/ドリフト。
@@ -48,4 +50,5 @@ Rampage Roadは、レーシングと破壊を組み合わせたゲームです�
 <!-- i18n:faq:id=faq:rampage-road:boss-fights-c780a1e7 -->
 - **Q: エンドレスですか？**  
   A: 多くのバージョンにはエンドレスと目標ベースのモードがあります。
+
 

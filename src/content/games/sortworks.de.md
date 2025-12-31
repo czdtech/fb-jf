@@ -33,6 +33,8 @@ SortWorks verknüpft visuelles Sortieren mit strengen Vorgaben für Behälter �
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `tap`
 
 - Ziehe oder tippe Objekte in die passenden Behälter. Über das UI kannst du pausieren, neu starten oder Hinweise aktivieren, die dir die richtigen Ziele markieren.
 
@@ -53,4 +55,5 @@ SortWorks verknüpft visuelles Sortieren mit strengen Vorgaben für Behälter �
 - **F: Bringen Kombos wirklich etwas?**
   
   **A:** Ja, Serien sauber sortierter Objekte erhöhen deinen Score-Multiplikator. Füttere ihn, indem du gezielt einfache Items hintereinander abarbeitest.
+
 

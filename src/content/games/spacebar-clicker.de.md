@@ -26,7 +26,7 @@ Starte damit, die Leertaste immer wieder zu drücken, um deine ersten Punkte zu 
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `Spacebar` `Mouse Click`
+- Tasten (Abgleich)： `Spacebar` `Press` `Mouse Click` `mouse`
 
 - **Hauptaktion:** Leertaste – drücke sie, um Punkte zu generieren.
 - **Upgrades kaufen:** Mausklick – nutze die Maus, um im In-Game-Shop Verbesserungen auszuwählen und zu kaufen.
@@ -45,4 +45,5 @@ Wie die meisten Clicker-Games ist auch Spacebar Clicker im Grunde endlos. Typisc
 **Was ist die beste Strategie?**
 
 Konzentriere dich anfangs auf manuelles Klicken, um dir schnell die ersten Upgrades leisten zu können. Priorisiere dann Verbesserungen, die passives Einkommen erzeugen. Wenn deine automatische Produktion stark genug ist, kannst du in teurere Multiplikatoren investieren, die deine Gesamtproduktion massiv steigern.
+
 

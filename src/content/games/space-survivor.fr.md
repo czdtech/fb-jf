@@ -31,6 +31,8 @@ Space Survivor est un roguelike de survie façon « Vampire Survivors ». Tu pil
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD` `Arrow Keys` `click` `drag` `mouse`
 
 Le jeu n'utilise que des contrôles de déplacement simples.
 
@@ -51,4 +53,5 @@ Le jeu n'utilise que des contrôles de déplacement simples.
 <!-- i18n:faq:id=faq:space-survivor:q-what-is-the-goal-ab58581b -->
 *   **Q : Quel est l'objectif ?**
     *   **R :** Survivre un certain temps (par ex. 15 ou 30 minutes) ou, en mode infini, tenir le plus longtemps possible face aux vagues d'ennemis.
+
 

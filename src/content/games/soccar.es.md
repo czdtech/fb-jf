@@ -38,7 +38,7 @@ clave, igual que saber cuándo atacar y cuándo volver a defender tu portería.
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `WASD` `Arrow Keys` `Shift` `Spacebar` `Right Mouse Button`
+- Teclas (alineación)： `WASD` `Arrow Keys` `Press` `Shift` `Spacebar` `Right` `Button`
 
 - **Movimiento:** WASD o flechas para conducir por el campo.
 - **Boost/Sprint:** Shift o barra espaciadora para un impulso de velocidad,
@@ -65,4 +65,5 @@ bien el boost también es esencial para llegar a balones clave.
 En SocCar eres un coche. Eso significa que puedes usar velocidad, impulsos y
 saltos para interactuar con la pelota de formas imposibles en el fútbol
 tradicional, creando jugadas muy espectaculares.
+
 

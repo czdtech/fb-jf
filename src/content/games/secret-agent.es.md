@@ -41,6 +41,8 @@ gadgets valen mucho más que la fuerza bruta.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD`
 
 - **Moverse:** WASD o flechas.
 - **Gadgets:** Números para seleccionar artilugios.
@@ -67,4 +69,5 @@ gadgets valen mucho más que la fuerza bruta.
   
   **R:** Sí, muchas versiones dan recompensas extra si terminas un nivel sin
   ninguna detección.
+
 

@@ -31,6 +31,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Arrow keys` `WASD` `swipe`
 
 - 移动：方向键 / WASD，或在移动端滑动。
 - 互动：多数情况下接触即可触发，或按屏幕提示操作。
@@ -45,4 +47,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 - 有敌人吗？部分关卡会有轻度的危险/巡逻，需要把握时机绕过即可。
 <!-- i18n:faq:id=faq:santas-quest:do-i-need-all-stars-c6a73dae -->
 - 一定要把星星都收集吗？不强制；想要满完成度再去补收即可。
+
 

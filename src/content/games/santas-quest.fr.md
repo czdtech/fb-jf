@@ -43,6 +43,8 @@ sessions hivernales.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Arrow keys` `WASD` `swipe`
 
 - **Déplacement :** flèches directionnelles / WASD ou glissement au doigt
   sur mobile.  
@@ -67,4 +69,5 @@ sessions hivernales.
 - **Dois‑je forcément récupérer toutes les étoiles ?**  
   Non, elles sont optionnelles. Elles servent surtout pour le 100 % de
   complétion.
+
 

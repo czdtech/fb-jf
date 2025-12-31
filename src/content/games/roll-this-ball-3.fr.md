@@ -29,6 +29,8 @@ Roll This Ball est un puzzle de blocs coulissants classique et stimulant conçu 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `drop` `Click` `drag` `space`
 
 Le jeu se joue avec de simples commandes de glisser‑déposer.
 
@@ -48,4 +50,5 @@ Le jeu se joue avec de simples commandes de glisser‑déposer.
 <!-- i18n:faq:id=faq:roll-this-ball-3:q-ive-made-a-path-3f11df42 -->
 *   **Q : J'ai fait un chemin, mais la bille ne roule pas. Pourquoi ?**
     *   **R :** Assure‑toi que le chemin est vraiment continu. Il est facile de rater un petit écart ou d'avoir une pièce orientée dans la mauvaise direction. Vérifie chaque connexion du début à la fin.
+
 

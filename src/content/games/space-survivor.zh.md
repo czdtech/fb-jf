@@ -34,6 +34,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 - **保持移动：** 别站着不动。敌人会向你最后的位置聚集。持续移动是生存关键，尤其后期满屏怪时更要保持走位。
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `WASD` `Arrow Keys` `click` `drag` `mouse`
 
 
 本作使用非常直观的移动操作。
@@ -59,3 +61,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:faq:id=faq:space-survivor:q-what-is-the-goal-ab58581b -->
     - **问：我怎么射击？**
+

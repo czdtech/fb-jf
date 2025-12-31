@@ -33,6 +33,8 @@ Solitaire 2048 verwandelt das bekannte Merge-Prinzip in einen Kartenstrom. Du pl
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click`
 
 - Klicke auf eine Spalte, um die aktuelle Karte dort abzulegen; nutze Undo- oder Hinweisfunktionen, falls sie angeboten werden.
 
@@ -53,4 +55,5 @@ Solitaire 2048 verwandelt das bekannte Merge-Prinzip in einen Kartenstrom. Du pl
 - **F: Kann ich mich von schlecht aufgebauten Stapeln erholen?**
   
   **A:** Ja. Brich zuerst hohe Spitzen herunter und baue neue Paare, bevor du wieder große Kettenreaktionen auslöst.
+
 

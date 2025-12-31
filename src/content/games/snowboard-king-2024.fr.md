@@ -29,6 +29,8 @@ Snowboard King 2024 est un jeu d'arcade à haute intensité dans lequel tu déva
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Arrow keys` `Press` `Spacebar`
 
 *   **Tourner :** touches **A/D** ou flèches **Gauche/Droite**.
 *   **Boost :** barre d'espace pour activer un boost temporaire.
@@ -47,4 +49,5 @@ Snowboard King 2024 est un jeu d'arcade à haute intensité dans lequel tu déva
 <!-- i18n:faq:id=faq:snowboard-king-2024:q-how-do-i-get-698432e6 -->
 *   **Q : Comment obtenir un meilleur score ?**
     *   **R :** Ton score dépend de la distance parcourue. Plus tu vas loin, plus le score est élevé. Améliorer tes compétences est le meilleur moyen d'augmenter ton potentiel de distance.
+
 

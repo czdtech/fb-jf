@@ -46,6 +46,8 @@ Smarty Bubbles ist ein sauber gestalteter, sehr süchtig machender
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `left` `button`
 
 *   **Zielen:** Bewege die Maus, um die Kanone auszurichten; eine Linie
     markiert die Flugbahn.
@@ -69,4 +71,5 @@ Smarty Bubbles ist ein sauber gestalteter, sehr süchtig machender
 *   **F: Wie bekomme ich viele Punkte?**
     *   **A:** Versuche, mit einem Schuss große Bereiche zum Einsturz zu bringen.
     Je mehr Blasen in einer Kettenreaktion fallen, desto höher dein Bonus.
+
 

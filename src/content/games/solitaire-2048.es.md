@@ -42,6 +42,8 @@ columnas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click`
 
 - Haz clic en una columna para colocar la carta actual; usa deshacer o pistas si
   la versión lo permite.
@@ -65,4 +67,5 @@ columnas.
   
   **R:** Sí. Primero aplana las columnas más altas y reconstruye parejas con
   calma antes de volver a disparar cadenas grandes.
+
 

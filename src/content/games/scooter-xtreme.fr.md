@@ -30,6 +30,8 @@ Scooter Xtreme 3D est un jeu de stunts et de course plein d'action qui te met su
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Press` `Press` `Press` `Spacebar`
 
 *   **Accélérer :** appuie sur la touche **W** ou **Flèche Haut**.
 *   **Diriger :** utilise les touches **A/D** ou **Flèches Gauche/Droite** pour diriger.
@@ -51,4 +53,5 @@ Scooter Xtreme 3D est un jeu de stunts et de course plein d'action qui te met su
 <!-- i18n:faq:id=faq:scooter-xtreme:q-how-do-i-unlock-513b69ba -->
 *   **Q : Comment débloquer de nouveaux personnages et trottinettes ?**
     *   **R :** En collectant des pièces dispersées dans les niveaux. Une fois que tu en as assez, tu peux visiter la boutique en jeu pour acheter du nouvel équipement et des riders.
+
 

@@ -41,7 +41,7 @@ que maximicen tus puntos por segundo.
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `Spacebar` `Mouse Click`
+- Teclas (alineación)： `Spacebar` `Press` `Mouse Click` `mouse`
 
 - **Acción principal:** Barra espaciadora para generar puntos.
 - **Mejoras:** Clic de ratón para comprar mejoras en los menús del juego.
@@ -66,4 +66,5 @@ Al principio, céntrate en pulsar manualmente para comprar las primeras mejoras.
 Prioriza las que generan ingresos pasivos. Cuando tengas una buena base de
 puntos automáticos, invierte en mejoras más caras que multipliquen tus
 beneficios globales.
+
 

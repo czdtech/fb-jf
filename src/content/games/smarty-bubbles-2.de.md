@@ -47,6 +47,8 @@ Smarty Bubbles 2 knüpft an den Klassiker an und erweitert ihn um ein
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `left` `button`
 
 *   **Zielen:** Bewege die Maus, um die Kanone auszurichten. Eine Hilfslinie
     zeigt dir die Flugbahn.
@@ -69,4 +71,5 @@ Smarty Bubbles 2 knüpft an den Klassiker an und erweitert ihn um ein
 *   **F: Wie erreiche ich hohe Punktzahlen?**
     *   **A:** Indem du in wenigen Schüssen große Cluster zum Einsturz bringst.
     Je mehr Blasen gleichzeitig fallen, desto höher dein Score.
+
 

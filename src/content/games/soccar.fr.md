@@ -39,7 +39,7 @@ protéger ton but.
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `WASD` `Arrow Keys` `Shift` `Spacebar` `Right Mouse Button`
+- Touches (alignement)： `WASD` `Arrow Keys` `Press` `Shift` `Spacebar` `Right` `Button`
 
 - **Déplacement :** WASD ou flèches directionnelles pour conduire.  
 - **Boost / Dash :** Shift ou barre d’espace pour un sprint, utile pour
@@ -64,4 +64,5 @@ bon moment est aussi essentiel.
 Dans SocCar, tu es une voiture : tu peux donc utiliser la vitesse, les
 boosts et les sauts pour frapper la balle d’une façon impossible dans un
 match de foot normal, ce qui rend le jeu explosif et très spectaculaire.
+
 

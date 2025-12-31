@@ -29,6 +29,8 @@ Smarty Bubbles est un bubble shooter très soigné et extrêmement addictif qui 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `left` `button`
 
 *   **Viser :** déplace la souris pour viser avec le canon ; une ligne montre la trajectoire.
 *   **Tirer :** clique avec le bouton gauche pour lancer la bulle.
@@ -47,4 +49,5 @@ Smarty Bubbles est un bubble shooter très soigné et extrêmement addictif qui 
 <!-- i18n:faq:id=faq:smarty-bubbles:q-how-do-i-get-73fd7840 -->
 *   **Q : Comment faire un gros score ?**
     *   **R :** Vise les grosses réactions en chaîne. Faire tomber de grands amas de bulles en éclatant celles qui les maintiennent en place te rapporte des bonus massifs.
+
 

@@ -45,6 +45,8 @@ Roll This Ball ist ein klassisches Schiebeblock-Puzzle, das dein
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `Click` `drag` `space`
 
 Die Steuerung erfolgt per Drag-and-Drop oder einfacher Ziehbewegung.
 
@@ -67,4 +69,5 @@ Die Steuerung erfolgt per Drag-and-Drop oder einfacher Ziehbewegung.
     *   **A:** Prüfe, ob wirklich alle Segmente korrekt verbunden und
         ausgerichtet sind. Schon ein falscher Winkel oder eine kleine Lücke
         verhindert, dass die Bahn als durchgehend erkannt wird.
+
 

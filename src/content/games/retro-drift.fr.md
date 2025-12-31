@@ -45,6 +45,8 @@ chronos et tes multiplicateurs de score.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Space`
 
 - Direction : A/D ou Gauche/Droite.  
 - Accélérer / Freiner : W/S ou Haut/Bas.  
@@ -69,4 +71,5 @@ chronos et tes multiplicateurs de score.
 - **Y a‑t‑il des améliorations de voiture ?**  
   Certains modes permettent de débloquer de nouveaux véhicules, mais la
   vraie progression vient surtout de ta maîtrise et de ta régularité.
+
 

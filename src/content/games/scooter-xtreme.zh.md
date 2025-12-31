@@ -31,6 +31,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Press` `Press` `Press` `Spacebar`
 
 *   **加速 / 刹车：** 使用上下方向键或对应按键控制踏板车的加速与减速。
 *   **左右移动：** 使用左右方向键在车道间切换，避开障碍或抢占内线。
@@ -58,3 +60,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:faq:id=faq:scooter-xtreme:q-how-do-i-unlock-513b69ba -->
     - **问：怎样才能获得更高分？**
+

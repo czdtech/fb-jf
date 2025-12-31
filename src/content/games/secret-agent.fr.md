@@ -41,6 +41,8 @@ un usage précis de tes gadgets valent mieux que la force brute.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD`
 
 - Déplacement : WASD ou flèches directionnelles.  
 - Gadgets : touches numériques pour sélectionner et utiliser.  
@@ -64,4 +66,5 @@ un usage précis de tes gadgets valent mieux que la force brute.
 - **Puis‑je finir un niveau sans être détecté ?**  
   Oui, et beaucoup de versions offrent des bonus si tu termines un niveau
   sans déclencher d’alerte.
+
 

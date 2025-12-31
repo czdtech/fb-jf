@@ -30,6 +30,8 @@ Retro Driftは、レトロなピクセルアートで遊べるアーケード系
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Space`
 
 - 矢印キー/WASD：加速、ブレーキ、ステア。
 - スペース/特定のキー：ドリフト。
@@ -47,4 +49,5 @@ Retro Driftは、レトロなピクセルアートで遊べるアーケード系
 <!-- i18n:faq:id=faq:retro-drift:are-upgrades-available-67e52001 -->
 - **Q: どれくらいのトラックがありますか？**  
   A: バージョンによって異なります。多くは複数を持っています。
+
 

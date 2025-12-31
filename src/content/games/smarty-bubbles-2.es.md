@@ -48,6 +48,8 @@ administras tus disparos para que el techo no descienda.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `left` `button`
 
 *   **Apuntar:** Mueve el ratón para orientar el cañón. Una guía te muestra la
     trayectoria aproximada.
@@ -73,3 +75,4 @@ administras tus disparos para que el techo no descienda.
     *   **R:** Superando los niveles de forma eficiente y provocando caídas
         masivas de burbujas. Cuantas más elimines de una sola vez, más puntos
         obtendrás.
+

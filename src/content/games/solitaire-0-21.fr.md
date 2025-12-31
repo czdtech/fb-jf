@@ -42,6 +42,8 @@ garder de la marge.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `drag`
 
 - Clique ou fais glisser pour poser les cartes ; utilise les boutons
   d’annulation / indice proposés par l’interface.
@@ -63,4 +65,5 @@ garder de la marge.
 - **La chance est‑elle plus importante que la stratégie ?**  
   Le tirage compte, mais la façon dont tu places les cartes influence
   énormément le résultat.
+
 

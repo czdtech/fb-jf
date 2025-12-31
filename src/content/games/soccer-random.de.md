@@ -26,7 +26,7 @@ Die erste Person bzw. das erste Team, das 5 Tore erzielt, gewinnt das Match. Du 
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `W` `Up Arrow`
+- Tasten (Abgleich)： `W` `Up Arrow` `Press`
 
 Das Spiel ist sehr einfach zu bedienen und kann allein oder zu zweit an einer Tastatur gespielt werden.
 
@@ -49,4 +49,5 @@ Du kannst alleine gegen den Computer antreten oder im 2-Spieler-Modus zusammen m
 **Warum ändert sich das Spiel ständig?**
 
 Genau das macht den Reiz aus! Spielfelder, Spieler und Bälle können nach jedem Tor wechseln. Dadurch gleicht kein Match dem anderen, und das Chaos bleibt immer lustig und unvorhersehbar.
+
 

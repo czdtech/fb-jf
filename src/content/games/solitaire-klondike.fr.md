@@ -45,6 +45,8 @@ commençant par l’As et en terminant par le Roi pour chaque couleur (A♣, 2�
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `Click` `drag` `click`
 
 - **Souris / tactile :** clique‑dépose les cartes pour les déplacer entre
   les piles. Dans la plupart des versions, un simple clic peut aussi
@@ -65,4 +67,5 @@ probablement été populaire parmi les chercheurs d’or.
 **Toutes les parties de Klondike sont‑elles gagnables ?**  
 Non. Le mélange aléatoire fait que certaines distributions sont
 mathématiquement impossibles à résoudre, ce qui fait partie du défi.
+
 

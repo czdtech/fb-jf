@@ -30,6 +30,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `drag` `Click` `hold` `left` `button` `drag`
 
 游戏使用简单的拖拽机制操作。
 
@@ -49,4 +51,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:slime-io:q-how-do-i-win-82c5f7c2 -->
 *   **问：这一局要如何获胜？**
     *   **答：** 回合结束时得分最高的玩家获胜。你的得分基于你吸收了多少物体和玩家。
+
 

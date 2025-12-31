@@ -43,7 +43,7 @@ frapper le ballon et défendre ton but.
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `W` `Up Arrow`
+- Touches (alignement)： `W` `Up Arrow` `Press`
 
 Le jeu est pensé pour être ultra simple, jouable à un ou deux joueurs sur
 le même clavier.  
@@ -64,4 +64,5 @@ Tu peux jouer seul contre l’ordinateur ou à deux sur le même appareil.
 C’est le principe du jeu ! Le terrain, les joueurs et les ballons qui
 changent après chaque but rendent chaque match unique et gardent la partie
 fun et imprévisible.
+
 

@@ -46,6 +46,8 @@ Scooter Xtreme 3D ist ein actionreicher Stunt- und Rennspaß auf dem Roller.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Press` `Press` `Press` `Spacebar`
 
 *   **Gas geben:** Mit **W** oder Pfeil hoch beschleunigst du.
 *   **Lenken:** Mit **A/D** oder Pfeil links/rechts steuerst du.
@@ -73,4 +75,5 @@ Scooter Xtreme 3D ist ein actionreicher Stunt- und Rennspaß auf dem Roller.
 *   **F: Wie schalte ich neue Charaktere und Scooter frei?**
     *   **A:** Sammle Münzen, die in den Leveln verteilt sind. Wenn du genug
         hast, kannst du im Ingame‑Shop neue Scooter und Fahrer kaufen.
+
 

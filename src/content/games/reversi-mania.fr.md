@@ -48,6 +48,8 @@ plateau est rempli) ; le joueur possédant le plus de pions l’emporte.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `tap`
 
 - **Poser un pion :** clique ou tape sur une case légale (la plupart des
   versions surlignent les coups possibles). Un coup n’est valide que s’il
@@ -79,4 +81,5 @@ plateau est rempli) ; le joueur possédant le plus de pions l’emporte.
 - **Un conseil rapide pour débuter ?**  
   Ne retourne pas trop de pions au début ; privilégie la mobilité et évite
   les cases « X » tant que tu ne peux pas sécuriser les coins.
+
 
