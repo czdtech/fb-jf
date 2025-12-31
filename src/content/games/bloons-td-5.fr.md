@@ -29,6 +29,7 @@ BTD5 apporte notamment :
 -   **Capacités actives :** plusieurs upgrades T4 donnent des compétences déclenchables (MOAB Assassin, Downdraft, etc.).
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 -   **L’économie passe avant tout :** Pose des **Banana Farms** dès que possible. Le chemin 4/2 (`Banana Research Facility` + `More Bananas`) génère des caisses de cash à chaque manche.  

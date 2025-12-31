@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sprunki-play-random
-title: 'Sprunki Play Random - Juega a Sprunki Play Random en línea'
+title: Sprunki Play Random - Juega a Sprunki Play Random en línea
 description: >-
   Sprunki Play Random es un juego de creación musical lleno de sorpresas. Si te
   gustan los retos y la exploración, este modo aleatorio está hecho para ti.
@@ -11,7 +11,7 @@ tags:
   - sprunki play random
   - sprunki play random online
 score: 4.5/5  (614 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -57,6 +57,7 @@ El manejo es muy sencillo; puedes hacerlo con ratón o con el dedo:
 
 ---
 
+<!-- i18n:section:tips -->
 ### Consejos para Sprunki Play Random
 
 - **Prueba distintos arreglos:** la posición de los personajes influye en la

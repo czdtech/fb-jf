@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: mini-crossword
-title: "Mini Crossword - Crucigrama diario en formato mini"
+title: Mini Crossword - Crucigrama diario en formato mini
 description: >-
   Mini Crossword es un crucigrama diario en formato compacto que ofrece un
   desafío de palabras rápido y entretenido para jugadores de todos los niveles.
@@ -26,6 +26,7 @@ las palabras correctas a partir de las pistas dadas. Es perfecto para partidas
 rápidas, a la vez que te ayuda a ampliar vocabulario y disfrutar de la
 resolución de puzles.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Entender las pistas:** lee con atención las pistas horizontales y

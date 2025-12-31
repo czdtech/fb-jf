@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: rooftop-snipers-2
-title: "Rooftop Snipers 2"
+title: Rooftop Snipers 2
 description: >-
   Rooftop Snipers 2 es un desternillante juego de disparos con físicas en el que
   dos monigotes se enfrentan en azoteas e intentan tirarse mutuamente usando
   armas de todo tipo y una física ragdoll totalmente impredecible.
-iframeSrc: "https://rebemanae.github.io/rooftop-snipers-2/"
+iframeSrc: 'https://rebemanae.github.io/rooftop-snipers-2/'
 thumbnail: /new-images/thumbnails/rooftop-snipers-2.jpg
 tags:
   - shooting
@@ -26,6 +26,7 @@ armas para sacar al rival del tejado a base de golpes y retrocesos. La física
 ragdoll hace que cada enfrentamiento esté lleno de momentos imprevisibles y muy
 cómicos.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego
 
 1.  **Clava la sincronización de los disparos:** Aprende a disparar en el momento justo,

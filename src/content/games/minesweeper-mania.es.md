@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: minesweeper-mania
-title: "Minesweeper Mania - Buscaminas con varios desafíos"
+title: Minesweeper Mania - Buscaminas con varios desafíos
 description: >-
-  El clásico puzle lógico, reimaginado. Usa las pistas numéricas para
-  localizar todas las minas ocultas del tablero. Con varios niveles de
-  dificultad, es una auténtica prueba de deducción.
+  El clásico puzle lógico, reimaginado. Usa las pistas numéricas para localizar
+  todas las minas ocultas del tablero. Con varios niveles de dificultad, es una
+  auténtica prueba de deducción.
 iframeSrc: 'https://minesweepermania.h5games.usercontent.goog/v/6cje7ufl50e4g/'
 thumbnail: /new-images/thumbnails/minesweeper-mania.png
 tags:
@@ -29,6 +29,7 @@ minas hay en las ocho casillas que lo rodean. Esta edición ofrece varios nivele
  de dificultad, con retos tanto para principiantes como para veteranos.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **El primer clic es seguro:** el primer clic de cada partida nunca será una

@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: slope-3
-title: "Slope 3"
+title: Slope 3
 description: >-
   Slope 3 es la última entrega de la popular serie Slope, con gráficos mejorados
   y nuevos obstáculos desafiantes mientras guías una bola por una pendiente
   infinita esquivando barreras letales y bloques rojos.
-iframeSrc: "https://games-online.io/game/Slope3/"
+iframeSrc: 'https://games-online.io/game/Slope3/'
 thumbnail: /new-images/thumbnails/slope-3.jpg
 tags:
   - endless runner
@@ -25,6 +25,7 @@ una bola que baja por una pendiente infinita llena de plataformas y obstáculos,
 pero añade gráficos más pulidos y diseños de niveles más complejos. Tu misión es
 sobrevivir el máximo tiempo posible sin chocar.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego
 
 1.  **Adáptate al nuevo look 3D:** Acostúmbrate a los efectos visuales y a la

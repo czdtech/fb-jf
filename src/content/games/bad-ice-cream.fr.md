@@ -1,9 +1,13 @@
 ---
 locale: fr
 urlstr: bad-ice-cream
-title: "Bad Ice-Cream"
-description: "Bad Ice‑Cream est le premier épisode d’un jeu d’arcade/puzzle givré où tu crées ou détruis des murs de glace pour collecter tous les fruits du labyrinthe sans te faire toucher par les monstres."
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x4/index.html"
+title: Bad Ice-Cream
+description: >-
+  Bad Ice‑Cream est le premier épisode d’un jeu d’arcade/puzzle givré où tu
+  crées ou détruis des murs de glace pour collecter tous les fruits du
+  labyrinthe sans te faire toucher par les monstres.
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x4/index.html
 thumbnail: /new-images/thumbnails/bad-ice-cream.jpg
 tags:
   - casual
@@ -19,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 La mécanique centrale, c’est ton pouvoir de glace : tu peux **créer** ou **détruire** instantanément des rangées de blocs de glace. Ces murs servent à tout : fabriquer des ponts pour atteindre les fruits, te construire des abris ou enfermer des ennemis pour sécuriser une zone. Le jeu peut se jouer en solo ou à deux sur le même clavier, ce qui en fait un excellent titre coopératif.
 
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 Pour réussir, combine réflexion rapide et planification : chaque niveau récompense les trajectoires prévues et l’usage judicieux de ta magie de glace.
@@ -44,6 +49,7 @@ Les ennemis suivent des trajectoires répétitives. Observe leurs allers‑retou
 
 Le chronomètre te met la pression, mais te précipiter sans regarder est la meilleure façon de perdre une vie. Crée de petites zones sûres, ramasse les fruits autour, puis ouvre un passage vers la zone suivante.
 
+<!-- i18n:section:tips -->
 #### 5. Stratégies à deux joueurs
 
 - **Se partager la carte :** en coop, le plus efficace est de se répartir les côtés du niveau (gauche/droite, haut/bas) pour couvrir plus vite le terrain.  

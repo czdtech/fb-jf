@@ -19,6 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Dans *Bombs Drops Physics balls*, tu dois utiliser la gravité et les collisions pour faire s’effondrer des constructions. Tu disposes d’un certain nombre de bombes ou de balles à lâcher ; à toi de choisir l’endroit et le timing pour provoquer les plus gros dégâts avec le moins de lancers possible.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1. **Vise les points faibles**  

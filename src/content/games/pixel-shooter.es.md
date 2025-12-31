@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: pixel-shooter
-title: 'Pixel Shooter'
+title: Pixel Shooter
 description: >-
   Pixel Shooter es un juego de disparos retro con gráficos pixel art en el que
   controlas a un personaje para enfrentarte a oleadas de enemigos a través de
@@ -27,6 +27,7 @@ varios niveles, recogiendo potenciadores y mejorando las armas para
 sobrevivir. El juego engancha gracias a su estética clásica de píxeles y a un
 ritmo de acción muy rápido.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Moverse y disparar**: mueve a tu personaje con soltura para esquivar los

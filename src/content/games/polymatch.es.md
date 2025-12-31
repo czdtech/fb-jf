@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: polymatch
-title: "PolyMatch"
+title: PolyMatch
 description: >-
   Sumérgete en el colorido mundo de PolyMatch. Un original juego de puzles en el
   que debes seleccionar y combinar fichas para despejar el tablero sin llenar la
   zona de reserva.
-iframeSrc: "https://4h72h3ha1dnh0.h5games.usercontent.goog/v/4mrusdmqik1l8/"
+iframeSrc: 'https://4h72h3ha1dnh0.h5games.usercontent.goog/v/4mrusdmqik1l8/'
 thumbnail: /new-images/thumbnails/polymatch.png
 tags:
   - puzzle
@@ -30,6 +30,7 @@ para asegurarte de poder hacer parejas antes de que se llene; si la reserva se
 satura, la partida termina.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y recorrido
 
 1.  **Prioriza las parejas visibles:** Empieza siempre por las coincidencias que

@@ -26,6 +26,7 @@ Après chaque panier, presque tout change : longueur du terrain, gravité, taill
 Tu ne peux pas vraiment « diriger » tes joueurs ; tu peux seulement influencer leurs sauts et leurs mouvements de bras via le timing de tes appuis, ce qui donne des situations aussi imprévisibles qu’hilarantes.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 Gagner consiste moins à contrôler parfaitement tes joueurs qu’à apprivoiser le chaos et à réagir à ce qu’il se passe à l’écran.

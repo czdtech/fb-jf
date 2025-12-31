@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: paper-io
-title: "Paper.io - Conquista de territorio en línea"
+title: Paper.io - Conquista de territorio en línea
 description: >-
   Paper.io es un popular juego multijugador en el que controlas un bloque de
   color y tratas de conquistar el máximo territorio posible dibujando líneas y
@@ -28,6 +28,7 @@ casillas del mapa como puedas dibujando líneas y cerrando áreas. Debes expandi
 jugadores: tu mayor punto débil es la estela que dejas, ya que si alguien la
 roza, pierdes. Es un juego rápido, estratégico y muy competitivo.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Expansión segura:** al principio, amplía tu territorio en zonas pequeñas y

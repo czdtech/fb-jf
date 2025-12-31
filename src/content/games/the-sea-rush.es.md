@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 The Sea Rush es un juego tipo match‑3 en el que te embarcas en una aventura bajo el mar. Tu objetivo es alinear tres o más criaturas marinas iguales en fila o columna intercambiando piezas adyacentes para despejar el tablero y sumar puntos.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 Usa clics de ratón o deslizamientos en pantalla táctil para intercambiar dos animales marinos contiguos. Cuando consigues grupos de tres o más iguales, desaparecen y dejan espacio para nuevas piezas. Eliminar varias combinaciones a la vez otorga muchos más puntos. A medida que subes de nivel, los objetivos y las restricciones se vuelven más exigentes, así que conviene pensar cada movimiento con antelación. Intenta crear alineaciones de más de tres piezas y combos en cadena para multiplicar tu puntuación y ten siempre presente los límites de tiempo o movimientos.

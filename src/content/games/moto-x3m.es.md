@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: moto-x3m
-title: "Moto X3M - Carreras de motos y acrobacias extremas"
+title: Moto X3M - Carreras de motos y acrobacias extremas
 description: >-
   Moto X3M es un trepidante juego de carreras y acrobacias en moto en el que
   atraviesas circuitos llenos de trampas, rampas y explosiones mientras haces
@@ -26,6 +26,7 @@ exigente. Conducirás a través de circuitos repletos de obstáculos, rampas y
 explosiones, realizando piruetas en el aire. El objetivo es cruzar la meta en el
 menor tiempo posible, encadenando volteretas y trucos para ganar segundos extra.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Control del equilibrio:** mantener la moto equilibrada en saltos y

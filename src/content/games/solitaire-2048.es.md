@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: solitaire-2048
-title: "Solitaire 2048"
+title: Solitaire 2048
 description: >-
   Solitaire 2048 fusiona 2048 con flujo de cartas: coloca cartas numeradas para
   combinar valores y gestionar columnas buscando grandes cadenas de fusiones.
-iframeSrc: "https://041gj41756cjg.h5games.usercontent.goog/v/7n148hti57veo/"
+iframeSrc: 'https://041gj41756cjg.h5games.usercontent.goog/v/7n148hti57veo/'
 thumbnail: /new-images/thumbnails/solitaire-2048.png
 tags:
   - card
@@ -26,6 +26,7 @@ para encadenar fusiones en cascada y liberar espacio, en lugar de bloquear las
 columnas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y recorrido
 
 1.  **Columna ancla:** Mantén el valor más alto centrado para tener acceso

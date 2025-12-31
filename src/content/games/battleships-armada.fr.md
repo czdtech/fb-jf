@@ -1,16 +1,18 @@
 ---
 locale: fr
 urlstr: battleships-armada
-title: "Battleships Armada"
-description: "Version numérique de la bataille navale : place intelligemment ta flotte, applique un motif de tir et coule tous les navires adverses."
-iframeSrc: "https://3hcluun64uid0.h5games.usercontent.goog/v/0op00pgc2n4kg/"
+title: Battleships Armada
+description: >-
+  Version numérique de la bataille navale : place intelligemment ta flotte,
+  applique un motif de tir et coule tous les navires adverses.
+iframeSrc: 'https://3hcluun64uid0.h5games.usercontent.goog/v/0op00pgc2n4kg/'
 thumbnail: /new-images/thumbnails/battleships-armada.png
 tags:
   - puzzle
   - strategy
   - thinky
 score: 4.5/5  (2900 votes)
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -19,6 +21,7 @@ releaseDate: 2025-10-17
 *Battleships Armada* transpose la bataille navale classique dans un cadre numérique. Chaque joueur place secrètement sa flotte sur une grille, puis tire à tour de rôle sur les coordonnées supposées de la flotte adverse. Le premier qui coule tous les navires ennemis gagne.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégie & walkthrough
 
 1.  **Placement stratégique :** Pendant la phase initiale, évite de coller tous tes navires entre eux ou uniquement sur les bords. Un placement dispersé et irrégulier est plus difficile à deviner.

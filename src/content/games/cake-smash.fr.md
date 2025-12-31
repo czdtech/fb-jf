@@ -19,6 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Cake Smash est un jeu de puzzle match-3 vibrant et engageant. L'objectif est d'échanger des gâteaux adjacents pour créer des lignes de trois gâteaux identiques ou plus, qui sont ensuite "écrasés" et retirés du plateau, avec de nouveaux gâteaux qui tombent pour les remplacer. Chaque niveau a un objectif spécifique, comme atteindre un certain score ou éliminer un certain nombre d'un type spécifique de gâteau.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Identifie les matches :** cherche les opportunités de faire correspondre trois gâteaux identiques ou plus en échangeant deux gâteaux adjacents.

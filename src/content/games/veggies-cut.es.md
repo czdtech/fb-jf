@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: veggies-cut
-title: "Veggies Cut - Corta verduras a lo loco"
+title: Veggies Cut - Corta verduras a lo loco
 description: >-
   Veggies Cut es un cortador de cocina arcade: encadena cortes largos y limpios,
   esquiva peligros y encuentra el ritmo perfecto para lograr puntuaciones
   altísimas.
-iframeSrc: "https://01pgt4aflffvo.h5games.usercontent.goog/v/2kpv41q3jen50/"
+iframeSrc: 'https://01pgt4aflffvo.h5games.usercontent.goog/v/2kpv41q3jen50/'
 thumbnail: /new-images/thumbnails/veggies-cut.jpg
 tags:
   - action
@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 En Veggies Cut rebanas verduras con trazos amplios, construyes cadenas de combos y evitas peligros de cocina como cuchillos o bombas. Los cortes largos y rectos, junto con un ritmo tranquilo y constante, son la clave para dominar la tabla de clasificación.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y guía de juego
 
 1.  Traza líneas largas atravesando varias verduras a la vez para maximizar el valor del combo.

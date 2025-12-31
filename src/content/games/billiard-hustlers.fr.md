@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 *Billiard Hustlers* est un jeu de billard qui met l’accent sur le réalisme des trajectoires et le contrôle de la bille blanche. Que tu joues en 8‑ball, 9‑ball ou en défis de séries de poches, l’objectif reste de rentrer les bonnes billes tout en positionnant la blanche idéalement pour le coup suivant.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Anticipe la position suivante :** avant chaque tir, décide précisément où tu veux arrêter la blanche pour préparer le coup suivant.

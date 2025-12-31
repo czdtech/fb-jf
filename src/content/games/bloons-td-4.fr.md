@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: bloons-td-4
-title: "Bloons TD 4"
-description: "Bloons TD 4 introduit les chemins d’amélioration séparés, de nouvelles tours et le BFB : choisis la bonne branche pour chaque tour et développe une économie solide pour survivre aux blimps."
-iframeSrc: "https://1000freegames.github.io/swf/bloons-td-4.html"
+title: Bloons TD 4
+description: "Bloons TD 4 introduit les chemins d’amélioration séparés, de nouvelles tours et le BFB\_: choisis la bonne branche pour chaque tour et développe une économie solide pour survivre aux blimps."
+iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-4.html'
 thumbnail: /new-images/thumbnails/bloons-td-4.jpg
 tags:
   - casual
@@ -30,6 +30,7 @@ Autre innovation majeure : le **système de rang de joueur**. En accumulant de 
 -   **Consommables :** Road Spikes et flaques de Monkey Glue posables directement sur la piste.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 -   **Planifie la branche de chaque tour :** comme tu ne peux plus tout acheter, décide dès le placement si une tour servira d’arme anti‑MOAB (`MOAB Mauler`) ou de contrôle de foule (`Bloon Impact`).

@@ -23,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 Tu ne contrôles ni les courses sur base ni la défense : tout cela est automatique en fonction de la qualité de ta frappe. La difficulté vient des différents types de lancers (rapides, lents, courbes) qui exigent un timing très précis. La partie se termine quand tu as obtenu trois retraits (strikes ou balles en jeu attrapées).
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 Même si *Doodle Baseball* se joue avec un seul bouton, progresser demande d’affûter ton sens du rythme.

@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: zombie-gun
-title: "Zombie Gun - Disparos de rebote contra zombis"
+title: Zombie Gun - Disparos de rebote contra zombis
 description: >-
-  Zombie Gun es un juego de disparos con físicas: hace rebotar balas en las paredes,
-  detona barriles y limpia habitaciones usando ángulos inteligentes y munición
-  limitada.
-iframeSrc: "https://5bcvrmoqria48.h5games.usercontent.goog/v/7cfakbl479q6o/"
+  Zombie Gun es un juego de disparos con físicas: hace rebotar balas en las
+  paredes, detona barriles y limpia habitaciones usando ángulos inteligentes y
+  munición limitada.
+iframeSrc: 'https://5bcvrmoqria48.h5games.usercontent.goog/v/7cfakbl479q6o/'
 thumbnail: /new-images/thumbnails/zombie-gun.png
 tags:
   - shooting
@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Zombie Gun se centra en la puntería con rebotes: dispara contra paredes para cambiar la trayectoria de las balas, golpea barriles explosivos y derriba estructuras para eliminar zombis con el menor número posible de disparos. En las salas avanzadas aparecen enemigos acorazados que sólo pueden caer si usas el entorno a tu favor.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y guía de juego
 
 1.  **Tiros de banda:** usa las paredes para alcanzar objetivos escondidos en esquinas o tras coberturas.

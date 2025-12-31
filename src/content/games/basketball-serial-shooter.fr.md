@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 *Basketball serial shooter* est un jeu de tir au panier à rythme élevé. L’objectif est de réussir un maximum de tirs d’affilée en gérant l’angle, la puissance et parfois le vent, tout en t’adaptant aux paniers mouvants et aux différents obstacles.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1. **Construis une routine de tir**  

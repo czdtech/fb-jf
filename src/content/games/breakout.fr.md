@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: breakout
-title: "Breakout"
-description: "Breakout est le casse‑briques arcade classique : déplace ta raquette, renvoie la balle et détruis toutes les briques sans la laisser tomber."
-iframeSrc: "https://ad-freegames.github.io/flash/game/atari-breakout.html"
+title: Breakout
+description: "Breakout est le casse‑briques arcade classique\_: déplace ta raquette, renvoie la balle et détruis toutes les briques sans la laisser tomber."
+iframeSrc: 'https://ad-freegames.github.io/flash/game/atari-breakout.html'
 thumbnail: /new-images/thumbnails/breakout.jpg
 tags:
   - arcade
@@ -22,6 +22,7 @@ Chaque brique touchée disparaît et te rapporte des points. Si la balle passe d
 Plus tu détruis de briques, plus la balle accélère, ce qui demande des réflexes de plus en plus précis.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies
 
 - **Contrôler l’angle de rebond**  

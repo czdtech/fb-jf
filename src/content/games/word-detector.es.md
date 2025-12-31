@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Word Detector es un rápido puzle de palabras que pone a prueba tu vocabulario y tu velocidad. En cada nivel se te muestra una cuadrícula de letras y debes encontrar tantas palabras como puedas conectando letras adyacentes. Puedes enlazarlas en horizontal, vertical o diagonal. Normalmente hay un objetivo de puntuación o de número de palabras que debes alcanzar antes de que termine el tiempo.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y guía de juego
 
 1.  **Busca prefijos y sufijos comunes:** localiza combinaciones frecuentes como “S”, “ED”, “ER” o “ING”; pueden servirte para formar varias palabras a partir de la misma raíz.

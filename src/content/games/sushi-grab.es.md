@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sushi-grab
-title: 'Sushi Grab'
+title: Sushi Grab
 description: >-
   Sushi Grab es un arcade rápido de cinta transportadora: elige el sushi
   correcto, esquiva trampas y alcanza la puntuación objetivo.
@@ -24,6 +24,7 @@ encadenar rachas para alcanzar la puntuación objetivo antes de que se acabe el
 tiempo.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Lee bien los pedidos:** céntrate en el sushi que te piden en ese momento;

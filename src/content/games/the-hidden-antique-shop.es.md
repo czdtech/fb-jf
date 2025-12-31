@@ -1,12 +1,11 @@
 ---
 locale: es
 urlstr: the-hidden-antique-shop
-title: "The Hidden Antique Shop - Objetos ocultos en la tienda"
+title: The Hidden Antique Shop - Objetos ocultos en la tienda
 description: >-
   Adéntrate en The Hidden Antique Shop, una acogedora tienda de antigüedades
   llena de objetos ocultos. Recorre cada rincón, detecta las diferencias más
-  sutiles y resuelve pequeños puzle para abrir nuevas vitrinas y
-  estanterías.
+  sutiles y resuelve pequeños puzle para abrir nuevas vitrinas y estanterías.
 iframeSrc: 'https://7nh0dnmovl0g0.h5games.usercontent.goog/v/01busogksrcm0/'
 thumbnail: /new-images/thumbnails/the-hidden-antique-shop.png
 tags:
@@ -23,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Explora una tienda vintage repleta de curiosidades: encuentra objetos ocultos, empareja siluetas con los artículos correctos y resuelve pequeños mecanismos para desbloquear nuevas estanterías. Los temporizadores suaves y las pistas opcionales hacen que sea una experiencia relajante, pero seguirás necesitando una buena vista para detectar los detalles más pequeños.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Barrido por cuadrículas: divide la escena en zonas y examina cada área con calma.

@@ -1,9 +1,13 @@
 ---
 locale: fr
 urlstr: atari-breakout
-title: "Atari Breakout"
-description: "Atari Breakout est un classique de l’arcade : contrôle ta raquette, fais rebondir la balle pour casser toutes les briques et vise le meilleur score possible."
-iframeSrc: "https://app-184523.games.s3.yandex.net/184523/bdryh2h6iqjirujzrk3tlum0j0n28j1o/index.html"
+title: Atari Breakout
+description: >-
+  Atari Breakout est un classique de l’arcade : contrôle ta raquette, fais
+  rebondir la balle pour casser toutes les briques et vise le meilleur score
+  possible.
+iframeSrc: >-
+  https://app-184523.games.s3.yandex.net/184523/bdryh2h6iqjirujzrk3tlum0j0n28j1o/index.html
 thumbnail: /new-images/thumbnails/atari-breakout.jpg
 tags:
   - casual
@@ -19,10 +23,12 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Au fil de la partie, la vitesse de la balle augmente, rendant les réactions plus difficiles. Tu disposes d’un nombre limité de vies : chaque fois que la balle passe derrière ta raquette, tu en perds une. La partie se termine lorsque tu n’as plus de vie.
 
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 Même si *Breakout* paraît minimaliste, exploiter quelques tactiques bien rodées te permettra d'obtenir de meilleurs scores et de nettoyer les niveaux beaucoup plus vite.
 
+<!-- i18n:section:tips -->
 #### 1. La stratégie du tunnel
 
 La technique la plus efficace consiste à percer un **tunnel vertical** sur un côté de l’écran (gauche ou droit). Une fois la brèche ouverte, ton but est d’envoyer la balle dans cette ouverture pour qu’elle se retrouve **au‑dessus** des briques. Là‑haut, elle rebondira entre le plafond et la couche supérieure, détruisant de nombreuses briques sans que tu aies à la rattraper à chaque fois.

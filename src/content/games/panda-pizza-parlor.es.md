@@ -29,6 +29,7 @@ justo y servirlas a una clientela de animales hambrientos. Administra bien tu
 negocio desde un pequeño local de barrio hasta una pizzería de fama mundial.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Revisar el pedido:** en cuanto llegue un cliente, fíjate en el bocadillo

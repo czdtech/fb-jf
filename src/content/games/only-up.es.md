@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: only-up
-title: "Only Up - Escalada 3D extrema"
+title: Only Up - Escalada 3D extrema
 description: >-
-  Only Up es un exigente plataformas 3D en el que debes escalar con precisión
-  un mundo caótico y precario, superando obstáculos y dominando saltos milimétricos
+  Only Up es un exigente plataformas 3D en el que debes escalar con precisión un
+  mundo caótico y precario, superando obstáculos y dominando saltos milimétricos
   para alcanzar nuevas alturas sin caer.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230826/01/index.htm
@@ -27,6 +27,7 @@ edificios abandonados y estructuras surrealistas. No hay puntos de guardado: un
 solo error puede hacerte caer desde gran altura y obligarte a empezar casi
 desde el principio, poniendo a prueba tu precisión y tu templanza.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Observación meticulosa:** antes de cada salto, estudia la posición,

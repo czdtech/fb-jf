@@ -30,6 +30,7 @@ ellas tiene como máximo dos giros de 90 grados. Con el tiempo corriendo, tendr�
 que ser rápido y pensar con estrategia para superar cada nivel.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Regla de conexión:** solo puedes eliminar dos fichas iguales si puedes

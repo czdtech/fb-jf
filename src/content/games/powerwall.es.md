@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: powerwall
-title: "Powerwall"
+title: Powerwall
 description: >-
-  Defiende tu portería en Powerwall, un trepidante arcade de reflejos. Activa
-  un muro de energía en el momento justo para bloquear la pelota y aguanta el
+  Defiende tu portería en Powerwall, un trepidante arcade de reflejos. Activa un
+  muro de energía en el momento justo para bloquear la pelota y aguanta el
   máximo tiempo posible.
-iframeSrc: "https://powerwall2.h5games.usercontent.goog/v/2744b7jm5t0jg/"
+iframeSrc: 'https://powerwall2.h5games.usercontent.goog/v/2744b7jm5t0jg/'
 thumbnail: /new-images/thumbnails/powerwall.png
 tags:
   - action
@@ -28,6 +28,7 @@ velocidad aumenta y te exige reaccionar con más precisión. Cuanto más tiempo
 consigas aguantar sin que la pelota cruce tu portería, mayor será tu puntuación.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y recorrido
 
 1.  **El tiempo lo es todo:** La mecánica central consiste en activar el

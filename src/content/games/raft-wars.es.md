@@ -1,12 +1,13 @@
 ---
 locale: es
 urlstr: raft-wars
-title: "Raft Wars"
+title: Raft Wars
 description: >-
   Raft Wars es un juego de disparos por turnos en el que ayudas a dos hermanos
   pequeños a defender su tesoro de piratas y vikingos usando pelotas de tenis y
   otros proyectiles en batallas navales.
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210301/jj8/index.html"
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210301/jj8/index.html
 thumbnail: /new-images/thumbnails/raft-wars.jpg
 tags:
   - strategy
@@ -27,6 +28,7 @@ usan una divertida mecánica de disparo con físicas: tendrás que ajustar el á
 y la potencia para lanzar pelotas de tenis y otros proyectiles y derribar a los
 enemigos al agua.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego
 
 1.  **Domina la puntería:** Practica cómo afectan el ángulo y la potencia a la

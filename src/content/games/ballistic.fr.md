@@ -23,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 Après chaque tir, tous les blocs descendent d’une ligne, ce qui met une pression constante : si un bloc atteint le bas de l’aire de jeu, la partie est terminée. En chemin, tu peux récupérer des balles supplémentaires et des bonus qui augmentent ta puissance de feu.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 Pour progresser longtemps, anticipe plusieurs tirs à l’avance et exploite au mieux chaque rebond.

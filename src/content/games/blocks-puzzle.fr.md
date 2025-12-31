@@ -19,6 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Dans *Blocks Puzzle*, tu dois placer des formes sur une grille 10×10 pour former des lignes complètes. À chaque tour, trois pièces te sont proposées ; une fois posées, tu en reçois trois nouvelles. Le jeu s’arrête lorsque tu ne peux plus poser aucune des pièces.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Observe toujours les trois pièces**  

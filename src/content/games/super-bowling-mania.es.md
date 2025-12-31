@@ -28,6 +28,7 @@ spares complicados y soñar con el ansiado 300. Es una forma ideal de disfrutar
 de los bolos en cualquier momento.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Coloca bien al jugador:** antes de lanzar, ajusta tu posición sobre el

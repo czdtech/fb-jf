@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: night-watchman
-title: "Night Watchman - Guardia nocturno en un edificio maldito"
+title: Night Watchman - Guardia nocturno en un edificio maldito
 description: >-
   Night Watchman es un juego de terror y supervivencia en el que trabajas como
   vigilante nocturno, controlando cámaras de seguridad y gestionando recursos
@@ -28,6 +28,7 @@ múltiples amenazas misteriosas hasta el amanecer. El juego se centra en la
 ambientación y la gestión de recursos, creando una experiencia tensa y
 sobrecogedora.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Vigilar las cámaras:** controla con frecuencia los monitores para detectar

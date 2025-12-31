@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: minigolf-clash
-title: "Minigolf Clash - Desafíos creativos de putt"
+title: Minigolf Clash - Desafíos creativos de putt
 description: >-
   Minigolf Clash propone circuitos de minigolf llenos de obstáculos creativos:
   lee las pendientes, usa los rebotes y emboca bajo par en recorridos llenos de
@@ -27,6 +27,7 @@ hoyo por debajo del par— pero dominar ángulos y potencia es lo que te permiti
 lograr puntuaciones bajas y tiros espectaculares.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Control de fuerza: usa golpes suaves cerca del hoyo para evitar que la bola

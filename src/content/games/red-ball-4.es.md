@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: red-ball-4
-title: "Red Ball 4"
+title: Red Ball 4
 description: >-
   Red Ball 4 es un juego de plataformas con físicas en el que controlas a una
   simpática bola roja en una misión para salvar el mundo de los malvados
   cuadrados que quieren convertirlo todo en cubos, superando niveles llenos de
   obstáculos y puzles.
-iframeSrc: "https://class198.github.io/g177/red-ball-4/"
+iframeSrc: 'https://class198.github.io/g177/red-ball-4/'
 thumbnail: /new-images/thumbnails/red-ball-4.jpg
 tags:
   - platformer
@@ -28,6 +28,7 @@ plataformas, trampas y puzles que tendrás que superar aprovechando el rebote y
 el rodar de la bola, al mismo tiempo que derrotas a los enemigos que se cruzan
 en tu camino.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego
 
 1.  **Aprovecha las propiedades físicas:** Usa el rebote y el rodar de la bola

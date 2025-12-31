@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: bricks-breaker-house
-title: "Bricks Breaker House"
-description: "Bricks Breaker House ajoute une ambiance « maison » au casse‑briques : ajuste l’angle de service, gère les bonus et garde ta raquette sous contrôle pour ne pas laisser tomber la balle."
-iframeSrc: "https://1s6hqqts5ko6o.h5games.usercontent.goog/v/7n8ge2nvqqksg/"
+title: Bricks Breaker House
+description: "Bricks Breaker House ajoute une ambiance «\_maison\_» au casse‑briques\_: ajuste l’angle de service, gère les bonus et garde ta raquette sous contrôle pour ne pas laisser tomber la balle."
+iframeSrc: 'https://1s6hqqts5ko6o.h5games.usercontent.goog/v/7n8ge2nvqqksg/'
 thumbnail: /new-images/thumbnails/bricks-breaker-house.png
 tags:
   - puzzle
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 *Bricks Breaker House* reprend le principe du casse‑briques avec des plateaux variés et des bonus. Ta mission reste simple : faire rebondir la balle sur ta raquette pour casser toutes les briques, en profitant des bonus sans perdre le contrôle.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1. **Angles contrôlés**  

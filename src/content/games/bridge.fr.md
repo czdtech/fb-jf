@@ -19,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Le Bridge est un jeu de cartes classique et hautement stratégique de prise de plis joué par quatre joueurs en deux partenariats concurrents. Les joueurs s'assoient en face de leurs partenaires. Le jeu consiste en deux phases principales : les Enchères (ou Vente) et le Jeu. Pendant les enchères, les partenariats rivalisent pour déterminer le "contrat", qui spécifie la couleur d'atout et le nombre de levées que ce partenariat doit gagner. Pendant le jeu, le camp qui a remporté l'enchère (le déclarant) essaie de remplir son contrat, tandis que les défenseurs essaient de l'en empêcher. Il est largement considéré comme l'un des plus grands sports cérébraux au monde.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Les enchères :** c'est la première phase. Les joueurs font des enchères à tour de rôle. Une enchère consiste en un nombre (1-7) et une couleur (Trèfle, Carreau, Cœur, Pique) ou "Sans-Atout" (SA). Le nombre correspond au nombre de levées au-dessus de 6 que le partenariat s'engage à gagner (par ex. une enchère de 3 Cœurs signifie qu'ils doivent gagner au moins 9 levées avec Cœur comme atout). L'enchère la plus haute devient le contrat final.

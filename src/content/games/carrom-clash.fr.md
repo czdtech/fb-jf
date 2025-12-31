@@ -21,6 +21,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Carrom Clash est une version numérique réaliste du jeu de plateau bien-aimé, le Carrom. Souvent décrit comme un billard au doigt, le jeu te met au défi d'utiliser un disque plus grand, le "striker", pour propulser tes pièces assignées (noires ou blanches) dans les quatre poches des coins. Le jeu requiert précision, stratégie et une bonne compréhension des angles pour surpasser ton adversaire et vider tes pièces en premier.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **L'objectif :** sois le premier joueur à empocher toutes tes pièces (noires ou blanches). Pour gagner, tu dois aussi empocher et "couvrir" la dame rouge.

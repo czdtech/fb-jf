@@ -28,6 +28,7 @@ En tant que **policier**, ta mission est de verrouiller tous les accès, neutral
 La carte prend place dans un quartier urbain : hall principal, salle des coffres, toits, ruelles et parkings servent de zones d’affrontement. Chaque manche gagnée rapporte de l’argent pour acheter un meilleur arsenal, des armures plus épaisses ou des outils comme le C4.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 Le plan dépend fortement du camp choisi : les braqueurs doivent pénétrer, tenir la perceuse puis exfiltrer l’argent, tandis que les policiers doivent surveiller tous les accès, casser les offensives coordonnées et couper la fuite.

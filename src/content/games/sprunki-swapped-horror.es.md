@@ -13,7 +13,7 @@ tags:
   - sprunki swapped horror
   - sprunki swapped horror online
 score: 4.4/5  (395 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -41,6 +41,7 @@ patrones para crear composiciones inquietantes.
   nivel visual.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Cómo jugar a Sprunki Swapped Horror
 
 El manejo es muy sencillo:

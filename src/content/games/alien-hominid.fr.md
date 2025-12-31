@@ -1,9 +1,12 @@
 ---
 locale: fr
 urlstr: alien-hominid
-title: "Alien Hominid"
-description: "Alien Hominid est un run and gun 2D ultra nerveux : apprends à esquiver, creuser, mordre tes ennemis et utiliser tout l’arsenal de l’extraterrestre pour survivre aux vagues d’agents."
-iframeSrc: "https://ad-freegames.github.io/flash/game/alien-hominid.html"
+title: Alien Hominid
+description: >-
+  Alien Hominid est un run and gun 2D ultra nerveux : apprends à esquiver,
+  creuser, mordre tes ennemis et utiliser tout l’arsenal de l’extraterrestre
+  pour survivre aux vagues d’agents.
+iframeSrc: 'https://ad-freegames.github.io/flash/game/alien-hominid.html'
 thumbnail: /new-images/thumbnails/alien-hominid.jpg
 tags:
   - shooting
@@ -19,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Tu incarnes un petit alien jaune dont le vaisseau a été abattu par le FBI. Coincé sur Terre, tu dois affronter des vagues d’agents secrets, de soldats et de boss gigantesques pour récupérer ton vaisseau et t’échapper. Le jeu s’inspire de titres comme *Contra* ou *Metal Slug* : beaucoup d’ennemis, des tirs partout, des morts en un coup et des combats de boss aux schémas d’attaque à apprendre.
 
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 *Alien Hominid* est exigeant : il demande réflexes, mémorisation et maîtrise des mouvements spéciaux de l’alien.
@@ -35,6 +39,7 @@ Tu incarnes un petit alien jaune dont le vaisseau a été abattu par le FBI. Coi
 - **Attaque au corps‑à‑corps :** ton couteau est très utile quand un ennemi est trop proche et que tu veux te frayer un passage rapidement.  
 - **Grenades :** garde‑les pour les groupes d’ennemis ou pour entamer sérieusement la vie des boss.
 
+<!-- i18n:section:tips -->
 #### 3. Conseils de combat généraux
 
 - **Tirs chargés :** en maintenant le bouton de tir, tu lances un tir chargé qui traverse plusieurs ennemis. Tu es cependant vulnérable pendant la charge, donc choisis bien le moment.  

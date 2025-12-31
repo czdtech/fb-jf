@@ -1,19 +1,19 @@
 ---
 locale: es
 urlstr: sprunki-basical
-title: "Sprunki Basical - Juega a Sprunki Basical en línea"
+title: Sprunki Basical - Juega a Sprunki Basical en línea
 description: >-
   Sprunki Basical es un juego de creación musical "vuelta a lo básico" que te
   permite disfrutar de la parte más pura y divertida de la música con controles
   muy sencillos. Si te gusta Incredibox y quieres probar algo nuevo, Sprunki
   Basical es una gran opción.
-iframeSrc: "https://sprunki-basical.pages.dev/"
+iframeSrc: 'https://sprunki-basical.pages.dev/'
 thumbnail: /new-images/thumbnails/sprunki-basical.png
 tags:
   - sprunki basical
   - sprunki basical online
 score: 4.4/5  (420 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -27,6 +27,7 @@ nuevo entorno donde experimentar, aquí tienes un candidato perfecto.
 ---
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### ¿Cómo se juega a Sprunki Basical?
 
 La mecánica es muy sencilla, en unos pocos pasos ya estarás componiendo:

@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Words of Magic es un juego de palabras relajante y con un toque encantado, pensado para poner a prueba tu vocabulario y tu habilidad con los anagramas. En cada nivel recibes un círculo de letras y un tablero superior con casillas al estilo crucigrama. Tu misión es encontrar todas las palabras ocultas que se pueden formar con esas letras y completar por completo la cuadrícula. Es el título perfecto para desconectar mientras le das un suave ejercicio al cerebro.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y guía de juego
 
 1.  **Empieza por lo evidente:** busca primero las palabras más cortas y obvias (normalmente de tres letras). Al rellenarlas conseguirás letras reveladas que te darán pistas para las palabras más largas y complejas.

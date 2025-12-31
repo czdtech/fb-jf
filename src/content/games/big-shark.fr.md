@@ -23,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 Mais l’eau est loin d’être sûre : requins plus gros, mines sous‑marines et autres menaces peuvent mettre fin à ta partie en un instant. Le jeu est infini et orienté score : le but est de survivre le plus longtemps possible et de devenir le plus grand requin du coin.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 Réussir dans *Big Shark* demande un mélange de prudence et d’agressivité réfléchie.

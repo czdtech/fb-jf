@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: bowling-stars
-title: "Bowling Stars"
-description: "Bowling Stars est une simulation de bowling à 10 quilles : ajuste ton angle, ton effet et ta puissance pour enchaîner les strikes et gérer tes spares."
-iframeSrc: "https://0pst60kfu8pi8.h5games.usercontent.goog/v/249kviafiu6co/"
+title: Bowling Stars
+description: "Bowling Stars est une simulation de bowling à 10 quilles\_: ajuste ton angle, ton effet et ta puissance pour enchaîner les strikes et gérer tes spares."
+iframeSrc: 'https://0pst60kfu8pi8.h5games.usercontent.goog/v/249kviafiu6co/'
 thumbnail: /new-images/thumbnails/bowling-stars.png
 tags:
   - sports
@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 *Bowling Stars* te met sur une piste de bowling classique en vue 3D. Tu choisis ta ligne, ta vitesse et la courbe de ta boule pour renverser les 10 quilles en un minimum de lancers.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1. **Vise la poche**  

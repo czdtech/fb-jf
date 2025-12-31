@@ -12,7 +12,7 @@ tags:
   - super sprunki brasil
   - super sprunki brasil online
 score: 4.3/5  (380 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -46,6 +46,7 @@ ritmos de samba:
 - **Compartir tu mezcla:** cuando tengas un tema que te guste, compártelo en
   línea o con amigos para contagiar el espíritu festivo.
 
+<!-- i18n:section:tips -->
 ### Consejos y trucos
 
 - **Explora ritmos brasileños:** intenta incluir patrones y «grooves» típicos de

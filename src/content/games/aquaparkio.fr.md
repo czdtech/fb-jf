@@ -1,9 +1,12 @@
 ---
 locale: fr
 urlstr: aquaparkio
-title: "Aquapark io"
-description: "Dans aquapark.io, tu dévales un toboggan géant, bouscules tes adversaires et prends des raccourcis en volant hors de la piste pour franchir la ligne d’arrivée en premier."
-iframeSrc: "https://bitlifeonline.github.io/class23523/aquaparkio/"
+title: Aquapark io
+description: >-
+  Dans aquapark.io, tu dévales un toboggan géant, bouscules tes adversaires et
+  prends des raccourcis en volant hors de la piste pour franchir la ligne
+  d’arrivée en premier.
+iframeSrc: 'https://bitlifeonline.github.io/class23523/aquaparkio/'
 thumbnail: /new-images/thumbnails/aquaparkio.jpg
 tags:
   - casual
@@ -20,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 La vraie particularité du jeu vient de la possibilité de **sauter hors du toboggan** pour couper le circuit. En prenant assez de vitesse, tu peux te lancer dans le vide et essayer d’atterrir plus bas sur la piste, gagnant ainsi plusieurs virages d’avance. Tu peux également pousser d’autres joueurs pour les faire tomber.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 Gagner une course dans *aquapark.io* demande de maîtriser les raccourcis aériens et de bien doser la prise de risque.

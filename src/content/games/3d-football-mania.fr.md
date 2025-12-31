@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 3D Football Mania te propose une succession de petites situations de foot en 3D. Lis les déplacements des défenseurs, choisis la bonne passe et déclenche ta frappe au bon moment pour battre le gardien dans des défis courts et rejouables.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1. **Utilise les passes en profondeur :** préfère les ballons dans l’espace plutôt que dans les pieds pour prendre la défense de vitesse.

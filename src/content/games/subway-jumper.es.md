@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: subway-jumper
-title: 'Subway Jumper'
+title: Subway Jumper
 description: >-
   Subway Jumper es un runner ágil de tres carriles: cambia de vía, ajusta saltos
   y deslizamientos y mantén el ritmo mientras esquivas los peligros del metro.
@@ -24,6 +24,7 @@ los potenciadores te invitan a tomar rutas arriesgadas, pero la clave para hacer
 buenas rachas está en la consistencia.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Mira dos obstáculos por delante:** no mires solo al personaje; presta

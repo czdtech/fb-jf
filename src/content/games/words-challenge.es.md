@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: words-challenge
-title: "Words Challenge - Reto total de palabras"
+title: Words Challenge - Reto total de palabras
 description: >-
   Words Challenge reúne varios tipos de retos de palabras: anagramas,
   mini‑crucigramas y preguntas rápidas que premian el vocabulario amplio y la
   buena deducción.
-iframeSrc: "https://60p1t41kumli8.h5games.usercontent.goog/v/7pss7j2tdq7io/"
+iframeSrc: 'https://60p1t41kumli8.h5games.usercontent.goog/v/7pss7j2tdq7io/'
 thumbnail: /new-images/thumbnails/words-challenge.jpg
 tags:
   - puzzle
@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Words Challenge mezcla resolución de anagramas, pequeños crucigramas y preguntas rápidas. El éxito depende del reconocimiento de patrones (prefijos/sufijos), la intuición sobre frecuencia de letras y la eliminación tranquila de opciones bajo temporizadores ligeros.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y guía de juego
 
 1.  Morfología: ataca primero prefijos (RE-, UN-) y sufijos (-ING, -ED, -ER) para sacar palabras rápidamente.

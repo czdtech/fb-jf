@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: tropical-merge
-title: "Tropical Merge - Aventura de fusiones en las islas"
+title: Tropical Merge - Aventura de fusiones en las islas
 description: >-
   Tropical Merge es una soleada aventura de combinar objetos: encadena fusiones,
   completa misiones y expande tus islas gestionando con cuidado el espacio y la
   energía.
-iframeSrc: "https://7jdqir15djng0.h5games.usercontent.goog/v/3nm4cvs4b09jo/"
+iframeSrc: 'https://7jdqir15djng0.h5games.usercontent.goog/v/3nm4cvs4b09jo/'
 thumbnail: /new-images/thumbnails/tropical-merge.png
 tags:
   - puzzle
@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Fusiona objetos en grupos de 3 o 5 para mejorar recursos, despejar la niebla y desbloquear nuevas islas. Las misiones marcan tu progreso, mientras que la energía limitada y el poco espacio premian a quienes planifican en lugar de fusionar sin pensar.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y guía de juego
 
 1.  Prioriza las fusiones de 5 cuando puedas para obtener más recompensas por el mismo coste.

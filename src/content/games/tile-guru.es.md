@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: tile-guru
-title: "Tile Guru - Maestro de las fichas triples"
+title: Tile Guru - Maestro de las fichas triples
 description: >-
-  Tile Guru es un puzle de fichas triples muy pulido: elige fichas, gestiona
-  la bandeja y despeja el tablero sin atascar tus pilas.
+  Tile Guru es un puzle de fichas triples muy pulido: elige fichas, gestiona la
+  bandeja y despeja el tablero sin atascar tus pilas.
 iframeSrc: 'https://5en3tugq69tdo.h5games.usercontent.goog/v/4pu6to0p0cgrg/'
 thumbnail: /new-images/thumbnails/tile-guru.png
 tags:
@@ -20,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Tile Guru utiliza la fórmula clásica de bandeja para tríos: seleccionas fichas y las envías a una bandeja con espacio limitado; cuando reúnes tres iguales, se eliminan. El reto real está en gestionar las pilas para no enterrar fichas importantes ni bloquear la bandeja.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Controla los pares: evita abrir demasiados conjuntos a la vez; resuelve los pares que ya tienes antes de empezar nuevos.

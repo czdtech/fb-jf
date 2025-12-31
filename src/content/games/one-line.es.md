@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: one-line
-title: "One Line - Un trazo para conectar todos los puntos"
+title: One Line - Un trazo para conectar todos los puntos
 description: >-
-  One Line es un puzle minimalista en el que dibujas una única línea
-  continua para conectar todos los puntos del tablero sin levantar el dedo ni
-  repetir ningún camino.
+  One Line es un puzle minimalista en el que dibujas una única línea continua
+  para conectar todos los puntos del tablero sin levantar el dedo ni repetir
+  ningún camino.
 iframeSrc: 'https://g2.igroutka.ru/games/3/JLgd70b3BNafhVq5/10/igra-odna-liniya/game.html'
 thumbnail: /new-images/thumbnails/one-line.jpg
 tags:
@@ -27,6 +27,7 @@ continua que conecte todos los puntos del tablero sin levantar el dedo ni pasar
 lógico y la percepción espacial, con niveles que se vuelven más complejos a
 medida que avanzas.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Observar los caminos:** antes de empezar a trazar, estudia la posición de

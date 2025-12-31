@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: om-nom-bubbles
-title: "Om Nom Bubbles - Dispara burbujas con Om Nom"
+title: Om Nom Bubbles - Dispara burbujas con Om Nom
 description: >-
   Om Nom Bubbles es un colorido Bubble Shooter: empareja colores, usa tiros a
   banda y limpia el tablero aprovechando ángulos inteligentes.
@@ -27,6 +27,7 @@ colores y la planificación de las próximas burbujas son fundamentales para que
 el techo no baje demasiado.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Apuntar a los anclajes:** céntrate en los grupos que sostienen secciones

@@ -23,6 +23,7 @@ Contrairement aux puzzles classiques, cette version mise sur une esthétique tr�
 La partie s’achève lorsque tu ne peux plus poser aucune des trois pièces proposées simultanément, d’où l’importance d’une bonne vision d’ensemble.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Anticipe les trois pièces**  

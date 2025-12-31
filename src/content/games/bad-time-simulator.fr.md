@@ -23,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 Contrairement à un RPG classique, l’objectif n’est pas d’infliger beaucoup de dégâts, mais de **survivre** à un enchaînement de phases de bullet‑hell : os qui jaillissent du sol, rayons des *Gaster Blasters*, plateformes sous gravité modifiée, etc. Particularité supplémentaire, l’effet de **Karmic Retribution (KR)** fait lentement diminuer tes PV après chaque coup reçu, ce qui te laisse très peu de marge d’erreur.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 Réussir ce combat demande avant tout de l’endurance et une excellente mémorisation : la moindre erreur coûte cher.

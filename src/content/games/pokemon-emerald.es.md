@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: pokemon-emerald
-title: "Pokémon Esmeralda"
+title: Pokémon Esmeralda
 description: >-
   Pokémon Esmeralda es un JRPG clásico de la saga Pokémon en el que viajas por
   la región de Hoenn, capturando y entrenando Pokémon, combatiendo contra otros
   entrenadores y Líderes de Gimnasio para convertirte en Campeón, mientras
   frenas los planes de los equipos Magma y Aqua.
-iframeSrc: "https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonemerald"
+iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonemerald'
 thumbnail: /new-images/thumbnails/pokemon-emerald.jpg
 tags:
   - rpg
@@ -29,6 +29,7 @@ la Liga Pokémon. Al mismo tiempo, te verás envuelto en el conflicto entre las
 organizaciones villanas **Equipo Magma** y **Equipo Aqua**, intentando detener
 sus planes para alterar el equilibrio del mundo.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego
 
 1.  **Atrapar Pokémon:** Encuentra Pokémon salvajes en la hierba alta, zonas de

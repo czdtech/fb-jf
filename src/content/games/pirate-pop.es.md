@@ -27,6 +27,7 @@ las paredes para hacer tiros con rebote y crea grandes reacciones en cadena
 para soltar enormes racimos de burbujas y hacerte con el tesoro.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Apunta alto para grandes caídas:** La forma más eficaz de conseguir

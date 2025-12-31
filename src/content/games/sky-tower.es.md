@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: sky-tower
-title: "Sky Tower"
+title: Sky Tower
 description: >-
   Sky Tower es un juego de apilar pisos: calcula el momento exacto para soltar
   las plataformas, minimiza los salientes y construye la torre más alta y
   estable posible.
-iframeSrc: "https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/"
+iframeSrc: 'https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/'
 thumbnail: /new-images/thumbnails/sky-tower.png
 tags:
   - puzzle
@@ -26,6 +26,7 @@ hace cada vez más pequeña. Una buena sincronización genera torres altas y est
 imprecisión hace que los pisos se encojan y la partida termine pronto.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y recorrido
 
 1.  **Usa una referencia central:** Alinea los pisos con algún elemento del

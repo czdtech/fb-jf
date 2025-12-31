@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: poly-art
-title: "Poly Art"
+title: Poly Art
 description: >-
   Relájate y pon a prueba tu percepción con Poly Art, un precioso juego de
   puzles en 3D. Gira una nube de polígonos de colores hasta que se alineen para
   revelar una imagen completa y espectacular.
-iframeSrc: "https://polyart.h5games.usercontent.goog/v/47aiosp2dbqgg/"
+iframeSrc: 'https://polyart.h5games.usercontent.goog/v/47aiosp2dbqgg/'
 thumbnail: /new-images/thumbnails/poly-art.png
 tags:
   - puzzle
@@ -29,6 +29,7 @@ clara y reconocible: un animal, un objeto, un personaje… Es un juego de
 percepción, paciencia y descubrimiento.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y guía
 
 1.  **Gira despacio y con calma:** No des golpes de ratón al azar. Gira el

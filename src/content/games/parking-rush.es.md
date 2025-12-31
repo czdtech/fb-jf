@@ -30,6 +30,7 @@ rutas para todos los coches sin que se choquen entre ellos. A medida que avanzas
 que la planificación y la sincronización se vuelven esenciales.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Planificar las rutas:** antes de trazar la primera línea, observa el

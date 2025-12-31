@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: ultimate-knife-smash
-title: "Ultimate Knife Smash - Lluvia de cuchillos"
+title: Ultimate Knife Smash - Lluvia de cuchillos
 description: >-
   Ultimate Knife Smash es un arcade de reflejos: lanza cuchillos a un objetivo
   giratorio, evita golpear las hojas ya clavadas y rompe las dianas con
   precisión.
-iframeSrc: "https://ultimateknifesmash.h5games.usercontent.goog/v/5ifrmqkiihdj0/"
+iframeSrc: 'https://ultimateknifesmash.h5games.usercontent.goog/v/5ifrmqkiihdj0/'
 thumbnail: /new-images/thumbnails/ultimate-knife-smash.png
 tags:
   - action
@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Ultimate Knife Smash es un juego arcade basado en la sincronización. Tienes que lanzar cuchillos contra una diana giratoria sin golpear las hojas que ya están clavadas. La velocidad y el sentido de giro cambian a menudo, de modo que necesitarás buen ritmo, precisión y gestión del riesgo para superar las fases de combo.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y guía de juego
 
 1.  Observa la rotación: presta atención a los cambios de velocidad y de sentido antes de comprometer un lanzamiento.

@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Tower Crash 3D es un adictivo puzle basado en físicas en el que tu misión es derribar torres formadas por bloques de colores. La condición es clara: solo puedes destruir bloques que coincidan con el color de la bola que tienes cargada. Con munición limitada en cada nivel, tendrás que apuntar con precisión a los bloques clave que sostienen la estructura para hacer que toda la torre se desplome por debajo de la línea objetivo.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Acierta el color:** mira siempre el color de la bola cargada en el cañón y apunta solo a bloques del mismo tono. Disparar a un color distinto no hace nada y desperdicia un lanzamiento.

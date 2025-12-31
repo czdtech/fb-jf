@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: wood-block-match
-title: "Wood Block Match - Encaja los bloques de madera"
+title: Wood Block Match - Encaja los bloques de madera
 description: >-
   Wood Block Match es un relajante juego de encajar piezas: coloca figuras de
   madera, completa filas o columnas y conserva espacio planificando bien tus
   huecos.
-iframeSrc: "https://2rfr65hktjv5o.h5games.usercontent.goog/v/46h85f5g0sldo/"
+iframeSrc: 'https://2rfr65hktjv5o.h5games.usercontent.goog/v/46h85f5g0sldo/'
 thumbnail: /new-images/thumbnails/wood-block-match.png
 tags:
   - puzzle
@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Wood Block Match es un juego de colocación de bloques estilo 10×10 con estética de madera. En cada turno recibes un conjunto de piezas y debes colocarlas en el tablero para completar filas o columnas y limpiarlas. La partida termina cuando ninguna de las piezas disponibles encaja, así que todo gira en mantener líneas flexibles mientras preparas eliminaciones múltiples.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y guía de juego
 
 1.  Deja espacio en el centro: procura mantener la zona central despejada y ordena los bordes para evitar trampas de una sola casilla.

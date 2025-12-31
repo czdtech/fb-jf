@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: sudoku
-title: 'Sudoku'
+title: Sudoku
 description: >-
-  Sudoku es el puzle numérico clásico en el que debes rellenar una
-  cuadrícula de 9x9 con los dígitos del 1 al 9, asegurándote de que cada fila,
-  columna y subcuadro 3x3 contenga todos los números exactamente una vez.
+  Sudoku es el puzle numérico clásico en el que debes rellenar una cuadrícula de
+  9x9 con los dígitos del 1 al 9, asegurándote de que cada fila, columna y
+  subcuadro 3x3 contenga todos los números exactamente una vez.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/html5-sudoku/'
 thumbnail: /new-images/thumbnails/sudoku.jpg
 tags:
@@ -25,6 +25,7 @@ cuadrícula de 9x9 casillas con dígitos del 1 al 9, de manera que cada fila,
 columna y región 3x3 contenga todos los números exactamente una vez. Es una
 prueba de razonamiento, paciencia y atención al detalle.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Empieza por lo fácil:** busca casillas donde solo encaja un número

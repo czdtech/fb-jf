@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sugar-heroes
-title: 'Sugar Heroes'
+title: Sugar Heroes
 description: >-
   Sugar Heroes es un match-3 colorido: libera bloqueadores, combina
   potenciadores y cumple objetivos de nivel planificando bien tus movimientos.
@@ -26,6 +26,7 @@ Las fusiones de potenciadores (bomba + línea, caramelos de color, etc.) son
 imprescindibles en tableros muy densos.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Prioriza el objetivo:** limpia primero los bloqueadores o recoge los

@@ -29,6 +29,7 @@ reto está en las reglas de conexión y en el reloj que corre, así que necesita
 buen ojo y rapidez mental para completar cada nivel a tiempo.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Regla de conexión:** solo puedes eliminar una pareja de fichas idénticas

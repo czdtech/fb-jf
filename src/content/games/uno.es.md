@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: uno
-title: "UNO Game - El clásico de cartas"
+title: UNO Game - El clásico de cartas
 description: >-
   UNO es el clásico juego de cartas en el que los jugadores compiten por vaciar
   su mano combinando colores y números, usando cartas de acción especiales para
   frenar a los rivales y ser el primero en gritar “¡UNO!”.
-iframeSrc: "https://www.xpgameplus.com/games/uno/default.html"
+iframeSrc: 'https://www.xpgameplus.com/games/uno/default.html'
 thumbnail: /new-images/thumbnails/uno.jpg
 tags:
   - card game
@@ -21,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 "UNO Game" es la versión digital del clásico juego de cartas en el que los jugadores compiten por quedarse sin cartas antes que los demás. Para ello, deben combinar colores y números y aprovechar cartas de acción especiales para bloquear, saltar turno o cambiar el sentido de la ronda.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Prioriza el color:** intenta jugar siempre cartas del color actual y guarda los comodines y cartas de acción como plan de reserva.

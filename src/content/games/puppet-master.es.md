@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: puppet-master
-title: "Puppet Master"
+title: Puppet Master
 description: >-
   Puppet Master es un extravagante juego de puzles basado en físicas en el que
   controlas a un muñeco a través de niveles llenos de obstáculos, moviendo sus
   extremidades y su cuerpo de forma precisa para llegar a la meta.
-iframeSrc: "https://classroomjq.github.io/puppet-master/"
+iframeSrc: 'https://classroomjq.github.io/puppet-master/'
 thumbnail: /new-images/thumbnails/puppet-master.jpg
 tags:
   - puzzle
@@ -27,6 +27,7 @@ que se agarre, se impulse y avance hasta alcanzar la meta. El juego es conocido
 por su sistema de control único y sus animaciones llenas de humor, que mezclan
 momentos muy torpes con retos realmente desafiantes.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego
 
 1.  **Domina los controles:** Empieza por familiarizarte con el manejo de cada

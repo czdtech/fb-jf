@@ -19,6 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 *Bubble Shooter HD* reprend le gameplay du bubble shooter : tu tires une bulle colorée vers le haut pour former des groupes d’au moins trois bulles de même couleur. Les bulles associées disparaissent, et celles qui ne sont plus reliées à rien tombent.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1. **Vise soigneusement**  

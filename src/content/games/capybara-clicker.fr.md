@@ -3,10 +3,10 @@ locale: fr
 urlstr: capybara-clicker
 title: Capybara Clicker
 description: >-
-  Fais grandir la population de capybaras dans Capybara Clicker. Clique pour
-  en créer, achète des améliorations automatiques, change la météo pour
-  "prestiger" et habille ton capybara avec des chapeaux trop mignons dans ce jeu
-  idle relaxant.
+  Fais grandir la population de capybaras dans Capybara Clicker. Clique pour en
+  créer, achète des améliorations automatiques, change la météo pour "prestiger"
+  et habille ton capybara avec des chapeaux trop mignons dans ce jeu idle
+  relaxant.
 iframeSrc: 'https://bitlifeonline.github.io/capybara-clicker/'
 thumbnail: /new-images/thumbnails/capybara-clicker.jpg
 tags:
@@ -33,6 +33,7 @@ chapeaux, des skins et la possibilité de changer la météo, ce qui joue le rô
 de système de prestige pour booster définitivement ta production.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Commence par cliquer activement**  

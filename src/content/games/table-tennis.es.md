@@ -28,6 +28,7 @@ reglas básicas del ping‑pong. Con controles intuitivos y físicas creíbles, 
 una experiencia accesible pero retadora para cualquier nivel.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Saque y devolución:** cada punto empieza con el saque. Debes golpear la

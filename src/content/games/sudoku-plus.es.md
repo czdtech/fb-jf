@@ -3,9 +3,9 @@ locale: es
 urlstr: sudoku-plus
 title: Sudoku Plus
 description: >-
-  Sudoku Plus es una versión ampliada del clásico Sudoku. Disfruta del
-  puzle numérico de siempre con ayudas como pistas, notas y revisión de
-  errores para poner a prueba tu mente.
+  Sudoku Plus es una versión ampliada del clásico Sudoku. Disfruta del puzle
+  numérico de siempre con ayudas como pistas, notas y revisión de errores para
+  poner a prueba tu mente.
 iframeSrc: 'https://sudokuplus.h5games.usercontent.goog/v/3q827iuj6msno/'
 thumbnail: /new-images/thumbnails/sudoku-plus.jpg
 tags:
@@ -28,6 +28,7 @@ como pistas, modo notas y comprobación de errores, por lo que es ideal tanto
 para principiantes como para jugadores avanzados que buscan una interfaz fluida.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Regla de oro:** en cada fila, columna y caja 3x3 deben aparecer todos los

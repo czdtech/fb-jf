@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: space-survivor
-title: "Space Survivor"
+title: Space Survivor
 description: >-
   Pilota tu nave a través de oleadas infinitas de enemigos alienígenas en este
   trepidante roguelike de supervivencia. Recoge XP, elige potentes mejoras y
   comprueba cuánto tiempo eres capaz de resistir.
-iframeSrc: "https://76sb7kgqtg5kg.h5games.usercontent.goog/v/5s72d5756n840/"
+iframeSrc: 'https://76sb7kgqtg5kg.h5games.usercontent.goog/v/5s72d5756n840/'
 thumbnail: /new-images/thumbnails/space-survivor.png
 tags:
   - action
@@ -29,6 +29,7 @@ mejoras. Cada partida es distinta y te reta a construir una combinación única 
 exageradamente poderosa para sobrevivir el máximo tiempo posible.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y recorrido
 
 1.  **Prioriza la supervivencia:** Al principio, lo más importante es no recibir

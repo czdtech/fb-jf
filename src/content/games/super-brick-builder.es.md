@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: super-brick-builder
-title: 'Super Brick Builder'
+title: Super Brick Builder
 description: >-
   Super Brick Builder es un puzle de apilar bloques con físicas: coloca
   ladrillos con precisión, planifica apoyos y completa estructuras con el mínimo
@@ -26,6 +26,7 @@ abajo. Un buen apoyo y colocaciones limpias pesan más que rellenar huecos a lo
 loco.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Empieza por la base:** construye cimientos simétricos y estables antes de

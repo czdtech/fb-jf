@@ -29,6 +29,7 @@ final para ver quién se lleva el bote. Es un juego de estrategia, psicología y
 un toque de suerte.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Conocer la jerarquía de manos:** el objetivo es formar la mejor mano de

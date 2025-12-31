@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: monopoly
-title: "MONOPOLY - Clásico juego de mesa inmobiliario"
+title: MONOPOLY - Clásico juego de mesa inmobiliario
 description: >-
   Monopoly es el clásico juego de mesa de compraventa de propiedades en el que
   los jugadores compran, alquilan y venden para llevar a la bancarrota a sus
@@ -27,6 +27,7 @@ compañías. El objetivo es llevar a la bancarrota al resto de jugadores y
 acabar como el gran magnate. Combina estrategia, negociación y azar, y sigue
 siendo uno de los juegos de mesa más populares del mundo.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Comprar propiedades:** cuando caigas en una casilla sin dueño, puedes

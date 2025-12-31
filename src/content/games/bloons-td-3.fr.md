@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: bloons-td-3
-title: "Bloons TD 3"
-description: "Bloons TD 3 ajoute de nouvelles tours, le Monkey Beacon et le premier MOAB : construis une défense équilibrée et prépare‑toi pour le dirigeable final."
-iframeSrc: "https://1000freegames.github.io/swf/bloons-td-3.html"
+title: Bloons TD 3
+description: "Bloons TD 3 ajoute de nouvelles tours, le Monkey Beacon et le premier MOAB\_: construis une défense équilibrée et prépare‑toi pour le dirigeable final."
+iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-3.html'
 thumbnail: /new-images/thumbnails/bloons-td-3.jpg
 tags:
   - casual
@@ -27,6 +27,7 @@ Le jeu propose plusieurs tracés et trois niveaux de difficulté (Easy, Medium, 
 -   **Immunités persistantes des bloons :** les bloons **Lead** (immunes aux projectiles tranchants), **Black** (immunes aux explosions) et **White** (immunes au gel) obligent à varier les types de dégâts.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 -   **Départ équilibré :** commence avec des Dart Monkeys et des Tack Shooters, puis améliore vite tes Dart Monkeys en « Piercing Darts ». Un Boomerang Thrower placé dans une portion courbe couvre parfaitement les packs de bloons du début.

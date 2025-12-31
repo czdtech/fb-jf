@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: tic-tac-toe-mania
-title: "Tic Tac Toe Mania - Duelos rápidos de tres en raya"
+title: Tic Tac Toe Mania - Duelos rápidos de tres en raya
 description: >-
   Tic Tac Toe Mania moderniza el clásico tres en raya con partidas ágiles,
   variantes de tablero y reglas especiales. Provoca bifurcaciones, bloquea
@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Tic Tac Toe Mania actualiza el clásico juego de tres en raya con un aspecto limpio y variantes como tableros más grandes o modos “misère”, donde ganar puede significar lo contrario de lo habitual. La base sigue siendo forzar líneas ganadoras o neutralizar las del rival; en un tablero 3×3, una partida perfecta siempre termina en tablas salvo que alguien cometa un error.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Centro primero: en 3×3, ocupar el centro maximiza las posibilidades de crear bifurcaciones; los rincones van en segundo lugar.

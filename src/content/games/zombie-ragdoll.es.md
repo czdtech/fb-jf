@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: zombie-ragdoll
-title: "Zombie Ragdoll - Cadáveres como munición"
+title: Zombie Ragdoll - Cadáveres como munición
 description: >-
   Zombie Ragdoll es un juego de disparos con físicas y ragdolls: lanza cuerpos,
   activa trampas y resuelve puzles provocando espectaculares reacciones en
   cadena.
-iframeSrc: "https://04qb5fhi49qmg.h5games.usercontent.goog/v/64br0v92f7928/"
+iframeSrc: 'https://04qb5fhi49qmg.h5games.usercontent.goog/v/64br0v92f7928/'
 thumbnail: /new-images/thumbnails/zombie-ragdoll.jpg
 tags:
   - shooting
@@ -23,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Zombie Ragdoll es un puzle de disparos en el que lanzas cuerpos de zombi tipo ragdoll para accionar palancas, detonar explosivos y derribar estructuras. Dominar los ángulos de lanzamiento y el orden en que activas las trampas es la clave para lograr cadenas de destrucción muy satisfactorias.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y guía de juego
 
 1.  **Usa el primer tiro como prueba:** dispara una vez para observar cómo reaccionan los elementos y ajusta ángulo y potencia después.

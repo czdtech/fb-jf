@@ -30,6 +30,7 @@ alcanzar cierta puntuación o limpiar casillas especiales, todo ello con un
 número limitado de movimientos.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Crear potenciadores:** la clave para superar niveles difíciles es generar

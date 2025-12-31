@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: quest-bingo
-title: "Quest Bingo"
+title: Quest Bingo
 description: >-
   Emprende una aventura de Bingo. Marca números a través de niveles llenos de
   retos, completa misiones, usa potentes boosters y recoge piezas de puzle en
   esta versión moderna del clásico.
-iframeSrc: "https://52nk212336l1g.h5games.usercontent.goog/v/0smbj5p2kjk78/"
+iframeSrc: 'https://52nk212336l1g.h5games.usercontent.goog/v/0smbj5p2kjk78/'
 thumbnail: /new-images/thumbnails/quest-bingo.png
 tags:
   - card
@@ -28,6 +28,7 @@ activando poderosos boosters y reuniendo piezas de puzle ocultas para desbloquea
 ilustraciones, añadiendo una capa extra de coleccionismo al juego de siempre.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y recorrido
 
 1.  **Fundamentos del Bingo:** La base es el Bingo tradicional. Se canta un

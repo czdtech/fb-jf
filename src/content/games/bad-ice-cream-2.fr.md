@@ -1,9 +1,13 @@
 ---
 locale: fr
 urlstr: bad-ice-cream-2
-title: "Bad Ice Cream 2"
-description: "Bad Ice‑Cream 2 est un jeu d’arcade/puzzle givré : crée et casse des murs de glace pour collecter tous les fruits du labyrinthe tout en évitant les monstres, en solo ou à deux."
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x6/index.html"
+title: Bad Ice Cream 2
+description: >-
+  Bad Ice‑Cream 2 est un jeu d’arcade/puzzle givré : crée et casse des murs de
+  glace pour collecter tous les fruits du labyrinthe tout en évitant les
+  monstres, en solo ou à deux.
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x6/index.html
 thumbnail: /new-images/thumbnails/bad-ice-cream-2.jpg
 tags:
   - puzzle
@@ -19,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Les ennemis patrouillent selon des trajectoires précises et te font perdre une vie au moindre contact. Tu peux jouer en solo ou en coop locale à deux joueurs sur le même clavier, ce qui ajoute beaucoup de chaos… et de fun. Dans chaque niveau, l’objectif est de récupérer tous les fruits avant la fin du temps imparti.
 
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 Pour terminer chaque niveau, combine des réflexes rapides avec quelques secondes de planification avant de casser ou poser de la glace.
@@ -43,6 +48,7 @@ Les ennemis suivent des schémas de déplacement répétitifs. Certains vont sim
 
 Tu es limité par le temps, mais te précipiter dans un couloir sans regarder est le meilleur moyen de te faire coincer. Utilise les murs de glace pour créer des petites zones sûres, collecter les fruits autour, puis passe au secteur suivant.
 
+<!-- i18n:section:tips -->
 #### 5. Stratégies en mode 2 joueurs
 
 - **Se partager la carte :** le plus efficace est souvent que chaque joueur s’occupe d’un côté différent du niveau.  

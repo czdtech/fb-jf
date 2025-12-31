@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: solitaire-0-21
-title: "Solitaire 0-21"
+title: Solitaire 0-21
 description: >-
   Solitaire 0-21 le da un giro matemático al solitario: coloca cartas para que
   la suma de cada fila se mantenga siempre entre 0 y 21, equilibrando riesgo y
   recompensa.
-iframeSrc: "https://4hcssrsmrpvv0.h5games.usercontent.goog/v/2oipnrim9ar08/"
+iframeSrc: 'https://4hcssrsmrpvv0.h5games.usercontent.goog/v/2oipnrim9ar08/'
 thumbnail: /new-images/thumbnails/solitaire-0-21.png
 tags:
   - card
@@ -27,6 +27,7 @@ especiales complican la planificación. La clave es encadenar colocaciones
 seguras y reservar espacio para picos de valor.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y recorrido
 
 1.  **Deja margen:** No lleves las sumas de las filas hasta los extremos al

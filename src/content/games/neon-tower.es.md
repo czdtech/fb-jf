@@ -29,6 +29,7 @@ al fondo evitando las mortales plataformas rojas que terminan la partida al
 instante.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Buscar los huecos:** el núcleo del juego es girar la torre para que los

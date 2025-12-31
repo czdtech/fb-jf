@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: ping-pong
-title: "Ping Pong - Clásico de pala y pelota"
+title: Ping Pong - Clásico de pala y pelota
 description: >-
   Ping Pong es el clásico juego deportivo de arcade en el que dos jugadores
   controlan palas para devolver una pelota de un lado a otro de la pantalla,
@@ -27,6 +27,7 @@ otro de la pantalla, intentando marcar cuando el oponente no consigue alcanzarla
 Su jugabilidad sencilla e intuitiva y su ritmo rápido lo convierten en una gran
 opción tanto para partidas casuales como para duelos competitivos.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Controlar la pala:** mueve la pala con precisión para llegar a todas las

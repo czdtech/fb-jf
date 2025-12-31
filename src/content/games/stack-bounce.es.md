@@ -29,6 +29,7 @@ botón y físicas de destrucción muy satisfactorias, es fácil de entender pero
 complicado de dominar.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Mantener para romper:** el núcleo del juego es sencillo: mantén pulsada la

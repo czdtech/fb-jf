@@ -30,6 +30,7 @@ puedes jugar a divertidos minijuegos para ganar monedas con las que desbloquear
 ropas, accesorios y objetos decorativos para tu mascota espacial.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Vigilar las necesidades de Zuub:** presta atención a los indicadores de

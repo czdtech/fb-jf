@@ -1,19 +1,19 @@
 ---
 locale: es
 urlstr: sprunki-craft
-title: "Sprunki Craft 🎮 Juega a Sprunki Craft en línea"
+title: "Sprunki Craft \U0001F3AE Juega a Sprunki Craft en línea"
 description: >-
-  Sprunki Craft es la combinación perfecta entre Minecraft e Incredibox, y ofrece
-  a los jugadores una plataforma creativa y muy divertida para hacer música.
-  Entra en el mundo de Sprunki Craft y usa a tus personajes favoritos de
+  Sprunki Craft es la combinación perfecta entre Minecraft e Incredibox, y
+  ofrece a los jugadores una plataforma creativa y muy divertida para hacer
+  música. Entra en el mundo de Sprunki Craft y usa a tus personajes favoritos de
   Minecraft para crear tus propias obras musicales.
-iframeSrc: "https://www.minijuegos.com/embed/sprunki-craft"
+iframeSrc: 'https://www.minijuegos.com/embed/sprunki-craft'
 thumbnail: /new-images/thumbnails/sprunki-craft.jpg
 tags:
   - sprunki craft
   - sprunki craft online
 score: 4.9/5  (724 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -60,6 +60,7 @@ composición, abriendo la puerta a posibilidades prácticamente infinitas. El
 
 ---
 
+<!-- i18n:section:controls -->
 ### Manejo sencillo, apto para todas las edades
 
 Sprunki Craft es muy intuitivo, tanto con ratón como con controles táctiles en

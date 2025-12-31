@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: roadfury
-title: "Road Fury"
+title: Road Fury
 description: >-
-  Un frenético juego de disparos vertical en la autopista. Pilota un coche armado
-  hasta los dientes, destruye vehículos enemigos y reúne monedas para mejorar tus
-  armas y armadura y sobrevivir a la furia de la carretera.
-iframeSrc: "https://roadfury.h5games.usercontent.goog/v/6u0uos6j6vvl0/"
+  Un frenético juego de disparos vertical en la autopista. Pilota un coche
+  armado hasta los dientes, destruye vehículos enemigos y reúne monedas para
+  mejorar tus armas y armadura y sobrevivir a la furia de la carretera.
+iframeSrc: 'https://roadfury.h5games.usercontent.goog/v/6u0uos6j6vvl0/'
 thumbnail: /new-images/thumbnails/roadfury.png
 tags:
   - action
@@ -28,6 +28,7 @@ monedas que obtienes al destruir rivales para mejorar el armamento y la armadura
 de tu coche y desatar toda la furia de la carretera.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y recorrido
 
 1.  **Muévete siempre:** La clave para sobrevivir es no dejar de moverte. Ve

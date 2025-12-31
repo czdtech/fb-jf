@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: baldis-basics
-title: "Baldi's Basics"
-description: "Baldi’s Basics est un faux jeu éducatif des années 90 qui se transforme en survival horror : récupère 7 cahiers, gère ton endurance, utilise les objets intelligemment et échappe à Baldi et aux autres élèves bizarres."
-iframeSrc: "https://html5.iclouds.io/baldis-basics/index.html"
+title: Baldi's Basics
+description: "Baldi’s Basics est un faux jeu éducatif des années 90 qui se transforme en survival horror\_: récupère 7 cahiers, gère ton endurance, utilise les objets intelligemment et échappe à Baldi et aux autres élèves bizarres."
+iframeSrc: 'https://html5.iclouds.io/baldis-basics/index.html'
 thumbnail: /new-images/thumbnails/baldis-basics.jpg
 tags:
   - puzzle
@@ -20,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 Le premier cahier te pose des opérations simples. Dès le deuxième, une troisième question illisible et impossible à résoudre apparaît. Tu es obligé de répondre faux, ce qui met Baldi en colère : armé de sa règle, il commence alors à te traquer dans les couloirs. À partir de ce moment, le jeu devient une course‑poursuite : récupérer les cahiers restants, gérer ton endurance, éviter Baldi et toute une galerie de personnages étranges, puis trouver la sortie.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 Réussir *Baldi's Basics* demande de l’écoute, une bonne gestion de l’endurance et une connaissance précise des personnages.

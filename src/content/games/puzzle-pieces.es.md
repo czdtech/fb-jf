@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: puzzle-pieces
-title: "Puzzle Pieces"
+title: Puzzle Pieces
 description: >-
-  Puzzle Pieces ofrece puzle limpios y directos: rota las piezas,
-  encájalas en el tablero y complétalo sin dejar huecos.
-iframeSrc: "https://05c9vfh919cbg.h5games.usercontent.goog/v/0ki2bua5asq00/"
+  Puzzle Pieces ofrece puzle limpios y directos: rota las piezas, encájalas en
+  el tablero y complétalo sin dejar huecos.
+iframeSrc: 'https://05c9vfh919cbg.h5games.usercontent.goog/v/0ki2bua5asq00/'
 thumbnail: /new-images/thumbnails/puzzle-pieces.png
 tags:
   - puzzle
@@ -25,6 +25,7 @@ te obligan a gestionar mejor el espacio disponible y la orientación de cada
 pieza.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y recorrido
 
 1.  **Empieza por las piezas ancla:** Coloca primero las formas más grandes o

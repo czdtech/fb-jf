@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Tile Journey es un puzle moderno y relajante de combinación de fichas que pone a prueba tu capacidad de planificación. El objetivo es despejar un tablero lleno de fichas seleccionándolas de tres en tres. A diferencia de los match‑3 clásicos, aquí no intercambias posiciones: eliges fichas que se envían a una bandeja limitada en la parte inferior. Cuando se juntan tres iguales, desaparecen. Debes pensar cada movimiento para vaciar el tablero sin que la bandeja se llene.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **La regla de oro:** la bandeja suele tener solo siete huecos. Si la llenas sin formar un trío, pierdes. Cada clic debe hacerse teniendo esto en mente.

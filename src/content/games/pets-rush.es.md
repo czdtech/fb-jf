@@ -30,6 +30,7 @@ que llegue arriba. Intercambia mascotas adyacentes para formar líneas de tres o
 más, provoca combos y mantén el tablero a raya para lograr una puntuación alta.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Controlar las columnas altas:** tu objetivo principal es impedir que

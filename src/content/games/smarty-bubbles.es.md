@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: smarty-bubbles
-title: "Smarty Bubbles"
+title: Smarty Bubbles
 description: >-
   Una experiencia clásica de Bubble Shooter llena de color. Apunta el cañón,
   combina tres o más burbujas del mismo color para hacerlas explotar y limpia el
   tablero antes de que lleguen al fondo.
-iframeSrc: "https://smartybubbles.h5games.usercontent.goog/v/09fhbor6rfpv0/"
+iframeSrc: 'https://smartybubbles.h5games.usercontent.goog/v/09fhbor6rfpv0/'
 thumbnail: /new-images/thumbnails/smarty-bubbles.png
 tags:
   - shooting
@@ -27,6 +27,7 @@ del mismo color, explotan. El reto está en hacerlo de forma eficiente, porque
 los tiros fallidos harán que el techo descienda poco a poco.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y recorrido
 
 1.  **Evita los fallos:** Esta es la regla de oro. Tras cierto número de

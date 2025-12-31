@@ -1,11 +1,10 @@
 ---
 locale: es
 urlstr: minesweeper-2
-title: "Minesweeper - Clásico puzle de minas"
+title: Minesweeper - Clásico puzle de minas
 description: >-
-  El puzle lógico atemporal. Usa las pistas numéricas para deducir la
-  posición de todas las minas ocultas y limpia el tablero sin hacer explotar
-  ninguna.
+  El puzle lógico atemporal. Usa las pistas numéricas para deducir la posición
+  de todas las minas ocultas y limpia el tablero sin hacer explotar ninguna.
 iframeSrc: 'https://minesweeper.h5games.usercontent.goog/v/6uo6tf2lnil3o/'
 thumbnail: /new-images/thumbnails/minesweeper-2.jpg
 tags:
@@ -28,6 +27,7 @@ casillas abiertas, que indican cuántas minas hay en las ocho casillas adyacente
 Es un juego de deducción pura y gestión cuidadosa del riesgo.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **El primer clic:** el primer clic siempre es seguro. Si pinchas en una

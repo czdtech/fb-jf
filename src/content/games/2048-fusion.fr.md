@@ -1,8 +1,8 @@
 ---
 locale: fr
 urlstr: 2048-fusion
-title: "2048 Fusion"
-description: "2048 Fusion est une version moderne du classique 2048 : fais glisser les tuiles numérotées, fusionne les doublons et vise la tuile 2048 – et plus si affinités." 
+title: 2048 Fusion
+description: "2048 Fusion est une version moderne du classique 2048\_: fais glisser les tuiles numérotées, fusionne les doublons et vise la tuile 2048 – et plus si affinités."
 iframeSrc: 'https://7t79nelq6lu50.h5games.usercontent.goog/v/7jm0opa5dtf00/'
 thumbnail: /new-images/thumbnails/2048-fusion.png
 tags:
@@ -19,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 2048 Fusion est une version élégante du puzzle coulissant 2048. Sur une grille 4×4, tu fais glisser les tuiles dans une direction ; lorsque deux tuiles portant le même nombre se percutent, elles fusionnent en une nouvelle tuile dont la valeur est la somme des deux. L’objectif est d’atteindre la fameuse tuile **2048**, puis de continuer si tu veux battre ton propre record.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 - **Objectif :** fusionner des tuiles identiques jusqu’à créer 2048 (ou plus).

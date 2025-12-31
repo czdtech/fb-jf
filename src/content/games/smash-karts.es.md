@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: smash-karts
-title: "Smash Karts"
+title: Smash Karts
 description: >-
   Smash Karts es un juego multijugador online de karts en el que compites en
-  carreras frenéticas, recoges power‑ups y te enfrentas a otros jugadores mientras
-  recorres circuitos llenos de color en 3D.
-iframeSrc: "https://webgltest-17af1.firebaseapp.com/"
+  carreras frenéticas, recoges power‑ups y te enfrentas a otros jugadores
+  mientras recorres circuitos llenos de color en 3D.
+iframeSrc: 'https://webgltest-17af1.firebaseapp.com/'
 thumbnail: /new-images/thumbnails/smash-karts.jpg
 tags:
   - racing
@@ -25,6 +25,7 @@ enfrentan en carreras a toda velocidad mientras recogen cajas de objetos y se
 atacan con armas locas. Combina la conducción arcade clásica con elementos de
 batalla, ofreciendo partidas muy caóticas y divertidas.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego
 
 1.  **Usa bien los power‑ups:** Aprende qué hace cada objeto y cuándo conviene

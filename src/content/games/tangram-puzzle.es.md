@@ -1,9 +1,12 @@
 ---
 locale: es
 urlstr: tangram-puzzle
-title: "Tangram Puzzle - Puzle clásico de siluetas"
-description: "Tangram Puzzle es un puzle clásico de disección: coloca siete piezas (tans) para rellenar siluetas sin huecos ni solapamientos, usando solo rotaciones y mucha visión espacial."
-iframeSrc: "https://38lbr23ak5hn8.h5games.usercontent.goog/v/3v2lg4sb2v3ug/"
+title: Tangram Puzzle - Puzle clásico de siluetas
+description: >-
+  Tangram Puzzle es un puzle clásico de disección: coloca siete piezas (tans)
+  para rellenar siluetas sin huecos ni solapamientos, usando solo rotaciones y
+  mucha visión espacial.
+iframeSrc: 'https://38lbr23ak5hn8.h5games.usercontent.goog/v/3v2lg4sb2v3ug/'
 thumbnail: /new-images/thumbnails/tangram-puzzle.jpg
 tags:
   - puzzle
@@ -18,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Tangram Puzzle te reta a ordenar siete piezas geométricas (tans) para rellenar exactamente la silueta que aparece en pantalla. No puede haber huecos ni solapamientos: cada borde debe encajar a la perfección. Puedes rotar las piezas libremente y, según el modo, a veces no se permiten reflejos. La clave está en reconocer bolsillos cóncavos y convexos y en casar bien los ángulos de las esquinas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Alinea las esquinas: coloca primero los triángulos grandes en los vértices principales de la silueta.

@@ -29,6 +29,7 @@ conectando parejas de fichas idénticas. Entre música alegre y gráficos
 navideños, es un puzle relajante pero desafiante, perfecto para las fiestas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Buscar parejas coincidentes:** examina el tablero en busca de dos fichas

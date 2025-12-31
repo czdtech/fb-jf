@@ -28,6 +28,7 @@ completar misiones y usar distintos potenciadores para llegar lo más lejos
 posible y lograr puntuaciones récord.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Dominar los gestos:** la jugabilidad se basa en reflejos rápidos. Desliza

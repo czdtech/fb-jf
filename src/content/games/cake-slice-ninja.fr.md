@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 *Cake Slice Ninja* reprend le principe des jeux de découpe : des parts de gâteau sont propulsées à l’écran, et tu dois les trancher en un ou plusieurs glissements rapides. Rater trop de morceaux ou toucher une bombe peut mettre fin à la partie ou casser ton combo, selon le mode.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1. **Privilégie les grandes diagonales**  

@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 *Bunny Quest* est un jeu de casse‑tête où tu dois réorganiser des tuiles de chemin pour relier le point de départ à l’arrivée. Le lapin suivra la route que tu as construite, en ramassant éventuellement des objets bonus.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1. **Dessine d’abord la route principale**  

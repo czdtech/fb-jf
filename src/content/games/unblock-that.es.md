@@ -3,9 +3,9 @@ locale: es
 urlstr: unblock-that
 title: Unblock That - Desbloquea el camino
 description: >-
-  Un puzle clásico de bloques deslizantes. Mueve los bloques de madera
-  para liberar el camino y sacar el bloque rojo del tablero. Ideal para amantes
-  de los retos lógicos.
+  Un puzle clásico de bloques deslizantes. Mueve los bloques de madera para
+  liberar el camino y sacar el bloque rojo del tablero. Ideal para amantes de
+  los retos lógicos.
 iframeSrc: 'https://unblockthat.h5games.usercontent.goog/v/6iqu63hhulkgo/'
 thumbnail: /new-images/thumbnails/unblock-that.png
 tags:
@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Unblock That es un puzle clásico y desafiante de bloques deslizantes. El tablero se llena de bloques de madera de distintos tamaños, y tu objetivo es moverlos estratégicamente para abrir un pasillo por el que el bloque rojo pueda escapar hacia la salida. Con cientos de niveles que van de fácil a experto, es un juego perfecto para entrenar la lógica y la capacidad de planificación.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y guía de juego
 
 1.  Identifica a los bloqueadores principales: fíjate en el bloque rojo y en las piezas que se interponen directamente en su ruta hacia la salida; son tu primera prioridad.

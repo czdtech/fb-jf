@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Word Search es un puzle clásico muy querido. El objetivo es encontrar y marcar todas las palabras ocultas en una cuadrícula de letras. Tienes una lista de palabras y debes escanear la cuadrícula para localizarlas. Pueden aparecer en horizontal, vertical o diagonal, escritas hacia delante o hacia atrás, así que es un buen entrenamiento para la vista.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y guía de juego
 
 1.  **Escanea con método:** en lugar de mirar al azar, recorre la cuadrícula fila a fila, hacia delante y hacia atrás, buscando la primera letra de cada palabra de la lista. Haz lo mismo con las columnas.

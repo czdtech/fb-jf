@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: spider-solitaire-2
-title: "Spider Solitaire"
+title: Spider Solitaire
 description: >-
   Enfréntate al reto de Spider Solitaire. Ordena las cartas en secuencias
   descendentes por palo para retirarlas del tablero. Una verdadera prueba de
   estrategia y planificación.
-iframeSrc: "https://spidersolitaire.h5games.usercontent.goog/v/42fd7cuq80rao/"
+iframeSrc: 'https://spidersolitaire.h5games.usercontent.goog/v/42fd7cuq80rao/'
 thumbnail: /new-images/thumbnails/spider-solitaire-2.png
 tags:
   - card
@@ -28,6 +28,7 @@ por su dificultad y la profundidad estratégica necesaria para ganar, sobre todo
 con dos o cuatro palos.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y recorrido
 
 1.  **Objetivo:** Construir ocho secuencias dentro del tableau, cada una de Rey

@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Tower Mania es un arcade sencillo pero muy adictivo que pone a prueba tu precisión y tu sentido de la sincronización. El objetivo es construir la torre más alta posible colocando bloques uno encima de otro. Los bloques se balancean de un lado a otro y tendrás que pulsar justo en el momento adecuado para dejarlos caer perfectamente alineados. La parte que sobresalga se recorta, haciendo que la base sea más pequeña y que el siguiente nivel resulte más difícil. Mantén el pulso firme y el ojo entrenado para alcanzar nuevas alturas y batir tu récord.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **El tiempo lo es todo:** la mecánica central es soltar el bloque en el instante perfecto. Observa el movimiento de vaivén y suelta cuando esté exactamente sobre el centro del bloque anterior.

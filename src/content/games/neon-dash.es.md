@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: neon-dash
-title: "Neon Dash - Runner de precisión a ritmo de neón"
+title: Neon Dash - Runner de precisión a ritmo de neón
 description: >-
   Neon Dash es un runner de precisión frenético: salta, esquiva trampas y ajusta
   tus pulsos al milisegundo para sobrevivir a circuitos de neón llenos de
@@ -27,6 +27,7 @@ superar cadenas de obstáculos muy ajustadas. Según el modo, encontrarás fases
 con puntos de control o recorridos que tienes que completar de una sola vez.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Dominar la curva de salto: practica pulsaciones cortas y largas para

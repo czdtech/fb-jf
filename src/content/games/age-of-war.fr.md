@@ -1,9 +1,13 @@
 ---
 locale: fr
 urlstr: age-of-war
-title: "Age of War"
-description: "Découvre Age of War, un jeu de stratégie où tu fais évoluer ton armée de l’âge de pierre au futur, construis des tourelles et détruis la base ennemie avant qu’elle ne rase la tienne."
-iframeSrc: "https://app-196716.games.s3.yandex.net/196716/h5h3xwa1kxsz7wcma59tvvmko0zorc80/index.html"
+title: Age of War
+description: >-
+  Découvre Age of War, un jeu de stratégie où tu fais évoluer ton armée de l’âge
+  de pierre au futur, construis des tourelles et détruis la base ennemie avant
+  qu’elle ne rase la tienne.
+iframeSrc: >-
+  https://app-196716.games.s3.yandex.net/196716/h5h3xwa1kxsz7wcma59tvvmko0zorc80/index.html
 thumbnail: /new-images/thumbnails/age-of-war.jpg
 tags:
   - strategy
@@ -18,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 *Age of War* est un jeu de stratégie en 2D où deux bases se font face : la tienne et celle de l’ennemi contrôlé par l’IA. Tu commences à l’âge de pierre avec des hommes des cavernes armés de massues, puis tu accumules de l’expérience (XP) pour faire évoluer ta civilisation à travers plusieurs ères (âge de pierre, Moyen Âge, époque moderne, futur, etc.).  
 Chaque évolution débloque de nouvelles unités, des tourelles plus puissantes et restaure complètement les points de vie de ta base. Ton objectif final est simple : survivre à toutes les vagues ennemies et détruire la base adverse.
 
+<!-- i18n:section:tips -->
 ### Guide de jeu et stratégies
 
 *Age of War* repose sur un équilibre entre attaque, défense et timing de tes évolutions.
@@ -41,6 +46,7 @@ Chaque évolution débloque de nouvelles unités, des tourelles plus puissantes 
 - **Assaut final :** combine une vague de tes unités les plus puissantes avec ta capacité spéciale pour briser la ligne ennemie et détruire sa base en une seule poussée.
 
 <!-- i18n:section:controls -->
+<!-- i18n:section:how-to-play -->
 ### Commandes
 
 Le jeu se joue presque entièrement à la souris :

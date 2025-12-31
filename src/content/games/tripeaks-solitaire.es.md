@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Tripeaks Solitaire es una variante de solitario muy popular y dinámica que combina elementos de Golf Solitaire y Pyramid Solitaire. El nombre viene de la disposición inicial de las cartas, repartidas en tres pirámides superpuestas o “picos”. El objetivo es despejar todo el tablero seleccionando cartas que sean exactamente un rango superior o inferior a la carta de la pila de descarte, creando largas cadenas antes de quedarte sin cartas en el mazo.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y guía de juego
 
 1.  **Objetivo principal:** eliminar todas las cartas de los tres picos del tablero.

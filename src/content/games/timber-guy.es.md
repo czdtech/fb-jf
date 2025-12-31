@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: timber-guy
-title: "Timber Guy - Corta al ritmo perfecto"
+title: Timber Guy - Corta al ritmo perfecto
 description: >-
   Timber Guy es un arcade de reflejos y cortes: tala el árbol, esquiva ramas y
   encadena hachazos al ritmo adecuado.
@@ -20,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Timber Guy es un juego de un solo botón centrado en la sincronización. Tienes que ir cortando el tronco mientras cambias de lado para esquivar las ramas que bajan. La velocidad aumenta con cada golpe, así que solo sobrevivirás si mantienes cambios limpios de lado y un ritmo constante.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Lee el tronco por adelantado: observa las siguientes ramas que vienen y planifica de antemano cuándo cambiar de lado.

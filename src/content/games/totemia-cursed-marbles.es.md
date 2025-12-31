@@ -3,9 +3,9 @@ locale: es
 urlstr: totemia-cursed-marbles
 title: 'Totemia: Cursed Marbles - Dispara y rompe la cadena'
 description: >-
-  Un puzle clásico de disparar canicas. Lanza bolas desde tu tótem tiki,
-  forma grupos de tres o más del mismo color y destruye toda la cadena antes de
-  que llegue al final del recorrido.
+  Un puzle clásico de disparar canicas. Lanza bolas desde tu tótem tiki, forma
+  grupos de tres o más del mismo color y destruye toda la cadena antes de que
+  llegue al final del recorrido.
 iframeSrc: 'https://totemiacursed.h5games.usercontent.goog/v/2hs7lfvsisr48/'
 thumbnail: /new-images/thumbnails/totemia-cursed-marbles.png
 tags:
@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Totemia: Cursed Marbles es un trepidante juego de acción y puzles al estilo de los clásicos Zuma o Luxor. Una cadena de canicas malditas y de distintos colores avanza sin descanso hacia una cámara secreta. Tú controlas un potente tótem tiki que dispara bolas de colores. Tu objetivo es destruir toda la cadena antes de que la primera canica alcance el agujero final, creando grupos de tres o más del mismo color.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Busca combos:** la clave para superar niveles y lograr grandes puntuaciones es encadenar reacciones. Cuando haces estallar un grupo, la cadena se detiene un instante; si los dos extremos que quedan son del mismo color, se juntarán y a menudo crearán una nueva explosión automática.

@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: ragdoll-archers
-title: "Ragdoll Archers"
+title: Ragdoll Archers
 description: >-
   Ragdoll Archers es un juego de tiro con arco basado en físicas en el que
   controlas arqueros tipo ragdoll y disparas flechas a tus oponentes, con una
   física realista que hace que cada tiro sea tan desafiante como divertido.
-iframeSrc: "https://bitlifeonline.github.io/ragdoll-archers/"
+iframeSrc: 'https://bitlifeonline.github.io/ragdoll-archers/'
 thumbnail: /new-images/thumbnails/ragdoll-archers.jpg
 tags:
   - physics
@@ -25,6 +25,7 @@ arqueros tambaleantes tipo ragdoll para disparar flechas a tus rivales. La
 física realista hace que cada disparo sea un reto, mientras que la inestabilidad
 de los personajes añade mucho humor y situaciones impredecibles a cada duelo.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego
 
 1.  **Domina la puntería:** Aprende a ajustar el ángulo del arco y la potencia

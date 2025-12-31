@@ -33,6 +33,7 @@ les manches, tu peux acheter des améliorations ou de la dynamite pour optimiser
 les prochains runs.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Vise les grosses pépites et les sacs**  

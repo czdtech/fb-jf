@@ -32,6 +32,7 @@ Dans chaque niveau, ton personnage doit rejoindre l’arrêt de bus au bout du p
 
 ---
 
+<!-- i18n:section:tips -->
 ### Stratégies et astuces
 
 - **Mémorise les parcours :** comme le temps ne se réinitialise pas, chaque tentative sert surtout à apprendre le niveau. Plus tu connais l’emplacement des pièges, plus tu peux courir sans hésiter.

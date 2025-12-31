@@ -28,6 +28,7 @@ sentido del ritmo mientras sigues una colección de canciones tan bonitas como
 exigentes.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Mirar la línea inferior:** no sigas las notas desde arriba; mantiene la

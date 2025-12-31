@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 *Block Blaster Puzzle* est un jeu de placement sur grille. Tu reçois des pièces de formes variées que tu dois placer pour compléter des lignes ou des zones et ainsi les faire disparaître. Le but est de garder le plateau respirant le plus longtemps possible, en évitant de créer des cavités d’une seule case.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Soigne les bords :** garde les limites de la grille lisses pour éviter les cases isolées impossibles à combler.

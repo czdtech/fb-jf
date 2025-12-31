@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: rotate
-title: "Rotate"
+title: Rotate
 description: >-
   Rotate es un exigente juego de puzles en el que debes girar el propio mundo
   para guiar una bola a través de laberintos y obstáculos, aprovechando la
   gravedad y el impulso para alcanzar la meta en cada nivel.
-iframeSrc: "https://rebemanae.github.io/rotate/"
+iframeSrc: 'https://rebemanae.github.io/rotate/'
 thumbnail: /new-images/thumbnails/rotate.jpg
 tags:
   - puzzle
@@ -27,6 +27,7 @@ basa en las propiedades físicas de la gravedad y el momento, y te obliga a
 controlar con precisión el ángulo y el ritmo de cada giro para que la bola
 llegue al objetivo.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego
 
 1.  **Entiende cómo actúa la gravedad:** Al rotar el mundo cambias la dirección

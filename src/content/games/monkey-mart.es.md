@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: monkey-mart
-title: "Monkey Mart - Supermercado gestionado por monos"
+title: Monkey Mart - Supermercado gestionado por monos
 description: >-
-  Monkey Mart es un encantador y adictivo juego de simulación en el que gestionas
-  un supermercado atendido por adorables monos: cultiva, produce, rellena
-  estanterías y atiende clientes para hacer crecer el negocio.
+  Monkey Mart es un encantador y adictivo juego de simulación en el que
+  gestionas un supermercado atendido por adorables monos: cultiva, produce,
+  rellena estanterías y atiende clientes para hacer crecer el negocio.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/gamehwq/20221216/09/index.htm
 thumbnail: /new-images/thumbnails/monkey-mart.jpg
@@ -28,6 +28,7 @@ alimentos, rellenar estanterías y atender a los clientes para hacer crecer y
 expandir tu tienda. A medida que avanzas, podrás desbloquear nuevos productos,
 mejorar el equipo y contratar más empleados mono para aumentar la eficiencia.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Plantar y cosechar:** siembra cultivos como plátanos o maíz y recógelos en

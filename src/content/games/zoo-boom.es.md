@@ -23,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Zoo Boom es un vibrante y adictivo puzle match‑2 que te lleva de aventura por un zoo lleno de color. Tu misión es tocar grupos de dos o más bloques de animales idénticos para eliminarlos del tablero. Cada nivel propone objetivos distintos: recolectar cierto número de animales, despejar obstáculos o alcanzar una puntuación mínima con un número limitado de movimientos. Al combinar grupos grandes puedes crear potenciadores que desencadenan reacciones en cadena espectaculares.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y guía de juego
 
 1.  **Busca grupos grandes:** aunque puedas eliminar solo dos bloques, intenta agrupar tres o más. Cuantos más animales limpies de una vez, más puntos obtendrás y más fácil será generar potenciadores.

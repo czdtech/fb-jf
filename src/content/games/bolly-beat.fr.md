@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 *Bolly Beat* est un jeu de rythme accessible, porté par des morceaux inspirés de la musique Bollywood. Des notes arrivent vers une zone de frappe ; à toi de taper en rythme pour garder ta série de coups et faire grimper le multiplicateur.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1. **Apprends la fenêtre de timing**  

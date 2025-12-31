@@ -3,9 +3,9 @@ locale: es
 urlstr: tile-puzzle
 title: Tile Puzzle - Puzle de fichas moderno
 description: >-
-  Tile Puzzle es un puzle relajante y estratégico: encuentra y selecciona
-  tres fichas idénticas para eliminarlas del tablero y planifica cada jugada
-  para no desbordar la bandeja de colección.
+  Tile Puzzle es un puzle relajante y estratégico: encuentra y selecciona tres
+  fichas idénticas para eliminarlas del tablero y planifica cada jugada para no
+  desbordar la bandeja de colección.
 iframeSrc: 'https://5u9qhnk84v07g.h5games.usercontent.goog/v/2h3elehja73a8/'
 thumbnail: /new-images/thumbnails/tile-puzzle.jpg
 tags:
@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Tile Puzzle es un puzle actual de combinación de fichas que exige planificación y buena lectura del tablero. Tu objetivo es vaciar un conjunto de fichas con distintos patrones. Cada ficha que seleccionas baja a la bandeja inferior; cuando se juntan tres iguales, se eliminan y liberan espacio. Ganar significa limpiar el tablero por completo, pero si llenas la bandeja, pierdes.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Piensa antes de tocar: la bandeja suele tener solo siete casillas. Antes de seleccionar una ficha, decide qué papel jugará; no pulses al azar esperando tener suerte.

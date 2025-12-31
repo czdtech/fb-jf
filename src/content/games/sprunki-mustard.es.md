@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sprunki-mustard
-title: 'Sprunki Mustard - Juega a Sprunki Mustard en línea'
+title: Sprunki Mustard - Juega a Sprunki Mustard en línea
 description: >-
   En Sprunki Mustard, todos los personajes se han rediseñado con una paleta
   uniforme de amarillo mostaza, añadiendo un toque inquietante a la estética
@@ -11,7 +11,7 @@ thumbnail: /new-images/thumbnails/sprunki-mustard.png
 tags:
   - sprunki mustard
 score: 3.9/5  (827 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -46,6 +46,7 @@ original.
 - **Animaciones de bonificaciones:** descubre animaciones especiales activadas por
   combinaciones concretas de sonidos, que refuerzan el tono siniestro del juego.
 
+<!-- i18n:section:controls -->
 ### Manejo de Sprunki Mustard
 
 El manejo de Sprunki Mustard es sencillo y directo. Si ya conoces la serie

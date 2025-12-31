@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: pac-man
-title: "PAC-MAN - Clásico arcade comefantasmas"
+title: PAC-MAN - Clásico arcade comefantasmas
 description: >-
   PAC-MAN es el clásico juego de laberintos de recreativa en el que controlas a
   Pac-Man para recorrer el mapa comiendo todos los puntos mientras esquivas a
@@ -29,6 +29,7 @@ todos los puntos. Al mismo tiempo, debes esquivar a cuatro fantasmas de colores
 bolita de poder, los fantasmas se vuelven vulnerables durante unos segundos y
 puedes perseguirlos para conseguir puntos extra.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Entender el comportamiento de los fantasmas:** cada uno tiene un patrón de

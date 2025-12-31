@@ -3,8 +3,8 @@ locale: es
 urlstr: tnt-bomb
 title: TNT Bomb - Puzle de demolición
 description: >-
-  Un puzle de demolición basado en físicas. Coloca de forma estratégica
-  tu limitado arsenal de explosivos, desde dinamita hasta bombas potentes, para
+  Un puzle de demolición basado en físicas. Coloca de forma estratégica tu
+  limitado arsenal de explosivos, desde dinamita hasta bombas potentes, para
   derribar por completo las estructuras de cada nivel.
 iframeSrc: >-
   https://tntbomb.h5games.usercontent.goog/v/78fb3628-2b9a-4ddc-86ef-7c46021357a2/
@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 TNT Bomb es un puzle estratégico basado en físicas en el que tu objetivo es la demolición total. En cada nivel te enfrentas a una estructura y a un inventario limitado de explosivos. Debes colocar las cargas en los puntos clave para causar el máximo daño posible. Identificando soportes, puntos débiles y el tipo de bomba adecuado, intentarás reducir la construcción a escombros para pasar al siguiente desafío.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Analiza la estructura: antes de poner ninguna bomba, estudia el diseño. Busca columnas clave, vigas de soporte y bloques que sostengan la mayor parte del peso.

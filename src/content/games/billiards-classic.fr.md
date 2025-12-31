@@ -1,9 +1,11 @@
 ---
 locale: fr
 urlstr: billiards-classic
-title: "Billiards Classic"
-description: "Billiards Classic adapte le 8‑ball sur navigateur : vises, applique un peu d’effet, poche tes pleines ou rayées puis termine par la boule 8 pour gagner."
-iframeSrc: "https://billiardsclassic.h5games.usercontent.goog/v/27m4mvjv84l70/"
+title: Billiards Classic
+description: >-
+  Billiards Classic adapte le 8‑ball sur navigateur : vises, applique un peu
+  d’effet, poche tes pleines ou rayées puis termine par la boule 8 pour gagner.
+iframeSrc: 'https://billiardsclassic.h5games.usercontent.goog/v/27m4mvjv84l70/'
 thumbnail: /new-images/thumbnails/billiards-classic.png
 tags:
   - sports
@@ -19,6 +21,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 *Billiards Classic* propose une version numérique de la 8‑ball contre l’ordinateur. Après la casse, le premier joueur à rentrer une bille valide se voit attribuer les **pleines (1–7)** ou les **rayées (9–15)**. Le but est de rentrer toutes les billes de ton groupe, puis de pocher la boule 8 dans une poche annoncée pour gagner.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Soigner la casse :** vise la bille de tête pour ouvrir le triangle et, idéalement, rentrer déjà une bille.

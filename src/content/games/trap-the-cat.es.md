@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: trap-the-cat
-title: "Trap the Cat - Enciérralo en el tablero"
+title: Trap the Cat - Enciérralo en el tablero
 description: >-
-  Trap the Cat es un puzle estratégico en el que debes bloquear las rutas
-  de escape de un astuto gato colocando barreras en un tablero hexagonal, usando
+  Trap the Cat es un puzle estratégico en el que debes bloquear las rutas de
+  escape de un astuto gato colocando barreras en un tablero hexagonal, usando
   lógica y planificación para impedir que llegue al borde.
-iframeSrc: "https://freeonlinegames.github.io/cat-trap.html"
+iframeSrc: 'https://freeonlinegames.github.io/cat-trap.html'
 thumbnail: /new-images/thumbnails/trap-the-cat.jpg
 tags:
   - strategy
@@ -21,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Trap the Cat es un juego de puzles estratégicos en el que debes cortar todas las rutas de escape de un gato muy escurridizo. Colocando obstáculos en las casillas de una cuadrícula hexagonal, tendrás que anticipar sus movimientos y cerrar el paso antes de que alcance el borde del tablero.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Control del centro:** intenta rodear primero la posición inicial del gato, reduciendo poco a poco el área por la que puede moverse.

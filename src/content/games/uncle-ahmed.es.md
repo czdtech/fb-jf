@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Uncle Ahmed es un plataformas 2D de desplazamiento lateral que despierta la nostalgia de clásicos como Super Mario Bros. Controlas al heroico tío Ahmed en su misión para rescatar a su sobrino, secuestrado por un hechicero malvado. Viajarás por decenas de niveles repletos de enemigos, trampas y potenciadores útiles. El objetivo es llegar al final de cada fase, derrotar al hechicero y salvar el día.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y guía de juego
 
 1.  Domina el salto: tu habilidad principal es saltar. Úsalo para pisar a los enemigos y derrotarlos, romper bloques para encontrar monedas y potenciadores, y superar fosos y pinchos.

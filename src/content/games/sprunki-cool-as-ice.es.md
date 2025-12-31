@@ -1,18 +1,18 @@
 ---
 locale: es
 urlstr: sprunki-cool-as-ice
-title: "Sprunki Cool As Ice - Juega a Sprunki Cool As Ice en línea"
+title: Sprunki Cool As Ice - Juega a Sprunki Cool As Ice en línea
 description: >-
   Sprunki: Cool As Ice es una gran innovación dentro de la familia Incredibox y
   aporta una nueva mirada a la creación musical gracias a su marcado tema de
   invierno.
-iframeSrc: "https://turbowarp.org/1114795409/embed"
+iframeSrc: 'https://turbowarp.org/1114795409/embed'
 thumbnail: /new-images/thumbnails/sprunki-cool-as-ice.png
 tags:
   - sprunki cool as ice
   - sprunki cool as ice online
 score: 4.2/5  (324 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -36,6 +36,7 @@ nevada: puro estilo.
 ---
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### ¿Cómo se juega a Sprunki: Cool As Ice?
 
 En realidad es muy sencillo, basta con dominar estas ideas:

@@ -1,13 +1,14 @@
 ---
 locale: es
 urlstr: red-ball
-title: "Red Ball"
+title: Red Ball
 description: >-
   Red Ball es el juego de plataformas original basado en físicas en el que
   controlas a una bola roja que rebota a través de niveles llenos de obstáculos,
   enemigos y puzles, aprovechando el impulso y la física para superar cada
   desafío.
-iframeSrc: "https://app-185271.games.s3.yandex.net/185271/uvjrp10onrrllry3esbc3gpnf7s40cj5/index.html"
+iframeSrc: >-
+  https://app-185271.games.s3.yandex.net/185271/uvjrp10onrrllry3esbc3gpnf7s40cj5/index.html
 thumbnail: /new-images/thumbnails/red-ball.jpg
 tags:
   - platformer
@@ -27,6 +28,7 @@ de obstáculos, enemigos y pequeños puzles. El juego se apoya en el impulso y e
 las propiedades físicas para superar los retos, con una jugabilidad muy sencilla
 de entender pero sorprendentemente desafiante.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego
 
 1.  **Domina la física básica:** Aprende a aprovechar el rebote y el rodar de la
@@ -38,7 +40,7 @@ de entender pero sorprendentemente desafiante.
 4.  **Derrota a los enemigos:** Acaba con ellos saltando sobre su cabeza y evita
     los choques directos desde los lados o desde abajo.
 5.  **Explora y recoge:** Busca objetos ocultos y estrellas para conseguir
-    puntuaciones más altas y completar el juego al 100 %.
+    puntuaciones más altas y completar el juego al completo.
 
 <!-- i18n:section:how-to-play -->
 ### Cómo jugar
@@ -66,4 +68,3 @@ de entender pero sorprendentemente desafiante.
 4.  **P: ¿Hay límite de tiempo?**
     **R:** La mayoría de niveles no tiene un límite de tiempo estricto, pero
     terminarlos rápido puede darte mejores valoraciones.
-

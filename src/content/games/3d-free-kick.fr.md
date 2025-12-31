@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 3D Free Kick est entièrement dédié à l’art du coup franc. Choisis ta cible, contourne le mur et surprends le gardien. Les niveaux varient la taille du mur, la distance, les réactions du gardien et parfois le vent pour tester ta précision et la maîtrise de tes trajectoires.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1. **Vise les coins :** les lucarnes et petits filets sont les zones les plus difficiles à atteindre pour le gardien.

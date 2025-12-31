@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Cards of the Undead est un jeu de puzzle roguelike au tour par tour situé dans une apocalypse zombie. Le monde est représenté par une grille de cartes face cachée, et tu contrôles un héros qui peut se déplacer d'une case à la fois. Chaque mouvement révèle une nouvelle carte, qui peut être un zombie à combattre, des pièces précieuses ou des objets utiles comme des potions de vie et des armures. L'objectif est de naviguer stratégiquement sur le plateau, gérer ta santé, vaincre tous les zombies et survivre aussi longtemps que possible.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Vérifie avant de bouger :** avant de te déplacer sur une carte zombie, compare toujours les stats de ton héros (santé et armure) avec celles du zombie. Assure-toi de pouvoir survivre à la rencontre. Il vaut souvent mieux trouver une potion ou une armure d'abord avant d'affronter un ennemi puissant.

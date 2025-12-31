@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: quest-21
-title: "Quest 21"
+title: Quest 21
 description: >-
   Una aventura de Blackjack. Juega manos de 21 para derrotar a tus rivales y
   avanzar en tu misión. Acércate todo lo posible a 21 sin pasarte para ganar.
-iframeSrc: "https://7h2pln0tgo8q0.h5games.usercontent.goog/v/004k30od8uvog/"
+iframeSrc: 'https://7h2pln0tgo8q0.h5games.usercontent.goog/v/004k30od8uvog/'
 thumbnail: /new-images/thumbnails/quest-21.png
 tags:
   - card
@@ -27,6 +27,7 @@ mano se acerque más a 21 que la de tu rival sin superarlo. El juego combina la
 suerte del reparto con decisiones tácticas muy sencillas de entender.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y recorrido
 
 1.  **El objetivo:** Acercar la suma de tu mano a 21 sin pasarte. Si superas 21,

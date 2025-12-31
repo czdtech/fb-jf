@@ -1,13 +1,19 @@
 ---
-title: "Bloxorz"
-description: "Fais rouler un bloc 1×2×1 sur des plateformes en suspension et fais-le tomber bien droit dans le trou final. Bloxorz mettra ta logique spatiale à rude épreuve."
-iframeSrc: "https://ad-freegames.github.io/flash/game/bloxorz.html"
+title: Bloxorz
+description: >-
+  Fais rouler un bloc 1×2×1 sur des plateformes en suspension et fais-le tomber
+  bien droit dans le trou final. Bloxorz mettra ta logique spatiale à rude
+  épreuve.
+iframeSrc: 'https://ad-freegames.github.io/flash/game/bloxorz.html'
 thumbnail: /new-images/thumbnails/bloxorz.jpg
-urlstr: "bloxorz"
-score: "3.9/5  (922 votes)"
-tags: ["puzzle", "logique", "classique"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: bloxorz
+score: 3.9/5  (922 votes)
+tags:
+  - puzzle
+  - logique
+  - classique
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 locale: fr
 ---
 
@@ -27,6 +33,7 @@ Les énigmes sont construites autour de tuiles et d’interrupteurs spéciaux 
     -   **`<>` de scission** : si le bloc est couché dessus, il se sépare en deux cubes 1×1.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Conseils de jeu
 
 -   **Anticipe plusieurs coups à l’avance** : avant chaque roulade, imagine le bloc après 1, 2, 3 mouvements pour éviter les chutes surprises.

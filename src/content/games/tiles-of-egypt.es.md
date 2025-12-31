@@ -3,9 +3,9 @@ locale: es
 urlstr: tiles-of-egypt
 title: Tiles of Egypt - Tríos en el antiguo Egipto
 description: >-
-  Viaja al antiguo Egipto en este puzle de fichas triples. Selecciona
-  tres fichas idénticas y desbloqueadas para limpiarlas del tablero y planifica
-  cada movimiento antes de quedarte sin espacio.
+  Viaja al antiguo Egipto en este puzle de fichas triples. Selecciona tres
+  fichas idénticas y desbloqueadas para limpiarlas del tablero y planifica cada
+  movimiento antes de quedarte sin espacio.
 iframeSrc: >-
   https://tilesofegypt.h5games.usercontent.goog/v/dd964fa3-8999-4546-a4a0-d55a0cc72248/
 thumbnail: /new-images/thumbnails/tiles-of-egypt.jpg
@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Tiles of Egypt es un puzle estratégico de fichas triples con un cautivador tema del antiguo Egipto. Debes despejar un tablero lleno de losetas decoradas, seleccionando tres fichas iguales que se envían a la bandeja inferior. Cuando se juntan, desaparecen. El reto está en limpiar todo el tablero sin rebasar el espacio limitado de la bandeja.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  La regla de tres: todo gira en torno a formar grupos de tres. Solo al reunir tres fichas idénticas podrás eliminarlas.

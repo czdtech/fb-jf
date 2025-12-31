@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: puzzle-pieces-merge
-title: "Puzzle Pieces Merge"
+title: Puzzle Pieces Merge
 description: >-
   Un juego de puzles relajante e ingenioso. Arrastra, suelta y combina piezas
   para completar preciosos paisajes, gira las fichas y usa potenciadores para
   resolver cada puzle único.
-iframeSrc: "https://5burcumauc5p0.h5games.usercontent.goog/v/4k8cb35sbe9fo/"
+iframeSrc: 'https://5burcumauc5p0.h5games.usercontent.goog/v/4k8cb35sbe9fo/'
 thumbnail: /new-images/thumbnails/puzzle-pieces-merge.jpg
 tags:
   - puzzle
@@ -29,6 +29,7 @@ la posibilidad de rotar piezas y usar potenciadores de forma estratégica, es un
 experiencia tan relajante como adictiva para amantes de los puzles.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y recorrido
 
 1.  **Empieza por los bordes:** Igual que en un puzle físico, una buena idea es

@@ -19,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 *BlockDrop* est un classique du puzzle : tu disposes de trois blocs à la fois et dois les placer sur une grille 10×10. Dès qu’une ligne entière est remplie, elle disparaît et tu gagnes des points. La partie s’arrête quand aucune des trois pièces ne peut être posée.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Planifie pour les trois blocs**  

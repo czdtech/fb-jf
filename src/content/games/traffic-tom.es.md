@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Traffic Tom es un juego de motos en tercera persona y ritmo frenético que te sitúa en medio de una autopista abarrotada. En la piel del intrépido gato Tom tendrás que serpentear entre coches y autobuses, cumplir misiones exigentes y ganar monedas. Con ellas podrás mejorar tu moto actual o ahorrar para comprar modelos más potentes en tu ruta hacia el trono del asfalto.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Mira lejos:** la clave para sobrevivir es la anticipación. No mires solo al coche de delante; observa varios metros más allá para leer los patrones de tráfico y cambiar de carril con tiempo.

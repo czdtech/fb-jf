@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: pocket-champions
-title: "Pocket Champs: Carreras 3D"
+title: 'Pocket Champs: Carreras 3D'
 description: >-
   Entrena a tu Champ, equípalo con los gadgets adecuados y míralo correr hacia
   la victoria. Un juego de carreras idle donde la estrategia y la preparación
   son la clave para convertirte en el mejor Pocket Champ.
-iframeSrc: "https://pocketchampions.h5games.usercontent.goog/v/24houhjfrhfi8/"
+iframeSrc: 'https://pocketchampions.h5games.usercontent.goog/v/24houhjfrhfi8/'
 thumbnail: /new-images/thumbnails/pocket-champions.png
 tags:
   - strategy
@@ -29,6 +29,7 @@ queda ver cómo tu preparación da sus frutos mientras tu Campeón compite de
 forma automática para cruzar la meta en primer lugar.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y guía paso a paso
 
 1.  **Entrena sin parar:** La base de tu éxito es el entrenamiento. Mantén a tu

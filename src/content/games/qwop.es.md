@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: qwop
-title: "QWOP Game"
+title: QWOP Game
 description: >-
   QWOP es un famosísimo juego de carrera con físicas imposibles en el que
-  controlas los músculos de las piernas del corredor solo con cuatro teclas
-  (Q, W, O, P) e intentas completar 100 metros sin caerte.
-iframeSrc: "https://kdata1.com/2020/01/QWOP1/?webgl=true"
+  controlas los músculos de las piernas del corredor solo con cuatro teclas (Q,
+  W, O, P) e intentas completar 100 metros sin caerte.
+iframeSrc: 'https://kdata1.com/2020/01/QWOP1/?webgl=true'
 thumbnail: /new-images/thumbnails/qwop.jpg
 tags:
   - physics
@@ -27,6 +27,7 @@ el suelo. El esquema de control es tan exigente y antinatural que incluso dar un
 paso hacia delante se convierte en un reto, lo que ha hecho de QWOP todo un
 fenómeno de internet y un clásico de los retos imposibles.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego
 
 1.  **Entiende qué hace cada tecla:** Q y W controlan el muslo y la pantorrilla

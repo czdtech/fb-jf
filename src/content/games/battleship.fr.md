@@ -1,9 +1,11 @@
 ---
 locale: fr
 urlstr: battleship
-title: "Battleship"
-description: "Bataille navale classique : place ta flotte, devine les coordonnées ennemies et coule chaque navire avant que l’adversaire ne t’expose."
-iframeSrc: "https://cdn.gamesnacks.com/battleship2/gameCode/index.html"
+title: Battleship
+description: >-
+  Bataille navale classique : place ta flotte, devine les coordonnées ennemies
+  et coule chaque navire avant que l’adversaire ne t’expose.
+iframeSrc: 'https://cdn.gamesnacks.com/battleship2/gameCode/index.html'
 thumbnail: /new-images/thumbnails/battleship.jpg
 tags:
   - strategy
@@ -27,6 +29,7 @@ Avant le combat, place secrètement ta flotte sur ta grille. La flotte standard 
 
 Une fois les placements terminés, chaque joueur annonce à tour de rôle une coordonnée (ex. D5). L’adversaire répond « Touché » ou « Manqué », et tu marques le résultat sur ta grille d’observation pour déduire peu à peu la position des navires ennemis. Un navire est « coulé » dès que toutes ses cases sont touchées.
 
+<!-- i18n:section:how-to-play -->
 ### Stratégie de jeu
 
 Gagner exige un mélange de placements malins et de déductions méthodiques.
@@ -38,6 +41,7 @@ Gagner exige un mélange de placements malins et de déductions méthodiques.
 3.  **Garde un espace entre les navires :** Essaie de laisser au moins une case vide entre deux navires pour qu’un hit accidentel ne révèle pas immédiatement un deuxième objectif.
 4.  **Utilise aussi le centre :** Placer un petit navire au milieu fonctionne bien, car de nombreux joueurs privilégient l’extérieur de la grille dans leurs premiers tirs.
 
+<!-- i18n:section:tips -->
 #### Stratégie de tir (attaque)
 
 1.  **Motif de recherche :** Tire sur une case sur deux (motif damier). Comme aucun navire ne peut se glisser uniquement sur les cases oubliées, tu finis par détecter tous les bateaux plus vite.

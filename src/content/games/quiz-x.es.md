@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: quiz-x
-title: "Quiz x"
+title: Quiz x
 description: >-
   Quiz x es un concurso de preguntas a toda velocidad: lee el enunciado, piensa
   con amplitud y elige la mejor respuesta posible antes de que se acabe el
   tiempo.
-iframeSrc: "https://5348abrdhudu8.h5games.usercontent.goog/v/35ge2no4verb8/"
+iframeSrc: 'https://5348abrdhudu8.h5games.usercontent.goog/v/35ge2no4verb8/'
 thumbnail: /new-images/thumbnails/quiz-x.png
 tags:
   - puzzle
@@ -27,6 +27,7 @@ forma amplia y descartar opciones imposibles suele ser más efectivo que saber
 mucho de un solo tema.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y recorrido
 
 1.  **Eliminación primero:** Antes de responder, descarta las opciones que

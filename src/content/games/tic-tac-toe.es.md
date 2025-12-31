@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: tic-tac-toe
-title: "Tic-Tac-Toe - Tres en raya clásico"
+title: Tic-Tac-Toe - Tres en raya clásico
 description: >-
   Tic‑Tac‑Toe es el clásico juego de estrategia en el que dos jugadores se
   turnan para colocar X y O en una cuadrícula de 3×3, intentando ser los
@@ -21,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 "Tic‑Tac‑Toe" es el clásico juego de tres en raya en el que dos jugadores se alternan para colocar X y O en una cuadrícula de 3×3, intentando ser el primero en conseguir tres símbolos alineados en horizontal, vertical o diagonal. Aunque las reglas son muy sencillas, es un ejercicio perfecto para introducirse en la estrategia básica.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  Ocupa el centro: si es posible, toma el centro de la cuadrícula, ya que ofrece más líneas ganadoras potenciales.

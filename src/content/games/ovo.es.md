@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: ovo
-title: "OvO Game - Plataformas de alta precisión"
+title: OvO Game - Plataformas de alta precisión
 description: >-
   OvO Game es un plataformas rápido y desafiante en el que controlas a un
   stickman usando saltos precisos, deslizamientos y saltos en pared para superar
@@ -28,6 +28,7 @@ por niveles llenos de trampas, intentando alcanzar la meta lo antes posible. El
 juego es conocido por su alta dificultad y controles muy fluidos, que ponen a
 prueba tu velocidad de reacción y tu precisión.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Dominar los movimientos básicos:** dominar bien saltos, deslizamientos,

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: panenka-football
-title: "Panenka Football - Maestría en penaltis estilo Panenka"
+title: Panenka Football - Maestría en penaltis estilo Panenka
 description: >-
   Panenka Football es un simulador de penaltis centrado en la célebre Panenka:
   disfraza la intención, pica el balón con sutileza y adivina al portero
@@ -26,6 +26,7 @@ lanzamientos a las esquinas y cambios de altura; el éxito depende más de
 alterar el ritmo y leer al portero que de la potencia bruta.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Leer al portero:** si el guardameta se lanza pronto a un lado, el centro

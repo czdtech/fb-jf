@@ -23,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 Tu peux jouer en **1 contre 1** ou **2 contre 2**, contre l’IA ou un ami sur le même clavier. L’objectif reste classique : marquer plus de points que l’adversaire avant la fin du chrono.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 Pour gagner, il faut maîtriser tes déplacements, le timing des tirs et exploiter le Super Shoot.
@@ -57,6 +58,7 @@ Pour gagner, il faut maîtriser tes déplacements, le timing des tirs et exploit
 4. **Utiliser le dash en défense**  
    Le dash sert aussi à revenir vite en défense ou à fermer un shooteur ouvert.
 
+<!-- i18n:section:controls -->
 ### Commandes
 
 Le jeu permet à deux joueurs de partager le même clavier en utilisant chacun un ensemble de touches unique.

@@ -1,9 +1,13 @@
 ---
 locale: es
 urlstr: tank-trouble
-title: "Tank Trouble - Batallas de tanques multijugador"
-description: "Tank Trouble es un juego de batallas de tanques multijugador en laberintos. Conduce tu tanque por corredores estrechos, dispara proyectiles que rebotan en las paredes y utiliza el escenario para sorprender a tus rivales. Gana siendo el último tanque en pie."
-iframeSrc: "https://www.friv2018.com/games/html5/tank-trouble-2/"
+title: Tank Trouble - Batallas de tanques multijugador
+description: >-
+  Tank Trouble es un juego de batallas de tanques multijugador en laberintos.
+  Conduce tu tanque por corredores estrechos, dispara proyectiles que rebotan en
+  las paredes y utiliza el escenario para sorprender a tus rivales. Gana siendo
+  el último tanque en pie.
+iframeSrc: 'https://www.friv2018.com/games/html5/tank-trouble-2/'
 thumbnail: /new-images/thumbnails/tank-trouble.jpg
 tags:
   - multiplayer
@@ -18,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 "Tank Trouble" es un juego de batallas de tanques multijugador en el que te mueves por un laberinto lleno de pasillos y esquinas cerradas. Tu objetivo es localizar a los demás tanques, dispararles y usar las paredes como cobertura mientras evitas sus tiros. Los proyectiles rebotan en los muros, así que la posición y los ángulos son tan importantes como la puntería.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  Usa los muros: los disparos rebotan en las paredes; aprende a calcular los ángulos para golpear a los rivales sin exponerte directamente.

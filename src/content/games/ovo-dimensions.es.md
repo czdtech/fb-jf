@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: ovo-dimensions
-title: "OvO Dimensions - Plataforma 2D para expertos"
+title: OvO Dimensions - Plataforma 2D para expertos
 description: >-
   OvO Dimensions es un desafiante plataformas 2D que amplía la serie OvO con
   nuevas mecánicas y obstáculos, obligándote a dominar saltos precisos,
@@ -30,6 +30,7 @@ rápido como exigente. Introduce mecánicas y obstáculos nuevos que te obligan 
 la alta dificultad característica de la saga, pero con diseños de niveles más
 ricos y una experiencia visual mejorada.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Familiarizarse con las nuevas mecánicas:** entiende y practica bien los

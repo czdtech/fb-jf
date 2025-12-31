@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: worlds-hardest-game
-title: "World's Hardest Game - El juego más difícil del mundo"
+title: World's Hardest Game - El juego más difícil del mundo
 description: >-
   World’s Hardest Game es un arcade extremadamente desafiante en el que
   controlas un cuadrado rojo y atraviesas niveles llenos de círculos azules en
   movimiento, exigiendo precisión absoluta y mucha paciencia para llegar a la
   meta.
-iframeSrc: "https://ad-freegames.github.io/flash/game/the-worlds-hardest-game.html"
+iframeSrc: 'https://ad-freegames.github.io/flash/game/the-worlds-hardest-game.html'
 thumbnail: /new-images/thumbnails/worlds-hardest-game.jpg
 tags:
   - difficulty
@@ -23,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 "World's Hardest Game" es un arcade famoso por su dificultad extrema. Controlas un pequeño cuadrado rojo que debe atravesar niveles plagados de círculos azules en movimiento. Cada error se castiga al instante, así que necesitas una sincronización milimétrica y una paciencia enorme para esquivar los obstáculos y alcanzar la meta. Su estética simple esconde una experiencia tan frustrante como adictiva.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Observa los patrones:** antes de moverte, estudia con calma las trayectorias y el ritmo de los círculos azules.

@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: speed-master
-title: "Speed Master"
+title: Speed Master
 description: >-
   Speed Master es una prueba extrema de reflejos: acierta los avisos al ritmo,
   encadena perfectos y mantén la calma cuando la velocidad se dispare.
-iframeSrc: "https://6e0ej8ct9hdj8.h5games.usercontent.goog/v/1fssfmqquil18/"
+iframeSrc: 'https://6e0ej8ct9hdj8.h5games.usercontent.goog/v/1fssfmqquil18/'
 thumbnail: /new-images/thumbnails/speed-master.png
 tags:
   - action
@@ -25,6 +25,7 @@ con barridos cada vez más rápidos, ritmos engañosos y múltiples carriles que
 castigan tanto los toques adelantados como los retrasados.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y recorrido
 
 1.  **Cuenta el ritmo:** Marca un compás interno estable y pulsa según el ritmo

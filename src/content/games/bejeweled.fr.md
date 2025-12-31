@@ -1,15 +1,18 @@
 ---
 locale: fr
 urlstr: bejeweled
-title: "Bejeweled - Jouer à Bejeweled en ligne"
-description: "Bejeweled est le match‑3 culte où tu échanges des gemmes adjacentes pour aligner des séries, déclencher des cascades et créer des gemmes spéciales explosives."
-iframeSrc: "https://files.acticdn.com/278374/30464/index.html"
+title: Bejeweled - Jouer à Bejeweled en ligne
+description: >-
+  Bejeweled est le match‑3 culte où tu échanges des gemmes adjacentes pour
+  aligner des séries, déclencher des cascades et créer des gemmes spéciales
+  explosives.
+iframeSrc: 'https://files.acticdn.com/278374/30464/index.html'
 thumbnail: /new-images/thumbnails/bejeweled.png
 tags:
   - bejeweled
   - puzzle
 score: 4.8/5  (654 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -33,6 +36,7 @@ releaseDate: 2025-12-04
 - **Mode Classique :** pas de limite de temps ; tu joues jusqu’à ce qu’il n’y ait plus de coup possible.  
 - **Mode Action / Blitz :** partie limitée (souvent 60 secondes) où tu dois marquer le plus de points possible avant la fin du temps.
 
+<!-- i18n:section:tips -->
 ### Stratégies et astuces
 
 - **Cherche les gros coups :** ne te contente pas de simples alignements de trois ; essaie autant que possible de préparer des 4 ou 5 pour générer des gemmes spéciales.  

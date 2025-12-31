@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Train 2048 es un puzle muy entretenido que reimagina la fórmula de 2048 con temática ferroviaria. En lugar de casillas numeradas, deslizas y combinas vagones del mismo tipo sobre una cuadrícula de vías. Cada fusión convierte dos vagones idénticos en uno de nivel superior. El objetivo es gestionar al milímetro el espacio disponible, seguir encadenando fusiones y, finalmente, crear el codiciado vagón "2048".
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Estrategia de esquina:** una táctica clásica que encaja a la perfección aquí. Intenta mantener tu vagón de mayor valor en una de las esquinas del tablero. Así evitas que quede atrapado en el centro y puedes construir el resto de la cadena a su alrededor.

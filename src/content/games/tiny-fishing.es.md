@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: tiny-fishing
-title: "Tiny Fishing - Pesca casual en miniatura"
+title: Tiny Fishing - Pesca casual en miniatura
 description: >-
   Tiny Fishing es un juego de pesca relajante donde lanzas el sedal a las
   profundidades, capturas diferentes especies y mejoras tu equipo para llegar
@@ -21,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Tiny Fishing es un juego de pesca casual y relajante en el que lanzas tu sedal al fondo del mar, capturas peces de todo tipo y mejoras tu equipo para alcanzar aguas más profundas y encontrar especies cada vez más valiosas. Es muy querido por su control sencillo y su experiencia tranquila y adictiva.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  Mejora la longitud del sedal: prioriza ampliar la profundidad para acceder a zonas donde aparecen peces raros y mejor pagados.

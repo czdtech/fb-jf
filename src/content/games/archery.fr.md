@@ -1,9 +1,13 @@
 ---
 locale: fr
 urlstr: archery
-title: "Archery World Tour"
-description: "Dans Archery World Tour, tu voyages autour du monde pour participer à des concours de tir à l’arc où il faut gérer le vent, la distance et le timing pour viser le centre de la cible."
-iframeSrc: "https://archery.h5games.usercontent.goog/v/f12fb2aa-d64b-4074-8974-31705698e2e6/"
+title: Archery World Tour
+description: >-
+  Dans Archery World Tour, tu voyages autour du monde pour participer à des
+  concours de tir à l’arc où il faut gérer le vent, la distance et le timing
+  pour viser le centre de la cible.
+iframeSrc: >-
+  https://archery.h5games.usercontent.goog/v/f12fb2aa-d64b-4074-8974-31705698e2e6/
 thumbnail: /new-images/thumbnails/archery.jpg
 tags:
   - sports
@@ -19,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 *Archery World Tour* est une simulation de tir à l’arc. Tu te déplaces dans différents lieux du monde et dois marquer un maximum de points en plaçant tes flèches au plus près du centre de la cible. Pour réussir, tu dois tenir compte de la distance, de la gravité et surtout du vent, qui dévie ta trajectoire.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1. **Compense le vent :** avant chaque tir, regarde l’indicateur de vent pour connaître sa direction et sa force. Vise légèrement à l’opposé du vent afin que la flèche soit déviée vers le centre.  

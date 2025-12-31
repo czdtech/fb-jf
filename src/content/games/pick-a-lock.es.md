@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: pick-a-lock
-title: "Pick a Lock - Juego de ritmo y precisión"
+title: Pick a Lock - Juego de ritmo y precisión
 description: >-
   Pick a Lock pone a prueba tu precisión y concentración: detén la aguja sobre
   los marcadores, encadena golpes perfectos y abre cerraduras cada vez más
@@ -28,6 +28,7 @@ ventanas de tiempo más ajustadas e incluso giros en sentido inverso, por lo que
 la calma y el enfoque son fundamentales.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Contar el ritmo: sincronízate con el compás de la aguja y pulsa siguiendo el

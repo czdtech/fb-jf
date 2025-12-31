@@ -19,6 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 *Bricks Breaker Crush* te fait lancer des salves de balles qui ricochent sur des briques numérotées. Chaque impact fait descendre le compteur d’une brique ; à chaque tour, le mur descend d’un cran. Si une brique atteint la ligne du bas, c’est perdu.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1. **Angles peu inclinés**  

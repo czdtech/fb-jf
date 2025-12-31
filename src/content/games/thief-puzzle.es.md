@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: thief-puzzle
-title: "Thief Puzzle - Puzles de brazo elástico"
+title: Thief Puzzle - Puzles de brazo elástico
 description: >-
   Thief Puzzle es un travieso juego de puzles con brazo elástico: estírate para
   robar, esquiva trampas y alcanza los objetivos con ángulos y tiempos
@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 En Thief Puzzle extiendes un brazo elástico para robar objetos mientras esquivas láseres, guardias y sierras giratorias. Cada nivel premia la planificación de la ruta: debes bordear sensores, aprovechar ventanas de tiempo y retraer el brazo en el momento justo para no activar ninguna trampa.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Explora primero el camino: mueve el brazo lentamente para comprobar el alcance de los sensores y disparadores.

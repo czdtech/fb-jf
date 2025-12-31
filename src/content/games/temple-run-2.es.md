@@ -1,9 +1,14 @@
 ---
 locale: es
 urlstr: temple-run-2
-title: "Temple Run 2 - Carrera infinita en el templo"
-description: "Temple Run 2 es un juego de carrera infinita de aventuras en el que corres por peligrosos caminos de templo, recoges monedas y potenciadores y esquivas obstáculos mientras huyes de los demonios que te persiguen a través de entornos espectaculares."
-iframeSrc: "https://sxiao.4399.com/4399swf//upload_swf/ftp35/gamehwq/20210119/11/index.html"
+title: Temple Run 2 - Carrera infinita en el templo
+description: >-
+  Temple Run 2 es un juego de carrera infinita de aventuras en el que corres por
+  peligrosos caminos de templo, recoges monedas y potenciadores y esquivas
+  obstáculos mientras huyes de los demonios que te persiguen a través de
+  entornos espectaculares.
+iframeSrc: >-
+  https://sxiao.4399.com/4399swf//upload_swf/ftp35/gamehwq/20210119/11/index.html
 thumbnail: /new-images/thumbnails/temple-run-2.jpg
 tags:
   - endless runner
@@ -18,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Temple Run 2 es un juego de carrera infinita en el que corres por antiguos templos llenos de trampas, precipicios y curvas imposibles. Mientras el monstruo te persigue, recoges monedas y potenciadores, esquivas troncos, acantilados y minas, y te deslizas por tirolinas o vagonetas. Ofrece escenarios más ricos y efectos visuales más elaborados que el juego original.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  Recolecta monedas: prioriza las monedas del camino para poder mejorar a tus personajes y comprar nuevos potenciadores.

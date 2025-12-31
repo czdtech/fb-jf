@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: parking-jam
-title: "Parking Jam - Desatasca el aparcamiento"
+title: Parking Jam - Desatasca el aparcamiento
 description: >-
   Parking Jam es un puzle espacial tipo "Rush Hour": mueve los coches en
   secuencia, libera el carril de salida y resuelve aparcamientos compactos con
@@ -26,6 +26,7 @@ un solo sentido y bloqueadores que obligan a seguir un orden de movimientos muy
 concreto.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Trabajar desde la salida hacia atrás:** analiza primero el carril de

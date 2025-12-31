@@ -23,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 Chaque adversaire a son style : certains tapent très fort mais sont lents, d’autres sont rapides mais fragiles. Le gameplay repose sur quelques actions simples (directs, uppercuts, garde), mais demande du timing, de la gestion d’endurance et un peu de stratégie.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 -   **La patience et la défense d’abord :** ne spamme pas les coups. Ils consomment ton endurance et te laissent ouvert aux contres. Laisse l’adversaire finir sa combinaison sur ta garde, puis riposte quand il se découvre.

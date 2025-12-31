@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: run-3
-title: "Run 3"
+title: Run 3
 description: >-
   Run 3 es un endless runner ambientado en el espacio en el que controlas a un
   pequeño alienígena que corre por un túnel 3D, saltando huecos y evitando
   obstáculos mientras desafía la gravedad en este adictivo plataformas.
-iframeSrc: "https://lekug.github.io/tn6pS9dCf37xAhkJv/index.html"
+iframeSrc: 'https://lekug.github.io/tn6pS9dCf37xAhkJv/index.html'
 thumbnail: /new-images/thumbnails/run-3.jpg
 tags:
   - endless runner
@@ -27,6 +27,7 @@ para seguir avanzando mientras la dificultad aumenta poco a poco. Su perspectiva
 3D y su curva de dificultad lo convierten en un juego tan sencillo de entender
 como desafiante de dominar.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego
 
 1.  **Domina la sincronización del salto:** Aprende a saltar en el momento justo para

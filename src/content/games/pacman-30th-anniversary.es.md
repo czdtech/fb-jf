@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: pacman-30th-anniversary
-title: "Pacman 30th Anniversary - 30 años de laberintos"
+title: Pacman 30th Anniversary - 30 años de laberintos
 description: >-
   Pacman 30th Anniversary es una edición especial del mítico arcade que celebra
   tres décadas de persecuciones en laberintos. Guía a Pac-Man por el laberinto,
@@ -29,6 +29,7 @@ bolas de poder y evitando a los cuatro fantasmas. Esta versión mantiene la
 jugabilidad original y añade detalles llenos de nostalgia para que jugadores
 nuevos y veteranos disfruten de la experiencia clásica.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Familiarizarse con los laberintos:** cada nivel puede tener un diseño de

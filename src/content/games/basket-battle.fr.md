@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 *Basket Battle* est un mini‑jeu de basket nerveux où chaque tir compte. Tu dois viser, ajuster la puissance et l’arc de la trajectoire, puis gérer les rebonds pour prendre l’avantage sur ton adversaire dans de courts duels.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1. **Privilégie les arcs hauts**  

@@ -1,9 +1,11 @@
 ---
 locale: fr
 urlstr: bloons-td-2
-title: "Bloons TD 2"
-description: "Dans Bloons TD 2, place et améliore 5 tours singes différentes pour éclater 50 vagues de bloons, tout en gérant les immunités des bloons noirs et blancs."
-iframeSrc: "https://1000freegames.github.io/swf/bloons-td-2.html"
+title: Bloons TD 2
+description: >-
+  Dans Bloons TD 2, place et améliore 5 tours singes différentes pour éclater 50
+  vagues de bloons, tout en gérant les immunités des bloons noirs et blancs.
+iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-2.html'
 thumbnail: /new-images/thumbnails/bloons-td-2.jpg
 tags:
   - casual
@@ -35,6 +37,7 @@ La partie s’étend sur 50 manches à difficulté croissante : chaque bloon éc
     -   **Arc‑en‑ciel :** très résistants, libèrent deux zébrés.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 -   **Défense équilibrée obligatoire :** impossible de se reposer uniquement sur les bombes (bloons noirs) ou la glace (bloons blancs). Garde toujours des tours « tranchantes » (Dart Monkey, Tack Shooter, Super Monkey) actives.

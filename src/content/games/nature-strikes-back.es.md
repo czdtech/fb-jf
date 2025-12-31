@@ -29,6 +29,7 @@ los harás evolucionar a formas más poderosas y los desplegarás en el campo de
 batalla para contener las oleadas de enemigos.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Invocar y fusionar:** el núcleo del juego es crear defensas poderosas.

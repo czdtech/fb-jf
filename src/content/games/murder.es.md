@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: murder
-title: "Murder - Deducción social en la oscuridad"
+title: Murder - Deducción social en la oscuridad
 description: >-
   Murder es un juego de deducción social cargado de suspense en el que un
   jugador es el asesino en secreto e intenta eliminar a los demás sin ser
@@ -28,6 +28,7 @@ observar, deducir y debatir para descubrir quién es el asesino y pararlo a
  tiempo. Cada ronda está llena de estrategia y guerra psicológica, y pocas
 partidas se parecen entre sí.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Si juegas como asesino:**  

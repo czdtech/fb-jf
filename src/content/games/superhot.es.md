@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: superhot
-title: 'Superhot'
+title: Superhot
 description: >-
-  Superhot es un innovador juego de disparos en primera persona en el que el tiempo solo
-  avanza cuando tú te mueves, creando una mezcla única de puzle táctico y
-  acción estratégica.
+  Superhot es un innovador juego de disparos en primera persona en el que el
+  tiempo solo avanza cuando tú te mueves, creando una mezcla única de puzle
+  táctico y acción estratégica.
 iframeSrc: 'https://superhotgame.com/superhot-prototype-iframe'
 thumbnail: /new-images/thumbnails/superhot.jpg
 tags:
@@ -25,6 +25,7 @@ congela si estás quieto y solo fluye cuando te mueves. Esto convierte cada
 encuentro en un pequeño puzle táctico donde planificas con calma y luego
 resuelves con precisión quirúrgica.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Control del tiempo:** cuando no te mueves ni giras la cámara, el tiempo

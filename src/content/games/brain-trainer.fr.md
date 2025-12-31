@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 *Brain Trainer* est une compilation de mini‑jeux rapides conçus pour stimuler différentes capacités cognitives : mémoire, logique, calcul, perception spatiale, etc. Chaque manche te propose un petit puzzle chronométré, et tes performances sont agrégées pour donner une sorte de « score cérébral ».
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Types de mini-jeux
 
 Le jeu alterne plusieurs catégories; voici quelques exemples emblématiques :

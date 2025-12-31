@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: one-line-only-dot-to-dot
-title: "One line only: dot to dot - Un solo trazo para unirlos todos"
+title: 'One line only: dot to dot - Un solo trazo para unirlos todos'
 description: >-
-  One line only: dot to dot es un elegante puzle de un solo trazo: dibuja
-  una única línea para cubrir todos los puntos y segmentos sin pasar dos veces
-  por el mismo sitio.
+  One line only: dot to dot es un elegante puzle de un solo trazo: dibuja una
+  única línea para cubrir todos los puntos y segmentos sin pasar dos veces por
+  el mismo sitio.
 iframeSrc: 'https://7n3sql2bqn9eg.h5games.usercontent.goog/v/2br4t62jndh88/'
 thumbnail: /new-images/thumbnails/one-line-only-dot-to-dot.jpg
 tags:
@@ -25,6 +25,7 @@ introducen puentes, giros forzados y trucos de paridad que exigen planificar muy
 bien la ruta y controlar cuándo retroceder.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Contar grados: empieza por los nodos de grado impar (en recorridos de

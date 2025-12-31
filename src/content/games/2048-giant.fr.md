@@ -1,9 +1,10 @@
 ---
 locale: fr
 urlstr: 2048-giant
-title: "2048 Giant"
-description: "2048 Giant reprend la formule de 2048 sur un plateau plus grand : fusionne les tuiles, anticipe davantage et vise toujours des valeurs plus folles." 
-iframeSrc: 'https://2048giant.h5games.usercontent.goog/v/4bea87e2-a9a9-4f4b-b1c8-8b777220c567/'
+title: 2048 Giant
+description: "2048 Giant reprend la formule de 2048 sur un plateau plus grand\_: fusionne les tuiles, anticipe davantage et vise toujours des valeurs plus folles."
+iframeSrc: >-
+  https://2048giant.h5games.usercontent.goog/v/4bea87e2-a9a9-4f4b-b1c8-8b777220c567/
 thumbnail: /new-images/thumbnails/2048-giant.jpg
 tags:
   - puzzle
@@ -19,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 2048 Giant est une déclinaison de 2048 jouée sur une grille plus large. Le but reste identique : faire glisser des tuiles numérotées pour fusionner les doublons et créer des tuiles de plus en plus grandes, jusqu’à au moins 2048. Le plateau géant offre plus d’espace, mais demande aussi plus de planification pour ne pas te faire submerger.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 Les principes de base de 2048 s’appliquent toujours, mais la grille plus grande accentue les erreurs.

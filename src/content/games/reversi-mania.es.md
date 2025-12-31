@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: reversi-mania
-title: "Reversi Mania"
+title: Reversi Mania
 description: >-
   Reversi Mania lleva el clásico Othello a tu navegador: flanquea fichas, toma
   las esquinas y gana con un final de partida bien calculado.
-iframeSrc: "https://reversimania.h5games.usercontent.goog/v/7rhqf6sl8lpf0/"
+iframeSrc: 'https://reversimania.h5games.usercontent.goog/v/7rhqf6sl8lpf0/'
 thumbnail: /new-images/thumbnails/reversi-mania.png
 tags:
   - 2 player
@@ -29,6 +29,7 @@ ninguno de los dos puede mover, normalmente cuando el tablero está lleno. Gana
 quien tenga más fichas de su color en el tablero.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y recorrido
 
 1.  **Prioriza las esquinas:** Las fichas de esquina nunca pueden ser volteadas;

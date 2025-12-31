@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: zombie-hunter-survival
-title: "Zombie Hunter: Survival - Supervivencia top‑down"
+title: 'Zombie Hunter: Survival - Supervivencia top‑down'
 description: >-
-  Zombie Hunter: Survival es un juego de disparos cenital de supervivencia: combea hordas,
-  ahorra munición y resiste oleadas cada vez más intensas.
-iframeSrc: "https://6ctmcm40nbff0.h5games.usercontent.goog/v/2a81mr3h8ut10/"
+  Zombie Hunter: Survival es un juego de disparos cenital de supervivencia:
+  combea hordas, ahorra munición y resiste oleadas cada vez más intensas.
+iframeSrc: 'https://6ctmcm40nbff0.h5games.usercontent.goog/v/2a81mr3h8ut10/'
 thumbnail: /new-images/thumbnails/zombie-hunter-survival.png
 tags:
   - shooting
@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Zombie Hunter: Survival es un juego de disparos de supervivencia visto desde arriba. Te mueves por arenas estrechas, gestionas munición y ventanas de recarga y trazas rutas seguras para “kitear” mientras las oleadas crecientes de zombis ponen al límite tu posicionamiento y control de masas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y guía de juego
 
 1.  **Kite en círculos:** corre en círculos amplios para agrupar zombis y dispararles cuando estén bien apilados.

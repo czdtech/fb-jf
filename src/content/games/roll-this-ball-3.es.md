@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: roll-this-ball-3
-title: "Roll This Ball"
+title: Roll This Ball
 description: >-
-  Un clásico puzle de deslizamiento que pondrá a prueba tu lógica. Mueve
-  los bloques de madera para crear un camino limpio por el que la bola pueda
-  rodar desde el inicio hasta la meta.
-iframeSrc: "https://rollthisball3.h5games.usercontent.goog/v/65vs8rm7dfjno/"
+  Un clásico puzle de deslizamiento que pondrá a prueba tu lógica. Mueve los
+  bloques de madera para crear un camino limpio por el que la bola pueda rodar
+  desde el inicio hasta la meta.
+iframeSrc: 'https://rollthisball3.h5games.usercontent.goog/v/65vs8rm7dfjno/'
 thumbnail: /new-images/thumbnails/roll-this-ball-3.png
 tags:
   - puzzle
@@ -29,6 +29,7 @@ hasta la casilla de llegada. La idea es sencilla, pero los niveles pueden ser
 sorprendentemente profundos.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y recorrido
 
 1.  **Analiza el recorrido:** Antes de mover nada, recorre con la vista la

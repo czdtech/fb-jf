@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 *99 Balls 3D* est un jeu de tir basé sur la physique qui mélange des éléments de *Breakout* et de *Bubble Shooter*. Des boules numérotées descendent progressivement depuis le haut de l’écran, chacune portant un nombre indiquant combien de fois elle doit être touchée pour disparaître. Depuis le bas de l’écran, tu tires un flot de petites balles qui ricochent sur les murs et sur les cibles. Ton objectif est de calculer des tirs qui rebondissent longtemps pour infliger un maximum de coups et nettoyer le plateau avant que les boules n’atteignent la ligne de défaite.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1. **Maîtrise les tirs en bande :** ne vise pas une seule boule en ligne droite. Tire en biais afin que tes balles rebondissent sur les murs et sur plusieurs cibles successivement ; un bon tir peut générer des centaines d’impacts.

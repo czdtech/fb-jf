@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: stickman-hook
-title: 'Stickman Hook'
+title: Stickman Hook
 description: >-
   Stickman Hook es un juego de balanceo basado en físicas en el que controlas a
   un stickman que usa ganchos para columpiarse por los niveles, esquivar
@@ -26,6 +26,7 @@ aprovechar los ganchos para balancearte, esquivar obstáculos y encadenar
 movimientos acrobáticos hasta cruzar la línea de meta. Su mecánica de
 balanceo suave y su física adictiva lo han convertido en un éxito.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Domina la sincronización:** aprende a soltar y enganchar el gancho en el momento

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: paper-minecraft
-title: "Paper Minecraft - Versión 2D del sandbox clásico"
+title: Paper Minecraft - Versión 2D del sandbox clásico
 description: >-
   Paper Minecraft es una reinterpretación 2D del popular sandbox en la que
   exploras un mundo de desplazamiento lateral, minas recursos, fabricas objetos,
@@ -27,6 +27,7 @@ fabricar objetos, construir bases y sobrevivir a distintos monstruos. Mantiene
 la esencia del juego original, pero con un enfoque lateral que le da una
 sensación distinta.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Recolección de recursos:** tala árboles para conseguir madera, excava bajo

@@ -19,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Dans *Bubble Woods Ultimate*, tu n’as que 60 secondes pour faire un maximum de points. Tire rapidement, fais éclater des groupes de bulles, déclenche des cascades et active des bonus pour prolonger un peu le chrono.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1. **La vitesse avant tout**  

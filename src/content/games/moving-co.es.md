@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: moving-co
-title: "Moving Co - Día de mudanza convertido en puzle"
+title: Moving Co - Día de mudanza convertido en puzle
 description: >-
   Moving Co. convierte una mudanza en un puzle ligero: planifica rutas,
   transporta los objetos con cuidado y vence al reloj con una logística
@@ -27,6 +27,7 @@ frágiles y formas incómodas convierten cada nivel en un puzle espacial
 bajo presión de tiempo.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Reconocer el terreno: identifica primero los muebles grandes y los pasillos

@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Word Pics es un juego de palabras en el que debes adivinar un término o frase a partir de dos imágenes que actúan como pista. Es una forma entretenida y adictiva de trabajar el vocabulario y las asociaciones de ideas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y guía de juego
 
 1.  Analiza las imágenes: observa ambas fotos e intenta encontrar el tema, concepto o palabra que tienen en común.

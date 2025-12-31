@@ -1,11 +1,12 @@
 ---
 locale: es
 urlstr: secret-agent
-title: "Secret Agent"
+title: Secret Agent
 description: >-
   Secret Agent es una aventura de sigilo y acción: escabúllete entre guardias,
-  desactiva trampas y completa objetivos usando gadgets y una sincronización precisa.
-iframeSrc: "https://087cce7dimlq8.h5games.usercontent.goog/v/6na8sphqpnhlo/"
+  desactiva trampas y completa objetivos usando gadgets y una sincronización
+  precisa.
+iframeSrc: 'https://087cce7dimlq8.h5games.usercontent.goog/v/6na8sphqpnhlo/'
 thumbnail: /new-images/thumbnails/secret-agent.png
 tags:
   - action
@@ -24,6 +25,7 @@ de llegar al punto de extracción. Un buen trazado y un uso inteligente de los
 gadgets valen mucho más que la fuerza bruta.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y recorrido
 
 1.  **Conos de visión:** Muévete solo cuando los conos de los guardias estén

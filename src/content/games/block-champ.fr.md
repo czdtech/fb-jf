@@ -27,6 +27,7 @@ Le jeu se distingue grâce à ses blocs spéciaux :
 Pour viser le haut du classement, il faut anticiper plusieurs coups à l’avance et gérer l’espace libre avec précision.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 -   **Garde des options ouvertes :** évite de créer des trous isolés d’une case, très difficiles à combler. Maintiens le plateau aussi plat et dégagé que possible.

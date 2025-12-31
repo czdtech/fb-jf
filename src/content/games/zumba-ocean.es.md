@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Zumba Ocean es un vistoso y adictivo juego de disparos de canicas al estilo de clásicos como Zuma. En un escenario marino, una cadena de perlas de colores avanza lentamente por un recorrido sinuoso. Tú controlas un lanzador que dispara perlas, y tu misión es eliminar toda la cadena creando grupos de tres o más del mismo color antes de que alcance la concha final.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y guía de juego
 
 1.  **Genera combos:** la forma más efectiva de limpiar la cadena es encadenar reacciones. Cuando haces una combinación, si los dos extremos que quedan son del mismo color, se juntan y pueden crear automáticamente otra eliminación, otorgándote puntos extra.

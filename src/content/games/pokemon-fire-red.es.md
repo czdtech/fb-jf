@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: pokemon-fire-red
-title: "Pokémon Rojo Fuego"
+title: Pokémon Rojo Fuego
 description: >-
   Pokémon Rojo Fuego es un remake fiel del clásico Pokémon Rojo en el que
   recorres la región de Kanto, capturas y entrenas Pokémon, desafías a los
   Líderes de Gimnasio y frenas los planes del Team Rocket para convertirte en
   Campeón de la Liga Pokémon.
-iframeSrc: "https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonred"
+iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonred'
 thumbnail: /new-images/thumbnails/pokemon-fire-red.jpg
 tags:
   - rpg
@@ -28,6 +28,7 @@ Rocket, con el objetivo final de convertirte en Campeón de la Liga Pokémon. El
 juego mantiene la historia y la jugabilidad clásica del original, pero con
 mejoras visuales y de calidad de vida propias de la era de Game Boy Advance.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego
 
 1.  **Elige tu Pokémon inicial:** Al comienzo de la aventura podrás escoger uno

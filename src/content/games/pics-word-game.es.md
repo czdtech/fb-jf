@@ -25,6 +25,7 @@ imágenes y debes deducir una sola palabra que las conecte. Es una forma diverti
 de poner a prueba tu vocabulario y tu capacidad de asociación.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Revisar las imágenes:** observa con atención todas las fotos del puzle;

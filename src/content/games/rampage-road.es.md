@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: rampage-road
-title: "Rampage Road"
+title: Rampage Road
 description: >-
   Rampage Road es un caótico juego de disparos sobre ruedas: esquiva el tráfico,
   destroza enemigos y sobrevive a persecuciones llenas de explosiones.
-iframeSrc: "https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/"
+iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
 thumbnail: /new-images/thumbnails/rampage-road.png
 tags:
   - car
@@ -25,6 +25,7 @@ eliminas objetivos, intentando mantener tu vehículo entero frente a oleadas de
 enemigos y disparos.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y recorrido
 
 1.  **Traza líneas limpias:** Mantente en carriles con huecos previsibles para

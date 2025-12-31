@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: sortworks
-title: "SortWorks"
+title: SortWorks
 description: >-
   SortWorks es un limpio puzle de clasificar y apilar: organiza objetos según
   reglas, planifica los espacios de buffer y evita bloqueos bajo una presión que
   va en aumento.
-iframeSrc: "https://293f3i461vfvo.h5games.usercontent.goog/v/31blvf8tg44g0/"
+iframeSrc: 'https://293f3i461vfvo.h5games.usercontent.goog/v/31blvf8tg44g0/'
 thumbnail: /new-images/thumbnails/sortworks.png
 tags:
   - puzzle
@@ -27,6 +27,7 @@ atascos. En niveles avanzados la cinta acelera y aparecen categorías más
 complicadas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y recorrido
 
 1.  **Jerarquía de reglas:** Aplica primero las reglas críticas (por ejemplo,

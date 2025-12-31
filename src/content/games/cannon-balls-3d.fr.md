@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Cannon Balls 3D est un jeu de puzzle satisfaisant basé sur la physique où tu prends le contrôle d'un canon puissant pour démolir diverses structures. Chaque niveau te présente un bâtiment ou un arrangement de blocs unique, et ton objectif est de le détruire en utilisant un nombre limité de boulets de canon. Le succès nécessite non seulement une bonne visée, mais aussi un œil stratégique pour identifier les points faibles structurels afin de causer un effondrement maximum avec un minimum de tirs.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Analyse la structure :** avant de tirer ton premier coup, prends un moment pour examiner le bâtiment. Cherche les blocs de support clés à la base, les barils explosifs ou tout autre point faible potentiel. L'objectif est de déclencher une réaction en chaîne.

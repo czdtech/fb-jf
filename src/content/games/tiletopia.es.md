@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Tiletopia es un tranquilo juego de construcción y puzles en el que creas paisajes cada vez más grandes colocando losetas hexagonales. Comienzas con una sola loseta y vas robando nuevas piezas de una pila generada de forma procedural. Tu misión es colocarlas con cabeza para formar un mundo coherente y bonito, haciendo coincidir bordes de bosques, campos, pueblos y carreteras. A menudo aparecerán pequeñas misiones que orientan tu diseño y multiplican tu puntuación.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Haz coincidir los bordes: la regla básica es que los bordes encajen. Conecta bosque con bosque, campo con campo y pueblo con pueblo. Cada borde bien casado suma puntos.

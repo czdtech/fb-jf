@@ -1,19 +1,19 @@
 ---
 locale: es
 urlstr: tumble-towers
-title: "Tumble Towers - Derriba la torre correcta"
+title: Tumble Towers - Derriba la torre correcta
 description: >-
   Un juego de físicas donde tienes que derribar torres de bloques sin dejar que
   caigan al agua los personajes que descansan sobre ellas. Elimina piezas con
   cuidado y deja que la gravedad haga el trabajo.
-iframeSrc: "https://786ndsslg99r8.h5games.usercontent.goog/v/70bavan56u08g/"
+iframeSrc: 'https://786ndsslg99r8.h5games.usercontent.goog/v/70bavan56u08g/'
 thumbnail: /new-images/thumbnails/tumble-towers.png
 tags:
   - puzzle
   - physics
   - casual
-score: "3.9/5  (1742 votes)"
-releaseDate: 2025-10-18
+score: 3.9/5  (1742 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -22,6 +22,7 @@ releaseDate: 2025-10-18
 Tumble Towers es un puzle basado en físicas en el que debes hacer que las torres se tambaleen y caigan de forma controlada. Cada nivel presenta estructuras de bloques con personajes colocados encima; tu misión es eliminar bloques en el orden adecuado para derribar la torre manteniendo a salvo a los personajes y evitando que terminen en el agua.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y guía de juego
 
 1.  Estudia la estructura: antes de tocar nada, observa qué bloques sostienen el peso y qué piezas puedes eliminar sin provocar un colapso descontrolado.

@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: rooftop-snipers
-title: "Rooftop Snipers"
+title: Rooftop Snipers
 description: >-
   Rooftop Snipers es el juego de disparos con físicas original en el que dos
   personajes pixelados luchan sobre tejados usando controles sencillos para
   disparar y tirarse mutuamente de los edificios con divertidísimas animaciones
   ragdoll.
-iframeSrc: "https://webglmath.github.io/rooftop-snipers/"
+iframeSrc: 'https://webglmath.github.io/rooftop-snipers/'
 thumbnail: /new-images/thumbnails/rooftop-snipers.jpg
 tags:
   - shooting
@@ -27,6 +27,7 @@ sencillos para disparar y lanzar al rival al vacío. Es conocido por sus
 animaciones ragdoll llenas de humor y por una jugabilidad simple pero más
 profunda de lo que parece.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego
 
 1.  **Domina los controles básicos:** Practica las combinaciones de movimiento,

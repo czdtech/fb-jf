@@ -20,6 +20,7 @@ Dans *Bubble Shooter*, l’écran est rempli de bulles colorées accrochées en 
 Si les bulles descendent jusqu’à la ligne du bas, la partie est finie.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies
 
 - **Vise les attaches hautes**  

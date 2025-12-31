@@ -24,6 +24,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 La mécanique centrale reste la même : tu peux **créer et détruire des lignes de blocs de glace** pour te protéger, bloquer les ennemis ou ouvrir des chemins. Le jeu propose de nombreux nouveaux niveaux ainsi qu’un mode coop à deux joueurs sur le même clavier.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 Maîtriser *Bad Ice‑Cream 3* consiste à anticiper les nouvelles menaces tout en perfectionnant les mécaniques déjà connues.

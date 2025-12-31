@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: wordle
-title: "Wordle - Adivina la palabra del día"
+title: Wordle - Adivina la palabra del día
 description: >-
-  Wordle es un popular puzle diario en el que tienes seis intentos para
-  adivinar una palabra de cinco letras, usando pistas de colores para deducir
-  las letras correctas y su posición en este adictivo reto de vocabulario.
-iframeSrc: "https://ext.minijuegos.com/wordle/"
+  Wordle es un popular puzle diario en el que tienes seis intentos para adivinar
+  una palabra de cinco letras, usando pistas de colores para deducir las letras
+  correctas y su posición en este adictivo reto de vocabulario.
+iframeSrc: 'https://ext.minijuegos.com/wordle/'
 thumbnail: /new-images/thumbnails/wordle.jpg
 tags:
   - word
@@ -21,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Wordle es un puzle diario de palabras en el que dispones de seis intentos para adivinar una palabra de cinco letras. Cada intento se evalúa con colores que indican qué letras están en la palabra y si están en la posición correcta. Su combinación de reglas sencillas y un único puzle al día lo ha convertido en un fenómeno global.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Primera palabra:** empieza con palabras que incluyan varias vocales y consonantes comunes.

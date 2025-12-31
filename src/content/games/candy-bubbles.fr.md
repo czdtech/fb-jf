@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Candy Bubbles est une variante sucrée et colorée du genre classique du bubble shooter. Situé dans un délicieux monde sur le thème des bonbons, ton objectif est de vider l'écran des bulles de bonbons vibrantes. Vise ton canon, tire et fais correspondre trois bulles ou plus de la même couleur pour les faire éclater. Avec des centaines de niveaux, des défis stratégiques et des réactions en chaîne satisfaisantes, c'est un jeu de puzzle relaxant parfait pour tous les âges.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Vise haut :** la stratégie la plus efficace dans n'importe quel bubble shooter est de viser les matches en haut du plateau. Quand tu fais éclater un groupe de bulles, toutes les bulles qui ne sont attachées qu'à ce groupe (et rien d'autre) tomberont aussi, vidant de grandes sections du plateau d'un coup et te rapportant des points bonus massifs.

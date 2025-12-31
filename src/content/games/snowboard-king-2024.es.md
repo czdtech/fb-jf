@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: snowboard-king-2024
-title: "Snowboard King 2024"
+title: Snowboard King 2024
 description: >-
   Baja la montaña a toda velocidad y escapa de una avalancha mortal. Esquiva
   árboles y rocas, recoge monedas y mejora tus habilidades para convertirte en
   el Snowboard King.
-iframeSrc: "https://61nls5ipnd8o8.h5games.usercontent.goog/v/6mdu5qlsugsl0/"
+iframeSrc: 'https://61nls5ipnd8o8.h5games.usercontent.goog/v/6mdu5qlsugsl0/'
 thumbnail: /new-images/thumbnails/snowboard-king-2024.png
 tags:
   - sports
@@ -28,6 +28,7 @@ pensar rápido. A lo largo del camino podrás recoger monedas para mejorar tus
 habilidades y consolidar tu título de rey del snowboard.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y recorrido
 
 1.  **Mira lejos:** Para una bajada larga, la clave es anticiparse. Mantén la

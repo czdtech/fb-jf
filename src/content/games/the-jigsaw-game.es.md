@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: the-jigsaw-game
-title: "The Jigsaw Game - Puzle de piezas clásicas"
+title: The Jigsaw Game - Puzle de piezas clásicas
 description: >-
-  The Jigsaw Game ofrece una experiencia relajante de puzle de imágenes:
-  coloca primero los bordes, agrupa colores y texturas y completa ilustraciones
-  pieza a pieza.
+  The Jigsaw Game ofrece una experiencia relajante de puzle de imágenes: coloca
+  primero los bordes, agrupa colores y texturas y completa ilustraciones pieza a
+  pieza.
 iframeSrc: 'https://2avtkm5bj06f0.h5games.usercontent.goog/v/66fijarm4ldv0/'
 thumbnail: /new-images/thumbnails/the-jigsaw-game.png
 tags:
@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 The Jigsaw Game es un clásico puzle digital con imágenes y número de piezas configurables. Empieza construyendo el marco, agrupa las piezas por colores o patrones y ve ensamblando pequeñas secciones antes de unirlas en la imagen final.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Borde primero: completa el marco cuanto antes para anclar el resto de grupos.

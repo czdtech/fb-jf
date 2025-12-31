@@ -1,9 +1,9 @@
 ---
 locale: fr
 urlstr: blockbuster-puzzle
-title: "Blockbuster Puzzle"
-description: "Blockbuster Puzzle est un jeu de placement/clear de blocs : garde plusieurs colonnes jouables, prépare des tours explosifs et évite de condamner l’espace critique."
-iframeSrc: "https://177gd8gft04p0.h5games.usercontent.goog/v/0md288db3fuq8/"
+title: Blockbuster Puzzle
+description: "Blockbuster Puzzle est un jeu de placement/clear de blocs\_: garde plusieurs colonnes jouables, prépare des tours explosifs et évite de condamner l’espace critique."
+iframeSrc: 'https://177gd8gft04p0.h5games.usercontent.goog/v/0md288db3fuq8/'
 thumbnail: /new-images/thumbnails/blockbuster-puzzle.png
 tags:
   - puzzle
@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Blockbuster Puzzle te met au défi de placer les formes qui arrivent pour déclencher des suppressions de lignes ou de groupes. Tout est une question de rythme : garde plusieurs colonnes jouables, prépare des tours « bombe » qui nettoient de grandes zones, et ne brûle jamais ta dernière poche de secours sauf si elle déclenche une chaîne.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  Garde au moins deux colonnes « flexibles » pour accueillir les pièces difficiles.

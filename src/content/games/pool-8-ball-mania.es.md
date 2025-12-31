@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: pool-8-ball-mania
-title: "Pool 8 Ball Mania"
+title: Pool 8 Ball Mania
 description: >-
   Pool 8 Ball Mania lleva el billar de bar a tu pantalla: apunta con precisión,
   controla la bola blanca con efecto y limpia la mesa planificando bien cada
   posición.
-iframeSrc: "https://4i2ksm0sqbsr0.h5games.usercontent.goog/v/6fbgaukuhtvqo/"
+iframeSrc: 'https://4i2ksm0sqbsr0.h5games.usercontent.goog/v/6fbgaukuhtvqo/'
 thumbnail: /new-images/thumbnails/pool-8-ball-mania.png
 tags:
   - sports
@@ -26,6 +26,7 @@ Efecto Arriba para que acompañe, Efecto Abajo para que retroceda y efecto
 lateral sobre las bandas para ajustar ángulos y líneas de tiro.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y recorrido
 
 1.  **Planifica la posición antes de tirar:** Antes de embocar una bola, piensa

@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 *Basket Champ* est un jeu minimaliste de timing et de précision. Tu tapes pour régler l’angle et la force de ton tir, puis tu regardes la balle traverser (ou non) le panier. D’un niveau à l’autre, les cerceaux peuvent bouger ou être protégés par des obstacles, et ton but est d’enchaîner les paniers sans faute.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1. **Vise légèrement au‑dessus du cercle**  

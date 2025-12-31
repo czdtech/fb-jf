@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: mountayonnaise
-title: "Sprunki Mountayonnaise - Crea música con el mundo animal"
+title: Sprunki Mountayonnaise - Crea música con el mundo animal
 description: >-
   Sprunki Mountayonnaise es un mod sorprendentemente encantador de Sprunki en el
   que distintos animales aparecen según los efectos de sonido que añadas. Tiene
@@ -12,7 +12,7 @@ tags:
   - sprunki mountayonnaise
   - sprunki mountayonnaise online
 score: 4.8/5  (649 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -24,6 +24,7 @@ que asignas. Gracias a ello, la rejugabilidad es enorme. Aquí crearás tus
 propias piezas musicales con un elenco de personajes animados muy peculiares.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Cómo jugar a Sprunki Mountayonnaise
 
 La jugabilidad es muy sencilla y se resume en unos pocos pasos:

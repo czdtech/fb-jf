@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: survivor-legends
-title: 'Survivor Legends'
+title: Survivor Legends
 description: >-
   Survivor Legends es un survivor de hordas: haz kiting en círculos, encadena
   sinergias y tritura oleadas gestionando bien enfriamientos y posicionamiento.
@@ -25,6 +25,7 @@ intensas. Lo que marca la diferencia son las sinergias entre mejoras, la gestió
 de área y control de masas y el radio de recogida de experiencia.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Kiting amplio:** haz círculos grandes; te dan margen para corregir ruta y

@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: shootz
-title: "ShootZ"
+title: ShootZ
 description: >-
-  ShootZ es un juego de disparos lleno de acción en el que te enfrentas a
-  zombis y otras criaturas, usando todo tipo de armas para sobrevivir a oleadas
-  cada vez más difíciles.
-iframeSrc: "https://g.igroutka.ru/games/17/9IsudOxakgP0EVKC/shootz/"
+  ShootZ es un juego de disparos lleno de acción en el que te enfrentas a zombis
+  y otras criaturas, usando todo tipo de armas para sobrevivir a oleadas cada
+  vez más difíciles.
+iframeSrc: 'https://g.igroutka.ru/games/17/9IsudOxakgP0EVKC/shootz/'
 thumbnail: /new-images/thumbnails/shootz.jpg
 tags:
   - shooting
@@ -25,6 +25,7 @@ hordas de zombis y otras criaturas. Cuenta con un amplio arsenal de armas y un
 ritmo de combate muy rápido, con oleadas que se vuelven más exigentes a medida
 que avanzas.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego
 
 1.  **Mejora tus armas:** Reúne recursos para mejorar tu equipamiento y aumentar

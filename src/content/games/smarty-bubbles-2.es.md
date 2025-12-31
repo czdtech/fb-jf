@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: smarty-bubbles-2
-title: "Smarty Bubbles 2"
+title: Smarty Bubbles 2
 description: >-
   El adictivo Bubble Shooter está de vuelta. Apunta, dispara y combina burbujas
   de colores para limpiar el tablero. Planifica bien tus tiros para evitar que
   se añadan nuevas filas.
-iframeSrc: "https://smartybubbles2.h5games.usercontent.goog/v/1u280qojm9oq0/"
+iframeSrc: 'https://smartybubbles2.h5games.usercontent.goog/v/1u280qojm9oq0/'
 thumbnail: /new-images/thumbnails/smarty-bubbles-2.png
 tags:
   - shooting
@@ -28,6 +28,7 @@ crear grandes reacciones en cadena y completar cada fase, todo mientras
 administras tus disparos para que el techo no descienda.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y recorrido
 
 1.  **Evita los disparos fallidos:** Igual que en el original, la clave es que

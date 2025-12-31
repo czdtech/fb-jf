@@ -37,6 +37,7 @@ Le fonctionnement est très simple et intuitif, ce qui le rend accessible à tou
 
 ---
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 Même si le principe est simple, ces astuces t’aideront à trouver la bonne réponse plus rapidement.

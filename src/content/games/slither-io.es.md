@@ -1,12 +1,13 @@
 ---
 locale: es
 urlstr: slither-io
-title: "Slither.io"
+title: Slither.io
 description: >-
   Slither.io es un popular juego multijugador online en el que controlas una
   serpiente que crece al comer orbes brillantes, mientras evitas chocar contra
   otros jugadores en una arena infinita por la supremacía.
-iframeSrc: "https://app-165910.games.s3.yandex.net/165910/rm0dpvrwyxo0cakog5vc1sr4c8b6xj1s/index.html"
+iframeSrc: >-
+  https://app-165910.games.s3.yandex.net/165910/rm0dpvrwyxo0cakog5vc1sr4c8b6xj1s/index.html
 thumbnail: /new-images/thumbnails/slither-io.jpg
 tags:
   - multiplayer
@@ -26,6 +27,7 @@ orbes de luz para hacerte cada vez más grande, mientras evitas chocar con otras
 serpientes. En este escenario sin fin, todos compiten por convertirse en la
 serpiente más larga del servidor.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego
 
 1.  **Crecimiento seguro:** Al principio, céntrate en recoger orbes pequeños y

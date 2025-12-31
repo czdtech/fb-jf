@@ -23,6 +23,7 @@ Le but : nettoyer l’écran de toutes les bulles avant la fin du temps sans te
 
 Le principal défi est d’éviter tout contact avec les bulles rebondissantes. Si une bulle touche ton personnage, tu perds une vie. La partie est perdue si tu n’as plus de vies ou si le chrono atteint zéro. En avançant, les niveaux deviennent plus difficiles (plus de bulles, dispositions plus complexes, temps plus court). Le mode coop local à deux joueurs est aussi très populaire.
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 - **Priorité aux bulles géantes**  

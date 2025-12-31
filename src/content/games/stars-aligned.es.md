@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: stars-aligned
-title: 'Stars Aligned'
+title: Stars Aligned
 description: >-
   Stars Aligned es un relajante puzle de constelaciones: rota fragmentos,
   conecta líneas y forma patrones de estrellas completos.
@@ -25,6 +25,7 @@ nodos; en fases avanzadas aparecen más fragmentos y ángulos muy sutiles que
 exigen revisar cada detalle con calma.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Empieza por los anclajes:** fija primero las coincidencias obvias para

@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: snake-game
-title: "Snake Game"
+title: Snake Game
 description: >-
   Snake Game es el clásico juego de arcade en el que controlas una serpiente que
   crece al comer comida, evitando chocar contra las paredes o contra tu propio
   cuerpo mientras intentas lograr la mayor puntuación posible.
-iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/snake/"
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/snake/'
 thumbnail: /new-images/thumbnails/snake-game.jpg
 tags:
   - classic
@@ -26,6 +26,7 @@ Tu misión es alargarla lo máximo posible sin golpearte con las paredes ni
 contigo mismo. Su sencillez y lo adictivo de su mecánica lo han convertido en
 uno de los clásicos más reconocibles de la historia del videojuego.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego
 
 1.  **Planifica la ruta:** Piensa siempre con unos cuantos movimientos de

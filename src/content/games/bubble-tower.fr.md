@@ -19,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Bubble Tower 3D ajoute une troisième dimension excitante à la formule classique du bubble shooter. Dans ce jeu, des bulles colorées sont accrochées à l'extérieur d'une tour cylindrique en rotation. Ton objectif est de vider toutes les bulles en tirant une nouvelle bulle depuis ton canon en bas et en la faisant correspondre avec au moins deux autres bulles de la même couleur. La possibilité de faire tourner la tour ajoute une couche de stratégie, te demandant de trouver le meilleur angle pour chaque tir afin de créer des réactions en chaîne massives et vider la tour.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Tourne et inspecte :** avant chaque tir, prends un moment pour faire tourner la tour à gauche et à droite. Cela te permet de voir toute la disposition des bulles et de planifier tes coups plus efficacement. Cherche les grands groupes de la même couleur ou les tirs stratégiques qui pourraient faire tomber une grande section.

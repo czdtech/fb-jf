@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: santa-magic-xmas
-title: "Santa Magic Xmas"
+title: Santa Magic Xmas
 description: >-
   Vive la magia de la Navidad en este festivo juego de puzles match‑3. Ayuda a
   Santa combinando adornos de colores y despejando el tablero para que los
   regalos lleguen a tiempo.
-iframeSrc: "https://santamagicxmas.h5games.usercontent.goog/v/27gpp489kce80/"
+iframeSrc: 'https://santamagicxmas.h5games.usercontent.goog/v/27gpp489kce80/'
 thumbnail: /new-images/thumbnails/santa-magic-xmas.png
 tags:
   - puzzle
@@ -28,6 +28,7 @@ encadena potentes combos y cumple los objetivos de cada nivel para que todos los
 regalos lleguen a su destino.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y recorrido
 
 1.  **Crea potenciadores navideños:** La mejor forma de limpiar el tablero es

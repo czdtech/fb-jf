@@ -38,6 +38,7 @@ Tu peux jouer en ligne dans des salons publics ou privés, ou t’entraîner hor
 
 - **Team Deathmatch (TDM) :** deux équipes s’affrontent pour obtenir le plus d’éliminations avant la fin du temps.
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 - **Toujours en mouvement**  

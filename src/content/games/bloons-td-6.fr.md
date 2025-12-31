@@ -28,6 +28,7 @@ La principale révolution vient des **trois chemins d’amélioration** disponib
 -   **Paragons :** en sacrifiant les trois tours Tier 5 d’une même famille, tu obtiens une version Paragon extrêmement puissante, pensée pour le très late game et les Boss Events.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 -   **Les synergies priment :** BTD6 récompense les combinaisons. Par exemple, associe un Super Monkey 2/0/3 à un **Alchemist 4/2/0 (Stronger Stimulant)** pour booster drastiquement ses dégâts et sa cadence.

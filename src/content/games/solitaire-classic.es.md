@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: solitaire-classic
-title: "Solitaire Classic"
+title: Solitaire Classic
 description: >-
   El clásico juego de cartas para un solo jugador, también conocido como
   Klondike. Mueve todas las cartas a las pilas de fundación, de As a Rey, para
   ganar.
-iframeSrc: "https://solitaireclassic.h5games.usercontent.goog/v/7sbt28mppqim8/"
+iframeSrc: 'https://solitaireclassic.h5games.usercontent.goog/v/7sbt28mppqim8/'
 thumbnail: /new-images/thumbnails/solitaire-classic.png
 tags:
   - card
@@ -28,6 +28,7 @@ mientras manipulas las cartas del tablero para descubrir cartas ocultas y
 construir tus fundaciones.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y recorrido
 
 1.  **Componentes del juego:**

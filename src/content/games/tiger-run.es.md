@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: tiger-run
-title: "Tiger Run - Carrera infinita en la jungla"
+title: Tiger Run - Carrera infinita en la jungla
 description: >-
   Tiger Run es un endless runner ambientado en la jungla: corre, salta y
   deslízate para esquivar obstáculos, cambiar de carril y recoger monedas sin
@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Tiger Run es un runner infinito sencillo ambientado en plena jungla. Debes leer los peligros que vienen por delante, cambiar de carril o saltar y deslizarte a tiempo para evitar los obstáculos, encadenar recogidas de monedas y mantener un ritmo constante a medida que la velocidad aumenta.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Mira al frente: mantén la vista en los obstáculos que se aproximan para preparar los cambios de carril con antelación.

@@ -26,6 +26,7 @@ identificar cuál de ellos no encaja con el resto según una regla o categoría
 concreta.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Examinar el conjunto:** observa con atención todos los elementos que

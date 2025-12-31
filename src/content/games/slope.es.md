@@ -1,13 +1,13 @@
 ---
 locale: es
 urlstr: slope
-title: "Slope"
+title: Slope
 description: >-
   Slope es el endless runner original en el que controlas una bola verde que
   baja por una pendiente muy inclinada, esquivando obstáculos rojos e intentando
   sobrevivir el máximo tiempo posible en una experiencia tan adictiva como
   desafiante.
-iframeSrc: "https://webglmath.github.io/slope/"
+iframeSrc: 'https://webglmath.github.io/slope/'
 thumbnail: /new-images/thumbnails/slope.jpg
 tags:
   - endless runner
@@ -26,6 +26,7 @@ bola verde que rueda por una cuesta cada vez más rápida mientras esquivas
 plataformas y bloques rojos. Su jugabilidad simple, física muy suave y ritmo
 acelerado lo convierten en un clásico instantáneo.
 
+<!-- i18n:section:tips -->
 ### Estrategias de juego
 
 1.  **Control básico:** Domina primero el movimiento lateral, evitando

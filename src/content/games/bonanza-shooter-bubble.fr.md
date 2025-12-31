@@ -18,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 *Bonanza Shooter Bubble* reprend la formule classique du bubble shooter. Tu tires une bulle vers le haut pour la coller à d’autres bulles : si tu formes un groupe d’au moins trois bulles de la même couleur, elles éclatent. Les bulles qui ne sont plus accrochées à rien tombent aussi, ce qui rapporte encore plus de points.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1. **Utilise les rebonds sur les murs**  

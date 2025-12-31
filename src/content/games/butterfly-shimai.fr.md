@@ -19,6 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Butterfly Shimai est un jeu de puzzle captivant et relaxant qui combine des éléments de Mahjong et de mécanique connect-2. Le jeu te présente un plateau rempli de belles ailes de papillon. Ton objectif est de trouver et connecter des paires d'ailes identiques pour les faire former un papillon complet et s'envoler, vidant le plateau. Le défi réside dans la règle de connexion : les ailes ne peuvent être appariées que si un chemin peut être tracé entre elles avec pas plus de deux virages, et sans passer à travers d'autres ailes. Avec une limite de temps pour chaque niveau, tu dois être rapide et stratégique pour vider tous les papillons.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Cherche les matches évidents :** commence par chercher les paires d'ailes qui sont directement adjacentes ou ont un chemin clair et droit entre elles. Ce sont les plus faciles à vider et ouvriront le plateau.

@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 *Basketball Master 2* est un jeu de tir au panier basé sur la physique. Tu dois viser et doser la puissance de ton tir pour faire passer la balle dans le panier, parfois en contournant des obstacles ou en les brisant à coups de tirs puissants.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1. **Vise calmement**  

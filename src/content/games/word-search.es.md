@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: word-search
-title: "Word Search - Entrena tu vista"
+title: Word Search - Entrena tu vista
 description: >-
-  Word Search es un puzle clásico en el que debes encontrar palabras
-  ocultas en una sopa de letras, buscándolas en horizontal, vertical y diagonal
-  para completar listas temáticas en este relajante ejercicio mental.
-iframeSrc: "https://cdn.gamesnacks.com/wordsearch1/gameCode/index.html"
+  Word Search es un puzle clásico en el que debes encontrar palabras ocultas en
+  una sopa de letras, buscándolas en horizontal, vertical y diagonal para
+  completar listas temáticas en este relajante ejercicio mental.
+iframeSrc: 'https://cdn.gamesnacks.com/wordsearch1/gameCode/index.html'
 thumbnail: /new-images/thumbnails/word-search.jpg
 tags:
   - word
@@ -21,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Word Search es un juego de sopa de letras en el que debes encontrar palabras ocultas en una cuadrícula de letras, buscándolas en horizontal, vertical y diagonal para completar listas temáticas. Es un ejercicio mental relajante que ayuda a mejorar vocabulario y capacidad de observación.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Barrido sistemático:** recorre la cuadrícula por filas o columnas en lugar de mirar al azar.

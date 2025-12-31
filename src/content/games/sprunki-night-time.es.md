@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sprunki-night-time
-title: 'Sprunki Night Time - Juega a Sprunki Night Time online'
+title: Sprunki Night Time - Juega a Sprunki Night Time online
 description: >-
   Sprunki Night Time te lleva a un mundo oscuro lleno de misterio y secretos,
   donde puedes vivir un viaje musical psicodélico en pleno silencio nocturno.
@@ -13,7 +13,7 @@ tags:
   - sprunki night time
   - sprunki night time online
 score: 4.2/5  (324 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -34,6 +34,7 @@ cinematográfico convierten la experiencia en mucho más que un placer sonoro: e
 también un espectáculo visual.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Cómo jugar a Sprunki Night Time
 
 Es muy sencillo; solo tienes que tener presentes estos puntos:

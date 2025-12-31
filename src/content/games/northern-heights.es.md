@@ -28,6 +28,7 @@ El juego se centra en equilibrar velocidad y control, y ofrece varias opciones
 de personalización para tu personaje, tabla y atuendos.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Dominar los controles:** aprende bien cómo girar y cuándo ejecutar

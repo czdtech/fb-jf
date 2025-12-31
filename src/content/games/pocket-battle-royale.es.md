@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: pocket-battle-royale
-title: "Pocket Battle Royale"
+title: Pocket Battle Royale
 description: >-
   Un battle royale en 2D con vista cenital y ritmo frenético. Recorre el mapa
-  para encontrar armas y botiquines, mantente dentro de la zona segura que se
-  va encogiendo y sobrevive hasta ser el último jugador en pie.
-iframeSrc: "https://pocketbattleroyale.h5games.usercontent.goog/v/1n9qfv4cpdie8/"
+  para encontrar armas y botiquines, mantente dentro de la zona segura que se va
+  encogiendo y sobrevive hasta ser el último jugador en pie.
+iframeSrc: 'https://pocketbattleroyale.h5games.usercontent.goog/v/1n9qfv4cpdie8/'
 thumbnail: /new-images/thumbnails/pocket-battle-royale.png
 tags:
   - action
@@ -28,6 +28,7 @@ cada vez más de cerca. Es una prueba pura de supervivencia, reflejos y
 estrategia.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y guía paso a paso
 
 1.  **Saquea rápido:** Tu prioridad al comenzar la partida es conseguir un arma.

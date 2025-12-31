@@ -1,11 +1,10 @@
 ---
 locale: es
 urlstr: thruline
-title: "Thruline - Traza la línea perfecta"
+title: Thruline - Traza la línea perfecta
 description: >-
   Thruline es un elegante puzle de conectar nodos: dibuja una única línea
-  continua que recorra la red cumpliendo las restricciones de giros y
-  cobertura.
+  continua que recorra la red cumpliendo las restricciones de giros y cobertura.
 iframeSrc: 'https://4bl9sdeaqndto.h5games.usercontent.goog/v/4qierjmnf0kng/'
 thumbnail: /new-images/thumbnails/thruline.jpg
 tags:
@@ -21,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Thruline te propone trazar un único camino ininterrumpido que visite todos los nodos requeridos respetando las reglas sobre giros, cruces y cobertura. En los niveles avanzados aparecen compuertas, puentes y trucos de paridad que premian identificar los cuellos de botella desde el principio.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Ataca primero los cuellos de botella: reclama los pasillos estrechos antes de que los cierres sin querer.

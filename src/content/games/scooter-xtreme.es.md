@@ -1,12 +1,13 @@
 ---
 locale: es
 urlstr: scooter-xtreme
-title: "Scooter Xtreme 3D"
+title: Scooter Xtreme 3D
 description: >-
   Salta al skatepark en Scooter Xtreme 3D. Recorre circuitos llenos de retos,
   encadena trucos y grinds espectaculares y recoge monedas para desbloquear
   nuevos patinetes y personajes.
-iframeSrc: "https://scooterxtreme.h5games.usercontent.goog/v/c842db43-7823-45bc-b575-acbd9bda5de4/"
+iframeSrc: >-
+  https://scooterxtreme.h5games.usercontent.goog/v/c842db43-7823-45bc-b575-acbd9bda5de4/
 thumbnail: /new-images/thumbnails/scooter-xtreme.jpg
 tags:
   - action
@@ -28,6 +29,7 @@ monedas que podrás invertir en nuevos patinetes y riders hasta convertirte en e
 rey del skatepark.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategias de juego y recorrido
 
 1.  **Aprende lo básico:** Antes de lanzarte a las piruetas complicadas,
