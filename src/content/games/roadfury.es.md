@@ -3,9 +3,9 @@ locale: es
 urlstr: roadfury
 title: "Road Fury"
 description: >-
-  Un frenético shooter vertical en la autopista. Pilota un coche armado hasta los
-  dientes, destruye vehículos enemigos y reúne monedas para mejorar tus armas y
-  armadura y sobrevivir a la furia de la carretera.
+  Un frenético juego de disparos vertical en la autopista. Pilota un coche armado
+  hasta los dientes, destruye vehículos enemigos y reúne monedas para mejorar tus
+  armas y armadura y sobrevivir a la furia de la carretera.
 iframeSrc: "https://roadfury.h5games.usercontent.goog/v/6u0uos6j6vvl0/"
 thumbnail: /new-images/thumbnails/roadfury.png
 tags:
@@ -20,7 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
-Road Fury es un shooter vertical de alta velocidad visto desde arriba que te pone
+Road Fury es un juego de disparos vertical de alta velocidad visto desde arriba que te pone
 al volante de un vehículo fuertemente armado en una autopista caótica. Tu misión
 es sobrevivir el máximo tiempo posible frente a oleadas de coches, camiones y
 jefes enemigos. Esquiva el tráfico, recoge poderosos potenciadores y utiliza las
@@ -33,7 +33,7 @@ de tu coche y desatar toda la furia de la carretera.
 1.  **Muévete siempre:** La clave para sobrevivir es no dejar de moverte. Ve
     cambiando de carril para esquivar disparos y colisiones; quedarse quieto es
     la forma más rápida de explotar.
-2.  **Prioriza los power‑ups:** Da máxima prioridad a los potenciadores que
+2.  **Prioriza los potenciadores:** Da máxima prioridad a los potenciadores que
     aparecen en la calzada. Un escudo temporal, un lanzacohetes o un imán de
     monedas pueden cambiar por completo una partida.
 3.  **Invierte en mejoras:** Las monedas son vitales. Entre partidas, entra en el
@@ -63,7 +63,7 @@ El juego se controla con un simple gesto de arrastre.
 
 <!-- i18n:faq:id=faq:roadfury:q-what-are-the-floating-4c959fb6 -->
 *   **P: ¿Qué son los iconos flotantes de la carretera?**
-    *   **R:** Son power‑ups temporales. Pásales por encima para obtener escudos,
+    *   **R:** Son potenciadores temporales. Pásales por encima para obtener escudos,
         armas especiales como cohetes, reparaciones de vida y imanes que atraen
         monedas.
 
@@ -72,4 +72,3 @@ El juego se controla con un simple gesto de arrastre.
     *   **R:** Mejorar el daño del arma principal suele ser lo más rentable al
         inicio, porque destruyes enemigos más rápido y generas más monedas.
         Después, aumentar la armadura te ayudará a soportar más golpes.
-

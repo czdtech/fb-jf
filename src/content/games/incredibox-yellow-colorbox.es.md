@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: incredibox-yellow-colorbox
-title: "Incredibox Yellow Colorbox - Play Incredibox Yellow Colorbox Online"
+title: "Incredibox Yellow Colorbox - Juega Incredibox Yellow Colorbox en línea"
 description: >-
-  Incredibox Yellow Colorbox es un mod musical fan-made de Incredibox. En esta
-  versión, todos los personajes aparecen en un llamativo color amarillo y cada
-  uno tiene un efecto sonoro único e irrepetible.
+  Incredibox Yellow Colorbox es un mod musical creado por fans para Incredibox.
+  En esta versión, todos los personajes aparecen en un llamativo color amarillo
+  y cada uno aporta un efecto sonoro único.
 iframeSrc: 'https://www.minijuegos.com/embed/incredibox-yellow-colorbox'
 thumbnail: /new-images/thumbnails/incredibox-yellow-colorbox.png
 tags:
@@ -65,7 +65,7 @@ suman melodías o efectos curiosos que dan más color a tus canciones.
 
 ---
 
-Tanto si quieres crear un beat sencillo como si te apetece montar un tema más
+Tanto si quieres crear un ritmo sencillo como si te apetece montar un tema más
 complejo, Incredibox Yellow Colorbox te permite expresar tu creatividad de una
 forma única y divertida. Entra ya en el mundo de Incredibox y deja que tu
 inspiración musical se desboque.

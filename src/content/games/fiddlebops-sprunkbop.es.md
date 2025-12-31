@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: fiddlebops-sprunkbop
-title: "Fiddlebops Sprunkbop - Juega Fiddlebops Sprunkbop Online"
+title: "Fiddlebops Sprunkbop - Juega Fiddlebops Sprunkbop en línea"
 description: >-
-  Fiddlebops Sprunkbop es un crossover musical fantástico: mantiene la
-  jugabilidad adictiva de Fiddlebops, pero remixa por completo la música y
-  presenta a la tripulación Sprunki con un estilo totalmente nuevo.
+  Fiddlebops Sprunkbop es un crossover musical genial: mantiene el núcleo
+  adictivo de creación musical de Fiddlebops, pero cambia a todos los personajes
+  por la icónica tripulación Sprunki.
 iframeSrc: 'https://turbowarp.org/1114551059/embed'
 thumbnail: /new-images/thumbnails/fiddlebops-sprunkbop.png
 tags:
@@ -75,4 +75,3 @@ forma de disfrutar de la música en este mod tan colorido.
 
 Dale una oportunidad a Fiddlebops Sprunkbop y usa tu creatividad para mezclar
 los beats más potentes.
-

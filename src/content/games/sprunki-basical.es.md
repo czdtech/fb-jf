@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sprunki-basical
-title: "Sprunki Basical - Juega a Sprunki Basical Online"
+title: "Sprunki Basical - Juega a Sprunki Basical en línea"
 description: >-
   Sprunki Basical es un juego de creación musical "vuelta a lo básico" que te
   permite disfrutar de la parte más pura y divertida de la música con controles
@@ -65,4 +65,3 @@ La mecánica es muy sencilla, en unos pocos pasos ya estarás componiendo:
   canción evolucione contigo.
 - **Exploración divertida:** Las animaciones y efectos ocultos convierten la
   sesión de creación en una experiencia llena de sorpresas.
-

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: fiddlebops-sprunksters-remix
-title: "Fiddlebops Sprunksters Remix - Juega Fiddlebops Sprunksters Remix Online"
+title: "Fiddlebops Sprunksters Remix - Juega Fiddlebops Sprunksters Remix en línea"
 description: >-
   Fiddlebops Sprunksters es un mod sobresaliente que mezcla a la perfección
   creatividad, ritmo y carisma visual gracias a sus diseños de personajes
@@ -66,7 +66,7 @@ música experimental. Un detalle genial dentro de Fiddlebops Sprunksters.
   elementos audiovisuales nuevos de Fiddlebops Sprunksters.
 - **Dos mundos, el doble de diversión:** Ese "mundo oscuro" oculto añade una
   capa enorme de rejugabilidad y exploración.
-- **Juega donde quieras:** Puedes entrar en Fiddlebops Sprunksters online en
+- **Juega donde quieras:** Puedes entrar en Fiddlebops Sprunksters en línea en
   sitios como playfiddlebops.com, sin descargas y de forma muy cómoda.
 
 Fiddlebops Sprunksters es un mod extraordinario que combina de forma perfecta
@@ -75,4 +75,3 @@ sonidos originales y esa función de "doble mundo", ofrece una
 experiencia única para cualquiera que ame la música y las propuestas
 innovadoras. No lo dudes: sumérgete en Fiddlebops Sprunksters y disfruta a lo
 grande creando música.
-

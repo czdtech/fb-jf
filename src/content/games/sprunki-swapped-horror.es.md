@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sprunki-swapped-horror
-title: Sprunki Swapped Horror - Juega a Sprunki Swapped Horror online
+title: Sprunki Swapped Horror - Juega a Sprunki Swapped Horror en línea
 description: >-
   Sprunki Swapped Horror es un mod creativo de Incredibox que le da una nueva
   dimensión al juego mediante un sistema de intercambio de personajes. Verás a
@@ -48,7 +48,7 @@ El manejo es muy sencillo:
 - **Elige personajes:** selecciona tus compañeros de mezcla entre el elenco
   reinterpretado.
 - **Crea paisajes sonoros únicos:** combina distintos personajes para levantar
-  capas de sonido que encajen con la atmósfera de horror.
+  capas de sonido que encajen con la atmósfera de terror.
 - **Explora nuevas posibilidades:** cambia el orden y las combinaciones para
   descubrir sorpresas sonoras que no se ven a simple vista.
 - **Comparte tus temas:** enseña tus mezclas a la comunidad y comparte tu
@@ -79,4 +79,3 @@ musical tan extraño como adictivo.
 
 Únete a la comunidad de Sprunki Swapped Horror y comparte tus experiencias con
 este mod.
-

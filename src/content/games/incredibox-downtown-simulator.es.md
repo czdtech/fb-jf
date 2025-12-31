@@ -39,7 +39,7 @@ intérpretes individuales.
 
 1.  **Comprende la rejilla:** Los 20 sonidos se presentan en una misma cuadrícula.
     Aunque la interfaz no los separe en categorías, siguen cumpliendo roles de
-    **Beats, Effects, Melodies y Voices**. Experimenta haciendo clic en distintos
+    **ritmos, efectos, melodías y voces**. Experimenta haciendo clic en distintos
     iconos para entender su función. Las filas superiores suelen contener beats
     y efectos base; las inferiores, melodías y voces más complejas.
 2.  **Superpone sonidos con método:** El núcleo del juego es la
@@ -55,11 +55,11 @@ intérpretes individuales.
     La gracia está en crear tu mezcla única, ya sea un beat limpio y sencillo o
     una textura urbana compleja.
 5.  **Aprovecha los controles:**
-    *   **Play/Pause:** El botón de reproducción controla todo el loop.
-    *   **Reset:** El botón de reinicio/barajado sirve para limpiar la rejilla y
-        empezar de cero.
-    *   **Record:** Usa la función de grabación para guardar y compartir los
-        loops de los que te sientas más orgulloso.
+    *   **Reproducir/Pausar:** El botón de reproducción controla todo el loop.
+    *   **Reiniciar:** El botón de reinicio/barajado sirve para limpiar la rejilla
+        y empezar de cero.
+    *   **Grabar:** Usa la función de grabación para guardar y compartir los loops
+        de los que te sientas más orgulloso.
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
@@ -73,7 +73,6 @@ clics.
 *   **Combinar sonidos:** Puedes activar tantos iconos como quieras al mismo
     tiempo para construir tu mezcla.
 *   **Controles principales (arriba a la izquierda):**
-    *   **Play:** activa o detiene todo el loop.
-    *   **Record:** inicia o detiene la grabación de tu sesión.
-    *   **Reset:** limpia todos los sonidos activos de la rejilla.
-
+    *   **Reproducir/Pausar:** activa o detiene todo el loop.
+    *   **Grabar:** inicia o detiene la grabación de tu sesión.
+    *   **Reiniciar:** limpia todos los sonidos activos de la rejilla.

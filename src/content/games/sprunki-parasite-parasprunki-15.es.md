@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sprunki-parasite-parasprunki-15
-title: 'Incredibox Sprunksters - Juega a Incredibox Sprunksters online'
+title: 'Sprunki Parasite ParaSprunki 15 - Juega a Sprunki Parasite ParaSprunki 15 en línea'
 description: >-
   Prepárate para Sprunki Parasite ParaSprunki 15. Este mod retuerce la clásica
   experiencia de creación musical en una aventura inquietante, con personajes
@@ -36,12 +36,12 @@ nivel todavía más intenso.
 
 - **Visuales escalofriantes:** los personajes han sufrido una transformación
   seria. Sus diseños retorcidos y animaciones inquietantes capturan a la
-  perfección el horror de estar «parasitado».
+  perfección el terror de estar «parasitado».
 - **Paisajes sonoros perturbadores:** ¿listo para que las melodías se te
   queden en la cabeza? La música en Sprunki Parasite ParaSprunki 15 está llena
   de beats incómodos, melodías siniestras y efectos glitch que te sumergen en
   un mundo oscuro al borde del colapso.
-- **Easter eggs espeluznantes:** atrévete a probar combinaciones raras de
+- **Huevos de Pascua espeluznantes:** atrévete a probar combinaciones raras de
   sonidos. Puedes desbloquear animaciones aún más terroríficas y efectos
   ocultos. Descubrir estos secretos es una de las mejores partes del mod.
 
@@ -67,8 +67,7 @@ completamente distinta:
 
 Si te gustan los juegos que mezclan sustos, tensión y creatividad, Sprunki
 Parasite ParaSprunki 15 es para ti. Este mod combina la creación musical con
-una ambientación de horror muy marcada para ofrecer una experiencia única. Puedes
+una ambientación de terror muy marcada para ofrecer una experiencia única. Puedes
 encontrarlo fácilmente en sitios como playfiddlebops.com. ¿Listo para
 empezar? Adéntrate en el mundo de Sprunki Parasite ParaSprunki 15 y siente en
 propia piel qué es que la música te «posea».
-

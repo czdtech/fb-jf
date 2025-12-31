@@ -3,7 +3,7 @@ locale: es
 urlstr: smarty-bubbles-2
 title: "Smarty Bubbles 2"
 description: >-
-  El adictivo bubble shooter está de vuelta. Apunta, dispara y combina burbujas
+  El adictivo Bubble Shooter está de vuelta. Apunta, dispara y combina burbujas
   de colores para limpiar el tablero. Planifica bien tus tiros para evitar que
   se añadan nuevas filas.
 iframeSrc: "https://smartybubbles2.h5games.usercontent.goog/v/1u280qojm9oq0/"
@@ -20,7 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
-Smarty Bubbles 2 continúa la diversión del clásico bubble shooter con un aspecto
+Smarty Bubbles 2 continúa la diversión del clásico Bubble Shooter con un aspecto
 renovado y cientos de niveles nuevos. El objetivo sigue siendo el mismo:
 limpiar el tablero de burbujas de colores disparando y formando grupos de tres o
 más del mismo color. Esta secuela te obliga a pensar de forma estratégica para
@@ -72,4 +72,3 @@ administras tus disparos para que el techo no descienda.
     *   **R:** Superando los niveles de forma eficiente y provocando caídas
         masivas de burbujas. Cuantas más elimines de una sola vez, más puntos
         obtendrás.
-

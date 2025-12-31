@@ -20,7 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:introduction -->
 ### Visión general
-Jet Boi es un shooter versus compacto centrado en el control aéreo. Dos
+Jet Boi es un juego de disparos versus compacto centrado en el control aéreo. Dos
 jugadores vuelan con jetpacks alrededor de plataformas usando ráfagas cortas de
 combustible, recogen armas y tratan de conseguir ring‑outs o KOs. Dominar los
 toques en el aire, el retroceso de las armas y la sincronización es clave para
@@ -63,4 +63,3 @@ asegurar la altura y rematar a los rivales.
 <!-- i18n:faq:id=faq:jet-boi:can-i-remap-keys-for-f8be220d -->
 - **P: ¿Se pueden cambiar las teclas de control para dos jugadores?**  
   R: Muchos hosts permiten remapear controles antes de empezar la partida.
-

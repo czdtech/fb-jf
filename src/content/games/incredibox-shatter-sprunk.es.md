@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: incredibox-shatter-sprunk
-title: "Incredibox Shatter Sprunk - Play Incredibox Shatter Sprunk Online"
+title: "Incredibox Shatter Sprunk - Juega Incredibox Shatter Sprunk en línea"
 description: >-
-  Incredibox Shatter Sprunk es un mod musical fan-made de Incredibox. En esta
-  versión, todos los personajes aparecen en un llamativo color amarillo y cada
-  uno tiene un efecto sonoro único e irrepetible.
+  Incredibox Shatter Sprunk es un mod musical creado por fans para Incredibox.
+  En esta versión, todos los personajes aparecen en un llamativo color amarillo
+  y cada uno aporta un efecto sonoro único.
 iframeSrc: 'https://turbowarp.org/1144858827/embed'
 thumbnail: /new-images/thumbnails/incredibox-shatter-sprunk.png
 tags:
@@ -78,4 +78,3 @@ El manejo es muy simple y se hace casi todo con el ratón:
 - **Exploración divertida:** descubre animaciones y efectos ocultos mientras
   pruebas combinaciones, haciendo que el proceso creativo esté lleno de
   sorpresas.
-

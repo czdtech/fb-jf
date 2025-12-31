@@ -3,7 +3,7 @@ locale: es
 urlstr: western-sniper
 title: Western Sniper - Francotirador del viejo oeste
 description: >-
-  Western Sniper es un shooter casual en el que encarnas a un pistolero del
+  Western Sniper es un juego de disparos casual en el que encarnas a un pistolero del
   salvaje oeste, apuntando con precisión para eliminar a bandidos desde la
   distancia en escenarios llenos de coberturas y objetivos.
 iframeSrc: 'https://4oill7a9ltc9g.h5games.usercontent.goog/v/54hea44l6fm4o/'
@@ -49,5 +49,4 @@ Western Sniper es un juego de disparos sencillo y directo ambientado en el lejan
 - **Q: Me quedo sin munición.**
   
   **A:** No dispares a lo loco: apunta con calma y ahorra balas aprovechando explosivos y el entorno cuando puedas.
-
 

@@ -77,10 +77,10 @@ Este mod usa la interfaz sencilla de clics típica de la serie Simulator.
 *   **Combinar sonidos:** Puedes activar varios iconos a la vez para construir
     tu pista.
 *   **Controles principales (parte superior):**
-    *   **Play/Pause:** inicia o detiene todo el loop.
-    *   **Record:** comienza o finaliza la grabación de tu mezcla.
-    *   **Reset:** borra todos los sonidos activos de la rejilla para empezar de
-        nuevo.
+    *   **Reproducir/Pausar:** inicia o detiene todo el loop.
+    *   **Grabar:** comienza o finaliza la grabación de tu mezcla.
+    *   **Reiniciar:** borra todos los sonidos activos de la rejilla para empezar
+        de nuevo.
 
 <!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
@@ -104,4 +104,3 @@ La comunidad ha creado al menos dos mods populares con este tema:
 No está en las plataformas oficiales. Suelen compartirse en sitios como
 **playfiddlebops.com**, comunidades de Scratch o en YouTube, donde normalmente
 hay enlaces para jugarlo en el navegador.
-

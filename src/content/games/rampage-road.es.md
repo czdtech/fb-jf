@@ -3,8 +3,8 @@ locale: es
 urlstr: rampage-road
 title: "Rampage Road"
 description: >-
-  Rampage Road es un caótico shooter sobre ruedas: esquiva el tráfico, destroza
-  enemigos y sobrevive a persecuciones llenas de explosiones.
+  Rampage Road es un caótico juego de disparos sobre ruedas: esquiva el tráfico,
+  destroza enemigos y sobrevive a persecuciones llenas de explosiones.
 iframeSrc: "https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/"
 thumbnail: /new-images/thumbnails/rampage-road.png
 tags:
@@ -36,7 +36,7 @@ enemigos y disparos.
 3.  **Prioriza objetivos peligrosos:** Acaba primero con los enemigos que llevan
     cohetes o intentan embestirte. Reducir esas amenazas te dará más margen para
     esquivar.
-4.  **Recoge power‑ups con cabeza:** Coge mejoras, munición o vida solo cuando
+4.  **Recoge potenciadores con cabeza:** Coge mejoras, munición o vida solo cuando
     la zona esté relativamente despejada. No cruces toda la autopista si está
     llena de coches.
 5.  **Guarda tus escapes:** Conserva los turbos, escudos u otras habilidades de
@@ -70,5 +70,4 @@ enemigos y disparos.
 - **P: ¿Hay jefes o oleadas especiales?**
   
   **R:** Algunas fases introducen oleadas más duras o jefes. Asegúrate de llegar
-  a ellas con vida suficiente y con tus boosts listos.
-
+  a ellas con vida suficiente y con tus turbos listos.

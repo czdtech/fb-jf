@@ -3,9 +3,9 @@ locale: es
 urlstr: bank-robbery
 title: "Bank Robbery 2 asaltos al banco PvP"
 description: >-
-  Bank Robbery 2 es un shooter en primera persona por equipos donde policías y
-  ladrones se enfrentan en un gran atraco. Aprende estrategias para ambos
-  bandos, controles y respuestas a dudas frecuentes para dominar el golpe.
+  Bank Robbery 2 es un juego de disparos en primera persona por equipos donde
+  policías y ladrones se enfrentan en un gran atraco. Aprende estrategias para
+  ambos bandos, controles y respuestas a dudas frecuentes para dominar el golpe.
 iframeSrc: >-
   https://app-183971.games.s3.yandex.net/183971/l0eme2yqkthl0y8stmfuz0u8pdpux64m/index.html
 thumbnail: /new-images/thumbnails/bank-robbery.jpg
@@ -20,7 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:introduction -->
 ### Introducción detallada
 
-*Bank Robbery 2* es un shooter en primera persona por equipos donde los jugadores
+*Bank Robbery 2* es un juego de disparos en primera persona por equipos donde los jugadores
 se dividen en dos bandos: policías y ladrones. Toda la partida gira en torno a
 un objetivo central de alto riesgo: un atraco a un banco.
 
@@ -88,7 +88,7 @@ La forma de jugar cambia bastante según el bando.
 <!-- i18n:controls:keys -->
 - Teclas (alineación)： `W` `A` `S` `D` `Left Mouse Button` `Right Mouse Button` `R` `Left-Shift` `Spacebar` `E` `F` `1` `2` `3` `C`
 
-Los controles siguen el estándar de shooters en primera persona (p.ej. estilo
+Los controles siguen el estándar de juegos de disparos en primera persona (p.ej. estilo
 Roblox en PC).
 
 *   **W, A, S, D:** Mover al personaje.

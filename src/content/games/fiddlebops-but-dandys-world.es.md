@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: fiddlebops-but-dandys-world
-title: "Fiddlebops But Dandy's World - Juega Fiddlebops But Dandy's World Online"
+title: "Fiddlebops But Dandy's World - Juega a Fiddlebops But Dandy's World en línea"
 description: >-
   Fiddlebops But Dandy's World no es solo un juego, sino un viaje musical
   lleno de magia donde Dandy y su banda te guían por escenarios sonoros
@@ -67,4 +67,3 @@ mundo musical lleno de color y fantasía.
 
 Ven a Fiddlebops But Dandy's World y deja que tu inspiración musical florezca
 al máximo bajo el poder mágico de Dandy's World.
-

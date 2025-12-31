@@ -3,7 +3,7 @@ locale: es
 urlstr: bubble-tower
 title: "Bubble Tower 3D"
 description: >-
-  Enfréntate a una nueva dimensión del bubble shooter en Bubble Tower 3D.
+  Enfréntate a una nueva dimensión del clásico juego de disparar burbujas en Bubble Tower 3D.
   Gira la torre, apunta tus disparos y combina tres o más burbujas del mismo
   color para limpiar el tablero antes de que alcancen la parte inferior.
 iframeSrc: 'https://bubbletower.h5games.usercontent.goog/v/7ebcukaef3voo/'
@@ -20,7 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
-Bubble Tower 3D añade una tercera dimensión al clásico bubble shooter. En lugar
+Bubble Tower 3D añade una tercera dimensión al clásico juego de disparar burbujas. En lugar
 de una pared plana, las burbujas se adhieren al exterior de una torre cilíndrica
 en rotación. Tu objetivo es limpiar todos los grupos disparando nuevas burbujas
 desde el cañón de la parte inferior y emparejándolas con al menos otras dos del
@@ -75,4 +75,3 @@ reacciones en cadena y dejar la torre completamente despejada.
         escapa ninguna coincidencia. Si realmente no hay, tendrás que hacer un
         disparo táctico y colocar la burbuja en un lugar donde estorbe lo menos
         posible o prepare una combinación futura.
-

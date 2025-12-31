@@ -1,9 +1,9 @@
 ---
 locale: es
 urlstr: alien-hominid
-title: "Alien Hominid guía del shooter clásico"
+title: "Alien Hominid: guía del clásico juego de disparos"
 description: >-
-  Alien Hominid es un frenético run-and-gun de scroll lateral creado por The
+  Alien Hominid es un frenético juego de acción y disparos de desplazamiento lateral creado por The
   Behemoth. Descubre estrategias, controles y consejos para dominar este
   desafiante clásico de disparos.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/alien-hominid.html'
@@ -19,7 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:introduction -->
 ### Introducción detallada
 
-Alien Hominid es un shooter 2D de desplazamiento lateral rápido y caótico
+Alien Hominid es un frenético juego de disparos 2D de desplazamiento lateral rápido y caótico
 desarrollado por The Behemoth. Nació como un juego Flash en el portal
 Newgrounds en 2002, y más tarde se expandió a versiones de consola para
 PlayStation 2, Nintendo GameCube y Xbox. Es conocido por su estilo artístico a
@@ -88,4 +88,3 @@ Los controles cambian ligeramente entre la versión Flash y las de consola/HD, p
 <!-- i18n:faq:id=faq:alien-hominid:q-is-alien-hominid-invasion-6b18b22e -->
 *   **P: ¿Alien Hominid Invasion es el mismo juego?**
     *   **R:** No. *Alien Hominid Invasion* es una reinterpretación moderna centrada en el cooperativo, con progreso de personaje y elementos rogue‑lite. Comparte universo, pero es un juego nuevo.
-

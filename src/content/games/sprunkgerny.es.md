@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sprunkgerny
-title: "Sprunkgerny - Juega a Sprunkgerny Online"
+title: "Sprunkgerny - Juega a Sprunkgerny en línea"
 description: >-
   Si buscas una experiencia musical realmente única, Sprunkgerny es una parada
   obligada. Rompe las cadenas de los juegos de ritmo tradicionales, te anima a
@@ -45,7 +45,7 @@ humor son la ley.
 - **Efectos visuales interactivos:** A medida que avanza tu canción, el fondo
   cambia dinámicamente: paisajes distorsionados, elementos abstractos… todo se
   sincroniza con tu ritmo.
-- **Easter eggs e historias ocultas:** Prueba distintas combinaciones de sonidos
+- **Huevos de Pascua e historias ocultas:** Prueba distintas combinaciones de sonidos
   para desbloquear escenas secretas y mini‑historias. Cada nota puede esconder
   una sorpresa.
 
@@ -66,4 +66,3 @@ Sprunkgerny es como un laboratorio musical estrafalario: te anima a romper las
 normas, a probarlo todo, a abrazar el caos y a crear piezas musicales únicas.
 ¿Listo para este festín audiovisual que te volará la cabeza? Entra en el mundo
 de Sprunkgerny y deja que tu ritmo se vuelva completamente loco.
-

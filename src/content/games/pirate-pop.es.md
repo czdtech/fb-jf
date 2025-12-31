@@ -3,8 +3,8 @@ locale: es
 urlstr: pirate-pop
 title: Pirate Pop
 description: >-
-  ¡Al abordaje! Apunta y revienta las burbujas piratas. Un clásico bubble
-  shooter en el que combinas tres o más burbujas para limpiar el tablero y
+  ¡Al abordaje! Apunta y revienta las burbujas piratas. Un clásico Bubble
+  Shooter en el que combinas tres o más burbujas para limpiar el tablero y
   quedarte con el tesoro.
 iframeSrc: 'https://piratepop.h5games.usercontent.goog/v/3japc2shd35ug/'
 thumbnail: /new-images/thumbnails/pirate-pop.png
@@ -20,7 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
-Pirate Pop es un divertido y adictivo bubble shooter con temática pirata. Tu
+Pirate Pop es un divertido y adictivo Bubble Shooter con temática pirata. Tu
 objetivo es vaciar la pantalla de burbujas de colores disparando tu cañón y
 formando grupos de tres o más burbujas del mismo color. Apunta con cuidado, usa
 las paredes para hacer tiros con rebote y crea grandes reacciones en cadena
@@ -61,7 +61,7 @@ para soltar enormes racimos de burbujas y hacerte con el tesoro.
 <!-- i18n:faq:id=faq:pirate-pop:q-how-do-i-get-da481c1b -->
 *   **P: ¿Cómo obtengo la máxima puntuación?**
     *   **R:** Haciendo que caigan grandes racimos de burbujas de una sola vez.
-        Cuantas más burbujas derribes con un disparo, mayor será el bonus de
+        Cuantas más burbujas derribes con un disparo, mayor será la bonificación de
         combo.
 
 <!-- i18n:faq:id=faq:pirate-pop:q-what-if-i-cant-c345ad93 -->
@@ -69,4 +69,3 @@ para soltar enormes racimos de burbujas y hacerte con el tesoro.
     *   **R:** Te tocará hacer un disparo táctico. Intenta colocar la burbuja en
         un sitio donde no estorbe o donde puedas eliminarla fácilmente más tarde
         con otra combinación.
-

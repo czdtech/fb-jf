@@ -54,7 +54,7 @@ prueba de razonamiento, paciencia y atención al detalle.
 
 1.  **P: ¿Cómo sé si un Sudoku tiene solución?**  
   **R:** Un Sudoku bien diseñado tiene una única solución lógica. Si aparecen
-  contradicciones o varias soluciones, es posible que el puzzle no esté bien
+  contradicciones o varias soluciones, es posible que el puzle no esté bien
   construido.
 
 2.  **P: ¿Qué hago si me quedo bloqueado?**  
@@ -69,4 +69,3 @@ prueba de razonamiento, paciencia y atención al detalle.
 4.  **P: ¿Hay que adivinar en algún momento?**  
   **R:** En un Sudoku estándar bien hecho no deberías necesitar suposiciones;
   todo se puede resolver con lógica.
-

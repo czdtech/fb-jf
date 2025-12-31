@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: fiddlebops-sprunki
-title: Fiddlebops Sprunki - Juega Fiddlebops Sprunki Online
+title: Fiddlebops Sprunki - Juega Fiddlebops Sprunki en línea
 description: >-
-  Fiddlebops Sprunki le da nueva vida al juego Sprunki original añadiendo un
-  giro encantador: personajes carismáticos, visuales coloridos y una experiencia
-  de juego desenfadada y poco estresante.
+  Fiddlebops Sprunki da nueva vida al Sprunki original con un giro encantador:
+  personajes carismáticos, visuales coloridos y una experiencia desenfadada y
+  con poco estrés.
 iframeSrc: 'https://67ce9d735e0d2d9051c65366--kaleidoscopic-sundae-181ab2.netlify.app/'
 thumbnail: /new-images/thumbnails/fiddlebops-sprunki.png
 tags:
@@ -57,4 +57,3 @@ ideales para los jugadores más jóvenes, mientras que su encanto y sentido del
 humor también atrapan fácilmente a los adultos. Tanto si buscas una aventura
 en solitario como si quieres compartir el momento con amigos o familia, este
 mod ofrece entretenimiento sin fin.
-

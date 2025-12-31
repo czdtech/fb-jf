@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sprunki-clicker
-title: "Sprunki Clicker - Juega a Sprunki Clicker Online"
+title: "Sprunki Clicker - Juega a Sprunki Clicker en línea"
 description: >-
   Emprende una encantadora aventura musical en la que cada clic da vida a una
   sinfonía creada por ti. Sprunki Clicker es mucho más que un juego: es un viaje
@@ -36,4 +36,3 @@ espectaculares efectos visuales.
 Es una mezcla cautivadora de ritmo y narrativa, perfecta para cualquiera que
 ame la música, la imaginación y las escapadas creativas de verdad. Sumérgete en
 el mundo de Sprunki Clicker y deja que la música te guíe.
-

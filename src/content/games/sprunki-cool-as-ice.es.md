@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sprunki-cool-as-ice
-title: "Sprunki Cool As Ice - Juega a Sprunki Cool As Ice Online"
+title: "Sprunki Cool As Ice - Juega a Sprunki Cool As Ice en línea"
 description: >-
   Sprunki: Cool As Ice es una gran innovación dentro de la familia Incredibox y
   aporta una nueva mirada a la creación musical gracias a su marcado tema de

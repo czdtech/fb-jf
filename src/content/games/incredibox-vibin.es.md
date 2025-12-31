@@ -33,10 +33,10 @@ una atmósfera nostálgica y suave, con **beats de caja de ritmos muy suaves,
 pads cálidos de sinte, melodías delicadas y samples vocales aterciopelados**.
 
 El objetivo es ofrecer una vía creativa relajante y, al mismo tiempo, un
-pequeño reto de puzzle. Puedes mezclar sonidos para construir tu pista perfecta
+pequeño reto de puzle. Puedes mezclar sonidos para construir tu pista perfecta
 para estudiar o descansar. El reto está en descubrir las tres combinaciones
-concretas que desbloquean bonus animados, todos alineados con el tono íntimo y
-reflexivo del mod.
+concretas que desbloquean bonificaciones animadas, todas alineadas con el tono
+íntimo y reflexivo del mod.
 
 <!-- i18n:section:tips -->
 ### **Estrategia de juego y consejos**
@@ -45,15 +45,15 @@ La estrategia en *Incredibox Vibin'* consiste en superponer texturas y construir
 un groove suave y nada intrusivo.
 
 1.  **Conoce las categorías lo‑fi:**
-    *   **Beats:** El corazón del sonido lo‑fi: **loops de batería suaves**, bombos
-        apagados y, a menudo, ruido de **vinilo** o hiss de cinta para dar
+    *   **Ritmos:** El corazón del sonido lo‑fi: **loops de batería suaves**, bombos
+        apagados y, a menudo, ruido de **vinilo** o siseo de cinta para dar
         calidez analógica.
-    *   **Effects:** Aportan la atmósfera base: **pads cálidos de sinte**, acordes
+    *   **Efectos:** Aportan la atmósfera base: **pads cálidos de sinte**, acordes
         de teclado suaves, sonidos ambientales (lluvia, ruido de ciudad) y otros
         samples nostálgicos.
-    *   **Melodies:** Generalmente simples y emotivas: licks de piano eléctrico
+    *   **Melodías:** Generalmente simples y emotivas: licks de piano eléctrico
         tipo Rhodes, frases de guitarra sencillas o leads de sinte melancólicos.
-    *   **Voices:** Voces usadas como instrumento: **samples vocales cortados**, coros
+    *   **Voces:** Voces usadas como instrumento: **samples vocales cortados**, coros
         suaves a capela y tarareos discretos.
 
 2.  **Primero crea el "vibe":** Una buena forma de empezar es fijar la
@@ -64,7 +64,7 @@ un groove suave y nada intrusivo.
     falta ocupar los siete personajes. A menudo basta con beat, bajo, un loop de
     piano y un sample vocal para lograr una pista perfecta para relajarse.
 
-4.  **Busca los bonus con método:** Para encontrar los tres bonus, fija primero
+4.  **Busca las bonificaciones con método:** Para encontrar las tres bonificaciones, fija primero
     un groove base que te guste y ve sustituyendo los iconos restantes uno a uno
     hasta activar las animaciones acogedoras.
 
@@ -82,7 +82,7 @@ Los controles son los típicos de Incredibox.
 *   **Solo:** pulsa el **botón pequeño** junto al personaje activo para silenciar
     al resto.
 *   **Grabar:** pulsa el **botón de grabación** para empezar o detener la
-    grabación de tu track chill.
+    grabación de tu tema chill.
 
 <!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
@@ -105,7 +105,6 @@ Ofrece una experiencia relajante y actual que encaja con quienes buscan un
 espacio creativo tranquilo.
 
 <!-- i18n:faq:id=faq:incredibox-vibin:are-the-bonus-solutions-for-361d43d5 -->
-**4. ¿Hay soluciones de bonus para "Vibin'" online?**  
+**4. ¿Hay soluciones para las bonificaciones de "Vibin'" en línea?**  
 Sí. Si te cuesta encontrar las combinaciones, busca "Incredibox Vibin combos"
 en YouTube y verás las respuestas.
-

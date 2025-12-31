@@ -3,7 +3,7 @@ locale: es
 urlstr: supernova
 title: 'Supernova'
 description: >-
-  Supernova es un shooter espacial arcade: pilota tu nave por un campo de
+  Supernova es un juego de disparos espacial arcade: pilota tu nave por un campo de
   asteroides, destruye rocas y amenazas y sobrevive el máximo tiempo posible
   para batir récords.
 iframeSrc: 'https://rebemanae.github.io/supernova/'
@@ -20,7 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:introduction -->
 ### Introducción al juego
 
-Supernova recupera la esencia de los shooters espaciales clásicos: controlas una
+Supernova recupera la esencia de los juegos de disparos espaciales clásicos: controlas una
 nave en medio de un campo de asteroides repleto de peligros. Tu tarea es
 esquivar, disparar y resistir todo lo que puedas mientras la dificultad aumenta
 progresivamente.
@@ -51,4 +51,3 @@ progresivamente.
 - **P: ¿Hay final o es puntuación infinita?**  
   **R:** suele funcionar por oleadas infinitas; el objetivo es lograr la máxima
   puntuación posible antes de ser destruido.
-

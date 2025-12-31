@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sprunki-phase-2-5
-title: 'Sprunki Phase 2.5 - Juega a Sprunki Phase 2.5 online'
+title: 'Sprunki Phase 2.5 - Juega a Sprunki Phase 2.5 en línea'
 description: >-
   Sprunki Phase 2.5 (JOKE MOD) es un experimento gamberro que convierte la
   clásica mezcla musical de Sprunki en una fiesta de bromas, sustos y giros
@@ -51,7 +51,7 @@ nueva y deliciosamente incierta.
 - **Activa la «sorpresa»:** cuando coloques al vigésimo personaje, verás la
   verdadera cara de Sprunki Phase 2.5.
 - **Abraza el caos:** aquí no hay reglas rígidas; simplemente diviértete
-  creando una mezcla que combine humor y horror.
+  creando una mezcla que combine humor y terror.
 - **Guarda y comparte:** si tu «obra maestra» te encanta, guárdala para
   repetirla o compártela con amigos y comprueba a quién consigues asustar.
 
@@ -73,4 +73,3 @@ de sorpresas y giros. Equilibra a la perfección el humor ligero con el terror
 inesperado para ofrecer una experiencia de composición única. Entra en el
 mundo de Sprunki Phase 2.5, arrastra, suelta, mezcla, combina y crea pistas
 increíbles… siempre preparado para ese «susto» final.
-

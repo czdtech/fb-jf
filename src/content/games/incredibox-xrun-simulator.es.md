@@ -32,7 +32,7 @@ crear un loop electrónico intenso haciendo clic para activar o desactivar estos
 sonidos.
 
 A medida que añades capas, una barra de progreso en la parte superior se va
-llenando, guiándote hacia los bonus audio‑visuales ocultos. La experiencia se
+llenando, guiándote hacia las bonificaciones audiovisuales ocultas. La experiencia se
 centra menos en intérpretes individuales y más en la construcción directa de un
 beat electrónico complejo.
 
@@ -41,13 +41,13 @@ beat electrónico complejo.
 
 1.  **Comprende la rejilla EDM:** Los 20 iconos representan todos los elementos
     clave de un tema electrónico.
-    *   **Drums/Percusión:** Iconos que aportan el ritmo base: bombos, cajas y
+    *   **Percusión:** Iconos que aportan el ritmo base: bombos, cajas y
         hi‑hats; son el cimiento.
     *   **Bajo:** Graves contundentes y líneas de bajo; en EDM, la relación entre
         bombo y bajo es crucial.
-    *   **Effects/Risers:** Efectos atmosféricos, risers que suben en tono e
-        intensidad y otros recursos para crear tensión y release.
-    *   **Synths/Leads:** Ganchos melódicos: wobble bass de dubstep, leads de
+    *   **Efectos/Risers:** Efectos atmosféricos, risers que suben en tono e
+        intensidad y otros recursos para crear tensión y liberación.
+    *   **Sintes/Leads:** Ganchos melódicos: wobble bass de dubstep, leads de
         sinte pegadizos o vocal chops.
 
 2.  **Primero el beat, luego el bajo:** Empieza siempre configurando la
@@ -74,9 +74,9 @@ El mod utiliza la interfaz de clic sencilla de la serie Simulator.
 *   **Combinar sonidos:** puedes tener varios iconos activos simultáneamente
     para construir tu mezcla.
 *   **Controles principales (parte superior):**
-    *   **Play/Pause:** enciende o apaga todo el loop.
-    *   **Record:** empieza o detiene la grabación de tu mezcla.
-    *   **Reset:** borra todos los sonidos activos de la rejilla.
+    *   **Reproducir/Pausar:** enciende o apaga todo el loop.
+    *   **Grabar:** empieza o detiene la grabación de tu mezcla.
+    *   **Reiniciar:** borra todos los sonidos activos de la rejilla.
 
 <!-- i18n:section:faq -->
 ### **Preguntas frecuentes (FAQ)**
@@ -92,4 +92,3 @@ ideal para géneros electrónicos.
 No está en las plataformas oficiales. Mods como *Xrun Simulator* suelen
 compartirse en sitios como **Newgrounds**, comunidades como
 **playfiddlebops.com** o en YouTube con enlaces para jugarlos en navegador.
-

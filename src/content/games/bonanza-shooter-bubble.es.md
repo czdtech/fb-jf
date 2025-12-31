@@ -18,7 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
-Bonanza Shooter Bubble es un bubble shooter clásico con rebotes generosos y
+Bonanza Shooter Bubble es un clásico juego de disparar burbujas con rebotes generosos y
 caídas muy satisfactorias. Apunta y dispara para conectar tres o más burbujas
 del mismo color, limpiar grupos y hacer que las secciones colgantes se vengan
 abajo. El éxito depende de controlar bien los ángulos, gestionar los colores que
@@ -41,7 +41,7 @@ quedan en pantalla y planificar con qué burbuja vas a disparar a continuación.
 <!-- i18n:section:controls -->
 ### Guía de controles
 
-- Apunta con ratón o pantalla táctil y haz clic/toque para disparar; en algunos
+- Apunta con ratón o pantalla táctil y haz clic o toca para disparar; en algunos
   modos podrás intercambiar la burbuja actual con la siguiente.
 - Pausar/Reiniciar desde los botones de la interfaz.
 
@@ -66,4 +66,3 @@ quedan en pantalla y planificar con qué burbuja vas a disparar a continuación.
 
   R: Las estrellas suelen ser objetivos opcionales, pero ayudan a desbloquear
   niveles extra; intenta conseguirlas cuando no comprometan tu partida.
-

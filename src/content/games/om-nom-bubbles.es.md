@@ -3,7 +3,7 @@ locale: es
 urlstr: om-nom-bubbles
 title: "Om Nom Bubbles - Dispara burbujas con Om Nom"
 description: >-
-  Om Nom Bubbles es un colorido bubble shooter: empareja colores, usa tiros a
+  Om Nom Bubbles es un colorido Bubble Shooter: empareja colores, usa tiros a
   banda y limpia el tablero aprovechando ángulos inteligentes.
 iframeSrc: >-
   https://omnombubbles.h5games.usercontent.goog/v/6bdfc73b-7b9c-4046-9bfe-9269036a772f/
@@ -20,7 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:section:introduction -->
 ### Introducción detallada al juego
 
-Om Nom Bubbles es un bubble shooter clásico protagonizado por el querido Om
+Om Nom Bubbles es un Bubble Shooter clásico protagonizado por el querido Om
 Nom. Apunta y dispara burbujas de colores para formar grupos de tres o más y
 limpiar secciones del tablero. Los rebotes en las paredes, la gestión de
 colores y la planificación de las próximas burbujas son fundamentales para que
@@ -54,17 +54,16 @@ el techo no baje demasiado.
 ### Preguntas frecuentes (FAQ)
 
 <!-- i18n:faq:id=faq:om-nom-bubbles:how-do-i-reach-covered-04be049c -->
-- P: Cómo alcanzo grupos tapados?  
+- P: ¿Cómo alcanzo grupos tapados?  
   R: Usa tiros a banda rebotando en la pared lateral para entrar por un ángulo
   distinto.
 
 <!-- i18n:faq:id=faq:om-nom-bubbles:what-if-the-wrong-color-6ccf8d84 -->
-- P: Y si el juego insiste en darme el color que no necesito?  
+- P: ¿Y si el juego insiste en darme el color que no necesito?  
   R: Úsalo para limpiar pequeños grupos molestos o para preparar futuras
   caídas; si el modo lo permite, intercambia la burbuja con la siguiente.
 
 <!-- i18n:faq:id=faq:om-nom-bubbles:do-i-need-all-stars-c6a73dae -->
-- P: Hace falta conseguir siempre las tres estrellas?  
+- P: ¿Hace falta conseguir siempre las tres estrellas?  
   R: No es obligatorio, pero las puntuaciones altas suelen desbloquear niveles
   extra y son un buen reto para quienes buscan dominar el juego.
-

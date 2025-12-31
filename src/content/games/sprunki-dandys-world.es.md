@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sprunki-dandys-world
-title: "Sprunki Dandy's World - Juega a Sprunki Dandy's World Online"
+title: "Sprunki Dandy's World - Juega a Sprunki Dandy's World en línea"
 description: >-
   Sprunki Dandy's World es mucho más que un juego de ritmo: es una fusión
   mágica entre música, arte y narrativa, donde cada personaje extraño se
@@ -67,4 +67,3 @@ Sprunki Dandy's World es un juego singular que mezcla música, arte y pequeños
 relatos visuales. Es el sitio perfecto para soltar tu creatividad y levantar tu
 propio mundo musical. ¿A qué esperas? Entra en Sprunki Dandy's World y empieza tu
 propio viaje de grafiti sonoro.
-

@@ -3,9 +3,8 @@ locale: es
 urlstr: fuzzies
 title: "Fuzzies"
 description: >-
-  Bubble shooter de colores: apunta y revienta fuzzies haciendo coincidir
-  colores, usa potenciadores y evita que la pared llegue al fondo de la
-  pantalla.
+  Bubble Shooter de colores: apunta y revienta fuzzies al combinar colores, usa
+  potenciadores y evita que el techo llegue al fondo de la pantalla.
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=662&original_ref=
 thumbnail: /new-images/thumbnails/fuzzies.jpg
@@ -20,7 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:introduction -->
 ### Descripción general
 
-Fuzzies es un bubble shooter tipo match‑3 protagonizado por adorables bolas de
+Fuzzies es un Bubble Shooter tipo match‑3 protagonizado por adorables bolas de
 pelusa. Elimina grupos para sumar puntos y provocar cascadas mientras el techo
 va descendiendo poco a poco.
 
@@ -36,7 +35,7 @@ va descendiendo poco a poco.
 ### Controles
 
 - Ratón o pantalla táctil para apuntar y disparar; en muchas versiones puedes
-  intercambiar el siguiente color en cola.
+  cambiar la burbuja en cola.
 
 ### Consejos
 
@@ -63,4 +62,3 @@ va descendiendo poco a poco.
 - **P: ¿Cuándo se termina el nivel?**  
   **R:** Normalmente cuando la pared llega a la parte inferior de la pantalla o
   cuando te quedas sin disparos, según el modo.
-

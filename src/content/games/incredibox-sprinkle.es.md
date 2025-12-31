@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: incredibox-sprinkle
-title: Incredibox Sprinkle - Play Incredibox Sprinkle Online
+title: Incredibox Sprinkle - Juega Incredibox Sprinkle en línea
 description: >-
-  Sprinkle es un juego de creación musical sencillo de manejar y lleno de
-  diversión. Tanto si eres un jugador casual como si te interesa la producción
-  musical, encontrarás tu propio espacio creativo en el mundo de Sprinkle.
+  Sprinkle es un juego de creación musical fácil de jugar y muy divertido.
+  Tanto si eres un jugador casual como si te interesa la producción musical,
+  aquí encontrarás tu propio espacio creativo.
 iframeSrc: 'https://g.sprinkleincredibox.com/web-game/SprinkleIncredibox/index.html'
 thumbnail: /new-images/thumbnails/incredibox-sprinkle.png
 tags:
@@ -49,5 +49,4 @@ releaseDate: 2025-12-04T00:00:00.000Z
 Sprinkle es un juego de creación musical simple de manejar y muy entretenido.
 Tanto si solo quieres relajarte como si te interesa trastear con ideas de
 producción, aquí encontrarás un buen lugar para experimentar. Entra en Sprinkle,
-libera tu creatividad como remixer y crea temas que solo tú podrías imaginar.
-
+libera tu creatividad remezclando y crea temas que solo tú podrías imaginar.

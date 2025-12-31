@@ -47,7 +47,7 @@ Desde que Brud descubrió esa extraña “salsa de mostaza”, todo cambió. Los
 - Arrastra los personajes al área principal de composición para añadir sus sonidos a tu pista.
 - Superpone distintas fuentes para construir tu propia mezcla musical.
 
-**Experimenta con los elementos de horror:**  
+**Experimenta con los elementos de terror:**  
 - Mezcla combinaciones poco habituales de personajes para descubrir texturas sonoras más oscuras.
 - Ciertas disposiciones pueden activar animaciones ocultas, profundizando en el tono inquietante del mod.
 
@@ -64,5 +64,4 @@ Desde que Brud descubrió esa extraña “salsa de mostaza”, todo cambió. Los
 
 
 Entra en el extraño mundo de Yojou Sprunki Mustard y deja que tus creaciones musicales se contagien de este mágico tono amarillo.
-
 

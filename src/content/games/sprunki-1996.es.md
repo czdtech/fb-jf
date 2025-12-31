@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sprunki-1996
-title: Sprunki 1996 - Juega a Sprunki 1996 Online
+title: Sprunki 1996 - Juega a Sprunki 1996 en línea
 description: >-
   Sprunki 1996 es un juego musical rebosante de creatividad y nostalgia. Combina
   una estética retro de ordenadores de los 90 con una jugabilidad sencilla y
@@ -80,4 +80,3 @@ música. Si te atrae la mezcla de nostalgia, estética pixel art y experimentaci
 sonora, merece la pena que lo pruebes. Enciende tu "viejo ordenador" virtual y
 empieza a componer tus propias pistas retro en el mundo pixelado de Sprunki
 1996.
-

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sprunki-eggs-mix
-title: "Sprunki Egg's Mix - Juega a Sprunki Egg's Mix Online"
+title: "Sprunki Egg's Mix - Juega a Sprunki Egg's Mix en línea"
 description: >-
   Sprunki Egg's Mix brilla por la imprevisibilidad de sus combinaciones de
   Sprunki Eggs. Cada huevo tiene atributos únicos y sus interacciones pueden
@@ -72,4 +72,3 @@ experiencias algo distintas. Su estética luminosa y sus controles intuitivos lo
 hacen accesible para todos los niveles, mientras que sus niveles exigentes
 ofrecen un buen desafío incluso a veteranos del género. ¿Listo para empezar tu
 "egg‑celente" aventura en Sprunki Egg's Mix?
-

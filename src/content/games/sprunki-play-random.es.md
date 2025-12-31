@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: sprunki-play-random
-title: 'Sprunki Play Random - Juega a Sprunki Play Random online'
+title: 'Sprunki Play Random - Juega a Sprunki Play Random en línea'
 description: >-
   Sprunki Play Random es un juego de creación musical lleno de sorpresas. Si te
   gustan los retos y la exploración, este modo aleatorio está hecho para ti.
@@ -45,14 +45,14 @@ El manejo es muy sencillo; puedes hacerlo con ratón o con el dedo:
 
 ### Empieza tu viaje musical aleatorio
 
-- **Pulsa Play:** entra en el escenario de creación aleatoria.
+- **Pulsa Jugar:** entra en el escenario de creación aleatoria.
 - **Arrastrar y soltar:** elige un personaje del panel inferior y arrástralo al
   escenario para que empiece a reproducir su bucle.
 - **Abraza el caos:** el juego asigna efectos a los personajes de forma
   aleatoria; no puedes prever qué sonido tendrá cada uno.
 - **Mezcla y combina:** prueba distintas combinaciones de personajes para crear
   ritmos irrepetibles.
-- **Desbloquea bonus:** explora combinaciones concretas de sonidos que puedan
+- **Desbloquea bonificaciones:** explora combinaciones concretas de sonidos que puedan
   activar animaciones especiales o pistas extra.
 
 ---
@@ -68,7 +68,7 @@ El manejo es muy sencillo; puedes hacerlo con ratón o con el dedo:
 - **Empieza con pocos personajes:** construye tu tema con un número reducido al
   principio para entender bien qué aporta cada sonido.
 - **Repite y explora:** como todo es aleatorio, cada sesión es distinta; vuelve
-  a jugar para descubrir nuevos secretos y easter eggs.
+  a jugar para descubrir nuevos secretos y huevos de Pascua.
 
 ---
 
@@ -79,7 +79,6 @@ El manejo es muy sencillo; puedes hacerlo con ratón o con el dedo:
 - **Controles simples:** hereda la jugabilidad de Incredibox, fácil de usar
   incluso para quien nunca ha tocado un secuenciador.
 - **Diversión basada en la exploración:** descubrir combinaciones ocultas,
-  animaciones especiales y pistas de bonus convierte cada sesión en una pequeña
+  animaciones especiales y pistas extra convierte cada sesión en una pequeña
   expedición musical.
-
 

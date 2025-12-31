@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: baldis-basics
-title: "Baldi's Basics guía del horror de supervivencia educativo"
+title: "Baldi's Basics guía del terror de supervivencia educativo"
 description: >-
   Baldi's Basics es un juego de terror y supervivencia que se disfraza de título
   educativo de los 90. Aprende a conseguir los cuadernos, usar los objetos,
@@ -44,7 +44,7 @@ recursos y entender el comportamiento de cada personaje.
     saber cuán cerca está por el chasquido de la regla en su mano: cuanto más
     fuerte y rápido, más próximo. Úsalo para saber cuándo esconderte o correr.
 
-2.  **Gestiona la resistencia:** Tu barra de resistencia (stamina) para correr es limitada
+2.  **Gestiona la resistencia:** Tu barra de resistencia para correr es limitada
     (con la tecla Shift). No la malgastes. Corre solo cuando Baldi esté muy
     cerca o tengas que cruzar una zona abierta. Recuerda que el Director puede
     castigarte con detención si te ve corriendo.
@@ -113,7 +113,7 @@ es lo que activa la fase de persecución de Baldi.
 <!-- i18n:faq:id=faq:baldis-basics:why-does-baldi-get-faster-0d96165d -->
 **2. ¿Por qué Baldi se vuelve cada vez más rápido?**  
 Su velocidad aumenta con cada cuaderno que consigues. Es la principal curva de
-Dificultad del juego.
+dificultad del juego.
 
 <!-- i18n:faq:id=faq:baldis-basics:what-are-the-school-rules-89dcb636 -->
 **3. ¿Qué normas vigila el Director?**  
@@ -133,4 +133,3 @@ puedes usarlas en la puerta para salir al instante.
 Tras conseguirlos, debes encontrar y tocar tres salidas "falsas" repartidas por
 la escuela. Cuando lo logres, se abrirá una cuarta salida real; llegar a ella es
 la condición de victoria.
-

@@ -41,7 +41,7 @@ Wordle es un puzle diario de palabras en el que dispones de seis intentos para a
 ### Preguntas frecuentes
 
 1.  **Q: ¿Solo puedo jugar una vez al día?**  
-    **A:** En el Wordle “clásico” sí, hay un puzzle al día, pero muchas variantes ofrecen modo ilimitado o archivos de retos pasados.
+    **A:** En el Wordle “clásico” sí, hay un puzle al día, pero muchas variantes ofrecen modo ilimitado o archivos de retos pasados.
 
 2.  **Q: ¿Qué palabras iniciales son buenas?**  
     **A:** Suele recomendarse empezar con palabras que contengan varias vocales y consonantes frecuentes.
@@ -51,5 +51,4 @@ Wordle es un puzle diario de palabras en el que dispones de seis intentos para a
 
 4.  **Q: ¿Cómo puedo mejorar?**  
     **A:** Juega con regularidad, aprende patrones frecuentes de letras y apunta las palabras útiles que vayas descubriendo.
-
 

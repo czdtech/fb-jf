@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: armored-assault-strike
-title: "Armored Assault Strike shooter de vehículos blindados"
+title: "Armored Assault Strike: disparos con vehículos blindados"
 description: >-
-  Armored Assault Strike es un shooter cenital de vehículos acorazados. Mueve tu
-  blindado, gestiona enfriamientos y habilidades y destruye oleadas de enemigos
-  sin exponerte demasiado.
+  Armored Assault Strike es un juego de disparos cenital con vehículos acorazados.
+  Maniobra tu blindado, gestiona enfriamientos y habilidades y destruye oleadas
+  de enemigos sin exponerte demasiado.
 iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
 thumbnail: /new-images/thumbnails/armored-assault-strike.png
 tags:
@@ -55,8 +55,8 @@ oleadas con eficacia sin dejar tu casco a merced del fuego rival.
 
 <!-- i18n:faq:id=faq:armored-assault-strike:i-melt-fastwhy-994e5bc4 -->
 - **Me derriten muy rápido, ¿por qué?**  
-  Probablemente estás demasiado expuesto en campo abierto. Usa coberturas y haz
-  kiting en lugar de quedarte quieto intercambiando disparos.
+  Probablemente estás demasiado expuesto en campo abierto. Usa coberturas y
+  mantén la distancia en movimiento en lugar de quedarte quieto intercambiando disparos.
 
 <!-- i18n:faq:id=faq:armored-assault-strike:ammo-limited-9be95bd9 -->
 - **¿La munición es limitada?**  
@@ -67,4 +67,3 @@ oleadas con eficacia sin dejar tu casco a merced del fuego rival.
 - **¿Cómo enfrento a los jefes?**  
   Aprende sus patrones de ataque, limpia primero a los enemigos menores que los
   acompañan y aprovecha las ventanas seguras para hacer daño concentrado.
-
