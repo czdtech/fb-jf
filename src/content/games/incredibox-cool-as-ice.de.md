@@ -17,7 +17,7 @@ releaseDate: 2025-12-04
 
 ### Einführung in Incredibox Cool As Ice
 
-Bereit für einen arktischen Chill? Der Mod **Incredibox Cool as Ice** friert die
+Bereit für arktische Winterstimmung? Der Mod **Incredibox Cool as Ice** friert die
 klassische Incredibox-Erfahrung wortwörtlich ein: Alle Charaktere sind in Eis
 gehüllt, die Optik erinnert an eine frostige Winterwelt und auch die Sounds
 bekommen eine coole, gläserne Note.
@@ -26,19 +26,19 @@ bekommen eine coole, gläserne Note.
 
 In diesem Mod wurden die bekannten Incredibox-Figuren komplett neu gestaltet –
 mit glitzernden Eistexturen, Frost-Effekten und winterlichen Animationen. Die
-Sound-Palette mischt klassische Incredibox-Beats mit **Eis-, Schnee- und
+Klangpalette mischt klassische Incredibox-Beats mit **Eis-, Schnee- und
 Glockenklängen**, kalten Synths und halligen Effekten. So entsteht ein eigener,
 frischer Stil, der sich perfekt für Winter- und Chillout-Tracks eignet.
 
 <!-- i18n:section:tips -->
 ### Gameplay – Frostig, aber simpel
 
-- **Icy Characters wählen:** Wähle aus über 20 eisig gestalteten Charakteren,
+- **Eis-Charaktere wählen:** Wähle aus über 20 eisig gestalteten Charakteren,
   die jeweils eine Variante der bekannten Soundkategorien (Beats, Effekte,
   Melodien, Vocals) mitbringen.
-- **Coole Sounds layern:** Ziehe die Figuren auf die Bühne, um Schichten aus
-  Beats, Pads, Leads und Vocals aufzubauen – wie ein musikalisches Schneelandschafts-
-  Diorama.
+- **Frostige Sounds schichten:** Ziehe die Figuren auf die Bühne, um Schichten
+  aus Beats, Flächen, Melodien und Gesang aufzubauen – wie ein musikalisches
+  Schneelandschafts-Diorama.
 - **Spezielle Frost-Kombos entdecken:** Bestimmte Charakterkombinationen lösen
   versteckte, winterliche Bonus-Animationen und zusätzliche Sounds aus.
 
@@ -52,7 +52,8 @@ frischer Stil, der sich perfekt für Winter- und Chillout-Tracks eignet.
 - **Exklusive Boni:** Diverse versteckte Frost-Animationen und Sound-Kombos
   belohnen dich für Experimente mit dem Ensemble.
 - **Einfach zugänglich:** Läuft im Browser, lässt sich leicht auf Handy oder
-  Tablet spielen und ist kostenlos spielbar.
+  Tablet spielen, ist kostenlos und (je nach Host) auch offline spielbar – und
+  bleibt dabei durchgehend beim entspannten Winter-Thema (ohne Horror-Optik).
 
 ### Steuerung
 
@@ -61,15 +62,15 @@ Die Bedienung entspricht der Standard-Incredibox-Steuerung:
 *   **Sound hinzufügen:** Icon unten aufnehmen und auf eine Figur ziehen.
 *   **Sound entfernen:** Auf das "X" unter der Figur klicken oder ein anderes
     Icon darüberziehen.
-*   **Mute / Unmute:** Auf die Figur klicken, um sie stumm zu schalten, und
-    erneut, um sie zu aktivieren.
+*   **Stumm / Aktiv:** Auf die Figur klicken, um sie stumm zu schalten, und
+    erneut, um sie wieder zu aktivieren.
 *   **Solo:** Mit dem kleinen Button neben einer Figur blendest du alle anderen
     aus.
-*   **Aufnehmen:** Über den Record-Button kannst du deinen Winter-Mix aufnehmen.
+*   **Aufnehmen:** Über den Aufnahme-Button kannst du deinen Winter-Mix aufnehmen.
 
 ### Fazit
 
 Der Mod **Incredibox Cool as Ice** ist perfekt, wenn du Incredibox liebst und
 Lust auf ein saisonales, winterliches Setting hast. Er verleiht deinen Kreationen
- eine angenehm kühle Note – ideal für Frost-Beats, entspannte Wintertracks oder
- einfach zum Experimentieren an einem gemütlichen Abend.
+eine angenehm kühle Note – ideal für Frost-Beats, entspannte Wintertracks oder
+einfach zum Experimentieren an einem gemütlichen Abend.

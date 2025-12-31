@@ -20,7 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Dumb Ways to Die besteht aus vielen kurzen, sicherheitsbezogenen
 Reaktionsspielen. In jeder Runde bekommst du eine andere Mikroaufgabe, während
- das Tempo stetig anzieht. Wenn du drei Mal scheiterst, ist der Run vorbei.
+das Tempo stetig anzieht. Wenn du dreimal scheiterst, ist der Durchlauf vorbei.
 
 <!-- i18n:section:how-to-play -->
 ### So spielst du
@@ -28,14 +28,14 @@ Reaktionsspielen. In jeder Runde bekommst du eine andere Mikroaufgabe, während
 - In jeder Runde erscheint ein neues Minispiel mit einer kurzen Anweisung.
 - Schließt du die Aufgabe schnell und richtig ab, behältst du deine Leben und
   das Spiel beschleunigt; Fehler kosten Herzen.
-- In späteren Runden wechseln die Spiele schneller durch, und die Prompts
-  werden gemeiner.
+- In späteren Runden wechseln die Spiele schneller durch, und die Hinweise
+  werden trickreicher.
 
 <!-- i18n:section:controls -->
 ### Steuerung
 
 - Maus/Touch: Wischen, Tippen oder Halten, je nach Minispiel; einige Hosts
-  setzen bei bestimmten Games auch Pfeiltasten oder Leertaste ein.
+  setzen bei bestimmten Minispielen auch Pfeiltasten oder Leertaste ein.
 
 ### Tipps
 
@@ -51,14 +51,14 @@ Reaktionsspielen. In jeder Runde bekommst du eine andere Mikroaufgabe, während
 
 <!-- i18n:faq:id=faq:dumb-ways-to-die:how-many-lives-do-i-14e9824f -->
 - **F: Wie viele Leben habe ich?**  
-  **A:** Meistens drei Versuche pro Run.
+  **A:** Meistens drei Versuche pro Durchlauf.
 
 <!-- i18n:faq:id=faq:dumb-ways-to-die:can-i-practice-a-single-37a5bc98 -->
 - **F: Kann ich ein einzelnes Minispiel üben?**  
-  **A:** Manche Hosts bieten Übungslisten, ansonsten lernst du sie on the fly
-  während regulärer Runs.
+  **A:** Manche Hosts bieten Übungslisten, ansonsten lernst du sie direkt
+  während regulärer Runden.
 
 <!-- i18n:faq:id=faq:dumb-ways-to-die:is-there-progression-d558b0b6 -->
 - **F: Gibt es Fortschritt über Highscores hinaus?**  
   **A:** Der Fokus liegt auf Highscore-Jagd; einige Versionen schalten zusätzliche
-  Figuren oder Kosmetiksachen frei.
+  Figuren oder Kosmetik frei.

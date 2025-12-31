@@ -105,7 +105,7 @@ In der Browser- oder Mobile-Version ist die Bedienung intuitiv.
 <!-- i18n:faq:id=faq:chess:what-are-the-rules-for-46d19e24 -->
 **2. Welche Bedingungen gelten für die Rochade?**
 > Du darfst nur rochieren, wenn:
-> 1.  König und der beteiligte Turm noch nie gezogen haben.
+> 1.  König und der beteiligte Turm noch nie gezogen wurden.
 > 2.  Zwischen König und Turm keine Figuren stehen.
 > 3.  Der König nicht im Schach steht, kein vom Gegner angegriffenes Feld
 >     überschreitet und nicht auf einem angegriffenen Feld landet.
@@ -123,4 +123,3 @@ In der Browser- oder Mobile-Version ist die Bedienung intuitiv.
 > Ja, der König darf gegnerische Figuren schlagen, solange das Zielfeld nicht
 > von einer gegnerischen Figur gedeckt ist – er darf sich niemals selbst ins
 > Schach stellen.
-

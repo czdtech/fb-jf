@@ -34,6 +34,7 @@ Der Titel bietet mehrere Strecken und drei Schwierigkeitsgrade (Easy, Medium, Ha
 ### Strategie & Tipps
 
 -   **Ausgewogener Start:** Beginne mit Dart Monkeys und Tack Shooters, hole dir schnell das Upgrade „Piercing Darts“ und setzte einen Boomerang Thrower in Kurven, damit seine Wurfbögen viele Bloons treffen.
+-   **Ausgewogener Start:** Beginne mit Dart Monkeys und Tack Shooters, hole dir schnell das Upgrade „Piercing Darts“ und setze einen Boomerang Thrower in Kurven, damit seine Wurfbögen viele Bloons treffen.
 -   **Auf Lead‑Bloons (Runde 26) vorbereiten:** Die ersten Leads erscheinen in Runde 26 und lassen nur Explosionen durch – stelle sicher, dass ein Bomb Tower mit „Bigger Bombs“ bereitsteht.
 -   **Monkey Beacon ausnutzen:** Der Beacon vergrößert die Reichweite aller Türme in seinem Radius. Platziere ihn zentral, baue deine Kern‑DPS drum herum und priorisiere das Upgrade „Super Range“.
 -   **Beacon + Super Monkey:** Ein Super Monkey direkt neben einem voll aufgerüsteten Beacon deckt fast die komplette Karte ab und räumt die dichten Endgame‑Wellen inklusive MOAB sicher ab.
@@ -77,4 +78,3 @@ Das Spiel nutzt eine einfache Point‑and‑Click‑Steuerung.
 <!-- i18n:faq:id=faq:bloons-td-3:whats-the-difference-between-b-86ceeb66 -->
 **5. Was unterscheidet schwarze und weiße Bloons?**  
 > Schwarze Bloons sind immun gegen Explosionen, weiße lassen sich nicht einfrieren. Setze Dart Monkeys, Boomerangs oder andere neutrale Schadensquellen ein, um sie zu besiegen.
-

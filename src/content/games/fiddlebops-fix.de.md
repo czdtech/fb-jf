@@ -18,12 +18,12 @@ releaseDate: 2025-12-04
 
 Fiddlebops Fix ist kein x-beliebiges Musikspiel, sondern ein kreativer
 Baukasten für deine eigenen Klangwelten. In einer verspielten Umgebung mit
-originellen Charakteren und Soundscapes können sowohl Einsteiger als auch
+originellen Charakteren und Klanglandschaften können sowohl Einsteiger als auch
 musikaffine Spieler Tracks basteln und sich mit anderen austauschen.
 
 ### So tauchst du in die Welt von Fiddlebops Fix ein
 
-- **Stell dir deine Crew zusammen:** Stöbere durch den Cast von Fiddlebops Fix
+- **Stell dir deine Crew zusammen:** Stöbere durch die Figuren von Fiddlebops Fix
   und wähle Figuren, die den Grundstein für deinen Track legen. Ihre
   charakteristischen Sounds und Rhythmen geben dem Mod seinen besonderen
   Charakter.
@@ -34,7 +34,7 @@ musikaffine Spieler Tracks basteln und sich mit anderen austauschen.
   Feedback zu holen, Ideen zu teilen und deine Kompositionen immer weiter zu
   verfeinern.
 - **Erzähle eigene Geschichten:** Durch deine Wahl der Figuren und Sounds
-  formst du kleine Storylines – jede Session kann sich wie eine eigene,
+  formst du kleine Handlungsstränge – jede Session kann sich wie eine eigene,
   interaktive Episode anfühlen.
 
 ### Warum Fiddlebops Fix einen Platz in deiner Playlist verdient
@@ -50,6 +50,6 @@ musikaffine Spieler Tracks basteln und sich mit anderen austauschen.
 
 Mit Fiddlebops Fix bekommst du ein liebevoll gestaltetes Kreativtool, das
 spielerisch dazu einlädt, zum "Musikregisseur" zu werden. Wenn du nach einer
-Reise suchst, bei der Klang, Story und Community zusammenkommen, solltest du
+Reise suchst, bei der Klang, Geschichte und Community zusammenkommen, solltest du
 Fiddlebops Fix unbedingt ausprobieren – jetzt ist dein Moment, die Bühne zu
 betreten.

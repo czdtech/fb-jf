@@ -28,13 +28,13 @@ auf dem Fahrrad mit seinem Sohn, ein Mann im raketengetriebenen Rollstuhl oder
 jemand auf einem Segway.
 
 Das Ziel besteht in den meisten Leveln darin, einen gefährlichen
-Hindernisparcours zu durchqueren und die Ziellinie lebend zu erreichen. Der
-brutale, aber physikalisch nachvollziehbare Engine sorgt dafür, dass Figuren
+Hindernisparcours zu durchqueren und die Ziellinie lebend zu erreichen. Die
+brutale, aber nachvollziehbare Physik-Engine sorgt dafür, dass Figuren
 zerfetzt, zerquetscht oder aufgespießt werden können – oft kannst du dich aber
 noch weiter zum Ziel schleppen, solange dein Rumpf intakt ist.
 
-Ein Kernmerkmal von Happy Wheels ist der umfangreiche **Level-Editor**. Spieler
-können eigene Strecken bauen und online teilen. Dadurch gibt es eine praktisch
+Ein Kernmerkmal von Happy Wheels ist der umfangreiche **Level-Editor**. Du
+kannst eigene Strecken bauen und online teilen. Dadurch gibt es eine praktisch
 endlose Auswahl an Leveln – von simplen Rennen bis hin zu komplexen
 Physik-Rätseln und nahezu unüberlebbaren Todesfallen.
 

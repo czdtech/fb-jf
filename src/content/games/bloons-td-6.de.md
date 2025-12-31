@@ -45,6 +45,7 @@ Jeder Turm besitzt jetzt **drei** Upgrade‑Pfade. Du darfst einen Pfad bis Tier
     -   **Purple:** Immun gegen Energie/Plasma. Setze auf physische Projektile wie Crossbow Master oder Juggernaut.  
     -   **DDT:** Kombiniert Tarnung, Lead, Black und Geschwindigkeit. Zuverlässige Antworten sind ein Wizard 2/5/0 (Prince of Darkness), Ice 0/2/5 (Icicle Impale) oder DPS‑Türme mit `Monkey Intelligence Bureau`.
 -   **Starke Wirtschaft aufbauen:** Banana Farms sind weiterhin der Dreh‑ und Angelpunkt. 2/3/0‑`Marketplace` liefert „hands‑free“-Einnahmen, während 4/2/0‑`Central Market` im Mid‑/Lategame enorme Profite bringt.
+-   **Starke Wirtschaft aufbauen:** Banana Farms sind weiterhin der Dreh‑ und Angelpunkt. 2/3/0‑`Marketplace` liefert automatische Einnahmen, während 4/2/0‑`Central Market` im Mid‑/Lategame enorme Profite bringt.
 -   **Paragons planen:** In extrem langen Runs und Boss‑Events sind sie deine Win Condition. Setze viele Türme derselben Gattung, lass sie Pops sammeln und investiere viel Geld, bevor du sie für ein hochrangiges Paragon opferst.
 
 <!-- i18n:section:controls -->
@@ -70,7 +71,7 @@ DDTs sind schnell und kombinieren Tarnung, Lead- und Black‑Eigenschaften. Nutz
 
 <!-- i18n:faq:id=faq:bloons-td-6:why-cant-i-damage-the-906554ad -->
 **3. Warum nehmen Purple Bloons keinen Schaden?**  
-Sie sind immun gegen Energie, Feuer und Plasma. Setze physische Projectile wie Crossbow Master (0/2/5) oder Juggernaut (5/x/x) ein.
+Sie sind immun gegen Energie, Feuer und Plasma. Setze physische Projektile wie Crossbow Master (0/2/5) oder Juggernaut (5/x/x) ein.
 
 <!-- i18n:faq:id=faq:bloons-td-6:how-do-i-make-a-07bea3d1 -->
 **4. Wie erschaffe ich ein Paragon?**  

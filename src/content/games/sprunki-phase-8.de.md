@@ -14,7 +14,9 @@ releaseDate: 2025-12-04
 ---
 
 <!-- i18n:section:introduction -->
-Traust du dich auf die dunkle Seite der Musik? Sprunki Phase 8 ist mehr als nur ein weiterer Rhythmusmod – hier verschmilzt Musikmachen mit Horror-Ästhetik zu einem kleinen, interaktiven Gruselerlebnis.
+Traust du dich auf die dunkle Seite der Musik? Sprunki Phase 8 ist mehr als nur
+ein weiterer Rhythmusmod – hier trifft Musikmachen auf Horror-Ästhetik und wird
+zu einem kleinen, interaktiven Gruselerlebnis.
 
 ### Was ist Sprunki Phase 8?
 
@@ -23,8 +25,8 @@ Sprunki Phase 8 nimmt das bekannte Sprunki-Musikprinzip und hüllt es in eine un
 ### Der dunkle Kern von Sprunki Phase 8
 
 - **Horror-Charaktere:** Eine neue Riege an finsteren Figuren, jede mit eigenem Klangcharakter und passenden Animationen.
-- **Unheimliche Soundlandschaften:** Statt fröhlicher Loops bekommst du tiefe Bässe, schiefe Harmonien und verstörende Effekte, aus denen du deine Dark-Tracks baust.
-- **Überarbeitete Visuals:** Hintergründe, Farben und Effekte sind klar auf Horror getrimmt und verstärken die Spannung.
+- **Unheimliche Soundlandschaften:** Statt fröhlicher Loops bekommst du tiefe Bässe, schiefe Harmonien und verstörende Effekte – daraus baust du deine düsteren Tracks.
+- **Überarbeitete Visuals:** Hintergründe, Farben und Effekte sind klar auf Horror getrimmt, verstärken die Spannung und geben dir mehr Spielraum zum Experimentieren.
 
 ### Warum solltest du Sprunki Phase 8 ausprobieren?
 
@@ -33,5 +35,7 @@ Wenn dir klassische Musikspiele zu lieb und brav sind, ist Phase 8 eine spannend
 
 ### Fazit
 
-Sprunki Phase 8 ist damit ein mutiger Mix aus Musikbaukasten und Horror-Erlebnis und ein spannender Schritt in der Entwicklung des Sprunki-Universums.
-
+Sprunki Phase 8 ist damit ein mutiger Mix aus Musikbaukasten und Horror-Erlebnis
+und ein spannender Schritt in der Entwicklung des Sprunki-Universums. Wenn dich
+die Reihe interessiert, lohnt sich auch ein Blick auf frühere Kapitel wie
+Sprunki Phase 7.

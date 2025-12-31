@@ -38,12 +38,12 @@ verlangen präzise Eingaben und gutes Pattern‑Reading.
 
 Alien Hominid ist berüchtigt für seinen hohen Schwierigkeitsgrad. Erfolg hängt
 von schnellen Reaktionen, dem Einprägen von Angriffsmustern und dem voll
-ausgenutzten Moveset des Aliens ab.
+ausgenutzten Bewegungs- und Aktionsset des Aliens ab.
 
 #### 1. Bewegung ist Überleben
 
 *   **Nie stehen bleiben:** Stillstehen ist der schnellste Weg zum Game Over.
-    Springe, renne oder rolle ständig, damit du ein schwerer Treffer bist.
+    Springe, renne oder rolle ständig, damit du schwerer zu treffen bist.
 *   **Rollen und Ducken meistern:** Du kannst unter vielen Standardgeschossen
     hindurchducken. Wenn du im Laufen die Duck‑Taste antippst, führt der Alien
     eine Rolle aus – perfekt, um Beschuss auszuweichen oder schnell die Position
@@ -115,9 +115,8 @@ Versionen, der Kern bleibt aber gleich.
 
 <!-- i18n:faq:id=faq:alien-hominid:q-how-do-i-beat-1856fd4a -->
 *   **F: Wie besiege ich den Endboss?**  
-    *   **A:** Der Endboss verläuft in mehreren Phasen. Lerne zuerst jede Pattern, konzentriere dich aufs Ausweichen und nutze nur sichere Fenster für Schaden.
+    *   **A:** Der Endboss verläuft in mehreren Phasen. Lerne zuerst jedes Pattern, konzentriere dich aufs Ausweichen und greife nur in sicheren Zeitfenstern an.
 
 <!-- i18n:faq:id=faq:alien-hominid:q-is-alien-hominid-invasion-6b18b22e -->
 *   **F: Ist *Alien Hominid Invasion* dasselbe Spiel?**  
     *   **A:** Nein. *Alien Hominid Invasion* ist eine moderne Neuinterpretation mit Koop‑Fokus und Roguelite‑Elementen – gleiches Universum, aber neue Level und Systeme.
-

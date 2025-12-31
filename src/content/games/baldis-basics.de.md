@@ -38,7 +38,7 @@ der Schule.
 Um in *Baldi's Basics* zu bestehen, brauchst du gutes Gehör, kluges
 Ressourcen‑Management und ein Verständnis für jede Figur.
 
-1.  **Sound ist dein wichtigstes Werkzeug:** Baldi orientiert sich stark an
+1.  **Geräusche sind dein wichtigstes Werkzeug:** Baldi orientiert sich stark an
     Geräuschen – insbesondere Türen. Gleichzeitig verrät dir das Klatschen
     seines Lineals, wie nah er ist: Je schneller und lauter, desto näher.
 2.  **Ausdauer dosiert einsetzen:** Du hast nur eine begrenzte Sprint‑Leiste.
@@ -60,6 +60,7 @@ Ressourcen‑Management und ein Verständnis für jede Figur.
       retten oder direkt ins Verderben schieben.
     - **1st Prize:** Ein Roboter, der dich umarmt und durch die Flure schiebt.
       Oft nervig, manchmal aber auch nützlich, um Abstand zu Baldi zu gewinnen.
+      Mit **Safety Scissors** kannst du ihn kurzzeitig deaktivieren.
 4.  **Item‑Management:**  
     - **BSoda:** Schießt eine Colawelle, die Figuren wegstößt – perfekt, um
       Baldi von dir zu trennen oder den Bully zu verdrängen.
@@ -107,7 +108,7 @@ Die Steuerung entspricht klassischen Ego‑Spielen auf dem PC.
 *   Keine BSoda im Flur benutzen
 *   Keine Mitschüler schikanieren (Bullying)
 
-Bei Verstößen landet man im Arrest.
+Bei Verstößen landest du im Arrest.
 
 <!-- i18n:faq:id=faq:baldis-basics:how-do-i-get-out-8f6e92ec -->
 **F: Wie komme ich aus dem Arrest frei?**  

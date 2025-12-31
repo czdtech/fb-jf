@@ -91,9 +91,10 @@ Die Bedienung ist auf Maus oder Touch ausgelegt und sehr intuitiv.
 
 <!-- i18n:faq:id=faq:choir:are-the-voices-from-real-aac0e838 -->
 **2. Sind die Stimmen echt?**
-> Die Klänge werden von einem Modell erzeugt, das auf vielen Stunden
-> Aufnahmen vier echter Opernsänger basiert. Du hörst also keine direkten
-> Mitschnitte, aber die Klangfarbe stammt von realen Stimmen.
+> Die Klänge werden von einem Modell erzeugt, das auf vielen Stunden Aufnahmen
+> von vier echten Opernsängern basiert (Christian Joel – Tenor, Frederick Tong –
+> Bass, Joanna Gamble – Mezzosopran, Olivia Doutney – Sopran). Du hörst also
+> keine direkten Mitschnitte, aber die Stimmen basieren auf realen Performances.
 
 <!-- i18n:faq:id=faq:choir:can-i-make-the-blobs-905393c0 -->
 **3. Können die Blobs echte Worte singen?**
@@ -110,4 +111,3 @@ Die Bedienung ist auf Maus oder Touch ausgelegt und sehr intuitiv.
 **5. Kostet das Spiel etwas?**
 > Nein, Blob Opera ist ein kostenloses Web-Experiment und läuft in jedem
 > modernen Browser.
-

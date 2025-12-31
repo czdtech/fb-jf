@@ -50,7 +50,7 @@ Recht als eine der anspruchsvollsten Denksportarten der Welt.
     aus. Die anderen müssen, wenn möglich, dieselbe Farbe bedienen
     ("Farbe bedienen"). Die höchste Karte in der ausgespielten Farbe gewinnt
     den Stich – es sei denn, es wird ein Trumpf gespielt. Wenn Trumpf im Spiel
-    ist, gewinnt der höchste Trumpf die Runde. Wer den Stich macht, spielt die
+    ist, gewinnt der höchste Trumpf den Stich. Wer den Stich macht, spielt die
     nächste Karte aus.
 4.  Wertung: Erfüllt die Kontraktpartei ihren Kontrakt (also die geforderte
     Stichzahl oder mehr), erhält sie Punkte. Scheitern sie, erhalten die
@@ -85,4 +85,3 @@ Recht als eine der anspruchsvollsten Denksportarten der Welt.
         Spieler ebenfalls Pik spielen, sofern sie diese Farbe auf der Hand
         haben. Wer keine Karte in dieser Farbe besitzt, darf eine andere Farbe
         oder auch Trumpf abwerfen.
-

@@ -45,9 +45,10 @@ belohnt, wird jede Runde zu einem kleinen Sprint um den Highscore.
     auf kleine Gruppen, die große Blöcke darunter tragen, damit ganze
     Blasenpakete auf einmal fallen.
 4.  Power-ups klug nutzen: Achte auf Spezialblasen im Spielfeld:
-    *   Rainbow Bubble: Passt sich der Farbe an, die sie berührt, und hilft dir
-        beim Vervollständigen von Kombinationen.
-    *   Bomb Bubble: Explodiert beim Aufprall und räumt ein kleines Gebiet.
+    *   Rainbow Bubble (Regenbogenblase): Passt sich der Farbe an, die sie
+        berührt, und hilft dir beim Vervollständigen von Kombinationen.
+    *   Bomb Bubble (Bombenblase): Explodiert beim Aufprall und räumt ein kleines
+        Gebiet.
     *   Hourglass (Stundenglas): Das wertvollste Symbol – ein Treffer fügt
         deiner Uhr einige wertvolle Sekunden hinzu.
 
@@ -77,4 +78,3 @@ belohnt, wird jede Runde zu einem kleinen Sprint um den Highscore.
     *   A: Das ist deine Fireball-Anzeige. Sie füllt sich mit jedem erfolgreichen
         Treffer. Nach 10 Treffern in Folge ist sie voll und dein nächster
         Schuss wird zu einem mächtigen Fireball.
-

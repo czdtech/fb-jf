@@ -23,7 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 *Candy Bubbles* ist eine süße, bonbonbunte Variante des klassischen
 Bubble-Shooters. In einer Welt aus Süßigkeiten versuchst du, das Spielfeld von
 farbigen Bonbonblasen zu befreien. Du richtest deine Kanone aus, schießt und
-bildest Gruppen aus mindestens drei Blasen derselben Farbe, damit sie platzen.
+bildest Dreiergruppen (oder mehr) derselben Farbe, damit sie platzen.
 Mit vielen Leveln, kleinen Rätselkniffen und befriedigenden Kettenreaktionen
 ist es ein entspannendes Puzzle für jedes Alter.
 
@@ -75,4 +75,3 @@ ist es ein entspannendes Puzzle für jedes Alter.
     *   A: Versuche, sie an eine Stelle zu schießen, an der sie später nicht
         stört oder sogar nützlich werden könnte. Wenn es eine Tauschfunktion
         gibt, prüfe, ob die nächste Blase besser passt.
-

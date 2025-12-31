@@ -26,6 +26,8 @@ Kurz gesagt, Fiddlebops Sprunkbop ist ein liebevoll schräges Makeover. Die
 Drag-and-Drop-Mechanik bleibt erhalten, aber Figuren, Animationen und Sounds
 bekommen einen neuen Anstrich.
 
+- Statt der Originalbesetzung steht hier die ikonische Sprunki-Crew im
+  Rampenlicht.
 - **Neue Optik:** Eigene Charakterdesigns mit lebendigen Animationen lassen die
   Bühne deutlich dynamischer wirken – zuschauen macht fast so viel Spaß wie
   zuhören.
@@ -34,13 +36,12 @@ bekommen einen neuen Anstrich.
 
 ### So spielst du Fiddlebops Sprunkbop
 
-Unten findest du weitere Hinweise.
+Keine Sorge: Die Steuerung ist bewusst simpel.
 
 - **Charakter wählen:** Such dir eine Figur bzw. einen Soundeffekt aus. Jede
   bringt ihren eigenen Loop mit.
 - **Drag & Drop:** Ziehe sie auf die Bühne, und der Sound wird sofort Teil deines
-  Tracks. Entfernen kannst du sie, indem du sie wieder herunterziehst oder
-  je nach Host doppelklickst.
+  Tracks.
 - **Mixen & Layern:** Lege mehrere Figuren übereinander, passe Reihenfolge und
   Dichte an und finde deinen Lieblingsmix.
 
@@ -61,4 +62,3 @@ Fiddlebops Sprunkbop bleibt dem Kern von Fiddlebops treu und erweitert ihn um
 visuelle und musikalische Ideen. Wenn du Lust auf einen frischen Mod mit viel
 Charme hast, gib Fiddlebops Sprunkbop eine Chance und bastle dir deinen eigenen,
 chaotisch-coolen Sound.
-

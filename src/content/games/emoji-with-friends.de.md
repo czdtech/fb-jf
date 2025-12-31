@@ -21,7 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Emoji With Friends kombiniert schnelles Matching mit leichter Deduktion und
 nutzt ausdrucksstarke Emoji-Kacheln. Je nach Modus verbindest du Sets,
 erfüllst kleine Zwischenziele oder lieferst dir ein Kopf-an-Kopf-Rennen darum,
-wer das Board zuerst löst. Kurze Runden, klare Symbole und ein niedriger
+wer das Spielfeld zuerst löst. Kurze Runden, klare Symbole und ein niedriger
 Einstieg machen das Spiel ideal für zwischendurch oder kleine Partyrunden.
 
 <!-- i18n:section:tips -->
@@ -29,7 +29,7 @@ Einstieg machen das Spiel ideal für zwischendurch oder kleine Partyrunden.
 
 1. **Muster scannen:** Achte auf häufig wiederkehrende Emojis und baue daraus
    schnelle Ketten.
-2. **Aufgaben priorisieren:** Hat die Runde konkrete Ziele (z.B. bestimmte
+2. **Aufgaben priorisieren:** Hat die Runde konkrete Ziele (z. B. bestimmte
    Emojis oder Kombos), erledige diese zuerst, bevor du "schöne", aber
    unwichtige Matches machst.
 3. **Gegner ausbremsen (Versus-Modus):** Schnapp dir umkämpfte Kacheln früh,
@@ -37,7 +37,7 @@ Einstieg machen das Spiel ideal für zwischendurch oder kleine Partyrunden.
 4. **Spielfeld offen halten:** Vermeide es, die Mitte komplett zu blockieren –
    freie Flächen erleichtern spätere Matches.
 5. **Boosts timen:** Heb dir Power-ups für enge Rennen auf oder nutze sie, um
-   festgefahrene Boards wieder in Bewegung zu bringen.
+   festgefahrene Spielfelder wieder in Bewegung zu bringen.
 
 <!-- i18n:section:controls -->
 ### Steuerung

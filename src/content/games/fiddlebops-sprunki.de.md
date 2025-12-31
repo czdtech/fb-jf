@@ -44,7 +44,8 @@ Musikspiele ohne großen Stress genießen wollen.
 Der Mod rückt weniger die intensiven Mechaniken des Originalspiels in den
 Mittelpunkt, sondern betont kreatives Austesten und eine lockere Stimmung.
 Vereinfachte Ziele und der Fokus auf Soundspielereien ermutigen dich, ohne
-Druck zu experimentieren.
+Druck zu experimentieren. Trotz des leichteren Tons bleibt der Kern von Sprunki
+erhalten – nur eben verspielter und entspannter.
 
 ---
 

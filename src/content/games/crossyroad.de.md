@@ -20,8 +20,8 @@ von Hipster Whale. Dein Ziel ist simpel: Du überquerst eine Abfolge
 vielbefahrener Straßen, Flüsse und Bahnstrecken so lange wie möglich, ohne
 zu sterben. Der charmante Voxel-Stil (3D-Pixeloptik) und eine große Sammlung
 freischaltbarer Charaktere haben das Spiel weltweit bekannt gemacht. Name und
-Konzept sind eine Anspielung auf den Klassiker-Witz "Why did the chicken cross
- the road?".
+Konzept sind eine Anspielung auf den klassischen Witz: „Warum hat das Huhn die
+Straße überquert?“
 
 <!-- i18n:section:how-to-play -->
 ### So spielst du
@@ -49,16 +49,16 @@ Konzept sind eine Anspielung auf den Klassiker-Witz "Why did the chicken cross
 
 -  **Geduld & Rhythmus:** Laufe nicht blind los. Beobachte die Verkehrs- und
    Flussmuster, um sichere Pfade zu erkennen. Das Spiel folgt einem gewissen
-   Rhythmus – versuche, deine Taps mit dem Fluss der Fahrzeuge und Baumstämme
-   zu synchronisieren.
+   Rhythmus – versuche, deine Sprünge mit dem Fluss der Fahrzeuge und
+   Baumstämme zu synchronisieren.
 -  **Vorausschauend spielen:** Schaue immer einige Reihen voraus. So erkennst
    du rechtzeitig herannahende Züge oder Lücken im Fluss.
 -  **Seitwärtsbewegung nutzen:** Hüpfe nicht nur stumpf nach vorne. Links- und
    Rechtsbewegungen sind entscheidend, um auf sichere Spuren auszuweichen oder
    dich für einen Sprung auf einen Stamm richtig zu positionieren.
 -  **Achtung bei Zügen:** Züge sind besonders gefährlich – sie sind schnell und
-   kaum vorhersehbar. Wenn Warnlichter blinken und ein Signal ertönt,
-   bleib stehen und warte ab.
+   warnen kaum. Wenn Warnlichter blinken und ein Signal ertönt, bleib stehen
+   und warte ab.
 -  **Flüsse meistern:** Bleib möglichst mittig auf Baumstämmen. Bist du zu nah
    am Bildschirmrand, kann dich ein entgegenkommender Stamm leicht
    herunterstoßen.
@@ -82,4 +82,3 @@ Konzept sind eine Anspielung auf den Klassiker-Witz "Why did the chicken cross
 > Das passiert, wenn du zu lange auf einer Stelle verharrst oder zu weit
 > zurückläufst. Das Spiel will dich dazu bringen, immer weiter nach vorne zu
 > spielen.
-

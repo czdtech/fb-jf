@@ -49,12 +49,12 @@ Der Spielstil hängt stark davon ab, auf welcher Seite du spielst.
 3.  **Bohrer schützen:** Der Bohrer ist laut und zieht Cops an. Baut
     Verteidigungspositionen um den Bohrpunkt und haltet diesen Raum unter
     Kontrolle, bis das Geld frei ist.
-4.  **Escape separat planen:** Der Überfall endet nicht mit dem Öffnen des
+4.  **Flucht separat planen:** Der Überfall endet nicht mit dem Öffnen des
     Tresors. Sobald ihr Geldtaschen tragt, seid ihr extrem sichtbar. Legt im
     Voraus fest, über welche Route ihr zum Fluchtfahrzeug wollt und ob jemand
     als Fahrer bereitsteht.
 5.  **Ausrüstung verbessern:** Nutzt verdientes Geld, um bessere Waffen,
-    Panzerung und Tools wie C4 zu kaufen, damit ihr in späteren Runden schneller
+    Panzerung und Werkzeuge wie C4 zu kaufen, damit ihr in späteren Runden schneller
     und sicherer eindringen könnt.
 
 #### Tipps für Cops

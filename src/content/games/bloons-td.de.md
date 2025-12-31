@@ -66,8 +66,8 @@ Bloons TD lässt sich komplett mit Maus oder Touch bedienen.
 > - **MOAB** (blau): enthält 4 Ceramic Bloons.  
 > - **BFB** (rot): enthält 4 MOAB.  
 > - **ZOMG** (schwarz): enthält 4 BFB.  
-- **DDT** (schneller schwarzer Blimp): kombiniert Camo‑, Lead‑ und Black‑Eigenschaften und ist extrem gefährlich.  
-- **BAD** (violett): der Endboss unter den Blimps; nach dem Platzen entlässt er ZOMGs und DDTs.  
+> - **DDT** (schneller schwarzer Blimp): kombiniert Camo‑, Lead‑ und Black‑Eigenschaften und ist extrem gefährlich.  
+> - **BAD** (violett): der Endboss unter den Blimps; nach dem Platzen entlässt er ZOMGs und DDTs.  
 
 <!-- i18n:faq:id=faq:bloons-td:what-is-the-best-tower-548c67b5 -->
 **3. Gibt es den „besten“ Turm?**  
@@ -76,4 +76,3 @@ Bloons TD lässt sich komplett mit Maus oder Touch bedienen.
 <!-- i18n:faq:id=faq:bloons-td:how-do-i-make-more-29f9db80 -->
 **4. Wie verdiene ich mehr Geld?**  
 > Standardmäßig durch das Platzenlassen von Bloons. Für deutlich mehr Einkommen baust und verbesserst du Banana Farms oder nutzt spezielle Geld‑Upgrades (z. B. Monkey Buccaneer, Alchemist).  
-

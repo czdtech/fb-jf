@@ -27,7 +27,7 @@ Entscheidungen werden komplexer.
 Die wichtigste Neuerung ist das System aus **verzweigten Upgrade‑Pfaden**.
 Statt alle Upgrades auf einem Turm kaufen zu können, musst du dich für eine von
 zwei starken Tier‑3‑ bzw. Tier‑4‑Richtungen entscheiden. Gleichzeitig führt BTD4
- ein **Rank‑System** ein: Durch gespielte Partien sammelst du XP, steigst im Rang
+ein **Rank‑System** ein: Durch gespielte Partien sammelst du XP, steigst im Rang
 auf und schaltest neue Türme, Upgrades und Modi frei.
 
 **Kernfeatures von Bloons TD 4:**
@@ -102,4 +102,3 @@ Die Bedienung bleibt klassisch point‑and‑click:
 - **F: Was ist Apopalypse‑Mode?**  
   **A:** Ein Modus mit durchgehenden, ineinander übergehenden Wellen ohne
   Pausen; Geld gibt es nur durch Zerplatzen von Bloons, nicht durch Rundenboni.
-

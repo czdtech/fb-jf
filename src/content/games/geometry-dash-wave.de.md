@@ -21,7 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ### Einführung ins Spiel
 
 Geometry Dash Wave ist ein besonders anspruchsvoller, rhythmusbasierter
-Platformer-Modus im Geometry-Dash-Universum. Du steuerst ein ständig
+Plattformspiel-Modus im Geometry-Dash-Universum. Du steuerst ein ständig
 vorwärtsfliegendes, dreieckiges Icon. Die spezielle Wave-Mechanik verlangt
 präzises Timing, da du mit jedem Tap die diagonale Bewegungsrichtung änderst.
 

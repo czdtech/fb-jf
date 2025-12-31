@@ -22,8 +22,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 *Bubble Tower 3D* erweitert das klassische Bubble-Shooter-Prinzip um eine
 zusätzliche Dimension. Bunte Blasen kleben an der Außenseite eines drehbaren,
- zylindrischen Turms. Von deinem Kanonenstand am unteren Bildschirmrand schießt
- du neue Blasen nach oben, um Gruppen von mindestens drei gleichen Farben zu
+zylindrischen Turms. Von deinem Kanonenstand am unteren Bildschirmrand schießt
+du neue Blasen nach oben, um Gruppen von mindestens drei gleichen Farben zu
  bilden und so Stück für Stück den gesamten Turm zu räumen.
 
 Die Möglichkeit, den Turm zu drehen, macht jeden Schuss zu einer kleinen
@@ -40,7 +40,7 @@ und lässt ganze Blöcke auf einmal herabfallen.
     Abprallern an schwer erreichbare Stellen zu bringen oder hinter Blockaden
     zu zielen.
 3.  Trägerblasen priorisieren: Suche nach Blasen, die große Gruppen darunter
-    halten. Wenn du diese "Träger" platzten lässt, fallen alle nur daran
+    halten. Wenn du diese "Träger" platzen lässt, fallen alle nur daran
     hängenden Blasen mit ab – das beschleunigt das Räumen des Turms enorm.
 4.  Spezialblasen gezielt einsetzen: Achte auf Spezialblasen wie Fireballs oder
     Bomben. Sie zerstören unabhängig von der Farbe ganze Bereiche und sind am
@@ -52,7 +52,7 @@ und lässt ganze Blöcke auf einmal herabfallen.
 
 *   Turm drehen:
     *   Maus: Klicke und ziehe den Hintergrund, um den Turm zu drehen.
-    *   Tastatur: Nutze die Pfeiltasten Links/Rechts.
+    *   Tastatur: Nutze die Pfeiltasten links/rechts.
 *   Zielen und schießen:
     *   Maus: Deine Kanone richtet sich nach der Position des Mauszeigers.
         Klicke mit der linken Maustaste, um eine Blase abzufeuern.
@@ -75,4 +75,3 @@ und lässt ganze Blöcke auf einmal herabfallen.
         möglichen Treffer übersehen hast. Gibt es wirklich keine passende
         Stelle, platziere die Blase taktisch so, dass sie möglichst wenig
         stört oder dir später eine neue Kombination ermöglicht.
-
