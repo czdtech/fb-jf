@@ -52,6 +52,8 @@ partida.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `drag` `drop` `Click` `click`
 
 *   **Colocar bloques:** Arrastra con el ratón o el dedo una pieza desde la
     bandeja inferior hasta la posición elegida en la cuadrícula y suéltala.
@@ -77,4 +79,5 @@ partida.
     - **R:** Lo mejor es guardarlas para emergencias. Cuando el tablero esté casi lleno
       y veas que una de las próximas piezas no encaja, usa un potenciador para limpiar
       un área o una línea clave y ganar margen para seguir sumando puntos.
+
 

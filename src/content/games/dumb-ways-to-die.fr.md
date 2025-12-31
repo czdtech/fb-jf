@@ -30,6 +30,8 @@ sécurité) avec une vitesse qui augmente. Trois erreurs et la run se termine.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `arrow keys` `space`
 - Souris/tactile : glissements, taps, appuis ; certains sites utilisent aussi
   flèches/espace selon le mini‑jeu.
 
@@ -53,5 +55,6 @@ A: Certains sites proposent un mode entraînement ; sinon, tu apprends en run.
 - Q: Y a‑t‑il de la progression ?
 A: Surtout une chasse au score ; certaines versions débloquent des persos ou des
 cosmétiques.
+
 
 

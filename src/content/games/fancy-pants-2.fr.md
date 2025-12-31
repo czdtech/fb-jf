@@ -31,6 +31,8 @@ Fancy Pants 2 est un jeu de plateforme nerveux où tout tourne autour du momentu
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD` `enter`
 
 - WASD ou flèches pour te déplacer et sauter ; Bas pour glisser ; Haut pour entrer dans une porte.
 
@@ -58,4 +60,5 @@ Fancy Pants 2 est un jeu de plateforme nerveux où tout tourne autour du momentu
 - Q : La progression est‑elle sauvegardée ?
   
   R : Ça dépend du site sur lequel tu joues ; certains conservent ta progression en local.
+
 

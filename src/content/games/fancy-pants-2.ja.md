@@ -29,6 +29,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD` `enter`
 
 *   **移動/ジャンプ:** WASD または 矢印キー
 *   **スライド:** 下キー
@@ -53,4 +55,5 @@ locale: ja
 <!-- i18n:faq:id=faq:fancy-pants-2:progress-saving-eb5d3f79 -->
 - Q: 進行状況は保存されますか？  
   A: ホストによります。一部はローカルで進行状況が保存されます。
+
 

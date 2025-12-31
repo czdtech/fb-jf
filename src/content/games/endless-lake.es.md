@@ -49,6 +49,8 @@ ver hasta dónde eres capaz de llegar.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `left` `button` `tap` `Tap` `click` `tap` `click`
 
 El juego usa un sistema de control de un solo toque.
 
@@ -77,4 +79,5 @@ El juego usa un sistema de control de un solo toque.
 
     - **R:** Al atravesarlas suele aparecer un clon de tu personaje, añadiendo un
       giro visual divertido en el que controlas varios corredores en paralelo.
+
 

@@ -32,6 +32,8 @@ cómo la "piel" vuelve a su sitio con un efecto de gelatina.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `drag`
 
 - Ratón/táctil: arrastra y suelta para deformar; usa el panel de opciones cuando
   esté disponible.
@@ -45,4 +47,5 @@ cómo la "piel" vuelve a su sitio con un efecto de gelatina.
   la animación fluida.
 - Varios tirones cortos seguidos mantienen el efecto de temblor activo más
   tiempo.
+
 

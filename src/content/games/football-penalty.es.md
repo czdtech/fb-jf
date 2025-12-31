@@ -43,6 +43,8 @@ promedio.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `press` `hold`
 
 - Apunta con el ratón; ajusta la potencia manteniendo pulsado y suelta en el
   punto deseado; en algunas versiones puedes añadir efecto arrastrando.
@@ -64,4 +66,5 @@ promedio.
 - **P: ¿Cómo leo a la IA siendo portero?**  
   **R:** Fíjate en los dos últimos pasos de la carrera; muchos delanteros abren
   la cadera hacia el lado al que van a disparar.
+
 

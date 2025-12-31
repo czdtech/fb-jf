@@ -32,6 +32,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Mouse`
 
 - 使用鼠标操作监视器、音频播放、通风口封锁与系统重启按钮。
 
@@ -58,3 +60,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:five-nights-at-freddy-3:which-system-should-i-reboot-ca9c5d65 -->
 - 问：多个系统同时挂了先修哪个？  
   答：先重启 Ventilation，稳定视觉与状态，再依需要依序修复 Video 与 Audio。
+

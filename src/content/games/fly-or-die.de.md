@@ -35,6 +35,8 @@ musst gleichzeitig vor Räubern und Umweltrisiken fliehen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse`
 
 - Maus/Tastatur zum Bewegen/Fliegen; Boost-Tasten variieren nach Host.
 
@@ -64,3 +66,4 @@ musst gleichzeitig vor Räubern und Umweltrisiken fliehen.
 - **F: Gibt es Team-Modi?**  
   **A:** Die meisten Server laufen im FFA-Modus; manche Hosts schalten zeitweise
   Spezialmodi frei.
+

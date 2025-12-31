@@ -25,6 +25,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse`
 - マウス/UIでカメラ、オーディオ、通気口の封鎖、システムの再起動を行います。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ locale: ja
 <!-- i18n:faq:id=faq:five-nights-at-freddy-3:which-system-should-i-reboot-ca9c5d65 -->
 - **Q: 複数のシステムが故障した場合、どれを最初に再起動すべきですか？**  
   A: 視界と効果を安定させるために換気を優先し、その後必要に応じてビデオ/オーディオを再起動しましょう。
+
 

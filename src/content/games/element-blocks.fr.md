@@ -47,6 +47,8 @@ terminée.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `drag` `drop` `Click` `click`
 
 - **Placer un bloc** : fais glisser une pièce depuis la zone de réserve vers la
   grille et relâche pour la déposer.  
@@ -67,4 +69,5 @@ terminée.
 <!-- i18n:faq:id=faq:element-blocks:q-what-is-the-best-9bf06e71 -->
 *   **Q : Quelle est la meilleure façon d'utiliser mes étoiles ?**
     *   **R :** Garde-les pour les situations d'urgence. Quand ta grille est presque pleine et que tu ne peux plus placer les prochaines pièces, utiliser un bonus pour dégager une zone peut sauver ta partie et te permettre de viser un score bien plus élevé.
+
 

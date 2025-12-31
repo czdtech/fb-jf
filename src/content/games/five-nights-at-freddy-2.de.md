@@ -33,6 +33,8 @@ stattdessen jonglierst du Freddy-Maske und Spieluhr für die Puppet und
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `Ctrl` `Space`
 
 - Maus/UI zum Bedienen von Kameras und Maske.  
 - Strg/Leertaste für die Taschenlampe (abhängig vom Host).
@@ -64,3 +66,4 @@ stattdessen jonglierst du Freddy-Maske und Spieluhr für die Puppet und
 - **F: Gibt es wieder Türen?**  
   **A:** Nein, FNAF 2 setzt komplett auf Maske, Schachtkontrolle und
   Taschenlampe statt klassischer Türen.
+

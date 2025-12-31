@@ -59,6 +59,8 @@ surtout dès que des ennemis à distance apparaissent.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD` `Mouse` `Left click` `Space`
 
 - Déplacement : WASD/Flèches. Viser : souris ou stick droit. Tirer : clic
   gauche/gâchette. Dash/Capacité : Espace/E/Q (selon la version).
@@ -101,5 +103,6 @@ améliorations d’efficacité si le mode le permet.
 
 A: Oui : place‑les à l’avance sur ta trajectoire de kite pour qu’ils tirent
 pendant la poursuite, ce qui augmente les dégâts sans prendre plus de risques.
+
 
 

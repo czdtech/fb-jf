@@ -29,6 +29,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD`
 
 *   **移動/ジャンプ:** 矢印キー または WASD
 *   **スライド:** S または 下キー
@@ -53,4 +55,5 @@ locale: ja
 <!-- i18n:faq:id=faq:fancy-pants:can-i-change-pants-colors-a3a1c6f5 -->
 - Q: パンツの色を変えられますか？  
   A: 一部バージョンでは見た目（コスメ）をアンロックできます。
+
 

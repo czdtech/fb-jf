@@ -43,6 +43,8 @@ Find the Difference는 두 장의 거의 동일한 그림 속에 숨겨진 차�
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `mouse` `click`
 
 * 차이가 보이는 곳을 마우스로 클릭하거나 화면을 탭하면, 정답인 경우 표시가
   됩니다.  
@@ -64,4 +66,5 @@ Find the Difference는 두 장의 거의 동일한 그림 속에 숨겨진 차�
 <!-- i18n:faq:id=faq:find-the-difference:q-i-cant-find-the-93991e8a -->
 *   **Q: 잘못된 곳을 클릭하면 어떻게 되나요?**
     *   **A:** 버전에 따라 남은 시간이 줄어들거나, 잠시 클릭이 막히는 등 패널티가 있을 수 있습니다. 확신이 없으면 무작정 클릭하기보다 다시 한 번 비교해 보세요.
+
 

@@ -25,6 +25,8 @@ Henry Stickminの最大の脱獄劇：選択肢を選び、ガジェットを使
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse`
 - マウスで選択肢を選び、操作します。時折発生するプロンプトに使用するキーはホストによって異なります。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ Henry Stickminの最大の脱獄劇：選択肢を選び、ガジェットを使
 <!-- i18n:faq:id=faq:fleeing-the-complex:can-i-rewatch-scenes-to-ee1327e8 -->
 - **Q: すべてを集めるためにシーンを見直すことはできますか？**  
   A: はい、多くのホスト版では収集のためにシーンセレクトが提供されています。
+
 

@@ -33,6 +33,8 @@ un punto.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `Space` `tap`
 
 - Ratón, toque o barra espaciadora: toca para aletear.
 
@@ -60,4 +62,5 @@ un punto.
 - **P: ¿La velocidad cambia con el tiempo?**  
   **R:** En la mayoría de versiones la velocidad y la dificultad se mantienen
   constantes.
+
 

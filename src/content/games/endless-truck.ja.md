@@ -31,6 +31,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Shift` `Space` `Tap` `drop`
 
 *   **加速/ブレーキ:** W/S または 上下矢印
 *   **傾き:** A/D または 左右矢印
@@ -55,4 +57,5 @@ locale: ja
 <!-- i18n:faq:id=faq:endless-truck:when-should-i-use-boost-4e692488 -->
 - Q: ブーストはいつ使うべき？  
   A: 空中ではなく、クリーンに着地した後の平地で使いましょう。制御を失わずに速度を伸ばせます。
+
 

@@ -33,6 +33,8 @@ in Rennen an, um dich durch verschiedene Gebiete zu arbeiten.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Space` `mouse`
 
 - Pfeiltasten/Leertaste oder Maus, je nach Minispiel.
 
@@ -62,3 +64,4 @@ in Rennen an, um dich durch verschiedene Gebiete zu arbeiten.
 - **F: Gibt es Levelgrenzen?**  
   **A:** In frühen Gebieten sind deine Werte gedeckelt, bis du später neue
   Bereiche freischaltest.
+

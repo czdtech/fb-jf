@@ -45,6 +45,8 @@ Find 500 Differences는 세밀한 관찰력을 시험하는 틀린 그림 찾기
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `Click` `Tap` `mouse` `click` `tap`
 
 * 차이를 찾았다고 생각되는 위치를 마우스로 클릭하거나 화면을 탭하면, 정답인
   경우 표시가 됩니다.  
@@ -66,4 +68,5 @@ Find 500 Differences는 세밀한 관찰력을 시험하는 틀린 그림 찾기
 <!-- i18n:faq:id=faq:find-500-differences:q-how-many-differences-are-303ffe69 -->
 *   **Q: 한 레벨에 보통 몇 개의 차이가 있나요?**
     *   **A:** 일반적으로 한 쌍의 그림마다 5개의 차이를 찾게 됩니다.
+
 

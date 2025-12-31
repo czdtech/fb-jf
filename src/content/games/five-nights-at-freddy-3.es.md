@@ -36,6 +36,8 @@ y ventilación para salir con vida.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse`
 
 - Ratón/interfaz para manejar cámaras, audio, sellado de conductos y reinicios
   de sistema.
@@ -67,4 +69,5 @@ y ventilación para salir con vida.
 - **P: Si fallan varios sistemas a la vez, ¿cuál reinicio primero?**  
   **R:** Empieza por la ventilación para estabilizar la visión y los efectos,
   luego recupera vídeo y audio según la situación.
+
 

@@ -25,6 +25,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse` `Esc`
 - マウス/UIでカメラ、ライト、ドアを操作します。Escキーで一時停止（ホストによります）。
 
 <!-- i18n:section:tips -->
@@ -44,3 +46,4 @@ locale: ja
 <!-- i18n:faq:id=faq:five-nights-at-freddy-1:can-i-mute-calls-952aac8b -->
 - **Q: 電話をミュートできますか？**  
   A: Phone Guyのイントロをミュートできるバージョンもあります。
+

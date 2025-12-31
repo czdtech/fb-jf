@@ -46,6 +46,8 @@ máximo tiempo posible para lograr la mejor puntuación.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `mouse` `drag` `drop` `space`
 
 El juego se controla con arrastrar y soltar.
 
@@ -70,4 +72,5 @@ El juego se controla con arrastrar y soltar.
 
     - **R:** Aguanta el máximo tiempo posible y busca combos: limpiar varias líneas con
       una sola pieza da una bonificación de puntuación importante.
+
 

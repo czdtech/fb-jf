@@ -35,6 +35,8 @@ caminos que elijas.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse`
 
 - Ratón para seleccionar opciones e interactuar; algunas escenas usan teclas
   concretas para ciertas acciones, según la versión.
@@ -66,4 +68,5 @@ caminos que elijas.
 - **P: ¿Puedo volver a ver escenas para completar todo?**  
   **R:** Sí, muchos portales ofrecen selección de escenas para repasar rutas y
   terminar de conseguir todos los fallos y biografías.
+
 

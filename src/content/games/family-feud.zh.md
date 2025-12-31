@@ -35,6 +35,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Enter`
 
 - 以键盘输入答案并按 Enter 送出；
 - 方向键或画面上的 UI 元件用于切换选项或浏览列表（依托管版本而定）。
@@ -60,3 +62,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:family-feud:is-there-singleplayer-7c220176 -->
 - 问：可以一个人玩吗？  
   答：多数网页版本提供单人模式，你可以自己挑战调查结果，看看能不能猜出大多数人的想法。
+

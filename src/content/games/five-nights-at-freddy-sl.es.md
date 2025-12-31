@@ -36,6 +36,8 @@ Funtime.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse`
 
 - Ratón/interfaz para interactuar con paneles, descargas y monitores; teclas de
   movimiento para los tramos de conductos (según el portal).
@@ -66,4 +68,5 @@ Funtime.
 - **P: ¿Existe un modo Custom Night?**  
   **R:** Muchas versiones incluyen una noche de desafío adicional tras la
   historia principal.
+
 

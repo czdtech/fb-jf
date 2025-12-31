@@ -31,6 +31,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Click` `left` `button` `tap` `Tap` `click` `tap` `click`
 
 
 操作はワンタッチでシンプルです。
@@ -51,4 +53,5 @@ locale: ja
 <!-- i18n:faq:id=faq:endless-lake:q-what-are-the-mirror-488e84f5 -->
 *   **Q: 鏡のドア（ポータル）は何ですか？**
     *   **A:** これらのポータルを通過すると、キャラクターのクローンが作られることがあり、複数のランナーを同時にコントロールする楽しいビジュアル効果が加わります。
+
 

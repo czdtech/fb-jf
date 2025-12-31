@@ -34,6 +34,8 @@ en carreras para ir desbloqueando nuevas zonas.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Space` `mouse`
 
 - Flechas y/o barra espaciadora, o ratón, según el minijuego.
 
@@ -62,4 +64,5 @@ en carreras para ir desbloqueando nuevas zonas.
 - **P: ¿Hay límites de nivel?**  
   **R:** En áreas tempranas hay topes de nivel; se amplían al desbloquear zonas
   posteriores.
+
 

@@ -30,6 +30,8 @@ Football Penaltyはスポットキック（PK）に焦点を当てています�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `press` `hold`
 
 - **操作全般**: マウスで狙いを定め、長押しでパワーを設定します。ドラッグでカーブをかけることができます（対応している場合）。
 
@@ -45,4 +47,5 @@ Football Penaltyはスポットキック（PK）に焦点を当てています�
 <!-- i18n:faq:id=faq:football-penalty:how-do-i-read-the-27e23605 -->
 - **Q: キーパーとしてAIをどう読めばいいですか？**
   A: 助走の最後の2歩を見てください。多くのストライカーはシュート方向に腰を開きます。
+
 

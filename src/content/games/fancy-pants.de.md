@@ -32,6 +32,8 @@ Wänden hoch und entdeckst geheime Bereiche sowie Sammelitems.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD`
 
 - Pfeiltasten/WASD zum Bewegen und Springen.  
 - S/Nach unten zum Rutschen.  
@@ -62,3 +64,4 @@ Wänden hoch und entdeckst geheime Bereiche sowie Sammelitems.
 <!-- i18n:faq:id=faq:fancy-pants:can-i-change-pants-colors-a3a1c6f5 -->
 - **F: Kann ich die Hosenfarbe ändern?**  
   **A:** In einigen Varianten lassen sich kosmetische Anpassungen freischalten.
+

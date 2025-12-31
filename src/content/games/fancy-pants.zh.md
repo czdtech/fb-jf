@@ -30,6 +30,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `WASD`
 
 - 方向键或 WASD 操控移动与跳跃。
 - S 键或向下键在斜坡上滑行，或在特定地形上做下蹲动作。
@@ -56,3 +58,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:fancy-pants:can-i-change-pants-colors-a3a1c6f5 -->
 - 问：裤子颜色可以更换吗？  
   答：部分版本支援解锁不同颜色或外观的裤子，作为收集与成就奖励。
+

@@ -36,6 +36,8 @@ amenazas del entorno.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse`
 
 - Ratón/teclado para moverte o volar; las teclas de impulso varían según el
   servidor o portal.
@@ -67,4 +69,5 @@ amenazas del entorno.
 - **P: ¿Hay modos por equipos?**  
   **R:** La mayoría de servidores son todos contra todos, pero algunos portales
   activan modos especiales por tiempo limitado.
+
 

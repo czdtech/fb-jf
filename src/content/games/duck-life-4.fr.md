@@ -32,6 +32,8 @@ puis participe à des tournois régionaux. L’énergie sert d’endurance ; c
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `Space`
 - Flèches/souris selon le mini‑jeu ; Espace pour sauter dans les runners (selon
   l’hébergeur).
 
@@ -52,5 +54,6 @@ A: Non : il faut simplement entraîner la stat dont tu as besoin.
 <!-- i18n:faq:id=faq:duck-life-4:why-am-i-losing-photofinish-6772e3f1 -->
 - Q: Pourquoi je perds au photo‑finish ?
 A: Souvent à cause d’une énergie trop basse ou d’une stat en retard (ex. escalade).
+
 
 

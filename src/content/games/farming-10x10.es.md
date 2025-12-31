@@ -39,6 +39,8 @@ preparas jugadas que limpien varias líneas a la vez.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag`
 
 - Arrastra las piezas al tablero y suéltalas para colocarlas; en algunos modos
   puedes girarlas.
@@ -64,4 +66,5 @@ preparas jugadas que limpien varias líneas a la vez.
   
   **R:** Encadena limpiezas dobles y evita las jugadas de "rescate" de una sola
   línea que rompen por completo tu estructura.
+
 

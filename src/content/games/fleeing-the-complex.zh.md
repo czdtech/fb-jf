@@ -32,6 +32,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Mouse`
 
 - 使用鼠标在选项出现时点击按钮，或点击画面上的互动物件。
 - 少数情境下可能需要按键盘指定按键（依托管版本而定）。
@@ -61,3 +63,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:fleeing-the-complex:can-i-rewatch-scenes-to-ee1327e8 -->
 - 问：可以重看剧情来补完收集吗？  
   答：可以，许多线上版本会提供场景或章节选择功能，方便你回头补齐所有失败演出与分支内容。
+

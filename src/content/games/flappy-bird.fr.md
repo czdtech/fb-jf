@@ -29,6 +29,8 @@ Flappy Bird est un défi arcade à un seul bouton : chaque tapotement fait monte
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `Space` `tap`
 
 - Souris / écran tactile / barre d’espace : tapote pour faire battre les ailes de l’oiseau.
 
@@ -56,5 +58,6 @@ Flappy Bird est un défi arcade à un seul bouton : chaque tapotement fait monte
 - Q : La vitesse augmente‑t‑elle au fil du temps ?
   
   R : Dans la plupart des versions, la vitesse et la difficulté restent constantes, le défi venant surtout de ta régularité.
+
 
 

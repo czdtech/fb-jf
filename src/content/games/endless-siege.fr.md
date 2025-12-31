@@ -39,6 +39,8 @@ Endless Siege est un jeu de tower defense très prenant où tu dois défendre to
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `Click` `Click` `click`
 
 *   **Construire une tour** : clique sur un emplacement circulaire vide sur la carte pour ouvrir le menu de construction, puis choisis la tour à bâtir.
 *   **Améliorer une tour** : clique sur une tour existante pour voir ses statistiques et ses améliorations possibles, puis clique sur le bouton d'upgrade pour la faire monter de niveau.
@@ -58,4 +60,5 @@ Endless Siege est un jeu de tower defense très prenant où tu dois défendre to
 <!-- i18n:faq:id=faq:endless-siege:q-why-is-the-map-c5353526 -->
 *   **Q : Pourquoi la carte change-t-elle par rapport à hier ?**
     *   **R :** C'est une des particularités d'Endless Siege : une nouvelle carte est générée chaque jour, offrant à tous les joueurs un défi stratégique inédit.
+
 

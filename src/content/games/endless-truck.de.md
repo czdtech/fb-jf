@@ -42,6 +42,8 @@ belohnen sanftes Gasgeben und kontrollierte Überschläge; unsaubere Landungen
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Shift` `Space` `Tap` `drop`
 
 - Gas/Bremse: W/S oder Hoch/Runter.  
 - Neigen: A/D oder Links/Rechts.  
@@ -74,3 +76,4 @@ belohnen sanftes Gasgeben und kontrollierte Überschläge; unsaubere Landungen
 - **F: Wann sollte ich den Boost einsetzen?**  
   **A:** Auf geraden Abschnitten nach sauberen Landungen – so hältst du das
   Tempo hoch, ohne die Kontrolle zu verlieren.
+

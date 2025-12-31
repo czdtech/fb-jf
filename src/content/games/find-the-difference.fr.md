@@ -36,6 +36,8 @@ Find the Difference est un jeu de réflexion classique qui met à l'épreuve ton
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `click`
 
 *   **Identifier une différence** : lorsque tu repères un détail différent, clique simplement sur la zone correspondante dans l'une des deux images. Si tu as raison, elle sera marquée comme trouvée.
 
@@ -53,4 +55,5 @@ Find the Difference est un jeu de réflexion classique qui met à l'épreuve ton
 <!-- i18n:faq:id=faq:find-the-difference:q-i-cant-find-the-93991e8a -->
 *   **Q : Je n'arrive pas à trouver la dernière différence, que faire ?**
     *   **R :** C'est le bon moment pour utiliser un indice si tu en as encore. Sinon, détourne les yeux de l'écran quelques secondes, puis reviens et parcours les images avec un schéma de lecture différent pour rafraîchir ton regard.
+
 

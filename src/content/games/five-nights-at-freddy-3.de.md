@@ -34,6 +34,8 @@ Systeme stören. Du jonglierst Kameras, Audiolockrufe und die Belüftung.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse`
 
 - Maus/UI für Kameras, Audio, Lüftungs-Siegel und System-Reboots.
 
@@ -64,3 +66,4 @@ Systeme stören. Du jonglierst Kameras, Audiolockrufe und die Belüftung.
 - **F: Welche Systeme sollte ich zuerst neu starten, wenn mehrere ausfallen?**  
   **A:** Zuerst die Lüftung, um Sicht und Effekte zu stabilisieren, dann Video
   und Audio nach Bedarf.
+

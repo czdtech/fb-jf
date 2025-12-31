@@ -34,6 +34,8 @@ barcos y otros peligros.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse`
 
 - Ratón/táctil o flechas para dirigir el pato.
 
@@ -63,4 +65,5 @@ barcos y otros peligros.
 - **P: ¿Hay potenciadores?**  
   **R:** En algunas versiones aparecen potenciadores o cosméticos, pero el núcleo del
   juego es siempre rescatar y entregar patitos.
+
 

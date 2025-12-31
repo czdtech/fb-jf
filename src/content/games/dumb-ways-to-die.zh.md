@@ -30,6 +30,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Mouse` `arrow keys` `space`
 
 - 主要通过鼠标或触控进行滑动、点击与长按操作；
 - 部分托管版本的特定关卡，可能改用方向键或空白键来完成动作。
@@ -55,3 +57,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:dumb-ways-to-die:is-there-progression-d558b0b6 -->
 - 问：有长期养成或解锁要素吗？  
   答：核心目标是刷高分，不同版本中有些会附带解锁新角色或装饰等收集向要素。
+

@@ -29,6 +29,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD` `enter`
 
 *   **移動/ジャンプ:** 矢印キー または WASD
 *   **スライド:** 下キー
@@ -53,4 +55,5 @@ locale: ja
 <!-- i18n:faq:id=faq:fancy-pants-3:are-there-hidden-rooms-702a71e0 -->
 - Q: 隠し部屋はありますか？  
   A: はい。壊せる壁や脇道に注目しましょう。
+
 

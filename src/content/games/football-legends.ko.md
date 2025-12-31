@@ -29,6 +29,8 @@ Football Legends는 실제 축구 스타들을 SD 캐릭터로 표현해, 간단
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `WASD`
 
 - 플레이어별로 방향키/WASD + 슛/점프 키 조합(게임 내 안내 참고)  
 
@@ -52,4 +54,5 @@ Football Legends는 실제 축구 스타들을 SD 캐릭터로 표현해, 간단
 <!-- i18n:faq:id=faq:football-legends:are-there-teams-with-different-49fd2ac3 -->
 - Q: 팀마다 능력치가 다른가요?  
   A: 호스트에 따라 스킨/팀 선택이 있으며, 기본 물리는 대체로 동일한 경우가 많습니다.
+
 

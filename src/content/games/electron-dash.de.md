@@ -32,6 +32,8 @@ Electron Dash ist ein rasanter Runner in einem futuristischen Tunnel. Du rennst
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD` `Space`
 
 - Pfeiltasten/WASD zum Bewegen und Springen.  
 - Leertaste oder X für den Dash (je nach Host leicht unterschiedlich).
@@ -62,3 +64,4 @@ Electron Dash ist ein rasanter Runner in einem futuristischen Tunnel. Du rennst
 - **F: Gibt es Upgrades?**  
   **A:** Manche Versionen bieten Freischaltungen über gesammelte Edelsteine
   oder kosmetische Anpassungen; der Kern bleibt jedoch die Distanzjagd.
+

@@ -32,6 +32,8 @@ Elite Chess propose une expérience d’échecs épurée contre une IA réglable
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `click`
 
 - Clique sur une pièce pour afficher ses coups légaux, puis clique sur une case de destination pour la jouer.
 - Tu peux proposer nulle ou abandonner, et régler la force de l’IA dans les options.
@@ -57,4 +59,5 @@ Elite Chess propose une expérience d’échecs épurée contre une IA réglable
 - Q : Quelles finales donnent le plus vite des points de classement ?
   
   R : Les finales roi+pion et les finales de tours ; ce sont celles qui reviennent le plus souvent et qui t’aident le mieux à convertir un avantage en victoire.
+
 

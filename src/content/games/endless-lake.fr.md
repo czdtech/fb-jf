@@ -34,6 +34,8 @@ Endless Lake est un runner sans fin minimaliste et exigeant qui met à l'épreuv
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `left` `button` `tap` `Tap` `click` `tap` `click`
 
 Le jeu utilise un système de contrôle « un seul clic/tap ».
 
@@ -54,4 +56,5 @@ Le jeu utilise un système de contrôle « un seul clic/tap ».
 <!-- i18n:faq:id=faq:endless-lake:q-what-are-the-mirror-488e84f5 -->
 *   **Q : Que sont les portes miroir ?**
     *   **R :** En les traversant, tu crées souvent un clone de ton personnage, ce qui ajoute une touche visuelle amusante où tu contrôles plusieurs coureurs en même temps.
+
 

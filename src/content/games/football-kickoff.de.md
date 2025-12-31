@@ -39,6 +39,8 @@ Richtung entscheiden über Weite und Präzision.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse`
 
 - Mit Maus/Tasten zielen; Stärke über eine Anzeige wählen und im grünen Bereich
   loslassen.
@@ -61,3 +63,4 @@ Richtung entscheiden über Weite und Präzision.
 - **F: Was ist eine gute Kickoff-Strategie?**  
   **A:** Tiefe Kicks in die Ecke mit viel Hangtime zwingen den Gegner oft zu
   schwachen Returns an der Seitenlinie.
+

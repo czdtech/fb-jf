@@ -43,6 +43,8 @@ vorzubereiten.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag`
 
 - Ziehe Formen per Drag & Drop auf das Brett und lasse sie los, um sie zu
   platzieren.  
@@ -66,3 +68,4 @@ vorzubereiten.
   **A:** Kette möglichst viele Doppel- oder Mehrfach-Löschungen und vermeide
   "Rettungszüge", die zwar kurz helfen, aber deine Struktur langfristig
   zerstören.
+

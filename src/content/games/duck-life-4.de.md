@@ -34,6 +34,8 @@ mithält; Hüte und Evolutionen ändern das Aussehen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `Space`
 
 - Pfeiltasten/Maus, je nach Minispiel; in vielen Lauf-Minispielen nutzt du die
   Leertaste zum Springen (hostabhängig).
@@ -62,3 +64,4 @@ mithält; Hüte und Evolutionen ändern das Aussehen.
 - **F: Warum verliere ich Fotofinish-Rennen so knapp?**  
   **A:** Meist ist deine Energie zu niedrig oder ein einzelner Wert (z.B.
   Klettern) hinkt deutlich hinterher.
+

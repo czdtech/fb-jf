@@ -51,6 +51,8 @@ konkurrierst um den Tages-Highscore.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `Click` `Click` `click`
 
 - **Turm bauen:** Klicke auf einen leeren, runden Bauplatz am Weg, um das
   Baumenü zu öffnen, und wähle den gewünschten Turm.
@@ -77,4 +79,5 @@ platziert werden.
 *   **F: Wieso sieht die Karte heute anders aus als gestern?**
     *   **A:** Endless Siege generiert jeden Tag eine neue Karte und bietet so allen
 Spielern täglich eine frische taktische Herausforderung.
+
 

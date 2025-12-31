@@ -35,6 +35,8 @@ y escuchando con mucha atención para evitar jumpscares.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse`
 
 - Ratón y teclado para moverte entre ubicaciones; las teclas concretas para
   puertas y linterna dependen del portal donde juegues.
@@ -64,4 +66,5 @@ y escuchando con mucha atención para evitar jumpscares.
 - **P: ¿El juego incluye noches extra?**  
   **R:** Muchos portales añaden noches de desafío adicionales más allá de la
   Noche 5.
+
 

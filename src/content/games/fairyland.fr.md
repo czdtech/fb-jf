@@ -33,6 +33,8 @@ Fairyland est une aventure tranquille remplie de petites tâches à collectionne
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `tap` `drag` `hold`
 
 - Clique/tape pour interagir, fais glisser pour déplacer des objets ou des curseurs, et maintiens le clic pour les actions qui demandent une longue pression.
 - Le menu offre des indices ou un carnet de notes si cette option est disponible.
@@ -54,4 +56,5 @@ Fairyland est une aventure tranquille remplie de petites tâches à collectionne
 - Q : Combien de temps dure un chapitre ?
   
   R : Ils sont courts, pensés pour de petites sessions. Plusieurs chapitres mis bout à bout forment une aventure relaxante.
+
 

@@ -34,6 +34,8 @@ Turnierbäume spielen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD`
 
 - Pfeiltasten/WASD zum Laufen und Springen.  
 - Schuss/Pass und Spezialtaste variieren je nach Host – meist separate
@@ -64,3 +66,4 @@ Turnierbäume spielen.
 - **F: Haben Teams unterschiedliche Werte?**  
   **A:** Oft sind die Unterschiede vor allem kosmetisch; die Physik bleibt in
   vielen Hosts gleich.
+

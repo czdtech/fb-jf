@@ -34,6 +34,8 @@ In Fleeing the Complex versucht Henry Stickmin, aus einem Hochsicherheits-Gefän
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse`
 
 - Maus zum Wählen von Optionen und Interagieren.  
 - Zusätzliche Tasten für QTEs können je nach Host variieren.
@@ -65,3 +67,4 @@ In Fleeing the Complex versucht Henry Stickmin, aus einem Hochsicherheits-Gefän
 - **F: Kann ich Szenen erneut ansehen, um alles zu sammeln?**  
   **A:** Ja, viele Hosts bieten eine Szenen- oder Routenwahl, um gezielt Fails
   und Bios zu komplettieren.
+

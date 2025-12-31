@@ -32,6 +32,8 @@ Fleeing the Complex는 Henry Stickmin 시리즈의 한 작품으로, 철통 경�
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `Mouse`
 
 - 마우스 클릭으로 선택지와 화면 속 상호작용 지점을 선택합니다.  
 - 일부 버전에서는 특정 키로 스킵/일시 정지 등을 지원할 수 있습니다.  
@@ -56,4 +58,5 @@ Fleeing the Complex는 Henry Stickmin 시리즈의 한 작품으로, 철통 경�
 <!-- i18n:faq:id=faq:fleeing-the-complex:can-i-rewatch-scenes-to-ee1327e8 -->
 - Q: 장면을 다시 보고 수집 요소를 모을 수 있나요?  
   A: 네, 많은 호스트 버전에서 장면 선택 기능을 제공해 정리 플레이가 가능합니다.
+
 

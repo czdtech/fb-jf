@@ -42,6 +42,8 @@ Stangen und knackiger Ballphysik. Im Angriff zählen präzise Pässe, Schüsse a
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD` `mouse` `drag` `Tap`
 
 - Stangen bewegen: Pfeiltasten/WASD oder Ziehen mit der Maus (je nach Host).  
 - Schießen: Antippen/kurzes Drehen; einige Versionen unterscheiden zwischen
@@ -63,3 +65,4 @@ Stangen und knackiger Ballphysik. Im Angriff zählen präzise Pässe, Schüsse a
 <!-- i18n:faq:id=faq:foosball-cup-world:twoplayer-support-8a28f667 -->
 - **F: Gibt es einen 2-Spieler-Modus?**  
   **A:** Ja, meist über geteilte Tastatur oder lokales Hotseat-Spiel.
+

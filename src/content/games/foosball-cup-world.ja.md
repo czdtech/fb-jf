@@ -33,6 +33,8 @@ Foosball Cup Worldは、反応の良いロッドと切れのあるボール物�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD` `mouse` `drag` `Tap`
 
 - **ロッド移動**: WASD / 矢印キー / マウスドラッグ（バージョンによる）。
 - **シュート**: タップ / フリック。一部のビルドでは傾きと回転が分かれています。
@@ -49,4 +51,5 @@ Foosball Cup Worldは、反応の良いロッドと切れのあるボール物�
 <!-- i18n:faq:id=faq:foosball-cup-world:twoplayer-support-8a28f667 -->
 - **Q: 2人プレイに対応していますか？**
   A: 一般的に、共有キーボードまたはローカルのホットシート（交代制）で対応しています。
+
 

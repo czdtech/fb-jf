@@ -32,6 +32,8 @@ Football Penalty se concentre sur l’exercice le plus stressant du football : l
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `press` `hold`
 
 - Vise avec la souris ; règle la puissance en maintenant/relâchant ; ajoute éventuellement de l’effet en faisant glisser (si la version le permet).
 
@@ -52,5 +54,6 @@ Football Penalty se concentre sur l’exercice le plus stressant du football : l
 - Q : Comment mieux lire l’IA en gardien ?
   
   R : Observe les deux dernières foulées de la course ; beaucoup de tireurs ouvrent les hanches dans la direction où ils vont frapper.
+
 
 

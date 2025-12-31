@@ -32,6 +32,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `WASD` `enter`
 
 - WASD 或方向键移动／跳跃。
 - 向下键在斜坡上滑行、加速或钻入特定地形。
@@ -59,3 +61,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:fancy-pants-2:progress-saving-eb5d3f79 -->
 - 问：存档进度会保存吗？  
   答：要看平台实作，有些会在本机保留你的关卡进度与收集状态，有些则是每次重新开始。
+

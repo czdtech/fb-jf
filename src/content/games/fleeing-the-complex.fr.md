@@ -30,6 +30,8 @@ Dans Fleeing the Complex, Henry Stickmin prépare sa plus grande évasion. Tu do
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse`
 
 - Souris : sélectionner les choix, cliquer sur les éléments interactifs et valider les quick‑time events.  
 - Certaines versions utilisent aussi des touches pour des prompts spécifiques (indiqué à l’écran).
@@ -58,5 +60,6 @@ Dans Fleeing the Complex, Henry Stickmin prépare sa plus grande évasion. Tu do
 - Q : Puis‑je revoir des scènes pour tout compléter ?
   
   R : Oui. Beaucoup d’hébergeurs fournissent une sélection de scènes ou de routes pour revenir facilement là où il te manque des fails ou des bios.
+
 
 

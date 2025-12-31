@@ -32,6 +32,8 @@ Tu dois jongler entre les caméras, la boîte à musique du Puppet, la lampe tor
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `Ctrl` `Space`
 
 - Souris / interface : gérer les caméras et le masque.  
 - Ctrl ou Espace (selon la version) : activer la lampe torche dans le couloir.
@@ -60,5 +62,6 @@ Tu dois jongler entre les caméras, la boîte à musique du Puppet, la lampe tor
 - Q : Y a‑t‑il encore des portes à contrôler ?
   
   R : Non. FNAF 2 repose sur la gestion du masque, des conduits et de la lampe torche, sans portes physiques.
+
 
 

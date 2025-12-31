@@ -40,6 +40,8 @@ spät verratene Richtungswechsel sind meist erfolgreicher als rohe Gewalt.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `press` `hold`
 
 - Mit der Maus zielen; Power über Halten der Taste bestimmen; je nach Version
   kannst du durch Ziehen Effet hinzufügen.
@@ -61,3 +63,4 @@ spät verratene Richtungswechsel sind meist erfolgreicher als rohe Gewalt.
 - **F: Wie lese ich als Keeper die KI?**  
   **A:** Achte auf die letzten Schritte des Anlaufs; viele Schützen drehen Hüfte
   und Oberkörper in Richtung der geplanten Schussseite.
+

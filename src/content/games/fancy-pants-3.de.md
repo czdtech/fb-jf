@@ -35,6 +35,8 @@ belohnen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD` `enter`
 
 - Pfeiltasten oder WASD zum Bewegen und Springen.  
 - Nach unten, um zu sliden.  
@@ -67,3 +69,4 @@ belohnen.
 - **F: Gibt es versteckte Räume?**  
   **A:** Ja, halte Ausschau nach brüchigen Wänden, geheimen Seitengängen und
   verdächtigen Nischen.
+

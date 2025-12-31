@@ -32,6 +32,8 @@ débloquer de nouvelles zones.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Space` `mouse`
 - Flèches/Espace ou souris selon le mini‑jeu.
 
 <!-- i18n:section:tips -->
@@ -51,5 +53,6 @@ A: Non, c’est visuel ; ce sont l’entraînement et l’énergie qui font la
 <!-- i18n:faq:id=faq:duck-life:are-there-level-caps-81ed8f45 -->
 - Q: Y a‑t‑il des caps de niveau ?
 A: Les premières zones limitent les stats jusqu’aux déblocages suivants.
+
 
 

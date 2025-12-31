@@ -64,6 +64,8 @@ importante como la puntería, sobre todo cuando aparecen múltiples tiradores.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD` `Mouse` `Left click` `Space`
 
 - Movimiento: WASD/Flechas.
 - Apuntar: ratón o stick derecho.
@@ -105,4 +107,5 @@ importante como la puntería, sobre todo cuando aparecen múltiples tiradores.
 - **P: ¿Merece la pena usar desplegables?**  
   **R:** Sí. Colócalos en tu ruta de escape para que disparen automáticamente a
   los enemigos que te persiguen sin que tengas que exponerte más.
+
 

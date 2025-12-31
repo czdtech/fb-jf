@@ -43,6 +43,8 @@ lo importante es la exploración, no el combate.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `tap` `drag` `hold`
 
 - Haz clic o toca para interactuar, arrastra para mover objetos o controles
   deslizantes y mantén pulsado cuando se indique una pulsación larga.
@@ -66,4 +68,5 @@ lo importante es la exploración, no el combate.
 - **P: ¿Cuánto dura cada capítulo?**  
   **R:** Son secciones cortas pensadas para sesiones rápidas; varios capítulos
   encadenados forman una experiencia relajada más larga.
+
 

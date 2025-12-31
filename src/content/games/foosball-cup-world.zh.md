@@ -38,6 +38,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `WASD` `mouse` `drag` `Tap`
 
 - 移动杆子：依版本不同，可使用方向键、WASD 或鼠标拖拽；
 - 射门：通过快速推／拉杆子、或特定按键来完成抽射，部分版本会区分倾斜与旋转操作。
@@ -58,3 +60,4 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:foosball-cup-world:twoplayer-support-8a28f667 -->
 - 问：支援两人对战吗？  
   答：大多数版本都支援本地双人，通过同键盘或轮流操作进行对战，非常适合朋友间小比拼。
+

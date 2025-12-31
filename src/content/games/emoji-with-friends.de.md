@@ -42,6 +42,8 @@ Einstieg machen das Spiel ideal für zwischendurch oder kleine Partyrunden.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `tap`
 
 - **Auswählen/Matchen:** Klicke oder tippe Emojis an, um sie gemäß den
   jeweiligen Modusregeln zu verbinden.
@@ -65,3 +67,4 @@ Einstieg machen das Spiel ideal für zwischendurch oder kleine Partyrunden.
 <!-- i18n:faq:id=faq:emoji-with-friends:how-long-is-a-round-e41a29b3 -->
 - **F: Wie lange dauert eine Runde?**  
   **A:** Meist nur ein bis zwei Minuten, perfekt für kurze Spielsessions.
+

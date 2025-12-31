@@ -40,6 +40,8 @@ ihren eigenen Stil (Rührei, Spiegelei, Omelett) und ein enges Zeitfenster für
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `drag` `tap`
 
 - Tippen, um Eier aufzuschlagen/zu verquirlen/zu würzen; ziehen, um sie in die
   Pfanne oder auf den Teller zu legen; auf den Kunden tippen, um zu servieren.
@@ -73,3 +75,4 @@ ihren eigenen Stil (Rührei, Spiegelei, Omelett) und ein enges Zeitfenster für
 - **F: Gibt es einen Trick für Omeletts mit Füllung?**  
   **A:** Schneide Füllungen in ruhigen Phasen vor, gib sie früh in die Pfanne
   und falte das Omelett beim ersten "gestockt"-Moment, damit nichts herausläuft.
+

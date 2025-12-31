@@ -45,6 +45,8 @@ Emoji Fun spielerisch deine Logik, dein Allgemeinwissen und dein Querdenken.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `Click` `hold` `drag` `mouse`
 
 Das Spiel wird komplett per Drag-and-Drop gesteuert.
 
@@ -69,4 +71,5 @@ Das Spiel wird komplett per Drag-and-Drop gesteuert.
     *   **A:** Denke „out of the box“ – die Beziehung kann auf einer Aktion (Ball und
         Tor), Ursache/Wirkung (Samen und Baum) oder einem gemeinsamen Konzept (Hund
         und Knochen) basieren.
+
 

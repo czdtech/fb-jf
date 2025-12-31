@@ -60,6 +60,8 @@ Gefahrenzonen meidest und gleichzeitig hohe Prioritätsziele fokussierst.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD` `Mouse` `Left click` `Space`
 
 - Bewegung: WASD oder Pfeiltasten.  
 - Zielen: Maus oder rechter Stick.  
@@ -103,3 +105,4 @@ Gefahrenzonen meidest und gleichzeitig hohe Prioritätsziele fokussierst.
   **A:** Ja, besonders wenn du sie vor Kurven oder Engstellen deiner Route
   platzierst. So verursachen sie konstant Schaden, während du dich auf Ausweichen
   und Fokusziele konzentrierst.
+

@@ -30,6 +30,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `WASD`
 
 - 使用方向键或 WASD 控制移动与跳跃；
 - 射门／传球键与必杀键会依托管版本略有不同，通常会在游戏开始前标示。
@@ -55,3 +57,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:football-legends:are-there-teams-with-different-49fd2ac3 -->
 - 问：不同球队能力有差吗？  
   答：许多线上版本主要是外观与球衣不同，物理表现大致一致，重点在操作与配合。
+

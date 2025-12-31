@@ -39,6 +39,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `Tap` `mouse` `click` `tap`
 
 *   **点击／轻触：** 使用鼠标或手指，点击任一张图中你认为有差异的位置，
     若正确通常会标记或圈出该处。
@@ -60,3 +62,4 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:find-500-differences:q-how-many-differences-are-303ffe69 -->
 *   **问：每一关要找几处不同？**
     *   **答：** 一般来说每组图片有 5 处差异需要找出，具体数量依实际关卡设计为准。
+

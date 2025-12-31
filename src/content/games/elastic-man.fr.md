@@ -39,6 +39,8 @@ limites de la physique.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `drag`
 
 - **Souris / tactile** : clique/touche et fais glisser n’importe où sur le
   visage pour le déformer.  
@@ -61,3 +63,4 @@ R : Non, Elastic Man est purement un jouet interactif pour le fun.
 **Q : Puis‑je l’utiliser comme anti‑stress ?**  
 R : C’est justement l’idée : malaxer virtuellement un visage élastique peut
 être étonnamment relaxant.
+

@@ -25,6 +25,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse`
 - マウス/キーボードで場所を移動します。ドアや懐中電灯の特定のキーはホストによって異なります。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ locale: ja
 <!-- i18n:faq:id=faq:five-nights-at-freddy-4:does-the-game-add-extra-4e384ad2 -->
 - **Q: エクストラナイト（追加の夜）はありますか？**  
   A: 多くのホスト版には、第5夜以降のチャレンジナイトが含まれています。
+
 

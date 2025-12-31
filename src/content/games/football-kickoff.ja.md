@@ -32,6 +32,8 @@ Football Kickoffは、アメリカンフットボールのキッキングシナ�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse`
 
 - **操作全般**: マウス/キーで狙いを定め、メーターでパワーを設定し、精度ゾーンでリリースします。
 
@@ -47,4 +49,5 @@ Football Kickoffは、アメリカンフットボールのキッキングシナ�
 <!-- i18n:faq:id=faq:football-kickoff:best-kickoff-strategy-c9899b41 -->
 - **Q: 最適なキックオフ戦略は？**
   A: 滞空時間のあるキックをコーナー深くに蹴り込み、リターンをサイドラインに向かわせることです。
+
 

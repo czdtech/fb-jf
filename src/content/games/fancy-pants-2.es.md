@@ -36,6 +36,8 @@ por escenarios dibujados a mano mientras recoges trofeos.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD` `enter`
 
 - WASD o Flechas para moverte y saltar.
 - Abajo (S o Flecha abajo) para deslizarte.
@@ -66,4 +68,5 @@ por escenarios dibujados a mano mientras recoges trofeos.
 <!-- i18n:faq:id=faq:fancy-pants-2:progress-saving-eb5d3f79 -->
 - **P: ¿Se guarda el progreso?**  
   **R:** Depende del portal; algunos guardan tu avance de forma local.
+
 

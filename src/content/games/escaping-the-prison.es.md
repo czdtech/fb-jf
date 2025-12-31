@@ -35,6 +35,8 @@ pocas combinaciones te llevan a finales exitosos.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `click` `Space`
 
 - Ratón: haz clic en las opciones de objetos/ruta y en las indicaciones de
   reacción rápida.
@@ -50,4 +52,5 @@ pocas combinaciones te llevan a finales exitosos.
   durante las escenas.
 - Usa el selector de escenas, si está disponible, para revisar solo los
   fragmentos donde te faltan fallos o biografías en lugar de repetir toda la partida.
+
 

@@ -28,6 +28,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Space` `mouse`
 
 *   **ミニゲーム:** 矢印キー（移動・ジャンプ）、またはマウス操作。ゲームによって異なります。
 
@@ -50,4 +52,5 @@ locale: ja
 <!-- i18n:faq:id=faq:duck-life:are-there-level-caps-81ed8f45 -->
 - Q: ステータスに上限はありますか？  
   A: 序盤は上げられるレベルに上限があります。エリアを進めて解放されると、さらに伸ばせます。
+
 

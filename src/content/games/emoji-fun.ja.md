@@ -31,6 +31,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `drag` `drop` `Click` `hold` `drag` `mouse`
 
 
 操作はシンプルで、ドラッグ＆ドロップだけで遊べます。
@@ -46,4 +48,5 @@ locale: ja
 <!-- i18n:faq:id=faq:emoji-fun:q-what-happens-if-i-12882b89 -->
 *   **Q: 間違った絵文字に線を引いたらどうなりますか？**
     *   **A:** 線が消えるか、赤くなって不正解を示します。ペナルティなしで再挑戦できます。
+
 

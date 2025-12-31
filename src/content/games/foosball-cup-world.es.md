@@ -43,6 +43,8 @@ fino por encima del "agitar barras" sin sentido.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD` `mouse` `drag` `Tap`
 
 - **Mover las barras:** WASD, flechas o arrastre con el ratón (según la
   versión).  
@@ -66,3 +68,4 @@ fino por encima del "agitar barras" sin sentido.
 - **P: ¿Tiene modo para dos jugadores?**  
   **R:** Sí, suele ofrecerse juego local a dos con teclado compartido o
   por turnos en el mismo dispositivo.
+

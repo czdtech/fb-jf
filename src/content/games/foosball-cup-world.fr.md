@@ -33,6 +33,8 @@ Foosball Cup World est une simulation de baby‑foot rapide, avec des barres ré
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD` `mouse` `drag` `Tap`
 
 - Déplacer les barres : WASD / flèches / glisser la souris (selon la version).  
 - Tirer : tapoter / donner un coup sec ; certaines versions distinguent inclinaison et spin.
@@ -54,5 +56,6 @@ Foosball Cup World est une simulation de baby‑foot rapide, avec des barres ré
 - Q : Peut‑on jouer à deux ?
   
   R : Oui, la plupart des versions proposent un mode deux joueurs sur le même clavier ou en hot‑seat local.
+
 
 

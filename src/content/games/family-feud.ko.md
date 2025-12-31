@@ -34,6 +34,8 @@ Family Feud는 두 팀이 설문 조사 결과를 맞히는 형식의 퀴즈 게
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `Enter`
 
 - 키보드로 답을 입력한 뒤 Enter로 제출합니다.  
 - 방향키 또는 화면 UI를 사용해 다음 질문/메뉴로 이동합니다(호스트에 따라 상이).  
@@ -62,4 +64,5 @@ Family Feud는 두 팀이 설문 조사 결과를 맞히는 형식의 퀴즈 게
 <!-- i18n:faq:id=faq:family-feud:is-there-singleplayer-7c220176 -->
 - **Q: 혼자서도 플레이할 수 있나요?**  
   **A:** 많은 웹 버전이 설문 결과를 상대 팀처럼 사용해 싱글 플레이를 지원합니다.  
+
 

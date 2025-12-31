@@ -46,6 +46,8 @@ zu erzielen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `mouse` `drag` `drop` `space`
 
 Das Spiel nutzt eine einfache Drag-and-drop-Steuerung.
 
@@ -70,4 +72,5 @@ Das Spiel nutzt eine einfache Drag-and-drop-Steuerung.
 *   **F: Wie komme ich zu hohen Punktzahlen?**
     *   **A:** Überlebe möglichst lange und spiele gezielt auf Kombos. Mehrere Linien
         auf einmal zu löschen bringt deutlich mehr Punkte als viele einzelne Clears.
+
 

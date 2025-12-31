@@ -29,6 +29,8 @@ Football Legends est un jeu de foot arcade rapide, jouable en 1v1 ou 2v2, avec u
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD`
 
 - Flèches ou WASD pour se déplacer et sauter ; les touches de tir/passe et de tir spécial varient selon l’hébergeur (affichées à l’écran).
 
@@ -56,5 +58,6 @@ Football Legends est un jeu de foot arcade rapide, jouable en 1v1 ou 2v2, avec u
 - Q : Les équipes ont‑elles des stats différentes ?
   
   R : Certains hébergeurs proposent surtout des skins d’équipes ; la physique et le gameplay restent généralement identiques.
+
 
 

@@ -34,6 +34,8 @@ Ducklings에서는 엄마 오리가 되어 호수 위를 돌아다니며, 물 �
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `Mouse`
 
 - 마우스/터치 드래그 또는 방향키로 오리를 이동시킵니다.  
 
@@ -58,4 +60,5 @@ Ducklings에서는 엄마 오리가 되어 호수 위를 돌아다니며, 물 �
 <!-- i18n:faq:id=faq:ducklings:are-there-powerups-0fea9ab4 -->
 - Q: 파워업이 있나요?  
   A: 호스트/버전에 따라 부스트나 코스메틱이 추가되기도 하지만, 기본 루프는 구조→귀환입니다.
+
 

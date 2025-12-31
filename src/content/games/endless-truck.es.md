@@ -42,6 +42,8 @@ velocidad o estrellarte. Las monedas y misiones te permiten desbloquear mejoras
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Shift` `Space` `Tap` `drop`
 
 - Acelerar/Frenar: W/S o Flechas arriba/abajo.
 - Inclinar el camión: A/D o Flechas izquierda/derecha.
@@ -74,4 +76,5 @@ velocidad o estrellarte. Las monedas y misiones te permiten desbloquear mejoras
 - **P: ¿Cuándo es mejor usar el nitro?**  
   **R:** En rectas o justo tras un aterrizaje limpio, nunca en mitad de un salto
   grande o antes de una caída complicada.
+
 

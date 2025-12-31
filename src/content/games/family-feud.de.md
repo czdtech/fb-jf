@@ -38,6 +38,8 @@ müssen in kurzer Zeit möglichst viele hohe Antworten gefunden werden.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Enter`
 
 - Tippe deine Antwort über die Tastatur ein und bestätige mit Enter.  
 - Navigiere mit Pfeiltasten oder den Onscreen-Buttons durch Menüs (abhängig vom
@@ -70,3 +72,4 @@ müssen in kurzer Zeit möglichst viele hohe Antworten gefunden werden.
 - **F: Gibt es einen Einzelspieler-Modus?**  
   **A:** Viele Browserversionen lassen dich auch alleine gegen die
   Umfrageergebnisse spielen – ideal zum Üben oder für eine schnelle Solo-Runde.
+

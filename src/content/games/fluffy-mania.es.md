@@ -41,6 +41,8 @@ fases con un número limitado de movimientos o limpiar casillas especiales.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `tap` `drag`
 
 - **Conectar:** Haz clic o toca y arrastra por vecinos del mismo color para
   enlazarlos.
@@ -64,4 +66,5 @@ fases con un número limitado de movimientos o limpiar casillas especiales.
 - **P: ¿Es lo mismo jugar con límite de tiempo que con límite de movimientos?**  
   **R:** No. En los niveles con tiempo prima la velocidad; en los de movimientos
   limitados importa más la eficiencia de cada jugada.
+
 

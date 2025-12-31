@@ -29,6 +29,8 @@ Henry Stickmin est derrière les barreaux : à toi d’utiliser des choix à emb
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `click` `Space`
 
 - Souris : clique sur les choix et les prompts de quick‑time ; Espace pour certaines interruptions (selon l’hébergement).
 
@@ -38,4 +40,5 @@ Henry Stickmin est derrière les barreaux : à toi d’utiliser des choix à emb
 - Si tu es bloqué, explore les autres grandes branches de routes ; beaucoup de scènes ont des solutions alternatives.
 - Les bios, lorsqu’elles existent, se débloquent en cliquant sur les personnages pendant les cinématiques ou les scènes.
 - Utilise la sélection de scènes (si elle est disponible) pour récupérer facilement les échecs que tu as manqués.
+
 

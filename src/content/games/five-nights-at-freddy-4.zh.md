@@ -33,6 +33,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Mouse`
 
 - 使用鼠标或键盘在房间各位置之间移动；
 - 关门与开启手电筒的具体按键会依托管版本略有不同，通常会在游戏开头提示。
@@ -59,3 +61,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:five-nights-at-freddy-4:does-the-game-add-extra-4e384ad2 -->
 - 问：主线五夜之后还有额外夜晚吗？  
   答：许多版本都会在第 5 夜之后追加更高难度的挑战夜晚，给熟练玩家进一步试炼。
+

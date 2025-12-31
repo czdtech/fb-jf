@@ -30,6 +30,8 @@ Fancy Pants est un jeu de plateforme dessiné à la main, entièrement centré s
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD`
 
 - Flèches ou WASD pour te déplacer et sauter ; S ou Bas pour glisser ; Haut pour ouvrir les portes (selon l’hébergeur).
 
@@ -57,4 +59,5 @@ Fancy Pants est un jeu de plateforme dessiné à la main, entièrement centré s
 - Q : Peut‑on changer la couleur du pantalon ?
   
   R : Certaines versions permettent de débloquer des options cosmétiques.
+
 

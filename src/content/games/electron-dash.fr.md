@@ -43,6 +43,8 @@ changeant de côté de tunnel au bon moment.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD` `Space`
 
 - **Saut / changement de côté** : touches fléchées, barre d’espace ou taps
   selon la version (par ex. une touche pour sauter, une autre pour changer de
@@ -80,4 +82,5 @@ R : Oui, la plupart des versions sont endless ; le but est d’aller le plus l
 <!-- i18n:faq:id=faq:electron-dash:any-upgrades-2e662d37 -->
 - Q: Y a‑t‑il des améliorations ?
 possible.
+
 

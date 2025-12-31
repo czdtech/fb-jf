@@ -35,6 +35,8 @@ por descubrir.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD` `enter`
 
 - Flechas o WASD para desplazarte y saltar.
 - Abajo para deslizarte.
@@ -66,4 +68,5 @@ por descubrir.
 - **P: ¿Hay habitaciones ocultas?**  
   **R:** Sí, fíjate en muros rompibles, caminos secundarios y zonas que parecen
   decorativas: muchas esconden áreas secretas.
+
 

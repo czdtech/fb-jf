@@ -33,6 +33,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Mouse`
 
 - 使用鼠标或键盘操控移动／飞行方向；
 - 冲刺或加速键依托管伺服器设定略有不同，通常会在游戏说明中标示。
@@ -59,3 +61,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:fly-or-die:is-there-team-play-1c3a03db -->
 - 问：有团队模式吗？  
   答：大多数伺服器是人人互相竞争的 FFA 模式，也有部分主机会轮替特殊玩法或团队模式。
+

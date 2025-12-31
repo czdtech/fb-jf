@@ -40,6 +40,8 @@ um den Kampfverlauf zu deinen Gunsten zu drehen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `tap` `tap`
 
 - Karten ausspielen und Zug beenden: Karte anklicken/antippen und die Aktion
   bestätigen.  
@@ -63,3 +65,4 @@ um den Kampfverlauf zu deinen Gunsten zu drehen.
 - **F: Kann ich mich von schlechten Draws erholen?**  
   **A:** Ja – stabilisiere mit defensiven Zügen und plane
   Zwei-Runden-Powerplays, statt jeden Zug einzeln zu denken.
+

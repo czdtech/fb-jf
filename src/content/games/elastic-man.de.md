@@ -31,6 +31,8 @@ wie die Haut mit federnder Physik wieder in ihre Ausgangsposition zurückwobbelt
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `drag`
 
 - Maus/Touch: Ziehen und Loslassen per Drag & Drop; zusätzliche Einstellungen
   je nach Host im Optionsmenü.
@@ -44,3 +46,4 @@ wie die Haut mit federnder Physik wieder in ihre Ausgangsposition zurückwobbelt
   Animationen.
 - Mehrere kurze Züge hintereinander halten das wackelige "Gelee"-Gefühl länger
   aufrecht.
+

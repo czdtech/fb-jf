@@ -43,6 +43,8 @@ ni antes (lo que te da menos puntos) ni demasiado tarde.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Hold` `tap` `hold`
 
 - Mantén pulsado para "colocar" el dedo y suelta para retirarlo; en algunas
   versiones se usa solo tocar o mantener pulsado.
@@ -65,4 +67,5 @@ ni antes (lo que te da menos puntos) ni demasiado tarde.
 - **P: ¿Hay retardo en los controles?**  
   **R:** En algunos dispositivos puede haber un pequeño retraso. Compénsalo
   reaccionando justo en el primer fotograma de la señal.
+
 

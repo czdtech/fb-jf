@@ -34,6 +34,8 @@ entdeckst optionale Herausforderungsräume.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD` `enter`
 
 - WASD oder Pfeiltasten zum Bewegen und Springen.  
 - Nach unten zum Sliden.  
@@ -64,3 +66,4 @@ entdeckst optionale Herausforderungsräume.
 - **F: Wird der Fortschritt gespeichert?**  
   **A:** Das hängt vom Host ab – einige Versionen speichern lokal, andere
   setzen bei jedem Besuch neu an.
+

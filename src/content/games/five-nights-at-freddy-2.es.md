@@ -34,6 +34,8 @@ para la Marioneta mientras vigilas pasillos y conductos de ventilación.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `Ctrl` `Space`
 
 - Ratón/interfaz para manejar cámaras y máscara; Ctrl o Espacio para la
   linterna (según la versión del juego).
@@ -64,4 +66,5 @@ para la Marioneta mientras vigilas pasillos y conductos de ventilación.
 <!-- i18n:faq:id=faq:five-nights-at-freddy-2:is-there-door-control-a012fcd2 -->
 - **P: ¿Puedo cerrar puertas como en el primer juego?**  
   **R:** No. En FNAF 2 todo se basa en gestionar máscara, conductos y linterna.
+
 

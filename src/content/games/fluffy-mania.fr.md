@@ -32,6 +32,8 @@ Fluffy Mania est un puzzle de connexion coloré et relaxant. Tu dois relier des 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `tap` `drag`
 
 - Connexion : clique/tape sur un fluffy, puis fais glisser ton doigt ou ta souris à travers les voisins de même couleur pour former une chaîne.
 - Annuler/Relancer (si disponible) : utile sur les niveaux avec nombre de coups limité, mais à utiliser avec modération.
@@ -53,5 +55,6 @@ Fluffy Mania est un puzzle de connexion coloré et relaxant. Tu dois relier des 
 - Q : Y a‑t‑il une différence entre niveaux à temps et niveaux à coups ?
   
   R : Oui. En mode chronométré, joue plus vite et prends ce qui vient ; en mode coups limités, privilégie la qualité des enchaînements et l’efficacité de chaque mouvement.
+
 
 

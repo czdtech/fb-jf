@@ -32,6 +32,8 @@ Endless Truck est un runner à défilement horizontal centré sur la gestion de 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Shift` `Space` `Tap` `drop`
 
 - Accélérer/Freiner : W/S ou Flèche Haut/Bas.  Incliner le camion : A/D ou Flèches Gauche/Droite.  Boost : Shift ou Barre d’espace (selon la configuration).
 
@@ -59,4 +61,5 @@ Endless Truck est un runner à défilement horizontal centré sur la gestion de 
 - Q : Quand utiliser le boost ?
   
   R : Sur les portions plates après un atterrissage propre, pour prolonger ta vitesse sans perdre le contrôle.
+
 

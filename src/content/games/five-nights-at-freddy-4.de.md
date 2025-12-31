@@ -33,6 +33,8 @@ Taschenlampe und Gehör, um Jumpscares zu vermeiden.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse`
 
 - Maus/Tastatur, um zwischen den Positionen zu wechseln; spezielle Tasten für
   Türen und Taschenlampe hängen vom Host ab.
@@ -62,3 +64,4 @@ Taschenlampe und Gehör, um Jumpscares zu vermeiden.
 <!-- i18n:faq:id=faq:five-nights-at-freddy-4:does-the-game-add-extra-4e384ad2 -->
 - **F: Gibt es zusätzliche Nächte?**  
   **A:** Viele Versionen bieten Challenge-Nächte über die fünfte Nacht hinaus.
+

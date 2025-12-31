@@ -45,6 +45,8 @@ Ziel ist es, so spät wie möglich – aber noch rechtzeitig – zu reagieren.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Hold` `tap` `hold`
 
 - Halten, um den Finger zu platzieren, und Loslassen, um ihn zurückzuziehen;
   manche Builds unterscheiden zwischen Tippen und Halten.
@@ -67,3 +69,4 @@ Ziel ist es, so spät wie möglich – aber noch rechtzeitig – zu reagieren.
 - **F: Gibt es Eingabeverzögerung?**  
   **A:** Kleine Delays sind je nach Gerät möglich. Reagiere im Zweifel schon im
   ersten Frame des Signals, um das auszugleichen.
+

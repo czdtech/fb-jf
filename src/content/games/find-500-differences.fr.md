@@ -33,6 +33,8 @@ Find 500 Differences est un jeu de réflexion classique qui met ton attention au
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `Tap` `mouse` `click` `tap`
 
 *   **Clic/Tap** : utilise ta souris ou ton doigt pour cliquer sur la zone où tu as repéré une différence, sur l'une ou l'autre des images.
 *   **Zoom (si disponible)** : certaines versions te permettent de zoomer pour examiner les détails de plus près.
@@ -51,4 +53,5 @@ Find 500 Differences est un jeu de réflexion classique qui met ton attention au
 <!-- i18n:faq:id=faq:find-500-differences:q-how-many-differences-are-303ffe69 -->
 *   **Q : Combien de différences y a-t-il par niveau ?**
     *   **R :** En général, chaque paire d'images contient 5 différences à découvrir.
+
 

@@ -31,6 +31,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Mouse` `Ctrl` `Space`
 
 - 使用鼠标与画面 UI 操作监视器与面具切换；
 - Ctrl 或空白键通常用来开启手电筒（依托管版本略有不同）。
@@ -57,3 +59,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:five-nights-at-freddy-2:is-there-door-control-a012fcd2 -->
 - 问：二代还有门可以关吗？  
   答：没有，FNAF 2 的防御完全依赖面具、通风口与手电筒管理，门机制已被移除。
+

@@ -33,6 +33,8 @@ Emoji Fun est un jeu de puzzle créatif qui repose sur les associations d'idées
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `drop` `Click` `hold` `drag` `mouse`
 
 Le jeu se joue avec un simple système de glisser‑déposer.
 
@@ -51,4 +53,5 @@ Le jeu se joue avec un simple système de glisser‑déposer.
 
 *   **Q : Je ne comprends pas le lien entre deux emojis.**
     *   **R :** Essaie de penser plus large ! Le lien peut être une action (un ballon et un but), une cause et son effet (une graine et un arbre) ou un concept commun (un chien et un os).
+
 

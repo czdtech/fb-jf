@@ -32,6 +32,8 @@ Fancy Pants 2는 경사와 벽을 활용해 속도를 유지하는 모션 중심
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `WASD` `enter`
 
 - WASD / 방향키: 이동 및 점프  
 - 아래 방향키: 미끄러지기(슬라이드)  
@@ -62,4 +64,5 @@ Fancy Pants 2는 경사와 벽을 활용해 속도를 유지하는 모션 중심
 <!-- i18n:faq:id=faq:fancy-pants-2:progress-saving-eb5d3f79 -->
 - **Q: 진행 상황 저장이 되나요?**  
   **A:** 사이트마다 다르며, 일부는 로컬에 진척도를 저장하기도 합니다.  
+
 

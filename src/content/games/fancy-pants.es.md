@@ -34,6 +34,8 @@ secretas y coleccionables escondidos por el mapa.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD`
 
 - Flechas o WASD para moverte y saltar.
 - S o Flecha abajo para deslizarte.
@@ -65,4 +67,5 @@ secretas y coleccionables escondidos por el mapa.
 - **P: ¿Puedo cambiar el color de los pantalones?**  
   **R:** En ciertas versiones puedes desbloquear cosméticos para personalizar el
   aspecto del personaje.
+
 

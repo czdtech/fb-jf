@@ -45,6 +45,8 @@ IA te ayudan a ganar profundidad de cálculo y memoria de patrones.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `click`
 
 - Haz clic en una pieza para ver sus movimientos legales y luego en la casilla
   de destino para moverla.
@@ -74,4 +76,5 @@ IA te ayudan a ganar profundidad de cálculo y memoria de patrones.
 - **P: ¿Qué finales me harán subir de nivel más rápido?**  
   **R:** Los finales básicos de rey y peones y los finales de torres. Son los
   que más se repiten en la práctica y los que más ayudan a convertir ventajas.
+
 

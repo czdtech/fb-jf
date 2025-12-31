@@ -30,6 +30,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse` `arrow keys` `space`
 
 *   **操作:** クリック、ドラッグ、連打、長押しなど、ゲームによって様々です。
     *   例：走る（連打）、拭く（こする）、避ける（傾ける/クリック）
@@ -53,3 +55,4 @@ locale: ja
 <!-- i18n:faq:id=faq:dumb-ways-to-die:is-there-progression-d558b0b6 -->
 - Q: 進行要素はありますか？  
   A: 基本はハイスコアを狙う形式ですが、版によってキャラクターや見た目アイテムをアンロックできます。
+

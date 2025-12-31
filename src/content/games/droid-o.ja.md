@@ -39,6 +39,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD` `Mouse` `Left click` `Space`
 
 *   **移動:** WASD または 矢印キー
 *   **照準:** マウス または 右スティック
@@ -68,4 +70,5 @@ locale: ja
 <!-- i18n:faq:id=faq:droid-o:are-deployables-worth-it-039fa7d3 -->
 - Q: 設置スキルは強いですか？  
   A: はい。逃走ルートの曲がり角などに先置きしておけば、追ってくる敵にノーリスクで火力を足せます。
+
 

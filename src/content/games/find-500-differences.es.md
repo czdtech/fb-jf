@@ -51,6 +51,8 @@ absorbente para todas las edades.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `Tap` `mouse` `click` `tap`
 
 - **Clic/Toque:** Usa el ratón para hacer clic, o el dedo para tocar, en la
   zona de cualquiera de las dos imágenes donde hayas detectado una diferencia.
@@ -74,4 +76,5 @@ absorbente para todas las edades.
 <!-- i18n:faq:id=faq:find-500-differences:q-how-many-differences-are-303ffe69 -->
 *   **P: ¿Cuántas diferencias hay en cada nivel?**
     *   **R:** Normalmente hay 5 diferencias en cada par de imágenes.
+
 

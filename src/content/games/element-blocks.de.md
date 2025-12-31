@@ -50,6 +50,8 @@ engen Situationen zu befreien und deine Partie zu verlängern.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `drag` `drop` `Click` `click`
 
 - **Blöcke platzieren:** Ziehe mit Maus oder Finger einen Block aus der
   Ablagezone unten ins Raster und lass ihn auf einem freien Bereich los.
@@ -75,4 +77,5 @@ engen Situationen zu befreien und deine Partie zu verlängern.
         du absehbar keinen der nächsten Steine unterbekommst, kann ein gezieltes
         Power‑up dir den entscheidenden Freiraum verschaffen, um weiterzuspielen
         und deinen Highscore zu steigern.
+
 

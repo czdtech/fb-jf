@@ -33,6 +33,8 @@ Emoji With Friends mélange enchaînements rapides et petite déduction à parti
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `tap`
 
 - Sélection/association : clique ou touche les emojis pour réaliser des connexions valides selon les règles du mode.
 - Bonus : active les bonus via les boutons affichés à l’écran (si le mode en propose).
@@ -55,3 +57,4 @@ Emoji With Friends mélange enchaînements rapides et petite déduction à parti
 - Q : Une manche dure combien de temps ?
   
   R : En général moins de quelques minutes, ce qui en fait un jeu parfait pour des sessions courtes.
+

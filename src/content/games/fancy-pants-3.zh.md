@@ -30,6 +30,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `WASD` `enter`
 
 - 使用方向键或 WASD 进行移动与跳跃。
 - 向下键在斜坡上滑行或进行俯身动作。
@@ -56,3 +58,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:fancy-pants-3:are-there-hidden-rooms-702a71e0 -->
 - 问：有隐藏房间吗？  
   答：有，请留意看起来可疑的墙面、裂缝与偏僻支线，很多地方都藏着暗门与秘道。
+

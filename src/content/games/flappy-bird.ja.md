@@ -25,6 +25,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse` `Space` `tap`
 - マウス/タッチ/スペースキー：タップして羽ばたく。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ locale: ja
 <!-- i18n:faq:id=faq:flappy-bird:does-the-speed-change-over-c782f3b8 -->
 - **Q: 時間とともにスピードは変化しますか？**  
   A: ほとんどのバージョンでは、スピードと難易度は一定に保たれます。
+
 

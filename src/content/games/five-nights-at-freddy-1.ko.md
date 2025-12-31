@@ -33,6 +33,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `Mouse` `Esc`
 
 - 마우스로 카메라, 문, 조명 등 UI를 조작합니다.  
 - 일부 버전은 Esc로 일시 정지를 지원합니다.  
@@ -62,3 +64,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:five-nights-at-freddy-1:can-i-mute-calls-952aac8b -->
 - **Q: 전화(영문: Phone Guy) 음성을 끌 수 있나요?**  
   **A:** 일부 버전은 통화 시작 시 표시되는 버튼으로 음성을 건너뛸 수 있습니다.  
+

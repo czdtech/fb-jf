@@ -33,6 +33,8 @@ in herrlich absurden Fails, nur wenige führen zu einem erfolgreichen Ausbruch.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `click` `Space`
 
 - Maus: Klicke auf Optionen und Quick-Time-Einblendungen.  
 - Leertaste für bestimmte Unterbrechungen oder Spezialaktionen (je nach Host).
@@ -46,4 +48,5 @@ in herrlich absurden Fails, nur wenige führen zu einem erfolgreichen Ausbruch.
   klickst.
 - Nutze eine Szenenauswahl (falls angeboten), um verpasste Fails gezielt
   nachzuholen.
+
 

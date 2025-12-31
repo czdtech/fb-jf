@@ -33,6 +33,8 @@ Football Kickoff se concentre sur les situations de coups de pied au football am
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse`
 
 - Vise avec la souris ou les touches de direction ; règle la puissance avec une jauge, puis relâche dans la zone d’exactitude.
 
@@ -53,5 +55,6 @@ Football Kickoff se concentre sur les situations de coups de pied au football am
 - Q : Quelle est la meilleure stratégie de kickoff ?
   
   R : Des dégagements profonds vers le coin avec une bonne hang time, pour forcer le retour vers la ligne de touche et réduire les options de course.
+
 
 

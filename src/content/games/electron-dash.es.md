@@ -35,6 +35,8 @@ mientras la velocidad aumenta de forma constante.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD` `Space`
 
 - Flechas/WASD para moverte y saltar.
 - Espacio/X para hacer un impulso rápido (puede variar según el portal).
@@ -65,4 +67,5 @@ mientras la velocidad aumenta de forma constante.
 - **P: ¿Hay mejoras permanentes?**  
   **R:** Algunas versiones añaden desbloqueos de gemas o cosméticos; el bucle
   central sigue siendo llegar lo más lejos posible.
+
 

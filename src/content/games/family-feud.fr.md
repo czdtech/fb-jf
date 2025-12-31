@@ -30,6 +30,8 @@ Deux équipes s’affrontent pour deviner les réponses les plus populaires à d
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Enter`
 
 - Saisie des réponses au clavier, puis Entrée pour valider ; navigation avec les flèches ou l’interface à l’écran (selon l’hébergement).
 
@@ -57,4 +59,5 @@ Deux équipes s’affrontent pour deviner les réponses les plus populaires à d
 - Q : Peut‑on jouer en solo ?
   
   R : Oui, la plupart des versions web permettent de jouer seul face aux résultats des sondages.
+
 

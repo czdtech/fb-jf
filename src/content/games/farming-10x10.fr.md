@@ -32,6 +32,8 @@ Farming 10x10 est un puzzle paisible de placement de formes sur une grille 10×1
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag`
 
 - Fais glisser les pièces sur le plateau et relâche pour les poser ; certains modes permettent la rotation.
 - Utilise Annuler/Réinitialiser si ces options sont disponibles.
@@ -53,4 +55,5 @@ Farming 10x10 est un puzzle paisible de placement de formes sur une grille 10×1
 - Q : Comment viser les très gros scores ?
   
   R : Enchaîne les doubles effacements et évite les placements « de secours » qui ne nettoient qu’une seule case mais cassent ta structure.
+
 

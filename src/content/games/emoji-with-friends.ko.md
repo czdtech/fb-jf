@@ -45,6 +45,8 @@ Emoji With Friends는 표정이 풍부한 이모지 타일을 이용해 빠른 �
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `Click` `tap`
 
 - 선택/매칭: 이모지를 클릭/탭해 모드 규칙에 맞는 유효한 연결/조합을 만듭니다.
 - 파워업(있는 경우): 화면에 표시되는 버튼으로 파워업을 발동합니다.
@@ -66,4 +68,5 @@ Emoji With Friends는 표정이 풍부한 이모지 타일을 이용해 빠른 �
 <!-- i18n:faq:id=faq:emoji-with-friends:how-long-is-a-round-e41a29b3 -->
 - **Q: 한 판 길이는 어느 정도인가요?**  
   **A:** 보통 몇 분이 채 안 되는 짧은 라운드로 구성되어, 가볍게 즐기기 좋습니다.  
+
 

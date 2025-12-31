@@ -47,6 +47,8 @@ Knobelei für alle Altersgruppen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `Tap` `mouse` `click` `tap`
 
 - **Klick/Tippen:** Klicke oder tippe in den Bereich des Bildes (egal in
   welcher Version), in dem du einen Unterschied entdeckt hast.
@@ -69,4 +71,5 @@ Knobelei für alle Altersgruppen.
 <!-- i18n:faq:id=faq:find-500-differences:q-how-many-differences-are-303ffe69 -->
 *   **F: Wie viele Unterschiede gibt es pro Level?**
     *   **A:** Typischerweise musst du pro Bildpaar fünf Unterschiede finden.
+
 

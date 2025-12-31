@@ -45,6 +45,8 @@ pensamiento lateral.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `Click` `hold` `drag` `mouse`
 
 El control se basa en arrastrar y soltar.
 
@@ -65,4 +67,5 @@ El control se basa en arrastrar y soltar.
 
     - **R:** Normalmente la línea se borra o se marca en rojo, indicando una
       pareja incorrecta. Puedes intentarlo de nuevo sin penalización fuerte.
+
 

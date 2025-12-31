@@ -40,6 +40,8 @@ inclinar el ritmo de la partida a tu favor.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `tap` `tap`
 
 - **Jugar/terminar turno:** Haz clic o toca las cartas y confirma tus acciones.
 - **Inspeccionar:** Pasa el ratón por encima o toca una carta para leer sus
@@ -62,4 +64,5 @@ inclinar el ritmo de la partida a tu favor.
 - **P: ¿Puedo remontar si tengo robos malos?**  
   **R:** Sí. Intenta estabilizarte con defensa y plantea jugadas que ganen la
   ventaja en dos turnos en lugar de buscar un único turno perfecto.
+
 

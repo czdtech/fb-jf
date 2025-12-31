@@ -29,6 +29,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Space` `mouse`
 
 - 具体操作视迷你游戏而定，多数情况下使用方向键、空白键或鼠标控制。
 
@@ -53,3 +55,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:duck-life:are-there-level-caps-81ed8f45 -->
 - 问：能力有等级上限吗？  
   答：前期地区会限制能力上限，需要解锁后面的区域，才能继续往更高等级突破。
+

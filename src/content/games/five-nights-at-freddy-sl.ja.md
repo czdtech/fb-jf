@@ -26,6 +26,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse`
 - マウス/UIでパネル、電気ショック、モニターを操作します。通気口セクションの移動はキーで行います（ホストによります）。
 
 <!-- i18n:section:tips -->
@@ -45,4 +47,5 @@ locale: ja
 <!-- i18n:faq:id=faq:five-nights-at-freddy-sl:is-there-a-custom-night-422d9813 -->
 - **Q: カスタムナイトモードはありますか？**  
   A: 多くのバージョンには、ストーリーの後にチャレンジナイトが含まれています。
+
 

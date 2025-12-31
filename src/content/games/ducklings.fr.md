@@ -30,6 +30,8 @@ ramène‑les au nid en évitant les bateaux et autres dangers.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse`
 - Souris/tactile ou flèches pour diriger.
 
 <!-- i18n:section:tips -->
@@ -50,5 +52,6 @@ A: Les collisions te font perdre des canetons (donc ton butin) ; le nid reste 
 - Q: Y a‑t‑il des bonus ?
 A: Certaines versions ajoutent des boosts ou des cosmétiques ; le cœur du jeu est
 le sauvetage et le retour au nid.
+
 
 

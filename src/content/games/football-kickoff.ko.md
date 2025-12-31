@@ -31,6 +31,8 @@ Football Kickoff는 미식축구의 킥 장면에 초점을 맞춘 게임입니�
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `mouse`
 
 - 마우스나 키보드로 방향을 조준하고 파워 게이지를 올린 뒤, 정확도 구간에 맞춰 떼어 킥을 실행합니다.
 
@@ -48,4 +50,5 @@ Football Kickoff는 미식축구의 킥 장면에 초점을 맞춘 게임입니�
 <!-- i18n:faq:id=faq:football-kickoff:best-kickoff-strategy-c9899b41 -->
 - **Q: 좋은 킥오프 전략이 궁금해요.**  
   **A:** 코너 방향으로 깊게 차서 리턴 경로를 제한하는 전략이 좋습니다. 공을 오래 띄워 커버 팀이 내려갈 시간을 확보하면 상대의 리턴 거리를 줄일 수 있습니다.
+
 

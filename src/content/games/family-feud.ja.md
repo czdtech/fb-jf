@@ -28,6 +28,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Enter`
 
 *   **回答入力:** キーボードで回答を入力、Enterで送信
 *   **ナビゲーション:** 矢印キーまたは画面上のUI（ホストにより異なります）
@@ -51,4 +53,5 @@ locale: ja
 <!-- i18n:faq:id=faq:family-feud:is-there-singleplayer-7c220176 -->
 - Q: 一人用モードはありますか？  
   A: 多くのウェブ版は、アンケート結果に対するソロプレイに対応しています。
+
 

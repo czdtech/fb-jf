@@ -54,6 +54,8 @@ al récord diario.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `Click` `Click` `click`
 
 *   **Construir torre:** Haz clic sobre una base circular libre para abrir el
     menú y elige la torre que quieras construir.
@@ -80,4 +82,5 @@ al récord diario.
 *   **P: ¿Por qué el mapa cambia cada día?**
     *   **R:** Es parte del diseño de Endless Siege: cada jornada se genera un mapa
         nuevo para que todos los jugadores se enfrenten al mismo reto diario.
+
 

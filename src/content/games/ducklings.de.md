@@ -34,6 +34,8 @@ Ducklings ist ein ruhiges Collect-'em-up auf dem Wasser. Du schwimmst über
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse`
 
 - Maus/Touch oder Pfeiltasten, um zu steuern.
 
@@ -63,3 +65,4 @@ Ducklings ist ein ruhiges Collect-'em-up auf dem Wasser. Du schwimmst über
 - **F: Gibt es Power-ups?**  
   **A:** Einige Hosts fügen Boosts oder kosmetische Extras hinzu; der Kern des
   Spiels bleibt das Retten und Zurückbringen der Küken.
+

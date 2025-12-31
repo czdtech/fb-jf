@@ -33,6 +33,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `drag` `drop` `mouse` `drag` `drop` `space`
 
 
 操作はシンプルで、ドラッグ＆ドロップだけで遊べます。
@@ -52,4 +54,5 @@ locale: ja
 <!-- i18n:faq:id=faq:farm-block-puzzle:q-how-do-i-get-da481c1b -->
 *   **Q: 最高スコアを得るには？**
     *   **A:** できるだけ長く生き残り、コンボを作ることです。1つのピースで複数のラインをクリアすると大きなスコアボーナスが得られます。
+
 

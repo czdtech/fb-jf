@@ -32,6 +32,8 @@ Tu dois jongler entre les caméras de surveillance, les lumières de porte et le
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `Esc`
 
 - Souris / interface : gérer les caméras, les lumières et les portes.  
 - Esc : pause (selon l’hébergeur).
@@ -60,4 +62,5 @@ Tu dois jongler entre les caméras de surveillance, les lumières de porte et le
 - Q : Puis‑je couper les appels téléphoniques ?
   
   R : Certaines versions te permettent de couper les messages du Phone Guy après quelques secondes.
+
 

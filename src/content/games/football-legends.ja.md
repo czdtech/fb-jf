@@ -25,6 +25,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD`
 - 矢印キー/WASDで移動/ジャンプ。シュート/パスやスペシャルのキーはホストによって異なります。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ locale: ja
 <!-- i18n:faq:id=faq:football-legends:are-there-teams-with-different-49fd2ac3 -->
 - **Q: ステータスの異なるチームはありますか？**  
   A: 多くのホスト版ではチームスキンが提供されていますが、物理挙動は一般的に同じです。
+
 

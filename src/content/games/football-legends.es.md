@@ -34,6 +34,8 @@ completos.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD`
 
 - Flechas/WASD para moverse y saltar; las teclas de tiro, pase y especial
   dependen del portal donde juegues.
@@ -64,4 +66,5 @@ completos.
 - **P: ¿Los equipos tienen estadísticas diferentes?**  
   **R:** Muchos portales ofrecen solo skins distintos; la física suele ser la
   misma para todos.
+
 

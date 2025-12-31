@@ -53,6 +53,8 @@ Es un juego relajante pero desafiante que supone un gran entrenamiento mental.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `click`
 
 - **Marcar una diferencia:** Cuando veas una diferencia, usa el ratón para
   hacer clic sobre esa zona en cualquiera de las dos imágenes. Si aciertas, el
@@ -79,4 +81,5 @@ Es un juego relajante pero desafiante que supone un gran entrenamiento mental.
         no, aparta la vista de la pantalla unos segundos para descansar la mirada y
         vuelve a revisar las imágenes, quizá siguiendo un patrón diferente al que
         usaste la primera vez.
+
 

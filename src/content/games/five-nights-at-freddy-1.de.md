@@ -34,6 +34,8 @@ in dein Büro vordringen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `Esc`
 
 - Maus/UI zum Umschalten von Kameras, Türen und Lichtern.  
 - Esc oder ähnliche Tasten zum Pausieren (je nach Host).
@@ -63,3 +65,4 @@ in dein Büro vordringen.
 - **F: Kann ich die Anrufe stummschalten?**  
   **A:** Manche Versionen erlauben das Stummschalten der Telefonansagen des
   "Phone Guy" zu Beginn einer Nacht.
+

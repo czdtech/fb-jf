@@ -31,6 +31,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Click` `click`
 
 *   **移動:** 駒をクリックすると合法手がハイライトされます。目的地をクリックして移動します。
 *   **その他:** ドロー提案/投了、AIの強さ設定はオプションから。
@@ -53,4 +55,5 @@ locale: ja
 <!-- i18n:faq:id=faq:elite-chess:what-endgames-give-fastest-rat-d96221ee -->
 - Q: レーティングを上げるのに効果的なエンドゲームは？  
   A: キング＆ポーンの基礎とルークエンディングです。出現頻度が高く、優位を勝ちに変えやすい分野です。
+
 

@@ -47,6 +47,8 @@ möglich zu kommen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `left` `button` `tap` `Tap` `click` `tap` `click`
 
 Das Spiel verwendet eine einfache One-Touch-Steuerung.
 
@@ -74,4 +76,5 @@ Das Spiel verwendet eine einfache One-Touch-Steuerung.
     *   **A:** Wenn du sie durchquerst, tauchen häufig Klone deiner Figur auf. Dann
         steuerst du mehrere Runner gleichzeitig – ein reiner, aber spaßiger
         visueller Effekt, der den Run chaotischer wirken lässt.
+
 

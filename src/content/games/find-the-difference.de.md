@@ -48,6 +48,8 @@ finden, bevor die Zeit abläuft – entspannt, aber durchaus anspruchsvoll.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `click`
 
 - **Unterschied markieren:** Wenn du eine Abweichung entdeckt hast, klicke mit
   der Maus auf die entsprechende Stelle in einem der beiden Bilder. Liegt du
@@ -71,4 +73,5 @@ finden, bevor die Zeit abläuft – entspannt, aber durchaus anspruchsvoll.
     *   **A:** Lege kurz eine Pause ein, schau weg und komme mit frischem Blick
         zurück. Scanne das Bild diesmal in einer anderen Reihenfolge oder benutze –
         falls vorhanden – einen Hinweis.
+
 

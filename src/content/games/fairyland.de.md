@@ -44,6 +44,8 @@ voran, wobei der Fokus klar auf Erkundung statt auf Kämpfen liegt.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `tap` `drag` `hold`
 
 - Klicke oder tippe, um mit Objekten zu interagieren; ziehe für Items oder
   Schieberegler; halte bei Aktionen, die längere Drücker verlangen.
@@ -67,3 +69,4 @@ voran, wobei der Fokus klar auf Erkundung statt auf Kämpfen liegt.
 - **F: Wie lang ist ein Kapitel?**  
   **A:** Die Kapitel sind relativ kurz und für kurze Sessions ausgelegt; mehrere
   Kapitel ergeben zusammen eine längere, entspannte Reise.
+

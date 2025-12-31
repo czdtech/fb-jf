@@ -26,6 +26,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse`
 - マウス/キーボードで移動・飛行します。ブーストキーはホストによって異なります。
 
 <!-- i18n:section:tips -->
@@ -45,4 +47,5 @@ locale: ja
 <!-- i18n:faq:id=faq:fly-or-die:is-there-team-play-1c3a03db -->
 - **Q: チームプレイはありますか？**  
   A: ほとんどのサーバーはFFA（全員敵）ですが、特別なモードをローテーションするホストもあります。
+
 

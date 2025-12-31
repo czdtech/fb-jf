@@ -29,6 +29,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Mouse`
 
 - 使用鼠标或触控拖拽方向，或用方向键来转向与操控移动。
 
@@ -53,3 +55,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:ducklings:are-there-powerups-0fea9ab4 -->
 - 问：游戏里有能力道具吗？  
   答：部分托管版本会加入加速或外观道具，但核心玩法始终是拯救小鸭并安全带回巢穴。
+

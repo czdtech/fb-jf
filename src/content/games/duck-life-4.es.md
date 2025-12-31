@@ -34,6 +34,8 @@ el aspecto del pato.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `Space`
 
 - Flechas o ratón según el minijuego.
 - Espacio para saltar en los modos de carrera (puede variar según el portal).
@@ -64,4 +66,5 @@ el aspecto del pato.
 - **P: ¿Por qué pierdo carreras ajustadas en la foto final?**  
   **R:** Normalmente porque vas corto de energía o porque una de las
   habilidades clave del circuito (por ejemplo, escalar) está demasiado baja.
+
 

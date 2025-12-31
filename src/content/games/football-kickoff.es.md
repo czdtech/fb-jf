@@ -43,6 +43,8 @@ distancia y la precisión.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse`
 
 - Apunta con el ratón o las teclas; ajusta la potencia con un medidor y suelta
   en la zona de precisión.
@@ -64,4 +66,5 @@ distancia y la precisión.
 - **P: ¿Cuál es una buena estrategia de saque inicial?**  
   **R:** Patadas profundas hacia la esquina con buena altura para obligar a
   devolver hacia la banda y limitar el avance.
+
 

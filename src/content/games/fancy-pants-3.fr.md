@@ -31,6 +31,8 @@ Troisième épisode de la série, Fancy Pants 3 met l’accent sur un flux de mo
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD` `enter`
 
 - Flèches ou WASD pour te déplacer et sauter ; Bas pour glisser ; Haut pour entrer dans une porte.
 
@@ -58,4 +60,5 @@ Troisième épisode de la série, Fancy Pants 3 met l’accent sur un flux de mo
 - Q : Y a‑t‑il des salles secrètes ?
   
   R : Oui, surveille les murs cassables et les chemins latéraux discrets.
+
 

@@ -34,6 +34,8 @@ Les parties sont rapides mais demandent de la réflexion : une mauvaise séquenc
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `tap` `tap`
 
 - Sélectionne et joue tes cartes avec un clic/tap, puis termine le tour via le bouton dédié.  
 - Survole ou touche une carte pour en lire les effets en détail.
@@ -55,5 +57,6 @@ Les parties sont rapides mais demandent de la réflexion : une mauvaise séquenc
 - Q : Peut‑on revenir d’une mauvaise main de départ ?
   
   R : Oui, en stabilisant d’abord avec de la défense, puis en préparant des tours en deux temps (installation → gros tour de dégâts).
+
 
 

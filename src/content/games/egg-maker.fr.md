@@ -50,6 +50,8 @@ et éviter de brûler les plats.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `drag` `tap`
 
 - **Actions de cuisine** : touche ou clique pour casser les œufs, fouetter,
   assaisonner, puis fais glisser vers la poêle et enfin vers l’assiette.  
@@ -82,3 +84,4 @@ et éviter de brûler les plats.
   déplacements quand les commandes explosent.
 <!-- i18n:faq:id=faq:egg-maker:any-trick-for-omelets-with-7e3bef76 -->
 **Q : Je brûle tout le temps mes œufs, que faire ?**  
+

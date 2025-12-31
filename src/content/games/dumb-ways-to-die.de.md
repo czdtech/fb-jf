@@ -33,6 +33,8 @@ das Tempo stetig anzieht. Wenn du dreimal scheiterst, ist der Durchlauf vorbei.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `arrow keys` `space`
 
 - Maus/Touch: Wischen, Tippen oder Halten, je nach Minispiel; einige Hosts
   setzen bei bestimmten Minispielen auch Pfeiltasten oder Leertaste ein.
@@ -63,3 +65,4 @@ das Tempo stetig anzieht. Wenn du dreimal scheiterst, ist der Durchlauf vorbei.
 - **F: Gibt es Fortschritt über Highscores hinaus?**  
   **A:** Der Fokus liegt auf Highscore-Jagd; einige Versionen schalten zusätzliche
   Figuren oder Kosmetik frei.
+

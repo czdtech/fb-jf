@@ -26,6 +26,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse` `Ctrl` `Space`
 - マウス/UIでカメラとマスクを操作。Ctrl/Spaceキーで懐中電灯（ホストによります）。
 
 <!-- i18n:section:tips -->
@@ -45,4 +47,5 @@ locale: ja
 <!-- i18n:faq:id=faq:five-nights-at-freddy-2:is-there-door-control-a012fcd2 -->
 - **Q: ドアの操作はありますか？**  
   A: いいえ。FNAF 2はマスク、通気口、懐中電灯の管理に依存しています。
+
 

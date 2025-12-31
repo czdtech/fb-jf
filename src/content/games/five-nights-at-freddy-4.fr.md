@@ -32,6 +32,8 @@ Les nuits deviennent de plus en plus rapides et exigeantes, et une erreur de tim
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse`
 
 - Souris / clavier pour te déplacer entre les portes, le lit et le placard ; les touches exactes pour fermer les portes et utiliser la lampe varient selon l’hébergeur.
 
@@ -59,5 +61,6 @@ Les nuits deviennent de plus en plus rapides et exigeantes, et une erreur de tim
 - Q : Y a‑t‑il des nuits supplémentaires ?
   
   R : Beaucoup de versions ajoutent des nuits défis au‑delà de la Nuit 5, avec des mécaniques plus punitives.
+
 
 

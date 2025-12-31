@@ -32,6 +32,8 @@ Finger Slayer est un test de réflexes à un seul bouton : tu poses ton « doigt
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Hold` `tap` `hold`
 
 - Maintiens pour « poser » ton doigt et relâche pour le retirer ; sur certaines versions, le jeu distingue simplement entre toucher et relâcher.
 
@@ -52,5 +54,6 @@ Finger Slayer est un test de réflexes à un seul bouton : tu poses ton « doigt
 - Q : Y a‑t‑il du lag sur les commandes ?
   
   R : Il peut y avoir un léger délai sur certains appareils. Si tu le ressens, essaie de réagir dès la première frame du signal visuel ou sonore.
+
 
 

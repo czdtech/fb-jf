@@ -35,6 +35,8 @@ Nacken sitzen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse`
 
 - Maus/UI, um Bedienpanels, Schockknöpfe und Monitore zu benutzen.  
 - Bewegungs-Tasten für Lüftungsabschnitte (je nach Host).
@@ -66,3 +68,4 @@ Nacken sitzen.
 - **F: Gibt es einen Custom-Night-Modus?**  
   **A:** Viele Versionen schalten nach der Kampagne zusätzliche
   Herausforderungsnächte frei.
+

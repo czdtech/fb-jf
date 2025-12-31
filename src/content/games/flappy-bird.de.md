@@ -32,6 +32,8 @@ einen Punkt.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `Space` `tap`
 
 - Maus/Touch/Leertaste: Tippen, um zu flattern.
 
@@ -60,3 +62,4 @@ einen Punkt.
 - **F: Ändert sich die Geschwindigkeit?**  
   **A:** In den meisten Versionen bleiben Tempo und Schwierigkeitsgrad
   konstant.
+

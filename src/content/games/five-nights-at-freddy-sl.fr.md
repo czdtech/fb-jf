@@ -32,6 +32,8 @@ La progression se fait au fil d’un scénario plus linéaire, avec des séquenc
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse`
 
 - Souris / interface pour interagir avec les panneaux, activer les chocs et surveiller les moniteurs.  
 - Touches de déplacement pour les sections en ventilation (selon la version).
@@ -60,5 +62,6 @@ La progression se fait au fil d’un scénario plus linéaire, avec des séquenc
 - Q : Y a‑t‑il un mode Custom Night ?
   
   R : Oui, de nombreuses versions proposent une nuit défi après la fin de l’histoire principale.
+
 
 

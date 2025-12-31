@@ -44,6 +44,8 @@ amigos.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `tap`
 
 - Selección/Match: toca o haz clic sobre los emojis siguiendo las reglas del
   modo para formar combinaciones válidas.
@@ -69,3 +71,4 @@ amigos.
 - **P: ¿Cuánto dura una ronda típica?**  
   **R:** Generalmente menos de un par de minutos, ideal para partidas rápidas o
   "rellenar huecos" entre otras actividades.
+

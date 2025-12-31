@@ -35,6 +35,8 @@ respiro.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `arrow keys` `space`
 
 - Gestos básicos de ratón o táctil: toques, arrastres y pulsaciones prolongadas.
 - En algunos minijuegos concretos se usan flechas o barra espaciadora (según el
@@ -66,4 +68,5 @@ respiro.
 - **P: ¿Hay progresión o es solo puntuación?**  
   **R:** El núcleo es batir tu récord; en algunas versiones también puedes
   desbloquear personajes o elementos cosméticos.
+
 

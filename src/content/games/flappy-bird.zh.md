@@ -31,6 +31,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Mouse` `Space` `tap`
 
 - 鼠标点击、屏幕触控或空白键皆可让小鸟拍翅膀上升。
 
@@ -55,3 +57,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:flappy-bird:does-the-speed-change-over-c782f3b8 -->
 - 问：速度会越来越快吗？  
   答：多数版本的水平速度与难度保持大致固定，真正增加难度的是玩家在高分段时的心理压力与失误成本。
+

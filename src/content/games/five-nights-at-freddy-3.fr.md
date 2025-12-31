@@ -32,6 +32,8 @@ Tu dois garder Springtrap le plus loin possible de ton bureau en le déplaçant 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse`
 
 - Souris / interface : caméras, leurres audio, scellement des conduits et redémarrage des systèmes.
 
@@ -59,5 +61,6 @@ Tu dois garder Springtrap le plus loin possible de ton bureau en le déplaçant 
 - Q : Quel système dois‑je redémarrer en priorité si plusieurs tombent en panne ?
   
   R : D’abord la ventilation pour limiter les effets d’hallucination et les pertes de vision, puis la vidéo et l’audio selon ce dont tu as le plus besoin pour contrôler Springtrap.
+
 
 

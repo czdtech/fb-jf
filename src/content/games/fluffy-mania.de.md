@@ -39,6 +39,8 @@ Zugbegrenzungen oder das Freilegen spezieller Felder.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `tap` `drag`
 
 - Verbinden: Klicke/tippe auf einen Fluffy und ziehe über benachbarte
   Fluffies gleicher Farbe.
@@ -62,3 +64,4 @@ Zugbegrenzungen oder das Freilegen spezieller Felder.
 - **F: Gibt es einen Unterschied zwischen Zeit- und Zugleveln?**  
   **A:** Ja – in Zeitleveln spielt Tempo eine größere Rolle, in
   Zugbegrenzungsleveln zählt vor allem effiziente Planung.
+

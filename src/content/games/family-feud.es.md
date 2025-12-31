@@ -39,6 +39,8 @@ con preguntas a contrarreloj.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Enter`
 
 - Escribe tus respuestas con el teclado y pulsa Enter para enviarlas.
 - Usa las flechas o los elementos de la interfaz para navegar entre opciones,
@@ -69,4 +71,5 @@ con preguntas a contrarreloj.
 - **P: ¿Se puede jugar en solitario?**  
   **R:** La mayoría de versiones web permiten jugar en modo "solo" contra los
   resultados de la encuesta, sin necesitar un segundo jugador.
+
 

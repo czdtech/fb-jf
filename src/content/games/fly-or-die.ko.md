@@ -34,6 +34,8 @@ Fly or Die는 작은 생물체로 시작해, 먹을 수 있는 대상은 먹고 
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `Mouse`
 
 - 방향키/WASD로 이동, 클릭/특정 키로 공격(버전에 따라 상이)  
 
@@ -57,4 +59,5 @@ Fly or Die는 작은 생물체로 시작해, 먹을 수 있는 대상은 먹고 
 <!-- i18n:faq:id=faq:fly-or-die:is-there-team-play-1c3a03db -->
 - Q: 팀 플레이가 있나요?  
   A: 대부분은 개인전(FFA)이지만, 일부 호스트는 특별 모드를 제공하기도 합니다.
+
 

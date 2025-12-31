@@ -46,6 +46,8 @@ Schwierigkeitsgrade helfen dir, Rechentiefe und Mustererkennung aufzubauen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `click`
 
 - Klicke eine Figur an, um ihre legalen Züge hervorzuheben, und dann auf das
   Zielfeld, um sie zu ziehen.
@@ -77,3 +79,4 @@ Schwierigkeitsgrade helfen dir, Rechentiefe und Mustererkennung aufzubauen.
 - **F: Welche Endspiele bringen mir am schnellsten Elo?**  
   **A:** König-Bauer-Grundlagen und Turmendspiele – sie kommen in der Praxis am
   häufigsten vor und helfen dir, Vorteile zuverlässig zu verwerten.
+

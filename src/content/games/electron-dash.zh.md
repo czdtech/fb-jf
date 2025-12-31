@@ -29,6 +29,8 @@ releaseDate: 2025-09-09T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `WASD` `Space`
 
 - 使用方向键或 WASD 来移动与跳跃；
 - 依托管版本不同，空白键或 X 键常用来进行冲刺。
@@ -54,3 +56,4 @@ releaseDate: 2025-09-09T00:00:00.000Z
 <!-- i18n:faq:id=faq:electron-dash:any-upgrades-2e662d37 -->
 - 问：有能力或外观升级吗？  
   答：部分版本会让你用宝石解锁角色或装扮，但核心玩法仍然是追求最远距离与最高分。
+

@@ -31,6 +31,8 @@ Fly or Die est un jeu de survie multijoueur basé sur l’évolution. Tu commenc
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse`
 
 - Souris / clavier pour te déplacer et voler ; les touches de boost varient selon l’hébergeur.
 
@@ -58,5 +60,6 @@ Fly or Die est un jeu de survie multijoueur basé sur l’évolution. Tu commenc
 - Q : Y a‑t‑il un mode équipe ?
   
   R : La plupart des serveurs sont en FFA, mais certains hébergeurs proposent ponctuellement des modes spéciaux.
+
 
 

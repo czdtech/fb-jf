@@ -36,6 +36,8 @@ oficina.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `Esc`
 
 - Usa el ratón y la interfaz para manejar cámaras, luces y puertas; la tecla
   Esc puede pausar el juego según el portal donde lo juegues.
@@ -66,4 +68,5 @@ oficina.
 <!-- i18n:faq:id=faq:five-nights-at-freddy-1:can-i-mute-calls-952aac8b -->
 - **P: ¿Puedo silenciar las llamadas?**  
   **R:** Algunas versiones permiten silenciar la introducción del Phone Guy.
+
 

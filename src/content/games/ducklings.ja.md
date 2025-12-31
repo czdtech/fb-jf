@@ -28,6 +28,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse`
 
 *   **移動:** マウス（またはタッチ）で泳ぐ方向を指示します。
 
@@ -50,4 +52,5 @@ locale: ja
 <!-- i18n:faq:id=faq:ducklings:are-there-powerups-0fea9ab4 -->
 - Q: パワーアップはありますか？  
   A: ホストによってはブーストやコスメが追加されることがありますが、基本は「救出して巣に預ける」ループです。
+
 

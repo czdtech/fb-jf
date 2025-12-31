@@ -43,6 +43,8 @@ consigues un plato "perfecto" o lo quemas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `drag` `tap`
 
 - Toca para romper huevos, batir y sazonar; arrastra hacia la sartén o el plato
   para cocinar y emplatar; toca al cliente para servir.
@@ -76,4 +78,5 @@ consigues un plato "perfecto" o lo quemas.
   **R:** Ten los ingredientes picados durante los momentos tranquilos, añádelos
   pronto y pliega la tortilla en cuanto veas que cuaja para evitar que se
   desborde.
+
 
