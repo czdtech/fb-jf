@@ -50,6 +50,8 @@ percepción, paciencia y descubrimiento.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `hold` `left` `button` `drag` `mouse` `Swipe`
 
 Los controles son mínimos e intuitivos.
 
@@ -78,4 +80,5 @@ Los controles son mínimos e intuitivos.
     *   **R:** No. Poly Art está diseñado para ser libre de estrés. No hay
         límite de tiempo, ni puntuaciones, ni penalizaciones; puedes resolver
         cada puzle a tu propio ritmo.
+
 

@@ -49,6 +49,8 @@ que ser rápido y pensar con estrategia para superar cada nivel.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `click`
 
 El juego se maneja con clics o toques sencillos.
 
@@ -73,4 +75,5 @@ El juego se maneja con clics o toques sencillos.
     *   **R:** No te quedes mirando una sola ficha demasiado tiempo. Mantén la
         vista en movimiento y recorre todo el tablero. A veces pasas por alto
         las parejas más obvias por enfocarte demasiado en un área concreta.
+
 

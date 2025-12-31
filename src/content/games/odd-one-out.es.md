@@ -40,6 +40,8 @@ concreta.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `mouse`
 
 *   **Ratón/táctil:** usa el ratón o la pantalla táctil para seleccionar el
     elemento que consideres diferente al resto.
@@ -56,4 +58,5 @@ concreta.
 *   **P: ¿Hay límite de tiempo?**
     *   **R:** Depende de la versión o del modo, pero normalmente este tipo de
         juegos premia más pensar y observar que ir a toda velocidad.
+
 

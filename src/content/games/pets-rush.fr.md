@@ -31,6 +31,8 @@ Pets Rush est un jeu de match‑3 survie rapide et excitant avec un adorable th�
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `click` `click` `drag`
 
 Le jeu se joue avec de simples contrôles d'échange.
 
@@ -50,4 +52,5 @@ Le jeu se joue avec de simples contrôles d'échange.
 <!-- i18n:faq:id=faq:pets-rush:q-is-there-a-way-d880d766 -->
 *   **Q : Y a‑t‑il un moyen d'arrêter la montée des blocs ?**
     *   **R :** Le seul moyen de les arrêter est de faire continuellement des matches. Chaque fois que tu fais un match réussi, le mur qui monte fait une pause momentanée.
+
 

@@ -44,6 +44,8 @@ de personalización para tu personaje, tabla y atuendos.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Arrow Keys` `Mouse` `arrow keys` `mouse`
 
 *   **Flechas/ratón:** utiliza las teclas de dirección o el ratón para controlar
     a tu esquiador por la pendiente; los comandos exactos de trucos pueden
@@ -60,4 +62,5 @@ de personalización para tu personaje, tabla y atuendos.
 *   **P: ¿Para qué sirven las monedas que recojo?**
     *   **R:** Sirven para comprar opciones de personalización, como nuevas
         tablas y ropa para tu personaje.
+
 

@@ -30,6 +30,8 @@ Pocket Battle Royale est un shooter 2D vue du dessus rapide qui distille l'excit
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD` `mouse` `Click` `left` `button`
 
 *   **Déplacement :** utilise les **touches ZQSD** pour déplacer ton personnage.
 *   **Viser :** ton personnage visera automatiquement dans la direction de ton **curseur de souris**.
@@ -49,4 +51,5 @@ Pocket Battle Royale est un shooter 2D vue du dessus rapide qui distille l'excit
 <!-- i18n:faq:id=faq:pocket-battle-royale:q-what-is-the-objective-0d640e0d -->
 *   **Q : Quel est l'objectif du jeu ?**
     *   **R :** Être le dernier joueur en vie. Élimine tous les autres adversaires pour gagner le match.
+
 

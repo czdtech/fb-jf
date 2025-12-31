@@ -31,6 +31,8 @@ Om Nom Bubblesは、Cut the RopeシリーズのOm Nomが登場するバブルシ
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `drag` `Click`
 
 - マウス/タッチで狙い、ショットします。
 - 同じ色の泡を3つ以上マッチします。
@@ -48,4 +50,5 @@ Om Nom Bubblesは、Cut the RopeシリーズのOm Nomが登場するバブルシ
 <!-- i18n:faq:id=faq:om-nom-bubbles:do-i-need-all-stars-c6a73dae -->
 - **Q: どれくらいのレベルがありますか？**  
   A: バージョンによって異なりますが、通常数百。
+
 

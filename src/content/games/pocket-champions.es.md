@@ -51,6 +51,8 @@ forma automática para cruzar la meta en primer lugar.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `click` `Click` `enter`
 
 El juego se maneja mediante menús e iconos.
 
@@ -83,4 +85,5 @@ El juego se maneja mediante menús e iconos.
         se adapte al próximo gran obstáculo del circuito. Una lancha rápida no
         sirve de nada en una pista de carrera seca, pero es esencial en un
         tramo lleno de agua.
+
 

@@ -55,6 +55,8 @@ buen ojo y rapidez mental para completar cada nivel a tiempo.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `Click`
 
 El juego se maneja por completo con ratón o pantalla táctil.
 
@@ -79,4 +81,5 @@ El juego se maneja por completo con ratón o pantalla táctil.
 *   **P: ¿Me penaliza usar pistas?**
     *   **R:** Normalmente no, pero su número es limitado. Úsalas cuando de
         verdad estés atascado para ahorrar tiempo.
+
 

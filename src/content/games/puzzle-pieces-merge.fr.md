@@ -29,6 +29,8 @@ Puzzle Pieces Merge propose une variante sereine et innovante du puzzle classiqu
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `drag` `click` `right` `button`
 
 *   **Déplacer une pièce :** clique et fais glisser une pièce de puzzle de ton inventaire vers le plateau de puzzle principal.
 *   **Faire pivoter une pièce :** certaines versions peuvent demander de cliquer sur un bouton pour faire pivoter la pièce, tandis que d'autres peuvent utiliser le bouton droit de la souris ou une touche du clavier.
@@ -47,4 +49,5 @@ Puzzle Pieces Merge propose une variante sereine et innovante du puzzle classiqu
 <!-- i18n:faq:id=faq:puzzle-pieces-merge:q-what-is-the-goal-ab58581b -->
 *   **Q : Quel est l'objectif du jeu ?**
     *   **R :** L'objectif est d'utiliser toutes les pièces de puzzle fournies pour compléter avec succès l'image entière.
+
 

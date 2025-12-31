@@ -39,6 +39,8 @@ Le défi consiste à trouver la séquence précise de retraits de broches pour s
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `drag` `tap`
 
 Les contrôles sont extrêmement simples et conçus pour le gameplay mobile à une touche.
 
@@ -62,4 +64,5 @@ Chaque niveau a une solution spécifique. Si tu es bloqué, essaie de repenser l
 <!-- i18n:faq:id=faq:pin-the-ufo:what-is-the-goal-of-c816fee5 -->
 **4. Quel est l'objectif du jeu ?**
 L'objectif est de résoudre avec succès chaque niveau de puzzle en faisant entrer tous les aliens colorés dans l'UFO, progressant à travers autant de niveaux que possible.
+
 

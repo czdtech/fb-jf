@@ -32,6 +32,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `WASD` `mouse` `Click` `left` `button`
 
 *   **移动：** 使用 WASD 键控制角色向上、左、下、右移动。
 *   **瞄准：** 角色会自动朝鼠标光标方向瞄准。
@@ -51,3 +53,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:pocket-battle-royale:q-what-is-the-objective-0d640e0d -->
 *   **问：游戏最终目标是什么？**
     *   **答：** 和大多数吃鸡游戏一样，最终目标是在一局战斗中成为最后一名存活的玩家，淘汰所有对手即可取得胜利。
+

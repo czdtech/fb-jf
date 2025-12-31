@@ -53,6 +53,8 @@ posible y lograr puntuaciones récord.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `swipe` `Swipe` `Swipe` `Swipe`
 
 El juego se controla con gestos intuitivos de deslizamiento.
 
@@ -78,4 +80,5 @@ El juego se controla con gestos intuitivos de deslizamiento.
 *   **P: ¿Cómo desbloqueo otros personajes como Om Nelle?**
     *   **R:** Normalmente, reuniendo muchas monedas o consiguiendo fichas
         especiales de personaje que pueden aparecer durante las carreras.
+
 

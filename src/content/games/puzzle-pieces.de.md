@@ -41,6 +41,8 @@ Puzzle Pieces ist ein aufgeräumtes Formpuzzle: Du ziehst verschieden geformte
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `click` `tap`
 
 - **Teile ziehen:** Ziehe mit der Maus oder dem Finger eine Form auf das
   Spielfeld.
@@ -69,4 +71,5 @@ Puzzle Pieces ist ein aufgeräumtes Formpuzzle: Du ziehst verschieden geformte
   
   In vielen Versionen gibt es Hinweise oder Auto-Platzierung einzelner Teile.
   Verwende sie sparsam, wenn du gar nicht weiterkommst.
+
 

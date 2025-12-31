@@ -47,6 +47,8 @@ un toque de suerte.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `click` `click`
 
 El juego se maneja con botones en pantalla.
 
@@ -77,4 +79,5 @@ El juego se maneja con botones en pantalla.
         opciones claras de Escalera o Color) y otro jugador hace una apuesta
         grande. Suele ser mejor perder lo ya apostado que arriesgar mucho más en
         una mano mala.
+
 

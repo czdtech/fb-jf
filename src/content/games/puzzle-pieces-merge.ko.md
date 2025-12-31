@@ -29,6 +29,8 @@ Puzzle Pieces Merge는 클래식 직소 퍼즐에 차분하고 혁신적인 변�
 
 <!-- i18n:section:controls -->
 ### 조작 가이드
+<!-- i18n:controls:keys -->
+- 키(정렬)： `Click` `drag` `click` `right` `button`
 
 *   **조각 이동:** 인벤토리에서 퍼즐 조각을 클릭하여 메인 퍼즐 보드로 드래그합니다.
 *   **조각 회전:** 일부 버전은 조각을 회전시키기 위해 버튼을 클릭해야 할 수 있고, 다른 버전은 오른쪽 마우스 버튼이나 키보드 키를 사용할 수 있습니다.
@@ -47,4 +49,5 @@ Puzzle Pieces Merge는 클래식 직소 퍼즐에 차분하고 혁신적인 변�
 <!-- i18n:faq:id=faq:puzzle-pieces-merge:q-what-is-the-goal-ab58581b -->
 *   **Q: 게임의 목표는 무엇인가요?**
     *   **A:** 목표는 제공된 모든 퍼즐 조각을 사용하여 전체 이미지를 성공적으로 완성하는 것입니다.
+
 

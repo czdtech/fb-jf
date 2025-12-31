@@ -45,6 +45,8 @@ Om Nom Bubbles ist ein klassischer Bubble-Shooter mit dem liebenswerten Om Nom
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `Click`
 
 - **Zielen:** Bewege den Mauszeiger oder ziehe mit dem Finger, um die Flugbahn
   festzulegen; oft zeigt eine Hilfslinie den Weg.
@@ -73,4 +75,5 @@ Om Nom Bubbles ist ein klassischer Bubble-Shooter mit dem liebenswerten Om Nom
   
   Nein, aber eine hohe Sternewertung schaltet oft zusätzliche Level frei und ist
   ein schönes Ziel für Perfektionisten.
+
 

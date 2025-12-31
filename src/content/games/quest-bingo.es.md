@@ -48,6 +48,8 @@ ilustraciones, añadiendo una capa extra de coleccionismo al juego de siempre.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `click` `click` `Click`
 
 El manejo es muy sencillo, a base de clics o toques.
 
@@ -75,4 +77,5 @@ El manejo es muy sencillo, a base de clics o toques.
 *   **P: ¿Cómo consigo más boosters?**
     *   **R:** Normalmente se obtienen marcando números especiales, superando
         niveles o a través de recompensas diarias y ruletas de bonus.
+
 

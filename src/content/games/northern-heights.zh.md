@@ -32,6 +32,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Arrow Keys` `Mouse` `arrow keys` `mouse`
 
 *   **方向键/鼠标**：使用方向键或鼠标引导你的角色沿着斜坡滑行。特技的具体操作可能有所不同。
 
@@ -43,4 +45,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:northern-heights:q-what-can-i-do-0eeda2c4 -->
 *   **问：我收集的金币可以做什么？****
     *   答：** 金币可用于购买角色的自定义选项，包括新的滑雪板和服装。
+
 

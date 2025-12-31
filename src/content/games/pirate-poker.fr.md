@@ -30,6 +30,8 @@ Pirate Poker est un jeu de poker à cinq cartes classique avec un thème pirate 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `click` `click`
 
 Le jeu se joue avec les boutons à l'écran.
 
@@ -53,4 +55,5 @@ Le jeu se joue avec les boutons à l'écran.
 <!-- i18n:faq:id=faq:pirate-poker:q-when-should-i-fold-d4d47b5c -->
 *   **Q : Quand dois‑je me coucher ?**
     *   **R :** Tu devrais te coucher quand tu as une main très faible (ex. pas de paires et aucune chance de suite ou couleur) et qu'un autre joueur a fait une grosse mise. Il vaut mieux perdre le petit montant que tu as déjà misé que de risquer de perdre beaucoup plus sur une mauvaise main.
+
 

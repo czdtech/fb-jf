@@ -48,6 +48,8 @@ Willkommen im Panda Pizza Parlor, einem liebevoll gestalteten, schnellen
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `mouse` `Click` `Click` `click` `Click`
 
 *   **Point & Click:** Du spielst ausschließlich mit der Maus.
 *   **Zutaten auswählen:** Klicke auf Teig, Soße und Beläge, um sie auf die
@@ -76,4 +78,5 @@ Willkommen im Panda Pizza Parlor, einem liebevoll gestalteten, schnellen
 *   **F: Gibt es Upgrades im Spiel?**
     *   **A:** Mit fortschreitenden Leveln schaltest du neue Beläge und
         Menüvarianten frei, was das Spiel komplexer und anspruchsvoller macht.
+
 

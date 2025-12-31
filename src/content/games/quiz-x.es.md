@@ -45,6 +45,8 @@ mucho de un solo tema.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click`
 
 - **Elegir respuesta:** Haz clic en la opción que quieras seleccionar. Algunas
   versiones también admiten atajos de teclado.
@@ -72,4 +74,5 @@ mucho de un solo tema.
   
   **R:** Algunas versiones incluyen duelos contra otros jugadores. Revisa las
   reglas de la sala o lobby antes de entrar.
+
 

@@ -53,6 +53,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 조작 가이드
+<!-- i18n:controls:keys -->
+- 키(정렬)： `Click` `hold` `left` `button` `drag` `mouse` `Swipe`
 
 컨트롤은 매우 직관적이고 단순합니다.
 
@@ -81,4 +83,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
     *   **A:** 대부분의 Poly Art류 게임은 시간 제한이 없고, 잘못 돌려도
   페널티가 없습니다. 자신의 속도에 맞춰 자유롭게 퍼즐을 맞추면
   됩니다.
+
 

@@ -31,6 +31,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `hold` `left` `button` `drag` `mouse` `Swipe`
 
 
 操作极简且直观。
@@ -51,4 +53,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:poly-art:q-is-there-a-time-6feb9409 -->
 *   **问：游戏有没有时间限制或错误惩罚？**
     *   **答：** 一般没有。Poly Art 更偏向舒缓身心的解谜体验，不会因为你旋转了很多圈就扣分或失败，你可以完全按自己的节奏享受拼合瞬间的成就感。
+
 

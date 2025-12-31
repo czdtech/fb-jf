@@ -39,6 +39,8 @@ Kombinationsvermögen zu trainieren.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `mouse`
 
 *   **Maus/Touch:** Wähle Buchstaben mit Maus oder Touchscreen aus und füge sie
     in die Lösung ein; navigiere damit auch durch Menüs.
@@ -55,4 +57,5 @@ Kombinationsvermögen zu trainieren.
     *   **A:** Münzen erhältst du normalerweise, wenn du Level erfolgreich
         abschließt. Manche Spiele bieten zusätzlich Münzen für das Ansehen von
         Werbung.
+
 

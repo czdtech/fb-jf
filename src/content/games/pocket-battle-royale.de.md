@@ -45,6 +45,8 @@ Pocket Battle Royale ist ein schneller 2D-Shooter aus der Vogelperspektive, der
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD` `mouse` `Click` `left` `button`
 
 *   **Bewegung:** Mit **WASD** bewegst du deinen Charakter nach oben, links,
     unten und rechts.
@@ -69,4 +71,5 @@ Pocket Battle Royale ist ein schneller 2D-Shooter aus der Vogelperspektive, der
 *   **F: Was ist das Ziel des Spiels?**
     *   **A:** Überlebe als Letzter. Nur wer alle anderen Spieler eliminiert oder
         sie den Gefahren der Zone überlässt, gewinnt die Runde.
+
 

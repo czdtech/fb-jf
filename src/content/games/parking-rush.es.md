@@ -48,6 +48,8 @@ que la planificación y la sincronización se vuelven esenciales.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `hold` `drag` `mouse`
 
 El juego utiliza una mecánica sencilla de dibujo de líneas.
 
@@ -72,4 +74,5 @@ El juego utiliza una mecánica sencilla de dibujo de líneas.
 *   **P: ¿Tengo que aparcar todos los coches para superar el nivel?**
     *   **R:** Sí. El nivel solo se completa cuando todos los coches han llegado
         sanos y salvos a su plaza correspondiente.
+
 

@@ -46,6 +46,8 @@ qu’une hyper‑spécialisation.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click`
 
 - Clique pour choisir tes réponses. Certaines versions proposent des
   raccourcis clavier. Profite des pauses entre les manches lorsqu’elles
@@ -68,4 +70,5 @@ qu’une hyper‑spécialisation.
 - **Q : Y a‑t‑il un mode multijoueur ?**  
   R : Certaines versions proposent des duels en ligne. Consulte les règles
   du salon ou du mode en question.
+
 

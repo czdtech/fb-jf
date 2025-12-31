@@ -44,6 +44,8 @@ One line only: dot to dot orientiert sich an klassischen Euler-Pfaden: Du
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag`
 
 - Ziehe mit der Maus oder dem Finger über die Segmente, um eine Linie zu
   zeichnen. Über Schaltflächen im UI kannst du Schritte rückgängig machen oder
@@ -69,4 +71,5 @@ One line only: dot to dot orientiert sich an klassischen Euler-Pfaden: Du
   
   Viele Versionen bieten Hinweise oder heben wichtige Brücken hervor, wenn du
   nicht weiterkommst.
+
 

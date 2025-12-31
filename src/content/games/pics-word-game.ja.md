@@ -31,6 +31,8 @@ Pics Word Gameは、4つの写真を見てそれらをリンクする単語を�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse` `mouse`
 
 - 写真を見ます。
 - 文字をクリック/タップして単語をスペルします。
@@ -45,3 +47,4 @@ Pics Word Gameは、4つの写真を見てそれらをリンクする単語を�
 <!-- i18n:faq:id=faq:pics-word-game:q-how-can-i-get-b6dd4933 -->
     - **Q: ヒントを使い果たした場合はどうなりますか？**  
   A: スキップするか、後で戻ってきます。
+

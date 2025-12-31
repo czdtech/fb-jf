@@ -76,7 +76,7 @@ jugadores.
 <!-- i18n:section:controls -->
 ### **Guía de controles**
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `W, A, S, D`
+- Teclas (alineación)： `mouse` `mouse` `click` `click` `Click` `W, A, S, D` `mouse`
 
 Al ser un juego de Roblox, los controles son sencillos y centrados en el ratón.
 
@@ -121,5 +121,6 @@ calidad. El juego convierte a los personajes de ese contenido en tus enemigos.
 Lo más recomendable es unirte al **servidor oficial de Discord** del juego. Ahí
 los desarrolladores anuncian actualizaciones, comparten códigos para objetos
 gratuitos e interactúan con la comunidad.
+
 
 

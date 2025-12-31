@@ -44,6 +44,8 @@ la calma y el enfoque son fundamentales.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `click`
 
 - Toca o haz clic cuando la aguja se superponga al marcador; algunas variantes
   permiten usar teclas en lugar del ratón.
@@ -65,4 +67,5 @@ la calma y el enfoque son fundamentales.
 - **P: ¿Importa la tasa de FPS?**  
   **R:** Un framerate estable ayuda; cierra otras aplicaciones si notas que el
   ritmo se vuelve irregular.
+
 

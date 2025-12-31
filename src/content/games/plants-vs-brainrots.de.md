@@ -70,7 +70,7 @@ Der große Reiz des Spiels liegt in der ständig wachsenden Liste von Pflanzen
 <!-- i18n:section:controls -->
 ### **Steuerung (Roblox)**
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `W, A, S, D`
+- Tasten (Abgleich)： `mouse` `mouse` `click` `click` `Click` `W, A, S, D` `mouse`
 
 Die Bedienung ist typisch für Roblox und mausgesteuert.
 
@@ -111,3 +111,4 @@ Meme-Figuren zu deinen Gegnern.
 Tritt dem offiziellen **Discord-Server** des Spiels bei (oft im Spiel oder auf
 der Game-Seite verlinkt). Dort gibt es Ankündigungen, Update-News und manchmal
 Codes für Gratis-Belohnungen.
+

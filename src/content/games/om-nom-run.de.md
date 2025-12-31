@@ -49,6 +49,8 @@ höhere Punktzahlen erreichen und nach und nach neue Inhalte freischalten.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `swipe` `Swipe` `Swipe` `Swipe`
 
 Die Steuerung erfolgt über einfache Wischgesten.
 
@@ -75,4 +77,5 @@ fortzusetzen, an der du gestürzt bist.
 *   **F: Wie schalte ich andere Figuren wie Om Nelle frei?**
     *   **A:** Neue Charaktere werden meist durch große Mengen an Münzen oder durch
 spezielle Tokens freigeschaltet, die während der Läufe zufällig auftauchen.
+
 

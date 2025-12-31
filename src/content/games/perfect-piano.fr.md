@@ -29,6 +29,8 @@ Perfect Piano est un jeu de rythme rapide et engageant qui simule le piano, simi
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `mouse` `click`
 
 Le jeu se joue avec de simples touches ou clics.
 
@@ -48,4 +50,5 @@ Le jeu se joue avec de simples touches ou clics.
 <!-- i18n:faq:id=faq:perfect-piano:q-can-i-play-different-3e2a64ff -->
 *   **Q : Puis‑je jouer différentes chansons ?**
     *   **R :** Oui, le jeu propose une bibliothèque de chansons à choisir, souvent classées par difficulté. Tu devras peut‑être débloquer les chansons plus difficiles en réussissant d'abord les plus faciles.
+
 

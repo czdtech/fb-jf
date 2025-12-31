@@ -33,6 +33,8 @@ Pics Word Game est un jeu de puzzle de mots où on te présente des images et tu
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `mouse`
 
 *   **Souris/Tactile :** utilise la souris ou l'écran tactile pour sélectionner les lettres et interagir avec les menus du jeu.
 
@@ -46,4 +48,5 @@ Pics Word Game est un jeu de puzzle de mots où on te présente des images et tu
 <!-- i18n:faq:id=faq:pics-word-game:q-how-can-i-get-b6dd4933 -->
 *   **Q : Comment obtenir plus de pièces pour les indices ?**
     *   **R :** Tu peux généralement gagner des pièces en complétant des niveaux avec succès. Certains jeux offrent aussi des pièces pour regarder des publicités.
+
 

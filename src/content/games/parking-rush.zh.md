@@ -30,6 +30,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `hold` `drag` `mouse`
 
 游戏使用简单的画线机制进行操作。
 
@@ -49,4 +51,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:parking-rush:q-do-i-have-to-370e86e4 -->
 *   **问：必须让所有车辆都停进车位吗？**
     *   **答：** 是的，只有当每辆车都被安全引导到正确的停车位时，关卡才算完成。
+
 

@@ -46,6 +46,8 @@ Panenka Football konzentriert sich voll auf den Elfmeter und den berühmten
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `drag`
 
 - Ziele mit Maus oder Tasten, stelle Schusskraft und -höhe ein; je nach
   Version kannst du dem Ball durch Ziehen oder Halten auch Effet verleihen.
@@ -70,4 +72,5 @@ Panenka Football konzentriert sich voll auf den Elfmeter und den berühmten
   
   Ändere die Zielrichtung erst spät und variiere Tempo und Winkel deines
   Anlaufs, damit der Keeper weniger aus deinem Lauf ablesen kann.
+
 

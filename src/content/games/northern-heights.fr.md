@@ -33,6 +33,8 @@ Northern Heights t'embarque sur des pistes enneigées à grande vitesse. Tu y co
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Arrow Keys` `Mouse` `arrow keys` `mouse`
 
 *   **Déplacement / carving :** touches fléchées ou souris suivant la version.
 *   **Figures :** certaines versions permettent des combinaisons supplémentaires en l'air ; consulte l'écran d'aide.
@@ -47,4 +49,5 @@ Northern Heights t'embarque sur des pistes enneigées à grande vitesse. Tu y co
 <!-- i18n:faq:id=faq:northern-heights:q-what-can-i-do-0eeda2c4 -->
 *   **Q : À quoi servent les pièces ?**
     *   **R :** Elles permettent généralement de débloquer de nouveaux skis, planches, tenues ou effets cosmétiques.
+
 

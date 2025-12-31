@@ -32,6 +32,8 @@ Puzzle Pieces Merge bietet eine ruhige und innovative Variante des klassischen P
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `drag` `click` `right` `button`
 
 *   **Teil bewegen:** Klicke und ziehe ein Puzzleteil aus deinem Inventar auf das Haupt-Puzzlebrett.
 *   **Teil drehen:** Einige Versionen erfordern möglicherweise einen Klick auf einen Knopf, um das Teil zu drehen, während andere die rechte Maustaste oder eine Tastaturtaste verwenden.
@@ -50,4 +52,5 @@ Puzzle Pieces Merge bietet eine ruhige und innovative Variante des klassischen P
 <!-- i18n:faq:id=faq:puzzle-pieces-merge:q-what-is-the-goal-ab58581b -->
 *   **F: Was ist das Ziel des Spiels?**
     *   **A:** Das Ziel ist, alle bereitgestellten Puzzleteile zu verwenden, um das gesamte Bild erfolgreich zu vervollständigen.
+
 

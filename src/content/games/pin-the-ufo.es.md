@@ -65,6 +65,8 @@ nave.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `drag` `tap`
 
 Los controles son muy simples y pensados para pantallas táctiles.
 
@@ -96,4 +98,5 @@ parece acercarte a la salida, pero que prepara mejor el flujo posterior.
 **4. ¿Cuál es el objetivo final del juego?**  
 Superar cada puzle llevando a todos los aliens coloreados hasta el UFO y avanzar
 por el mayor número de niveles posible.
+
 

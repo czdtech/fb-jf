@@ -54,6 +54,8 @@ número limitado de movimientos.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `drag`
 
 El juego se maneja con controles sencillos de ratón o táctil.
 
@@ -80,4 +82,5 @@ El juego se maneja con controles sencillos de ratón o táctil.
 *   **P: ¿Qué pasa si me quedo sin movimientos?**
     *   **R:** Si no completas el objetivo del nivel antes de agotar los
         movimientos, tendrás que reiniciar el nivel.
+
 

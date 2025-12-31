@@ -43,6 +43,8 @@ pieza.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `click` `tap`
 
 - **Mover piezas:** Arrastra con el ratón o el dedo para colocar las fichas en
   el tablero.
@@ -72,4 +74,5 @@ pieza.
   
   **R:** Muchas versiones incluyen pistas. Úsalas con moderación si quieres
   mantener el desafío.
+
 

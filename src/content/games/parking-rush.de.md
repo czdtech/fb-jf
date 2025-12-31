@@ -49,6 +49,8 @@ Parking Rush ist ein einfallsreiches, süchtig machendes
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `hold` `drag` `mouse`
 
 Gespielt wird mit einer einfachen Linien-Zeichnen-Mechanik.
 
@@ -73,4 +75,5 @@ Gespielt wird mit einer einfachen Linien-Zeichnen-Mechanik.
 *   **F: Muss ich jedes Auto parken?**
     *   **A:** Ja, ein Level ist erst geschafft, wenn alle Autos sicher zu ihrem
         richtigen Parkplatz geführt wurden.
+
 

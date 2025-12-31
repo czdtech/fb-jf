@@ -30,6 +30,8 @@ Powerwall 是一款极简风格、高能量的街机游戏，考验你的反应�
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `left` `button` `tap`
 
 *   **激活 Powerwall：** 点击鼠标左键或点击屏幕来激活能量屏障。屏障只会持续很短的时间，所以时机把握至关重要。
 
@@ -47,5 +49,6 @@ Powerwall 是一款极简风格、高能量的街机游戏，考验你的反应�
 <!-- i18n:faq:id=faq:powerwall:q-what-is-the-goal-ab58581b -->
 *   **问：游戏的目标是什么？**
      *   **答：** 目标是尽可能长时间地生存下去，通过成功拦截球来获得尽可能高的分数。
+
 
 

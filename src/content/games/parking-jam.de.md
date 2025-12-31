@@ -45,6 +45,8 @@ Parking Jam erinnert an das klassische Rush-Hour-Puzzle: Du schiebst Autos in
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag`
 
 - Ziehe Autos mit der Maus oder per Touch entlang ihrer Fahrtrichtung. Über
   Schaltflächen im UI kannst du Züge rückgängig machen oder das Level
@@ -69,4 +71,5 @@ Parking Jam erinnert an das klassische Rush-Hour-Puzzle: Du schiebst Autos in
   
   Viele Versionen bieten Schritt-für-Schritt-Hinweise. Nutze sie sparsam, wenn
   du gar nicht weiterkommst, damit der Rätselspaß erhalten bleibt.
+
 

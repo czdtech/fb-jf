@@ -38,6 +38,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### **操作指南**
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `drag` `tap`
 
 操作非常简单，专为单手触屏游戏设计。
 
@@ -61,4 +63,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:pin-the-ufo:what-is-the-goal-of-c816fee5 -->
 **4. 游戏的目标是什么？**
 目标是通过让所有彩色外星人进入 UFO 来成功解决每个谜题关卡，尽可能多地通过关卡。
+
 

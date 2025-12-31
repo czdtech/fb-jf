@@ -45,6 +45,8 @@ exigentes.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `mouse` `click`
 
 El juego se maneja con toques o clics simples.
 
@@ -70,4 +72,5 @@ El juego se maneja con toques o clics simples.
     *   **R:** Sí. Suele haber una biblioteca de temas organizada por dificultad.
         Es posible que tengas que completar canciones fáciles para desbloquear
         las más difíciles.
+
 

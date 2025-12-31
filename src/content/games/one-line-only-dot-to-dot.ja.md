@@ -30,6 +30,8 @@ One Line Only Dot to Dotは、単一の連続した線ですべての点を接�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Drag`
 
 - 点をクリック/タップしてドラッグして接続します。
 - すべての点を一筆で接続します。
@@ -47,4 +49,5 @@ One Line Only Dot to Dotは、単一の連続した線ですべての点を接�
 <!-- i18n:faq:id=faq:one-line-only-dot-to-dot:any-hint-system-83b1a6f0 -->
 - **Q: ヒントはありますか？**  
   A: 一部のバージョンにはヒントシステムがあります。
+
 

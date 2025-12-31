@@ -45,7 +45,7 @@ Plants vs Brainrotsは、クラシックなタワーディフェンスゲーム�
 <!-- i18n:section:controls -->
 ### 操作ガイド
 <!-- i18n:controls:keys -->
-- キー（整合）： `W, A, S, D`
+- キー（整合）： `mouse` `mouse` `click` `click` `Click` `W, A, S, D` `mouse`
 
 
 操作はシンプルで、マウス（またはタップ）中心です。
@@ -80,4 +80,5 @@ Plants vs Brainrotsは、クラシックなタワーディフェンスゲーム�
 **4. 「Brain Rot」とは何ですか？**
 
 多くの場合、基本プレイは無料です。ただしRoblox系の作品と同様に、見た目要素などの課金要素が用意されている場合があります。
+
 

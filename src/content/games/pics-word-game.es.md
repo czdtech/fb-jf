@@ -40,6 +40,8 @@ de poner a prueba tu vocabulario y tu capacidad de asociación.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `mouse`
 
 *   **Ratón/táctil:** utiliza el ratón o la pantalla táctil para pulsar letras y
     navegar por los menús del juego.
@@ -57,4 +59,5 @@ de poner a prueba tu vocabulario y tu capacidad de asociación.
 *   **P: ¿Cómo consigo más monedas para pistas?**
     *   **R:** Normalmente, completando niveles con éxito. Algunas versiones
         también ofrecen monedas por ver anuncios opcionales.
+
 

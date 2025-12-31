@@ -45,7 +45,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### **操作与控制说明（Roblox 版）**
 <!-- i18n:controls:keys -->
-- 按键（对齐）： `W, A, S, D`
+- 按键（对齐）： `mouse` `mouse` `click` `click` `Click` `W, A, S, D` `mouse`
 
 作为 Roblox 游戏，本作的操作以鼠标和键盘为主：
 
@@ -76,4 +76,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:plants-vs-brainrots:how-do-i-stay-updated-eae93b2e -->
 **5. 想关注新迷因敌人与新植物更新怎么做？**  
 通常可以加入游戏官方的 **Discord 服务器**或关注相关社群，开发者会在其中发布更新公告、兑换码和活动信息，也会听取玩家反馈。
+
 

@@ -47,6 +47,8 @@ suerte del reparto con decisiones tácticas muy sencillas de entender.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `Click`
 
 El juego se maneja mediante botones en pantalla.
 
@@ -73,4 +75,5 @@ El juego se maneja mediante botones en pantalla.
 *   **P: ¿Qué ocurre si hay un empate?**
     *   **R:** El empate se llama **push**. En la mayoría de versiones casuales
         nadie gana ni pierde esa mano y simplemente pasas a la siguiente ronda.
+
 

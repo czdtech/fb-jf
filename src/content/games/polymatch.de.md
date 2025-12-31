@@ -50,6 +50,8 @@ PolyMatch ist ein entspanntes, aber anspruchsvolles Kachel-Puzzlespiel, das
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `tap`
 
 *   **Kachel auswählen:** Klicke oder tippe auf eine Kachel auf dem Brett, um
     sie in den Ablagebereich unten zu verschieben. Sobald sich dort drei
@@ -71,4 +73,5 @@ PolyMatch ist ein entspanntes, aber anspruchsvolles Kachel-Puzzlespiel, das
 *   **F: Gibt es Power-ups oder Hinweise?**
     *   **A:** Manche Versionen bieten Hilfen wie Shuffle oder Hinweise, die dir
         ein mögliches Match anzeigen, wenn du feststeckst.
+
 

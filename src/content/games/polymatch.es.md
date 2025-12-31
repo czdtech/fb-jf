@@ -51,6 +51,8 @@ satura, la partida termina.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `tap`
 
 *   **Seleccionar ficha:** Haz clic o toca una ficha del tablero principal para
     enviarla a la zona de reserva de la parte inferior.
@@ -73,4 +75,5 @@ satura, la partida termina.
     *   **R:** Algunas versiones de PolyMatch incluyen ayudas como un botón de
         barajar o una pista que resalta una posible combinación cuando te
         quedas atascado.
+
 

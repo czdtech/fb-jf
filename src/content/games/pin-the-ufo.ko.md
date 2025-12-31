@@ -40,6 +40,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### **조작 가이드**
+<!-- i18n:controls:keys -->
+- 키(정렬)： `Click` `drag` `tap`
 
 조작은 매우 간단하며 원터치 모바일 게임플레이를 위해 설계되었습니다.
 
@@ -63,4 +65,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:pin-the-ufo:what-is-the-goal-of-c816fee5 -->
 **4. 게임의 목표는 무엇인가요?**
 목표는 모든 색이 있는 외계인을 UFO에 넣어 각 퍼즐 레벨을 성공적으로 해결하고, 가능한 한 많은 레벨을 진행하는 것입니다.
+
 

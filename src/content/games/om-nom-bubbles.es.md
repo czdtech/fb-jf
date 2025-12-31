@@ -44,6 +44,8 @@ el techo no baje demasiado.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `Click`
 
 - Apuntar: mueve el cursor o arrastra para fijar la trayectoria; algunas
   versiones muestran una guía de rebote.  
@@ -68,3 +70,4 @@ el techo no baje demasiado.
 - P: ¿Hace falta conseguir siempre las tres estrellas?  
   R: No es obligatorio, pero las puntuaciones altas suelen desbloquear niveles
   extra y son un buen reto para quienes buscan dominar el juego.
+

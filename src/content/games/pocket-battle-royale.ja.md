@@ -31,6 +31,8 @@ Pocket Battle Royaleは、バトルロイヤルフォーマットをコンパク
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD` `mouse` `Click` `left` `button`
 
 - WASD/矢印：移動します。
 - マウス/タッチ：狙い、射撃します。
@@ -49,4 +51,5 @@ Pocket Battle Royaleは、バトルロイヤルフォーマットをコンパク
 - **Q: 目的や着陸スポットの選び方は？**  
 
     - **A:** 目的は最後の1人（または最後まで残るチーム）になることです。相手を倒して勝利を目指します。
+
 

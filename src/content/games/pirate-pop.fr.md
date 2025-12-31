@@ -29,6 +29,8 @@ Pirate Pop est un jeu de bubble shooter amusant et addictif avec un thème pirat
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `left` `button`
 
 *   **Viser :** déplace ta souris pour viser le canon. Une ligne directrice utile te montrera où ta bulle ira.
 *   **Tirer :** clique sur le bouton gauche de la souris pour tirer la bulle.
@@ -47,4 +49,5 @@ Pirate Pop est un jeu de bubble shooter amusant et addictif avec un thème pirat
 <!-- i18n:faq:id=faq:pirate-pop:q-what-if-i-cant-c345ad93 -->
 *   **Q : Et si je ne peux pas faire de match ?**
     *   **R :** Tu devras faire un tir tactique. Essaie de placer la bulle à un endroit où elle ne gênera pas, ou où elle pourra être facilement éliminée plus tard avec un autre match.
+
 

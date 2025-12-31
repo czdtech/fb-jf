@@ -37,6 +37,8 @@ Onet Connect Classic reprend les principes des jeux Onet et des mahjongs de conn
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `Click`
 
 Le jeu se joue entièrement à la souris ou au toucher.
 
@@ -57,4 +59,5 @@ Le jeu se joue entièrement à la souris ou au toucher.
 <!-- i18n:faq:id=faq:onet-connect-classic:q-is-there-a-penalty-2dc7b42f -->
 *   **Q : Y a‑t‑il une pénalité pour utiliser les indices ?**
     *   **R :** En général non, mais leur nombre est limité. Utilise‑les quand tu es vraiment bloqué pour gagner du temps précieux.
+
 

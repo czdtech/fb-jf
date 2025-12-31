@@ -33,6 +33,8 @@ Om Nom Bubbles est un bubble shooter classique mettant en vedette le célèbre O
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `Click`
 
 *   **Viser :** déplace la souris ou ton doigt pour régler la trajectoire ; un guide de tir peut t'aider à anticiper le rebond.
 *   **Tirer :** clique ou relâche pour envoyer la bulle.
@@ -52,4 +54,5 @@ Om Nom Bubbles est un bubble shooter classique mettant en vedette le célèbre O
 <!-- i18n:faq:id=faq:om-nom-bubbles:do-i-need-all-stars-c6a73dae -->
 *   **Q : Dois‑je obtenir toutes les étoiles ?**
     *   **R :** Non, mais de meilleures notes débloquent parfois des niveaux bonus et constituent un objectif de maîtrise amusant.
+
 

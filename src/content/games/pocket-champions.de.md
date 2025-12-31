@@ -50,6 +50,8 @@ Pocket Champs ist ein Idle-Mehrspieler-Rennspiel, in dem du das Rennen selbst
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `click` `Click` `enter`
 
 Die Steuerung erfolgt über Menüs.
 
@@ -79,4 +81,5 @@ Die Steuerung erfolgt über Menüs.
     *   **A:** Es gibt kein allgemeines „bestes“ Gadget. Das beste ist immer
         das, das zum nächsten großen Hindernis passt: Ein Speedboat ist auf
         einer Laufstrecke nutzlos, auf Wasserpassagen aber entscheidend.
+
 

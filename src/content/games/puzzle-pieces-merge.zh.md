@@ -29,6 +29,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `drag` `click` `right` `button`
 
 *   **移动碎片：** 使用鼠标拖拽碎片，从侧边或底部区域拖到中心拼图区域。
 *   **旋转碎片：** 部分版本通过右键点击或点击旋转按钮来调整碎片方向，也可能支持键盘快捷键。
@@ -47,4 +49,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:puzzle-pieces-merge:q-what-is-the-goal-ab58581b -->
 *   **问：游戏的目标是什么？**
     *   **答：** 目标是使用所有提供的拼图碎片成功完成整幅图像。
+
 

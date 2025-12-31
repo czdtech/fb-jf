@@ -44,6 +44,8 @@ concreto.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag`
 
 - Arrastra los coches a lo largo del eje permitido (solo en la dirección en la
   que están orientados); usa los botones de deshacer o reinicio de la interfaz
@@ -65,4 +67,5 @@ concreto.
 - **P: ¿Hay sistema de pistas?**  
   **R:** Muchas versiones incluyen pistas paso a paso; úsalas con moderación si
   quieres mantener el reto.
+
 

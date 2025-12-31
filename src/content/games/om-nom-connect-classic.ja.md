@@ -32,6 +32,8 @@ Om Nom Connect Classicは、愛らしいOm Nomキャラクターをフィーチ�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Click` `click`
 
 
 クリック/タップのシンプルな操作で遊べます。
@@ -52,4 +54,5 @@ Om Nom Connect Classicは、愛らしいOm Nomキャラクターをフィーチ�
 - **Q: ヒントは無制限ですか？**  
 
     - **A:** 多くは無制限ではありません。1か所に固執せず、盤面全体を見渡してペアを探すと見落としが減ります。
+
 

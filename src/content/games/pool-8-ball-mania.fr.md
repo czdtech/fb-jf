@@ -44,6 +44,8 @@ revenir, et le side‑spin sur les bandes pour ajuster les trajectoires.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag`
 
 - Viser : fais glisser pour ajuster l’angle.  
 - Puissance : tire sur la jauge pour régler la force du coup.  
@@ -67,4 +69,5 @@ revenir, et le side‑spin sur les bandes pour ajuster les trajectoires.
 - **Q : Des conseils pour la casse ?**  
   R : Vise la bille de tête le plus plein possible, utilise une puissance
   moyenne et essaie de garder la blanche près du centre de la table.
+
 

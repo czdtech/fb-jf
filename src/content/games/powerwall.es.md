@@ -47,6 +47,8 @@ consigas aguantar sin que la pelota cruce tu portería, mayor será tu puntuaci�
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `left` `button` `tap`
 
 *   **Activar Powerwall:** Haz clic con el **botón izquierdo del ratón** o toca
     la pantalla para activar tu muro de energía. La barrera solo permanece
@@ -70,4 +72,5 @@ consigas aguantar sin que la pelota cruce tu portería, mayor será tu puntuaci�
 *   **P: ¿Cuál es el objetivo del juego?**
     *   **R:** Sobrevivir el mayor tiempo posible y conseguir la máxima
         puntuación bloqueando la pelota una y otra vez.
+
 

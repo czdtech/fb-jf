@@ -30,6 +30,8 @@ Panenka Footballは、有名なPanenkaペナルティキック技術に焦点を
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `drag`
 
 - クリック/タップしてパワーを設定します。
 - 方向を選択します。
@@ -47,4 +49,5 @@ Panenka Footballは、有名なPanenkaペナルティキック技術に焦点を
 <!-- i18n:faq:id=faq:panenka-football:how-do-i-hide-intent-1f122414 -->
 - **Q: 他のショットタイプはありますか？**  
   A: はい、ほとんどのバージョンは通常のショットとPanenkaを許可します。
+
 

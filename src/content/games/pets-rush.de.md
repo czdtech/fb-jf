@@ -47,6 +47,8 @@ Pets Rush ist ein rasantes Match-3-Spiel mit niedlichem Tier-Theme. Anders als
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `click` `click` `drag`
 
 Gespielt wird mit einfachen Tauschbewegungen.
 
@@ -74,4 +76,5 @@ Gespielt wird mit einfachen Tauschbewegungen.
     *   **A:** Nur indirekt – jedes erfolgreiche Match stoppt die Wand für einen
         kurzen Moment. Je schneller du Kombinationen findest, desto besser hältst
         du sie auf.
+
 

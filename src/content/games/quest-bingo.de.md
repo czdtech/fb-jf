@@ -46,6 +46,8 @@ Quest Bingo bringt das klassische Bingo in ein Level- und Quest-System.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `click` `click` `Click`
 
 Gespielt wird mit einfachen Klicks oder Taps.
 
@@ -73,4 +75,5 @@ Gespielt wird mit einfachen Klicks oder Taps.
 *   **F: Wie bekomme ich mehr Booster?**
     *   **A:** Booster lädst du durch das Markieren bestimmter Zahlen, den Abschluss
         von Leveln oder durch tägliche Belohnungen und Glücksrad‑/Bonus‑Events auf.
+
 

@@ -42,6 +42,8 @@ alterar el ritmo y leer al portero que de la potencia bruta.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `drag`
 
 - Lanzar: apunta, ajusta potencia y, si la versión lo permite, aplica efecto.  
 - Portero: elige lado y momento del salto; algunas versiones permiten controlar
@@ -64,4 +66,5 @@ alterar el ritmo y leer al portero que de la potencia bruta.
 - **P: ¿Cómo oculto mejor hacia dónde voy a tirar?**  
   **R:** Cambia el ángulo de carrera, decide tarde y juega con pequeñas pausas
   antes de chutar para forzar al portero a adivinar.
+
 

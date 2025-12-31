@@ -30,6 +30,8 @@ Pocket Champs est un jeu de course multijoueur idle où tu ne contrôles pas dir
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `click` `Click` `enter`
 
 Le jeu se joue à travers une série de menus.
 
@@ -51,4 +53,5 @@ Le jeu se joue à travers une série de menus.
 <!-- i18n:faq:id=faq:pocket-champions:q-what-is-the-best-a00d8be9 -->
 *   **Q : Quel est le meilleur gadget ?**
     *   **R :** Il n'y a pas de « meilleur » gadget unique. Le meilleur est toujours celui qui correspond au prochain obstacle majeur sur le parcours. Un bateau à moteur est inutile sur une piste de course, mais essentiel sur une piste aquatique.
+
 

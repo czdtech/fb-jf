@@ -34,6 +34,8 @@ Om Nom Connect Classic est un puzzle de connexion rapide mettant en scène les p
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `click`
 
 Le jeu se joue avec de simples clics ou taps.
 
@@ -53,4 +55,5 @@ Le jeu se joue avec de simples clics ou taps.
 <!-- i18n:faq:id=faq:om-nom-connect-classic:q-whats-the-best-strategy-d4fb183f -->
 *   **Q : Quel est le meilleur conseil pour trouver les paires rapidement ?**
     *   **R :** Ne fixe pas une seule tuile trop longtemps. Garde les yeux en mouvement et scanne l'ensemble du plateau ; parfois les paires les plus évidentes sont celles qu'on oublie quand on se concentre trop sur une zone.
+
 

@@ -48,6 +48,8 @@ Quest 21 ist ein kartenbasiertes Abenteuer auf Basis der klassischen
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `Click`
 
 Das Spiel wird über Buttons bedient.
 
@@ -73,3 +75,4 @@ Das Spiel wird über Buttons bedient.
 *   **F: Was passiert bei einem Unentschieden?**
     *   **A:** Ein Gleichstand heißt „Push“. In vielen Casual‑Versionen gewinnt
         oder verliert niemand – du gehst einfach in die nächste Runde.
+

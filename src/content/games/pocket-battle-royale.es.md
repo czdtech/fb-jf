@@ -47,6 +47,8 @@ estrategia.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD` `mouse` `Click` `left` `button`
 
 *   **Movimiento:** Usa las teclas **W, A, S, D** para mover a tu personaje hacia
     arriba, izquierda, abajo y derecha.
@@ -73,3 +75,4 @@ estrategia.
 *   **P: ¿Cuál es el objetivo del juego?**
     *   **R:** Ser el último jugador con vida. Elimina a todos tus oponentes para
         ganar la partida.
+

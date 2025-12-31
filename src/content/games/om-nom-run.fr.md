@@ -35,6 +35,8 @@ Om Nom Run est un jeu de course infinie où tu incarnes Om Nom et ses amis dans 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `swipe` `Swipe` `Swipe` `Swipe`
 
 Le jeu utilise des gestes de glissement simples et intuitifs.
 
@@ -56,4 +58,5 @@ Le jeu utilise des gestes de glissement simples et intuitifs.
 <!-- i18n:faq:id=faq:om-nom-run:q-how-do-i-unlock-9f47880d -->
 *   **Q : Comment débloquer d'autres personnages comme Om Nelle ?**
     *   **R :** Les nouveaux personnages peuvent généralement être débloqués en collectant un grand nombre de pièces ou en rassemblant des jetons de personnage spéciaux qui apparaissent aléatoirement pendant les courses.
+
 

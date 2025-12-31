@@ -42,6 +42,8 @@ Pool 8 Ball Mania simuliert lockeres 8-Ball-Billard mit feinfühligem Zielen und
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag`
 
 - **Zielen:** Ziehe mit der Maus, um den Zielwinkel einzustellen.
 - **Stoßstärke:** Ziehe an der Power‑Leiste, um die gewünschte Stärke
@@ -69,4 +71,5 @@ Pool 8 Ball Mania simuliert lockeres 8-Ball-Billard mit feinfühligem Zielen und
   
   Triff die vordere Kugel möglichst zentral, nutze mittlere bis hohe Power und
   versuche, die Weiße nahe der Tischmitte zu kontrollieren.
+
 

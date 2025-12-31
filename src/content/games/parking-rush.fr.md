@@ -31,6 +31,8 @@ Parking Rush est un jeu de puzzle de dessin de lignes intelligent et addictif qu
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `hold` `drag` `mouse`
 
 Le jeu se joue avec un simple mécanisme de dessin de lignes.
 
@@ -50,4 +52,5 @@ Le jeu se joue avec un simple mécanisme de dessin de lignes.
 <!-- i18n:faq:id=faq:parking-rush:q-do-i-have-to-370e86e4 -->
 *   **Q : Dois‑je garer toutes les voitures ?**
     *   **R :** Oui, le niveau n'est terminé que lorsque chaque voiture a été guidée en toute sécurité vers sa place de parking correspondante.
+
 

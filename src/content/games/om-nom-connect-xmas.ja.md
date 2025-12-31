@@ -34,6 +34,8 @@ Om Nom Connect Xmasは、Om Nom Connectのルールで遊べるクリスマス�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `click` `Click`
 
 - 同じクリスマステーマのタイルをクリック/タップします。
 - 有効なパス（≤2ターン）で接続します。
@@ -52,4 +54,5 @@ Om Nom Connect Xmasは、Om Nom Connectのルールで遊べるクリスマス�
 - **Q: レベルはいくつありますか？**  
 
     - **A:** バージョンによって異なりますが、通常は数十レベル程度です。
+
 

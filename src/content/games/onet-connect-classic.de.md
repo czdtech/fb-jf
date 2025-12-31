@@ -55,6 +55,8 @@ Onet Connect Classic ist ein schnelles, süchtig machendes
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `Click`
 
 Das Spiel wird komplett mit Maus oder per Touch gesteuert.
 
@@ -79,4 +81,5 @@ Das Spiel wird komplett mit Maus oder per Touch gesteuert.
 *   **F: Gibt es eine Strafe für Hinweise?**
     *   **A:** Normalerweise nicht, aber du hast nur eine begrenzte Anzahl. Nutze
         Hinweise, wenn du wirklich feststeckst, um Zeit zu sparen.
+
 

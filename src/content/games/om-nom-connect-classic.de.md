@@ -49,6 +49,8 @@ Om Nom Connect Classic ist ein schnelles, liebevoll gestaltetes
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `click`
 
 Das Spiel wird allein mit Mausklicks oder Taps gespielt.
 
@@ -74,4 +76,5 @@ Das Spiel wird allein mit Mausklicks oder Taps gespielt.
     *   **A:** Fixiere dich nicht zu lange auf eine Stelle. Lass deinen Blick
         über das gesamte Brett wandern. Oft übersieht man offensichtliche Paare,
         wenn man sich zu sehr auf einen kleinen Bereich konzentriert.
+
 

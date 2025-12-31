@@ -29,6 +29,8 @@ Powerwall est un jeu d'arcade minimaliste et haute énergie qui teste tes réfle
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `left` `button` `tap`
 
 *   **Activer Powerwall :** clique sur le bouton gauche de la souris ou tape sur l'écran pour activer ta barrière d'énergie. Le mur ne reste actif que pendant une très courte période, donc le timing est critique.
 
@@ -46,4 +48,5 @@ Powerwall est un jeu d'arcade minimaliste et haute énergie qui teste tes réfle
 <!-- i18n:faq:id=faq:powerwall:q-what-is-the-goal-ab58581b -->
 *   **Q : Quel est l'objectif du jeu ?**
     *   **R :** L'objectif est de survivre le plus longtemps possible et d'atteindre le score le plus élevé en bloquant la balle avec succès.
+
 

@@ -39,7 +39,7 @@ L'immense popularité du jeu vient de sa liste de personnages spirituelle et con
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `W, A, S, D`
+- Touches (alignement)： `mouse` `mouse` `click` `click` `Click` `W, A, S, D` `mouse`
 
 En tant que jeu Roblox, les contrôles sont simples et à la souris.
 
@@ -70,4 +70,5 @@ Oui, le jeu est free‑to‑play. Cependant, comme de nombreux jeux Roblox, il p
 <!-- i18n:faq:id=faq:plants-vs-brainrots:how-do-i-stay-updated-eae93b2e -->
 **5. Comment rester informé des nouveaux mèmes et plantes ajoutés au jeu ?**
 Le site recommande de rejoindre le serveur **Discord** officiel du jeu. C'est là que les développeurs annoncent les mises à jour, publient des codes pour des objets gratuits et interagissent avec la communauté des joueurs.
+
 

@@ -47,6 +47,8 @@ más, provoca combos y mantén el tablero a raya para lograr una puntuación alt
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `click` `click` `drag`
 
 El juego emplea controles sencillos de intercambio.
 
@@ -73,4 +75,5 @@ El juego emplea controles sencillos de intercambio.
     *   **R:** La única manera es seguir haciendo combinaciones. Cada match
         exitoso pausa el avance del muro durante un instante y te da un pequeño
         respiro.
+
 

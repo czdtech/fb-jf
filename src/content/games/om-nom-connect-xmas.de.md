@@ -48,6 +48,8 @@ In Om Nom Connect Xmas begleitest du den knuffigen Om Nom durch ein
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `click` `Click`
 
 *   **Kachel wählen:** Klicke mit der Maus auf eine Kachel, um sie auszuwählen.
 *   **Verbinden:** Klicke anschließend auf eine zweite, identische Kachel.
@@ -73,4 +75,5 @@ In Om Nom Connect Xmas begleitest du den knuffigen Om Nom durch ein
 *   **F: Gibt es ein Zeitlimit?**
     *   **A:** Ja, jedes Level hat einen Timer. Du musst das gesamte Brett
         räumen, bevor die Zeit abläuft, um zu gewinnen.
+
 

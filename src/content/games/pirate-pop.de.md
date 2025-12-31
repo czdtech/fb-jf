@@ -45,6 +45,8 @@ Pirate Pop ist ein spaßiger, süchtig machender Bubble-Shooter im
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `left` `button`
 
 *   **Zielen:** Bewege die Maus, um deine Kanone auszurichten. Eine Hilfslinie
     zeigt dir meist die Flugbahn.
@@ -69,4 +71,5 @@ Pirate Pop ist ein spaßiger, süchtig machender Bubble-Shooter im
     *   **A:** Dann brauchst du einen taktischen Schuss. Platziere die Blase so,
         dass sie nicht im Weg ist oder später leicht mit einer passenden Farbe
         entfernt werden kann.
+
 

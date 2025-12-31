@@ -34,6 +34,8 @@ Odd One Out est un jeu de réflexion basé sur l'observation. À chaque niveau, 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `mouse`
 
 *   Clique ou touche simplement l'objet que tu penses être l'intrus.
 *   Certains modes te laissent zoomer ou faire défiler si la scène est plus grande que l'écran.
@@ -48,4 +50,5 @@ Odd One Out est un jeu de réflexion basé sur l'observation. À chaque niveau, 
 <!-- i18n:faq:id=faq:odd-one-out:q-is-there-a-time-c0411996 -->
 *   **Q : Le jeu devient‑il plus difficile ?**
     *   **R :** Oui, les différences deviennent de plus en plus fines, ce qui met vraiment à l'épreuve ton sens du détail.
+
 

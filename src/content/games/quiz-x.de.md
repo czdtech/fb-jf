@@ -42,6 +42,8 @@ Quiz x stellt dir im Schnellfeuer-Modus Fragen aus Allgemeinwissen,
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click`
 
 - Klicke oder tippe auf die gewünschte Antwort. In manchen Versionen kannst du
   auch mit Tastenkürzeln antworten oder zwischen Runden pausieren.
@@ -66,4 +68,5 @@ Quiz x stellt dir im Schnellfeuer-Modus Fragen aus Allgemeinwissen,
   
   Einige Varianten bieten Duelle oder Lobbys gegen andere Spieler. Lies die
   Hinweise im jeweiligen Modus, um die Regeln zu kennen.
+
 

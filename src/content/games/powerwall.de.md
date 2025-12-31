@@ -32,6 +32,8 @@ Powerwall ist ein minimalistisches, energiegeladenes Arcade-Spiel, das deine Ref
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `left` `button` `tap`
 
 *   **Powerwall aktivieren:** Klicke die linke Maustaste oder tippe auf den Bildschirm, um deine Energiebarriere zu aktivieren. Die Wand bleibt nur für eine sehr kurze Zeit aktiv, daher ist Timing entscheidend.
 
@@ -49,4 +51,5 @@ Powerwall ist ein minimalistisches, energiegeladenes Arcade-Spiel, das deine Ref
 <!-- i18n:faq:id=faq:powerwall:q-what-is-the-goal-ab58581b -->
 *   **F: Was ist das Ziel des Spiels?**
     *   **A:** Das Ziel ist, so lange wie möglich zu überleben und den höchsten Punktestand zu erreichen, indem du den Ball erfolgreich blockierst.
+
 

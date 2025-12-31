@@ -47,6 +47,8 @@ Poly Art (auch als Poly Puzzle bekannt) ist ein optisch beeindruckendes,
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `hold` `left` `button` `drag` `mouse` `Swipe`
 
 Die Steuerung ist minimalistisch und intuitiv.
 
@@ -73,4 +75,5 @@ Die Steuerung ist minimalistisch und intuitiv.
     *   **A:** Nein, Poly Art ist als stressfreies Puzzle gedacht. Es gibt in der
         Regel weder Zeitdruck noch Strafpunkte – du kannst in deinem eigenen Tempo
         knobeln.
+
 

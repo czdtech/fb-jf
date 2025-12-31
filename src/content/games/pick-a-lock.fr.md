@@ -31,6 +31,8 @@ Pick a Lock est un jeu de rythme‑timing minimaliste : une aiguille tourne auto
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `click`
 
 - Tape/clique quand l'aiguille recouvre les marqueurs ; certaines variantes supportent les appuis clavier.
 
@@ -51,4 +53,5 @@ Pick a Lock est un jeu de rythme‑timing minimaliste : une aiguille tourne auto
 - Q : Les FPS comptent‑ils ?
   
   R : Un framerate stable aide ; ferme les autres apps si le timing semble incohérent.
+
 

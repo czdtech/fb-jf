@@ -47,6 +47,8 @@ navideños, es un puzle relajante pero desafiante, perfecto para las fiestas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `click` `Click`
 
 *   **Seleccionar fichas:** usa el ratón o la pantalla táctil para pulsar una
     ficha y luego su pareja idéntica.
@@ -72,4 +74,5 @@ navideños, es un puzle relajante pero desafiante, perfecto para las fiestas.
 *   **P: ¿Hay límite de tiempo?**
     *   **R:** Sí. Cada nivel tiene un temporizador y debes limpiar el tablero
         antes de que se acabe para ganar.
+
 

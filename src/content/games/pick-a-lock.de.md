@@ -44,6 +44,8 @@ Pick a Lock ist ein minimalistisches Rhythmus- und Timing-Spiel. Ein Zeiger
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `click`
 
 - Tippe oder klicke genau dann, wenn der Zeiger die Markierungen überdeckt;
   manche Varianten unterstützen auch Tastatureingaben.
@@ -68,4 +70,5 @@ Pick a Lock ist ein minimalistisches Rhythmus- und Timing-Spiel. Ein Zeiger
   
   Eine stabile Bildrate hilft beim Timing. Schließe andere Anwendungen, wenn
   das Spiel ruckelt oder sich ungenau anfühlt.
+
 

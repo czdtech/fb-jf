@@ -63,6 +63,8 @@ Die Herausforderung besteht darin, eine Pin-Reihenfolge zu finden, in der alle
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `drag` `tap`
 
 Die Steuerung ist simpel und für One-Touch-Eingaben ausgelegt.
 
@@ -94,3 +96,4 @@ Zwischenschritt schaffen, bevor du den Weg zum UFO freigibst.
 **4. Was ist das eigentliche Ziel?**  
 Du musst alle eingefärbten Aliens sicher im UFO sammeln und damit jedes Level
 lösen, um in der Kampagne weiterzukommen.
+

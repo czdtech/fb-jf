@@ -47,6 +47,8 @@ negocio desde un pequeño local de barrio hasta una pizzería de fama mundial.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `mouse` `Click` `Click` `click` `Click`
 
 *   **Apuntar y hacer clic:** el juego se controla íntegramente con el ratón.  
 *   **Elegir ingredientes:** haz clic en la masa, la salsa y los toppings para
@@ -74,4 +76,5 @@ negocio desde un pequeño local de barrio hasta una pizzería de fama mundial.
 *   **P: ¿Hay mejoras o desbloqueos en el juego?**
     *   **R:** Sí. A medida que avanzas irás desbloqueando nuevos ingredientes y
         elementos del menú, lo que añade variedad y aumenta el desafío.
+
 

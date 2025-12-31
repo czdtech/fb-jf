@@ -32,6 +32,8 @@ One Line Only: Dot to Dot est un jeu de réflexion minimaliste basé sur le trac
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag`
 
 - Clique ou touche un point pour commencer le trait, puis fais glisser pour suivre les segments jusqu'à relier tous les points. Relâche pour terminer ; un bouton permet de recommencer si nécessaire.
 
@@ -49,4 +51,5 @@ One Line Only: Dot to Dot est un jeu de réflexion minimaliste basé sur le trac
 <!-- i18n:faq:id=faq:one-line-only-dot-to-dot:any-hint-system-83b1a6f0 -->
 - **Q : Je termine à un segment du but, pourquoi ?**
   **R :** Tu as probablement commencé au mauvais point ; essaie un autre nœud à degré impair comme point de départ.
+
 

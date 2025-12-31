@@ -35,6 +35,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `click` `Click` `enter`
 
 游戏通过一系列菜单进行操作。
 
@@ -56,4 +58,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:pocket-champions:q-what-is-the-best-a00d8be9 -->
 *   **问：有没有"最强装备"？**
     *   **答：** 没有绝对最强，只有最适合当局赛道的装备。再强的游泳装备在全陆地赛道上也帮不上忙，关键是看当前赛道主要考验哪种能力。
+
 

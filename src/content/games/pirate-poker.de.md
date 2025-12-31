@@ -48,6 +48,8 @@ Pirate Poker ist klassisches Five-Card-Draw-Poker mit Piraten-Flair. Du sitzt
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `click` `click`
 
 Du bedienst alles über Buttons auf dem Bildschirm.
 
@@ -78,4 +80,5 @@ Du bedienst alles über Buttons auf dem Bildschirm.
     *   **A:** Wenn dein Blatt sehr schwach ist (kein Paar, keine realistische
         Chance auf Straße/Flush) und Gegner hoch setzen, ist es oft besser, den
         kleinen Verlust zu akzeptieren, statt noch mehr Dublonen zu riskieren.
+
 

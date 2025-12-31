@@ -32,6 +32,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `click` `click` `drag`
 
 游戏使用简单的交换操控方式。
 
@@ -51,4 +53,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:pets-rush:q-is-there-a-way-d880d766 -->
 *   **问：方块上升的速度能停下来吗？**
     *   **答：** 每次成功消除都会让上升节奏短暂停顿，这是你"喘口气"的机会。保持连续消除可以压制整体推进节奏，让你有更多时间寻找下一步。
+
 

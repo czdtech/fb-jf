@@ -49,6 +49,8 @@ experiencia tan relajante como adictiva para amantes de los puzles.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `drag` `click` `right` `button`
 
 *   **Mover pieza:** Haz clic y arrastra una ficha desde tu inventario hasta el
     tablero principal del puzle.
@@ -75,4 +77,5 @@ experiencia tan relajante como adictiva para amantes de los puzles.
 *   **P: ¿Cuál es el objetivo del juego?**
     *   **R:** Colocar todas las piezas que se te ofrecen hasta completar la
         imagen al 100 %.
+
 

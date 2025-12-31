@@ -30,6 +30,8 @@ Northern Heightsは、険しい山の登頂を目指すサバイバルゲーム�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Arrow Keys` `Mouse` `arrow keys` `mouse`
 
 - クリック/タップして登山ルートを選択します。
 - リソースとインベントリを管理します。
@@ -44,3 +46,4 @@ Northern Heightsは、険しい山の登頂を目指すサバイバルゲーム�
 <!-- i18n:faq:id=faq:northern-heights:q-what-can-i-do-0eeda2c4 -->
     - **Q: 最高のルートは何ですか？**  
   A: リスクと速度のバランス。あなたのリソースに依存します。
+

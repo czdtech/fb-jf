@@ -31,6 +31,8 @@ Bienvenue chez Panda Pizza Parlor, un jeu de cuisine charmant et rapide où tu g
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `mouse` `Click` `Click` `click` `Click`
 
 *   **Pointer et cliquer :** le jeu se joue entièrement à la souris.
 *   **Sélectionner les ingrédients :** clique sur la pâte, la sauce et les garnitures pour les ajouter à la pizza.
@@ -51,4 +53,5 @@ Bienvenue chez Panda Pizza Parlor, un jeu de cuisine charmant et rapide où tu g
 <!-- i18n:faq:id=faq:panda-pizza-parlor:q-are-there-upgrades-in-cdf9735d -->
 *   **Q : Y a‑t‑il des améliorations dans le jeu ?**
     *   **R :** Au fur et à mesure que tu progresses dans les niveaux, tu débloqueras de nouvelles garnitures et éléments de menu, ce qui ajoute plus de complexité et de défi au jeu.
+
 

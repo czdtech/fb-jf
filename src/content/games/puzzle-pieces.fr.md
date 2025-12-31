@@ -41,6 +41,8 @@ que les grilles deviennent plus complexes.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `click` `tap`
 
 - Fais glisser pour déplacer les pièces ; fais‑les pivoter via un clic, un
   tap ou un bouton dédié.  
@@ -63,4 +65,5 @@ que les grilles deviennent plus complexes.
 - **Des indices sont‑ils disponibles ?**  
   Beaucoup de versions proposent des indices. Utilise‑les avec parcimonie
   pour conserver le plaisir de la réflexion.
+
 

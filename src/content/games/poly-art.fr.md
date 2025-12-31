@@ -30,6 +30,8 @@ Poly Art (ou Poly Puzzle) est un jeu de puzzle 3D visuellement époustouflant et
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `hold` `left` `button` `drag` `mouse` `Swipe`
 
 Les contrôles sont minimalistes et intuitifs.
 
@@ -50,4 +52,5 @@ Les contrôles sont minimalistes et intuitifs.
 <!-- i18n:faq:id=faq:poly-art:q-is-there-a-time-6feb9409 -->
 *   **Q : Y a‑t‑il une limite de temps ou une pénalité pour les mauvais mouvements ?**
     *   **R :** Non. Les jeux Poly Art sont conçus pour être sans stress. Il n'y a pas de limites de temps, de scores ou de pénalités, te permettant de résoudre les puzzles à ton propre rythme.
+
 

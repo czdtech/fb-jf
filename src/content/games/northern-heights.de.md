@@ -44,6 +44,8 @@ Northern Heights ist ein Ski-Spiel, das dich über verschneite Hänge und
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow Keys` `Mouse` `arrow keys` `mouse`
 
 *   **Pfeiltasten/Maus:** Steuere deinen Charakter mit den Pfeiltasten oder der
     Maus den Hang hinunter. Je nach Version gibt es zusätzliche Tasten für
@@ -61,4 +63,5 @@ Northern Heights ist ein Ski-Spiel, das dich über verschneite Hänge und
 *   **F: Wofür kann ich die eingesammelten Münzen verwenden?**
     *   **A:** Mit Münzen kaufst du Anpassungen für deinen Charakter, darunter
         neue Boards und Kleidung.
+
 

@@ -32,6 +32,8 @@ Om Nom 连连看经典版是一款有趣且快节奏的方块匹配益智游戏�
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `click`
 
 游戏通过简单的点击或触摸进行。
 
@@ -48,4 +50,5 @@ Om Nom 连连看经典版是一款有趣且快节奏的方块匹配益智游戏�
 <!-- i18n:faq:id=faq:om-nom-connect-classic:q-whats-the-best-strategy-d4fb183f -->
 *   **问：快速找到匹配的最佳策略是什么？****
     *   答：** 不要在一个方块上停留太久。保持眼睛移动并扫描整个棋盘。有时最明显的对是你过于专注于特定区域时忽略的对。
+
 

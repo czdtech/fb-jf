@@ -33,6 +33,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `mouse` `Click` `drag`
 
 游戏使用简单的鼠标或触屏操控。
 
@@ -52,4 +54,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:pirates-match-3:q-what-happens-if-i-63c9772b -->
 *   **问：如果步数用完还没完成目标会怎样？**
     *   **答：** 步数耗尽且关卡目标未完成时，这一局会判定失败，需要重新挑战该关卡；部分版本可能允许使用额外道具或付费步数继续。
+
 

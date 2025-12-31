@@ -45,6 +45,8 @@ para soltar enormes racimos de burbujas y hacerte con el tesoro.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `left` `button`
 
 *   **Apuntar:** Mueve el ratón para orientar el cañón; una guía te muestra la
     trayectoria del disparo.
@@ -70,3 +72,4 @@ para soltar enormes racimos de burbujas y hacerte con el tesoro.
     *   **R:** Te tocará hacer un disparo táctico. Intenta colocar la burbuja en
         un sitio donde no estorbe o donde puedas eliminarla fácilmente más tarde
         con otra combinación.
+

@@ -30,6 +30,8 @@ Panenka Football met en avant la Panenka, ce penalty piqué doucement au centre 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `drag`
 
 - Vise avec la souris ou les touches, règle la puissance/hauteur puis déclenche la frappe. Certains modes autorisent un effet supplémentaire.
 
@@ -47,4 +49,5 @@ Panenka Football met en avant la Panenka, ce penalty piqué doucement au centre 
 <!-- i18n:faq:id=faq:panenka-football:how-do-i-hide-intent-1f122414 -->
 - **Q : Comment masquer mes intentions ?**
   **R :** Change ta visée tardivement et varie le tempo de ta course d'élan.
+
 

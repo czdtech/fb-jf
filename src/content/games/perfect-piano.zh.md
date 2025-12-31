@@ -28,6 +28,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Tap` `mouse` `click`
 
 游戏使用简单的点击或触摸操作。
 
@@ -47,4 +49,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:perfect-piano:q-can-i-play-different-3e2a64ff -->
 *   **问：可以选择不同的曲目吗？**
     *   **答：** 可以，游戏通常内置多首曲子，并按难度分级。部分高级曲目需要你先完成前面较容易的关卡，或达成一定成绩后才能解锁。
+
 

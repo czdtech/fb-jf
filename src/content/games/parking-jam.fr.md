@@ -32,6 +32,8 @@ Parking Jam est un puzzle dans l'esprit de Rush Hour : tu fais glisser des voitu
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag`
 
 - Fais glisser les voitures uniquement le long de leur axe (avant/arrière ou gauche/droite). Utilise les boutons d'annulation ou de reset pour recommencer un niveau.
 
@@ -49,4 +51,5 @@ Parking Jam est un puzzle dans l'esprit de Rush Hour : tu fais glisser des voitu
 <!-- i18n:faq:id=faq:parking-jam:any-hints-0ea898ea -->
 - **Q : Y a‑t‑il des indices ?**
   **R :** De nombreuses versions proposent des indices étape par étape ; utilise‑les avec modération pour préserver le défi.
+
 

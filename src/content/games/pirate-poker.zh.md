@@ -31,6 +31,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `click` `click`
 
 游戏通过屏幕按钮完成所有操作：
 
@@ -54,3 +56,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:pirate-poker:q-when-should-i-fold-d4d47b5c -->
 *   **问：什么时候应该果断弃牌？**
     *   **答：** 当你只是高牌或极弱的一对，而对手在多轮中持续大额加注时，继续硬跟通常只会投入更多筹码却难以翻盘，此时及时止损往往更明智。
+

@@ -41,6 +41,8 @@ bien la ruta y controlar cuándo retroceder.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag`
 
 - Arrastra para dibujar siguiendo los segmentos; usa los botones de deshacer o
   limpiar en la interfaz para corregir o reiniciar.
@@ -61,4 +63,5 @@ bien la ruta y controlar cuándo retroceder.
 - P: Hay sistema de pistas?  
   R: Muchas versiones incluyen pistas o resaltan los puentes obligatorios para
   ayudarte.
+
 

@@ -54,6 +54,8 @@ Pirates Match 3 ist ein klassisches 3-Gewinnt-Puzzlespiel mit Piratenflair.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `drag`
 
 Das Spiel wird mit Maus oder Touch gesteuert.
 
@@ -79,4 +81,5 @@ Das Spiel wird mit Maus oder Touch gesteuert.
 *   **F: Was passiert, wenn mir die Züge ausgehen?**
     *   **A:** Wenn du das Levelziel nicht erreicht hast, bevor dir die Züge
         ausgehen, musst du das Level neu starten.
+
 

@@ -30,6 +30,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Mouse` `mouse`
 
 *   **鼠标/触摸**：使用鼠标或触摸屏选择你认为是不同者的物品。
 
@@ -41,4 +43,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:odd-one-out:q-is-there-a-time-c0411996 -->
 *   **问：有时间限制吗？****
     *   答：** 这可能有所不同，但通常这些游戏更多的是关于思考和观察而不是速度。
+
 

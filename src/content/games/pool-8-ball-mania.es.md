@@ -44,6 +44,8 @@ lateral sobre las bandas para ajustar ángulos y líneas de tiro.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag`
 
 - **Apuntar:** Arrastra para alinear el taco con la bola y el objetivo.
 - **Potencia:** Tira del medidor hacia atrás y suéltalo para ajustar la fuerza.
@@ -73,4 +75,5 @@ lateral sobre las bandas para ajustar ángulos y líneas de tiro.
   
   **R:** Impacta lo más cuadrado posible en la bola de cabeza, usa una potencia
   moderada y céntrate en mantener la bola blanca cerca del centro de la mesa.
+
 

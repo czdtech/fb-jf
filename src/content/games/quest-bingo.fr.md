@@ -29,6 +29,8 @@ Quest Bingo prend le plaisir intemporel du Bingo classique et le transforme en u
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `click` `click` `Click`
 
 Le jeu se joue avec de simples clics ou tapes.
 
@@ -50,4 +52,5 @@ Le jeu se joue avec de simples clics ou tapes.
 <!-- i18n:faq:id=faq:quest-bingo:q-how-do-i-get-05e56569 -->
 *   **Q : Comment obtenir plus de boosters ?**
     *   **R :** Les boosters sont généralement gagnés en cochant des numéros spéciaux, en complétant des niveaux ou via des récompenses de connexion quotidiennes et des roues bonus.
+
 

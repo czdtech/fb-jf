@@ -35,6 +35,8 @@ Quest 21 est une aventure de cartes amusante et stratégique basée sur les règ
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `Click`
 
 Le jeu se joue avec des boutons à l'écran.
 
@@ -55,4 +57,5 @@ Le jeu se joue avec des boutons à l'écran.
 <!-- i18n:faq:id=faq:quest-21:q-what-happens-if-there-89d681b5 -->
 *   **Q : Que se passe‑t‑il en cas d'égalité ?**
     *   **R :** Une égalité s'appelle un « push ». Dans la plupart des versions décontractées du jeu, cela signifie simplement que personne ne gagne ni ne perd la main, et vous passez à la manche suivante.
+
 

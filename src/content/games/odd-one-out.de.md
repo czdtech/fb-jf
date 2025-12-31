@@ -41,6 +41,8 @@ ist es, den einen Gegenstand zu finden, der nicht in diese Gruppe passt.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `mouse`
 
 *   **Maus/Touch:** Nutze Maus oder Touchscreen, um das Objekt auszuwählen, das
     deiner Meinung nach nicht in die Gruppe passt.
@@ -58,4 +60,5 @@ offensichtlich, manchmal versteckter.
 *   **F: Gibt es ein Zeitlimit?**
     *   **A:** Je nach Version gibt es ein lockeres oder gar kein Zeitlimit. Im Fokus
 stehen Beobachtungsgabe und ruhiges Nachdenken, nicht Reaktionstempo.
+
 

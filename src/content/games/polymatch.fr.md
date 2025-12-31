@@ -31,6 +31,8 @@ PolyMatch est un jeu de puzzle d'association de tuiles engageant qui met à l'é
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `tap`
 
 *   **Sélectionner une tuile :** clique ou tape sur une tuile du plateau de jeu principal pour la déplacer vers la zone de réserve en bas.
 
@@ -48,4 +50,5 @@ PolyMatch est un jeu de puzzle d'association de tuiles engageant qui met à l'é
 <!-- i18n:faq:id=faq:polymatch:q-are-there-powerups-or-2f471e8f -->
 *   **Q : Y a‑t‑il des bonus ou des indices ?**
     *   **R :** Certaines versions de PolyMatch peuvent offrir des bonus ou des indices pour t'aider quand tu es bloqué. Ceux‑ci peuvent inclure une option de mélange ou un indice pour révéler une association.
+
 

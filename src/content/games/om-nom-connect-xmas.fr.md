@@ -34,6 +34,8 @@ Om Nom Connect Xmas reprend les mécaniques d'Om Nom Connect dans une ambiance d
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `click` `Click`
 
 *   **Sélectionner des tuiles :** utilise ta souris pour cliquer sur une tuile et la sélectionner.
 *   **Connecter des tuiles :** clique sur une seconde tuile identique pour connecter la paire. Si le chemin est valide, les deux tuiles disparaissent du plateau.
@@ -52,4 +54,5 @@ Om Nom Connect Xmas reprend les mécaniques d'Om Nom Connect dans une ambiance d
 <!-- i18n:faq:id=faq:om-nom-connect-xmas:q-is-there-a-time-c0411996 -->
 *   **Q : Y a‑t‑il un temps limite ?**
     *   **R :** Oui, chaque niveau a un chronomètre. Tu dois vider le plateau avant la fin du temps pour gagner.
+
 

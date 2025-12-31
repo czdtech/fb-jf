@@ -44,6 +44,8 @@ Perfect Piano ist ein schnelles, mitreißendes Rhythmusspiel im Stil von
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `mouse` `click`
 
 Gespielt wird nur mit Taps oder Klicks.
 
@@ -69,4 +71,5 @@ Gespielt wird nur mit Taps oder Klicks.
     *   **A:** Ja, meist gibt es eine Song-Bibliothek nach Schwierigkeitsstufen.
         Oft schaltest du schwerere Songs frei, indem du zuerst die leichteren
         erfolgreich abschließt.
+
 
