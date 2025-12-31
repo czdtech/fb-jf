@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: g-switch-2
-title: "G-Switch 2 重力切换酷跑 2"
-description: >-
-  《G-Switch 2》是重力翻转跑酷续作，你可以单人挑战或本地多人同屏竞速，
-  通过切换重力方向来躲避愈来愈密集的陷阱。
+title: G-Switch 2 重力切换酷跑 2
+description: 《G-Switch 2》是重力翻转跑酷续作，你可以单人挑战或本地多人同屏竞速， 通过切换重力方向来躲避愈来愈密集的陷阱。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/6/index.html
 thumbnail: /new-images/thumbnails/g-switch-2.jpg
@@ -39,6 +37,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 单一按键或轻触即可切换重力方向；
 - 在多人对战中，每位玩家会被分配到不同的翻转键，具体配置依托管版本而定。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 维持稳定节奏非常重要，一旦慌乱乱按，很容易在下一个障碍前失去节奏。

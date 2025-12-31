@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: google-doodle-baseball
-title: "Google Doodle Baseball 谷歌涂鸦棒球"
-description: >-
-  改编自 Google 7 月 4 日节日涂鸦的轻量棒球游戏：抓准挥棒时机，把球打向空档，
-  在三个出局前尽量多得分。
+title: Google Doodle Baseball 谷歌涂鸦棒球
+description: 改编自 Google 7 月 4 日节日涂鸦的轻量棒球游戏：抓准挥棒时机，把球打向空档， 在三个出局前尽量多得分。
 iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
 thumbnail: /new-images/thumbnails/google-doodle-baseball.jpg
 tags:
@@ -35,6 +33,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 - 轻触屏幕、鼠标点击或空白键即可挥棒一次。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 不要预先乱挥，尽量等投手出手后再看球路与进垒位置再决定是否出棒。

@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: fancy-pants-3
-title: "Fancy Pants 3 手绘疾走平台 3 代"
-description: >-
-  《Fancy Pants 3》让惯性跑酷再进化——关卡更大、秘密更多，
-  墙跑与滑行动作更加细腻，在手绘世界里一路冲刺探险。
+title: Fancy Pants 3 手绘疾走平台 3 代
+description: 《Fancy Pants 3》让惯性跑酷再进化——关卡更大、秘密更多， 墙跑与滑行动作更加细腻，在手绘世界里一路冲刺探险。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj10/index.html
 thumbnail: /new-images/thumbnails/fancy-pants-3.jpg
@@ -37,6 +35,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 向下键在斜坡上滑行或进行俯身动作。
 - 向上键进入门、管道或特定互动画面。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 让自己的操作保持「节奏感」，频频停下来会直接杀死速度，玩起来也不够爽快。

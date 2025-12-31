@@ -1,8 +1,10 @@
 ---
 locale: zh
 urlstr: jungle-match-puzzle
-title: "《Jungle Match Puzzle》丛林宝石消除"
-description: "《Jungle Match Puzzle》是一款节奏活跃的丛林主题三消游戏，你要在藤蔓、木箱和粘连地块之间清除障碍、连锁道具，在紧张的步数限制下完成场景目标。"
+title: 《Jungle Match Puzzle》丛林宝石消除
+description: >-
+  《Jungle Match
+  Puzzle》是一款节奏活跃的丛林主题三消游戏，你要在藤蔓、木箱和粘连地块之间清除障碍、连锁道具，在紧张的步数限制下完成场景目标。
 iframeSrc: 'https://2sf7n68mggti0.h5games.usercontent.goog/v/2mk31nh92a0og/'
 thumbnail: /new-images/thumbnails/jungle-match-puzzle.png
 tags:
@@ -20,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Jungle Match Puzzle》是一款色彩鲜艳的丛林三消游戏。棋盘上会出现藤蔓缠绕的宝石、木箱、粘连格等各种阻碍，你需要在限定步数内完成关卡目标，例如收集图腾、解救动物或达到目标分数。通过组合炸弹宝石和直线宝石等强力道具，可以一口气清除大面积丛林障碍，为连锁反应腾出空间。 
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏玩法与攻略
 
 1.  **目标优先而非只追分数**：每一关都有明确目标（清障碍、收集道具等），在步数有限的前提下，应优先消除挡路的藤蔓、木箱等阻碍，再考虑额外得分。  

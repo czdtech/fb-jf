@@ -1,9 +1,10 @@
 ---
 locale: zh
 urlstr: merge-heroes
-title: "《Merge Heroes》英雄合成自走战"
+title: 《Merge Heroes》英雄合成自走战
 description: >-
-  《Merge Heroes》是一款“合成+自走战”策略游戏，你通过购买与合成英雄，打造小队阵容，将他们布置在战场上自动迎战一波又一波来袭的怪物大军，守卫你的王国。
+  《Merge
+  Heroes》是一款“合成+自走战”策略游戏，你通过购买与合成英雄，打造小队阵容，将他们布置在战场上自动迎战一波又一波来袭的怪物大军，守卫你的王国。
 iframeSrc: 'https://mergeheroes.h5games.usercontent.goog/v/7i7m361ib4vr8/'
 thumbnail: /new-images/thumbnails/merge-heroes.png
 tags:
@@ -21,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 《Merge Heroes》将合成益智与自动战斗策略巧妙融合。你需要在怪物一波波来袭前，先在备用棋盘上购买基础英雄，再把相同英雄合成升级，打造出伤害更高、技能更强的战士。随后将这些强化后的英雄部署到战场格子中，他们会自动攻击靠近的敌人，为王国抵挡无尽的怪物潮。随着波次推进，你必须不断调整阵容与站位，保持战力曲线领先敌人。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **购买与合成：** 使用金币在商店购买基础英雄，他们会出现在预备棋盘上。将一个英雄拖到另一名同类型、同等级的英雄上即可合成为更高等级的英雄，属性和输出能力都会显着提升。

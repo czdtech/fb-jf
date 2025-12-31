@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: merge-the-gems
-title: "《Merge the Gems》宝石合成工坊"
-description: >-
-  《Merge the Gems》是一款以宝石为主题的合成益智游戏，你从普通原石开始，通过不断合成相同宝石，锻造出更高价值的珠宝，并在有限棋盘中完成目标挑战。
+title: 《Merge the Gems》宝石合成工坊
+description: 《Merge the Gems》是一款以宝石为主题的合成益智游戏，你从普通原石开始，通过不断合成相同宝石，锻造出更高价值的珠宝，并在有限棋盘中完成目标挑战。
 iframeSrc: 'https://mergethegems.h5games.usercontent.goog/v/5rut2fhhuqb1g/'
 thumbnail: /new-images/thumbnails/merge-the-gems.jpg
 tags:
@@ -21,6 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 《Merge the Gems》是一款简单上手却极易上瘾的休闲解谜游戏，玩法围绕“合成相同宝石，解锁更高级珠宝”展开。你一开始只有普通、未经打磨的原石，通过拖拽合成逐步升级为切割精美的宝石、项链、戒指等高阶珠宝。你的任务是在有限大小的棋盘上合理安排每一块宝石的位置，持续合成、解锁新的宝石类型，并完成系统给出的目标与挑战，获取积分与金币奖励。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **理解合成链：** 游戏的核心就是将一枚宝石拖动到另一枚相同宝石上，它们会融合成更高一级的新宝石。持续合成既能清理棋盘空间，又能解锁更高价值的珠宝。

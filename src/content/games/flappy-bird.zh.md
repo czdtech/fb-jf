@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: flappy-bird
-title: "Flappy Bird 像素小鸟"
-description: >-
-  单点操作的无尽跑酷：点击让小鸟拍翅膀穿过水管缝隙，不碰到任何障碍就能持续累积分数。
+title: Flappy Bird 像素小鸟
+description: 单点操作的无尽跑酷：点击让小鸟拍翅膀穿过水管缝隙，不碰到任何障碍就能持续累积分数。
 iframeSrc: 'https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/TAhlQLDa/index.html'
 thumbnail: /new-images/thumbnails/flappy-bird.jpg
 tags:
@@ -35,6 +34,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 - 鼠标点击、屏幕触控或空白键皆可让小鸟拍翅膀上升。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 尽量用极短、轻盈的点击做细微调整，只有在高度明显过低时才用稍重一点的点击救场。

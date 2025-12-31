@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: flames-fortune
-title: "Flames & Fortune 烈焰与幸运卡牌战"
-description: >-
-  Flames & Fortune 是一款战术感很强的卡牌式战斗游戏，通过管理手牌与节奏，
-  在回合中作出精准判断，以智慧压制对手。
+title: Flames & Fortune 烈焰与幸运卡牌战
+description: Flames & Fortune 是一款战术感很强的卡牌式战斗游戏，通过管理手牌与节奏， 在回合中作出精准判断，以智慧压制对手。
 iframeSrc: 'https://0e8d16hkgti30.h5games.usercontent.goog/v/00r0qn2t79f3g/'
 thumbnail: /new-images/thumbnails/flames-fortune.jpg
 tags:
@@ -23,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 同时根据敌人的「意图」调整自己的进攻与防守，将战局节奏控制在自己手里。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **规划费用曲线：** 尽量把每回合的资源花到「刚刚好」，不要留下太多闲置能量，

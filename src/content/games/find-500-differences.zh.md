@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: find-500-differences
-title: "Find 500 Differences 找不同大挑战"
-description: >-
-  在《Find 500 Differences》中挑战你的观察力：比较两张几乎一模一样的图片，
-  找出藏在细节里的所有差异。
+title: Find 500 Differences 找不同大挑战
+description: 在《Find 500 Differences》中挑战你的观察力：比较两张几乎一模一样的图片， 找出藏在细节里的所有差异。
 iframeSrc: 'https://find500differences2.h5games.usercontent.goog/v/4gu2tobroroug/'
 thumbnail: /new-images/thumbnails/find-500-differences.png
 tags:
@@ -25,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 同时训练专注力与观察力。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **系统化扫描：** 不要漫无目的地乱看，建议从图片左上角开始，像看书一样横向扫描，

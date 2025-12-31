@@ -1,8 +1,8 @@
 ---
 locale: zh
 urlstr: hobo
-title: "《Hobo》流浪汉街头乱斗"
-description: "《Hobo》是一款极度夸张的横版清版动作游戏，你要操控脾气暴躁的流浪汉在城市各处痛揍敌人，解锁一连串离谱的连招、即兴武器与恶搞必杀技。"
+title: 《Hobo》流浪汉街头乱斗
+description: 《Hobo》是一款极度夸张的横版清版动作游戏，你要操控脾气暴躁的流浪汉在城市各处痛揍敌人，解锁一连串离谱的连招、即兴武器与恶搞必杀技。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/hobo.html'
 thumbnail: /new-images/thumbnails/hobo.jpg
 tags:
@@ -31,6 +31,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 - 通过方向键移动角色；攻击、跳跃、抓取/投掷等具体按键会因平台而异，一般会在游戏内给出连招展示面板和按键说明。
 
+<!-- i18n:section:tips -->
 ### 实用技巧
 
 - 尽量把敌人控制在同一侧，不要被前后夹击，始终朝一边推进更容易处理人群。

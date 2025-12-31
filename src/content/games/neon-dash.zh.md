@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: neon-dash
-title: '霓虹冲刺'
-description: >-
-  霓虹冲刺是一款快节奏的精准跑酷游戏——跳跃、躲避危险，并精确控制时机以在霓虹挑战中生存。
+title: 霓虹冲刺
+description: 霓虹冲刺是一款快节奏的精准跑酷游戏——跳跃、躲避危险，并精确控制时机以在霓虹挑战中生存。
 iframeSrc: 'https://1bveca4tkimog.h5games.usercontent.goog/v/4bq2naj6mtutg/'
 thumbnail: /new-images/thumbnails/neon-dash.png
 tags:
@@ -21,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 霓虹冲刺是一款反应驱动的跑酷游戏，充满了尖刺、平台和脉冲陷阱。关卡强调精准的时机——短跳、延迟跳跃和一致的节奏可以帮助你通过紧密的障碍序列。根据模式的不同，可能会有检查点关卡或一次性通关。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏策略与攻略
 
 1.  学习跳跃弧线：练习短按/长按以微调距离；延迟跳跃通常能更安全地越过尖刺。

@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: funny-shooter-2
-title: "Funny Shooter 2 奇葩射击 2"
-description: >-
-  波次制第一人称射击：用越来越夸张的武器对付各种奇怪敌人，
-  赚取金币，在关卡之间升级火力与装备。
+title: Funny Shooter 2 奇葩射击 2
+description: 波次制第一人称射击：用越来越夸张的武器对付各种奇怪敌人， 赚取金币，在关卡之间升级火力与装备。
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter-2/'
 thumbnail: /new-images/thumbnails/funny-shooter-2.jpg
 tags:
@@ -39,6 +37,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 1–3 切换不同武器；
 - Shift 进行冲刺（视托管版本而定）。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 尽量瞄准头部或弱点，特别是在高波次时，敌人血量很厚，爆头可以大幅节省弹药。

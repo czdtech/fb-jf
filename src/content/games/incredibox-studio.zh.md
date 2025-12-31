@@ -1,8 +1,10 @@
 ---
 locale: zh
 urlstr: incredibox-studio
-title: "Incredibox Studio - 在线玩 Incredibox Studio"
-description: "Incredibox Studio 是一款受原版 Incredibox 启发的粉丝制作游戏。它使用 Scratch 创建并通过 TurboWarp 优化，允许玩家在沙盒环境中创作自己的音乐混音。"
+title: Incredibox Studio - 在线玩 Incredibox Studio
+description: >-
+  Incredibox Studio 是一款受原版 Incredibox 启发的粉丝制作游戏。它使用 Scratch 创建并通过 TurboWarp
+  优化，允许玩家在沙盒环境中创作自己的音乐混音。
 iframeSrc: 'https://turbowarp.org/1013575298/embed'
 thumbnail: /new-images/thumbnails/incredibox-studio.png
 tags:
@@ -18,6 +20,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 Incredibox Studio 是一个粉丝制作的项目。与基于预定义声音集的官方 Incredibox 版本不同，这个"Studio"版本提供了类似沙盒的体验。玩家获得大量声音和效果可以拖放和混合，使他们能够从头开始创作自己独特的节拍和音乐作品。对于想要探索自己音乐想法的原版游戏粉丝来说，这是一个创意游乐场。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏策略/创意技巧
 
 *   由于这是一个沙盒，"策略"是关于创造力的。

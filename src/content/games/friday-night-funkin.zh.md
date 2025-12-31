@@ -1,7 +1,7 @@
 ---
 locale: zh
 urlstr: friday-night-funkin
-title: "Friday Night Funkin 节奏对决"
+title: Friday Night Funkin 节奏对决
 description: >-
   《Friday Night Funkin》是一款节奏对战游戏，跟着音乐节拍准确敲击箭头音符，
   在一周又一周的对决中打败对手；高难度下会出现更快、更复杂的谱面与长押。
@@ -38,6 +38,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 使用方向键或 WASD 在音符到达判定线时敲击对应方向。
 - Enter 或确认键用于选单操作与开始歌曲。
 
+<!-- i18n:section:tips -->
 ### 小贴士
 
 - 尽量「用耳朵」记节奏，而不是只盯着画面，跟着鼓点与旋律敲击会比纯看图更稳定。

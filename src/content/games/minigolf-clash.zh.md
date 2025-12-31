@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: minigolf-clash
-title: "《Minigolf Clash》创意迷你高尔夫对决"
-description: >-
-  《Minigolf Clash》是一款充满创意障碍与机关的迷你高尔夫游戏，你需要读懂坡度、利用墙角反弹，控制推杆力度，在各类古怪球洞中打出标准杆成绩。
+title: 《Minigolf Clash》创意迷你高尔夫对决
+description: 《Minigolf Clash》是一款充满创意障碍与机关的迷你高尔夫游戏，你需要读懂坡度、利用墙角反弹，控制推杆力度，在各类古怪球洞中打出标准杆成绩。
 iframeSrc: 'https://7a8e5urbht3f8.h5games.usercontent.goog/v/2ptudqjkva98g/'
 thumbnail: /new-images/thumbnails/minigolf-clash.png
 tags:
@@ -22,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Minigolf Clash》是一款偏休闲向的推杆高尔夫游戏，关卡中布满了各种富有创意的障碍：高低起伏的坡道、会弹射的墙壁、移动中的风车叶片乃至机关门等。你的目标看似简单——在限定杆数内把球打进洞——但要想稳定打到标准杆甚至更低，就必须精准掌握线路与力度，学会利用反弹与地形优势完成“教科书推杆”。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 通关策略与玩法思路
 
 1.  **力度控制优先：** 靠近洞杯时要优先考虑控制力度，轻推可以避免球在洞口高速度“掠洞而出”；上坡或长距离则需要适当加力，避免球滑坡回落。

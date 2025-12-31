@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: drift-hunters
-title: "Drift Hunters 3D 漂移猎人"
-description: >-
-  《Drift Hunters 3D 漂移猎人》是一款 3D 漂移赛车游戏。通过不断刷分赚取金币，升级与调
-  校车辆，在不同赛道上连贯漂移、挑战最高分。
+title: Drift Hunters 3D 漂移猎人
+description: 《Drift Hunters 3D 漂移猎人》是一款 3D 漂移赛车游戏。通过不断刷分赚取金币，升级与调 校车辆，在不同赛道上连贯漂移、挑战最高分。
 iframeSrc: 'https://webglmath.github.io/drift-hunters/'
 thumbnail: /new-images/thumbnails/drift-hunters.jpg
 tags:
@@ -41,6 +39,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - C 键：切换视角；  
 - R 键：重置车辆位置（具体按键以托管版本为准）。  
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 在漂移过程中适当“点油门”而非死踩，可以避免车辆过度打滑导致原地转圈。  

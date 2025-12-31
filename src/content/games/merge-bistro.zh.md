@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: merge-bistro
-title: "《Merge Bistro》合成经营小餐馆"
-description: >-
-  《Merge Bistro》是一款温馨的合成+餐厅经营游戏，你需要合成食材、完成顾客订单，并通过精细规划操作台与仓库，逐步扩大这家迷你小餐馆。
+title: 《Merge Bistro》合成经营小餐馆
+description: 《Merge Bistro》是一款温馨的合成+餐厅经营游戏，你需要合成食材、完成顾客订单，并通过精细规划操作台与仓库，逐步扩大这家迷你小餐馆。
 iframeSrc: 'https://0f5mbl2u9ont8.h5games.usercontent.goog/v/50p3a8ekgfdk8/'
 thumbnail: /new-images/thumbnails/merge-bistro.png
 tags:
@@ -22,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Merge Bistro》将“合成玩法”（merge‑2）与轻度餐厅经营结合在一起。你从最基础的原料开始，比如面粉、牛奶、鸡蛋等，通过拖动合成把它们升级成面团、面糊等高阶食材，再按照订单需求制作成各种菜品。每个工作台与仓库格子都是有限资源，如何在生产冷却时间与订单节奏之间取得平衡，是玩好这款游戏的核心。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 通关策略与玩法思路
 
 1.  **提前阅读订单队列：** 在生产之前先看清接下来几张订单需要哪些食材，优先准备高频出现的原料与半成品，减少顾客等待时间。

@@ -1,9 +1,10 @@
 ---
 locale: zh
 urlstr: minesweeper-mania
-title: "《Minesweeper Mania》进阶扫雷狂热"
+title: 《Minesweeper Mania》进阶扫雷狂热
 description: >-
-  《Minesweeper Mania》是在经典扫雷基础上打磨升级的版本，提供多种难度与精致界面，通过数字提示逻辑推理出所有地雷位置，是检验推理能力的绝佳挑战。
+  《Minesweeper
+  Mania》是在经典扫雷基础上打磨升级的版本，提供多种难度与精致界面，通过数字提示逻辑推理出所有地雷位置，是检验推理能力的绝佳挑战。
 iframeSrc: 'https://minesweepermania.h5games.usercontent.goog/v/6cje7ufl50e4g/'
 thumbnail: /new-images/thumbnails/minesweeper-mania.png
 tags:
@@ -21,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 《Minesweeper Mania》是对经典单人逻辑游戏扫雷的精致重制版。在这款游戏中，你依旧要在地雷暗藏的矩形棋盘上小心行动：借助数字提示推理地雷的确切位置，在不点爆任何地雷的前提下，完成整块棋盘的翻开。每一个数字都表示它周围八格中地雷的数量，这个版本还提供多个难度选择，让新手可以从容易模式入门，老玩家则能挑战大棋盘高密度的硬核级别。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **首次点击永不踩雷：** 在大多数难度下，第一下点击不会是地雷，且通常会展开一小片安全区域。可以在角落与中央各点几次，帮助快速打开局面。

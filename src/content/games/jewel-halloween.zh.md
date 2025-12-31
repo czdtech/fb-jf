@@ -1,8 +1,8 @@
 ---
 locale: zh
 urlstr: jewel-halloween
-title: "《Jewel Halloween》万圣夜宝石消除"
-description: "《Jewel Halloween》是一款万圣节主题三消游戏，你要在诡异南瓜与幽灵装饰之间交换宝石，触发连锁反应并完成关卡目标。"
+title: 《Jewel Halloween》万圣夜宝石消除
+description: 《Jewel Halloween》是一款万圣节主题三消游戏，你要在诡异南瓜与幽灵装饰之间交换宝石，触发连锁反应并完成关卡目标。
 iframeSrc: 'https://0gk3ormb878mg.h5games.usercontent.goog/v/1qgqb91tuaqv0/'
 thumbnail: /new-images/thumbnails/jewel-halloween.png
 tags:
@@ -20,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Jewel Halloween》是一款应景的万圣节三消游戏。棋盘上布满了幽灵、南瓜、蜡烛等节日元素，你需要通过交换相邻宝石，让至少三颗同类宝石连成一线以完成消除，并根据关卡要求达成分数、步数或障碍清除等目标。通过制造特殊宝石和连锁，可以在阴森气氛中打出非常华丽的“爆板”效果。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏玩法与攻略
 
 1.  **从底部开始制造连锁**：优先在棋盘下方进行消除，有利于让更多宝石从顶部掉落，自动形成新的三消连锁，最大化每一步的收益。  

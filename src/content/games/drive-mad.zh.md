@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: drive-mad
-title: "Drive Mad 疯狂卡车物理闯关"
-description: >-
-  《Drive Mad 疯狂卡车物理闯关》是一款基于物理的驾驶游戏。控制车辆重心与前进速度，穿
-  过跷跷板、桥梁与机关陷阱，在不翻车的前提下抵达终点。
+title: Drive Mad 疯狂卡车物理闯关
+description: 《Drive Mad 疯狂卡车物理闯关》是一款基于物理的驾驶游戏。控制车辆重心与前进速度，穿 过跷跷板、桥梁与机关陷阱，在不翻车的前提下抵达终点。
 iframeSrc: 'https://ubg98.github.io/DriveMad/'
 thumbnail: /new-images/thumbnails/drive-mad.jpg
 tags:
@@ -40,6 +38,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - R 键：快速重开当前关卡；  
 - Esc / P：暂停或打开菜单（依托管版本而定）。  
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 轻点油门，避免全程“地板油”，大油门更容易让车头擡起导致翻车。  

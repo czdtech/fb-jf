@@ -1,8 +1,8 @@
 ---
 locale: zh
 urlstr: letter-links
-title: "《Letter Links》每日连词挑战"
-description: "《Letter Links》是一款策略性英文造词游戏，你需要把字母牌放在棋盘上，拼出高得分单词、吃满加成格，并让所有字母牌连成一个整体。"
+title: 《Letter Links》每日连词挑战
+description: 《Letter Links》是一款策略性英文造词游戏，你需要把字母牌放在棋盘上，拼出高得分单词、吃满加成格，并让所有字母牌连成一个整体。
 iframeSrc: 'https://7u583tvdi3f00.h5games.usercontent.goog/v/424maigpuljoo/'
 thumbnail: /new-images/thumbnails/letter-links.png
 tags:
@@ -20,6 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 《Letter Links》是一款玩法接近 Scrabble（拼字游戏）的策略造词游戏。每天系统会给你一组带有分值的字母牌，你要把它们摆放在棋盘上，像填字游戏一样拼出有效的英文单词，并且所有自己放下的牌最后必须连成一个整体。通过巧妙利用高分字母和棋盘上的奖励格，你可以刷新更高总分。 
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏玩法与攻略
 
 1.  **熟悉奖励格规则**：高分的关键在于利用好奖励格：  

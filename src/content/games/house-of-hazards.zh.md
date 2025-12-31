@@ -1,8 +1,10 @@
 ---
 locale: zh
 urlstr: house-of-hazards
-title: "《House Of Hazards》整蛊陷阱之家"
-description: "《House Of Hazards》是一款本地多人派对游戏，在充满机关的房子里，部分玩家要完成日常小任务，另一部分玩家则疯狂触发陷阱，把别人从楼里“干出去”。"
+title: 《House Of Hazards》整蛊陷阱之家
+description: >-
+  《House Of
+  Hazards》是一款本地多人派对游戏，在充满机关的房子里，部分玩家要完成日常小任务，另一部分玩家则疯狂触发陷阱，把别人从楼里“干出去”。
 iframeSrc: 'https://webglmath.github.io/house-of-hazards/'
 thumbnail: /new-images/thumbnails/house-of-hazards.jpg
 tags:
@@ -30,6 +32,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 - 使用简单的移动/跳跃/互动按键即可操作；本地多名玩家会使用各自独立的一组键位或手柄按键，具体以游戏内设置为准。
 
+<!-- i18n:section:tips -->
 ### 实用技巧
 
 - 不要只盯着下一个任务目标，注意留意场景中发光或抖动的物件，那往往提示有机关已经被武装好。  

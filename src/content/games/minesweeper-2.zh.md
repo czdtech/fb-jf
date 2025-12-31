@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: minesweeper-2
-title: "《Minesweeper》经典扫雷"
-description: >-
-  《Minesweeper》是一款经久不衰的逻辑益智游戏，你需要根据数字提示推理出所有隐藏地雷的位置，在不触雷的前提下将整块棋盘安全翻开。
+title: 《Minesweeper》经典扫雷
+description: 《Minesweeper》是一款经久不衰的逻辑益智游戏，你需要根据数字提示推理出所有隐藏地雷的位置，在不触雷的前提下将整块棋盘安全翻开。
 iframeSrc: 'https://minesweeper.h5games.usercontent.goog/v/6uo6tf2lnil3o/'
 thumbnail: /new-images/thumbnails/minesweeper-2.jpg
 tags:
@@ -22,6 +21,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 《Minesweeper》（扫雷）是许多玩家童年电脑上的标志性单机游戏，也是经典的单人逻辑谜题。棋盘上隐藏着若干颗地雷，你的目标是在不引爆任何地雷的前提下，将所有安全格子翻开。每当你翻开一格安全区域，上面的数字会告诉你：它周围八个相邻格子（包括斜角）中，一共藏着多少颗地雷。通过这些数字线索，你可以一步步推理出地雷的精确位置，体验“纯逻辑解谜+谨慎下注”的乐趣。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **第一步永远安全：** 游戏的第一下点击通常不会是地雷，若点到的是无雷相邻区域，还会自动展开一大片空白区域，是相当理想的开局方式。

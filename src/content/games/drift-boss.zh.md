@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: drift-boss
-title: "Drift Boss 漂移老板 一键漂移"
-description: >-
-  《Drift Boss 漂移老板》是一款一键式漂移小游戏。通过按住与松开发动漂移，在悬空赛道
-  上完成每一个转弯，避免掉落，并用金币解锁更稳定的车辆。
+title: Drift Boss 漂移老板 一键漂移
+description: 《Drift Boss 漂移老板》是一款一键式漂移小游戏。通过按住与松开发动漂移，在悬空赛道 上完成每一个转弯，避免掉落，并用金币解锁更稳定的车辆。
 iframeSrc: 'https://ubg98.github.io/DriftBoss/'
 thumbnail: /new-images/thumbnails/drift-boss.jpg
 tags:
@@ -37,6 +35,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 - 鼠标/空格/触屏：按住即进入漂移动作，松开则恢复直线行驶，具体按键依托管版本而定。  
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 在看到连续 S 弯时，提前规划“按住-松开-再按住”的节奏，多使用短促的点按，而不是长时间按

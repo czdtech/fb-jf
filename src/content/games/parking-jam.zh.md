@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: parking-jam
-title: "《Parking Jam》停车大作战"
-description: >-
-  《Parking Jam》是一款空间滑块式的停车解谜游戏，你需要按正确顺序挪动车辆，为目标车让出出口通道，用尽量少的步数疏通拥挤停车场。
+title: 《Parking Jam》停车大作战
+description: 《Parking Jam》是一款空间滑块式的停车解谜游戏，你需要按正确顺序挪动车辆，为目标车让出出口通道，用尽量少的步数疏通拥挤停车场。
 iframeSrc: 'https://4knmpq6joecbg.h5games.usercontent.goog/v/1uamg2frss2qg/'
 thumbnail: /new-images/thumbnails/parking-jam.png
 tags:
@@ -20,6 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Parking Jam》属于“堵车/华容道”风格的滑块解谜。每辆车都只能沿车身方向前后移动，你的目标是通过合理挪动车位，将被困在车阵中的目标车辆从出口处解救出来。更高难度关卡会把停车场塞得满满当当，还会加入不同长度的车辆、单向箭头、特殊障碍等元素，要求你严格把控移动顺序，才能完成解局。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 通关策略与玩法思路
 
 1.  **从出口倒推：** 优先从目标车到出口这条线上反向思考，找出真正挡路的“关键车辆”，先解决它们而不是盲目乱挪。

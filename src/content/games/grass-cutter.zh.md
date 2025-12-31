@@ -1,8 +1,10 @@
 ---
 locale: zh
 urlstr: grass-cutter
-title: "《Grass Cutter》草坪割草解谜"
-description: "《Grass Cutter》是一款方格路线解谜游戏，你要在有限步数内规划割草路径，让割草机在不被困住的前提下刚好把每一格草坪修剪一次，同时绕开岩石、水渠和单行格等障碍。"
+title: 《Grass Cutter》草坪割草解谜
+description: >-
+  《Grass
+  Cutter》是一款方格路线解谜游戏，你要在有限步数内规划割草路径，让割草机在不被困住的前提下刚好把每一格草坪修剪一次，同时绕开岩石、水渠和单行格等障碍。
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/wcIz2a3WYRNKhbuq/rvvASMiM/58925795805842fcbfd7edf67efcd606/
 thumbnail: /new-images/thumbnails/grass-cutter.jpg
@@ -29,6 +31,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ### 操作说明
 - 使用方向键或滑动来控制移动；大部分版本都提供撤销和重新开始按钮。
 
+<!-- i18n:section:tips -->
 ### 实用技巧
 - 可以从最难触及的角落开始规划路线。
 - 对于滑行关卡，优先寻找可以借助障碍物停下来的目标格。

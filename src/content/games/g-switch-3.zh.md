@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: g-switch-3
-title: "G-Switch 3 重力切换酷跑 3"
-description: >-
-  《G-Switch 3》是在前作基础上的高速重力跑酷续作，加入更多致命陷阱与强化的本地多人模式，
-  专门考验你的节奏感与稳定度。
+title: G-Switch 3 重力切换酷跑 3
+description: 《G-Switch 3》是在前作基础上的高速重力跑酷续作，加入更多致命陷阱与强化的本地多人模式， 专门考验你的节奏感与稳定度。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221121/2/index.html
 thumbnail: /new-images/thumbnails/g-switch-3.jpg
@@ -37,6 +35,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 使用单一按键或轻触即可切换重力；
 - 在对战模式中，每位玩家有自己的专属翻转键，具体配置依托管版本而定。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 视线保持在画面中段稍前的位置，提前读取即将出现的地形与陷阱，而不是只盯着脚下。

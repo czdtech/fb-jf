@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: getting-over-it
-title: "Getting Over It 锅里老哥攀登记"
-description: >-
-  锤子攀爬地狱：只靠一把锤子挥动、撑跳与勾挂，把锅里大叔一路拽上
-  各种超现实地形；高精度物理会无情惩罚任何一点急躁。
+title: Getting Over It 锅里老哥攀登记
+description: 锤子攀爬地狱：只靠一把锤子挥动、撑跳与勾挂，把锅里大叔一路拽上 各种超现实地形；高精度物理会无情惩罚任何一点急躁。
 iframeSrc: 'https://ubg77.github.io/fix/getting-over-it/'
 thumbnail: /new-images/thumbnails/getting-over-it.jpg
 tags:
@@ -39,6 +37,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 鼠标控制锤子的角度与施力方向，移动速度越快，施加的力量越大；
 - 键盘通常只在少数功能上使用（视托管版本而定）。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 以柔和的圆弧滑动鼠标来完成可控的摆荡，避免僵硬、急躁的猛拉，这会让锤子失去稳定落点。

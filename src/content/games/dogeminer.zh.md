@@ -1,7 +1,7 @@
 ---
 locale: zh
 urlstr: dogeminer
-title: "DogeMiner 狗狗币挖矿放置版"
+title: DogeMiner 狗狗币挖矿放置版
 description: >-
   《DogeMiner 狗狗币挖矿放置版》是一款主题搞怪的放置点击游戏。通过点击挖矿、购买升级和
   助手，让挖矿过程自动化并不断加速产出，最终朝月球甚至更远处进发。
@@ -25,6 +25,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 和太空设施，把挖矿事业从地球一路扩展到月球甚至更遥远的星域。 
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### 如何游玩
 
 - 通过点击主要挖矿按钮获取最初的金币，并优先投资提升“每次点击收益”和“每秒自动收益”的升

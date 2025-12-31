@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: five-nights-at-freddy-3
-title: "Five Nights at Freddy's 3 (FNAF 3) 弗雷迪的五夜惊魂 3"
-description: >-
-  系统管理向的恐怖生存：用广播声引诱 Springtrap、通过监视器与通风口追踪，
-  适时重启故障系统，撑过每一个夜班。
+title: Five Nights at Freddy's 3 (FNAF 3) 弗雷迪的五夜惊魂 3
+description: 系统管理向的恐怖生存：用广播声引诱 Springtrap、通过监视器与通风口追踪， 适时重启故障系统，撑过每一个夜班。
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf3.html'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-3.jpg
 tags:
@@ -37,6 +35,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 - 使用鼠标操作监视器、音频播放、通风口封锁与系统重启按钮。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 尽量把 Springtrap 控制在离办公室最远的几个房间，通过一步一步的声音引诱让他在外围徘徊。

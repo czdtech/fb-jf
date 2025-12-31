@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: pick-a-lock
-title: "《Pick a Lock》节奏开锁挑战"
-description: >-
-  《Pick a Lock》是一款极简风节奏+时机游戏，你需要在指针旋转经过标记点的瞬间点击，连续命中所有标记才能成功解锁越来越刁钻的锁。
+title: 《Pick a Lock》节奏开锁挑战
+description: 《Pick a Lock》是一款极简风节奏+时机游戏，你需要在指针旋转经过标记点的瞬间点击，连续命中所有标记才能成功解锁越来越刁钻的锁。
 iframeSrc: 'https://17ul52pgrglf0.h5games.usercontent.goog/v/5b4f1rj0on970/'
 thumbnail: /new-images/thumbnails/pick-a-lock.jpg
 tags:
@@ -22,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Pick a Lock》是一款极简但非常“上头”的时机把握游戏。锁面上有一个不断绕圆盘旋转的指针，以及若干高亮标记点，你要做的就是在指针与标记点重合的那一刻点击屏幕。越往后关卡标记点越多、判定窗口越窄，甚至会加入反向旋转等变化，非常考验节奏感与手指精度。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 通关策略与玩法思路
 
 1.  **用耳朵数拍子：** 不要完全依赖眼睛盯着指针转动，可以根据指针旋转速度在心里打拍子，尝试在节奏点上点击，比盯画面更稳定。

@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: fruit-ninja
-title: "Fruit Ninja 切水果忍者"
-description: >-
-  街机式切水果游戏代表作：在空中用手势划破飞出的水果，
-  避开炸弹，串起连斩与狂热模式来冲击高分。
+title: Fruit Ninja 切水果忍者
+description: 街机式切水果游戏代表作：在空中用手势划破飞出的水果， 避开炸弹，串起连斩与狂热模式来冲击高分。
 iframeSrc: 'https://emulatoros.github.io/gfile/fruitninja/'
 thumbnail: /new-images/thumbnails/fruit-ninja.jpg
 tags:
@@ -37,6 +35,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 使用鼠标或触控屏幕滑动来切水果；
 - 通过介面按钮暂停或重新开始。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 每一刀尽量让划线「穿过最多水果的轨迹」，一线多果比分散乱切更有效率。

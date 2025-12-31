@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: google-solitaire
-title: "Google Solitaire 谷歌接龙"
-description: >-
-  经典 Klondike 接龙玩法：将牌按花色从 A 排到 K 建立基础堆，
-  利用红黑相间递减的桌面牌列来移动与整理整副牌。
+title: Google Solitaire 谷歌接龙
+description: 经典 Klondike 接龙玩法：将牌按花色从 A 排到 K 建立基础堆， 利用红黑相间递减的桌面牌列来移动与整理整副牌。
 iframeSrc: 'https://www.google.com/logos/fnbx/solitaire/standalone.html'
 thumbnail: /new-images/thumbnails/google-solitaire.jpg
 tags:
@@ -37,6 +35,7 @@ Google 版 Klondike 接龙提供「一次翻 1 张牌」与「一次翻 3 张牌
 - 鼠标或触控拖拽牌到合法位置即可移动；
 - 有些版本支援双击自动将明确可移到基础堆的牌送上去。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 优先选择能翻开盖牌的移动，与其为了小小的花式堆牌，不如先增加信息量。

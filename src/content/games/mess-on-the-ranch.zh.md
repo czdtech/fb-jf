@@ -1,9 +1,10 @@
 ---
 locale: zh
 urlstr: mess-on-the-ranch
-title: "《Mess on the Ranch》牧场大扫除"
+title: 《Mess on the Ranch》牧场大扫除
 description: >-
-  《Mess on the Ranch》是一款以牧场为背景的整理解谜游戏，你需要在有限步数或时间内，把乱跑的动物赶回围栏、归类工具、修补围栏并清理杂物，让牧场重新恢复井然有序。
+  《Mess on the
+  Ranch》是一款以牧场为背景的整理解谜游戏，你需要在有限步数或时间内，把乱跑的动物赶回围栏、归类工具、修补围栏并清理杂物，让牧场重新恢复井然有序。
 iframeSrc: 'https://0b9371ju6aitg.h5games.usercontent.goog/v/0f8khbpbtdrg8/'
 thumbnail: /new-images/thumbnails/mess-on-the-ranch.png
 tags:
@@ -22,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Mess on the Ranch》是一款氛围轻松的“整理型”解谜游戏。杂乱的牧场上，到处都是乱跑的牲畜、散落的工具、破损的栅栏与各种垃圾，你需要在关卡给定的步数或时间限制内，合理规划移动路线：先把动物赶回对应的圈舍，再将工具分类送到正确的工具房，修好能连通多条路的围栏缺口，最后顺手清理掉散落在地面的杂物。每一关都像是一道“牧场调度题”，考验的是你的前瞻规划和路径优化能力。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **优先安顿牲畜：** 自由乱跑的动物会制造额外干扰，甚至挡住关键路线。开局时尽量先把它们赶回对应的围栏或圈舍，减少场上的混乱程度，再从容处理其他任务。

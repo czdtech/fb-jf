@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: minesweeper
-title: "《Minesweeper》扫雷益智游戏"
-description: >-
-  《Minesweeper》是一款经典单人益智游戏，你需要在提示数字的帮助下推理出所有隐藏地雷的位置，在不引爆地雷的前提下，安全翻开整块棋盘。
+title: 《Minesweeper》扫雷益智游戏
+description: 《Minesweeper》是一款经典单人益智游戏，你需要在提示数字的帮助下推理出所有隐藏地雷的位置，在不引爆地雷的前提下，安全翻开整块棋盘。
 iframeSrc: 'https://freeonlinegames.github.io/games/minesweeper/'
 thumbnail: /new-images/thumbnails/minesweeper.jpg
 tags:
@@ -21,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 《Minesweeper》（扫雷）是一款历史悠久的单人益智游戏。棋盘由一格一格的方块组成，其中随机埋藏了若干地雷。你的目标，是在不点中任何一颗地雷的情况下，将所有安全格子全部翻开。每当你翻开一个安全格子，上面的数字会告诉你：它周围八个相邻格子中一共有多少颗雷。理解并利用这些数字，是玩好扫雷的全部关键。
 
+<!-- i18n:section:tips -->
 ### 玩法策略
 
 1.  **读懂数字含义：** 每一个数字格都精确表示它周围八个格子里的地雷数量。通过组合不同数字之间的关系，你可以推理出哪些格子必定是雷，哪些必定安全。

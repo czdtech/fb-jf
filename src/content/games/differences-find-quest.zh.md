@@ -1,7 +1,7 @@
 ---
 locale: zh
 urlstr: differences-find-quest
-title: "Differences Find Quest 每日找不同任务"
+title: Differences Find Quest 每日找不同任务
 description: >-
   《Differences Find Quest 每日找不同任务》是一款细节丰富的找不同游戏。通过对比两张看
   似相同的图片，标记所有差异，并合理使用提示完成关卡。
@@ -25,6 +25,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 还会加入轻微的时间压力。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **划分网格区域逐块排查：** 心里将画面分成 4–6 个区域，按区域从上到下、从左到右系统性

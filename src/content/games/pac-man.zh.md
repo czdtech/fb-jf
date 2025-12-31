@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: pac-man
-title: "《PAC-MAN》吃豆人经典街机"
-description: >-
-  《PAC-MAN》是一款经典街机迷宫游戏，你操控黄色小吃豆人在迷宫中吃光所有豆子，同时躲避四只幽灵；吃下能量豆后，还可以短时间反吃幽灵获取高分。
+title: 《PAC-MAN》吃豆人经典街机
+description: 《PAC-MAN》是一款经典街机迷宫游戏，你操控黄色小吃豆人在迷宫中吃光所有豆子，同时躲避四只幽灵；吃下能量豆后，还可以短时间反吃幽灵获取高分。
 iframeSrc: 'https://bward2.github.io/pacman-js/'
 thumbnail: /new-images/thumbnails/pac-man.jpg
 tags:
@@ -21,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 《PAC-MAN》（吃豆人）是街机史上最具代表性的迷宫类游戏之一。玩家操控黄色的吃豆人在复杂的迷宫中移动，目标是在不被幽灵抓到的前提下吃掉所有小豆子与能量豆。迷宫中游走着四只性格各异的幽灵——Blinky、Pinky、Inky 和 Clyde，你需要一边规划路线躲避追击，一边伺机在吃下能量豆的短暂时间内反吃幽灵，赚取额外分数。
 
+<!-- i18n:section:tips -->
 ### 玩法策略
 
 1.  **熟悉幽灵 AI 行为：** 每只幽灵都有不同的追踪逻辑：红色 Blinky 更偏向正面追击，粉色 Pinky 擅长埋伏，蓝色 Inky 行走路径更复杂，而橙色 Clyde 经常随机乱逛，理解它们的习性能帮你更好预测危险。

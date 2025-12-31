@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: panda-pizza-parlor
-title: "《Panda Pizza Parlor》熊猫披萨小馆"
-description: >-
-  欢迎光临《Panda Pizza Parlor》！在这家熊猫披萨小馆中，你要在紧张的节奏里接单、配料、烤制并精准出餐，用手速和效率征服一批又一批饥饿的顾客。
+title: 《Panda Pizza Parlor》熊猫披萨小馆
+description: 欢迎光临《Panda Pizza Parlor》！在这家熊猫披萨小馆中，你要在紧张的节奏里接单、配料、烤制并精准出餐，用手速和效率征服一批又一批饥饿的顾客。
 iframeSrc: 'https://pandapizzaparlor.h5games.usercontent.goog/v/16ldgoh3to3f8/'
 thumbnail: /new-images/thumbnails/panda-pizza-parlor.png
 tags:
@@ -21,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 在《Panda Pizza Parlor》中，你将扮演一位忙得团团转的熊猫主厨，经营属于自己的披萨小店。顾客会源源不断上门，每个人都有自己想要的披萨配方：不同的酱料、芝士、肉类与蔬菜搭配。你需要快速查看订单、正确添加配料，再把披萨放进烤箱控制火候，最后在顾客耐心耗尽前端上热气腾腾的披萨。随着关卡推进，订单数量和配方复杂度都会不断提升，小店也会从街角小铺逐渐成长为超级人气披萨店。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **第一时间确认订单：** 顾客一到店，先看清订单气泡里的披萨种类与配料顺序，避免中途临时回看浪费时间。

@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: endless-truck
-title: "Endless Truck 无尽卡车特技"
-description: >-
-  Endless Truck 是一款横版特技跑酷游戏，你要控制卡车的速度与着陆角度，
-  在坡道与斜坡之间做出流畅动作、串起加速，同时收集金钱与升级。
+title: Endless Truck 无尽卡车特技
+description: Endless Truck 是一款横版特技跑酷游戏，你要控制卡车的速度与着陆角度， 在坡道与斜坡之间做出流畅动作、串起加速，同时收集金钱与升级。
 iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
 thumbnail: /new-images/thumbnails/endless-truck.png
 tags:
@@ -24,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 会让卡车越跑越快；失误的翻车与歪斜落地则会让速度暴跌甚至当场爆车。路途中收集到的
 金钱与完成的任务可以解锁各种升级（引擎、避震、氮气加速等），让你在之后的挑战中跑得更稳。
 
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **平稳落地：** 尽量让四个轮子同时、水平落地。这样可以保留最高速度，
@@ -44,6 +43,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 - 车身前后倾：A/D 或 ←/→ 键。
 - 加速：Shift 或空白键（依托管版本略有不同）。
 
+<!-- i18n:section:tips -->
 ### 进阶技巧
 
 - **坡前预备：** 在大落差前先轻点一下煞车，让车头稍微往下压，落地瞬间再补油门，

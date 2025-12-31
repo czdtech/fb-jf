@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: elastic-man
-title: "Elastic Man 弹力捏脸玩具"
-description: >-
-  Elastic Man 是一个互动小玩具，你可以尽情拉扯、戳捏这张橡胶般的脸，看它被拉变形后,
-  又像果冻一样晃回原状。
+title: Elastic Man 弹力捏脸玩具
+description: 'Elastic Man 是一个互动小玩具，你可以尽情拉扯、戳捏这张橡胶般的脸，看它被拉变形后, 又像果冻一样晃回原状。'
 iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/elasticman/0/index.html'
 thumbnail: /new-images/thumbnails/elastic-man.jpg
 tags:
@@ -34,6 +32,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 以鼠标或触控直接拖拽并放开即可操作；
 - 若有设定面板，可在其中调整画质或弹力相关参数。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 从脸颊或额头大面积拉扯，可以制造大幅度、慢速的晃动效果。

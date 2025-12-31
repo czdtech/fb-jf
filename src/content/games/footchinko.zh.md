@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: footchinko
-title: "Footchinko 足球柏青哥"
-description: >-
-  在 Footchinko 体验足球与柏青哥结合的独特玩法！投下足球、撞击钉子与弹板，
-  朝球门与高分奖励前进。
+title: Footchinko 足球柏青哥
+description: 在 Footchinko 体验足球与柏青哥结合的独特玩法！投下足球、撞击钉子与弹板， 朝球门与高分奖励前进。
 iframeSrc: 'https://footchinko2.h5games.usercontent.goog/v/3iniom5rsklno/'
 thumbnail: /new-images/thumbnails/footchinko.jpg
 tags:
@@ -25,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 需要精准瞄准与一点运气，才能绕过防守与障碍物，成功把球送入球门。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **瞄准是关键：** 每次出手前，先仔细观察场地钉子与弹板的分布，

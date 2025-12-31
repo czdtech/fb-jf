@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: egg-maker
-title: "Egg Maker 金牌煎蛋小厨房"
-description: >-
-  Egg Maker 是一款节奏明快的厨房解谜游戏，你要在高压出餐时间里安排备料顺序、
-  控制平底锅火候，端出一盘盘完美熟度的蛋料理。
+title: Egg Maker 金牌煎蛋小厨房
+description: Egg Maker 是一款节奏明快的厨房解谜游戏，你要在高压出餐时间里安排备料顺序、 控制平底锅火候，端出一盘盘完美熟度的蛋料理。
 iframeSrc: 'https://2jbqv0uarsk18.h5games.usercontent.goog/v/2cnuunat3mtpg/'
 thumbnail: /new-images/thumbnails/egg-maker.png
 tags:
@@ -23,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 蛋包等），并对熟度有明确要求。任何还在锅上的食材都会持续加热，所以你如何安排
 每一步的顺序、什么时候起锅，就决定了这盘蛋是「完美熟度」还是被你烤焦。
 
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  操作节奏：永远先处理最花时间的步骤——先开火、下锅，利用加热的空档去完成其他备料。
@@ -40,6 +39,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 - 点击顾客即可上菜；
 - 每个班次之间可以在介面中暂停或重来。
 
+<!-- i18n:section:tips -->
 ### 进阶技巧
 
 - 缓冲托盘：事先把盘子摆在出餐口附近，订单暴增时就不用花时间来回移动。

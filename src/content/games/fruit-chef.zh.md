@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: fruit-chef
-title: "Fruit Chef 水果厨神斩斩乐"
-description: >-
-  Fruit Chef 是一款节奏明快的切水果游戏，通过连续俐落的刀光划破飞舞的水果，
-  避开炸弹并掌握节奏来打出惊人连段。
+title: Fruit Chef 水果厨神斩斩乐
+description: Fruit Chef 是一款节奏明快的切水果游戏，通过连续俐落的刀光划破飞舞的水果， 避开炸弹并掌握节奏来打出惊人连段。
 iframeSrc: 'https://419in6alhpp88.h5games.usercontent.goog/v/22nao6drjf7v0/'
 thumbnail: /new-images/thumbnails/fruit-chef.png
 tags:
@@ -23,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 计分系统特别奖励「长而直的多水果切线」以及稳定的节奏，而不是毫无章法的乱划。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **长线斩击：** 尽量让每一刀都切中多颗水果，一条直线同时命中越多颗，Combo 分数越可观。

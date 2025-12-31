@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: ping-pong
-title: "《Ping Pong》经典乒乓街机"
-description: >-
-  《Ping Pong》是一款经典的乒乓街机游戏，双方各操控一块拍子在屏幕两侧来回击球，试图让对手接不到球从而得分。
+title: 《Ping Pong》经典乒乓街机
+description: 《Ping Pong》是一款经典的乒乓街机游戏，双方各操控一块拍子在屏幕两侧来回击球，试图让对手接不到球从而得分。
 iframeSrc: 'https://ranimania.com/Games/pingpong/ping_pong/'
 thumbnail: /new-images/thumbnails/ping-pong.jpg
 tags:
@@ -21,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 《Ping Pong》是最早期街机游戏之一的现代复刻版，以最简洁的方式还原桌上乒乓对打的核心乐趣。你和对手（或电脑 AI）分别控制屏幕左右两侧的挡板，使小球在场地中间来回反弹。只要让对手没能及时接到球、让球从对方身后飞出边界，你就能获得一分，先达到目标分数的一方获胜。
 
+<!-- i18n:section:tips -->
 ### 玩法策略
 
 1.  **精准控制挡板位置：** 保证挡板始终能追上来球路线，是立足之本。宁可先稳接球，再考虑如何打出更刁钻的回球。

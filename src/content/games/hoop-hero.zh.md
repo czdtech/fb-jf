@@ -1,8 +1,8 @@
 ---
 locale: zh
 urlstr: hoop-hero
-title: "《Hoop Hero》节奏灌篮英雄"
-description: "在《Hoop Hero》中，你要抓准节奏，在篮球正好与篮筐重合的一瞬间点击完成灌篮，用一键操作挑战反应和手感，连续命中刷出更高连击得分。"
+title: 《Hoop Hero》节奏灌篮英雄
+description: 在《Hoop Hero》中，你要抓准节奏，在篮球正好与篮筐重合的一瞬间点击完成灌篮，用一键操作挑战反应和手感，连续命中刷出更高连击得分。
 iframeSrc: 'https://06f80rna6d2sg.h5games.usercontent.goog/v/69kffdfih87r0/'
 thumbnail: /new-images/thumbnails/hoop-hero.png
 tags:
@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 《Hoop Hero》是一款极简风格的一键街机篮球游戏，核心在于“时机”。篮球会按既定轨迹来回移动，你需要在它刚好对齐篮筐时点击屏幕，让球下落完成一次漂亮的灌篮。随着连击数提升，球的移动速度和轨迹节奏会逐渐变难，你需要保持高度专注，在节奏加快的情况下继续命中，才能不断刷新个人最高分。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏玩法与攻略
 1.  **专注节奏与落点**：本作完全是节奏和预判的比拼。不要盯着得分提示，而是持续观察篮球的运动周期，提前感受它经过篮筐的节奏点。
 2.  **追求完美“空心球”**：一般版本会对不碰框的完美入篮给出额外分数或连击奖励。尝试在篮球中心刚好位于篮筐正上方时点击，提升空心命中率。

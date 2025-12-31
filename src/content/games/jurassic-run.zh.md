@@ -1,8 +1,8 @@
 ---
 locale: zh
 urlstr: jurassic-run
-title: "《Jurassic Run》侏罗纪狂奔"
-description: "《Jurassic Run》是一款恐龙主题的无尽跑酷游戏，你要在史前丛林中左右换道、跳跃和滑行，躲开各种危险并拾取金币，冲击更高分数。"
+title: 《Jurassic Run》侏罗纪狂奔
+description: 《Jurassic Run》是一款恐龙主题的无尽跑酷游戏，你要在史前丛林中左右换道、跳跃和滑行，躲开各种危险并拾取金币，冲击更高分数。
 iframeSrc: 'https://260c4eej53igg.h5games.usercontent.goog/v/5h99gs1rujgk0/'
 thumbnail: /new-images/thumbnails/jurassic-run.png
 tags:
@@ -19,6 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Jurassic Run》是一款设定在恐龙与丛林障碍之间的高速无尽跑酷。你需要提前读懂前方赛道布局，通过及时左右换道、跳跃跨越陷阱或下滑穿过障碍，在不断提速的过程中尽可能长时间存活，并串联拾取金币与道具来刷新高分。 
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏玩法与攻略
 
 1.  **视线尽量看远**：不要只盯着角色脚下，尽量把视线放到前方几组障碍的位置，提前判断需要换道、跳跃还是滑行。  

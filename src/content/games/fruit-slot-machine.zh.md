@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: fruit-slot-machine
-title: "Fruit Slot Machine 经典水果机"
-description: >-
-  Fruit Slot Machine 模拟经典三轮水果机——负责任地按钮旋转，
-  了解赔率线与奖项设计，在不过度下注的前提下享受轻松转盘乐趣。
+title: Fruit Slot Machine 经典水果机
+description: Fruit Slot Machine 模拟经典三轮水果机——负责任地按钮旋转， 了解赔率线与奖项设计，在不过度下注的前提下享受轻松转盘乐趣。
 iframeSrc: 'https://7f8j0t3m1ptv8.h5games.usercontent.goog/v/33cv74na0lvqg/'
 thumbnail: /new-images/thumbnails/fruit-slot-machine.jpg
 tags:
@@ -23,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 这款游戏更适合当作轻松小娱乐，而不是讲究策略的「赢钱工具」。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **先设定预算：** 开始前先决定本次游玩可以承受的金额或筹码上限，用完就收手，

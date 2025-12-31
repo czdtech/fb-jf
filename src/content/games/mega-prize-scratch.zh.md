@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: mega-prize-scratch
-title: "《Mega Prize Scratch》大奖刮刮卡"
-description: >-
-  《Mega Prize Scratch》是一款轻松休闲的刮刮卡模拟游戏，通过刮开涂层揭示符号、匹配中奖图案，并在自定预算范围内享受揭晓瞬间的乐趣。
+title: 《Mega Prize Scratch》大奖刮刮卡
+description: 《Mega Prize Scratch》是一款轻松休闲的刮刮卡模拟游戏，通过刮开涂层揭示符号、匹配中奖图案，并在自定预算范围内享受揭晓瞬间的乐趣。
 iframeSrc: 'https://3a38lqtqled1o.h5games.usercontent.goog/v/37llbljplv5v0/'
 thumbnail: /new-images/thumbnails/mega-prize-scratch.png
 tags:
@@ -19,6 +18,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Mega Prize Scratch》将现实生活中的刮刮乐彩票体验搬到了屏幕上。每一张虚拟刮刮卡都隐藏着符号或数字，你需要通过“刮开”涂层来查看结果：如果出现指定数量的相同符号，或者凑齐特定图案，就能触发奖励或小游戏。每张卡的结果都是独立的，没有所谓的“必胜策略”，更适合当作轻量级的解压互动，而非硬核策略挑战。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 通关策略与玩法思路
 
 1.  **设置预算：** 在开始游戏前，给自己定一个小的娱乐预算或回合数，并严格遵守，把它当成一段短暂的休闲时间，而不是无限循环的投注。

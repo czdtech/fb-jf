@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: google-feud
-title: "Google Feud 究极关键词擂台"
-description: >-
-  问答游戏，玩法类似家庭问答秀：根据 Google 搜寻自动完成的开头提示，
-  猜出最热门的关键词补全，尽量在没被三次「打叉」前拿到高分。
+title: Google Feud 究极关键词擂台
+description: 问答游戏，玩法类似家庭问答秀：根据 Google 搜寻自动完成的开头提示， 猜出最热门的关键词补全，尽量在没被三次「打叉」前拿到高分。
 iframeSrc: 'https://mac-web.github.io/macvg/projects/google-feud/game.html'
 thumbnail: /new-images/thumbnails/google-feud.jpg
 tags:
@@ -38,6 +36,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 使用键盘输入答案，按 Enter 送出；
 - 通过画面上的按钮选择类别或进入下一题。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 尽量「用 autocomplete 的思维」来想：考虑常见拼法、同义字与固定搭配用语。

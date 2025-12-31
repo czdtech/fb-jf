@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: paper-io
-title: "《Paper.io》彩纸领地大作战"
-description: >-
-  《Paper.io》是一款多人领地争夺类 io 游戏，你操控一块彩色方块，通过画线围出地盘并封闭区域来扩张势力，同时要小心其他玩家切断你的尾迹将你淘汰。
+title: 《Paper.io》彩纸领地大作战
+description: 《Paper.io》是一款多人领地争夺类 io 游戏，你操控一块彩色方块，通过画线围出地盘并封闭区域来扩张势力，同时要小心其他玩家切断你的尾迹将你淘汰。
 iframeSrc: 'https://mathgames66.github.io/games/html5/paperio2/'
 thumbnail: /new-images/thumbnails/paper-io.jpg
 tags:
@@ -20,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 《Paper.io》是一款节奏明快的多人在线领地争夺游戏。你将操控一块带有自己颜色的小方块，在地图上移动时会在身后留下“彩色轨迹”。当你成功将轨迹首尾相连并封闭一个区域时，该区域就会被染成你的颜色，成为你的领地。但风险在于：只要你还在领地外画线，任何玩家只要撞到你的线，就能直接将你淘汰出局。
 
+<!-- i18n:section:tips -->
 ### 玩法策略
 
 1.  **安全小步扩张：** 开局阶段建议先在自己初始领地周围画小圈，稳健扩张，避免一开始就画过长的路线暴露太久在外。

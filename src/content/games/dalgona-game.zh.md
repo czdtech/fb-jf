@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: dalgona-game
-title: "Dalgona Game 鱿鱼游戏椪糖挑战"
-description: >-
-  《Dalgona Game 鱿鱼游戏椪糖挑战》还原韩式椪糖刻图玩法。你需要沿着糖饼上压印的图案小
-  心描边，控制裂痕，在倒计时结束前成功掏出完整图形。
+title: Dalgona Game 鱿鱼游戏椪糖挑战
+description: 《Dalgona Game 鱿鱼游戏椪糖挑战》还原韩式椪糖刻图玩法。你需要沿着糖饼上压印的图案小 心描边，控制裂痕，在倒计时结束前成功掏出完整图形。
 iframeSrc: 'https://12d729aggg2h0.h5games.usercontent.goog/v/786aa9qgft3vo/'
 thumbnail: /new-images/thumbnails/dalgona-game.png
 tags:
@@ -23,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 。用力过猛或偏离纹路，都会让糖片出现裂纹甚至直接碎裂，这一局挑战宣告失败。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **转角处一定要慢：** 在直线段可以适当加快描边速度，但一到拐角或尖锐角时就要放慢，

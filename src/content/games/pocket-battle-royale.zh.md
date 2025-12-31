@@ -1,9 +1,10 @@
 ---
 locale: zh
 urlstr: pocket-battle-royale
-title: "《Pocket Battle Royale》迷你吃鸡竞技"
+title: 《Pocket Battle Royale》迷你吃鸡竞技
 description: >-
-  《Pocket Battle Royale》是一款俯视角 2D 吃鸡射击小游戏，你将被丢进迷宫式战场，在缩圈压力下搜集武器与血包，击败其他玩家，成为最后的生存者。
+  《Pocket Battle Royale》是一款俯视角 2D
+  吃鸡射击小游戏，你将被丢进迷宫式战场，在缩圈压力下搜集武器与血包，击败其他玩家，成为最后的生存者。
 iframeSrc: 'https://pocketbattleroyale.h5games.usercontent.goog/v/1n9qfv4cpdie8/'
 thumbnail: /new-images/thumbnails/pocket-battle-royale.png
 tags:
@@ -21,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 《Pocket Battle Royale》以自上而下俯视视角呈现紧凑的吃鸡战斗体验。你与其他玩家一同被投放在类似迷宫的 2D 战场中，没有繁琐的建造或复杂系统，核心就是：抢先捡到武器和补给、利用掩体与地形走位、时刻注意地图上不断收缩的安全圈，在所有对手倒下之前活到最后。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **开局第一件事：捡枪：** 开局阶段最重要的是尽快找到任意一把武器，没有武器意味着毫无还手之力。优先在建筑、箱子等热点区域搜索枪械、弹药与急救道具。

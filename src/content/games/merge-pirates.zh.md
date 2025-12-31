@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: merge-pirates
-title: "《Merge Pirates》海盗舰队合成记"
-description: >-
-  《Merge Pirates》是一款海盗主题的合成休闲游戏，你要合成火炮、战船与各种海盗装备，完成船员订单、赚取金币，打造称霸七海的传奇舰队。
+title: 《Merge Pirates》海盗舰队合成记
+description: 《Merge Pirates》是一款海盗主题的合成休闲游戏，你要合成火炮、战船与各种海盗装备，完成船员订单、赚取金币，打造称霸七海的传奇舰队。
 iframeSrc: 'https://mergepirates.h5games.usercontent.goog/v/2rugbh8p4845g/'
 thumbnail: /new-images/thumbnails/merge-pirates.png
 tags:
@@ -21,6 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 《Merge Pirates》是一款既放松又容易上头的合成益智游戏，你将扮演一名忙碌的海盗船长，在甲板上不断升级你的装备与舰队。游戏围绕各类海盗题材物品展开——小火炮、舵轮、藏宝图、酒桶乃至整艘战船，两个相同的物品可以合成更高等级的版本。你的目标是根据船员订单生产所需物品、赚取金币，并解锁更多传说级装备，让自己的舰队成为七大洋上的噩梦与传说。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **掌握合成链：** 把一件物品拖到另一件相同物品上即可合成更高等级的装备。例如，两门小型火炮可以合成更大口径火炮。理解各种物品的升级线，有助于你更有计划地推进订单。

@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: dumb-ways-to-die
-title: "Dumb Ways to Die 蠢蠢的死法迷你游戏合集"
-description: >-
-  Dumb Ways to Die 是一款节奏飞快的反应力迷你游戏合集，你要在极短时间内完成
-  一连串安全主题的小挑战，才能让那些呆萌角色活下来。
+title: Dumb Ways to Die 蠢蠢的死法迷你游戏合集
+description: Dumb Ways to Die 是一款节奏飞快的反应力迷你游戏合集，你要在极短时间内完成 一连串安全主题的小挑战，才能让那些呆萌角色活下来。
 iframeSrc: 'https://html5.iclouds.io/dumb-ways-die/'
 thumbnail: /new-images/thumbnails/dumb-ways-to-die.jpg
 tags:
@@ -36,6 +34,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 主要通过鼠标或触控进行滑动、点击与长按操作；
 - 部分托管版本的特定关卡，可能改用方向键或空白键来完成动作。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 先看清楚提示再下手，很多失误都来自于下意识做错动作而不是反应慢。

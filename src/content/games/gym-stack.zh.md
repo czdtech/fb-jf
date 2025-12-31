@@ -1,8 +1,8 @@
 ---
 locale: zh
 urlstr: gym-stack
-title: "《Gym Stack》健身杠铃堆堆乐"
-description: "在《Gym Stack》中，你要在多根杠上堆叠不同大小和颜色的杠铃片，通过移动和合并来清理空间，用最聪明的方式拿下高分。"
+title: 《Gym Stack》健身杠铃堆堆乐
+description: 在《Gym Stack》中，你要在多根杠上堆叠不同大小和颜色的杠铃片，通过移动和合并来清理空间，用最聪明的方式拿下高分。
 iframeSrc: 'https://gymstack.h5games.usercontent.goog/v/3js1l1d7rdkfg/'
 thumbnail: /new-images/thumbnails/gym-stack.jpeg
 tags:
@@ -20,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Gym Stack》是一款上手轻松但非常上头的 3D 益智堆叠游戏，考验的是你的“收纳”和规划能力。场景中会出现多根杠，每根杠上会不断出现不同颜色、不同重量的杠铃片。你的目标是不断移动、堆叠这些杠铃，让相同颜色和大小的杠铃片合并成更大的重量，同时清出更多空间。只要通过巧妙的移动和合并，在不让所有杠都被塞满的前提下，你就能持续得分，刷出高纪录。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏玩法与攻略
 1.  **颜色优先匹配**：只有同颜色的杠铃才能合并，因此移动时要有意识地把同色片集中在几根主要的杠上。
 2.  **垂直顺序很重要**：通常需要把小杠铃堆在同色的大杠铃上才能触发合并，反过来把大放到小上面会直接卡死布局，要尽量避免。

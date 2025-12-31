@@ -1,9 +1,10 @@
 ---
 locale: zh
 urlstr: paper-minecraft
-title: "《Paper Minecraft》纸片版我的世界"
+title: 《Paper Minecraft》纸片版我的世界
 description: >-
-  《Paper Minecraft》是人气沙盒游戏《Minecraft》的 2D 侧视再创作版本，你可以在纸片风格的横版世界中探索、挖矿、合成道具、建造房屋并对抗怪物，体验不一样视角的生存与创造乐趣。
+  《Paper Minecraft》是人气沙盒游戏《Minecraft》的 2D
+  侧视再创作版本，你可以在纸片风格的横版世界中探索、挖矿、合成道具、建造房屋并对抗怪物，体验不一样视角的生存与创造乐趣。
 iframeSrc: 'https://scratch.mit.edu/projects/10128407/embed'
 thumbnail: /new-images/thumbnails/paper-minecraft.jpg
 tags:
@@ -21,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 《Paper Minecraft》是《Minecraft（我的世界）》的 2D 侧滚视角改编作品。虽然从 3D 变成了横版“纸片世界”，但依旧保留了挖矿、合成、建造与生存等核心玩法：你可以在地表砍树、在地下挖矿，收集各种资源，再通过工作台和熔炉合成工具、武器和建筑方块，建造自己的基地，同时在夜晚警惕僵尸、骷髅等怪物的袭击。
 
+<!-- i18n:section:tips -->
 ### 玩法策略
 
 1.  **开局收集资源：** 和原版一样，建议先砍树获得木材，制作最基础的木质工具，随后挖掘石头、煤炭等，为铁器时代打下基础。

@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: mini-crossword
-title: "《Mini Crossword》每日迷你填字"
-description: >-
-  《Mini Crossword》是一款体量精巧的每日填字游戏，用一小块方格就能带来紧凑、有趣的文字挑战，适合各个水平的玩家随时来一局动动脑。
+title: 《Mini Crossword》每日迷你填字
+description: 《Mini Crossword》是一款体量精巧的每日填字游戏，用一小块方格就能带来紧凑、有趣的文字挑战，适合各个水平的玩家随时来一局动动脑。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword-mini/'
 thumbnail: /new-images/thumbnails/mini-crossword.jpg
 tags:
@@ -21,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 《Mini Crossword》是一款格子不大但颇具挑战性的每日填字游戏。它提供的是一张小巧却结构紧凑的字谜网格，你需要根据横向与纵向的提示，将所有单词完整填入方格中。一次游戏只需几分钟，很适合通勤、午休或睡前来一局，既能扩充词汇量，又能享受逻辑与语言解谜的乐趣。
 
+<!-- i18n:section:tips -->
 ### 玩法策略
 
 1.  **认真阅读提示：** 横向与纵向的提示往往带有双关或缩略信息，仔细揣摩提示中的关键词，是破解题目的第一步。

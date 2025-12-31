@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: match-puzzle-house
-title: "《Match Puzzle House》三消装修小屋"
-description: >-
-  《Match Puzzle House》是一款将三消解谜与家居装修结合的休闲游戏，通过完成关卡目标获取星星，再为各个房间进行翻新与布置。
+title: 《Match Puzzle House》三消装修小屋
+description: 《Match Puzzle House》是一款将三消解谜与家居装修结合的休闲游戏，通过完成关卡目标获取星星，再为各个房间进行翻新与布置。
 iframeSrc: 'https://7cp83ss0h08p0.h5games.usercontent.goog/v/49v2bsl4scjdo/'
 thumbnail: /new-images/thumbnails/match-puzzle-house.png
 tags:
@@ -21,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Match Puzzle House》把经典三消玩法和家装模拟融合在一起。你需要在棋盘上通过交换相邻方块来完成关卡目标，清除障碍、收集指定物品，并在有限步数内达成任务。通关后获得的星星可以用来解锁和装修房间，从墙纸、地板到家具、装饰，一点点把破旧小屋打造成理想空间。合理利用各种增益道具和特殊消除，是闯过高难度关卡的关键。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 通关策略与玩法思路
 
 1.  **中央控场：** 优先打开棋盘中间区域，为自己创造更多连锁与特殊方块的生成空间，中部通常是连接四面八方的“交通枢纽”。

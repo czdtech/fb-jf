@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: metal-guns-fury
-title: "《Metal Guns Fury》横版热血射击"
-description: >-
-  《Metal Guns Fury》是一款街机场景风格的横版跑射动作游戏，你需要在弹雨中翻滚前进，灵活切换武器、营救人质，对抗成群士兵、炮台与载具。
+title: 《Metal Guns Fury》横版热血射击
+description: 《Metal Guns Fury》是一款街机场景风格的横版跑射动作游戏，你需要在弹雨中翻滚前进，灵活切换武器、营救人质，对抗成群士兵、炮台与载具。
 iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
 thumbnail: /new-images/thumbnails/metal-guns-fury.jpg
 tags:
@@ -21,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Metal Guns Fury》是一款向街机经典致敬的横版跑射游戏。你将操控小队一路突进，在关卡中穿梭于掩体与平台之间，使用步枪、霰弹枪、火箭筒等不同武器清理敌人，同时营救被扣押的人质获取生命与弹药加成。关卡中塞满了步兵、重机枪炮台以及轻型载具，干净利落的跳跃、滑铲与走位，是区分“稳稳过关”和“混乱暴毙”的关键。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 通关策略与玩法思路
 
 1.  **优先击破高威胁目标：** 先处理固定炮台、火箭兵等高爆发单位，再清理普通士兵，避免被交叉火力迅速蒸发。

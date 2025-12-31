@@ -1,8 +1,8 @@
 ---
 locale: zh
 urlstr: gunspin
-title: "《Gunspin》后坐力飞行射击"
-description: "《Gunspin》是一款靠枪械后坐力推进的街机游戏。通过控制开火的时机和角度，让武器在空中不断翻转前进，收集子弹和金币，在躲避危险的同时飞得更远。"
+title: 《Gunspin》后坐力飞行射击
+description: 《Gunspin》是一款靠枪械后坐力推进的街机游戏。通过控制开火的时机和角度，让武器在空中不断翻转前进，收集子弹和金币，在躲避危险的同时飞得更远。
 iframeSrc: 'https://ubg44.github.io/GunSpin/'
 thumbnail: /new-images/thumbnails/gunspin.jpg
 tags:
@@ -28,6 +28,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ### 操作说明
 - 鼠标点击或按空格键进行射击；开火的时机和方向决定你的飞行轨迹。
 
+<!-- i18n:section:tips -->
 ### 实用技巧
 - 多用轻点式短促射击，而不是长按猛开一整梭，这样更省子弹、控制更细腻。
 - 瞄准时略微朝飞行路径的反方向开火，让后坐力在推你向前的同时，避免速度被完全抵消。

@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: elite-chess
-title: "Elite Chess 精英国际象棋训练"
-description: >-
-  Elite Chess 聚焦你的象棋基本功——稳健开局、干净利落的战术计算，
-  和扎实的残局技术，帮你把优势确实转化为胜势。
+title: Elite Chess 精英国际象棋训练
+description: Elite Chess 聚焦你的象棋基本功——稳健开局、干净利落的战术计算， 和扎实的残局技术，帮你把优势确实转化为胜势。
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
 thumbnail: /new-images/thumbnails/elite-chess.png
 tags:
@@ -30,6 +28,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 内建的习题与可调等级能帮助你训练计算深度、记忆典型格局与战术模式。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **开局：** 优先用兵占据中心（例如 e4 / d4 / c4），先出马再出象，及早王车易位，

@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: doodle-cricket
-title: "Doodle Cricket 谷歌板球彩蛋"
-description: >-
-  《Doodle Cricket》是 Google 推出的轻量板球涂鸦小游戏。通过把握挥棒时机，将球击出守备
-  阵，尽可能多地得分，直到被接杀或出局为止。
+title: Doodle Cricket 谷歌板球彩蛋
+description: 《Doodle Cricket》是 Google 推出的轻量板球涂鸦小游戏。通过把握挥棒时机，将球击出守备 阵，尽可能多地得分，直到被接杀或出局为止。
 iframeSrc: 'https://f3.silvergames.com/m/doodle-cricket/'
 thumbnail: /new-images/thumbnails/doodle-cricket.jpg
 tags:
@@ -38,6 +36,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 - 鼠标/触屏：单次点击/轻触即可挥棒，具体击球落点与力量取决于出手时机。  
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 尽量避免提前“预判式乱挥”，尽量等看到投手出手与球弹起高度后再反应出手。  

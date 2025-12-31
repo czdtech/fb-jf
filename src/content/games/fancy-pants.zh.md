@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: fancy-pants
-title: "Fancy Pants 手绘疾走平台 1 代"
-description: >-
-  《Fancy Pants》是一款风格鲜明的火柴人平台游戏，
-  通过高速惯性、墙跳与流畅跑酷，在手绘关卡与隐藏房间间穿梭。
+title: Fancy Pants 手绘疾走平台 1 代
+description: 《Fancy Pants》是一款风格鲜明的火柴人平台游戏， 通过高速惯性、墙跳与流畅跑酷，在手绘关卡与隐藏房间间穿梭。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj8/index.html
 thumbnail: /new-images/thumbnails/fancy-pants.jpg
@@ -37,6 +35,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - S 键或向下键在斜坡上滑行，或在特定地形上做下蹲动作。
 - 向上键用来开门或进入特定房间（依托管版本略有差异）。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 不要狂按跳跃键，试着在平台边缘稍微等一下再起跳，可以获得最长的跳跃距离。

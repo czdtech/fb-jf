@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: mazes
-title: "《Mazes》经典迷宫闯关合集"
-description: >-
-  《Mazes》是一款经典迷宫闯关游戏，包含从简单网格到机关重重的多种关卡，你需要规划最优路径，躲开陷阱，并在限定时间内冲向终点。
+title: 《Mazes》经典迷宫闯关合集
+description: 《Mazes》是一款经典迷宫闯关游戏，包含从简单网格到机关重重的多种关卡，你需要规划最优路径，躲开陷阱，并在限定时间内冲向终点。
 iframeSrc: 'https://1ivu76rhffpsg.h5games.usercontent.goog/v/00icu4vi09j18/'
 thumbnail: /new-images/thumbnails/mazes.jpg
 tags:
@@ -21,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Mazes》收录了多种风格的迷宫关卡，从结构规整的基础网格，到布满陷阱与机关的复杂路线一应俱全。真正的挑战不在于“能不能走到终点”，而在于你能否规划出既安全又高效的路线：在避开陷阱地块的同时，合理踩下各种开关，打开大门或桥梁，并在系统给出的参考时间内完成冲关。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 通关策略与玩法思路
 
 1.  **左右手贴墙法：** 在结构单一、没有大量环路的迷宫里，可以尝试“贴墙走”——一路顺着左手或右手边的墙前进，通常能保证最终找到出口；一旦遇到大量回环或多层回路，就需要灵活调整策略。

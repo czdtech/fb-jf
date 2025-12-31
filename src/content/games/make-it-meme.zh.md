@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: make-it-meme
-title: "《Make It Meme》线上多人梗图派对"
-description: >-
-  《Make It Meme》是一款多人在线派对游戏，玩家需要在限定时间内为梗图模板配上最有梗的文案，并互相打分评选出全场最佳梗王。
+title: 《Make It Meme》线上多人梗图派对
+description: 《Make It Meme》是一款多人在线派对游戏，玩家需要在限定时间内为梗图模板配上最有梗的文案，并互相打分评选出全场最佳梗王。
 iframeSrc: 'https://artedu1808.github.io/g177/make-it-meme/'
 thumbnail: /new-images/thumbnails/make-it-meme.jpg
 tags:
@@ -21,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 《Make It Meme》是由 Prealpha 开发的一款多人在线梗图派对游戏。每一局中，系统会给出统一或随机的梗图模板，所有玩家需要在限定时间内为图片配上最有趣、最炸裂的文字说明。提交后，全体玩家会对彼此的作品进行评分，最终得分最高的玩家成为这一局“梗图之王”。游戏支持实时联机，非常适合和好友开黑、语音聚会或当作线上破冰活动。
 
+<!-- i18n:section:tips -->
 ### 玩法策略
 
 1.  **模式选择：** 进入游戏后，可以选择加入公开房间和陌生玩家同场竞技，也可以创建私人房间，只邀请自己的朋友加入。

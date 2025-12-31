@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: gin-rummy
-title: "Gin Rummy 金拉密牌"
-description: >-
-  线上体验经典桌游 Gin Rummy：将手牌组成刻子与顺子，在手中剩余「废牌」点数足够低时敲牌结束回合，
-  试着在对手手里留下高分死牌。
+title: Gin Rummy 金拉密牌
+description: 线上体验经典桌游 Gin Rummy：将手牌组成刻子与顺子，在手中剩余「废牌」点数足够低时敲牌结束回合， 试着在对手手里留下高分死牌。
 iframeSrc: 'https://ginrummy.h5games.usercontent.goog/v/1sj72j2nsfin0/'
 thumbnail: /new-images/thumbnails/gin-rummy.png
 tags:
@@ -24,6 +22,7 @@ Gin Rummy 是拉密家族中的经典两人纸牌游戏。你的目标是把手�
 这是一款兼具技巧、记忆与读牌的游戏，你必须留意自己摸进与丢出的牌型，同时观察对手弃牌来推测其手牌结构。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **基本目标：** 每局你会拿到 10 张手牌，通过摸牌与弃牌，把手牌整理成刻子与顺子，

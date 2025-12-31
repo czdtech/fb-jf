@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: pixel-shooter
-title: "《Pixel Shooter》像素射击闯关"
-description: >-
-  《Pixel Shooter》是一款复古像素风射击游戏，你将操控角色在不同关卡中对抗成群敌人，拾取增益道具、升级武器，在弹雨中努力生存下去。
+title: 《Pixel Shooter》像素射击闯关
+description: 《Pixel Shooter》是一款复古像素风射击游戏，你将操控角色在不同关卡中对抗成群敌人，拾取增益道具、升级武器，在弹雨中努力生存下去。
 iframeSrc: 'https://a.onlineigry.net/games3/igra-piksel-shuter/index.htm'
 thumbnail: /new-images/thumbnails/pixel-shooter.jpg
 tags:
@@ -20,6 +19,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 《Pixel Shooter》是一款复古像素画面风格的横版射击游戏。你将扮演一名像素战士，在风格各异的关卡中迎战源源不断刷新的敌人，通过不断拾取金币、血包和武器强化道具，提升自己的火力与生存能力。游戏节奏紧凑、操作直接，既有老派街机的爽快感，又有一定策略与走位空间。
 
+<!-- i18n:section:tips -->
 ### 玩法策略
 
 1.  **移动与射击并重：** 不能只顾站桩输出，也不能一味乱跑躲子弹。合理利用走位躲避敌人攻击，同时保持武器指向高威胁目标，是通关的关键。

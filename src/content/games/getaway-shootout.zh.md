@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: getaway-shootout
-title: "Getaway Shootout 乱斗逃脱赛"
-description: >-
-  失控物理系竞速射击：用笨拙的跳跃一路蹦到撤离点，捡起各种搞笑武器，
-  在单人或双人模式中比拼谁先成功逃脱。
+title: Getaway Shootout 乱斗逃脱赛
+description: 失控物理系竞速射击：用笨拙的跳跃一路蹦到撤离点，捡起各种搞笑武器， 在单人或双人模式中比拼谁先成功逃脱。
 iframeSrc: 'https://ubg44.github.io/GetawayShootout/'
 thumbnail: /new-images/thumbnails/getaway-shootout.jpg
 tags:
@@ -38,6 +36,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 另有按键用于使用武器或道具（具体键位依托管版本而定）；
 - 支援本地双人游玩，各自使用不同的一组按键。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 在斜坡上使用较长时间的按键，可以把向上的高度转换成更快的前进速度，

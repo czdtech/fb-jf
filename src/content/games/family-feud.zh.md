@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: family-feud
-title: "Family Feud 家庭问答大对决"
-description: >-
-  Family Feud 是一款以「问卷调查」为基础的答题游戏，你要在多个回合中猜出大众最常回答的答案，
-  并在最后的 Fast Money 环节冲高总分。
+title: Family Feud 家庭问答大对决
+description: Family Feud 是一款以「问卷调查」为基础的答题游戏，你要在多个回合中猜出大众最常回答的答案， 并在最后的 Fast Money 环节冲高总分。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/family-feud/'
 thumbnail: /new-images/thumbnails/family-feud.jpg
 tags:
@@ -41,6 +39,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 以键盘输入答案并按 Enter 送出；
 - 方向键或画面上的 UI 元件用于切换选项或浏览列表（依托管版本而定）。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 优先从「大类」思考，例如水果、车子、金钱这类广泛概念，往往更接近大众答案。

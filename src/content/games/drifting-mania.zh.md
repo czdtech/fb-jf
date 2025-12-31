@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: drifting-mania
-title: "Drifting Mania 顶视漂移狂热"
-description: >-
-  《Drifting Mania 顶视漂移狂热》是一款俯视视角小体量漂移赛车游戏。通过精细控制油门与
-  车尾甩动，连贯完成弯道漂移并刷出最快单圈成绩。
+title: Drifting Mania 顶视漂移狂热
+description: 《Drifting Mania 顶视漂移狂热》是一款俯视视角小体量漂移赛车游戏。通过精细控制油门与 车尾甩动，连贯完成弯道漂移并刷出最快单圈成绩。
 iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
 thumbnail: /new-images/thumbnails/drifting-mania.png
 tags:
@@ -23,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 比全 3D 赛车，它更强调“俯视下的路线与节奏感”，适合快速上手又想体验漂移手感的玩家。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **慢进快出，保留出弯速度：** 入弯时适当降低车速，确保能够稳定进入漂移姿态；出弯时则尽

@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: fleeing-the-complex
-title: "Fleeing the Complex 逃出高墙监狱"
-description: >-
-  Henry Stickmin 系列中规模最大的一次越狱行动：通过选择道具与路线，
-  尝试从要塞级监狱中逃脱，解锁多种结局并收集所有失败与角色资料。
+title: Fleeing the Complex 逃出高墙监狱
+description: Henry Stickmin 系列中规模最大的一次越狱行动：通过选择道具与路线， 尝试从要塞级监狱中逃脱，解锁多种结局并收集所有失败与角色资料。
 iframeSrc: 'https://ubg77.github.io/fleeing-the-complex/'
 thumbnail: /new-images/thumbnails/fleeing-the-complex.jpg
 tags:
@@ -38,6 +36,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 使用鼠标在选项出现时点击按钮，或点击画面上的互动物件。
 - 少数情境下可能需要按键盘指定按键（依托管版本而定）。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 某个选项失败后，下一次可以试试同一场景中的其他分支，

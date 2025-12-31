@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: g-switch-4
-title: "G-Switch 4 重力切换酷跑 4"
-description: >-
-  重力翻转跑酷系列最新作：操作手感更顺、陷阱链更刁钻，
-  并强化了支援多人的本地竞速模式。
+title: G-Switch 4 重力切换酷跑 4
+description: 重力翻转跑酷系列最新作：操作手感更顺、陷阱链更刁钻， 并强化了支援多人的本地竞速模式。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231127/09/index.html
 thumbnail: /new-images/thumbnails/g-switch-4.jpg
@@ -39,6 +37,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 使用单一按键或点击即可翻转重力方向；
 - 在对战模式中，每位玩家分配一个专属按键以控制自己的角色。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 利用节奏较慢的路段反复练习翻转节奏，把肌肉记忆固定下来，

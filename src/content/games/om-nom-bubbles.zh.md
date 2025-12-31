@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: om-nom-bubbles
-title: 'Om Nom 泡泡'
-description: >-
-  Om Nom 泡泡是一款色彩缤纷的泡泡射击游戏——匹配颜色、反弹射击，用巧妙的角度清除棋盘。
-iframeSrc: 'https://omnombubbles.h5games.usercontent.goog/v/6bdfc73b-7b9c-4046-9bfe-9269036a772f/'
+title: Om Nom 泡泡
+description: Om Nom 泡泡是一款色彩缤纷的泡泡射击游戏——匹配颜色、反弹射击，用巧妙的角度清除棋盘。
+iframeSrc: >-
+  https://omnombubbles.h5games.usercontent.goog/v/6bdfc73b-7b9c-4046-9bfe-9269036a772f/
 thumbnail: /new-images/thumbnails/om-nom-bubbles.jpg
 tags:
   - puzzle
@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Om Nom 泡泡是一款经典的泡泡射击游戏，主角是深受喜爱的 Om Nom。瞄准并射击彩色泡泡以形成三个或更多的匹配并清除棋盘的部分。战略性地利用墙壁反弹、颜色管理和规划即将到来的泡泡是防止天花板下降过低的关键。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏策略与攻略
 
 1.  瞄准锚点：移除支撑大片区域的簇；崩塌大组可以加速清除。

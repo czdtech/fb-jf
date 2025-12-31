@@ -1,8 +1,8 @@
 ---
 locale: zh
 urlstr: incredibox-fruity
-title: "Incredibox Fruity - 在线玩 Incredibox Fruity"
-description: "探索 Incredibox Fruity 的终极指南，这款经典策略游戏。学习制胜策略、操作和技巧，将你的军队从穴居人进化到未来战士，主宰战场。"
+title: Incredibox Fruity - 在线玩 Incredibox Fruity
+description: 探索 Incredibox Fruity 的终极指南，这款经典策略游戏。学习制胜策略、操作和技巧，将你的军队从穴居人进化到未来战士，主宰战场。
 iframeSrc: 'https://turbowarp.org/414716080/embed'
 thumbnail: /new-images/thumbnails/incredibox-fruity.jpg
 tags:
@@ -17,10 +17,12 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Incredibox Fruity 是一款经典的 2D 横向卷轴策略游戏，在 Flash 游戏时代广受欢迎。游戏的核心概念是两个基地之间的战斗，一个属于玩家，另一个属于 AI 对手。游戏独特的定义特征是其"进化"机制。玩家从石器时代（作为穴居人）开始，必须赚取经验值（XP）才能通过五个不同的时代：石器时代、中世纪、现代，最后是未来时代。每次进化不仅解锁更强大的单位和防御炮塔，还会完全恢复你基地的生命值。最终目标很简单：在敌人的猛攻中生存下来并摧毁他们的基地。
 
+<!-- i18n:section:how-to-play -->
 ### 游戏策略与攻略
 
 掌握 Incredibox Fruity 需要在进攻、防守和战略时机之间取得平衡。
 
+<!-- i18n:section:tips -->
 #### 1. 前期策略（石器时代）
 *   **穴居人冲锋：** 最常见和有效的开局策略是大量生产最便宜的单位"棍棒人"。他们性价比高，可以在早期阶段快速压倒敌人。
 *   **专注于 XP：** 你的主要目标是尽快杀死敌方单位以获得 XP。强大的进攻推进帮助你更快地赚取 XP，从而更早地进化。

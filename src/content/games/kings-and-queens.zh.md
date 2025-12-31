@@ -1,8 +1,8 @@
 ---
 locale: zh
 urlstr: kings-and-queens
-title: "《Kings and Queens》国王与王后消消乐"
-description: "《Kings and Queens》是一款带城堡翻新故事线的三消游戏，你要清理障碍、解锁增益道具，用精心规划一点点修复皇室大厅。"
+title: 《Kings and Queens》国王与王后消消乐
+description: 《Kings and Queens》是一款带城堡翻新故事线的三消游戏，你要清理障碍、解锁增益道具，用精心规划一点点修复皇室大厅。
 iframeSrc: 'https://0ptbttt09g5cg.h5games.usercontent.goog/v/6c7l9okboa1u0/'
 thumbnail: /new-images/thumbnails/kings-and-queens.png
 tags:
@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Kings and Queens》在传统三消玩法外套了一层“修复城堡”的剧情。每一章节都会引入新的障碍物（如锁链、大理石板、迷雾）以及对应的新目标，例如收集王冠、打碎封印等。通过通关获得星星，你可以用来翻新房间、解锁增强道具，为后面更棘手的关卡做准备。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏玩法与攻略
 
 1.  **先控棋盘，再谈高分**：开局优先清理棋盘中央的障碍物，为后续制造连锁和组合道具腾出空间，比一味在边角做小消除更有效。  

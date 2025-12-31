@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: going-balls
-title: "Going Balls 3D 滚球跑酷"
-description: >-
-  3D 滚球障碍跑酷：在狭窄赛道上保持平衡，穿过横梁与陷阱，
-  收集金币并在不掉落的前提下抵达终点。
+title: Going Balls 3D 滚球跑酷
+description: 3D 滚球障碍跑酷：在狭窄赛道上保持平衡，穿过横梁与陷阱， 收集金币并在不掉落的前提下抵达终点。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231116/10/index.htm
 thumbnail: /new-images/thumbnails/going-balls.jpg
@@ -39,6 +37,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 部分版本提供空白键或指定按键作为刹车／减速；
 - R 可在失误后快速重试（依托管版本而定）。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 视线尽量看向前方，提早调整角度以对准细窄入口，而不是到入口前才猛打方向。

@@ -1,8 +1,10 @@
 ---
 locale: zh
 urlstr: hexa-dungeon
-title: "《Hexa Dungeon》六角地牢连线战"
-description: "在《Hexa Dungeon》中走进六角地牢，对抗骷髅与怪物——通过在六边形棋盘上连接同色宝石触发消除，用更长的连线打出更高伤害，是一款融合三消与地牢战斗的解谜 RPG。"
+title: 《Hexa Dungeon》六角地牢连线战
+description: >-
+  在《Hexa
+  Dungeon》中走进六角地牢，对抗骷髅与怪物——通过在六边形棋盘上连接同色宝石触发消除，用更长的连线打出更高伤害，是一款融合三消与地牢战斗的解谜 RPG。
 iframeSrc: 'https://hexadungeon.h5games.usercontent.goog/v/0j3gttu45n06g/'
 thumbnail: /new-images/thumbnails/hexa-dungeon.png
 tags:
@@ -20,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 《Hexa Dungeon》是一款把三消机制和地牢战斗融合在一起的解谜 RPG。你将在地牢中与骷髅和其它怪物对战，下方是由六角格组成的棋盘，要攻击敌人，就必须在棋盘上连接三格或以上相同颜色且相邻的六边形宝石，形成一条连续的链。连线越长，对敌人造成的伤害就越高。每一步既要打出当下的高伤害，又要为后续回合留下可用的布局，是一款非常看重前后手规划的策略游戏。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏玩法与攻略
 1.  **连线越长伤害越高**：核心思路就是想办法拉出尽可能长的同色连线。5 连甚至七连的伤害会远远高于普通 3 连，落子前先在全盘扫一圈，找一找是否存在潜在长链机会。
 2.  **提前铺垫下一步**：有时候先做一个看似普通的 3 连，可以为下一回合制造一个更长的连线结构。不要只盯着当前一步的伤害，尝试多想一两步。

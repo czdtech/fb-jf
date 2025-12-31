@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: geometry-dash-lite
-title: "Geometry Dash Lite 几何冲刺 体验版"
-description: >-
-  节奏平台跳跃入门版：跟着音乐节拍跳跃与飞行，穿越预设关卡中的跳板、重力门与飞船段落，
-  避开尖刺与锯齿障碍。
+title: Geometry Dash Lite 几何冲刺 体验版
+description: 节奏平台跳跃入门版：跟着音乐节拍跳跃与飞行，穿越预设关卡中的跳板、重力门与飞船段落， 避开尖刺与锯齿障碍。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20240221/08/index.html
 thumbnail: /new-images/thumbnails/geometry-dash-lite.jpg
@@ -38,6 +36,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 空白键、鼠标点击或触控用于跳跃／飞行；
 - 练习模式开关与其他辅助功能按键会依托管版本稍有差异。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 对于难关，先开启练习模式，逐段设置检查点并练习到可以稳定通过，再回到正常模式挑战无失误通关。

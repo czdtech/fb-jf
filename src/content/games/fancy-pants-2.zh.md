@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: fancy-pants-2
-title: "Fancy Pants 2 手绘疾走平台续作"
-description: >-
-  《Fancy Pants 2》是一款以惯性与速度感为核心的横版平台续作，
-  速度动作更流畅、敌人与关卡更丰富，手绘风场景中藏着大量秘密与奖杯。
+title: Fancy Pants 2 手绘疾走平台续作
+description: 《Fancy Pants 2》是一款以惯性与速度感为核心的横版平台续作， 速度动作更流畅、敌人与关卡更丰富，手绘风场景中藏着大量秘密与奖杯。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj9/index.html
 thumbnail: /new-images/thumbnails/fancy-pants-2.jpg
@@ -39,6 +37,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 向下键在斜坡上滑行、加速或钻入特定地形。
 - 向上键进入门或与部分物件互动。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 多练习「冲出斜坡」的手感，学会在斜坡尾端带着最大速度冲上平地，

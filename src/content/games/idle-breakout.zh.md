@@ -1,8 +1,10 @@
 ---
 locale: zh
 urlstr: idle-breakout
-title: "《Idle Breakout》挂机打砖块"
-description: "《Idle Breakout》是一款把放置玩法与经典打砖块结合的游戏，你既可以点击砸砖，也能购买自动弹球与炮台，配合转生倍率和极限加点，打造越滚越快的刷砖工厂。"
+title: 《Idle Breakout》挂机打砖块
+description: >-
+  《Idle
+  Breakout》是一款把放置玩法与经典打砖块结合的游戏，你既可以点击砸砖，也能购买自动弹球与炮台，配合转生倍率和极限加点，打造越滚越快的刷砖工厂。
 iframeSrc: 'https://ubg98.github.io/IdleBreakout/'
 thumbnail: /new-images/thumbnails/idle-breakout.jpg
 tags:
@@ -30,6 +32,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 - 使用鼠标点击直接攻击砖块，同时通过界面按钮购买弹球、升级参数以及解锁转生相关节点，一切操作都围绕 UI 完成。
 
+<!-- i18n:section:tips -->
 ### 实用技巧
 
 - 保留至少一颗高伤害弹球专门用来处理 BOSS 砖块，避免被高血量目标拖慢整体效率。  

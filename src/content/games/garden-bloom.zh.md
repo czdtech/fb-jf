@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: garden-bloom
-title: "Garden Bloom 花园绽放"
-description: >-
-  在 Garden Bloom 中修复一座被荒废的花园！完成具有挑战性的三消关卡来获得星星，
-  再用它们解锁任务与装饰，打造你心目中的梦想花园。
+title: Garden Bloom 花园绽放
+description: 在 Garden Bloom 中修复一座被荒废的花园！完成具有挑战性的三消关卡来获得星星， 再用它们解锁任务与装饰，打造你心目中的梦想花园。
 iframeSrc: 'https://gardenbloom.h5games.usercontent.goog/v/03uqf2ceev9h8/'
 thumbnail: /new-images/thumbnails/garden-bloom.png
 tags:
@@ -25,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 每通过一关就能获得星星，用于在花园中清理杂物、种植花卉、摆放装饰等。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **双线核心玩法：**

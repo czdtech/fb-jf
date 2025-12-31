@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: football-penalty
-title: "Football Penalty 点球大战"
-description: >-
-  Football Penalty 专注重现足球点球大战——你要选择射门落点、高度与力度，
-  在压力下骗过门将；有些模式中你也可以反过来扮演门将读秒扑救。
+title: Football Penalty 点球大战
+description: Football Penalty 专注重现足球点球大战——你要选择射门落点、高度与力度， 在压力下骗过门将；有些模式中你也可以反过来扮演门将读秒扑救。
 iframeSrc: 'https://2fb6vjapfstro.h5games.usercontent.goog/v/5443q25keq2qg/'
 thumbnail: /new-images/thumbnails/football-penalty.png
 tags:
@@ -23,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 在部分模式中，你也能扮演守门员，通过观察射手的起脚动作选择正确扑救方向。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **选择角落：** 低位角落是最难扑到的区域，射向球门两侧贴地角落通常比打高角更安全；

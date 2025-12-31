@@ -1,8 +1,10 @@
 ---
 locale: zh
 urlstr: island-of-treasures
-title: "《Island Of Treasures》宝藏之岛跑酷"
-description: "在《Island Of Treasures》中，你将作为一名大胆的海盗，在 3D 无尽跑酷的孤岛上狂奔，收集闪耀宝物、躲避致命机关、甩开其他海盗，争做岛上最富有的传奇船长。"
+title: 《Island Of Treasures》宝藏之岛跑酷
+description: >-
+  在《Island Of Treasures》中，你将作为一名大胆的海盗，在 3D
+  无尽跑酷的孤岛上狂奔，收集闪耀宝物、躲避致命机关、甩开其他海盗，争做岛上最富有的传奇船长。
 iframeSrc: 'https://5kvkrsasec6l8.h5games.usercontent.goog/v/7kfn10n6josho/'
 thumbnail: /new-images/thumbnails/island-of-treasures.png
 tags:
@@ -20,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 《Island Of Treasures》是一款节奏紧张的 3D 无尽跑酷游戏，背景是一座危机四伏的海盗孤岛。你扮演一位勇敢的海盗，在不断变化的岛屿场景中一路狂奔，任务是在不被机关和陷阱淘汰的前提下，尽可能多地收集金币、宝石和各类战利品，同时躲开同样觊觎宝物的敌对海盗。游戏考验的是你的反应速度和走位判断，想成为这座被诅咒之岛上的“财富之王”，就得跑得够远、活得够久。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏玩法与攻略
 
 1.  **能捡的都别放过**：沿途的金币、宝石和宝箱不仅能提高分数，还常常是解锁角色、购买强化道具的关键资源。前期适当优先走宝物密集路线，为后续提升打基础。

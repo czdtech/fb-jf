@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: doodle-jump
-title: "Doodle Jump 涂鸦跳跃"
-description: >-
-  《Doodle Jump 涂鸦跳跃》是一款纵向无尽平台跳跃游戏。通过在平台间不断弹跳，躲避怪物
-  和断裂板，并灵活运用各种道具，一路向高空攀升。
+title: Doodle Jump 涂鸦跳跃
+description: 《Doodle Jump 涂鸦跳跃》是一款纵向无尽平台跳跃游戏。通过在平台间不断弹跳，躲避怪物 和断裂板，并灵活运用各种道具，一路向高空攀升。
 iframeSrc: 'https://ubg98.github.io/DoodleJump/'
 thumbnail: /new-images/thumbnails/doodle-jump.jpg
 tags:
@@ -38,6 +36,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 在 PC 上通常使用左右方向键或 A/D 键控制移动；在移动端则通过左右倾斜设备来移动角色。与
   平台接触时角色会自动跳跃，部分版本还提供额外按键用来射击。  
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 在屏幕快速上卷时，优先选择稳定的平台落脚，避免贪图道具而跳向不安全的位置。  

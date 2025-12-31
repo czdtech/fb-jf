@@ -1,9 +1,10 @@
 ---
 locale: zh
 urlstr: my-space-pet
-title: "《My Space Pet》我的太空宠物"
+title: 《My Space Pet》我的太空宠物
 description: >-
-  《My Space Pet》是一款星际主题的虚拟宠物养成游戏，你将收养一只名叫 Zuub 的外星小生物，照顾它的日常起居、玩小游戏赚取金币，并为它布置独一无二的太空小家。
+  《My Space Pet》是一款星际主题的虚拟宠物养成游戏，你将收养一只名叫 Zuub
+  的外星小生物，照顾它的日常起居、玩小游戏赚取金币，并为它布置独一无二的太空小家。
 iframeSrc: 'https://6jqt3hoth456g.h5games.usercontent.goog/v/6jqt3hoth456g/'
 thumbnail: /new-images/thumbnails/my-space-pet.png
 tags:
@@ -21,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《My Space Pet》邀请你收养一只可爱的外星虚拟宠物 Zuub。游戏融合了养成、小游戏和装扮等元素，你需要像对待真实宠物一样关心它的状态：肚子饿了要喂食、身上脏了要清洗、困了就让它好好睡一觉。除了基本照料，你还可以通过各种休闲小游戏赚取金币，用来购买酷炫的服装与饰品，打造专属的太空萌宠形象，并逐步布置、升级它的居住环境。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **关注 Zuub 的状态条：** 时刻留意饥饿、卫生与睡眠等指标，优先满足明显偏低的需求，让 Zuub 始终保持开心、有活力的状态。

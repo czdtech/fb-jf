@@ -1,8 +1,10 @@
 ---
 locale: zh
 urlstr: guess-the-kitty
-title: "《Guess the Kitty》猫咪猜猜看"
-description: "《Guess the Kitty》是一款以猫咪为主题的图片问答游戏，你要根据照片和提示，判断正确的猫咪品种或外貌特征，在一轮轮主题关卡中检验自己的“吸猫”知识。"
+title: 《Guess the Kitty》猫咪猜猜看
+description: >-
+  《Guess the
+  Kitty》是一款以猫咪为主题的图片问答游戏，你要根据照片和提示，判断正确的猫咪品种或外貌特征，在一轮轮主题关卡中检验自己的“吸猫”知识。
 iframeSrc: 'https://webglmath.github.io/guess-the-kitty/'
 thumbnail: /new-images/thumbnails/guess-the-kitty.jpg
 tags:
@@ -28,6 +30,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ### 操作说明
 - 使用鼠标或触屏点击选项，部分关卡需要键盘输入单词答案。
 
+<!-- i18n:section:tips -->
 ### 实用技巧
 - 记住一些标志性花纹：比如虎斑额头的“M”字、三花/玳瑁那种杂色斑块、重点色猫咪的深色脸罩等。
 - 对比头部轮廓和耳朵轮廓，可以快速区分一些近似品种。

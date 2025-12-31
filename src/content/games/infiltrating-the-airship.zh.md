@@ -1,8 +1,10 @@
 ---
 locale: zh
 urlstr: infiltrating-the-airship
-title: "《Infiltrating the Airship》潜入飞船"
-description: "《Infiltrating the Airship》是《Henry Stickmin》系列的一部劫案篇，你要为火柴人亨利选择各式道具与路线潜入飞船，用各种离谱选择解锁不同结局与彩蛋场景。"
+title: 《Infiltrating the Airship》潜入飞船
+description: >-
+  《Infiltrating the Airship》是《Henry
+  Stickmin》系列的一部劫案篇，你要为火柴人亨利选择各式道具与路线潜入飞船，用各种离谱选择解锁不同结局与彩蛋场景。
 iframeSrc: 'https://rebemanae.github.io/infiltrating-the-airship/'
 thumbnail: /new-images/thumbnails/infiltrating-the-airship.jpg
 tags:
@@ -31,6 +33,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 - 主要通过鼠标点击界面上的选项进行选择；部分 QTE 段落需要使用键盘按键，根据当前托管版本的提示为准。
 
+<!-- i18n:section:tips -->
 ### 实用技巧
 
 - 不要害怕失败——每次错误选择都会解锁一段新的搞笑演出，也能帮助你摸清正确路线。  

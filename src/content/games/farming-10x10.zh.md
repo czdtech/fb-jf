@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: farming-10x10
-title: "Farming 10x10 农场 10x10 方块"
-description: >-
-  Farming 10x10 把经典 10x10 方块摆放玩法换上农场新皮肤——
-  放置方块、消除整行整列，同时设法保留宝贵空间。
+title: Farming 10x10 农场 10x10 方块
+description: Farming 10x10 把经典 10x10 方块摆放玩法换上农场新皮肤—— 放置方块、消除整行整列，同时设法保留宝贵空间。
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
 thumbnail: /new-images/thumbnails/farming-10x10.jpg
 tags:
@@ -24,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 一边维持棋盘的「弹性」与可用空间。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **保持中心通风：** 尽量让棋盘中央保持开阔，把零碎收尾的工作留给边缘，

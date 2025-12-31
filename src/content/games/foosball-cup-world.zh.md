@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: foosball-cup-world
-title: "Foosball Cup World 桌上足球世界杯"
-description: >-
-  Foosball Cup World 带来节奏快速的桌上足球体验——利用角度射门、掌握旋杆时机，
-  聪明防守，在短兵相接的比赛中取胜。
+title: Foosball Cup World 桌上足球世界杯
+description: Foosball Cup World 带来节奏快速的桌上足球体验——利用角度射门、掌握旋杆时机， 聪明防守，在短兵相接的比赛中取胜。
 iframeSrc: 'https://7ak26cf4bf850.h5games.usercontent.goog/v/6jmmp78dbnp50/'
 thumbnail: /new-images/thumbnails/foosball-cup-world.png
 tags:
@@ -25,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 每场比赛时间短、对抗激烈，需要在看似混乱的旋杆中保持精准控制。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **短传滚动：** 通过轻推杆子做小幅度触球，让球在相邻排的球员之间滚动，

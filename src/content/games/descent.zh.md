@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: descent
-title: "Descent 垂直坠落挑战"
-description: >-
-  《Descent 垂直坠落挑战》是一款极简风竖版技巧游戏。你需要沿着竖井一路向下，利用墙
-  面跳跃，躲开尖刺与机关，在重力拉扯下安全抵达更深处。
+title: Descent 垂直坠落挑战
+description: 《Descent 垂直坠落挑战》是一款极简风竖版技巧游戏。你需要沿着竖井一路向下，利用墙 面跳跃，躲开尖刺与机关，在重力拉扯下安全抵达更深处。
 iframeSrc: 'https://g2.igroutka.ru/games/17/4tWRaCD7AOzxbTsE/descent/'
 thumbnail: /new-images/thumbnails/descent.jpg
 tags:
@@ -25,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 作，让你专注于节奏与时机，而不是复杂按键。 
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### 如何游玩
 
 - 在当前一侧墙壁上点击/轻触即可让角色向对面墙跳跃，通过连续的墙间跳跃向下通过各类缺口。  

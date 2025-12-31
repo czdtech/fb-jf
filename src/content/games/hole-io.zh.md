@@ -1,8 +1,10 @@
 ---
 locale: zh
 urlstr: hole-io
-title: "《Hole io》城市黑洞大吞噬"
-description: "《Hole io》是一款城市吞噬类 .io 对战游戏，你操控一枚在街道中移动的黑洞，吞掉路上的物体不断长大，最终把车辆、建筑甚至其它玩家统统吸进去，比对手拿到更高得分或直接把他们淘汰出局。"
+title: 《Hole io》城市黑洞大吞噬
+description: >-
+  《Hole io》是一款城市吞噬类 .io
+  对战游戏，你操控一枚在街道中移动的黑洞，吞掉路上的物体不断长大，最终把车辆、建筑甚至其它玩家统统吸进去，比对手拿到更高得分或直接把他们淘汰出局。
 iframeSrc: 'https://holeio.com/'
 thumbnail: /new-images/thumbnails/hole-io.jpg
 tags:
@@ -30,6 +32,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 - 使用鼠标拖拽或 WASD / 方向键控制黑洞移动；具体模式、计时和得分规则会视托管平台略有差异。
 
+<!-- i18n:section:tips -->
 ### 实用技巧
 
 - 体积小的时候尽量远离比你大的黑洞玩家，被追上很容易直接被吃掉，优先往宽阔大道和空地逃。  

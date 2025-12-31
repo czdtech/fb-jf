@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: duck-life
-title: "Duck Life 小鸭养成与赛跑"
-description: >-
-  Duck Life 是系列的初代作品，你要通过迷你游戏训练小鸭的跑步、游泳与飞行能力，
-  提升数值后参加比赛，一路解锁新地区。
+title: Duck Life 小鸭养成与赛跑
+description: Duck Life 是系列的初代作品，你要通过迷你游戏训练小鸭的跑步、游泳与飞行能力， 提升数值后参加比赛，一路解锁新地区。
 iframeSrc: 'https://games.wixgames.co.uk/games/ducklife1/webgl/'
 thumbnail: /new-images/thumbnails/duck-life.jpg
 tags:
@@ -34,6 +32,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 - 具体操作视迷你游戏而定，多数情况下使用方向键、空白键或鼠标控制。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 不要只刷单一能力，平衡训练才是不被对手甩开的关键。

@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: pics-word-game
-title: "《Pics Word Game》图猜文字"
-description: >-
-  《Pics Word Game》是一款图文联想文字解谜游戏，你需要根据多张图片提供的线索，推理出它们共同指向的那个单词或词组。
+title: 《Pics Word Game》图猜文字
+description: 《Pics Word Game》是一款图文联想文字解谜游戏，你需要根据多张图片提供的线索，推理出它们共同指向的那个单词或词组。
 iframeSrc: 'https://picswordgame.h5games.usercontent.goog/v/40jujb4uelhb0/'
 thumbnail: /new-images/thumbnails/pics-word-game.jpg
 tags:
@@ -21,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Pics Word Game》是一款以图片为线索的文字猜谜游戏。每一关会给出若干张主题各异的图片，它们之间往往存在某种隐含联系——可能是同一种物品、同一类场景，也可能是一种抽象概念或习惯用语。你的任务是从这些图片中抽丝剥茧，找出把它们串联在一起的那个英文单词。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1. **逐张审题，找共性：** 仔细观察每一张图片里的物品、颜色、场景与动作，尝试概括它们的共同点，是“天气”“运动”“情绪”还是某种日常用品？

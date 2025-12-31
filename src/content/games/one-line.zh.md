@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: one-line
-title: "《One Line》一笔连线"
-description: >-
-  《One Line》是一款极简风格的一笔画解谜游戏，你需要用一条连续的线把棋盘上的所有点依次连接起来，不能擡笔，也不能重复走过同一条路径。
+title: 《One Line》一笔连线
+description: 《One Line》是一款极简风格的一笔画解谜游戏，你需要用一条连续的线把棋盘上的所有点依次连接起来，不能擡笔，也不能重复走过同一条路径。
 iframeSrc: 'https://g2.igroutka.ru/games/3/JLgd70b3BNafhVq5/10/igra-odna-liniya/game.html'
 thumbnail: /new-images/thumbnails/one-line.jpg
 tags:
@@ -21,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 《One Line》是一款设计极简的一笔画益智游戏。棋盘上分布着若干节点，你的任务是从任意一点出发，用一条连续不断的线将所有给定的点全部连接起来，过程中不能擡起手指，也不能重复走过已经画过的线段。随着关卡推进，图形结构会逐渐变复杂，是非常适合打发碎片时间、训练逻辑思维与空间想象力的小游戏。
 
+<!-- i18n:section:tips -->
 ### 玩法策略
 
 1.  **先观察整体结构：** 在动笔前先整体扫一眼，留意哪些点连接较多、哪些地方容易形成“死胡同”，有助于决定从哪一端起笔。

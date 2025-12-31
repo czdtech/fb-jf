@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: g-switch
-title: "G-Switch 重力切换酷跑"
-description: >-
-  一键式重力跑酷游戏：通过翻转重力在平台间持续奔跑，
-  躲开缺口与圆锯，在不断加速的节奏中尽量活得更久。
+title: G-Switch 重力切换酷跑
+description: 一键式重力跑酷游戏：通过翻转重力在平台间持续奔跑， 躲开缺口与圆锯，在不断加速的节奏中尽量活得更久。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/5/index.html
 thumbnail: /new-images/thumbnails/g-switch.jpg
@@ -39,6 +37,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 使用单一按键或点击即可翻转重力方向；
 - 在多人地图中，每位玩家对应不同的翻转键，用于本地同屏竞速。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 保持稳定的翻转节奏，比乱按更重要，一旦慌张连错两三次，很容易整串摔下去。

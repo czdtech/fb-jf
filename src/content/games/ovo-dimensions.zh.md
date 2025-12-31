@@ -1,9 +1,10 @@
 ---
 locale: zh
 urlstr: ovo-dimensions
-title: "《OvO Dimensions》高难维度跳跳关"
+title: 《OvO Dimensions》高难维度跳跳关
 description: >-
-  《OvO Dimensions》是 OvO 系列的进阶续作，这款高难度 2D 平台跳跃游戏加入了全新机关与机制，需要你精确掌握起跳、滑行与墙跳，用极限操作在复杂关卡中刷新通关时间。
+  《OvO Dimensions》是 OvO 系列的进阶续作，这款高难度 2D
+  平台跳跃游戏加入了全新机关与机制，需要你精确掌握起跳、滑行与墙跳，用极限操作在复杂关卡中刷新通关时间。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221219/8/index.html
 thumbnail: /new-images/thumbnails/ovo-dimensions.jpg
@@ -22,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 《OvO Dimensions》是热门高难度平台游戏 OvO 系列的扩展作品，在原有的高速跳跃与墙跳玩法基础上，加入了更多机关、维度变化与路线设计。你需要在由尖刺、弹板、移动平台组成的复杂关卡中，凭借精准的起跳时机、墙面滑行与惯性利用，在尽量不失误的前提下以最快速度抵达终点。系列一贯的“硬核+流畅手感”在本作中得到进一步放大。
 
+<!-- i18n:section:tips -->
 ### 玩法策略
 
 1.  **先适应新机制：** 新作加入了更多特殊地板与交互机制（如加速板、弹跳区、传送门等），建议在前几关刻意体验每种机制的触发方式与反馈，以免在高难关卡中措手不及。

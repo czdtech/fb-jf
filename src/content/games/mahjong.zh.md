@@ -1,9 +1,10 @@
 ---
 locale: zh
 urlstr: mahjong
-title: "《Mahjongg Solitaire》麻将连连看益智游戏"
+title: 《Mahjongg Solitaire》麻将连连看益智游戏
 description: >-
-  《Mahjongg Solitaire》是一款基于中国传统麻将牌的单人消除益智游戏，你需要在限定布局中找出并消除一对对相同、且处于“开放”状态的牌，直到清空整块牌面。
+  《Mahjongg
+  Solitaire》是一款基于中国传统麻将牌的单人消除益智游戏，你需要在限定布局中找出并消除一对对相同、且处于“开放”状态的牌，直到清空整块牌面。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjong/'
 thumbnail: /new-images/thumbnails/mahjong.jpg
 tags:
@@ -21,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 《Mahjongg Solitaire》是一款以中国传统麻将牌为基础改编的单人消除类益智游戏。牌面会按照不同的立体布局摆放好，你的目标是通过不断配对、消除相同的“可操作”麻将牌，最终把整块牌面全部清空。规则简单直观，但想要稳定通关需要观察力、空间感和规划能力，因此在全球范围都有大量忠实玩家。
 
+<!-- i18n:section:tips -->
 ### 玩法策略
 
 1.  **先观察整体布局**：开局不要着急乱点，先纵观全局，找出当前能消除的牌对，以及它们上方或两侧还压着多少牌。

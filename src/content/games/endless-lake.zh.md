@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: endless-lake
-title: "Endless Lake 无尽湖跑酷"
-description: >-
-  你能跑多远？在《Endless Lake》这款极简风无尽跑酷中测试你的反应力——
-  点击跳跃、空中二段跳，跨越一个又一个危险断桥。
+title: Endless Lake 无尽湖跑酷
+description: 你能跑多远？在《Endless Lake》这款极简风无尽跑酷中测试你的反应力—— 点击跳跃、空中二段跳，跨越一个又一个危险断桥。
 iframeSrc: 'https://3llnkqqmic17g.h5games.usercontent.goog/v/0e8uaqritcs8o/'
 thumbnail: /new-images/thumbnails/endless-lake.png
 tags:
@@ -24,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 通过精准控制单段跳与二段跳，在不断变化的断桥与缺口之间穿梭，看自己能跑多远。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **先熟悉二段跳手感：** 单点一次是短距离小跳，空中再点一次则会触发二段跳，

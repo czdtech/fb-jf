@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: gangsters
-title: "Gangsters 屋顶帮派对决"
-description: >-
-  物理解体风格对战：两名火柴人黑帮在屋顶上弹跳与射击，
-  靠掌握跳跃与后座力，把对手从高处击落。
+title: Gangsters 屋顶帮派对决
+description: 物理解体风格对战：两名火柴人黑帮在屋顶上弹跳与射击， 靠掌握跳跃与后座力，把对手从高处击落。
 iframeSrc: >-
   https://app-185146.games.s3.yandex.net/185146/4mtxwijatlm9neect542qv9nbcqetm7u/index.html
 thumbnail: /new-images/thumbnails/gangsters.jpg
@@ -36,6 +34,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 每位玩家通常只有一个按键，同时负责跳跃与射击（依托管版本而定），
   或由不同键分别控制两种操作。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 短促的小跳可以稳住瞄准，避免角色晃得太夸张；

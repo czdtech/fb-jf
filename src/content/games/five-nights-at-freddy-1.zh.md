@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: five-nights-at-freddy-1
-title: "Five Nights at Freddy's 1 (FNAF 1) 弗雷迪的五夜惊魂 1"
-description: >-
-  恐怖生存游戏经典作：你在披萨店值夜班，通过监视器观察、节省电力，
-  适时关门与开灯，撑过五个夜班（甚至更多）避免机械玩偶闯入办公室。
+title: Five Nights at Freddy's 1 (FNAF 1) 弗雷迪的五夜惊魂 1
+description: 恐怖生存游戏经典作：你在披萨店值夜班，通过监视器观察、节省电力， 适时关门与开灯，撑过五个夜班（甚至更多）避免机械玩偶闯入办公室。
 iframeSrc: 'https://ubg77.github.io/fix/fnaf1/'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-1.jpg
 tags:
@@ -36,6 +34,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 使用鼠标与画面上的 UI 操作监视器切换、门与灯光开关；
 - 某些版本可用 Esc 或特定按键暂停或返回选单（依托管版本而定）。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 优先熟悉 Foxy 在 Pirate Cove 的行为模式，他露头频率与姿势可以当作危险指标。

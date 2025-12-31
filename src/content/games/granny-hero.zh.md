@@ -1,8 +1,8 @@
 ---
 locale: zh
 urlstr: granny-hero
-title: "《Granny Hero》奶奶英雄跑酷"
-description: "《Granny Hero》是一款充满喜感的动作跑酷游戏——操控敏捷奶奶在街头疾跑，躲避危险、使用古怪道具，一路营救需要帮助的邻居。"
+title: 《Granny Hero》奶奶英雄跑酷
+description: 《Granny Hero》是一款充满喜感的动作跑酷游戏——操控敏捷奶奶在街头疾跑，躲避危险、使用古怪道具，一路营救需要帮助的邻居。
 iframeSrc: 'https://0nd9712ar55uo.h5games.usercontent.goog/v/3qru4tsu7d5v0/'
 thumbnail: /new-images/thumbnails/granny-hero.png
 tags:
@@ -19,6 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Granny Hero》是一款轻松搞笑的跑酷游戏，你要操控一位身手敏捷的奶奶在街道上狂奔，躲开各种滑稽障碍，并收集物品帮助街坊邻居。游戏中会频繁切换跑道、把握跳跃/滑行节奏，还能使用滑板车、雨伞、平底锅等道具，短时间内获得无敌或清场效果。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏玩法与攻略
 
 1.  跑道观察：视线尽量看向前方两格障碍，提前规划换道。

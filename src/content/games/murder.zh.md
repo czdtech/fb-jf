@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: murder
-title: "《Murder》暗杀派对推理"
-description: >-
-  《Murder》是一款紧张刺激的社交推理小游戏，在一群玩家之中有人暗中扮演“凶手”，试图悄悄干掉其他人而不被识破，其余玩家则要通过观察与推理揪出真凶。
+title: 《Murder》暗杀派对推理
+description: 《Murder》是一款紧张刺激的社交推理小游戏，在一群玩家之中有人暗中扮演“凶手”，试图悄悄干掉其他人而不被识破，其余玩家则要通过观察与推理揪出真凶。
 iframeSrc: 'https://ubg77.github.io/fix/murder/'
 thumbnail: /new-images/thumbnails/murder.jpg
 tags:
@@ -21,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 《Murder》是一款节奏紧凑的社交推理游戏。在一群看似普通的玩家中，有一位被秘密指定为“凶手”，他的目标是在不被发现的前提下逐个暗杀其他玩家。而剩下的玩家则需要通过观察对方行为、收集线索和相互讨论来锁定嫌疑人并阻止凶手继续犯案。游戏充满心理博弈与策略，每一局都充满不确定性与反转可能。
 
+<!-- i18n:section:tips -->
 ### 玩法策略
 
 1.  **凶手视角：**  

@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: galactic-empire
-title: "Galactic Empire 星河帝国"
-description: >-
-  俯视角太空策略游戏：开采资源、建造舰队与防御工事，在抵御敌军波次的同时夺下周边星域。
+title: Galactic Empire 星河帝国
+description: 俯视角太空策略游戏：开采资源、建造舰队与防御工事，在抵御敌军波次的同时夺下周边星域。
 iframeSrc: 'https://g.igroutka.ru/games/164/8plhaK3IOLoFbVPB/2/galactic_empire/'
 thumbnail: /new-images/thumbnails/galactic-empire.jpg
 tags:
@@ -34,6 +33,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 使用鼠标选取单位、建造建筑；
 - 具体生产快捷键与镜头操作可能依托管版本略有不同。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 舰船生产尽量采用「批次排队」，保持造船厂持续运作比时有时无更具优势。

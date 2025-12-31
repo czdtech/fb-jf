@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: moving-truck
-title: "《Moving Truck》物理搬家装车"
-description: >-
-  《Moving Truck》是一款基于物理效果的装车解谜游戏，你需要将形状各异的家具和物品合理摆放进货车，让整车在行驶过程中保持平衡并顺利抵达终点。
+title: 《Moving Truck》物理搬家装车
+description: 《Moving Truck》是一款基于物理效果的装车解谜游戏，你需要将形状各异的家具和物品合理摆放进货车，让整车在行驶过程中保持平衡并顺利抵达终点。
 iframeSrc: 'https://g.igroutka.ru/games/164/JgHSvhdBMa5pf4WZ/moving_truck/'
 thumbnail: /new-images/thumbnails/moving-truck.jpg
 tags:
@@ -21,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 《Moving Truck》是一款强调空间感与平衡感的物理解谜游戏。你的任务是将各种形状和体积不同的家具与箱子装入货车车厢，在保证它们尽量稳固、不易滑动的前提下，将车开到目的地。途中由于颠簸、转弯或坡道，摆放不当的物品可能会滚落、倾倒甚至从车上掉出去，因此既要考虑“能装下”，还要考虑“装得稳”。
 
+<!-- i18n:section:tips -->
 ### 玩法策略
 
 1.  **观察物品形状：** 在装车前先仔细观察每件物品的体积与轮廓，想象它们能以何种方式相互嵌套或堆叠，形成更稳固的结构。

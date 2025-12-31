@@ -1,8 +1,10 @@
 ---
 locale: zh
 urlstr: jetpack-joyride
-title: "《Jetpack Joyride》喷气背包狂奔"
-description: "《Jetpack Joyride》是一款高能侧滚式跑酷游戏，你通过长按上升、松手下降，在电击器、导弹和激光之间穿梭收集金币，驾驶各种载具并完成任务解锁小工具与外观。"
+title: 《Jetpack Joyride》喷气背包狂奔
+description: >-
+  《Jetpack
+  Joyride》是一款高能侧滚式跑酷游戏，你通过长按上升、松手下降，在电击器、导弹和激光之间穿梭收集金币，驾驶各种载具并完成任务解锁小工具与外观。
 iframeSrc: 'https://slope-game.github.io/rungame/jetpack-joyride/'
 thumbnail: /new-images/thumbnails/jetpack-joyride.jpg
 tags:
@@ -32,6 +34,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 - 通过按住屏幕/鼠标左键或对应按键控制角色上升，松开后角色会自然下落；小工具启用和菜单操作按键则会因平台不同略有变化。 
 
+<!-- i18n:section:tips -->
 ### 实用技巧
 
 - 多观察电击器的刷新模式和周期，很多“看起来不可能”的缝隙其实都有固定节奏，只要在恰当时机“晚一点点”按住即可从狭窄空隙中穿过。  

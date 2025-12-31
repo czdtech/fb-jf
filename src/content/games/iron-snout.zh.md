@@ -1,8 +1,10 @@
 ---
 locale: zh
 urlstr: iron-snout
-title: "《Iron Snout》铁鼻小猪大乱斗"
-description: "《Iron Snout》是一款节奏极快的 2D 清版游戏，你操控一只会功夫的小猪，对抗从左右两侧涌来的狼群，通过格挡、连踢和反弹武器在一波波攻势中生存下去刷高分。"
+title: 《Iron Snout》铁鼻小猪大乱斗
+description: >-
+  《Iron Snout》是一款节奏极快的 2D
+  清版游戏，你操控一只会功夫的小猪，对抗从左右两侧涌来的狼群，通过格挡、连踢和反弹武器在一波波攻势中生存下去刷高分。
 iframeSrc: 'https://webglmath.github.io/iron-snout/'
 thumbnail: /new-images/thumbnails/iron-snout.jpg
 tags:
@@ -31,6 +33,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 - 使用方向键或 WASD 即可完成所有动作：不同方向的输入对应不同攻击与闪避，无需额外攻击键，入门简单但需要练习节奏感。 
 
+<!-- i18n:section:tips -->
 ### 实用技巧
 
 - 优先解决远程与投掷型敌人，它们的飞行道具最容易打断你的连击节奏。  

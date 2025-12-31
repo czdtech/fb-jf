@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: diner-dash
-title: "Diner Dash 餐厅快打时间管理"
-description: >-
-  《Diner Dash 餐厅快打》是一款经典时间管理游戏。安排客人入座、点单、上菜与收桌，在紧
-  凑节奏中保持顾客满意度，完成关卡目标。
+title: Diner Dash 餐厅快打时间管理
+description: 《Diner Dash 餐厅快打》是一款经典时间管理游戏。安排客人入座、点单、上菜与收桌，在紧 凑节奏中保持顾客满意度，完成关卡目标。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/diner-dash.html'
 thumbnail: /new-images/thumbnails/diner-dash.jpg
 tags:
@@ -24,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 以获得连击与额外得分，关卡间则可以购买升级，提升鞋子速度、增加餐桌数量或新增设备。
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### 如何游玩
 
 - 及时为进门客人安排座位，优先匹配桌子大小及颜色（有颜色加成时），争取额外奖励。  

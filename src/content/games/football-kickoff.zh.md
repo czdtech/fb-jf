@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: football-kickoff
-title: "Football Kickoff 美式足球开球练习"
-description: >-
-  Football Kickoff 聚焦于美式足球中的特勤组踢球场景——瞄准目标、判读风向、
-  控制力量与落点，争取最佳场地位置。
+title: Football Kickoff 美式足球开球练习
+description: Football Kickoff 聚焦于美式足球中的特勤组踢球场景——瞄准目标、判读风向、 控制力量与落点，争取最佳场地位置。
 iframeSrc: 'https://30sab7l7n7df0.h5games.usercontent.goog/v/5c7k7dlnf1c5g/'
 thumbnail: /new-images/thumbnails/football-kickoff.jpg
 tags:
@@ -25,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 决定每一次踢球的距离与精准度。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **读风向：** 开球前先观察风向与风力，瞄准时要适度「顶风」或「顺风」微调，

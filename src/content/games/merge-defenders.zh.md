@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: merge-defenders
-title: "《Merge Defenders》合成防线塔防"
-description: >-
-  《Merge Defenders》是一款将合成玩法与塔防战斗结合的策略游戏，通过购买与合成防御单位、布置关键火力点来抵挡一波又一波来袭的敌军。
+title: 《Merge Defenders》合成防线塔防
+description: 《Merge Defenders》是一款将合成玩法与塔防战斗结合的策略游戏，通过购买与合成防御单位、布置关键火力点来抵挡一波又一波来袭的敌军。
 iframeSrc: 'https://5c1j2nn9b0q4o.h5games.usercontent.goog/v/20drsjkant5s8/'
 thumbnail: /new-images/thumbnails/merge-defenders.png
 tags:
@@ -21,6 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 《Merge Defenders》是一款节奏紧凑的策略游戏，将上瘾的合成机制与经典塔防相结合。你的任务是在敌人一波波涌来的时候守住基地。与传统塔防只摆塔不同，这里你要先购买基础单位，再把相同等级的单位拖拽合成，升级成更高火力的防御者，然后将它们部署到战场预设位置，构建出一条真正稳固的防线。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **合成循环：** 游戏的核心是合成。你从购买 1 级单位开始，将一个 1 级单位拖到另一个 1 级单位上，就能合成 2 级，依此类推。等级越高，伤害与攻速提升越明显，所以要尽可能把战力集中在少数高等级单位上。

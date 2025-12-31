@@ -1,8 +1,8 @@
 ---
 locale: zh
 urlstr: jump-with-justin-2
-title: "《Jump With Justin 2》贾斯汀的弹跳冒险 2"
-description: "《Jump With Justin 2》是一款强调弹跳手感的平台跳跃游戏，你要踩准起跳时机、利用弹簧和机关连锁弹跳，在尽量少失误的前提下抵达终点。"
+title: 《Jump With Justin 2》贾斯汀的弹跳冒险 2
+description: 《Jump With Justin 2》是一款强调弹跳手感的平台跳跃游戏，你要踩准起跳时机、利用弹簧和机关连锁弹跳，在尽量少失误的前提下抵达终点。
 iframeSrc: 'https://jumpwithjustin2.h5games.usercontent.goog/v/54vavt12q94n8/'
 thumbnail: /new-images/thumbnails/jump-with-justin-2.png
 tags:
@@ -20,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Jump With Justin 2》是一款轻量的平台跳跃游戏，核心在于“弹性跳跃”。关卡中布满弹簧台、移动平台和各类陷阱，你需要规划每一次跳跃的弧线，让主角踩在安全位置上完成连续弹跳，既不能被尖刺、锯齿等机关击中，又要保持足够的前进动能，最终平稳抵达出口。 
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏玩法与攻略
 
 1.  **掌控跳跃弧线**：尽量让每一次起跳都画出干净、可控的弧线。很多机关在稍微“晚一点”起跳时反而更好躲开，不要急于提前起跳。  

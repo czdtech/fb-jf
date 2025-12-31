@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: duck-life-4
-title: "Duck Life 4 小鸭培训与竞速模拟"
-description: >-
-  Duck Life 4 是一款结合培训与竞速的模拟游戏，你要通过各种迷你游戏训练小鸭的跑步、
-  游泳、飞行、攀爬等能力，提升体力，最后在各地锦标赛中夺冠。
+title: Duck Life 4 小鸭培训与竞速模拟
+description: Duck Life 4 是一款结合培训与竞速的模拟游戏，你要通过各种迷你游戏训练小鸭的跑步、 游泳、飞行、攀爬等能力，提升体力，最后在各地锦标赛中夺冠。
 iframeSrc: 'https://webglmath.github.io/ducklife-4/'
 thumbnail: /new-images/thumbnails/duck-life-4.jpg
 tags:
@@ -36,6 +34,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 具体操作依各个迷你游戏而定，通常使用方向键或鼠标控制；
 - 在跑步类关卡中，常见是使用空白键跳跃（以实际托管版本为准）。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 训练时要轮流强化各项能力，避免只练一项导致比赛中被单一段落拖慢。

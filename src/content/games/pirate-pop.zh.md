@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: pirate-pop
-title: "《Pirate Pop》海盗泡泡龙"
-description: >-
-  《Pirate Pop》是一款海盗主题的泡泡龙消除游戏，你要操控船上的大炮瞄准射击，通过消除三个及以上同色泡泡来清理屏幕、赢走隐藏的海盗宝藏。
+title: 《Pirate Pop》海盗泡泡龙
+description: 《Pirate Pop》是一款海盗主题的泡泡龙消除游戏，你要操控船上的大炮瞄准射击，通过消除三个及以上同色泡泡来清理屏幕、赢走隐藏的海盗宝藏。
 iframeSrc: 'https://piratepop.h5games.usercontent.goog/v/3japc2shd35ug/'
 thumbnail: /new-images/thumbnails/pirate-pop.png
 tags:
@@ -21,6 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 《Pirate Pop》是一款节奏轻快、操作简单的泡泡射击游戏，整体包裹在充满趣味的海盗题材之中。你操控海盗大炮向上发射彩色泡泡，只要让射出的泡泡与场上同色泡泡形成三个及以上的组合，就能将它们一并消除。当支撑下方的连接点被打断时，整串悬挂的泡泡也会一并坠落，形成非常爽快的大面积清屏效果，是拿高分的关键。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 通关策略与玩法思路
 
 1.  **优先打“挂点”制造大坍塌：** 与其只消除局部几颗泡泡，不如瞄准那些上方支撑大片泡泡的连接点。只要击碎这些关键节点，下方整团泡泡就会一起掉落，既快速清场，又能获得更高连锁得分。

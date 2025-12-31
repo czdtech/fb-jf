@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: golf-fling
-title: "Golf Fling 抛抛高尔夫"
-description: >-
-  在 Golf Fling 中用「弹射」的方式打高尔夫！通过瞄准、拉动与放开，
-  让球在物理场景中飞越障碍，以最少的抛射次数打进球洞。
+title: Golf Fling 抛抛高尔夫
+description: 在 Golf Fling 中用「弹射」的方式打高尔夫！通过瞄准、拉动与放开， 让球在物理场景中飞越障碍，以最少的抛射次数打进球洞。
 iframeSrc: >-
   https://golffling.h5games.usercontent.goog/v/0aa707a3-71a5-4ad8-be9b-32ce55e28d64/
 thumbnail: /new-images/thumbnails/golf-fling.jpg
@@ -26,6 +24,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 目标是在尽可能少的抛射次数下，把球送进洞里。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **先瞄准再出手：** 抛射前会出现轨迹预览线，

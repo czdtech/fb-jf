@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: ducklings
-title: "Ducklings 小鸭接力护送"
-description: >-
-  Ducklings 是一款轻松疗愈的收集游戏，你要在湖面上救回散落四处的小鸭，
-  把牠们安全地护送回巢穴。
+title: Ducklings 小鸭接力护送
+description: Ducklings 是一款轻松疗愈的收集游戏，你要在湖面上救回散落四处的小鸭， 把牠们安全地护送回巢穴。
 iframeSrc: 'https://g2.igroutka.ru/games/164/BkDlKfiWjEoZ2rcG/ducklings_io/'
 thumbnail: /new-images/thumbnails/ducklings.jpg
 tags:
@@ -34,6 +32,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 - 使用鼠标或触控拖拽方向，或用方向键来转向与操控移动。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 别太贪心，在船流特别密集时，多分几次把小鸭送回巢，比一次拉很长的队伍更安全。

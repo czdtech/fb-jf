@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: maze-puzzle
-title: "《Maze Puzzle》迷宫解谜逃脱"
-description: >-
-  《Maze Puzzle》是一款简洁干净的迷宫跑酷解谜游戏，你需要规划最短路线，绕开巡逻守卫，拾取钥匙并在计时压力下找到出口。
+title: 《Maze Puzzle》迷宫解谜逃脱
+description: 《Maze Puzzle》是一款简洁干净的迷宫跑酷解谜游戏，你需要规划最短路线，绕开巡逻守卫，拾取钥匙并在计时压力下找到出口。
 iframeSrc: 'https://3931uc3bsois0.h5games.usercontent.goog/v/7nvm8etm546uo/'
 thumbnail: /new-images/thumbnails/maze-puzzle.png
 tags:
@@ -22,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Maze Puzzle》提供了体量精巧的迷宫关卡，你需要在错综复杂的通道中收集钥匙、打开大门，并躲避偶尔出现的巡逻敌人或陷阱。想要打出好成绩，关键在于路线规划：既要找到安全、可行的通路，又要尽量缩短移动距离，用最效率的顺序拿齐所有钥匙，在不走冤枉路的前提下抵达终点。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 通关策略与玩法思路
 
 1.  **钥匙获取顺序：** 开局时先观察整个迷宫，规划一个能减少回头路的钥匙获取顺序，避免拿完一把钥匙还要从远端绕回门口。

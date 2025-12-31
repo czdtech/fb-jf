@@ -1,8 +1,10 @@
 ---
 locale: zh
 urlstr: incredibox-kochari
-title: "Incredibox Kochari - 在线玩 Incredibox Kochari"
-description: "Incredibox Kochari 是一款粉丝 Mod，将经典的 Incredibox 玩法与充满活力的亚美尼亚民间舞蹈 Kochari 文化相融合。用传统节奏和声音创作独特的节拍。"
+title: Incredibox Kochari - 在线玩 Incredibox Kochari
+description: >-
+  Incredibox Kochari 是一款粉丝 Mod，将经典的 Incredibox 玩法与充满活力的亚美尼亚民间舞蹈 Kochari
+  文化相融合。用传统节奏和声音创作独特的节拍。
 iframeSrc: 'https://turbowarp.org/718091148/embed'
 thumbnail: /new-images/thumbnails/incredibox-kochari.png
 tags:
@@ -18,6 +20,7 @@ releaseDate: 2025-10-10T00:00:00.000Z
 Incredibox Kochari 是一款独特的粉丝 Mod，将 Incredibox 的世界与亚美尼亚民间文化的丰富传统完美融合。受充满活力和力量的亚美尼亚舞蹈"Kochari"的启发，这个版本让玩家可以尝试深深植根于民间音乐的音色调色板。它提供了一种有节奏感和引人入胜的体验，你可以混合传统打击乐、旋律和人声，创造出古老亚美尼亚声音与现代口技的引人注目的融合。角色和动画也反映了这一主题，视觉效果呼应传统民间舞蹈动作。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏策略
 
 *   

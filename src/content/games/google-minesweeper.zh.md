@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: google-minesweeper
-title: "Google Minesweeper 谷歌扫雷"
-description: >-
-  经典逻辑谜题：根据格子上的数字线索推理安全区与地雷位置，
-  在不引爆任何地雷的前提下清空整个棋盘。
+title: Google Minesweeper 谷歌扫雷
+description: 经典逻辑谜题：根据格子上的数字线索推理安全区与地雷位置， 在不引爆任何地雷的前提下清空整个棋盘。
 iframeSrc: 'https://www.minesweepergoogle.com/gameapp.html'
 thumbnail: /new-images/thumbnails/google-minesweeper.jpg
 tags:
@@ -37,9 +35,10 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 鼠标或触控操作；
 - 是否支援双键开格与快捷开格要看实际托管版本设定。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
-- 建立一致的标记习惯（例如只对 100% 确定是雷的格子插旗），
+- 建立一致的标记习惯（例如只对完全确定是雷的格子插旗），
   避免自己被混乱标记害到。
 - 当不得不猜时，优先选择那些「就算踩雷也能揭示更多资讯」的格子，
   例如较大空白区域的边界，而不是孤立角落。

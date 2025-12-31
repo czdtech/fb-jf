@@ -1,8 +1,8 @@
 ---
 locale: zh
 urlstr: idle-restaurants
-title: "《Idle Restaurants》放置餐厅大亨"
-description: "在《Idle Restaurants》中，你要从一家小餐馆起步，雇佣厨师与服务员、升级厨房和餐桌、引入经理实现自动化，逐步扩张为遍布各地的餐饮帝国。"
+title: 《Idle Restaurants》放置餐厅大亨
+description: 在《Idle Restaurants》中，你要从一家小餐馆起步，雇佣厨师与服务员、升级厨房和餐桌、引入经理实现自动化，逐步扩张为遍布各地的餐饮帝国。
 iframeSrc: 'https://idlerestaurants.h5games.usercontent.goog/v/4ut41titp1kvg/'
 thumbnail: /new-images/thumbnails/idle-restaurants.png
 tags:
@@ -20,6 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 《Idle Restaurants》是一款经典的放置经营游戏，你将从一家小而普通的路边餐厅开始，亲手打造属于自己的餐饮帝国。顾客进门落座、厨师备菜、服务员上菜、顾客结账——每一个环节都可以通过升级提升效率。随着收入增长，你可以不断扩充餐桌、强化后厨、提高服务速度，并在适当时机雇佣经理，让整个餐厅在你离线时也能自动运转。最终目标是开设更多、更高档的新餐厅，形成多店联营的庞大生意版图。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏玩法与攻略
 1.  **熟悉“钱流”的运作链路**：顾客入座 → 厨师做菜 → 服务员上菜 → 顾客“吃完付款” → 你获得收入。任何一个环节过慢都会拖累整体效率，升级时要始终围绕这条链路思考。
 2.  **保持各环节升级均衡**：如果厨师做菜飞快但桌子数量不足，顾客就会在门口排队；反过来桌子开了很多、上菜速度却很慢，也会造成翻台效率不高。尽量让餐桌数量、后厨产能和服务员配送速度保持在相近水平。 

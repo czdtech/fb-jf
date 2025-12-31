@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: pirate-poker
-title: "《Pirate Poker》海盗德州扑克"
-description: >-
-  《Pirate Poker》是一款充满海盗风情的五张抽牌扑克游戏，你将和一群老海狗同桌搏命下注、诈唬与比牌，用有限的金币赢下七海上最大的筹码堆。
+title: 《Pirate Poker》海盗德州扑克
+description: 《Pirate Poker》是一款充满海盗风情的五张抽牌扑克游戏，你将和一群老海狗同桌搏命下注、诈唬与比牌，用有限的金币赢下七海上最大的筹码堆。
 iframeSrc: 'https://6ghou5c7rjb9g.h5games.usercontent.goog/v/2n3b0c56pikmo/'
 thumbnail: /new-images/thumbnails/pirate-poker.png
 tags:
@@ -21,6 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 《Pirate Poker》是一款规则接近传统“五张抽牌”的扑克游戏，只不过桌上的对手换成了满口海腔的海盗船员。你将坐在甲板上的赌桌前，以金币（达布隆金）作为筹码，通过发牌、下注、换牌和摊牌等几个阶段，争夺每一局的底池。想要成为七海最狡猾的牌鲨，既需要理解牌型与概率，也要学会何时稳健，何时大胆诈唬。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **熟记牌型大小：** 游戏采用标准德扑/五张牌型，从大到小依次为：皇家同花顺、同花顺、四条、葫芦、同花、顺子、三条、两对、一对与高牌。任何决策前，先确保自己能准确判断当前牌力处于什么段位。

@@ -1,8 +1,10 @@
 ---
 locale: zh
 urlstr: haru-pandas-slide
-title: "《Haru Pandas Slide》熊猫滑块拼图"
-description: "《Haru Pandas Slide》是一款轻松治愈的滑块拼图游戏，你需要通过横竖滑动碎片，在尽量少的步数内还原一张张可爱的熊猫图片，用逻辑而不是乱试来解出每一关。"
+title: 《Haru Pandas Slide》熊猫滑块拼图
+description: >-
+  《Haru Pandas
+  Slide》是一款轻松治愈的滑块拼图游戏，你需要通过横竖滑动碎片，在尽量少的步数内还原一张张可爱的熊猫图片，用逻辑而不是乱试来解出每一关。
 iframeSrc: 'https://0vc1kolll32h8.h5games.usercontent.goog/v/0t898ulinrkag/'
 thumbnail: /new-images/thumbnails/haru-pandas-slide.png
 tags:
@@ -21,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Haru Pandas Slide》是一款以熊猫插画为主题的图片滑块谜题。你需要在棋盘上沿横排或竖列滑动方块，让被打乱的图片重新拼回原样。后续关卡会增加拼图块数量，还会出现无法移动的“锁定方块”，迫使你提前规划路线，而不是依靠纯粹的试错乱滑。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏玩法与攻略
 1.  先还原边框：优先把四周的边框拼好，可以大幅降低中间拼图的搜索复杂度。
 2.  按色块分区：把天空、森林、熊猫身体等颜色区块分开逐块重建，避免在整张图上到处乱找。

@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: geometry-dash-meltdown
-title: "Geometry Dash Meltdown 几何冲刺：熔毁篇"
-description: >-
-  节奏平台关卡包：在全新曲目与主题关卡中跳跃与飞行，
-  穿过各种尖刺、跳板与重力传送门，挑战高难度飞船与球形段落。
+title: Geometry Dash Meltdown 几何冲刺：熔毁篇
+description: 节奏平台关卡包：在全新曲目与主题关卡中跳跃与飞行， 穿过各种尖刺、跳板与重力传送门，挑战高难度飞船与球形段落。
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-meltdown/'
 thumbnail: /new-images/thumbnails/geometry-dash-meltdown.jpg
 tags:
@@ -36,6 +34,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 点击、空白键或鼠标按下可让角色跳跃；
 - 在飞船模式下长按上升、放开下降（具体以托管版本为准）。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 若觉得按键总是延迟半拍，可以在设定里关闭部分画面特效，或调整延迟补偿。

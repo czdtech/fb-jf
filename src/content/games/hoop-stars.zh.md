@@ -1,8 +1,8 @@
 ---
 locale: zh
 urlstr: hoop-stars
-title: "《Hoop Stars》翻圈对决"
-description: "《Hoop Stars》是一款环圈翻转技巧游戏，你要控制圆环绕着中心柱旋转，抓准时机一跃而出，越过障碍稳稳套在柱子上，比对手更快更准完成得分。"
+title: 《Hoop Stars》翻圈对决
+description: 《Hoop Stars》是一款环圈翻转技巧游戏，你要控制圆环绕着中心柱旋转，抓准时机一跃而出，越过障碍稳稳套在柱子上，比对手更快更准完成得分。
 iframeSrc: 'https://6si9877n1hvh8.h5games.usercontent.goog/v/717o1ln0arjho/'
 thumbnail: /new-images/thumbnails/hoop-stars.png
 tags:
@@ -20,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Hoop Stars》是一款节奏很快的环圈翻转对战游戏。你控制一个圆环在中心柱周围旋转，通过按键让圆环翻跃出去，穿过障碍后再精准落到柱子上即可得分。如果翻得太早或太晚，圆环就会撞上障碍或弹飞，浪费宝贵时间。在对战模式中，比拼的不是谁按得更快，而是谁能更稳定地找到合适角度和出手时机。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏玩法与攻略
 1.  **预旋好再起跳**：出手前先让圆环转到你觉得顺手的角度，再选择起跳时机，而不是在混乱角度下强行翻圈。
 2.  **体会早按/晚按的弧线差异**：略早或略晚按键都会改变环的飞行弧线和高度，多尝试几次，记住不同出手点对应的落点范围。

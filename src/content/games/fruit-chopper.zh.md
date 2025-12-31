@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: fruit-chopper
-title: "Fruit Chopper 狂斩水果"
-description: >-
-  在 Fruit Chopper 中磨利你的刀锋！在满屏飞舞的水果中疯狂斩击，
-  同时小心避开致命炸弹，看看你能拿到多高的分数。
+title: Fruit Chopper 狂斩水果
+description: 在 Fruit Chopper 中磨利你的刀锋！在满屏飞舞的水果中疯狂斩击， 同时小心避开致命炸弹，看看你能拿到多高的分数。
 iframeSrc: 'https://1cgb9ogmd6780.h5games.usercontent.goog/v/37g4pe88slmfo/'
 thumbnail: /new-images/thumbnails/fruit-chopper.png
 tags:
@@ -25,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 你的目标是在不触发炸弹的前提下，创造疯狂的连斩与高分，并尽可能撑久。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **追求连斩 Combo：** 高分的关键在于「一刀多果」。一刀切中 3 颗已经不错，

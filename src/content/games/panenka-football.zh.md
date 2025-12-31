@@ -1,9 +1,10 @@
 ---
 locale: zh
 urlstr: panenka-football
-title: "《Panenka Football》勺子点球大师"
+title: 《Panenka Football》勺子点球大师
 description: >-
-  《Panenka Football》是一款专注点球策略的足球小游戏，你可以尝试经典“勺子点球”等各种射门方式，通过伪装意图与精准挑射，骗过门将、攻入关键一球。
+  《Panenka
+  Football》是一款专注点球策略的足球小游戏，你可以尝试经典“勺子点球”等各种射门方式，通过伪装意图与精准挑射，骗过门将、攻入关键一球。
 iframeSrc: 'https://15n5pfdq70ung.h5games.usercontent.goog/v/2ftdtu6n19sk8/'
 thumbnail: /new-images/thumbnails/panenka-football.png
 tags:
@@ -20,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Panenka Football》围绕足球中极具观赏性的“勺子点球”展开——当门将提前扑向一侧时，你用轻巧的挑射将球吊向中路，看起来既戏谑又胆大。游戏中你可以在勺子挑射、角度抽射与不同高度之间自由切换，核心在于读懂门将的习惯动作、伪装自己的射门方向，并在最合适的时机做出大胆选择。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **先读门将再选射门：** 如果发现门将起跳很早、喜欢提前选择一侧，那就是尝试中路勺子点球的好时机；相反，如果门将经常站位不动等待，你就更应该选择角度刁、速度快的边路抽射。

@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: gladihoppers
-title: "Gladihoppers 蹦跳角斗士"
-description: >-
-  2D 物理蹦跳角斗游戏：自订装备，掌握突刺与招架时机，
-  在各个竞技场模式中一路爬升排名。
+title: Gladihoppers 蹦跳角斗士
+description: 2D 物理蹦跳角斗游戏：自订装备，掌握突刺与招架时机， 在各个竞技场模式中一路爬升排名。
 iframeSrc: 'https://m.igroutka.ru/g-1/113/Gladihoppers/'
 thumbnail: /new-images/thumbnails/gladihoppers.jpg
 tags:
@@ -37,6 +35,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 方向跳跃、攻击与防御键位依托管版本配置稍有不同；
 - 多数版本支援本地对战模式，可两人同机游玩。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 长枪与长戟适合保持中远距离骚扰，短剑则在近身压迫时更灵活。

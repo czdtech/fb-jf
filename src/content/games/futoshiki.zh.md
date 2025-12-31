@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: futoshiki
-title: "Futoshiki 不等式数独"
-description: >-
-  Futoshiki 是一种强化逻辑的拉丁方格谜题——在保证每行每列数字不重复的前提下，
-  还必须满足格子间的「大于／小于」不等式，利用这些约束做出优雅推理。
+title: Futoshiki 不等式数独
+description: Futoshiki 是一种强化逻辑的拉丁方格谜题——在保证每行每列数字不重复的前提下， 还必须满足格子间的「大于／小于」不等式，利用这些约束做出优雅推理。
 iframeSrc: 'https://6g7i64vihegl0.h5games.usercontent.goog/v/7bd886r75d4ag/'
 thumbnail: /new-images/thumbnails/futoshiki.jpg
 tags:
@@ -24,6 +22,7 @@ Futoshiki（源自日文「不等」之意）是一种类似数独的拉丁方�
 同时保证所有不等号关系都被满足。这些不等式会串成一条条约束链，给推理解题带来更多切入点。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **利用不等式链：** 若有一串 A > B > C 的关系，代表 A 至少比 C 大 2，

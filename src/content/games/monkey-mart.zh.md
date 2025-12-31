@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: monkey-mart
-title: "《Monkey Mart》猴子超市经营"
-description: >-
-  《Monkey Mart》是一款轻松上瘾的经营模拟游戏，你要操控一群可爱的猴子经营超市：种地收菜、加工商品、上架补货、服务顾客，一步步把小店做大。
+title: 《Monkey Mart》猴子超市经营
+description: 《Monkey Mart》是一款轻松上瘾的经营模拟游戏，你要操控一群可爱的猴子经营超市：种地收菜、加工商品、上架补货、服务顾客，一步步把小店做大。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/gamehwq/20221216/09/index.htm
 thumbnail: /new-images/thumbnails/monkey-mart.jpg
@@ -22,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 《Monkey Mart》是一款画风可爱、节奏舒适的超市经营模拟游戏。整个超市由一群猴子打理，你扮演的店长需要亲自下地种植香蕉、玉米等农作物，收获后再加工成香蕉牛奶、玉米片等商品，然后把成品摆上货架，招待一波又一波上门的顾客。随着经营规模扩大，你可以解锁更多商品、升级设备，并雇佣更多猴子员工，让超市运转越来越高效。
 
+<!-- i18n:section:tips -->
 ### 玩法策略
 
 1.  **种植与收获：** 在田地里种下香蕉、玉米等作物，并在成熟后及时收割，保证生产线不断粮。

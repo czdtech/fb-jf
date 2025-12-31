@@ -1,8 +1,10 @@
 ---
 locale: zh
 urlstr: hide-and-seek
-title: "《Hide And Seek!》躲猫猫大追捕"
-description: "《Hide And Seek!》是一款休闲潜行捉迷藏游戏：扮演躲藏者时混入人群、一边收集道具一边完成目标；扮演寻找者时则靠视野锥、冲刺和观察移动轨迹，在倒计时结束前把所有玩家揪出来。"
+title: 《Hide And Seek!》躲猫猫大追捕
+description: >-
+  《Hide And
+  Seek!》是一款休闲潜行捉迷藏游戏：扮演躲藏者时混入人群、一边收集道具一边完成目标；扮演寻找者时则靠视野锥、冲刺和观察移动轨迹，在倒计时结束前把所有玩家揪出来。
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/YWRIxUAXudnq4HO1/rvvASMiM/239942ce1a1349f6bcc9d312b32c5c3b/
 thumbnail: /new-images/thumbnails/hide-and-seek.jpg
@@ -31,6 +33,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 - 使用 WASD 或方向键控制移动；道具与技能键位按不同平台略有差异，一般会在界面上清晰显示可用按键。 
 
+<!-- i18n:section:tips -->
 ### 实用技巧
 
 - 躲藏者：模仿 NPC 的走走停停，不要长时间直线冲刺；在角落和门口附近适当减速，看起来会更像 AI。  

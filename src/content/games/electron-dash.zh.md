@@ -1,17 +1,15 @@
 ---
 locale: zh
 urlstr: electron-dash
-title: "Electron Dash 电子隧道跑酷"
-description: >-
-  Electron Dash 是一款高速隧道跑酷游戏，你要在圆柱与浮空平台上奔跑、跳跃与冲刺，
-  在越来越快的节奏下尽量跑出最远距离。
+title: Electron Dash 电子隧道跑酷
+description: Electron Dash 是一款高速隧道跑酷游戏，你要在圆柱与浮空平台上奔跑、跳跃与冲刺， 在越来越快的节奏下尽量跑出最远距离。
 iframeSrc: 'https://slope-game.github.io/electron-dash/'
 thumbnail: /new-images/thumbnails/electron-dash.jpg
 tags:
   - arcade
   - runner
 score: 4.4/5  (1386 votes)
-releaseDate: 2025-09-09
+releaseDate: 2025-09-09T00:00:00.000Z
 ---
 
 
@@ -35,6 +33,7 @@ releaseDate: 2025-09-09
 - 使用方向键或 WASD 来移动与跳跃；
 - 依托管版本不同，空白键或 X 键常用来进行冲刺。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 在视角被提升到坡顶或转弯前，先把自己移到通道中央，避免镜头晃动时判断失误。

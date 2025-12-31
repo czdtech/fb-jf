@@ -1,8 +1,8 @@
 ---
 locale: zh
 urlstr: kitty-match
-title: "《Kitty Match》喵喵消消乐"
-description: "欢迎来到《Kitty Match》，这是一款专为铲屎官和三消爱好者打造的可爱拼图游戏：交换各种猫咪主题小物件，连成三消以上完成关卡挑战。"
+title: 《Kitty Match》喵喵消消乐
+description: 欢迎来到《Kitty Match》，这是一款专为铲屎官和三消爱好者打造的可爱拼图游戏：交换各种猫咪主题小物件，连成三消以上完成关卡挑战。
 iframeSrc: 'https://kittymatch.h5games.usercontent.goog/v/0fb0j00v75210/'
 thumbnail: /new-images/thumbnails/kitty-match.png
 tags:
@@ -20,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Kitty Match》是一款充满猫咪元素的三消解谜游戏，棋盘上摆满了猫爪印、猫罐头、小鱼干等可爱图标。你需要通过交换相邻的图块，让三枚及以上相同图案排成一行或一列并完成消除。每一关都有独立目标，例如收集某种颜色的道具、打碎果冻方块，或者把特定物品送到底部。随着通关，你还能获得奖励，解锁更多喵星人主题关卡与小惊喜。 
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏玩法与攻略
 
 1.  **优先寻找“大消除”机会**：三连消固然重要，但四连或五连会生成强力道具，比如清一整行/列的火箭、炸掉大片区域的炸弹等，能极大提升清场效率。  

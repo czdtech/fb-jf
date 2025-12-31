@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: merge-fruit
-title: "《Merge Fruit》合成水果大作战"
-description: >-
-  《Merge Fruit》是一款下落+合成机制结合的水果益智游戏，你需要在容器中巧妙堆叠并合成相同水果，既要追求高倍进化，又要避免水果堆到顶端溢出。
+title: 《Merge Fruit》合成水果大作战
+description: 《Merge Fruit》是一款下落+合成机制结合的水果益智游戏，你需要在容器中巧妙堆叠并合成相同水果，既要追求高倍进化，又要避免水果堆到顶端溢出。
 iframeSrc: 'https://3eltb7i874s60.h5games.usercontent.goog/v/28f34ighqoh10/'
 thumbnail: /new-images/thumbnails/merge-fruit.png
 tags:
@@ -21,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Merge Fruit》将重力下落玩法与“合成两两升级”的规则结合在一起。你需要把各种水果投放到容器中，当两个相同的水果相互接触时，它们会合并成体积更大、分值更高的下一阶段水果。难点在于：一方面要为未来的合成提前铺垫，另一方面又要控制整体堆叠高度，避免顶部溢出导致游戏提前结束。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 通关策略与玩法思路
 
 1.  **中央锚点：** 尽量把目前最大的水果保持在棋盘中间区域，这样无论左右哪边形成合成，都有机会滚向它并再度合并，提升连锁效率。

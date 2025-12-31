@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: endless-siege
-title: "Endless Siege 无尽攻城塔防"
-description: >-
-  在《Endless Siege》中对抗一波又一波永不停止的兽人攻势——布置并升级火砲、弩砲等防御塔，
-  在每天更新的随机地图上尽可能撑过更多回合。
+title: Endless Siege 无尽攻城塔防
+description: 在《Endless Siege》中对抗一波又一波永不停止的兽人攻势——布置并升级火砲、弩砲等防御塔， 在每天更新的随机地图上尽可能撑过更多回合。
 iframeSrc: 'https://endlessseige.h5games.usercontent.goog/v/35nvlvatb9t8g/'
 thumbnail: /new-images/thumbnails/endless-siege.jpg
 tags:
@@ -25,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 耐玩度极高。你需要聪明地选择与升级各种防御塔，尽力撑过越多波次，挑战当日排行榜。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **熟悉各种塔：** 先理解每种防御塔的定位。

@@ -1,8 +1,10 @@
 ---
 locale: zh
 urlstr: jewel-christmas-mania
-title: "《Jewel Christmas Mania》圣诞宝石狂欢"
-description: "《Jewel Christmas Mania》是一款充满节日气氛的三消游戏，你要在圣诞主题棋盘上交换闪耀宝石，完成关卡目标、触发华丽连锁，感受节日灯火与音乐的双重氛围。"
+title: 《Jewel Christmas Mania》圣诞宝石狂欢
+description: >-
+  《Jewel Christmas
+  Mania》是一款充满节日气氛的三消游戏，你要在圣诞主题棋盘上交换闪耀宝石，完成关卡目标、触发华丽连锁，感受节日灯火与音乐的双重氛围。
 iframeSrc: 'https://jewelchristmasmania.h5games.usercontent.goog/v/3vom8bn0qgmto/'
 thumbnail: /new-images/thumbnails/jewel-christmas-mania.png
 tags:
@@ -21,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Jewel Christmas Mania》是一款以圣诞节为主题的华丽三消游戏。棋盘上布满了晶莹的宝石、雪花、圣诞球等节日元素，你需要通过交换相邻宝石，让三颗及以上相同图案连成一线来完成消除，达成分数或目标任务。游戏内拥有大量关卡，配合绚丽的消除特效和轻快的圣诞配乐，非常适合作为节日期间的放松小游戏。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏玩法与攻略
 
 1.  **制造特殊宝石组合**：当你在一行或特定形状中匹配超过三颗宝石时，会生成威力更大的特殊宝石，可以一次性清除整行、整列或大片区域：  

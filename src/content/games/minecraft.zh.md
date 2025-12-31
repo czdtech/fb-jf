@@ -1,9 +1,10 @@
 ---
 locale: zh
 urlstr: minecraft
-title: "《Minecraft》我的世界沙盒冒险"
+title: 《Minecraft》我的世界沙盒冒险
 description: >-
-  《Minecraft》（我的世界）是一款高自由度的沙盒游戏，你可以在由方块构成的 3D 世界中探索、挖矿、收集资源、制作工具、建造建筑或红石装置，甚至创造属于自己的小游戏与冒险地图。
+  《Minecraft》（我的世界）是一款高自由度的沙盒游戏，你可以在由方块构成的 3D
+  世界中探索、挖矿、收集资源、制作工具、建造建筑或红石装置，甚至创造属于自己的小游戏与冒险地图。
 iframeSrc: >-
   https://app-167027.games.s3.yandex.net/167027/tnn3wq0qkjwhvr1271tszdhl82lm97e6/index.html
 thumbnail: /new-images/thumbnails/minecraft.jpg
@@ -22,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 《Minecraft》是由 Mojang Studios 开发的一款沙盒类电子游戏。整个世界由各种方块构成，玩家可以在其中自由探索 3D 方块世界，收集资源、搭建建筑、制作工具和武器，并与各类生物互动。游戏没有强制的通关目标，你可以选择生存挑战、创造建筑、跑图探险，甚至做红石机械和小游戏，享受极高的自由度。常见模式包括生存模式、创造模式、冒险模式与旁观者模式等。
 
+<!-- i18n:section:tips -->
 ### 玩法策略
 
 1.  **收集基础资源：** 刚开局建议先砍树获取木材，再制作工作台与基础工具；随后可以挖掘石头、煤炭、铁矿等，为后续生存打下基础。

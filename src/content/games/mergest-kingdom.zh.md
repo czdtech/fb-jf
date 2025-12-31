@@ -1,9 +1,10 @@
 ---
 locale: zh
 urlstr: mergest-kingdom
-title: "《Mergest Kingdom》合成王国冒险"
+title: 《Mergest Kingdom》合成王国冒险
 description: >-
-  《Mergest Kingdom》是一款奇幻题材的合成建造游戏，你通过合成植物、石块与各类遗物来升级产物、清除迷雾、扩张领地，并在任务与活动中规划高效的合成链。
+  《Mergest
+  Kingdom》是一款奇幻题材的合成建造游戏，你通过合成植物、石块与各类遗物来升级产物、清除迷雾、扩张领地，并在任务与活动中规划高效的合成链。
 iframeSrc: 'https://620tnu7381eao.h5games.usercontent.goog/v/27p309rk86cr8/'
 thumbnail: /new-images/thumbnails/mergest-kingdom.png
 tags:
@@ -20,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Mergest Kingdom》将合成机制与王国建设融合在一起，你会在一片被迷雾笼罩的奇幻大陆上，从零开始重建王国。通过拖拽合成三块甚至五块相同的物品，你可以获得更高等级的植物、石材、建筑与魔法遗物。高级产物可以帮你驱散迷雾、开辟新区域、解锁新居民与建筑。任务与限时活动为你设定了明确目标，而有限的体力与棋盘空间则倒逼你精打细算每一次合成。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **3 合与 5 合的取舍：** 在条件允许的情况下，尽量收集 5 个同类物品再合成，可以多获得一个额外产物，性价比更高；但在卡任务或急需空间时，三合也是合理选择，不必一味强求五合。

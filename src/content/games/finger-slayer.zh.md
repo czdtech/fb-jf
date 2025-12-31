@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: finger-slayer
-title: "Finger Slayer 手指极限反应"
-description: >-
-  《Finger Slayer》是一款纯粹测试反应速度的游戏，你要在刀刃落下前最后一瞬间把「手指」收回，
-  既不能太早，也不能太晚。
+title: Finger Slayer 手指极限反应
+description: 《Finger Slayer》是一款纯粹测试反应速度的游戏，你要在刀刃落下前最后一瞬间把「手指」收回， 既不能太早，也不能太晚。
 iframeSrc: 'https://7ftsta5r737o8.h5games.usercontent.goog/v/3m7r2si8ppdlg/'
 thumbnail: /new-images/thumbnails/finger-slayer.jpg
 tags:
@@ -24,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 一次利落收回，不要提前抖手降低分数，也不要犹豫到被夹到。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **读机关前摇：** 多数陷阱在真正落下前会有极短的预备动作或音效，你应该根据这个「前摇讯号」行动，

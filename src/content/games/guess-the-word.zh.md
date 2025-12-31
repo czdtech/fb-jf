@@ -1,8 +1,8 @@
 ---
 locale: zh
 urlstr: guess-the-word
-title: "《Guess The Word》连线猜单词"
-description: "《Guess The Word》是一款干净利落的拼词解谜游戏，你要连接字母、利用常见字母组合和词缀，在类似填字格的棋盘中拼出单词并全部填满。"
+title: 《Guess The Word》连线猜单词
+description: 《Guess The Word》是一款干净利落的拼词解谜游戏，你要连接字母、利用常见字母组合和词缀，在类似填字格的棋盘中拼出单词并全部填满。
 iframeSrc: 'https://5e2trj00jcfog.h5games.usercontent.goog/v/1hrc6f7979nig/'
 thumbnail: /new-images/thumbnails/guess-the-word.png
 tags:
@@ -19,6 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Guess The Word》把连线拼词和填字格融合在一起。你需要在字母轮盘上拖动连线，组成有效单词，让它们填入棋盘中的空格。随着关卡推进，谜题会出现更多“变体词”、不常见的双字母组合以及元音较少的单词，你需要依靠字母模式和推理来完成所有单词。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏玩法与攻略
 1.  先从最明显、最短的单词下手，用它们锁定交叉字母位置。
 2.  多利用前缀/后缀思维，例如 re‑、un‑、‑ing、‑ed 等，可以快速扩展候选单词。

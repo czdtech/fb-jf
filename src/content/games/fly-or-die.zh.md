@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: fly-or-die
-title: "Fly or Die 进化生存 .io"
-description: >-
-  Fly or Die 是一款进化生存类 .io 游戏，吃对应的食物才能升级进化，
-  同时避开天上与地面各种掠食者与环境危险。
+title: Fly or Die 进化生存 .io
+description: Fly or Die 是一款进化生存类 .io 游戏，吃对应的食物才能升级进化， 同时避开天上与地面各种掠食者与环境危险。
 iframeSrc: >-
   https://app-96679.games.s3.yandex.net/96679/jshypemnvrae6bchv5d2nej2892owe69/index.html
 thumbnail: /new-images/thumbnails/fly-or-die.jpg
@@ -39,6 +37,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 使用鼠标或键盘操控移动／飞行方向；
 - 冲刺或加速键依托管伺服器设定略有不同，通常会在游戏说明中标示。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 尽量在热区边缘觅食，不要在掠食者聚集的中央抢资源，被针对风险很高。

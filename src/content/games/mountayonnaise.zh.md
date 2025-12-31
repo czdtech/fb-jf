@@ -1,16 +1,17 @@
 ---
 locale: zh
 urlstr: mountayonnaise
-title: "Sprunki Mountayonnaise - 在线玩 Sprunki Mountayonnaise"
+title: Sprunki Mountayonnaise - 在线玩 Sprunki Mountayonnaise
 description: >-
-  《Sprunki Mountayonnaise》是一款惊喜感十足的 Sprunki 模组音乐游戏，你为角色添加不同音效时会触发截然不同的动物形象与动画，拥有极高的可玩性与重复体验价值。
+  《Sprunki Mountayonnaise》是一款惊喜感十足的 Sprunki
+  模组音乐游戏，你为角色添加不同音效时会触发截然不同的动物形象与动画，拥有极高的可玩性与重复体验价值。
 iframeSrc: 'https://turbowarp.org/1135773023/embed'
 thumbnail: /new-images/thumbnails/mountayonnaise.png
 tags:
   - sprunki mountayonnaise
   - sprunki mountayonnaise online
 score: 4.8/5  (649 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -26,6 +27,7 @@ releaseDate: 2025-12-04
 - **解锁隐藏彩蛋：** 尝试特定的音效组合，有机会触发隐藏动画或特殊演出效果。
 - **实时混音：** 在播放过程中随时调整配置，静音、移除或重新排列某些声部，让你的作品越来越接近理想版本。
 
+<!-- i18n:section:tips -->
 ### Sprunki Mountayonnaise 小技巧
 
 - **先打好节奏地基：** 建议先给一两个角色分配鼓点或节奏型，搭好乐曲骨架，再逐步加入旋律与和声。

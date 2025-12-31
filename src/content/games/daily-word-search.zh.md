@@ -1,7 +1,7 @@
 ---
 locale: zh
 urlstr: daily-word-search
-title: "Daily Word Search 每日找单词"
+title: Daily Word Search 每日找单词
 description: >-
   《Daily Word Search 每日找单词》是一款轻松的英文单词搜寻游戏。每天一张新字母表，在
   横向、纵向乃至对角线上寻找隐藏的单词，既可以计时挑战，也可以纯放松游玩。
@@ -23,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 择无计时模式来当作放松的文字小游戏。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **优先扫描稀有字母组合：** 注意网格中较少出现的字母（如 Q、Z、X 等），很多隐藏单词

@@ -1,9 +1,10 @@
 ---
 locale: zh
 urlstr: medieval-solitaire
-title: "《Medieval Solitaire》中世纪纸牌接龙"
+title: 《Medieval Solitaire》中世纪纸牌接龙
 description: >-
-  《Medieval Solitaire》是一款中世纪主题的经典 Klondike 接龙纸牌游戏，在骑士与城堡的氛围中，从 A 到 K 依次构建基础牌堆，清空整个牌局。
+  《Medieval Solitaire》是一款中世纪主题的经典 Klondike 接龙纸牌游戏，在骑士与城堡的氛围中，从 A 到 K
+  依次构建基础牌堆，清空整个牌局。
 iframeSrc: 'https://7se96a0j4qu80.h5games.usercontent.goog/v/1iv1d4soimc78/'
 thumbnail: /new-images/thumbnails/medieval-solitaire.png
 tags:
@@ -21,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 《Medieval Solitaire》把经典 Klondike 纸牌接龙搬进了骑士、城堡与王室的世界。规则与传统接龙完全一致，只是将牌面与背景换成了中世纪风格的美术和音乐。你的目标，依旧是将整副牌按花色从 A 排到 K，依次放入四个基础牌堆中，并通过合理移动牌面逐步清空桌面。熟悉的玩法搭配新鲜的主题，让老玩家也能体验到焕然一新的氛围。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 通关策略与玩法思路
 
 1.  **核心目标：** 标准牌局使用 52 张扑克牌，你需要在右上角的四个基础牌堆上，从 A 开始按花色递增一直叠到 K，完成四个完整的牌堆即算通关。

@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: gold-miner
-title: "Gold Miner 黄金矿工"
-description: >-
-  经典钩爪拉矿街机游戏：抓准时机放下钩爪，勾住地下的金块与宝石，
-  在时间结束前达成关卡目标金额，并用道具辅助通关。
+title: Gold Miner 黄金矿工
+description: 经典钩爪拉矿街机游戏：抓准时机放下钩爪，勾住地下的金块与宝石， 在时间结束前达成关卡目标金额，并用道具辅助通关。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/gold-miner.html'
 thumbnail: /new-images/thumbnails/gold-miner.jpg
 tags:
@@ -37,6 +35,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 使用单一按键或鼠标点击即可放下钩爪；
 - 使用道具（如炸药等）则依托管版本配置额外按键。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 熟悉钩爪摆动弧线与速度，在物体中心稍早一点放钩会比较容易命中。

@@ -1,9 +1,10 @@
 ---
 locale: zh
 urlstr: one-line-only-dot-to-dot
-title: "《One line only: dot to dot》一笔连点"
+title: '《One line only: dot to dot》一笔连点'
 description: >-
-  《One line only: dot to dot》是一款简洁的一笔画解谜游戏，你需要用一条连续不断的线连接所有点和线段，既不能擡笔，也不能重复走已有路径。
+  《One line only: dot to
+  dot》是一款简洁的一笔画解谜游戏，你需要用一条连续不断的线连接所有点和线段，既不能擡笔，也不能重复走已有路径。
 iframeSrc: 'https://7n3sql2bqn9eg.h5games.usercontent.goog/v/2br4t62jndh88/'
 thumbnail: /new-images/thumbnails/one-line-only-dot-to-dot.jpg
 tags:
@@ -20,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《One line only: dot to dot》延续了经典欧拉路径（一笔画）谜题的设计思路：在给定的点与线段构成的图形上，只用一条连续、不断开的线，将所有边全部走一遍且不重走。关卡中会加入“桥”“强制转向”以及奇偶数节点等巧妙设计，需要你在动笔前做好路线规划，在解题过程中也要随时警惕是否把某些边“孤立”在外。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 通关策略与玩法思路
 
 1.  **观察节点度数：** 先统计各个节点连接的线段数量（度数），一般来说，0 或 2 个奇数度节点的图才可能存在欧拉路径或回路；若存在两个奇数度节点，它们往往是最合适的起点和终点。

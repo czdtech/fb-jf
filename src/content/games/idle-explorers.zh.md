@@ -1,8 +1,8 @@
 ---
 locale: zh
 urlstr: idle-explorers
-title: "《Idle Explorers》放置探险队"
-description: "在《Idle Explorers》中，你要经营一支挖掘探险队，从一条简陋矿井起步，不断升级工人、开辟新矿区、雇佣管理者自动化流程，打造跨世界的挖掘帝国。"
+title: 《Idle Explorers》放置探险队
+description: 在《Idle Explorers》中，你要经营一支挖掘探险队，从一条简陋矿井起步，不断升级工人、开辟新矿区、雇佣管理者自动化流程，打造跨世界的挖掘帝国。
 iframeSrc: 'https://5ik68qrla8g6g.h5games.usercontent.goog/v/1vuib5ibuof0g/'
 thumbnail: /new-images/thumbnails/idle-explorers.png
 tags:
@@ -20,6 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 《Idle Explorers》是一款典型的放置经营+点击游戏，你扮演的是一位矿业大亨，从一条只有一名探险者的小矿井开始，通过管理工人为你挖掘资源，逐步建立起庞大的挖掘帝国。工人自动往返于矿层与仓库之间，你要利用他们创造的收入升级矿道、增加工人数量、提高运载效率，并在条件成熟时雇佣经理人实现全自动化运营，最终解锁更多星球与高价值矿区。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏玩法与攻略
 1.  **核心循环**：工人自动挖掘资源并带回收益，你用这些收益购买升级，使资源获取速度更快，如此反复形成正向循环。赚得越多，升级越快，升级越多，挖得越快。
 2.  **合理安排升级优先级**：前期重点提升矿井深度、工人挖掘速度和单次运载量，并保证电梯、仓库与矿道等级相对均衡，避免某一环节过慢导致整体效率被“卡脖子”。

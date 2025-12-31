@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: get-10-ultimate
-title: "Get 10 Ultimate 数字合成终极版"
-description: >-
-  具挑战性的数字拼图游戏！点击相邻且相同的数字方块，将它们合并成更高的数字。
-  你能一路合成到 10，甚至更高吗？
+title: Get 10 Ultimate 数字合成终极版
+description: 具挑战性的数字拼图游戏！点击相邻且相同的数字方块，将它们合并成更高的数字。 你能一路合成到 10，甚至更高吗？
 iframeSrc: 'https://4oljglvsib9no.h5games.usercontent.goog/v/4nttt72qlep8o/'
 thumbnail: /new-images/thumbnails/get-10-ultimate.png
 tags:
@@ -25,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 但真正的目标是尽可能延长局面、合出更高数字与更高分。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **下手前先想一想：** 每一次点击都会改变整个棋盘的布局。

@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: football-legends
-title: "Football Legends 经典街机足球"
-description: >-
-  Football Legends 是一款街机风格足球对战游戏，支援 1v1 或 2v2，
-  通过头球、凌空抽射与必杀射门，在快节奏单场或锦标赛中一决高下。
+title: Football Legends 经典街机足球
+description: Football Legends 是一款街机风格足球对战游戏，支援 1v1 或 2v2， 通过头球、凌空抽射与必杀射门，在快节奏单场或锦标赛中一决高下。
 iframeSrc: 'https://webglmath.github.io/football-legends/'
 thumbnail: /new-images/thumbnails/football-legends.jpg
 tags:
@@ -36,6 +34,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 使用方向键或 WASD 控制移动与跳跃；
 - 射门／传球键与必杀键会依托管版本略有不同，通常会在游戏开始前标示。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 把握起跳时机做头球，是最稳定的得分手段之一。

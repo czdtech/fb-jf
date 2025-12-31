@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: five-nights-at-freddy-2
-title: "Five Nights at Freddy's 2 (FNAF 2) 弗雷迪的五夜惊魂 2"
-description: >-
-  二代的核心是面具与八音盒管理：在同时监控多个机械玩偶的情况下，
-  持续上发条维持 Puppet 的音乐盒，适时使用手电筒与 Freddy 面具活下来。
+title: Five Nights at Freddy's 2 (FNAF 2) 弗雷迪的五夜惊魂 2
+description: 二代的核心是面具与八音盒管理：在同时监控多个机械玩偶的情况下， 持续上发条维持 Puppet 的音乐盒，适时使用手电筒与 Freddy 面具活下来。
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-2.jpg
 tags:
@@ -37,6 +35,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 使用鼠标与画面 UI 操作监视器与面具切换；
 - Ctrl 或空白键通常用来开启手电筒（依托管版本略有不同）。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 建立固定巡回节奏：上发条 → 放下监视器 → 闪一下走廊 → 看两侧通风口 → 视情况戴面具。

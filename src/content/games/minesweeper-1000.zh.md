@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: minesweeper-1000
-title: "《Minesweeper 1000》高难扫雷挑战"
-description: >-
-  《Minesweeper 1000》是在经典扫雷基础上扩展的大棋盘逻辑游戏，你需要通过数字提示标记地雷、排除安全格，在超大棋盘上用高效技巧完成无误清盘。
+title: 《Minesweeper 1000》高难扫雷挑战
+description: 《Minesweeper 1000》是在经典扫雷基础上扩展的大棋盘逻辑游戏，你需要通过数字提示标记地雷、排除安全格，在超大棋盘上用高效技巧完成无误清盘。
 iframeSrc: 'https://5gsana77eub30.h5games.usercontent.goog/v/7363vv8e5mrb8/'
 thumbnail: /new-images/thumbnails/minesweeper-1000.png
 tags:
@@ -20,6 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Minesweeper 1000》是经典扫雷的“进阶版”，主打更大的棋盘和更密集的逻辑推理。和传统扫雷一样，你的目标是在不引爆任何地雷的前提下，揭开所有安全格。每一个被翻开的数字格都会告诉你：它周围（包含斜对角在内的八个方向）相邻格子中，有多少颗地雷。大棋盘更强调模式识别、快速“连开”（chord）操作，以及尽量减少被迫猜测的情况。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 通关策略与玩法思路
 
 1.  **掌握核心数字形态：** 熟练识别 1-2、1-1 和 1-2-1 等常见边缘模式，可以在不猜测的前提下稳妥插旗，锁定地雷位置。

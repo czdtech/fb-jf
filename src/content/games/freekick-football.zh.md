@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: freekick-football
-title: "Freekick Football 任意球大师"
-description: >-
-  在 Freekick Football 中专注磨练你的任意球脚法——瞄准、射门、过人墙、破门，
-  一步步成为任意球专家。
+title: Freekick Football 任意球大师
+description: 在 Freekick Football 中专注磨练你的任意球脚法——瞄准、射门、过人墙、破门， 一步步成为任意球专家。
 iframeSrc: 'https://freekickfootball.h5games.usercontent.goog/v/0lqeu7698mvk0/'
 thumbnail: /new-images/thumbnails/freekick-football.png
 tags:
@@ -24,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 以及对足球旋转与弧线轨迹的理解。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **瞄准落点：** 射门前先观察人墙站位与门将位置，选择一条相对安全的路线，

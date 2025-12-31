@@ -1,9 +1,10 @@
 ---
 locale: zh
 urlstr: merge-cakes
-title: "《Merge Cakes》蛋糕合成小铺"
+title: 《Merge Cakes》蛋糕合成小铺
 description: >-
-  《Merge Cakes》是一款轻松解压的合成益智游戏，你通过合成相同的蛋糕，解锁更华丽的新甜点，填满展示台、完成客人订单，并一步步经营出全城最甜蜜的蛋糕店。
+  《Merge
+  Cakes》是一款轻松解压的合成益智游戏，你通过合成相同的蛋糕，解锁更华丽的新甜点，填满展示台、完成客人订单，并一步步经营出全城最甜蜜的蛋糕店。
 iframeSrc: 'https://mergecakes.h5games.usercontent.goog/v/516lkgikje8fo/'
 thumbnail: /new-images/thumbnails/merge-cakes.jpg
 tags:
@@ -22,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 《Merge Cakes》是一款甜度爆表又节奏悠闲的合成类益智游戏。你从最基础的小纸杯蛋糕开始，通过不断合成相同蛋糕，解锁体积更大、装饰更精致的高级甜点：从普通蛋糕、慕斯，到多层庆典大蛋糕，逐步填满整个展示台。你的核心目标是根据顾客订单制作指定蛋糕、赚取金币，并集齐配方簿中所有款式，让这家小店成为名副其实的甜品天堂。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **掌握合成链路：** 游戏的核心是合成机制。拖动一块蛋糕叠放到另一块相同蛋糕上，就能生成更高一级的新蛋糕。两块基础纸杯蛋糕可以合成大纸杯蛋糕，再继续合成切片蛋糕，最终解锁更高档的甜点。

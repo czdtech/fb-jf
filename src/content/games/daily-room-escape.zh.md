@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: daily-room-escape
-title: "Daily Room Escape 每日密室逃脱"
-description: >-
-  《Daily Room Escape 每日密室逃脱》提供一日一关的小型逃脱谜题。你需要在房间里寻找道
-  具、破解密码锁，并逐步拼凑线索，找到离开的出口。
+title: Daily Room Escape 每日密室逃脱
+description: 《Daily Room Escape 每日密室逃脱》提供一日一关的小型逃脱谜题。你需要在房间里寻找道 具、破解密码锁，并逐步拼凑线索，找到离开的出口。
 iframeSrc: 'https://0e53jjs7cgfvg.h5games.usercontent.goog/v/7ksqnmpcepl5g/'
 thumbnail: /new-images/thumbnails/daily-room-escape.png
 tags:
@@ -25,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 步解开机关、打开门锁，最终逃离房间。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **先做全面“地毯式”搜索：** 刚进入房间时，尽量点击所有可疑热点——移动沙发垫、打开抽

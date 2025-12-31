@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: geometry-dash-subzero
-title: "Geometry Dash SubZero 几何冲刺：零度篇"
-description: >-
-  独立的冬季主题节奏关卡包：在冰冷视觉与高速谱面中，
-  跟着音乐节拍跳跃、飞行与踩环，挑战极限操作。
+title: Geometry Dash SubZero 几何冲刺：零度篇
+description: 独立的冬季主题节奏关卡包：在冰冷视觉与高速谱面中， 跟着音乐节拍跳跃、飞行与踩环，挑战极限操作。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp46/chenling/20240322/06/index.html
 thumbnail: /new-images/thumbnails/geometry-dash-subzero.jpg
@@ -38,6 +36,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 点击、空白键或鼠标按下可让角色跳跃；
 - 在飞船模式下长按上升、放开下降（以托管版本实际为准）。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 若觉得画面特效太多干扰判断，可以在设定中关闭部分光效或背景动态，

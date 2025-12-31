@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: monopoly
-title: "《MONOPOLY》地产大亨棋盘游戏"
-description: >-
-  《Monopoly》（地产大亨）是一款经典桌游，玩家通过掷骰在棋盘上移动、买地、收租和交易物业，通过精明经营让对手破产，成为最后的首富。
+title: 《MONOPOLY》地产大亨棋盘游戏
+description: 《Monopoly》（地产大亨）是一款经典桌游，玩家通过掷骰在棋盘上移动、买地、收租和交易物业，通过精明经营让对手破产，成为最后的首富。
 iframeSrc: 'https://w8.snokido.com/games/html5/monopoly/index.html'
 thumbnail: /new-images/thumbnails/monopoly.jpg
 tags:
@@ -21,6 +20,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 《Monopoly》（地产大亨）是一款家喻户晓的经典地产策略棋盘游戏。玩家轮流掷骰，在棋盘上移动棋子，当停在无人持有的地块时可以选择购入，将其变成自己的资产。之后只要其他玩家路过你的地盘，就需要向你支付租金。通过成套购地、修建房屋与酒店，你可以不断提高租金、扩大现金流，最终目标是让其他玩家因无力偿付租金或税费而破产，自己则成为棋盘上的唯一赢家。
 
+<!-- i18n:section:tips -->
 ### 玩法策略
 
 1.  **积极买地：** 游戏初期尽量拿下更多地块，尤其是同色物业，为后续成套开发和修建房屋打基础。

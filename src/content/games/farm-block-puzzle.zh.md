@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: farm-block-puzzle
-title: "Farm Block Puzzle 农场方块拼图"
-description: >-
-  Farm Block Puzzle 是一款氛围轻松的 10x10 方块拼图游戏，
-  以可爱农场为主题，拖拽方块到棋盘上排成整行，消除得分。
+title: Farm Block Puzzle 农场方块拼图
+description: Farm Block Puzzle 是一款氛围轻松的 10x10 方块拼图游戏， 以可爱农场为主题，拖拽方块到棋盘上排成整行，消除得分。
 iframeSrc: 'https://5hefbqkv5o0do.h5games.usercontent.goog/v/0bio68l8dojl0/'
 thumbnail: /new-images/thumbnails/farm-block-puzzle.png
 tags:
@@ -24,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 目标是在棋盘塞满之前，尽可能长时间地持续摆放与消除，刷出更高分数。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **根据当前三块一起规划：** 系统一次会给三种方块形状，在放下一块之前，先想一想

@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: funny-shooter
-title: "Funny Shooter 奇葩射击"
-description: >-
-  波次制射击原型作：在一波波攻势中对付各式怪异敌人，
-  收集金钱并升级武器，才能在愈来愈硬的关卡中存活。
+title: Funny Shooter 奇葩射击
+description: 波次制射击原型作：在一波波攻势中对付各式怪异敌人， 收集金钱并升级武器，才能在愈来愈硬的关卡中存活。
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter/'
 thumbnail: /new-images/thumbnails/funny-shooter.jpg
 tags:
@@ -36,6 +34,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - R 重新装填弹药。
 - 数字键切换主武器与副武器。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 尽量瞄准头部，可以节省弹药与击杀时间，特别是在高波次时差异很大。

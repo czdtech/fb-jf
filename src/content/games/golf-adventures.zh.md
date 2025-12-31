@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: golf-adventures
-title: "Golf Adventures 高尔夫大冒险"
-description: >-
-  展开一场高尔夫冒险！这是一款基于物理的解谜游戏，你需要精准瞄准与控制力度，
-  让球在各种创意地形与机关中穿梭，用尽可能少的杆数打进洞。
+title: Golf Adventures 高尔夫大冒险
+description: 展开一场高尔夫冒险！这是一款基于物理的解谜游戏，你需要精准瞄准与控制力度， 让球在各种创意地形与机关中穿梭，用尽可能少的杆数打进洞。
 iframeSrc: 'https://golfadventures.h5games.usercontent.goog/v/2er1vod6k6p0o/'
 thumbnail: /new-images/thumbnails/golf-adventures.png
 tags:
@@ -26,6 +24,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 像解谜一样找出最聪明的路线。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **先观察再出手：** 开杆前先拉远视角看看整个关卡，留意障碍物、斜坡与球洞位置。

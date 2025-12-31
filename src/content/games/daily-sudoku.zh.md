@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: daily-sudoku
-title: "Daily Sudoku 每日数独"
+title: Daily Sudoku 每日数独
 description: >-
-  《Daily Sudoku 每日数独》每天提供一盘全新的 9×9 逻辑数独。将 1–9 填入网格，使每一
-  行、每一列以及每个 3×3 宫都恰好包含 1 到 9 各一次、且不重复。
+  《Daily Sudoku 每日数独》每天提供一盘全新的 9×9 逻辑数独。将 1–9 填入网格，使每一 行、每一列以及每个 3×3 宫都恰好包含 1 到
+  9 各一次、且不重复。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-daily-sudoku/'
 thumbnail: /new-images/thumbnails/daily-sudoku.jpg
 tags:
@@ -24,6 +24,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 证工具，既适合入门练习，也适合进阶玩家做每日逻辑训练。
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### 如何游玩
 
 - 选中一个格子并输入数字；你也可以使用“笔记模式”为格子记录候选数字。  

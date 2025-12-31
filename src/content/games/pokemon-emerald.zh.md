@@ -1,9 +1,10 @@
 ---
 locale: zh
 urlstr: pokemon-emerald
-title: "《Pokemon Emerald》宝可梦 绿宝石"
+title: 《Pokemon Emerald》宝可梦 绿宝石
 description: >-
-  《Pokemon Emerald》是宝可梦系列中以丰缘地区为舞台的角色扮演游戏，你将捕捉与培养宝可梦、挑战道馆馆主与四天王，并阻止熔岩队与海洋队搅乱世界秩序，最终登上宝可梦联盟冠军之位。
+  《Pokemon
+  Emerald》是宝可梦系列中以丰缘地区为舞台的角色扮演游戏，你将捕捉与培养宝可梦、挑战道馆馆主与四天王，并阻止熔岩队与海洋队搅乱世界秩序，最终登上宝可梦联盟冠军之位。
 iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonemerald'
 thumbnail: /new-images/thumbnails/pokemon-emerald.jpg
 tags:
@@ -21,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 《Pokemon Emerald》（宝可梦 绿宝石）是经典 GBA 时代的正统续作之一，故事舞台位于丰缘地区。你将从新手训练家出发，一边在地图各地捕捉、培养宝可梦，一边与路上的训练家对战、挑战道馆馆主，逐步收集徽章、登上宝可梦联盟的巅峰。同时，你也会卷入反派组织“熔岩队”和“海洋队”之间的冲突，阻止他们利用固拉多、盖欧卡等传说宝可梦改写世界格局。
 
+<!-- i18n:section:tips -->
 ### 玩法策略
 
 1.  **捕捉多样化宝可梦：** 在长草、水域、洞窟等区域遇到野生宝可梦时，先将其体力削弱，再使用精灵球捕捉。尽量组建属性多样的队伍，以应对不同道馆与敌人。

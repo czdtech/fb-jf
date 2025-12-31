@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: moving-co
-title: "《Moving Co》搬家公司小管家"
-description: >-
-  《Moving Co.》是一款轻量级的搬家物流解谜游戏，你要规划路线、搬运家具和箱子，在尽量少的往返次数内，把物品安全送上货车并按时完成任务。
+title: 《Moving Co》搬家公司小管家
+description: 《Moving Co.》是一款轻量级的搬家物流解谜游戏，你要规划路线、搬运家具和箱子，在尽量少的往返次数内，把物品安全送上货车并按时完成任务。
 iframeSrc: 'https://movingco.h5games.usercontent.goog/v/3crgi5efdnml0/'
 thumbnail: /new-images/thumbnails/moving-co.png
 tags:
@@ -21,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Moving Co.》把“搬家”这件麻烦事变成了一道道有趣的物流与摆放难题。你需要在房间中来回穿梭，搬起椅子、沙发、箱子等各种大小不一的物品，将它们运送到货车或指定位置，还要避免在狭窄门框、转角处卡住或撞坏易碎品。在有限时间或步数压力下，如何规划最省事的搬运路线、如何堆放才能既稳固又省空间，都是这款游戏的乐趣所在。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 通关策略与玩法思路
 
 1.  **先观察再动手：** 开局先环顾一圈，找出体积最大、形状最笨重的物件，以及最窄的门、通道和转角，优先为大件预留“通道”和摆放位置。

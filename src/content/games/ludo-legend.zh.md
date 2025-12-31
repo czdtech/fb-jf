@@ -1,8 +1,8 @@
 ---
 locale: zh
 urlstr: ludo-legend
-title: "《Ludo Legend》飞行棋传奇"
-description: "在《Ludo Legend》中体验最经典的飞行棋竞速：掷骰前进棋子，与对手争先冲向终点，成为棋盘上的真正传奇。"
+title: 《Ludo Legend》飞行棋传奇
+description: 在《Ludo Legend》中体验最经典的飞行棋竞速：掷骰前进棋子，与对手争先冲向终点，成为棋盘上的真正传奇。
 iframeSrc: 'https://ludolegend.h5games.usercontent.goog/v/613uvcaa3eiqo/'
 thumbnail: /new-images/thumbnails/ludo-legend.png
 tags:
@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《Ludo Legend》是经典飞行棋的数字化版本。每位玩家拥有 4 枚棋子，目标是把它们从起始基地依次送上跑道，绕棋盘一周后进入终点通道并最终抵达终点三角区。你可以与电脑对手对战，通过掷骰决定步数，用策略“撞飞”对手棋子，把它们送回基地重来，率先将自己 4 枚棋子全部送回家的玩家获胜。 
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏玩法与攻略
 
 1.  **先出家门**：你必须掷出六点才能把棋子从基地拉到起始格，因此开局优先争取尽快投出六点，让至少一枚棋子进入跑道。  

@@ -1,7 +1,7 @@
 ---
 locale: zh
 urlstr: element-blocks
-title: "Element Blocks 元素方块拼图"
+title: Element Blocks 元素方块拼图
 description: >-
   Element Blocks 是一款带有小巧变化的策略方块拼图游戏。将各种元素方块摆到 10x10 棋盘上
   消除整行整列，并收集星星启动强力道具，用精心规划掌控整个棋盘。
@@ -24,6 +24,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 星星收集与能量道具系统，让你在棋盘即将卡死时，仍有翻盘的操作空间，延长整局寿命。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **标准 10x10 规则：** 每回合会同时给你三个方块形状，必须把这三个都放到棋盘上，

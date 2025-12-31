@@ -1,8 +1,8 @@
 ---
 locale: zh
 urlstr: jet-boi
-title: "《Jet Boi》喷气背包对决"
-description: "《Jet Boi》是一款 2 人本地对战射击游戏，你和对手都背着喷气背包在平台间飞来飞去，抢武器、控燃料，用击退把对方从平台边缘打下去赢下回合。"
+title: 《Jet Boi》喷气背包对决
+description: 《Jet Boi》是一款 2 人本地对战射击游戏，你和对手都背着喷气背包在平台间飞来飞去，抢武器、控燃料，用击退把对方从平台边缘打下去赢下回合。
 iframeSrc: >-
   https://g.igroutka.ru/games/23/yw5Aj09crUtBZC8T/rvvASMiM/5113cafa646f4648abc873fe8fbb7232/
 thumbnail: /new-images/thumbnails/jet-boi.jpg
@@ -32,6 +32,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 - 每位玩家拥有各自独立的一套移动、喷气和射击键位（具体按键依托管平台而定），整体设计适合在同一设备上进行本地双人对战。
 
+<!-- i18n:section:tips -->
 ### 实用技巧
 
 - 多用短促点喷来稳定自己的浮空高度与准星，长时间持续喷气只适合快速换位，而不利于瞄准。  

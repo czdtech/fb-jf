@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: donkey-kong
-title: "Donkey Kong 大金刚 经典街机版"
-description: >-
-  《Donkey Kong 大金刚》是一款经典街机平台跳跃游戏。操控马力欧攀爬钢梁与梯子，躲避木
-  桶和火球，一路爬到顶层营救 Pauline。
+title: Donkey Kong 大金刚 经典街机版
+description: 《Donkey Kong 大金刚》是一款经典街机平台跳跃游戏。操控马力欧攀爬钢梁与梯子，躲避木 桶和火球，一路爬到顶层营救 Pauline。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/donkey-kong.html'
 thumbnail: /new-images/thumbnails/donkey-kong.jpg
 tags:
@@ -40,6 +38,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 跳跃：按映射的跳跃键（具体取决于托管站点设置）；  
 - 拿到锤子后会自动挥动，持续短时间，可摧毁经过的木桶或敌人，但无法在挥锤时爬梯。  
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 爬梯前先观察上方木桶路线与火球位置，不要在木桶正压在梯子上方时贸然往上爬。  

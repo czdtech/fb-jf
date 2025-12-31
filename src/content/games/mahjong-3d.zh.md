@@ -1,8 +1,8 @@
 ---
 locale: zh
 urlstr: mahjong-3d
-title: "《Mahjong 3D》三维麻将连连看"
-description: "在《Mahjong 3D》中体验立体麻将消除乐趣：旋转 3D 拼图，从各个角度寻找成对的自由牌，一点点清空整座立体牌阵。"
+title: 《Mahjong 3D》三维麻将连连看
+description: 在《Mahjong 3D》中体验立体麻将消除乐趣：旋转 3D 拼图，从各个角度寻找成对的自由牌，一点点清空整座立体牌阵。
 iframeSrc: >-
   https://mahjong3d.h5games.usercontent.goog/v/eba0837e-4855-4bb2-b762-5dd6d8982cac/
 thumbnail: /new-images/thumbnails/mahjong-3d.jpg
@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 《Mahjong 3D》在经典麻将连连看的基础上加入了三维空间。牌不再只是平面摞放，而是堆叠成各种立体结构，你可以自由旋转视角。核心目标保持不变：在牌阵中不断寻找并消除成对且“自由”的相同牌，直到整座立体牌阵被完全清空。三维视角让你必须从多角度观察局面，对空间感的要求更高。 
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏玩法与攻略
 
 1.  **习惯“多角度旋转”**：这是本作最关键的技巧。很多成对牌会被放在结构两侧或背面，单一角度很难发现。在落子前养成给整座牌阵做 360° 旋转的习惯，获取完整信息。  

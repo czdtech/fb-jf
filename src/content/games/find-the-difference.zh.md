@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: find-the-difference
-title: "Find the Difference 经典找不同"
-description: >-
-  锻炼眼力与细节感知！在《Find the Difference》中比较两张近乎相同的图片，
-  在时间耗尽前找出所有差异。
+title: Find the Difference 经典找不同
+description: 锻炼眼力与细节感知！在《Find the Difference》中比较两张近乎相同的图片， 在时间耗尽前找出所有差异。
 iframeSrc: 'https://findthedifference.h5games.usercontent.goog/v/0tambv0iojsn8/'
 thumbnail: /new-images/thumbnails/find-the-difference.jpg
 tags:
@@ -25,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 很适合当作脑力小运动。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **系统化扫描：** 不要只盯着画面中间看。建议从左上角开始，将两张图片分区块比较，

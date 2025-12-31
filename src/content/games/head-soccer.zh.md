@@ -1,8 +1,8 @@
 ---
 locale: zh
 urlstr: head-soccer
-title: "《Head Soccer》大头足球对战"
-description: "《Head Soccer》是一款节奏明快的 1v1 街机足球游戏，大头角色在小场地上对拼，你要通过跳跃、射门和必杀技，在短时间内比对手进更多球。"
+title: 《Head Soccer》大头足球对战
+description: 《Head Soccer》是一款节奏明快的 1v1 街机足球游戏，大头角色在小场地上对拼，你要通过跳跃、射门和必杀技，在短时间内比对手进更多球。
 iframeSrc: 'https://1games.io/game/head-soccer-2024/'
 thumbnail: /new-images/thumbnails/head-soccer.jpg
 tags:
@@ -30,6 +30,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 - 使用方向键或 WASD 控制移动与跳跃；射门和必杀技按键会随平台不同略有差异，一般在界面上会有清晰图标提示。
 
+<!-- i18n:section:tips -->
 ### 实用技巧
 
 - 提前起跳配合轻点射门，往往能打出又快又贴地的低平球，比高吊球更难防守。

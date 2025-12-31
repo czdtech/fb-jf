@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: fuzzies
-title: "Fuzzies 毛球泡泡龙"
-description: >-
-  Fuzzies 是一款颜色匹配式泡泡射击游戏，瞄准并射出毛绒毛球，
-  通过同色连线引爆消除、使用增益道具，阻止上方墙面压到最底部。
+title: Fuzzies 毛球泡泡龙
+description: Fuzzies 是一款颜色匹配式泡泡射击游戏，瞄准并射出毛绒毛球， 通过同色连线引爆消除、使用增益道具，阻止上方墙面压到最底部。
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=662&original_ref=
 thumbnail: /new-images/thumbnails/fuzzies.jpg
@@ -38,6 +36,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 使用鼠标或触控拖拽准心，放开即发射毛球；
 - 若版本支援，可在发射前切换下一颗候补颜色，为后续布局预留更好选择。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 优先瞄准高处「支撑点」，只要把连着整大串毛球的上端打掉，整片就会一口气掉落，

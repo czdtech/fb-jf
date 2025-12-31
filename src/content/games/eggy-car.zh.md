@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: eggy-car
-title: "Eggy Car 蛋仔物理赛车"
-description: >-
-  Eggy Car 是一款物理驾驶游戏，你要一边开着小车翻山越岭，一边保护车上的易碎鸡蛋，
-  不能让它从车顶滚落或被颠碎。
+title: Eggy Car 蛋仔物理赛车
+description: Eggy Car 是一款物理驾驶游戏，你要一边开着小车翻山越岭，一边保护车上的易碎鸡蛋， 不能让它从车顶滚落或被颠碎。
 iframeSrc: 'https://webglmath.github.io/eggy-car/'
 thumbnail: /new-images/thumbnails/eggy-car.jpg
 tags:
@@ -36,6 +34,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 使用 A/D 键或方向键控制前进与煞车；
 - 按 R 键可以快速重新开始这一局。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 把每一个坡顶当成跳台看待：在接近坡顶前先松油门，落地稳住后再补油。

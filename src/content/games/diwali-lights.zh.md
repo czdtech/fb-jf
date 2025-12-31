@@ -1,7 +1,7 @@
 ---
 locale: zh
 urlstr: diwali-lights
-title: "Diwali Lights 排灯节点灯谜题"
+title: Diwali Lights 排灯节点灯谜题
 description: >-
   《Diwali Lights 排灯节点灯谜题》是一款节日气氛十足的点灯解谜游戏。你需要按照规则点
   亮油灯（diyas），在不违反限制的前提下完成发光图案，有些关卡还带有步数或时间限制。
@@ -25,6 +25,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 关、联动机关和计时元素，让每一关都像是一幅小型灯光线路图。 
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **先看清关卡规则：** 有些关卡禁止灯光路径交叉，有些要求按顺序依次点亮特定灯位，开始前

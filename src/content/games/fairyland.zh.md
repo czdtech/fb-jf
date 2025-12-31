@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: fairyland
-title: "Fairyland 精灵小镇解谜之旅"
-description: >-
-  Fairyland 是一款气氛温柔的解谜冒险游戏，在温馨场景中慢慢探索、解开轻量谜题，
-  以悠闲步调完成各种小目标。
+title: Fairyland 精灵小镇解谜之旅
+description: Fairyland 是一款气氛温柔的解谜冒险游戏，在温馨场景中慢慢探索、解开轻量谜题， 以悠闲步调完成各种小目标。
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
 thumbnail: /new-images/thumbnails/fairyland.png
 tags:
@@ -25,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 更强调「探索」与「发现」本身的乐趣。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **有条理地扫场景：** 建议一个画面一个画面慢慢清，利用缩放或拖动画面，

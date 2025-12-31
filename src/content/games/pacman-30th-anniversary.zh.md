@@ -1,9 +1,10 @@
 ---
 locale: zh
 urlstr: pacman-30th-anniversary
-title: "《Pacman 30th Anniversary》吃豆人 30 周年纪念版"
+title: 《Pacman 30th Anniversary》吃豆人 30 周年纪念版
 description: >-
-  《Pacman 30th Anniversary》是经典街机游戏《PAC-MAN》的 30 周年纪念版，再次邀请玩家操控吃豆人在迷宫中吃豆、躲鬼、吃能量豆反吃幽灵，以怀旧画面重温迷宫追逐的乐趣。
+  《Pacman 30th Anniversary》是经典街机游戏《PAC-MAN》的 30
+  周年纪念版，再次邀请玩家操控吃豆人在迷宫中吃豆、躲鬼、吃能量豆反吃幽灵，以怀旧画面重温迷宫追逐的乐趣。
 iframeSrc: 'https://pacman-30thanniversary.com/game/doodle-pacman/pacman.html'
 thumbnail: /new-images/thumbnails/pacman-30th-anniversary.jpg
 tags:
@@ -21,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 《Pacman 30th Anniversary》是为纪念《PAC-MAN》诞生 30 周年而推出的特别版本。玩法延续了原作的经典机制：你将再次操控黄色小吃豆人在迷宫中四处穿梭，一边吃掉所有小豆与能量豆，一边躲避四只幽灵的追击。本作通常在画面与音效上进行了适度重制，并加入了部分纪念元素，让老玩家重温街机时代的回忆，新玩家也能体验到这款传奇作品的魅力。
 
+<!-- i18n:section:tips -->
 ### 玩法策略
 
 1.  **熟悉迷宫结构：** 每一关的迷宫布局略有差异，提前记住关键路口、死胡同以及安全通道，可以在被幽灵追击时更从容地选择逃跑路线。

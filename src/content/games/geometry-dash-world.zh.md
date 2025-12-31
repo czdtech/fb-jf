@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: geometry-dash-world
-title: "Geometry Dash World 几何冲刺：世界篇"
-description: >-
-  精炼版节奏平台世界：在两个主题世界中快速通关多个短关卡，
-  跟着音乐节奏奔跑、跳跃与飞行，用收集到的光球解锁大门并挑战每日关卡。
+title: Geometry Dash World 几何冲刺：世界篇
+description: 精炼版节奏平台世界：在两个主题世界中快速通关多个短关卡， 跟着音乐节奏奔跑、跳跃与飞行，用收集到的光球解锁大门并挑战每日关卡。
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-world/'
 thumbnail: /new-images/thumbnails/geometry-dash-world.jpg
 tags:
@@ -41,6 +39,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 在飞船模式中按住上升、放开下降；
 - 练习模式与检查点的具体操作依托管版本而定。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 学会听歌的乐句与小节切分，许多陷阱与大跳点都会对齐重拍或过门，

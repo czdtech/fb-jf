@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: fluffy-mania
-title: "Fluffy Mania 毛绒连线乐"
-description: >-
-  Fluffy Mania 是一款温馨可爱的连线消除游戏，连接相同颜色的毛绒小球，
-  引发连锁反应并追求高分。
+title: Fluffy Mania 毛绒连线乐
+description: Fluffy Mania 是一款温馨可爱的连线消除游戏，连接相同颜色的毛绒小球， 引发连锁反应并追求高分。
 iframeSrc: 'https://02rd6nna08dqg.h5games.usercontent.goog/v/3ngbs02gf9h88/'
 thumbnail: /new-images/thumbnails/fluffy-mania.png
 tags:
@@ -23,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 例如达到指定分数、在有限步数内清除目标方块等。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **优先做方圈／回路：** 若规则允许画出闭合方圈或回路，通常会清除画面上该颜色的所有小球，

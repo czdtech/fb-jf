@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: go-escape
-title: "Go Escape 精准房间脱出"
-description: >-
-  Go Escape 是一款讲究精准操作的房间脱出平台游戏——你要掌握跳跃时机、读懂陷阱节奏，
-  在小巧却充满机关的房间中找出最安全的逃脱路线。
+title: Go Escape 精准房间脱出
+description: Go Escape 是一款讲究精准操作的房间脱出平台游戏——你要掌握跳跃时机、读懂陷阱节奏， 在小巧却充满机关的房间中找出最安全的逃脱路线。
 iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
 thumbnail: /new-images/thumbnails/go-escape.png
 tags:
@@ -24,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 真正的乐趣在于先看懂房间的节奏，之后用一口气干净跑完整个路线。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **先观察陷阱循环：** 在刚进房间时先别急着乱跳，静观一整轮陷阱运作周期，

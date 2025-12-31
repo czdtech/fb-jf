@@ -1,8 +1,8 @@
 ---
 locale: zh
 urlstr: jewel-academy
-title: "《Jewel Academy》宝石学院"
-description: "在《Jewel Academy》中成为三消大师：交换绚丽宝石、制造强力特殊宝石，完成数百个各具目标的关卡挑战。"
+title: 《Jewel Academy》宝石学院
+description: 在《Jewel Academy》中成为三消大师：交换绚丽宝石、制造强力特殊宝石，完成数百个各具目标的关卡挑战。
 iframeSrc: 'https://jewelacademy.h5games.usercontent.goog/v/2krc7uv2m9998/'
 thumbnail: /new-images/thumbnails/jewel-academy.png
 tags:
@@ -20,6 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 《Jewel Academy》是一款内容丰富、打磨精良的三消解谜游戏，你将作为“宝石学院”的学生，在一张张关卡地图上推进冒险。核心玩法是在棋盘上交换相邻宝石，形成三颗及以上同色直线，从而完成消除。通过精心规划可以制造各种特殊宝石，突破阻挡区域，解决数百个带有不同目标和机关的谜题关卡。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏玩法与攻略
 
 1.  **善用特殊消除组合**：不要满足于普通三连消，主动寻找四连、五连以及特殊形状的机会：  

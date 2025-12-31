@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: five-nights-at-freddy-sl
-title: "Five Nights at Freddy's: Sister Location 姐妹店"
-description: >-
-  带有明显剧情导向的篇章：在不同房间之间穿梭、完成维护任务，
-  监控 Funtime 系列机械玩偶，在脚本式事件中设法活下来。
+title: 'Five Nights at Freddy''s: Sister Location 姐妹店'
+description: 带有明显剧情导向的篇章：在不同房间之间穿梭、完成维护任务， 监控 Funtime 系列机械玩偶，在脚本式事件中设法活下来。
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnafsl.html'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-sl.jpg
 tags:
@@ -37,6 +35,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 使用鼠标与 UI 操作各种控制面板、电击按钮与监控屏幕；
 - 在通风管段落则需要使用键盘方向键或指定按键移动（依托管版本而定）。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 仔细聆听声音变化——金属摩擦声、脚步声与环境杂讯的突变，都是危险即将逼近的信号。

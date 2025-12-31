@@ -1,7 +1,7 @@
 ---
 locale: zh
 urlstr: escaping-the-prison
-title: "Escaping the Prison 监狱大逃脱（Henry Stickmin）"
+title: Escaping the Prison 监狱大逃脱（Henry Stickmin）
 description: >-
   《Escaping the Prison》是 Henry Stickmin 系列的点击冒险篇章，
   通过选择道具与路线（潜行、火爆、法律途径）帮助火柴人越狱，体验多结局与满满恶搞梗。
@@ -39,6 +39,7 @@ Henry Stickmin 被关进牢里了——你要靠一连串分支选择与各种�
 - 鼠标：点击选项与屏幕上的即时反应提示。
 - 视托管版本不同，部分特殊中断操作可能使用空白键等快捷键。
 
+<!-- i18n:section:tips -->
 ### 小技巧
 
 - 卡关时不妨改走另一条主线分支，很多场景都有完全不同的解法与搞笑收尾。

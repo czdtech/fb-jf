@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: emoji-with-friends
-title: "Emoji With Friends 表情派对益智"
-description: >-
-  Emoji With Friends 是一款轻松的派对类益智游戏，用各种表情符号进行配对与推理，
-  和好友比拼谁先完成目标。
+title: Emoji With Friends 表情派对益智
+description: Emoji With Friends 是一款轻松的派对类益智游戏，用各种表情符号进行配对与推理， 和好友比拼谁先完成目标。
 iframeSrc: 'https://2gtc787tjm7c8.h5games.usercontent.goog/v/5lfna7ldlrun8/'
 thumbnail: /new-images/thumbnails/emoji-with-friends.png
 tags:
@@ -25,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 非常适合当作线上或线下小聚会的暖场游戏。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **扫描图案：** 开局先快速扫描整个棋盘，找出出现频率高、容易构成组合的表情，

@@ -1,8 +1,10 @@
 ---
 locale: zh
 urlstr: he-likes-the-darkness
-title: "《He Likes The Darkness》他喜欢黑暗"
-description: "《He Likes The Darkness》是一款氛围感十足的极简平台动作游戏，你要在昏暗关卡中收集光球，踩准跳跃节奏、躲开陷阱，在有限视野里摸索出安全路线。"
+title: 《He Likes The Darkness》他喜欢黑暗
+description: >-
+  《He Likes The
+  Darkness》是一款氛围感十足的极简平台动作游戏，你要在昏暗关卡中收集光球，踩准跳跃节奏、躲开陷阱，在有限视野里摸索出安全路线。
 iframeSrc: 'https://77gr97nn0bej0.h5games.usercontent.goog/v/0emki8kk9qofo/'
 thumbnail: /new-images/thumbnails/he-likes-the-darkness.png
 tags:
@@ -19,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 《He Likes The Darkness》是一款极简、高对比度的横版平台游戏。场景大多处在低可见度的暗色环境中，配合移动锯刃、尖刺等机关，再加上散落在关卡各处的光球，构成了紧凑而精炼的关卡设计。想要顺利通关，你需要精确掌握小跳与大跳的距离、短暂停顿的节奏，并在保持动能的前提下连续通过一段段高压平台段，才能体验到那种一气呵成的流畅感。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏玩法与攻略
 1.  探路小跳：先用短跳在平台边缘“试水”，探出边界位置，再决定是否全力起跳，避免盲目大跳冲进陷阱。
 2.  观察机关节奏：对移动锯片、升降尖刺等机关，最好先完整观察它们一个运行周期，再选择出手时机，而不是一上来就硬闯。
