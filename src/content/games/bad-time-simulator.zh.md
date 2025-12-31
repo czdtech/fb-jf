@@ -18,7 +18,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:introduction -->
 ### 详细介绍
 
-*Bad Time Simulator（坏时间模拟器）* 是一款粉丝制作的网页游戏，用来高度还原《Undertale》屠杀路线中与 Sans 的最终 Boss 战。这场战斗以极端难度着称，目的是把玩家的反应速度、耐心以及对弹幕模式的记忆推到极限。
+*Bad Time Simulator（坏时间模拟器）* 是一款粉丝制作的网页游戏，用来高度还原《Undertale》屠杀路线中与 Sans 的最终 Boss 战。这场战斗以极端难度著称，目的是把玩家的反应速度、耐心以及对弹幕模式的记忆推到极限。
 
 在这款游戏中，你操控的是一个红色心形的 SOUL，在一个小小的白色方框内不停移动，躲避 Sans 释放出的各种攻击：
 
@@ -93,4 +93,3 @@ KR 是一种持续性伤害效果。被攻击命中后，你不会只掉一块�
 <!-- i18n:faq:id=faq:bad-time-simulator:what-is-the-difference-between-aa2c7edf -->
 **5. 模拟器和原作战斗有什么差别？**  
 大多数 Bad Time Simulator 版本都尽可能忠实于原作：攻击模式、节奏、KR 机制等都会保持一致。不同版本之间可能存在轻微差异，但整体体验目标是“和原作几乎一样”。
-
