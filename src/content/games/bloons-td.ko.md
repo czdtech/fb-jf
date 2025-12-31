@@ -18,10 +18,10 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:introduction -->
 ## 게임 소개
 
-Bloons TD(Tower Defense 표기)는 매우 인기가 높은 타워 디펜스 게임 시리즈입니다.
+Bloons TD는 매우 인기가 높은 타워 디펜스 게임 시리즈입니다.
 기본 개념은 단순하지만 몰입감이 뛰어납니다. 정해진 길을 따라 전진하는 풍선,
 즉 **블룬(Bloon)**들이 출구까지 도달하지 못하도록 막는 것이 목표입니다. 이를
-위해 플레이어는 길가에 다양한 **원숭이 타워(monkey towers 표기)**를 전략적으로
+위해 플레이어는 길가에 다양한 **원숭이 타워**를 전략적으로
 배치하게 됩니다.
 
 각 원숭이 타워는 고유한 능력, 공격 방식, 업그레이드 경로를 가지고 있습니다.
@@ -36,7 +36,7 @@ Bloons TD(Tower Defense 표기)는 매우 인기가 높은 타워 디펜스 게�
     차례로 등장합니다. 대표적인 예로 **Camo**(대부분의 타워에게 보이지 않음),
     **Lead**(날카로운 투사체에 면역), **Regrow**(빠르게 다시 층이 회복됨),
     **Fortified**(일반보다 훨씬 더 단단함) 등이 있습니다.
--   **거대한 비행선 블룬**: 최후반에는 MOAB급(Massive Ornary Air Blimp 표기)
+-   **거대한 비행선 블룬**: 최후반에는 MOAB급(Massive Ornary Air Blimp의 약자)
     블룬들이 등장합니다. 이 거대한 비행선들은 엄청난 피해를 받아야 겨우
     터지며, 파괴되면 내부에서 더 작은 블룬들이 한꺼번에 쏟아져 나와 추가로
     위협을 가합니다.
@@ -67,7 +67,7 @@ Bloons TD(Tower Defense 표기)는 매우 인기가 높은 타워 디펜스 게�
     -   **리드 블룬 처리**: Bomb Shooter(폭탄 슈터), Mortar Monkey(모르타르
         몽키), 혹은 Boomerang Monkey(부메랑 몽키)의 `Red Hot Rangs`처럼 리드
         층을 녹일 수 있는 업그레이드가 필요합니다.
-    -   **군중 제어(Crowd Control 표기)**: Tack Shooter, Bomb Shooter, Wizard Monkey
+    -   **군중 제어**: Tack Shooter, Bomb Shooter, Wizard Monkey
         같이 많은 블룬을 한 번에 정리할 수 있는 타워들이 빽빽한 물량에 대응하는
         핵심입니다.
     -   **MOAB급 화력**: 후반 라운드로 갈수록 MOAB, BFB, ZOMG 같은 거대한
@@ -143,4 +143,3 @@ Bloons TD(Tower Defense 표기)는 매우 인기가 높은 타워 디펜스 게�
 > Banana Farm을 건설하고 업그레이드하는 것이 가장 확실한 방법입니다. 이 밖에도
 > Alchemist나 Monkey Buccaneer처럼 특정 업그레이드를 통해 추가 수익을
 > 만들어 내는 타워들도 존재합니다.
-

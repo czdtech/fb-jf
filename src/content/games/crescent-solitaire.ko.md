@@ -80,8 +80,7 @@ K 다음에 A처럼 래핑도 허용됩니다. 빈 자리는 새 카드로 채�
   않습니다.  
 
 <!-- i18n:faq:id=faq:crescent-solitaire:what-is-foundation-transfer-c079b0e6 -->
-- **Q: “기초 더미 간 이동(Foundation Transfer 표기)”이란 무엇인가요?**  
+- **Q: “기초 더미 간 이동(영문: Foundation Transfer)”이란 무엇인가요?**  
   **A:** 같은 무늬의 A 더미와 K 더미에 놓인 카드들이 연속된 숫자 관계를 이룰 때,
   (기본 A/K를 제외한) 위쪽 카드를 한쪽 기초 더미에서 다른 쪽 기초 더미로 옮겨 계속해서
   쌓을 수 있는 규칙을 말합니다. 막힌 기초 더미를 풀어 주는 중요한 테크닉입니다.  
-
