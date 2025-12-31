@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: moving-co
-title: "Moving Co 이사 회사지"
+title: Moving Co 이사 회사지
 description: >-
-  Moving Co.는 이삿날을 퍼즐로 만든 캐주얼 게임으로, 동선을 설계해 짐을 안전하게
-  옮기고, 제한 시간 안에 효율적으로 트럭에 싣는 것이 목표입니다.
+  Moving Co.는 이삿날을 퍼즐로 만든 캐주얼 게임으로, 동선을 설계해 짐을 안전하게 옮기고, 제한 시간 안에 효율적으로 트럭에 싣는
+  것이 목표입니다.
 iframeSrc: 'https://movingco.h5games.usercontent.goog/v/3crgi5efdnml0/'
 thumbnail: /new-images/thumbnails/moving-co.png
 tags:
@@ -24,6 +24,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 만들어 냅니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 공략 & 진행 팁
 
 1. **사전 조사:** 먼저 큰 가구와 좁은 통로 위치를 파악한 뒤, 작은 짐이 통로를 막기

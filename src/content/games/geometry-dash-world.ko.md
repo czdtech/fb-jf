@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: geometry-dash-world
-title: "Geometry Dash World 지오메트리 대시 월드"
+title: Geometry Dash World 지오메트리 대시 월드
 description: >-
-  짧고 밀도 높은 음악 연동 스테이지들로 구성된 Geometry Dash 월드 버전입니다.
-  두 개의 월드를 달리며 점프와 비행으로 장애물을 피하고, 구슬과 열쇠를 모아
-  게이트를 열고 데일리 레벨에 도전해 보세요.
+  짧고 밀도 높은 음악 연동 스테이지들로 구성된 Geometry Dash 월드 버전입니다. 두 개의 월드를 달리며 점프와 비행으로 장애물을
+  피하고, 구슬과 열쇠를 모아 게이트를 열고 데일리 레벨에 도전해 보세요.
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-world/'
 thumbnail: /new-images/thumbnails/geometry-dash-world.jpg
 tags:
@@ -43,6 +42,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 스페이스바/마우스 클릭/터치로 점프하거나, 눌러서 비행을 유지합니다.
 - 연습 모드에서의 체크포인트 설정·이동 조작은 호스트에 따라 다를 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 팁
 
 - 곡의 구간과 프레이징을 익히면, 위험한 패턴이 나올 타이밍을 미리 예측할 수

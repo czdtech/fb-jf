@@ -1,17 +1,15 @@
 ---
 locale: ko
 urlstr: electron-dash
-title: "Electron Dash 일렉트론 대시"
-description: >-
-  빠른 속도의 터널 러너 게임입니다. 회전하는 통로와 발판 위를 달리며 점프와
-  대시를 활용해 멀리까지 생존해 보세요.
+title: Electron Dash 일렉트론 대시
+description: 빠른 속도의 터널 러너 게임입니다. 회전하는 통로와 발판 위를 달리며 점프와 대시를 활용해 멀리까지 생존해 보세요.
 iframeSrc: 'https://slope-game.github.io/electron-dash/'
 thumbnail: /new-images/thumbnails/electron-dash.jpg
 tags:
   - arcade
   - runner
 score: 4.4/5  (1386 votes)
-releaseDate: 2025-09-09
+releaseDate: 2025-09-09T00:00:00.000Z
 ---
 
 
@@ -39,6 +37,7 @@ Electron Dash는 원통형 터널과 공중 발판 위를 질주하는 빠른 �
 - WASD / 방향키: 좌우 이동 및 점프  
 - Space / X: 대시(버전에 따라 상이)  
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - 언덕이나 시야가 가려지는 구간에서는 미리 중앙 레인으로 정렬해 두면, 카메라

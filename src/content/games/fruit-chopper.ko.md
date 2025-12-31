@@ -23,6 +23,7 @@ Fruit Chopper는 다양한 과일이 화면 곳곳에서 튀어 오르는 속도
 끝나 버립니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **콤보 슬라이스 노리기**  

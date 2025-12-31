@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: infiltrating-the-airship
-title: "Infiltrating the Airship 에어십 침투"
+title: Infiltrating the Airship 에어십 침투
 description: >-
-  Henry Stickmin 시리즈의 에피소드 중 하나인 'Infiltrating the Airship'
-  가이드입니다. 각종 도구와 루트를 선택해 비공정을 침투하고,
-  여러 개의 결말과 실패 장면을 수집하는 방법을 소개합니다.
+  Henry Stickmin 시리즈의 에피소드 중 하나인 'Infiltrating the Airship' 가이드입니다. 각종 도구와 루트를
+  선택해 비공정을 침투하고, 여러 개의 결말과 실패 장면을 수집하는 방법을 소개합니다.
 iframeSrc: 'https://rebemanae.github.io/infiltrating-the-airship/'
 thumbnail: /new-images/thumbnails/infiltrating-the-airship.jpg
 tags:
@@ -47,6 +46,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **키보드**: 일부 QTE 상황에서 방향키나 특정 키를 눌러
   회피·공격·행동을 수행합니다(사용 키는 호스트에 따라 다를 수 있음).
 
+<!-- i18n:section:tips -->
 ### 공략 팁
 
 - 실패를 두려워하지 마세요. Henry Stickmin 시리즈는 오히려

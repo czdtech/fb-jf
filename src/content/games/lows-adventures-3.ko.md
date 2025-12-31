@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: lows-adventures-3
-title: "Low's Adventures 3 로우즈 어드벤처 3"
+title: Low's Adventures 3 로우즈 어드벤처 3
 description: >-
-  Low's Adventures 3는 레트로 감성의 플랫포머 3부작 중 세 번째 작품으로, 더 타이트해진
-  점프 타이밍과 새로운 기믹 블록, 숨겨진 길이 특징입니다.
+  Low's Adventures 3는 레트로 감성의 플랫포머 3부작 중 세 번째 작품으로, 더 타이트해진 점프 타이밍과 새로운 기믹 블록,
+  숨겨진 길이 특징입니다.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/480663659/index.html'
 thumbnail: /new-images/thumbnails/lows-adventures-3.jpg
 tags:
@@ -38,6 +38,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 방향키 또는 WASD로 이동/점프를 수행하며, 공격/상호작용 키는 호스트에 따라 다를 수
   있습니다.
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - 움직이는 함정 앞에서는 한 사이클을 손해 보더라도, 무리해서 뛰다가 죽는 것보다

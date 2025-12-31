@@ -27,6 +27,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 효율을 끌어내는 것이 핵심입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **정확한 조준**  

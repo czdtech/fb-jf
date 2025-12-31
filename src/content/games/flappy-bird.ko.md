@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: flappy-bird
-title: "Flappy Bird 플래피 버드"
+title: Flappy Bird 플래피 버드
 description: >-
-  Flappy Bird는 화면을 탭해 새를 위로 띄우며, 파이프 사이 좁은 틈을 통과해 최대한
-  멀리 가는 것을 목표로 하는 간단하지만 난이도 높은 아케이드 게임입니다.
+  Flappy Bird는 화면을 탭해 새를 위로 띄우며, 파이프 사이 좁은 틈을 통과해 최대한 멀리 가는 것을 목표로 하는 간단하지만 난이도
+  높은 아케이드 게임입니다.
 iframeSrc: 'https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/TAhlQLDa/index.html'
 thumbnail: /new-images/thumbnails/flappy-bird.jpg
 tags:
@@ -38,6 +38,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 마우스 클릭, 터치, 스페이스바 등으로 화면을 한 번씩 탭하면 새가 한 번씩
   날갯짓을 합니다.
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - 미세 조정이 필요할 때는 아주 짧은 탭만 사용하고, 크게 고도를 올려야 할 때만

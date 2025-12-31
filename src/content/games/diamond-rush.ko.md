@@ -27,6 +27,7 @@ Diamond Rush는 인접한 다이아몬드를 서로 바꿔 3개 이상 한 줄�
 필요합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **특수 보석 조합 노리기**  

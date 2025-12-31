@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: parking-jam
-title: "Parking Jam 파킹 잼"
+title: Parking Jam 파킹 잼
 description: >-
-  Rush Hour 스타일의 주차 퍼즐 게임입니다. 자동차를 순서대로
-  움직여 출구를 막는 차량을 치우고, 최소한의 이동으로 주차장을
-  탈출해 보세요.
+  Rush Hour 스타일의 주차 퍼즐 게임입니다. 자동차를 순서대로 움직여 출구를 막는 차량을 치우고, 최소한의 이동으로 주차장을 탈출해
+  보세요.
 iframeSrc: 'https://4knmpq6joecbg.h5games.usercontent.goog/v/1uamg2frss2qg/'
 thumbnail: /new-images/thumbnails/parking-jam.png
 tags:
@@ -31,6 +30,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 계산하는 공간 퍼즐에 가깝습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1. **출구에서 거꾸로 생각하기**  

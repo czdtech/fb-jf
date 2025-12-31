@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: differences-find-quest
-title: "Differences Find Quest 틀린 그림 찾기 퀘스트"
-description: >-
-  두 장의 그림을 비교해 다른 점을 찾아내는 퍼즐 게임입니다. 섬세한 차이를
-  발견하고, 힌트를 아껴 쓰며 모든 차이를 찾아 보세요.
+title: Differences Find Quest 틀린 그림 찾기 퀘스트
+description: '두 장의 그림을 비교해 다른 점을 찾아내는 퍼즐 게임입니다. 섬세한 차이를 발견하고, 힌트를 아껴 쓰며 모든 차이를 찾아 보세요.'
 iframeSrc: 'https://4rsldln0df32g.h5games.usercontent.goog/v/1hcmcbpl76s40/'
 thumbnail: /new-images/thumbnails/differences-find-quest.png
 tags:
@@ -26,6 +24,7 @@ Differences Find Quest는 서로 비슷해 보이는 두 장의 이미지를 비
 제한이 더해집니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **영역을 나누어 스캔하기**  

@@ -1,10 +1,9 @@
 ---
 locale: ko
 urlstr: kingdom-rush-frontiers
-title: "Kingdom Rush Frontiers 킹덤 러시 프론티어"
+title: Kingdom Rush Frontiers 킹덤 러시 프론티어
 description: >-
-  인기 타워 디펜스 'Kingdom Rush'의 후속작인
-  'Kingdom Rush Frontiers' 가이드입니다. 다양한 지형과 적 능력,
+  인기 타워 디펜스 'Kingdom Rush'의 후속작인 'Kingdom Rush Frontiers' 가이드입니다. 다양한 지형과 적 능력,
   특화 타워를 활용해 전선을 지키는 전략을 소개합니다.
 iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush-frontiers.html'
 thumbnail: /new-images/thumbnails/kingdom-rush-frontiers.jpg
@@ -52,6 +51,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **스킬 사용**: 메테오 등 전역 스킬은 쿨타임을 보고
   화면 원하는 지점에 사용합니다.
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - 초반에는 타워를 많이 짓기보다는, 핵심 위치에 지은

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: dalgona-game
-title: "Dalgona Game 달고나 게임"
+title: Dalgona Game 달고나 게임
 description: >-
-  한국 전통 달고나 뽑기를 게임으로 옮긴 Dalgona Game입니다. 모양선을 따라
-  조심스럽게 선을 긋고, 균열을 관리하며 제한 시간 안에 달고나를 깨지 않고
-  도려내 보세요.
+  한국 전통 달고나 뽑기를 게임으로 옮긴 Dalgona Game입니다. 모양선을 따라 조심스럽게 선을 긋고, 균열을 관리하며 제한 시간 안에
+  달고나를 깨지 않고 도려내 보세요.
 iframeSrc: 'https://12d729aggg2h0.h5games.usercontent.goog/v/786aa9qgft3vo/'
 thumbnail: /new-images/thumbnails/dalgona-game.png
 tags:
@@ -25,6 +24,7 @@ Dalgona Game은 꿀과 설탕으로 만든 달고나 과자를 깨지지 않게 
 부서지면서 실패하게 됩니다. 긴장감 있는 손놀림과 섬세한 컨트롤이 요구됩니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **모서리에서는 속도를 줄이기**  

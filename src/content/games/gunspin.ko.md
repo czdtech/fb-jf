@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: gunspin
-title: "Gunspin 건스핀"
+title: Gunspin 건스핀
 description: >-
-  Gunspin은 총의 반동을 추진력으로 바꾸어, 총을 쏠 때마다 몸이 회전하고 앞으로
-  날아가는 독특한 아케이드 게임입니다. 공중에서 탄약과 코인을 수집하며 장애물을
-  피해 최대한 멀리 날아가는 것이 목표입니다.
+  Gunspin은 총의 반동을 추진력으로 바꾸어, 총을 쏠 때마다 몸이 회전하고 앞으로 날아가는 독특한 아케이드 게임입니다. 공중에서 탄약과
+  코인을 수집하며 장애물을 피해 최대한 멀리 날아가는 것이 목표입니다.
 iframeSrc: 'https://ubg44.github.io/GunSpin/'
 thumbnail: /new-images/thumbnails/gunspin.jpg
 tags:
@@ -39,6 +38,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 마우스 클릭 또는 스페이스바로 발사하며, 조준 방향과 타이밍에 따라 궤도가
   결정됩니다.
 
+<!-- i18n:section:tips -->
 ### 팁
 - 한 번에 많은 탄을 쏘기보다는, 짧게 여러 번 눌러 조금씩 방향을 조정하는 편이
   효율적입니다.

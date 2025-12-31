@@ -24,6 +24,7 @@ Footchinko는 축구의 슈팅 감각과 파칭코/핀볼 메커니즘을 결합
 노릴 수 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **조준이 핵심**  

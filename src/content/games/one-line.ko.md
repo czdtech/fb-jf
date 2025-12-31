@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: one-line
-title: "One Line 원스트로크"
+title: One Line 원스트로크
 description: >-
-  One Line은 보드 위의 모든 점을 한 번의 끊기지 않는 선으로 이어야 하는 미니멀 퍼즐
-  게임으로, 선을 되짚거나 펜을 떼지 않고 모든 점을 지나가야 합니다.
+  One Line은 보드 위의 모든 점을 한 번의 끊기지 않는 선으로 이어야 하는 미니멀 퍼즐 게임으로, 선을 되짚거나 펜을 떼지 않고 모든
+  점을 지나가야 합니다.
 iframeSrc: 'https://g2.igroutka.ru/games/3/JLgd70b3BNafhVq5/10/igra-odna-liniya/game.html'
 thumbnail: /new-images/thumbnails/one-line.jpg
 tags:
@@ -24,6 +24,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 선을 떼는 것은 허용되지 않습니다. 레벨이 올라갈수록 구조가 복잡해져, 논리력과 공간 감각을
 함께 요구합니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 1. **전체 구조 관찰:** 선을 그리기 전에 모든 점과 연결 가능 경로를 천천히 살펴보고, 어느

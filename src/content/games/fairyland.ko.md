@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: fairyland
-title: "Fairyland 페어리랜드"
+title: Fairyland 페어리랜드
 description: >-
-  아기자기한 동화 풍 장면을 탐험하며 가벼운 퍼즐을 푸는 어드벤처 게임입니다.
-  숨은 물건을 찾고 스위치를 작동시켜 천천히 목표를 완수해 보세요.
+  아기자기한 동화 풍 장면을 탐험하며 가벼운 퍼즐을 푸는 어드벤처 게임입니다. 숨은 물건을 찾고 스위치를 작동시켜 천천히 목표를 완수해
+  보세요.
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
 thumbnail: /new-images/thumbnails/fairyland.png
 tags:
@@ -26,6 +26,7 @@ Fairyland는 수집형 과제와 간단한 환경 퍼즐, 아기자기한 장면
 분위기 감상을 중심으로 구성된 짧은 챕터들이 이어집니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **장면 단위로 차근차근 훑기**  

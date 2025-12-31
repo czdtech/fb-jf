@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: google-snake
-title: "Google Snake 구글 스네이크"
+title: Google Snake 구글 스네이크
 description: >-
-  클래식 뱀 게임을 현대적으로 재해석한 버전입니다. 과일을 먹어 몸을 키우되
-  벽과 자신의 몸통에 부딪히지 않도록 조심하며, 다양한 규칙과 모드로 최고
-  점수를 노려 보세요.
+  클래식 뱀 게임을 현대적으로 재해석한 버전입니다. 과일을 먹어 몸을 키우되 벽과 자신의 몸통에 부딪히지 않도록 조심하며, 다양한 규칙과
+  모드로 최고 점수를 노려 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230830/05/index.html
 thumbnail: /new-images/thumbnails/google-snake.jpg
@@ -41,6 +40,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 방향키 또는 WASD 키로 뱀의 진행 방향을 조종합니다.
 - 일시정지/재시작 등은 화면 UI 버튼을 통해 사용할 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 팁
 
 - 180도로 바로 꺾어 자기 목 부분과 정면충돌하지 않도록, 가능한 한 넓은 곡선으로

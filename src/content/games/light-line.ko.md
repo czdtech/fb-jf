@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: light-line
-title: "Light Line 라이트 라인 퍼즐"
+title: Light Line 라이트 라인 퍼즐
 description: >-
-  Light Line는 빛나는 노드들을 선으로 이어 가는 패스 드로잉 퍼즐입니다. 선이 서로
-  교차하지 않도록 연결하고, 제한된 턴 수와 선 길이, 반드시 지나가야 하는 칸과
-  스위치로 여닫히는 게이트까지 관리하며 깔끔한 해답을 찾아보세요.
+  Light Line는 빛나는 노드들을 선으로 이어 가는 패스 드로잉 퍼즐입니다. 선이 서로 교차하지 않도록 연결하고, 제한된 턴 수와 선
+  길이, 반드시 지나가야 하는 칸과 스위치로 여닫히는 게이트까지 관리하며 깔끔한 해답을 찾아보세요.
 iframeSrc: 'https://4es9bmcl5tp2o.h5games.usercontent.goog/v/5uo8nsnhp1vjo/'
 thumbnail: /new-images/thumbnails/light-line.png
 tags:
@@ -25,6 +24,7 @@ Light Line에서는 빛나는 노드들을 서로 연결하는 겹치지 않는 
 라인 간 에너지 공유 요소가 추가되어 더 깊이 있는 퍼즐 풀이를 요구합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 공략 & 플레이 팁
 
 1. 병목 구간부터 공략: 통로가 좁은 구간부터 먼저 채우세요. 이런 곳은 사실상 한 가지 경로만 허용하므로,

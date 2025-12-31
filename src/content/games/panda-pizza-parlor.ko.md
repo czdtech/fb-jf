@@ -31,6 +31,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 노릴 수 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1. **주문부터 정확히 확인하기**  

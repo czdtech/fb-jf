@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: daily-room-escape
-title: "Daily Room Escape 데일리 방탈출"
+title: Daily Room Escape 데일리 방탈출
 description: >-
-  짧은 방탈출 퍼즐을 매일 즐길 수 있는 Daily Room Escape입니다. 방을 샅샅이
-  수색하고 논리 자물쇠와 퍼즐을 풀어 탈출에 필요한 단서를 맞춰 보세요.
+  짧은 방탈출 퍼즐을 매일 즐길 수 있는 Daily Room Escape입니다. 방을 샅샅이 수색하고 논리 자물쇠와 퍼즐을 풀어 탈출에 필요한
+  단서를 맞춰 보세요.
 iframeSrc: 'https://0e53jjs7cgfvg.h5games.usercontent.goog/v/7ksqnmpcepl5g/'
 thumbnail: /new-images/thumbnails/daily-room-escape.png
 tags:
@@ -25,6 +25,7 @@ Daily Room Escape는 짧고 간단한 방탈출(영문: Room Escape) 퍼즐을 �
 목표입니다. 한 판의 분량이 짧아 매일 가볍게 두뇌를 깨우기에 좋습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **방을 처음부터 끝까지 훑기**  

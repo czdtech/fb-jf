@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: lemonade-stand
-title: "Lemonade Stand 레모네이드 가게 경영"
+title: Lemonade Stand 레모네이드 가게 경영
 description: >-
-  고전 경영 시뮬레이션 'Lemonade Stand' 가이드입니다. 날씨와
-  수요를 고려해 가격·레시피·광고를 조절하고, 재고를 관리해
-  매일의 이익을 극대화하세요.
+  고전 경영 시뮬레이션 'Lemonade Stand' 가이드입니다. 날씨와 수요를 고려해 가격·레시피·광고를 조절하고, 재고를 관리해 매일의
+  이익을 극대화하세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/lemonade-stand.html'
 thumbnail: /new-images/thumbnails/lemonade-stand.jpg
 tags:
@@ -49,6 +48,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **하루 진행**: 설정을 마친 뒤 다음 날로 넘어가면,
   그날 장사 결과가 자동으로 시뮬레이션됩니다.
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - 서늘하거나 비 오는 예보일 때는 얼음·레몬을 과하게

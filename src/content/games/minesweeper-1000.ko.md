@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: minesweeper-1000
-title: "Minesweeper 1000 마인스위퍼 1000"
+title: Minesweeper 1000 마인스위퍼 1000
 description: >-
-  Minesweeper 1000은 고전 마인스위퍼를 현대적으로 확장한 퍼즐로, 숫자 논리를 읽어 지뢰를
-  표시하고, 효율적인 테크닉으로 거대한 보드를 클리어하는 게임입니다.
+  Minesweeper 1000은 고전 마인스위퍼를 현대적으로 확장한 퍼즐로, 숫자 논리를 읽어 지뢰를 표시하고, 효율적인 테크닉으로 거대한
+  보드를 클리어하는 게임입니다.
 iframeSrc: 'https://5gsana77eub30.h5games.usercontent.goog/v/7363vv8e5mrb8/'
 thumbnail: /new-images/thumbnails/minesweeper-1000.png
 tags:
@@ -25,6 +25,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 중요합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 공략 & 진행 팁
 
 1. **핵심 패턴 익히기:** 1-2 패턴, 1-1 패턴, 가장자리의 1-2-1 패턴 등 기본 형태를

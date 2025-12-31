@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: five-nights-at-freddy-1
-title: "Five Nights at Freddy''s 1 (FNAF 1)"
+title: Five Nights at Freddy''s 1 (FNAF 1)
 description: >-
-  피자가게 야간 경비가 되어 CCTV와 전력, 문과 조명을 관리하며 애니매트로닉을
-  막아내는 공포 생존 게임입니다. 다섯 밤을 버티고 그 이후까지 살아남아 보세요.
+  피자가게 야간 경비가 되어 CCTV와 전력, 문과 조명을 관리하며 애니매트로닉을 막아내는 공포 생존 게임입니다. 다섯 밤을 버티고 그
+  이후까지 살아남아 보세요.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf1/'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-1.jpg
 tags:
@@ -37,6 +37,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 마우스로 카메라, 문, 조명 등 UI를 조작합니다.  
 - 일부 버전은 Esc로 일시 정지를 지원합니다.  
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - Foxy가 있는 Pirate Cove 카메라는 주기적으로 확인해야 하며, 커튼 사이로

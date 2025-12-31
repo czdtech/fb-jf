@@ -24,6 +24,7 @@ Find 500 Differences는 세밀한 관찰력을 시험하는 틀린 그림 찾기
 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **체계적으로 훑기**  

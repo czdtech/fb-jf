@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: minesweeper
-title: "Minesweeper 마인스위퍼"
+title: Minesweeper 마인스위퍼
 description: >-
-  Minesweeper는 각 칸의 숫자 단서를 바탕으로 숨겨진 지뢰의 위치를 추리해, 한 번도
-  밟지 않고 보드를 모두 여는 고전 싱글 플레이 퍼즐 게임입니다.
+  Minesweeper는 각 칸의 숫자 단서를 바탕으로 숨겨진 지뢰의 위치를 추리해, 한 번도 밟지 않고 보드를 모두 여는 고전 싱글 플레이
+  퍼즐 게임입니다.
 iframeSrc: 'https://freeonlinegames.github.io/games/minesweeper/'
 thumbnail: /new-images/thumbnails/minesweeper.jpg
 tags:
@@ -23,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 밟지 않고 모든 안전한 칸을 여는 것이 목표입니다. 공개된 숫자는 해당 칸 주변 8칸에
 지뢰가 몇 개 있는지를 알려 주며, 이 정보를 이용해 지뢰 칸과 안전 칸을 구분해야 합니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 1. **숫자 의미 이해하기:** 각 숫자 칸은 주변 8칸 안에 존재하는 지뢰의 개수를 정확히

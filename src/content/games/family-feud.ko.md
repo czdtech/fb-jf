@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: family-feud
-title: "Family Feud 패밀리 퓨드"
-description: >-
-  설문 결과를 맞히는 퀴즈 쇼 게임입니다. 여러 라운드와 파이널 라운드에서
-  가장 인기 있는 답을 떠올려 점수를 획득해 보세요.
+title: Family Feud 패밀리 퓨드
+description: 설문 결과를 맞히는 퀴즈 쇼 게임입니다. 여러 라운드와 파이널 라운드에서 가장 인기 있는 답을 떠올려 점수를 획득해 보세요.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/family-feud/'
 thumbnail: /new-images/thumbnails/family-feud.jpg
 tags:
@@ -40,6 +38,7 @@ Family Feud는 두 팀이 설문 조사 결과를 맞히는 형식의 퀴즈 게
 - 키보드로 답을 입력한 뒤 Enter로 제출합니다.  
 - 방향키 또는 화면 UI를 사용해 다음 질문/메뉴로 이동합니다(호스트에 따라 상이).  
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - 처음에는 구체적 단어보다 “과일, 자동차, 돈”처럼 넓은 범주의 단어부터

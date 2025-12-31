@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: make-it-meme
-title: "Make It Meme 메이크 잇 밈"
+title: Make It Meme 메이크 잇 밈
 description: >-
-  Make It Meme는 플레이어들이 밈 이미지를 보고 제한 시간 안에 자막을 붙인 뒤 서로
-  평가해 승자를 가리는 온라인 멀티플레이 파티 게임입니다.
+  Make It Meme는 플레이어들이 밈 이미지를 보고 제한 시간 안에 자막을 붙인 뒤 서로 평가해 승자를 가리는 온라인 멀티플레이 파티
+  게임입니다.
 iframeSrc: 'https://artedu1808.github.io/g177/make-it-meme/'
 thumbnail: /new-images/thumbnails/make-it-meme.jpg
 tags:
@@ -25,6 +25,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 만드는 것이 핵심입니다. 이후 모든 플레이어가 서로의 밈을 평가하고, 가장 높은 점수를
 획득한 사람이 해당 라운드의 승자가 됩니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 1. **모드 선택:** 게임에 접속한 뒤 공개 방에 참여하거나, 친구들과만 즐기고 싶다면

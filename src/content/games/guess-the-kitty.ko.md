@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: guess-the-kitty
-title: "Guess the Kitty 고양이 맞히기 퀴즈"
+title: Guess the Kitty 고양이 맞히기 퀴즈
 description: >-
-  사진과 힌트를 보고 고양이의 품종이나 특징을 맞히는 이미지 퀴즈입니다.
-  귀 모양과 무늬, 색 패턴 등을 단서로 삼아, 테마별 라운드를 클리어해 보세요.
+  사진과 힌트를 보고 고양이의 품종이나 특징을 맞히는 이미지 퀴즈입니다. 귀 모양과 무늬, 색 패턴 등을 단서로 삼아, 테마별 라운드를
+  클리어해 보세요.
 iframeSrc: 'https://webglmath.github.io/guess-the-kitty/'
 thumbnail: /new-images/thumbnails/guess-the-kitty.jpg
 tags:
@@ -39,6 +39,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 마우스/터치로 정답 보기를 선택하고, 필요한 경우 키보드로 텍스트를 입력해
   제출합니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 팁
 
 - 얼룩 고양이(tabby)의 이마에 있는 M자 무늬, 거북이껍질 무늬(tortoiseshell),

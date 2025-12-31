@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: five-nights-at-freddy-3
-title: "Five Nights at Freddy''s 3 (FNAF 3)"
-description: >-
-  시스템 관리가 핵심인 공포 게임입니다. 오디오로 스프링트랩을 유인하고,
-  카메라와 환기/시스템을 관리해 밤마다 살아남으세요.
+title: Five Nights at Freddy''s 3 (FNAF 3)
+description: '시스템 관리가 핵심인 공포 게임입니다. 오디오로 스프링트랩을 유인하고, 카메라와 환기/시스템을 관리해 밤마다 살아남으세요.'
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf3.html'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-3.jpg
 tags:
@@ -38,6 +36,7 @@ FNAF 3는 수년 후 폐점한 피자가게를 기반으로 만든 공포 체험
 
 - 마우스로 카메라 전환, 오디오 재생, 환기 봉인, 시스템 재부팅 등을 수행합니다.  
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - Springtrap은 가능한 한 사무실에서 먼 방에 묶어 두는 것이 중요합니다.

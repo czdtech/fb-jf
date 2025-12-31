@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: diwali-lights
-title: "Diwali Lights 디왈리 라이트"
+title: Diwali Lights 디왈리 라이트
 description: >-
-  인도의 축제 디왈리를 테마로 한 불빛 퍼즐 게임입니다. 디야 등불을 올바른
-  순서와 패턴으로 밝히고, 겹치지 않게 아름다운 무늬를 완성해 보세요.
+  인도의 축제 디왈리를 테마로 한 불빛 퍼즐 게임입니다. 디야 등불을 올바른 순서와 패턴으로 밝히고, 겹치지 않게 아름다운 무늬를 완성해
+  보세요.
 iframeSrc: 'https://diwalilights.h5games.usercontent.goog/v/5cddqg9lrn3kg/'
 thumbnail: /new-images/thumbnails/diwali-lights.jpg
 tags:
@@ -25,6 +25,7 @@ Diwali Lights는 디왈리 축제의 전통 등불인 디야(diya)를 켜서 무
 추가돼 난이도가 높아집니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **규칙을 먼저 이해하기**  

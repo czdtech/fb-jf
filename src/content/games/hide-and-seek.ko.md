@@ -1,10 +1,9 @@
 ---
 locale: ko
 urlstr: hide-and-seek
-title: "Hide And Seek! 술래잡기 스텔스"
+title: Hide And Seek! 술래잡기 스텔스
 description: >-
-  술래잡기를 탑다운 스텔스 액션으로 재해석한 캐주얼 게임입니다. 숨는
-  플레이어는 NPC 사이에 섞여 목표를 수행하고, 술래는 시야와 스프린트를
+  술래잡기를 탑다운 스텔스 액션으로 재해석한 캐주얼 게임입니다. 숨는 플레이어는 NPC 사이에 섞여 목표를 수행하고, 술래는 시야와 스프린트를
   활용해 제한 시간 안에 모두 찾아야 합니다.
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/YWRIxUAXudnq4HO1/rvvASMiM/239942ce1a1349f6bcc9d312b32c5c3b/
@@ -43,6 +42,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - WASD 또는 방향키로 이동합니다.
 - 파워업 사용 키는 호스트별로 다르며, 게임 내 안내를 참고하세요.
 
+<!-- i18n:section:tips -->
 ### 플레이 팁
 
 - 숨는 쪽은 NPC가 멈춰 서거나 방향을 바꾸는 리듬을 잘 관찰한 뒤, 비슷한

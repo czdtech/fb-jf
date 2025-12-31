@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: galactic-empire
-title: "Galactic Empire 갤럭틱 엠파이어"
+title: Galactic Empire 갤럭틱 엠파이어
 description: >-
-  위에서 내려다보는 우주 전략 게임입니다. 자원을 채굴하고 함선과 방어 시설을
-  건설해 함대를 편성하고, 적의 파상 공격을 막으면서 인접 구역을 점령해
-  나가야 합니다.
+  위에서 내려다보는 우주 전략 게임입니다. 자원을 채굴하고 함선과 방어 시설을 건설해 함대를 편성하고, 적의 파상 공격을 막으면서 인접 구역을
+  점령해 나가야 합니다.
 iframeSrc: 'https://g.igroutka.ru/games/164/8plhaK3IOLoFbVPB/2/galactic_empire/'
 thumbnail: /new-images/thumbnails/galactic-empire.jpg
 tags:
@@ -41,6 +40,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 마우스로 유닛과 건물을 선택하고, 건설 명령이나 이동·공격 위치를 지정합니다.
 - 생산 단축키와 카메라 이동 조작은 호스트나 버전에 따라 다를 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 팁
 
 - 조선소와 생산 건물에서는 한 번에 여러 척을 대기열에 넣어, 유닛 생산이

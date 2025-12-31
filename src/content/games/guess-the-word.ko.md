@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: guess-the-word
-title: "Guess The Word 단어 맞추기 퍼즐"
-description: >-
-  원형에 배치된 알파벳을 이어 단어를 만드는 워드 퍼즐 게임입니다. 글자 패턴과
-  교차 퍼즐 구조를 활용해 숨겨진 단어를 모두 찾아 보세요.
+title: Guess The Word 단어 맞추기 퍼즐
+description: 원형에 배치된 알파벳을 이어 단어를 만드는 워드 퍼즐 게임입니다. 글자 패턴과 교차 퍼즐 구조를 활용해 숨겨진 단어를 모두 찾아 보세요.
 iframeSrc: 'https://5e2trj00jcfog.h5games.usercontent.goog/v/1hrc6f7979nig/'
 thumbnail: /new-images/thumbnails/guess-the-word.png
 tags:
@@ -25,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 패턴 인식과 추리력이 중요한 요소가 됩니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **짧고 눈에 띄는 단어부터**  

@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: futoshiki
-title: "Futoshiki 후토시키"
+title: Futoshiki 후토시키
 description: >-
-  행·열에 같은 숫자가 한 번씩만 오도록 채우되, 칸 사이의 부등호 조건까지
-  만족시켜야 하는 논리 퍼즐입니다. 부등식 체인을 활용한 추론이 핵심입니다.
+  행·열에 같은 숫자가 한 번씩만 오도록 채우되, 칸 사이의 부등호 조건까지 만족시켜야 하는 논리 퍼즐입니다. 부등식 체인을 활용한 추론이
+  핵심입니다.
 iframeSrc: 'https://6g7i64vihegl0.h5games.usercontent.goog/v/7bd886r75d4ag/'
 thumbnail: /new-images/thumbnails/futoshiki.jpg
 tags:
@@ -25,6 +25,7 @@ Futoshiki(일본어로 “불평등”)는 스도쿠와 비슷한 라틴 스퀘�
 추론 체인이 형성됩니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **부등식 체인 활용**  

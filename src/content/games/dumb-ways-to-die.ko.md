@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: dumb-ways-to-die
-title: "Dumb Ways to Die 덤 웨이즈 투 다이"
-description: >-
-  각종 황당한 사고를 피해야 하는 빠른 반응형 미니 게임 모음입니다. 짧은
-  마이크로 게임들을 빠르게 성공시켜 캐릭터들을 지켜 보세요.
+title: Dumb Ways to Die 덤 웨이즈 투 다이
+description: 각종 황당한 사고를 피해야 하는 빠른 반응형 미니 게임 모음입니다. 짧은 마이크로 게임들을 빠르게 성공시켜 캐릭터들을 지켜 보세요.
 iframeSrc: 'https://html5.iclouds.io/dumb-ways-die/'
 thumbnail: /new-images/thumbnails/dumb-ways-to-die.jpg
 tags:
@@ -40,6 +38,7 @@ Dumb Ways to Die는 안전 캠페인으로 유명해진 캐릭터들을 주인�
 - 일부 호스트에서는 방향키, 스페이스 바 등 키보드 조작이 필요한 미니게임도
   포함될 수 있습니다.  
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - 프롬프트를 먼저 읽고 움직이세요. 본능적으로 잘못된 방향으로 입력해 실패하는

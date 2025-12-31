@@ -24,6 +24,7 @@ Emoji With Friends는 표정이 풍부한 이모지 타일을 이용해 빠른 �
 번갈아 즐기기 좋습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **패턴 먼저 훑어보기**  

@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: crossword-puzzles
-title: "Crossword Puzzles 테마 십자말 모음"
+title: Crossword Puzzles 테마 십자말 모음
 description: >-
-  다양한 테마가 적용된 십자말 퍼즐을 즐길 수 있는 Crossword Puzzles입니다.
-  가로·세로 힌트를 풀어 격자를 완성하고, 퍼즐마다 숨겨진 공통 주제를 찾아보세요.
+  다양한 테마가 적용된 십자말 퍼즐을 즐길 수 있는 Crossword Puzzles입니다. 가로·세로 힌트를 풀어 격자를 완성하고, 퍼즐마다
+  숨겨진 공통 주제를 찾아보세요.
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/best-free-themed-puzzles/
 thumbnail: /new-images/thumbnails/crossword-puzzles.jpg
@@ -41,6 +41,7 @@ Crossword Puzzles는 미국식 규칙을 따르는 테마형 크로스워드를 
 - Backspace: 이전 글자 삭제  
 - Enter / Tab: 방향 전환 또는 다음 힌트로 이동(사이트에 따라 동작이 다를 수 있음)  
 
+<!-- i18n:section:tips -->
 ### 팁 & 전략
 
 - 빈칸 채우기형 힌트, 복수형·시제 표시가 있는 힌트, 흔한 약어부터 시작해 쉽게

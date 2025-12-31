@@ -3,8 +3,8 @@ locale: ko
 urlstr: flames-fortune
 title: Flames & Fortune 플레임즈 & 포춘
 description: >-
-  Flames & Fortune는 전술적인 카드 스타일 배틀 게임입니다. 손패와 템포를 관리하며
-  매 턴 최적의 선택을 통해 상대를 압도해 보세요.
+  Flames & Fortune는 전술적인 카드 스타일 배틀 게임입니다. 손패와 템포를 관리하며 매 턴 최적의 선택을 통해 상대를 압도해
+  보세요.
 iframeSrc: 'https://0e8d16hkgti30.h5games.usercontent.goog/v/00r0qn2t79f3g/'
 thumbnail: /new-images/thumbnails/flames-fortune.jpg
 tags:
@@ -23,6 +23,7 @@ Flames & Fortune은 카드 게임처럼 턴마다 선택을 쌓아 가는 컴팩
 템포를 뒤집는 것이 핵심입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **자원 곡선 계획:** 한 턴의 자원을 가능한 한 깔끔하게 쓰되, 무리해서 가치가 낮은 선택을 하지 마세요.

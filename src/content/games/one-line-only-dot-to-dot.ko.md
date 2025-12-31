@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: one-line-only-dot-to-dot
-title: "One line only: dot to dot 원스트로크 점 잇기"
+title: 'One line only: dot to dot 원스트로크 점 잇기'
 description: >-
-  One line only: dot to dot는 점과 선분을 한 번의 끊기지 않는 선으로 모두 지나가야 하는
-  일필선 퍼즐로, 되돌아 그릴 수 없다는 제약 속에서 경로를 설계하는 게임입니다.
+  One line only: dot to dot는 점과 선분을 한 번의 끊기지 않는 선으로 모두 지나가야 하는 일필선 퍼즐로, 되돌아 그릴 수
+  없다는 제약 속에서 경로를 설계하는 게임입니다.
 iframeSrc: 'https://7n3sql2bqn9eg.h5games.usercontent.goog/v/2br4t62jndh88/'
 thumbnail: /new-images/thumbnails/one-line-only-dot-to-dot.jpg
 tags:
@@ -24,6 +24,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 이용한 트릭이 섞여 있어, 치밀한 경로 계획과 되돌리기 판단이 중요합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 공략 & 플레이 팁
 
 1. **차수(연결 수) 확인:** 각 점에 연결된 선분의 개수를 세어 홀수 차수 점을 찾으세요.

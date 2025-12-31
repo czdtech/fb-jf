@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: merge-bistro
-title: "Merge Bistro 머지 비스트로"
+title: Merge Bistro 머지 비스트로
 description: >-
-  Merge Bistro는 재료를 합쳐 높은 등급의 식재료를 만들고, 주문을 처리해 작은 비스트로를
-  키워 나가는 아기자기한 머지 경영 퍼즐 게임입니다.
+  Merge Bistro는 재료를 합쳐 높은 등급의 식재료를 만들고, 주문을 처리해 작은 비스트로를 키워 나가는 아기자기한 머지 경영 퍼즐
+  게임입니다.
 iframeSrc: 'https://0f5mbl2u9ont8.h5games.usercontent.goog/v/50p3a8ekgfdk8/'
 thumbnail: /new-images/thumbnails/merge-bistro.png
 tags:
@@ -26,6 +26,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 핵심입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 공략 & 진행 팁
 
 1. **주문 대기열 읽기:** 곧 들어올 주문을 미리 확인하고 필요한 재료를 준비해 두면,

@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: elite-chess
-title: "Elite Chess 엘리트 체스"
-description: >-
-  탄탄한 체스 기본기를 다지는 데 초점을 맞춘 체스 게임입니다. 정석적인
-  오프닝과 깔끔한 전술, 실전적인 엔드게임 운영을 연습해 보세요.
+title: Elite Chess 엘리트 체스
+description: '탄탄한 체스 기본기를 다지는 데 초점을 맞춘 체스 게임입니다. 정석적인 오프닝과 깔끔한 전술, 실전적인 엔드게임 운영을 연습해 보세요.'
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
 thumbnail: /new-images/thumbnails/elite-chess.png
 tags:
@@ -27,6 +25,7 @@ Elite Chess는 난이도를 조절할 수 있는 AI나 로컬 상대와 대국�
 퍼즐과 단계별 난이도 조정 기능을 통해 계산력과 패턴 인식을 꾸준히 쌓을 수 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **오프닝 원칙 지키기**  

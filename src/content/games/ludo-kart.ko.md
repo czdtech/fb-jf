@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: ludo-kart
-title: "Ludo Kart 루도 카트"
-description: >-
-  Ludo Kart는 주사위를 굴려 말을 움직이고, 상대보다 먼저 모든 말을 집까지 보내는 것을
-  목표로 하는 가벼운 레이싱 보드게임입니다.
+title: Ludo Kart 루도 카트
+description: 'Ludo Kart는 주사위를 굴려 말을 움직이고, 상대보다 먼저 모든 말을 집까지 보내는 것을 목표로 하는 가벼운 레이싱 보드게임입니다.'
 iframeSrc: 'https://35q41h2gp6dd8.h5games.usercontent.goog/v/6q7tggnmscsj8/'
 thumbnail: /new-images/thumbnails/ludo-kart.png
 tags:
@@ -25,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 돌려보내는 캡처, 운 좋은 주사위 눈이 어우러져 판마다 큰 역전과 반전이 만들어집니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 공략 & 플레이 팁
 
 1. 말 분산: 한 말만 멀리 보내기보다 여러 말을 고르게 전진시켜, 한 번 잡혔다고 해서

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: hexamind
-title: "HexaMind 헥사마인드 논리 퍼즐"
+title: HexaMind 헥사마인드 논리 퍼즐
 description: >-
-  벌집 모양 육각 격자 위에서 인접 규칙을 만족시키도록 타일을 배치하는
-  논리 퍼즐 게임입니다. 색·숫자·기호 제약을 모두 만족시키며 전체 보드를
-  완성해 보세요.
+  벌집 모양 육각 격자 위에서 인접 규칙을 만족시키도록 타일을 배치하는 논리 퍼즐 게임입니다. 색·숫자·기호 제약을 모두 만족시키며 전체
+  보드를 완성해 보세요.
 iframeSrc: 'https://518ndvi54l1n0.h5games.usercontent.goog/v/608gefgjbkc88/'
 thumbnail: /new-images/thumbnails/hexamind.png
 tags:
@@ -26,6 +25,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 특징입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **제약이 많은 칸부터 시작**  

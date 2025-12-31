@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: google-minesweeper
-title: "Google Minesweeper 구글 지뢰찾기"
+title: Google Minesweeper 구글 지뢰찾기
 description: >-
-  숫자 단서를 바탕으로 안전한 칸을 추리해 지뢰를 피하며 판을 전부 여는 고전
-  논리 퍼즐입니다. 깃발로 지뢰 위치를 표시하고, 한 번도 폭발시키지 않고
-  전체 격자를 클리어해 보세요.
+  숫자 단서를 바탕으로 안전한 칸을 추리해 지뢰를 피하며 판을 전부 여는 고전 논리 퍼즐입니다. 깃발로 지뢰 위치를 표시하고, 한 번도
+  폭발시키지 않고 전체 격자를 클리어해 보세요.
 iframeSrc: 'https://www.minesweepergoogle.com/gameapp.html'
 thumbnail: /new-images/thumbnails/google-minesweeper.jpg
 tags:
@@ -43,6 +42,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 일부 호스트에서는 숫자 칸을 더블클릭해 주변을 빠르게 여는 단축 조작을
   지원합니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 팁
 
 - 자신만의 표시 규칙(확정 지뢰, 의심 지뢰 등)을 일관되게 사용하면 깃발

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: minecraft
-title: "Minecraft 마인크래프트"
+title: Minecraft 마인크래프트
 description: >-
-  Minecraft는 블록으로 이루어진 3D 세계를 탐험하며 자원을 채집하고, 도구를 제작하고,
-  건축과 모험을 즐길 수 있는 샌드박스 게임입니다. 정해진 목표 없이 자유롭게 놀 수
-  있는 높은 자유도가 특징입니다.
+  Minecraft는 블록으로 이루어진 3D 세계를 탐험하며 자원을 채집하고, 도구를 제작하고, 건축과 모험을 즐길 수 있는 샌드박스
+  게임입니다. 정해진 목표 없이 자유롭게 놀 수 있는 높은 자유도가 특징입니다.
 iframeSrc: >-
   https://app-167027.games.s3.yandex.net/167027/tnn3wq0qkjwhvr1271tszdhl82lm97e6/index.html
 thumbnail: /new-images/thumbnails/minecraft.jpg
@@ -28,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 대표적인 모드로는 서바이벌 모드, 크리에이티브 모드, 어드벤처 모드, 관전자 모드가
 있습니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 1. **자원 수집:** 나무를 베고, 광석을 캐고, 농사를 짓는 등 건물이나 도구 제작에 필요한

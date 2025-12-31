@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: daily-sudoku
-title: "Daily Sudoku 데일리 스도쿠"
+title: Daily Sudoku 데일리 스도쿠
 description: >-
-  Daily Sudoku는 매일 새로운 9×9 스도쿠 퍼즐을 제공하는 논리 퍼즐 게임입니다. 가로줄,
-  세로줄, 각 3×3 박스에 1~9 숫자를 한 번씩만 배치하며, 추론으로 정답을 찾아가는
-  정통 스도쿠를 즐겨 보세요.
+  Daily Sudoku는 매일 새로운 9×9 스도쿠 퍼즐을 제공하는 논리 퍼즐 게임입니다. 가로줄, 세로줄, 각 3×3 박스에 1~9 숫자를
+  한 번씩만 배치하며, 추론으로 정답을 찾아가는 정통 스도쿠를 즐겨 보세요.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-daily-sudoku/'
 thumbnail: /new-images/thumbnails/daily-sudoku.jpg
 tags:
@@ -40,6 +39,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - Shift/우클릭 등으로 메모 모드를 전환해 후보 숫자를 기록하는 버전이 많습니다.
 - 실행 취소/다시 실행, 정답 체크 기능 등은 사이트/버전에 따라 제공됩니다.
 
+<!-- i18n:section:tips -->
 ### 팁 & 전략
 
 - 각 행/열/박스를 훑어보며 확정 가능한 싱글 칸부터 채워 나가세요.

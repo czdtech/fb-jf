@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: learn-to-fly
-title: "Learn To Fly 펭귄 비행 업그레이드"
+title: Learn To Fly 펭귄 비행 업그레이드
 description: >-
-  펭귄을 멀리 날려 보내는 거리 비행 게임 'Learn To Fly' 가이드입니다.
-  발사 각도와 자세를 조절해 비행 거리를 늘리고, 벌어들인 돈으로
-  글라이더와 로켓을 업그레이드하세요.
+  펭귄을 멀리 날려 보내는 거리 비행 게임 'Learn To Fly' 가이드입니다. 발사 각도와 자세를 조절해 비행 거리를 늘리고, 벌어들인
+  돈으로 글라이더와 로켓을 업그레이드하세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/learn-to-fly.html'
 thumbnail: /new-images/thumbnails/learn-to-fly.jpg
 tags:
@@ -43,6 +42,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **부스터**: 스페이스바 또는 지정된 키로 로켓/부스터를
   사용합니다(호스트에 따라 다름).
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - 살짝 내려찍는 얕은 다이브로 속도를 다시 올리고,

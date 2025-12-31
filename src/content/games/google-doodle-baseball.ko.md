@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: google-doodle-baseball
-title: "Google Doodle Baseball 구글 두들 야구"
+title: Google Doodle Baseball 구글 두들 야구
 description: >-
-  구글 독립기념일 두들에서 가져온 간단한 타격형 야구 게임입니다. 투구 타이밍에
-  맞춰 스윙하고 빈 공간을 노려 안타와 홈런을 쌓으며, 아웃되기 전에 최대한 많은
-  점수를 올려 보세요.
+  구글 독립기념일 두들에서 가져온 간단한 타격형 야구 게임입니다. 투구 타이밍에 맞춰 스윙하고 빈 공간을 노려 안타와 홈런을 쌓으며, 아웃되기
+  전에 최대한 많은 점수를 올려 보세요.
 iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
 thumbnail: /new-images/thumbnails/google-doodle-baseball.jpg
 tags:
@@ -40,6 +39,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 - 탭/클릭/스페이스바 중 하나를 눌러 배트를 휘두릅니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 팁
 
 - 미리 스윙 타이밍을 정해 두기보다는, 투수가 공을 놓는 순간과 공의 위치를

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: gangsters
-title: "Gangsters 물리 래그돌 슈팅"
+title: Gangsters 물리 래그돌 슈팅
 description: >-
-  옥상 위에서 두 명의 스틱맨 갱스터가 튕기고 미끄러지며 싸우는 물리 기반 대전
-  게임입니다. 점프와 사격 타이밍, 총 반동을 이용해 상대를 떨어뜨리면 라운드를
-  승리할 수 있습니다.
+  옥상 위에서 두 명의 스틱맨 갱스터가 튕기고 미끄러지며 싸우는 물리 기반 대전 게임입니다. 점프와 사격 타이밍, 총 반동을 이용해 상대를
+  떨어뜨리면 라운드를 승리할 수 있습니다.
 iframeSrc: >-
   https://app-185146.games.s3.yandex.net/185146/4mtxwijatlm9neect542qv9nbcqetm7u/index.html
 thumbnail: /new-images/thumbnails/gangsters.jpg
@@ -42,6 +41,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 로컬 2인용 모드에서는 한 키보드에서 두 플레이어가 나란히 앉아 각자의 버튼으로
   조작합니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 팁
 
 - 짧은 점프는 에임을 안정시키면서 약간의 위치 조정만 하고 싶을 때 유용합니다.

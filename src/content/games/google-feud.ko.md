@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: google-feud
-title: "Google Feud 구글 퓨드 퀴즈"
+title: Google Feud 구글 퓨드 퀴즈
 description: >-
-  검색 자동완성 결과를 맞히는 설문 스타일 퀴즈 게임입니다. 제시된 검색어
-  앞부분을 보고 사람들이 실제로 많이 검색한 뒷부분을 추측해, 세 번 틀리기
-  전에 최대한 많은 정답을 맞혀 보세요.
+  검색 자동완성 결과를 맞히는 설문 스타일 퀴즈 게임입니다. 제시된 검색어 앞부분을 보고 사람들이 실제로 많이 검색한 뒷부분을 추측해, 세 번
+  틀리기 전에 최대한 많은 정답을 맞혀 보세요.
 iframeSrc: 'https://mac-web.github.io/macvg/projects/google-feud/game.html'
 thumbnail: /new-images/thumbnails/google-feud.jpg
 tags:
@@ -42,6 +41,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 키보드로 답안을 입력하고, Enter 키를 눌러 제출합니다.
 - 카테고리 선택은 화면의 버튼을 클릭/탭해 진행합니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 팁
 
 - 실제 검색 자동완성처럼, 자주 쓰이는 철자, 동의어, 관용구를 떠올려 보세요.

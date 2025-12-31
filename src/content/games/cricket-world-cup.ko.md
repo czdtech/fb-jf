@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: cricket-world-cup
-title: "Cricket World Cup 크리켓 월드컵"
+title: Cricket World Cup 크리켓 월드컵
 description: >-
-  크리켓 월드컵 분위기 속에서 타격 상황만을 추려낸 Cricket World Cup입니다.
-  라인과 길이를 읽고, 땅볼과 로프트 샷을 적절히 섞어 제한 오버 안에 목표 스코어를
-  추격해 보세요.
+  크리켓 월드컵 분위기 속에서 타격 상황만을 추려낸 Cricket World Cup입니다. 라인과 길이를 읽고, 땅볼과 로프트 샷을 적절히
+  섞어 제한 오버 안에 목표 스코어를 추격해 보세요.
 iframeSrc: 'https://5ret6v2c94q4g.h5games.usercontent.goog/v/09j66svc50570/'
 thumbnail: /new-images/thumbnails/cricket-world-cup.png
 tags:
@@ -25,6 +24,7 @@ Cricket World Cup은 실제 월드컵 경기처럼 긴 인닝 전체를 다루�
 설정된 목표 점수를 돌파해야 합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **라인에 따른 샷 선택**  

@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: diner-dash
-title: "Diner Dash 다이너 대시"
+title: Diner Dash 다이너 대시
 description: >-
-  손님을 안내하고 주문을 받고 서빙하며 테이블을 치우는 타임 매니지먼트 게임입니다.
-  빠르고 효율적인 동선으로 손님 마음을 지켜 레벨을 클리어해 보세요.
+  손님을 안내하고 주문을 받고 서빙하며 테이블을 치우는 타임 매니지먼트 게임입니다. 빠르고 효율적인 동선으로 손님 마음을 지켜 레벨을 클리어해
+  보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/diner-dash.html'
 thumbnail: /new-images/thumbnails/diner-dash.jpg
 tags:
@@ -42,6 +42,7 @@ Diner Dash는 바쁜 식당을 운영하며 시간을 관리하는 타임 매니
 - 일부 버전에서는 손님이나 접시를 드래그 앤 드롭으로 자리나 카운터로 옮길 수
   있습니다.  
 
+<!-- i18n:section:tips -->
 ### 팁 & 전략
 
 - 같은 종류의 행동을 연속으로 처리해 콤보를 유지하면 점수가 크게 올라갑니다.  

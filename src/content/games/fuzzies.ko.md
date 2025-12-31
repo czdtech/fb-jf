@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: fuzzies
-title: "Fuzzies 퍼지즈 버블 슈터"
+title: Fuzzies 퍼지즈 버블 슈터
 description: >-
-  귀여운 털뭉치 버블을 쏴서 같은 색을 3개 이상 맞춰 없애는 컬러 매칭 버블
-  슈터입니다. 천장이 서서히 내려오기 전에 연쇄를 터뜨리고 부스터를 활용해
-  화면을 정리하세요.
+  귀여운 털뭉치 버블을 쏴서 같은 색을 3개 이상 맞춰 없애는 컬러 매칭 버블 슈터입니다. 천장이 서서히 내려오기 전에 연쇄를 터뜨리고
+  부스터를 활용해 화면을 정리하세요.
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=662&original_ref=
 thumbnail: /new-images/thumbnails/fuzzies.jpg
@@ -41,6 +40,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 지원되는 버전에서는 대기 중인 다음 버블을 탭해 현재 버블과 색을 교체할 수
   있습니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 팁
 
 - 높은 위치의 연결점(앵커)에 붙은 버블을 노리면, 그 아래에 매달린 버블을

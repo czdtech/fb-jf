@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: moving-truck
-title: "Moving Truck 무빙 트럭"
-description: >-
-  Moving Truck은 다양한 모양과 크기의 짐을 이삿 트럭에 안정적으로 적재해 목적지까지
-  무사히 운반해야 하는 물리 퍼즐 게임입니다.
+title: Moving Truck 무빙 트럭
+description: Moving Truck은 다양한 모양과 크기의 짐을 이삿 트럭에 안정적으로 적재해 목적지까지 무사히 운반해야 하는 물리 퍼즐 게임입니다.
 iframeSrc: 'https://g.igroutka.ru/games/164/JgHSvhdBMa5pf4WZ/moving_truck/'
 thumbnail: /new-images/thumbnails/moving-truck.jpg
 tags:
@@ -23,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 크기와 모양의 가구, 상자 등을 트럭 안에 전략적으로 배치해, 이동 중에도 짐이 넘어지거나
 떨어지지 않도록 해야 합니다. 공간 감각과 계획 능력을 동시에 시험하는 게임입니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 1. **물건 모양 관찰:** 옮겨야 할 짐의 크기와 형태를 잘 살펴보고, 어떤 방식으로 포개고

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: hole-io
-title: "Hole io 홀.io 블랙홀 배틀"
+title: Hole io 홀.io 블랙홀 배틀
 description: >-
-  도시 곳곳의 물체를 빨아들이며 커지는 블랙홀.io 게임입니다. 작은 물체부터
-  차·건물까지 삼키며 몸집을 키우고, 다른 플레이어보다 더 많은 점수를
-  얻거나 직접 집어삼켜 탈락시키세요.
+  도시 곳곳의 물체를 빨아들이며 커지는 블랙홀.io 게임입니다. 작은 물체부터 차·건물까지 삼키며 몸집을 키우고, 다른 플레이어보다 더 많은
+  점수를 얻거나 직접 집어삼켜 탈락시키세요.
 iframeSrc: 'https://holeio.com/'
 thumbnail: /new-images/thumbnails/hole-io.jpg
 tags:
@@ -41,6 +40,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 마우스 드래그나 터치, 혹은 WASD 키로 블랙홀을 조종합니다.
 - 세부 모드와 타이머 규칙은 호스트에 따라 달라질 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 팁
 
 - 자신보다 훨씬 큰 블랙홀은 피하고, 넓은 도로를 이용해 도망치면서 성장을

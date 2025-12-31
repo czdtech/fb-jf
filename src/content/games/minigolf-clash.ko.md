@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: minigolf-clash
-title: "Minigolf Clash 미니골프 클래시"
+title: Minigolf Clash 미니골프 클래시
 description: >-
-  Minigolf Clash는 경사와 뱅크 샷, 움직이는 장애물이 가득한 캐주얼 미니 골프 게임으로,
-  퍼팅 각도와 세기를 읽어 파를 지키거나 멋진 트릭 샷을 노릴 수 있습니다.
+  Minigolf Clash는 경사와 뱅크 샷, 움직이는 장애물이 가득한 캐주얼 미니 골프 게임으로, 퍼팅 각도와 세기를 읽어 파를 지키거나
+  멋진 트릭 샷을 노릴 수 있습니다.
 iframeSrc: 'https://7a8e5urbht3f8.h5games.usercontent.goog/v/2ptudqjkva98g/'
 thumbnail: /new-images/thumbnails/minigolf-clash.png
 tags:
@@ -24,6 +24,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 트릭 샷 루트를 개척하면 더 낮은 스코어에 도전할 수 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 공략 & 플레이 팁
 
 1. **페이스 컨트롤:** 홀컵 주변에서는 부드럽게 굴려 립아웃(홀을 빙 둘러 나가는 상황)을

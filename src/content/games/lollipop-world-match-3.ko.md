@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: lollipop-world-match-3
-title: "Lollipop World : match 3 롤리팝 월드 매치3 퍼즐"
+title: 'Lollipop World : match 3 롤리팝 월드 매치3 퍼즐'
 description: >-
-  Lollipop World: Match 3는 파워업을 조합하고 각종 장애물을 부수며, 제한된 이동 수
-  안에 스테이지 목표를 달성해야 하는 캔디 매치‑3 퍼즐 게임입니다.
+  Lollipop World: Match 3는 파워업을 조합하고 각종 장애물을 부수며, 제한된 이동 수 안에 스테이지 목표를 달성해야 하는
+  캔디 매치‑3 퍼즐 게임입니다.
 iframeSrc: 'https://4oij9suhguc58.h5games.usercontent.goog/v/1osssadggdrao/'
 thumbnail: /new-images/thumbnails/lollipop-world-match-3.jpg
 tags:
@@ -25,6 +25,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 파워업을 서로 합쳐 사용하는 조합 플레이는 블록이 빽빽한 후반 보드에서 특히 중요합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 공략 & 플레이 팁
 
 1. 목표 우선: 점수만 노리기보다 먼저 장애물과 수집 대상 블록을 처리해 스테이지 목표부터 맞추세요.

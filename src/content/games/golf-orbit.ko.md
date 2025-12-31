@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: golf-orbit
-title: "Golf Orbit 골프 오빗"
+title: Golf Orbit 골프 오빗
 description: >-
-  한 번의 탭으로 공을 쏘아 올려 행성 중력을 타고 날려 보내는 골프 게임입니다.
-  발사 각도와 스핀을 조절해 지형과 중력을 활용하고, 멀리 날릴수록 높은
-  기록을 노릴 수 있습니다.
+  한 번의 탭으로 공을 쏘아 올려 행성 중력을 타고 날려 보내는 골프 게임입니다. 발사 각도와 스핀을 조절해 지형과 중력을 활용하고, 멀리
+  날릴수록 높은 기록을 노릴 수 있습니다.
 iframeSrc: 'https://7e0r297sgk0j0.h5games.usercontent.goog/v/1976bdao4gtf0/'
 thumbnail: /new-images/thumbnails/golf-orbit.png
 tags:
@@ -27,6 +26,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 스치고, 여러 번의 바운스를 연쇄시켜 숨겨진 목표 지점까지 도달합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **각도 관리(영문: Angle Discipline)**  

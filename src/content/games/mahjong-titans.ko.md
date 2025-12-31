@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: mahjong-titans
-title: "Mahjong Titans 마작 타이탄즈"
+title: Mahjong Titans 마작 타이탄즈
 description: >-
-  Mahjong Titans는 여러 층으로 쌓인 마작 타일에서 같은 패를 짝지어 제거하며 보드를
-  비우는 솔리테어 퍼즐입니다. 막힌 구역을 피해 수를 풀어나가는 전략이 중요합니다.
+  Mahjong Titans는 여러 층으로 쌓인 마작 타일에서 같은 패를 짝지어 제거하며 보드를 비우는 솔리테어 퍼즐입니다. 막힌 구역을 피해
+  수를 풀어나가는 전략이 중요합니다.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/mahjong-titans.html'
 thumbnail: /new-images/thumbnails/mahjong-titans.jpg
 tags:
@@ -37,6 +37,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 마우스나 터치로 타일을 선택해 쌍을 만들고 제거합니다. 힌트/되돌리기 버튼의 위치와
   사용 가능 여부는 호스트 사이트에 따라 달라질 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - 한 번의 매치로 여러 타일이 새로 드러나는 쌍을 우선적으로 제거하세요.

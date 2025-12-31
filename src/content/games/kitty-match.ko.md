@@ -28,6 +28,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 진행해 나갈 수 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1. **대형 매치 우선**  

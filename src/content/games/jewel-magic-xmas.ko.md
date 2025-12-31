@@ -29,6 +29,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 만드는 것이 관건입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1. **크리스마스 파워업 만들기**  

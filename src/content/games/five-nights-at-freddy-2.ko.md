@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: five-nights-at-freddy-2
-title: "Five Nights at Freddy's 2 (FNAF 2) 파이브 나이츠 앳 프레디 2"
+title: Five Nights at Freddy's 2 (FNAF 2) 파이브 나이츠 앳 프레디 2
 description: >-
-  Five Nights at Freddy's 2는 전작과 달리 문 대신 Freddy 가면과 오르골을 관리해야 하는
-  공포 게임으로, 복수의 애니매트로닉을 주시하면서 Puppet의 뮤직 박스를 감고, 손전등과
-  마스크를 적절한 타이밍에 사용해 밤을 버텨야 합니다.
+  Five Nights at Freddy's 2는 전작과 달리 문 대신 Freddy 가면과 오르골을 관리해야 하는 공포 게임으로, 복수의
+  애니매트로닉을 주시하면서 Puppet의 뮤직 박스를 감고, 손전등과 마스크를 적절한 타이밍에 사용해 밤을 버텨야 합니다.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-2.jpg
 tags:
@@ -40,6 +39,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 마우스와 UI로 카메라와 마스크를 조작합니다.
 - 손전등은 Ctrl/스페이스 등 호스트 환경에 따라 다른 키를 사용합니다.
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - 기본 루프를 만들세요: 카메라로 박스 감기 → 카메라 내리기 → 복도 손전등 체크 →

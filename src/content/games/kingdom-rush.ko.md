@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: kingdom-rush
-title: "Kingdom Rush 킹덤 러시"
+title: Kingdom Rush 킹덤 러시
 description: >-
-  타워 디펜스 대표작 'Kingdom Rush' 가이드입니다. 네 가지 기본 타워와
-  히어로·지원 스킬을 활용해 길목을 지키는 핵심 전략을 정리했습니다.
+  타워 디펜스 대표작 'Kingdom Rush' 가이드입니다. 네 가지 기본 타워와 히어로·지원 스킬을 활용해 길목을 지키는 핵심 전략을
+  정리했습니다.
 iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush.html'
 thumbnail: /new-images/thumbnails/kingdom-rush.jpg
 tags:
@@ -49,6 +49,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **스킬 사용**: 전역 스킬 아이콘을 눌러 원하는 위치에
   사용합니다.
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - 초반에는 다수의 약한 타워보다, 핵심 위치에 세운

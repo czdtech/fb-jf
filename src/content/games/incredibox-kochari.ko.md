@@ -30,6 +30,7 @@ Incredibox Kochari는 Incredibox 특유의 음악 만들기 시스템에
 오마주에 가까운 음악 체험**을 제공하는 모드가 되었습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략
 
 *   **핵심 포인트**

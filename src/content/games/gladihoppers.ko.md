@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: gladihoppers
-title: "Gladihoppers 물리 검투사 배틀"
+title: Gladihoppers 물리 검투사 배틀
 description: >-
-  튀어 오르는 물리 움직임과 무기 전투가 결합된 2D 검투사 액션 게임입니다.
-  장비를 커스터마이즈하고, 돌진과 패링 타이밍을 맞춰 1대1 결투와 여러 모드의
-  아레나를 정복해 보세요.
+  튀어 오르는 물리 움직임과 무기 전투가 결합된 2D 검투사 액션 게임입니다. 장비를 커스터마이즈하고, 돌진과 패링 타이밍을 맞춰 1대1
+  결투와 여러 모드의 아레나를 정복해 보세요.
 iframeSrc: 'https://m.igroutka.ru/g-1/113/Gladihoppers/'
 thumbnail: /new-images/thumbnails/gladihoppers.jpg
 tags:
@@ -42,6 +41,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
   (구체적인 키 배치는 호스트에 따라 다를 수 있습니다).
 - 일부 버전에서는 한 기기에서 즐기는 로컬 대전 모드도 지원됩니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 팁
 
 - 창이나 파이크 같은 긴 무기는 거리 유지에 강하고, 검 계열 무기는 근거리

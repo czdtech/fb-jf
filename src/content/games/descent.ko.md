@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: descent
-title: "Descent 디센트"
+title: Descent 디센트
 description: >-
-  수직 통로를 떨어지며 벽을 타고 점프해 내려가는 아케이드 스킬 게임 Descent입니다.
-  가시와 함정을 피해 타이밍 좋게 벽을 옮겨 다니며 아래로 내려가 보세요.
+  수직 통로를 떨어지며 벽을 타고 점프해 내려가는 아케이드 스킬 게임 Descent입니다. 가시와 함정을 피해 타이밍 좋게 벽을 옮겨 다니며
+  아래로 내려가 보세요.
 iframeSrc: 'https://g2.igroutka.ru/games/17/4tWRaCD7AOzxbTsE/descent/'
 thumbnail: /new-images/thumbnails/descent.jpg
 tags:
@@ -41,6 +41,7 @@ Descent는 단순한 조작으로 즐기는 미니멀한 수직 진행형 스킬
 - 일부 버전에서는 ←/→ 혹은 A/D 키로 해당 방향의 벽에서 점프하는 방식 등,
   호스트에 따라 조작 방식이 조금씩 달라질 수 있습니다.  
 
+<!-- i18n:section:tips -->
 ### 팁 & 전략
 
 - **서두르지 말기**: 조금 기다렸다 점프하는 것만으로도 함정의 타이밍이 어긋나

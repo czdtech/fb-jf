@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: haru-pandas-slide
-title: "Haru Pandas Slide 판다 슬라이드 퍼즐"
+title: Haru Pandas Slide 판다 슬라이드 퍼즐
 description: >-
-  귀여운 판다 그림을 다시 맞추는 슬라이드 퍼즐 게임입니다. 타일을 밀어 행과
-  열을 정렬해, 최소 이동으로 원래의 판다 이미지를 완성해 보세요.
+  귀여운 판다 그림을 다시 맞추는 슬라이드 퍼즐 게임입니다. 타일을 밀어 행과 열을 정렬해, 최소 이동으로 원래의 판다 이미지를 완성해
+  보세요.
 iframeSrc: 'https://0vc1kolll32h8.h5games.usercontent.goog/v/0t898ulinrkag/'
 thumbnail: /new-images/thumbnails/haru-pandas-slide.png
 tags:
@@ -25,6 +25,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 특정 타일은 고정되어 움직일 수 없어 경로 설계가 더 까다로워집니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **테두리부터 맞추기**  

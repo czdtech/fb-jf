@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: hobo
-title: "Hobo 호보 난투 액션"
+title: Hobo 호보 난투 액션
 description: >-
-  과장된 폭력과 막 나가는 유머로 유명한 횡스크롤 벨트스크롤 액션 게임입니다.
-  거리마다 등장하는 적들을 즉흥 무기와 콤보, 기상천외한 스페셜 공격으로
-  쓰러뜨리며 스테이지를 돌파하세요.
+  과장된 폭력과 막 나가는 유머로 유명한 횡스크롤 벨트스크롤 액션 게임입니다. 거리마다 등장하는 적들을 즉흥 무기와 콤보, 기상천외한 스페셜
+  공격으로 쓰러뜨리며 스테이지를 돌파하세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/hobo.html'
 thumbnail: /new-images/thumbnails/hobo.jpg
 tags:
@@ -43,6 +42,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 새로 해금된 콤보 입력은 게임 내 안내(스플래시 화면)에 표시되며, 바로
   연습해 두는 것이 좋습니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 팁
 
 - 적들이 양쪽에서 몰려들지 않도록 항상 화면 한쪽에 적을 몰아두고 싸우세요.

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: match-puzzle-house
-title: "Match Puzzle House 매치 퍼즐 하우스"
+title: Match Puzzle House 매치 퍼즐 하우스
 description: >-
-  Match Puzzle House는 집 리모델링 요소가 결합된 매치-3 퍼즐 게임으로, 스테이지 목표를
-  달성해 별을 모으고 다양한 방을 꾸밀 수 있습니다. 부스터를 현명하게 사용해 어려운
-  퍼즐을 돌파해 보세요.
+  Match Puzzle House는 집 리모델링 요소가 결합된 매치-3 퍼즐 게임으로, 스테이지 목표를 달성해 별을 모으고 다양한 방을 꾸밀
+  수 있습니다. 부스터를 현명하게 사용해 어려운 퍼즐을 돌파해 보세요.
 iframeSrc: 'https://7cp83ss0h08p0.h5games.usercontent.goog/v/49v2bsl4scjdo/'
 thumbnail: /new-images/thumbnails/match-puzzle-house.png
 tags:
@@ -25,6 +24,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 각종 방해 요소가 등장해, 부스터와 특수 블록 조합을 잘 활용해야 합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 공략 & 진행 팁
 
 1. **중앙부터 열기:** 보드 중앙을 먼저 뚫어야 콤보를 만들 공간이 넉넉해집니다.

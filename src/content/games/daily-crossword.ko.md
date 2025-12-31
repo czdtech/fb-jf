@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: daily-crossword
-title: "Daily Crossword 데일리 크로스워드"
+title: Daily Crossword 데일리 크로스워드
 description: >-
-  매일 새로운 십자말 퍼즐을 풀 수 있는 Daily Crossword입니다. 가로·세로 힌트를
-  이용해 격자를 채우고, 교차 글자를 통해 답을 확인해 보세요.
+  매일 새로운 십자말 퍼즐을 풀 수 있는 Daily Crossword입니다. 가로·세로 힌트를 이용해 격자를 채우고, 교차 글자를 통해 답을
+  확인해 보세요.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword/'
 thumbnail: /new-images/thumbnails/daily-crossword.jpg
 tags:
@@ -41,6 +41,7 @@ Daily Crossword는 미국식 규칙을 따르는 일간 크로스워드 퍼즐�
 - Backspace: 직전 글자 삭제  
 - Enter / Tab: 방향 전환 또는 다음 힌트로 이동(사이트에 따라 동작이 다를 수 있음)  
 
+<!-- i18n:section:tips -->
 ### 팁 & 전략
 
 - 먼저 짧고 쉬운 힌트부터 풀어 교차 글자를 많이 확보한 뒤, 난도가 높은 단어로

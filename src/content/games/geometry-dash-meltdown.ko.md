@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: geometry-dash-meltdown
-title: "Geometry Dash Meltdown 지오메트리 대시 멜트다운"
+title: Geometry Dash Meltdown 지오메트리 대시 멜트다운
 description: >-
-  새로운 음악과 테마가 포함된 Geometry Dash 스핀오프입니다. 음악에 맞춰
-  점프하고 비행하며 스파이크와 패드를 통과하는 짧지만 강렬한 스테이지들을
-  클리어해 보세요.
+  새로운 음악과 테마가 포함된 Geometry Dash 스핀오프입니다. 음악에 맞춰 점프하고 비행하며 스파이크와 패드를 통과하는 짧지만 강렬한
+  스테이지들을 클리어해 보세요.
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-meltdown/'
 thumbnail: /new-images/thumbnails/geometry-dash-meltdown.jpg
 tags:
@@ -43,6 +42,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 버튼을 길게 누르면 비행 구간에서 상승하고, 떼면 하강하는 식으로 조작되며,
   호스트에 따라 세부 조작법이 조금씩 달라질 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 팁
 
 - 이펙트가 너무 화려해 타이밍을 보기 어렵다면, 옵션이나 호스트 설정에서

@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: google-solitaire
-title: "Google Solitaire 구글 솔리테어"
-description: >-
-  클래식 클론다이크 솔리테어입니다. 색깔이 번갈아 내려가는 테이블 더미를
-  옮기며, 각 무늬별로 A부터 K까지 기초 더미를 완성해 보세요.
+title: Google Solitaire 구글 솔리테어
+description: '클래식 클론다이크 솔리테어입니다. 색깔이 번갈아 내려가는 테이블 더미를 옮기며, 각 무늬별로 A부터 K까지 기초 더미를 완성해 보세요.'
 iframeSrc: 'https://www.google.com/logos/fnbx/solitaire/standalone.html'
 thumbnail: /new-images/thumbnails/google-solitaire.jpg
 tags:
@@ -41,6 +39,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 일부 호스트에서는 이동이 가능한 카드/더미를 더블클릭하면 자동으로 적절한
   위치로 옮겨 주는 기능을 제공합니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 팁
 
 - 단순히 옮길 수 있는 카드보다, 뒷면 카드를 새로 드러내는 이동을 우선시하면

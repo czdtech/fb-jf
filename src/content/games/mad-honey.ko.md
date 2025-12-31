@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: mad-honey
-title: "Mad Honey 매드 허니"
-description: >-
-  Mad Honey는 꿀을 모으고 위험을 피하며 벌집으로 무사히 돌아가는 짧은 아케이드
-  어드벤처 게임입니다.
+title: Mad Honey 매드 허니
+description: Mad Honey는 꿀을 모으고 위험을 피하며 벌집으로 무사히 돌아가는 짧은 아케이드 어드벤처 게임입니다.
 iframeSrc: 'https://49b5cg0v2itto.h5games.usercontent.goog/v/3tun18rhg88eg/'
 thumbnail: /new-images/thumbnails/mad-honey.png
 tags:
@@ -24,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 공략 & 플레이 팁
 
 1. 루트 설계: 실제로 이동하기 전에 꿀이 몰려 있는 구역과 적의 순찰 경로를 먼저

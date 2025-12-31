@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: level-devil
-title: "Level Devil 트롤 플랫폼"
+title: Level Devil 트롤 플랫폼
 description: >-
-  갑자기 바뀌는 함정과 가짜 출구가 가득한 트롤 플랫폼 게임
-  'Level Devil' 가이드입니다. 숨겨진 함정을 익히고 침착하게
-  레벨을 돌파해 보세요.
+  갑자기 바뀌는 함정과 가짜 출구가 가득한 트롤 플랫폼 게임 'Level Devil' 가이드입니다. 숨겨진 함정을 익히고 침착하게 레벨을
+  돌파해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231215/10/index.html
 thumbnail: /new-images/thumbnails/level-devil.jpg
@@ -43,6 +42,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **이동/점프**: 방향키 또는 WASD로 이동·점프합니다.  
 - **재시작**: 일부 호스트에서는 빠른 재시작 키를 지원합니다.
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - 무작정 전력 질주하지 말고, 짧은 점프로 가장자리만

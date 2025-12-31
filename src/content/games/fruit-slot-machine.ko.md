@@ -21,6 +21,7 @@ Fruit Slot Machine은 전통적인 3릴 슬롯 머신을 재현한 게임으로,
 가벼운 확률 놀이에 가깝습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **예산 먼저 정하기**  

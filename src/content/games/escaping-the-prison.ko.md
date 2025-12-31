@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: escaping-the-prison
-title: "Escaping the Prison 탈옥하기"
+title: Escaping the Prison 탈옥하기
 description: >-
-  Henry Stickmin 시리즈의 포인트 앤 클릭 어드벤처입니다. 각종 아이템과 루트를
-  선택해 감옥에서 탈출을 시도하고, 다양한 엔딩과 웃긴 실패 장면을 모아 보세요.
+  Henry Stickmin 시리즈의 포인트 앤 클릭 어드벤처입니다. 각종 아이템과 루트를 선택해 감옥에서 탈출을 시도하고, 다양한 엔딩과
+  웃긴 실패 장면을 모아 보세요.
 iframeSrc: 'https://classroomjq.github.io/escaping-the-prison/'
 thumbnail: /new-images/thumbnails/escaping-the-prison.jpg
 tags:
@@ -39,6 +39,7 @@ Escaping the Prison는 막대인간 주인공 헨리가 감옥에 갇힌 상황�
 - 마우스 클릭으로 선택지와 QTE 프롬프트를 입력합니다.  
 - 일부 버전에서는 스페이스 바 등으로 특정 상황을 건너뛰거나 멈출 수 있습니다.  
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - 막혔다고 느껴지면, 완전히 다른 루트(다른 아이템 선택)로 진행해 보세요.

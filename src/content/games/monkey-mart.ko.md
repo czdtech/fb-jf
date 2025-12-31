@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: monkey-mart
-title: "Monkey Mart 몽키 마트"
+title: Monkey Mart 몽키 마트
 description: >-
-  Monkey Mart는 귀여운 원숭이 점장과 직원들이 운영하는 슈퍼마켓을 관리하는 시뮬레이션
-  게임으로, 농작물을 수확하고 상품을 진열하며 손님을 응대해 가게를 키워 나갑니다.
+  Monkey Mart는 귀여운 원숭이 점장과 직원들이 운영하는 슈퍼마켓을 관리하는 시뮬레이션 게임으로, 농작물을 수확하고 상품을 진열하며
+  손님을 응대해 가게를 키워 나갑니다.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/gamehwq/20221216/09/index.htm
 thumbnail: /new-images/thumbnails/monkey-mart.jpg
@@ -25,6 +25,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 찾아온 손님들에게 판매해야 합니다. 게임이 진행될수록 새로운 상품을 해금하고,
 설비를 업그레이드하며, 더 많은 원숭이 직원을 고용해 효율을 높일 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 1. **재배와 수확:** 바나나, 옥수수 등 기본 작물을 꾸준히 심고, 익자마자 바로 수확해

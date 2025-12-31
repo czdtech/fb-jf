@@ -27,6 +27,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 게임이 바로 종료됩니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **회전 예측하기**  

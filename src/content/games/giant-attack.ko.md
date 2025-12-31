@@ -26,6 +26,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 목표입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **모으고, 커지고, 강해지기**  

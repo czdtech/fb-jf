@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: mazes
-title: "Mazes 미로 모음"
+title: Mazes 미로 모음
 description: >-
-  Mazes는 단순한 격자형부터 함정이 가득한 코스까지 다양한 미로를 달리며, 최적 경로를
-  그리고 함정을 피해 기준 기록에 도전하는 퍼즐 게임입니다.
+  Mazes는 단순한 격자형부터 함정이 가득한 코스까지 다양한 미로를 달리며, 최적 경로를 그리고 함정을 피해 기준 기록에 도전하는 퍼즐
+  게임입니다.
 iframeSrc: 'https://1ivu76rhffpsg.h5games.usercontent.goog/v/00icu4vi09j18/'
 thumbnail: /new-images/thumbnails/mazes.jpg
 tags:
@@ -24,6 +24,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 피하고, 게이트를 여는 스위치를 밟으면서 기준 기록(파 시간) 안에 골인하는 것이 목표입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 공략 & 진행 팁
 
 1. **벽 따라가기 규칙:** 단순히 한 덩어리로 연결된 미로에서는 오른손/왼손 법칙처럼 한쪽

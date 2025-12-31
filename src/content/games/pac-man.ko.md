@@ -26,6 +26,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 점을 얻을 수 있습니다.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 1. **유령 패턴 이해:** 각 유령은 서로 다른 AI 패턴을 가지고 있습니다. Blinky는 뒤를

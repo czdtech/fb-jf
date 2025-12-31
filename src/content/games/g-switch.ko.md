@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: g-switch
-title: "G-Switch 중력 전환 러너"
+title: G-Switch 중력 전환 러너
 description: >-
-  하나의 버튼으로 중력을 뒤집으며 플랫폼 위를 달리는 러너 게임입니다. 속도가
-  점점 빨라지는 가운데, 구멍과 톱날을 피하며 최대한 오래 버티는 것이 목표입니다.
+  하나의 버튼으로 중력을 뒤집으며 플랫폼 위를 달리는 러너 게임입니다. 속도가 점점 빨라지는 가운데, 구멍과 톱날을 피하며 최대한 오래 버티는
+  것이 목표입니다.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/5/index.html
 thumbnail: /new-images/thumbnails/g-switch.jpg
@@ -40,6 +40,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 멀티플레이가 있는 버전에서는 플레이어마다 서로 다른 키가 할당되어, 같은
   화면에서 여러 명이 동시에 달릴 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 팁
 
 - 일정한 리듬을 유지하는 것이 중요합니다. 당황해서 연달아 버튼을 누르면 연속

@@ -1,10 +1,9 @@
 ---
 locale: ko
 urlstr: kings-and-queens
-title: "Kings and Queens 왕과 여왕 매치3"
+title: Kings and Queens 왕과 여왕 매치3
 description: >-
-  성을 복원하는 스토리가 더해진 3매치 퍼즐 'Kings and Queens'
-  가이드입니다. 장애물을 지우고 부스터를 활용해 별을 모으고,
+  성을 복원하는 스토리가 더해진 3매치 퍼즐 'Kings and Queens' 가이드입니다. 장애물을 지우고 부스터를 활용해 별을 모으고,
   왕실 홀을 꾸미는 방법을 소개합니다.
 iframeSrc: 'https://0ptbttt09g5cg.h5games.usercontent.goog/v/6c7l9okboa1u0/'
 thumbnail: /new-images/thumbnails/kings-and-queens.png
@@ -26,6 +25,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 방을 꾸미고 장식을 교체할 수 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1. **보드 중심부부터 열기**  

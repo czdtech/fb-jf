@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: head-soccer
-title: "Head Soccer 헤드 사커 1대1"
+title: Head Soccer 헤드 사커 1대1
 description: >-
-  커다란 머리 캐릭터가 나오는 1대1 아케이드 축구 게임입니다. 점프와 슛,
-  필살 슛을 활용해 짧은 시간 안에 상대보다 더 많은 골을 넣어 보세요.
+  커다란 머리 캐릭터가 나오는 1대1 아케이드 축구 게임입니다. 점프와 슛, 필살 슛을 활용해 짧은 시간 안에 상대보다 더 많은 골을 넣어
+  보세요.
 iframeSrc: 'https://1games.io/game/head-soccer-2024/'
 thumbnail: /new-images/thumbnails/head-soccer.jpg
 tags:
@@ -40,6 +40,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 슛/특수 기술: 호스트마다 별도의 키가 지정되어 있으니 게임 내 안내를
   참고하세요.
 
+<!-- i18n:section:tips -->
 ### 플레이 팁
 
 - 점프 직후 가볍게 슛 키를 눌러 **빠르고 낮은 드라이브 슛**을 만들면,

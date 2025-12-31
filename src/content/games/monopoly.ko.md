@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: monopoly
-title: "MONOPOLY 모노폴리"
+title: MONOPOLY 모노폴리
 description: >-
-  Monopoly는 주사위를 굴려 말판을 돌며 부동산을 사고팔고, 상대를 파산시켜 최후의
-  승자가 되는 것을 목표로 하는 클래식 부동산 보드게임입니다.
+  Monopoly는 주사위를 굴려 말판을 돌며 부동산을 사고팔고, 상대를 파산시켜 최후의 승자가 되는 것을 목표로 하는 클래식 부동산
+  보드게임입니다.
 iframeSrc: 'https://w8.snokido.com/games/html5/monopoly/index.html'
 thumbnail: /new-images/thumbnails/monopoly.jpg
 tags:
@@ -25,6 +25,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 남는 가장 부유한 플레이어가 되는 것입니다. 전략, 협상, 운이 모두 어우러져 긴장감 있는
 게임이 펼쳐집니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 1. **부동산 매입:** 소유자가 없는 땅에 도착하면 가능하면 사 두는 편이 좋습니다.

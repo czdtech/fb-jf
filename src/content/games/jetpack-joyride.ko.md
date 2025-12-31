@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: jetpack-joyride
-title: "Jetpack Joyride 제트팩 조이라이드"
+title: Jetpack Joyride 제트팩 조이라이드
 description: >-
-  사이드 스크롤 방식의 러너 게임 'Jetpack Joyride' 가이드입니다.
-  제트팩으로 상승·하강을 조절하며 전기 장애물과 미사일을 피하고,
-  코인과 탈것·가젯을 모아 미션을 깨면서 업그레이드를 해 보세요.
+  사이드 스크롤 방식의 러너 게임 'Jetpack Joyride' 가이드입니다. 제트팩으로 상승·하강을 조절하며 전기 장애물과 미사일을
+  피하고, 코인과 탈것·가젯을 모아 미션을 깨면서 업그레이드를 해 보세요.
 iframeSrc: 'https://slope-game.github.io/rungame/jetpack-joyride/'
 thumbnail: /new-images/thumbnails/jetpack-joyride.jpg
 tags:
@@ -52,6 +51,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **하강**: 버튼이나 터치를 떼면 중력에 따라 서서히 내려옵니다.  
 - 가젯 사용·메뉴 이동 버튼은 호스트에 따라 배치가 달라질 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - 전기 장벽 패턴은 일정한 주기로 반복되므로, 한두 번만

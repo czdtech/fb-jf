@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: mergest-kingdom
-title: "Mergest Kingdom 머지스트 킹덤"
+title: Mergest Kingdom 머지스트 킹덤
 description: >-
-  Mergest Kingdom는 머지 퍼즐과 왕국 건설 요소를 결합한 판타지 게임으로, 같은 종류의
-  타일을 합쳐 상위 단계로 만들고, 안개를 걷어 새로운 지역을 열어 가는 것이
-  특징입니다. 효율적인 머지 체인과 퀘스트 동선을 설계해 왕국을 키워 보세요.
+  Mergest Kingdom는 머지 퍼즐과 왕국 건설 요소를 결합한 판타지 게임으로, 같은 종류의 타일을 합쳐 상위 단계로 만들고, 안개를
+  걷어 새로운 지역을 열어 가는 것이 특징입니다. 효율적인 머지 체인과 퀘스트 동선을 설계해 왕국을 키워 보세요.
 iframeSrc: 'https://620tnu7381eao.h5games.usercontent.goog/v/27p309rk86cr8/'
 thumbnail: /new-images/thumbnails/mergest-kingdom.png
 tags:
@@ -27,6 +26,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 설계가 중요합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 공략 & 진행 팁
 
 1. **3-머지 vs 5-머지 구분:** 가능하다면 같은 타일 5개를 한 번에 합치는 것이 3개를

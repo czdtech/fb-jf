@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: going-balls
-title: "Going Balls 3D 구슬 러너"
+title: Going Balls 3D 구슬 러너
 description: >-
-  좁은 길 위를 구슬을 굴리며 장애물을 피해 나가는 3D 러너 게임입니다. 빔과
-  함정, 움직이는 발판을 균형 있게 통과해 떨어지지 않고 골인 지점에 도달하세요.
+  좁은 길 위를 구슬을 굴리며 장애물을 피해 나가는 3D 러너 게임입니다. 빔과 함정, 움직이는 발판을 균형 있게 통과해 떨어지지 않고 골인
+  지점에 도달하세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231116/10/index.htm
 thumbnail: /new-images/thumbnails/going-balls.jpg
@@ -43,6 +43,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 일부 버전에서는 스페이스바로 브레이크를 걸거나, R 키로 즉시 재시도할 수
   있습니다(호스트에 따라 상이).
 
+<!-- i18n:section:tips -->
 ### 플레이 팁
 
 - 카메라를 조금 앞쪽에 두고, 미리 다음 구간의 입구에 맞춰 라인을 잡으면

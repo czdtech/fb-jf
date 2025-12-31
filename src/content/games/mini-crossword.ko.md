@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: mini-crossword
-title: "Mini Crossword 미니 크로스워드"
-description: >-
-  Mini Crossword는 작지만 알찬 데일리 십자말풀이 퍼즐로, 짧은 시간 안에 단어 실력을
-  시험해 볼 수 있는 캐주얼 퍼즐 게임입니다.
+title: Mini Crossword 미니 크로스워드
+description: 'Mini Crossword는 작지만 알찬 데일리 십자말풀이 퍼즐로, 짧은 시간 안에 단어 실력을 시험해 볼 수 있는 캐주얼 퍼즐 게임입니다.'
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword-mini/'
 thumbnail: /new-images/thumbnails/mini-crossword.jpg
 tags:
@@ -24,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 플레이 타임은 짧지만 난이도는 적당히 있어서, 어휘력을 넓히고 퍼즐 푸는 재미를 동시에
 느낄 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 1. **힌트 이해하기:** 가로·세로 힌트를 모두 꼼꼼히 읽고, 문장의 어조나 말장난까지

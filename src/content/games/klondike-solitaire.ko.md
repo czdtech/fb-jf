@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: klondike-solitaire
-title: "Klondike Solitaire 클론다이크 솔리테어"
+title: Klondike Solitaire 클론다이크 솔리테어
 description: >-
-  고전 카드 게임 'Klondike Solitaire' 가이드입니다. 7개의 테이블루
-  열과 패를 활용해 A부터 K까지 같은 무늬 기초 더미를 완성하는
-  기본 규칙과 전략을 설명합니다.
+  고전 카드 게임 'Klondike Solitaire' 가이드입니다. 7개의 테이블루 열과 패를 활용해 A부터 K까지 같은 무늬 기초 더미를
+  완성하는 기본 규칙과 전략을 설명합니다.
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-klondike-solitaire/
 thumbnail: /new-images/thumbnails/klondike-solitaire.jpg
@@ -50,6 +49,7 @@ A부터 K까지 순서대로 쌓아 올리는 것입니다.
 - **드래그 & 드롭 / 탭**: 카드를 끌어 다른 더미에 놓거나,
   클릭/탭만으로 자동 이동을 지원하는 호스트도 있습니다.
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - 뒷면 카드를 넘길 수 있는 이동을 우선하면, 막히는 상황을

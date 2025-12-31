@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: mahjong-connect-mission
-title: "Mahjong Connect : Mission 마작 커넥트 미션"
+title: 'Mahjong Connect : Mission 마작 커넥트 미션'
 description: >-
-  Mahjong Connect: Mission은 같은 패를 최대 두 번까지만 꺾이는 선으로 이어 지워 나가는
-  마작 커넥트 퍼즐입니다. 제한 시간 안에 보드를 비우기 위해 잠금, 안개, 폭탄 같은
-  특수 타일을 우선적으로 관리해야 합니다.
+  Mahjong Connect: Mission은 같은 패를 최대 두 번까지만 꺾이는 선으로 이어 지워 나가는 마작 커넥트 퍼즐입니다. 제한
+  시간 안에 보드를 비우기 위해 잠금, 안개, 폭탄 같은 특수 타일을 우선적으로 관리해야 합니다.
 iframeSrc: 'https://7gsm6u8848nko.h5games.usercontent.goog/v/3qaqg5nju3th8/'
 thumbnail: /new-images/thumbnails/mahjong-connect-mission.png
 tags:
@@ -26,6 +25,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 추가되어 어떤 구역부터 정리할지에 따라 난이도가 크게 달라집니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 공략 & 플레이 팁
 
 1. **가장자리부터 확인:** 유효한 경로는 보드의 가장자리와 모서리에서 가장 많이

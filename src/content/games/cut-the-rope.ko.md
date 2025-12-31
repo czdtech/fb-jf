@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: cut-the-rope
-title: "Cut The Rope 컷 더 로프"
+title: Cut The Rope 컷 더 로프
 description: >-
-  줄을 잘라 사탕을 옴놈에게 먹이는 물리 퍼즐 게임 Cut The Rope입니다.
-  줄을 자르는 순서와 타이밍을 맞춰 별을 모으고, 사탕을 잃어버리지 않도록
-  조심하세요.
+  줄을 잘라 사탕을 옴놈에게 먹이는 물리 퍼즐 게임 Cut The Rope입니다. 줄을 자르는 순서와 타이밍을 맞춰 별을 모으고, 사탕을
+  잃어버리지 않도록 조심하세요.
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/c/cut-the-rope/v020/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=4531b37c-a8e0-4a67-9ebd-e8d3190b6277&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=467&original_ref=
 thumbnail: /new-images/thumbnails/cut-the-rope.jpg
@@ -44,6 +43,7 @@ Cut the Rope는 줄에 매달린 사탕을 귀여운 몬스터 옴놈(영문: Om
 - 마우스/터치 스와이프: 줄을 자르기  
 - 화면 UI 버튼: 스테이지 재시작, 다음 레벨 이동, 힌트 보기(지원하는 버전에 한함)  
 
+<!-- i18n:section:tips -->
 ### 팁 & 전략
 
 - 줄을 자르기 전, 사탕이 어떤 호(arc)를 그리며 움직일지 미리 머릿속으로

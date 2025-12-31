@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: g-switch-3
-title: "G-Switch 3 고속 중력 러너"
+title: G-Switch 3 고속 중력 러너
 description: >-
-  새로운 함정과 강력한 로컬 멀티플레이 모드를 더한 고속 중력 전환 러너입니다.
-  빠르게 이어지는 장애물 구간을 정확한 타이밍과 일정한 리듬으로 돌파해 보세요.
+  새로운 함정과 강력한 로컬 멀티플레이 모드를 더한 고속 중력 전환 러너입니다. 빠르게 이어지는 장애물 구간을 정확한 타이밍과 일정한 리듬으로
+  돌파해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221121/2/index.html
 thumbnail: /new-images/thumbnails/g-switch-3.jpg
@@ -40,6 +40,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 대전 모드에서는 플레이어마다 서로 다른 키가 지정되어, 한 키보드에서 여러 명이
   동시에 조작할 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 팁
 
 - 캐릭터 바로 앞보다는 화면의 중간~앞쪽을 보면서 다가오는 함정을 미리 읽으면

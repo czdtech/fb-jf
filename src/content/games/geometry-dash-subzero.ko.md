@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: geometry-dash-subzero
-title: "Geometry Dash SubZero 지오메트리 대시 서브제로"
+title: Geometry Dash SubZero 지오메트리 대시 서브제로
 description: >-
-  겨울 테마의 리듬 플랫포머 레벨 팩입니다. 얼어붙은 배경과 빠른 패턴 속에서
-  점프와 비행, 링 타이밍을 맞춰 음악과 함께 장애물을 돌파해 보세요.
+  겨울 테마의 리듬 플랫포머 레벨 팩입니다. 얼어붙은 배경과 빠른 패턴 속에서 점프와 비행, 링 타이밍을 맞춰 음악과 함께 장애물을 돌파해
+  보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp46/chenling/20240322/06/index.html
 thumbnail: /new-images/thumbnails/geometry-dash-subzero.jpg
@@ -40,6 +40,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 버튼을 길게 누르면 비행 상태가 유지되고, 떼면 하강합니다(세부 조작은
   호스트에 따라 다를 수 있음).
 
+<!-- i18n:section:tips -->
 ### 플레이 팁
 
 - 시각 효과가 너무 화려해 타이밍을 잡기 어렵다면, 옵션이나 호스트 설정에서

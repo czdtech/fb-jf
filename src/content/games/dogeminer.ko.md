@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: dogeminer
-title: "DogeMiner 도지마이너"
-description: >-
-  DogeMiner는 코인을 채굴해 업그레이드와 도우미를 구매하고, 생산을 자동화해 점점 더 빠르게
-  수익을 올리는 방치형 클릭커 게임입니다.
+title: DogeMiner 도지마이너
+description: 'DogeMiner는 코인을 채굴해 업그레이드와 도우미를 구매하고, 생산을 자동화해 점점 더 빠르게 수익을 올리는 방치형 클릭커 게임입니다.'
 iframeSrc: 'https://edufall.github.io/o16/doge-miner/'
 thumbnail: /new-images/thumbnails/dogeminer.jpg
 tags:
@@ -39,6 +37,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 마우스/터치로 화면을 클릭해 수동 채굴을 하고, UI 버튼으로 업그레이드와 도우미, 로켓 등을
   구매합니다.
 
+<!-- i18n:section:tips -->
 ### 팁 & 전략
 
 - 초반에는 프레스티지나 로켓 부품보다, 수동 클릭/자동 생산량을 올려 주는 업그레이드에

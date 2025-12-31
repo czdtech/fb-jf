@@ -28,6 +28,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 승부를 가릅니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1. **특수 보석 이해하기**  

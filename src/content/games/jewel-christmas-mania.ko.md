@@ -29,6 +29,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 있는 구성입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1. **특수 보석 조합 노리기**  

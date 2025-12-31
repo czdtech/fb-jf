@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: crossword
-title: "Crossword 크로스워드"
-description: >-
-  가로·세로 힌트를 풀어 서로 교차하는 글자를 맞춰 가는 클래식 퍼즐 게임
-  Crossword입니다. 알파벳 단어 퍼즐의 정석을 경험해 보세요.
+title: Crossword 크로스워드
+description: 가로·세로 힌트를 풀어 서로 교차하는 글자를 맞춰 가는 클래식 퍼즐 게임 Crossword입니다. 알파벳 단어 퍼즐의 정석을 경험해 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword.html'
 thumbnail: /new-images/thumbnails/crossword.jpg
 tags:
@@ -41,6 +39,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - Backspace: 이전 글자 삭제  
 - Enter / Tab: 방향 전환 또는 다음 힌트로 이동(사이트에 따라 동작이 다를 수 있음)  
 
+<!-- i18n:section:tips -->
 ### 팁 & 전략
 
 - 빈칸 채우기형 힌트, 복수형/시제 표시(-S, -ED, -ING 등)처럼 쉬운 힌트부터 풀어

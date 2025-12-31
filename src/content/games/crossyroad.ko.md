@@ -1,16 +1,16 @@
 ---
 locale: ko
 urlstr: crossyroad
-title: "Crossy Road 크로시 로드 온라인 플레이"
+title: Crossy Road 크로시 로드 온라인 플레이
 description: >-
-  8비트 스타일의 끝없는 점프 아케이드 게임 Crossy Road입니다. 닭을 비롯한
-  다양한 캐릭터를 조종해 도로와 강, 철길을 안전하게 건너 보세요.
+  8비트 스타일의 끝없는 점프 아케이드 게임 Crossy Road입니다. 닭을 비롯한 다양한 캐릭터를 조종해 도로와 강, 철길을 안전하게 건너
+  보세요.
 iframeSrc: 'https://www.playfiddlebops.com/embed/crossyroad/index.html'
 thumbnail: /new-images/thumbnails/crossyroad.jpg
 tags:
   - crossy road
 score: 4.8/5  (1104 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -47,6 +47,7 @@ Crossy Road는 Hipster Whale이 개발·퍼블리싱한 끝없는 아케이드 �
 
 ---
 
+<!-- i18n:section:tips -->
 ### 전략과 팁
 
 - **리듬과 인내심 유지**  

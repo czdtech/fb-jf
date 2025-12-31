@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: g-switch-4
-title: "G-Switch 4 최신 중력 러너"
+title: G-Switch 4 최신 중력 러너
 description: >-
-  시리즈 최신작 중력 플립 러너입니다. 더욱 정교해진 조작감과 촘촘한 함정
-  배치, 여러 명이 동시에 경쟁하는 로컬 레이스를 통해 한 버튼 타이밍 실력을
-  시험할 수 있습니다.
+  시리즈 최신작 중력 플립 러너입니다. 더욱 정교해진 조작감과 촘촘한 함정 배치, 여러 명이 동시에 경쟁하는 로컬 레이스를 통해 한 버튼
+  타이밍 실력을 시험할 수 있습니다.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231127/09/index.html
 thumbnail: /new-images/thumbnails/g-switch-4.jpg
@@ -41,6 +40,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 대전 모드에서는 플레이어마다 서로 다른 키가 지정되어, 여러 명이 동시에 같은
   화면에서 플레이할 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 팁
 
 - 속도가 느린 초반 구간에서 일부러 실험해 보며, 자신에게 맞는 플립 리듬을 미리

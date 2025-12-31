@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: five-nights-at-freddy-4
-title: "Five Nights at Freddy''s 4 (FNAF 4)"
-description: >-
-  침실을 무대로 한 공포 생존 게임입니다. 문과 옷장, 침대를 오가며 숨소리를
-  듣고, 손전등과 문을 적절히 사용해 악몽을 막아야 합니다.
+title: Five Nights at Freddy''s 4 (FNAF 4)
+description: '침실을 무대로 한 공포 생존 게임입니다. 문과 옷장, 침대를 오가며 숨소리를 듣고, 손전등과 문을 적절히 사용해 악몽을 막아야 합니다.'
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf4.html'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-4.jpg
 tags:
@@ -39,6 +37,7 @@ FNAF 4는 피자가게가 아닌 집 안 침실을 무대로 한 작품으로, *
 - 마우스/키보드로 침실 내 각 위치(좌/우 문, 옷장, 침대)를 이동합니다.  
 - 문 닫기, 손전등 켜기 등 세부 키는 호스트마다 조금씩 다를 수 있습니다.  
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - 문 앞에서는 항상 먼저 **귀로 듣고** 그다음에 손전등을 켜야 합니다.

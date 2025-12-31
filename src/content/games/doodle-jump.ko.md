@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: doodle-jump
-title: "Doodle Jump 두들 점프"
+title: Doodle Jump 두들 점프
 description: >-
-  끊임없이 위로 올라가는 수직 플랫포머 게임입니다. 발판 사이를 튀어 오르며
-  몬스터와 함정을 피하고, 각종 파워업을 이용해 가능한 한 높이까지 올라가 보세요.
+  끊임없이 위로 올라가는 수직 플랫포머 게임입니다. 발판 사이를 튀어 오르며 몬스터와 함정을 피하고, 각종 파워업을 이용해 가능한 한 높이까지
+  올라가 보세요.
 iframeSrc: 'https://ubg98.github.io/DoodleJump/'
 thumbnail: /new-images/thumbnails/doodle-jump.jpg
 tags:
@@ -41,6 +41,7 @@ Doodle Jump는 자동으로 점프하는 캐릭터를 조종해, 화면 위쪽�
 - 모바일: 기기를 좌우로 기울여 이동하거나, 화면 좌우를 탭해 이동(버전별 상이)  
 - 공격/슈팅: 지원하는 버전에서 별도의 액션 키나 화면 탭으로 발사  
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - 화면 스크롤 속도가 빨라질수록 움직이는 발판보다 고정 발판 위주로 선택해

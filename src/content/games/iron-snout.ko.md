@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: iron-snout
-title: "Iron Snout 무술 돼지 액션"
+title: Iron Snout 무술 돼지 액션
 description: >-
-  늑대를 상대로 맨몸으로 싸우는 격투 액션 게임 'Iron Snout'
-  가이드입니다. 방향키만으로 펀치·킥·회피를 구사하고,
-  적이 던진 무기를 되받아쳐 높은 점수를 노려 보세요.
+  늑대를 상대로 맨몸으로 싸우는 격투 액션 게임 'Iron Snout' 가이드입니다. 방향키만으로 펀치·킥·회피를 구사하고, 적이 던진 무기를
+  되받아쳐 높은 점수를 노려 보세요.
 iframeSrc: 'https://webglmath.github.io/iron-snout/'
 thumbnail: /new-images/thumbnails/iron-snout.jpg
 tags:
@@ -49,6 +48,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
   - 아래쪽: 숙이거나 엎드리기  
   - 좌우: 해당 방향으로 펀치·킥 등
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - 원거리 공격을 하는 적을 우선 처리하면, 콤보가 끊기는 상황을

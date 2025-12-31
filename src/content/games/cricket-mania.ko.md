@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: cricket-mania
-title: "Cricket Mania 크리켓 매니아"
+title: Cricket Mania 크리켓 매니아
 description: >-
-  빠른 템포로 진행되는 크리켓 타격 게임 Cricket Mania입니다. 라인과 길이를
-  읽고, 적절한 샷을 선택해 타이밍을 맞추며 오버마다 목표 스코어를 추격해 보세요.
+  빠른 템포로 진행되는 크리켓 타격 게임 Cricket Mania입니다. 라인과 길이를 읽고, 적절한 샷을 선택해 타이밍을 맞추며 오버마다
+  목표 스코어를 추격해 보세요.
 iframeSrc: 'https://73lnk17f84iog.h5games.usercontent.goog/v/1p7sdm5buflt0/'
 thumbnail: /new-images/thumbnails/cricket-mania.png
 tags:
@@ -24,6 +24,7 @@ Cricket Mania는 짧고 강렬한 타격 세션에 초점을 맞춘 크리켓 �
 주요 목표이며, 공격적인 샷과 안정적인 스트라이크 로테이션 사이의 균형이 중요합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **샷 선택: 라인에 맞게 치기**  

@@ -22,6 +22,7 @@ Drifting Mania는 위에서 내려다보는 탑다운 방식의 드리프트 레
 반복 연습이 필요합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **천천히 들어가 빠르게 나가기**  

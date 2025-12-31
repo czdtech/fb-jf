@@ -3,13 +3,14 @@ locale: ko
 urlstr: fly-or-die
 title: Fly or Die 플라이 오어 다이
 description: '먹이사슬을 따라 진화해 나가는 .io 스타일 생존 게임입니다. 다른 생물을 먹고 피하며, 점점 더 강한 형태로 진화해 보세요.'
-iframeSrc: 'https://app-96679.games.s3.yandex.net/96679/jshypemnvrae6bchv5d2nej2892owe69/index.html'
+iframeSrc: >-
+  https://app-96679.games.s3.yandex.net/96679/jshypemnvrae6bchv5d2nej2892owe69/index.html
 thumbnail: /new-images/thumbnails/fly-or-die.jpg
 tags:
   - multiplayer
   - survival
 score: 4.6/5  (260 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
@@ -36,6 +37,7 @@ Fly or Die는 작은 생물체로 시작해, 먹을 수 있는 대상은 먹고 
 
 - 방향키/WASD로 이동, 클릭/특정 키로 공격(버전에 따라 상이)  
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - 한 곳에 오래 머무르면 상위 포식자에게 눈에 띄기 쉽습니다. 먹을 것을

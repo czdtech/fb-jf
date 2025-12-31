@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: idle-breakout
-title: "Idle Breakout 방치형 브릭 브레이커"
+title: Idle Breakout 방치형 브릭 브레이커
 description: >-
-  벽돌깨기와 방치형 인크리멘탈이 결합된 게임입니다. 클릭으로 벽돌을 깨며
-  공과 포탑을 구매해 자동 공격을 늘리고, 프레스티지로 배수를 쌓아 다음
-  플레이를 더 빠르게 진행하세요.
+  벽돌깨기와 방치형 인크리멘탈이 결합된 게임입니다. 클릭으로 벽돌을 깨며 공과 포탑을 구매해 자동 공격을 늘리고, 프레스티지로 배수를 쌓아
+  다음 플레이를 더 빠르게 진행하세요.
 iframeSrc: 'https://ubg98.github.io/IdleBreakout/'
 thumbnail: /new-images/thumbnails/idle-breakout.jpg
 tags:
@@ -43,6 +42,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 마우스로 벽돌을 클릭해 직접 데미지를 줄 수 있으며, UI 버튼으로 공 구매,
   업그레이드, 프레스티지 노드 해금 등을 진행합니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 팁
 
 - 적어도 하나는 고공격력 공을 유지해, 체력이 높은 보스를 빠르게 마무리할 수

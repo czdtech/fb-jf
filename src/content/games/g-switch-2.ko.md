@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: g-switch-2
-title: "G-Switch 2 중력 전환 러너"
+title: G-Switch 2 중력 전환 러너
 description: >-
-  중력을 뒤집으며 질주하는 러닝 게임 G-Switch 2입니다. 한 명이 기록에
-  도전하거나, 한 키보드에서 여러 명이 동시에 플레이하며, 중력 전환 타이밍만으로
-  함정과 낭떠러지를 피해 끝까지 살아남아야 합니다.
+  중력을 뒤집으며 질주하는 러닝 게임 G-Switch 2입니다. 한 명이 기록에 도전하거나, 한 키보드에서 여러 명이 동시에 플레이하며, 중력
+  전환 타이밍만으로 함정과 낭떠러지를 피해 끝까지 살아남아야 합니다.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/6/index.html
 thumbnail: /new-images/thumbnails/g-switch-2.jpg
@@ -40,6 +39,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 기본적으로 하나의 키나 터치 입력만 사용해 중력을 전환합니다.
 - 대전/멀티플레이 모드에서는 각 플레이어에게 서로 다른 전환 키가 할당됩니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 팁
 
 - 일정한 리듬으로 눌러 주면 난이도가 크게 낮아집니다. 당황해서 연속으로

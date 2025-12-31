@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: fancy-pants-2
-title: "Fancy Pants 2 팬시 팬츠 2"
-description: >-
-  속도감 있는 모멘텀 플랫포머의 후속작입니다. 더 빨라진 움직임, 새로운 적,
-  비밀과 트로피가 숨겨진 손그림 스테이지를 달려 보세요.
+title: Fancy Pants 2 팬시 팬츠 2
+description: '속도감 있는 모멘텀 플랫포머의 후속작입니다. 더 빨라진 움직임, 새로운 적, 비밀과 트로피가 숨겨진 손그림 스테이지를 달려 보세요.'
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj9/index.html
 thumbnail: /new-images/thumbnails/fancy-pants-2.jpg
@@ -39,6 +37,7 @@ Fancy Pants 2는 경사와 벽을 활용해 속도를 유지하는 모션 중심
 - 아래 방향키: 미끄러지기(슬라이드)  
 - 위 방향키: 문이나 포탈 들어가기  
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - 경사 끝에서 점프 타이밍을 맞춰 속도를 유지한 채 평지로 나가면 구간을 더

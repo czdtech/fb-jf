@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: maze-puzzle
-title: "Maze Puzzle 미로 퍼즐"
+title: Maze Puzzle 미로 퍼즐
 description: >-
-  Maze Puzzle는 열쇠와 문, 순찰하는 경비를 피해 최단 경로를 찾아 탈출하는 미로 퍼즐
-  게임입니다. 가벼운 시간 제한 속에서 안전하고 효율적인 동선을 설계해 보세요.
+  Maze Puzzle는 열쇠와 문, 순찰하는 경비를 피해 최단 경로를 찾아 탈출하는 미로 퍼즐 게임입니다. 가벼운 시간 제한 속에서 안전하고
+  효율적인 동선을 설계해 보세요.
 iframeSrc: 'https://3931uc3bsois0.h5games.usercontent.goog/v/7nvm8etm546uo/'
 thumbnail: /new-images/thumbnails/maze-puzzle.png
 tags:
@@ -24,6 +24,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 안전하게 출구까지 도달하는 동선을 찾는 데 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 공략 & 진행 팁
 
 1. **열쇠 획득 순서 계획:** 되돌아가는 동선을 최소화할 수 있도록 어떤 열쇠를 먼저

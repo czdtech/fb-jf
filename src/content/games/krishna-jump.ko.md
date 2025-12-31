@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: krishna-jump
-title: "Krishna Jump 크리슈나 점프 러너"
+title: Krishna Jump 크리슈나 점프 러너
 description: >-
-  한 버튼으로 즐기는 수직 러너 'Krishna Jump' 가이드입니다.
-  점프 타이밍을 맞춰 발판을 오르고, 장애물을 피하며
-  아이템을 모아 높은 기록에 도전해 보세요.
+  한 버튼으로 즐기는 수직 러너 'Krishna Jump' 가이드입니다. 점프 타이밍을 맞춰 발판을 오르고, 장애물을 피하며 아이템을 모아
+  높은 기록에 도전해 보세요.
 iframeSrc: 'https://5gj672951lio0.h5games.usercontent.goog/v/2q5vk2ok37gr8/'
 thumbnail: /new-images/thumbnails/krishna-jump.png
 tags:
@@ -27,6 +26,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 리듬과 빠른 상황 판단이 중요해집니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1. **리듬부터 잡기**  

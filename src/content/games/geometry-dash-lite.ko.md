@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: geometry-dash-lite
-title: "Geometry Dash Lite 지오메트리 대시 라이트"
+title: Geometry Dash Lite 지오메트리 대시 라이트
 description: >-
-  리듬에 맞춰 점프하고 날아가며 장애물을 피하는 Geometry Dash 입문 버전입니다.
-  음악에 맞춘 여러 기본 스테이지에서 점프 패드와 포탈, 비행 파트에 도전해
-  보세요.
+  리듬에 맞춰 점프하고 날아가며 장애물을 피하는 Geometry Dash 입문 버전입니다. 음악에 맞춘 여러 기본 스테이지에서 점프 패드와
+  포탈, 비행 파트에 도전해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20240221/08/index.html
 thumbnail: /new-images/thumbnails/geometry-dash-lite.jpg
@@ -44,6 +43,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 비행 구간에서는 버튼을 누르고 있는 동안 상승, 떼면 하강하며, 연습/체크포인트
   관련 조작은 호스트에 따라 다를 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 팁
 
 - 난도가 높은 스테이지는 먼저 연습 모드를 켜고, 까다로운 구간마다

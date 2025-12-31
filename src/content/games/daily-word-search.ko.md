@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: daily-word-search
-title: "Daily Word Search 데일리 낱말 찾기"
+title: Daily Word Search 데일리 낱말 찾기
 description: >-
-  격자 속에 숨겨진 영어 단어들을 찾는 Daily Word Search입니다. 가로·세로·대각선
-  방향으로 단어를 이어 보고, 타이머 모드와 휴식 모드 중 원하는 방식으로 즐겨 보세요.
+  격자 속에 숨겨진 영어 단어들을 찾는 Daily Word Search입니다. 가로·세로·대각선 방향으로 단어를 이어 보고, 타이머 모드와
+  휴식 모드 중 원하는 방식으로 즐겨 보세요.
 iframeSrc: 'https://1i20ele8n07u0.h5games.usercontent.goog/v/1n8osodo9gs80/'
 thumbnail: /new-images/thumbnails/daily-word-search.png
 tags:
@@ -25,6 +25,7 @@ Daily Word Search는 알파벳 격자 속에 숨겨진 단어들을 찾아 표�
 지원하는 경우가 많습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **특징적인 글자 패턴 먼저 찾기**  

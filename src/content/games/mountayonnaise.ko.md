@@ -1,17 +1,17 @@
 ---
 locale: ko
 urlstr: mountayonnaise
-title: "Sprunki Mountayonnaise 스프런키 마운테이오네즈"
+title: Sprunki Mountayonnaise 스프런키 마운테이오네즈
 description: >-
-  Sprunki Mountayonnaise는 추가한 사운드에 따라 서로 다른 동물 캐릭터와 연출이
-  등장하는 스프런키 모드 게임으로, 반복해서 새로운 조합을 실험하는 재미가 뛰어납니다.
+  Sprunki Mountayonnaise는 추가한 사운드에 따라 서로 다른 동물 캐릭터와 연출이 등장하는 스프런키 모드 게임으로, 반복해서
+  새로운 조합을 실험하는 재미가 뛰어납니다.
 iframeSrc: 'https://turbowarp.org/1135773023/embed'
 thumbnail: /new-images/thumbnails/mountayonnaise.png
 tags:
   - sprunki mountayonnaise
   - sprunki mountayonnaise online
 score: 4.8/5  (649 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -34,6 +34,7 @@ Sprunki Mountayonnaise는 다양한 사운드를 입혀가며 애니메이션 �
   있습니다.
 
 
+<!-- i18n:section:tips -->
 ### Sprunki Mountayonnaise 공략 팁
 
 - **비트부터 깔기:** 먼저 리듬 파트를 캐릭터 한두 명에게 배치해 기본 박자를 만든 뒤,

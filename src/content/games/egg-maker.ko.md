@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: egg-maker
-title: "Egg Maker 에그 메이커"
+title: Egg Maker 에그 메이커
 description: >-
-  Egg Maker는 계란 요리를 빠르게 만들어 손님에게 내보내는 주방 타임 매니지먼트 게임입니다.
-  재료 준비 순서를 잘 짜고, 팬 타이밍을 맞춰 완벽한 상태의 계란을 서빙해 보세요.
+  Egg Maker는 계란 요리를 빠르게 만들어 손님에게 내보내는 주방 타임 매니지먼트 게임입니다. 재료 준비 순서를 잘 짜고, 팬 타이밍을
+  맞춰 완벽한 상태의 계란을 서빙해 보세요.
 iframeSrc: 'https://2jbqv0uarsk18.h5games.usercontent.goog/v/2cnuunat3mtpg/'
 thumbnail: /new-images/thumbnails/egg-maker.png
 tags:
@@ -24,6 +24,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 오믈렛 등 스타일과 익힘 정도가 다르기 때문에, 시각적·청각적 신호를 보고 적절한 순간에 집어 들지 않으면
 타 버리기 쉽습니다.
 
+<!-- i18n:section:how-to-play -->
 ### 공략 & 진행 팁
 
 1. **스테이션 리듬 잡기:** 가장 오래 걸리는 조리 단계(굽기)를 먼저 시작하고, 팬이 돌아가는 동안
@@ -44,6 +45,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 - 드래그로 팬이나 접시에 옮기고, 완성된 요리를 손님에게 드래그해 서빙합니다.
 - 쉬프트 사이에는 UI에서 일시정지나 재시작을 할 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### 고급 팁
 
 - **버퍼 트레이:** 접시를 패스 근처에 미리 가져다 두면 주문이 몰리는 순간 이동 거리를 줄여

@@ -1,10 +1,9 @@
 ---
 locale: ko
 urlstr: jump-with-justin-2
-title: "Jump With Justin 2 점프 액션"
+title: Jump With Justin 2 점프 액션
 description: >-
-  스프링 점프와 이동 발판, 함정 타이밍이 핵심인 플랫폼 게임
-  'Jump With Justin 2' 가이드입니다. 점프 타이밍과 탄성을 활용해
+  스프링 점프와 이동 발판, 함정 타이밍이 핵심인 플랫폼 게임 'Jump With Justin 2' 가이드입니다. 점프 타이밍과 탄성을 활용해
   함정을 피하고 출구까지 도달해 보세요.
 iframeSrc: 'https://jumpwithjustin2.h5games.usercontent.goog/v/54vavt12q94n8/'
 thumbnail: /new-images/thumbnails/jump-with-justin-2.png
@@ -25,6 +24,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 최소한의 실수로 출구에 도달하는 것이 목표입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1. **점프 궤적(아크) 컨트롤**  

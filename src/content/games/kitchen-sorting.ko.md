@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: kitchen-sorting
-title: "Kitchen Sorting 키친 소팅"
+title: Kitchen Sorting 키친 소팅
 description: >-
-  Kitchen Sorting은 주방에서 나오는 재료, 도구, 쓰레기 등을 올바른 분류함에 빠르게
-  넣어야 하는 카테고리 퍼즐 게임입니다. 시간 압박 속에서도 교차 오염을 피하며
-  정확하게 분류하는 것이 중요합니다.
+  Kitchen Sorting은 주방에서 나오는 재료, 도구, 쓰레기 등을 올바른 분류함에 빠르게 넣어야 하는 카테고리 퍼즐 게임입니다. 시간
+  압박 속에서도 교차 오염을 피하며 정확하게 분류하는 것이 중요합니다.
 iframeSrc: 'https://757entlesmh4g.h5games.usercontent.goog/v/1r9oimecfevc0/'
 thumbnail: /new-images/thumbnails/kitchen-sorting.png
 tags:
@@ -28,6 +27,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 점점 올라갑니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 공략 & 플레이 팁
 
 1. **큰 기준부터 우선 적용:** 세부 카테고리보다, 생고기 vs 바로 먹는 식품처럼

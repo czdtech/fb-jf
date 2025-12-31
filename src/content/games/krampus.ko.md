@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: krampus
-title: "Krampus 크람푸스 공포 플랫폼"
+title: Krampus 크람푸스 공포 플랫폼
 description: >-
-  크리스마스 전설 속 괴물 크람푸스를 소재로 한 공포 플랫폼 게임
-  'Krampus' 가이드입니다. 어두운 던전을 탐색하며 함정과 괴물을
-  피해 열쇠와 아이템을 찾아 탈출하세요.
+  크리스마스 전설 속 괴물 크람푸스를 소재로 한 공포 플랫폼 게임 'Krampus' 가이드입니다. 어두운 던전을 탐색하며 함정과 괴물을 피해
+  열쇠와 아이템을 찾아 탈출하세요.
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/krampus1/'
 thumbnail: /new-images/thumbnails/krampus.jpg
 tags:
@@ -44,6 +43,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **상호작용**: 호스트에 따라 별도의 액션 키로 문이나
   오브젝트를 조사할 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - 아이템·출구는 미세한 빛이나 반짝임으로 표시되는 경우가 많으니,

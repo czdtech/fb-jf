@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: liquid-puzzle-sort-colors
-title: "Liquid puzzle sort colors 액체 색깔 정렬 퍼즐"
+title: Liquid puzzle sort colors 액체 색깔 정렬 퍼즐
 description: >-
-  Liquid puzzle sort colors는 색깔별로 액체를 따라 옮기며 병을 정리하는 편안한
-  퍼즐 게임입니다. 색을 기준으로 붓기, 여유 병 관리, 막힘 없는 마무리까지
-  계획적으로 진행해 보세요.
+  Liquid puzzle sort colors는 색깔별로 액체를 따라 옮기며 병을 정리하는 편안한 퍼즐 게임입니다. 색을 기준으로 붓기,
+  여유 병 관리, 막힘 없는 마무리까지 계획적으로 진행해 보세요.
 iframeSrc: 'https://1b6vgcuid4b98.h5games.usercontent.goog/v/2vus27k78710o/'
 thumbnail: /new-images/thumbnails/liquid-puzzle-sort-colors.jpg
 tags:
@@ -26,6 +25,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 신중하게 계획하는 것이 중요합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 공략 & 플레이 팁
 
 1. 가능한 한 항상 두 개 정도의 병을 비워 두세요. 막힐 때 상황을 풀어 주는 안전 밸브 역할을 합니다.

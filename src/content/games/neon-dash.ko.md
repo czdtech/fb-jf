@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: neon-dash
-title: "Neon Dash 네온 대시"
-description: >-
-  Neon Dash는 가시와 발판, 리듬에 맞춰 움직이는 함정들을 피해 정확한 타이밍으로 점프해
-  돌파해야 하는 하이 스피드 런 게임입니다.
+title: Neon Dash 네온 대시
+description: 'Neon Dash는 가시와 발판, 리듬에 맞춰 움직이는 함정들을 피해 정확한 타이밍으로 점프해 돌파해야 하는 하이 스피드 런 게임입니다.'
 iframeSrc: 'https://1bveca4tkimog.h5games.usercontent.goog/v/4bq2naj6mtutg/'
 thumbnail: /new-images/thumbnails/neon-dash.png
 tags:
@@ -24,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 섞여 높은 집중력을 요구합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 공략 & 진행 팁
 
 1. **점프 궤적 익히기:** 짧게 눌렀을 때와 길게 눌렀을 때의 거리 차이를 몸에 익히고,

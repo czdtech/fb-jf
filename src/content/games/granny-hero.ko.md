@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: granny-hero
-title: "Granny Hero 그래니 히어로"
+title: Granny Hero 그래니 히어로
 description: >-
-  Granny Hero는 유쾌한 액션 러너 게임으로, 날렵한 할머니가 거리 곳곳을 질주하며
-  장애물을 피하고 이웃들을 도와 나가는 내용을 담고 있습니다. 라인을 바꾸고 점프와
-  슬라이드를 타이밍 좋게 사용해 각종 위험을 피하세요.
+  Granny Hero는 유쾌한 액션 러너 게임으로, 날렵한 할머니가 거리 곳곳을 질주하며 장애물을 피하고 이웃들을 도와 나가는 내용을 담고
+  있습니다. 라인을 바꾸고 점프와 슬라이드를 타이밍 좋게 사용해 각종 위험을 피하세요.
 iframeSrc: 'https://0nd9712ar55uo.h5games.usercontent.goog/v/3qru4tsu7d5v0/'
 thumbnail: /new-images/thumbnails/granny-hero.png
 tags:
@@ -27,6 +26,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 해 줍니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 공략 & 진행 팁
 
 1. **시야는 두 칸 앞에:** 당장 눈앞 장애물만 보지 말고, 항상 두 개 이상 앞에 있는

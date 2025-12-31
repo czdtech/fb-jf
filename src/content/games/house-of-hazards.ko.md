@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: house-of-hazards
-title: "House Of Hazards 함정 하우스 파티"
+title: House Of Hazards 함정 하우스 파티
 description: >-
-  집 안 곳곳에 숨겨진 함정을 서로 작동시키며 즐기는 로컬 파티 게임입니다.
-  한쪽은 커피 만들기, 식물 물 주기 같은 일상 미션을 수행하고, 다른 쪽은
-  토스터·조명·바닥 트랩을 켜서 친구들을 날려 버리세요.
+  집 안 곳곳에 숨겨진 함정을 서로 작동시키며 즐기는 로컬 파티 게임입니다. 한쪽은 커피 만들기, 식물 물 주기 같은 일상 미션을 수행하고,
+  다른 쪽은 토스터·조명·바닥 트랩을 켜서 친구들을 날려 버리세요.
 iframeSrc: 'https://webglmath.github.io/house-of-hazards/'
 thumbnail: /new-images/thumbnails/house-of-hazards.jpg
 tags:
@@ -42,6 +41,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 이동/점프/행동 키는 단순하며, 로컬 멀티플레이를 위해 플레이어마다 다른
   키가 할당됩니다(호스트마다 다름).
 
+<!-- i18n:section:tips -->
 ### 플레이 팁
 
 - 다음 작업만 쳐다보며 달리지 말고, 주변에 반짝이는 트랩 표시가 있는지

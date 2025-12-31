@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: elastic-man
-title: "Elastic Man 엘라스틱 맨"
+title: Elastic Man 엘라스틱 맨
 description: >-
-  얼굴을 마음껏 늘리고 눌러 보는 인터랙티브 토이 Elastic Man입니다. 말랑말랑한
-  얼굴을 잡아당기고 놓으면서 탄성 물리 효과를 감상해 보세요.
+  얼굴을 마음껏 늘리고 눌러 보는 인터랙티브 토이 Elastic Man입니다. 말랑말랑한 얼굴을 잡아당기고 놓으면서 탄성 물리 효과를 감상해
+  보세요.
 iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/elasticman/0/index.html'
 thumbnail: /new-images/thumbnails/elastic-man.jpg
 tags:
@@ -39,6 +39,7 @@ Elastic Man은 말랑말랑한 얼굴을 마음껏 잡아당기고, 찌르고, �
 - 드래그 해제: 손을 떼면 얼굴이 탄성 물리에 따라 출렁이며 돌아옵니다.  
 - 설정 패널(지원 시)을 통해 품질/강도 등을 조절할 수 있습니다.  
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - 볼이나 이마처럼 넓은 영역을 잡아당기면 크게 흔들리는 “물컹” 움직임을 볼 수

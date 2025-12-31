@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: lows-adventures-2
-title: "Low's Adventures 2 로우의 모험 2"
+title: Low's Adventures 2 로우의 모험 2
 description: >-
-  Low's Adventures 2는 숨겨진 열쇠와 비밀 방, 부서지는 블록과 간단한 퍼즐이 배치된
-  레트로 스타일 2D 플랫폼 후속작입니다. 짧은 스테이지를 달리고 점프하며, 타임
-  챌린지에서 메달을 노리는 것이 핵심입니다.
+  Low's Adventures 2는 숨겨진 열쇠와 비밀 방, 부서지는 블록과 간단한 퍼즐이 배치된 레트로 스타일 2D 플랫폼 후속작입니다.
+  짧은 스테이지를 달리고 점프하며, 타임 챌린지에서 메달을 노리는 것이 핵심입니다.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/489323722/index.html'
 thumbnail: /new-images/thumbnails/lows-adventures-2.jpg
 tags:
@@ -39,6 +38,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 방향키 또는 WASD로 이동과 점프를 하고, 공격/상호작용 키는 플레이하는 사이트나 버전에
   따라 다를 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 팁
 
 - 발판 끝에서 점프 버튼을 미리 눌러 점프를 버퍼링하면 더 먼 거리를 안정적으로

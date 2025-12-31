@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: merge-fruit
-title: "Merge Fruit 머지 프루트"
-description: >-
-  Merge Fruit는 과일을 떨어뜨려 같은 과일끼리 합치고, 높이를 관리하며 연쇄 합성을
-  노려 높은 점수를 겨루는 머지 퍼즐 게임입니다.
+title: Merge Fruit 머지 프루트
+description: 'Merge Fruit는 과일을 떨어뜨려 같은 과일끼리 합치고, 높이를 관리하며 연쇄 합성을 노려 높은 점수를 겨루는 머지 퍼즐 게임입니다.'
 iframeSrc: 'https://3eltb7i874s60.h5games.usercontent.goog/v/28f34ighqoh10/'
 thumbnail: /new-images/thumbnails/merge-fruit.png
 tags:
@@ -25,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 부분입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 공략 & 진행 팁
 
 1. **중앙에 큰 과일 고정:** 가장 큰 과일은 가능한 중앙 근처에 두어, 양쪽에서 새 과일이

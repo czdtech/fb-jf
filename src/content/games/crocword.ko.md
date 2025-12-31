@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: crocword
-title: "Crocword 크로크워드"
+title: Crocword 크로크워드
 description: >-
-  Crocword는 크로스워드와 글자 연결 퍼즐을 결합한 단어 게임으로, 흩어진 글자를 이어
-  단어를 만들고, 교차하는 퍼즐 칸을 채우며 어휘력을 시험해 볼 수 있습니다.
+  Crocword는 크로스워드와 글자 연결 퍼즐을 결합한 단어 게임으로, 흩어진 글자를 이어 단어를 만들고, 교차하는 퍼즐 칸을 채우며
+  어휘력을 시험해 볼 수 있습니다.
 iframeSrc: 'https://4u2r33lp92ja0.h5games.usercontent.goog/v/53cgdtc83kng8/'
 thumbnail: /new-images/thumbnails/crocword.png
 tags:
@@ -25,6 +25,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 더 복잡해집니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 공략 & 진행 팁
 
 1. **단 하나만 들어갈 수 있는 칸부터:** 특정 글자가 들어갈 수밖에 없는 자리(희귀한

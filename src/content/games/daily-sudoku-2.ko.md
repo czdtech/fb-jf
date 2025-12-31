@@ -26,6 +26,7 @@ Daily Sudoku는 매일 새로운 클래식 스도쿠 문제를 제공하는 숫�
 능력이 중요합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **기본 규칙 이해하기**  

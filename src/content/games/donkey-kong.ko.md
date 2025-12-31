@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: donkey-kong
-title: "Donkey Kong 동키콩"
-description: >-
-  1981년 출시된 고전 아케이드 플랫포머입니다. 사다리와 발판을 오르내리며
-  통과하고, 장애물을 피해 맨 위에 도달해 스테이지를 클리어하세요.
+title: Donkey Kong 동키콩
+description: '1981년 출시된 고전 아케이드 플랫포머입니다. 사다리와 발판을 오르내리며 통과하고, 장애물을 피해 맨 위에 도달해 스테이지를 클리어하세요.'
 iframeSrc: 'https://ad-freegames.github.io/flash/game/donkey-kong.html'
 thumbnail: /new-images/thumbnails/donkey-kong.jpg
 tags:
@@ -42,6 +40,7 @@ Donkey Kong은 마리오가 주인공으로 등장해 발판과 사다리를 타
 - 점프: 호스트에 따라 지정된 키(보통 스페이스 등)  
 - 망치: 획득 시 자동으로 일정 시간 동안 발동되어, 통나무/적을 파괴할 수 있습니다.  
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - 사다리를 오를 때는 바로 위에 통나무가 없는 안전한 타이밍을 기다렸다가

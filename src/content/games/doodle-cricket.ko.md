@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: doodle-cricket
-title: "Doodle Cricket 두들 크리켓"
+title: Doodle Cricket 두들 크리켓
 description: >-
-  구글 두들로 유명한 캐주얼 크리켓 미니 게임입니다. 투구 타이밍에 맞춰 배트를
-  휘둘러 런을 획득하고, 아웃되지 않도록 최대 점수에 도전해 보세요.
+  구글 두들로 유명한 캐주얼 크리켓 미니 게임입니다. 투구 타이밍에 맞춰 배트를 휘둘러 런을 획득하고, 아웃되지 않도록 최대 점수에 도전해
+  보세요.
 iframeSrc: 'https://f3.silvergames.com/m/doodle-cricket/'
 thumbnail: /new-images/thumbnails/doodle-cricket.jpg
 tags:
@@ -39,6 +39,7 @@ Doodle Cricket는 구글이 선보였던 크리켓 두들을 기반으로 한 �
 - 마우스/터치: 공이 올 때 한 번 탭/클릭하면 타격합니다. 입력 타이밍에 따라
   공의 방향과 힘이 결정됩니다.  
 
+<!-- i18n:section:tips -->
 ### 팁
 
 - 미리 스윙을 준비하기보다, 투수 릴리스와 바운스를 보고 반응하는 것이 좋습니다.  

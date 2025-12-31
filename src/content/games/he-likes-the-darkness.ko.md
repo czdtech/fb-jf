@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: he-likes-the-darkness
-title: "He Likes The Darkness 어둠을 좋아하는 소년"
+title: He Likes The Darkness 어둠을 좋아하는 소년
 description: >-
-  어두운 실루엣 속을 달리며 빛나는 오브를 모으는 미니멀 플랫포머입니다.
-  시야가 제한된 스테이지에서 점프 타이밍과 함정 패턴을 읽어, 위험을 피해
-  골인 지점까지 도달하세요.
+  어두운 실루엣 속을 달리며 빛나는 오브를 모으는 미니멀 플랫포머입니다. 시야가 제한된 스테이지에서 점프 타이밍과 함정 패턴을 읽어, 위험을
+  피해 골인 지점까지 도달하세요.
 iframeSrc: 'https://77gr97nn0bej0.h5games.usercontent.goog/v/0emki8kk9qofo/'
 thumbnail: /new-images/thumbnails/he-likes-the-darkness.png
 tags:
@@ -26,6 +25,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 끊김 없는 흐름으로 클리어하는 것이 목표입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 게임 플레이 전략 & 공략
 
 1. **짧은 점프로 지형 탐색하기**  

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: crossword-puzzle
-title: "Crossword Puzzle 십자말 퍼즐"
+title: Crossword Puzzle 십자말 퍼즐
 description: >-
-  가로·세로 힌트를 이용해 격자 안의 단어를 채워 넣는 고전 단어 게임
-  Crossword Puzzle입니다. 다양한 스타일의 십자말 퍼즐을 온라인에서 가볍게
-  즐겨 보세요.
+  가로·세로 힌트를 이용해 격자 안의 단어를 채워 넣는 고전 단어 게임 Crossword Puzzle입니다. 다양한 스타일의 십자말 퍼즐을
+  온라인에서 가볍게 즐겨 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword-puzzle.html'
 thumbnail: /new-images/thumbnails/crossword-puzzle.jpg
 tags:
@@ -48,6 +47,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - Enter / Tab: 방향 토글 또는 다음 힌트로 이동(사이트 설정에 따라 다름)  
 - 마우스/터치: 힌트 목록의 항목을 탭해 해당 단어 위치로 바로 이동  
 
+<!-- i18n:section:tips -->
 ### 팁 & 전략
 
 - 빈칸 채우기형 힌트나 복수형/시제 표시(-S, -ED, -ING 등)가 붙은 힌트부터

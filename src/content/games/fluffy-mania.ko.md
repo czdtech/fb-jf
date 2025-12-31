@@ -3,8 +3,8 @@ locale: ko
 urlstr: fluffy-mania
 title: Fluffy Mania 플러피 매니아
 description: >-
-  Fluffy Mania는 아기자기한 분위기의 연결형 퍼즐 게임입니다. 같은 색 플러피를
-  이어서 제거하고, 연쇄 반응을 만들어 높은 점수를 노려 보세요.
+  Fluffy Mania는 아기자기한 분위기의 연결형 퍼즐 게임입니다. 같은 색 플러피를 이어서 제거하고, 연쇄 반응을 만들어 높은 점수를
+  노려 보세요.
 iframeSrc: 'https://02rd6nna08dqg.h5games.usercontent.goog/v/3ngbs02gf9h88/'
 thumbnail: /new-images/thumbnails/fluffy-mania.png
 tags:
@@ -22,6 +22,7 @@ Fluffy Mania는 알록달록한 플러피를 연결해 제거하는 가벼운 �
 제한 이동 수, 특정 타일 제거 등)를 달성하는 것이 핵심입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **루프/사각형 만들기:** 규칙이 허용한다면, 루프를 만들었을 때 같은 색이 한꺼번에 지워져 효율이 매우 높습니다.

@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: fancy-pants
-title: "Fancy Pants 팬시 팬츠"
+title: Fancy Pants 팬시 팬츠
 description: >-
-  Fancy Pants는 스틱맨 주인공이 손그림 스타일의 스테이지를 질주하며 벽 점프와
-  파쿠르 동작을 이어 가는 스타일리시 플랫포머입니다. 속도를 유지하며 숨겨진 방과
-  비밀 경로를 찾아 나서는 것이 핵심입니다.
+  Fancy Pants는 스틱맨 주인공이 손그림 스타일의 스테이지를 질주하며 벽 점프와 파쿠르 동작을 이어 가는 스타일리시 플랫포머입니다.
+  속도를 유지하며 숨겨진 방과 비밀 경로를 찾아 나서는 것이 핵심입니다.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj8/index.html
 thumbnail: /new-images/thumbnails/fancy-pants.jpg
@@ -38,6 +37,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - S 또는 아래 방향키: 슬라이드
 - 위쪽 방향키: 문이나 문처럼 보이는 출입구에 들어가기(버전에 따라 차이 있음)
 
+<!-- i18n:section:tips -->
 ### 팁
 - 점프 버튼을 연타하기보다는, 경사 끝이나 플랫폼 모서리에서 눌러야 이동 거리를
   가장 길게 가져갈 수 있습니다.

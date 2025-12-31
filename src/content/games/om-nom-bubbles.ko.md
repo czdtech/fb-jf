@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: om-nom-bubbles
-title: "Om Nom Bubbles 옴놈 버블즈"
+title: Om Nom Bubbles 옴놈 버블즈
 description: >-
-  Om Nom Bubbles는 귀여운 옴놈과 함께하는 컬러 버블 슈터 게임으로, 같은 색 버블을
-  맞춰 없애고 벽을 이용한 뱅크 샷으로 보드를 정리해 나가는 퍼즐입니다.
+  Om Nom Bubbles는 귀여운 옴놈과 함께하는 컬러 버블 슈터 게임으로, 같은 색 버블을 맞춰 없애고 벽을 이용한 뱅크 샷으로 보드를
+  정리해 나가는 퍼즐입니다.
 iframeSrc: >-
   https://omnombubbles.h5games.usercontent.goog/v/6bdfc73b-7b9c-4046-9bfe-9269036a772f/
 thumbnail: /new-images/thumbnails/om-nom-bubbles.jpg
@@ -25,6 +25,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 나올 버블까지 고려한 수 읽기가 천장을 낮추지 않고 버티는 핵심 요소입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 공략 & 플레이 팁
 
 1. **앵커 제거:** 큰 덩어리를 지탱하고 있는 연결 지점을 우선적으로 노리면, 한 번에 많은
