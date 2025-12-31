@@ -1,7 +1,7 @@
 ---
 locale: en
 title: "Cake Slice Ninja"
-description: "Cake Slice Ninja is a sweet slicing rush — `Swipe` clean cuts, chain combos, and avoid hazards for high scores."
+description: "Cake Slice Ninja is a sweet slicing rush — swipe clean cuts, chain combos, and avoid hazards for high scores."
 iframeSrc: "https://cakesliceninja.h5games.usercontent.goog/v/5bh2c88k8pku8/"
 thumbnail: /new-images/thumbnails/cake-slice-ninja.jpeg
 urlstr: "cake-slice-ninja"
@@ -43,5 +43,4 @@ Cake Slice Ninja channels classic slice‑’em‑up action: flick to slice cake
   Any two‑finger tricks? On touch devices, multi‑finger swipes can cover more area if supported.
 - <!-- i18n:faq:id=faq:cake-slice-ninja:how-to-avoid-bombs-afbe5ed8 -->
   How to avoid bombs? Track their fuses and paths; never complete a `Swipe` that crosses a bomb.
-
 

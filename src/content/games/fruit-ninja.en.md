@@ -2,7 +2,7 @@
 locale: en
 # Frontmatter: 遵循上面 config.ts 中定义的 schema
 title: "Fruit Ninja"
-description: "Arcade slicing: `Swipe` through flying fruit while avoiding bombs; chain combos and frenzy boosts for higher scores." 
+description: "Arcade slicing: swipe through flying fruit while avoiding bombs; chain combos and frenzy boosts for higher scores."
 iframeSrc: "https://emulatoros.github.io/gfile/fruitninja/"
 thumbnail: /new-images/thumbnails/fruit-ninja.jpg
 urlstr: "fruit-ninja"
@@ -46,5 +46,4 @@ releaseDate: 2025-08-16
 - <!-- i18n:faq:id=faq:fruit-ninja:are-there-different-modes-avai-99169aab -->
   Q: Are there different modes available?
   A: Many hosts include Classic, Arcade (with power‑ups), and Zen.
-
 
