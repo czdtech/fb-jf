@@ -421,9 +421,15 @@ function looksLikeFaqQuestionLine(locale: TargetLocale, line: string): boolean {
   const looksBold = t.startsWith('**') && t.includes('**');
   const looksList = /^[-*+]\s+/.test(t);
 
-  // Nested list items inside FAQ sections are overwhelmingly answer blocks or lists within answers.
-  // Treat only top-level list items as candidate questions.
-  if (looksList && leadingSpaces > 0) return false;
+  if (looksList && leadingSpaces > 0) {
+    const normalized = t.replace(/^[-*+]\s+/, '').trim().replace(/^\*\*/, '').trim();
+    const isExplicitQuestion =
+      /^q[:：]/i.test(normalized) ||
+      (locale === 'zh' && /^(问|問)：/.test(normalized)) ||
+      (locale === 'ja' && /^質問/.test(normalized)) ||
+      (locale === 'ko' && /^질문/.test(normalized));
+    if (!isExplicitQuestion) return false;
+  }
 
   // Accept plain Q-lines (not necessarily bold/list) when they clearly start with a question prefix.
   // This helps avoid "foundQuestions < expected" caused by formatting variance.
