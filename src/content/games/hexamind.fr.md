@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: hexamind
-title: "HexaMind"
-description: "HexaMind est un puzzle logique sur grille hexagonale : place des tuiles en respectant des règles d’adjacence et de parité à travers des motifs en nid d’abeille."
+title: HexaMind
+description: >-
+  HexaMind est un puzzle logique sur grille hexagonale : place des tuiles en
+  respectant des règles d’adjacence et de parité à travers des motifs en nid
+  d’abeille.
 iframeSrc: 'https://518ndvi54l1n0.h5games.usercontent.goog/v/608gefgjbkc88/'
 thumbnail: /new-images/thumbnails/hexamind.png
 tags:
@@ -19,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 HexaMind se joue sur une grille hexagonale où chaque case doit respecter des contraintes d’adjacence : couleurs, nombres ou symboles ne peuvent pas toujours se toucher, ou doivent satisfaire des règles de somme et de parité le long de certaines lignes. La géométrie à six directions permet des déductions riches grâce aux anneaux et rayons qui se croisent autour de chaque cellule.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 1.  **Commence par les cases critiques**  

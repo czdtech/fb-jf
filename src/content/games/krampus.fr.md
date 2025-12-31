@@ -1,14 +1,19 @@
 ---
 locale: fr
-urlstr: "krampus"
-title: "Krampus"
-description: "Jeu de plateforme d’horreur de fin d’année : explore des niveaux sombres, évite les pièges et les créatures, et trouve des clés et objets pour t’échapper de l’antre de Krampus."
-iframeSrc: "https://g2.igroutka.ru/lib/crazy/games/krampus1/"
+urlstr: krampus
+title: Krampus
+description: >-
+  Jeu de plateforme d’horreur de fin d’année : explore des niveaux sombres,
+  évite les pièges et les créatures, et trouve des clés et objets pour
+  t’échapper de l’antre de Krampus.
+iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/krampus1/'
 thumbnail: /new-images/thumbnails/krampus.jpg
-tags: ["horror", "platformer"]
-score: "3.9/5  (275 votes)"
-developer: ""
-releaseDate: 2025-08-16
+tags:
+  - horror
+  - platformer
+score: 3.9/5  (275 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -29,6 +34,7 @@ Krampus est un jeu de plateforme horrifique saisonnier qui se déroule dans des 
 - Flèches / WASD pour se déplacer et sauter.
 - La touche d’action / d’interaction varie selon le site qui héberge le jeu.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Repère les reflets ou petites sources de lumière qui signalent des objets à récupérer et les sorties.

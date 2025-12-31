@@ -19,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Classic Solitaire, aussi connu sous le nom de Klondike, est l'un des jeux de cartes en solo les plus célèbres et appréciés au monde. L'objectif est d'organiser un paquet de 52 cartes mélangées en quatre piles de fondation, une pour chaque couleur, en ordre croissant de l'As au Roi. Le jeu nécessite stratégie, patience et un peu de chance alors que tu manipules les cartes sur le tableau pour révéler les cartes cachées et construire tes fondations.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Composants du jeu :**

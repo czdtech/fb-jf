@@ -1,8 +1,10 @@
 ---
 locale: fr
 urlstr: fruit-chef
-title: "Fruit Chef"
-description: "Fruit Chef est un jeu de découpe ultra rapide : enchaîne les tranches nettes, évite les bombes et gère ton tempo pour des combos monstrueux."
+title: Fruit Chef
+description: >-
+  Fruit Chef est un jeu de découpe ultra rapide : enchaîne les tranches nettes,
+  évite les bombes et gère ton tempo pour des combos monstrueux.
 iframeSrc: 'https://419in6alhpp88.h5games.usercontent.goog/v/22nao6drjf7v0/'
 thumbnail: /new-images/thumbnails/fruit-chef.png
 tags:
@@ -19,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Fruit Chef reprend le concept classique du découpage de fruits : trace des lignes nettes à travers les fruits lancés en l’air, construis des chaînes de combos et évite les bombes. Le système de score récompense les longues coupes droites qui touchent plusieurs fruits à la fois, ainsi qu’un rythme régulier plutôt que des gestes frénétiques.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Privilégie les longues trajectoires : coupe plusieurs fruits d’un seul trait pour obtenir des bonus de combo.

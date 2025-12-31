@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Minesweeper Mania est une version soignée du démineur classique, proposant plusieurs niveaux de difficulté. Le principe ne change pas : vider une grille contenant des mines sans en déclencher une seule. Chaque nombre indique combien de mines se trouvent dans les huit cases adjacentes, et tu dois t'en servir pour déduire où se cachent les bombes. Les petites grilles sont idéales pour débuter, tandis que les grandes offrent un vrai défi aux vétérans.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Premier clic garanti :** le premier clic est toujours sûr et ne sera jamais une mine. Commencer au centre ou dans un coin de grande zone ouvre rapidement la grille.

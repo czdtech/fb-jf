@@ -19,6 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Chess Mania offre une superbe expérience d'échecs pour les passionnés de tous niveaux. Ce jeu fournit une interface claire et un adversaire IA puissant avec plusieurs niveaux de difficulté. Que tu apprennes les règles ou que tu sois un grand maître expérimenté, Chess Mania est l'endroit parfait pour pratiquer ta stratégie, tester de nouvelles ouvertures et affûter tes compétences tactiques. L'objectif reste le même : surpasser ton adversaire et mettre son roi en échec et mat.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Maîtrise l'ouverture :** commence la partie en développant tes pièces vers le centre du plateau. Une ouverture solide prépare le terrain pour toute la partie.

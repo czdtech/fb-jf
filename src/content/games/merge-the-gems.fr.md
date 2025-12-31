@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Merge the Gems est un puzzle simple, relaxant et très addictif où tu fusionnes des gemmes identiques pour créer des pierres toujours plus précieuses. Tu commences avec des pierres brutes et, en les combinant, tu obtiens des joyaux étincelants de niveau supérieur. Le but est de gérer ton plateau, de fusionner en continu pour découvrir de nouveaux types de gemmes et de remplir des objectifs pour gagner des points et des pièces.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Chaîne de fusion :** le principe central consiste à faire glisser une gemme sur une autre identique pour les fusionner en une gemme de niveau supérieur. Plus le niveau est élevé, plus la valeur et le gain d'espace sont intéressants.

@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: football-kickoff
-title: "Football Kickoff"
-description: "Football Kickoff met en avant les équipes spéciales : vise tes coups de pied, lis le vent et gagne la bataille du terrain avec une bonne gestion de la puissance."
+title: Football Kickoff
+description: >-
+  Football Kickoff met en avant les équipes spéciales : vise tes coups de pied,
+  lis le vent et gagne la bataille du terrain avec une bonne gestion de la
+  puissance.
 iframeSrc: 'https://30sab7l7n7df0.h5games.usercontent.goog/v/5c7k7dlnf1c5g/'
 thumbnail: /new-images/thumbnails/football-kickoff.jpg
 tags:
@@ -19,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Football Kickoff se concentre sur les situations de coups de pied au football américain : field goals, kickoffs directionnels et parfois des punts. Le vent, le timing du snap et la position des lacets peuvent faire la différence ; un bon timing sur la jauge de puissance et une visée correcte déterminent la distance et la précision de tes kicks.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Lis le vent : décale ta visée dans la direction opposée au vent ; plus il est fort, plus tu dois compenser.

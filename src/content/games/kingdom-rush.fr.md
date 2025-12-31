@@ -34,6 +34,7 @@ Kingdom Rush a établi le mélange de la série entre contrôle de voie et micro
 
 - Souris/tactile pour toutes les actions de tours et héros ; les raccourcis varient.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Peu de tours fortes surpassent beaucoup de tours faibles en début de partie.

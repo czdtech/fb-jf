@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Jungle Match Puzzle est un match‑3 coloré avec des lianes, caisses et tuiles collantes comme bloqueurs. Tu dois compléter les objectifs de scène (score, collecter des idoles, libérer des animaux) dans un nombre de coups limité. Combiner des bonus (bombe + ligne, double ligne) balaye la végétation dense et ouvre le plateau pour des cascades de nettoyage.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  Objectif d'abord : Priorise le nettoyage des bloqueurs et les objectifs de collection avant le score pur.

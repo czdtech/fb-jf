@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: duck-life
-title: 'Duck Life'
-description: >-
-  Duck Life est un jeu d’entraînement et de course : améliore ton canard via des
-  mini‑jeux et gagne des courses.
+title: Duck Life
+description: "Duck Life est un jeu d’entraînement et de course\_: améliore ton canard via des mini‑jeux et gagne des courses."
 iframeSrc: 'https://games.wixgames.co.uk/games/ducklife1/webgl/'
 thumbnail: /new-images/thumbnails/duck-life.jpg
 tags:
@@ -36,6 +34,7 @@ débloquer de nouvelles zones.
 ### Commandes
 - Flèches/Espace ou souris selon le mini‑jeu.
 
+<!-- i18n:section:tips -->
 ### Astuces
 - Équilibre les stats au lieu de “grinder” une seule.
 - Regarde les aperçus de course pour voir quelles compétences comptent le plus.

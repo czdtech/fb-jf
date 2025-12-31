@@ -27,6 +27,7 @@ supplémentaires. Les grilles deviennent progressivement plus longues et plus
 complexes.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Remplis d’abord les emplacements évidents**  

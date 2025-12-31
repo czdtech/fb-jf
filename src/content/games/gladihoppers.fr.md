@@ -1,8 +1,10 @@
 ---
 locale: fr
 urlstr: gladihoppers
-title: "Gladihoppers"
-description: "Brawler de gladiateurs 2D avec sauts physiques : personnalise ton équipement, cale tes estocs et parades, et gravis les arènes en duel ou en mode carrière."
+title: Gladihoppers
+description: >-
+  Brawler de gladiateurs 2D avec sauts physiques : personnalise ton équipement,
+  cale tes estocs et parades, et gravis les arènes en duel ou en mode carrière.
 iframeSrc: 'https://m.igroutka.ru/g-1/113/Gladihoppers/'
 thumbnail: /new-images/thumbnails/gladihoppers.jpg
 tags:
@@ -31,6 +33,7 @@ Gladihoppers mélange un déplacement sautillant façon ragdoll avec des combats
 - Sauts directionnels, touches d’attaque et de garde (bindings variables selon l’hébergeur).  
 - Un mode versus local est souvent disponible.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Les lances/pique favorisent le jeu à distance ; les épées sont meilleures pour la pression à courte portée.

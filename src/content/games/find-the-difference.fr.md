@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Find the Difference est un jeu de réflexion classique qui met à l'épreuve ton sens de l'observation et ton attention aux détails. À chaque niveau, tu vois deux images qui semblent identiques au premier regard, mais qui cachent plusieurs différences subtiles. Ton objectif est de comparer les deux images avec soin et de trouver toutes les différences avant la fin du compte à rebours. C'est un jeu à la fois relaxant et exigeant, parfait pour faire travailler ton cerveau.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Balaye méthodiquement : ne fixe pas seulement le centre des images. Commence dans un coin (par exemple en haut à gauche) et examine les deux images zone par zone. Déplace ton regard d'une image à l'autre sur la même zone pour repérer les écarts.

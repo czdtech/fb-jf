@@ -20,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Color Pin te demande de lancer des aiguilles sur un disque en rotation. Évite de toucher celles déjà plantées, et dans les modes colorés, vise le segment correspondant à la couleur demandée. Les variations de vitesse et de sens de rotation récompensent le rythme et la patience.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  Observe le cycle de rotation et tire toujours sur une phase régulière.

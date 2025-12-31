@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Jewel Blocks est un jeu de puzzle trompeusement simple mais hautement addictif qui met au défi tes compétences de planification spatiale. L'objectif est de marquer autant de points que possible en plaçant diverses formes de blocs à thème joyaux sur une grille 10x10. Quand tu formes une ligne complète de blocs, horizontalement ou verticalement, la ligne est supprimée du plateau. Le principal défi réside dans le fait que les blocs ne peuvent pas être pivotés, donc tu dois réfléchir soigneusement au placement pour éviter que le plateau ne se remplisse.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Planifie à l'avance :** Tu reçois trois formes de blocs à la fois. Avant de placer le premier, considère comment les trois pourraient tenir sur le plateau. Ne te concentre pas seulement sur le placement immédiat ; pense à l'espace que tu laisses pour les pièces futures.

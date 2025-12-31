@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Freekick Football est un jeu entièrement dédié à l'art du coup franc. Tu dois marquer depuis différentes positions, en contournant le mur et le gardien. Chaque tentative met à l'épreuve ta précision, ton timing et ta compréhension de la trajectoire du ballon.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Vise avec soin : trouve la meilleure trajectoire vers le but en tenant compte de la position du mur et du gardien.

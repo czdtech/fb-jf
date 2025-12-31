@@ -10,7 +10,7 @@ tags:
   - puzzle
   - thinky
 score: 4.4/5  (2300 votes)
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
@@ -26,6 +26,7 @@ Les mots valides remplissent des cases, un peu comme dans un mini mot croisé ou
 un jeu de lettres à relier.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Commence par les mots évidents**  

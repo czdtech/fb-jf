@@ -1,8 +1,10 @@
 ---
 locale: fr
 urlstr: elite-chess
-title: "Elite Chess"
-description: "Elite Chess t’aide à solidifier tes bases : bonnes ouvertures, tactiques propres et technique de finale pour convertir tes avantages."
+title: Elite Chess
+description: >-
+  Elite Chess t’aide à solidifier tes bases : bonnes ouvertures, tactiques
+  propres et technique de finale pour convertir tes avantages.
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
 thumbnail: /new-images/thumbnails/elite-chess.png
 tags:
@@ -19,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Elite Chess propose une expérience d’échecs épurée contre une IA réglable ou un adversaire local. Ta progression repose sur trois piliers : (1) les principes d’ouverture — développement rapide, sécurité du roi et pièces actives ; (2) les tactiques du milieu de jeu — fourchettes, clouages, enfilades, attaques découvertes, déviation de défenseurs ; (3) les finales — activité du roi, opposition, mats de base et finales de tours pratiques. Les puzzles et les niveaux de difficulté ajustables t’aident à développer ton calcul et ta reconnaissance de motifs.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Ouvertures : occupe le centre (pions e4/d4/c4), développe tes cavaliers avant les fous, roque tôt et connecte tes tours.

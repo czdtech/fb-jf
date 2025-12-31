@@ -26,6 +26,7 @@ la nécessité de gérer le risque : jouer au sol pour assurer, ou lever la bal
 pour viser les limites.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Adapte tes tirs à la ligne**  

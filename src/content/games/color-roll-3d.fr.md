@@ -27,6 +27,7 @@ Ton objectif est de trouver la bonne séquence de déroulage pour superposer les
 bandes exactement comme dans l’exemple affiché en haut ou en arrière‑plan.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Observe d’abord le motif cible**  

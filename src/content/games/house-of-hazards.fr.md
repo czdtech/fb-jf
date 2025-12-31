@@ -1,9 +1,12 @@
 ---
 locale: fr
 urlstr: house-of-hazards
-title: "House Of Hazards"
-description: "Party game local chaotique : réalise des tâches quotidiennes dans une maison pleine de pièges pendant que tes amis déclenchent des hazards pour te faire voler dans tous les sens."
-iframeSrc: "https://webglmath.github.io/house-of-hazards/"
+title: House Of Hazards
+description: >-
+  Party game local chaotique : réalise des tâches quotidiennes dans une maison
+  pleine de pièges pendant que tes amis déclenchent des hazards pour te faire
+  voler dans tous les sens.
+iframeSrc: 'https://webglmath.github.io/house-of-hazards/'
 thumbnail: /new-images/thumbnails/house-of-hazards.jpg
 tags:
   - party
@@ -30,6 +33,7 @@ House Of Hazards est un party game multijoueur local qui se déroule dans une ma
 
 - Commandes simples de déplacement/saut/action (touches exactes indiquées par l’hébergeur). Chaque joueur utilise un ensemble de touches différent sur le même clavier ou manette.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Ne te focalise pas uniquement sur ta prochaine tâche : surveille les lumières ou effets visuels qui indiquent qu’un piège est armé.  

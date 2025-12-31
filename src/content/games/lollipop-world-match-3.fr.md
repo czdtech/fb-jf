@@ -1,14 +1,20 @@
 ---
 locale: fr
-urlstr: "lollipop-world-match-3"
-title: "Lollipop World : match 3"
-description: "Lollipop World : Match 3 est un jeu de réflexion gourmand : combine des bonus, casse les bloqueurs et atteins les objectifs de chaque niveau avec un nombre de coups limité."
-iframeSrc: "https://4oij9suhguc58.h5games.usercontent.goog/v/1osssadggdrao/"
+urlstr: lollipop-world-match-3
+title: 'Lollipop World : match 3'
+description: >-
+  Lollipop World : Match 3 est un jeu de réflexion gourmand : combine des bonus,
+  casse les bloqueurs et atteins les objectifs de chaque niveau avec un nombre
+  de coups limité.
+iframeSrc: 'https://4oij9suhguc58.h5games.usercontent.goog/v/1osssadggdrao/'
 thumbnail: /new-images/thumbnails/lollipop-world-match-3.jpg
-tags: ["puzzle", "casual", "thinky"]
-score: "4.0/5  (1871 votes)"
-developer: ""
-releaseDate: 2025-10-18
+tags:
+  - puzzle
+  - casual
+  - thinky
+score: 4.0/5  (1871 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -17,6 +23,7 @@ releaseDate: 2025-10-18
 Lollipop World est un jeu de match‑3 très coloré avec du glaçage, des emballages et du chocolat qui servent de bloqueurs. Selon le niveau, ton objectif peut être d’atteindre un certain score, de collecter des types de bonbons précis ou de nettoyer toute la gelée. Les fusions de bonus (comme bombe + ligne ou bonbon de couleur) sont indispensables pour ouvrir les plateaux les plus encombrés.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Priorise l’objectif :** concentre‑toi d’abord sur les bloqueurs et les éléments à collecter plutôt que de chasser les points bruts.

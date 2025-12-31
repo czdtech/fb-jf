@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Jurassic Run est un runner infini rapide situé parmi les dinosaures et les obstacles de jungle. Lis la piste à l'avance, change de voie ou saute/glisse pour éviter les dangers, et enchaîne les collectes de pièces à mesure que la vitesse augmente.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  Regarde loin devant pour planifier les changements de voie anticipés.

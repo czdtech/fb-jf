@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Kitty Match est un jeu de match‑3 plein de chats et de niveaux colorés. Le but est d'échanger deux tuiles adjacentes pour former des lignes d'au moins trois symboles identiques. Chaque niveau a son objectif (collecter des items, casser des blocs spéciaux, etc.) et tu progresses dans un monde rempli de félins. C'est un jeu relaxant pour tous les âges, parfait pour les amateurs de puzzles et de chats.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Cherche les gros matches** : aligner 4 ou 5 tuiles crée des bonus qui nettoient lignes, colonnes ou zones complètes.

@@ -1,9 +1,11 @@
 ---
 locale: fr
 urlstr: ladybug-jump
-title: "Ladybug Jump"
-description: "Ladybug Jump est un petit jeu de saut joyeux : enchaîne les bonds sur les feuilles, évite flaques et araignées, et récolte le nectar."
-iframeSrc: "https://1rtviun5s8hc0.h5games.usercontent.goog/v/2ajo6kl7ue0a0/"
+title: Ladybug Jump
+description: >-
+  Ladybug Jump est un petit jeu de saut joyeux : enchaîne les bonds sur les
+  feuilles, évite flaques et araignées, et récolte le nectar.
+iframeSrc: 'https://1rtviun5s8hc0.h5games.usercontent.goog/v/2ajo6kl7ue0a0/'
 thumbnail: /new-images/thumbnails/ladybug-jump.png
 tags:
   - action
@@ -19,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Ladybug Jump est un platformer léger et familial. Tu sautes de feuille en champignon, évites les flaques d’eau et les araignées, et récupères du nectar pour gagner des bonus. Au fil des niveaux, des plateformes mobiles et des rafales de vent viennent compliquer le timing des sauts.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Sauts courts** : privilégie de petits sauts pour plus de précision.  

@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Merge Defenders est un jeu stratégique qui mélange la satisfaction des puzzles de fusion avec l'intensité d'un tower defense. Tu dois protéger ta base contre des vagues d'ennemis en achetant des unités de base, en fusionnant deux unités identiques pour les faire monter de niveau, puis en les plaçant sur les emplacements de défense le long du chemin des ennemis.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Cycle de fusion :** tu commences en achetant des unités de niveau 1. Fais glisser une unité de niveau 1 sur une autre identique pour obtenir une unité de niveau 2, et ainsi de suite. Les niveaux supérieurs infligent beaucoup plus de dégâts et tirent plus vite.

@@ -1,8 +1,10 @@
 ---
 locale: fr
 urlstr: finger-slayer
-title: "Finger Slayer"
-description: "Finger Slayer met tes réflexes bruts à l’épreuve : retire ton doigt virtuel à la toute dernière milliseconde pour éviter la lame sans sursauter trop tôt."
+title: Finger Slayer
+description: >-
+  Finger Slayer met tes réflexes bruts à l’épreuve : retire ton doigt virtuel à
+  la toute dernière milliseconde pour éviter la lame sans sursauter trop tôt.
 iframeSrc: 'https://7ftsta5r737o8.h5games.usercontent.goog/v/3m7r2si8ppdlg/'
 thumbnail: /new-images/thumbnails/finger-slayer.jpg
 tags:
@@ -19,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Finger Slayer est un test de réflexes à un seul bouton : tu poses ton « doigt » dans une zone dangereuse, puis tu le retires au tout dernier moment avant que le piège ne se referme. Les manches deviennent de plus en plus difficiles avec des fermetures plus rapides, de faux signaux visuels/sonores et des changements de rythme qui punissent ceux qui anticipent trop. Le but est d’effectuer un retrait net et précis au dernier instant possible, sans flancher trop tôt (ce qui donne un moins bon score) ni attendre trop longtemps.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Lis les indices : la plupart des pièges ont un micro‑signe avant de se refermer (son, vibration visuelle). Base‑toi sur ce signal plutôt que sur un simple comptage dans ta tête.

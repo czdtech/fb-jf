@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Idle Explorers est un jeu de gestion idle et de clicker dans lequel tu incarnes un magnat de l'exploration minière. Ton but est de bâtir un vaste empire en dirigeant une équipe d'ouvriers qui creusent pour extraire des ressources précieuses. Tu commences avec un seul explorateur dans un puits basique, puis tu réinvestis les gains pour améliorer ton installation, engager plus de travailleurs, automatiser les tâches grâce à des managers et finalement débloquer de nouvelles mines beaucoup plus rentables à travers différents mondes.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **La boucle de base :** tes ouvriers creusent automatiquement et génèrent de l'argent. Tu utilises cet argent pour acheter des améliorations, qui à leur tour augmentent tes revenus et te permettent d'acheter encore plus d'upgrades. Ce cycle se répète à mesure que tu développes ton empire.

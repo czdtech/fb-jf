@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Idle Restaurants est un jeu de gestion idle où tu construis un empire culinaire à partir d'un petit restaurant de quartier. Tu commences avec quelques tables et une équipe modeste, et tu dois réinvestir intelligemment tes bénéfices pour développer ton affaire. En améliorant tes tables, tes chefs et tes serveurs, tu augmentes ton efficacité et tes profits. L'objectif ultime est d'automatiser au maximum la chaîne de service grâce à des managers, puis d'étendre ton empire en ouvrant de nouveaux restaurants toujours plus lucratifs.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Comprendre le flux du restaurant :** les clients arrivent et sont installés → le chef prépare leur plat → le serveur le leur apporte → ils paient l'addition. Chaque étape de cette chaîne peut être améliorée pour augmenter la vitesse ou le montant gagné.

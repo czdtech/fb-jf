@@ -1,9 +1,12 @@
 ---
 locale: fr
 urlstr: gunspin
-title: "Gunspin"
-description: "Jeu d’arcade basé sur le recul : tire pour faire tourner ton arme et te propulser, récupère des munitions et voyage le plus loin possible tout en évitant les dangers."
-iframeSrc: "https://ubg44.github.io/GunSpin/"
+title: Gunspin
+description: >-
+  Jeu d’arcade basé sur le recul : tire pour faire tourner ton arme et te
+  propulser, récupère des munitions et voyage le plus loin possible tout en
+  évitant les dangers.
+iframeSrc: 'https://ubg44.github.io/GunSpin/'
 thumbnail: /new-images/thumbnails/gunspin.jpg
 tags:
   - arcade
@@ -30,6 +33,7 @@ Gunspin transforme le recul de ton arme en moyen de locomotion. Chaque tir fait 
 
 - Souris ou barre d’espace pour tirer ; le timing et la direction du tir déterminent ta trajectoire.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Privilégie de petites pressions plutôt que de longues rafales afin d’économiser tes munitions.

@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Footchinko est un jeu d'arcade original et très accrocheur qui mélange l'intensité du football (soccer) avec les mécaniques classiques du pachinko et du flipper. Ton but est de guider un ballon de foot à travers un terrain rempli de picots, bumpers et autres obstacles, pour marquer. Chaque niveau propose une disposition et des défis différents, ce qui t'oblige à viser avec précision et à réfléchir à la meilleure trajectoire pour contourner les défenseurs et trouver le filet. Des bonus et bonus viennent pimenter la partie et t'aident à atteindre des scores élevés.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  **La visée est essentielle :** avant chaque tir, réfléchis à la trajectoire du ballon. Cherche les chemins qui lui permettront de toucher plusieurs picots ou bonus avant de filer vers le but.

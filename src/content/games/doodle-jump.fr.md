@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: doodle-jump
-title: 'Doodle Jump'
-description: >-
-  Doodle Jump est un platformer vertical : rebondis de plateforme en plateforme,
-  évite les dangers et monte le plus haut possible.
+title: Doodle Jump
+description: "Doodle Jump est un platformer vertical\_: rebondis de plateforme en plateforme, évite les dangers et monte le plus haut possible."
 iframeSrc: 'https://ubg98.github.io/DoodleJump/'
 thumbnail: /new-images/thumbnails/doodle-jump.jpg
 tags:
@@ -37,6 +35,7 @@ hélices, jetpacks) pour monter plus haut.
 - Gauche/Droite (ou inclinaison sur mobile) : déplacement ; saut automatique au
   contact ; action/tir si disponible.
 
+<!-- i18n:section:tips -->
 ### Astuces
 - Privilégie les plateformes stables quand l’écran défile vite.
 - Garde les bonus puissants pour les passages clairsemés.

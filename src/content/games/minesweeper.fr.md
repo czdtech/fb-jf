@@ -22,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Minesweeper est un jeu de puzzle classique pour un seul joueur. Ton objectif est de dévoiler une grille de cases et de trouver toutes les mines cachées sans les faire exploser. À l’aide d’indices numériques, tu peux déduire combien de mines se trouvent autour de chaque case et ainsi dégager progressivement les zones sûres tout en marquant les emplacements dangereux.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Comprendre les nombres :** chaque case numérotée indique le nombre de mines présentes dans les huit cases adjacentes.

@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: golf-orbit
-title: "Golf Orbit"
-description: "Golf Orbit transforme le golf en puzzle de vol physique : règle ton angle de lancement, gère l’effet et profite de la gravité des planètes pour des trajectoires longues et stratégiques."
+title: Golf Orbit
+description: >-
+  Golf Orbit transforme le golf en puzzle de vol physique : règle ton angle de
+  lancement, gère l’effet et profite de la gravité des planètes pour des
+  trajectoires longues et stratégiques.
 iframeSrc: 'https://7e0r297sgk0j0.h5games.usercontent.goog/v/1976bdao4gtf0/'
 thumbnail: /new-images/thumbnails/golf-orbit.png
 tags:
@@ -20,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Golf Orbit fait du golf un puzzle de trajectoires. Tu choisis un angle et une puissance de tir, puis tu regardes ta balle tracer une arc à travers différents terrains et corps célestes. L’effet (spin), les rebonds, le vent et parfois des puits de gravité ajoutent de la profondeur : les meilleurs coups exploitent les pentes, frôlent les obstacles et enchaînent les rebonds pour atteindre des cibles cachées.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Discipline sur l’angle : des tirs bas (angle faible) maximisent le roulement au sol ; des arcs plus hauts permettent de passer au‑dessus des dangers mais perdent de la distance à l’atterrissage.

@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Merge Cakes est un puzzle doux et relaxant où tu combines des gâteaux identiques pour créer des desserts toujours plus spectaculaires. Tu commences avec de simples cupcakes et, fusion après fusion, tu obtiens des parts, des gâteaux à étages et d'autres créations gourmandes. Ton objectif est de répondre aux commandes, de gagner des pièces et de compléter ton carnet de recettes.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Maîtriser la chaîne de fusion :** le cœur du jeu est la fusion. Fais glisser un gâteau sur un autre identique pour obtenir un gâteau de niveau supérieur. Deux cupcakes peuvent devenir un cupcake plus grand, qui finira par se transformer en part de gâteau, et ainsi de suite.

@@ -1,8 +1,10 @@
 ---
 locale: fr
 urlstr: endless-truck
-title: "Endless Truck"
-description: "Endless Truck est un runner de cascades : gère ton élan, atterris proprement et enchaîne les boosts tout en récoltant de l’argent et des améliorations."
+title: Endless Truck
+description: >-
+  Endless Truck est un runner de cascades : gère ton élan, atterris proprement
+  et enchaîne les boosts tout en récoltant de l’argent et des améliorations.
 iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
 thumbnail: /new-images/thumbnails/endless-truck.png
 tags:
@@ -19,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 Endless Truck est un runner à défilement horizontal centré sur la gestion de la vitesse et l’angle d’atterrissage. Collines, tremplins et ravins récompensent une accélération fluide et des flips contrôlés ; les atterrissages ratés te font perdre de la vitesse ou provoquent un crash. En ramassant de l’argent et en accomplissant des missions, tu débloques des améliorations (moteur, suspension, boost) qui augmentent ta vitesse de pointe et la stabilité de ton camion.
 
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Atterris bien à plat : touche le sol avec les roues bien horizontales pour conserver ta vitesse et éviter les rebonds incontrôlés.
@@ -32,6 +35,7 @@ Endless Truck est un runner à défilement horizontal centré sur la gestion de 
 
 - Accélérer/Freiner : W/S ou Flèche Haut/Bas.  Incliner le camion : A/D ou Flèches Gauche/Droite.  Boost : Shift ou Barre d’espace (selon la configuration).
 
+<!-- i18n:section:tips -->
 ### Astuces avancées
 
 - Pumping : appuie brièvement sur le frein avant une descente pour baisser le nez du camion, puis accélère à l’atterrissage pour gagner en traction.

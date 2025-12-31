@@ -25,6 +25,7 @@ Tu dois adapter ton style de jeu : coups prudents pour garder ton guichet,
 frappes puissantes pour rattraper un retard au score.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Connais l’objectif du niveau**  

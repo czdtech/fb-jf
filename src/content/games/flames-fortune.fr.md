@@ -1,8 +1,10 @@
 ---
 locale: fr
 urlstr: flames-fortune
-title: "Flames & Fortune"
-description: "Flames & Fortune est un jeu de combat tactique façon cartes : gère ta main, contrôle le tempo et surpasse tes adversaires avec des tours bien pensés."
+title: Flames & Fortune
+description: >-
+  Flames & Fortune est un jeu de combat tactique façon cartes : gère ta main,
+  contrôle le tempo et surpasse tes adversaires avec des tours bien pensés.
 iframeSrc: 'https://0e8d16hkgti30.h5games.usercontent.goog/v/00r0qn2t79f3g/'
 thumbnail: /new-images/thumbnails/flames-fortune.jpg
 tags:
@@ -21,6 +23,7 @@ Flames & Fortune est un petit jeu de combat au tour par tour avec des décisions
 Les parties sont rapides mais demandent de la réflexion : une mauvaise séquence ou une ressource gaspillée peut te coûter la victoire.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Planifie ta « curve » : essaie de dépenser proprement tes ressources de tour ; évite de laisser de l’énergie inutilisée.

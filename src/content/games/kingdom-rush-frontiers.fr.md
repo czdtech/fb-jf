@@ -33,6 +33,7 @@ Frontiers affine la formule Kingdom Rush avec de nouveaux biomes, capacités enn
 
 - Souris/tactile pour construire, améliorer et lancer ; les raccourcis varient selon l'hôte.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Ne surconstruis pas tôt — améliore les tours clés pour des dégâts efficaces.

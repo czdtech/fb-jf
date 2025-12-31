@@ -35,6 +35,7 @@ Going Balls est un runner de type « tilt‑and‑roll » sur des pistes étroit
 - Espace : freiner (selon la version).
 - R : recommencer le niveau (si disponible).
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Anticipe et aligne‑toi bien en avance pour les entrées étroites.

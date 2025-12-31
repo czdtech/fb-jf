@@ -1,9 +1,12 @@
 ---
 locale: fr
 urlstr: idle-breakout
-title: "Idle Breakout"
-description: "Hybrid entre idle et casse‑briques : clique pour briser les blocs, achète des balles et tourelles autonomes, utilise le prestige pour des multiplicateurs et optimise tes améliorations."
-iframeSrc: "https://ubg98.github.io/IdleBreakout/"
+title: Idle Breakout
+description: >-
+  Hybrid entre idle et casse‑briques : clique pour briser les blocs, achète des
+  balles et tourelles autonomes, utilise le prestige pour des multiplicateurs et
+  optimise tes améliorations.
+iframeSrc: 'https://ubg98.github.io/IdleBreakout/'
 thumbnail: /new-images/thumbnails/idle-breakout.jpg
 tags:
   - idle
@@ -30,6 +33,7 @@ Idle Breakout fusionne la progression incrémentale avec le gameplay classique d
 
 - Souris : clique sur les briques pour infliger des dégâts, utilise l’interface pour acheter des balles, des améliorations et débloquer les nœuds de prestige.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Garde au moins une balle à très gros dégâts pour faire fondre les boss rapidement.  

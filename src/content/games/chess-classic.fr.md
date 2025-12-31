@@ -19,6 +19,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Chess Classic offre l'expérience intemporelle du jeu d'échecs stratégique directement dans ton navigateur. Que tu sois débutant ou joueur expérimenté, tu peux tester tes compétences contre un adversaire informatique avec des niveaux de difficulté ajustables. Le jeu suit les règles internationales standard des échecs, fournissant une plateforme parfaite pour apprendre, pratiquer et maîtriser l'art de l'échec et mat.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Contrôle le centre :** dans l'ouverture, utilise tes pions et pièces pour exercer un contrôle sur les cases centrales (e4, d4, e5, d5). Les pièces au centre ont plus de mobilité et d'influence sur la partie.

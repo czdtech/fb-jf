@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Fruit Cube Blast est un puzzle « tap‑to‑blast » explosif et coloré. Contrairement aux match‑3 classiques où tu échanges les pièces, ici tu tapes sur des groupes de deux cubes de fruits identiques ou plus pour les faire exploser. Ton objectif est de remplir les missions propres à chaque niveau en vidant les bons cubes et en déclenchant de puissants combos. En faisant exploser de grands groupes, tu crées des boosters spéciaux comme des fusées et des bombes qui nettoient de larges zones du plateau.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Plus c'est gros, mieux c'est : cherche toujours les plus grands groupes de cubes de même couleur avant de taper. Déclencher un petit groupe de 2 ou 3 est rarement rentable ; les gros groupes libèrent plus d'espace et sont les seuls à générer des boosters.

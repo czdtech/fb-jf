@@ -33,6 +33,7 @@ Guess the Kitty est un petit quiz dans lequel tu dois identifier des races de ch
 - Souris / tactile pour sélectionner les réponses.  
 - Clavier lorsque tu dois saisir une réponse texte.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Apprends les motifs distinctifs (le M du tabby, les taches de l'écaille de tortue, les masques colourpoint).

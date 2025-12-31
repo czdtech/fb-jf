@@ -41,6 +41,7 @@ niveaux de difficulté. Le but est de remplir la grille avec des chiffres de 1 �
   panneau ou via ton clavier.  
 - **Outils** : gomme, notes, vérification d’erreur, aide, selon la version.
 
+<!-- i18n:section:tips -->
 ### Conseils et stratégies
 
 

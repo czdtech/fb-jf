@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Giant Attack est un jeu d'action rapide où tu te retrouves face à des monstres gigantesques. Tu contrôles un héros qui doit défendre le terrain contre ces colosses. La clé de la victoire ne se limite pas à attaquer : tu dois aussi ramasser des alliés colorés disséminés sur le champ de bataille. Plus tu en collectes, plus ton personnage grandit et se renforce, ce qui lui permet de lancer des projectiles plus puissants pour détruire les géants avant qu'ils ne t'écrasent.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Rassembler pour grandir : déplace‑toi pour récupérer les petits alliés colorés au sol. Chacun augmente ta taille et tes stats.

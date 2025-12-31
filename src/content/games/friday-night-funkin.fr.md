@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: friday-night-funkin
-title: "Friday Night Funkin"
-description: "Battle de rythme : enchaîne les notes en rythme face à tes adversaires au fil des semaines ; les difficultés élevées ajoutent des patterns plus rapides et des notes longues piégeuses."
+title: Friday Night Funkin
+description: >-
+  Battle de rythme : enchaîne les notes en rythme face à tes adversaires au fil
+  des semaines ; les difficultés élevées ajoutent des patterns plus rapides et
+  des notes longues piégeuses.
 iframeSrc: 'https://html-classic.itch.zone/html/2876359-1077558/index.html'
 thumbnail: /new-images/thumbnails/friday-night-funkin.jpg
 tags:
@@ -32,6 +35,7 @@ Friday Night Funkin est un jeu de rythme en « semaines » où tu affrontes diff
 - Flèches directionnelles (ou WASD) : jouer les notes.
 - Entrée : valider dans les menus.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Apprends les motifs d’abord à l’oreille, pas seulement avec les visuels : la musique t’aide à anticiper les séries de notes.

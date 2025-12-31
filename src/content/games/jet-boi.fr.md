@@ -1,9 +1,12 @@
 ---
 locale: fr
 urlstr: jet-boi
-title: "Jet Boi"
-description: "Duel 2 joueurs au jetpack : gère ton carburant, ramasse les armes et éjecte ton adversaire des plateformes dans des manches ultra rapides."
-iframeSrc: "https://g.igroutka.ru/games/23/yw5Aj09crUtBZC8T/rvvASMiM/5113cafa646f4648abc873fe8fbb7232/"
+title: Jet Boi
+description: >-
+  Duel 2 joueurs au jetpack : gère ton carburant, ramasse les armes et éjecte
+  ton adversaire des plateformes dans des manches ultra rapides.
+iframeSrc: >-
+  https://g.igroutka.ru/games/23/yw5Aj09crUtBZC8T/rvvASMiM/5113cafa646f4648abc873fe8fbb7232/
 thumbnail: /new-images/thumbnails/jet-boi.jpg
 tags:
   - action
@@ -30,6 +33,7 @@ Jet Boi est un petit shooter versus centré sur le contrôle aérien. Deux joueu
 
 - Chaque joueur dispose de ses propres touches de déplacement / boost / tir (variables selon l’hébergeur), pensées pour le 2P local sur un clavier.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - De petites pressions stabilisent ta visée, les longues poussées servent surtout à te repositionner.  

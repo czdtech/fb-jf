@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: diner-dash
-title: 'Diner Dash'
-description: >-
-  Diner Dash est un jeu de gestion du temps : place les clients, prends les
-  commandes, sers les plats et garde tout le monde content pour réussir les
-  niveaux.
+title: Diner Dash
+description: "Diner Dash est un jeu de gestion du temps\_: place les clients, prends les commandes, sers les plats et garde tout le monde content pour réussir les niveaux."
 iframeSrc: 'https://ad-freegames.github.io/flash/game/diner-dash.html'
 thumbnail: /new-images/thumbnails/diner-dash.jpg
 tags:
@@ -40,6 +37,7 @@ des améliorations entre les niveaux.
 - Souris/tactile : clique sur les destinations dans l’ordre pour enchaîner les
   actions ; certaines versions permettent le glisser‑déposer pour placer/servir.
 
+<!-- i18n:section:tips -->
 ### Conseils et stratégies
 - Enchaîne des actions liées pour maintenir des combos.
 - Priorise les clients impatients ; surveille la jauge de cœurs.

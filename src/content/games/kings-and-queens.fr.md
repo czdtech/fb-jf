@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Kings and Queens reprend les bases du match‑3 et les associe à une progression de royaume : tu complètes les niveaux pour gagner des ressources et restaurer un décor royal (château, jardins, etc.). Chaque chapitre introduit de nouveaux bloqueurs (chaînes, dalles de marbre, brouillard) et des objectifs de scène (collecter des couronnes, casser des sceaux). Tu dépenses les étoiles gagnées pour rénover les pièces, ce qui débloque des boosters pour les tableaux plus difficiles.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Contrôle du plateau** : nettoie d'abord les bloqueurs au centre pour créer de l'espace et faciliter les combos.

@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: head-soccer
-title: "Head Soccer"
-description: "Head Soccer est un jeu de foot arcade 1v1 avec des têtes géantes : saute, tire et déclenche des tirs spéciaux pour marquer plus de buts que ton adversaire en quelques secondes de match."
+title: Head Soccer
+description: >-
+  Head Soccer est un jeu de foot arcade 1v1 avec des têtes géantes : saute, tire
+  et déclenche des tirs spéciaux pour marquer plus de buts que ton adversaire en
+  quelques secondes de match.
 iframeSrc: 'https://1games.io/game/head-soccer-2024/'
 thumbnail: /new-images/thumbnails/head-soccer.jpg
 tags:
@@ -32,6 +35,7 @@ Head Soccer condense le football en duels 1 contre 1 nerveux avec de grosses tê
 - **Déplacement / Saut** : touches fléchées ou WASD pour te déplacer et sauter (selon l’hébergeur).  
 - **Tir / Tir spécial** : touches spécifiques indiquées par le site (généralement une ou deux touches d’action).
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Un saut déclenché tôt, suivi d’une frappe rapide, produit souvent un tir bas et très rapide, difficile à arrêter.  

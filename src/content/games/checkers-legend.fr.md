@@ -20,6 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Checkers Legend est une version numérique du jeu de stratégie classique, aussi connu sous le nom de Dames. Le jeu se joue sur un damier 8×8 entre deux adversaires. L'objectif est simple mais nécessite une stratégie profonde : capturer toutes les pièces de ton adversaire ou les bloquer pour qu'elles n'aient plus de coups légaux. C'est un jeu intemporel de prévoyance et de tactique.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Mouvement de base :** tes pièces, ou "pions", ne peuvent se déplacer que d'une case en diagonale vers l'avant sur une case sombre vide.

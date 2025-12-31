@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: drift-hunters
-title: 'Drift Hunters'
-description: >-
-  Drift Hunters est un jeu de drift 3D : règle tes voitures, enchaîne les drifts
-  et accumule des points sur plusieurs circuits.
+title: Drift Hunters
+description: "Drift Hunters est un jeu de drift 3D\_: règle tes voitures, enchaîne les drifts et accumule des points sur plusieurs circuits."
 iframeSrc: 'https://webglmath.github.io/drift-hunters/'
 thumbnail: /new-images/thumbnails/drift-hunters.jpg
 tags:
@@ -36,6 +34,7 @@ et débloque de nouvelles voitures et de nouveaux circuits.
 - WASD/Flèches : diriger/accélérer/freiner ; Espace : frein à main ; C : caméra ;
   R : reset (selon l’hébergeur).
 
+<!-- i18n:section:tips -->
 ### Astuces
 - Dose l’accélérateur au milieu du drift pour éviter de partir en tête‑à‑queue.
 - Utilise de petits taps de frein à main pour initier dans les virages lents.

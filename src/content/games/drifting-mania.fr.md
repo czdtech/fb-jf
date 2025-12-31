@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: drifting-mania
-title: 'Drifting mania'
-description: >-
-  Drifting Mania teste un drift en vue du dessus : dose l’accélérateur, enchaîne
-  les glisses et maîtrise le rythme des virages.
+title: Drifting mania
+description: "Drifting Mania teste un drift en vue du dessus\_: dose l’accélérateur, enchaîne les glisses et maîtrise le rythme des virages."
 iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
 thumbnail: /new-images/thumbnails/drifting-mania.png
 tags:
@@ -25,6 +23,7 @@ le dosage de l’accélérateur et les sorties propres pour enchaîner les virag
 réaliser des temps réguliers.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  Entre doucement, sors vite pour garder l’élan.

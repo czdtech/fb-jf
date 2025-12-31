@@ -1,9 +1,12 @@
 ---
 locale: fr
 urlstr: infiltrating-the-airship
-title: "Infiltrating the Airship"
-description: "Épisode Henry Stickmin à bord d’un dirigeable : choisis gadgets et routes, déclenche des gags et débloque plusieurs fins grâce au système de scènes rejouables."
-iframeSrc: "https://rebemanae.github.io/infiltrating-the-airship/"
+title: Infiltrating the Airship
+description: >-
+  Épisode Henry Stickmin à bord d’un dirigeable : choisis gadgets et routes,
+  déclenche des gags et débloque plusieurs fins grâce au système de scènes
+  rejouables.
+iframeSrc: 'https://rebemanae.github.io/infiltrating-the-airship/'
 thumbnail: /new-images/thumbnails/infiltrating-the-airship.jpg
 tags:
   - adventure
@@ -30,6 +33,7 @@ Dans cet épisode de Henry Stickmin, toute l’action tourne autour d’une infi
 
 - Souris pour choisir les options ; quelques séquences utilisent des touches pour les QTE, selon l’hébergeur.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - N’aie pas peur d’échouer : chaque mauvais choix révèle souvent le bon… et débloque un gag supplémentaire.  

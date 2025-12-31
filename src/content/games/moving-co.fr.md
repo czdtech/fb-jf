@@ -1,14 +1,19 @@
 ---
 locale: fr
-urlstr: "moving-co"
-title: "Moving Co"
-description: "Moving Co. transforme un déménagement en puzzle : planifie tes trajets, transporte les objets en sécurité et bats le chrono grâce à une logistique bien pensée."
-iframeSrc: "https://movingco.h5games.usercontent.goog/v/3crgi5efdnml0/"
+urlstr: moving-co
+title: Moving Co
+description: >-
+  Moving Co. transforme un déménagement en puzzle : planifie tes trajets,
+  transporte les objets en sécurité et bats le chrono grâce à une logistique
+  bien pensée.
+iframeSrc: 'https://movingco.h5games.usercontent.goog/v/3crgi5efdnml0/'
 thumbnail: /new-images/thumbnails/moving-co.png
-tags: ["casual", "thinky"]
-score: "3.8/5  (1364 votes)"
-developer: ""
-releaseDate: 2025-10-18
+tags:
+  - casual
+  - thinky
+score: 3.8/5  (1364 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -17,6 +22,7 @@ releaseDate: 2025-10-18
 Moving Co. est un petit jeu de logistique et d’empilement. Tu explores les pièces, ramasses des meubles ou des cartons, puis les transportes jusqu’au camion ou vers des zones cibles en évitant les collisions et en limitant les aller‑retours. Les portes étroites, les objets fragiles et les formes encombrantes transforment chaque niveau en puzzle spatial chronométré.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Observer la maison :** repère les gros meubles et les couloirs étroits dès le début ; commence par déplacer les pièces volumineuses avant que le désordre ne bloque les passages.

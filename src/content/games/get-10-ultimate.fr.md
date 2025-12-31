@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Get 10 Ultimate est un jeu de puzzle numérique simple à comprendre mais très stratégique. La grille est remplie de tuiles numérotées, et ton but est de les combiner pour créer des chiffres plus élevés. Tu fusionnes un groupe de deux tuiles identiques adjacentes (ou plus) en tapant dessus ; tout le groupe disparaît et devient une seule tuile dont la valeur augmente de 1. Le premier objectif est d'atteindre le nombre 10, mais le vrai défi est de continuer à fusionner pour obtenir le chiffre et le score les plus élevés possible.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Réfléchis avant de taper : chaque tap modifie la disposition de la grille. Avant de fusionner un groupe, imagine comment les tuiles du dessus vont tomber et quels nouveaux groupes pourraient se former. Une bonne fusion peut en préparer une encore meilleure.

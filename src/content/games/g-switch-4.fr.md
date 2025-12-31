@@ -1,8 +1,10 @@
 ---
 locale: fr
 urlstr: g-switch-4
-title: "G-Switch 4"
-description: "Dernier opus du runner gravitationnel : commandes affinées, chaînes de pièges retorses et courses locales compétitives pour de nombreux joueurs."
+title: G-Switch 4
+description: >-
+  Dernier opus du runner gravitationnel : commandes affinées, chaînes de pièges
+  retorses et courses locales compétitives pour de nombreux joueurs.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231127/09/index.html
 thumbnail: /new-images/thumbnails/g-switch-4.jpg
@@ -31,6 +33,7 @@ G‑Switch 4 pousse le concept à son maximum : un timing à un bouton ultra ser
 - Une touche / un tap pour flipper la gravité.  
 - En versus, chaque joueur dispose de sa touche de flip.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Entraîne‑toi sur les sections plus lentes pour verrouiller ton rythme avant d’affronter les séquences rapides.

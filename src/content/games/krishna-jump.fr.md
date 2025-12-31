@@ -1,9 +1,11 @@
 ---
 locale: fr
 urlstr: krishna-jump
-title: "Krishna Jump"
-description: "Krishna Jump est un runner vertical rythmique : enchaîne des sauts précis, évite les pièges et collecte des idoles à travers des niveaux colorés."
-iframeSrc: "https://5gj672951lio0.h5games.usercontent.goog/v/2q5vk2ok37gr8/"
+title: Krishna Jump
+description: >-
+  Krishna Jump est un runner vertical rythmique : enchaîne des sauts précis,
+  évite les pièges et collecte des idoles à travers des niveaux colorés.
+iframeSrc: 'https://5gj672951lio0.h5games.usercontent.goog/v/2q5vk2ok37gr8/'
 thumbnail: /new-images/thumbnails/krishna-jump.png
 tags:
   - action
@@ -19,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Krishna Jump est un runner vertical à un seul bouton. Tu dois synchroniser tes sauts pour passer d’une plateforme à l’autre, éviter piques et ennemis mobiles, et récupérer des objets pour obtenir des bonus. Les niveaux avancés introduisent des plateformes qui disparaissent et des vitesses variables, ce qui exige un bon rythme et une lecture rapide de l’écran.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Compter le tempo** : adopte un rythme de tapotement régulier pour stabiliser ton timing de saut.  

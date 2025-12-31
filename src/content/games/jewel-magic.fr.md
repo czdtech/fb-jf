@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Jewel Magic est un jeu de puzzle match‑3 classique et captivant qui t'invite dans un monde de gemmes étincelantes et de défis enchanteurs. L'objectif principal est d'échanger des joyaux adjacents pour créer une ligne de trois gemmes identiques ou plus, les faisant disparaître et te rapportant des points. Avec des centaines de niveaux, chacun présentant un objectif unique, les joueurs doivent réfléchir stratégiquement pour créer des joyaux spéciaux puissants, déclencher des réactions en chaîne éblouissantes et résoudre chaque puzzle qui leur est présenté.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Maîtrise les gemmes spéciales :** Pour passer les niveaux les plus difficiles, tu dois créer et utiliser des gemmes spéciales. Celles‑ci se forment en alignant plus de trois joyaux à la fois :

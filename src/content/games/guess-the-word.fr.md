@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: guess-the-word
-title: "Guess The Word"
-description: "Guess The Word est un word‑builder épuré : relie les lettres, repère les motifs et remplis les grilles façon mots croisés avec ton vocabulaire et ta logique."
+title: Guess The Word
+description: >-
+  Guess The Word est un word‑builder épuré : relie les lettres, repère les
+  motifs et remplis les grilles façon mots croisés avec ton vocabulaire et ta
+  logique.
 iframeSrc: 'https://5e2trj00jcfog.h5games.usercontent.goog/v/1hrc6f7979nig/'
 thumbnail: /new-images/thumbnails/guess-the-word.png
 tags:
@@ -19,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Guess The Word combine un système de liaison de lettres avec des grilles type mots croisés. Tu traces un chemin à travers des roues de lettres pour former des mots valides qui viennent se placer dans la grille. La difficulté augmente avec des anagrammes piégeux, des digrammes peu courants et parfois peu de voyelles, ce qui récompense la reconnaissance de motifs et les essais stratégiques.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Commence par les petits mots évidents pour ancrer des croisements.

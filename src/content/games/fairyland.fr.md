@@ -1,8 +1,10 @@
 ---
 locale: fr
 urlstr: fairyland
-title: "Fairyland"
-description: "Fairyland est une aventure de puzzle toute en douceur : explore des décors chaleureux, résous de petites énigmes et atteins tes objectifs à ton rythme."
+title: Fairyland
+description: >-
+  Fairyland est une aventure de puzzle toute en douceur : explore des décors
+  chaleureux, résous de petites énigmes et atteins tes objectifs à ton rythme.
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
 thumbnail: /new-images/thumbnails/fairyland.png
 tags:
@@ -20,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Fairyland est une aventure tranquille remplie de petites tâches à collectionner, de puzzles environnementaux simples et de scènes féeriques. Tu vas chercher des objets cachés, activer des interrupteurs dans le bon ordre, escorter de petites créatures et, de temps en temps, jouer à des mini‑jeux. Tu progresses à travers de courts chapitres en privilégiant l’exploration et la détente plutôt que le combat.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Balaye chaque scène méthodiquement : termine une zone à la fois ; zoome ou déplace la vue pour repérer les petits éléments interactifs.

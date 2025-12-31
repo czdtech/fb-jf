@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Jewel Academy est un jeu de puzzle match‑3 riche et soigné qui invite les joueurs dans un monde de gemmes colorées et de défis magiques. En tant qu'élève de l'académie, tu progresseras à travers une vaste carte de niveaux, chacun avec un objectif unique. Le gameplay de base consiste à échanger des joyaux adjacents pour créer des lignes de trois ou plus de la même couleur. En faisant des alignements stratégiques, tu peux créer des gemmes spéciales puissantes, surmonter des obstacles délicats et résoudre des centaines de puzzles captivants.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Cherche les combos spéciaux :** Ne te contente pas d'aligner trois. Cherche activement les opportunités d'aligner quatre ou cinq joyaux, car c'est la clé pour créer des bonus puissants qui peuvent nettoyer de grandes sections du plateau.

@@ -1,14 +1,18 @@
 ---
 locale: fr
-urlstr: "lows-adventures-2"
-title: "Low's Adventures 2"
-description: "Suite rétro de plateforme : enchaîne de petits niveaux, trouve des clés et des secrets et relève des défis chronométrés."
-iframeSrc: "https://previews.customer.envatousercontent.com/files/489323722/index.html"
+urlstr: lows-adventures-2
+title: Low's Adventures 2
+description: >-
+  Suite rétro de plateforme : enchaîne de petits niveaux, trouve des clés et des
+  secrets et relève des défis chronométrés.
+iframeSrc: 'https://previews.customer.envatousercontent.com/files/489323722/index.html'
 thumbnail: /new-images/thumbnails/lows-adventures-2.jpg
-tags: ["platformer", "adventure"]
-score: "3.6/5  (671 votes)"
-developer: ""
-releaseDate: 2025-08-16
+tags:
+  - platformer
+  - adventure
+score: 3.6/5  (671 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -29,6 +33,7 @@ Low’s Adventures 2 propose de petits niveaux de plateforme rétro, remplis de 
 - Flèches / WASD pour se déplacer et sauter.
 - Les touches d’attaque ou d’interaction varient selon la plateforme qui héberge le jeu.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Prépare tes sauts en prenant ton élan au bord des plateformes pour gagner un peu de distance.

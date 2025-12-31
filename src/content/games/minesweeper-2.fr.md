@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Minesweeper est un puzzle de logique solo culte, présent sur les ordinateurs depuis des décennies. Ton objectif est de vider une grille rectangulaire remplie de mines cachées sans en déclencher aucune. Pour y parvenir, tu t'appuies sur les nombres révélés : chaque case numérotée indique combien de mines se trouvent dans les huit cases adjacentes. Le jeu repose entièrement sur la déduction et la gestion du risque.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Premier clic :** le premier clic est toujours sûr. S'il tombe sur une zone sans mines adjacentes, une grande portion de la grille s'ouvre, ce qui est un excellent départ.

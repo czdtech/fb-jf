@@ -26,6 +26,7 @@ Le but est de provoquer un maximum de collisions pour faire disparaître toutes
 les cibles avant d’être submergé ou à court de tirs.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Anticipe les rebonds**  

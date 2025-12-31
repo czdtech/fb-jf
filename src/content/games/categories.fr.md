@@ -1,11 +1,11 @@
 ---
 locale: fr
 urlstr: categories
-title: "Categories"
+title: Categories
 description: >-
   Categories est un petit jeu de logique où tu dois classer des mots ou objets
-  par thèmes, repérer les intrus et résoudre chaque grille avant la fin du
-  temps ou des tentatives.
+  par thèmes, repérer les intrus et résoudre chaque grille avant la fin du temps
+  ou des tentatives.
 iframeSrc: 'https://1ssgr48qrfod0.h5games.usercontent.goog/v/20nv9be906iho/'
 thumbnail: /new-images/thumbnails/categories.png
 tags:
@@ -30,6 +30,7 @@ compte à rebours. L’objectif est de découvrir tous les groupes avant d’êt
 court de temps ou d’essais.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Commence par les groupes évidents**  

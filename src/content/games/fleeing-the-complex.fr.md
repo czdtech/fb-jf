@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: fleeing-the-complex
-title: "Fleeing the Complex"
-description: "Évasion à embranchements façon stickman : choisis objets et routes pour t’évader du complexe, découvre plusieurs fins et collectionne tous les fails/bios."
+title: Fleeing the Complex
+description: >-
+  Évasion à embranchements façon stickman : choisis objets et routes pour
+  t’évader du complexe, découvre plusieurs fins et collectionne tous les
+  fails/bios.
 iframeSrc: 'https://ubg77.github.io/fleeing-the-complex/'
 thumbnail: /new-images/thumbnails/fleeing-the-complex.jpg
 tags:
@@ -31,6 +34,7 @@ Dans Fleeing the Complex, Henry Stickmin prépare sa plus grande évasion. Tu do
 - Souris : sélectionner les choix, cliquer sur les éléments interactifs et valider les quick‑time events.  
 - Certaines versions utilisent aussi des touches pour des prompts spécifiques (indiqué à l’écran).
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Quand une option échoue, essaie le choix alternatif : beaucoup de scènes ont un « bon » chemin caché derrière plusieurs tentatives.

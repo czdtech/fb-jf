@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: five-nights-at-freddy-1
-title: "Five Nights at Freddy's 1 (FNAF 1)"
-description: "Survie horrifique dans une pizzeria : surveille les caméras, économise l’énergie et ferme portes/lumières pour empêcher les animatroniques d’entrer pendant cinq nuits et plus."
+title: Five Nights at Freddy's 1 (FNAF 1)
+description: >-
+  Survie horrifique dans une pizzeria : surveille les caméras, économise
+  l’énergie et ferme portes/lumières pour empêcher les animatroniques d’entrer
+  pendant cinq nuits et plus.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf1/'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-1.jpg
 tags:
@@ -33,6 +36,7 @@ Tu dois jongler entre les caméras de surveillance, les lumières de porte et le
 - Souris / interface : gérer les caméras, les lumières et les portes.  
 - Esc : pause (selon l’hébergeur).
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Apprends le comportement de Foxy à Pirate Cove : la fréquence à laquelle il regarde hors du rideau donne une bonne idée du danger.

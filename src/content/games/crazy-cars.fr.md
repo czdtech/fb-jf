@@ -57,6 +57,7 @@ ta vitesse ou ton score.
 - R : réinitialiser le véhicule
   (selon la version).
 
+<!-- i18n:section:tips -->
 ### Conseils et stratégies
 
 

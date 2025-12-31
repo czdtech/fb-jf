@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: doodle-cricket
-title: 'Doodle Cricket'
-description: >-
-  Doodle Cricket est un mini‑jeu de cricket casual : synchronise tes frappes pour
-  marquer des runs sans te faire éliminer.
+title: Doodle Cricket
+description: "Doodle Cricket est un mini‑jeu de cricket casual\_: synchronise tes frappes pour marquer des runs sans te faire éliminer."
 iframeSrc: 'https://f3.silvergames.com/m/doodle-cricket/'
 thumbnail: /new-images/thumbnails/doodle-cricket.jpg
 tags:
@@ -37,6 +35,7 @@ vitesse et le type de lancer. Les runs s’accumulent jusqu’à ton éliminatio
 - Souris/tactile : un tap/clic pour frapper. Le timing détermine le placement et
   la puissance.
 
+<!-- i18n:section:tips -->
 ### Astuces
 - Ne frappe pas trop tôt : réagis au relâchement et au rebond.
 - Privilégie les coups au sol ; ne lève la balle que si l’espace est clair.

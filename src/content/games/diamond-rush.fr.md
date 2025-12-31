@@ -26,6 +26,7 @@ Chaque niveau propose des objectifs : atteindre un certain score, casser des
 blocs, faire descendre des objets, etc.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Commence par le bas**  

@@ -1,14 +1,21 @@
 ---
 locale: fr
-urlstr: "minecraft"
-title: "Minecraft"
-description: "Minecraft est un jeu vidéo sandbox où tu explores un monde 3D cubique, extrais des ressources, fabriques des outils, construis des structures et crées toutes sortes de mini‑jeux ou d’aventures."
-iframeSrc: "https://app-167027.games.s3.yandex.net/167027/tnn3wq0qkjwhvr1271tszdhl82lm97e6/index.html"
+urlstr: minecraft
+title: Minecraft
+description: >-
+  Minecraft est un jeu vidéo sandbox où tu explores un monde 3D cubique, extrais
+  des ressources, fabriques des outils, construis des structures et crées toutes
+  sortes de mini‑jeux ou d’aventures.
+iframeSrc: >-
+  https://app-167027.games.s3.yandex.net/167027/tnn3wq0qkjwhvr1271tszdhl82lm97e6/index.html
 thumbnail: /new-images/thumbnails/minecraft.jpg
-tags: ["sandbox", "survival", "creative"]
-score: "4.5/5  (671 votes)"
-developer: ""
-releaseDate: 2025-08-16
+tags:
+  - sandbox
+  - survival
+  - creative
+score: 4.5/5  (671 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -16,6 +23,7 @@ releaseDate: 2025-08-16
 
 Minecraft est un jeu vidéo sandbox développé par Mojang Studios. Tu explores un monde 3D constitué de blocs, récupères des ressources, construis des structures, fabriques des objets et interagis avec de nombreuses créatures. Le jeu ne te fixe pas d’objectif précis : tu es libre de créer, d’explorer et de te fixer tes propres défis. Les principaux modes incluent Survie, Créatif, Aventure et Spectateur, chacun offrant une façon différente de jouer.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Rassembler des ressources :** coupe du bois, mine des minerais, plante des cultures, etc., afin d’obtenir les matériaux de base nécessaires à la construction et à l’artisanat.

@@ -1,9 +1,12 @@
 ---
 locale: fr
 urlstr: hoop-stars
-title: "Hoop Stars"
-description: "Hoop Stars est un jeu d’adresse avec des anneaux : fais tourner ton cercle, choisis le bon timing et fais‑le retomber proprement sur le piquet avant ton adversaire."
-iframeSrc: "https://6si9877n1hvh8.h5games.usercontent.goog/v/717o1ln0arjho/"
+title: Hoop Stars
+description: >-
+  Hoop Stars est un jeu d’adresse avec des anneaux : fais tourner ton cercle,
+  choisis le bon timing et fais‑le retomber proprement sur le piquet avant ton
+  adversaire.
+iframeSrc: 'https://6si9877n1hvh8.h5games.usercontent.goog/v/717o1ln0arjho/'
 thumbnail: /new-images/thumbnails/hoop-stars.png
 tags:
   - sports
@@ -20,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Hoop Stars est un duel d’anneaux rapide. Tu fais tourner un cerceau autour d’un piquet central puis tu le lances pour qu’il franchisse les obstacles et vienne se poser proprement autour du piquet. Les flips réussis marquent des points, alors que les ratés te font perdre un temps précieux. En affrontement, ce sont la régularité du timing et de bons angles de lancement qui font la différence, plus que le simple spam de touches.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 1.  **Pré‑rotation** : fais tourner ton anneau jusqu’à un angle confortable avant de le lancer, plutôt que de flipper depuis une position aléatoire.  

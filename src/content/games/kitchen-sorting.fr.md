@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Kitchen Sorting te met dans la peau d'un commis qui doit trier en urgence ce qui passe sur le plan de travail : ingrédients, outils, déchets, produits dangereux… Les niveaux ajoutent des éléments trompeurs (cru vs cuit), des objectifs de combo (trier trois articles sains d'affilée) et des pénalités en cas de mauvais placement ou de retard. La difficulté augmente avec des tapis roulants simultanés et des règles d'hygiène plus strictes qui punissent les contaminations croisées.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de tri
 
 1.  **Règles prioritaires** : commence par les splits critiques pour l'hygiène (cru vs prêt à manger) avant les catégories fines.

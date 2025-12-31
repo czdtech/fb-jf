@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: fly-or-die
-title: "Fly or Die"
-description: "Survie évolutive (.io) : mange les bonnes proies pour grimper dans la chaîne alimentaire tout en évitant prédateurs et dangers à travers ciels et sous‑sols."
+title: Fly or Die
+description: >-
+  Survie évolutive (.io) : mange les bonnes proies pour grimper dans la chaîne
+  alimentaire tout en évitant prédateurs et dangers à travers ciels et
+  sous‑sols.
 iframeSrc: >-
   https://app-96679.games.s3.yandex.net/96679/jshypemnvrae6bchv5d2nej2892owe69/index.html
 thumbnail: /new-images/thumbnails/fly-or-die.jpg
@@ -31,6 +34,7 @@ Fly or Die est un jeu de survie multijoueur basé sur l’évolution. Tu commenc
 
 - Souris / clavier pour te déplacer et voler ; les touches de boost varient selon l’hébergeur.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Nourris‑toi en bordure des zones les plus fréquentées : évite de te battre pour la nourriture là où les prédateurs rôdent.

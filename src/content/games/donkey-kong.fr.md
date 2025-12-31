@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: donkey-kong
-title: 'Donkey Kong'
-description: >-
-  Donkey Kong est un platformer arcade classique : grimpe, évite les dangers et
-  atteins le sommet pour finir les stages.
+title: Donkey Kong
+description: "Donkey Kong est un platformer arcade classique\_: grimpe, évite les dangers et atteins le sommet pour finir les stages."
 iframeSrc: 'https://ad-freegames.github.io/flash/game/donkey-kong.html'
 thumbnail: /new-images/thumbnails/donkey-kong.jpg
 tags:
@@ -40,6 +38,7 @@ niveau.
 - Haut : monter aux échelles ; Saut : touche dédiée selon l’hébergeur.
 - Action : le marteau est automatique une fois ramassé et dure un court instant.
 
+<!-- i18n:section:tips -->
 ### Astuces
 - Attends une fenêtre sûre ; ne grimpe pas si un tonneau est juste au‑dessus.
 - Sur le 25m, tu peux influencer certains tonneaux en te tournant brièvement vers

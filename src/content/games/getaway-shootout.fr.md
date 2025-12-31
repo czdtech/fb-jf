@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: getaway-shootout
-title: "Getaway Shootout"
-description: "Course‑tir chaotique avec physique débile : bondis jusqu’au point d’extraction, ramasse des armes improbables et piège tes rivaux en solo ou à 2 joueurs."
+title: Getaway Shootout
+description: >-
+  Course‑tir chaotique avec physique débile : bondis jusqu’au point
+  d’extraction, ramasse des armes improbables et piège tes rivaux en solo ou à 2
+  joueurs.
 iframeSrc: 'https://ubg44.github.io/GetawayShootout/'
 thumbnail: /new-images/thumbnails/getaway-shootout.jpg
 tags:
@@ -31,6 +34,7 @@ Getaway Shootout est un platformer compétitif basé sur une physique volontaire
 - Deux touches pour sauter vers la gauche/droite ; d’autres touches pour utiliser les objets (les bindings exacts dépendent de l’hébergeur).  
 - Le jeu supporte le multijoueur local à 2 joueurs sur le même clavier.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Sur les pentes, maintiens ton saut plus longtemps pour convertir le gain vertical en vitesse horizontale.

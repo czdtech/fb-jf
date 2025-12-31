@@ -24,6 +24,7 @@ un biscuit au sucre, sans casser le bonbon.
 Le défi réside dans la précision de tes gestes et parfois dans un temps limité.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Suis le contour doucement**  

@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: fruit-slot-machine
-title: "Fruit Slot Machine"
-description: "Fruit Slot Machine reprend la classique machine à sous à trois rouleaux : fais tourner en jouant responsable, apprends les lignes de paiement et profite des features sans sur‑miser."
+title: Fruit Slot Machine
+description: >-
+  Fruit Slot Machine reprend la classique machine à sous à trois rouleaux : fais
+  tourner en jouant responsable, apprends les lignes de paiement et profite des
+  features sans sur‑miser.
 iframeSrc: 'https://7f8j0t3m1ptv8.h5games.usercontent.goog/v/33cv74na0lvqg/'
 thumbnail: /new-images/thumbnails/fruit-slot-machine.jpg
 tags:
@@ -18,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Fruit Slot Machine simule une machine à sous simple à trois rouleaux, avec des symboles de fruits classiques et quelques bonus occasionnels. Chaque spin est indépendant : les gains suivent la table de paiement et les lignes actives. Le jeu est pensé comme un divertissement léger, pas comme un titre à « stratégie » complexe.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Fixe ton budget : décide à l’avance de ce que tu es prêt à dépenser pour la session et ne poursuis jamais tes pertes.

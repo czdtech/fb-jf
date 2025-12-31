@@ -27,6 +27,7 @@ et calcul de variantes) et la **finale** (activité du roi, pions passés et
 positions de mat fondamentales).
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Soigne tes ouvertures**  

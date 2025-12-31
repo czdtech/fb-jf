@@ -56,6 +56,7 @@ mouvements ou remélanges autorisés.
 - **Annuler / Recommencer** : certaines versions proposent un bouton d’annulation
   ou un redémarrage rapide.
 
+<!-- i18n:section:tips -->
 ### Conseils et stratégies
 
 

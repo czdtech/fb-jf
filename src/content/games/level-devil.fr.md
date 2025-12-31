@@ -1,9 +1,13 @@
 ---
 locale: fr
 urlstr: level-devil
-title: "Level Devil"
-description: "Plateformer troll : les niveaux changent sans prévenir avec piques surgissant, sols qui s’effondrent et fausses sorties ; apprends les pièges et garde ton calme."
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231215/10/index.html"
+title: Level Devil
+description: >-
+  Plateformer troll : les niveaux changent sans prévenir avec piques surgissant,
+  sols qui s’effondrent et fausses sorties ; apprends les pièges et garde ton
+  calme.
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231215/10/index.html
 thumbnail: /new-images/thumbnails/level-devil.jpg
 tags:
   - platformer
@@ -30,6 +34,7 @@ Level Devil est un plateformer piégé où le niveau te trahit en permanence : d
 
 - Flèches / WASD pour se déplacer et sauter ; touches de restart variables selon l’hébergeur.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Ne sprinte pas à l’aveugle ; teste d’abord les rebords avec de petits sauts.  

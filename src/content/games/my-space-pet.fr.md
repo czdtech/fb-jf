@@ -20,6 +20,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 My Space Pet te propose d'adopter et de prendre soin d'une adorable créature extraterrestre nommée Zuub. Ce jeu de compagnon virtuel mélange soins, mini‑jeux et personnalisation. Ta mission : garder Zuub heureux et en bonne santé en répondant à ses besoins (faim, hygiène, sommeil) et en jouant avec lui. Les mini‑jeux te permettent de gagner des pièces à dépenser dans des tenues et accessoires pour personnaliser ton ami de l'espace.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Surveiller les besoins de Zuub :** garde un œil sur ses jauges de faim, propreté et fatigue ; plus tu y réponds vite, plus il reste joyeux et énergique.

@@ -25,6 +25,7 @@ Chaque salle est un petit puzzle autonome, parfait pour une session rapide
 quotidienne.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Inspecte tout**  

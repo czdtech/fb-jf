@@ -1,14 +1,19 @@
 ---
 locale: fr
-urlstr: "love-tester"
-title: "Love Tester"
-description: "Love Tester est un petit test d’amour amusant : saisis deux prénoms et découvre un score de compatibilité fantaisiste, purement pour le fun."
-iframeSrc: "https://games.cdn.famobi.com/html5games/l/love-tester/v030/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=24cb4711-7c74-4831-8b1c-678985959174&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=176&original_ref="
+urlstr: love-tester
+title: Love Tester
+description: >-
+  Love Tester est un petit test d’amour amusant : saisis deux prénoms et
+  découvre un score de compatibilité fantaisiste, purement pour le fun.
+iframeSrc: >-
+  https://games.cdn.famobi.com/html5games/l/love-tester/v030/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=24cb4711-7c74-4831-8b1c-678985959174&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=176&original_ref=
 thumbnail: /new-images/thumbnails/love-tester.jpg
-tags: ["casual", "novelty"]
-score: "4.0/5  (913 votes)"
-developer: ""
-releaseDate: 2025-08-16
+tags:
+  - casual
+  - novelty
+score: 4.0/5  (913 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -29,6 +34,7 @@ Love Tester est un petit jeu de compatibilité léger et humoristique. Tu entres
 - Saisie au clavier pour entrer les prénoms.
 - Un unique bouton de test pour lancer le calcul.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Amuse‑toi à essayer des surnoms, des noms de groupes d’amis ou même des équipes de sport.

@@ -61,6 +61,7 @@ les plus connus au monde.
   et **la promotion** (un pion qui atteint la dernière rangée se transforme en
   dame ou en autre pièce majeure).
 
+<!-- i18n:section:how-to-play -->
 #### Stratégie de base
 
 

@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Hoop Hero est un jeu d'arcade minimaliste et addictif jouable avec un seul tap. Un ballon de basket se déplace et tu dois toucher l'écran au moment précis où il s'aligne avec le panier pour réussir un dunk. La difficulté vient de la vitesse qui augmente et des trajectoires de plus en plus trompeuses. Ton objectif est d'enchaîner le plus de dunks consécutifs possible pour établir un nouveau record.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 1.  **Concentre‑toi sur le timing :** tout repose sur le rythme. Observe la trajectoire du ballon et anticipe le moment où il va passer exactement au‑dessus du panier.

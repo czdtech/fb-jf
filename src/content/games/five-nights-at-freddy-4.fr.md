@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: five-nights-at-freddy-4
-title: "Five Nights at Freddy's 4 (FNAF 4)"
-description: "Survie cauchemardesque dans une chambre : écoute la respiration, gère portes et placard, et utilise ta lampe torche avec prudence pour tenir les terreurs nocturnes à distance."
+title: Five Nights at Freddy's 4 (FNAF 4)
+description: >-
+  Survie cauchemardesque dans une chambre : écoute la respiration, gère portes
+  et placard, et utilise ta lampe torche avec prudence pour tenir les terreurs
+  nocturnes à distance.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf4.html'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-4.jpg
 tags:
@@ -32,6 +35,7 @@ Les nuits deviennent de plus en plus rapides et exigeantes, et une erreur de tim
 
 - Souris / clavier pour te déplacer entre les portes, le lit et le placard ; les touches exactes pour fermer les portes et utiliser la lampe varient selon l’hébergeur.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Écoute toujours avant de flasher la lumière vers une porte : la lampe au mauvais moment entraîne souvent un jumpscare instantané.

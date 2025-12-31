@@ -9,7 +9,7 @@ tags:
   - puzzle
   - thinky
 score: 4.8/5  (3550 votes)
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
@@ -24,6 +24,7 @@ Le principe reste le même : remplir une grille 9×9 avec les chiffres de 1 à 
 sans répétition sur chaque ligne, colonne et bloc 3×3.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Rappelle‑toi des techniques de base**  

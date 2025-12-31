@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: five-nights-at-freddy-sl
-title: "Five Nights at Freddy's Sister Location"
-description: "Horreur scénarisée par nuits : déplace‑toi entre les salles, accomplis des tâches de maintenance, surveille les animatroniques Funtime et survis à des séquences scriptées."
+title: Five Nights at Freddy's Sister Location
+description: >-
+  Horreur scénarisée par nuits : déplace‑toi entre les salles, accomplis des
+  tâches de maintenance, surveille les animatroniques Funtime et survis à des
+  séquences scriptées.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnafsl.html'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-sl.jpg
 tags:
@@ -33,6 +36,7 @@ La progression se fait au fil d’un scénario plus linéaire, avec des séquenc
 - Souris / interface pour interagir avec les panneaux, activer les chocs et surveiller les moniteurs.  
 - Touches de déplacement pour les sections en ventilation (selon la version).
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Écoute attentivement : des bruits, clignotements ou micro‑coupures de lumière annoncent souvent un danger imminent.

@@ -1,9 +1,12 @@
 ---
 locale: fr
 urlstr: jump-with-justin-2
-title: "Jump With Justin 2"
-description: "Jump With Justin 2 est un jeu de plateforme axé sur les sauts rebondissants : enchaîne ressorts et rebonds, évite les pièges et garde ton momentum jusqu’à la sortie."
-iframeSrc: "https://jumpwithjustin2.h5games.usercontent.goog/v/54vavt12q94n8/"
+title: Jump With Justin 2
+description: >-
+  Jump With Justin 2 est un jeu de plateforme axé sur les sauts rebondissants :
+  enchaîne ressorts et rebonds, évite les pièges et garde ton momentum jusqu’à
+  la sortie.
+iframeSrc: 'https://jumpwithjustin2.h5games.usercontent.goog/v/54vavt12q94n8/'
 thumbnail: /new-images/thumbnails/jump-with-justin-2.png
 tags:
   - action
@@ -19,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Jump With Justin 2 est un platformer léger centré sur les sauts à ressort, les plateformes mobiles et le timing des pièges. Planifie tes arcs, enchaîne les rebonds et conserve ta vitesse pour atteindre les sorties avec le moins d’erreurs possible.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Contrôle des arcs** : engage‑toi dans des trajectoires propres ; souvent, un saut déclenché un peu plus tard te fera passer plus sûrement au‑dessus des dangers.  

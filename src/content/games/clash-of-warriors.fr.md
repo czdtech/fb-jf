@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: clash-of-warriors
-title: "Clash of Warriors"
-description: >-
-  Clash of Warriors est un petit jeu de cartes tactique : curve bien tes tours,
-  fais des échanges avantageux et surprends ton adversaire pour gagner le
-  plateau.
+title: Clash of Warriors
+description: "Clash of Warriors est un petit jeu de cartes tactique\_: curve bien tes tours, fais des échanges avantageux et surprends ton adversaire pour gagner le plateau."
 iframeSrc: 'https://7t89fh6irdv0g.h5games.usercontent.goog/v/5gpd6kf06hr8g/'
 thumbnail: /new-images/thumbnails/clash-of-warriors.png
 tags:
@@ -30,6 +27,7 @@ prédéfinis. Le cœur du jeu reste la gestion du **tempo** : utiliser chaque t
 pour poser la menace la plus efficace possible sans gaspiller de ressources.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Respecte ta courbe de mana/ressources**  

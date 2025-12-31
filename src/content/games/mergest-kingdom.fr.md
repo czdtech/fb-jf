@@ -1,14 +1,20 @@
 ---
 locale: fr
-urlstr: "mergest-kingdom"
-title: "Mergest Kingdom"
-description: "Mergest Kingdom est un jeu de fantasy basé sur la fusion et la construction : combine des tuiles, accomplis des quêtes et étends ton royaume grâce à des chaînes de fusions bien planifiées."
-iframeSrc: "https://620tnu7381eao.h5games.usercontent.goog/v/27p309rk86cr8/"
+urlstr: mergest-kingdom
+title: Mergest Kingdom
+description: >-
+  Mergest Kingdom est un jeu de fantasy basé sur la fusion et la construction :
+  combine des tuiles, accomplis des quêtes et étends ton royaume grâce à des
+  chaînes de fusions bien planifiées.
+iframeSrc: 'https://620tnu7381eao.h5games.usercontent.goog/v/27p309rk86cr8/'
 thumbnail: /new-images/thumbnails/mergest-kingdom.png
-tags: ["puzzle", "adventure", "thinky"]
-score: "4.2/5  (2079 votes)"
-developer: ""
-releaseDate: 2025-10-18
+tags:
+  - puzzle
+  - adventure
+  - thinky
+score: 4.2/5  (2079 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -17,6 +23,7 @@ releaseDate: 2025-10-18
 Mergest Kingdom combine des chaînes de fusion par 3 avec la construction d’un royaume. Tu fusionnes des plantes, des pierres et des artefacts pour créer des versions de niveau supérieur, dissiper le brouillard et débloquer de nouvelles régions. Les quêtes et les événements te donnent des objectifs clairs, tandis que l’énergie limitée et l’espace restreint t’obligent à planifier soigneusement tes séries de fusions.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Fusionner par 3 ou par 5 :** lorsque c’est possible, garde 5 exemplaires d’un même objet pour les fusionner d’un coup et obtenir un bonus de rendement.

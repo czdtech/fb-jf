@@ -23,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Ludo Legend est une version numérique soignée du célèbre jeu de plateau Ludo. Chaque joueur commence avec quatre pions dans sa base et doit les faire sortir, faire le tour complet du plateau, puis remonter dans sa colonne de départ pour atteindre le triangle final. Tu joues contre l'ordinateur ou d'autres joueurs, lances le dé et profites des bonnes opportunités pour capturer les pions adverses et les renvoyer à leur base. Le premier à ramener ses quatre pions à la maison devient la véritable légende du Ludo.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Sortir de la base rapidement :** il faut généralement faire un six pour sortir un pion de la base. Essaie d'en mettre au moins un sur la piste dès que possible.

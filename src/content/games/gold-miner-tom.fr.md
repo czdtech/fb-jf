@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Gold Miner Tom est un jeu d'arcade classique qui teste ton timing et ta précision. Tu incarnes Tom, un mineur ambitieux qui contrôle une griffe oscillante et doit la lancer au bon moment pour récupérer les trésors enfouis sous terre. Chaque niveau te fixe un objectif d'argent à atteindre avant la fin du chronomètre. Attrape des pépites d'or, des diamants scintillants et des sacs mystères, tout en évitant les rochers quasi sans valeur qui te feront perdre un temps précieux.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Le timing avant tout : la griffe se balance constamment d'un côté à l'autre. Ton succès dépend entièrement du moment où tu cliques pour l'envoyer vers un objet intéressant.

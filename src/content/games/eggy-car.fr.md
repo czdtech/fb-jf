@@ -26,6 +26,7 @@ Ton but est d’aller le plus loin possible sans casser l’œuf, en gérant
 accélération et frein pour garder l’équilibre.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Roule doucement dans les descentes**  

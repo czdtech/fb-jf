@@ -24,6 +24,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Endless Lake est un runner sans fin minimaliste et exigeant qui met à l'épreuve ton sens du timing et tes réflexes. Tu contrôles un personnage qui court sur une série de plateformes suspendues au‑dessus d'un lac tranquille. Le gameplay repose sur une mécanique simple : le saut. Tu dois parfaitement synchroniser tes sauts simples et doubles pour franchir les écarts entre les plateformes, qui changent en permanence, et voir jusqu'où tu peux aller.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Maîtrise le double saut : la compétence la plus importante du jeu. Une seule pression donne un petit saut, mais une deuxième pression en plein vol te donne l'impulsion nécessaire pour passer les trous les plus larges. Apprends bien la distance couverte par chaque type de saut.

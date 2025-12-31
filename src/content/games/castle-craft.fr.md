@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Castle Craft est un jeu de puzzle captivant de fusion et construction où les joueurs se lancent dans un voyage pour transformer un modeste terrain en un magnifique royaume médiéval. Le gameplay principal tourne autour de la mécanique classique "merge-3" : combiner trois objets identiques ou plus pour créer un seul objet plus avancé. En fusionnant stratégiquement des ressources comme le blé, le bois et la pierre, les joueurs peuvent accomplir des quêtes, gagner de la monnaie précieuse et lever le brouillard pour débloquer de nouveaux territoires, révélant progressivement un empire vaste et prospère.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Maîtrise la fusion par 5 :** bien que fusionner trois objets soit la règle de base, essaie toujours de fusionner cinq objets identiques à la fois. Une "fusion par 5" te récompense avec un bonus, souvent un objet de niveau supérieur supplémentaire, ce qui accélère significativement ta progression.

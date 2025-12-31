@@ -1,8 +1,10 @@
 ---
 locale: fr
 urlstr: futoshiki
-title: "Futoshiki"
-description: "Futoshiki affûte ta logique : place des chiffres uniques par ligne et colonne tout en respectant les signes d’inégalité pour des déductions élégantes."
+title: Futoshiki
+description: >-
+  Futoshiki affûte ta logique : place des chiffres uniques par ligne et colonne
+  tout en respectant les signes d’inégalité pour des déductions élégantes.
 iframeSrc: 'https://6g7i64vihegl0.h5games.usercontent.goog/v/7bd886r75d4ag/'
 thumbnail: /new-images/thumbnails/futoshiki.jpg
 tags:
@@ -19,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Futoshiki (« pas égal ») est un puzzle logique de type carré latin, proche du Sudoku, mais avec des signes d’inégalité (>, <) entre certaines cases voisines. Tu dois placer les chiffres de sorte que chaque ligne et chaque colonne contienne tous les nombres exactement une fois, tout en respectant toutes les inégalités indiquées. Ces signes créent des chaînes très fortes qui permettent des déductions propres et puissantes.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Chaînes d’inégalités : si A > B > C, alors A ≥ C + 2. Utilise cette information pour limiter les candidats dans chaque case de la chaîne.

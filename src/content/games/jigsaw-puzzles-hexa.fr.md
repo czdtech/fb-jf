@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Jigsaw Puzzles Hexa offre une approche rafraîchissante et moderne du puzzle classique. Au lieu de pièces traditionnelles aux formes uniques qui s'emboîtent, ce jeu utilise des grappes de blocs hexagonaux. Ton objectif est de faire glisser ces formes hexa depuis ton inventaire et de les placer correctement sur le plateau principal pour compléter une belle image en haute définition. Sans limite de temps, il offre une expérience relaxante mais mentalement stimulante qui met au défi ton raisonnement spatial.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Analyse les formes :** Avant de commencer à placer des pièces, regarde les formes qui te sont données. Contrairement à un puzzle normal, tu travailles avec des grappes de blocs géométriques. Visualise mentalement comment elles pourraient s'assembler sur le plateau.

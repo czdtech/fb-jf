@@ -1,8 +1,10 @@
 ---
 locale: fr
 urlstr: fancy-pants
-title: "Fancy Pants"
-description: "Jeu de plateforme stylisé avec bonhomme bâton : vitesse, wall‑jumps et parkour fluide à travers des niveaux dessinés à la main et des salles secrètes."
+title: Fancy Pants
+description: >-
+  Jeu de plateforme stylisé avec bonhomme bâton : vitesse, wall‑jumps et parkour
+  fluide à travers des niveaux dessinés à la main et des salles secrètes.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj8/index.html
 thumbnail: /new-images/thumbnails/fancy-pants.jpg
@@ -31,6 +33,7 @@ Fancy Pants est un jeu de plateforme dessiné à la main, entièrement centré s
 
 - Flèches ou WASD pour te déplacer et sauter ; S ou Bas pour glisser ; Haut pour ouvrir les portes (selon l’hébergeur).
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - N’appuie pas frénétiquement sur saut : déclenche‑le au bord des plateformes pour parcourir la distance maximale.

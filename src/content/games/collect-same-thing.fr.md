@@ -21,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Collect Same Thing te met au défi d’associer des tuiles/objets identiques sous des contraintes d’espace ou de temps. Retirer des paires révèle souvent des couches plus profondes ; la réussite dépend de l’ouverture des « couloirs », de la priorité aux objets rares et de la gestion des singles isolés.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  Ouvre d’abord les lignes pour révéler les tuiles cachées.

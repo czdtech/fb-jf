@@ -14,7 +14,7 @@ tags:
   - social
 score: 4.0/5  (1485 votes)
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -22,6 +22,7 @@ releaseDate: 2025-08-16
 
 Murder est un jeu multijoueur de déduction sociale. Une partie des joueurs sont de simples civils, un ou plusieurs jouent le rôle de meurtriers. Les meurtriers doivent éliminer leurs cibles sans se faire repérer, tandis que les civils tentent d'identifier le coupable grâce à l'observation, aux indices et aux discussions. Suspicion, bluff et raisonnements logiques sont au cœur de l'expérience.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Pour le meurtrier :**

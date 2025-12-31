@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Merge Heroes est un mélange accrocheur de puzzle de fusion et de stratégie auto‑battle. Tu dois défendre ton royaume contre des hordes de monstres en construisant une armée de héros. Tu recrutes d'abord des héros de base, puis tu fusionnes deux héros identiques pour les faire évoluer en guerriers beaucoup plus puissants. Place ensuite tes unités sur le champ de bataille et regarde‑les repousser automatiquement vague après vague.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Acheter et fusionner :** dépense ton or pour acheter des héros de base qui apparaissent sur la grille de réserve, puis fais glisser un héros sur un autre identique pour les fusionner en une version de niveau supérieur.

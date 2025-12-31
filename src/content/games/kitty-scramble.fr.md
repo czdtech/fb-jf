@@ -1,9 +1,11 @@
 ---
 locale: fr
 urlstr: kitty-scramble
-title: "Kitty Scramble"
-description: "Kitty Scramble est une chasse aux mots cosy : fais glisser ton doigt sur les grilles de lettres pour trouver des mots à thème et vider le plateau."
-iframeSrc: "https://6cifr142haig8.h5games.usercontent.goog/v/1c963avg5lo9g/"
+title: Kitty Scramble
+description: >-
+  Kitty Scramble est une chasse aux mots cosy : fais glisser ton doigt sur les
+  grilles de lettres pour trouver des mots à thème et vider le plateau.
+iframeSrc: 'https://6cifr142haig8.h5games.usercontent.goog/v/1c963avg5lo9g/'
 thumbnail: /new-images/thumbnails/kitty-scramble.png
 tags:
   - puzzle
@@ -20,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Kitty Scramble propose des grilles de lettres sur des thèmes variés (animaux, nourriture, lieux…). Fais glisser ton doigt sur des lettres contiguës dans n’importe quelle direction pour former les mots recherchés ; les mots bonus te donnent des pièces. Les grilles deviennent progressivement plus complexes avec des mots plus longs, des diagonales et des solutions qui se chevauchent.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Scan du thème** : avant de jouer, liste mentalement quelques mots possibles liés au thème.  

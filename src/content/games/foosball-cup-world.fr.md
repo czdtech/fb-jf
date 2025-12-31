@@ -1,8 +1,10 @@
 ---
 locale: fr
 urlstr: foosball-cup-world
-title: "Foosball Cup World"
-description: "Foosball Cup World propose un baby‑foot nerveux : place tes tirs, maîtrise les spins et défends intelligemment dans des matchs serrés."
+title: Foosball Cup World
+description: >-
+  Foosball Cup World propose un baby‑foot nerveux : place tes tirs, maîtrise les
+  spins et défends intelligemment dans des matchs serrés.
 iframeSrc: 'https://7ak26cf4bf850.h5games.usercontent.goog/v/6jmmp78dbnp50/'
 thumbnail: /new-images/thumbnails/foosball-cup-world.png
 tags:
@@ -20,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Foosball Cup World est une simulation de baby‑foot rapide, avec des barres réactives et une physique de balle précise. En attaque, tout se joue sur les passes en angle, les frappes sèches et les spins bien timés ; en défense, il faut couvrir les lignes de tir et couper les centres. Les matchs sont courts mais exigeants en précision.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Privilégie les petites passes : fais de légers taps pour pousser la balle d’une rangée à l’autre, puis enchaîne avec une frappe rapide.

@@ -25,6 +25,7 @@ C’est un excellent exercice quotidien pour travailler ton vocabulaire et ton
 sens de la déduction.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Commence par les définitions les plus simples**  

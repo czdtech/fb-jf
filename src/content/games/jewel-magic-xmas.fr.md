@@ -11,7 +11,7 @@ tags:
   - puzzle
   - casual
 score: 4.4/5  (2200 votes)
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
@@ -22,6 +22,7 @@ releaseDate: 2025-10-17
 Jewel Magic Xmas est un jeu de puzzle match‑3 festif et joyeux qui enveloppe l'expérience classique d'alignement de joyaux dans un thème de Noël ravissant. Les joueurs se retrouveront dans un pays des merveilles hivernal, échangeant des ornements colorés, des cannes à sucre et des clochettes. L'objectif est d'aligner trois objets festifs identiques ou plus pour compléter les objectifs de niveau, créer des combos puissants et répandre la joie des fêtes.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Bonus festifs :** La clé pour nettoyer le plateau est de créer des objets spéciaux en alignant plus de trois ornements.

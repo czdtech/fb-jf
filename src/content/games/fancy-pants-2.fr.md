@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: fancy-pants-2
-title: "Fancy Pants 2"
-description: "Suite d’un platformer basé sur la vitesse : mouvements encore plus rapides, nouveaux ennemis et grands niveaux dessinés à la main remplis de secrets et de trophées."
+title: Fancy Pants 2
+description: >-
+  Suite d’un platformer basé sur la vitesse : mouvements encore plus rapides,
+  nouveaux ennemis et grands niveaux dessinés à la main remplis de secrets et de
+  trophées.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj9/index.html
 thumbnail: /new-images/thumbnails/fancy-pants-2.jpg
@@ -31,6 +34,7 @@ Fancy Pants 2 est un jeu de plateforme nerveux où tout tourne autour du momentu
 
 - WASD ou flèches pour te déplacer et sauter ; Bas pour glisser ; Haut pour entrer dans une porte.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Entraîne‑toi à sortir des pentes en conservant ta vitesse pour rester rapide sur les portions plates.

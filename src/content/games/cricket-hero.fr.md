@@ -25,6 +25,7 @@ L’objectif est de réaliser le plus de points possible avant de te faire
 éliminer (bowled, LBW ou catch selon la version).
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Observe la ligne et la longueur**  

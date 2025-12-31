@@ -48,6 +48,7 @@ cryptiques utilisent d’autres conventions de définitions et de motifs.
   suivante, selon l’implémentation.  
 - **Souris / tactile** : tape sur un indice ou une case pour la sélectionner.
 
+<!-- i18n:section:tips -->
 ### Conseils et astuces
 
 - Commence par les définitions évidentes (phrases à trous, pluriels, temps

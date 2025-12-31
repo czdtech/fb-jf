@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: family-feud
-title: "Family Feud"
-description: "Jeu‑quiz basé sur des sondages : devine les réponses les plus populaires aux questions de la famille à travers plusieurs manches et un final « Fast Money »."
+title: Family Feud
+description: >-
+  Jeu‑quiz basé sur des sondages : devine les réponses les plus populaires aux
+  questions de la famille à travers plusieurs manches et un final « Fast Money
+  ».
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/family-feud/'
 thumbnail: /new-images/thumbnails/family-feud.jpg
 tags:
@@ -30,6 +33,7 @@ Deux équipes s’affrontent pour deviner les réponses les plus populaires à d
 
 - Saisie des réponses au clavier, puis Entrée pour valider ; navigation avec les flèches ou l’interface à l’écran (selon l’hébergement).
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Pense d’abord en grandes catégories (par exemple « fruit », « voiture », « argent »).

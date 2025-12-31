@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Jewel Pets Match est un jeu de puzzle match‑3 lumineux et joyeux rempli d'adorables personnages animaux en forme de joyaux. Ton objectif est d'échanger ces mignons animaux sur le plateau de jeu pour créer des lignes de trois animaux identiques ou plus. Chaque niveau présente un nouveau défi et un objectif spécifique que tu dois compléter, comme atteindre un score cible ou nettoyer des blocs spéciaux, le tout dans un nombre limité de coups.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Crée des bonus :** Pour maîtriser le jeu, tu dois faire des alignements de plus de trois animaux.

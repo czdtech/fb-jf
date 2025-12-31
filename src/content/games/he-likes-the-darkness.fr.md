@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: he-likes-the-darkness
-title: "He Likes The Darkness"
-description: "He Likes The Darkness est un platformer minimaliste et sombre : explore des niveaux plongés dans l’ombre, collecte des orbes et évite des pièges précis au pixel près."
+title: He Likes The Darkness
+description: >-
+  He Likes The Darkness est un platformer minimaliste et sombre : explore des
+  niveaux plongés dans l’ombre, collecte des orbes et évite des pièges précis au
+  pixel près.
 iframeSrc: 'https://77gr97nn0bej0.h5games.usercontent.goog/v/0emki8kk9qofo/'
 thumbnail: /new-images/thumbnails/he-likes-the-darkness.png
 tags:
@@ -19,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 He Likes The Darkness est un platformer minimaliste à fort contraste, où la pénombre et les pièges mobiles définissent de petits niveaux exigeants. La visibilité réduite, les scies et piques en mouvement et les orbes à collecter te forcent à maîtriser la longueur de tes sauts, les micro‑pauses et la gestion de la vitesse pour garder un bon flux de jeu.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 1.  **Repère le terrain avec de petits sauts**  

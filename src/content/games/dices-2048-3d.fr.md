@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: dices-2048-3d
-title: 'Dices 2048 3D'
-description: >-
-  Dices 2048 3D mélange 2048 et la physique des dés : fusionne des dés de même
-  valeur pour viser 2048 en trois dimensions.
+title: Dices 2048 3D
+description: "Dices 2048 3D mélange 2048 et la physique des dés\_: fusionne des dés de même valeur pour viser 2048 en trois dimensions."
 iframeSrc: 'https://dices20483d.h5games.usercontent.goog/v/4fsrag1lb33t8/'
 thumbnail: /new-images/thumbnails/dices-2048-3d.png
 tags:
@@ -28,6 +26,7 @@ la valeur suivante (par ex. 2→4→8). La gravité, les rebonds et le placement
 contrôle des fusions accidentelles.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  Garde des couloirs propres : réserve une colonne pour fusionner et une autre

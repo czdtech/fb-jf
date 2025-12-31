@@ -27,6 +27,7 @@ prendre le temps d’organiser tes champs, d’optimiser tes cycles de culture o
 simplement de regarder ta ferme grandir.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Commence par des cultures rapides**  

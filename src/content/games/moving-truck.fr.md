@@ -22,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Moving Truck est un puzzle physique où tu dois charger des meubles et objets de formes variées dans un camion de déménagement. Ta mission : trouver une façon de tout faire tenir sans que la cargaison ne se renverse pendant le trajet. Le jeu met à l'épreuve ton sens de l'espace, de l'équilibre et de la planification.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Observer les formes :** examine la taille et la forme de chaque objet et imagine comment les emboîter le plus efficacement possible.

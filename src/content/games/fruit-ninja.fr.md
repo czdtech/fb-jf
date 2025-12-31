@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: fruit-ninja
-title: "Fruit Ninja"
-description: "Arcade de découpe culte : tranche les fruits en plein vol en évitant les bombes, enchaîne les combos et profite des modes frénésie pour booster ton score."
+title: Fruit Ninja
+description: >-
+  Arcade de découpe culte : tranche les fruits en plein vol en évitant les
+  bombes, enchaîne les combos et profite des modes frénésie pour booster ton
+  score.
 iframeSrc: 'https://emulatoros.github.io/gfile/fruitninja/'
 thumbnail: /new-images/thumbnails/fruit-ninja.jpg
 tags:
@@ -31,6 +34,7 @@ Fruit Ninja est un jeu d’arcade où tu dois trancher les fruits en plein vol d
 - Souris / écran tactile : glisse pour trancher les fruits.  
 - Pause / recommencer : via les boutons de l’interface.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Essaie de croiser le maximum de trajectoires de fruits avec chaque coup de lame.

@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Gin Rummy est un jeu de cartes à deux joueurs de la famille du Rami. Ton objectif est d'organiser ta main en combinaisons valides, appelées « melds » : soit des brelans/quadris de même rang, soit des suites de la même couleur. Tu marques des points en ayant moins de « deadwood » (cartes non groupées) que ton adversaire à la fin de la manche. C'est un jeu de compétence, de stratégie et de mémoire, où tu dois bien observer ce que l'autre pioche et défausse.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Objectif : transformer ta main de 10 cartes en melds, puis « knock » lorsque la valeur totale de ton deadwood est de 10 ou moins.

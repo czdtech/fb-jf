@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Hexa Dungeon est un puzzle‑RPG innovant qui combine mécaniques de match‑3 et combats de donjon. Tu affrontes des squelettes et d'autres monstres ; pour les attaquer, tu dois relier des chaînes d'au moins trois tuiles hexagonales adjacentes de la même couleur sur le plateau. Plus la chaîne est longue, plus ton attaque est puissante. Le cœur du jeu est de trouver l'équilibre entre déclencher de gros dégâts tout de suite et préparer de meilleurs coups pour les tours suivants.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 1.  **Chaînes longues = gros dégâts :** essaie de créer les plus longues chaînes possibles. Une chaîne de 5 tuiles inflige bien plus de dégâts qu'une chaîne de 3. Avant de valider un coup, regarde s'il existe un chemin qui relie davantage de tuiles de la même couleur.

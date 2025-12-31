@@ -1,8 +1,10 @@
 ---
 locale: fr
 urlstr: g-switch-2
-title: "G-Switch 2"
-description: "Suite du runner gravitationnel : cours en solo ou en multijoueur local, inverse la gravité pour survivre aux pièges à mesure que la vitesse grimpe."
+title: G-Switch 2
+description: >-
+  Suite du runner gravitationnel : cours en solo ou en multijoueur local,
+  inverse la gravité pour survivre aux pièges à mesure que la vitesse grimpe.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/6/index.html
 thumbnail: /new-images/thumbnails/g-switch-2.jpg
@@ -32,6 +34,7 @@ G‑Switch 2 reprend le principe de l’original en y ajoutant de nouveaux obsta
 - Une seule touche / un seul tap pour inverser la gravité.  
 - En versus local, chaque joueur utilise une touche distincte pour flipper.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Garde un rythme stable : deux flips rapides peuvent rattraper un overshoot ou corriger une inversion trop tôt.

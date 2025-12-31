@@ -1,14 +1,17 @@
 ---
 locale: fr
-urlstr: "mega-prize-scratch"
-title: "Mega Prize Scratch"
-description: "Mega Prize Scratch est un jeu de grattage détente : révèle les cases, aligne les symboles et fixe des limites de session pour garder l’expérience amusante."
-iframeSrc: "https://3a38lqtqled1o.h5games.usercontent.goog/v/37llbljplv5v0/"
+urlstr: mega-prize-scratch
+title: Mega Prize Scratch
+description: >-
+  Mega Prize Scratch est un jeu de grattage détente : révèle les cases, aligne
+  les symboles et fixe des limites de session pour garder l’expérience amusante.
+iframeSrc: 'https://3a38lqtqled1o.h5games.usercontent.goog/v/37llbljplv5v0/'
 thumbnail: /new-images/thumbnails/mega-prize-scratch.png
-tags: ["casual"]
-score: "3.6/5  (1538 votes)"
-developer: ""
-releaseDate: 2025-10-18
+tags:
+  - casual
+score: 3.6/5  (1538 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -17,6 +20,7 @@ releaseDate: 2025-10-18
 Mega Prize Scratch simule un ticket à gratter virtuel : tu frottes la surface pour révéler des symboles cachés, tu cherches des combinaisons gagnantes et tu déclenches parfois des manches bonus. Chaque ticket est indépendant ; le jeu est pensé comme un divertissement léger plutôt que comme un puzzle à résoudre.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Fixer un budget :** définis à l’avance une petite somme virtuelle ou un nombre de tickets pour ta session et respecte‑la.

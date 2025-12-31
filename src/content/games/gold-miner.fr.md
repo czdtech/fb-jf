@@ -34,6 +34,7 @@ Gold Miner est un jeu d'arcade basé sur le timing, où une griffe oscillante de
 - Une touche / un clic pour lâcher la griffe.
 - Des touches supplémentaires pour utiliser les objets (selon l'hébergeur).
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Apprends le timing de l'arc — relâche légèrement avant le centre de l'objet visé.

@@ -1,8 +1,10 @@
 ---
 locale: fr
 urlstr: geometry-dash-subzero
-title: "Geometry Dash SubZero"
-description: "Niveaux autonomes à thème hivernal : saute, vole et enchaîne les anneaux en rythme sur des patterns rapides et des visuels glacés."
+title: Geometry Dash SubZero
+description: >-
+  Niveaux autonomes à thème hivernal : saute, vole et enchaîne les anneaux en
+  rythme sur des patterns rapides et des visuels glacés.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp46/chenling/20240322/06/index.html
 thumbnail: /new-images/thumbnails/geometry-dash-subzero.jpg
@@ -31,6 +33,7 @@ Geometry Dash SubZero est un pack de niveaux Geometry Dash sur le thème de l’
 
 - Taper / Espace / clic souris : sauter ; maintenir pour voler (selon l’hébergeur).
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Si les effets visuels te perturbent, baisse les options graphiques ou éloigne un peu ton regard pour te concentrer sur le rythme.

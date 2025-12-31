@@ -1,8 +1,10 @@
 ---
 locale: fr
 urlstr: haru-pandas-slide
-title: "Haru Pandas Slide"
-description: "Haru Pandas Slide est un jeu de taquin relaxant : fais glisser les tuiles pour recomposer de mignonnes scènes de pandas en un minimum de mouvements."
+title: Haru Pandas Slide
+description: >-
+  Haru Pandas Slide est un jeu de taquin relaxant : fais glisser les tuiles pour
+  recomposer de mignonnes scènes de pandas en un minimum de mouvements.
 iframeSrc: 'https://0vc1kolll32h8.h5games.usercontent.goog/v/0t898ulinrkag/'
 thumbnail: /new-images/thumbnails/haru-pandas-slide.png
 tags:
@@ -20,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Haru Pandas Slide propose des puzzles coulissants basés sur des images. Chaque niveau affiche une illustration de pandas découpée en tuiles mélangées. Tu dois faire glisser ces tuiles le long des lignes et colonnes pour reconstituer l’image d’origine. Les niveaux avancés ajoutent davantage de cases et parfois des tuiles verrouillées qui ne peuvent pas bouger, ce qui oblige à planifier soigneusement tes séquences de déplacement au lieu de jouer au hasard.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 1.  **Commence par le cadre**  

@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Medieval Solitaire reprend le classique solitaire Klondike dans un univers de chevaliers, de châteaux et de royauté. Les règles restent celles du solitaire traditionnel : tu dois ranger toutes les cartes du paquet dans quatre piles de base, une par couleur, en partant de l'As pour aller jusqu'au Roi. Le thème médiéval se retrouve dans les illustrations des cartes, les fonds d'écran et la musique, mais le cœur du jeu reste un puzzle de cartes stratégique et relaxant.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Objectif principal :** déplacer les 52 cartes vers les quatre fondations en commençant chaque pile par un As puis en construisant jusqu'au Roi pour chaque couleur.

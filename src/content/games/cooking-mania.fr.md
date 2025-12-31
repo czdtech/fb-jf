@@ -27,6 +27,7 @@ s’accélère, ce qui demande une bonne mémoire et une excellente gestion des
 priorités.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Apprends les recettes simples**  

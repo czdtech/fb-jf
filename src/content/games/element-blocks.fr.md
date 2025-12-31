@@ -10,7 +10,7 @@ tags:
   - thinky
   - casual
 score: 4.5/5  (2500 votes)
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
@@ -26,6 +26,7 @@ Lorsque tu ne peux plus placer aucune des pièces proposées, la partie est
 terminée.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Regarde toutes les pièces disponibles**  

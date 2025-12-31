@@ -26,6 +26,7 @@ Les aliments continuent de cuire tant qu’ils sont sur le feu : tout l’enjeu
 donc de bien séquencer tes actions pour sortir les assiettes au moment parfait
 et éviter de brûler les plats.
 
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Commence par ce qui prend le plus de temps**  

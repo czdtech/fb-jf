@@ -53,6 +53,7 @@ pour un score parfait.
 - **Interagir avec les gadgets** : touche/clique sur bulles, ventilateurs ou
   autres éléments selon les indications du niveau.
 
+<!-- i18n:section:tips -->
 ### Conseils et stratégies
 
 

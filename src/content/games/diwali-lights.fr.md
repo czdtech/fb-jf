@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: diwali-lights
-title: 'Diwali Lights'
-description: >-
-  Diwali Lights est un puzzle festif au tap : allume des diyas selon des motifs,
-  évite les chevauchements, et complète des dessins lumineux.
+title: Diwali Lights
+description: "Diwali Lights est un puzzle festif au tap\_: allume des diyas selon des motifs, évite les chevauchements, et complète des dessins lumineux."
 iframeSrc: 'https://diwalilights.h5games.usercontent.goog/v/5cddqg9lrn3kg/'
 thumbnail: /new-images/thumbnails/diwali-lights.jpg
 tags:
@@ -27,6 +25,7 @@ respectant les règles (chevauchements interdits, séquences, etc.). Plus loin,
 des niveaux ajoutent des coups limités, des interrupteurs et parfois du timing.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  Comprends les règles : certains plateaux interdisent les chevauchements ou

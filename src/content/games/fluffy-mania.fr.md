@@ -1,8 +1,10 @@
 ---
 locale: fr
 urlstr: fluffy-mania
-title: "Fluffy Mania"
-description: "Fluffy Mania est un puzzle cosy de connexion : relie les adorables « fluffies », déclenche des cascades et poursuis les meilleurs scores."
+title: Fluffy Mania
+description: >-
+  Fluffy Mania est un puzzle cosy de connexion : relie les adorables « fluffies
+  », déclenche des cascades et poursuis les meilleurs scores.
 iframeSrc: 'https://02rd6nna08dqg.h5games.usercontent.goog/v/3ngbs02gf9h88/'
 thumbnail: /new-images/thumbnails/fluffy-mania.png
 tags:
@@ -19,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Fluffy Mania est un puzzle de connexion coloré et relaxant. Tu dois relier des fluffies de même couleur adjacents pour les faire disparaître, déclencher des réactions en chaîne et atteindre les objectifs de chaque niveau : score minimum, nombre de coups limité, cases spéciales à nettoyer, etc.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Forme des boucles si les règles le permettent : réaliser un carré ou une boucle d’une couleur donnée efface souvent tous les fluffies de cette couleur à l’écran – un énorme gain.

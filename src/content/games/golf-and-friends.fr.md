@@ -23,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Golf and Friends est une expérience de mini‑golf casual avec des obstacles ludiques, des rampes et des murs pour les tirs en rebond. La maîtrise repose sur le dosage de la puissance et le choix des angles : de petites touches près du trou évitent les putts qui « lèchent le bord », et des bank shots à 45° rendent les virages serrés plus fiables. En multijoueur, le parcours devient un petit party‑game convivial.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Dosage près du trou : vise légèrement en dessous de la puissance nécessaire à l'entrée du trou pour éviter que la balle ne fasse le tour du bord.

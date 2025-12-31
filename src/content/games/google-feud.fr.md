@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: google-feud
-title: "Google Feud"
-description: "Jeu de devinettes façon sondage : complète les débuts de requêtes Google avec les propositions les plus populaires et avance dans les manches sans épuiser tes essais."
+title: Google Feud
+description: >-
+  Jeu de devinettes façon sondage : complète les débuts de requêtes Google avec
+  les propositions les plus populaires et avance dans les manches sans épuiser
+  tes essais.
 iframeSrc: 'https://mac-web.github.io/macvg/projects/google-feud/game.html'
 thumbnail: /new-images/thumbnails/google-feud.jpg
 tags:
@@ -31,6 +34,7 @@ Google Feud reprend le principe de « Family Feud », mais appliqué aux requêt
 - Clavier pour saisir les réponses, Entrée pour valider.  
 - Boutons à l’écran pour changer de catégorie entre les manches.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Pense comme l’autocomplete : fautes fréquentes, synonymes, expressions toutes faites.

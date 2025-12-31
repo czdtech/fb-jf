@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Fruit Chopper est un jeu d'arcade nerveux et juteux qui teste tes réflexes et ta précision. L'écran se remplit de fruits de toutes sortes projetés en l'air. Ta mission : en trancher un maximum d'un simple swipe de doigt ou de souris. Attention cependant, des bombes dangereuses sont mélangées aux fruits ; en toucher une peut mettre fin à ta partie. Le défi est de créer de gros combos, de survivre le plus longtemps possible et de battre ton record.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Tranche en combos : la clé d'un gros score, c'est de couper plusieurs fruits en un seul mouvement continu. Un combo de 3 fruits est correct, mais 4 ou 5 d'un coup rapportent un énorme bonus.

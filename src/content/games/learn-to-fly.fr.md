@@ -1,9 +1,11 @@
 ---
 locale: fr
 urlstr: learn-to-fly
-title: "Learn To Fly"
-description: "Jeu de lancer/upgrade avec pingouin volant : règle l’angle, plane et booste, gagne de l’argent et achète des pièces pour aller toujours plus loin."
-iframeSrc: "https://ad-freegames.github.io/flash/game/learn-to-fly.html"
+title: Learn To Fly
+description: >-
+  Jeu de lancer/upgrade avec pingouin volant : règle l’angle, plane et booste,
+  gagne de l’argent et achète des pièces pour aller toujours plus loin.
+iframeSrc: 'https://ad-freegames.github.io/flash/game/learn-to-fly.html'
 thumbnail: /new-images/thumbnails/learn-to-fly.jpg
 tags:
   - arcade
@@ -30,6 +32,7 @@ Learn to Fly est un jeu de distance basé sur l’amélioration continue. Tu lan
 
 - Flèches pour ajuster le pitch ; barre espace/touches dédiées pour les boosters (selon l’hébergeur).
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - De petites plongées redonnent de la vitesse, des montées douces allongent la distance.  

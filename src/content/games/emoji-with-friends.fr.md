@@ -1,8 +1,10 @@
 ---
 locale: fr
 urlstr: emoji-with-friends
-title: "Emoji With Friends"
-description: "Emoji With Friends est un party‑game de réflexion léger : aligne, déduis et défie tes amis grâce à la logique des emojis."
+title: Emoji With Friends
+description: >-
+  Emoji With Friends est un party‑game de réflexion léger : aligne, déduis et
+  défie tes amis grâce à la logique des emojis.
 iframeSrc: 'https://2gtc787tjm7c8.h5games.usercontent.goog/v/5lfna7ldlrun8/'
 thumbnail: /new-images/thumbnails/emoji-with-friends.png
 tags:
@@ -20,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Emoji With Friends mélange enchaînements rapides et petite déduction à partir de tuiles d’emojis expressifs. Selon le mode choisi, tu vas connecter des ensembles, remplir des mini‑objectifs ou faire la course avec un ami pour résoudre le plateau en premier. Les manches sont courtes, lisibles, et très accessibles : idéal pour des parties rapides en soirée ou entre deux activités.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Analyse les motifs : repère les groupes d’emojis qui reviennent souvent pour créer des chaînes rapides.

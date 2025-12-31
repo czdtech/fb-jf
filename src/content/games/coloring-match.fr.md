@@ -27,6 +27,7 @@ luminosité jusqu’à ce que ta couleur soit presque identique au modèle, puis
 l’appliquer sur l’objet.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Commence par la teinte générale**  

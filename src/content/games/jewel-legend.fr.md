@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Jewel Legend est un jeu de puzzle match‑3 vibrant et hautement addictif situé dans un monde rempli de gemmes précieuses. Les joueurs se lancent dans une aventure épique à travers des centaines de niveaux, résolvant des puzzles en échangeant et alignant trois joyaux ou plus de la même couleur. Le jeu est connu pour ses graphismes colorés, ses réactions en chaîne satisfaisantes, et une grande variété d'objectifs de niveau qui gardent le gameplay frais et engageant. Créer des gemmes spéciales par des alignements intelligents est crucial pour surmonter les défis les plus difficiles du jeu.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Crée des gemmes spéciales :** La clé du succès est de penser au‑delà des simples match‑3. Sois toujours à l'affût des opportunités de créer de puissantes gemmes spéciales :

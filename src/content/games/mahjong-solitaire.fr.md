@@ -24,6 +24,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Mahjong Solitaire est un jeu de correspondance pour un seul joueur qui utilise un set de tuiles de mahjong. Contrairement au mahjong traditionnel, ton but n'est pas de former des mains, mais de vider le plateau en trouvant et en associant des paires de tuiles identiques. Les tuiles sont disposées en différentes formes, souvent sur plusieurs couches. Le jeu demande une observation attentive et une bonne planification, car un mauvais choix peut bloquer définitivement des paires. C'est un classique relaxant mais très stimulant mentalement.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Comprendre les tuiles « libres » :** tu ne peux sélectionner et associer que les tuiles libres. Une tuile est libre si :

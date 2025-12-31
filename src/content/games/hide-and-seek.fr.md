@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: hide-and-seek
-title: "Hide And Seek!"
-description: "Hide And Seek! transforme le cache‑cache en jeu d’infiltration décontracté : en tant que fuyard, mélange‑toi aux PNJ ; en tant que chasseur, repère les comportements suspects et attrape tout le monde avant la fin du chrono."
+title: Hide And Seek!
+description: >-
+  Hide And Seek! transforme le cache‑cache en jeu d’infiltration décontracté :
+  en tant que fuyard, mélange‑toi aux PNJ ; en tant que chasseur, repère les
+  comportements suspects et attrape tout le monde avant la fin du chrono.
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/YWRIxUAXudnq4HO1/rvvASMiM/239942ce1a1349f6bcc9d312b32c5c3b/
 thumbnail: /new-images/thumbnails/hide-and-seek.jpg
@@ -32,6 +35,7 @@ Hide And Seek! adapte le cache‑cache de cour de récré en jeu d’arcade vue 
 - **Déplacement** : touches fléchées ou WASD.  
 - **Utiliser un pouvoir / interagir** : touche d’action indiquée par l’hébergeur (souvent E ou un clic sur un bouton à l’écran).
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - **Côté fuyard** : imite les pauses, demi‑tours et trajectoires des PNJ. Ne sprint que lorsque c’est indispensable, sinon tu attires immédiatement l’attention.  

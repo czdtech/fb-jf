@@ -1,9 +1,11 @@
 ---
 locale: fr
 urlstr: lemonade-stand
-title: "Lemonade Stand"
-description: "Simu business classique : fixe prix, recette et pub, achète gobelets/citrons/glace et gère ton bénéfice quotidien en fonction de la météo."
-iframeSrc: "https://ad-freegames.github.io/flash/game/lemonade-stand.html"
+title: Lemonade Stand
+description: >-
+  Simu business classique : fixe prix, recette et pub, achète
+  gobelets/citrons/glace et gère ton bénéfice quotidien en fonction de la météo.
+iframeSrc: 'https://ad-freegames.github.io/flash/game/lemonade-stand.html'
 thumbnail: /new-images/thumbnails/lemonade-stand.jpg
 tags:
   - simulation
@@ -30,6 +32,7 @@ Lemonade Stand simule un petit stand de limonade. Chaque jour, tu achètes ton s
 
 - Souris / interface pour régler quantités et prix, puis passer au jour suivant.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Ne surcharge pas les stocks périssables si la météo est fraîche ou pluvieuse.  

@@ -23,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Golf Fling est un puzzle physique fun et exigeant qui réinvente la façon de jouer au golf. À la place des clubs, tu utilises un simple geste de tirer‑relâcher pour catapulter la balle à travers une série de parcours créatifs et piégeux. Ton but : mettre la balle dans le trou en un minimum de « flings ». À toi de contourner les obstacles, exploiter le terrain et maîtriser l'art de la trajectoire.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Vise avec soin : avant chaque tir, une ligne d'indicateur te montre la trajectoire prévue. Sers‑toi‑en pour viser précisément en tenant compte des obstacles et des pentes.

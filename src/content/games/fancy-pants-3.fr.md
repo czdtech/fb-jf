@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: fancy-pants-3
-title: "Fancy Pants 3"
-description: "Le platforming basé sur le momentum revient avec des niveaux plus grands, encore plus de secrets et des wall‑runs/glissades affinés dans des mondes dessinés à la main."
+title: Fancy Pants 3
+description: >-
+  Le platforming basé sur le momentum revient avec des niveaux plus grands,
+  encore plus de secrets et des wall‑runs/glissades affinés dans des mondes
+  dessinés à la main.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj10/index.html
 thumbnail: /new-images/thumbnails/fancy-pants-3.jpg
@@ -31,6 +34,7 @@ Troisième épisode de la série, Fancy Pants 3 met l’accent sur un flux de mo
 
 - Flèches ou WASD pour te déplacer et sauter ; Bas pour glisser ; Haut pour entrer dans une porte.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Garde un rythme régulier : l’hésitation casse ta vitesse.

@@ -1,14 +1,19 @@
 ---
 locale: fr
-urlstr: "maze-puzzle"
-title: "Maze Puzzle"
-description: "Maze Puzzle est un jeu de labyrinthe épuré : trace le chemin le plus court, attire les gardes en patrouille et sors avec les clés avant la fin du temps."
-iframeSrc: "https://3931uc3bsois0.h5games.usercontent.goog/v/7nvm8etm546uo/"
+urlstr: maze-puzzle
+title: Maze Puzzle
+description: >-
+  Maze Puzzle est un jeu de labyrinthe épuré : trace le chemin le plus court,
+  attire les gardes en patrouille et sors avec les clés avant la fin du temps.
+iframeSrc: 'https://3931uc3bsois0.h5games.usercontent.goog/v/7nvm8etm546uo/'
 thumbnail: /new-images/thumbnails/maze-puzzle.png
-tags: ["puzzle", "thinky", "escape"]
-score: "4.0/5  (1866 votes)"
-developer: ""
-releaseDate: 2025-10-18
+tags:
+  - puzzle
+  - thinky
+  - escape
+score: 4.0/5  (1866 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -17,6 +22,7 @@ releaseDate: 2025-10-18
 Maze Puzzle propose de petits labyrinthes compacts remplis de clés, de portes et parfois de gardes en patrouille. Le but est de trouver un chemin sûr et aussi court que possible, de récupérer les clés dans le bon ordre et d’atteindre la sortie tout en évitant les impasses et les cônes de vision ennemis. Les meilleurs parcours combinent prise de risque minimale et gestion précise du temps.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Ordre des clés :** planifie un ordre de collecte qui limite au maximum les allers‑retours et les détours inutiles.

@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: drive-mad
-title: 'Drive Mad'
-description: >-
-  Drive Mad est un défi de conduite à base de physique : équilibre ton véhicule,
-  franchis les obstacles et atteins l’arrivée sans te retourner.
+title: Drive Mad
+description: "Drive Mad est un défi de conduite à base de physique\_: équilibre ton véhicule, franchis les obstacles et atteins l’arrivée sans te retourner."
 iframeSrc: 'https://ubg98.github.io/DriveMad/'
 thumbnail: /new-images/thumbnails/drive-mad.jpg
 tags:
@@ -36,6 +34,7 @@ mobiles et des plateformes fragiles.
 - Flèches/WASD : avancer/reculer/basculer ; R : recommencer ; Esc/P : pause (selon
   l’hébergeur).
 
+<!-- i18n:section:tips -->
 ### Astuces
 - Dose l’accélérateur : plein gaz retourne souvent le camion.
 - Utilise la marche arrière en l’air pour lever/abaisser le nez.

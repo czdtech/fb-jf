@@ -1,14 +1,18 @@
 ---
 locale: fr
-urlstr: "minesweeper-1000"
-title: "Minesweeper 1000"
-description: "Minesweeper 1000 modernise le démineur classique : lis la logique des nombres, pose des drapeaux et nettoie d’immenses grilles avec des techniques efficaces."
-iframeSrc: "https://5gsana77eub30.h5games.usercontent.goog/v/7363vv8e5mrb8/"
+urlstr: minesweeper-1000
+title: Minesweeper 1000
+description: >-
+  Minesweeper 1000 modernise le démineur classique : lis la logique des nombres,
+  pose des drapeaux et nettoie d’immenses grilles avec des techniques efficaces.
+iframeSrc: 'https://5gsana77eub30.h5games.usercontent.goog/v/7363vv8e5mrb8/'
 thumbnail: /new-images/thumbnails/minesweeper-1000.png
-tags: ["puzzle", "thinky"]
-score: "4.3/5  (2107 votes)"
-developer: ""
-releaseDate: 2025-10-18
+tags:
+  - puzzle
+  - thinky
+score: 4.3/5  (2107 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -17,6 +21,7 @@ releaseDate: 2025-10-18
 Minesweeper 1000 est une version moderne du célèbre puzzle de logique. Le but est d’ouvrir toutes les cases sûres sans déclencher de mine : chaque nombre révélé indique combien de bombes touchent cette case (y compris en diagonale). Sur les grandes grilles, la reconnaissance de motifs, les raccourcis de « chord » et la réduction des guesses forcés deviennent essentiels.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Motifs de base :** apprends à lire les modèles 1‑2, 1‑1 et 1‑2‑1 le long des bords pour placer des drapeaux de façon déterministe.

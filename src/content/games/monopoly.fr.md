@@ -22,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Monopoly est un grand classique des jeux de société, centré sur l'achat et la gestion de propriétés. Les joueurs lancent les dés pour se déplacer sur le plateau, acquièrent des rues, encaissent des loyers et négocient des échanges. Le but est de mener les autres joueurs à la faillite et de devenir le magnat immobilier ultime. Le jeu mélange stratégie, négociation et une bonne dose de chance.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Acheter des propriétés :** quand tu arrives sur une case libre, acheter la propriété te permet d'en percevoir le loyer par la suite.

@@ -1,8 +1,10 @@
 ---
 locale: fr
 urlstr: flappy-bird
-title: "Flappy Bird"
-description: "Runner infini à tapotements : fais battre les ailes de l’oiseau pour le guider entre les tuyaux et augmenter ton score sans toucher les obstacles."
+title: Flappy Bird
+description: >-
+  Runner infini à tapotements : fais battre les ailes de l’oiseau pour le guider
+  entre les tuyaux et augmenter ton score sans toucher les obstacles.
 iframeSrc: 'https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/TAhlQLDa/index.html'
 thumbnail: /new-images/thumbnails/flappy-bird.jpg
 tags:
@@ -30,6 +32,7 @@ Flappy Bird est un défi arcade à un seul bouton : chaque tapotement fait monte
 
 - Souris / écran tactile / barre d’espace : tapote pour faire battre les ailes de l’oiseau.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Utilise de très légers taps pour les micro‑ajustements ; garde les longues pressions pour les situations d’urgence.

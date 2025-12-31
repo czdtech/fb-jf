@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: geometry-dash-meltdown
-title: "Geometry Dash Meltdown"
-description: "Pack de niveaux pour platformer rythmique : saute et vole à travers de nouveaux niveaux synchronisés à la musique, avec obstacles thématiques et sections en vaisseau."
+title: Geometry Dash Meltdown
+description: >-
+  Pack de niveaux pour platformer rythmique : saute et vole à travers de
+  nouveaux niveaux synchronisés à la musique, avec obstacles thématiques et
+  sections en vaisseau.
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-meltdown/'
 thumbnail: /new-images/thumbnails/geometry-dash-meltdown.jpg
 tags:
@@ -30,6 +33,7 @@ Geometry Dash Meltdown est un ensemble autonome de niveaux Geometry Dash avec le
 
 - Taper / Espace / clic souris : sauter ; maintenir pour voler (selon la version).
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Si tu as l’impression de frapper trop tard, réduis les effets visuels ou ajuste les options de latence si disponibles.

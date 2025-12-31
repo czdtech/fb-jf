@@ -24,6 +24,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Endless Siege est un jeu de tower defense très prenant où tu dois défendre ton royaume contre des vagues sans fin d'orcs, de gobelins et d'autres créatures monstrueuses. Sa particularité : chaque jour, tu joues sur une nouvelle carte générée de façon procédurale, ce qui garantit une rejouabilité énorme. À toi de placer et d'améliorer intelligemment différentes tours de défense pour survivre au plus grand nombre de vagues possible et viser le meilleur score du jour.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Connais bien tes tours : comprendre tes défenses est essentiel.

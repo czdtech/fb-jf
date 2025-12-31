@@ -54,6 +54,7 @@ quotidiens peuvent influencer quelques réponses clés.
 - **Outils** : boutons de vérification, d’effacement ou de révélation selon la
   version.
 
+<!-- i18n:section:tips -->
 ### Conseils et stratégies
 
 

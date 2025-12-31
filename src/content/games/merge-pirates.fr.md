@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Merge Pirates est un puzzle de fusion relaxant où tu incarnes un capitaine pirate qui construit sa flotte. Le gameplay repose sur la fusion d'objets thématiques — canons, roues de navire, cartes au trésor et autres équipements — pour obtenir des versions de niveau supérieur. Ton but est de remplir les commandes de ton équipage, de gagner des pièces d'or et de collectionner tout l'équipement légendaire pour devenir le capitaine le plus redouté des sept mers.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **La chaîne de fusion :** le cœur du jeu est la fusion. Fais glisser un objet sur un autre identique pour créer un nouvel objet amélioré. Par exemple, deux petits canons peuvent devenir un canon plus gros et plus puissant.

@@ -26,6 +26,7 @@ Chaque type de cube a ses propres caractéristiques (portée, dégâts, vitesse 
  tir, effets spéciaux). Tu peux les améliorer avec les ressources gagnées.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Apprends le chemin des ennemis**  

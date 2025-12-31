@@ -58,6 +58,7 @@ les capturer et, une fois la dernière rangée adverse atteinte, un pion devient
   **et** vers l’arrière.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 - **Contrôle le centre**  

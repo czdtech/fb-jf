@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Golf Adventures est un jeu de puzzle amusant et créatif qui reprend les mécaniques du golf. Oublie les greens réalistes : ici, tu enchaînes des niveaux remplis d'obstacles originaux et de parcours surprenants. Le but reste simple : envoyer la balle dans le trou avec le moins de coups possible. C'est un jeu d'angles, de dosage de puissance et de résolution astucieuse de situations.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Prépare ton coup : avant de frapper, observe le niveau entier. Analyse les obstacles, les pentes et la position du trou. Le chemin le plus court n'est pas toujours le plus efficace.

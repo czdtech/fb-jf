@@ -1,9 +1,13 @@
 ---
 locale: fr
 urlstr: klondike-solitaire
-title: "Klondike Solitaire"
-description: "Solitaire Klondike classique : construis les fondations de l’As au Roi par couleur en utilisant des colonnes décroissantes alternant les couleurs, en pioche 1 ou pioche 3."
-iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-klondike-solitaire/"
+title: Klondike Solitaire
+description: >-
+  Solitaire Klondike classique : construis les fondations de l’As au Roi par
+  couleur en utilisant des colonnes décroissantes alternant les couleurs, en
+  pioche 1 ou pioche 3.
+iframeSrc: >-
+  https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-klondike-solitaire/
 thumbnail: /new-images/thumbnails/klondike-solitaire.jpg
 tags:
   - solitaire
@@ -30,6 +34,7 @@ Klondike utilise sept colonnes de tableau, une pioche et quatre fondations. Le b
 
 - Glisser‑déposer ou simple clic selon l’hébergeur ; l’auto‑déplacement vers les fondations est souvent disponible.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Privilégie les coups qui retournent une carte face cachée.  

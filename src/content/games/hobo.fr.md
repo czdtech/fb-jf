@@ -1,9 +1,11 @@
 ---
 locale: fr
 urlstr: hobo
-title: "Hobo"
-description: "Beat’em up déjanté : bastonne‑toi dans les rues, débloque des combos, utilise des armes improvisées et des attaques spéciales complètement absurdes."
-iframeSrc: "https://ad-freegames.github.io/flash/game/hobo.html"
+title: Hobo
+description: >-
+  Beat’em up déjanté : bastonne‑toi dans les rues, débloque des combos, utilise
+  des armes improvisées et des attaques spéciales complètement absurdes.
+iframeSrc: 'https://ad-freegames.github.io/flash/game/hobo.html'
 thumbnail: /new-images/thumbnails/hobo.jpg
 tags:
   - fighting
@@ -30,6 +32,7 @@ Hobo est un beat’em up à défilement horizontal connu pour sa violence cartoo
 
 - Flèches directionnelles pour te déplacer ; les touches d’attaque, de saut et de saisie varient selon l’hébergeur. Les combinaisons de touches pour les combos sont affichées en jeu.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Essaie de garder tous les ennemis du même côté de l’écran pour éviter d’être encerclé.  

@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: differences-find-quest
-title: 'Differences Find Quest'
-description: >-
-  Differences Find Quest est un « trouve les différences » détaillé : observe
-  les scènes, marque les écarts, et utilise les indices avec parcimonie.
+title: Differences Find Quest
+description: "Differences Find Quest est un « trouve les différences » détaillé\_: observe les scènes, marque les écarts, et utilise les indices avec parcimonie."
 iframeSrc: 'https://4rsldln0df32g.h5games.usercontent.goog/v/1hcmcbpl76s40/'
 thumbnail: /new-images/thumbnails/differences-find-quest.png
 tags:
@@ -27,6 +25,7 @@ variations de taille. Plus tu avances, plus il y a de différences, avec parfois
 des angles piégeux et une légère pression de temps.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  Balayage par zones : divise l’image en 4 à 6 zones et examine‑les

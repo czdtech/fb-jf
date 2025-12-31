@@ -1,14 +1,20 @@
 ---
 locale: fr
-urlstr: "mazes"
-title: "Mazes"
-description: "Mazes propose des courses de labyrinthe classiques : trace des chemins optimaux, évite les pièges et bats les temps de référence avec un routage propre."
-iframeSrc: "https://1ivu76rhffpsg.h5games.usercontent.goog/v/00icu4vi09j18/"
+urlstr: mazes
+title: Mazes
+description: >-
+  Mazes propose des courses de labyrinthe classiques : trace des chemins
+  optimaux, évite les pièges et bats les temps de référence avec un routage
+  propre.
+iframeSrc: 'https://1ivu76rhffpsg.h5games.usercontent.goog/v/00icu4vi09j18/'
 thumbnail: /new-images/thumbnails/mazes.jpg
-tags: ["puzzle", "thinky", "escape"]
-score: "4.0/5  (1894 votes)"
-developer: ""
-releaseDate: 2025-10-18
+tags:
+  - puzzle
+  - thinky
+  - escape
+score: 4.0/5  (1894 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -17,6 +23,7 @@ releaseDate: 2025-10-18
 Mazes regroupe une collection de labyrinthes, des grilles simples aux couloirs truffés de pièges. Le cœur du jeu, c’est le choix d’itinéraire : trouver un chemin sûr et court, éviter les tuiles piégées et activer les interrupteurs qui ouvrent des portes tout en restant dans les temps imposés.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Règle de la main droite/gauche :** dans les labyrinthes sans boucles compliquées, tu peux suivre un mur (toujours à droite ou toujours à gauche) pour trouver la sortie ; abandonne cette méthode si tu vois plusieurs anneaux et croisements.

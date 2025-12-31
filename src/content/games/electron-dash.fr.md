@@ -49,6 +49,7 @@ changeant de côté de tunnel au bon moment.
   mur).  
 - **Pause / Rejouer** : via les boutons d’interface.
 
+<!-- i18n:section:tips -->
 ### Conseils et stratégies
 
 

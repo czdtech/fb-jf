@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Jigsaw Puzzle Deluxe apporte l'activité intemporelle et relaxante de résolution de puzzles à ton écran. Le jeu offre une vaste collection de belles images en haute qualité dans diverses catégories. Les joueurs peuvent choisir leur image préférée et sélectionner un niveau de difficulté, qui détermine en combien de pièces le puzzle est divisé. L'objectif est d'assembler correctement toutes les pièces éparpillées pour recréer l'image originale.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Construis le cadre d'abord :** Une stratégie de puzzle classique et très efficace est de commencer par trouver toutes les pièces de bord et de coin. Assembler la bordure du puzzle d'abord fournit un cadre clair dans lequel travailler.

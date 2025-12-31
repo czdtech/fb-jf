@@ -33,6 +33,7 @@ Ton seul véritable objectif est de mémoriser chaque traquenard pour réussir �
 atteindre le drapeau de fin de niveau… qui, lui aussi, peut cacher un piège.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 Il n’y a pas vraiment de "stratégie avancée" : Cat Mario est avant tout un test

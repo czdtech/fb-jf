@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Merge Melons est un puzzle physique addictif, souvent appelé « Suika Game » ou « jeu de la pastèque ». Tu laisses tomber différents fruits dans un récipient ; dès que deux fruits identiques se touchent, ils fusionnent pour former le fruit suivant de la chaîne d'évolution. Ton objectif est de créer le plus gros fruit possible — la pastèque — et de marquer un maximum de points sans laisser la pile dépasser la ligne supérieure.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Connaître la chaîne de fruits :** mémorise l'ordre d'évolution des fruits. Savoir ce que donneront deux fruits identiques (par exemple, deux grappes de raisin qui deviennent une orange) est crucial pour planifier tes lancers.

@@ -22,6 +22,7 @@ Incredibox Studio est un projet fan‑made. Contrairement aux versions officiell
 
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégie de jeu / Conseils créatifs
 
 *   Comme c'est un bac à sable, la « stratégie » concerne la créativité.

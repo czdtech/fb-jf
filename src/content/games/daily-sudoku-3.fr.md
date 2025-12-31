@@ -3,13 +3,14 @@ locale: fr
 urlstr: daily-sudoku-3
 title: Daily Sudoku 3
 description: "Daily Sudoku 3 ajoute encore plus de grilles quotidiennes\_: varie les niveaux de difficulté et perfectionne tes techniques de résolution."
-iframeSrc: 'https://dailysudoku.h5games.usercontent.goog/v/03446732-f14b-4bcc-9e8b-68fc499a0cec/'
+iframeSrc: >-
+  https://dailysudoku.h5games.usercontent.goog/v/03446732-f14b-4bcc-9e8b-68fc499a0cec/
 thumbnail: /new-images/thumbnails/daily-sudoku-3.jpg
 tags:
   - puzzle
   - thinky
 score: 4.5/5  (2053 votes)
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
@@ -22,6 +23,7 @@ jour. C’est l’occasion de s’entraîner quotidiennement, du niveau débutan
 niveau expert.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Routine quotidienne**  

@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Emoji Fun est un jeu de puzzle créatif qui repose sur les associations d'idées. À chaque niveau, tu vois deux colonnes d'emojis. Ton objectif est de comprendre le lien entre les images et de tracer une ligne pour relier les bonnes paires. Les connexions peuvent être très concrètes (comme une chaussette et un pied) ou plus conceptuelles (comme un fantôme et une maison hantée). C'est un excellent test pour ta logique et ta manière de penser « en dehors des sentiers battus ».
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Commence par les paires évidentes : repère d'abord les associations les plus simples et les plus directes. Relier des paires comme « cacahuète » et « éléphant » ou « miel » et « abeille » t'aide à réduire le nombre de possibilités restantes.

@@ -1,14 +1,19 @@
 ---
 locale: fr
-urlstr: "make-it-meme"
-title: "Make It Meme"
-description: "Make It Meme est un jeu de soirée multijoueur en ligne où tu crées et notes des mèmes pour surpasser tes amis."
-iframeSrc: "https://artedu1808.github.io/g177/make-it-meme/"
+urlstr: make-it-meme
+title: Make It Meme
+description: >-
+  Make It Meme est un jeu de soirée multijoueur en ligne où tu crées et notes
+  des mèmes pour surpasser tes amis.
+iframeSrc: 'https://artedu1808.github.io/g177/make-it-meme/'
 thumbnail: /new-images/thumbnails/make-it-meme.jpg
-tags: ["party game", "casual", "online"]
-score: "4.4/5  (1458 votes)"
-developer: ""
-releaseDate: 2025-08-16
+tags:
+  - party game
+  - casual
+  - online
+score: 4.4/5  (1458 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -16,6 +21,7 @@ releaseDate: 2025-08-16
 
 Make It Meme est un jeu de soirée multijoueur en ligne développé par Prealpha où les joueurs s’affrontent en créant et en notant des mèmes. À chaque manche, le jeu propose un modèle d’image ; tu dois trouver une légende drôle dans le temps imparti. Une fois les créations révélées, tous les joueurs votent pour leurs mèmes préférés, et le capitaine des blagues est celui qui termine avec le plus grand nombre de points. Grâce aux salons en temps réel, c’est parfait pour animer une soirée entre amis à distance comme en présentiel.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Choisir le mode de jeu :** en arrivant sur le site, tu peux rejoindre une salle publique déjà créée ou ouvrir ta propre salle privée pour ne jouer qu’avec tes amis.

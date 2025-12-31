@@ -52,6 +52,7 @@ sans perdre toutes tes vies.
   et te déplacer.  
 - **Pause** : bouton ou touche pour interrompre la partie.
 
+<!-- i18n:section:tips -->
 ### Conseils et stratégies
 
 

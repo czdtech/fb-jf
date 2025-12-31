@@ -1,8 +1,10 @@
 ---
 locale: fr
 urlstr: escaping-the-prison
-title: "Escaping the Prison"
-description: "Une aventure point‑and‑click Henry Stickmin : choisis objets et routes (Sneaky/Badass/Legal) pour t’évader, avec plusieurs fins et beaucoup de gags."
+title: Escaping the Prison
+description: >-
+  Une aventure point‑and‑click Henry Stickmin : choisis objets et routes
+  (Sneaky/Badass/Legal) pour t’évader, avec plusieurs fins et beaucoup de gags.
 iframeSrc: 'https://classroomjq.github.io/escaping-the-prison/'
 thumbnail: /new-images/thumbnails/escaping-the-prison.jpg
 tags:
@@ -30,6 +32,7 @@ Henry Stickmin est derrière les barreaux : à toi d’utiliser des choix à emb
 
 - Souris : clique sur les choix et les prompts de quick‑time ; Espace pour certaines interruptions (selon l’hébergement).
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Si tu es bloqué, explore les autres grandes branches de routes ; beaucoup de scènes ont des solutions alternatives.

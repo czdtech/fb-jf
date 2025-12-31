@@ -1,14 +1,18 @@
 ---
 locale: fr
-urlstr: "match-puzzle-house"
-title: "Match Puzzle House"
-description: "Match Puzzle House est un match‑3 de rénovation : termine les objectifs, gagne des étoiles et rénove les pièces en utilisant intelligemment les boosters."
-iframeSrc: "https://7cp83ss0h08p0.h5games.usercontent.goog/v/49v2bsl4scjdo/"
+urlstr: match-puzzle-house
+title: Match Puzzle House
+description: >-
+  Match Puzzle House est un match‑3 de rénovation : termine les objectifs, gagne
+  des étoiles et rénove les pièces en utilisant intelligemment les boosters.
+iframeSrc: 'https://7cp83ss0h08p0.h5games.usercontent.goog/v/49v2bsl4scjdo/'
 thumbnail: /new-images/thumbnails/match-puzzle-house.png
-tags: ["puzzle", "casual"]
-score: "4.0/5  (1887 votes)"
-developer: ""
-releaseDate: 2025-10-18
+tags:
+  - puzzle
+  - casual
+score: 4.0/5  (1887 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -17,6 +21,7 @@ releaseDate: 2025-10-18
 Match Puzzle House combine des niveaux de match‑3 avec la rénovation d’intérieur. Sur le plateau, tu dois éliminer des bloqueurs, collecter des objets précis et atteindre les objectifs imposés avec un nombre de coups limité. Les étoiles gagnées servent ensuite à acheter des meubles, repeindre les murs et débloquer de nouvelles pièces de la maison. Les boosters et les combinaisons de bonus sont indispensables pour venir à bout des grilles les plus chargées.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Contrôler le centre du plateau :** ouvre d’abord la zone centrale pour disposer de plus d’espace afin de créer des combos et des bonus.

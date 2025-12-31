@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Find 500 Differences est un jeu de réflexion classique qui met ton attention aux détails au défi. À travers de nombreux niveaux, tu dois examiner deux images magnifiques qui semblent presque identiques. Ton objectif : repérer cinq petites différences qui les distinguent. Grâce à une grande variété d'illustrations, allant de paysages charmants à des scènes complexes, le jeu offre des heures de détente et de concentration pour tous les âges.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Balaye de façon méthodique : au lieu de regarder au hasard, commence par le coin supérieur gauche et parcours les deux images horizontalement, comme si tu lisais un livre. Cette méthode évite d'oublier des zones.

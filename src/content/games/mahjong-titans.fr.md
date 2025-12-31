@@ -1,14 +1,19 @@
 ---
 locale: fr
-urlstr: "mahjong-titans"
-title: "Mahjong Titans"
-description: "Solitaire à base de tuiles : élimine des paires de tuiles identiques dans des piles en couches jusqu’à ce que le plateau soit vide, en planifiant autour des blocages."
-iframeSrc: "https://ad-freegames.github.io/flash/game/mahjong-titans.html"
+urlstr: mahjong-titans
+title: Mahjong Titans
+description: >-
+  Solitaire à base de tuiles : élimine des paires de tuiles identiques dans des
+  piles en couches jusqu’à ce que le plateau soit vide, en planifiant autour des
+  blocages.
+iframeSrc: 'https://ad-freegames.github.io/flash/game/mahjong-titans.html'
 thumbnail: /new-images/thumbnails/mahjong-titans.jpg
-tags: ["puzzle", "mahjong"]
-score: "4.0/5  (628 votes)"
-developer: ""
-releaseDate: 2025-08-16
+tags:
+  - puzzle
+  - mahjong
+score: 4.0/5  (628 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -29,6 +34,7 @@ Mahjong Titans est un solitaire de tuiles utilisant les tuiles de mahjong classi
 - Sélectionne les tuiles à la souris ou au toucher pour former des paires.
 - Les boutons d’indice et d’annulation dépendent du site qui héberge le jeu.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Priorise les paires qui débloquent un grand nombre de tuiles.

@@ -1,8 +1,10 @@
 ---
 locale: fr
 urlstr: funny-shooter-2
-title: "Funny Shooter 2"
-description: "FPS à vagues : explose des ennemis complètement barrés avec un arsenal qui s’étoffe, gagne des pièces et améliore tes armes entre les manches."
+title: Funny Shooter 2
+description: >-
+  FPS à vagues : explose des ennemis complètement barrés avec un arsenal qui
+  s’étoffe, gagne des pièces et améliore tes armes entre les manches.
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter-2/'
 thumbnail: /new-images/thumbnails/funny-shooter-2.jpg
 tags:
@@ -34,6 +36,7 @@ Funny Shooter 2 est un FPS en arène où tu affrontes des vagues d’ennemis tot
 - 1–3 : changer d’arme  
 - Shift : sprinter (selon la version)
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Vise la tête : les ennemis deviennent de vrais sacs à PV aux vagues élevées, les headshots accélèrent les kills.

@@ -1,8 +1,10 @@
 ---
 locale: fr
 urlstr: geometry-dash-lite
-title: "Geometry Dash Lite"
-description: "Version d’essai du platformer rythmique : saute et vole au rythme de la musique à travers des niveaux préconçus en évitant piques, pads et portails."
+title: Geometry Dash Lite
+description: >-
+  Version d’essai du platformer rythmique : saute et vole au rythme de la
+  musique à travers des niveaux préconçus en évitant piques, pads et portails.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20240221/08/index.html
 thumbnail: /new-images/thumbnails/geometry-dash-lite.jpg
@@ -32,6 +34,7 @@ Geometry Dash Lite est une porte d’entrée dans le platformer rythmique culte.
 - Espace / clic souris / toucher : sauter (ou maintenir pour voler).  
 - Les commandes de pratique (checkpoints, retour) varient selon l’hébergeur.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Active le mode pratique sur les sections qui te posent problème afin de mémoriser les enchaînements sans tout recommencer.

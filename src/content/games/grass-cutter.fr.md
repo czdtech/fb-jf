@@ -35,6 +35,7 @@ Grass Cutter est un puzzle de planification de trajectoire où ta tondeuse se d�
 - Flèches directionnelles ou swipe pour déplacer la tondeuse.
 - Boutons d'annulation / redémarrage disponibles dans la plupart des versions.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Pars des coins difficiles à atteindre et remonte vers les zones plus ouvertes.

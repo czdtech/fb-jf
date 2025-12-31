@@ -1,9 +1,11 @@
 ---
 locale: fr
 urlstr: jetpack-joyride
-title: "Jetpack Joyride"
-description: "Runner horizontal survitaminé : évite zappeurs et missiles, récupère véhicules et pièces, et complète des missions pour débloquer gadgets et améliorations."
-iframeSrc: "https://slope-game.github.io/rungame/jetpack-joyride/"
+title: Jetpack Joyride
+description: >-
+  Runner horizontal survitaminé : évite zappeurs et missiles, récupère véhicules
+  et pièces, et complète des missions pour débloquer gadgets et améliorations.
+iframeSrc: 'https://slope-game.github.io/rungame/jetpack-joyride/'
 thumbnail: /new-images/thumbnails/jetpack-joyride.jpg
 tags:
   - runner
@@ -30,6 +32,7 @@ Jetpack Joyride est un runner à défilement horizontal très nerveux. Maintiens
 
 - Maintenir / toucher pour monter, relâcher pour descendre ; les boutons de gadgets et de menus varient selon l’hébergeur.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Apprends les cycles de zappeurs : un tap tardif permet de passer dans des espaces très serrés.  

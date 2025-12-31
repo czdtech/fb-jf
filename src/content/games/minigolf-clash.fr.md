@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Minigolf Clash est un jeu de putting décontracté avec des obstacles inventifs, des rampes, des bandes et des éléments mobiles. L'objectif reste simple : finir chaque trou sous le par, mais maîtriser les angles et la puissance est indispensable pour trouver les trajectoires optimales et les coups spectaculaires.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Gérer la puissance :** sur les trous piégeux, privilégie les petits putts contrôlés autour du trou plutôt que les gros coups qui risquent d'envoyer la balle hors du parcours.

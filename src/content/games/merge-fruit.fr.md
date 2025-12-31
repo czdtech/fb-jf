@@ -1,14 +1,20 @@
 ---
 locale: fr
-urlstr: "merge-fruit"
-title: "Merge Fruit"
-description: "Merge Fruit est un puzzle juteux de chute et de fusion : combine des fruits identiques, gère la hauteur des piles et prépare des cascades pour décrocher de gros scores."
-iframeSrc: "https://3eltb7i874s60.h5games.usercontent.goog/v/28f34ighqoh10/"
+urlstr: merge-fruit
+title: Merge Fruit
+description: >-
+  Merge Fruit est un puzzle juteux de chute et de fusion : combine des fruits
+  identiques, gère la hauteur des piles et prépare des cascades pour décrocher
+  de gros scores.
+iframeSrc: 'https://3eltb7i874s60.h5games.usercontent.goog/v/28f34ighqoh10/'
 thumbnail: /new-images/thumbnails/merge-fruit.png
-tags: ["puzzle", "thinky", "casual"]
-score: "4.1/5  (1957 votes)"
-developer: ""
-releaseDate: 2025-10-18
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.1/5  (1957 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -17,6 +23,7 @@ releaseDate: 2025-10-18
 Merge Fruit combine des chutes de fruits avec des règles de fusion. Tu laisses tomber des fruits dans un bac ; lorsqu’ils se touchent et qu’ils sont identiques, ils fusionnent pour donner un fruit plus gros. Ton défi est d’empiler intelligemment pour préparer de futures fusions tout en évitant que la pile n’atteigne le haut de l’écran.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Ancre centrale :** garde ton plus gros fruit près du centre du bac pour pouvoir le fusionner facilement depuis plusieurs côtés.

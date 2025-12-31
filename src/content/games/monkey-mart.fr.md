@@ -23,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Monkey Mart est un jeu de simulation charmant dans lequel tu gères un supermarché dirigé par de adorables singes. Tu dois planter et récolter des cultures, transformer les produits, remplir les rayons et servir les clients pour faire prospérer ton magasin. Au fil de la progression, tu débloques de nouveaux articles, améliores les équipements et engages davantage d'employés simiesques pour automatiser une partie du travail.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Planter et récolter :** plante des bananes, du maïs et d'autres cultures dans les champs, puis récolte‑les dès qu'elles sont mûres pour éviter de bloquer la production.

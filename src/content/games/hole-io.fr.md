@@ -1,9 +1,11 @@
 ---
 locale: fr
 urlstr: hole-io
-title: "Hole io"
-description: "Brawler .io urbain : contrôle un trou noir, avale des objets pour grandir, puis dépasse ou élimine les autres joueurs sur la carte."
-iframeSrc: "https://holeio.com/"
+title: Hole io
+description: >-
+  Brawler .io urbain : contrôle un trou noir, avale des objets pour grandir,
+  puis dépasse ou élimine les autres joueurs sur la carte.
+iframeSrc: 'https://holeio.com/'
 thumbnail: /new-images/thumbnails/hole-io.jpg
 tags:
   - io
@@ -30,6 +32,7 @@ Hole io te lâche dans une ville destructible sous la forme d’un trou noir mob
 
 - Déplace ton trou noir avec la souris (glisser) ou les touches WASD. Les modes de jeu et la durée des parties dépendent de l’hébergeur.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Évite les trous noirs plus gros que toi et fuis par les avenues les plus larges pour ne pas te faire coincer.  

@@ -22,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Lake Jump est un défi minimaliste basé sur le timing : tu dois déclencher tes sauts au bon moment pour atterrir sur des plateformes fixes ou mobiles et maintenir un rythme sans tomber dans l'eau.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  Compter les temps : adopte un rythme régulier pour caler les sauts.

@@ -1,9 +1,11 @@
 ---
 locale: fr
 urlstr: iron-snout
-title: "Iron Snout"
-description: "Brawler 2D nerveux avec cochon kung‑fu : pare les loups, jongle avec des coups de pied et renvoie leurs armes pour survivre aux vagues et battre des records."
-iframeSrc: "https://webglmath.github.io/iron-snout/"
+title: Iron Snout
+description: >-
+  Brawler 2D nerveux avec cochon kung‑fu : pare les loups, jongle avec des coups
+  de pied et renvoie leurs armes pour survivre aux vagues et battre des records.
+iframeSrc: 'https://webglmath.github.io/iron-snout/'
 thumbnail: /new-images/thumbnails/iron-snout.jpg
 tags:
   - fighting
@@ -30,6 +32,7 @@ Iron Snout est un beat’em up 2D rapide dans lequel tu incarnes un cochon exper
 
 - Les flèches ou WASD déclenchent les attaques dans la direction pressée, ainsi que les sauts et esquives ; il n’y a pas de bouton d’attaque séparé.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Priorise les ennemis à distance : leurs projectiles cassent facilement ton rythme de combo.  

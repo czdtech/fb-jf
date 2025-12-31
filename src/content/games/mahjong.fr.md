@@ -22,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Mahjongg Solitaire est un jeu de correspondance pour un seul joueur basé sur les tuiles traditionnelles du mahjong chinois. Ton objectif est de vider complètement le plateau en associant des paires de tuiles identiques et ouvertes. Grâce à des règles simples mais à des dispositions parfois très complexes, Mahjongg Solitaire est apprécié dans le monde entier.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Observe la disposition du plateau :** prends quelques secondes pour repérer les paires évidentes et les zones les plus bloquées.

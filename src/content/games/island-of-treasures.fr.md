@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Island Of Treasures est un runner infini en 3D bourré d'action qui te plonge dans une aventure de pirates palpitante. Tu incarnes un boucanier intrépide, courant sans cesse à travers un environnement d'île dynamique et dangereux. Ta mission est de collecter autant de trésors étincelants que possible, d'esquiver les pièges mortels et de semer les pirates rivaux qui convoitent aussi les richesses. Le jeu met tes réflexes et ton agilité à l'épreuve tandis que tu t'efforces d'atteindre le meilleur score et de devenir le pirate légendaire de l'île maudite.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Ramasse tout :** Ton objectif principal est de collecter pièces, joyaux et autres trésors éparpillés sur ton chemin. Ils contribuent à ton score et peuvent servir à débloquer des améliorations ou de nouveaux personnages.

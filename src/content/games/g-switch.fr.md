@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: g-switch
-title: "G-Switch"
-description: "Runner gravitationnel à un seul bouton : inverse la gravité pour continuer à courir sur les plateformes, éviter les trous et les scies, et tenir à mesure que la vitesse augmente."
+title: G-Switch
+description: >-
+  Runner gravitationnel à un seul bouton : inverse la gravité pour continuer à
+  courir sur les plateformes, éviter les trous et les scies, et tenir à mesure
+  que la vitesse augmente.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/5/index.html
 thumbnail: /new-images/thumbnails/g-switch.jpg
@@ -32,6 +35,7 @@ G‑Switch est un auto‑runner basé sur les inversions de gravité. Ton person
 - Une touche / un tap pour inverser la gravité.  
 - En multijoueur local, chaque joueur dispose d’une touche dédiée.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Garde un rythme de flip régulier : les inversions paniquées en chaîne entraînent souvent des erreurs successives.

@@ -1,14 +1,20 @@
 ---
 locale: fr
-urlstr: "merge-bistro"
-title: "Merge Bistro"
-description: "Merge Bistro est un jeu de gestion‑fusion cosy : combine des ingrédients, exécute les commandes et agrandis un bistro chaleureux en optimisant ton plateau."
-iframeSrc: "https://0f5mbl2u9ont8.h5games.usercontent.goog/v/50p3a8ekgfdk8/"
+urlstr: merge-bistro
+title: Merge Bistro
+description: >-
+  Merge Bistro est un jeu de gestion‑fusion cosy : combine des ingrédients,
+  exécute les commandes et agrandis un bistro chaleureux en optimisant ton
+  plateau.
+iframeSrc: 'https://0f5mbl2u9ont8.h5games.usercontent.goog/v/50p3a8ekgfdk8/'
 thumbnail: /new-images/thumbnails/merge-bistro.png
-tags: ["puzzle", "casual", "thinky"]
-score: "4.1/5  (1996 votes)"
-developer: ""
-releaseDate: 2025-10-18
+tags:
+  - puzzle
+  - casual
+  - thinky
+score: 4.1/5  (1996 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -17,6 +23,7 @@ releaseDate: 2025-10-18
 Merge Bistro mélange des mécaniques de merge‑2 avec une gestion légère de restaurant. Tu génères des ingrédients de base (farine, lait, œufs), que tu fusionnes en ingrédients de niveau supérieur (pâte, crème, etc.), puis tu les utilises pour préparer des plats et satisfaire les commandes des clients. Les limites de stockage et les temps de recharge des générateurs t’obligent à organiser ton plateau avec soin.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Lire la file de commandes :** prépare à l’avance les ingrédients dont tu auras besoin pour les prochaines commandes afin d’éviter les temps morts.

@@ -1,14 +1,19 @@
 ---
 locale: fr
-urlstr: "ludo-kart"
-title: "Ludo Kart"
-description: "Ludo Kart est un jeu de plateau léger mêlant dés et course : lance le dé, déplace tes pions et sois le premier à rentrer à la maison."
-iframeSrc: "https://35q41h2gp6dd8.h5games.usercontent.goog/v/6q7tggnmscsj8/"
+urlstr: ludo-kart
+title: Ludo Kart
+description: >-
+  Ludo Kart est un jeu de plateau léger mêlant dés et course : lance le dé,
+  déplace tes pions et sois le premier à rentrer à la maison.
+iframeSrc: 'https://35q41h2gp6dd8.h5games.usercontent.goog/v/6q7tggnmscsj8/'
 thumbnail: /new-images/thumbnails/ludo-kart.png
-tags: ["casual", "thinky", "2 player"]
-score: "3.8/5  (1542 votes)"
-developer: ""
-releaseDate: 2025-10-18
+tags:
+  - casual
+  - thinky
+  - 2 player
+score: 3.8/5  (1542 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -17,6 +22,7 @@ releaseDate: 2025-10-18
 Ludo Kart adapte le classique Ludo en une course familiale rapide. Tu lances un dé pour déplacer tes pions autour du plateau, puis dans la ligne finale, avec pour objectif d’amener tous tes pions à la maison avant les adversaires. Les cases sûres, les captures et les jets de dé chanceux créent de gros retournements de situation.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Répartis tes pions :** fais avancer plusieurs pions plutôt que de tout miser sur un seul, afin qu’une capture ne fasse pas disparaître tout ton progrès.

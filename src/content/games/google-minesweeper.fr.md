@@ -1,8 +1,10 @@
 ---
 locale: fr
 urlstr: google-minesweeper
-title: "Google Minesweeper"
-description: "Casse‑tête logique classique : nettoie la grille sans déclencher de mines en déduisant les cases sûres grâce aux nombres et à tes drapeaux."
+title: Google Minesweeper
+description: >-
+  Casse‑tête logique classique : nettoie la grille sans déclencher de mines en
+  déduisant les cases sûres grâce aux nombres et à tes drapeaux.
 iframeSrc: 'https://www.minesweepergoogle.com/gameapp.html'
 thumbnail: /new-images/thumbnails/google-minesweeper.jpg
 tags:
@@ -30,6 +32,7 @@ Minesweeper affiche des nombres indiquant combien de mines touchent chaque case.
 
 - Souris / tactile ; les raccourcis pour le chord et les ouvertures rapides dépendent de la version.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Adopte une convention de marquage stable pour éviter les drapeaux mal placés.

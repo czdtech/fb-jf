@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: dogeminer
-title: 'DogeMiner'
-description: >-
-  DogeMiner est un clicker/idle : mine des pièces, achète des améliorations et
-  des assistants, et automatise la production pour gagner plus vite.
+title: DogeMiner
+description: "DogeMiner est un clicker/idle\_: mine des pièces, achète des améliorations et des assistants, et automatise la production pour gagner plus vite."
 iframeSrc: 'https://edufall.github.io/o16/doge-miner/'
 thumbnail: /new-images/thumbnails/dogeminer.jpg
 tags:
@@ -40,6 +38,7 @@ comme voyager vers la Lune (et au‑delà) via des améliorations de fusée.
 - Souris/tactile : clique pour miner manuellement ; utilise les boutons de l’UI
   pour acheter améliorations, assistants et fusées.
 
+<!-- i18n:section:tips -->
 ### Conseils et stratégies
 - Réinvestis tôt dans le revenu passif avant de viser des prestiges coûteux ou
   des pièces de fusée.

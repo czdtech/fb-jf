@@ -1,8 +1,10 @@
 ---
 locale: fr
 urlstr: go-escape
-title: "Go Escape"
-description: "Go Escape est un platformer d’évasion de précision : cale tes sauts, lis les pièges et trouve des trajectoires sûres à travers des salles compactes."
+title: Go Escape
+description: >-
+  Go Escape est un platformer d’évasion de précision : cale tes sauts, lis les
+  pièges et trouve des trajectoires sûres à travers des salles compactes.
 iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
 thumbnail: /new-images/thumbnails/go-escape.png
 tags:
@@ -20,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Go Escape est un platformer minimaliste d’évasion de salles. Pièges à piques, scies mobiles et portes temporisées exigent des entrées ultra propres et beaucoup de patience. Les niveaux sont courts mais punitifs : le plaisir vient du moment où tu maîtrises le rythme de chaque salle et réussis enfin un run sans faute.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Observe les cycles : regarde un cycle complet de pièges avant de partir. Avance ensuite sur des temps clairement identifiés.

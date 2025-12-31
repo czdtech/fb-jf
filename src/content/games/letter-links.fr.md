@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Letter Links est un jeu de construction de mots stratégique qui rappelle Scrabble. Chaque jour, tu reçois un nouvel ensemble de lettres, chacune avec une valeur. Tu dois les placer sur la grille pour former des mots valides et connectés, façon mots croisés. En utilisant intelligemment les lettres de forte valeur et les cases bonus, tu essaies de faire le meilleur score possible.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Connais les bonus**

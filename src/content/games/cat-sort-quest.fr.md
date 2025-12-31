@@ -33,6 +33,7 @@ couleurs, de piles hautes et peu d’emplacements vides, ce qui demande une vrai
 planification.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Garde toujours un perchoir en buffer**  

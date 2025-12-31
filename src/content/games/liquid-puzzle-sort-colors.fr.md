@@ -1,14 +1,20 @@
 ---
 locale: fr
-urlstr: "liquid-puzzle-sort-colors"
-title: "Liquid puzzle sort colors"
-description: "Liquid Puzzle Sort Colors est un jeu de tri de liquides relaxant : verse les liquides par couleur, gère tes bouteilles tampons et termine chaque flacon sans te retrouver bloqué."
-iframeSrc: "https://1b6vgcuid4b98.h5games.usercontent.goog/v/2vus27k78710o/"
+urlstr: liquid-puzzle-sort-colors
+title: Liquid puzzle sort colors
+description: >-
+  Liquid Puzzle Sort Colors est un jeu de tri de liquides relaxant : verse les
+  liquides par couleur, gère tes bouteilles tampons et termine chaque flacon
+  sans te retrouver bloqué.
+iframeSrc: 'https://1b6vgcuid4b98.h5games.usercontent.goog/v/2vus27k78710o/'
 thumbnail: /new-images/thumbnails/liquid-puzzle-sort-colors.jpg
-tags: ["puzzle", "thinky", "casual"]
-score: "4.1/5  (1979 votes)"
-developer: ""
-releaseDate: 2025-10-18
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.1/5  (1979 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -17,6 +23,7 @@ releaseDate: 2025-10-18
 Liquid Puzzle Sort Colors reprend la formule des jeux de tri de liquides : tu verses des couches de liquide d’une bouteille à l’autre pour que chaque flacon soit finalement rempli d’une seule couleur. Tu ne peux verser que sur une couleur identique ou dans une bouteille complètement vide. La difficulté vient surtout de la gestion des bouteilles tampons et de l’ordre des versements, afin d’éviter les configurations où plus aucun coup utile n’est possible.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Garde des bouteilles tampons libres :** si possible, laisse au moins deux bouteilles presque vides ou vides, ce sont tes soupapes de sécurité.

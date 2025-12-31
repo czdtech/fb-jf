@@ -1,8 +1,10 @@
 ---
 locale: fr
 urlstr: farming-10x10
-title: "Farming 10x10"
-description: "Farming 10x10 revisite le classique puzzle 10x10 : place des formes, vide les lignes/colonnes et évite de bloquer l’espace précieux de la grille."
+title: Farming 10x10
+description: >-
+  Farming 10x10 revisite le classique puzzle 10x10 : place des formes, vide les
+  lignes/colonnes et évite de bloquer l’espace précieux de la grille.
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
 thumbnail: /new-images/thumbnails/farming-10x10.jpg
 tags:
@@ -19,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Farming 10x10 est un puzzle paisible de placement de formes sur une grille 10×10. Tu reçois des lots de trois pièces ; place‑les pour compléter des lignes ou des colonnes et les effacer. La partie se termine dès qu’aucun placement légal n’est possible, donc tout l’art consiste à préserver ta flexibilité tout en préparant des effacements multiples.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Garde le centre respirable : nettoie les bords progressivement pour éviter de créer des pièges d’une seule case.

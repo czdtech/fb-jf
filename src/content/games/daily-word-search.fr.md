@@ -24,6 +24,7 @@ Les mots peuvent être cachés horizontalement, verticalement, en diagonale et
 parfois à l’envers.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Repère d’abord les mots longs**  

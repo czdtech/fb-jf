@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: duck-life-4
-title: 'Duck Life 4'
-description: >-
-  Duck Life 4 est un jeu d’entraînement et de course : développe les stats de ton
-  canard via des mini‑jeux et gagne des tournois.
+title: Duck Life 4
+description: "Duck Life 4 est un jeu d’entraînement et de course\_: développe les stats de ton canard via des mini‑jeux et gagne des tournois."
 iframeSrc: 'https://webglmath.github.io/ducklife-4/'
 thumbnail: /new-images/thumbnails/duck-life-4.jpg
 tags:
@@ -37,6 +35,7 @@ puis participe à des tournois régionaux. L’énergie sert d’endurance ; c
 - Flèches/souris selon le mini‑jeu ; Espace pour sauter dans les runners (selon
   l’hébergeur).
 
+<!-- i18n:section:tips -->
 ### Astuces
 - Alterne les entraînements pour éviter qu’une stat ne bloque une course.
 - Remplis l’énergie avant les tournois.

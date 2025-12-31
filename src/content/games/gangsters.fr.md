@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: gangsters
-title: "Gangsters"
-description: "Duels ragdoll physiques : deux stickmen gangsters rebondissent et se tirent dessus sur les toits ; synchronise sauts et tirs pour faire tomber ton adversaire."
+title: Gangsters
+description: >-
+  Duels ragdoll physiques : deux stickmen gangsters rebondissent et se tirent
+  dessus sur les toits ; synchronise sauts et tirs pour faire tomber ton
+  adversaire.
 iframeSrc: >-
   https://app-185146.games.s3.yandex.net/185146/4mtxwijatlm9neect542qv9nbcqetm7u/index.html
 thumbnail: /new-images/thumbnails/gangsters.jpg
@@ -31,6 +34,7 @@ Gangsters est un petit jeu de duel sur les toits pour un ou deux joueurs, avec d
 
 - Une touche par joueur pour sauter/tirer, ou des touches séparées pour les actions selon l’hébergeur.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Les petits sauts stabilisent la visée ; les grands sauts servent surtout à esquiver et à se repositionner.

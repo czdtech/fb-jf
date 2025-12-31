@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Hex Puzzle revisite le genre des puzzles de blocs sur une grille hexagonale. Ton objectif est de placer différentes formes constituées d'hexagones sur le plateau pour créer des lignes complètes et ininterrompues. Les lignes peuvent se former dans trois directions : horizontale et les deux diagonales. Lorsqu'une ligne est complète, elle disparaît, libérant de la place et te rapportant des points. Sans limite de temps, c'est un jeu de pure stratégie et de planification spatiale.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 1.  **Pense en trois directions :** contrairement à une grille carrée, une grille hexagonale permet de former des lignes dans trois axes. Scrute toujours le plateau non seulement à l'horizontal, mais aussi le long des deux diagonales.

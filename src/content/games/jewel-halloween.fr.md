@@ -11,7 +11,7 @@ tags:
   - puzzle
   - casual
 score: 4.1/5  (1942 votes)
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 
@@ -22,6 +22,7 @@ releaseDate: 2025-10-18
 Jewel Halloween est un match‑3 saisonnier. Échange des gemmes adjacentes pour faire des lignes de trois ou plus, génère des gemmes de pouvoir, et complète des objectifs comme les seuils de score, les coups limités, ou l'effacement d'obstacles.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  Travaille depuis le bas pour déclencher des cascades.

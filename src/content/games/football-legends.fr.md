@@ -1,8 +1,10 @@
 ---
 locale: fr
 urlstr: football-legends
-title: "Football Legends"
-description: "Duels de foot arcade : joue en 1v1 ou 2v2 avec têtes, volées et tirs spéciaux dans des matchs rapides ou tournois."
+title: Football Legends
+description: >-
+  Duels de foot arcade : joue en 1v1 ou 2v2 avec têtes, volées et tirs spéciaux
+  dans des matchs rapides ou tournois.
 iframeSrc: 'https://webglmath.github.io/football-legends/'
 thumbnail: /new-images/thumbnails/football-legends.jpg
 tags:
@@ -30,6 +32,7 @@ Football Legends est un jeu de foot arcade rapide, jouable en 1v1 ou 2v2, avec u
 
 - Flèches ou WASD pour se déplacer et sauter ; les touches de tir/passe et de tir spécial varient selon l’hébergeur (affichées à l’écran).
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Les têtes bien timées sont souvent la façon la plus sûre de marquer.

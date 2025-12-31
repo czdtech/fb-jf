@@ -35,6 +35,7 @@ Google Snake modernise le classique Snake avec des visuels propres et plusieurs 
 - Flèches directionnelles ou WASD pour diriger le serpent.
 - Pause / restart via l'interface.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Ne fais pas de demi‑tour brutal à 180° sur ton propre corps — préfère les grands virages.

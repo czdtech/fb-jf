@@ -26,6 +26,7 @@ Chaque puzzle quotidien est conçu pour être gagnable, ce qui en fait un bon
 exercice pour affiner ta stratégie et suivre ta progression au fil du temps.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Objectif**  

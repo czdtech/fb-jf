@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: geometry-dash-world
-title: "Geometry Dash World"
-description: "Mondes compacts de platformer rythmique : cours, saute et vole dans de courts niveaux synchronisés à la musique, débloque des portails avec des orbes et visite des niveaux quotidiens."
+title: Geometry Dash World
+description: >-
+  Mondes compacts de platformer rythmique : cours, saute et vole dans de courts
+  niveaux synchronisés à la musique, débloque des portails avec des orbes et
+  visite des niveaux quotidiens.
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-world/'
 thumbnail: /new-images/thumbnails/geometry-dash-world.jpg
 tags:
@@ -31,6 +34,7 @@ Geometry Dash World condense le cœur du platformer rythmique en deux mondes th�
 - Espace / souris / écran tactile : sauter ; maintenir pour voler.  
 - Les commandes de pratique/checkpoints varient selon l’hébergeur.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Apprends la structure de la musique : les dangers tombent souvent sur les temps forts et les fills.

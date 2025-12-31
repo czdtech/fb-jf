@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Farm Block Puzzle est un jeu de réflexion relaxant et addictif basé sur la formule classique du 10x10, le tout dans une ambiance de petite ferme. Le but est de placer stratégiquement différentes formes de blocs sur une grille de 10 cases sur 10. Dès que tu complètes une ligne entière, horizontale ou verticale, elle est effacée. Le défi consiste à continuer à placer des blocs et à nettoyer des lignes le plus longtemps possible pour atteindre un score élevé.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Planifie avec les pièces disponibles : le jeu te propose trois formes de blocs à la fois. Avant d'en poser une, vérifie toujours si tu as une place viable pour les deux autres, afin d'éviter de te retrouver bloqué avec une pièce impossible à caser.

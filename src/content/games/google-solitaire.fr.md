@@ -33,6 +33,7 @@ Le Klondike de Google propose les modes pioche‑1 ou pioche‑3. Le but est de 
 
 - Souris / tactile pour glisser‑déposer les cartes ; double‑clic pour auto‑déplacer lorsqu'un mouvement est légal.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Privilégie les mouvements qui révèlent une carte face cachée.

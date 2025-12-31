@@ -1,14 +1,18 @@
 ---
 locale: fr
-urlstr: "metal-guns-fury"
-title: "Metal Guns Fury"
-description: "Metal Guns Fury est un run‑and‑gun arcade : esquive les balles, gère ton arsenal et traverse des vagues d’ennemis avec des déplacements précis."
-iframeSrc: "https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/"
+urlstr: metal-guns-fury
+title: Metal Guns Fury
+description: >-
+  Metal Guns Fury est un run‑and‑gun arcade : esquive les balles, gère ton
+  arsenal et traverse des vagues d’ennemis avec des déplacements précis.
+iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
 thumbnail: /new-images/thumbnails/metal-guns-fury.jpg
-tags: ["action", "shooting"]
-score: "4.1/5  (2012 votes)"
-developer: ""
-releaseDate: 2025-10-18
+tags:
+  - action
+  - shooting
+score: 4.1/5  (2012 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -17,6 +21,7 @@ releaseDate: 2025-10-18
 Metal Guns Fury est un run‑and‑gun en défilement horizontal inspiré des grands classiques d’arcade. Tu alternes entre fusils, fusils à pompe et lance‑roquettes, sauves des otages pour obtenir des bonus et traverses des zones remplies de soldats, tourelles et véhicules légers. Des sauts propres, des glissades bien timées et une bonne gestion des munitions font la différence entre une mission maîtrisée et une défaite rapide.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Prioriser les cibles :** élimine en premier les tourelles fixes et les ennemis à roquettes, puis occupe‑toi de l’infanterie basique.

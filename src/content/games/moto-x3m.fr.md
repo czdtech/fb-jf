@@ -21,6 +21,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 Moto X3M est un jeu de course et de cascades à moto spectaculaire. Tu traverses des circuits remplis d'obstacles, de rampes, de scies et d'explosions en réalisant des figures aériennes. Ton objectif est de franchir la ligne d'arrivée le plus vite possible tout en enchaînant les flips pour améliorer ton score.
 
+<!-- i18n:section:tips -->
 ### Stratégies de jeu
 
 1.  **Garder l'équilibre :** le contrôle de l'inclinaison pendant les sauts et les réceptions est crucial pour éviter les crashs.

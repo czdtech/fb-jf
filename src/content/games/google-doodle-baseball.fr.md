@@ -32,6 +32,7 @@ Google Doodle Baseball est un mini‑jeu de baseball où tu joues uniquement le 
 
 - Clic / tap / barre d'espace pour frapper.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Ne swings pas par anticipation : réagis au lancé et au placement de la balle.

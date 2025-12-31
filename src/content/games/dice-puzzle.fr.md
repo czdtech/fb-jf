@@ -27,6 +27,7 @@ obtenir un cube‑bijou spécial capable de nettoyer une zone de la grille. La
 partie se termine lorsque plus aucune case n’est disponible pour poser un dé.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu
 
 1.  **Règle de fusion**  

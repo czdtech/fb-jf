@@ -24,6 +24,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Mahjong Classic est un jeu de puzzle solo intemporel basé sur un ensemble de tuiles de mahjong. Contrairement au mahjong traditionnel, le but n'est pas de former des mains, mais de vider une disposition de tuiles empilées en trouvant et en faisant correspondre des paires identiques. Le jeu met à l'épreuve ton sens de l'observation et ta capacité à planifier, tout en restant relaxant et accessible.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Comprendre la notion de tuile libre :** tu ne peux sélectionner et associer que les tuiles « libres ». Une tuile est considérée comme libre si elle peut être glissée vers la gauche ou la droite sans heurter une autre tuile, et si aucune tuile ne repose dessus.

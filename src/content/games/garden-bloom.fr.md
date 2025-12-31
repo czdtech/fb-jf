@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Garden Bloom est un jeu relaxant et créatif qui mélange des puzzles match‑3 classiques avec la restauration et la décoration d'un jardin. Ta mission : transformer un jardin abandonné en un véritable petit paradis fleuri. Le cœur du jeu consiste à terminer des niveaux match‑3 où tu échanges des fleurs colorées et autres éléments de jardin pour atteindre des objectifs précis. Chaque niveau réussi te donne des étoiles, que tu utiliseras ensuite pour nettoyer les lieux, planter de nouvelles fleurs et installer de belles décorations.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Un gameplay en deux parties :

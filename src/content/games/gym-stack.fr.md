@@ -23,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Gym Stack est un jeu de puzzle 3D addictif qui met à l'épreuve ton sens de l'organisation. Le plateau est composé de plusieurs barres sur lesquelles apparaissent des poids de tailles et de couleurs différentes. Ton objectif est de déplacer et d'empiler ces poids de manière stratégique, en fusionnant les identiques pour créer des haltères plus lourds et libérer de l'espace. Tu cherches à marquer un maximum de points sans laisser les barres se remplir complètement : c'est un test de prévoyance et de stratégie dans un univers de salle de sport.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 1.  **Associe les couleurs :** tu ne peux fusionner que des poids de même couleur. Planifie tes déplacements pour rapprocher les haltères identiques.

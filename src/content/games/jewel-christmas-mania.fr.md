@@ -24,6 +24,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Jewel Christmas Mania est un jeu de puzzle match‑3 éblouissant qui apporte la joie des fêtes sur ton écran. Échange et aligne trois bijoux festifs ou plus pour les retirer du plateau, gagner des points et compléter divers objectifs de niveau. Avec des centaines de niveaux remplis de gemmes étincelantes, d'obstacles challengeants et de boosters puissants, ce jeu offre des heures infinies de casse‑tête amusant. Immerge‑toi dans l'atmosphère enchanteresse de Noël avec de magnifiques graphismes et une musique joyeuse.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Cherche les combinaisons de gemmes spéciales :** Aligner plus de trois bijoux en ligne ou en formes spécifiques (comme L ou T) créera de puissantes gemmes spéciales. Celles‑ci peuvent effacer des lignes entières, des colonnes, ou exploser pour nettoyer une grande zone.

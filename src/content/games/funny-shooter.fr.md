@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: funny-shooter
-title: "Funny Shooter"
-description: "Prototype de shooter à vagues : affronte des ennemis déjantés, ramasse de l’argent et améliore tes armes pour survivre à des manches de plus en plus difficiles."
+title: Funny Shooter
+description: >-
+  Prototype de shooter à vagues : affronte des ennemis déjantés, ramasse de
+  l’argent et améliore tes armes pour survivre à des manches de plus en plus
+  difficiles.
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter/'
 thumbnail: /new-images/thumbnails/funny-shooter.jpg
 tags:
@@ -33,6 +36,7 @@ Funny Shooter est un FPS à vagues en vue à la première personne, avec des enn
 - R : recharger  
 - Chiffres (1–…) : changer d’arme
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Les headshots économisent des balles et du temps, surtout sur les ennemis plus résistants.

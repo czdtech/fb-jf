@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: getting-over-it
-title: "Getting over it"
-description: "Défi d’escalade au marteau : balance‑toi, fais du pogo et hisse un homme dans un chaudron sur des obstacles surréalistes ; une physique précise punit chaque geste impatient."
+title: Getting over it
+description: >-
+  Défi d’escalade au marteau : balance‑toi, fais du pogo et hisse un homme dans
+  un chaudron sur des obstacles surréalistes ; une physique précise punit chaque
+  geste impatient.
 iframeSrc: 'https://ubg77.github.io/fix/getting-over-it/'
 thumbnail: /new-images/thumbnails/getting-over-it.jpg
 tags:
@@ -30,6 +33,7 @@ Getting Over It est un jeu d’escalade basé sur une physique ultra précise, o
 
 - La souris contrôle l’angle et la force du marteau ; le clavier est peu utilisé (selon l’hébergeur).
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Utilise des mouvements circulaires doux pour des balancements contrôlés ; évite les gestes brusques.

@@ -19,6 +19,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Color Pixel Art Classic est un jeu de puzzle relaxant et satisfaisant de coloriage par numéros. Il te permet de choisir parmi une grande variété d'images pixellisées et de leur donner vie avec de la couleur. Chaque pixel d'une image est numéroté, correspondant à une couleur spécifique dans ta palette. En remplissant soigneusement tous les pixels, tu révéleras progressivement une belle et complète œuvre d'art pixel. C'est un jeu parfait pour se détendre et exprimer sa créativité sans avoir besoin de talent artistique.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Choisis une image :** commence par parcourir la galerie et sélectionner une image que tu aimerais colorier.

@@ -45,6 +45,7 @@ Plus tu descends, plus la vitesse augmente et plus les obstacles se compliquent.
   gauche/droite.  
 - **Pause / Rejouer** : via les boutons d’interface.
 
+<!-- i18n:section:tips -->
 ### Conseils et stratégies
 
 

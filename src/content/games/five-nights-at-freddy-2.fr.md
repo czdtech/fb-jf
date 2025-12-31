@@ -1,8 +1,11 @@
 ---
 locale: fr
 urlstr: five-nights-at-freddy-2
-title: "Five Nights at Freddy's 2 (FNAF 2)"
-description: "Gestion du masque et de la boîte à musique : surveille plusieurs animatroniques, remonte la boîte du Puppet, utilise la lampe torche et mets le masque de Freddy au bon moment pour survivre."
+title: Five Nights at Freddy's 2 (FNAF 2)
+description: >-
+  Gestion du masque et de la boîte à musique : surveille plusieurs
+  animatroniques, remonte la boîte du Puppet, utilise la lampe torche et mets le
+  masque de Freddy au bon moment pour survivre.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-2.jpg
 tags:
@@ -33,6 +36,7 @@ Tu dois jongler entre les caméras, la boîte à musique du Puppet, la lampe tor
 - Souris / interface : gérer les caméras et le masque.  
 - Ctrl ou Espace (selon la version) : activer la lampe torche dans le couloir.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Construis une boucle efficace : remonter la boîte → baisser la caméra → flash couloir → vérifier les ventilations → masque si nécessaire.

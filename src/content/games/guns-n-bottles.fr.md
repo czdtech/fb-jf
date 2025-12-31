@@ -23,6 +23,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Guns n' Bottles est un jeu d'arcade à un seul bouton, simple mais très addictif, qui met à l'épreuve ton timing et ta précision. Un pistolet tourne en continu au centre de l'écran, tandis que des bouteilles apparaissent autour de lui. Ton objectif est de tirer au moment parfait pour briser les bouteilles vertes et marquer des points. La difficulté vient du fait que tu dois tenir compte à la fois de la rotation de l'arme et du temps que met la balle à atteindre la cible. Les bouteilles rouges servent de pièges : si tu en touches une, la partie se termine immédiatement.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Comment jouer
 
 1.  **Anticipe la rotation :** ne tire pas seulement quand le canon pointe exactement sur la bouteille. Tire légèrement avant pour compenser la rotation continue et le temps de trajet de la balle.

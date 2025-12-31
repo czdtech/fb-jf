@@ -1,10 +1,8 @@
 ---
 locale: fr
 urlstr: ducklings
-title: 'Ducklings'
-description: >-
-  Ducklings est un jeu relax de collecte : sauve des canetons sur l’eau et
-  ramène‑les en sécurité au nid.
+title: Ducklings
+description: "Ducklings est un jeu relax de collecte\_: sauve des canetons sur l’eau et ramène‑les en sécurité au nid."
 iframeSrc: 'https://g2.igroutka.ru/games/164/BkDlKfiWjEoZ2rcG/ducklings_io/'
 thumbnail: /new-images/thumbnails/ducklings.jpg
 tags:
@@ -34,6 +32,7 @@ ramène‑les au nid en évitant les bateaux et autres dangers.
 ### Commandes
 - Souris/tactile ou flèches pour diriger.
 
+<!-- i18n:section:tips -->
 ### Astuces
 - Ne t’étends pas trop : quand le trafic est dense, sécurise de petits groupes.
 - Coupe en diagonale derrière les bateaux lents ; ne traverse jamais l’étrave de face.

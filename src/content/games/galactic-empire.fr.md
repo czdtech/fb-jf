@@ -1,8 +1,10 @@
 ---
 locale: fr
 urlstr: galactic-empire
-title: "Galactic Empire"
-description: "Stratégie spatiale vue du dessus : récolte des ressources, construis vaisseaux et défenses, et capture des secteurs tout en repoussant les vagues ennemies."
+title: Galactic Empire
+description: >-
+  Stratégie spatiale vue du dessus : récolte des ressources, construis vaisseaux
+  et défenses, et capture des secteurs tout en repoussant les vagues ennemies.
 iframeSrc: 'https://g.igroutka.ru/games/164/8plhaK3IOLoFbVPB/2/galactic_empire/'
 thumbnail: /new-images/thumbnails/galactic-empire.jpg
 tags:
@@ -31,6 +33,7 @@ Galactic Empire est un RTS‑lite spatial où tu dois extraire des ressources, �
 - Souris pour sélectionner, construire et donner des ordres.  
 - Des raccourcis pour la production et la caméra peuvent être disponibles selon l’hébergeur.
 
+<!-- i18n:section:tips -->
 ### Astuces
 
 - Programme des séries de vaisseaux : une production continue vaut mieux que des chantiers à l’arrêt.

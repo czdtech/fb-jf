@@ -1,7 +1,7 @@
 ---
 locale: fr
 urlstr: domino-battle
-title: 'Domino Battle'
+title: Domino Battle
 description: >-
   Affronte un adversaire dans une partie de dominos classique. Pose tes tuiles
   intelligemment, bloque l'autre joueur et vide ta main en premier pour gagner.
@@ -21,6 +21,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Domino Battle est une adaptation numérique du jeu de tuiles classique, les Dominos. Cette version t'oppose à un adversaire informatique dans une bataille stratégique d'intelligence. L'objectif est d'être le premier joueur à te débarrasser de toutes tes tuiles de domino en les faisant correspondre bout à bout avec la disposition sur le plateau. Cela nécessite une planification soigneuse, car tu dois non seulement jouer tes propres tuiles mais aussi anticiper et potentiellement bloquer les coups de ton adversaire.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Les bases :** chaque joueur commence avec une main de dominos. Le joueur avec la tuile double la plus haute commence généralement en premier. À ton tour, tu dois placer une tuile de ta main de sorte qu'une de ses extrémités corresponde au nombre de points sur une extrémité ouverte de la chaîne de dominos.

@@ -1,11 +1,8 @@
 ---
 locale: fr
 urlstr: droid-o
-title: 'Droid-O'
-description: >-
-  Droid‑O est un shooter d’arène en vue du dessus, nerveux : kite les vagues,
-  enchaîne des synergies d’aptitudes et survit à des menaces croissantes avec un
-  placement précis.
+title: Droid-O
+description: "Droid‑O est un shooter d’arène en vue du dessus, nerveux\_: kite les vagues, enchaîne des synergies d’aptitudes et survit à des menaces croissantes avec un placement précis."
 iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
 thumbnail: /new-images/thumbnails/droid-o.png
 tags:
@@ -35,6 +32,7 @@ pour casser les lignes de vue, et cases dangereuses qui infligent des dégâts o
 ralentissent. Bien utiliser le terrain est aussi important que l’aim pur,
 surtout dès que des ennemis à distance apparaissent.
 
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  Kite large, pas serré : de grands cercles donnent plus de marge de correction
@@ -66,6 +64,7 @@ surtout dès que des ennemis à distance apparaissent.
   gauche/gâchette. Dash/Capacité : Espace/E/Q (selon la version).
 - Pause/Rejouer : boutons de l’interface.
 
+<!-- i18n:section:tips -->
 ### Astuces avancées
 
 - Trajectoires : prépare un trajet en “8” qui repasse sur les munitions/PV quand

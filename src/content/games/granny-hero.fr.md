@@ -1,8 +1,10 @@
 ---
 locale: fr
 urlstr: granny-hero
-title: "Granny Hero"
-description: "Granny Hero est un runner d’action comique : évite les dangers, utilise des bonus délirants et sauve tes voisins avec une agilité surprenante."
+title: Granny Hero
+description: >-
+  Granny Hero est un runner d’action comique : évite les dangers, utilise des
+  bonus délirants et sauve tes voisins avec une agilité surprenante.
 iframeSrc: 'https://0nd9712ar55uo.h5games.usercontent.goog/v/3qru4tsu7d5v0/'
 thumbnail: /new-images/thumbnails/granny-hero.png
 tags:
@@ -19,6 +21,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 Granny Hero est un runner léger et humoristique où une grand‑mère ultra dynamique traverse les rues, esquive les obstacles slapstick et collecte des objets pour aider ses voisins. Tu devras changer de voie au bon moment, synchroniser sauts et glissades, et profiter de gadgets (trottinettes, parapluies, poêles, etc.) qui offrent une brève invincibilité ou permettent de nettoyer la route.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Guide de jeu et stratégies
 
 1.  Vision des voies : garde les yeux deux obstacles en avance pour anticiper les changements de ligne.

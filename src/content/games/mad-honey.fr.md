@@ -1,14 +1,18 @@
 ---
 locale: fr
-urlstr: "mad-honey"
-title: "Mad Honey"
-description: "Mad Honey est une petite aventure arcade : collecte du nectar, évite les dangers et reviens sain et sauf à la ruche."
-iframeSrc: "https://49b5cg0v2itto.h5games.usercontent.goog/v/3tun18rhg88eg/"
+urlstr: mad-honey
+title: Mad Honey
+description: >-
+  Mad Honey est une petite aventure arcade : collecte du nectar, évite les
+  dangers et reviens sain et sauf à la ruche.
+iframeSrc: 'https://49b5cg0v2itto.h5games.usercontent.goog/v/3tun18rhg88eg/'
 thumbnail: /new-images/thumbnails/mad-honey.png
-tags: ["adventure", "casual"]
-score: "3.7/5  (1299 votes)"
-developer: ""
-releaseDate: 2025-10-18
+tags:
+  - adventure
+  - casual
+score: 3.7/5  (1299 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -17,6 +21,7 @@ releaseDate: 2025-10-18
 Mad Honey est une courte aventure arcade à prendre en main en quelques secondes. Tu contrôles une abeille qui doit récupérer du nectar tout en évitant des ennemis simples et divers dangers de l’environnement. Les niveaux mettent l’accent sur les trajectoires de vol précises, le bon timing pour traverser les patrouilles et un retour sécurisé à la ruche pour marquer des points.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Planifie tes trajectoires :** repère les groupes de fleurs et les chemins des ennemis avant de te lancer.

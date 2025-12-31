@@ -39,6 +39,7 @@ Chaque pas en avant rapporte des points. Plus tu avances, plus le rythme des
 véhicules s’accélère, et plus il devient difficile de trouver le bon timing.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### Guide de jeu
 
 1.  **Regarde plusieurs lignes à l’avance**  

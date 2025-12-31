@@ -22,6 +22,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 Jungle Bricks est une version captivante et moderne du genre classique casse‑briques. Situé dans une jungle vibrante, le jeu met les joueurs au défi de nettoyer un mur de briques numérotées qui avance sans cesse. Contrairement aux casse‑briques traditionnels où tu contrôles une raquette, ici tu vises et tires une volée de balles depuis un point fixe. Chaque brique a un nombre de durabilité que tu dois réduire à zéro pour la détruire. L'objectif est de survivre le plus longtemps possible en nettoyant stratégiquement les briques avant qu'elles n'atteignent le bas de l'écran.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu
 
 1.  **Vise les angles :** La clé d'un score élevé est de maximiser le nombre de coups par tir. Évite de tirer tout droit vers le haut. Au lieu de cela, vise les côtés de l'écran ou les espaces entre les briques pour créer des ricochets complexes. Un tir bien visé peut faire rebondir tes balles autour de l'écran pendant longtemps, nettoyant plusieurs briques à la fois.

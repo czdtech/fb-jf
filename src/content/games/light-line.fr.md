@@ -1,14 +1,19 @@
 ---
 locale: fr
-urlstr: "light-line"
-title: "Light Line"
-description: "Light Line est un puzzle de tracé de chemins lumineux : relie des nœuds sans croisement, gère l’énergie et résous les grilles avec des trajectoires élégantes."
-iframeSrc: "https://4es9bmcl5tp2o.h5games.usercontent.goog/v/5uo8nsnhp1vjo/"
+urlstr: light-line
+title: Light Line
+description: >-
+  Light Line est un puzzle de tracé de chemins lumineux : relie des nœuds sans
+  croisement, gère l’énergie et résous les grilles avec des trajectoires
+  élégantes.
+iframeSrc: 'https://4es9bmcl5tp2o.h5games.usercontent.goog/v/5uo8nsnhp1vjo/'
 thumbnail: /new-images/thumbnails/light-line.png
-tags: ["puzzle", "thinky"]
-score: "4.2/5  (2077 votes)"
-developer: ""
-releaseDate: 2025-10-18
+tags:
+  - puzzle
+  - thinky
+score: 4.2/5  (2077 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -17,6 +22,7 @@ releaseDate: 2025-10-18
 Light Line te demande de tracer des chemins qui relient des nœuds lumineux sans jamais se croiser, tout en respectant différentes contraintes : nombre de virages maximal, longueur limitée, cases de passage obligatoires ou interrupteurs qui ouvrent et ferment des portes. Les niveaux avancés ajoutent des plateaux à plusieurs couches où l’énergie peut être partagée entre les lignes, ce qui te pousse à réfléchir en termes de réseau plutôt que de simple chemin.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Stratégies de jeu et progression
 
 1.  **Commence par les goulots d’étranglement :** remplis d’abord les couloirs étroits, car ils imposent souvent un chemin unique.
