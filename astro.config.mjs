@@ -5,6 +5,12 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
   site: 'https://www.playfiddlebops.com',
 
+  // Work around noisy `[glob-loader] Duplicate id` warnings when updating markdown
+  // files in dev mode (Astro content-layer glob loader warns on overwrite).
+  legacy: {
+    collections: true,
+  },
+
   integrations: [
     sitemap({
       filter: (page) => {
