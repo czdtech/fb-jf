@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: mergest-kingdom
-title: "Mergest Kingdom - Reino de fusiones y construcción"
+title: Mergest Kingdom - Reino de fusiones y construcción
 description: >-
   Mergest Kingdom es una fantasía de fusionar y construir: combina piezas,
   completa misiones y expande tu reino planificando bien cada cadena de merges.
@@ -27,6 +27,7 @@ eventos marcan objetivos concretos, mientras que la energía y el espacio
 limitados castigan las fusiones impulsivas y premian las escaleras planificadas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Merge de 3 vs 5:** siempre que puedas, reserva 5 piezas iguales para

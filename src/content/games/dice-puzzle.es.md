@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: dice-puzzle
-title: "Dice Puzzle"
+title: Dice Puzzle
 description: >-
-  Un puzle exigente para la mente. Coloca y fusiona dados en el tablero;
-  combina tres iguales para crear un valor superior y apunta al codiciado cubo
-  de joya antes de que se llene la cuadrícula.
+  Un puzle exigente para la mente. Coloca y fusiona dados en el tablero; combina
+  tres iguales para crear un valor superior y apunta al codiciado cubo de joya
+  antes de que se llene la cuadrícula.
 iframeSrc: 'https://0vfcifju4i900.h5games.usercontent.goog/v/2jg90liogd5f8/'
 thumbnail: /new-images/thumbnails/dice-puzzle.jpg
 tags:
@@ -29,6 +29,7 @@ alrededor y disparan la puntuación. La partida termina cuando el tablero se
 llena y ya no puedes colocar más dados.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Regla de fusión:** El corazón del juego está en crear grupos de tres o más

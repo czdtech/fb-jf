@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: cube-tower
-title: "Cube Tower"
+title: Cube Tower
 description: >-
   Protege tu Cube Tower de oleadas de enemigos en este dinámico juego de defensa
   de torres. Coloca y mejora tus torres con cabeza para sobrevivir.
@@ -25,6 +25,7 @@ colocas y mejoras distintos tipos de torres defensivas de forma estratégica, de
 modo que cubran los caminos por los que avanzan los invasores.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Colocación estratégica:** Piensa bien dónde colocar cada torre para

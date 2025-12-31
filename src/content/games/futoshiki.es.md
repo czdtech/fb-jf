@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: futoshiki
-title: "Futoshiki"
+title: Futoshiki
 description: >-
-  Futoshiki afila tu lógica: coloca dígitos únicos por fila y columna
-  respetando los signos de desigualdad para llegar a deducciones elegantes.
+  Futoshiki afila tu lógica: coloca dígitos únicos por fila y columna respetando
+  los signos de desigualdad para llegar a deducciones elegantes.
 iframeSrc: 'https://6g7i64vihegl0.h5games.usercontent.goog/v/7bd886r75d4ag/'
 thumbnail: /new-images/thumbnails/futoshiki.jpg
 tags:
@@ -26,6 +26,7 @@ desigualdades. Estos signos crean cadenas muy fuertes que permiten
 razonamientos limpios y potentes.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1. **Cadenas de desigualdad:** Si A>B>C entonces A≥C+2; anota candidatos en

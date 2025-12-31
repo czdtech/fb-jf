@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: coloring-match
-title: "Coloring Match"
+title: Coloring Match
 description: >-
   Coloring Match te enseña a mezclar colores: combina pinturas para igualar el
   objetivo, ajusta tono/saturación y remata con pequeños retoques hasta clavar
@@ -26,6 +26,7 @@ saturación o con el valor (luminosidad), puedes fallar aunque el tono sea casi
 idéntico.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Empieza siempre por clavar el tono en el círculo cromático y, después,

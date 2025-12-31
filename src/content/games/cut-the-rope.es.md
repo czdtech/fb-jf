@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: cut-the-rope
-title: "Cut The Rope"
+title: Cut The Rope
 description: >-
   Cut The Rope es un puzle de físicas: corta cuerdas, recoge estrellas y
   consigue que el caramelo llegue hasta Om Nom sin perderlo.
@@ -41,6 +41,7 @@ peligros que alteran la trayectoria y el tiempo de caída del caramelo.
   para reiniciar el nivel o pasar al siguiente. Algunas versiones añaden sistema
   de pistas.
 
+<!-- i18n:section:tips -->
 ### Consejos y estrategias
 
 - Visualiza el arco del péndulo que seguirá el caramelo antes de cortar, y

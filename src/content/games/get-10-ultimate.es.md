@@ -29,6 +29,7 @@ fusionando durante el mayor tiempo posible para lograr la cifra y la
 puntuación máximas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1. **Piensa antes de pulsar:** Cada toque cambia por completo la disposición

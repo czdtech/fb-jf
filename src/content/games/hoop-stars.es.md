@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: hoop-stars
-title: "Hoop Stars"
+title: Hoop Stars
 description: >-
-  Hoop Stars es un juego de habilidad con aros: hazlos girar, calcula el
-  momento del lanzamiento y déjalos caer limpiamente sobre las estacas antes que
-  tu rival.
+  Hoop Stars es un juego de habilidad con aros: hazlos girar, calcula el momento
+  del lanzamiento y déjalos caer limpiamente sobre las estacas antes que tu
+  rival.
 iframeSrc: 'https://6si9877n1hvh8.h5games.usercontent.goog/v/717o1ln0arjho/'
 thumbnail: /new-images/thumbnails/hoop-stars.png
 tags:
@@ -28,6 +28,7 @@ fallos te hacen perder tiempo. En los duelos importa más tener una sincronizaci
 constante y preparar bien el ángulo que pulsar a lo loco.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Pre‑giro:** gira el aro hasta un ángulo cómodo antes de lanzar.

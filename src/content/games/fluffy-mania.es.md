@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: fluffy-mania
-title: "Fluffy Mania"
+title: Fluffy Mania
 description: >-
   Fluffy Mania es un acogedor puzle de conectar y despejar: une adorables
   fluffies, provoca cascadas y persigue las mejores puntuaciones.
@@ -24,6 +24,7 @@ cadena y cumplir objetivos de nivel como alcanzar cierta puntuación, superar
 fases con un número limitado de movimientos o limpiar casillas especiales.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1. **Crea cuadrados o bucles:** Si las reglas permiten hacer bucles o

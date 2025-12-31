@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: hobo
-title: "Hobo"
+title: Hobo
 description: >-
   Beat 'em up exagerado: recorre niveles urbanos repartiendo golpes, desbloquea
   combos, usa armas improvisadas y ejecuta ataques especiales totalmente
@@ -41,6 +41,7 @@ abrumado.
 - Flechas para moverte; las teclas de ataque/salto/agarre dependen del host; los
   comandos de combo aparecen en pantalla.
 
+<!-- i18n:section:tips -->
 ### Consejos
 - Mantén a los enemigos en un solo lado de tu personaje para evitar que te
   rodeen.

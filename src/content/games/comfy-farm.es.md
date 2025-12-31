@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: comfy-farm
-title: "Comfy Farm"
+title: Comfy Farm
 description: >-
   ¡Bienvenido a Comfy Farm! Planta semillas, riega tus cultivos y cóséchalos
   para ganar monedas. Protege tus plantas de las plagas y usa tus beneficios
@@ -28,6 +28,7 @@ Con las ganancias podrás comprar nuevas semillas y mejoras que te ayuden a
 automatizar y ampliar tu cómoda granja.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **El ciclo de cultivo:** El núcleo del juego es el ciclo de plantar y

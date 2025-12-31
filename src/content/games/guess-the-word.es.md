@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: guess-the-word
-title: "Guess The Word"
+title: Guess The Word
 description: >-
   Guess The Word es un limpio juego de formar palabras: conecta letras,
-  aprovecha patrones y completa la sopa tipo crucigrama tirando de vocabulario
-  y lógica.
+  aprovecha patrones y completa la sopa tipo crucigrama tirando de vocabulario y
+  lógica.
 iframeSrc: 'https://5e2trj00jcfog.h5games.usercontent.goog/v/1hrc6f7979nig/'
 thumbnail: /new-images/thumbnails/guess-the-word.png
 tags:
@@ -26,6 +26,7 @@ dígrafos raros y tableros con pocas vocales, premiando el reconocimiento de
 patrones y las conjeturas estratégicas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1. **Empieza por las palabras cortas obvias:** Sirven como anclas para cruzar

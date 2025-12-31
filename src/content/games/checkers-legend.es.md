@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: checkers-legend
-title: "Checkers Legend"
+title: Checkers Legend
 description: >-
   Conviértete en una leyenda de las damas en Checkers Legend. Planifica tus
   movimientos, captura las fichas rivales y corona a tus damas para dominar el
@@ -28,6 +28,7 @@ las fichas del rival o bloquearlas hasta que no le queden movimientos legales.
 Es un juego atemporal de visión y táctica.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Movimiento básico:** Tus piezas, o "peones", solo pueden avanzar una

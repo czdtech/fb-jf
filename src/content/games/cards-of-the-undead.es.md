@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: cards-of-the-undead
-title: "Cards of the Undead"
+title: Cards of the Undead
 description: >-
   Un juego de cartas táctico por turnos sobre supervivencia. Mueve a tu héroe
-  por el tablero, enfréntate a zombis y recoge monedas y potenciadores.
-  Gestiona tu vida y armadura para aguantar el máximo tiempo posible.
+  por el tablero, enfréntate a zombis y recoge monedas y potenciadores. Gestiona
+  tu vida y armadura para aguantar el máximo tiempo posible.
 iframeSrc: 'https://4afojpng981kg.h5games.usercontent.goog/v/1ge6qnd6h4ss0/'
 thumbnail: /new-images/thumbnails/cards-of-the-undead.png
 tags:
@@ -30,6 +30,7 @@ nueva carta, que puede ser un zombi al que combatir, monedas valiosas o objetos
 el mayor tiempo posible.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Piensa antes de moverte:** Antes de entrar en una casilla con zombi,

@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: merge-bistro
-title: "Merge Bistro - Gestión de bistró a base de merges"
+title: Merge Bistro - Gestión de bistró a base de merges
 description: >-
   Merge Bistro es un acogedor juego de gestión por combinaciones: fusiona
-  ingredientes, completa pedidos y amplía un encantador bistró usando el
-  espacio con inteligencia.
+  ingredientes, completa pedidos y amplía un encantador bistró usando el espacio
+  con inteligencia.
 iframeSrc: 'https://0f5mbl2u9ont8.h5games.usercontent.goog/v/50p3a8ekgfdk8/'
 thumbnail: /new-images/thumbnails/merge-bistro.png
 tags:
@@ -28,6 +28,7 @@ satisfacer los pedidos. Los límites de almacenamiento y los tiempos de
 reaparición te obligan a gestionar el tablero con cabeza.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Leer la cola de pedidos: prepara ingredientes pensando en los próximos

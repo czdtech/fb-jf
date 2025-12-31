@@ -30,6 +30,7 @@ armenios ancestrales y el beatboxing moderno. Los personajes y animaciones
 refuerzan el tema con movimientos que evocan la danza tradicional.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego
 
 *   

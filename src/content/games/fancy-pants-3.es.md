@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: fancy-pants-3
-title: "Fancy Pants 3"
+title: Fancy Pants 3
 description: >-
-  El tercer Fancy Pants lleva el plataformeo basado en el impulso más lejos: escenarios
-  más grandes, más secretos y carreras por pared y deslizamientos aún más pulidos en
-  mundos dibujados a mano.
+  El tercer Fancy Pants lleva el plataformeo basado en el impulso más lejos:
+  escenarios más grandes, más secretos y carreras por pared y deslizamientos aún
+  más pulidos en mundos dibujados a mano.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj10/index.html
 thumbnail: /new-images/thumbnails/fancy-pants-3.jpg
@@ -40,6 +40,7 @@ por descubrir.
 - Abajo para deslizarte.
 - Arriba para entrar en puertas y zonas especiales.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Mantén un ritmo constante: las dudas y paradas bruscas rompen el flujo y

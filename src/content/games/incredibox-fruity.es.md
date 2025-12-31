@@ -29,10 +29,12 @@ Futuro. Cada evolución no solo desbloquea unidades y torretas defensivas más
 poderosas, sino que también restaura por completo la vida de tu base. El objetivo
  final es sencillo: sobrevivir al asedio enemigo y destruir su base.
 
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 Dominar Incredibox Fruity exige equilibrio entre ataque, defensa y buena sincronización.
 
+<!-- i18n:section:tips -->
 #### 1. Estrategia de early game (Edad de Piedra)
 *   **La avalancha de cavernícolas:** La apertura más común y efectiva es
     sacar en masa la unidad más barata, el "Club Man". Son muy rentables y pueden

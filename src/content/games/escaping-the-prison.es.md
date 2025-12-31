@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: escaping-the-prison
-title: "Escaping the Prison"
+title: Escaping the Prison
 description: >-
   Aventura point‑and‑click de Henry Stickmin: elige objetos y rutas (Sneaky,
   Badass, Legal) para fugarte de la prisión, con múltiples finales y gags.
@@ -41,6 +41,7 @@ pocas combinaciones te llevan a finales exitosos.
 - Espacio u otras teclas especiales pueden servir para saltar ciertas escenas
   (según el portal).
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Si te atascas en un final, prueba a retroceder a un punto clave y elegir una

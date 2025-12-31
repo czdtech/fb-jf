@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: daily-word-climb
-title: "Daily Word Climb"
+title: Daily Word Climb
 description: >-
   Un desafío de palabras nuevo cada día. Intercambia letras en la cuadrícula
   para formar las palabras correctas y usa las pistas de color para deducir la
@@ -28,6 +28,7 @@ ofrecen pistas visuales sobre la posición correcta de cada letra. Con un númer
 limitado de movimientos, tienes que pensar cada jugada.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Comprende el código de colores:** Los colores son tu principal guía.

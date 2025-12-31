@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: drifting-mania
-title: "Drifting Mania"
+title: Drifting Mania
 description: >-
   Drifting Mania pone a prueba tu control del derrape en vista cenital: dosifica
   acelerador, enlaza deslizamientos y domina el ritmo de cada curva.
@@ -23,6 +23,7 @@ el ángulo de deslizamiento, dar golpes de gas medidos y clavar la salida de
 cada curva para enlazar giros y marcar buenos tiempos por vuelta.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Entra lento y sal rápido: sacrificar algo de velocidad en la entrada te

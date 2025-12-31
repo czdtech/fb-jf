@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: jurassic-run
-title: "Jurassic Run"
+title: Jurassic Run
 description: >-
   Jurassic Run es un endless runner prehistórico: esquiva peligros, cambia de
   carril y corre al máximo para batir récords.
@@ -25,6 +25,7 @@ obstáculos de jungla. Lee el trazado por adelantado, cambia de carril o salta/
 velocidad aumenta.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Mira lejos:** anticipa los cambios de carril con tiempo.

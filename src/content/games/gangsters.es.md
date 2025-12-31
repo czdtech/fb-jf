@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: gangsters
-title: "Gangsters"
+title: Gangsters
 description: >-
   Duelos con físicas ragdoll: dos gangsters tipo stickman rebotan y disparan
   sobre azoteas; calcula saltos y tiros para mandar al rival al vacío.
@@ -36,6 +36,7 @@ oponente hasta que caiga.
 - Un solo botón por jugador para saltar/disparar (según el portal) o teclas
   separadas para cada acción.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Los saltos cortos estabilizan el apuntado; los grandes sirven para esquivar y

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: golf-orbit
-title: "Golf Orbit"
+title: Golf Orbit
 description: >-
   Golf Orbit convierte el golf en un puzle de vuelo físico: fija el ángulo de
   salida, gestiona el efecto y aprovecha la gravedad de los planetas para
@@ -28,6 +28,7 @@ aprovechan las pendientes, rozan obstáculos y encadenan rebotes para llegar a
 objetivos escondidos.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1. **Disciplina con el ángulo:** Los lanzamientos bajos maximizan el rodaje;

@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: fancy-pants
-title: "Fancy Pants"
+title: Fancy Pants
 description: >-
-  Fancy Pants es un juego de plataformas estilizado de monigote con mucho estilo:
-  velocidad e impulso rápidos, saltos en pared y parkour fluido por niveles dibujados a mano
-  llenos de habitaciones secretas.
+  Fancy Pants es un juego de plataformas estilizado de monigote con mucho
+  estilo: velocidad e impulso rápidos, saltos en pared y parkour fluido por
+  niveles dibujados a mano llenos de habitaciones secretas.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj8/index.html
 thumbnail: /new-images/thumbnails/fancy-pants.jpg
@@ -39,6 +39,7 @@ secretas y coleccionables escondidos por el mapa.
 - S o Flecha abajo para deslizarte.
 - Flecha arriba para abrir puertas (según la versión).
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - No machaques el botón de salto: pulsa en el borde de la plataforma para

@@ -1,11 +1,10 @@
 ---
 locale: es
 urlstr: mahjong-solitaire
-title: "Mahjong Solitaire - Puzle clásico para un jugador"
+title: Mahjong Solitaire - Puzle clásico para un jugador
 description: >-
   Pon a prueba tu mente con Mahjong Solitaire. Encuentra y empareja fichas
-  idénticas y libres para despejar el tablero en este puzle clásico y
-  relajante.
+  idénticas y libres para despejar el tablero en este puzle clásico y relajante.
 iframeSrc: 'https://4erks8385j9eo.h5games.usercontent.goog/v/1ff4p4m8ilme8/'
 thumbnail: /new-images/thumbnails/mahjong-solitaire.png
 tags:
@@ -32,6 +31,7 @@ puzle relajante pero exigente a nivel mental, disfrutado por millones de
 personas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Entender las fichas "libres":** la regla más importante es que solo

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: ladybug-jump
-title: 'Ladybug Jump'
+title: Ladybug Jump
 description: >-
   Ladybug Jump es un alegre juego de plataformas de salto: calcula bien tus
   saltos, súbete a hojas en movimiento y recoge néctar mientras esquivas
@@ -25,6 +25,7 @@ bonificaciones. A medida que avanzas, las plataformas en movimiento y las
 ráfagas de viento ponen a prueba tu precisión a la hora de saltar.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Saltos cortos: usa impulsos pequeños para tener más precisión al aterrizar.

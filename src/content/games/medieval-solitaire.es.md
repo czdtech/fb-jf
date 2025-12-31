@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: medieval-solitaire
-title: "Medieval Solitaire - Klondike clásico con temática medieval"
+title: Medieval Solitaire - Klondike clásico con temática medieval
 description: >-
   Viaja al pasado con Medieval Solitaire, un solitario Klondike clásico con
   estética medieval. Levanta las pilas de base de As a Rey y limpia el tapete en
@@ -29,6 +29,7 @@ colocando las cartas en cuatro pilas de base por palo, en orden ascendente de
 As a Rey.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Objetivo:** mueve las 52 cartas a las cuatro pilas de base, empezando

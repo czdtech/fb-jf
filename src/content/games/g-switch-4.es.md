@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: g-switch-4
-title: "G-Switch 4"
+title: G-Switch 4
 description: >-
   La última entrega del runner de gravedad invertida: controles mejorados,
   cadenas de obstáculos muy exigentes y carreras locales competitivas para
@@ -37,6 +37,7 @@ muy densos y un modo multijugador local sólido.
 - Una tecla o toque para invertir la gravedad; en versus, cada jugador tiene
   su propia tecla.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Practica en las secciones más lentas hasta fijar tu ritmo.

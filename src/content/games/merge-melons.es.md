@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: merge-melons
-title: "Merge Melons - Suika Game de frutas y sandías gigantes"
+title: Merge Melons - Suika Game de frutas y sandías gigantes
 description: >-
-  Suelta y fusiona frutas en este adictivo puzle inspirado en Suika
-  Game. Combina frutas idénticas para crear versiones más grandes, apunta a la
-  sandía gigante y evita que el contenedor se desborde.
+  Suelta y fusiona frutas en este adictivo puzle inspirado en Suika Game.
+  Combina frutas idénticas para crear versiones más grandes, apunta a la sandía
+  gigante y evita que el contenedor se desborde.
 iframeSrc: 'https://mergemelons.h5games.usercontent.goog/v/7526h5to2d1v0/'
 thumbnail: /new-images/thumbnails/merge-melons.png
 tags:
@@ -30,6 +30,7 @@ posible —la sandía— y lograr la máxima puntuación sin que la pila llegue 
 parte superior del recipiente.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Conocer el ciclo de frutas:** memoriza el orden de evolución. Saber qué

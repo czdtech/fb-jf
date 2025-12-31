@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: google-minesweeper
-title: "Google Minesweeper"
+title: Google Minesweeper
 description: >-
   Clásico puzle de lógica: limpia el tablero sin detonar minas deduciendo las
   casillas seguras a partir de los números y las banderas.
@@ -40,6 +40,7 @@ como la cantidad de minas.
 - Ratón o pantalla táctil; los atajos de "chord" o apertura rápida dependen del
   portal.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Mantén una convención clara al marcar para evitar banderas equivocadas.

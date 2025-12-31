@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: g-switch
-title: "G-Switch"
+title: G-Switch
 description: >-
   Runner de un solo botón con gravedad invertida: cambia la gravedad para seguir
   corriendo por las plataformas, esquiva huecos y sierras y sobrevive a una
@@ -38,6 +38,7 @@ ritmo se acelera.
 - Una tecla o toque para invertir la gravedad; en multijugador cada jugador
   dispone de su propia tecla.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Mantén un ritmo de cambios estable; los cambios por pánico encadenan errores.

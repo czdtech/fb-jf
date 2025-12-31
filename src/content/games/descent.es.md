@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: descent
-title: "Descent"
+title: Descent
 description: >-
   Descent es un arcade de habilidad vertical: desciende por un pozo, esquiva
   trampas y calcula cada salto para llegar lo más lejos posible.
@@ -40,6 +40,7 @@ para saltar de una pared a otra mientras la gravedad te empuja hacia abajo.
   Izquierda/Derecha o A/D para saltar desde cada pared. Los detalles cambian
   según la web.
 
+<!-- i18n:section:tips -->
 ### Consejos y estrategias
 
 - No tengas prisa: pequeños parones desincronizan los patrones de las trampas y

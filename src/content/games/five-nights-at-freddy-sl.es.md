@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: five-nights-at-freddy-sl
-title: "Five Nights at Freddy's Sister Location"
+title: Five Nights at Freddy's Sister Location
 description: >-
   Terror por turnos con tareas: muévete entre salas, completa trabajos de
   mantenimiento, vigila a los animatrónicos Funtime y sobrevive a secuencias
@@ -40,6 +40,7 @@ Funtime.
 - Ratón/interfaz para interactuar con paneles, descargas y monitores; teclas de
   movimiento para los tramos de conductos (según el portal).
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Escucha con atención: los sonidos y destellos de pantalla avisan del peligro.

@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: mahjong-classic
-title: "Mahjong Classic - Puzle atemporal"
+title: Mahjong Classic - Puzle atemporal
 description: >-
-  Disfruta del puzle atemporal Mahjong Classic. Empareja parejas de
-  fichas idénticas y libres para limpiar el tablero en este juego relajante de
+  Disfruta del puzle atemporal Mahjong Classic. Empareja parejas de fichas
+  idénticas y libres para limpiar el tablero en este juego relajante de
   estrategia y observación.
 iframeSrc: 'https://mahjongclassic.h5games.usercontent.goog/v/6tue6un26r7v0/'
 thumbnail: /new-images/thumbnails/mahjong-classic.png
@@ -30,6 +30,7 @@ pone a prueba tu capacidad de observación y tu pensamiento estratégico,
 ofreciendo una experiencia relajante pero mentalmente estimulante.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **La regla de las fichas libres:** solo puedes seleccionar y emparejar

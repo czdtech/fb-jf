@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: hole-io
-title: "Hole io"
+title: Hole io
 description: >-
   Brawler .io de ciudad devorada: mueve un agujero negro para tragar objetos,
   crecer de tamaño y superar o eliminar a tus rivales en el mapa.
@@ -37,6 +37,7 @@ batalla en las que puedes eliminar a otros jugadores tragándotelos.
 - Ratón/arrastre o WASD para dirigir el agujero; los modos y tiempos dependen
   del host.
 
+<!-- i18n:section:tips -->
 ### Consejos
 - Evita a los rivales más grandes hasta que hayas crecido; escapa por avenidas
   anchas.

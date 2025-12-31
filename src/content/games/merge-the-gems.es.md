@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: merge-the-gems
-title: "Merge the Gems - Funde gemas y descubre joyas únicas"
+title: Merge the Gems - Funde gemas y descubre joyas únicas
 description: >-
   Fusiona gemas idénticas para forjar joyas nuevas y más valiosas. Llena el
   tablero, completa desafíos y descubre todas las piedras preciosas en este
@@ -29,6 +29,7 @@ sin parar para descubrir nuevos tipos de gemas y cumplir objetivos para ganar
 puntos y monedas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Cadena de fusión:** el núcleo del juego es arrastrar una gema y soltarla

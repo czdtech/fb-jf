@@ -29,6 +29,7 @@ casillas especiales de bonificación del tablero, intentas conseguir la mayor
 puntuación posible.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Conoce tus bonificaciones:** La clave para puntuar alto es usar bien las

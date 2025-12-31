@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: fruit-slot-machine
-title: "Fruit Slot Machine"
+title: Fruit Slot Machine
 description: >-
   Fruit Slot Machine recrea una clásica tragaperras de tres rodillos: gira con
-  responsabilidad, aprende las líneas de pago y persigue las funciones especiales
-  sin apostar de más.
+  responsabilidad, aprende las líneas de pago y persigue las funciones
+  especiales sin apostar de más.
 iframeSrc: 'https://7f8j0t3m1ptv8.h5games.usercontent.goog/v/33cv74na0lvqg/'
 thumbnail: /new-images/thumbnails/fruit-slot-machine.jpg
 tags:
@@ -25,6 +25,7 @@ activas. Tómatelo como un entretenimiento ligero, no como un juego de
 estrategia.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1. **Presupuesto primero:** Fija un presupuesto para la sesión y no persigas

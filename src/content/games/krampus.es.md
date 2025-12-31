@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: krampus
-title: "Krampus"
+title: Krampus
 description: >-
   Plataformas de terror navideño: recorre niveles oscuros, evita trampas y
   criaturas y encuentra llaves y objetos para escapar de la guarida de Krampus.
@@ -38,6 +38,7 @@ cauteloso y la observación.
 - Flechas/WASD para moverse y saltar; las teclas de acción/interacción dependen
   del host.
 
+<!-- i18n:section:tips -->
 ### Consejos
 - Fíjate en destellos o pequeñas luces que marcan objetos y salidas.
 - Espera a que pasen las patrullas en vez de forzar saltos arriesgados.

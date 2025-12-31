@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: fuzzies
-title: "Fuzzies"
+title: Fuzzies
 description: >-
   Bubble Shooter de colores: apunta y revienta fuzzies al combinar colores, usa
   potenciadores y evita que el techo llegue al fondo de la pantalla.
@@ -37,6 +37,7 @@ va descendiendo poco a poco.
 - Ratón o pantalla táctil para apuntar y disparar; en muchas versiones puedes
   cambiar la burbuja en cola.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Apunta a los puntos de anclaje altos para hacer caer secciones enteras.

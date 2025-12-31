@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: five-nights-at-freddy-4
-title: "Five Nights at Freddy's 4 (FNAF 4)"
+title: Five Nights at Freddy's 4 (FNAF 4)
 description: >-
   Supervivencia a pesadillas en el dormitorio: escucha la respiración, gestiona
   puertas y armario y usa la linterna con cabeza para mantener a raya a los
@@ -39,6 +39,7 @@ y escuchando con mucha atención para evitar jumpscares.
 - Ratón y teclado para moverte entre ubicaciones; las teclas concretas para
   puertas y linterna dependen del portal donde juegues.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Escucha siempre antes de encender la linterna hacia una puerta.

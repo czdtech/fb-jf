@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: chess-grandmaster
-title: "Chess Grandmaster"
+title: Chess Grandmaster
 description: >-
   Chess Grandmaster ofrece ajedrez clásico a fondo: aprende aperturas, calcula
   tácticas y convierte ventajas apoyándote en los fundamentos de finales.
@@ -26,6 +26,7 @@ niveles de dificultad ajustables te permiten entrenar cálculo y reconocimiento
  de patrones.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Aperturas:** Desarrolla las piezas menores, enrócate pronto y lucha por el

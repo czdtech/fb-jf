@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: grass-cutter
-title: "Grass Cutter"
+title: Grass Cutter
 description: >-
   Puzle de cuadrícula: corta cada casilla de césped exactamente una vez con
   movimientos limitados, evitando obstáculos y trazando rutas perfectas para
@@ -42,6 +42,7 @@ recorridos. En fases avanzadas se añaden interruptores y teletransportadores.
 - Flechas o deslizamiento en pantalla para mover el cortacésped; suelen
   existir botones de deshacer y reinicio.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Empieza planificando desde las esquinas de difícil acceso hacia el centro.

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: collect-same-thing
-title: "Collect Same Thing"
+title: Collect Same Thing
 description: >-
   Collect Same Thing es un puzle limpio de emparejar: encuentra objetos
   idénticos, despeja el tablero y planifica siempre teniendo en cuenta el poco
@@ -26,6 +26,7 @@ triunfar tendrás que abrir pasillos, priorizar las fichas escasas y evitar deja
 solitarios difíciles de combinar.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Abre líneas de juego:** Quita primero las piezas que bloquean el acceso a

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: cricket-mania
-title: "Cricket Mania"
+title: Cricket Mania
 description: >-
   Cricket Mania es un juego rápido de bateo de críquet: elige el tipo de golpe,
   ajusta la sincronización y persigue el objetivo entrada a entrada.
@@ -23,6 +23,7 @@ Cricket Mania condensa la experiencia de bateo en ráfagas rápidas. Lee la lín
 la colocación de los defensores y acumular carreras bajo la presión del marcador.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Selección de golpe:** Juega con la línea del lanzamiento: usa un golpe hacia

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: diner-dash
-title: "Diner Dash"
+title: Diner Dash
 description: >-
   Diner Dash es un juego de gestión de tiempo: sienta a los clientes, toma sus
   pedidos, sirve la comida y mantenlos contentos para superar cada nivel.
@@ -42,6 +42,7 @@ entre niveles.
   cola de acciones; algunas versiones permiten arrastrar y soltar para sentar o
   servir.
 
+<!-- i18n:section:tips -->
 ### Consejos y estrategias
 
 - Encadena acciones relacionadas (por ejemplo, recoger varios pedidos seguidos y

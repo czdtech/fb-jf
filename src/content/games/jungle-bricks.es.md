@@ -30,6 +30,7 @@ sobrevivir el mayor tiempo posible despejando bloques antes de que toquen la
 parte inferior.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Aprovecha los ángulos:** la clave para una buena puntuación es conseguir

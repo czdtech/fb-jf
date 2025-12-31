@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: merge-cakes
-title: "Merge Cakes - Combina y dirige tu pastelería"
+title: Merge Cakes - Combina y dirige tu pastelería
 description: >-
   Fusiona tartas idénticas para crear postres cada vez más elaborados. Llena el
   expositor, completa pedidos y construye la pastelería más dulce en este
@@ -28,6 +28,7 @@ objetivo es cumplir los pedidos de los clientes, ganar monedas y descubrir cada
 receta del libro. Es un juego sencillo, satisfactorio y con mucho encanto.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Cadena de merges:** el núcleo del juego es fusionar. Arrastra una tarta y

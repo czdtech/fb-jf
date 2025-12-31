@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: drift-hunters
-title: "Drift Hunters"
+title: Drift Hunters
 description: >-
   Drift Hunters es un simulador de derrapes en 3D: ajusta el coche, encadena
   derrapes y acumula puntos en distintos circuitos.
@@ -39,6 +39,7 @@ cruces controlados. Con las ganancias mejoras y personalizas tus coches
 - C: cambiar de cámara.
 - R: reiniciar coche (según el portal).
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Dosifica el acelerador durante el derrape para evitar trompos.

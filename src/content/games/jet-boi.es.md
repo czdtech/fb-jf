@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: jet-boi
-title: "Jet Boi"
+title: Jet Boi
 description: >-
   Duelos de jetpack para 2 jugadores: gestiona el combustible limitado para
-  impulsarte, recoge armas y lanza a tu rival fuera de las plataformas en
-  rondas rápidas.
+  impulsarte, recoge armas y lanza a tu rival fuera de las plataformas en rondas
+  rápidas.
 iframeSrc: >-
   https://g.igroutka.ru/games/23/yw5Aj09crUtBZC8T/rvvASMiM/5113cafa646f4648abc873fe8fbb7232/
 thumbnail: /new-images/thumbnails/jet-boi.jpg
@@ -40,6 +40,7 @@ asegurar la altura y rematar a los rivales.
 - Teclas específicas de movimiento/impulso/disparo para cada jugador (dependen
   del host); pensado para multijugador local.
 
+<!-- i18n:section:tips -->
 ### Consejos
 - Usa toques cortos para estabilizar la puntería; las ráfagas largas son solo
   para reposicionarte.

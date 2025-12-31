@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: crossword
-title: "Crossword"
+title: Crossword
 description: >-
   Crossword es un crucigrama clásico: completa la cuadrícula resolviendo las
   pistas en horizontal y vertical hasta que todas las letras encajen.
@@ -41,6 +41,7 @@ los tamaños más habituales son 15×15 entre semana y 21×21 los domingos.
   Enter/Tab suelen cambiar la dirección o saltar a la siguiente pista (según la
   web).
 
+<!-- i18n:section:tips -->
 ### Consejos y estrategias
 
 - Empieza por las pistas fáciles (frases incompletas, plurales, tiempos verbales

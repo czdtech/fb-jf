@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: merge-heroes
-title: "Merge Heroes - Funde héroes y defiende el reino"
+title: Merge Heroes - Funde héroes y defiende el reino
 description: >-
   El juego definitivo de fusión y batalla estratégica. Combina héroes para
   forjar un ejército poderoso, despliega tus tropas en el campo y defiende el
@@ -28,6 +28,7 @@ hacerlos evolucionar y luego los colocas de forma estratégica en el campo de
 batalla para que defiendan automáticamente tus fronteras.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Comprar y fusionar:** utiliza el oro para comprar héroes básicos, que

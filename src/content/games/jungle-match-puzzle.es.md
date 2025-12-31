@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: jungle-match-puzzle
-title: "Jungle Match Puzzle"
+title: Jungle Match Puzzle
 description: >-
   Jungle Match Puzzle es un match‑3 lleno de vida: limpia bloqueadores, encadena
   power‑ups y cumple objetivos selváticos con pocos movimientos.
@@ -27,6 +27,7 @@ limitado de movimientos. Combinar power‑ups (bomba + línea, doble línea) es
 clave para despejar la vegetación densa y abrir el tablero a grandes cascadas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Objetivo primero:** prioriza romper bloqueadores y avanzar en la meta del

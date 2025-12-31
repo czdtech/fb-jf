@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: cricket-hero
-title: "Cricket Hero"
+title: Cricket Hero
 description: >-
   Salta al campo y conviértete en un auténtico Cricket Hero. Calcula el momento
   perfecto de cada golpe y consigue tantas carreras como puedas en este adictivo
@@ -29,6 +29,7 @@ reacción: si fallas el golpe o te derriban los palos, tu turno termina. ¿Cuán
 carreras podrás conseguir antes de caer?
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Sigue la pelota:** Es la regla fundamental del críquet, y también de este

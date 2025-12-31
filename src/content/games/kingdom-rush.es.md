@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: kingdom-rush
-title: "Kingdom Rush"
+title: Kingdom Rush
 description: >-
   Tower defense emblemático: coloca y mejora cuatro tipos de torres, llama
   refuerzos y microgestiona a un héroe para mantener los cuellos de botella.
@@ -39,6 +39,7 @@ engendros, lo que exige configuraciones flexibles.
 - Ratón/táctil para todas las acciones de torres y héroe; los atajos varían por
   host.
 
+<!-- i18n:section:tips -->
 ### Consejos
 - Menos torres, pero más fuertes, rinden mejor al principio que llenar el mapa
   de torres débiles.

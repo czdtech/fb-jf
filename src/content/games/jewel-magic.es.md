@@ -29,6 +29,7 @@ forma estratégica para crear joyas especiales, provocar reacciones en cadena y
 resolver cada puzle.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Domina las gemas especiales:** para superar los niveles más duros debes

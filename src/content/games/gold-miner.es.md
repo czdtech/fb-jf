@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: gold-miner
-title: "Gold Miner"
+title: Gold Miner
 description: >-
   Clásico arcade de gancho y arrastre: calcula el momento de soltar la garra
   para atrapar oro y gemas, compra power‑ups y alcanza la cantidad objetivo
@@ -40,6 +40,7 @@ la suerte para las fases más difíciles.
 - Una tecla o clic para soltar la garra; teclas adicionales para usar objetos
   (según el portal).
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Aprende el timing del arco: suelta un poco antes de que la garra pase por el

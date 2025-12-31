@@ -30,6 +30,7 @@ cerca del hoyo evitan que la bola "bese" el borde y se salga, y los rebotes a
 convierte el recorrido en un pequeño juego de fiesta entre amigos.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1. **Ritmo cerca del hoyo:** Golpea ligeramente por debajo de la fuerza que

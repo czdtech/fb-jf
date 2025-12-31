@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: donkey-kong
-title: "Donkey Kong"
+title: Donkey Kong
 description: >-
   Donkey Kong es un juego de plataformas arcade clásico: sube escaleras, esquiva
   peligros y alcanza la parte superior para superar cada fase.
@@ -42,6 +42,7 @@ Pauline. Después de cada nivel, las fases se repiten con patrones más rápidos
 - Acción: el martillo se activa automáticamente al recogerlo y dura un tiempo
   limitado.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Espera ventanas seguras antes de subir una escalera; no trepes cuando tengas

@@ -28,6 +28,7 @@ plantea un reto con objetivos concretos, como alcanzar cierta puntuación o
 eliminar bloques especiales, todo ello con un número limitado de movimientos.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Crea power‑ups:** para dominar el juego necesitas combinar más de tres

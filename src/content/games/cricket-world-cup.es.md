@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: cricket-world-cup
-title: "Cricket World Cup"
+title: Cricket World Cup
 description: >-
-  Cricket World Cup condensa simulaciones de bateo: elige el tipo de golpe,
-  lee la línea y la longitud del envío y persigue el objetivo marcando bien el
+  Cricket World Cup condensa simulaciones de bateo: elige el tipo de golpe, lee
+  la línea y la longitud del envío y persigue el objetivo marcando bien el
   riesgo en cada bola.
 iframeSrc: 'https://5ret6v2c94q4g.h5games.usercontent.goog/v/09j66svc50570/'
 thumbnail: /new-images/thumbnails/cricket-world-cup.png
@@ -25,6 +25,7 @@ pelota en los huecos del campo para superar el objetivo de carreras en un
 número limitado de overs.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Selección de golpe por línea:** Para lanzamientos hacia las piernas,

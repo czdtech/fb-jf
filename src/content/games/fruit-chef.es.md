@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: fruit-chef
-title: "Fruit Chef"
+title: Fruit Chef
 description: >-
   Fruit Chef es un frenético juego de cortar fruta: encadena cortes limpios,
   esquiva bombas y controla el ritmo para lograr combos monstruosos.
@@ -25,6 +25,7 @@ largos y rectos que alcanzan varias frutas a la vez y un ritmo constante por
 encima de los manotazos caóticos.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1. **Trazos largos:** Intenta rebanar varias frutas con una sola línea recta

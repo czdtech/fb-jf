@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: clash-of-warriors
-title: "Clash of Warriors"
+title: Clash of Warriors
 description: >-
   Clash of Warriors condensa los duelos de cartas en rondas tácticas muy
   compactas: curva bien tus jugadas, intercambia con eficiencia y supera a tus
@@ -24,6 +24,7 @@ Mantén la iniciativa con jugadas eficientes, lee las respuestas del enemigo y
 asegura el control de mesa para llevarte los duelos ajustados.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Respeta la curva:** Intenta gastar tus recursos de forma limpia cada

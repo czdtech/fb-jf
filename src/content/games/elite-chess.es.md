@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: elite-chess
-title: "Elite Chess"
+title: Elite Chess
 description: >-
   Elite Chess está centrado en tus fundamentos: aperturas sólidas, táctica
   limpia y técnica de finales para convertir ventajas en victorias.
@@ -27,6 +27,7 @@ básicos y finales prácticos de torres. Los puzles y los distintos niveles de l
 IA te ayudan a ganar profundidad de cálculo y memoria de patrones.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Aperturas básicas:** Controla el centro (peones en e4/d4/c4), desarrolla

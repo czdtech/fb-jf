@@ -28,6 +28,7 @@ proyectiles cada vez más poderosos y derribar a los gigantes antes de que te
 aplasten.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1. **Reúne y crece:** Tu objetivo principal es mover al personaje para recoger

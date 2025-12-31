@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: liquid-puzzle-sort-colors
-title: 'Liquid puzzle sort colors'
+title: Liquid puzzle sort colors
 description: >-
   Un relajante juego de ordenar líquidos: vierte por color, planifica botellas
   de reserva y deja cada tubo con un solo color sin caer en atascos.
@@ -26,6 +26,7 @@ tus botellas de reserva y el orden de los vertidos para evitar bloqueos en los
 que ya no quede ningún movimiento útil.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Mantén dos botellas de reserva vacías siempre que puedas; son tus válvulas

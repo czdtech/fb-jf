@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: football-penalty
-title: "Football Penalty"
+title: Football Penalty
 description: >-
   Football Penalty recrea las tandas de penaltis: coloca tus disparos, varía
   altura y esquina y trata de adivinar al portero bajo presión.
@@ -26,6 +26,7 @@ escadra, los disparos rasos y las fintas tardías suelen superar a una IA
 promedio.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1. **Esquinas:** Apunta a las esquinas bajas para forzar paradas muy difíciles;

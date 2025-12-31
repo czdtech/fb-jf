@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: fancy-pants-2
-title: "Fancy Pants 2"
+title: Fancy Pants 2
 description: >-
   Secuela de plataformas basada en el impulso: movimiento más rápido, nuevos
   enemigos y niveles dibujados a mano más grandes, llenos de secretos y trofeos.
@@ -41,6 +41,7 @@ por escenarios dibujados a mano mientras recoges trofeos.
 - Abajo (S o Flecha abajo) para deslizarte.
 - Arriba para entrar por puertas.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Practica las salidas de pendiente para conservar la velocidad al pasar a

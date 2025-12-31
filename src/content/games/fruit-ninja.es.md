@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: fruit-ninja
-title: "Fruit Ninja"
+title: Fruit Ninja
 description: >-
   Clásico arcade de cortar fruta: desliza para rebanar frutas al vuelo mientras
   esquivas bombas; encadena combos y aprovecha los modos frenesí para lograr
@@ -39,6 +39,7 @@ etc.).
 - Desliza con ratón o con el dedo para cortar; usa la interfaz para pausar o
   reiniciar.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Intenta que cada trazo cruce la trayectoria del mayor número posible de

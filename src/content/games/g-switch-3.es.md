@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: g-switch-3
-title: "G-Switch 3"
+title: G-Switch 3
 description: >-
   Runner de gravedad a alta velocidad con nuevas trampas y sólidos modos de
   multijugador local que ponen a prueba tu sincronización y tu consistencia.
@@ -38,6 +38,7 @@ También amplía las opciones de carreras locales con muchos jugadores.
 - Una tecla o toque para invertir la gravedad; en versus, cada jugador tiene su
   propia tecla.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Mantén la vista en la zona central de la pantalla para anticipar el trazado.

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: he-likes-the-darkness
-title: "He Likes The Darkness"
+title: He Likes The Darkness
 description: >-
   He Likes The Darkness es un plataformas de atmósfera oscura: recorre niveles
   sombríos, recoge orbes y calcula saltos muy precisos entre trampas mortales.
@@ -25,6 +25,7 @@ conservación del impulso permite completar las fases con un flujo muy
 satisfactorio.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1. **Explora con luz:** Haz saltos cortos para revelar bordes de plataformas

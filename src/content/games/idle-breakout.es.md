@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: idle-breakout
-title: "Idle Breakout"
+title: Idle Breakout
 description: >-
   Híbrido entre idle y rompe‑ladrillos: haz clic para destruir bloques, compra
   bolas y torretas automáticas, reinicia con prestigio para conseguir
@@ -40,6 +40,7 @@ aceleran las partidas futuras.
 - Ratón: haz clic para hacer daño; usa la interfaz para comprar bolas, mejoras
   y nodos de prestigio.
 
+<!-- i18n:section:tips -->
 ### Consejos
 - Mantén al menos una bola de alto daño para reventar a los jefes.
 - La eficiencia idle aumenta con la automatización; entra de vez en cuando para

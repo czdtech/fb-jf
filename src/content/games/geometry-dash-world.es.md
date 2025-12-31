@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: geometry-dash-world
-title: "Geometry Dash World"
+title: Geometry Dash World
 description: >-
-  Mundos compactos de un juego de plataformas de ritmo: corre, salta y vuela a través de
-  niveles cortos sincronizados con la música, desbloquea portales con orbes
-  recogidos y prueba niveles diarios.
+  Mundos compactos de un juego de plataformas de ritmo: corre, salta y vuela a
+  través de niveles cortos sincronizados con la música, desbloquea portales con
+  orbes recogidos y prueba niveles diarios.
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-world/'
 thumbnail: /new-images/thumbnails/geometry-dash-world.jpg
 tags:
@@ -45,6 +45,7 @@ claros y la persecución de récords con monedas y tiempos.
 - Barra espaciadora, ratón o pantalla táctil para saltar; mantén pulsado para
   volar; los controles del modo práctica/puntos de control dependen del portal.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Aprende la estructura de la canción: muchos peligros coinciden con los

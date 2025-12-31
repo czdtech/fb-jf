@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: dumb-ways-to-die
-title: "Dumb Ways to Die"
+title: Dumb Ways to Die
 description: >-
   Dumb Ways to Die es una colección de microjuegos de reacción rápida: completa
   minidesafíos en segundos para mantener a los personajes con vida.
@@ -40,6 +40,7 @@ respiro.
 - En algunos minijuegos concretos se usan flechas o barra espaciadora (según el
   portal).
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Lee la instrucción antes de tocar nada: muchos fallos vienen de reaccionar por

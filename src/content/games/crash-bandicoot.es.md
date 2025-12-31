@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: crash-bandicoot
-title: "Crash Bandicoot"
+title: Crash Bandicoot
 description: >-
-  Crash Bandicoot es un juego de plataformas arcade retro: corre, salta y gira, recoge
-  frutas Wumpa y cristales, esquiva cajas de TNT y completa niveles temáticos en
-  este remake jugable en el navegador.
+  Crash Bandicoot es un juego de plataformas arcade retro: corre, salta y gira,
+  recoge frutas Wumpa y cristales, esquiva cajas de TNT y completa niveles
+  temáticos en este remake jugable en el navegador.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crash-bandicoot.html'
 thumbnail: /new-images/thumbnails/crash-bandicoot.jpg
 tags:
@@ -43,6 +43,7 @@ partida.
 - Barra espaciadora: ataque de giro (la tecla puede variar según la web que
   aloje el juego).
 
+<!-- i18n:section:tips -->
 ### Consejos y estrategias
 
 - Cronometra bien tus saltos para superar plataformas móviles y huecos.

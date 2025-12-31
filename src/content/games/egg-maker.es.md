@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: egg-maker
-title: "Egg Maker"
+title: Egg Maker
 description: >-
-  Egg Maker es un pequeño puzle de cocina y gestión de tiempo: encadena pasos
-  de preparación, controla la sartén y sirve huevos perfectos incluso en plena
-  hora punta.
+  Egg Maker es un pequeño puzle de cocina y gestión de tiempo: encadena pasos de
+  preparación, controla la sartén y sirve huevos perfectos incluso en plena hora
+  punta.
 iframeSrc: 'https://2jbqv0uarsk18.h5games.usercontent.goog/v/2cnuunat3mtpg/'
 thumbnail: /new-images/thumbnails/egg-maker.png
 tags:
@@ -26,6 +26,7 @@ cocción concreto. Los alimentos siguen haciéndose mientras están al fuego, as
 que el orden de los pasos y el momento en que retiras la sartén deciden si
 consigues un plato "perfecto" o lo quemas.
 
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Ritmo de estaciones:** Empieza por el paso más largo (la sartén) y
@@ -47,6 +48,7 @@ consigues un plato "perfecto" o lo quemas.
   para cocinar y emplatar; toca al cliente para servir.
 - Usa las opciones de pausa o reinicio entre turnos si necesitas descanso.
 
+<!-- i18n:section:tips -->
 ### Consejos avanzados
 
 - **Bandejas de paso:** Ten platos preparados cerca de la zona de entrega para

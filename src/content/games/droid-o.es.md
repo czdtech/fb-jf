@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: droid-o
-title: "Droid-O"
+title: Droid-O
 description: >-
-  Droid-O es un juego de disparos de arena en vista cenital, muy preciso: esquiva
-  oleadas de enemigos, encadena habilidades y sobrevive a amenazas cada vez mayores
-  moviéndote con precisión quirúrgica.
+  Droid-O es un juego de disparos de arena en vista cenital, muy preciso:
+  esquiva oleadas de enemigos, encadena habilidades y sobrevive a amenazas cada
+  vez mayores moviéndote con precisión quirúrgica.
 iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
 thumbnail: /new-images/thumbnails/droid-o.png
 tags:
@@ -34,6 +34,7 @@ para cortar la línea de visión y casillas peligrosas que dañan o ralentizan t
 a ti como a los enemigos. Aprovechar bien la cobertura y el terreno es tan
 importante como la puntería, sobre todo cuando aparecen múltiples tiradores.
 
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Haz círculos amplios, no pequeños:** Las trayectorias en círculos grandes te
@@ -70,6 +71,7 @@ importante como la puntería, sobre todo cuando aparecen múltiples tiradores.
 - Habilidad/esquiva rápida: Espacio/E/Q (según la versión).
 - Pausa/Reintento: botones de interfaz.
 
+<!-- i18n:section:tips -->
 ### Consejos avanzados
 
 - **Ruta de recogidas:** Diseña una ruta en forma de ocho que pase periódicamente

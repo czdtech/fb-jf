@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: kings-and-queens
-title: "Kings and Queens"
+title: Kings and Queens
 description: >-
   Kings and Queens es una aventura match‑3 de realeza: limpia obstáculos,
   desbloquea boosters y restaura salones reales con planificación inteligente.
@@ -27,6 +27,7 @@ romper sellos). Las estrellas que ganas al superar niveles se usan para renovar
 salas, lo que a su vez desbloquea boosters para tableros más difíciles.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Control del tablero:** limpia primero los bloqueadores centrales para abrir

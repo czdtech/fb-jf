@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: make-it-meme
-title: "Make It Meme - Fiesta online de creación de memes"
+title: Make It Meme - Fiesta online de creación de memes
 description: >-
   Make It Meme es un party game multijugador en línea donde los jugadores
   compiten creando y votando memes en tiempo real.
@@ -28,6 +28,7 @@ todos votan las creaciones de los demás y quien acumula más puntos se lleva la
 victoria. El modo online en tiempo real lo convierte en una opción perfecta
 para quedadas con amigos.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Elegir modo:** al entrar puedes unirte a una sala pública o crear una sala

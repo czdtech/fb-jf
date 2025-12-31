@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: iron-snout
-title: "Iron Snout"
+title: Iron Snout
 description: >-
   Beat 'em up de cerdito kung‑fú: desvía los ataques de los lobos, encadena
   patadas y devuélveles sus armas para sobrevivir a oleadas y batir récords.
@@ -38,6 +38,7 @@ ataques, atrapar hachas al vuelo y devolver cohetes. Sobrevivir depende de leer
 - Las flechas o WASD activan ataques, saltos y agachadas; no hay botones de
   ataque separados.
 
+<!-- i18n:section:tips -->
 ### Consejos
 - Prioriza a los enemigos a distancia; sus proyectiles rompen fácilmente tus
   combos.

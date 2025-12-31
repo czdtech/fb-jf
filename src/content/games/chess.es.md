@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: chess
-title: "Chess"
+title: Chess
 description: >-
   Aprende las reglas, piezas y estrategias del ajedrez, el juego de habilidad
   por excelencia. Planifica tus jugadas, controla el tablero y da jaque mate al
@@ -47,6 +47,7 @@ distinta, y entender estos movimientos es la base del juego.
     No puede mover ni capturar hacia atrás. Tiene movimientos especiales: *al
     paso* y *promoción*.
 
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego
 
 #### Principios de apertura
@@ -59,6 +60,7 @@ distinta, y entender estos movimientos es la base del juego.
 3.  **Enrócate pronto:** El enroque es una jugada especial que pone a tu rey a
     salvo y activa una torre; es una parte crucial de la apertura.
 
+<!-- i18n:section:tips -->
 #### Estrategia en el medio juego
 1.  **Valor de las piezas:** Ten en mente los valores relativos (peón=1,
     caballo=3, alfil=3, torre=5, dama=9). Evita cambiar una pieza de más valor

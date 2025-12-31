@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: crazy-balls
-title: "Crazy Balls"
+title: Crazy Balls
 description: >-
   Crazy Balls es un arcade de físicas: haz rebotar la pelota, aprovecha las
   bandas y limpia laberintos de obstáculos con disparos bien calculados.
@@ -24,6 +24,7 @@ Crazy Balls te reta a lanzar bolas a través de niveles llenos de obstáculos,
   disparo caótico.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Utiliza las paredes laterales para doblar la trayectoria y entrar en

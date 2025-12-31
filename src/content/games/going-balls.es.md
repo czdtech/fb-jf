@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: going-balls
-title: "Going Balls"
+title: Going Balls
 description: >-
   Runner 3D de rodar bolas por circuitos de obstáculos: equilibra sobre vigas y
   trampas, recoge monedas y llega a la meta sin caer al vacío.
@@ -42,6 +42,7 @@ algunas versiones, continuaciones.
 - WASD/Flechas o arrastre para dirigir la bola; barra espaciadora para frenar
   cuando exista; R para reiniciar (según el portal).
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Mira siempre hacia adelante y alinéate pronto con las entradas estrechas.

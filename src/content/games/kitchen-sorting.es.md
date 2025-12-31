@@ -1,10 +1,11 @@
 ---
 locale: es
 urlstr: kitchen-sorting
-title: "Kitchen Sorting"
+title: Kitchen Sorting
 description: >-
   Kitchen Sorting es un puzle de categorización exprés: clasifica alimentos,
-  utensilios y residuos bajo presión de tiempo evitando la contaminación cruzada.
+  utensilios y residuos bajo presión de tiempo evitando la contaminación
+  cruzada.
 iframeSrc: 'https://757entlesmh4g.h5games.usercontent.goog/v/1r9oimecfevc0/'
 thumbnail: /new-images/thumbnails/kitchen-sorting.png
 tags:
@@ -29,6 +30,7 @@ retrasos. La dificultad aumenta con cintas simultáneas y normas de higiene más
 estrictas que castigan la contaminación cruzada.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Aplica primero las reglas grandes:** prioriza separaciones críticas para la

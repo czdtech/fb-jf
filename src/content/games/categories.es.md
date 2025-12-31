@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: categories
-title: "Categories"
+title: Categories
 description: >-
-  Categories es un ágil puzle de clasificar palabras: agrupa elementos
-  por temática, detecta intrusos y vence al reloj.
+  Categories es un ágil puzle de clasificar palabras: agrupa elementos por
+  temática, detecta intrusos y vence al reloj.
 iframeSrc: 'https://1ssgr48qrfod0.h5games.usercontent.goog/v/20nv9be906iho/'
 thumbnail: /new-images/thumbnails/categories.png
 tags:
@@ -24,6 +24,7 @@ engaños y resuelve cada conjunto luchando contra pequeños límites de tiempo o
 movimientos.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Empieza por los grupos obvios:** Forma primero las categorías más claras

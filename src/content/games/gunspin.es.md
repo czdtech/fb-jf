@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: gunspin
-title: "Gunspin"
+title: Gunspin
 description: >-
   Arcade de propulsión por retroceso: dispara tu arma para girar y avanzar,
   recoge munición y viaja lo más lejos posible esquivando peligros.
@@ -38,6 +38,7 @@ potencia de fuego y control.
 - Ratón o barra espaciadora para disparar; el timing y la dirección del disparo
   determinan la trayectoria.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Los toques cortos suelen ser más eficientes que las ráfagas largas.

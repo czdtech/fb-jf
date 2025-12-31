@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: endless-truck
-title: "Endless Truck"
+title: Endless Truck
 description: >-
   Endless Truck es un runner de acrobacias: controla el impulso, aterriza limpio
   y encadena impulsos de nitro mientras recoges dinero y mejoras para tu camión.
@@ -25,6 +25,7 @@ suave y volteretas bien calculadas; los aterrizajes torpes te hacen perder
 velocidad o estrellarte. Las monedas y misiones te permiten desbloquear mejoras
 (motor, suspensión, nitro) que aumentan tu velocidad punta y estabilidad.
 
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Aterriza plano:** Intenta caer siempre con las ruedas niveladas para
@@ -46,6 +47,7 @@ velocidad o estrellarte. Las monedas y misiones te permiten desbloquear mejoras
 - Inclinar el camión: A/D o Flechas izquierda/derecha.
 - Nitro: Mayús (Shift) o Espacio (según la versión).
 
+<!-- i18n:section:tips -->
 ### Consejos avanzados
 
 - **Bombeo (pumping):** Toca el freno justo antes de una caída para bajar el morro y luego

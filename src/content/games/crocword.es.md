@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: crocword
-title: "Crocword"
+title: Crocword
 description: >-
-  Crocword es un relajante puzle de palabras: une letras, forma
-  vocablos y rellena el crucigrama con ingenio.
+  Crocword es un relajante puzle de palabras: une letras, forma vocablos y
+  rellena el crucigrama con ingenio.
 iframeSrc: 'https://4u2r33lp92ja0.h5games.usercontent.goog/v/53cgdtc83kng8/'
 thumbnail: /new-images/thumbnails/crocword.png
 tags:
@@ -24,6 +24,7 @@ crucigrama. Las palabras extra te dan monedas o pistas, y la dificultad aumenta
 con rejillas más largas y retorcidas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Rellena primero los huecos donde solo encaja una combinación (posiciones con

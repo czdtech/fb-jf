@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: finger-slayer
-title: "Finger Slayer"
+title: Finger Slayer
 description: >-
-  Finger Slayer pone a prueba tus reflejos puros: mantén el "dedo" en la zona
-  de peligro y retíralo en el último milisegundo para esquivar la cuchilla sin
+  Finger Slayer pone a prueba tus reflejos puros: mantén el "dedo" en la zona de
+  peligro y retíralo en el último milisegundo para esquivar la cuchilla sin
   asustarte antes de tiempo.
 iframeSrc: 'https://7ftsta5r737o8.h5games.usercontent.goog/v/3m7r2si8ppdlg/'
 thumbnail: /new-images/thumbnails/finger-slayer.jpg
@@ -27,6 +27,7 @@ objetivo es ejecutar un único movimiento preciso en el último instante seguro,
 ni antes (lo que te da menos puntos) ni demasiado tarde.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1. **Lee la señal:** La mayoría de trampas tienen una pequeña animación o

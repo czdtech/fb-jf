@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: jump-with-justin-2
-title: "Jump With Justin 2"
+title: Jump With Justin 2
 description: >-
   Jump With Justin 2 es un plataformas ligero centrado en saltos elásticos,
   plataformas móviles y trampas cronometradas: encadena botes y mantiene el
@@ -26,6 +26,7 @@ trayectorias, encadena rebotes y conserva el impulso para llegar a las salidas
 cometiendo el mínimo de errores posible.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Control del arco:** busca saltos limpios; los saltos tardíos suelen

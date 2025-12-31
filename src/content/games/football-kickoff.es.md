@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: football-kickoff
-title: "Football Kickoff"
+title: Football Kickoff
 description: >-
   Football Kickoff se centra en las jugadas de patada del fútbol americano:
   apunta tus patadas, lee el viento y controla la potencia para ganar posición
@@ -26,6 +26,7 @@ sincronizado en el medidor de potencia y una puntería correcta determinan la
 distancia y la precisión.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1. **Leer el viento:** Corrige tu puntería en la dirección del viento; cuanto

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: guess-the-kitty
-title: "Guess the Kitty"
+title: Guess the Kitty
 description: >-
   Concurso visual con gatos: deduce la raza o rasgos correctos a partir de
   imágenes y pistas, y avanza por rondas temáticas.
@@ -38,6 +38,7 @@ las rachas de aciertos hacen subir tu puntuación; las pistas consumen puntos.
 - Ratón o pantalla táctil para seleccionar respuestas; teclado para escribir
   cuando el modo lo requiera.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Aprende patrones característicos: la “M” típica de los tabby, el moteado de

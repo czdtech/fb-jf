@@ -29,6 +29,7 @@ liberando espacio y sumando puntos. Sin límite de tiempo, todo se reduce a
 estrategia y planificación espacial.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1. **Piensa en tres direcciones:** A diferencia de una cuadrícula cuadrada, el

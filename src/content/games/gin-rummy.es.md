@@ -28,6 +28,7 @@ final de la ronda. Es un juego de habilidad, estrategia y memoria, donde debes
 prestar mucha atención a lo que tu rival roba y descarta.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1. **Objetivo principal:** Formar melds con tus 10 cartas y poder "llamar"

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: football-legends
-title: "Football Legends"
+title: Football Legends
 description: >-
   Duelo arcade de fútbol: juega 1v1 o 2v2 con remates de cabeza, volea y
   disparos especiales en partidos rápidos o torneos.
@@ -38,6 +38,7 @@ completos.
 - Flechas/WASD para moverse y saltar; las teclas de tiro, pase y especial
   dependen del portal donde juegues.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Los remates de cabeza bien cronometrados suelen ser la forma más segura de

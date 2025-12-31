@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: light-line
-title: 'Light Line'
+title: Light Line
 description: >-
-  Light Line es un puzle de trazado de rutas luminosas: conecta nodos
-  sin cruces, gestiona la energía y resuelve niveles con rutas elegantes.
+  Light Line es un puzle de trazado de rutas luminosas: conecta nodos sin
+  cruces, gestiona la energía y resuelve niveles con rutas elegantes.
 iframeSrc: 'https://4es9bmcl5tp2o.h5games.usercontent.goog/v/5uo8nsnhp1vjo/'
 thumbnail: /new-images/thumbnails/light-line.png
 tags:
@@ -25,6 +25,7 @@ los niveles avanzados aparecen tableros por capas donde varias líneas comparten
 energía.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Empieza por los cuellos de botella: rellena primero los pasillos estrechos,

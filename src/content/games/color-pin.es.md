@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: color-pin
-title: "Color Pin"
+title: Color Pin
 description: >-
   Color Pin es un juego de precisión en el que debes clavar alfileres en un
   núcleo giratorio sin chocar, y en algunos modos además acertar en el color
@@ -26,6 +26,7 @@ asignado. La velocidad y dirección de giro cambian, así que el juego premia el
 ritmo y la paciencia más que disparar sin pensar.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Identifica el ciclo de rotación y dispara siempre en la misma fase del giro

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: lows-adventures-3
-title: "Low's Adventures 3 - Plataformas retro avanzadas"
+title: Low's Adventures 3 - Plataformas retro avanzadas
 description: >-
   Tercera entrega de la trilogía de plataformas retro: saltos más ajustados,
   nuevos bloques especiales y muchos más secretos en niveles compactos.
@@ -35,6 +35,7 @@ la exploración cuidadosa y las rutas eficientes.
 - Flechas/WASD para moverte y saltar; los botones de ataque o interacción
   dependen de la plataforma donde juegues.
 
+<!-- i18n:section:tips -->
 ### Consejos
 - Ten paciencia con los peligros móviles: perder un ciclo suele costar menos
   que morir y repetir todo.

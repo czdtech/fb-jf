@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: lows-adventures-2
-title: "Low's Adventures 2 - Plataformas retro de precisión"
+title: Low's Adventures 2 - Plataformas retro de precisión
 description: >-
   Secuela de plataformas retro: corre y salta por niveles compactos, encuentra
   llaves y secretos y supera desafíos contrarreloj con saltos precisos.
@@ -36,6 +36,7 @@ caminos secretos.
 - Flechas/WASD para moverte y saltar; los botones de ataque o interacción
   pueden variar según la plataforma donde juegues.
 
+<!-- i18n:section:tips -->
 ### Consejos
 - Amortigua los saltos desde el borde de las plataformas para ganar algo más de
   distancia.

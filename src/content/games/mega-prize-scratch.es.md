@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: mega-prize-scratch
-title: "Mega Prize Scratch - Rasca y gana casual"
+title: Mega Prize Scratch - Rasca y gana casual
 description: >-
   Mega Prize Scratch es un juego casual de tarjetas para rascar: revela
   casillas, combina símbolos y pon límites a la sesión para mantener la
@@ -25,6 +25,7 @@ independiente; tómalo como un entretenimiento ligero más que como un desafío 
 estrategia.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Presupuesto: fija de antemano un pequeño presupuesto para la sesión y

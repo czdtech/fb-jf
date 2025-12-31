@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: foosball-cup-world
-title: "Foosball Cup World"
+title: Foosball Cup World
 description: >-
   Foosball Cup World trae la emoción del futbolín rápido: coloca disparos con
   ángulo, controla los giros en el momento justo y defiende con cabeza en
@@ -27,6 +27,7 @@ carriles y cortar tiros cruzados. Los partidos son cortos y exigen un control
 fino por encima del "agitar barras" sin sentido.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1. **Pases cortos:** Da toques suaves para empujar la pelota entre filas

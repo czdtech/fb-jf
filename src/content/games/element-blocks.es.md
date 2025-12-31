@@ -29,6 +29,7 @@ ofrece herramientas tácticas para salir de situaciones complicadas y alargar la
 partida.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Reglas estándar 10x10:** Siempre tendrás tres piezas disponibles a la vez.

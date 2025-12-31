@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: mahjong-3d
-title: "Mahjong 3D - Puzle mahjong en tres dimensiones"
+title: Mahjong 3D - Puzle mahjong en tres dimensiones
 description: >-
-  Disfruta Mahjong Solitaire en una nueva dimensión: gira el puzle 3D,
-  encuentra parejas de fichas libres iguales y vacía el tablero en una
-  experiencia inmersiva y estratégica.
+  Disfruta Mahjong Solitaire en una nueva dimensión: gira el puzle 3D, encuentra
+  parejas de fichas libres iguales y vacía el tablero en una experiencia
+  inmersiva y estratégica.
 iframeSrc: >-
   https://mahjong3d.h5games.usercontent.goog/v/eba0837e-4855-4bb2-b762-5dd6d8982cac/
 thumbnail: /new-images/thumbnails/mahjong-3d.jpg
@@ -20,6 +20,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 
 <!-- i18n:section:introduction -->
+<!-- i18n:section:how-to-play -->
 ## Guía del juego
 
 ### Introducción detallada

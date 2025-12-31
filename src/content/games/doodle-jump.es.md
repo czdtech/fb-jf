@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: doodle-jump
-title: "Doodle Jump"
+title: Doodle Jump
 description: >-
-  Doodle Jump es un juego de plataformas vertical infinito: rebota entre plataformas,
-  esquiva peligros y sube todo lo que puedas.
+  Doodle Jump es un juego de plataformas vertical infinito: rebota entre
+  plataformas, esquiva peligros y sube todo lo que puedas.
 iframeSrc: 'https://ubg98.github.io/DoodleJump/'
 thumbnail: /new-images/thumbnails/doodle-jump.jpg
 tags:
@@ -39,6 +39,7 @@ gorro propulsor, jetpacks) para escalar aún más alto.
 - Izquierda/Derecha (o inclinación en móvil): mover al personaje. El salto es
   automático al tocar plataformas; en algunas versiones hay botón de disparo.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Cuando el scroll se acelere, prioriza plataformas estables frente a las que

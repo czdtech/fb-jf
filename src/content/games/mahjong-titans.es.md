@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: mahjong-titans
-title: "Mahjong Titans - Solitario de fichas clásico"
+title: Mahjong Titans - Solitario de fichas clásico
 description: >-
   Solitario de emparejar fichas: elimina parejas de fichas idénticas en diseños
   por capas hasta vaciar el tablero; planifica para evitar bloqueos.
@@ -36,6 +36,7 @@ nuevos movimientos y evitar caer en posiciones sin salida.
 - Selecciona parejas con ratón o táctil; los botones de pista y deshacer
   dependen de la plataforma.
 
+<!-- i18n:section:tips -->
 ### Consejos
 - Prioriza las parejas que desbloquean muchas fichas debajo o alrededor.
 - Evita emparejar demasiado pronto en pilas muy profundas salvo que abra un

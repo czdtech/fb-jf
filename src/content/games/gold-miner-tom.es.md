@@ -29,6 +29,7 @@ bolsas sorpresa llenarás tu bolsa, pero ten cuidado con las rocas sin valor que
 solo harán que pierdas segundos preciosos.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1. **El tiempo lo es todo:** La garra se balancea de un lado a otro sin parar.

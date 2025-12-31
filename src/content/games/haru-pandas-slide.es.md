@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: haru-pandas-slide
-title: "Haru Pandas Slide"
+title: Haru Pandas Slide
 description: >-
   Haru Pandas Slide es un relajado puzle deslizante: mueve fichas para
   recomponer imágenes de pandas con el mínimo de movimientos y mucha lógica.
@@ -26,6 +26,7 @@ aparecen fichas bloqueadas que limitan las rutas, premiando las secuencias
 planificadas por encima del ensayo y error.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1. **Empieza por el marco:** Completar primero el borde reduce mucho la

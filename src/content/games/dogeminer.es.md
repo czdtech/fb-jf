@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: dogeminer
-title: "DogeMiner"
+title: DogeMiner
 description: >-
   DogeMiner es un idle clicker: mina monedas, compra mejoras y ayudantes y
   automatiza la producción para ganar cada vez más rápido.
@@ -41,6 +41,7 @@ más allá mediante cohetes.
 - Ratón/táctil: haz clic para minar manualmente y usa los botones de la
   interfaz para comprar mejoras, ayudantes y piezas de cohete.
 
+<!-- i18n:section:tips -->
 ### Consejos y estrategias
 
 - En las primeras fases, prioriza la inversión en ingresos pasivos antes de

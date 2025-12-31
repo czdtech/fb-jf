@@ -30,6 +30,7 @@ agilidad mientras intentas batir tu mejor marca y convertirte en la leyenda de
 la isla maldita.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Recógelo todo:** tu objetivo principal es recolectar monedas, gemas y

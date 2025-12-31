@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: duck-life-4
-title: "Duck Life 4"
+title: Duck Life 4
 description: >-
   Duck Life 4 es un simulador de entrenamiento y carreras: mejora las
   estadísticas de tu pato en minijuegos y gana torneos regionales.
@@ -38,6 +38,7 @@ el aspecto del pato.
 - Flechas o ratón según el minijuego.
 - Espacio para saltar en los modos de carrera (puede variar según el portal).
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Rota el entrenamiento para que ninguna estadística se quede muy por detrás y

@@ -31,6 +31,7 @@ el mayor número posible de mates consecutivos para lograr una nueva máxima
 puntuación.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Concéntrate en la sincronización:** Este juego va de ritmo y precisión. No te

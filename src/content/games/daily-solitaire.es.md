@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: daily-solitaire
-title: "Daily Solitaire"
+title: Daily Solitaire
 description: >-
   Cada día te espera un nuevo desafío de Solitario Klondike. Ordena las cartas
   del As al Rey y pon a prueba tu habilidad con un puzle fresco a diario.
@@ -26,6 +26,7 @@ forma perfecta de medir tu nivel, seguir tu progreso y disfrutar de un rato de
 estrategia con cartas de toda la vida.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Objetivo:** Mover las 52 cartas a las cuatro bases, una por palo, en orden

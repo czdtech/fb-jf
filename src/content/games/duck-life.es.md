@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: duck-life
-title: "Duck Life"
+title: Duck Life
 description: >-
   Duck Life es el simulador original de entrenamiento y carreras: sube de nivel
   a tu pato con minijuegos y úsalo para ganar competiciones.
@@ -37,6 +37,7 @@ en carreras para ir desbloqueando nuevas zonas.
 
 - Flechas y/o barra espaciadora, o ratón, según el minijuego.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Intenta mantener todas las estadísticas más o menos equilibradas en lugar de

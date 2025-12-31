@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: daily-sudoku
-title: "Daily Sudoku"
+title: Daily Sudoku
 description: >-
-  Daily Sudoku te ofrece cada día un nuevo puzle de lógica: coloca los
-  dígitos del 1 al 9 de forma que cada fila, columna y caja contenga todos los
-  números sin repetir.
+  Daily Sudoku te ofrece cada día un nuevo puzle de lógica: coloca los dígitos
+  del 1 al 9 de forma que cada fila, columna y caja contenga todos los números
+  sin repetir.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-daily-sudoku/'
 thumbnail: /new-images/thumbnails/daily-sudoku.jpg
 tags:
@@ -41,6 +41,7 @@ modo de notas y herramientas de validación.
   el modo notas (según la web). Las funciones de Deshacer/Rehacer y Comprobar
   son habituales.
 
+<!-- i18n:section:tips -->
 ### Consejos y estrategias
 
 - Empieza por los singles que encuentres al escanear cada fila, columna y caja.

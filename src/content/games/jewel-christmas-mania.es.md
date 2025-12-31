@@ -30,6 +30,7 @@ navideña. Todo ello envuelto en un ambiente encantador gracias a sus gráficos 
 música alegre.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Busca combinaciones especiales:** alinear más de tres gemas, o hacerlo en

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: crossword-puzzle
-title: "Crossword Puzzle"
+title: Crossword Puzzle
 description: >-
   Crossword Puzzle es un crucigrama clásico: rellena la cuadrícula usando las
   definiciones en horizontal y vertical hasta completar el tablero.
@@ -47,6 +47,7 @@ formatos de cuadrícula y convenciones de pista.
 - Ratón/táctil: toca en una pista de la lista para enfocar su entrada
   correspondiente.
 
+<!-- i18n:section:tips -->
 ### Consejos y estrategias
 
 - Empieza por las pistas más sencillas, como frases incompletas, plurales o

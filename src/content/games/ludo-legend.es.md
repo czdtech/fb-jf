@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: ludo-legend
-title: "Ludo Legend - Clásico juego de mesa"
+title: Ludo Legend - Clásico juego de mesa
 description: >-
   Conviértete en una leyenda del Ludo en este clásico juego de mesa digital.
   Lanza el dado, mueve tus fichas y corre hacia el centro del tablero antes que
@@ -30,6 +30,7 @@ fichas de tus rivales y devolverlas a su base. ¡Conviértete en una leyenda del
 Ludo siendo el primero en llevar a casa las cuatro fichas!
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Salir de la base:** necesitas sacar un seis para mover una ficha desde tu

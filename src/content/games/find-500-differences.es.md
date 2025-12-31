@@ -29,6 +29,7 @@ composiciones complejas, el juego ofrece horas de diversión relajante y
 absorbente para todas las edades.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1. **Explora de forma sistemática:** No mires la pantalla al azar. Empieza por

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: merge-defenders
-title: "Merge Defenders - Fusión y defensa de torres"
+title: Merge Defenders - Fusión y defensa de torres
 description: >-
   Defiende tu territorio fusionando y mejorando unidades en Merge Defenders.
   Combina defensores idénticos para crear versiones más poderosas y colócalos
@@ -28,6 +28,7 @@ básicas, fusionarás dos iguales para crear defensores de nivel superior y los
 posicionarás en los puntos clave del campo de batalla.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Ciclo de fusión:** el corazón del juego es la mecánica de merge. Empiezas

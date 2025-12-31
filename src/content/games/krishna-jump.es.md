@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: krishna-jump
-title: "Krishna Jump"
+title: Krishna Jump
 description: >-
   Krishna Jump es un runner vertical rítmico: encadena saltos precisos, esquiva
   peligros y recoge ídolos a través de escenarios llenos de color.
@@ -25,6 +25,7 @@ coleccionables que otorgan bonus. En niveles avanzados aparecen losetas que
 desaparecen y cambios de velocidad que exigen buen ritmo y lectura rápida.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Cuenta los tiempos:** usa un ritmo constante de toques para estabilizar el

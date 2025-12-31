@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: merge-fruit
-title: "Merge Fruit - Fusión jugosa con físicas"
+title: Merge Fruit - Fusión jugosa con físicas
 description: >-
   Merge Fruit es un puzle de soltar y fusionar: combina frutas idénticas,
   controla la altura de la pila y prepara cascadas para lograr puntuaciones
@@ -27,6 +27,7 @@ en una pieza más grande. El reto está en apilar pensando en merges futuros sin
 permitir que la pila rebose por la parte superior.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Ancla central: intenta mantener la fruta más grande cerca del centro para

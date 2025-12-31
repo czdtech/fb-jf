@@ -29,6 +29,7 @@ juegos creativo para quienes aman el original pero quieren explorar sus propias
 ideas musicales.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego / Consejos creativos
 
 *   Como esto es un sandbox, aquí la "estrategia" va de creatividad.

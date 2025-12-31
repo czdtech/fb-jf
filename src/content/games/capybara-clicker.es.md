@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: capybara-clicker
-title: "Capybara Clicker"
+title: Capybara Clicker
 description: >-
-  Multiplica tu población de carpinchos en Capybara Clicker. Haz clic para
-  crear capybaras, compra mejoras automáticas, desbloquea nuevos climas y
-  viste a tu capybara con gorros estilosos en este encantador idle game.
+  Multiplica tu población de carpinchos en Capybara Clicker. Haz clic para crear
+  capybaras, compra mejoras automáticas, desbloquea nuevos climas y viste a tu
+  capybara con gorros estilosos en este encantador idle game.
 iframeSrc: 'https://bitlifeonline.github.io/capybara-clicker/'
 thumbnail: /new-images/thumbnails/capybara-clicker.jpg
 tags:
@@ -33,6 +33,7 @@ activar un "cambio de clima", que funciona como sistema de prestigio: reinicia
 el progreso a cambio de un multiplicador permanente a la producción.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego
 
 -   **Equilibra clics e idle:** Al principio tus ingresos dependen casi por

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: mazes
-title: "Mazes - Clásicos laberintos de trazo rápido"
+title: Mazes - Clásicos laberintos de trazo rápido
 description: >-
   Mazes propone recorridos clásicos por laberintos: dibuja rutas óptimas,
   esquiva trampas y bate los tiempos objetivo con un trazado limpio.
@@ -26,6 +26,7 @@ buscar el camino más corto y seguro, esquivar baldosas trampa y activar
 interruptores para abrir puertas sin pasarte del tiempo objetivo.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Regla de la mano derecha/izquierda: en laberintos simples usa la técnica de

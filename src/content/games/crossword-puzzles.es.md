@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: crossword-puzzles
-title: "Crossword Puzzles"
+title: Crossword Puzzles
 description: >-
   Crossword Puzzles ofrece crucigramas temáticos: resuelve definiciones en
   horizontal y vertical para completar cada cuadrícula.
@@ -39,6 +39,7 @@ rotación diaria de crucigramas y un archivo histórico.
 - Teclea A–Z; usa las flechas para moverte; Backspace borra; Enter/Tab cambia de
   dirección o salta a la siguiente pista (según la web).
 
+<!-- i18n:section:tips -->
 ### Consejos y estrategias
 
 - Empieza por pistas fáciles, plurales y abreviaturas frecuentes.

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: head-soccer
-title: "Head Soccer"
+title: Head Soccer
 description: >-
   Fútbol arcade 1v1 con cabezas gigantes: salta, chuta y usa tiros especiales
   para marcar más goles que tu rival en partidos cortos.
@@ -39,6 +39,7 @@ reglas de gol de oro.
 - Flechas/WASD para moverte y saltar; las teclas de disparo y especial dependen
   del portal.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Un salto temprano seguido de un toque de disparo genera tiros rasos muy

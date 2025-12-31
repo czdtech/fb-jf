@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: five-nights-at-freddy-1
-title: "Five Nights at Freddy's 1 (FNAF 1)"
+title: Five Nights at Freddy's 1 (FNAF 1)
 description: >-
   Terror de supervivencia en una pizzería: vigila las cámaras, administra la
   energía y cierra puertas y luces a tiempo para mantener fuera a los
@@ -40,6 +40,7 @@ oficina.
 - Usa el ratón y la interfaz para manejar cámaras, luces y puertas; la tecla
   Esc puede pausar el juego según el portal donde lo juegues.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Aprende el comportamiento de Foxy en Pirate Cove; el ritmo con el que asoma

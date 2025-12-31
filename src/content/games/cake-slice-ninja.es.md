@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: cake-slice-ninja
-title: "Cake Slice Ninja"
+title: Cake Slice Ninja
 description: >-
   Cake Slice Ninja es una carrera dulce a base de cortes perfectos: desliza el
   dedo para rebanar, encadena combos y esquiva peligros para lograr las mejores
@@ -25,6 +25,7 @@ combos con tajos sucesivos y esquiva bombas o penalizaciones que podrían romper
 la racha.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Trazos largos y rectos:** Intenta cortar varias porciones en un solo gesto

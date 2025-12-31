@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: funny-shooter-2
-title: "Funny Shooter 2"
+title: Funny Shooter 2
 description: >-
-  FPS por oleadas: destruye enemigos absurdos con un arsenal en expansión,
-  gana monedas y mejora tus armas entre ronda y ronda.
+  FPS por oleadas: destruye enemigos absurdos con un arsenal en expansión, gana
+  monedas y mejora tus armas entre ronda y ronda.
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter-2/'
 thumbnail: /new-images/thumbnails/funny-shooter-2.jpg
 tags:
@@ -36,6 +36,7 @@ herramientas mejores.
 - WASD para moverte, ratón para apuntar y disparar; R para recargar; 1–3 para
   cambiar de arma; Shift para esprintar (según el portal).
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Apunta a la cabeza; en oleadas altas los enemigos aguantan muchos impactos

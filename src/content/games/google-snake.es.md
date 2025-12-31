@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: google-snake
-title: "Google Snake"
+title: Google Snake
 description: >-
   Versión moderna de Snake: guía a una serpiente en crecimiento para comer
   fruta, evita colisiones y persigue récords con distintos conjuntos de reglas.
@@ -37,6 +37,7 @@ tamaño del tablero, los obstáculos y los efectos de algunos ítems.
 
 - Flechas o WASD para dirigir la serpiente; pausa y reinicio desde la interfaz.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Nunca intentes girar 180° sobre tu propio cuello; haz giros amplios.

@@ -28,6 +28,7 @@ Tu misión es alinear tres o más elementos idénticos para cumplir los objetivo
 de cada nivel, crear combos potentes y repartir espíritu navideño.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Aprovecha los potenciadores festivos:** los objetos especiales se crean al

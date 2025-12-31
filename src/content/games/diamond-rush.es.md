@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: diamond-rush
-title: "Diamond Rush"
+title: Diamond Rush
 description: >-
   Vive el brillo de Diamond Rush. Un trepidante juego de puzles match‑3 en el
   que intercambias y combinas deslumbrantes diamantes para limpiar el tablero y
@@ -30,6 +30,7 @@ altas. Según el modo, competirás contra el reloj o tendrás que cumplir
 objetivos específicos para avanzar por los niveles.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Busca combinaciones especiales:** Alinear cuatro o cinco diamantes, o

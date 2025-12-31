@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: crescent-solitaire
-title: "Crescent Solitaire"
+title: Crescent Solitaire
 description: >-
   Crescent Solitaire es una relajante variante de solitario con dos barajas:
   mueve cartas entre los semicírculos para construir las bases y despejar el
@@ -53,6 +53,7 @@ secuencia, puedes transferir cartas entre ellas (salvo el As y el Rey base).
 - No hay mazo del que robar cartas; todo el progreso depende de cómo manipules
   la mesa y de cuándo uses los repartos de nuevo.
 
+<!-- i18n:section:tips -->
 ### Consejos y estrategias
 
 - Construye de forma equilibrada todos los palos para evitar que uno solo

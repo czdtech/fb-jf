@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: diwali-lights
-title: "Diwali Lights"
+title: Diwali Lights
 description: >-
   Diwali Lights es un puzle festivo de tocar para encender: ilumina diyas según
   patrones, evita solapamientos y completa diseños brillantes.
@@ -25,6 +25,7 @@ limitaciones de movimientos, interruptores y elementos temporizados que hacen el
 reto más interesante.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Entiende las reglas del tablero:** Algunos niveles limitan las

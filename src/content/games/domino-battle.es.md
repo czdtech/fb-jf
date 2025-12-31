@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: domino-battle
-title: "Domino Battle"
+title: Domino Battle
 description: >-
   Reta a un oponente en una partida clásica de dominó. Coloca tus fichas con
   estrategia, bloquea a tu rival y sé el primero en vaciar tu mano para ganar la
@@ -27,6 +27,7 @@ extremos de la cadena sobre el tablero. No basta con jugar tus piezas: tendrás
 que planear a largo plazo y, cuando puedas, bloquear los movimientos del rival.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Conceptos básicos:** Cada jugador empieza con una mano de fichas. Normalmente

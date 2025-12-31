@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: level-devil
-title: 'Level Devil'
+title: Level Devil
 description: >-
-  Level Devil es un plataformas troll: los niveles cambian de forma
-  inesperada con pinchos que aparecen de repente, suelos que se caen y salidas
-  falsas; aprende las trampas y mantén la calma.
+  Level Devil es un plataformas troll: los niveles cambian de forma inesperada
+  con pinchos que aparecen de repente, suelos que se caen y salidas falsas;
+  aprende las trampas y mantén la calma.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231215/10/index.html
 thumbnail: /new-images/thumbnails/level-devil.jpg
@@ -40,6 +40,7 @@ visuales y memorizar dónde están las trampas en lugar de correr a lo loco.
 - Flechas o WASD para moverte y saltar; las teclas de reinicio pueden variar
   según el host.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - No corras a ciegas; prueba los bordes con saltos cortos antes de comprometer

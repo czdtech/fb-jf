@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: mad-honey
-title: "Mad Honey - Aventura arcade de néctar"
+title: Mad Honey - Aventura arcade de néctar
 description: >-
   Mad Honey es una pequeña aventura arcade: recoge néctar, esquiva peligros y
   vuelve sano y salvo a la colmena.
@@ -25,6 +25,7 @@ nivel destaca por las rutas de vuelo cuidadosas, la buena sincronización al pas
 patrullas y los regresos seguros a la colmena para sumar puntuación.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Traza la ruta: identifica los grupos de néctar y los recorridos de los

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: crossyroad
-title: "Crossy Road - Juega a Crossy Road en línea"
+title: Crossy Road - Juega a Crossy Road en línea
 description: >-
   Crossy Road es un runner infinito arcade de estética 8‑bit en el que tu misión
   es controlar a la famosa gallina y cruzar carreteras, ríos y vías de tren sin
@@ -11,7 +11,7 @@ thumbnail: /new-images/thumbnails/crossyroad.jpg
 tags:
   - crossy road
 score: 4.8/5  (1104 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -47,6 +47,7 @@ un guiño al chiste clásico de "¿por qué cruzó la carretera la gallina?".
 
 ---
 
+<!-- i18n:section:tips -->
 ### Estrategia y consejos
 
 -  **Paciencia y ritmo:** No te lances a lo loco. Observa los patrones del

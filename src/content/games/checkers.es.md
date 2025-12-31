@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: checkers
-title: "Checkers"
+title: Checkers
 description: >-
   Aprende las reglas y estrategias de Checkers, el clásico juego de mesa. Domina
   los movimientos en diagonal, las capturas obligatorias y la coronación de tus
@@ -45,6 +45,7 @@ principiantes y a la vez desafiante para jugadores experimentados.
     hacia atrás.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego
 
 -   **Controla el centro:** Quien domina las casillas centrales tiene más

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: geometry-dash-meltdown
-title: "Geometry Dash Meltdown"
+title: Geometry Dash Meltdown
 description: >-
   Pack de plataformas de ritmo: salta y vuela a través de nuevos niveles
   sincronizados con la música, llenos de peligros temáticos y secciones de nave
@@ -39,6 +39,7 @@ y secciones de nave y bola diseñadas al milímetro.
 - Tocar/Barra espaciadora/Ratón para saltar; mantén pulsado para volar (según
   el portal).
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Desactiva efectos pesados si notas que la sincronización se desajusta.

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: flappy-bird
-title: "Flappy Bird"
+title: Flappy Bird
 description: >-
   Runner infinito de un solo toque: haz que el pájaro aletee para pasar entre
   las tuberías y sube tu puntuación sin chocar con los obstáculos.
@@ -36,6 +36,7 @@ un punto.
 
 - Ratón, toque o barra espaciadora: toca para aletear.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Usa toques muy ligeros para microajustes; reserva los toques largos para

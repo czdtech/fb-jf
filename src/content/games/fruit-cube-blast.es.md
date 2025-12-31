@@ -29,6 +29,7 @@ grupos grandes generarás potenciadores especiales como cohetes y bombas que
 limpian aún más tablero de una sola vez.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1. **Cuanto más grande, mejor:** Busca siempre el grupo más grande de cubos

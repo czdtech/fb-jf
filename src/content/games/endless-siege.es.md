@@ -28,6 +28,7 @@ de torres defensivas para sobrevivir al mayor número posible de oleadas y optar
 al récord diario.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Conoce tus torres:** Entender qué hace cada una es básico.

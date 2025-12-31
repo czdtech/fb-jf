@@ -30,6 +30,7 @@ joyas especiales mediante combinaciones inteligentes es clave para superar los
 retos más duros.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Crea gemas especiales:** el éxito va más allá de los match‑3 básicos.

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: color-pixel-art
-title: "Color Pixel Art Classic"
+title: Color Pixel Art Classic
 description: >-
   Relájate con este clásico juego de pintar por números en estilo pixel art.
   Elige un color, busca el número correspondiente y rellena los píxeles hasta
@@ -29,6 +29,7 @@ completa y llena de detalles. Es un juego perfecto para desconectar y expresar
 creatividad sin necesidad de tener habilidades artísticas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Elige una imagen:** Empieza explorando la galería y selecciona el dibujo

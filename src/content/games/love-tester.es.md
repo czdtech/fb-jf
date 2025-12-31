@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: love-tester
-title: "Love Tester - Test de compatibilidad amorosa"
+title: Love Tester - Test de compatibilidad amorosa
 description: >-
   Novedad divertida: escribe dos nombres y obtén un porcentaje de compatibilidad
   amorosa lleno de humor. No es científico ni serio, está pensado solo para
@@ -36,6 +36,7 @@ absoluto una compatibilidad real.
 ### Controles
 - Introducción de texto con teclado y un único botón para realizar la prueba.
 
+<!-- i18n:section:tips -->
 ### Consejos
 - Prueba con apodos, nombres de equipo o bromas internas para obtener
   resultados más divertidos.

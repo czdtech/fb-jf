@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: funny-shooter
-title: "Funny Shooter"
+title: Funny Shooter
 description: >-
   Prototipo de juego de disparos por oleadas en primera persona: enfréntate a
   enemigos disparatados, recoge dinero y mejora tus armas para sobrevivir a
@@ -36,6 +36,7 @@ volviéndose más peligrosos y un pequeño sistema de mejoras.
 - WASD para moverse, ratón para apuntar y disparar; R para recargar; números
   para cambiar de arma.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Los disparos a la cabeza ahorran balas y tiempo.

@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: hide-and-seek
-title: "Hide And Seek!"
+title: Hide And Seek!
 description: >-
-  Juego de escondite sigiloso en vista cenital: como fugitivo, mézclate entre los
-  NPC, recoge objetos y completa objetivos; como buscador, usa cono de visión y
-  sprints para atrapar a todos antes de que se acabe el tiempo.
+  Juego de escondite sigiloso en vista cenital: como fugitivo, mézclate entre
+  los NPC, recoge objetos y completa objetivos; como buscador, usa cono de
+  visión y sprints para atrapar a todos antes de que se acabe el tiempo.
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/YWRIxUAXudnq4HO1/rvvASMiM/239942ce1a1349f6bcc9d312b32c5c3b/
 thumbnail: /new-images/thumbnails/hide-and-seek.jpg
@@ -41,6 +41,7 @@ cronómetro.
 - WASD/Flechas para moverte; una tecla de acción activa los potenciadores (según
   el host).
 
+<!-- i18n:section:tips -->
 ### Consejos
 - Fugitivos: imita las pausas y giros de los NPC; corre solo cuando sea
   imprescindible.

@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: bubble-woods-ultimate
-title: "Bubble Woods Ultimate"
+title: Bubble Woods Ultimate
 description: >-
-  Corre contra el reloj en este frenético juego de disparar burbujas. Tienes 60 segundos
-  para reventar tantas burbujas como puedas, encadenar combos enormes y usar
-  potentes potenciadores para lograr la máxima puntuación.
+  Corre contra el reloj en este frenético juego de disparar burbujas. Tienes 60
+  segundos para reventar tantas burbujas como puedas, encadenar combos enormes y
+  usar potentes potenciadores para lograr la máxima puntuación.
 iframeSrc: 'https://bubblewoods4.h5games.usercontent.goog/v/4jslovpheann0/'
 thumbnail: /new-images/thumbnails/bubble-woods-ultimate.png
 tags:
@@ -28,6 +28,7 @@ potenciadores y un sistema de progresión que premia la precisión y la velocida
 convirtiendo cada partida en una carrera contrarreloj.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **La velocidad lo es todo:** Con solo 60 segundos en el reloj, tienes que

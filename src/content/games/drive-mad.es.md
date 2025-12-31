@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: drive-mad
-title: "Drive Mad"
+title: Drive Mad
 description: >-
   Drive Mad es un desafío de conducción con físicas: equilibra tu vehículo,
   supera obstáculos y llega a la meta sin volcar.
@@ -40,6 +40,7 @@ que se rompen.
 - R: reiniciar nivel.
 - Esc/P: pausa (según el portal).
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Dosifica el acelerador: ir siempre a fondo suele acabar en vuelcos.

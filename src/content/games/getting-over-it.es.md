@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: getting-over-it
-title: "Getting Over It"
+title: Getting Over It
 description: >-
-  Reto de escalar con martillo: balancea, haz saltos tipo pogo y arrastra a un hombre en una
-  cazuela por obstáculos surrealistas; una física muy precisa castiga cualquier
-  impaciencia.
+  Reto de escalar con martillo: balancea, haz saltos tipo pogo y arrastra a un
+  hombre en una cazuela por obstáculos surrealistas; una física muy precisa
+  castiga cualquier impaciencia.
 iframeSrc: 'https://ubg77.github.io/fix/getting-over-it/'
 thumbnail: /new-images/thumbnails/getting-over-it.jpg
 tags:
@@ -43,6 +43,7 @@ anclaje, arcos de impulso y ángulos suaves de ratón.
 - El ratón controla el ángulo y la fuerza del martillo; el teclado apenas se
   usa (depende del portal).
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Usa movimientos circulares suaves para balanceos controlados; evita los gestos

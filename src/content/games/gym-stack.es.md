@@ -29,6 +29,7 @@ meta es conseguir la máxima puntuación posible realizando buenos merges sin qu
 las barras lleguen a llenarse por completo.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1. **Combina por color:** Solo puedes fusionar pesas del mismo color. Planifica

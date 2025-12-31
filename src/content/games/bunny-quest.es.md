@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: bunny-quest
-title: "Bunny Quest"
+title: Bunny Quest
 description: >-
   Bunny Quest es un puzle de caminos con fichas deslizantes: mueve las piezas,
   conecta la ruta y guía al conejito hasta la meta.
@@ -24,6 +24,7 @@ hasta la meta, recoger objetos opcionales y evitar callejones sin salida mientra
 los límites de movimientos se vuelven cada vez más estrictos.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Esquinas y rectas primero:** Coloca primero las fichas de esquina y recta

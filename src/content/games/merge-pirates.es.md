@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: merge-pirates
-title: "Merge Pirates - Funde cañones y levanta tu flota pirata"
+title: Merge Pirates - Funde cañones y levanta tu flota pirata
 description: >-
   ¡Al abordaje, capitán! Fusiona cañones, barcos y equipo pirata para construir
   una flota temible. Completa pedidos, gana oro y conviértete en la leyenda más
@@ -29,6 +29,7 @@ encargos de la tripulación, ganar monedas de oro y descubrir todo el equipamien
 legendario para convertirte en el capitán más famoso de los siete mares.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Cadena de merges:** arrastra un objeto y suéltalo sobre otro idéntico para

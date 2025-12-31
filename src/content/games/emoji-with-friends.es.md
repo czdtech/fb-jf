@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: emoji-with-friends
-title: "Emoji With Friends"
+title: Emoji With Friends
 description: >-
   Emoji With Friends es un juego de puzles ligero: empareja, deduce y compite
   con tus amigos usando la lógica de los emojis.
@@ -27,6 +27,7 @@ son sencillas, lo que lo convierte en una buena opción para partidas rápidas c
 amigos.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Escanea patrones:** Identifica rápidamente grupos de emojis frecuentes para

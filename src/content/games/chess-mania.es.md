@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: chess-mania
-title: "Chess Mania"
+title: Chess Mania
 description: >-
   Vive Chess Mania, un juego de ajedrez lleno de opciones para todos los
   niveles. Enfréntate a la IA, resuelve puzles desafiantes y da pasos firmes
@@ -28,6 +28,7 @@ aperturas y afinar tu visión táctica. El objetivo sigue siendo el de siempre:
 superar al rival y colocar su rey en jaque mate.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Domina la apertura:** Empieza la partida desarrollando tus piezas hacia el

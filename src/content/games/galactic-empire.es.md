@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: galactic-empire
-title: "Galactic Empire"
+title: Galactic Empire
 description: >-
   Estrategia espacial vista desde arriba: extrae recursos, construye naves y
   defensas y conquista sectores mientras resistes oleadas enemigas.
@@ -36,6 +36,7 @@ vecinos.
 - Ratón para seleccionar y construir; las teclas rápidas para producción y
   cámara dependen del portal.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Encadena pedidos de naves en lotes; una producción constante rinde más que

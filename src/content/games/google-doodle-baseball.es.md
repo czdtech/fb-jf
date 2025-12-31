@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: google-doodle-baseball
-title: "Google Doodle Baseball"
+title: Google Doodle Baseball
 description: >-
-  Juego de bateo del doodle del 4 de julio de Google: calcula el swing,
-  dirige la bola hacia los huecos y acumula carreras antes de agotar los outs.
+  Juego de bateo del doodle del 4 de julio de Google: calcula el swing, dirige
+  la bola hacia los huecos y acumula carreras antes de agotar los outs.
 iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
 thumbnail: /new-images/thumbnails/google-doodle-baseball.jpg
 tags:
@@ -39,6 +39,7 @@ consistencia y elegir bien dónde mandar la bola.
 
 - Toca, haz clic o pulsa la barra espaciadora para hacer swing.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - No cargues el swing por anticipado; reacciona al momento en que el lanzador

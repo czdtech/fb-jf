@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: granny-hero
-title: "Granny Hero"
+title: Granny Hero
 description: >-
   Granny Hero es un runner de acción en clave de humor: esquiva peligros, usa
   power‑ups disparatados y rescata a los vecinos con una agilidad inesperada.
@@ -25,6 +25,7 @@ deslizamiento y gadgets ocasionales (patinetes, paraguas, sartenes…) que te
 dan invulnerabilidad temporal o control de masas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1. **Visión de carril:** Mantén la vista dos obstáculos por delante para

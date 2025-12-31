@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: drift-boss
-title: "Drift Boss"
+title: Drift Boss
 description: >-
   Drift Boss es un juego de derrapes de un solo botón: calcula el giro para
   mantenerte en la pista y acumula monedas para desbloquear mejoras.
@@ -36,6 +36,7 @@ para mejorar y desbloquear vehículos.
 
 - Ratón/Espacio/Táctil: mantén pulsado para derrapar; suelta para ir recto.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Mira siempre unos tramos por delante para anticipar curvas en S; en esas

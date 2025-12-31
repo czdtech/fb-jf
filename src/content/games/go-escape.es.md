@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: go-escape
-title: "Go Escape"
+title: Go Escape
 description: >-
   Go Escape es un plataformas de escape milimétrico: calcula saltos, lee las
   trampas y encuentra rutas seguras a través de habitaciones compactas.
@@ -25,6 +25,7 @@ paciencia para leer patrones. Los niveles son cortos pero duros; la gracia está
 en dominar el ritmo de cada sala y luego ejecutar una pasada limpia.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1. **Lee los ciclos:** Observa un ciclo completo de las trampas antes de

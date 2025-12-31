@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: farming-10x10
-title: "Farming 10x10"
+title: Farming 10x10
 description: >-
   Farming 10x10 lleva la clásica mecánica de encajar piezas en un tablero de
   10×10 a un entorno de granja relajante: coloca las formas, completa filas y
@@ -26,6 +26,7 @@ movimiento legal, así que la clave está en conservar la flexibilidad mientras
 preparas jugadas que limpien varias líneas a la vez.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y guía de juego
 
 1. Mantén el centro despejado y ve ordenando los bordes poco a poco para evitar

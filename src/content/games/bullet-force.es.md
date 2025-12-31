@@ -1,12 +1,12 @@
 ---
 locale: es
 urlstr: bullet-force
-title: "Bullet Force"
+title: Bullet Force
 description: >-
-  Lánzate a combates multijugador frenéticos en Bullet Force, un juego de disparos moderno
-  en primera persona. Personaliza un enorme arsenal, domina varios modos de
-  juego y enfréntate a jugadores de todo el mundo o entrena sin conexión contra
-  bots.
+  Lánzate a combates multijugador frenéticos en Bullet Force, un juego de
+  disparos moderno en primera persona. Personaliza un enorme arsenal, domina
+  varios modos de juego y enfréntate a jugadores de todo el mundo o entrena sin
+  conexión contra bots.
 iframeSrc: 'https://ubg44.github.io/BulletForce/'
 thumbnail: /new-images/thumbnails/bullet-force.jpg
 tags:
@@ -44,6 +44,7 @@ configurables.
     cada baja, avanzando por una lista predefinida.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego
 
 -   **Domina el movimiento:** Bullet Force es un juego de disparos tipo arcade. Quedarte

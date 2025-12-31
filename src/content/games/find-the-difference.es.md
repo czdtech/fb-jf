@@ -28,6 +28,7 @@ con calma e identificar todas las diferencias antes de que se acabe el tiempo.
 Es un juego relajante pero desafiante que supone un gran entrenamiento mental.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1. **Explora de forma sistemática:** No te limites a mirar el centro de las

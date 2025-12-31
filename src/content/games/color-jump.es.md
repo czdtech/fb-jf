@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: color-jump
-title: "Color Jump"
+title: Color Jump
 description: >-
   Color Jump es un runner minimalista de un solo toque: combina colores, calcula
   los saltos y atraviesa patrones que cambian constantemente.
@@ -24,6 +24,7 @@ el momento exacto del salto para alinear el color, evitar barreras que no
 coinciden y mantener el ritmo mientras la velocidad aumenta.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Lee siempre dos obstáculos por delante en lugar de fijarte solo en la puerta

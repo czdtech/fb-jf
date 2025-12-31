@@ -28,6 +28,7 @@ columna se borra. El reto está en seguir colocando piezas y despejando líneas 
 máximo tiempo posible para lograr la mejor puntuación.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Planifica según las piezas disponibles:** Siempre tienes tres piezas a la

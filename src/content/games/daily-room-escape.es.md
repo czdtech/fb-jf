@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: daily-room-escape
-title: "Daily Room Escape"
+title: Daily Room Escape
 description: >-
   Daily Room Escape ofrece pequeños desafíos de escape: explora la habitación,
   resuelve cerraduras lógicas y encaja las pistas para encontrar la salida.
@@ -24,6 +24,7 @@ Busca objetos ocultos, descifra códigos numéricos y de formas y utiliza los
 objetos en el lugar adecuado para desbloquear la puerta.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Peina la habitación:** Toca los puntos interactivos, levanta cojines, abre

@@ -28,6 +28,7 @@ cadena, más daño inflige tu ataque. Es un juego estratégico donde tienes que
 equilibrar golpes fuertes con la preparación de futuras jugadas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1. **Cadenas largas = más daño:** La estrategia central es crear la cadena más

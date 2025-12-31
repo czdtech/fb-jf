@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: learn-to-fly
-title: 'Learn To Fly'
+title: Learn To Fly
 description: >-
-  Learn to Fly es un juego de lanzamiento por distancia sobre mejora
-  progresiva: ajusta el ángulo de despegue, planea y usa propulsores, gana
-  dinero y compra piezas para volar cada día un poco más lejos.
+  Learn to Fly es un juego de lanzamiento por distancia sobre mejora progresiva:
+  ajusta el ángulo de despegue, planea y usa propulsores, gana dinero y compra
+  piezas para volar cada día un poco más lejos.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/learn-to-fly.html'
 thumbnail: /new-images/thumbnails/learn-to-fly.jpg
 tags:
@@ -41,6 +41,7 @@ modos de desafío a lo largo de los días.
 - Las flechas o las teclas de dirección ajustan el ángulo de vuelo.  
 - La barra espaciadora u otras teclas (según el host) activan los propulsores.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Los descensos suaves recuperan velocidad; las subidas suaves alargan la

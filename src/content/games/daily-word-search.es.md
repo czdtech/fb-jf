@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: daily-word-search
-title: "Daily Word Search"
+title: Daily Word Search
 description: >-
   Daily Word Search te propone sopas de letras relajantes: encuentra las
   palabras ocultas en todas las direcciones y elige entre jugar contrarreloj o
@@ -24,6 +24,7 @@ aparecer en horizontal, vertical y diagonal. Los temas cambian cada día; puedes
 jugar con tiempo para un desafío extra o sin límite para desconectar.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Busca patrones de letras poco comunes y letras raras como Q, Z o X.

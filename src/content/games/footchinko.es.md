@@ -30,6 +30,7 @@ Además, puedes recoger potenciadores y bonificaciones que mejoran tus
 lanzamientos y te ayudan a alcanzar puntuaciones espectaculares.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1. **La puntería lo es todo:** Antes de cada lanzamiento, piensa en la

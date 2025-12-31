@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: infiltrating-the-airship
-title: "Infiltrating the Airship"
+title: Infiltrating the Airship
 description: >-
   Golpe de Henry Stickmin en una aeronave: elige artilugios y rutas para abordar
   el dirigible, dispara gags absurdos y desbloquea múltiples finales rejugando
@@ -39,6 +39,7 @@ fails y finales.
 - Ratón para escoger opciones; algunas versiones usan teclas para los QTE, según
   el host.
 
+<!-- i18n:section:tips -->
 ### Consejos
 - No temas fallar: cada elección equivocada te enseña cuál es el camino bueno y
   te regala un gag nuevo.

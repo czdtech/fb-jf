@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: captain-gold
-title: "Captain Gold"
+title: Captain Gold
 description: >-
-  Captain Gold recupera el clásico desafío del minero de oro: calcula el
-  momento del lanzamiento, engancha los objetos valiosos y esquiva las rocas
-  para alcanzar la cuota.
+  Captain Gold recupera el clásico desafío del minero de oro: calcula el momento
+  del lanzamiento, engancha los objetos valiosos y esquiva las rocas para
+  alcanzar la cuota.
 iframeSrc: 'https://5djvqvgrgqc0o.h5games.usercontent.goog/v/58gqt26rjid7o/'
 thumbnail: /new-images/thumbnails/captain-gold.png
 tags:
@@ -26,6 +26,7 @@ ligeros se recogen enseguida. Cada fase marca un objetivo de dinero y un límite
  de tiempo, y entre rondas puedes invertir tus ganancias en mejoras en la tienda.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Prioriza las pepitas grandes y las bolsas:** Ir a por los objetos de mayor

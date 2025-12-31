@@ -1,11 +1,10 @@
 ---
 locale: es
 urlstr: color-roll-3d
-title: "Color Roll 3D"
+title: Color Roll 3D
 description: >-
-  Color Roll 3D es un puzle relajante de desplegar y cubrir: desenrolla
-  tiras de color en el orden correcto para reproducir exactamente el patrón
-  objetivo.
+  Color Roll 3D es un puzle relajante de desplegar y cubrir: desenrolla tiras de
+  color en el orden correcto para reproducir exactamente el patrón objetivo.
 iframeSrc: 'https://63vakb2ehqof8.h5games.usercontent.goog/v/381au2qko6no0/'
 thumbnail: /new-images/thumbnails/color-roll-3d.png
 tags:
@@ -25,6 +24,7 @@ pueden tapar a las primeras, así que tienes que elegir una secuencia que copie
 el dibujo objetivo sin errores de solapamiento.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Empieza normalmente por el color de base más profundo, el que cubre la zona

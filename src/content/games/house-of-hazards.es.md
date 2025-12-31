@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: house-of-hazards
-title: "House Of Hazards"
+title: House Of Hazards
 description: >-
   Caos de fiesta local: completa tareas domésticas sencillas en una casa llena
   de trampas mientras tus amigos activan peligros para mandarte por los aires.
@@ -39,6 +39,7 @@ mantienen las partidas llenas de risas.
 - Controles sencillos de mover/saltar/accionar; varios jugadores locales con
   teclas asignadas por separado.
 
+<!-- i18n:section:tips -->
 ### Consejos
 - No te obsesiones solo con la siguiente tarea: fíjate en los brillos que
   indican trampas preparadas.

@@ -3,9 +3,9 @@ locale: es
 urlstr: jigsaw-puzzles-hexa
 title: Jigsaw Puzzles Hexa
 description: >-
-  Un giro moderno al puzle clásico. Arrastra piezas hexagonales para
-  completar imágenes en alta definición. Un puzle relajante pero estimulante
-  para todas las edades.
+  Un giro moderno al puzle clásico. Arrastra piezas hexagonales para completar
+  imágenes en alta definición. Un puzle relajante pero estimulante para todas
+  las edades.
 iframeSrc: 'https://jigsawpuzzleshexa.h5games.usercontent.goog/v/5e9bm1tuf1me0/'
 thumbnail: /new-images/thumbnails/jigsaw-puzzles-hexa.jpg
 tags:
@@ -29,6 +29,7 @@ alta definición. Sin límite de tiempo, es una experiencia relajante pero que
 exige buena visión espacial.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Analiza las formas:** antes de colocar nada, observa las piezas

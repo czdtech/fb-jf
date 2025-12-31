@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: crazy-caves
-title: "Crazy Caves"
+title: Crazy Caves
 description: >-
   Adéntrate en Crazy Caves y pon a prueba tus reflejos. Esquiva una lluvia
   constante de rocas mientras lanzas picos para romperlas y conseguir gemas y
@@ -30,6 +30,7 @@ es doble: esquivar la lluvia de escombros para seguir con vida y, al mismo
   capaz de aguantar en estas cavernas caóticas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Sobrevivir primero:** Tu prioridad absoluta es no recibir impactos. Muévete

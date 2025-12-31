@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: daily-sudoku-2
-title: "Daily Sudoku"
+title: Daily Sudoku
 description: >-
   Un nuevo Sudoku cada día para retar tu lógica. Rellena la cuadrícula 9x9 de
   forma que cada fila, columna y subcuadrícula 3x3 contenga los dígitos del 1 al
@@ -27,6 +27,7 @@ subcuadrícula 3x3 contenga todos los números del 1 al 9. No necesitas saber
 matemáticas: solo lógica, paciencia y concentración.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Regla básica:** La regla de oro es sencilla: del 1 al 9, una sola vez por

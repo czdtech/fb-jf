@@ -3,8 +3,8 @@ locale: es
 urlstr: lollipop-world-match-3
 title: 'Lollipop World : match 3'
 description: >-
-  Lollipop World: Match 3 es un puzle de caramelos: combina potenciadores,
-  rompe bloqueadores y cumple objetivos de cada nivel con un número limitado de
+  Lollipop World: Match 3 es un puzle de caramelos: combina potenciadores, rompe
+  bloqueadores y cumple objetivos de cada nivel con un número limitado de
   movimientos.
 iframeSrc: 'https://4oij9suhguc58.h5games.usercontent.goog/v/1osssadggdrao/'
 thumbnail: /new-images/thumbnails/lollipop-world-match-3.jpg
@@ -27,6 +27,7 @@ potenciadores (bomba + línea, caramelos de color que limpian el tablero) son
 esenciales en los tableros más densos.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Enfócate en el objetivo: limpia primero bloqueadores y objetos que hay que

@@ -28,6 +28,7 @@ conseguir la máxima puntuación encadenando combos impresionantes y
 sobreviviendo el mayor tiempo posible.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1. **Corta en combo:** La clave para lograr una puntuación alta es cortar

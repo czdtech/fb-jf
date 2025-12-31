@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: doodle-cricket
-title: "Doodle Cricket"
+title: Doodle Cricket
 description: >-
-  Doodle Cricket es un minijuego de críquet casual: ajusta la sincronización del golpe para sumar
-  carreras mientras evitas que te eliminen.
+  Doodle Cricket es un minijuego de críquet casual: ajusta la sincronización del
+  golpe para sumar carreras mientras evitas que te eliminen.
 iframeSrc: 'https://f3.silvergames.com/m/doodle-cricket/'
 thumbnail: /new-images/thumbnails/doodle-cricket.jpg
 tags:
@@ -39,6 +39,7 @@ wicket (los palos).
 - Ratón/táctil: un único toque o clic para batear. El momento del impacto define
   la dirección y la potencia del golpe.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - No golpees por anticipación: reacciona al gesto de lanzamiento y al bote.

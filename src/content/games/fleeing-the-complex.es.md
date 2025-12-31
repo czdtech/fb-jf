@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: fleeing-the-complex
-title: "Fleeing the Complex"
+title: Fleeing the Complex
 description: >-
   Gran fuga ramificada con monigotes: elige objetos y rutas para escapar del
   complejo, descubre múltiples finales y completa todos los fallos y biografías.
@@ -39,6 +39,7 @@ caminos que elijas.
 - Ratón para seleccionar opciones e interactuar; algunas escenas usan teclas
   concretas para ciertas acciones, según la versión.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Si una opción falla, prueba la ruta alternativa: muchas escenas tienen un

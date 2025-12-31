@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: cake-smash
-title: "Cake Smash"
+title: Cake Smash
 description: >-
   Combina y aplasta deliciosos pasteles en Cake Smash, un adictivo puzle match‑3
   lleno de color.
@@ -26,6 +26,7 @@ Cada nivel tiene un objetivo concreto, como alcanzar cierta puntuación o
 eliminar un número específico de un tipo de pastel.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Detecta combinaciones:** Busca oportunidades para alinear tres o más

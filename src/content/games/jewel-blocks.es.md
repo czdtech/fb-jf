@@ -30,6 +30,7 @@ rotar**, así que tendrás que pensar bien dónde colocarlas para que el tablero
 se bloquee.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Planifica con antelación:** siempre ves tres piezas disponibles. Antes de

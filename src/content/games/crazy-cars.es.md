@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: crazy-cars
-title: "Crazy Cars"
+title: Crazy Cars
 description: >-
   Crazy Cars es un juego de conducción y acrobacias en 3D: explora una ciudad
   abierta, completa eventos, recoge estrellas y llaves inglesas, y realiza
@@ -47,6 +47,7 @@ versiones también incluyen modo local a pantalla dividida.
 - Esc/P: pausa o menú.
 - Pantalla dividida: el segundo jugador utiliza el otro esquema de teclas.
 
+<!-- i18n:section:tips -->
 ### Consejos y estrategias
 
 - Dosifica el acelerador en las curvas cerradas para evitar el subviraje.

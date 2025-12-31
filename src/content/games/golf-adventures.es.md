@@ -27,6 +27,7 @@ objetivo es sencillo: meter la bola en el hoyo con el menor número de golpes
 posible. Es un juego de ángulos, potencia y resolución ingeniosa de problemas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1. **Planifica el golpe:** Antes de tirar, observa todo el nivel. Fíjate en los

@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: fly-or-die
-title: "Fly or Die"
+title: Fly or Die
 description: >-
   Supervivencia evolutiva (.io): come la comida adecuada para ascender en la
-  cadena evolutiva mientras esquivas depredadores y peligros en biomas de
-  cielo y tierra.
+  cadena evolutiva mientras esquivas depredadores y peligros en biomas de cielo
+  y tierra.
 iframeSrc: >-
   https://app-96679.games.s3.yandex.net/96679/jshypemnvrae6bchv5d2nej2892owe69/index.html
 thumbnail: /new-images/thumbnails/fly-or-die.jpg
@@ -40,6 +40,7 @@ amenazas del entorno.
 - Ratón/teclado para moverte o volar; las teclas de impulso varían según el
   servidor o portal.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Come en zonas relativamente seguras, en los bordes de las áreas concurridas;

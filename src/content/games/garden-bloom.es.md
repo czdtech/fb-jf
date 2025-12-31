@@ -29,6 +29,7 @@ realizar tareas en el jardín: limpiar zonas, plantar flores y colocar
 decoraciones.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1. **Una experiencia en dos partes:**  

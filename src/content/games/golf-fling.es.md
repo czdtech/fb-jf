@@ -29,6 +29,7 @@ posible. Esquiva obstáculos, aprovecha el terreno y domina el arte del fling
 para convertirte en un auténtico campeón.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1. **Apunta con cuidado:** Antes de lanzar, una línea indicadora muestra la

@@ -1,11 +1,10 @@
 ---
 locale: es
 urlstr: five-nights-at-freddy-3
-title: "Five Nights at Freddy's 3 (FNAF 3)"
+title: Five Nights at Freddy's 3 (FNAF 3)
 description: >-
-  Terror de gestión de sistemas: atrae a Springtrap con el audio, vigila
-  cámaras y conductos y reinicia los sistemas que fallen para sobrevivir cada
-  noche.
+  Terror de gestión de sistemas: atrae a Springtrap con el audio, vigila cámaras
+  y conductos y reinicia los sistemas que fallen para sobrevivir cada noche.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf3.html'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-3.jpg
 tags:
@@ -41,6 +40,7 @@ y ventilación para salir con vida.
 - Ratón/interfaz para manejar cámaras, audio, sellado de conductos y reinicios
   de sistema.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Mantén a Springtrap en salas alejadas de la oficina, atrayéndolo paso a paso

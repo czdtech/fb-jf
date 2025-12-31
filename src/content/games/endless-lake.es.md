@@ -28,6 +28,7 @@ saltos simples y dobles para superar los huecos cambiantes entre plataformas y
 ver hasta dónde eres capaz de llegar.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Domina el doble salto:** La habilidad más importante es el doble salto.

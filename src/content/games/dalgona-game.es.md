@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: dalgona-game
-title: "Dalgona Game"
+title: Dalgona Game
 description: >-
   Dalgona Game recrea el reto de recortar dalgona: perfila con cuidado la forma,
   controla las grietas y termina antes de que se agote el tiempo.
@@ -24,6 +24,7 @@ si aplicas demasiada presión o te sales del contorno, el caramelo se resquebraj
 y pierdes la ronda.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Ve despacio en las esquinas y reserva la velocidad para los tramos rectos.

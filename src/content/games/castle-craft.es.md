@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: castle-craft
-title: "Castle Craft"
+title: Castle Craft
 description: >-
   Emprende una aventura de fusionar y construir en Castle Craft. Combina objetos
   para conseguir recursos, completar misiones y expandir tu reino desde un
@@ -29,6 +29,7 @@ cumplir misiones, conseguir moneda valiosa y disipar la niebla para desbloquear
 nuevos territorios, revelando poco a poco un imperio cada vez más próspero.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Domina las fusiones de cinco (merge‑5):** Aunque fusionar tres objetos es la regla básica,

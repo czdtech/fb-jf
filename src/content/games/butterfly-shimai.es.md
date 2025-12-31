@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: butterfly-shimai
-title: "Butterfly Shimai"
+title: Butterfly Shimai
 description: >-
-  Emprende una preciosa aventura de puzles con Butterfly Shimai. Conecta pares de
-  alas iguales para formar mariposas completas, hacerlas volar y limpiar el
+  Emprende una preciosa aventura de puzles con Butterfly Shimai. Conecta pares
+  de alas iguales para formar mariposas completas, hacerlas volar y limpiar el
   tablero.
 iframeSrc: 'https://1pq2qond4eka0.h5games.usercontent.goog/v/4oiv5e7dd7vd8/'
 thumbnail: /new-images/thumbnails/butterfly-shimai.png
@@ -30,6 +30,7 @@ fichas. Con un límite de tiempo en cada nivel, tendrás que ser rápido y
 estratégico para limpiar todas las mariposas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Busca coincidencias evidentes:** Empieza por los pares que están

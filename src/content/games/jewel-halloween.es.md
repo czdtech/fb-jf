@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: jewel-halloween
-title: "Jewel Halloween"
+title: Jewel Halloween
 description: >-
   Jewel Halloween es un match‑3 con ambiente tenebroso: intercambia gemas,
   provoca cascadas y cumple los objetivos de cada nivel.
@@ -25,6 +25,7 @@ alcanzar cierta puntuación, superar niveles con movimientos limitados o limpiar
 bloqueadores.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Trabaja desde abajo:** haz combinaciones cerca de la parte inferior del

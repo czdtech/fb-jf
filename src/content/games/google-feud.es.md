@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: google-feud
-title: "Google Feud"
+title: Google Feud
 description: >-
   Juego de adivinanzas tipo encuesta: completa las sugerencias de autocompletar
   con las búsquedas más populares y avanza rondas sin quedarte sin intentos.
@@ -40,6 +40,7 @@ patrones y hacer conjeturas amplias es la clave.
 - Usa el teclado para escribir respuestas y pulsa Enter para enviarlas; los
   botones en pantalla sirven para elegir categorías y avanzar.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Piensa como el autocompletado: ortografías frecuentes, sinónimos y expresiones

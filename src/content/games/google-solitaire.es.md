@@ -1,11 +1,10 @@
 ---
 locale: es
 urlstr: google-solitaire
-title: "Google Solitaire"
+title: Google Solitaire
 description: >-
   Solitario Klondike clásico: mueve cartas para construir las pilas de
-  fundamentos por palo de As a Rey usando columnas que bajan alternando
-  colores.
+  fundamentos por palo de As a Rey usando columnas que bajan alternando colores.
 iframeSrc: 'https://www.google.com/logos/fnbx/solitaire/standalone.html'
 thumbnail: /new-images/thumbnails/google-solitaire.jpg
 tags:
@@ -39,6 +38,7 @@ solo pueden ocuparse con Reyes o con columnas que empiecen por un Rey.
 - Ratón o pantalla táctil para arrastrar y soltar; el doble clic suele mover
   automáticamente una carta a un fundamento si el movimiento es legal.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Prioriza los movimientos que revelan una carta boca abajo.

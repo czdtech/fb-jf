@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: mahjong
-title: "Mahjongg Solitaire - Clásico puzle de fichas"
+title: Mahjongg Solitaire - Clásico puzle de fichas
 description: >-
-  Mahjongg Solitaire es un puzle clásico para un jugador basado en
-  fichas de Mahjong tradicionales chinas, donde debes emparejar fichas abiertas
-  e idénticas para limpiar el tablero.
+  Mahjongg Solitaire es un puzle clásico para un jugador basado en fichas de
+  Mahjong tradicionales chinas, donde debes emparejar fichas abiertas e
+  idénticas para limpiar el tablero.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjong/'
 thumbnail: /new-images/thumbnails/mahjong.jpg
 tags:
@@ -27,6 +27,7 @@ en las tradicionales fichas chinas de Mahjong. El objetivo es limpiar todo el
 sencillas y a un reto que aumenta con cada disposición, es un juego muy querido
 por jugadores de todo el mundo.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Observar la disposición del tablero:** examina con calma el tablero para

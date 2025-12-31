@@ -30,6 +30,7 @@ más personal, automatizar procesos mediante gerentes y, con el tiempo,
 desbloquear minas nuevas y más rentables en distintos mundos.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **El bucle principal:** La esencia del juego es simple pero muy adictiva:

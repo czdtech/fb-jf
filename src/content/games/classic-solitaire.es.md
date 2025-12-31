@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: classic-solitaire
-title: "Classic Solitaire"
+title: Classic Solitaire
 description: >-
   Disfruta del solitario clásico (Klondike). Mueve cartas con estrategia entre
   el tablero y las bases para ordenar todos los palos en orden ascendente.
@@ -27,6 +27,7 @@ suerte mientras maniobras las cartas del tablero para descubrir las ocultas y
 construir las bases.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Zonas del juego:**

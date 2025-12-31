@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: dices-2048-3d
-title: "Dices 2048 3D"
+title: Dices 2048 3D
 description: >-
   Dices 2048 3D fusiona 2048 con físicas de dados: haz chocar dados del mismo
   valor para fusionarlos y alcanzar 2048 (y más allá) en tres dimensiones.
@@ -26,6 +26,7 @@ rebotes y la colocación en 3D añaden capas nuevas de estrategia: hay que pensa
 en cómo apilar, dejar espacios y evitar fusiones accidentales.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Mantén carriles limpios:** Reserva una columna para combinar y otra como

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: cat-mario
-title: "Cat Mario"
+title: Cat Mario
 description: >-
   Enfréntate al plataformas más injusto en Cat Mario (Syobon Action). Recorre un
   mundo lleno de trampas ocultas, enemigos inesperados y diseños de niveles
@@ -36,6 +36,7 @@ Tu única meta real es llegar a la bandera del final de cada fase sin tirar el
 teclado por la ventana.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Principios de estrategia y recorrido
 
 Más que estrategia, aquí manda la memoria. Es una prueba de paciencia y

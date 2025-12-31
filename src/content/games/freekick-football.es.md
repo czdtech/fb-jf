@@ -25,6 +25,7 @@ al portero. El juego pone a prueba tu precisión, tu sincronización y tu compre
 la física del balón.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia de juego y recorrido
 
 1. **Apuntar:** Ajusta con cuidado la dirección del disparo para encontrar un

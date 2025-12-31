@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: kitty-scramble
-title: "Kitty Scramble"
+title: Kitty Scramble
 description: >-
   Kitty Scramble es una sopa de letras acogedora: traza palabras en rejillas de
   letras, encuentra términos del tema y limpia el tablero gracias al
@@ -29,6 +29,7 @@ monedas. Los tableros suben de dificultad con vocabulario más largo, rutas en
 caminos y un buen vocabulario.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Escanea el tema:** antes de empezar a trazar, piensa en una lista mental

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: kingdom-rush-frontiers
-title: "Kingdom Rush Frontiers"
+title: Kingdom Rush Frontiers
 description: >-
   Secuela de tower defense: construye y mejora torres, despliega refuerzos y
   héroes, y contrarresta tipos de enemigos con una colocación inteligente.
@@ -39,6 +39,7 @@ microgestiona a tu héroe para tapar fugas mientras gestionas resistencias físi
 - Ratón/táctil para construir, mejorar y lanzar habilidades; los atajos de
   teclado dependen del host.
 
+<!-- i18n:section:tips -->
 ### Consejos
 - No sobreconstruyas al principio: es mejor mejorar 2‑3 torres clave para
   maximizar el daño.

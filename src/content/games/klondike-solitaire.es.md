@@ -1,11 +1,10 @@
 ---
 locale: es
 urlstr: klondike-solitaire
-title: "Klondike Solitaire"
+title: Klondike Solitaire
 description: >-
   Klondike clásico: construye las fundaciones de As a Rey por palos usando
-  columnas de mesa que descienden en colores alternos; modo robar‑1 o
-  robar‑3.
+  columnas de mesa que descienden en colores alternos; modo robar‑1 o robar‑3.
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-klondike-solitaire/
 thumbnail: /new-images/thumbnails/klondike-solitaire.jpg
@@ -38,6 +37,7 @@ columnas de mesa, las secuencias descienden en colores alternos; solo los Reyes
 - Arrastrar‑y‑soltar o toques simples; muchos hosts ofrecen auto‑movimiento a
   las fundaciones.
 
+<!-- i18n:section:tips -->
 ### Consejos
 - Prioriza los movimientos que den la vuelta a una carta oculta.
 - No lleves cartas bajas a las fundaciones demasiado pronto si aún ayudan a

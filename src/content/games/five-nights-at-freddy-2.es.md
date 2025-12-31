@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: five-nights-at-freddy-2
-title: "Five Nights at Freddy's 2 (FNAF 2)"
+title: Five Nights at Freddy's 2 (FNAF 2)
 description: >-
-  Gestión de máscara y caja de música: controla a múltiples animatrónicos,
-  dale cuerda a la caja de la Marioneta, usa la linterna y ponte la máscara de
-  Freddy en el momento justo para sobrevivir.
+  Gestión de máscara y caja de música: controla a múltiples animatrónicos, dale
+  cuerda a la caja de la Marioneta, usa la linterna y ponte la máscara de Freddy
+  en el momento justo para sobrevivir.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-2.jpg
 tags:
@@ -38,6 +38,7 @@ para la Marioneta mientras vigilas pasillos y conductos de ventilación.
 - Ratón/interfaz para manejar cámaras y máscara; Ctrl o Espacio para la
   linterna (según la versión del juego).
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Construye un bucle de acciones: dar cuerda a la caja → bajar la cámara →

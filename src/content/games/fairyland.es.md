@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: fairyland
-title: "Fairyland"
+title: Fairyland
 description: >-
   Fairyland es una aventura de puzles suave: explora escenarios acogedores,
   resuelve acertijos sencillos y completa objetivos a un ritmo relajado.
@@ -26,6 +26,7 @@ vez en cuando completarás minijuegos. Avanzas por capítulos compactos en los q
 lo importante es la exploración, no el combate.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Explora de forma metódica:** Limpia una escena cada vez; usa zoom o

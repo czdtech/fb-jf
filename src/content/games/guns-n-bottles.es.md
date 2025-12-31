@@ -28,6 +28,7 @@ sincronizar el disparo con la rotación. Rompe las botellas verdes para sumar
 puntos, pero evita a toda costa las rojas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1. **Anticípate a la rotación:** No dispares cuando el cañón apunte exactamente

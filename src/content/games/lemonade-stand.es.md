@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: lemonade-stand
-title: 'Lemonade Stand'
+title: Lemonade Stand
 description: >-
-  Lemonade Stand es un simulador clásico de negocio: fija el precio, la receta
-  y la publicidad; compra vasos, limones, azúcar y hielo; y gestiona el
-  beneficio diario según el tiempo que haga.
+  Lemonade Stand es un simulador clásico de negocio: fija el precio, la receta y
+  la publicidad; compra vasos, limones, azúcar y hielo; y gestiona el beneficio
+  diario según el tiempo que haga.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/lemonade-stand.html'
 thumbnail: /new-images/thumbnails/lemonade-stand.jpg
 tags:
@@ -40,6 +40,7 @@ sobrantes).
 - Usa el ratón o la interfaz para fijar cantidades, precios y pasar al día
   siguiente.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - No compres demasiados productos perecederos si se espera un día frío o

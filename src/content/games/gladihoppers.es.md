@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: gladihoppers
-title: "Gladihoppers"
+title: Gladihoppers
 description: >-
   Luchas de gladiadores 2D con saltos físicos: personaliza tu equipo, mide
   estocadas y paradas y asciende por las arenas en duelos y distintos modos.
@@ -41,6 +41,7 @@ por diferentes arenas y modos.
 - Saltos direccionales y teclas de ataque/bloqueo (las teclas exactas dependen
   del portal); suele haber versus local.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Las lanzas y picas favorecen el juego a distancia; las espadas son mejores

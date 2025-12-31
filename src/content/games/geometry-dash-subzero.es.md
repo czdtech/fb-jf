@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: geometry-dash-subzero
-title: "Geometry Dash SubZero"
+title: Geometry Dash SubZero
 description: >-
   Pack independiente de niveles de ritmo invernales: salta, vuela y encaja los
   anillos al ritmo de la música entre escenarios helados y patrones rápidos.
@@ -37,6 +37,7 @@ transiciones rápidas entre secciones de nave.
 - Tocar/Barra espaciadora/Ratón para saltar; mantén pulsado para volar (según
   el portal).
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Reduce los efectos visuales si notas que distraen del ritmo.

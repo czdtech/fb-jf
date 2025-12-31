@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: chess-classic
-title: "Chess Classic"
+title: Chess Classic
 description: >-
-  Disfruta del ajedrez clásico con Chess Classic. Enfréntate a la IA en distintos
-  niveles de dificultad y mejora tu juego movimiento a movimiento.
+  Disfruta del ajedrez clásico con Chess Classic. Enfréntate a la IA en
+  distintos niveles de dificultad y mejora tu juego movimiento a movimiento.
 iframeSrc: 'https://chessclassic.h5games.usercontent.goog/v/7hf0vulane380/'
 thumbnail: /new-images/thumbnails/chess-classic.png
 tags:
@@ -27,6 +27,7 @@ varios niveles de dificultad. El juego sigue las reglas internacionales estánda
 el arte del jaque mate.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Controla el centro:** En la apertura, utiliza peones y piezas para

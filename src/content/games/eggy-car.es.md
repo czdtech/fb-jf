@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: eggy-car
-title: "Eggy Car"
+title: Eggy Car
 description: >-
   Eggy Car es un juego de conducción con físicas en el que llevas un huevo
   frágil sobre el coche: sube y baja colinas sin que se caiga ni se rompa.
@@ -38,6 +38,7 @@ la clave está en un acelerador suave y en anticipar el relieve.
 - A/D o flechas para avanzar/retroceder y modular la velocidad.
 - R: reiniciar la partida.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Trata las crestas como pequeños saltos: levanta el pie antes del pico y vuelve

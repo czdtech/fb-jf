@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: jetpack-joyride
-title: "Jetpack Joyride"
+title: Jetpack Joyride
 description: >-
   Runner lateral con gadgets: esquiva zappers y misiles, súbete a vehículos y
   recoge monedas mientras completas misiones para desbloquear mejoras.
@@ -38,6 +38,7 @@ para ganar estrellas y desbloquear más mejoras.
 - Mantén pulsado o toca para ascender; suelta para descender. Los botones de
   gadgets y menús varían según el host.
 
+<!-- i18n:section:tips -->
 ### Consejos
 - Aprende los ciclos de zappers; los toques tardíos permiten pasar por huecos
   muy ajustados.

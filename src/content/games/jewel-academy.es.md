@@ -29,6 +29,7 @@ mecánica principal consiste en intercambiar gemas adyacentes para formar línea
 especiales, superar obstáculos complicados y resolver cientos de puzle.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Busca combinaciones especiales:** no te conformes con alinear solo tres.

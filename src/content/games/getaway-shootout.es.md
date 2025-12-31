@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: getaway-shootout
-title: "Getaway Shootout"
+title: Getaway Shootout
 description: >-
   Carrera y disparos con físicas caóticas: salta a golpes hasta el punto de
-  huida, recoge armas disparatadas y supera a tus rivales en solitario o en
-  modo 2 jugadores.
+  huida, recoge armas disparatadas y supera a tus rivales en solitario o en modo
+  2 jugadores.
 iframeSrc: 'https://ubg44.github.io/GetawayShootout/'
 thumbnail: /new-images/thumbnails/getaway-shootout.jpg
 tags:
@@ -43,6 +43,7 @@ los cambios de dirección en el aire es lo que gana carreras.
   para usar objetos (las teclas exactas dependen del portal); admite 2
   jugadores en local.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - En las cuestas, calcula pulsaciones más largas para transformar la subida en

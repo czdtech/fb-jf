@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: lake-jump
-title: 'Lake Jump'
+title: Lake Jump
 description: >-
   Lake Jump es un juego de un solo toque basado en el tiempo: salta de
   plataforma en plataforma, evita las caídas al agua y encadena saltos
@@ -17,6 +17,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 
 <!-- i18n:section:introduction -->
+<!-- i18n:section:how-to-play -->
 ## Guía del juego
 
 ### Introducción detallada al juego

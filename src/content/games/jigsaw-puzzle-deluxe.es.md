@@ -28,6 +28,7 @@ múltiples categorías. Eliges la ilustración que más te guste y el nivel de
 piezas dispersas para reconstruir la imagen original.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Empieza por el marco:** la estrategia de toda la vida: busca primero las

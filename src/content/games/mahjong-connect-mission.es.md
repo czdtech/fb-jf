@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: mahjong-connect-mission
-title: "Mahjong Connect: Mission - Conecta fichas bajo presión"
+title: 'Mahjong Connect: Mission - Conecta fichas bajo presión'
 description: >-
   Mahjong Connect: Mission es un mahjong de conectar parejas: une fichas
   idénticas con un camino de hasta dos giros, limpia el tablero y vence al
@@ -28,6 +28,7 @@ niebla y bombas que exigen priorizar objetivos y mantener el tablero bien
 controlado.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Búsqueda en los bordes: los bordes y las esquinas ofrecen la mayoría de

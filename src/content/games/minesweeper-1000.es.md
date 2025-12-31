@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: minesweeper-1000
-title: "Minesweeper 1000 - Buscaminas a gran escala"
+title: Minesweeper 1000 - Buscaminas a gran escala
 description: >-
   Minesweeper 1000 renueva el clásico Buscaminas: lee la lógica de los números,
   marca las bombas y limpia tableros enormes usando técnicas eficientes.
@@ -27,6 +27,7 @@ para abrir zonas rápido y minimizar las situaciones en las que tengas que
 adivinar.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Patrones básicos: domina patrones típicos como 1‑2, 1‑1 y 1‑2‑1 en bordes

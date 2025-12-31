@@ -30,6 +30,7 @@ lleno de gatitos. Es un juego relajante para todas las edades, perfecto para
 amantes de los puzles y de los gatos.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Busca grandes combinaciones:** hacer match‑3 está bien, pero alinear 4 o 5

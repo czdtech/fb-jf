@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: elastic-man
-title: "Elastic Man"
+title: Elastic Man
 description: >-
   Elastic Man es un juguete interactivo: estira, pellizca y aplasta una cara
   elástica con físicas divertidas.
@@ -36,6 +36,7 @@ cómo la "piel" vuelve a su sitio con un efecto de gelatina.
 - Ratón/táctil: arrastra y suelta para deformar; usa el panel de opciones cuando
   esté disponible.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Tira de mejillas o frente para conseguir oscilaciones amplias; los pinchazos

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: hexamind
-title: "HexaMind"
+title: HexaMind
 description: >-
   HexaMind es un puzle de lógica sobre una rejilla hexagonal: coloca fichas
   cumpliendo reglas de adyacencia y gestiona paridades y sumas en diseños de
@@ -27,6 +27,7 @@ permite deducciones muy ricas utilizando líneas en abanico y anillos alrededor
 de celdas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1. **Zonas con más restricciones:** Empieza por las celdas con más vecinos o

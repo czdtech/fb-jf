@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: daily-crossword
-title: "Daily Crossword"
+title: Daily Crossword
 description: >-
-  Daily Crossword te ofrece un crucigrama nuevo cada día: resuelve las pistas
-  en horizontal y vertical para rellenar la cuadrícula.
+  Daily Crossword te ofrece un crucigrama nuevo cada día: resuelve las pistas en
+  horizontal y vertical para rellenar la cuadrícula.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword/'
 thumbnail: /new-images/thumbnails/daily-crossword.jpg
 tags:
@@ -39,6 +39,7 @@ comprobar o revelar entradas.
 - Teclea A–Z; usa las flechas para moverte; Backspace borra; Enter/Tab cambia de
   dirección o avanza (dependiendo del sitio).
 
+<!-- i18n:section:tips -->
 ### Consejos y estrategias
 
 - Empieza por pistas cortas y fáciles y amplía a partir de las letras cruzadas.

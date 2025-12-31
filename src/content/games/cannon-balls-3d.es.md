@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: cannon-balls-3d
-title: "Cannon Balls 3D"
+title: Cannon Balls 3D
 description: >-
   ¡Apunta y fuego! Demuele estructuras con tu cañón en este satisfactorio puzle
   3D de físicas. Busca los puntos débiles y administra bien tu munición limitada
@@ -28,6 +28,7 @@ saber identificar los puntos estructurales débiles para provocar el máximo
 colapso con el mínimo de disparos.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Analiza la estructura:** Antes de disparar, tómate un momento para estudiar

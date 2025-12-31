@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: maze-puzzle
-title: "Maze Puzzle - Laberintos compactos con llaves y guardianes"
+title: Maze Puzzle - Laberintos compactos con llaves y guardianes
 description: >-
-  Maze Puzzle es un runner de laberintos limpio: traza la ruta más corta,
-  tienta a los guardias patrullando y llega a la salida con todas las llaves
-  antes de que se acabe el tiempo.
+  Maze Puzzle es un runner de laberintos limpio: traza la ruta más corta, tienta
+  a los guardias patrullando y llega a la salida con todas las llaves antes de
+  que se acabe el tiempo.
 iframeSrc: 'https://3931uc3bsois0.h5games.usercontent.goog/v/7nvm8etm546uo/'
 thumbnail: /new-images/thumbnails/maze-puzzle.png
 tags:
@@ -27,6 +27,7 @@ mínimas que recojan las llaves en un orden eficiente mientras evitas callejones
 sin salida y conos de visión enemigos.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Orden de llaves: planifica un orden que reduzca al máximo los

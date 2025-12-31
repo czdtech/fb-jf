@@ -28,6 +28,7 @@ fantasma y una casa encantada), así que tendrás que combinar lógica con
 pensamiento lateral.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Empieza por las parejas evidentes:** Recorre rápidamente las columnas en

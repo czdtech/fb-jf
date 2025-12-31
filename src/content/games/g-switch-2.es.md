@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: g-switch-2
-title: "G-Switch 2"
+title: G-Switch 2
 description: >-
   Secuela del runner de cambio de gravedad: corre en solitario o en multijugador
   local, invierte la gravedad para esquivar trampas mientras la velocidad se
@@ -37,6 +37,7 @@ obstáculos y carreras multijugador.
 - Una sola tecla o toque para invertir la gravedad; en versus cada jugador
   tiene su propia tecla.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Mantén un ritmo de pulsaciones estable; dos cambios rápidos pueden corregir

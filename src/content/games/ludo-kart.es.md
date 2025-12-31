@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: ludo-kart
-title: "Ludo Kart - Carrera de dados en tablero"
+title: Ludo Kart - Carrera de dados en tablero
 description: >-
-  Ludo Kart es un juego de mesa ligero de tirar dados y correr: lanza, mueve
-  tus fichas y sé el primero en llevarlas a casa.
+  Ludo Kart es un juego de mesa ligero de tirar dados y correr: lanza, mueve tus
+  fichas y sé el primero en llevarlas a casa.
 iframeSrc: 'https://35q41h2gp6dd8.h5games.usercontent.goog/v/6q7tggnmscsj8/'
 thumbnail: /new-images/thumbnails/ludo-kart.png
 tags:
@@ -26,6 +26,7 @@ todas tus fichas a casa antes que tus rivales. Las casillas seguras, las
 capturas y las tiradas afortunadas generan grandes giros en la partida.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Reparto de fichas: avanza varias fichas en paralelo para reducir el riesgo

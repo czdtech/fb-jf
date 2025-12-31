@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: differences-find-quest
-title: "Differences Find Quest"
+title: Differences Find Quest
 description: >-
   Differences Find Quest es un buscador de diferencias detallado: compara
   escenas con calma, marca las discrepancias y usa las pistas con cabeza.
@@ -26,6 +26,7 @@ número de diferencias como los ángulos engañosos y, a menudo, hay una ligera
 presión de tiempo.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Escaneo por zonas:** Divide mentalmente la imagen en 4–6 áreas y recorre

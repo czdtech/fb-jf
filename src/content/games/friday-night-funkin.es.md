@@ -1,11 +1,11 @@
 ---
 locale: es
 urlstr: friday-night-funkin
-title: "Friday Night Funkin'"
+title: Friday Night Funkin'
 description: >-
   Batallas rítmicas: acierta las notas al compás de la música contra distintos
-  rivales semana a semana; en dificultades altas se añaden patrones más
-  rápidos y notas largas exigentes.
+  rivales semana a semana; en dificultades altas se añaden patrones más rápidos
+  y notas largas exigentes.
 iframeSrc: 'https://html-classic.itch.zone/html/2876359-1077558/index.html'
 thumbnail: /new-images/thumbnails/friday-night-funkin.jpg
 tags:
@@ -38,6 +38,7 @@ tu oponente.
 
 - Flechas (o WASD) para pulsar las notas; Enter para navegar por los menús.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Aprende los patrones también por oído, no solo mirando las flechas.

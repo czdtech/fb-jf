@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: cat-sort-quest
-title: "Cat Sort Quest"
+title: Cat Sort Quest
 description: >-
   Cat Sort Quest es un acogedor puzle de ordenar por colores: mueve gatos entre
   posaderos, agrupa colores y administra con cuidado los pocos huecos libres.
@@ -27,6 +27,7 @@ conteniendo gatos de un solo color. Los pocos huecos libres hacen que el juego
 consista en gestionar huecos de reserva y pensar varios movimientos por adelantado.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Mantén un hueco de reserva libre:** Intenta conservar al menos un posadero vacío el

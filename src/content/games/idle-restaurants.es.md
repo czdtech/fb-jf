@@ -30,6 +30,7 @@ el flujo de trabajo contratando gerentes y expandir tu cadena abriendo nuevos y
 más rentables locales.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Flujo de un restaurante:** Entiende cómo se mueve el dinero. Los

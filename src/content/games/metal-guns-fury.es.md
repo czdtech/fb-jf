@@ -1,10 +1,10 @@
 ---
 locale: es
 urlstr: metal-guns-fury
-title: "Metal Guns Fury - Arcade run and gun explosivo"
+title: Metal Guns Fury - Arcade run and gun explosivo
 description: >-
-  Metal Guns Fury es un run and gun de estilo arcade: esquiva balas, gestiona
-  tu arsenal y atraviesa oleadas de enemigos con movimientos precisos.
+  Metal Guns Fury es un run and gun de estilo arcade: esquiva balas, gestiona tu
+  arsenal y atraviesa oleadas de enemigos con movimientos precisos.
 iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
 thumbnail: /new-images/thumbnails/metal-guns-fury.jpg
 tags:
@@ -27,6 +27,7 @@ munición marcan la diferencia entre una partida controlada y un caos de
 explosiones.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Prioridad de objetivos: derriba primero torretas y lanzacohetes; los

@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: minecraft
-title: "Minecraft"
+title: Minecraft
 description: >-
   Minecraft es un videojuego sandbox en el que exploras un mundo 3D de bloques
   generado de forma procedimental, recoges recursos, fabricas herramientas,
@@ -30,6 +30,7 @@ puedas crear y explorar libremente, con un grado de libertad muy alto. Entre
 sus modos principales se encuentran Supervivencia, Creativo, Aventura y
 Espectador.
 
+<!-- i18n:section:tips -->
 ### Estrategia de juego
 
 1.  **Recolección de recursos:** tala árboles, mina minerales, planta cultivos y

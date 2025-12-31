@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: carrom-clash
-title: "Carrom Clash"
+title: Carrom Clash
 description: >-
   Disfruta del clásico juego de mesa Carrom en tu dispositivo. Apunta el
   striker, emboca tus fichas y cubre a la reina para derrotar a tu rival en este
@@ -28,6 +28,7 @@ juego exige precisión, estrategia y buen dominio de los ángulos para superar a
 oponente y ser el primero en limpiar tus piezas.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Objetivo principal:** Ser el primer jugador en embocar todas tus fichas.

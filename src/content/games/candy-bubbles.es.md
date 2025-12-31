@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: candy-bubbles
-title: "Candy Bubbles"
+title: Candy Bubbles
 description: >-
   Entra en un mundo dulce y revienta burbujas de caramelo de colores. Apunta el
   cañón, combina tres o más y limpia el tablero en este encantador puzle de
@@ -28,6 +28,7 @@ reacciones en cadena muy satisfactorias, es un puzle relajante perfecto para
 todas las edades.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  **Apunta alto:** Como en cualquier buen juego de disparar burbujas, lo más efectivo es buscar

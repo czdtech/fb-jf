@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: match-puzzle-house
-title: "Match Puzzle House - Combina y reforma tu casa"
+title: Match Puzzle House - Combina y reforma tu casa
 description: >-
   Match Puzzle House combina partidas de mach-3 con decoración del hogar: cumple
   objetivos, gana estrellas y renueva habitaciones usando potenciadores con
@@ -26,6 +26,7 @@ usa las estrellas para decorar. Los potenciadores y las combinaciones entre
 ellos son la clave para superar los tableros más cargados.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### Estrategia y recorrido de juego
 
 1.  Control del centro: abre primero la zona central para ganar espacio de

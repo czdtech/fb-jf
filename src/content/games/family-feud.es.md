@@ -1,7 +1,7 @@
 ---
 locale: es
 urlstr: family-feud
-title: "Family Feud"
+title: Family Feud
 description: >-
   Family Feud es un concurso de encuestas: intenta adivinar las respuestas más
   populares que dio el público a distintas preguntas a lo largo de varias rondas
@@ -44,6 +44,7 @@ con preguntas a contrarreloj.
 - Usa las flechas o los elementos de la interfaz para navegar entre opciones,
   según la versión.
 
+<!-- i18n:section:tips -->
 ### Consejos
 
 - Piensa primero en categorías amplias y comunes (por ejemplo, "fruta", "coche",
