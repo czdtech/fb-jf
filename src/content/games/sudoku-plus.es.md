@@ -45,6 +45,8 @@ para principiantes como para jugadores avanzados que buscan una interfaz fluida.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `Enter` `click` `Click`
 
 - **Seleccionar casilla:** haz clic en cualquier casilla vacía.  
 - **Introducir número:** tras seleccionar, haz clic en un número del panel o
@@ -73,4 +75,5 @@ para principiantes como para jugadores avanzados que buscan una interfaz fluida.
     *   **R:** Sí. Muchos sudokus modernos, incluido este, tienen comprobación de
         errores para resaltar duplicados en fila, columna o caja, de modo que puedas
         corregir antes de seguir.
+
 

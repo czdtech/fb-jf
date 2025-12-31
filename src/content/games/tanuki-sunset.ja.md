@@ -31,7 +31,7 @@ Tanuki Sunsetは、レトロな80年代のビジュアルスタイルを持つ�
 <!-- i18n:section:controls -->
 ### 操作ガイド
 <!-- i18n:controls:keys -->
-- キー（整合）： `A` `D` `Left` `Right Arrow Keys` `Spacebar` `S` `Down Arrow Key` `W` `Up Arrow Key` `Esc`
+- キー（整合）： `A` `D` `Left` `Right Arrow Keys` `Spacebar` `S` `Down Arrow Key` `W` `Up Arrow Key` `Hold` `Esc`
 
  - **A/D または 左/右矢印：** 左右に傾く
  - **スペースバー：** ドリフト
@@ -56,4 +56,5 @@ Tanuki Sunsetは、レトロな80年代のビジュアルスタイルを持つ�
 **ゲームのスタイルは何ですか？**
 
 レトロな80年代のビジュアルと音楽を特徴としています。
+
 

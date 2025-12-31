@@ -33,6 +33,8 @@ Explora una tienda vintage repleta de curiosidades: encuentra objetos ocultos, e
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click`
 
 - Haz clic para recoger objetos; usa pellizco/zoom si está disponible; solicita pistas desde la interfaz cuando las necesites.
 
@@ -48,5 +50,6 @@ Explora una tienda vintage repleta de curiosidades: encuentra objetos ocultos, e
 - Q: ¿Me penalizan los errores?
   
   A: En muchas versiones, los clics erróneos restan tiempo del reloj, así que intenta hacer clic solo cuando estés seguro.
+
 
 

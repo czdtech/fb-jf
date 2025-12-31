@@ -29,6 +29,8 @@ Tile Journeyは、タイルを配置してパスを作成し、キャラクタ�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Click`
 
 
 操作はクリック/タップ中心で進められます。
@@ -57,3 +59,4 @@ Tile Journeyは、タイルを配置してパスを作成し、キャラクタ�
 
 <!-- i18n:faq:id=faq:tile-journey:q-are-there-powerups-a56519dd -->
     - **Q: ゲームの目的は何ですか？**
+

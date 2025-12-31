@@ -30,6 +30,8 @@ The Impossible Quizは、常識を覆すトリッキーで面白いクイズゲ�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse` `mouse` `click`
 
  - **マウス：** 答えをクリックして選択
 
@@ -47,5 +49,6 @@ The Impossible Quizは、常識を覆すトリッキーで面白いクイズゲ�
 **ヒントはありますか？**
 
 いいえ、これがゲームの挑戦です。試行錯誤で学びます。
+
 
 

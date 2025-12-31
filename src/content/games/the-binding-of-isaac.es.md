@@ -36,7 +36,7 @@ Cada partida en el sótano es distinta. Avanzas habitación por habitación, der
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `WASD` `Arrow Keys` `Spacebar` `Shift` `E` `Q`
+- Teclas (alineación)： `WASD` `Arrow Keys` `mouse` `Spacebar` `Shift` `E` `Q`
 
 - **Movimiento:** teclas WASD para desplazarte.
 - **Disparar lágrimas:** Flechas (o el ratón para apuntar en algunas versiones).
@@ -58,4 +58,5 @@ Al derrotar jefes, completar finales, superar desafíos específicos o alcanzar 
 **¿Es un juego difícil?**
 
 Sí. The Binding of Isaac es conocido por su curva de dificultad pronunciada. El éxito depende de aprender patrones de enemigos y jefes, entender cómo funcionan las sinergias de objetos y, en parte, de la suerte con las recompensas que te toquen en cada run.
+
 

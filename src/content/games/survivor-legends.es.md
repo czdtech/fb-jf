@@ -41,6 +41,8 @@ de área y control de masas y el radio de recogida de experiencia.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD`
 
 - Movimiento: WASD o flechas.  
 - Habilidades activas: teclas numéricas.  
@@ -58,4 +60,5 @@ de área y control de masas y el radio de recogida de experiencia.
 - **P: ¿Qué mejoras cojo primero?**  
   **R:** suele compensar subir primero radio de recogida/XP y luego centrarte en
   daño principal y supervivencia (vida, armadura, regeneración).
+
 

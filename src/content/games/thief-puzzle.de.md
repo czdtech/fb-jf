@@ -31,6 +31,8 @@ In Thief Puzzle steuerst du einen extrem dehnbaren Arm, mit dem du Gegenstände 
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag`
 
 - Ziehe mit der Maus oder dem Finger, um den Arm zu strecken.
 - Lass los, um den Arm samt Beute wieder zurückschnellen zu lassen.
@@ -44,5 +46,6 @@ In Thief Puzzle steuerst du einen extrem dehnbaren Arm, mit dem du Gegenstände 
 - Q: I trip alarms.
 <!-- i18n:faq:id=faq:thief-puzzle:timing-feels-tight-a5d830e2 -->
 **Warum löse ich ständig den Alarm aus?**
+
 
 

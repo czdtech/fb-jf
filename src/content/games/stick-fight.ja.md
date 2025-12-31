@@ -31,7 +31,7 @@ Stick Fightは、スティックマンキャラクターを使った激しい戦
 <!-- i18n:section:controls -->
 ### 操作ガイド
 <!-- i18n:controls:keys -->
-- キー（整合）： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left Mouse Button` `F` `Right Mouse Button` `G`
+- キー（整合）： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left` `Button` `F` `Right` `Button` `G`
 
 
 操作は一般的に2Dアクションの基本配置に近いです：
@@ -57,4 +57,5 @@ Stick Fightは、スティックマンキャラクターを使った激しい戦
 **どのような武器が利用できますか？**
 
 近接武器から銃まで、さまざまな武器が利用可能です。
+
 

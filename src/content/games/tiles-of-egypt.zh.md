@@ -30,6 +30,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click`
 
 游戏使用简单的点击或触摸操作。
 
@@ -51,4 +53,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:tiles-of-egypt:q-what-happens-if-my-43071f48 -->
 *   **问：如果收集托盘满了会怎样？**
     *   **答：** 如果托盘中的所有槽位都被填满且你无法组成三个一组，你就被阻塞了，游戏失败。你必须重新开始该关卡。
+
 

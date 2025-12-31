@@ -32,6 +32,8 @@ Tic Tac Toe Mania modernisiert „Drei gewinnt“ mit cleanem Look und spannende
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click`
 
 - Klicke auf ein freies Feld, um dein Symbol zu setzen. Lokaler 2‑Spieler‑Modus ist üblich, viele Versionen bieten zusätzlich verschiedene KI‑Schwierigkeitsgrade.
 
@@ -47,3 +49,4 @@ Tic Tac Toe Mania modernisiert „Drei gewinnt“ mit cleanem Look und spannende
 - Q: Was ist der beste erste Zug?
   
   A: In der Regel zuerst die Mitte, danach eine Ecke. So hast du die meisten Optionen für Gabeln und Gewinnlinien.
+

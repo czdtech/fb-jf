@@ -30,7 +30,7 @@ Der Kern des Gameplays besteht darin, Umgebungsrätsel zu lösen, um voranzukomm
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `WASD` `Arrow Keys` `Left Mouse Button`
+- Tasten (Abgleich)： `WASD` `Arrow Keys` `Left` `Button` `click`
 
 - **Bewegung:** WASD oder Pfeiltasten, um deine Figur zu steuern.
 - **Interaktion:** Linke Maustaste, um Objekte anzuklicken, Schalter zu betätigen und Rätseloberflächen zu bedienen.
@@ -49,3 +49,4 @@ Ja, auch wenn die Erzählung eher subtil bleibt. Durch Umgebungsdetails und Fort
 **Ist das Spiel schwer?**
 
 Der Schwierigkeitsgrad reicht von recht zugänglich bis hin zu knifflig. Wenn du aufmerksam beobachtest, experimentierst und dir Zeit nimmst, lassen sich die meisten Rätsel ohne externe Hilfe lösen.
+

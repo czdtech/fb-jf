@@ -28,6 +28,8 @@ Le principe est simple : à différents moments de l’histoire, tu dois choisir
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `mouse` `click`
 
 - **Souris :** clique sur l’option que tu veux choisir.
 
@@ -49,4 +51,5 @@ Les nombreux écrans d’échec font partie du charme du jeu. Trouver les 40+ fa
 **Est‑ce que ça fait partie d’une série ?**
 
 Oui. Stealing the Diamond est le troisième jeu de la série Henry Stickmin, après *Breaking the Bank* et *Escaping the Prison*.
+
 

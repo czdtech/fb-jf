@@ -30,7 +30,7 @@ Super Smash Flash 是一款传奇的同人制作格斗游戏，灵感来自官�
 <!-- i18n:section:controls -->
 ### 操作指南
 <!-- i18n:controls:keys -->
-- 按键（对齐）： `O` `P` `A` `S` `D` `W` `F` `G` `Backspace`
+- 按键（对齐）： `Arrow Keys` `O` `P` `A` `S` `D` `W` `F` `G` `Backspace`
 
 游戏可以两人在同一键盘上对战。
 - **玩家1：**
@@ -57,4 +57,5 @@ Super Smash Flash 是一款传奇的同人制作格斗游戏，灵感来自官�
 **这是任天堂的官方游戏吗？**
 
 不是，Super Smash Flash 是由 McLeodGaming 创作的非营利性同人项目。它是对任天堂明星大乱斗系列的致敬。
+
 

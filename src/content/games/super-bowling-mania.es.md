@@ -47,6 +47,8 @@ de los bolos en cualquier momento.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `hold` `mouse` `mouse`
 
 - **Apuntar:** mueve el ratón a izquierda o derecha para ajustar tu posición y
   la dirección inicial del tiro.  
@@ -76,4 +78,5 @@ de los bolos en cualquier momento.
         potencia y efecto que funcione para ti e intenta repetirla. Apuntar al
         pocket (justo a un lado del bolo delantero) suele ser la estrategia más
         efectiva.
+
 

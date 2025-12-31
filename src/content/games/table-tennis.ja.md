@@ -29,6 +29,8 @@ Table Tennisは、クラシックな卓球（ピンポン）をデジタル化�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse` `mouse` `mouse` `click`
 
  - **マウス/矢印キー：** パドルを上下に移動
 
@@ -54,3 +56,4 @@ Table Tennisは、クラシックな卓球（ピンポン）をデジタル化�
 
 <!-- i18n:faq:id=faq:table-tennis:q-what-is-the-winning-84866485 -->
     - **Q: どうやって得点しますか？**
+

@@ -32,7 +32,7 @@ releaseDate: 2025-08-16
 <!-- i18n:section:controls -->
 ### 操作说明
 <!-- i18n:controls:keys -->
-- 按键（对齐）： `WASD` `Arrow Keys` `Left Mouse Button`
+- 按键（对齐）： `WASD` `Arrow Keys` `Left` `Button` `click`
 
 *   **移动视角与行走：** 使用鼠标控制视角，用 WASD 或方向键控制移动；
 *   **互动：** 靠近机关、按钮或石柱时按互动键进行查看与操作；
@@ -52,4 +52,5 @@ releaseDate: 2025-08-16
 谜题难度从入门到颇具挑战都有，需要你认真思考，有时也要通过试错来验证思路。
 
 **游戏难度大吗？**
+
 

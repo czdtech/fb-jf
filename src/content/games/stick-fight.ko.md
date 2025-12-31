@@ -40,7 +40,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### 조작 방법
 <!-- i18n:controls:keys -->
-- 키(정렬)： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left Mouse Button` `F` `Right Mouse Button` `G`
+- 키(정렬)： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left` `Button` `F` `Right` `Button` `G`
 
 일반적인 2D 플랫폼 액션 게임과 비슷한 조작을 사용합니다.
 - **이동:** A / D 또는 좌우 방향키
@@ -62,4 +62,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 **Q: 어떤 종류의 무기가 등장하나요?**  
 > 검과 창 같은 근접 무기부터, 권총·샷건·레이저 총, 심지어 뱀을 발사하는 바주카
 > 등 다양한 개성 강한 무기가 등장해, 매 라운드마다 전투 양상이 크게 달라집니다.
+
 

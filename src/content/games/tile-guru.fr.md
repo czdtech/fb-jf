@@ -32,6 +32,8 @@ Tile Guru utilise la formule du plateau à triple match : prends des tuiles dans
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click`
 
 -   Clique sur les tuiles pour les ajouter au plateau ; trois du même type s'effacent ; indices/mélanges via l'interface.
 
@@ -45,4 +47,5 @@ Tile Guru utilise la formule du plateau à triple match : prends des tuiles dans
 <!-- i18n:faq:id=faq:tile-guru:which-tiles-first-6dd9b763 -->
 -   **Q : Quelles tuiles prendre en premier ?**
     **R :** Les tuiles exposées, peu profondes, qui n'enterreront pas leurs partenaires.
+
 

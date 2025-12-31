@@ -33,6 +33,8 @@ Thruline te demande de tracer un chemin continu qui visite tous les noeuds requi
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag`
 
 -   Glisse pour dessiner ; annuler/effacer via l interface ; certaines versions montrent les conflits.
 
@@ -46,4 +48,5 @@ Thruline te demande de tracer un chemin continu qui visite tous les noeuds requi
 <!-- i18n:faq:id=faq:thruline:are-crossings-legal-f8260708 -->
 -   **Q : Les croisements sont-ils legaux ?**
     **R :** Seulement sur les ponts marques.
+
 

@@ -33,6 +33,8 @@ Tiletopia ist ein ruhiges, kreatives Städtebau‑Puzzle, in dem du mit sechseck
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `drag` `drop` `space` `click`
 
 - **Kachel platzieren:** Ziehe eine Kachel aus deinem Stapel und setze sie auf ein freies, angrenzendes Feld.
 - **Kachel drehen:** In den meisten Versionen kannst du Kacheln vor dem Platzieren per Klick oder Taste drehen, um die Kanten besser anzupassen.
@@ -56,4 +58,5 @@ Tiletopia ist ein ruhiges, kreatives Städtebau‑Puzzle, in dem du mit sechseck
     *   **A:** Das passiert normalerweise nicht, weil fast immer irgendwo ein
         gültiger Platz existiert. Eine unglückliche Platzierung kann aber Quests
         blockieren – plane also vor dem Setzen.
+
 

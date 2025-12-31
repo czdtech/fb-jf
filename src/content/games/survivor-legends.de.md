@@ -32,6 +32,8 @@ Survivor Legends folgt dem bekannten Auto‑Attack‑Survivor‑Prinzip: Deine W
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD`
 
 - **Bewegen:** WASD oder Pfeiltasten
 - **Aktive Fähigkeiten:** Zifferntasten (abhängig vom Build)
@@ -47,4 +49,5 @@ Survivor Legends folgt dem bekannten Auto‑Attack‑Survivor‑Prinzip: Deine W
 <!-- i18n:faq:id=faq:survivor-legends:which-upgrades-first-03b66ce2 -->
 - **Was zuerst upgraden?**  
   Oft sind Pickup‑Radius/XP‑Bonus, dann Kernschaden und Überlebenswerte (HP, Rüstung) ein guter Start.
+
 

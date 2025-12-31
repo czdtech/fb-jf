@@ -31,6 +31,8 @@ Sushi Grab spielt an einem laufenden Sushi‑Band: Du siehst verschiedene Teller
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `tap`
 
 - **Auswählen:** Per Klick/Tap das passende Sushi auf dem Band antippen.
 - Pause/Neustart über die UI.
@@ -49,4 +51,5 @@ Sushi Grab spielt an einem laufenden Sushi‑Band: Du siehst verschiedene Teller
 <!-- i18n:faq:id=faq:sushi-grab:fixed-patterns-a32756e9 -->
 - **Laufen die Muster immer gleich?**  
   Viele Versionen nutzen Schleifen oder Muster. Wenn du sie erkennst, kannst du Bestellungen effizienter bedienen.
+
 

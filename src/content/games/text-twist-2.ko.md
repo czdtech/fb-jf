@@ -48,7 +48,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### 조작 방법
 <!-- i18n:controls:keys -->
-- 키(정렬)： `Enter` `Spacebar` `Backspace`
+- 키(정렬)： `Press` `Enter` `Click` `press` `Spacebar` `Click` `press` `Backspace`
 
 - **입력:** 키보드로 단어를 직접 타이핑합니다.
 - **단어 제출:** Enter 키를 눌러 단어를 제출합니다.
@@ -69,4 +69,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 **Q: 오프라인에서도 플레이할 수 있나요?**  
 > 일부 버전은 다운로드 후 인터넷 연결 없이도 즐길 수 있으며, 이동 중 가볍게 두뇌
 > 운동을 하기 좋습니다.
+
 

@@ -33,6 +33,8 @@ Subway Jumper spielt sich wie ein klassischer Endless‑Runner auf drei Spuren. 
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Space`
 
 - **Spur wechseln:** A / D oder Links / Rechts
 - **Springen:** Leertaste oder Pfeil nach oben
@@ -49,4 +51,5 @@ Subway Jumper spielt sich wie ein klassischer Endless‑Runner auf drei Spuren. 
 <!-- i18n:faq:id=faq:subway-jumper:is-speed-adjustable-114d7305 -->
 - **Kann ich die Geschwindigkeit beeinflussen?**  
   In vielen Builds steigt das Tempo automatisch. Konzentriere dich auf saubere Eingaben – mit der Zeit gewöhnt sich dein Auge an die höhere Geschwindigkeit.
+
 

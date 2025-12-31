@@ -31,6 +31,8 @@ The Hidden Antique Shopは、美しく詳細なアンティークショップを
 - コントラストの見分け：目を細めたり拡大したりして、わずかな差を探します。
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Click`
 
  - **マウス：** クリックして隠されたオブジェクトを選択
 
@@ -42,5 +44,6 @@ The Hidden Antique Shopは、美しく詳細なアンティークショップを
 - Q: 最後の1つが見つかりません。
 <!-- i18n:faq:id=faq:the-hidden-antique-shop:do-mistakes-penalize-199191ba -->
 **ゲームの目標は何ですか？**
+
 
 

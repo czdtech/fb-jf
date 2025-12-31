@@ -34,6 +34,8 @@ Explore une boutique vintage pleine de curiosites : trouve des objets caches, fa
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click`
 
 -   Clique pour collecter ; pince ou zoome si supporte ; indices via l interface.
 
@@ -47,4 +49,5 @@ Explore une boutique vintage pleine de curiosites : trouve des objets caches, fa
 <!-- i18n:faq:id=faq:the-hidden-antique-shop:do-mistakes-penalize-199191ba -->
 -   **Q : Les erreurs penalisent-elles ?**
     **R :** Beaucoup de versions retirent du temps pour les mauvais clics ; clique deliberement.
+
 

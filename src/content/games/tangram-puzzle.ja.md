@@ -31,6 +31,8 @@ Tangram Puzzleは、7つの幾何学的ピース（タングラム）を使っ�
 - 反転の扱い：反転が禁止されている場合は、回転で近い形を作れるか試します。
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Drag`
 
  - **マウス：** ピースをドラッグして移動と回転
 
@@ -42,5 +44,6 @@ Tangram Puzzleは、7つの幾何学的ピース（タングラム）を使っ�
 - Q: どうしても隙間が残ります。
 <!-- i18n:faq:id=faq:tangram-puzzle:are-flips-legal-685c999a -->
 **ゲームの目標は何ですか？**
+
 
 

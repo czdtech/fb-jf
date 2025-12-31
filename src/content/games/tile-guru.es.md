@@ -31,6 +31,8 @@ Tile Guru utiliza la fórmula clásica de bandeja para tríos: seleccionas ficha
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click`
 
 - Haz clic en una ficha para enviarla a la bandeja; cuando haya tres iguales, se eliminan automáticamente.
 - Utiliza los botones de pista, deshacer o barajar desde la interfaz si la versión los ofrece.
@@ -45,5 +47,6 @@ Tile Guru utiliza la fórmula clásica de bandeja para tríos: seleccionas ficha
 <!-- i18n:faq:id=faq:tile-guru:which-tiles-first-6dd9b763 -->
 - **Q: ¿Qué fichas debería coger primero?**  
   **A:** Las más expuestas y poco profundas, que al retirarlas liberen otras fichas sin bloquear sus parejas.
+
 
 

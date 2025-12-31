@@ -32,6 +32,8 @@ In Thruline sollst du einen einzigen, ununterbrochenen Pfad zeichnen, der alle b
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag`
 
 - Ziehe mit gedrückter Maustaste eine Linie über das Gitter; Rückgängig‑ und Löschen‑Funktionen erreichst du über die UI, manche Versionen markieren Konflikte automatisch.
 
@@ -47,3 +49,4 @@ In Thruline sollst du einen einzigen, ununterbrochenen Pfad zeichnen, der alle b
 - Q: Darf ich Linien kreuzen?
   
   A: Nur an gekennzeichneten Brückenfeldern. Alle anderen Kreuzungen sind nicht erlaubt und werden als Konflikt gewertet.
+

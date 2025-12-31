@@ -33,6 +33,8 @@ The Jigsaw Game est une experience de puzzle numerique classique avec des images
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag`
 
 -   Glisse pour deplacer les pieces ; tourne si le mode le supporte.
 -   Zoome et deplace via les controles de l'interface ou les gestes.
@@ -47,4 +49,5 @@ The Jigsaw Game est une experience de puzzle numerique classique avec des images
 -   **Puis-je changer le nombre de pieces ?** Generalement oui ; choisis une difficulte adaptee a la duree de ta session.
 <!-- i18n:faq:id=faq:the-jigsaw-game:any-photo-variety-5449029a -->
 -   **Variete de photos ?** Habituellement des paysages, animaux et themes saisonniers.
+
 

@@ -33,6 +33,8 @@ Tiles of Egypt est un puzzle strategique de match de tuiles par trois avec un th
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click`
 
 Le jeu se joue avec de simples clics ou taps.
 
@@ -52,4 +54,5 @@ Le jeu se joue avec de simples clics ou taps.
 <!-- i18n:faq:id=faq:tiles-of-egypt:q-what-happens-if-my-43071f48 -->
 *   **Q : Que se passe-t-il si mon plateau de collection est plein ?**
     *   **R :** Si tous les emplacements sont remplis et que tu ne peux pas faire de match de trois, tu es bloque et tu perds. Tu dois alors recommencer le niveau.
+
 

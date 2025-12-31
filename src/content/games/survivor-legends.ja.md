@@ -31,6 +31,8 @@ Survivor Legendsは、過酷な環境で生き残るサバイバル戦略ゲー�
 - 必殺技の使い所：危険な波（ウェーブ）や強敵が来る場面に合わせて温存します。
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD`
 
  - **WASD：** 移動
  - **マウス：** 相互作用と建設
@@ -44,5 +46,6 @@ Survivor Legendsは、過酷な環境で生き残るサバイバル戦略ゲー�
 - Q: 追い詰められて動けなくなります。
 <!-- i18n:faq:id=faq:survivor-legends:which-upgrades-first-03b66ce2 -->
 **ゲームの目標は何ですか？**
+
 
 

@@ -31,6 +31,8 @@ Tiger Run ist ein geradliniger Endless‑Runner im Dschungel. Du rennst automati
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Space` `swipe`
 
 - **Spur wechseln:** A/D oder Links/Rechts, um zwischen den Bahnen zu wechseln.
 - **Springen/Rutschen:** Leertaste oder Pfeil nach oben zum Springen; Pfeil nach unten (oder Wischgesten auf Mobilgeräten) zum Rutschen.
@@ -50,3 +52,4 @@ Tiger Run ist ein geradliniger Endless‑Runner im Dschungel. Du rennst automati
 <!-- i18n:faq:id=faq:tiger-run:is-there-a-finish-6f08d6d4 -->
 - **Gibt es ein Ziel?**  
   Meist handelt es sich um einen echten Endless‑Runner – dein Ziel ist ein immer höherer Highscore und längere Laufstrecken.
+

@@ -39,7 +39,7 @@ Das Grundprinzip bleibt gleich: Bilde Wörter aus den vorgegebenen Buchstaben.
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `Enter` `Spacebar` `Backspace`
+- Tasten (Abgleich)： `Press` `Enter` `Click` `press` `Spacebar` `Click` `press` `Backspace`
 
 - **Eingabe:** Tippe Wörter direkt über die Tastatur ein.
 - **Wort bestätigen:** Drücke Enter, um ein Wort einzureichen.
@@ -60,4 +60,5 @@ Ja, in den meisten Standard‑Modi musst du ein Bingo‑Wort (ein Wort mit allen
 **Kann ich das Spiel offline spielen?**
 
 Viele Versionen von Text Twist 2 gibt es als Download oder App. Diese kannst du auch ohne Internetverbindung spielen und hast so ein perfektes Worträtsel für unterwegs.
+
 

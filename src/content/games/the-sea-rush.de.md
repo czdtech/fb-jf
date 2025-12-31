@@ -33,6 +33,8 @@ Nutze Mausklicks oder Wischgesten, um zwei benachbarte Tiere zu tauschen. Entste
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `Click` `Swipe`
 
 - **Maus:** Klicke auf zwei angrenzende Meeresbewohner, um sie zu vertauschen.
 - **Touch:** Wische auf dem Bildschirm, um zwei Symbole zu tauschen.
@@ -51,4 +53,5 @@ Nutze Mausklicks oder Wischgesten, um zwei benachbarte Tiere zu tauschen. Entste
     *   **A:** Richte deinen Blick auf Kombinationen aus vier oder mehr gleichen
         Symbolen und auf Kettenreaktionen. Solche Züge erzeugen Power‑Ups und
         liefern deutlich höhere Punktzahlen als einfache Dreiermatches.
+
 

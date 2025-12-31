@@ -32,6 +32,8 @@ et gères des bonus, le tout dans un métro bondé.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Space`
 
 - A/D ou Gauche/Droite pour changer de voie  
 
@@ -47,4 +49,5 @@ A: Jump a touch later and center after passes.
 
 
 A: Many builds ramp speed automatically; focus on clean inputs.
+
 

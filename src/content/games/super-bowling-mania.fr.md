@@ -29,6 +29,8 @@ Super Bowling Mania apporte l'expérience classique du bowling à dix quilles su
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `hold` `mouse` `mouse`
 
 *   **Viser :** déplace la souris à gauche ou à droite pour ajuster ta position et la direction initiale de ton lancer.
 *   **Puissance et lancer :** clique et maintiens le bouton de la souris pour démarrer l'indicateur de puissance. Relâche le bouton au niveau de puissance désiré pour lancer la boule.
@@ -48,4 +50,5 @@ Super Bowling Mania apporte l'expérience classique du bowling à dix quilles su
 <!-- i18n:faq:id=faq:super-bowling-mania:q-how-do-i-get-b98f9727 -->
 *   **Q : Comment obtenir plus de strikes ?**
     *   **R :** La clé pour obtenir des strikes est la régularité. Trouve une position de départ, un niveau de puissance et un effet qui fonctionnent pour toi et essaie de les reproduire. Viser la "poche" juste à côté de la quille de tête est généralement la stratégie la plus efficace.
+
 

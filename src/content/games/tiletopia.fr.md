@@ -34,6 +34,8 @@ Tiletopia est un jeu de puzzle de construction de ville paisible et créatif où
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `drag` `drop` `space` `click`
 
 *   **Placer une tuile :** Clique et fais glisser une tuile de ta pile et dépose-la sur un espace vide valide adjacent à une tuile existante.
 *   **Tourner une tuile :** Dans la plupart des versions, tu peux cliquer sur la tuile dans la pile pour la tourner avant de la placer.
@@ -52,4 +54,5 @@ Tiletopia est un jeu de puzzle de construction de ville paisible et créatif où
 <!-- i18n:faq:id=faq:tiletopia:q-what-happens-if-i-68e094f8 -->
 *   **Q : Que se passe-t-il si je ne peux placer une tuile nulle part ?**
     *   **R :** Cela n'arrive généralement pas, car il y aura presque toujours un emplacement valide. Cependant, une tuile mal placée peut t'empêcher de compléter une quête, alors réfléchis bien avant de placer !
+
 

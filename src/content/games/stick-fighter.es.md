@@ -45,7 +45,7 @@ acabando con su barra de vida.
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left Mouse Button` `F` `Right Mouse Button` `G`
+- Teclas (alineación)： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left` `Button` `F` `Right` `Button` `G`
 
 Controles típicos de plataformas 2D:
 - **Mover:** A y D o flechas izquierda/derecha.
@@ -68,4 +68,5 @@ para 2–4 jugadores.
 **¿Qué tipo de armas incluye?**  
 Desde armas cuerpo a cuerpo como espadas y lanzas hasta armas de fuego y gadgets
 más locos; el arsenal es amplio y cambia por completo el ritmo de cada ronda.
+
 

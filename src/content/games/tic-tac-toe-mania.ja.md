@@ -31,6 +31,8 @@ Tic Tac Toe Maniaは、クラシックな三目並べゲームに新しいモー
 - 変則ルール：盤面が大きい場合は、角の先取りよりも伸びやすいラインを意識します。
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Click`
 
  - **マウス：** マスをクリックして配置
 
@@ -42,5 +44,6 @@ Tic Tac Toe Maniaは、クラシックな三目並べゲームに新しいモー
 - Q: 3×3は必ず引き分けになりますか？
 <!-- i18n:faq:id=faq:tic-tac-toe-mania:best-first-move-64c2de4e -->
 **ゲームの目標は何ですか？**
+
 
 

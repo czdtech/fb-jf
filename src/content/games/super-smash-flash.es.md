@@ -44,7 +44,7 @@ con los golpes.
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `O` `P` `A` `S` `D` `W` `F` `G` `Backspace`
+- Teclas (alineación)： `Arrow Keys` `O` `P` `A` `S` `D` `W` `F` `G` `Backspace`
 
 Puedes jugar hasta dos personas en el mismo teclado.
 - **Jugador 1:**  
@@ -72,4 +72,5 @@ para descubrir todo el moveset de tu personaje.
 **¿Es un juego oficial de Nintendo?**  
 No. Super Smash Flash es un proyecto fan sin ánimo de lucro creado por
 McLeodGaming, un homenaje a la saga Super Smash Bros.
+
 

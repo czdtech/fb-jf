@@ -40,6 +40,8 @@ tiempo.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `tap`
 
 - Seleccionar sushi: haz clic o toca sobre el plato correcto en la cinta.  
 - Pausa/reintento: botones de la interfaz.
@@ -60,4 +62,5 @@ tiempo.
 - **P: ¿La cinta sigue patrones fijos?**  
   **R:** muchas veces los platos se repiten en bucle; si memorizas patrones,
   podrás anticiparte mejor.
+
 

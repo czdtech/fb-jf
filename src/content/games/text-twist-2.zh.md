@@ -37,7 +37,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### 操作说明
 <!-- i18n:controls:keys -->
-- 按键（对齐）： `Enter` `Spacebar` `Backspace`
+- 按键（对齐）： `Press` `Enter` `Click` `press` `Spacebar` `Click` `press` `Backspace`
 
 - **输入单词：** 直接使用键盘输入你想到的英文单词；
 - **提交单词：** 输入完成后按 Enter 提交；
@@ -55,3 +55,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 **问：是否有不同难度？****
 答：** 随着关卡推进，要求拼出的单词数量和复杂度都会逐渐提升，对单词量和反应速度的要求也会越来越高。
+

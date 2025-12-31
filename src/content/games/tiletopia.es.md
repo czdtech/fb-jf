@@ -33,6 +33,8 @@ Tiletopia es un tranquilo juego de construcción y puzles en el que creas paisaj
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `drag` `drop` `space` `click`
 
 *   **Colocar loseta:** haz clic y arrastra una loseta desde tu pila hasta un hueco válido junto a una loseta ya colocada.
 *   **Rotar loseta:** en la mayoría de versiones, puedes hacer clic sobre la loseta en la pila para girarla antes de colocarla en el tablero.
@@ -51,4 +53,5 @@ Tiletopia es un tranquilo juego de construcción y puzles en el que creas paisaj
 <!-- i18n:faq:id=faq:tiletopia:q-what-happens-if-i-68e094f8 -->
 *   **Q: ¿Qué pasa si no puedo colocar una loseta en ningún sitio?**
     *   **A:** Normalmente no ocurre porque casi siempre hay un hueco válido. Aun así, una loseta mal colocada puede impedir completar una misión, así que piensa bien antes de soltarla.
+
 

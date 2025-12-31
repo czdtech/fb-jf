@@ -41,6 +41,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `Click`
 
 - 빈 칸을 클릭해 자신의 표시(X나 O)를 놓습니다. 로컬 2인용 또는 다양한 난이도의 AI와
   대결할 수 있는 모드가 일반적입니다.
@@ -56,4 +58,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:tic-tac-toe-mania:best-first-move-64c2de4e -->
 - **Q: 가장 좋은 첫 수는 무엇인가요?**  
   **A:** 선공 기준으로 중앙이 가장 좋고, 다음으로 코너가 유리합니다.
+
 

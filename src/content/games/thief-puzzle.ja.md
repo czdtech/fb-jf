@@ -31,6 +31,8 @@ Thief Puzzleは、伸びる腕を持つ泥棒を操作して、さまざまな�
 - 連続回収：安全に取れるものは、引き戻す前にまとめて狙います。
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Drag`
 
  - **マウス：** ドラッグして腕の経路を描く
 
@@ -42,5 +44,6 @@ Thief Puzzleは、伸びる腕を持つ泥棒を操作して、さまざまな�
 - Q: アラームが鳴ってしまいます。
 <!-- i18n:faq:id=faq:thief-puzzle:timing-feels-tight-a5d830e2 -->
 **ゲームの目標は何ですか？**
+
 
 

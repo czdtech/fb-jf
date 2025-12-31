@@ -31,6 +31,8 @@ Sudoku Plus offre une expérience premium pour le puzzle de logique intemporel b
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `Enter` `click` `Click`
 
 *   **Sélectionner une case :** clique sur n'importe quelle case vide dans la grille.
 *   **Entrer un chiffre :** après avoir sélectionné une case, clique sur un chiffre du pavé numérique à l'écran pour le placer.
@@ -52,4 +54,5 @@ Sudoku Plus offre une expérience premium pour le puzzle de logique intemporel b
 <!-- i18n:faq:id=faq:sudoku-plus:q-will-the-game-tell-928da71e -->
 *   **Q : Le jeu me dira-t-il si je fais une erreur ?**
     *   **R :** Oui, la plupart des jeux de Sudoku modernes, y compris celui-ci, ont une fonction de vérification d'erreurs qui surlignera les chiffres en double dans une ligne, colonne ou carré, te permettant de corriger ton erreur.
+
 

@@ -32,6 +32,8 @@ Tic Tac Toe Mania actualiza el clásico juego de tres en raya con un aspecto lim
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click`
 
 - Haz clic en una casilla vacía para colocar tu marca; el juego suele ofrecer modo local para 2 jugadores y diferentes niveles de dificultad contra la IA.
 
@@ -47,5 +49,6 @@ Tic Tac Toe Mania actualiza el clásico juego de tres en raya con un aspecto lim
 - Q: ¿Cuál es el mejor primer movimiento?  
   
   A: El centro es el movimiento inicial más fuerte en 3×3, seguido de las esquinas.
+
 
 

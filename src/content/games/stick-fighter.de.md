@@ -34,7 +34,7 @@ Das Ziel in jeder Runde ist es, deine Gegner zu eliminieren, indem du sie aus de
 <!-- i18n:section:controls -->
 ### Steuerungsanleitung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left Mouse Button` `F` `Right Mouse Button` `G`
+- Tasten (Abgleich)： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left` `Button` `F` `Right` `Button` `G`
 
 Die Steuerung basiert typischerweise auf einem Standard-2D-Platformer-Layout:
 - **Bewegen:** A und D oder Links/Rechts Pfeiltasten
@@ -57,4 +57,5 @@ Ja, Stick Fight ist primär ein Multiplayer-Spiel und unterstützt oft sowohl lo
 **Welche Waffen gibt es im Spiel?**
 
 Das Spiel bietet ein riesiges Arsenal an Waffen, von Nahkampfwaffen wie Schwertern und Speeren bis hin zu Projektilwaffen wie Pistolen, Schrotflinten und sogar Bazookas, die Schlangen abfeuern.
+
 

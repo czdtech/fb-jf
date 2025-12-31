@@ -35,6 +35,8 @@ Stealing the Diamond는 Henry Stickmin 시리즈의 고전 인터랙티브 어�
 
 <!-- i18n:section:controls -->
 ### 조작 방법 안내
+<!-- i18n:controls:keys -->
+- 키(정렬)： `Mouse` `mouse` `click`
 
 - **마우스:** 선택하고 싶은 옵션을 클릭하면 됩니다.
 
@@ -58,4 +60,5 @@ Stealing the Diamond에는 세 가지 성공 엔딩이 있습니다.
 
 네. Stealing the Diamond는 Henry Stickmin 시리즈의 세 번째 작품으로,
 앞에는 *Breaking the Bank*, *Escaping the Prison*이 있습니다.
+
 

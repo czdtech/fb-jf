@@ -45,7 +45,7 @@ El núcleo del juego gira en torno a gestionar recursos y comandar a tu ejércit
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `A` `D` `Spacebar`
+- Teclas (alineación)： `Mouse` `click` `A` `D` `Spacebar`
 
 - **Ratón:** seleccionar unidades, entrenar soldados y dar órdenes.
 - **Movimiento (controlando una unidad):** teclas A y D.
@@ -69,4 +69,5 @@ y Magikill son unidades de late game capaces de decidir grandes batallas.
 Es muy recomendable invertir los primeros puntos en las bolsas de tus Miners y
 en la generación de oro de tu estatua. A partir de ahí, mejora las unidades que
 uses con más frecuencia.
+
 

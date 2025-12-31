@@ -32,6 +32,8 @@ Tile Guru nutzt das bekannte Triple‑Match‑Tablett‑Prinzip: Du nimmst Kache
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click`
 
 - Klicke auf Kacheln, um sie ins Tablett zu legen; Drillinge verschwinden automatisch. Hinweise, Misch‑Funktionen und andere Power‑ups erreichst du über die UI.
 
@@ -45,3 +47,4 @@ Tile Guru nutzt das bekannte Triple‑Match‑Tablett‑Prinzip: Du nimmst Kache
 <!-- i18n:faq:id=faq:tile-guru:which-tiles-first-6dd9b763 -->
 - **Welche Kacheln sollte ich zuerst nehmen?**  
   Bevorzuge freiliegende, flache Kacheln, die beim Wegnehmen keine wichtigen Partner tief vergraben – so behältst du Kontrolle über das Feld.
+

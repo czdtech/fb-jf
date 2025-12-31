@@ -31,6 +31,8 @@ The Sea Rushは、美しい海をテーマにしたエンドレスランナー�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse` `Click` `Swipe`
 
  - **上矢印/W：** ジャンプ
  - **下矢印/S：** スライド
@@ -49,3 +51,4 @@ The Sea Rushは、美しい海をテーマにしたエンドレスランナー�
 
 <!-- i18n:faq:id=faq:the-sea-rush:q-how-do-i-get-62133937 -->
     - **Q: ゲームの目的は何ですか？**
+

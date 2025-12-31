@@ -33,7 +33,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### 操作说明
 <!-- i18n:controls:keys -->
-- 按键（对齐）： `WASD` `Arrow Keys` `Spacebar` `Shift` `E` `Q`
+- 按键（对齐）： `WASD` `Arrow Keys` `mouse` `Spacebar` `Shift` `E` `Q`
 
 - **移动：** 使用 WASD 控制移动；
 - **射击（眼泪）：** 使用方向键进行四向射击（部分版本支持鼠标瞄准）；
@@ -52,5 +52,6 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 **问：游戏难吗？****
 答：** 《以撒的结合》以偏高的难度与陡峭学习曲线着称，需要你慢慢熟悉敌人攻击模式和道具效果，同时也看一点运气与出装。
+
 
 

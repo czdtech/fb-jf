@@ -31,6 +31,8 @@ Super Brick Builderは、クラシックなブロック破壊ゲームの現代�
 - リトライ：素早くやり直すと、安定した手順を作りやすいです。
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Drag`
 
  - **マウス/矢印キー：** パドルを左右に移動
 
@@ -42,5 +44,6 @@ Super Brick Builderは、クラシックなブロック破壊ゲームの現代�
 - Q: ボールがすぐ落ちます。
 <!-- i18n:faq:id=faq:super-brick-builder:run-out-of-fitting-pieces-581ced9c -->
 **ゲームの目標は何ですか？**
+
 
 

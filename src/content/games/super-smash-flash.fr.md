@@ -31,7 +31,7 @@ L'objectif n'est pas de vider une barre de vie, mais d'augmenter le pourcentage 
 <!-- i18n:section:controls -->
 ### Guide des commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `O` `P` `A` `S` `D` `W` `F` `G` `Backspace`
+- Touches (alignement)： `Arrow Keys` `O` `P` `A` `S` `D` `W` `F` `G` `Backspace`
 
 Le jeu peut être joué par deux joueurs sur le même clavier.
 - **Joueur 1 :**
@@ -58,4 +58,5 @@ Combine le bouton d'attaque (`P` ou `F`) avec les touches directionnelles. Par e
 **Est-ce un jeu Nintendo officiel ?**
 
 Non, Super Smash Flash est un projet fan-made à but non lucratif créé par McLeodGaming. C'est un hommage à la série Super Smash Bros.
+
 

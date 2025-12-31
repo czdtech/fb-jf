@@ -32,7 +32,7 @@ Le gameplay central consiste a resoudre des puzzles pour progresser. Chaque zone
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `WASD` `Arrow Keys` `Left Mouse Button`
+- Touches (alignement)： `WASD` `Arrow Keys` `Left` `Button` `click`
 
 -   **Deplacement :** WASD ou Fleches pour deplacer ton personnage.
 -   **Interaction :** Bouton gauche de la souris pour cliquer sur les objets, activer les mecanismes et resoudre les puzzles.
@@ -48,4 +48,5 @@ Bien que le jeu soit principalement axe sur les puzzles, il y a une narration so
 
 **Le jeu est-il difficile ?**
 La difficulte des puzzles peut varier de simple a assez exigeant, necessitant des joueurs qu ils pensent de maniere critique et parfois experimentent avec les solutions.
+
 

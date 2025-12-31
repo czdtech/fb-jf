@@ -40,7 +40,7 @@ La mecánica principal se mantiene: formar palabras a partir de un conjunto de l
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `Enter` `Spacebar` `Backspace`
+- Teclas (alineación)： `Press` `Enter` `Click` `press` `Spacebar` `Click` `press` `Backspace`
 
 - **Escritura:** usa el teclado para teclear las palabras que encuentres.
 - **Enviar palabra:** pulsa Enter.
@@ -61,5 +61,6 @@ Sí, en la mayoría de modos estándar necesitas encontrar la palabra Bingo (la 
 **¿Puedo jugar sin conexión?**
 
 Muchas versiones de Text Twist 2 se pueden descargar y jugar sin conexión, para que puedas disfrutar del juego incluso sin internet.
+
 
 

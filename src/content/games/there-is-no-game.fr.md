@@ -28,6 +28,8 @@ Le gameplay central implique des interactions point-and-click. Tu devras cliquer
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Left` `Button`
 
 -   **Bouton gauche de la souris :** Utilise pour toutes les interactions, incluant cliquer sur les objets, glisser des elements et resoudre des puzzles.
 
@@ -42,4 +44,5 @@ Les puzzles sont hautement non conventionnels et impliquent souvent de manipuler
 
 **Combien de temps dure le jeu ?**
 L original There is no game est une experience relativement courte, concue comme une aventure point-and-click. Il existe aussi une suite plus longue appelee There Is No Game: Wrong Dimension.
+
 

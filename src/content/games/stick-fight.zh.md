@@ -32,7 +32,7 @@ releaseDate: 2025-08-16
 <!-- i18n:section:controls -->
 ### 操作说明
 <!-- i18n:controls:keys -->
-- 按键（对齐）： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left Mouse Button` `F` `Right Mouse Button` `G`
+- 按键（对齐）： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left` `Button` `F` `Right` `Button` `G`
 
 
 操作通常沿用常见的 2D 平台动作布局：
@@ -58,4 +58,5 @@ releaseDate: 2025-08-16
 **游戏里有哪些武器？**
 
 武器库非常丰富，从剑、矛等近战武器，到手枪、霰弹枪等远程武器，甚至还有能发射蛇的火箭筒等“整活”装备。
+
 

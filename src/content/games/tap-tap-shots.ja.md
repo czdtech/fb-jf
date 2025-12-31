@@ -31,7 +31,7 @@ Tap Tap Shotsは、シンプルだが中毒性のあるバスケットボール�
 <!-- i18n:section:controls -->
 ### 操作ガイド
 <!-- i18n:controls:keys -->
-- キー（整合）： `Left Mouse Button` `Spacebar`
+- キー（整合）： `Left` `Button` `Spacebar` `tap` `Tap`
 
 
 操作はとてもシンプルです：
@@ -53,4 +53,5 @@ Tap Tap Shotsは、シンプルだが中毒性のあるバスケットボール�
 **スコアはどう計算されますか？**
 
 決めたバスケットの数と連続成功によってスコアが決まります。
+
 

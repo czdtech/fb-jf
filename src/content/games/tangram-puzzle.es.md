@@ -32,6 +32,8 @@ Tangram Puzzle te reta a ordenar siete piezas geométricas (tans) para rellenar 
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag`
 
 - Arrastra y rota las piezas con el ratón o los controles táctiles; refléjalas solo si el modo lo permite. La ayuda de autoajuste te indicará cuándo una pieza encaja en la posición correcta.
 
@@ -47,5 +49,6 @@ Tangram Puzzle te reta a ordenar siete piezas geométricas (tans) para rellenar 
 - Q: ¿Se permiten los reflejos?
   
   A: Depende del modo de juego. En algunos niveles, los reflejos están desactivados y solo podrás usar rotaciones, así que tendrás que pensar más en los ángulos y en cómo aprovechar cada pieza.
+
 
 

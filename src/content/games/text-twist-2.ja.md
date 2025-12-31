@@ -40,7 +40,7 @@ Text Twist 2は、与えられた文字から単語を作る人気の単語パ�
 <!-- i18n:section:controls -->
 ### 操作ガイド
 <!-- i18n:controls:keys -->
-- キー（整合）： `Enter` `Spacebar` `Backspace`
+- キー（整合）： `Press` `Enter` `Click` `press` `Spacebar` `Click` `press` `Backspace`
 
  - **キーボード：** 文字を入力して単語を作成
  - **マウス：** 文字をクリックして選択
@@ -63,4 +63,5 @@ Text Twist 2は、与えられた文字から単語を作る人気の単語パ�
 **すべての単語を見つける必要がありますか？**
 
 最も長い単語を見つけることが最低限必要ですが、より多くの単語を見つけるとスコアが上がります。
+
 

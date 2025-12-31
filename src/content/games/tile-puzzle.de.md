@@ -32,6 +32,8 @@ Tile Puzzle ist ein modernes, forderndes Tile‑Matching‑Spiel, das deine Plan
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click`
 
 Das Spiel wird vollständig mit Maus oder Touch gesteuert.
 
@@ -55,4 +57,5 @@ Das Spiel wird vollständig mit Maus oder Touch gesteuert.
 *   **F: Was passiert, wenn das Tablett voll ist?**
     *   **A:** Wenn alle sieben Slots belegt sind und du keinen Drilling bilden
         kannst, kannst du keine weiteren Züge machen – das Spiel ist vorbei.
+
 

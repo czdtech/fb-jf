@@ -29,6 +29,8 @@ Tangram Puzzle te demande d’assembler sept pièces géométriques (les tans) p
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag`
 
 - Fais glisser les pièces et fais‑les pivoter ; retourne‑les si c’est autorisé. L’aide d’alignement peut s’activer quand la pièce est bien placée.
 
@@ -44,4 +46,5 @@ Tangram Puzzle te demande d’assembler sept pièces géométriques (les tans) p
 - Q : Les retournements (flip) sont‑ils autorisés ?
   
   R : certains modes les interdisent ; dans ce cas, appuie‑toi sur les rotations.
+
 

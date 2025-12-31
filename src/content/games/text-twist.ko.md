@@ -45,7 +45,7 @@ Text Twist는 어휘력과 순발력을 동시에 시험하는 단어 퍼즐 게
 <!-- i18n:section:controls -->
 ### 조작 방법 안내
 <!-- i18n:controls:keys -->
-- 키(정렬)： `Enter` `Spacebar` `Backspace`
+- 키(정렬)： `Enter` `Press` `Enter` `Click` `press` `Spacebar` `Click` `press` `Backspace`
 
 - **입력:** 키보드로 찾은 단어를 직접 입력합니다.
 - **단어 제출:** Enter 키를 눌러 단어를 제출합니다.
@@ -69,4 +69,5 @@ A: 단어 길이가 길수록 점수가 크게 올라갑니다. 가능한 한 �
 A: 라운드를 거듭할수록 요구되는 단어 수가 늘어나거나, 사용해야 하는 글자
    수가 늘어나는 등 퍼즐이 점점 복잡해집니다. 더 어려운 철자와 패턴이 등장해
    도전 욕구를 자극합니다.
+
 

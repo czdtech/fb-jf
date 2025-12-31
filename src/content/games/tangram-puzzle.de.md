@@ -32,6 +32,8 @@ Tangram Puzzle basiert auf dem klassischen Tangram: Sieben geometrische Formen (
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag`
 
 - Teile per Drag-and-drop verschieben und drehen; je nach Version kannst du sie auch spiegeln.
 - Viele Versionen bieten ein Einrast‑Hilfssystem, wenn ein Teil korrekt liegt.
@@ -46,4 +48,5 @@ Tangram Puzzle basiert auf dem klassischen Tangram: Sieben geometrische Formen (
 <!-- i18n:faq:id=faq:tangram-puzzle:are-flips-legal-685c999a -->
 - **Darf ich Teile spiegeln?**  
   Je nach Modus ja oder nein. Wenn Spiegelungen verboten sind, musst du mit Drehungen eine passende Orientierung finden.
+
 

@@ -29,6 +29,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click`
 
 游戏使用简单的点击或触摸操作。
 
@@ -50,4 +52,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:tile-puzzle:q-what-happens-if-the-8c2c9a37 -->
 *   **问：有什么通用技巧？**
     *   **答：** 习惯"分区处理"的思路，并学会用空格绕圈移动小范围内的方块，而不是每次都在整个棋盘上大挪。
+
 

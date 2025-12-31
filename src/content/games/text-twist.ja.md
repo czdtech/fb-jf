@@ -32,7 +32,7 @@ Text Twistは、与えられた文字セットから単語を作るクラシッ�
 <!-- i18n:section:controls -->
 ### 操作ガイド
 <!-- i18n:controls:keys -->
-- キー（整合）： `Enter` `Spacebar` `Backspace`
+- キー（整合）： `Enter` `Press` `Enter` `Click` `press` `Spacebar` `Click` `press` `Backspace`
 
  - **キーボード：** 文字をタイプして単語を入力
  - **Enter：** 単語を送信
@@ -54,4 +54,5 @@ Text Twistは、与えられた文字セットから単語を作るクラシッ�
 **ヒントはありますか？**
 
 Twist機能で文字を再配置すると、新しいアイデアが浮かぶかもしれません。
+
 

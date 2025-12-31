@@ -32,7 +32,7 @@ L’objectif de chaque manche est d’éliminer tes adversaires en les faisant t
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left Mouse Button` `F` `Right Mouse Button` `G`
+- Touches (alignement)： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left` `Button` `F` `Right` `Button` `G`
 
 Les commandes reprennent celles d’un jeu de plate‑forme 2D classique :
 
@@ -56,4 +56,5 @@ Oui. Stick Fight est surtout un jeu multijoueur, souvent jouable à 2–4 joueur
 **Quels types d’armes trouve‑t‑on dans le jeu ?**
 
 Le jeu propose un grand arsenal : armes de mêlée (épées, lances) et armes à distance (pistolets, fusils à pompe…), jusqu’à des lance‑roquettes absurdes.
+
 

@@ -33,6 +33,8 @@ Tiles of Egypt ist ein strategisches Triple‑Match‑Puzzle mit ägyptischem Fl
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click`
 
 Das Spiel wird komplett mit Maus oder Touch gesteuert.
 
@@ -57,4 +59,5 @@ Das Spiel wird komplett mit Maus oder Touch gesteuert.
     *   **A:** Wenn alle Slots belegt sind und du keinen Drilling bilden kannst,
         bist du blockiert und verlierst das Spiel. Du musst das Level dann neu
         starten.
+
 

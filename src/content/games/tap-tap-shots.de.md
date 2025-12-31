@@ -33,7 +33,7 @@ Tap Tap Shots ist ein minimalistisches, aber stark suchterzeugendes Arcade‑Bas
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `Left Mouse Button` `Spacebar`
+- Tasten (Abgleich)： `Left` `Button` `Spacebar` `tap` `Tap`
 
 Die Steuerung ist extrem einfach:
 - **PC:** Linke Maustaste oder Leertaste zum Tippen.
@@ -50,4 +50,5 @@ Treffer in dieser Phase zählen mit Multiplikator – ideal, um deinen Score sch
 
 **Gibt es ein Ziel außer Highscore?**  
 Der Fokus liegt ganz auf dem Endlos‑Highscore – viele Spieler jagen ihre eigene Bestleistung oder die von Freunden.
+
 

@@ -29,6 +29,8 @@ Tiletopiaは、タイルを戦略的に配置して美しい街を構築する�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Click` `drag` `drop` `space` `click`
 
  - **マウス：** タイルをドラッグして配置
 
@@ -52,3 +54,4 @@ Tiletopiaは、タイルを戦略的に配置して美しい街を構築する�
 
 <!-- i18n:faq:id=faq:tiletopia:q-what-happens-if-i-68e094f8 -->
     - **Q: ゲームの目的は何ですか？**
+

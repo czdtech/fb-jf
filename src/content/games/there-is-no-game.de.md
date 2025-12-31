@@ -29,6 +29,8 @@ Das Gameplay basiert im Kern auf Point‑and‑Click‑Mechaniken. Du klickst, z
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Left` `Button`
 
 - **Linke Maustaste:** Klicken, Ziehen, Loslassen – alle Interaktionen laufen über einen einfachen Mausknopf.
 
@@ -46,3 +48,4 @@ Sehr unkonventionelle Rätsel, bei denen du die Benutzeroberfläche manipulierst
 **Wie lang ist das Spiel?**
 
 Die ursprüngliche Version ist eher kurz und eignet sich gut für eine einzelne Session. Es gibt außerdem eine größere, eigenständige Fortsetzung namens „There Is No Game: Wrong Dimension“.
+

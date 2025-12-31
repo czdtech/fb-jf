@@ -29,6 +29,8 @@ Sudoku Plusは、クラシックな数独パズルゲームに追加機能と複
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Click` `Enter` `click` `Click`
 
  - **マウス：** マスをクリックして数字を選択
 
@@ -58,3 +60,4 @@ Sudoku Plusは、クラシックな数独パズルゲームに追加機能と複
 
 <!-- i18n:faq:id=faq:sudoku-plus:q-will-the-game-tell-928da71e -->
     - **Q: 数学が得意でないと難しいですか？**
+

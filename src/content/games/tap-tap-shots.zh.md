@@ -32,7 +32,7 @@ releaseDate: 2025-08-16
 <!-- i18n:section:controls -->
 ### 操作说明
 <!-- i18n:controls:keys -->
-- 按键（对齐）： `Left Mouse Button` `Spacebar`
+- 按键（对齐）： `Left` `Button` `Spacebar` `tap` `Tap`
 
 
 操作非常简单：
@@ -54,4 +54,5 @@ releaseDate: 2025-08-16
 关键全在时机。尽量在球弹到最高点或刚开始下落时点击，这通常能让你更好地控制出手并瞄准篮筐。
 
 **瞄准有什么小技巧吗？**
+
 

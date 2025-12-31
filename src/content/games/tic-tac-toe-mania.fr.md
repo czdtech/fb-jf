@@ -32,6 +32,8 @@ Tic Tac Toe Mania modernise le morpion avec des visuels epures et des variantes 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click`
 
 -   Clique sur les cases pour placer des marques ; 2J local courant ; difficultes IA varient.
 
@@ -45,4 +47,5 @@ Tic Tac Toe Mania modernise le morpion avec des visuels epures et des variantes 
 <!-- i18n:faq:id=faq:tic-tac-toe-mania:best-first-move-64c2de4e -->
 -   **Q : Meilleur premier coup ?**
     **R :** Centre, puis coin.
+
 

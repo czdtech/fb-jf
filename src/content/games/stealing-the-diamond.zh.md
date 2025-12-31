@@ -33,6 +33,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Mouse` `mouse` `click`
 
 - **鼠标：** 使用鼠标点击你想要的选项或按钮即可推进剧情，无需复杂操作。
 
@@ -52,3 +54,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 **这是系列作品的一部分吗？**
 
 是的。《Stealing the Diamond》属于 Henry Stickmin 系列作品；前两部通常是 *Breaking the Bank* 和 *Escaping the Prison*。
+

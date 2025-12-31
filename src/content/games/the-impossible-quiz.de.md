@@ -30,6 +30,8 @@ Du bekommst eine Reihe von Multiple‑Choice‑Fragen präsentiert. Dein Ziel: A
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `mouse` `click`
 
 - **Maus:** Nutze die linke Maustaste, um Antworten anzuklicken oder mit Objekten auf dem Bildschirm zu interagieren.
 
@@ -47,3 +49,4 @@ Skips lassen dich ganze Fragen überspringen. Einige Fragen sind praktisch nur m
 **Gibt es Tipps, wie ich weiter komme?**
 
 Lies jede Frage und alle Elemente auf dem Bildschirm genau. Achte auf doppelte Bedeutungen, versteckte Buttons oder bewegliche Objekte. Und hab keine Angst davor, scheinbar unsinnige Antworten auszuprobieren – genau das ist oft gewollt.
+

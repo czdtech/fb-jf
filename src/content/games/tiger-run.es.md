@@ -32,6 +32,8 @@ Tiger Run es un runner infinito sencillo ambientado en plena jungla. Debes leer 
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Space` `swipe`
 
 - Movimiento: A/D o Flechas izquierda/derecha para cambiar de carril.
 - Saltar / deslizarse: Espacio o Flecha arriba para saltar; Flecha abajo para deslizarse (en móvil, desliza el dedo).
@@ -51,5 +53,6 @@ Tiger Run es un runner infinito sencillo ambientado en plena jungla. Debes leer 
 <!-- i18n:faq:id=faq:tiger-run:is-there-a-finish-6f08d6d4 -->
 - **¿El juego tiene final?**  
   Normalmente es un runner infinito; el objetivo es batir tu propio récord de distancia y puntuación.
+
 
 

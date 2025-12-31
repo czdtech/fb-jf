@@ -31,6 +31,8 @@ Subway Jumperは、地下鉄の線路を走り抜けるスリリングなエン�
 - ミスした後は落ち着いて立て直してから加速します。
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Space`
 
  - **上矢印/W：** ジャンプ
  - **下矢印/S：** スライド
@@ -44,5 +46,6 @@ Subway Jumperは、地下鉄の線路を走り抜けるスリリングなエン�
 - Q: 障害物に引っかかりやすいです。
 <!-- i18n:faq:id=faq:subway-jumper:is-speed-adjustable-114d7305 -->
 **ゲームの目標は何ですか？**
+
 
 

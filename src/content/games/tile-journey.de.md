@@ -32,6 +32,8 @@ Tile Journey ist ein modernes, entspannendes Tile‑Matching‑Puzzle, das trotz
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click`
 
 Das Spiel wird komplett per Klick oder Tipp gesteuert.
 
@@ -60,4 +62,5 @@ Das Spiel wird komplett per Klick oder Tipp gesteuert.
     *   **A:** Viele Versionen bieten hilfreiche Power-ups wie „Rückgängig“ für
         den letzten Zug, „Tipp“ für ein mögliches Match oder „Shuffle“, um die
         Kacheln auf dem Brett neu anzuordnen.
+
 

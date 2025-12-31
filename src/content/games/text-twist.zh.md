@@ -33,7 +33,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### 操作说明
 <!-- i18n:controls:keys -->
-- 按键（对齐）： `Enter` `Spacebar` `Backspace`
+- 按键（对齐）： `Enter` `Press` `Enter` `Click` `press` `Spacebar` `Click` `press` `Backspace`
 
 - **输入单词：** 使用键盘直接输入你想到的英文单词；
 - **提交单词：** 输入完毕后按 Enter 提交；
@@ -51,4 +51,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 **问：游戏难度会逐渐上升吗？****
 答：** 会。随着关卡推进，需要找到的单词数量会增多，包含的词汇也更复杂，对反应速度和词汇广度的要求随之提高。
+
 

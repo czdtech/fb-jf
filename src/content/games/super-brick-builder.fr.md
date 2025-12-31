@@ -38,6 +38,8 @@ agressif.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag`
 
 - Glisse / fais pivoter les briques ; relâche pour poser ; recommencer via
   l’interface.
@@ -52,3 +54,4 @@ agressif.
 <!-- i18n:faq:id=faq:super-brick-builder:run-out-of-fitting-pieces-581ced9c -->
 - **Q : Je manque de pièces qui s’emboîtent.**  
   **R :** Garde des petites briques pour ajuster la couche du dessus.
+

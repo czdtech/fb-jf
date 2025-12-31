@@ -33,6 +33,8 @@ Super Brick Builder spielt sich wie ein statikorientiertes Stapel‑Puzzle: Du m
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag`
 
 - Steine per Drag-and-drop bewegen und drehen, dann loslassen, um sie zu platzieren.
 - Neustart/Zurücksetzen über die UI.
@@ -47,4 +49,5 @@ Super Brick Builder spielt sich wie ein statikorientiertes Stapel‑Puzzle: Du m
 <!-- i18n:faq:id=faq:super-brick-builder:run-out-of-fitting-pieces-581ced9c -->
 - **Mir fehlen passende Steine für die letzten Lücken.**  
   Spare kleine Steine für die oberen Reihen und Lückenschließer auf – große Elemente zuerst im Unterbau verwenden.
+
 

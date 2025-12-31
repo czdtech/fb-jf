@@ -33,7 +33,7 @@ L'objectif principal est de scorer le maximum de points avant d'atteindre la fin
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `A` `D` `Left` `Right Arrow Keys` `Spacebar` `S` `Down Arrow Key` `W` `Up Arrow Key` `Esc`
+- Touches (alignement)： `A` `D` `Left` `Right Arrow Keys` `Spacebar` `S` `Down Arrow Key` `W` `Up Arrow Key` `Hold` `Esc`
 
 -   **Deplacement/Direction :** A / D ou Fleches Gauche / Droite
 -   **Drift :** Espace
@@ -52,4 +52,5 @@ Quand tu collectes assez de Tanuki Bits, une roue de roulette tourne en haut de 
 
 **Puis-je personnaliser mon raton laveur ?**
 Oui, en gagnant des points et completant des objectifs, tu peux debloquer de nouveaux vetements et pieces de longboard pour personnaliser le look de Tanuki.
+
 

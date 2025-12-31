@@ -32,6 +32,8 @@ En Thief Puzzle extiendes un brazo elástico para robar objetos mientras esquiva
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag`
 
 - Arrastra para estirar el brazo; suelta para retraerlo; utiliza los botones de la interfaz para reiniciar el nivel si algo sale mal.
 
@@ -47,5 +49,6 @@ En Thief Puzzle extiendes un brazo elástico para robar objetos mientras esquiva
 - Q: La sincronización me parece muy ajustada.  
   
   A: Observa un ciclo completo de cada trampa antes de moverte. La mayoría de niveles ofrecen ventanas de tiempo bastante generosas si planificas con calma.
+
 
 

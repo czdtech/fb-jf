@@ -34,7 +34,7 @@ Chaque course dans le sous-sol est unique. Tu navigues de salle en salle, combat
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `WASD` `Arrow Keys` `Spacebar` `Shift` `E` `Q`
+- Touches (alignement)： `WASD` `Arrow Keys` `mouse` `Spacebar` `Shift` `E` `Q`
 
 -   **Deplacement :** Touches WASD
 -   **Tirer des larmes :** Fleches (ou souris pour viser dans certaines versions)
@@ -53,4 +53,5 @@ De nouveaux personnages, objets et defis sont debloques en completant des succes
 
 **Le jeu est-il difficile ?**
 Oui, The Binding of Isaac est connu pour sa haute difficulte et sa courbe d'apprentissage abrupte. Le succes depend souvent de la comprehension des synergies d'objets et des schemas ennemis, ainsi qu'un peu de chance avec les drops d'objets.
+
 

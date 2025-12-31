@@ -39,6 +39,8 @@ et de choisir les améliorations à chaque montée de niveau.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD`
 
 - déplacement : WASD / flèches ;  
 
@@ -55,4 +57,5 @@ A: Pickup radius/XP, then core damage and survivability.
 - Q: Which upgrades first?
 
 A: Re‑route to midmap and dash through thin gaps early.
+
 

@@ -32,7 +32,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### 操作说明
 <!-- i18n:controls:keys -->
-- 按键（对齐）： `A` `D` `Left` `Right Arrow Keys` `Spacebar` `S` `Down Arrow Key` `W` `Up Arrow Key` `Esc`
+- 按键（对齐）： `A` `D` `Left` `Right Arrow Keys` `Spacebar` `S` `Down Arrow Key` `W` `Up Arrow Key` `Hold` `Esc`
 
 *   **转向：** 使用左右方向键或 A/D 控制狸猫在公路上的左右移动；
 *   **加减速 / 漂移（视版本而定）：** 使用特定按键进行刹车或触发漂移动作；
@@ -56,4 +56,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 可以。通过得分并完成目标，你能解锁新的服饰和长板部件，用来定制 Tanuki 的外观。
 
 **可以自定义 Tanuki 的外观吗？**
+
 

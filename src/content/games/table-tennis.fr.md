@@ -29,6 +29,8 @@ Table Tennis est un jeu de simulation sportive rapide et engageant qui apporte l
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `mouse` `mouse` `click`
 
 *   **Mouvement de la souris :** le mouvement de la raquette est directement lié au curseur de ta souris.
 *   **Déplacer la raquette :** déplace simplement ta souris à gauche et à droite de ton côté de la table pour positionner la raquette.
@@ -46,4 +48,5 @@ Table Tennis est un jeu de simulation sportive rapide et engageant qui apporte l
 <!-- i18n:faq:id=faq:table-tennis:q-what-is-the-winning-84866485 -->
 *   **Q : Quel est le score gagnant ?**
     *   **R :** Typiquement, une partie est gagnée par le premier joueur à atteindre un nombre défini de points (par ex. 11 ou 21), mais tu dois gagner avec au moins deux points d'avance.
+
 

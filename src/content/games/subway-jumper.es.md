@@ -41,6 +41,8 @@ buenas rachas está en la consistencia.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Space`
 
 - Cambiar de carril: A/D o flechas izquierda/derecha.  
 - Saltar: barra espaciadora o flecha arriba.  
@@ -59,4 +61,5 @@ buenas rachas está en la consistencia.
 - **P: ¿Se puede ajustar la velocidad?**  
   **R:** en la mayoría de versiones la velocidad aumenta de forma automática;
   céntrate en entradas limpias y movimientos claros.
+
 

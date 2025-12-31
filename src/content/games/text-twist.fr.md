@@ -33,7 +33,7 @@ Text Twist est un jeu de puzzle de mots populaire et captivant qui defie ton voc
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `Enter` `Spacebar` `Backspace`
+- Touches (alignement)： `Enter` `Press` `Enter` `Click` `press` `Spacebar` `Click` `press` `Backspace`
 
 -   **Taper :** Utilise ton clavier pour taper les mots que tu trouves.
 -   **Soumettre le mot :** Appuie sur Entree pour soumettre un mot.
@@ -51,4 +51,5 @@ Concentre-toi sur les mots plus longs car ils rapportent plus de points. Essaie 
 
 **Y a-t-il differents niveaux de difficulte ?**
 A mesure que tu progresses dans les niveaux, les puzzles deviennent generalement plus difficiles, necessitant de trouver des mots plus complexes ou de gerer un plus grand ensemble de lettres.
+
 

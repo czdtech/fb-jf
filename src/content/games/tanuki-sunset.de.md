@@ -35,7 +35,7 @@ sammeln.
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `A` `D` `Left` `Right Arrow Keys` `Spacebar` `S` `Down Arrow Key` `W` `Up Arrow Key` `Esc`
+- Tasten (Abgleich)： `A` `D` `Left` `Right Arrow Keys` `Spacebar` `S` `Down Arrow Key` `W` `Up Arrow Key` `Hold` `Esc`
 
 - **Lenken:** A / D oder Links / Rechts
 - **Drift:** Leertaste
@@ -54,4 +54,5 @@ Ist die Leiste voll, startet ein Roulette – mit etwas Glück bekommst du eine 
 
 **Kann ich Tanuki anpassen?**  
 Ja, durch Punkte und erfüllte Aufgaben schaltest du neue Outfits und Board‑Teile frei.
+
 

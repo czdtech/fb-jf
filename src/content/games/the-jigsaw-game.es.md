@@ -33,6 +33,8 @@ The Jigsaw Game es un clásico puzle digital con imágenes y número de piezas c
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag`
 
 - Arrastra para mover piezas; gira si el modo lo permite.
 - Usa las opciones de zoom y desplazamiento de la interfaz o gestos táctiles.
@@ -47,5 +49,6 @@ The Jigsaw Game es un clásico puzle digital con imágenes y número de piezas c
 - ¿Puedo cambiar el número de piezas? Normalmente sí; elige la dificultad en función del tiempo del que dispongas.
 <!-- i18n:faq:id=faq:the-jigsaw-game:any-photo-variety-5449029a -->
 - ¿Hay variedad de imágenes? Suelen incluir paisajes, animales, escenas de temporada y otras ilustraciones temáticas.
+
 
 

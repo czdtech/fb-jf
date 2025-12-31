@@ -30,7 +30,7 @@ Le cœur du jeu repose sur la gestion des ressources et le commandement de ton a
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `A` `D` `Spacebar`
+- Touches (alignement)： `Mouse` `click` `A` `D` `Spacebar`
 
 - **Souris :** sélectionner les unités, cliquer sur les boutons d’entraînement et diriger l’armée.
 - **Déplacement (en contrôle direct) :** A et D.
@@ -50,4 +50,5 @@ Une armée équilibrée est essentielle. Les Speartons sont excellents en défen
 **Qu’est‑ce que je devrais améliorer en premier ?**
 
 Il est souvent recommandé de dépenser tes premiers points d’amélioration sur les sacs des mineurs et le revenu de la statue pour accélérer ton économie. Ensuite, améliore surtout les unités que tu utilises le plus.
+
 

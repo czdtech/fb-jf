@@ -28,6 +28,8 @@ Usa clics de ratón o deslizamientos en pantalla táctil para intercambiar dos a
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `Click` `Swipe`
 
 *   **Ratón:** haz clic sobre dos criaturas adyacentes para intercambiarlas.
 *   **Pantalla táctil:** desliza el dedo para intercambiar dos piezas vecinas.
@@ -44,4 +46,5 @@ Usa clics de ratón o deslizamientos en pantalla táctil para intercambiar dos a
     *   **R:** Crear alineaciones de cuatro o cinco piezas, formar combinaciones
         especiales y encadenar varias reacciones en una sola jugada te dará muchos
         más puntos que una simple línea de tres.
+
 

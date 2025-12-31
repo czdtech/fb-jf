@@ -30,6 +30,8 @@ Tiles of Egyptは、古代エジプトをテーマにした美しいタイルマ
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Click`
 
 
 操作はクリック/タップ中心で進められます。
@@ -53,3 +55,4 @@ Tiles of Egyptは、古代エジプトをテーマにした美しいタイルマ
 
 <!-- i18n:faq:id=faq:tiles-of-egypt:q-what-happens-if-my-43071f48 -->
     - **Q: ゲームの目的は何ですか？**
+

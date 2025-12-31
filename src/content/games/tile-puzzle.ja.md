@@ -29,6 +29,8 @@ Tile Puzzleは、クラシックなスライディングタイルパズルゲー
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Click`
 
 
 操作はクリック/タップ中心で進められます。
@@ -52,3 +54,4 @@ Tile Puzzleは、クラシックなスライディングタイルパズルゲー
 
 <!-- i18n:faq:id=faq:tile-puzzle:q-what-happens-if-the-8c2c9a37 -->
     - **Q: ゲームの目的は何ですか？**
+

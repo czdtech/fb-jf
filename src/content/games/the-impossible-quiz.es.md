@@ -34,6 +34,8 @@ El juego te presenta una serie de preguntas de opción múltiple. Tu objetivo es
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `mouse` `click`
 
 - **Ratón:** usa el ratón para hacer clic en la respuesta que creas correcta o para interactuar con elementos especiales en la pantalla.
 
@@ -51,4 +53,5 @@ Los Skips permiten saltarse una pregunta. Es fundamental guardarlos para las sec
 **¿Algún consejo para jugar mejor?**
 
 Lee cada pregunta con muchísimo cuidado; a menudo el truco está en una palabra, una letra o un detalle gráfico. No tengas miedo de probar respuestas aparentemente absurdas. Fíjate en cualquier elemento interactivo de la pantalla y recuerda que algunos retos requieren reflejos rápidos o clics en momentos muy concretos.
+
 

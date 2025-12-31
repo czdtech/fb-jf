@@ -33,7 +33,7 @@ Tap-Tap Shots est un jeu de basket arcade simple, minimaliste et hautement addic
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `Left Mouse Button` `Spacebar`
+- Touches (alignement)： `Left` `Button` `Spacebar` `tap` `Tap`
 
 Les controles sont extremement simples :
 -   **PC :** Bouton gauche de la souris ou Espace pour taper.
@@ -50,4 +50,5 @@ Quand le ballon est en feu, tu es en serie de combo. Chaque panier que tu marque
 
 **Y a-t-il une astuce pour viser ?**
 Tout est question de timing. Essaie de taper juste quand le ballon atteint le sommet de son rebond ou commence a descendre. Cela te donne souvent le meilleur controle pour viser le panier.
+
 

@@ -33,6 +33,8 @@ Tile Puzzle est un jeu de tuiles moderne et captivant qui défie ta planificatio
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click`
 
 Le jeu se joue avec de simples clics ou taps.
 
@@ -52,4 +54,5 @@ Le jeu se joue avec de simples clics ou taps.
 <!-- i18n:faq:id=faq:tile-puzzle:q-what-happens-if-the-8c2c9a37 -->
 *   **Q : Que se passe-t-il si le plateau est plein ?**
     *   **R :** Si les sept emplacements sont remplis et que tu n'as pas fait de match de trois, tu ne peux plus jouer et la partie est terminée.
+
 

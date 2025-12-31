@@ -42,6 +42,8 @@ imprescindibles en tableros muy densos.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `tap`
 
 - Arrastra para intercambiar piezas.  
 - Toca o haz clic en los potenciadores para activarlos.  
@@ -59,4 +61,5 @@ imprescindibles en tableros muy densos.
 - **P: ¿Cuál es una buena apertura?**  
   **R:** empezar despejando desde la parte inferior del tablero para provocar
   cascadas suele ser la opción más eficiente.
+
 

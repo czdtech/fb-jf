@@ -32,6 +32,8 @@ Tile Journey es un puzle moderno y relajante de combinación de fichas que pone 
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click`
 
 El juego se maneja con clics o toques sencillos.
 
@@ -55,4 +57,5 @@ El juego se maneja con clics o toques sencillos.
 <!-- i18n:faq:id=faq:tile-journey:q-are-there-powerups-a56519dd -->
 *   **Q: ¿Hay potenciadores?**
     *   **A:** Muchas versiones incluyen ayudas como Deshacer (revertir el último movimiento), Pista (mostrar una posible combinación) o Barajar (reordenar las fichas del tablero).
+
 

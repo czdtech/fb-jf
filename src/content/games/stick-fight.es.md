@@ -44,7 +44,7 @@ agotando su vida.
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left Mouse Button` `F` `Right Mouse Button` `G`
+- Teclas (alineación)： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left` `Button` `F` `Right` `Button` `G`
 
 Los controles suelen seguir el esquema típico de un plataformas 2D:
 - **Mover:** A y D o flechas izquierda/derecha.
@@ -67,4 +67,5 @@ para partidas locales u online de 2 a 4 jugadores.
 **¿Qué tipo de armas hay en el juego?**  
 El arsenal es enorme: armas cuerpo a cuerpo como espadas y lanzas, armas de
 fuego como pistolas y escopetas, e incluso bazucas que disparan serpientes.
+
 

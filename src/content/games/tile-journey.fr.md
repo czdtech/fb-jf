@@ -32,6 +32,8 @@ Tile Journey est un jeu de puzzle moderne et relaxant qui met à l'épreuve ta r
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click`
 
 Le jeu se joue avec de simples clics ou taps.
 
@@ -55,4 +57,5 @@ Le jeu se joue avec de simples clics ou taps.
 <!-- i18n:faq:id=faq:tile-journey:q-are-there-powerups-a56519dd -->
 *   **Q : Y a-t-il des bonus ?**
     *   **R :** Beaucoup de versions incluent des bonus utiles comme un « Annuler » pour revenir en arrière, un « Indice » pour montrer un match possible, ou un « Mélanger » pour réarranger les tuiles.
+
 

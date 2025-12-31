@@ -33,7 +33,7 @@ Das Ziel ist nicht, eine Lebensleiste zu leeren, sondern den Schadensprozentsatz
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `O` `P` `A` `S` `D` `W` `F` `G` `Backspace`
+- Tasten (Abgleich)： `Arrow Keys` `O` `P` `A` `S` `D` `W` `F` `G` `Backspace`
 
 Das Spiel kann von zwei Spielern auf derselben Tastatur gespielt werden.
 - **Spieler 1:**
@@ -60,4 +60,5 @@ Kombiniere die Angriffstaste (`P` oder `F`) mit Richtungstasten. Zum Beispiel f�
 **Ist das ein offizielles Nintendo-Spiel?**
 
 Nein, Super Smash Flash ist ein nicht-kommerzielles Fanprojekt, erstellt von McLeodGaming. Es ist eine Hommage an die Super Smash Bros.-Serie.
+
 

@@ -33,6 +33,8 @@ Le jeu presente une serie de questions a choix multiples. Ton objectif est de re
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `mouse` `click`
 
 -   **Souris :** Utilise ta souris pour cliquer sur la bonne reponse ou interagir avec les elements a l'ecran.
 
@@ -47,4 +49,5 @@ Les Skips te permettent de contourner une question. Il est crucial de les garder
 
 **Y a-t-il des conseils pour jouer ?**
 Lis toujours les questions tres attentivement, car elles contiennent souvent des indices caches ou des doubles sens. N'aie pas peur d'essayer des reponses apparemment illogiques. Fais attention aux elements interactifs a l'ecran, et souviens-toi que certaines questions necessitent un timing precis ou des clics.
+
 

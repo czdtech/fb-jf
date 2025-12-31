@@ -43,7 +43,7 @@ The Pillar는 신비로운 세계를 1인칭 시점으로 탐험하며, 기둥�
 <!-- i18n:section:controls -->
 ### 조작 방법 안내
 <!-- i18n:controls:keys -->
-- 키(정렬)： `WASD` `Arrow Keys` `Left Mouse Button`
+- 키(정렬)： `WASD` `Arrow Keys` `Left` `Button` `click`
 
 - 이동: WASD
 - 시점 이동: 마우스
@@ -63,4 +63,5 @@ The Pillar는 신비로운 세계를 1인칭 시점으로 탐험하며, 기둥�
 **난이도는 어떤가요?**
 
 퍼즐 난이도는 비교적 쉬운 것부터 꽤 어려운 것까지 다양합니다. 상황을 관찰해 단서를 모으고, 여러 방식으로 시도해 보는 것이 도움이 됩니다.
+
 

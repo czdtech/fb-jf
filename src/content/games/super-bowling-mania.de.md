@@ -32,6 +32,8 @@ Super Bowling Mania bringt Zehn‑Pin‑Bowling auf deinen Bildschirm: Du positi
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `hold` `mouse` `mouse`
 
 - **Zielen:** Maus nach links/rechts bewegen, um Position und Richtung einzustellen.
 - **Power & Wurf:** Maustaste halten, um den Power‑Balken zu starten, und im gewünschten Bereich loslassen.
@@ -55,4 +57,5 @@ Würfen) bringt 10 Punkte plus die Pins des nächsten Wurfs.
     *   **A:** Der Schlüssel ist Konstanz: Finde eine Kombination aus Startposition,
 Power und Spin, die gut funktioniert, und wiederhole sie möglichst gleich. Am
 effektivsten ist meist ein Wurf knapp neben den Kopfpin in die „Pocket“.
+
 

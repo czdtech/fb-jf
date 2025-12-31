@@ -31,7 +31,7 @@ Jeder Run ist einzigartig. Du bewegst dich Raum für Raum durch den Keller, besi
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `WASD` `Arrow Keys` `Spacebar` `Shift` `E` `Q`
+- Tasten (Abgleich)： `WASD` `Arrow Keys` `mouse` `Spacebar` `Shift` `E` `Q`
 
 - **Bewegung:** WASD
 - **Tränen schießen:** Pfeiltasten (in manchen Versionen auch mit der Maus zielen)
@@ -53,3 +53,4 @@ Durch Erfolge im Spiel: Bosse besiegen, bestimmte Bedingungen erfüllen oder Mei
 **Ist das Spiel schwer?**
 
 Ja, The Binding of Isaac ist bekannt für seinen Anspruch. Du brauchst Übung, Wissen über Item‑Synergien und ein Gefühl für Gegner‑Muster – und natürlich etwas Glück bei den Drops.
+

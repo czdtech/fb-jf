@@ -34,7 +34,7 @@ El objetivo principal es conseguir la máxima puntuación posible antes de llega
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `A` `D` `Left` `Right Arrow Keys` `Spacebar` `S` `Down Arrow Key` `W` `Up Arrow Key` `Esc`
+- Teclas (alineación)： `A` `D` `Left` `Right Arrow Keys` `Spacebar` `S` `Down Arrow Key` `W` `Up Arrow Key` `Hold` `Esc`
 
 - **Mover / girar:** A / D o Flechas izquierda/derecha para inclinar la tabla.
 - **Derrapar:** Barra espaciadora para iniciar un derrape controlado en las curvas.
@@ -56,5 +56,6 @@ Al llenar el medidor con Tanuki Bits, se activa una ruleta en la parte superior 
 **¿Puedo personalizar a Tanuki?**
 
 Sí. Al ganar puntos y completar objetivos desbloquearás nuevas prendas, cascos y piezas de longboard para cambiar el aspecto de Tanuki y su tabla.
+
 
 

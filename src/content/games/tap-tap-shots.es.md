@@ -34,7 +34,7 @@ Tap Tap Shots es un juego de baloncesto arcade minimalista y muy adictivo. Tu ob
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `Left Mouse Button` `Spacebar`
+- Teclas (alineación)： `Left` `Button` `Spacebar` `tap` `Tap`
 
 Los controles son extremadamente sencillos:
 - **PC:** haz clic con el botón izquierdo del ratón o pulsa la Barra espaciadora para hacer botar la pelota.
@@ -54,5 +54,6 @@ Cuando el balón arde, significa que estás en una racha de combo. Cada canasta 
 **¿Hay algún truco para apuntar mejor?**
 
 Todo se basa en el tiempo. Prueba a tocar cuando la pelota esté cerca del punto más alto de su salto o justo cuando empiece a bajar; así tendrás más control sobre la trayectoria hacia el aro.
+
 
 

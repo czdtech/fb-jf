@@ -32,6 +32,8 @@ The Jigsaw Game ist ein klassisches digitales Puzzle mit unterschiedlichen Bilde
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag`
 
 - Ziehe Teile mit der Maus oder dem Finger an die passende Position.
 - Drehen, zoomen und verschieben erfolgt – falls verfügbar – über UI‑Buttons oder Gesten.
@@ -46,4 +48,5 @@ The Jigsaw Game ist ein klassisches digitales Puzzle mit unterschiedlichen Bilde
 - Kann ich die Anzahl der Teile ändern? In der Regel ja – wähle eine Schwierigkeit, die zu deiner Sessionlänge passt.
 <!-- i18n:faq:id=faq:the-jigsaw-game:any-photo-variety-5449029a -->
 - Gibt es verschiedene Motive? Meist gibt es Landschaften, Tiere und saisonale Themen.
+
 

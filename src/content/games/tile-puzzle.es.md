@@ -32,6 +32,8 @@ Tile Puzzle es un puzle actual de combinación de fichas que exige planificació
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click`
 
 El control es muy sencillo:
 
@@ -51,4 +53,5 @@ El control es muy sencillo:
 <!-- i18n:faq:id=faq:tile-puzzle:q-what-happens-if-the-8c2c9a37 -->
 *   **Q: ¿Qué pasa si se llena la bandeja?**
     *   **A:** Si se ocupan las siete casillas y no has completado ningún trío, te quedas sin movimientos y la partida termina.
+
 

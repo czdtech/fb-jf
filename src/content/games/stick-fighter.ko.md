@@ -44,7 +44,7 @@ Stick Fighter는 빠른 템포의 물리 기반 격투 게임입니다. 플레�
 <!-- i18n:section:controls -->
 ### 조작 방법 안내
 <!-- i18n:controls:keys -->
-- 키(정렬)： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left Mouse Button` `F` `Right Mouse Button` `G`
+- 키(정렬)： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left` `Button` `F` `Right` `Button` `G`
 
 조작은 일반적인 2D 플랫포머/격투 게임 레이아웃과 비슷합니다.
 
@@ -72,4 +72,5 @@ Stick Fighter는 빠른 템포의 물리 기반 격투 게임입니다. 플레�
 검과 창 같은 근접 무기부터, 권총·샷건·특수 발사기 등 다양한 원거리 무기까지
 폭넓게 등장합니다. 일부 무기는 뱀을 쏘는 바주카처럼, 웃기면서도 독특한
 효과를 보여 주기도 합니다.
+
 

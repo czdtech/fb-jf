@@ -42,6 +42,8 @@ loco.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag`
 
 - Arrastra y rota ladrillos; suéltalos para fijarlos en su sitio.  
 - Reinicia el nivel desde los controles de la interfaz.
@@ -57,4 +59,5 @@ loco.
 - **P: Me quedo sin piezas que encajen bien.**  
   **R:** intenta guardar los ladrillos pequeños para ajustes finos en las capas
   superiores y no malgastarlos al principio.
+
 

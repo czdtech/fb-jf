@@ -33,6 +33,8 @@ Tiles of Egypt es un puzle estratégico de fichas triples con un cautivador tema
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click`
 
 El juego se maneja con clics o toques:
 
@@ -52,4 +54,5 @@ El juego se maneja con clics o toques:
 <!-- i18n:faq:id=faq:tiles-of-egypt:q-what-happens-if-my-43071f48 -->
 *   **Q: ¿Qué pasa si la bandeja de colección se llena?**
     *   **A:** Si se ocupan todos los huecos y no puedes completar un trío, te quedas bloqueado y perderás la partida. Tendrás que reiniciar el nivel.
+
 

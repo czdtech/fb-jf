@@ -39,6 +39,8 @@ explorar todos los caminos y ver qué ocurre.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `mouse` `click`
 
 - **Ratón:** utiliza el ratón para hacer clic en la opción que quieras escoger.
 
@@ -59,4 +61,5 @@ necesario para el 100 % de completado.
 **¿Forma parte de una saga?**  
 Sí. Stealing the Diamond es la tercera entrega de la serie Henry Stickmin, tras
 *Breaking the Bank* y *Escaping the Prison*.
+
 

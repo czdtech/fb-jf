@@ -37,6 +37,8 @@ d’ingrédients, avec des niveaux de plus en plus denses en blocs et obstacles.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `tap`
 
 - fais glisser pour échanger deux pièces adjacentes ;
 
@@ -52,4 +54,5 @@ A: Chain bonus and prioritize clears that unlock space.
 
 
 A: Bottom clears; they spawn cascades.
+
 

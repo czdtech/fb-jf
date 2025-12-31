@@ -45,7 +45,7 @@ The Binding of Isaac는 쌍스틱 슈팅 방식의 전투와 로그라이크 구
 <!-- i18n:section:controls -->
 ### 조작 방법 안내
 <!-- i18n:controls:keys -->
-- 키(정렬)： `WASD` `Arrow Keys` `Spacebar` `Shift` `E` `Q`
+- 키(정렬)： `WASD` `Arrow Keys` `mouse` `Spacebar` `Shift` `E` `Q`
 
 - **이동:** WASD
 - **눈물 발사:** 방향키(또는 일부 버전에서는 마우스 조준)
@@ -70,4 +70,5 @@ A: 특정 보스를 처치하거나 엔딩을 보는 등, 게임 내 업적과 �
 A: 네, The Binding of Isaac는 높은 난이도와 러닝 커브로 유명합니다.
    하지만 적 패턴과 아이템 시너지를 이해해 갈수록 점점 더 멀리 나아갈 수
    있게 되며, 매번 달라지는 런 덕분에 반복 플레이의 재미가 큽니다.
+
 

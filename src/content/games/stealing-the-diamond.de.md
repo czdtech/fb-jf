@@ -33,6 +33,8 @@ Der eigentliche Reiz liegt darin, alle Pfade auszuprobieren, jede absurde Szene 
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `mouse` `click`
 
 - **Maus:** Per Klick wählst du jeweils die gewünschte Option.
 
@@ -50,4 +52,5 @@ Die Fails sind ein Kern des Humors – viele Spieler versuchen bewusst, **alle**
 
 **Gehört das zu einer Serie?**  
 Ja. „Stealing the Diamond“ ist der dritte Teil der Henry‑Stickmin‑Serie, nach **Breaking the Bank** und **Escaping the Prison**.
+
 

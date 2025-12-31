@@ -32,6 +32,8 @@ Etends un bras elastique pour voler des objets tout en esquivant les lasers, gar
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag`
 
 -   Glisse pour etendre le bras ; relache pour retracter ; redemarre via l interface.
 
@@ -45,4 +47,5 @@ Etends un bras elastique pour voler des objets tout en esquivant les lasers, gar
 <!-- i18n:faq:id=faq:thief-puzzle:timing-feels-tight-a5d830e2 -->
 -   **Q : Le timing semble serre.**
     **R :** Attends un cycle complet ; la plupart des salles ont des fenetres relaxees.
+
 

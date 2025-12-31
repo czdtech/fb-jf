@@ -32,6 +32,8 @@ Table Tennis bringt eine vereinfachte, aber flotte Tischtennis‑Simulation auf 
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `mouse` `mouse` `click`
 
 - **Mausbewegung:** Der Schläger folgt direkt deinem Mauszeiger.
 - **Schläger bewegen:** Bewege den Mauszeiger nach links/rechts auf deiner Tischhälfte.
@@ -56,4 +58,5 @@ Table Tennis bringt eine vereinfachte, aber flotte Tischtennis‑Simulation auf 
     *   **A:** Je nach Version wird bis zu einer festgelegten Punktzahl
         (z. B. 11 oder 21) gespielt, meist mit der Bedingung, mit mindestens zwei
         Punkten Vorsprung zu gewinnen.
+
 

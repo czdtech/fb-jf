@@ -34,6 +34,8 @@ Sudoku Plus bietet eine moderne Umsetzung des klassischen Logikrätsels. Ziel is
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `Enter` `click` `Click`
 
 - **Feld wählen:** Per Mausklick auf ein leeres oder bereits gesetztes Feld.
 - **Zahl eintragen:** Nach der Auswahl über das On‑Screen‑Keypad oder Tastaturziffern.
@@ -55,4 +57,5 @@ Sudoku Plus bietet eine moderne Umsetzung des klassischen Logikrätsels. Ziel is
 <!-- i18n:faq:id=faq:sudoku-plus:q-will-the-game-tell-928da71e -->
 *   **F: Zeigt das Spiel Fehler an?**
     *   **A:** In vielen Modi markiert das Spiel doppelte Zahlen in Zeilen, Spalten oder Blöcken. So kannst du Tippfehler schneller finden und korrigieren.
+
 

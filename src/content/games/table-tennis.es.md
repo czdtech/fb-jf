@@ -45,6 +45,8 @@ una experiencia accesible pero retadora para cualquier nivel.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `mouse` `mouse` `click`
 
 - **Movimiento del ratón:** la pala sigue a tu cursor.  
 - **Mover la pala:** mueve el ratón a izquierda y derecha por tu mitad de la
@@ -69,4 +71,5 @@ una experiencia accesible pero retadora para cualquier nivel.
 *   **P: ¿Cuántos puntos necesito para ganar?**
     *   **R:** Depende de la versión; lo habitual es que gane el primero en llegar a
         un número de puntos (por ejemplo, 11 o 21) con al menos dos tantos de ventaja.
+
 

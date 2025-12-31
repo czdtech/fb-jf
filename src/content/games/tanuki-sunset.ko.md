@@ -38,7 +38,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### 조작 방법
 <!-- i18n:controls:keys -->
-- 키(정렬)： `A` `D` `Left` `Right Arrow Keys` `Spacebar` `S` `Down Arrow Key` `W` `Up Arrow Key` `Esc`
+- 키(정렬)： `A` `D` `Left` `Right Arrow Keys` `Spacebar` `S` `Down Arrow Key` `W` `Up Arrow Key` `Hold` `Esc`
 
 - **이동/조향:** A / D 또는 왼쪽/오른쪽 방향키
 - **드리프트:** Spacebar
@@ -61,4 +61,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 **Q: 캐릭터를 커스터마이즈할 수 있나요?**  
 > 네. 플레이를 통해 얻은 점수와 목표 달성 보상으로 의상이나 롱보드 부품을
 > 해금해, Tanuki의 복장과 보드를 자유롭게 꾸밀 수 있습니다.
+
 

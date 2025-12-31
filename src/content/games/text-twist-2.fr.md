@@ -37,7 +37,7 @@ Le gameplay de base reste le meme : forme des mots a partir d'un ensemble de let
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `Enter` `Spacebar` `Backspace`
+- Touches (alignement)： `Press` `Enter` `Click` `press` `Spacebar` `Click` `press` `Backspace`
 
 -   **Taper :** Utilise ton clavier pour taper les mots.
 -   **Soumettre le mot :** Appuie sur Entree.
@@ -55,4 +55,5 @@ Oui, dans la plupart des modes standard, trouver le « mot Bingo » (un mot util
 
 **Puis-je jouer hors ligne ?**
 Beaucoup de versions de Text Twist 2 sont telechargeables et peuvent etre jouees hors ligne, offrant du divertissement sans connexion internet.
+
 

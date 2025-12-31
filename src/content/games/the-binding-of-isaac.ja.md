@@ -31,7 +31,7 @@ The Binding of Isaacは、ランダムに生成されるダンジョンを探索
 <!-- i18n:section:controls -->
 ### 操作ガイド
 <!-- i18n:controls:keys -->
-- キー（整合）： `WASD` `Arrow Keys` `Spacebar` `Shift` `E` `Q`
+- キー（整合）： `WASD` `Arrow Keys` `mouse` `Spacebar` `Shift` `E` `Q`
 
  - **WASD：** 移動
  - **矢印キー：** 射撃方向
@@ -54,4 +54,5 @@ The Binding of Isaacは、ランダムに生成されるダンジョンを探索
 **どれくらいの長さですか？**
 
 各プレイスルーは異なりますが、通常は30分から1時間程度です。
+
 

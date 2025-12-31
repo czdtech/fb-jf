@@ -29,6 +29,8 @@ Sushi Grab est un jeu de sélection rapide sur le thème du sushi sur tapis roul
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `tap`
 
 - **Attraper :** clique/tape le bon sushi sur le tapis.
 - **Pause / Recommencer :** utilise les boutons de l’interface.
@@ -42,4 +44,5 @@ Sushi Grab est un jeu de sélection rapide sur le thème du sushi sur tapis roul
 - Peut‑on « enchaîner » plusieurs prises ? Souvent non : il faut des clics individuels ; des taps rapides et précis fonctionnent le mieux.
 <!-- i18n:faq:id=faq:sushi-grab:fixed-patterns-a32756e9 -->
 - Patterns fixes ? Le tapis boucle parfois des séquences ; repère‑les et exploite‑les.
+
 

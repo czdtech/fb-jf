@@ -31,7 +31,7 @@ Super Smash Flashは、Super Smash Bros.にインスパイアされたオリジ�
 <!-- i18n:section:controls -->
 ### 操作ガイド
 <!-- i18n:controls:keys -->
-- キー（整合）： `O` `P` `A` `S` `D` `W` `F` `G` `Backspace`
+- キー（整合）： `Arrow Keys` `O` `P` `A` `S` `D` `W` `F` `G` `Backspace`
 
 
 このゲームは同じキーボードで2人プレイできる場合があります。
@@ -65,4 +65,5 @@ Super Smash Bros.スタイルのオリジナルのファン製Flashゲームで�
 **どのキャラクターがいますか？**
 
 マリオ、リンク、カービィなど、様々な任天堂キャラクターが登場します。
+
 

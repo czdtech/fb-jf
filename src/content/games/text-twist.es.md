@@ -35,7 +35,7 @@ Text Twist es un juego de puzle de palabras muy popular que pone a prueba tu voc
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `Enter` `Spacebar` `Backspace`
+- Teclas (alineación)： `Enter` `Press` `Enter` `Click` `press` `Spacebar` `Click` `press` `Backspace`
 
 - **Escritura:** usa el teclado para escribir las palabras que vayas encontrando.
 - **Confirmar palabra:** pulsa Enter para enviar la palabra.
@@ -56,5 +56,6 @@ Concéntrate en descubrir palabras largas, ya que otorgan más puntos. Intenta t
 **¿Hay distintos niveles de dificultad?**
 
 A medida que avanzas, los desafíos se vuelven más complejos: tendrás que encontrar palabras más largas, más combinaciones y resolver rondas con letras menos obvias.
+
 
 

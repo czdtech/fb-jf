@@ -33,6 +33,8 @@ The Hidden Antique Shop ist ein entspanntes Wimmelbild‑Spiel in einem alten An
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click`
 
 - Tippe oder klicke auf Objekte, um sie zu sammeln.
 - Zoomen/Scrollen und Hinweise nutzt du über die UI‑Schaltflächen (falls vom Build unterstützt).
@@ -45,5 +47,6 @@ The Hidden Antique Shop ist ein entspanntes Wimmelbild‑Spiel in einem alten An
 - Q: I’m missing one last item.
 <!-- i18n:faq:id=faq:the-hidden-antique-shop:do-mistakes-penalize-199191ba -->
 **Ich finde das letzte Objekt nicht – was tun?**
+
 
 

@@ -30,6 +30,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Mouse` `mouse` `mouse` `click`
 
 *   **移动球拍：** 一般通过鼠标移动来控制球拍位置，或使用方向键/触控拖拽，具体以游戏内提示为准；
 *   **击球：** 当球到达合适高度时，用点击或轻擡动作完成挥拍，使球反弹回对方台面。
@@ -54,3 +56,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:faq:id=faq:table-tennis:q-what-is-the-winning-84866485 -->
     - **问：怎么得分？**
+

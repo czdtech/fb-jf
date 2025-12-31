@@ -31,7 +31,7 @@ The Pillarは、美しいビジュアルと挑戦的なパズルを特徴とす�
 <!-- i18n:section:controls -->
 ### 操作ガイド
 <!-- i18n:controls:keys -->
-- キー（整合）： `WASD` `Arrow Keys` `Left Mouse Button`
+- キー（整合）： `WASD` `Arrow Keys` `Left` `Button` `click`
 
  - **WASD/矢印キー：** 移動
  - **マウス：** 相互作用とパズル操作
@@ -51,4 +51,5 @@ The Pillarは、美しいビジュアルと挑戦的なパズルを特徴とす�
 **どれくらいの長さですか？**
 
 パズル解決スキルによって異なりますが、数時間のゲームプレイが楽しめます。
+
 

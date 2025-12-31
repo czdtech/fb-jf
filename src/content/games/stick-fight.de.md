@@ -33,7 +33,7 @@ Hier sind ein paar hilfreiche Tipps.
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left Mouse Button` `F` `Right Mouse Button` `G`
+- Tasten (Abgleich)： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left` `Button` `F` `Right` `Button` `G`
 
 (typische Belegung, kann je nach Version leicht variieren)
 
@@ -54,4 +54,5 @@ Ja, Stick Fight ist vor allem auf Multiplayer ausgelegt und unterstützt in viel
 
 **Welche Waffen gibt es?**  
 Vom Schwert über Speere und Knarren bis hin zu abgedrehten Waffen (etwa Raketen, die Schlangen verschießen) ist eine große Bandbreite vertreten. Lerne, welche Waffen auf welcher Map besonders stark sind.
+
 

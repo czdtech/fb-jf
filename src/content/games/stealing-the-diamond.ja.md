@@ -32,6 +32,8 @@ Stealing the Diamondは、人気のあるHenry Stickminシリーズの一部で�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse` `mouse` `click`
 
  - **マウス：** 選択肢と相互作用をクリック
 
@@ -55,4 +57,5 @@ Stealing the Diamondは、人気のあるHenry Stickminシリーズの一部で�
 **ゲーム全体をクリアするのにどれくらいかかりますか？**
 
 すべてのエンディングを見つけるには、複数のプレイスルーが必要です。各プレイスルーは比較的短いです。
+
 

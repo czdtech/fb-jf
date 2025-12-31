@@ -32,7 +32,7 @@ Stick Fighterは、スティックマンキャラクターを使ったアーケ�
 <!-- i18n:section:controls -->
 ### 操作ガイド
 <!-- i18n:controls:keys -->
-- キー（整合）： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left Mouse Button` `F` `Right Mouse Button` `G`
+- キー（整合）： `A` `D` `Left/Right Arrow Keys` `W` `Up Arrow` `S` `Down Arrow` `Left` `Button` `F` `Right` `Button` `G`
 
 
 操作は一般的に2Dアクションの基本配置に近いです：
@@ -58,4 +58,5 @@ Stick Fighterは、スティックマンキャラクターを使ったアーケ�
 **難易度は高いですか？**
 
 ゲームは徐々に難しくなり、より多くの技とタイミングが必要になります。
+
 

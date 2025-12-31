@@ -30,7 +30,7 @@ Der Kern des Spiels sind Ressourcenmanagement und Truppensteuerung:
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `A` `D` `Spacebar`
+- Tasten (Abgleich)： `Mouse` `click` `A` `D` `Spacebar`
 
 - **Maus:** Einheiten anwählen, Buttons für Ausbildung/Upgrades klicken, Armee befehligen.
 - **Bewegung (bei direkter Kontrolle):** A / D
@@ -47,4 +47,5 @@ Ein ausgewogener Mix ist entscheidend: Speartons tanken und blocken Pfeile, Arch
 
 **Was zuerst upgraden?**  
 Meist lohnen sich zuerst Upgrades für Miner (größere Taschen) und das Einkommen deiner Statue. Danach rüstest du gezielt die Einheiten auf, die du am häufigsten nutzt.
+
 

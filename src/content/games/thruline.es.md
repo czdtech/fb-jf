@@ -31,6 +31,8 @@ Thruline te propone trazar un único camino ininterrumpido que visite todos los 
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag`
 
 - Arrastra para dibujar la línea; usa la interfaz para deshacer pasos o borrar el trazado completo. En algunas versiones se resaltan automáticamente los conflictos o rutas inválidas.
 
@@ -46,5 +48,6 @@ Thruline te propone trazar un único camino ininterrumpido que visite todos los 
 - Q: ¿Puedo cruzar líneas?  
   
   A: Solo en los puntos de puente marcados. Fuera de ellos, los cruces no están permitidos.
+
 
 

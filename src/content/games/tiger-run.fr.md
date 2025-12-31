@@ -32,6 +32,8 @@ Tiger Run est un runner infini simple situe dans la jungle. Lis les dangers a ve
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Space` `swipe`
 
 -   Deplacement : A/D ou Gauche/Droite pour changer de voie.
 -   Sauter/Glisser : Espace/Haut pour sauter ; Bas pour glisser (ou balaie sur mobile).
@@ -46,4 +48,5 @@ Tiger Run est un runner infini simple situe dans la jungle. Lis les dangers a ve
 -   **Peut-on ralentir ?** Certains modes offrent des ralentis ou baisses de vitesse temporaires via des bonus.
 <!-- i18n:faq:id=faq:tiger-run:is-there-a-finish-6f08d6d4 -->
 -   **Y a-t-il une fin ?** Generalement infini, vise de nouveaux records personnels.
+
 

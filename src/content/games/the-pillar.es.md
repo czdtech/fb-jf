@@ -34,7 +34,7 @@ La jugabilidad principal consiste en resolver puzles para seguir avanzando. Cada
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `WASD` `Arrow Keys` `Left Mouse Button`
+- Teclas (alineación)： `WASD` `Arrow Keys` `Left` `Button` `click`
 
 - **Movimiento:** teclas WASD o Flechas para mover a tu personaje.
 - **Interacción:** botón izquierdo del ratón para examinar objetos, activar mecanismos y resolver puzles.
@@ -53,5 +53,6 @@ Aunque el juego se centra en los puzles, existe una narrativa de fondo que se va
 **¿Es muy difícil el juego?**
 
 La dificultad varía entre puzles más sencillos y otros que exigen varios intentos. Muchas veces necesitarás observar con calma, probar combinaciones y no tener miedo a experimentar.
+
 
 

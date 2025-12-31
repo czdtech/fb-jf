@@ -30,7 +30,7 @@ Text Twist ist ein beliebtes Wortpuzzlespiel, das deinen Wortschatz und deine Sc
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `Enter` `Spacebar` `Backspace`
+- Tasten (Abgleich)： `Enter` `Press` `Enter` `Click` `press` `Spacebar` `Click` `press` `Backspace`
 
 - **Tippen:** Gib die gefundenen Wörter direkt über die Tastatur ein.
 - **Wort bestätigen:** Drücke Enter, um ein Wort einzureichen.
@@ -51,3 +51,4 @@ Konzentriere dich auf längere Wörter, da sie mehr Punkte bringen. Versuche au�
 **Gibt es verschiedene Schwierigkeitsstufen?**
 
 Mit steigenden Levels werden die Buchstabenkombinationen schwieriger. Du musst komplexere Wörter finden oder mit mehr Buchstaben gleichzeitig umgehen – dein Wortschatz wird also immer stärker gefordert.
+

@@ -28,6 +28,8 @@ Utilise un clic de souris ou un balayage tactile pour echanger les animaux marin
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `Click` `Swipe`
 
 *   **Souris :** Clique pour echanger les animaux marins adjacents.
 *   **Ecran tactile :** Balaie pour echanger les animaux marins adjacents.
@@ -41,4 +43,5 @@ Utilise un clic de souris ou un balayage tactile pour echanger les animaux marin
 <!-- i18n:faq:id=faq:the-sea-rush:q-how-do-i-get-62133937 -->
 *   **Q : Comment obtenir plus de points ?**
     *   **R :** Effacer plus de trois animaux a la fois ou creer des combos t accordera plus de points.
+
 

@@ -33,6 +33,8 @@ Sugar Heroes ist ein kombolastiges Match‑3, in dem du bunte Süßigkeiten vert
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `tap`
 
 - Symbole per Drag-and-drop tauschen.
 - Power‑ups antippen/anklicken, um sie auszulösen.
@@ -48,4 +50,5 @@ Sugar Heroes ist ein kombolastiges Match‑3, in dem du bunte Süßigkeiten vert
 <!-- i18n:faq:id=faq:sugar-heroes:strong-opener-13100d3b -->
 - **Guter Startzug?**  
   Wenn möglich, immer ein Match in den unteren Reihen – die nachfallenden Steine erzeugen zusätzliche Kombos.
+
 

@@ -35,6 +35,8 @@ narrador de impedir que juegues.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Left` `Button`
 
 - **Botón izquierdo del ratón:** se usa para casi todo: hacer clic en objetos, arrastrar elementos y ejecutar las acciones necesarias para resolver los puzles.
 
@@ -54,3 +56,4 @@ Son puzles poco convencionales que suelen implicar manipular la propia interfaz,
 La versión original de "There is no game" es relativamente corta y está
 planteada como una aventura point-and-click compacta. Además existe una secuela
 más larga y completa llamada "There Is No Game: Wrong Dimension".
+
