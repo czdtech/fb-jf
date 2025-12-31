@@ -33,6 +33,8 @@ richtigen Moment entscheidet über Sieg oder Sturz.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `tap`
 
 - Eine Taste/Ein Tap zum Schwerkraftwechsel, im Versus-Modus je eine Taste pro
   Spieler.
@@ -62,3 +64,4 @@ richtigen Moment entscheidet über Sieg oder Sturz.
 - **F: Gibt es Checkpoints?**  
   **A:** Im Levelmodus können Checkpoints vorhanden sein, Endlosrennen haben
   üblicherweise keine.
+

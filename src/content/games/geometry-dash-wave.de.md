@@ -41,7 +41,7 @@ präzises Timing, da du mit jedem Tap die diagonale Bewegungsrichtung änderst.
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `Spacebar` `Up Arrow Key` `Left Mouse Button`
+- Tasten (Abgleich)： `Spacebar` `Up Arrow Key` `Left` `Button` `Tap` `hold`
 
 - **PC:** Leertaste, Pfeil hoch oder Linksklick zum Steuern der Wave.
 - **Mobil:** Tippen und Halten auf dem Bildschirm, um die Richtung zu wechseln.
@@ -60,3 +60,4 @@ präzises Timing, da du mit jedem Tap die diagonale Bewegungsrichtung änderst.
 - **F: Wie verbessere ich mein Timing?**  
   **A:** Übe zunächst langsamere Level, achte auf Musik und visuelle Hinweise
   und steigere dich dann zu schnelleren und komplexeren Tracks.
+

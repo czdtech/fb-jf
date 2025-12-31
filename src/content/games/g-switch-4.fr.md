@@ -29,6 +29,8 @@ G‑Switch 4 pousse le concept à son maximum : un timing à un bouton ultra ser
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `tap`
 
 - Une touche / un tap pour flipper la gravité.  
 - En versus, chaque joueur dispose de sa touche de flip.
@@ -56,5 +58,6 @@ G‑Switch 4 pousse le concept à son maximum : un timing à un bouton ultra ser
 - Q : Y a‑t‑il des checkpoints ?
   
   R : Les modes « niveaux » peuvent en proposer ; les courses infinies ou endless, elles, n’en ont généralement pas.
+
 
 

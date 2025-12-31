@@ -25,6 +25,8 @@ Google Feudは、ファミリー・フュード（クイズ番組）スタイル
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Enter`
 - キーボードで答えを入力し、Enterで送信。画面上のボタンでカテゴリを選択します。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ Google Feudは、ファミリー・フュード（クイズ番組）スタイル
 <!-- i18n:faq:id=faq:google-feud:can-i-change-the-category-48b9cdf7 -->
 - **Q: ラウンドの途中でカテゴリを変更できますか？**  
   A: 通常はできません。現在のリストを完了するか失敗するまで続けましょう。
+
 

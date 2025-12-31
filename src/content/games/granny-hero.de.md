@@ -52,6 +52,8 @@ Mengen-Kontrolle verleihen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Space`
 
 - **Spur wechseln:** A/D oder Links/Rechts-Pfeiltasten.  
 - **Springen:** Leertaste oder Pfeil nach oben.  
@@ -76,3 +78,4 @@ Mengen-Kontrolle verleihen.
 - **F: Ist das Spiel endlos?**  
   **A:** In den meisten Modi handelt es sich um Endlos-Läufe, in die zusätzliche
   Missionsziele und Herausforderungen eingebettet sind.
+

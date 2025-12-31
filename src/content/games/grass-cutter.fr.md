@@ -31,6 +31,8 @@ Grass Cutter est un puzzle de planification de trajectoire où ta tondeuse se d�
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Arrow keys` `swipe`
 
 - Flèches directionnelles ou swipe pour déplacer la tondeuse.
 - Boutons d'annulation / redémarrage disponibles dans la plupart des versions.
@@ -59,4 +61,5 @@ Grass Cutter est un puzzle de planification de trajectoire où ta tondeuse se d�
 - Q : Toutes les versions utilisent‑elles le déplacement par glissade ?
 
   R : Non, certaines sont au pas‑à‑pas. Vérifie les règles spécifiques de ton hôte.
+
 

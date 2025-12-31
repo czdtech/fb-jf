@@ -45,7 +45,7 @@ para sortear obstáculos cambiando la trayectoria diagonal del icono.
 <!-- i18n:section:controls -->
 ### Guía de controles
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `Spacebar` `Up Arrow Key` `Left Mouse Button`
+- Teclas (alineación)： `Spacebar` `Up Arrow Key` `Left` `Button` `Tap` `hold`
 
 - **PC:** Barra espaciadora, Flecha Arriba o clic con el ratón para
   controlar el movimiento en wave.
@@ -66,4 +66,5 @@ Geometry Dash, muy usado en niveles creados por la comunidad.
 La práctica es fundamental. Presta atención tanto a la música como a las pistas
 visuales del nivel. Empieza con niveles más lentos para familiarizarte con la
 mecánica wave antes de intentar pistas más rápidas o complejas.
+
 

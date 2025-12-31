@@ -33,6 +33,8 @@ Wechsel in Schiffspassagen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `Space` `Mouse` `hold`
 
 - Tippen/Leertaste/Mausklick zum Springen; Halten zum Fliegen (je nach Host).
 
@@ -58,3 +60,4 @@ Wechsel in Schiffspassagen.
 - **F: Sind Nutzerlevel enthalten?**  
   **A:** SubZero konzentriert sich auf eingebaute Tracks – ob Community-Levels
   verfügbar sind, hängt vom Host ab.
+

@@ -40,6 +40,8 @@ Strategietitel.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `press`
 
 - Einsatz und Linien (falls vorhanden) einstellen, dann "Spin" drücken; oft gibt
   es auch Auto-Spin.
@@ -61,3 +63,4 @@ Strategietitel.
 - **F: Machen Bonusfeatures den Slot lukrativer?**  
   **A:** Features verändern vor allem die Volatilität; der langfristige
   Erwartungswert bleibt in der Regel ähnlich.
+

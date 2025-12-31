@@ -35,6 +35,8 @@ etc.).
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse`
 
 - Desliza con ratón o con el dedo para cortar; usa la interfaz para pausar o
   reiniciar.
@@ -66,4 +68,5 @@ etc.).
 - **P: ¿Hay varios modos de juego?**  
   **R:** Muchos portales ofrecen Clásico, Arcade (con potenciadores) y Zen u otras
   variantes especiales.
+
 

@@ -26,6 +26,8 @@ Grass Cutterは、芝刈り機が1マスずつ、あるいはブロックされ�
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Arrow keys` `swipe`
 - 矢印キーまたはスワイプで移動。元に戻す（アンドゥ）/リスタートボタンが一般的です。
 
 <!-- i18n:section:tips -->
@@ -45,4 +47,5 @@ Grass Cutterは、芝刈り機が1マスずつ、あるいはブロックされ�
 <!-- i18n:faq:id=faq:grass-cutter:do-all-versions-use-sliding-7cfc3d00 -->
 - **Q: すべてのバージョンでスライド移動しますか？**  
   A: するものもあれば、1歩ずつ進むものもあります。ホスト版のルールを確認してください。
+
 

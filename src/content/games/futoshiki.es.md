@@ -43,6 +43,8 @@ razonamientos limpios y potentes.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `enter`
 
 - Toca o haz clic en una celda para introducir candidatos o valores, alterna el
   modo lápiz y usa deshacer/rehacer según necesites.
@@ -65,4 +67,5 @@ razonamientos limpios y potentes.
 - **P: ¿En qué se diferencia de Sudoku?**  
   **R:** Las desigualdades añaden restricciones dirigidas que permiten jugadas
   forzadas más fuertes que en un Sudoku clásico.
+
 

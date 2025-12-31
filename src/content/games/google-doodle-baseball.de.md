@@ -38,6 +38,8 @@ Schlagwahl.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `Click` `Space`
 
 - Tippen/Klicken/Leertaste, um zu schlagen.
 
@@ -68,3 +70,4 @@ Schlagwahl.
 - **F: Wird mein Fortschritt gespeichert?**  
   **A:** In der Regel bleiben deine Scores nur innerhalb der aktuellen Sitzung
   erhalten und werden nicht dauerhaft gespeichert.
+

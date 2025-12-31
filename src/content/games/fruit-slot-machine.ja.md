@@ -29,6 +29,8 @@ Fruit Slot Machineは、クラシックなフルーツシンボルと時折の�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `press`
 
 - ベット/ライン（提供されている場合）を設定し、スピンを押します。オートスピンはオプションです。
 
@@ -44,4 +46,5 @@ Fruit Slot Machineは、クラシックなフルーツシンボルと時折の�
 <!-- i18n:faq:id=faq:fruit-slot-machine:do-features-increase-rtp-27af40bb -->
 - **Q: フィーチャーはRTP（還元率）を増やしますか？**
   A: フィーチャーはボラティリティを再形成します。長期的な期待は同様のままです。
+
 

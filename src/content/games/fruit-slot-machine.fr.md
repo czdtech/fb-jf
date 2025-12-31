@@ -32,6 +32,8 @@ Fruit Slot Machine simule une machine à sous simple à trois rouleaux, avec des
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `press`
 
 - Choisis ta mise et, si proposé, le nombre de lignes actives, puis appuie sur « Spin ».  
 - Un mode Auto‑spin peut être disponible sur certaines versions.
@@ -53,5 +55,6 @@ Fruit Slot Machine simule une machine à sous simple à trois rouleaux, avec des
 - Q : Les features augmentent‑elles vraiment le RTP ?
   
   R : Elles modifient surtout la volatilité (pics de gains, périodes creuses). L’espérance de gain à long terme reste globalement similaire.
+
 
 

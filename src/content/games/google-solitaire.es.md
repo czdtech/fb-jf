@@ -34,6 +34,8 @@ solo pueden ocuparse con Reyes o con columnas que empiecen por un Rey.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `drag` `drop` `click`
 
 - Ratón o pantalla táctil para arrastrar y soltar; el doble clic suele mover
   automáticamente una carta a un fundamento si el movimiento es legal.
@@ -63,4 +65,5 @@ solo pueden ocuparse con Reyes o con columnas que empiecen por un Rey.
 - **P: ¿En qué se diferencian robar‑1 y robar‑3?**  
   **R:** En robar‑1 ves las cartas en orden una a una; en robar‑3 el mazo avanza
   en grupos de tres y resulta más difícil gestionar el descarte.
+
 

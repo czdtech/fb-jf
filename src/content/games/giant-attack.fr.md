@@ -32,6 +32,8 @@ Giant Attack est un jeu d'action rapide où tu te retrouves face à des monstres
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `click` `drag`
 
 Les contrôles sont simples et intuitifs.
 
@@ -52,4 +54,5 @@ Les contrôles sont simples et intuitifs.
 <!-- i18n:faq:id=faq:giant-attack:q-how-do-i-win-c06399aa -->
 *   **Q : Comment gagner un niveau ?**
     *   **R :** Tu remportes la partie en faisant tomber la barre de vie du géant à zéro avant qu'il ne te mette KO.
+
 

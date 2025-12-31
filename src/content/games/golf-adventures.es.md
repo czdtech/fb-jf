@@ -46,6 +46,8 @@ posible. Es un juego de ángulos, potencia y resolución ingeniosa de problemas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `Click` `hold` `mouse` `Drag` `drag` `mouse`
 
 El juego utiliza una mecánica simple de arrastrar y soltar.
 
@@ -72,4 +74,5 @@ El juego utiliza una mecánica simple de arrastrar y soltar.
     *   **R:** Busca rampas u otros elementos. En algunos niveles tendrás que lanzar
         la bola por una rampa para saltar por encima del obstáculo; en otros, quizá
         tengas que usar rebotes contra paredes para rodearlo.
+
 

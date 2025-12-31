@@ -56,6 +56,8 @@ prestar mucha atención a lo que tu rival roba y descarta.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `Click`
 
 El juego se maneja con ratón o pantalla táctil.
 
@@ -85,4 +87,5 @@ El juego se maneja con ratón o pantalla táctil.
         (lay off) sus cartas, su deadwood queda igual o por debajo del tuyo. En
         ese caso, es el oponente quien puntúa la diferencia y recibe una
         bonificación.
+
 

@@ -33,6 +33,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `drag` `swipe`
 
 - 鼠标按住拖拽或触控滑动即可完成斩击；
 - 注意避开炸弹的 hitbox；
@@ -53,3 +55,4 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:fruit-chef:multitouch-helps-19d64a66 -->
 - 问：多指操作有帮助吗？  
   答：若装置与版本支援多点触控，使用两指画出平行或交错弧线，确实能更安全地覆盖更大范围。
+

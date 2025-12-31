@@ -55,6 +55,8 @@ Kurs zur gemütlichen Party-Runde mit Freunden.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse`
 
 - Ziele mit der Maus, ziehe zurück, um die Schlagstärke zu bestimmen, und lasse
   dann los, um zu putten.  
@@ -79,3 +81,4 @@ Kurs zur gemütlichen Party-Runde mit Freunden.
 - **F: Wie funktioniert der Mehrspielermodus?**  
   **A:** In vielen Varianten spielst du im Hot-Seat-Modus: Mehrere Spieler
   teilen sich dasselbe Gerät und führen ihre Schläge der Reihe nach aus.
+

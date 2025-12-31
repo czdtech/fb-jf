@@ -40,6 +40,8 @@ Skins oder Fortsetzungen freizuschalten.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD` `drag` `Space`
 
 - Steuere die Kugel mit **WASD/Pfeiltasten** oder per **Ziehen/Wischen** (je
   nach Plattform).  
@@ -74,3 +76,4 @@ Skins oder Fortsetzungen freizuschalten.
 - **F: Gibt es Checkpoints in langen Leveln?**  
   **A:** Viele Stages haben Zwischen-Checkpoints, ab denen du nach einem Sturz
   weiterspielen kannst. In Endlos-Modi gibt es häufig keine Checkpoints.
+

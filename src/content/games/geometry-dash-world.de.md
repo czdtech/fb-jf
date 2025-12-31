@@ -39,6 +39,8 @@ verinnerlichen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Space` `Mouse` `hold`
 
 - Leertaste/Maus/Touch zum Springen; Halten zum Fliegen; Practice- und
   Checkpoint-Shortcuts sind hostabhängig.
@@ -70,3 +72,4 @@ verinnerlichen.
 - **F: Kann ich Checkpoints setzen?**  
   **A:** Im Practice-Mode ja, im normalen Run musst du Level ohne Checkpoints
   durchspielen.
+

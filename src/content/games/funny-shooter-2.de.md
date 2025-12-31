@@ -32,6 +32,8 @@ bessere Waffen und Hilfsmittel.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD` `Mouse` `Shift`
 
 - WASD zum Laufen, Maus zum Zielen/Schießen.  
 - R zum Nachladen.  
@@ -63,3 +65,4 @@ bessere Waffen und Hilfsmittel.
 - **F: Kann ich die Maus-Sensitivität ändern?**  
   **A:** Meist gibt es im Einstellungsmenü Optionen für Sensitivität und
   Sichtfeld (FOV).
+

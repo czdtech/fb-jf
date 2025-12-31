@@ -29,6 +29,8 @@ Funny Shooter 2 est un FPS en arène où tu affrontes des vagues d’ennemis tot
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD` `Mouse` `Shift`
 
 - WASD : se déplacer  
 - Souris : viser / tirer  
@@ -60,5 +62,6 @@ Funny Shooter 2 est un FPS en arène où tu affrontes des vagues d’ennemis tot
 - Q : Puis‑je régler la sensibilité de la souris ?
   
   R : Oui, la plupart des hébergeurs proposent un menu d’options pour modifier la sensibilité, le FOV et parfois d’autres paramètres.
+
 
 

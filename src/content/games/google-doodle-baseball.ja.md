@@ -26,6 +26,8 @@ Googleの遊び心あふれる野球Doodleでは、あなたはバッターと�
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Tap` `Click` `Space`
 - タップ/クリック/スペースキーでスイングします。
 
 <!-- i18n:section:tips -->
@@ -45,4 +47,5 @@ Googleの遊び心あふれる野球Doodleでは、あなたはバッターと�
 <!-- i18n:faq:id=faq:google-doodle-baseball:is-progress-saved-2fd2b251 -->
 - **Q: 進捗は保存されますか？**  
   A: スコアは通常、そのセッション内でのみ有効（ローカル）です。
+
 

@@ -40,6 +40,8 @@ releaseDate: 2025-08-16
 
 <!-- i18n:section:controls -->
 ### **操作指南**
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `Tap` `Click` `Click` `Click` `Click` `Drag` `Drop` `Drag` `Press` `hold` `drag`
 
 这类游戏的操作方式通常非常直观，多数基于简单的点击与拖拽。
 
@@ -71,4 +73,5 @@ releaseDate: 2025-08-16
 <!-- i18n:faq:id=faq:grow-a-garden:does-the-game-need-to-b46d6202 -->
 **4. 这类游戏需要一直在线吗？**  
 大多数现代园艺类游戏都支持某种形式的**离线生长**。也就是说，在你关闭游戏后，时间仍会继续推进，作物仍会生长。这也是为什么建议你在下线前种下一批生长周期较长的作物——等你下次上线时，它们往往已经进入可收获阶段。
+
 

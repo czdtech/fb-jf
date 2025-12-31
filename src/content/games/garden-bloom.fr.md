@@ -39,6 +39,8 @@ Garden Bloom est un jeu relaxant et créatif qui mélange des puzzles match‑3 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `drag` `click` `Click` `Click`
 
 *   **Dans les puzzles** : utilise ta souris ou ton doigt pour échanger deux éléments adjacents (fleurs, feuilles, etc.). Clique‑glisse un élément sur un autre, ou clique sur les deux dans l'ordre.
 *   **Dans le jardin** : clique sur la liste de tâches (généralement en bas à gauche) pour voir ce qu'il te reste à faire. Clique sur une tâche pour dépenser une étoile et la réaliser.
@@ -57,4 +59,5 @@ Garden Bloom est un jeu relaxant et créatif qui mélange des puzzles match‑3 
 <!-- i18n:faq:id=faq:garden-bloom:q-can-i-change-the-e2a73e9c -->
 *   **Q : Puis‑je changer les décorations que j'ai déjà choisies ?**
     *   **R :** Dans la plupart des jeux du genre, un choix de décoration est définitif. Pour le modifier, il faut généralement maintenir l'objet posé et dépenser des pièces pour le remplacer.
+
 

@@ -30,6 +30,8 @@ Geometry Dash SubZero est un pack de niveaux Geometry Dash sur le thème de l’
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `Space` `Mouse` `hold`
 
 - Taper / Espace / clic souris : sauter ; maintenir pour voler (selon l’hébergeur).
 
@@ -56,5 +58,6 @@ Geometry Dash SubZero est un pack de niveaux Geometry Dash sur le thème de l’
 - Q : Y a‑t‑il des niveaux créés par la communauté ?
   
   R : SubZero met l’accent sur les niveaux intégrés ; la présence de niveaux UGC dépend de l’hôte sur lequel tu joues.
+
 
 

@@ -30,6 +30,8 @@ Going Balls est un runner de type « tilt‑and‑roll » sur des pistes étroit
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD` `drag` `Space`
 
 - WASD / flèches ou glisser pour diriger la bille.
 - Espace : freiner (selon la version).
@@ -59,4 +61,5 @@ Going Balls est un runner de type « tilt‑and‑roll » sur des pistes étroit
 - Q : Y a‑t‑il des checkpoints dans les niveaux longs ?
 
   R : Beaucoup de stages proposent des checkpoints intermédiaires ; les modes infinis, eux, t'obligent souvent à repartir de zéro.
+
 

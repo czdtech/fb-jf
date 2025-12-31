@@ -34,6 +34,8 @@ Golf Fling est un puzzle physique fun et exigeant qui réinvente la façon de jo
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `hold` `mouse` `Drag` `mouse` `mouse`
 
 *   **Viser et régler la puissance :** clique et maintiens sur la balle, puis tire la souris vers l'arrière pour choisir direction et force.
 *   **Fling :** relâche le bouton de la souris pour propulser la balle.
@@ -52,4 +54,5 @@ Golf Fling est un puzzle physique fun et exigeant qui réinvente la façon de jo
 <!-- i18n:faq:id=faq:golf-fling:q-can-i-make-the-b0b9a190 -->
 *   **Q : Puis‑je faire tourner la balle ?**
     *   **R :** En général, non. Il n'y a pas d'effet appliqué après le tir ; tout se joue sur ton angle initial et la puissance choisie.
+
 

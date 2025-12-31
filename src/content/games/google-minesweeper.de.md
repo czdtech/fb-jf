@@ -37,6 +37,8 @@ aktivieren. Je nach Schwierigkeitsgrad ändern sich Feldgröße und Minenanzahl.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse`
 
 - Maus oder Touch-Eingabe; optionale Chord- und Schnellöffnen-Kürzel hängen vom
   jeweiligen Host ab.
@@ -68,3 +70,4 @@ aktivieren. Je nach Schwierigkeitsgrad ändern sich Feldgröße und Minenanzahl.
 - **F: Verändert der Schwierigkeitsgrad nur die Feldgröße?**  
   **A:** Nein, sowohl die Größe des Spielfelds als auch die
   **Minen-Dichte** werden angepasst.
+

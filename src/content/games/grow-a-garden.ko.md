@@ -82,6 +82,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### **조작 가이드**
+<!-- i18n:controls:keys -->
+- 키(정렬)： `Click` `Tap` `Click` `Click` `Click` `Click` `Drag` `Drop` `Drag` `Press` `hold` `drag`
 
 이 계열 게임의 조작은 대부분 간단한 클릭과 드래그로 이루어집니다.
 
@@ -120,4 +122,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 대부분의 정원 시뮬레이션은 **오프라인 성장**을 지원합니다. 씨를 심어 두면
 게임을 꺼도 시간이 흐르며 자라기 때문에, 접속 종료 전에 성장 시간이 긴
 작물을 심어 두는 것이 효율적입니다.
+
 

@@ -57,6 +57,8 @@ mehrere Bounces aneinander, um entfernte Ziele zu erreichen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `tap` `swipe`
 
 - Tippe einmal, um die Kraftanzeige zu starten, und tippe erneut, um Kraft und
   Winkel festzulegen.  
@@ -80,3 +82,4 @@ mehrere Bounces aneinander, um entfernte Ziele zu erreichen.
   **A:** Ja. Wenn du sie tangential triffst, kannst du wie bei einer
   Schleuderbahn zusätzlichen Schub mitnehmen. Es lohnt sich, die Winkel dafür
   ein wenig zu üben.
+

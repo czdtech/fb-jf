@@ -36,6 +36,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `press`
 
 - 调整下注金额与启动的线数（若该版本提供），之后按下「Spin」开始旋转；
 - 某些版本提供自动旋转，建议在预算可控的情况下使用。
@@ -54,3 +56,4 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:fruit-slot-machine:do-features-increase-rtp-27af40bb -->
 - 问：特殊功能会让长期胜率变高吗？  
   答：特殊功能主要改变波动与体验感，长期期望值大致相近，不应把它视为稳赚机制。
+

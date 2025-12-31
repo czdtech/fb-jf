@@ -33,6 +33,8 @@ ständig zunimmt.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `tap`
 
 - Eine Taste/ein Tap zum Schwerkraftwechsel; im Multiplayer-Modus hat jeder
   Spieler seine eigene Taste.
@@ -64,3 +66,4 @@ ständig zunimmt.
 - **F: Sind die Level zufällig?**  
   **A:** Einige Modi nutzen handgebaute Strecken, Endlosmodi sind oft
   prozedural generiert.
+

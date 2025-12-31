@@ -44,6 +44,8 @@ fallen deine Projektile aus.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `click` `drag`
 
 Die Steuerung ist bewusst einfach und intuitiv gehalten.
 
@@ -69,4 +71,5 @@ Die Steuerung ist bewusst einfach und intuitiv gehalten.
 *   **F: Wann ist ein Level gewonnen?**
     *   **A:** Wenn die Lebensleiste des Riesen auf null sinkt, bevor er dich selbst
         ausschaltet.
+
 

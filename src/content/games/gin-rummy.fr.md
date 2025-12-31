@@ -39,6 +39,8 @@ Gin Rummy est un jeu de cartes à deux joueurs de la famille du Rami. Ton object
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `Click`
 
 Le jeu se joue à la souris ou au tactile.
 
@@ -60,4 +62,5 @@ Le jeu se joue à la souris ou au tactile.
 <!-- i18n:faq:id=faq:gin-rummy:q-what-is-an-undercut-5a7e2506 -->
 *   **Q : C'est quoi un « undercut » ?**
     *   **R :** Un undercut se produit lorsque tu knock, mais que ton adversaire se retrouve avec un deadwood inférieur ou égal au tien après avoir posé sur tes melds. Dans ce cas, c'est lui qui marque les points (différence + bonus).
+
 

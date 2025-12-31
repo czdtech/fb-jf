@@ -44,6 +44,8 @@ starke Schlussfolgerungen ableiten lassen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `enter`
 
 - Tippe ein Feld an, um Kandidaten oder feste Werte einzutragen; wechsle in den
   Notizmodus nach Bedarf; Rückgängig/Wiederherstellen über Buttons.
@@ -66,3 +68,4 @@ starke Schlussfolgerungen ableiten lassen.
 - **F: Worin unterscheidet es sich von Sudoku?**  
   **A:** Die Ungleichheitszeichen geben gerichtete Zusatzinfos, mit denen du
   stärker erzwungene Züge findest als nur über Kandidatenzählung.
+

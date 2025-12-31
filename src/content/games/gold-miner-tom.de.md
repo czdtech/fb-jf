@@ -55,6 +55,8 @@ Steine kosten dagegen nur Zeit.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `mouse` `tap` `Click`
 
 Das Spiel nutzt ein sehr simples Ein-Klick-Steuerungsschema.
 
@@ -83,3 +85,4 @@ Das Spiel nutzt ein sehr simples Ein-Klick-Steuerungsschema.
 *   **F: Was passiert, wenn ich das Geldziel nicht rechtzeitig erreiche?**
     *   **A:** Läuft der Timer ab, bevor du das Ziel erfüllst, ist die Runde
         verloren und das Spiel endet.
+

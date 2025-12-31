@@ -45,6 +45,8 @@ objetivos escondidos.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `tap` `swipe`
 
 - Toca para iniciar la barra de potencia y vuelve a tocar para fijar
   potencia/ángulo; en algunas versiones puedes aplicar efecto deslizando.
@@ -66,4 +68,5 @@ objetivos escondidos.
 - **P: ¿Los pozos de gravedad realmente ayudan?**  
   **R:** Sí. Entra en ellos de forma tangencial para salir disparado con más
   velocidad; merece la pena practicar el timing.
+
 

@@ -52,6 +52,8 @@ mit denen du riesige Teile des Felds leeren kannst.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `tap` `tap`
 
 Die Steuerung ist extrem einfach.
 
@@ -77,3 +79,4 @@ Die Steuerung ist extrem einfach.
     *   **A:** Fokussiere dich darauf, Booster zu bauen und sie miteinander zu
         kombinieren, statt viele kleine Gruppen wegzuklicken – so holst du das
         meiste aus jedem einzelnen Zug heraus.
+

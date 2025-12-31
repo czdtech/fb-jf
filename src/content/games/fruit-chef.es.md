@@ -41,6 +41,8 @@ encima de los manotazos caóticos.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `drag` `swipe`
 
 - Haz clic y arrastra, o desliza el dedo, para cortar; evita las bombas y usa
   los botones de pausa o reinicio en la interfaz.
@@ -62,4 +64,5 @@ encima de los manotazos caóticos.
 - **P: ¿Ayuda usar multitáctil?**  
   **R:** Si la versión lo admite, usar varios dedos te permite cubrir más
   pantalla de forma segura.
+
 

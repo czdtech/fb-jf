@@ -40,6 +40,8 @@ estrategia.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `press`
 
 - Ajusta apuesta y líneas (si el juego lo permite) y pulsa **Spin**. Algunas
   versiones incluyen giro automático.
@@ -60,4 +62,5 @@ estrategia.
 - **P: ¿Las funciones especiales aumentan el RTP?**  
   **R:** Sobre todo modifican la volatilidad; la expectativa a largo plazo suele
   mantenerse similar.
+
 

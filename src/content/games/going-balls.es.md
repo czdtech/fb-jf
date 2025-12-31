@@ -38,6 +38,8 @@ algunas versiones, continuaciones.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD` `drag` `Space`
 
 - WASD/Flechas o arrastre para dirigir la bola; barra espaciadora para frenar
   cuando exista; R para reiniciar (según el portal).
@@ -67,4 +69,5 @@ algunas versiones, continuaciones.
 - **P: ¿Hay puntos de control en los niveles largos?**  
   **R:** Muchos niveles incluyen puntos de control intermedios, pero los modos
   infinitos normalmente no.
+
 

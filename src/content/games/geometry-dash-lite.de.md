@@ -35,6 +35,8 @@ abgestimmt sind.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Space` `Mouse` `hold`
 
 - Leertaste/Maus/Touch zum Springen; gedrückt halten zum Fliegen.  
 - Übungsmodus und Checkpoints je nach Host per zusätzlicher Taste.
@@ -63,3 +65,4 @@ abgestimmt sind.
 - **F: Gibt es Custom-Levels?**  
   **A:** Die Lite-Version fokussiert sich auf eingebaute Tracks; ob
   Community-Level verfügbar sind, hängt vom jeweiligen Host ab.
+

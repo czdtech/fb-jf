@@ -26,6 +26,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse`
 - マウス/タッチで狙って撃ちます。利用可能な場合、次の色を交換します。
 
 <!-- i18n:section:tips -->
@@ -45,4 +47,5 @@ locale: ja
 <!-- i18n:faq:id=faq:fuzzies:what-ends-the-level-616d217e -->
 - **Q: レベルは何で終わりますか？**  
   A: モードによって、壁が底に到達するか、ショットがなくなるかです。
+
 

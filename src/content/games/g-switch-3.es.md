@@ -34,6 +34,8 @@ También amplía las opciones de carreras locales con muchos jugadores.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `tap`
 
 - Una tecla o toque para invertir la gravedad; en versus, cada jugador tiene su
   propia tecla.
@@ -62,4 +64,5 @@ También amplía las opciones de carreras locales con muchos jugadores.
 - **P: ¿Hay opciones de dificultad?**  
   **R:** La dificultad se ajusta con la velocidad y la densidad de obstáculos
   más que con un selector en el menú.
+
 

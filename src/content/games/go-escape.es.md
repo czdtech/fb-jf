@@ -41,6 +41,8 @@ en dominar el ritmo de cada sala y luego ejecutar una pasada limpia.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD` `Space`
 
 - Movimiento/Salto: Flechas o WASD + barra espaciadora; algunos niveles añaden
   salto en pared o doble salto.
@@ -61,4 +63,5 @@ en dominar el ritmo de cada sala y luego ejecutar una pasada limpia.
 - **P: ¿Hay límite de tiempo?**  
   **R:** Muchas salas no están cronometradas; al principio compensa más ser
   constante que hacer speedrun hasta conocer bien el diseño.
+
 

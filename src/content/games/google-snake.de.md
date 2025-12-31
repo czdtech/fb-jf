@@ -38,6 +38,8 @@ Spielfeldgröße, Hindernisse und Effekte spezieller Items.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow keys` `WASD`
 
 - Pfeiltasten oder **WASD**, um die Richtung der Schlange zu steuern.  
 - Pausieren/Neustart erfolgt über Schaltflächen in der Benutzeroberfläche.
@@ -69,3 +71,4 @@ Spielfeldgröße, Hindernisse und Effekte spezieller Items.
 - **F: Gibt es unterschiedliche Spielfelder?**  
   **A:** Viele Hosts bieten verschiedene Größen, Hindernis-Anordnungen und
   Item-Varianten an.
+

@@ -26,6 +26,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `tap`
 - フリップには1つのキー/タップ。対戦モードではプレイヤーごとのキーです。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ locale: ja
 <!-- i18n:faq:id=faq:g-switch-3:are-there-difficulty-options-60456ff2 -->
 - **Q: 難易度オプションはありますか？**  
   A: 難易度は、メニューではなく速度と障害物の密度でスケールします。
+
 

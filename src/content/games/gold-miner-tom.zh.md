@@ -39,6 +39,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `mouse` `tap` `Click`
 
 本游戏采用简单的一键操作。
 
@@ -60,3 +62,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:gold-miner-tom:q-what-happens-if-i-9e9ed57b -->
 *   **问：如果时间到还没达成目标会怎样？**
     *   **答：** 计时结束且金额未达标时，这一局就会结束，你需要重新挑战。"}
+

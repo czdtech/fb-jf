@@ -30,6 +30,8 @@ Google Feud reprend le principe de « Family Feud », mais appliqué aux requêt
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Enter`
 
 - Clavier pour saisir les réponses, Entrée pour valider.  
 - Boutons à l’écran pour changer de catégorie entre les manches.
@@ -58,5 +60,6 @@ Google Feud reprend le principe de « Family Feud », mais appliqué aux requêt
 - Q : Puis‑je changer de catégorie en cours de manche ?
   
   R : En général non : tu dois finir (ou échouer) la liste actuelle avant de passer à une autre catégorie.
+
 
 

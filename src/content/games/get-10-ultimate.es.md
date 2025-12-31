@@ -48,6 +48,8 @@ puntuación máximas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `click` `tap` `Click`
 
 El juego se maneja con un solo clic o toque.
 
@@ -73,4 +75,5 @@ El juego se maneja con un solo clic o toque.
 *   **P: ¿La nueva casilla aparece en un lugar aleatorio?**
     *   **R:** No. La casilla resultante aparece exactamente en la posición del grupo
         en la que hiciste clic.
+
 

@@ -42,7 +42,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### 조작 방법
 <!-- i18n:controls:keys -->
-- 키(정렬)： `Spacebar` `Up Arrow Key` `Left Mouse Button`
+- 키(정렬)： `Spacebar` `Up Arrow Key` `Left` `Button` `Tap` `hold`
 
 - **PC**: Spacebar, 방향키 위, 또는 마우스 왼쪽 버튼으로 웨이브를 제어합니다.
 - **모바일**: 화면을 길게 누르면 상승, 떼면 하강하며, 탭 리듬에 맞춰 파동
@@ -63,4 +63,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 연습이 가장 중요합니다. 먼저 속도가 느린 레벨부터 플레이하면서 웨이브의
 상승·하강 감각을 익히고, 음악과 화면의 패턴을 함께 보는 습관을 들인 뒤,
 점차 빠르고 복잡한 레벨에 도전해 보세요.
+
 

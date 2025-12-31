@@ -36,6 +36,8 @@ consistencia y elegir bien dónde mandar la bola.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `Click` `Space`
 
 - Toca, haz clic o pulsa la barra espaciadora para hacer swing.
 
@@ -64,4 +66,5 @@ consistencia y elegir bien dónde mandar la bola.
 <!-- i18n:faq:id=faq:google-doodle-baseball:is-progress-saved-2fd2b251 -->
 - **P: ¿Se guarda el progreso?**  
   **R:** Las puntuaciones suelen quedar solo en la sesión actual.
+
 

@@ -32,6 +32,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Enter`
 
 - 使用键盘输入答案，按 Enter 送出；
 - 通过画面上的按钮选择类别或进入下一题。
@@ -58,3 +60,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:google-feud:can-i-change-the-category-48b9cdf7 -->
 - 问：中途可以切换类别吗？  
   答：通常不行，需要先完成或失败当前题目组，再回到选单挑选新类别。
+

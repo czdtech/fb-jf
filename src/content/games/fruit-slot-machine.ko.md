@@ -41,6 +41,8 @@ Fruit Slot Machine은 전통적인 3릴 슬롯 머신을 재현한 게임으로,
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `press`
 
 - 베팅 금액/라인 수를 설정한 뒤 Spin 버튼을 눌러 릴을 돌립니다.  
 - 일부 버전은 자동 스핀 기능을 제공합니다.  
@@ -62,4 +64,5 @@ Fruit Slot Machine은 전통적인 3릴 슬롯 머신을 재현한 게임으로,
 <!-- i18n:faq:id=faq:fruit-slot-machine:do-features-increase-rtp-27af40bb -->
 *   **Q: 보너스 기능이 RTP를 올려 주나요?**
   **A:** 보너스는 변동성(한 번에 크게 터지는 정도)을 바꾸는 요소에 가깝습니다. 장기 기대값 자체를 크게 올려 준다고 보기보다는, 당첨 패턴이 달라진다고 이해하는 편이 좋습니다.
+
 

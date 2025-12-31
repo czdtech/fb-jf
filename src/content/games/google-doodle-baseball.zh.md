@@ -30,6 +30,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Tap` `Click` `Space`
 
 - 轻触屏幕、鼠标点击或空白键即可挥棒一次。
 
@@ -55,3 +57,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:google-doodle-baseball:is-progress-saved-2fd2b251 -->
 - 问：成绩会被记录吗？  
   答：大多数版本只在本地记录当前游戏分数，关闭页面后通常不会云端保存。
+

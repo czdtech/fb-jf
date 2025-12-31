@@ -54,6 +54,8 @@ dann einen perfekten Lauf hinzulegen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD` `Space`
 
 - **Bewegen/Springen:** Pfeiltasten oder WASD plus Sprungtaste (häufig
   Leertaste).  
@@ -79,3 +81,4 @@ dann einen perfekten Lauf hinzulegen.
   **A:** Viele Räume sind nicht streng zeitlich begrenzt. Konzentriere dich
   zuerst darauf, konsistente Runs zu schaffen – Speedruns kommen später, wenn du
   die Level gut kennst.
+

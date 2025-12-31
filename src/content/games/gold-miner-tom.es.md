@@ -51,6 +51,8 @@ solo harán que pierdas segundos preciosos.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `mouse` `tap` `Click`
 
 El juego utiliza un esquema de control muy sencillo de un solo toque.
 
@@ -76,4 +78,5 @@ El juego utiliza un esquema de control muy sencillo de un solo toque.
 *   **P: ¿Qué pasa si no llego al objetivo de dinero a tiempo?**
     *   **R:** Si el temporizador llega a cero y no has alcanzado la meta, la partida
         termina.
+
 

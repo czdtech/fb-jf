@@ -55,6 +55,8 @@ limpian aún más tablero de una sola vez.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `tap` `tap`
 
 Los controles son muy sencillos.
 
@@ -80,4 +82,5 @@ Los controles son muy sencillos.
     *   **R:** Prioriza la creación de potenciadores formando grupos grandes en lugar
         de muchos grupos pequeños. Luego intenta colocar dos potenciadores juntos y
         activarlos a la vez para limpiar medio tablero de una sola jugada.
+
 

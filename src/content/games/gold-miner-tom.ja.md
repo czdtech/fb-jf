@@ -34,6 +34,8 @@ Gold Miner Tomは、タイミングと精度が試されるクラシックなア
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Click` `mouse` `tap` `Click`
 
 ゲームはシンプルなワンタッチ操作を使用します。
 
@@ -54,4 +56,5 @@ Gold Miner Tomは、タイミングと精度が試されるクラシックなア
 <!-- i18n:faq:id=faq:gold-miner-tom:q-what-happens-if-i-9e9ed57b -->
 *   **Q: 時間内に目標金額に届かなかったらどうなりますか？**
     *   **A:** タイマーがゼロになった時点で目標金額に達していない場合、ゲームオーバーになります。
+
 

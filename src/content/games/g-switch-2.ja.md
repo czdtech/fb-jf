@@ -26,6 +26,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `tap`
 - 単一キー/タップでフリップします。対戦モードではプレイヤーごとに固有のキーです。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ locale: ja
 <!-- i18n:faq:id=faq:g-switch-2:can-i-remap-keys-f5a01d64 -->
 - **Q: キーを再マップできますか？**  
   A: 多くのホストでは、開始前にキー選択が可能です。
+
 

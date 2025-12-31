@@ -46,6 +46,8 @@ verstärken deine Schüsse oder bringen Zusatzbälle und Extra-Punkte.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `tap` `click`
 
 - **Ball abfeuern:** Klicke oder tippe auf den Bildschirm, um den Ball
   loszuschicken. Position und eventuell gezogener Winkel bestimmen Richtung und
@@ -68,4 +70,5 @@ verstärken deine Schüsse oder bringen Zusatzbälle und Extra-Punkte.
 *   **F: Wie erziele ich höhere Punktzahlen?**
     *   **A:** Triff möglichst viele Pins, sammle Power‑ups, räume gezielt Hindernisse
         aus dem Weg und versuche Kombos und Trickschüsse ins Tor.
+
 

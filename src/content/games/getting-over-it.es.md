@@ -39,6 +39,8 @@ anclaje, arcos de impulso y ángulos suaves de ratón.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse`
 
 - El ratón controla el ángulo y la fuerza del martillo; el teclado apenas se
   usa (depende del portal).
@@ -70,4 +72,5 @@ anclaje, arcos de impulso y ángulos suaves de ratón.
 - **P: ¿Puedo perder todo mi progreso con un solo fallo?**  
   **R:** Sí, las grandes caídas forman parte del diseño; la paciencia es la
   habilidad clave del juego.
+
 

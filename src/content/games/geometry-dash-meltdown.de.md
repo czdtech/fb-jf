@@ -32,6 +32,8 @@ Schiff- und Ball-Sektionen, die alle eng auf den Beat abgestimmt sind.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `Space` `Mouse` `hold`
 
 - Tippen/Leertaste/Mausklick zum Springen; Halten zum Fliegen (je nach Host).
 
@@ -58,3 +60,4 @@ Schiff- und Ball-Sektionen, die alle eng auf den Beat abgestimmt sind.
 - **F: Gibt es User-Levels?**  
   **A:** Meltdown konzentriert sich auf eingebaute Level; Community-Content
   hängt vom Host ab.
+

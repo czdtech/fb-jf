@@ -40,6 +40,8 @@ Platzierung, Timing und Ballflug.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `mouse`
 
 - **Maus/Touch:** Zielen, Schusskraft und Effet werden meist über eine
   Kombination aus Klicken/Tippen und Ziehen eingestellt (Details hängen vom
@@ -58,4 +60,5 @@ Platzierung, Timing und Ballflug.
     *   **A:** Entweder mit einem gezielten Curl über oder um die Mauer oder mit einem
         harten, flachen Schuss durch eine Lücke – such dir je nach Maueraufstellung
         die Variante mit der größten Trefferchance aus.
+
 

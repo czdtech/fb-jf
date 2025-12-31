@@ -29,6 +29,8 @@ Minesweeper affiche des nombres indiquant combien de mines touchent chaque case.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse`
 
 - Souris / tactile ; les raccourcis pour le chord et les ouvertures rapides dépendent de la version.
 
@@ -56,5 +58,6 @@ Minesweeper affiche des nombres indiquant combien de mines touchent chaque case.
 - Q : La difficulté change‑t‑elle seulement la taille de la grille ?
   
   R : Non, elle modifie à la fois les dimensions du plateau et la densité de mines.
+
 
 

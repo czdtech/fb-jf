@@ -37,6 +37,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `Click` `Click`
 
 ゲームはマウスまたはタッチスクリーンでプレイします。
 
@@ -58,4 +60,5 @@ locale: ja
 <!-- i18n:faq:id=faq:gin-rummy:q-what-is-an-undercut-5a7e2506 -->
 *   **Q: 「アンダーカット」とは何ですか？**
     *   **A:** あなたがノックした際、相手がカードを付け足した後のデッドウッドの値が、あなたの値以下だった場合に発生します。この場合、あなたではなく相手に得点が入ります。
+
 

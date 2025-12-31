@@ -29,6 +29,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Mouse`
 
 - 使用鼠标选取单位、建造建筑；
 - 具体生产快捷键与镜头操作可能依托管版本略有不同。
@@ -54,3 +56,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:galactic-empire:is-there-a-tech-tree-bdb50659 -->
 - 问：游戏里有科技树吗？  
   答：多数版本会将更强大的舰船与升级绑定在特定星域或科技节点上，必须先夺下关键区域才能解锁。
+

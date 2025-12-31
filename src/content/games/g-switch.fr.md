@@ -31,6 +31,8 @@ G‑Switch est un auto‑runner basé sur les inversions de gravité. Ton person
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `tap`
 
 - Une touche / un tap pour inverser la gravité.  
 - En multijoueur local, chaque joueur dispose d’une touche dédiée.
@@ -59,5 +61,6 @@ G‑Switch est un auto‑runner basé sur les inversions de gravité. Ton person
 - Q : Les niveaux sont‑ils toujours les mêmes ?
   
   R : Certains modes utilisent des niveaux créés à la main, d’autres proposent des parcours infinis générés de façon procédurale.
+
 
 

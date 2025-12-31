@@ -36,6 +36,8 @@ Gold Miner Tom est un jeu d'arcade classique qui teste ton timing et ta précisi
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `mouse` `tap` `Click`
 
 Le jeu se joue avec un seul type d'action.
 
@@ -56,4 +58,5 @@ Le jeu se joue avec un seul type d'action.
 <!-- i18n:faq:id=faq:gold-miner-tom:q-what-happens-if-i-9e9ed57b -->
 *   **Q : Que se passe‑t‑il si je n'atteins pas l'objectif à temps ?**
     *   **R :** Si le timer atteint zéro et que tu n'as pas atteint le montant requis, la partie est terminée.
+
 

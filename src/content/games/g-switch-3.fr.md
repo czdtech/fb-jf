@@ -30,6 +30,8 @@ G‑Switch 3 accélère encore le rythme et introduit des chaînes de pièges co
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `tap`
 
 - Une touche / un tap pour inverser la gravité.  
 - En versus, chaque joueur possède sa propre touche.
@@ -57,5 +59,6 @@ G‑Switch 3 accélère encore le rythme et introduit des chaînes de pièges co
 - Q : Y a‑t‑il des options de difficulté ?
   
   R : La difficulté vient surtout de la vitesse et de la densité des pièges, plutôt que d’un réglage dans un menu.
+
 
 

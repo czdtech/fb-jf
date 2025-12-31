@@ -32,6 +32,8 @@ Freekick Football est un jeu entièrement dédié à l'art du coup franc. Tu doi
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `mouse`
 
 *   **Souris / écran tactile :** vise, règle la puissance et applique l'effet au ballon. Selon la version, cela se fait via une succession de clics, glissements ou pressions maintenues.
 
@@ -45,4 +47,5 @@ Freekick Football est un jeu entièrement dédié à l'art du coup franc. Tu doi
 <!-- i18n:faq:id=faq:freekick-football:q-whats-the-best-way-22903e83 -->
 *   **Q : Quelle est la meilleure façon de battre le mur ?**
     *   **R :** Les frappes enroulées au‑dessus ou autour du mur sont les plus efficaces. Cherche les espaces entre les joueurs ou utilise une frappe puissante si la trajectoire est dégagée.
+
 

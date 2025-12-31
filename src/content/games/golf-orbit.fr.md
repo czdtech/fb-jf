@@ -34,6 +34,8 @@ Golf Orbit fait du golf un puzzle de trajectoires. Tu choisis un angle et une pu
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `tap` `swipe`
 
 - Tape une première fois pour lancer la barre de puissance, puis tape à nouveau pour régler puissance et angle.  
 - Applique éventuellement du spin par swipe si la version le permet.
@@ -55,5 +57,6 @@ Golf Orbit fait du golf un puzzle de trajectoires. Tu choisis un angle et une pu
 - Q : Les puits de gravité sont‑ils vraiment utiles ?
   
   R : Oui, si tu y entres sur une trajectoire tangente, tu peux en ressortir avec un gros gain de vitesse. Il faut juste pratiquer le timing.
+
 
 

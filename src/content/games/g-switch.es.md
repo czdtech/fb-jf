@@ -34,6 +34,8 @@ ritmo se acelera.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `tap`
 
 - Una tecla o toque para invertir la gravedad; en multijugador cada jugador
   dispone de su propia tecla.
@@ -63,4 +65,5 @@ ritmo se acelera.
 - **P: ¿Los niveles son siempre iguales?**  
   **R:** Algunos modos usan niveles diseñados a mano y otros ofrecen tramos
   infinitos generados de forma procedimental.
+
 

@@ -37,6 +37,8 @@ die mit einem König beginnen) belegt werden.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse` `drag` `drop` `click`
 
 - Maus oder Touch: Karten per Drag-and-drop bewegen.  
 - Doppelklick auf geeignete Karten, um sie automatisch auf den Ablagestapel zu
@@ -70,3 +72,4 @@ die mit einem König beginnen) belegt werden.
   **A:** Beim Ziehen von 1 Karte siehst du jede Karte nacheinander. Beim Ziehen
   von 3 Karten kommen die Karten in Dreiergruppen, und du musst den Zyklus des
   Nachziehstapels mitdenken – das ist deutlich anspruchsvoller.
+

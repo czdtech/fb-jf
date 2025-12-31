@@ -26,6 +26,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Arrow keys` `WASD` `Enter`
 - 矢印キー（またはWASD）でノーツを叩き、Enterキーでメニュー操作を行います。
 
 <!-- i18n:section:tips -->
@@ -45,4 +47,5 @@ locale: ja
 <!-- i18n:faq:id=faq:friday-night-funkin:can-i-play-custom-songs-628137e2 -->
 - **Q: カスタム曲はプレイできますか？**  
   A: Modやカスタム譜面ローダーが含まれているホスト版もあります。
+
 

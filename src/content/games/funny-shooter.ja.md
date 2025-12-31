@@ -25,6 +25,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD` `Mouse`
 - WASDで移動、マウスで照準/射撃。Rでリロード、数字キーで武器切り替え。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ locale: ja
 <!-- i18n:faq:id=faq:funny-shooter:can-i-change-mouse-sensitivity-dad934ef -->
 - **Q: マウス感度を変更できますか？**  
   A: ほとんどのホスト版には感度の設定が含まれています。
+
 

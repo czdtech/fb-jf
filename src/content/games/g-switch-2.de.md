@@ -34,6 +34,8 @@ lokale Mehrspieler-Rennen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `tap`
 
 - Eine Taste/Ein Tap pro Spieler, um die Schwerkraft zu wechseln; im Versus
   hat jeder Spieler seine eigene Taste.
@@ -62,3 +64,4 @@ lokale Mehrspieler-Rennen.
 <!-- i18n:faq:id=faq:g-switch-2:can-i-remap-keys-f5a01d64 -->
 - **F: Kann ich die Tastenbelegung ändern?**  
   **A:** Viele Hosts erlauben es, vor Start des Spiels eigene Tasten zu wählen.
+

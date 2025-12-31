@@ -53,6 +53,8 @@ Frust.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `Click` `hold` `mouse` `Drag` `drag` `mouse`
 
 Das Spiel nutzt eine einfache Ziehen-und-Loslassen-Steuerung.
 
@@ -81,3 +83,4 @@ Das Spiel nutzt eine einfache Ziehen-und-Loslassen-Steuerung.
         den Ball über eine Rampe schießen, um ihn über ein Hindernis zu
         katapultieren – oder die Bande clever nutzen, um um die Wand
         herumzuspielen.
+

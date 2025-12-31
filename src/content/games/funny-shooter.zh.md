@@ -29,6 +29,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `WASD` `Mouse`
 
 - WASD 控制移动，鼠标瞄准与射击。
 - R 重新装填弹药。
@@ -55,3 +57,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:funny-shooter:can-i-change-mouse-sensitivity-dad934ef -->
 - 问：鼠标灵敏度可以调整吗？  
   答：多数版本提供设定选单，可调整灵敏度等操作参数，建议先调到自己顺手后再开始冲高波次。
+

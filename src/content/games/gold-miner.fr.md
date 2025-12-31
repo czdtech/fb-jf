@@ -30,6 +30,8 @@ Gold Miner est un jeu d'arcade basé sur le timing, où une griffe oscillante de
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `click` `drop`
 
 - Une touche / un clic pour lâcher la griffe.
 - Des touches supplémentaires pour utiliser les objets (selon l'hébergeur).
@@ -58,4 +60,5 @@ Gold Miner est un jeu d'arcade basé sur le timing, où une griffe oscillante de
 - Q : Les dispositions d'objets sont‑elles aléatoires ?
 
   R : Dans beaucoup de versions, les objets sont randomisés dans certaines limites de difficulté, ce qui rend chaque run un peu différente.
+
 

@@ -37,6 +37,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `click` `tap` `Click`
 
 本游戏全程只需点击或轻触即可操作。
 
@@ -59,3 +61,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:get-10-ultimate:q-does-the-new-tile-b1b15db8 -->
 *   **问：合并后的新数字会出现在随机位置吗？**
     *   **答：** 不会，新生成的较大数字会固定出现在你点击的那一格，其余被合并的方块会消失，上方方块落下补位。
+

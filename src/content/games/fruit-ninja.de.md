@@ -33,6 +33,8 @@ Je nach Host stehen dir Classic-, Arcade- oder Zen-Modi zur Verfügung.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse`
 
 - Maus/Touch: Wischbewegungen zum Schneiden; Pause/Neustart über die UI.
 
@@ -62,3 +64,4 @@ Je nach Host stehen dir Classic-, Arcade- oder Zen-Modi zur Verfügung.
 - **F: Welche Modi gibt es?**  
   **A:** Viele Hosts bieten Classic, Arcade (mit Power-ups) und Zen-Modi ohne
   Bomben an.
+

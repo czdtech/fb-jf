@@ -25,6 +25,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD` `Mouse` `Shift`
 - WASDで移動、マウスで照準/射撃。Rでリロード、1〜3キーで武器切り替え。Shiftキーでスプリント（ホストによります）。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ locale: ja
 <!-- i18n:faq:id=faq:funny-shooter-2:can-i-change-sensitivity-ad10ce5c -->
 - **Q: 感度を変更できますか？**  
   A: ほとんどのホスト版の設定メニューで感度とFOV（視野角）を調整できます。
+
 

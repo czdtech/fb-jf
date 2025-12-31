@@ -26,6 +26,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Tap` `Space` `Mouse` `hold`
 - タップ/スペース/マウスでジャンプ。長押しで飛行（ホストによります）。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ locale: ja
 <!-- i18n:faq:id=faq:geometry-dash-subzero:are-there-user-levels-a456c939 -->
 - **Q: ユーザーレベルはありますか？**  
   A: SubZeroは組み込みのトラックに焦点を当てています。UGCはホストによります。
+
 

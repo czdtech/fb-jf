@@ -32,6 +32,8 @@ Granny Hero est un runner léger et humoristique où une grand‑mère ultra dyn
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Space`
 
 - Changer de voie : A / D ou flèches gauche/droite.  
 - Sauter : Espace ou flèche haut.  
@@ -55,5 +57,6 @@ Granny Hero est un runner léger et humoristique où une grand‑mère ultra dyn
 - Q : Le jeu est‑il infini ?
   
   R : La plupart des modes sont des runners infinis, avec des missions ou objectifs qui se superposent par dessus.
+
 
 

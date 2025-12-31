@@ -41,6 +41,8 @@ claros y la persecución de récords con monedas y tiempos.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Space` `Mouse` `hold`
 
 - Barra espaciadora, ratón o pantalla táctil para saltar; mantén pulsado para
   volar; los controles del modo práctica/puntos de control dependen del portal.
@@ -70,4 +72,5 @@ claros y la persecución de récords con monedas y tiempos.
 <!-- i18n:faq:id=faq:geometry-dash-world:can-i-place-checkpoints-fd7bb868 -->
 - **P: ¿Puedo colocar puntos de control?**  
   **R:** El modo práctica sí permite puntos de control; las pasadas en modo normal no.
+
 

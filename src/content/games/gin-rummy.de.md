@@ -80,6 +80,8 @@ klaren Vorteil.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `Click`
 
 Gin Rummy wird komplett mit Maus oder Touchscreen gespielt.
 
@@ -110,3 +112,4 @@ Gin Rummy wird komplett mit Maus oder Touchscreen gespielt.
         Anlegen seiner Karten aber den gleichen oder einen niedrigeren
         Deadwood-Wert hat. In diesem Fall erhält dein Gegner die Punkte
         (Differenz plus Bonus) – nicht du.
+

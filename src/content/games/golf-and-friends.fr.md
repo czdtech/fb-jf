@@ -34,6 +34,8 @@ Golf and Friends est une expérience de mini‑golf casual avec des obstacles lu
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse`
 
 - Vise avec la souris, tire en arrière pour régler la puissance, relâche pour putter.
 - Un reset/forfeit est souvent disponible si tu es coincé.
@@ -55,4 +57,5 @@ Golf and Friends est une expérience de mini‑golf casual avec des obstacles lu
 - Q : Le multijoueur local est‑il disponible ?
 
   R : Oui, souvent sous forme de hot‑seat : on se passe le clavier ou l'appareil chacun son tour.
+
 

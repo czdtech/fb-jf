@@ -25,6 +25,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `tap`
 - フリップには単一キー/タップ。対戦モードではプレイヤーごとに1つのキーです。
 
 <!-- i18n:section:tips -->
@@ -43,4 +45,5 @@ locale: ja
 <!-- i18n:faq:id=faq:g-switch-4:are-there-checkpoints-6b71332a -->
 - **Q: チェックポイントはありますか？**  
   A: レベルモードには含まれている場合があります。エンドレスレースには通常含まれていません。
+
 

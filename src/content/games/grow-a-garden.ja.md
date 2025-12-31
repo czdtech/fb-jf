@@ -39,6 +39,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### **操作ガイド**
+<!-- i18n:controls:keys -->
+- キー（整合）： `Click` `Tap` `Click` `Click` `Click` `Click` `Drag` `Drop` `Drag` `Press` `hold` `drag`
 
 これらのゲームの操作は、通常シンプルなクリックとドラッグに基づいています。
 
@@ -70,4 +72,5 @@ locale: ja
 <!-- i18n:faq:id=faq:grow-a-garden:does-the-game-need-to-b46d6202 -->
 **4. ゲームはずっとオンラインである必要がありますか？**
 最近のほとんどのガーデニングゲームは**オフライン成長**をサポートしています。つまり、作物を植えた後は、ゲームを閉じても時間は経過し続け、植物は成長し続けます。そのため、ログオフする前に成長サイクルの長い作物を植えることが推奨されます。
+
 

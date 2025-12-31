@@ -30,6 +30,8 @@ Le Klondike de Google propose les modes pioche‑1 ou pioche‑3. Le but est de 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse` `drag` `drop` `click`
 
 - Souris / tactile pour glisser‑déposer les cartes ; double‑clic pour auto‑déplacer lorsqu'un mouvement est légal.
 
@@ -57,4 +59,5 @@ Le Klondike de Google propose les modes pioche‑1 ou pioche‑3. Le but est de 
 - Q : Quelle différence entre pioche‑1 et pioche‑3 ?
 
   R : En pioche‑1, chaque carte est révélée dans l'ordre, ce qui est plus simple. En pioche‑3, le talon défile par groupes de trois cartes et la gestion du cycle est plus difficile.
+
 

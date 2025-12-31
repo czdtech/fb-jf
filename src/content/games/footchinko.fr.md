@@ -33,6 +33,8 @@ Footchinko est un jeu d'arcade original et très accrocheur qui mélange l'inten
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `tap` `click`
 
 *   **Lancer le ballon :** clique ou tape sur l'écran pour lancer. Selon la version, la position ou le timing de ton clic détermine la direction et parfois la puissance du tir.
 
@@ -50,4 +52,5 @@ Footchinko est un jeu d'arcade original et très accrocheur qui mélange l'inten
 <!-- i18n:faq:id=faq:footchinko:q-how-do-i-get-698432e6 -->
 *   **Q : Comment obtenir de meilleurs scores ?**
     *   **R :** En marquant souvent, en ramassant les bonus et en détruisant les obstacles efficacement. Certains niveaux récompensent aussi les tirs combo et les trajectoires spectaculaires.
+
 

@@ -43,6 +43,8 @@ wahre Reiz liegt darin, wie weit du darüber hinauskommst.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `click` `tap` `Click`
 
 Gespielt wird mit einem einzigen Klick oder Tap.
 
@@ -67,4 +69,5 @@ Gespielt wird mit einem einzigen Klick oder Tap.
 *   **F: Entsteht die neue Kachel zufällig?**
     *   **A:** Nein, sie erscheint immer genau auf dem Feld, das du innerhalb der
         Gruppe angeklickt hast.
+
 

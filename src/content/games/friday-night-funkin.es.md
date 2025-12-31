@@ -35,6 +35,8 @@ tu oponente.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Arrow keys` `WASD` `Enter`
 
 - Flechas (o WASD) para pulsar las notas; Enter para navegar por los menús.
 
@@ -63,4 +65,5 @@ tu oponente.
 <!-- i18n:faq:id=faq:friday-night-funkin:can-i-play-custom-songs-628137e2 -->
 - **P: ¿Se pueden jugar canciones personalizadas?**  
   **R:** Algunas versiones incluyen mods o cargadores de mapas de notas personalizados.
+
 

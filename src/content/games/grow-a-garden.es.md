@@ -74,6 +74,8 @@ menudo incluyen los siguientes elementos:
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `Tap` `Click` `Click` `Click` `Click` `Drag` `Drop` `Drag` `Press` `hold` `drag`
 
 Los controles suelen basarse en clics y arrastres sencillos.
 
@@ -113,4 +115,5 @@ rentables que esos pedidos requieran. Además, procura que tu cadena de producci
 La mayoría de juegos modernos de jardinería permiten **crecimiento offline**: el tiempo
 sigue avanzando aunque cierres el juego, y las plantas continúan creciendo. Por eso se
 recomienda plantar cultivos de ciclo largo antes de desconectarte.
+
 

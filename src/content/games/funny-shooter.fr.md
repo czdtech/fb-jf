@@ -30,6 +30,8 @@ Funny Shooter est un FPS à vagues en vue à la première personne, avec des enn
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD` `Mouse`
 
 - WASD : se déplacer  
 - Souris : viser / tirer  
@@ -60,5 +62,6 @@ Funny Shooter est un FPS à vagues en vue à la première personne, avec des enn
 - Q : Puis‑je ajuster la sensibilité de la souris ?
   
   R : Oui, la majorité des hôtes proposent un menu d’options pour modifier la sensibilité et parfois d’autres paramètres.
+
 
 

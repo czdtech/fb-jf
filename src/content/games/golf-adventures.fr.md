@@ -33,6 +33,8 @@ Golf Adventures est un jeu de puzzle amusant et créatif qui reprend les mécani
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `Click` `hold` `mouse` `Drag` `drag` `mouse`
 
 Le jeu utilise un système simple de glisser‑relâcher.
 
@@ -53,4 +55,5 @@ Le jeu utilise un système simple de glisser‑relâcher.
 <!-- i18n:faq:id=faq:golf-adventures:q-how-do-i-get-38d954a6 -->
 *   **Q : Comment passer un grand mur ?**
     *   **R :** Cherche des rampes ou d'autres éléments de décor. Certains niveaux exigent d'utiliser une rampe pour sauter par‑dessus, ou de rebondir sur un mur pour contourner l'obstacle.
+
 

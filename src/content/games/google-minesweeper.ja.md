@@ -25,6 +25,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse`
 - マウス/タッチ操作。オプションの同時押し（コーディング）やクイックオープンショートカットはホストによって異なります。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ locale: ja
 <!-- i18n:faq:id=faq:google-minesweeper:does-difficulty-only-change-bo-92c48de2 -->
 - **Q: 難易度は盤面のサイズだけを変えますか？**  
   A: サイズと地雷の密度の両方を変えます。
+
 

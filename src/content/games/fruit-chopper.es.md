@@ -50,6 +50,8 @@ sobreviviendo el mayor tiempo posible.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `drag` `mouse` `swipe`
 
 - **Cortar:** Haz clic y arrastra el ratón por encima de las frutas para
   cortarlas. En móvil, desliza el dedo por la pantalla.
@@ -73,4 +75,5 @@ sobreviviendo el mayor tiempo posible.
         y no falles fruta), Arcade (un blitz de 60 segundos con potenciadores) o Zen
         (sin bombas, solo relajación). Consulta el menú principal para ver qué modos
         están disponibles.
+
 

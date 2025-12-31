@@ -57,6 +57,8 @@ zu deinem Vorteil und meistere die Kunst des perfekten "Flings".
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `hold` `mouse` `Drag` `mouse` `mouse`
 
 *   **Zielen & Kraft setzen:** Klicke auf den Ball und halte die Maustaste
     gedrückt. Ziehe die Maus vom Ball weg, um Richtung und Stärke zu wählen.
@@ -81,3 +83,4 @@ zu deinem Vorteil und meistere die Kunst des perfekten "Flings".
     *   **A:** In dieser Art Spiel steuerst du alles über **Ausrichtung und
         Zugkraft** vor dem Wurf. Effet oder Kurve nach dem Loslassen gibt es in
         der Regel nicht – plane deine Flugbahn also im Voraus.
+

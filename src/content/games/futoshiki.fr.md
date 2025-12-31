@@ -32,6 +32,8 @@ Futoshiki (« pas égal ») est un puzzle logique de type carré latin, proche d
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `enter`
 
 - Tape sur une case pour saisir un chiffre ou des candidats, bascule en mode brouillon/pencil, utilise annuler/rétablir pour corriger.
 
@@ -52,5 +54,6 @@ Futoshiki (« pas égal ») est un puzzle logique de type carré latin, proche d
 - Q : Qu’est‑ce qui différencie Futoshiki d’un Sudoku ?
   
   R : Les inégalités ajoutent des contraintes dirigées supplémentaires, qui permettent des coups forcés très forts et des chaînes déductives qu’on ne trouve pas dans les Sudoku classiques.
+
 
 

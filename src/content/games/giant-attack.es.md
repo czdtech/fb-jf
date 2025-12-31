@@ -48,6 +48,8 @@ aplasten.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `click` `drag`
 
 Los controles son muy sencillos e intuitivos.
 
@@ -76,4 +78,5 @@ Los controles son muy sencillos e intuitivos.
 *   **P: ¿Cómo gano un nivel?**
     *   **R:** Ganas cuando reduces la barra de vida del gigante a cero antes de que él
         te derrote.
+
 

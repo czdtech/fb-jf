@@ -30,6 +30,8 @@ Geometry Dash Meltdown est un ensemble autonome de niveaux Geometry Dash avec le
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `Space` `Mouse` `hold`
 
 - Taper / Espace / clic souris : sauter ; maintenir pour voler (selon la version).
 
@@ -56,5 +58,6 @@ Geometry Dash Meltdown est un ensemble autonome de niveaux Geometry Dash avec le
 - Q : Y a‑t‑il du contenu créé par les joueurs ?
   
   R : Meltdown met surtout en avant des niveaux intégrés ; la présence de contenu UGC dépend entièrement de l’hébergeur.
+
 
 

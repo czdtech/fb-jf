@@ -36,6 +36,8 @@ como la cantidad de minas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse`
 
 - Ratón o pantalla táctil; los atajos de "chord" o apertura rápida dependen del
   portal.
@@ -64,4 +66,5 @@ como la cantidad de minas.
 <!-- i18n:faq:id=faq:google-minesweeper:does-difficulty-only-change-bo-92c48de2 -->
 - **P: ¿La dificultad solo cambia el tamaño del tablero?**  
   **R:** No, también modifica la densidad de minas.
+
 

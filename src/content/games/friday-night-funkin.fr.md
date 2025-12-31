@@ -31,6 +31,8 @@ Friday Night Funkin est un jeu de rythme en « semaines » où tu affrontes diff
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Arrow keys` `WASD` `Enter`
 
 - Flèches directionnelles (ou WASD) : jouer les notes.
 - Entrée : valider dans les menus.
@@ -59,5 +61,6 @@ Friday Night Funkin est un jeu de rythme en « semaines » où tu affrontes diff
 - Q : Puis‑je jouer des chansons personnalisées ?
   
   R : Certains sites proposent des mods ou un chargeur de charts personnalisés. Tout dépend de la version que tu utilises.
+
 
 

@@ -31,6 +31,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Mouse`
 
 - 鼠标或触控操作；
 - 是否支援双键开格与快捷开格要看实际托管版本设定。
@@ -59,3 +61,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:google-minesweeper:does-difficulty-only-change-bo-92c48de2 -->
 - 问：难度调整只改变棋盘大小吗？  
   答：不只如此，难度也会改变地雷的密度，雷越多、棋盘越大，推理就越困难。
+

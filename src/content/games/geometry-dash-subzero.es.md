@@ -33,6 +33,8 @@ transiciones rápidas entre secciones de nave.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `Space` `Mouse` `hold`
 
 - Tocar/Barra espaciadora/Ratón para saltar; mantén pulsado para volar (según
   el portal).
@@ -59,4 +61,5 @@ transiciones rápidas entre secciones de nave.
 - **P: ¿Hay niveles creados por usuarios?**  
   **R:** SubZero se centra en pistas integradas; el contenido generado por la
   comunidad depende del portal.
+
 

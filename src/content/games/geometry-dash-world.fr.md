@@ -30,6 +30,8 @@ Geometry Dash World condense le cœur du platformer rythmique en deux mondes th�
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Space` `Mouse` `hold`
 
 - Espace / souris / écran tactile : sauter ; maintenir pour voler.  
 - Les commandes de pratique/checkpoints varient selon l’hébergeur.
@@ -58,5 +60,6 @@ Geometry Dash World condense le cœur du platformer rythmique en deux mondes th�
 - Q : Puis‑je placer des checkpoints ?
   
   R : Le mode pratique permet de placer des checkpoints ; les runs en mode normal doivent, elles, être complétées d’une traite.
+
 
 

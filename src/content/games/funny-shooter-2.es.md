@@ -32,6 +32,8 @@ herramientas mejores.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD` `Mouse` `Shift`
 
 - WASD para moverte, ratón para apuntar y disparar; R para recargar; 1–3 para
   cambiar de arma; Shift para esprintar (según el portal).
@@ -60,4 +62,5 @@ herramientas mejores.
 - **P: ¿Puedo cambiar la sensibilidad del ratón?**  
   **R:** La mayoría de portales ofrecen un menú de ajustes para sensibilidad y
   campo de visión (FOV).
+
 

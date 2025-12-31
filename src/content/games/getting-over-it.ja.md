@@ -25,6 +25,8 @@ Getting Over Itは、ハンマーだけを操作する高精度の物理クラ�
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse`
 - マウスでハンマーの角度と力を制御します。キーボードの使用は最小限です（ホストによります）。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ Getting Over Itは、ハンマーだけを操作する高精度の物理クラ�
 <!-- i18n:faq:id=faq:getting-over-it:can-i-lose-all-progress-8ef59e2e -->
 - **Q: 一度のミスですべての進歩を失うことはありますか？**  
   A: はい、大きく落下することはデザインの一部です。忍耐こそが核心となるスキルです。
+
 

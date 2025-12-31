@@ -97,6 +97,8 @@ Vordergrund. Typische Elemente sind:
 
 <!-- i18n:section:controls -->
 ### **Steuerung – so bedienst du deinen Garten**
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `Tap` `Click` `Click` `Click` `Click` `Drag` `Drop` `Drag` `Press` `hold` `drag`
 
 In den meisten Garten-Spielen basiert die Steuerung auf einfachen Klicks und
 Ziehen/Ablegen.
@@ -145,3 +147,4 @@ Die meisten modernen Garten-Spiele unterstützen ein **Offline-Wachstum**. Das
 heißt: Deine Pflanzen wachsen weiter, auch wenn du das Spiel geschlossen hast.
 Genau deshalb ist es sinnvoll, vor einer längeren Pause Langzeitpflanzen zu
 setzen, die bei deiner Rückkehr reif zur Ernte sind.
+

@@ -41,6 +41,8 @@ dan invulnerabilidad temporal o control de masas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Space`
 
 - Cambiar de carril: A/D o Flechas Izquierda/Derecha.  
 - Saltar: Barra espaciadora o Flecha Arriba.  
@@ -64,4 +66,5 @@ dan invulnerabilidad temporal o control de masas.
 - **P: ¿El modo principal es infinito?**  
   **R:** En la mayoría de versiones sí, con misiones que se van apilando sobre
   el recorrido infinito.
+
 

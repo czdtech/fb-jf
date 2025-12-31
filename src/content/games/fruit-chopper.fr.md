@@ -33,6 +33,8 @@ Fruit Chopper est un jeu d'arcade nerveux et juteux qui teste tes réflexes et t
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `drag` `mouse` `swipe`
 
 *   **Trancher :** clique et fais glisser ta souris à travers les fruits, ou passe ton doigt sur l'écran pour les couper.
 
@@ -50,4 +52,5 @@ Fruit Chopper est un jeu d'arcade nerveux et juteux qui teste tes réflexes et t
 <!-- i18n:faq:id=faq:fruit-chopper:q-are-there-different-game-8575813d -->
 *   **Q : Y a‑t‑il plusieurs modes de jeu ?**
     *   **R :** De nombreux jeux de découpe proposent plusieurs modes comme Classic (éviter les bombes et ne pas rater de fruits), Arcade (60 secondes chronométrées avec des bonus) ou Zen (sans bombes, plus relax). Vérifie le menu principal pour voir ce qui est disponible dans ta version.
+
 

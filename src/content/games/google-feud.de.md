@@ -38,6 +38,8 @@ Punkte.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Enter`
 
 - Gib deine Antworten über die Tastatur ein und bestätige mit **Enter**.  
 - Kategorien und andere Optionen wählst du über Buttons auf dem Bildschirm.
@@ -69,3 +71,4 @@ Punkte.
 - **F: Kann ich die Kategorie während einer Runde wechseln?**  
   **A:** Normalerweise nicht. Du musst erst die laufende Liste abschließen oder
   verlieren, bevor du eine neue Kategorie wählst.
+

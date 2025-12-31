@@ -39,6 +39,8 @@ um schwierige Level zu meistern.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `click` `drop`
 
 - Eine Taste oder ein Mausklick lässt die Klaue nach unten fahren.  
 - Zusätzliche Tasten steuern **Dynamit**, **Tränke** oder andere Items – je
@@ -71,3 +73,4 @@ um schwierige Level zu meistern.
 - **F: Sind die Level-Layouts immer gleich?**  
   **A:** Viele Versionen zufallsgenerieren die Objekte innerhalb eines
   Schwierigkeitsrahmens. Das Layout kann sich also zwischen Durchläufen ändern.
+

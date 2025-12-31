@@ -26,6 +26,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `tap`
 - 重力を反転させるには1つのキー/タップ。マルチプレイヤーではプレイヤーごとに別々のキーをマップします。
 
 <!-- i18n:section:tips -->
@@ -45,4 +47,5 @@ locale: ja
 <!-- i18n:faq:id=faq:g-switch:are-level-layouts-fixed-a5df4df6 -->
 - **Q: レベルレイアウトは固定ですか？**  
   A: 一部のモードは作成されたレベルです。エンドレスモードは多くの場合手続き的です。
+
 

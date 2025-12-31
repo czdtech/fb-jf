@@ -33,6 +33,8 @@ Kettenreaktionen aus, während die Decke langsam nach unten rutscht.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse`
 
 - Maus/Touch zum Zielen und Schießen; je nach Version kannst du die nächste
   Farbe tauschen.
@@ -63,3 +65,4 @@ Kettenreaktionen aus, während die Decke langsam nach unten rutscht.
 - **F: Wann ist ein Level verloren?**  
   **A:** Entweder wenn die Wand den unteren Bildschirmrand berührt oder wenn dir
   die Schüsse ausgehen – je nach Spielmodus.
+

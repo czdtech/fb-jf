@@ -25,6 +25,8 @@ Gold Minerは、揺れる爪（クロー）を指示通りに落とし、地下�
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `click` `drop`
 - 1つのキー/クリックで爪を落とします。アイテム用の追加キーがある場合もあります（ホストによります）。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ Gold Minerは、揺れる爪（クロー）を指示通りに落とし、地下�
 <!-- i18n:faq:id=faq:gold-miner:are-layouts-random-each-run-07e876fe -->
 - **Q: レイアウトは毎回ランダムですか？**  
   A: 多くのバージョンでは、難易度の範囲内でオブジェクトがランダム化されます。
+
 

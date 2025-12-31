@@ -33,6 +33,8 @@ va descendiendo poco a poco.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse`
 
 - Ratón o pantalla táctil para apuntar y disparar; en muchas versiones puedes
   cambiar la burbuja en cola.
@@ -63,3 +65,4 @@ va descendiendo poco a poco.
 - **P: ¿Cuándo se termina el nivel?**  
   **R:** Normalmente cuando la pared llega a la parte inferior de la pantalla o
   cuando te quedas sin disparos, según el modo.
+

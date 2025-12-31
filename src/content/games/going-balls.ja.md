@@ -26,6 +26,8 @@ Going Ballsは、梁、バンパー、ハンマー、動くプラットフォー
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD` `drag` `Space`
 - WASD/矢印キーまたはドラッグでステアリング操作。スペースキーでブレーキ（可能な場合）。Rでリトライ（ホストによります）。
 
 <!-- i18n:section:tips -->
@@ -45,4 +47,5 @@ Going Ballsは、梁、バンパー、ハンマー、動くプラットフォー
 <!-- i18n:faq:id=faq:going-balls:are-there-checkpoints-in-longe-e4d3b8fb -->
 - **Q: 長いステージにチェックポイントはありますか？**  
   A: 多くのレベルには中間チェックポイントがあります。エンドレスモードには通常ありません。
+
 

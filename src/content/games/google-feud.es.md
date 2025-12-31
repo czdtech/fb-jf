@@ -36,6 +36,8 @@ patrones y hacer conjeturas amplias es la clave.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Enter`
 
 - Usa el teclado para escribir respuestas y pulsa Enter para enviarlas; los
   botones en pantalla sirven para elegir categorías y avanzar.
@@ -65,4 +67,5 @@ patrones y hacer conjeturas amplias es la clave.
 - **P: ¿Puedo cambiar de categoría a mitad de ronda?**  
   **R:** Normalmente no; tienes que acabar o fallar la lista actual antes de
   cambiar.
+
 

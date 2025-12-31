@@ -32,6 +32,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Tap` `Space` `Mouse` `hold`
 
 - 点击、空白键或鼠标按下可让角色跳跃；
 - 在飞船模式下长按上升、放开下降（以托管版本实际为准）。
@@ -58,3 +60,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:geometry-dash-subzero:are-there-user-levels-a456c939 -->
 - 问：有玩家自制关卡吗？  
   答：SubZero 主要针对官方内建关卡，是否支援玩家创作则取决于实际托管平台。
+

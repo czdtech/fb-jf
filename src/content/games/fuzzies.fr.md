@@ -30,6 +30,8 @@ Fuzzies est un bubble shooter match‑3 avec de petites boules de poils adorable
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse`
 
 - Souris / écran tactile : vise et tire les Fuzzies ; dans certaines versions, tu peux aussi échanger la couleur suivante dans la file d’attente.
 
@@ -57,5 +59,6 @@ Fuzzies est un bubble shooter match‑3 avec de petites boules de poils adorable
 - Q : Qu’est‑ce qui met fin au niveau ?
   
   R : Selon le mode, soit le mur atteint le bas de l’écran, soit tu épuises ton nombre de tirs disponible.
+
 
 

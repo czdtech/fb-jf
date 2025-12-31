@@ -35,6 +35,8 @@ stundenweit zurückfallen lassen – und zwingt dich, deinen Weg neu zu erarbeit
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse`
 
 - Die Maus steuert Winkel und Kraft des Hammers; Tastatureinsatz ist minimal
   (abhängig vom Host).
@@ -65,3 +67,4 @@ stundenweit zurückfallen lassen – und zwingt dich, deinen Weg neu zu erarbeit
 - **F: Kann ich mit einem Fehler den gesamten Fortschritt verlieren?**  
   **A:** Ja – große Abstürze sind Kernbestandteil des Spiels. Geduld und
   Gelassenheit sind die wichtigste "Mechanik".
+

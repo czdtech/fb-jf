@@ -39,6 +39,8 @@ und einen gleichmäßigen Rhythmus statt hektischer Wischbewegungen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `drag` `swipe`
 
 - Klicken und Ziehen oder Wischen, um Früchte zu schneiden; Bomben meiden;
   Pause/Neustart über die UI.
@@ -59,3 +61,4 @@ und einen gleichmäßigen Rhythmus statt hektischer Wischbewegungen.
 - **F: Hilft Multi-Touch?**  
   **A:** Falls unterstützt, können zwei Finger dir helfen, in breiten Bögen
   große Bereiche sicher abzudecken.
+

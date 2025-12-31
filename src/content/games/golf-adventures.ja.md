@@ -30,6 +30,8 @@ Golf Adventuresは、ゴルフのメカニクスを使った楽しく想像力�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `drag` `Click` `hold` `mouse` `Drag` `drag` `mouse`
 
 ゲームはシンプルなドラッグ＆リリース（引っ張って離す）操作を使用します。
 
@@ -50,4 +52,5 @@ Golf Adventuresは、ゴルフのメカニクスを使った楽しく想像力�
 <!-- i18n:faq:id=faq:golf-adventures:q-how-do-i-get-38d954a6 -->
 *   **Q: 大きな壁を越えるには？**
     *   **A:** 坂道や他のオブジェクトを探しましょう。一部のレベルでは、坂を登って障害物を飛び越える必要があります。また、別の壁に反射させて回り込む必要がある場合もあります。
+
 

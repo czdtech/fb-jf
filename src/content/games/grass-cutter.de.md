@@ -38,6 +38,8 @@ fügen Schalter und Teleporter hinzu.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow keys` `swipe`
 
 - Pfeiltasten oder Wischgesten, um den Mäher zu bewegen.  
 - In vielen Versionen gibt es **Rückgängig**- und **Neustart**-Buttons, um
@@ -71,3 +73,4 @@ fügen Schalter und Teleporter hinzu.
   **A:** Nein, manche Varianten bewegen den Mäher Feld für Feld, andere lassen
   ihn bis zum nächsten Blocker durchrutschen. Schau dir die Regeln deiner
   Plattform kurz an.
+

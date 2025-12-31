@@ -35,6 +35,8 @@ y secciones de nave y bola diseñadas al milímetro.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `Space` `Mouse` `hold`
 
 - Tocar/Barra espaciadora/Ratón para saltar; mantén pulsado para volar (según
   el portal).
@@ -60,4 +62,5 @@ y secciones de nave y bola diseñadas al milímetro.
 - **P: ¿Hay contenido creado por usuarios?**  
   **R:** Meltdown se centra en niveles integrados; el contenido de la comunidad
   depende del portal.
+
 

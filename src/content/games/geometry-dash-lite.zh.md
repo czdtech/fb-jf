@@ -32,6 +32,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Space` `Mouse` `hold`
 
 - 空白键、鼠标点击或触控用于跳跃／飞行；
 - 练习模式开关与其他辅助功能按键会依托管版本稍有差异。
@@ -59,3 +61,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:geometry-dash-lite:are-custom-levels-included-82002085 -->
 - 问：Lite 版有自制关卡吗？  
   答：体验版主要以内建曲目与关卡为主，自订关卡是否开放会依托管平台而定。
+

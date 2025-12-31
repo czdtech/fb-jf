@@ -33,6 +33,8 @@ damit mehr Punkte als dein Gegner sammelst.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow keys` `WASD` `Enter`
 
 - Pfeiltasten oder WASD zum Treffen der Noten.  
 - Enter zur Menüsteuerung.
@@ -61,3 +63,4 @@ damit mehr Punkte als dein Gegner sammelst.
 <!-- i18n:faq:id=faq:friday-night-funkin:can-i-play-custom-songs-628137e2 -->
 - **F: Kann ich Custom-Songs spielen?**  
   **A:** Einige Hosts bieten Mod-Support oder eigene Chart-Loader.
+

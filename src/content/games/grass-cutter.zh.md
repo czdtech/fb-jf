@@ -29,6 +29,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Arrow keys` `swipe`
 - 使用方向键或滑动来控制移动；大部分版本都提供撤销和重新开始按钮。
 
 <!-- i18n:section:tips -->
@@ -50,3 +52,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:grass-cutter:do-all-versions-use-sliding-7cfc3d00 -->
 - Q: 所有版本都会用滑行移动吗？  
   A: 不一定，有些版本是一步一格的步进式移动，有些才是滑行式。进入关卡前可以先看一下规则说明。
+

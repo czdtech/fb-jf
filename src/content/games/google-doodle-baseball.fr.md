@@ -29,6 +29,8 @@ Google Doodle Baseball est un mini‑jeu de baseball où tu joues uniquement le 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `Click` `Space`
 
 - Clic / tap / barre d'espace pour frapper.
 
@@ -56,4 +58,5 @@ Google Doodle Baseball est un mini‑jeu de baseball où tu joues uniquement le 
 - Q : Ma progression est‑elle sauvegardée ?
 
   R : En général, les scores sont locaux à la session.
+
 

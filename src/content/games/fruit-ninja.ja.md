@@ -25,6 +25,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse`
 - マウス/タッチでスワイプしてスライスします。UIを介して一時停止/再試行します。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ locale: ja
 <!-- i18n:faq:id=faq:fruit-ninja:are-there-different-modes-avai-99169aab -->
 - **Q: 異なるモードが利用可能ですか？**  
   A: 多くのホストは、クラシック、アーケード（パワーアップ付き）、ゼンを含みます。
+
 

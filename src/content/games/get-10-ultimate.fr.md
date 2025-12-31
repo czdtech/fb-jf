@@ -33,6 +33,8 @@ Get 10 Ultimate est un jeu de puzzle numérique simple à comprendre mais très 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `click` `tap` `Click`
 
 Le jeu se joue entièrement au clic ou au tap.
 
@@ -52,4 +54,5 @@ Le jeu se joue entièrement au clic ou au tap.
 <!-- i18n:faq:id=faq:get-10-ultimate:q-does-the-new-tile-b1b15db8 -->
 *   **Q : La nouvelle tuile apparaît‑elle au hasard ?**
     *   **R :** Non, la tuile de valeur supérieure apparaît exactement à l'endroit du groupe où tu as cliqué.
+
 

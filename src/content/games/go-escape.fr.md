@@ -33,6 +33,8 @@ Go Escape est un platformer minimaliste d’évasion de salles. Pièges à pique
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD` `Space`
 
 - Déplacement / saut : flèches ou WASD + Espace. Certains niveaux ajoutent le wall‑jump ou double saut.
 
@@ -53,5 +55,6 @@ Go Escape est un platformer minimaliste d’évasion de salles. Pièges à pique
 - Q : Y a‑t‑il un timer ?
   
   R : Beaucoup de salles ne sont pas chronométrées. Concentre‑toi d’abord sur la régularité plutôt que sur les speedruns, le temps viendra après avoir appris les layouts.
+
 
 

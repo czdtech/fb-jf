@@ -26,6 +26,8 @@ Google Snakeは、クリーンなビジュアルと選べるモードで、ク�
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Arrow keys` `WASD`
 - 矢印キーまたはWASDで操縦。UIで一時停止/リスタート。
 
 <!-- i18n:section:tips -->
@@ -45,4 +47,5 @@ Google Snakeは、クリーンなビジュアルと選べるモードで、ク�
 <!-- i18n:faq:id=faq:google-snake:are-there-different-board-setu-40b930d4 -->
 - **Q: 異なる盤面設定はありますか？**  
   A: 多くのホスト版では、サイズ、障害物、アイテムのバリエーションが提供されています。
+
 

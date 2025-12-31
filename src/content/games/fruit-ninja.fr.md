@@ -30,6 +30,8 @@ Fruit Ninja est un jeu d’arcade où tu dois trancher les fruits en plein vol d
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse`
 
 - Souris / écran tactile : glisse pour trancher les fruits.  
 - Pause / recommencer : via les boutons de l’interface.
@@ -58,5 +60,6 @@ Fruit Ninja est un jeu d’arcade où tu dois trancher les fruits en plein vol d
 - Q : Quels sont les modes disponibles ?
   
   R : De nombreux hébergeurs proposent Classic, Arcade (avec des bonus comme les bananes frénésie) et Zen, qui est un mode plus relax sans bombes.
+
 
 

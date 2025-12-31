@@ -47,6 +47,8 @@ convierte el recorrido en un pequeño juego de fiesta entre amigos.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse`
 
 - Apunta con el ratón, arrastra para fijar la potencia y suelta para ejecutar
   el putt. Si te quedas atascado, suele haber opciones para reiniciar o
@@ -69,4 +71,5 @@ convierte el recorrido en un pequeño juego de fiesta entre amigos.
 - **P: ¿Se puede jugar en multijugador local?**  
   **R:** Sí, normalmente en formato hot‑seat: cada jugador tira por turnos en el
   mismo dispositivo.
+
 

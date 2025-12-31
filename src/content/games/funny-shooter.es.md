@@ -32,6 +32,8 @@ volviéndose más peligrosos y un pequeño sistema de mejoras.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD` `Mouse`
 
 - WASD para moverse, ratón para apuntar y disparar; R para recargar; números
   para cambiar de arma.
@@ -59,4 +61,5 @@ volviéndose más peligrosos y un pequeño sistema de mejoras.
 - **P: ¿Puedo cambiar la sensibilidad del ratón?**  
   **R:** La mayoría de versiones ofrecen ajustes de sensibilidad en el menú de
   opciones.
+
 

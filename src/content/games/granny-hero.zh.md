@@ -30,6 +30,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Space`
 
 - 切换跑道：A/D 或 左/右 方向键
 - 跳跃：空格键 或 上方向键
@@ -50,4 +52,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:granny-hero:endless-ea2091be -->
 - Q: 游戏是无尽模式吗？  
   A: 大部分模式都是无尽跑酷，上面叠加不同任务与目标，你可以一边完成任务一边挑战更高分数。
+
 

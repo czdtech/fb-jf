@@ -30,6 +30,8 @@ Geometry Dash Lite est une porte d’entrée dans le platformer rythmique culte.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Space` `Mouse` `hold`
 
 - Espace / clic souris / toucher : sauter (ou maintenir pour voler).  
 - Les commandes de pratique (checkpoints, retour) varient selon l’hébergeur.
@@ -58,5 +60,6 @@ Geometry Dash Lite est une porte d’entrée dans le platformer rythmique culte.
 - Q : Y a‑t‑il des niveaux personnalisés ?
   
   R : La version Lite se concentre sur des niveaux intégrés ; la présence de niveaux custom dépend de l’hébergeur.
+
 
 

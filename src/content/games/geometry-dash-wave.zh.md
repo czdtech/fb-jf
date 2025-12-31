@@ -39,7 +39,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### 操作指南
 <!-- i18n:controls:keys -->
-- 按键（对齐）： `Spacebar` `Up Arrow Key` `Left Mouse Button`
+- 按键（对齐）： `Spacebar` `Up Arrow Key` `Left` `Button` `Tap` `hold`
 
 - **PC：** 使用空白键、方向键 ↑ 或鼠标左键来控制波形的上升／下降。
 - **移动设备：** 在屏幕上按住即可让波形上升，放开则下降。
@@ -61,3 +61,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 答：多加练习是关键。建议先从节奏较慢、图形较简单的关卡开始，
 熟悉波形上下的「幅度与速度」后，再挑战节奏密集或视觉更花的高难关。注意听音乐与观察背景同步效果，
 常能提前预判何时需要翻转。
+

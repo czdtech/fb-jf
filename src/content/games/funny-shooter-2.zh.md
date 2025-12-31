@@ -31,6 +31,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `WASD` `Mouse` `Shift`
 
 - WASD 控制移动，鼠标控制瞄准与射击；
 - R 重新装填；
@@ -60,3 +62,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:funny-shooter-2:can-i-change-sensitivity-ad10ce5c -->
 - 问：可以调整鼠标灵敏度与视野吗？  
   答：大部分托管版本都提供设定选单，可调整灵敏度、FOV 等视觉与操作参数，建议先调到自己顺手再正式开打。
+

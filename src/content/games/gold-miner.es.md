@@ -36,6 +36,8 @@ la suerte para las fases más difíciles.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `click` `drop`
 
 - Una tecla o clic para soltar la garra; teclas adicionales para usar objetos
   (según el portal).
@@ -65,4 +67,5 @@ la suerte para las fases más difíciles.
 - **P: ¿Los objetos se colocan siempre igual?**  
   **R:** Muchas versiones aleatorizan la distribución dentro de ciertos límites
   de dificultad.
+
 

@@ -29,6 +29,8 @@ Galactic Empire est un RTS‑lite spatial où tu dois extraire des ressources, �
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse`
 
 - Souris pour sélectionner, construire et donner des ordres.  
 - Des raccourcis pour la production et la caméra peuvent être disponibles selon l’hébergeur.
@@ -57,5 +59,6 @@ Galactic Empire est un RTS‑lite spatial où tu dois extraire des ressources, �
 - Q : Y a‑t‑il un arbre de technologies ?
   
   R : Dans beaucoup de versions, les vaisseaux plus puissants et certaines améliorations ne se débloquent qu’après la capture de secteurs clés ou via un système d’upgrade.
+
 
 

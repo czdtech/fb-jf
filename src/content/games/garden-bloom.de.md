@@ -54,6 +54,8 @@ Dekorationen platzieren.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `drag` `click` `Click` `Click`
 
 - **Im Puzzle:** Ziehe mit Maus oder Finger zwei benachbarte Symbole zum
   Tauschen, um Dreier- oder größere Matches zu bilden.
@@ -78,4 +80,5 @@ Dekorationen platzieren.
 *   **F: Kann ich Deko‑Entscheidungen rückgängig machen?**
     *   **A:** In vielen Spielen dieser Art sind Designwahlen dauerhaft; ein
         nachträglicher Wechsel kostet meist zusätzliche Coins oder spezielle Tickets.
+
 

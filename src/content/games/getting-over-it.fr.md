@@ -30,6 +30,8 @@ Getting Over It est un jeu d’escalade basé sur une physique ultra précise, o
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse`
 
 - La souris contrôle l’angle et la force du marteau ; le clavier est peu utilisé (selon l’hébergeur).
 
@@ -57,5 +59,6 @@ Getting Over It est un jeu d’escalade basé sur une physique ultra précise, o
 - Q : Puis‑je perdre tout mon progrès sur une seule erreur ?
   
   R : Oui. Les grosses chutes font partie de l’expérience. La compétence principale ici, c’est la patience.
+
 
 

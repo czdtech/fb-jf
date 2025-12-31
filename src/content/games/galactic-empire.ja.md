@@ -25,6 +25,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse`
 - マウスで選択/建設。生産やカメラのホットキーはホストによって異なります。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ locale: ja
 <!-- i18n:faq:id=faq:galactic-empire:is-there-a-tech-tree-bdb50659 -->
 - **Q: ゲームにテックツリーはありますか？**  
   A: 多くのホスト版では、強力な船は占領したセクターやアップグレードの背後にロックされています。
+
 

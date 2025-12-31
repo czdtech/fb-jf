@@ -49,6 +49,8 @@ para convertirte en un auténtico campeón.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `hold` `mouse` `Drag` `mouse` `mouse`
 
 - **Apuntar y fijar potencia:** Haz clic y mantén pulsado sobre la bola. Arrastra
   hacia atrás para definir potencia y dirección.
@@ -71,4 +73,5 @@ para convertirte en un auténtico campeón.
 *   **P: ¿Puedo hacer que la bola curve?**
     *   **R:** En este tipo de juego normalmente no puedes añadir efecto después del
         lanzamiento; todo el control viene del ángulo y la potencia iniciales.
+
 

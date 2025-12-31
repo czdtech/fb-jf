@@ -30,6 +30,8 @@ G‑Switch 2 reprend le principe de l’original en y ajoutant de nouveaux obsta
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `tap`
 
 - Une seule touche / un seul tap pour inverser la gravité.  
 - En versus local, chaque joueur utilise une touche distincte pour flipper.
@@ -57,5 +59,6 @@ G‑Switch 2 reprend le principe de l’original en y ajoutant de nouveaux obsta
 - Q : Puis‑je remapper les touches ?
   
   R : Beaucoup d’hébergeurs permettent de choisir les touches de chaque joueur avant de lancer la partie.
+
 
 

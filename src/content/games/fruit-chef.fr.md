@@ -32,6 +32,8 @@ Fruit Chef reprend le concept classique du découpage de fruits : trace des lign
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `drag` `swipe`
 
 - Glisse pour couper : clique‑glisse ou swipe sur l’écran pour trancher les fruits, en évitant les bombes.  
 - Pause / recommencer : via les boutons de l’interface.
@@ -53,5 +55,6 @@ Fruit Chef reprend le concept classique du découpage de fruits : trace des lign
 - Q : Le multi‑touch est‑il utile ?
   
   R : Si la version le supporte, utiliser plusieurs doigts peut te permettre de couvrir une plus grande zone sans croiser les bombes.
+
 
 

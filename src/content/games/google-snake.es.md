@@ -34,6 +34,8 @@ tamaño del tablero, los obstáculos y los efectos de algunos ítems.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Arrow keys` `WASD`
 
 - Flechas o WASD para dirigir la serpiente; pausa y reinicio desde la interfaz.
 
@@ -61,4 +63,5 @@ tamaño del tablero, los obstáculos y los efectos de algunos ítems.
 - **P: ¿Hay distintos tipos de tablero?**  
   **R:** Muchos portales ofrecen varios tamaños de mapa, diferentes obstáculos y
   variaciones de ítems.
+
 

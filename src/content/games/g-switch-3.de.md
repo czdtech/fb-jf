@@ -34,6 +34,8 @@ viele Spieler.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `tap`
 
 - Eine Taste/Ein Tap pro Spieler zum Gravitätswechsel; im Mehrspieler-Modus
   erhält jeder eine eigene Taste.
@@ -62,3 +64,4 @@ viele Spieler.
 - **F: Gibt es Schwierigkeitsstufen?**  
   **A:** Der Schwierigkeitsgrad ergibt sich vor allem aus Tempo und
   Hindernisdichte, nicht aus einer separaten Auswahl im Menü.
+

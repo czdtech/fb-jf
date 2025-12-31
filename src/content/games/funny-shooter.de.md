@@ -32,6 +32,8 @@ stärker und zahlreicher, während du nach und nach deine Bewaffnung aufrüstest
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD` `Mouse`
 
 - WASD zum Bewegen, Maus zum Zielen/Feuern.  
 - R zum Nachladen.  
@@ -60,3 +62,4 @@ stärker und zahlreicher, während du nach und nach deine Bewaffnung aufrüstest
 - **F: Kann ich die Sensitivität ändern?**  
   **A:** In den meisten Versionen findest du im Optionsmenü Regler für
   Maus-Sensitivität.
+

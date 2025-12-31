@@ -38,6 +38,8 @@ recorridos. En fases avanzadas se añaden interruptores y teletransportadores.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Arrow keys` `swipe`
 
 - Flechas o deslizamiento en pantalla para mover el cortacésped; suelen
   existir botones de deshacer y reinicio.
@@ -68,4 +70,5 @@ recorridos. En fases avanzadas se añaden interruptores y teletransportadores.
 - **P: ¿Todas las versiones usan movimiento deslizante?**  
   **R:** No; algunas usan deslizamiento y otras paso a paso. Revisa siempre las
   reglas en tu portal.
+
 

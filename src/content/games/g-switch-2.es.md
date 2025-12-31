@@ -33,6 +33,8 @@ obstáculos y carreras multijugador.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `tap`
 
 - Una sola tecla o toque para invertir la gravedad; en versus cada jugador
   tiene su propia tecla.
@@ -61,4 +63,5 @@ obstáculos y carreras multijugador.
 <!-- i18n:faq:id=faq:g-switch-2:can-i-remap-keys-f5a01d64 -->
 - **P: ¿Puedo cambiar las teclas?**  
   **R:** Muchos portales permiten elegir teclas antes de empezar la partida.
+
 

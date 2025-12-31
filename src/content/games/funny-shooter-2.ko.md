@@ -34,6 +34,8 @@ Funny Shooter 2는 전작의 웨이브 슈터 구조를 유지하면서, 더 다
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `WASD` `Mouse` `Shift`
 
 - 이동: WASD  
 - 조준/사격: 마우스  
@@ -61,4 +63,5 @@ Funny Shooter 2는 전작의 웨이브 슈터 구조를 유지하면서, 더 다
 <!-- i18n:faq:id=faq:funny-shooter-2:can-i-change-sensitivity-ad10ce5c -->
 - **Q: 마우스 감도 같은 설정을 바꿀 수 있나요?**  
   **A:** 호스트에 따라 설정 메뉴에서 감도나 시야각(FOV) 등을 제공하기도 합니다.
+
 

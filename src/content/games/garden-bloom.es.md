@@ -58,6 +58,8 @@ decoraciones.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `drag` `click` `Click` `Click`
 
 - **En los puzles:** Usa el ratón o el dedo para intercambiar dos piezas
   adyacentes (flores, hojas, etc.). Haz clic y arrastra una sobre la otra o
@@ -85,4 +87,5 @@ decoraciones.
     *   **R:** En muchos juegos de este tipo, una vez eliges un diseño queda fijado.
         Para cambiarlo, normalmente debes mantener pulsado el objeto y gastar monedas
         para sustituirlo.
+
 

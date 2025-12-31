@@ -26,6 +26,8 @@ Geometry Dash Worldは、核となるリズムプラットフォーミングを�
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Space` `Mouse` `hold`
 - スペース/マウス/タッチでジャンプ。長押しで飛行。練習/チェックポイントの操作はホストによって異なります。
 
 <!-- i18n:section:tips -->
@@ -45,4 +47,5 @@ Geometry Dash Worldは、核となるリズムプラットフォーミングを�
 <!-- i18n:faq:id=faq:geometry-dash-world:can-i-place-checkpoints-fd7bb868 -->
 - **Q: チェックポイントを置くことはできますか？**  
   A: 練習モードではチェックポイントがサポートされていますが、通常のクリアモードではサポートされていません。
+
 

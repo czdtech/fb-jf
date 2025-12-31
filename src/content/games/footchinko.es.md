@@ -51,6 +51,8 @@ lanzamientos y te ayudan a alcanzar puntuaciones espectaculares.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `tap` `click`
 
 - **Lanzar el balón:** Haz clic o toca la pantalla para lanzar. La posición en
   la que pulses suele determinar la dirección inicial y, en algunos casos, la
@@ -74,4 +76,5 @@ lanzamientos y te ayudan a alcanzar puntuaciones espectaculares.
     *   **R:** Marca más goles, recoge potenciadores y procura despejar obstáculos de
         forma eficiente. Algunas versiones también premian golpear dianas concretas o
         encadenar combos de tiro.
+
 

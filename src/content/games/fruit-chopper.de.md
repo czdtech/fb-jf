@@ -43,6 +43,8 @@ zwischen ihnen versteckt sind. Je besser deine Kombos und je länger du
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `drag` `mouse` `swipe`
 
 - **Schneiden:** Ziehe mit der Maus über Früchte oder wische mit dem Finger
   darüber, um sie zu zerteilen.
@@ -66,4 +68,5 @@ zwischen ihnen versteckt sind. Je besser deine Kombos und je länger du
         nicht verpassen), Arcade (Zeitmodus mit Power‑ups) oder Zen (entspannt,
         ohne Bomben). Schau im Hauptmenü nach, welche Varianten der Host hier
         unterstützt.
+
 

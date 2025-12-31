@@ -33,6 +33,8 @@ muy densos y un modo multijugador local sólido.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `tap`
 
 - Una tecla o toque para invertir la gravedad; en versus, cada jugador tiene
   su propia tecla.
@@ -61,4 +63,5 @@ muy densos y un modo multijugador local sólido.
 - **P: ¿Hay puntos de control?**  
   **R:** En los modos por niveles puede haber puntos de control; las carreras infinitas
   suelen prescindir de ellos.
+
 

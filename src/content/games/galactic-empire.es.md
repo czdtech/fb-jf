@@ -32,6 +32,8 @@ vecinos.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse`
 
 - Ratón para seleccionar y construir; las teclas rápidas para producción y
   cámara dependen del portal.
@@ -63,4 +65,5 @@ vecinos.
 - **P: ¿Hay árbol tecnológico?**  
   **R:** En muchas versiones las naves más fuertes se desbloquean al capturar
   sectores clave o investigar mejoras.
+
 

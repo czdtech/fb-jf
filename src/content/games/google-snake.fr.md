@@ -31,6 +31,8 @@ Google Snake modernise le classique Snake avec des visuels propres et plusieurs 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Arrow keys` `WASD`
 
 - Flèches directionnelles ou WASD pour diriger le serpent.
 - Pause / restart via l'interface.
@@ -59,4 +61,5 @@ Google Snake modernise le classique Snake avec des visuels propres et plusieurs 
 - Q : Y a‑t‑il plusieurs types de plateaux ?
 
   R : Beaucoup d'hôtes proposent différentes tailles de grille, des obstacles et divers objets de bonus/malus.
+
 

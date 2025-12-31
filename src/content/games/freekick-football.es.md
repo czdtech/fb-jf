@@ -41,6 +41,8 @@ la física del balón.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse` `mouse`
 
 - **Ratón/Pantalla táctil:** Usa el ratón o la pantalla táctil para apuntar,
   ajustar la potencia y aplicar efecto. Normalmente se hace con una secuencia
@@ -60,4 +62,5 @@ la física del balón.
     *   **R:** Lo más habitual es curvar el balón por encima o alrededor de la
         barrera. Busca huecos entre jugadores o atrévete con un disparo potente si
         ves un camino claro.
+
 

@@ -34,6 +34,8 @@ Galactic Empire bietet RTS-ähnliche Gefechte im All. Du baust Förderstationen,
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse`
 
 - Maus zum Auswählen und Bauen; Hotkeys für Produktion und Kamera sind
   hostabhängig.
@@ -65,3 +67,4 @@ Galactic Empire bietet RTS-ähnliche Gefechte im All. Du baust Förderstationen,
 - **F: Gibt es einen Tech-Tree?**  
   **A:** In vielen Versionen werden stärkere Schiffe über eroberte Sektoren oder
   Tech-Upgrades freigeschaltet.
+

@@ -45,6 +45,8 @@ Ces jeux avancent à un rythme lent et détendu, et misent sur le plaisir de cr�
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `Tap` `Click` `Click` `Click` `Click` `Drag` `Drop` `Drag` `Press` `hold` `drag`
 
 Les contrôles se basent en général sur des clics et du glisser‑déposer.
 
@@ -76,4 +78,5 @@ Complète les commandes les plus rentables et plante en priorité les cultures d
 <!-- i18n:faq:id=faq:grow-a-garden:does-the-game-need-to-b46d6202 -->
 **4. Faut‑il rester connecté en permanence ?**  
 La plupart des jeux de jardinage modernes gèrent la **croissance hors‑ligne** : le temps continue de s’écouler même si le jeu est fermé. D’où le conseil de planter des cultures longues juste avant de quitter.
+
 

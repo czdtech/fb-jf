@@ -25,6 +25,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Tap` `Space` `Mouse` `hold`
 - タップ/スペース/マウスでジャンプ。長押しで飛行（ホストによります）。
 
 <!-- i18n:section:tips -->
@@ -43,4 +45,5 @@ locale: ja
 <!-- i18n:faq:id=faq:geometry-dash-meltdown:is-there-usergenerated-content-f9d2c2c1 -->
 - **Q: ユーザー生成コンテンツ（UGC）はありますか？**  
   A: Meltdownは組み込みレベルに焦点を当てています。UGCはホストによります。
+
 

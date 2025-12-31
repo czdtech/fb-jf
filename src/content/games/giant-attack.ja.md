@@ -30,6 +30,8 @@ Giant Attackは、巨大なモンスターと対決するテンポの速いア�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `click` `drag`
 
 操作はシンプルで直感的にデザインされています。
 
@@ -50,4 +52,5 @@ Giant Attackは、巨大なモンスターと対決するテンポの速いア�
 <!-- i18n:faq:id=faq:giant-attack:q-how-do-i-win-c06399aa -->
 *   **Q: レベルをクリアするには？**
     *   **A:** 巨人に倒される前に、巨人の体力バーをゼロにすると勝利です。
+
 

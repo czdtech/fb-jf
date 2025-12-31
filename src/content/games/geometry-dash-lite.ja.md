@@ -27,6 +27,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Space` `Mouse` `hold`
 - スペース/マウス/タッチでジャンプ。長押しで飛行。練習モードの切り替えはホストによって異なります。
 
 <!-- i18n:section:tips -->
@@ -46,4 +48,5 @@ locale: ja
 <!-- i18n:faq:id=faq:geometry-dash-lite:are-custom-levels-included-82002085 -->
 - **Q: カスタムレベルは含まれていますか？**  
   A: Lite版は組み込みのトラックに焦点を当てています。カスタムレベルはホストによります。
+
 

@@ -34,6 +34,8 @@ nave perfectamente sincronizadas con la música.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Space` `Mouse` `hold`
 
 - Barra espaciadora, ratón o pantalla táctil para saltar; mantén pulsado para
   volar; las teclas de práctica varían según el portal.
@@ -64,4 +66,5 @@ nave perfectamente sincronizadas con la música.
 - **P: ¿Incluye niveles personalizados?**  
   **R:** Lite se centra en las pistas incluidas; la presencia de niveles
   personalizados depende del portal donde juegues.
+
 

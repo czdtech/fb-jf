@@ -35,7 +35,7 @@ Geometry Dash Wave est un mode de jeu exigeant, basé sur le rythme, issu de l�
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `Spacebar` `Up Arrow Key` `Left Mouse Button`
+- Touches (alignement)： `Spacebar` `Up Arrow Key` `Left` `Button` `Tap` `hold`
 
 - **PC** : Espace, flèche haut ou clic gauche pour contrôler la wave.  
 - **Mobile** : maintiens/relâche ton doigt sur l’écran pour contrôler la trajectoire.
@@ -51,5 +51,6 @@ Le mode « wave » est un type de gameplay et de design de niveau très populair
 
 **Comment améliorer mon timing ?**  
 En t’entraînant. Concentre‑toi sur la musique et les motifs visuels. Commence par des niveaux plus lents pour bien sentir la wave avant d’attaquer les niveaux rapides ou très techniques.
+
 
 

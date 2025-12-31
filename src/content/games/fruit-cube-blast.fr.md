@@ -37,6 +37,8 @@ Fruit Cube Blast est un puzzle « tap‑to‑blast » explosif et coloré. Contr
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `tap` `tap`
 
 Les commandes sont très simples.
 
@@ -57,4 +59,5 @@ Les commandes sont très simples.
 <!-- i18n:faq:id=faq:fruit-cube-blast:q-what-is-the-best-610f5571 -->
 *   **Q : Comment réussir un niveau avec très peu de coups ?**
     *   **R :** Priorise la création de boosters via de grands groupes au lieu de multiplier les petites explosions. Essaie ensuite de rapprocher deux boosters pour les activer ensemble et nettoyer une grande partie du plateau en un seul coup.
+
 
