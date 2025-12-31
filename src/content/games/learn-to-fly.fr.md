@@ -29,6 +29,8 @@ Learn to Fly est un jeu de distance basé sur l’amélioration continue. Tu lan
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Arrow keys` `space`
 
 - Flèches pour ajuster le pitch ; barre espace/touches dédiées pour les boosters (selon l’hébergeur).
 
@@ -53,5 +55,6 @@ Learn to Fly est un jeu de distance basé sur l’amélioration continue. Tu lan
 <!-- i18n:faq:id=faq:learn-to-fly:is-there-a-hard-cap-9670078b -->
 - **Q : Y a‑t‑il une limite de jours ?**  
   R : Tu peux continuer à t’améliorer jusqu’à atteindre les cibles ; les modes défi prolongent encore la durée de vie.
+
 
 

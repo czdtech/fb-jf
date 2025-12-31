@@ -41,6 +41,8 @@ desaparecen y cambios de velocidad que exigen buen ritmo y lectura rápida.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `Click` `hold`
 
 - **Saltar:** toca o haz clic para saltar; en algunas versiones mantener pulsado
   aumenta la altura.
@@ -63,4 +65,5 @@ desaparecen y cambios de velocidad que exigen buen ritmo y lectura rápida.
 *   **P: ¿Es infinito o por niveles?**  
     **R:** Depende del modo; muchas campañas usan niveles cortos diseñados a
     mano.
+
 

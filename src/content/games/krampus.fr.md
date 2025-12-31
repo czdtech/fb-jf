@@ -30,6 +30,8 @@ Krampus est un jeu de plateforme horrifique saisonnier qui se déroule dans des 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD`
 
 - Flèches / WASD pour se déplacer et sauter.
 - La touche d’action / d’interaction varie selon le site qui héberge le jeu.
@@ -55,5 +57,6 @@ Krampus est un jeu de plateforme horrifique saisonnier qui se déroule dans des 
 <!-- i18n:faq:id=faq:krampus:are-there-checkpoints-in-stage-c1be2023 -->
 - Q : Y a‑t‑il des points de contrôle dans les niveaux ?  
   R : Beaucoup de versions ajoutent des checkpoints en milieu de niveau ; regarde les icônes ou l’interface pour savoir quand ta progression est sauvegardée.
+
 
 

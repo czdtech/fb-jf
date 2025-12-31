@@ -40,6 +40,8 @@ velocidad aumenta.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Space`
 
 - **Movimiento:** teclas **A/D** o **flechas izquierda/derecha** para cambiar de
   carril.
@@ -64,4 +66,5 @@ velocidad aumenta.
 *   **P: ¿Hay power‑ups especiales?**  
     **R:** Muchas versiones incluyen escudos, imanes u otros potenciadores; lee
     la interfaz del host para ver cuáles están disponibles.
+
 

@@ -34,6 +34,8 @@ Lollipop World est un jeu de match‑3 très coloré avec du glaçage, des embal
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `tap`
 
 - Glisse pour échanger deux bonbons adjacents.
 - Appuie sur les bonus pour les déclencher.
@@ -53,5 +55,6 @@ Lollipop World est un jeu de match‑3 très coloré avec du glaçage, des embal
 <!-- i18n:faq:id=faq:lollipop-world-match-3:are-diagonals-allowed-37ab3fc0 -->
 - Q : Les diagonales sont‑elles prises en compte ?  
   R : En général non, les échanges se font sur une grille orthogonale. Consulte les règles de ton mode si tu as un doute.
+
 
 

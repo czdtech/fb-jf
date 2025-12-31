@@ -25,6 +25,8 @@ Iron Snoutは、武術を使う豚がオオカミと戦う、速い2D格闘ゲ�
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD`
 - 矢印キー/WASDの方向が攻撃、ジャンプ、しゃがみをトリガーします。攻撃ボタンは不要です。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ Iron Snoutは、武術を使う豚がオオカミと戦う、速い2D格闘ゲ�
 <!-- i18n:faq:id=faq:iron-snout:is-there-an-end-to-742105ba -->
 - **Q: 波に終わりはありますか？**  
   A: ほとんどのモードは、体力がなくなるまでエンドレスです。
+
 

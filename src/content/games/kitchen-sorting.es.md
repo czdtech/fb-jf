@@ -46,6 +46,8 @@ estrictas que castigan la contaminación cruzada.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `tap`
 
 - Arrastra o toca los objetos para enviarlos al contenedor etiquetado.
 - Pausa/reintenta desde la interfaz; algunas versiones ofrecen pistas que
@@ -68,4 +70,5 @@ estrictas que castigan la contaminación cruzada.
 *   **P: ¿Son muy duras las penalizaciones?**  
     **R:** En niveles avanzados los errores de higiene se castigan mucho; si
     dudas, es mejor dejar pasar un objeto que cometer un fallo.
+
 

@@ -32,6 +32,8 @@ Krishna Jump est un runner vertical à un seul bouton. Tu dois synchroniser tes 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `Click` `hold`
 
 - Tap/clic pour sauter ; dans certains builds, un appui prolongé augmente la hauteur ; pause via l’interface.
 
@@ -49,5 +51,6 @@ Krishna Jump est un runner vertical à un seul bouton. Tu dois synchroniser tes 
 <!-- i18n:faq:id=faq:krishna-jump:endless-or-levelbased-5a8b7709 -->
 - **Q : Le jeu est‑il infini ou à niveaux ?**  
   R : Selon le mode, tu peux jouer en campagne avec niveaux courts ou en mode infini pour le score.
+
 
 

@@ -29,6 +29,8 @@ Jetpack Joyride est un runner à défilement horizontal très nerveux. Maintiens
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Hold` `tap`
 
 - Maintenir / toucher pour monter, relâcher pour descendre ; les boutons de gadgets et de menus varient selon l’hébergeur.
 
@@ -53,5 +55,6 @@ Jetpack Joyride est un runner à défilement horizontal très nerveux. Maintiens
 <!-- i18n:faq:id=faq:jetpack-joyride:do-vehicles-make-me-invincible-64693329 -->
 - **Q : Les véhicules rendent‑ils invincible ?**  
   R : Ils absorbent un impact puis se détruisent ; tu dois quand même continuer à esquiver.
+
 
 

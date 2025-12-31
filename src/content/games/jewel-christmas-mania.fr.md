@@ -35,6 +35,8 @@ Jewel Christmas Mania est un jeu de puzzle match‑3 éblouissant qui apporte la
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `click` `drag`
 
 *   **Échanger des bijoux :** Utilise ta souris pour cliquer et faire glisser un bijou vers une position adjacente pour l'échanger avec un autre. Cette action n'est valide que si elle résulte en un alignement de trois bijoux identiques ou plus.
 
@@ -52,4 +54,5 @@ Jewel Christmas Mania est un jeu de puzzle match‑3 éblouissant qui apporte la
 <!-- i18n:faq:id=faq:jewel-christmas-mania:q-what-happens-if-i-63c9772b -->
 *   **Q : Que se passe‑t‑il si je n'ai plus de coups ?**
     *   **R :** Si tu n'as plus de coups avant de compléter l'objectif du niveau, tu échoueras le niveau et pourras perdre une vie. Tu peux ensuite choisir de réessayer le niveau.
+
 

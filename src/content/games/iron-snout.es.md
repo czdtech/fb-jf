@@ -35,6 +35,8 @@ ataques, atrapar hachas al vuelo y devolver cohetes. Sobrevivir depende de leer
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD`
 - Las flechas o WASD activan ataques, saltos y agachadas; no hay botones de
   ataque separados.
 
@@ -62,4 +64,5 @@ ataques, atrapar hachas al vuelo y devolver cohetes. Sobrevivir depende de leer
 - **P: ¿Las oleadas tienen final?**  
   R: En la mayoría de modos son infinitas; el juego termina cuando te quedas sin
   vida.
+
 

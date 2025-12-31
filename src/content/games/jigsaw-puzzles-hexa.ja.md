@@ -30,6 +30,8 @@ Jigsaw Puzzles Hexaは、六角形のピースを組み合わせて画像を完�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `drag` `drop` `mouse` `click` `drag` `drop`
 
 ゲームは、シンプルなドラッグ＆ドロップメカニクスでプレイされます。
 
@@ -49,4 +51,5 @@ Jigsaw Puzzles Hexaは、六角形のピースを組み合わせて画像を完�
 <!-- i18n:faq:id=faq:jigsaw-puzzles-hexa:q-is-there-a-time-c0411996 -->
 *   **Q: 時間制限はありますか？**
     *   **A:** いいえ、ゲームはリラックスしたストレスフリーな体験になるように設計されています。各パズルを解決するために必要なだけ時間をかけることができます。
+
 

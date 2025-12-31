@@ -33,6 +33,8 @@ caminos secretos.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD`
 - Flechas/WASD para moverte y saltar; los botones de ataque o interacción
   pueden variar según la plataforma donde juegues.
 
@@ -58,4 +60,5 @@ en techos y uniones de baldosas.
 <!-- i18n:faq:id=faq:lows-adventures-2:are-there-checkpoints-in-longe-e4d3b8fb -->
 - P: ¿Hay puntos de control en los niveles largos?  
   R: Algunos niveles incluyen puntos de control a mitad de recorrido.
+
 

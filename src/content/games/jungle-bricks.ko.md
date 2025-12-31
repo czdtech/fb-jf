@@ -54,6 +54,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 조작 가이드
+<!-- i18n:controls:keys -->
+- 키(정렬)： `Click` `hold` `left` `button` `drag` `mouse`
 
 조작은 아래를 참고하세요.
 
@@ -77,4 +79,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 *   **Q: 공을 더 늘릴 수 있나요?**
     *   **A:** `+` 등 특수 아이콘이 있는 블록을 맞혀 부수면,
   다음 턴부터 발사되는 공의 개수가 증가합니다.
+
 

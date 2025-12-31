@@ -25,6 +25,8 @@ Jetpack Joyrideは、ハイエナジーな横スクロールランナーです�
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Hold` `tap`
 - 長押し/タップで上昇。離すと下降。ガジェット/メニュー用のボタンはホストによって異なります。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ Jetpack Joyrideは、ハイエナジーな横スクロールランナーです�
 <!-- i18n:faq:id=faq:jetpack-joyride:do-vehicles-make-me-invincible-64693329 -->
 - **Q: 乗り物は無敵にしてくれますか？**  
   A: 1回のヒットを吸収してから壊れます。それでもかわす必要はあります。
+
 

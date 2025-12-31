@@ -30,6 +30,8 @@ Dans cet épisode de Henry Stickmin, toute l’action tourne autour d’une infi
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse`
 
 - Souris pour choisir les options ; quelques séquences utilisent des touches pour les QTE, selon l’hébergeur.
 
@@ -54,5 +56,6 @@ Dans cet épisode de Henry Stickmin, toute l’action tourne autour d’une infi
 <!-- i18n:faq:id=faq:infiltrating-the-airship:can-i-replay-scenes-to-2b23b4a1 -->
 - **Q : Puis‑je rejouer une scène précise ?**  
   R : Oui, la carte des scènes permet de revenir sur n’importe quel segment pour compléter ton pourcentage ou revoir une séquence.
+
 
 

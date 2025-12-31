@@ -56,6 +56,8 @@ finden und deinen Wortschatz gut einsetzen musst.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag`
 
 - **Wörter bilden:** Wische mit gedrückter Maustaste oder dem Finger über
   zusammenhängende Buchstaben, um ein Wort zu markieren, und lasse los, um es
@@ -80,4 +82,5 @@ finden und deinen Wortschatz gut einsetzen musst.
 - **F: Kann ich Levels erneut spielen, um mehr Münzen zu verdienen?**  
   **A:** Ja, du kannst frühere Tafeln wiederholen und zusätzliche Wörter finden,
   um dir ein Polster an Hinweisen aufzubauen.
+
 

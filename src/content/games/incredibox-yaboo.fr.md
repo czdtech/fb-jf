@@ -46,6 +46,8 @@ La stratégie pour *Incredibox YaBoo* consiste à superposer ses sons uniques po
 
 <!-- i18n:section:controls -->
 ### **Guide des commandes**
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Les commandes sont l'interface standard et conviviale d'Incredibox, pilotée par les actions de la souris.
 
@@ -54,4 +56,5 @@ Les commandes sont l'interface standard et conviviale d'Incredibox, pilotée par
 *   **Mute / Unmute** : **Clique** sur un personnage qui joue pour le couper ; clique à nouveau pour le réactiver.
 *   **Solo** : Clique sur le **petit bouton** à côté d'un personnage actif pour couper tous les autres interprètes.
 *   **Enregistrer** : Clique sur le **bouton d'enregistrement** pour démarrer et arrêter l'enregistrement de ta création musicale.
+
 

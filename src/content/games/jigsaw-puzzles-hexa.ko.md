@@ -52,6 +52,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 조작 가이드
+<!-- i18n:controls:keys -->
+- 키(정렬)： `drag` `drop` `mouse` `click` `drag` `drop`
 
 조작은 아래를 참고하세요.
 
@@ -77,4 +79,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 *   **Q: 시간 제한이 있나요?**
     *   **A:** 없습니다. 마음대로 천천히 즐길 수 있도록 설계된
   힐링 퍼즐입니다.
+
 

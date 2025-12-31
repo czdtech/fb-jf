@@ -31,6 +31,8 @@ Kings and Queensは、クラシックなマッチ3に城の改装ストーリー
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Drag` `tap`
 
 - タイルはドラッグして入れ替えます。ブースターはタップで使用します。改装はスターを使ってシーンメニューから行います。
 
@@ -48,4 +50,5 @@ Kings and Queensは、クラシックなマッチ3に城の改装ストーリー
 <!-- i18n:faq:id=faq:kings-and-queens:renovations-affect-gameplay-b116edd0 -->
 - **Q: 改装はゲームプレイに影響しますか？**  
   A: 多くは見た目の要素です。ただし一部はブースタースロットやデイリー報酬のアンロックにつながります。
+
 

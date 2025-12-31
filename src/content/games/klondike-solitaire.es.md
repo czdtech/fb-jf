@@ -34,6 +34,8 @@ columnas de mesa, las secuencias descienden en colores alternos; solo los Reyes
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `drop` `tap`
 - Arrastrar‑y‑soltar o toques simples; muchos hosts ofrecen auto‑movimiento a
   las fundaciones.
 
@@ -62,4 +64,5 @@ columnas de mesa, las secuencias descienden en colores alternos; solo los Reyes
 *   **P: ¿Qué cambia en el modo robar‑3?**  
     **R:** Debes seguir el ciclo de 3 cartas en el mazo y planificar varios
     pases para acceder a la carta que necesitas.
+
 

@@ -25,6 +25,8 @@ Kingdom Rushは、レーン管理とヒーローの細かな操作が要のタ�
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse`
 - タワーの建設・アップグレードやヒーロー操作はマウス/タッチで行います。ホットキーは環境によって異なります。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ Kingdom Rushは、レーン管理とヒーローの細かな操作が要のタ�
 <!-- i18n:faq:id=faq:kingdom-rush:are-heroes-required-for-comple-d9ad2da1 -->
 - **Q: レベルを完了するためにヒーローは必要ですか？**  
   A: 必須ではありませんが、苦しいウェーブをしのぎやすくなり、チョークポイントを守る助けになります。
+
 

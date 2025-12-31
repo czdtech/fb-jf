@@ -41,6 +41,8 @@ energía.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `tap`
 
 - Arrastra para dibujar o borrar líneas, toca los interruptores y acerca/aleja o
   desplaza la vista en tableros muy densos.
@@ -62,5 +64,6 @@ energía.
 - Q: ¿Hay sistema de pistas?  
   A: Muchas versiones incluyen pistas paso a paso o soluciones completas que
   puedes consultar si te bloqueas.
+
 
 

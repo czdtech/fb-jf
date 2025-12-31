@@ -41,6 +41,8 @@ bloqueadores.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag`
 
 - **Intercambiar:** arrastra dos gemas adyacentes para intercambiarlas.
 - **Power‑ups:** actívalos haciéndolos coincidir en una combinación o, según las
@@ -62,4 +64,5 @@ bloqueadores.
 - **¿Hay sistema de pistas?**  
   R: Suele haber pistas automáticas; úsalas con moderación para no depender de
   ellas.
+
 

@@ -60,6 +60,8 @@ vereister Felder bis hin zum Einsammeln von Geschenken.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `drag`
 
 Das Spiel wird bequem mit Maus oder Touch bedient.
 
@@ -86,4 +88,5 @@ Das Spiel wird bequem mit Maus oder Touch bedient.
 *   **F: Was passiert, wenn mir die Züge ausgehen?**
     *   **A:** Schaffst du das Levelziel nicht innerhalb des Zuglimits, musst du das
         Level neu starten und es erneut versuchen.
+
 

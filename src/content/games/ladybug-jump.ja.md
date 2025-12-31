@@ -30,6 +30,8 @@ Ladybug Jumpは家族でも遊びやすいシンプルなプラットフォー�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Tap` `Click` `hold`
 
 - タップ/クリックでジャンプします。対応している場合は長押しで高く跳べます。一時停止/再試行はUIから行います。
 
@@ -47,4 +49,5 @@ Ladybug Jumpは家族でも遊びやすいシンプルなプラットフォー�
 <!-- i18n:faq:id=faq:ladybug-jump:controller-supported-4ec31a1d -->
 - **Q: コントローラーはサポートされていますか？**  
   A: 一部のバージョンではゲームパッドに対応しています。
+
 

@@ -53,6 +53,8 @@ eliminar bloques especiales, todo ello con un número limitado de movimientos.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `drag`
 
 El juego usa un sistema de intercambio muy sencillo.
 
@@ -78,4 +80,5 @@ El juego usa un sistema de intercambio muy sencillo.
 *   **P: ¿Qué pasa si me quedo sin movimientos?**
     *   **R:** Si no completas el objetivo del nivel antes de agotar los
         movimientos, perderás una vida y tendrás que reiniciar el nivel.
+
 

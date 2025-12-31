@@ -34,6 +34,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `drag` `drag` `click`
 
 - 从下方字母架中用鼠标拖动字母牌到棋盘相应格子上进行摆放。  
 - 提交前可以将不满意的位置拖回字母架重新调整。  
@@ -53,3 +55,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:letter-links:q-can-i-play-diagonally-9c4fe9aa -->
 *   **Q: 可以斜着拼单词吗？**  
     *   **A:** 不可以。所有单词必须沿横向（从左到右）或纵向（从上到下）连续排列，斜线拼写不被认可。
+

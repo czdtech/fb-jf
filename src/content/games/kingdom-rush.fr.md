@@ -31,6 +31,8 @@ Kingdom Rush a établi le mélange de la série entre contrôle de voie et micro
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse`
 
 - Souris/tactile pour toutes les actions de tours et héros ; les raccourcis varient.
 
@@ -55,4 +57,5 @@ Kingdom Rush a établi le mélange de la série entre contrôle de voie et micro
 <!-- i18n:faq:id=faq:kingdom-rush:are-heroes-required-for-comple-d9ad2da1 -->
 - **Q : Les héros sont‑ils nécessaires pour compléter les niveaux ?**
   R : Pas obligatoires, mais ils lissent les pics et sauvent des vies aux points d'étranglement.
+
 

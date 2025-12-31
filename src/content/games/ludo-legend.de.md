@@ -56,6 +56,8 @@ bringen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `Click`
 
 *   **Würfeln:** Auf den Würfel klicken, um ihn zu rollen.  
 *   **Figur bewegen:** Nach dem Wurf zeigt dir das Spiel die erlaubten Züge an;
@@ -79,4 +81,5 @@ bringen.
     *   **A:** Ja, du darfst an eigenen Figuren vorbeiziehen. Wenn du jedoch zwei
         Figuren auf demselben Feld als Block stehen hast, kannst du selbst keine
         dritte Figur auf dieses Feld ziehen.
+
 

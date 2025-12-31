@@ -53,6 +53,8 @@ puntuación posible.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `drag` `drag` `click`
 
 *   **Colocar fichas:** Haz clic y arrastra una ficha de letra desde tu atril
     inferior hasta una casilla del tablero.
@@ -81,4 +83,5 @@ puntuación posible.
 *   **P: ¿Puedo formar palabras en diagonal?**
     *   **R:** No. Todas las palabras deben formarse en horizontal (de izquierda
         a derecha) o en vertical (de arriba abajo).
+
 

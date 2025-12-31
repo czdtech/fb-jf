@@ -33,6 +33,8 @@ Jewel Academy est un jeu de puzzle match‑3 riche et soigné qui invite les jou
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `click` `click` `drag`
 
 Le jeu se joue à la souris ou à l'écran tactile.
 
@@ -53,4 +55,5 @@ Le jeu se joue à la souris ou à l'écran tactile.
 <!-- i18n:faq:id=faq:jewel-academy:q-why-did-i-run-4ac7a2e7 -->
 *   **Q : Pourquoi n'ai‑je plus de coups ?**
     *   **R :** Beaucoup de niveaux dans Jewel Academy sont limités en coups. Tu dois compléter l'objectif spécifique du niveau avant d'épuiser tous tes coups alloués. Si tu échoues, tu devras utiliser une vie pour réessayer.
+
 

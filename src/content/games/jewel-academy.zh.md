@@ -33,6 +33,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `mouse` `Click` `click` `click` `drag`
 
 本作使用鼠标或触屏操作：
 
@@ -53,3 +55,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:jewel-academy:q-why-did-i-run-4ac7a2e7 -->
 *   **Q: 为什么我会“步数用完却没过关”？**  
     *   **A:** 许多关卡都有限定步数或限定移动次数，你必须在给定步数内完成关卡目标。如果步数耗尽仍未达成目标，就会失败，需要消耗一次生命重新挑战。
+

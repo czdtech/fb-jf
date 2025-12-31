@@ -33,6 +33,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Drag`
 
 - 拖动相邻两颗宝石进行交换，若交换后能形成三消或以上则完成一次有效移动；特殊道具可通过参与消除或点击触发，具体按游戏内规则为准。  
 
@@ -50,3 +52,4 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:jungle-match-puzzle:are-diagonals-allowed-37ab3fc0 -->
 - **Q: 可以走斜线三消吗？**  
   **A:** 通常只支持横排和竖排消除，斜线不会触发三消，具体以当前模式说明为准。
+

@@ -34,6 +34,8 @@ Liquid Puzzle Sort Colors reprend la formule des jeux de tri de liquides : tu v
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap`
 
 - Appuie sur une bouteille source puis sur une bouteille cible pour verser.
 - Utilise les boutons d’annulation ou de réinitialisation s’ils sont disponibles.
@@ -53,5 +55,6 @@ Liquid Puzzle Sort Colors reprend la formule des jeux de tri de liquides : tu v
 <!-- i18n:faq:id=faq:liquid-puzzle-sort-colors:are-hints-reliable-20d3f0b9 -->
 - Q : Les indices sont‑ils fiables ?  
   R : Les indices aident surtout au début d’un niveau. Pour les configurations profondes, il vaut mieux réfléchir toi‑même à une nouvelle séquence de versements.
+
 
 

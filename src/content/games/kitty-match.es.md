@@ -48,6 +48,8 @@ amantes de los puzles y de los gatos.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `click` `drag`
 
 *   **Intercambiar fichas:** usa el ratón para hacer clic y arrastrar un ítem a
     una casilla adyacente. El intercambio solo se realiza si genera una
@@ -71,4 +73,5 @@ amantes de los puzles y de los gatos.
 *   **P: ¿Cómo creo una bomba?**
     *   **R:** Normalmente se crea al combinar cinco piezas iguales en forma de
         "L" o "T". Al activarse, la bomba limpia un área amplia alrededor.
+
 

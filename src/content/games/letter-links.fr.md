@@ -42,6 +42,8 @@ Letter Links est un jeu de construction de mots stratégique qui rappelle Scrabb
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `drag` `drag` `click`
 
 *   **Placer des lettres** : clique‑glisse une tuile depuis ton chevalet vers une case de la grille.
 *   **Rappeler des tuiles** : tu peux ramener une lettre sur ton chevalet tant que tu n'as pas validé le coup.
@@ -61,4 +63,5 @@ Letter Links est un jeu de construction de mots stratégique qui rappelle Scrabb
 <!-- i18n:faq:id=faq:letter-links:q-can-i-play-diagonally-9c4fe9aa -->
 *   **Q : Puis‑je former des mots en diagonale ?**
     *   **R :** Non, les mots doivent être horizontaux ou verticaux uniquement.
+
 

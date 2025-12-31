@@ -32,6 +32,8 @@ la exploración cuidadosa y las rutas eficientes.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD`
 - Flechas/WASD para moverte y saltar; los botones de ataque o interacción
   dependen de la plataforma donde juegues.
 
@@ -57,4 +59,5 @@ la exploración cuidadosa y las rutas eficientes.
 - P: ¿Puedo repetir niveles rápido para conseguir medallas?  
   R: Sí, la mayoría de menús permiten reinicios rápidos para hacer intentos de
   ruta una y otra vez.
+
 

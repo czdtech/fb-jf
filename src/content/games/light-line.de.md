@@ -53,6 +53,8 @@ teilen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `tap`
 
 - **Linien zeichnen/löschen:** Ziehe mit der Maus oder per Touch über das
   Spielfeld, um Linien zu legen oder wieder zu entfernen.  
@@ -78,4 +80,5 @@ teilen.
 - **F: Gibt es ein Hinweissystem?**  
   **A:** Viele Versionen bieten Schritt-für-Schritt-Hinweise oder komplette
   Musterlösungen, falls du bei einem Rätsel gar nicht mehr weiterkommst.
+
 

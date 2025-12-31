@@ -36,6 +36,8 @@ visuales y memorizar dónde están las trampas en lugar de correr a lo loco.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD`
 
 - Flechas o WASD para moverte y saltar; las teclas de reinicio pueden variar
   según el host.
@@ -66,5 +68,6 @@ visuales y memorizar dónde están las trampas en lugar de correr a lo loco.
 - Q: ¿Hay puntos de control para reducir la repetición?  
   A: Algunas versiones los incluyen; si no, la paciencia y una buena ruta son
   tus mejores aliados.
+
 
 

@@ -50,6 +50,8 @@ la isla maldita.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Arrow keys` `Press` `Spacebar` `Press`
 
 *   **Moverte izquierda/derecha:** usa las teclas **A/D** o las **flechas
     izquierda/derecha** para cambiar de carril.
@@ -76,4 +78,5 @@ la isla maldita.
 *   **P: ¿Qué pasa si caigo al agua o golpeo un obstáculo?**
     *   **R:** La carrera termina al instante y tendrás que empezar de nuevo
         desde el principio.
+
 

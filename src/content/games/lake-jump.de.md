@@ -51,6 +51,8 @@ springen, hältst den Rhythmus und baust Serien auf, ohne ins Wasser zu fallen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `Click`
 
 - **Sprung:** Tippe oder klicke im richtigen Moment, um zur nächsten Plattform
   zu springen.  
@@ -75,4 +77,5 @@ springen, hältst den Rhythmus und baust Serien auf, ohne ins Wasser zu fallen.
 - **F: Ist das Spiel endlos?**  
   **A:** In der Regel ja – du spielst auf Distanz und Highscore und versuchst,
   deinen persönlichen Rekord immer weiter zu verbessern.
+
 

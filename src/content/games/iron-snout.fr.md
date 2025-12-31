@@ -29,6 +29,8 @@ Iron Snout est un beat’em up 2D rapide dans lequel tu incarnes un cochon exper
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD`
 
 - Les flèches ou WASD déclenchent les attaques dans la direction pressée, ainsi que les sauts et esquives ; il n’y a pas de bouton d’attaque séparé.
 
@@ -53,5 +55,6 @@ Iron Snout est un beat’em up 2D rapide dans lequel tu incarnes un cochon exper
 <!-- i18n:faq:id=faq:iron-snout:is-there-an-end-to-742105ba -->
 - **Q : Les vagues ont‑elles une fin ?**  
   R : La plupart des modes sont infinis : tu joues jusqu’à épuisement de ta barre de vie et essaies de battre ton meilleur score.
+
 
 

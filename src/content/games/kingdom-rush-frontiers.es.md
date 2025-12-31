@@ -36,6 +36,8 @@ microgestiona a tu héroe para tapar fugas mientras gestionas resistencias físi
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse`
 - Ratón/táctil para construir, mejorar y lanzar habilidades; los atajos de
   teclado dependen del host.
 
@@ -62,4 +64,5 @@ microgestiona a tu héroe para tapar fugas mientras gestionas resistencias físi
 *   **P: ¿Son imprescindibles los héroes?**  
     **R:** No son obligatorios, pero ayudan mucho a frenar élites y estabilizar
     picos de daño en los puntos clave.
+
 

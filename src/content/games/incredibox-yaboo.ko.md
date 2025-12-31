@@ -62,6 +62,8 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `mouse` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 기본적으로 마우스로 조작하는 Incredibox 인터페이스를 그대로 사용합니다.
 
@@ -73,4 +75,5 @@ releaseDate: 2025-10-10T00:00:00.000Z
 - **Solo:** 특정 캐릭터 옆의 작은 버튼을 눌러 그 트랙만 단독으로 재생되게 할 수
   있습니다.
 - **녹음:** 레코드 버튼을 눌러 자신의 믹스를 녹음하고, 다시 눌러 녹음을 종료합니다.
+
 

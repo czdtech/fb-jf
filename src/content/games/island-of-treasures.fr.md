@@ -32,6 +32,8 @@ Island Of Treasures est un runner infini en 3D bourré d'action qui te plonge da
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Arrow keys` `Press` `Spacebar` `Press`
 
 *   **Se déplacer à gauche/droite :** Utilise les touches **A/D** ou les **flèches gauche/droite** pour changer de voie.
 *   **Sauter :** Appuie sur la **barre d'espace** ou la **flèche haut** pour sauter.
@@ -51,4 +53,5 @@ Island Of Treasures est un runner infini en 3D bourré d'action qui te plonge da
 <!-- i18n:faq:id=faq:island-of-treasures:q-what-happens-if-i-aa313a6b -->
 *   **Q : Que se passe‑t‑il si je tombe à l'eau ou percute un obstacle ?**
     *   **R :** Ta course se termine immédiatement, et tu devras recommencer depuis le début.
+
 

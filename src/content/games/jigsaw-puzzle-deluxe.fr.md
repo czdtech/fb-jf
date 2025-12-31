@@ -32,6 +32,8 @@ Jigsaw Puzzle Deluxe apporte l'activité intemporelle et relaxante de résolutio
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `drop` `Click` `hold` `drag` `drop`
 
 Le jeu se joue avec de simples contrôles de glisser‑déposer.
 
@@ -52,4 +54,5 @@ Le jeu se joue avec de simples contrôles de glisser‑déposer.
 <!-- i18n:faq:id=faq:jigsaw-puzzle-deluxe:q-the-pieces-are-all-2d20e446 -->
 *   **Q : Les pièces sont toutes mélangées. Comment puis‑je les organiser ?**
     *   **R :** Fais glisser les pièces sur l'écran pour créer de l'espace. Regroupe les pièces de couleurs ou textures similaires ensemble, ce qui facilitera la recherche de celle que tu cherches.
+
 

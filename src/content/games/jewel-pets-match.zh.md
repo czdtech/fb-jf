@@ -32,6 +32,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `drag`
 
 游戏使用简单的交换机制。
 
@@ -51,4 +53,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:jewel-pets-match:q-what-happens-if-i-63c9772b -->
 *   **问：步数耗尽却没完成目标会怎样？**
     *   **答：** 在用完所有可用步数之前没有达成关卡目标，就会失败并损失一条生命，你可以选择重新挑战该关卡。
+
 

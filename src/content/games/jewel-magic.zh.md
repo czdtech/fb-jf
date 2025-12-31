@@ -32,6 +32,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `mouse` `Click` `drag`
 
 游戏使用简单的鼠标或触屏手势操作。
 
@@ -51,4 +53,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:jewel-magic:q-what-happens-when-i-e8e69d77 -->
 *   **问：步数用完但目标没完成怎么办？**
     *   **答：** 步数耗尽前未完成关卡目标就会判定失败并消耗一条生命，你可以等待生命恢复后重试，或在支持的版本中通过游戏内方式获取额外生命。
+
 

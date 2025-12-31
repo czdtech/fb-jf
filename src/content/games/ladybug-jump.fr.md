@@ -32,6 +32,8 @@ Ladybug Jump est un platformer léger et familial. Tu sautes de feuille en champ
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `Click` `hold`
 
 - Tap/clic pour sauter, maintien pour sauter plus haut si la version le supporte ; pause et retry via les boutons à l’écran.
 
@@ -49,5 +51,6 @@ Ladybug Jump est un platformer léger et familial. Tu sautes de feuille en champ
 <!-- i18n:faq:id=faq:ladybug-jump:controller-supported-4ec31a1d -->
 - **Q : Peut‑on jouer à la manette ?**  
   R : Certaines déclinaisons supportent les gamepads pour un contrôle analogique du saut.
+
 
 

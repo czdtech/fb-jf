@@ -34,6 +34,8 @@ Jewel Magic Xmasは、クリスマス風の演出が入ったマッチ3パズル
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `Click` `drag`
 
 ゲームは、シンプルなマウスまたはタッチコントロールでプレイされます。
 
@@ -53,4 +55,5 @@ Jewel Magic Xmasは、クリスマス風の演出が入ったマッチ3パズル
 <!-- i18n:faq:id=faq:jewel-magic-xmas:q-what-happens-if-i-63c9772b -->
 *   **Q: 移動がなくなった場合はどうなりますか？**
     *   **A:** 移動制限内でレベルの目標を完了しない場合、レベルを再起動する必要があります。
+
 

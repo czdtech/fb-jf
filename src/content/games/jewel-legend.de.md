@@ -67,6 +67,8 @@ sind die schwersten Aufgaben kaum zu schaffen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `drag` `click` `click`
 
 Jewel Legend wird mit einfachen Maus- oder Touchgesten gespielt.
 
@@ -95,4 +97,5 @@ Jewel Legend wird mit einfachen Maus- oder Touchgesten gespielt.
         verlierst du ein Leben und musst das Level erneut starten. Oft kannst du
         Leben mit der Zeit regenerieren oder sie über In‑Game‑Mechaniken wieder
         auffüllen.
+
 

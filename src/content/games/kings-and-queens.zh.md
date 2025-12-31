@@ -32,6 +32,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Drag` `tap`
 
 - 拖动相邻宝石完成交换消除；点击界面上的增益道具即可使用；在城堡界面使用星星对场景进行翻新。  
 
@@ -49,3 +51,4 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:kings-and-queens:renovations-affect-gameplay-b116edd0 -->
 - **Q: 翻新城堡只改变外观吗？**  
   **A:** 大部分翻新是偏美化和剧情演出，但也有部分节点会解锁额外增益或每日奖励槽，建议优先完成带实际收益的翻新项目。
+

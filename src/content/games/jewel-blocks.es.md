@@ -49,6 +49,8 @@ se bloquee.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `mouse` `click` `drag` `mouse` `drop` `space`
 
 El juego se controla con un sencillo sistema de arrastrar y soltar.
 
@@ -76,4 +78,5 @@ El juego se controla con un sencillo sistema de arrastrar y soltar.
         limpio y abierto posible, y prioriza jugadas que limpien varias líneas
         de una vez para ganar bonificaciones. Por ejemplo, limpiar dos líneas en
         un solo movimiento vale más que limpiarlas por separado.
+
 

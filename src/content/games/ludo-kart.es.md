@@ -42,6 +42,8 @@ capturas y las tiradas afortunadas generan grandes giros en la partida.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `tap`
 
 - Tirar: haz clic o toca para lanzar el dado.
 - Mover: elige una de tus fichas con movimiento legal para avanzar.
@@ -61,4 +63,5 @@ capturas y las tiradas afortunadas generan grandes giros en la partida.
 <!-- i18n:faq:id=faq:ludo-kart:how-many-players-ce44cd9b -->
 - ¿Cuántos jugadores admite?  
   Lo habitual es entre 2 y 4 jugadores; revisa las opciones de modo de juego.
+
 

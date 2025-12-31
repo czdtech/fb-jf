@@ -30,6 +30,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Mouse`
 
 - 主要通过鼠标点击界面上的选项进行选择；部分 QTE 段落需要使用键盘按键，根据当前托管版本的提示为准。
 
@@ -54,3 +56,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:infiltrating-the-airship:can-i-replay-scenes-to-2b23b4a1 -->
 - Q: 可以重复游玩某个场景来补完收集吗？  
   A: 可以。多数托管版本提供场景选择或时间线跳转功能，方便你回到特定节点完成 100% 失败/结局收集。
+

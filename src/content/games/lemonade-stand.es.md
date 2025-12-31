@@ -36,6 +36,8 @@ sobrantes).
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse`
 
 - Usa el ratón o la interfaz para fijar cantidades, precios y pasar al día
   siguiente.
@@ -67,5 +69,6 @@ sobrantes).
 - Q: ¿Cuál es el indicador más importante?  
   A: Fíjate en el beneficio diario y en el inventario sobrante; intenta que
   ambos muestren una tendencia ascendente estable.
+
 
 

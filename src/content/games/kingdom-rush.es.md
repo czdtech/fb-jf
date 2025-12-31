@@ -36,6 +36,8 @@ engendros, lo que exige configuraciones flexibles.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse`
 - Ratón/táctil para todas las acciones de torres y héroe; los atajos varían por
   host.
 
@@ -64,4 +66,5 @@ engendros, lo que exige configuraciones flexibles.
 *   **P: ¿Son obligatorios los héroes para completar niveles?**  
     **R:** No son estrictamente necesarios, pero suavizan mucho los picos de
     dificultad y salvan situaciones límite en los cuellos de botella.
+
 

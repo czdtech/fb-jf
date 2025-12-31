@@ -41,6 +41,8 @@ Spawn-Mechaniken, sodass du flexibel bauen musst.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse`
 
 - Sämtliche Turm- und Heldenaktionen steuerst du mit Maus oder Touch; Hotkeys
   können je nach Plattform variieren.
@@ -76,4 +78,5 @@ Spawn-Mechaniken, sodass du flexibel bauen musst.
 - **F: Sind Helden notwendig, um Levels abzuschließen?**  
   **A:** Nicht zwingend, aber sie machen das Spiel deutlich verzeihender und
   helfen, gefährliche Spitzen an den Engpässen abzufangen.
+
 

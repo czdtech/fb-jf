@@ -31,6 +31,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `drag` `drop` `mouse` `click` `drag` `drop`
 
 游戏使用简单的拖放机制操作。
 
@@ -50,4 +52,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:jigsaw-puzzles-hexa:q-is-there-a-time-c0411996 -->
 *   **问：是否有时间限制？**
     *   **答：** 没有。游戏更偏向放松与思考，你可以慢慢欣赏图片并享受拼合过程，不必担心倒计时压力。
+
 

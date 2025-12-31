@@ -39,6 +39,8 @@ zu kontern.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD`
 
 - **Pfeiltasten/WASD**: Richtungsangaben lösen gleichzeitig Angriffe,
   Sprünge oder Ducken aus – separate Angriffstasten brauchst du nicht.
@@ -69,3 +71,4 @@ zu kontern.
 - **F: Gibt es ein Ende der Wellen?**  
   **A:** Die meisten Modi sind endlos – du spielst, bis deine Lebenspunkte
   aufgebraucht sind.
+

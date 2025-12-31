@@ -55,6 +55,8 @@ hunderte knifflige Aufgaben.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `click` `click` `drag`
 
 Das Spiel wird mit Maus oder Touchscreen gespielt.
 
@@ -83,4 +85,5 @@ Das Spiel wird mit Maus oder Touchscreen gespielt.
     *   **A:** Viele Level haben ein Zuglimit. Du musst das Ziel erreichen, bevor
         deine Züge aufgebraucht sind – sonst verlierst du ein Leben und musst den
         Versuch wiederholen.
+
 

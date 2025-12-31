@@ -46,6 +46,8 @@ piezas dispersas para reconstruir la imagen original.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `Click` `hold` `drag` `drop`
 
 El control es de arrastrar y soltar.
 
@@ -74,4 +76,5 @@ El control es de arrastrar y soltar.
 *   **P: Las piezas están muy desordenadas, ¿cómo las organizo?**
     *   **R:** Arrastra las piezas para crear espacio y agrúpalas por colores o
         texturas similares. Así te será más fácil localizar la pieza que buscas.
+
 

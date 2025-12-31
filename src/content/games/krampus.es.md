@@ -35,6 +35,8 @@ cauteloso y la observación.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `WASD`
 - Flechas/WASD para moverse y saltar; las teclas de acción/interacción dependen
   del host.
 
@@ -62,4 +64,5 @@ cauteloso y la observación.
 *   **P: ¿Hay puntos de control?**  
     **R:** Muchos hosts incluyen checkpoints a mitad de nivel; fíjate en el HUD
     o en iconos específicos.
+
 

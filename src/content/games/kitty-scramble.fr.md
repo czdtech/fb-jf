@@ -33,6 +33,8 @@ Kitty Scramble propose des grilles de lettres sur des thèmes variés (animaux, 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag`
 
 - Fais glisser sur les lettres pour former un mot, relâche pour valider ; utilise les indices avec parcimonie.
 
@@ -50,5 +52,6 @@ Kitty Scramble propose des grilles de lettres sur des thèmes variés (animaux, 
 <!-- i18n:faq:id=faq:kitty-scramble:can-i-replay-for-coins-f9e57132 -->
 - **Q : Puis‑je rejouer des niveaux pour des pièces ?**  
   R : Oui, tu peux « farmer » les grilles faciles pour gagner des indices.
+
 
 

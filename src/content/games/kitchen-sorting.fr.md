@@ -32,6 +32,8 @@ Kitchen Sorting te met dans la peau d'un commis qui doit trier en urgence ce qui
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `tap`
 
 - Glisse ou tape sur les objets pour les placer dans les bacs correspondants ; pause/retry via l'interface ; les indices peuvent éclairer les bonnes zones.
 
@@ -49,4 +51,5 @@ Kitchen Sorting te met dans la peau d'un commis qui doit trier en urgence ce qui
 <!-- i18n:faq:id=faq:kitchen-sorting:are-penalties-harsh-cf63957f -->
 - **Q : Les pénalités sont‑elles sévères ?**
   R : Les niveaux avancés punissent lourdement les erreurs d'hygiène ; saute un objet si tu doutes plutôt que de risquer une croix rouge.
+
 

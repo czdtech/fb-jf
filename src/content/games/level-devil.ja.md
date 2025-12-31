@@ -26,6 +26,8 @@ Level Devilは、ステージが罠だらけの意地悪なプラットフォー
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD`
 - 矢印キー/WASDで移動し、ジャンプします。リスタートキーは環境によって異なります。
 
 <!-- i18n:section:tips -->
@@ -45,4 +47,5 @@ Level Devilは、ステージが罠だらけの意地悪なプラットフォー
 <!-- i18n:faq:id=faq:level-devil:are-there-checkpoints-to-reduc-f621ae0b -->
 - **Q: 繰り返しを減らすためのチェックポイントはありますか？**  
   A: 環境によってはあります。ない場合は、罠のパターンを覚えてルートを固めるのが近道です。
+
 

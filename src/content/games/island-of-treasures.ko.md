@@ -55,6 +55,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 조작 가이드
+<!-- i18n:controls:keys -->
+- 키(정렬)： `Arrow keys` `Press` `Spacebar` `Press`
 
 - **좌/우 이동**: A/D 키 또는 방향키 좌/우로 레인을 변경합니다.  
 - **점프**: 스페이스바 또는 위쪽 방향키로 점프합니다.  
@@ -78,4 +80,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:island-of-treasures:q-what-happens-if-i-aa313a6b -->
 *   **Q: 물에 빠지거나 장애물에 부딪히면 어떻게 되나요?**
     *   **A:** 즉시 러닝이 종료되며, 처음부터 다시 시작해야 합니다.
+
 

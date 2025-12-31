@@ -53,6 +53,8 @@ Highscore immer weiter zu verbessern.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow keys` `Press` `Spacebar` `Press`
 
 - **Links/Rechts bewegen:** A/D oder Pfeil links/rechts.  
 - **Springen:** Leertaste oder Pfeil nach oben.  
@@ -76,4 +78,5 @@ Highscore immer weiter zu verbessern.
 *   **F: Was passiert bei einem Sturz oder Crash?**
     *   **A:** Dein Lauf endet sofort, und du startest beim nächsten Versuch wieder
         von vorne.
+
 

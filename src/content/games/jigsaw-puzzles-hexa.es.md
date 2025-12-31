@@ -47,6 +47,8 @@ exige buena visión espacial.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `mouse` `click` `drag` `drop`
 
 El juego se basa en arrastrar y soltar.
 
@@ -71,4 +73,5 @@ El juego se basa en arrastrar y soltar.
 *   **P: ¿Hay límite de tiempo?**
     *   **R:** No. Está diseñado para ser una experiencia relajada, así que
         puedes tomarte todo el tiempo que necesites para completar cada puzle.
+
 

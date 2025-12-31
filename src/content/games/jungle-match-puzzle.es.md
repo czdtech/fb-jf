@@ -43,6 +43,8 @@ clave para despejar la vegetación densa y abrir el tablero a grandes cascadas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag`
 
 - **Intercambiar:** arrastra para intercambiar gemas adyacentes.
 - **Power‑ups:** actívalos combinándolos en un match o tocándolos, según indiquen
@@ -64,4 +66,5 @@ clave para despejar la vegetación densa y abrir el tablero a grandes cascadas.
 <!-- i18n:faq:id=faq:jungle-match-puzzle:are-diagonals-allowed-37ab3fc0 -->
 - **¿Se permiten diagonales?**  
   R: Normalmente no; revisa las reglas del modo para confirmarlo.
+
 

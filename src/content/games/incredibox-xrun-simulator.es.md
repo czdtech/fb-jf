@@ -65,6 +65,8 @@ beat electrónico complejo.
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `click` `Click`
 
 El mod utiliza la interfaz de clic sencilla de la serie Simulator.
 
@@ -92,3 +94,4 @@ ideal para géneros electrónicos.
 No está en las plataformas oficiales. Mods como *Xrun Simulator* suelen
 compartirse en sitios como **Newgrounds**, comunidades como
 **playfiddlebops.com** o en YouTube con enlaces para jugarlos en navegador.
+

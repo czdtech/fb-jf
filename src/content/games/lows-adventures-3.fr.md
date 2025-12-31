@@ -29,6 +29,8 @@ Ce troisième épisode affine encore le gameplay de plateforme avec des fenêtre
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD`
 
 - Flèches / WASD pour se déplacer et sauter.
 - La touche d’attaque ou d’interaction dépend de l’hébergeur du jeu.
@@ -54,5 +56,6 @@ Ce troisième épisode affine encore le gameplay de plateforme avec des fenêtre
 <!-- i18n:faq:id=faq:lows-adventures-3:can-i-replay-levels-quickly-0e7d248b -->
 - Q : Puis‑je relancer rapidement un niveau pour chasser les médailles ?  
   R : La plupart des menus permettent des redémarrages rapides, ce qui est idéal pour optimiser tes routes.
+
 
 

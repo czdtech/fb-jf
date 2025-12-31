@@ -33,6 +33,8 @@ Jungle Match Puzzle est un match‑3 coloré avec des lianes, caisses et tuiles 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag`
 
 - Fais glisser pour échanger ; active les bonus en alignant/tapant ; pause/réessayer via l'interface.
 
@@ -53,4 +55,5 @@ Jungle Match Puzzle est un match‑3 coloré avec des lianes, caisses et tuiles 
 - **Q : Les diagonales sont‑elles permises ?**
   
   R : Généralement non ; lis les règles du mode.
+
 

@@ -33,6 +33,8 @@ Lake Jump est un défi minimaliste basé sur le timing : tu dois déclencher tes
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `Click`
 
 - Saut : tap/clic au moment voulu.
 - Pause / Retry : via les boutons d'interface.
@@ -46,4 +48,5 @@ Lake Jump est un défi minimaliste basé sur le timing : tu dois déclencher tes
 - Y a‑t‑il des bonus ? Certaines variantes offrent du slow‑mo ou des plateformes agrandies temporairement.
 <!-- i18n:faq:id=faq:lake-jump:endless-ea2091be -->
 - Le jeu est‑il infini ? Le plus souvent oui : le but est de battre ton propre record.
+
 

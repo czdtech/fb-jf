@@ -38,6 +38,8 @@ Einprägen von Fallenstandorten – nicht durch blindes Durchrennen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD`
 
 - Pfeiltasten oder WASD zum Laufen und Springen; Neustart-Tasten können je nach
   Host unterschiedlich sein.
@@ -72,4 +74,5 @@ Einprägen von Fallenstandorten – nicht durch blindes Durchrennen.
   **A:** Einige Versionen bieten Checkpoints, andere nicht. Achte auf Symbole im
   HUD oder kurze Speicher-Icons. Wenn keine vorhanden sind, sind Geduld und
   saubere Routenplanung besonders wichtig.
+
 

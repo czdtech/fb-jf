@@ -49,6 +49,8 @@ parte inferior.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `hold` `left` `button` `drag` `mouse`
 
 Los controles son de un solo toque.
 
@@ -75,4 +77,5 @@ Los controles son de un solo toque.
     *   **R:** Busca bloques especiales con un "+" (u otro icono similar). Al
         golpearlos y destruirlos, normalmente añades bolas extra a la ráfaga del
         siguiente disparo.
+
 

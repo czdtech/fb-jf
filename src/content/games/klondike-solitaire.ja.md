@@ -26,6 +26,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Drag` `drop` `tap`
 - ドラッグ＆ドロップ（またはタップ）で操作します。環境によっては自動移動が有効です。
 
 <!-- i18n:section:tips -->
@@ -45,4 +47,5 @@ locale: ja
 <!-- i18n:faq:id=faq:klondike-solitaire:how-does-draw3-change-strategy-016e7d05 -->
 - **Q: 3枚引きは戦略をどのように変更しますか？**  
   A: 3枚の並び順を意識して、ストックを何周するかも含めて計画が必要になります。
+
 

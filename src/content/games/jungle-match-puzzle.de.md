@@ -61,6 +61,8 @@ mächtige Kettenreaktionen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag`
 
 - **Tauschen:** Ziehe zwei benachbarte Steine gegeneinander, um sie zu
   vertauschen.
@@ -87,4 +89,5 @@ mächtige Kettenreaktionen.
 - **F: Sind diagonale Matches erlaubt?**  
   **A:** In der Regel nicht – meistens zählen nur horizontale und vertikale
   Reihen. Halte dich an die Levelregeln, die im Spiel angezeigt werden.
+
 

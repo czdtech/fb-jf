@@ -69,6 +69,8 @@ Bonus‑Animationen zu entdecken.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Die Steuerung entspricht der üblichen, benutzerfreundlichen Incredibox-
 Oberfläche und wird vor allem per Maus bedient.
@@ -83,4 +85,5 @@ Oberfläche und wird vor allem per Maus bedient.
     anderen Performer stummzuschalten.
 *   **Aufnehmen:** Klicke auf den Record‑Button, um die Aufnahme zu starten und
     zu stoppen.
+
 

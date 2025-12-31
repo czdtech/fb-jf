@@ -30,6 +30,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `hold` `left` `button` `drag` `mouse`
 
 
 本作采用简单的一键式操作：
@@ -50,4 +52,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:jungle-bricks:q-how-can-i-get-90ff761e -->
 *   **Q: 如何获得更多弹球？**  
     *   **A:** 注意瞄准带有“+”或特殊图标的方块，它们被打掉后通常会在下一回合为你增加弹球数量，从而显着提高清场效率。
+
 

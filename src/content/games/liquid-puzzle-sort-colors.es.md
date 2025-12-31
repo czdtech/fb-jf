@@ -42,6 +42,8 @@ que ya no quede ningún movimiento útil.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap`
 
 - Toca una botella de origen y luego una de destino para verter; usa deshacer o
   reiniciar si están disponibles; el sistema de pistas puede sugerir un
@@ -64,4 +66,5 @@ que ya no quede ningún movimiento útil.
 - Q: ¿Son fiables las pistas?  
   A: Van bien en las primeras jugadas, pero los niveles profundos siguen
   necesitando planificación propia.
+
 

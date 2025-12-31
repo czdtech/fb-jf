@@ -56,6 +56,8 @@ für Puzzle- und Katzenfans.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `click` `drag`
 
 *   **Felder tauschen:** Klicke ein Symbol an und ziehe es auf ein benachbartes
     Feld, um die Position zu vertauschen. Der Zug ist nur gültig, wenn dabei
@@ -80,4 +82,5 @@ für Puzzle- und Katzenfans.
     *   **A:** In der Regel erhältst du eine Bomben‑Kachel, wenn du fünf gleiche Symbole
         in L‑ oder T‑Form verbindest. Beim Auslösen räumt sie ein größeres Gebiet um
         sich herum.
+
 

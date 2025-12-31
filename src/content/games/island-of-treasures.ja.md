@@ -30,6 +30,8 @@ Island Of Treasuresは、海賊をテーマにした3Dエンドレスランナ�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Arrow keys` `Press` `Spacebar` `Press`
 
 *   **左/右に移動:** **A/Dキー**または**左/右矢印キー**を使用してレーンを変更します。
 *   **ジャンプ:** **スペースバー**または**上矢印キー**を押してジャンプします。
@@ -49,4 +51,5 @@ Island Of Treasuresは、海賊をテーマにした3Dエンドレスランナ�
 <!-- i18n:faq:id=faq:island-of-treasures:q-what-happens-if-i-aa313a6b -->
 *   **Q: 水に落ちたり障害物にぶつかったりするとどうなりますか？**
     *   **A:** ランはすぐに終了し、最初からやり直す必要があります。
+
 

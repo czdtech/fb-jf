@@ -69,6 +69,8 @@ sugerente y, de paso, desvelar las animaciones ocultas.
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Los controles son los habituales de Incredibox.
 
@@ -82,3 +84,4 @@ Los controles son los habituales de Incredibox.
     al resto.
 *   **Grabar:** pulsa el **botón de grabación** para empezar o detener la
     grabación de tu creación.
+

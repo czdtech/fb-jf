@@ -33,6 +33,8 @@ Light Line te demande de tracer des chemins qui relient des nœuds lumineux sans
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `tap`
 
 - Fais glisser pour tracer ou effacer des lignes.
 - Appuie sur les interrupteurs pour ouvrir/fermer les portes.
@@ -52,5 +54,6 @@ Light Line te demande de tracer des chemins qui relient des nœuds lumineux sans
 <!-- i18n:faq:id=faq:light-line:is-there-a-hint-system-23e35ede -->
 - Q : Y a‑t‑il un système d’indices ?  
   R : Beaucoup de versions proposent des indices étape par étape ou des solutions complètes, mais essaie d’abord de résoudre la grille par toi‑même pour progresser.
+
 
 

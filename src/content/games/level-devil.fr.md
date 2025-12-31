@@ -31,6 +31,8 @@ Level Devil est un plateformer piégé où le niveau te trahit en permanence : d
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `WASD`
 
 - Flèches / WASD pour se déplacer et sauter ; touches de restart variables selon l’hébergeur.
 
@@ -55,5 +57,6 @@ Level Devil est un plateformer piégé où le niveau te trahit en permanence : d
 <!-- i18n:faq:id=faq:level-devil:are-there-checkpoints-to-reduc-f621ae0b -->
 - **Q : Y a‑t‑il des checkpoints pour éviter de tout recommencer ?**  
   R : Certains hébergeurs en proposent ; sinon, patience et bon routage seront tes meilleurs alliés.
+
 
 

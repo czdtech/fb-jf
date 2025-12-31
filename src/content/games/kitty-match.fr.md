@@ -32,6 +32,8 @@ Kitty Match est un jeu de match‑3 plein de chats et de niveaux colorés. Le bu
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `click` `drag`
 
 *   **Échanger** : clique et fais glisser une tuile vers une voisine pour les inverser ; l'échange doit créer un match pour être validé.
 
@@ -49,4 +51,5 @@ Kitty Match est un jeu de match‑3 plein de chats et de niveaux colorés. Le bu
 <!-- i18n:faq:id=faq:kitty-match:q-how-do-i-create-1a7733b7 -->
 *   **Q : Comment créer une bombe ?**
     *   **R :** En alignant cinq tuiles en forme de « L » ou de « T », ce qui génère un bonus qui explose autour de lui.
+
 

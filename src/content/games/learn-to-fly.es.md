@@ -37,6 +37,8 @@ modos de desafío a lo largo de los días.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Arrow keys` `space`
 
 - Las flechas o las teclas de dirección ajustan el ángulo de vuelo.  
 - La barra espaciadora u otras teclas (según el host) activan los propulsores.
@@ -67,5 +69,6 @@ modos de desafío a lo largo de los días.
 - Q: ¿Hay límite de días?  
   A: Puedes seguir mejorando hasta cumplir todos los objetivos; los modos de
   desafío amplían aún más la experiencia.
+
 
 

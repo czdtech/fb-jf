@@ -25,6 +25,8 @@ Kingdom Rush Frontiersは、新しい舞台や敵の能力、タワーの専門�
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse`
 - 建設・アップグレード・スキルの発動はマウス/タッチで行います。ホットキーは環境によって異なります。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ Kingdom Rush Frontiersは、新しい舞台や敵の能力、タワーの専門�
 <!-- i18n:faq:id=faq:kingdom-rush-frontiers:are-heroes-necessary-to-win-7dad505c -->
 - **Q: ヒーローは勝つために必要ですか？**  
   A: 必須ではありませんが、足止めと強敵の処理がかなり楽になります。
+
 

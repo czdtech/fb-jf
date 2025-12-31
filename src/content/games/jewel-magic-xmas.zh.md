@@ -32,6 +32,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `mouse` `Click` `drag`
 
 游戏使用简单的鼠标或触屏操作。
 
@@ -51,3 +53,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:jewel-magic-xmas:q-what-happens-if-i-63c9772b -->
 *   **问：走完步数但目标没达成会怎样？**
     *   **答：** 如果在限定步数内未达成关卡目标，这一局就会失败，需要重新挑战。
+

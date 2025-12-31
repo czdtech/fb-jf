@@ -31,6 +31,8 @@ Klondike utilise sept colonnes de tableau, une pioche et quatre fondations. Le b
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `drop` `tap`
 
 - Glisser‑déposer ou simple clic selon l’hébergeur ; l’auto‑déplacement vers les fondations est souvent disponible.
 
@@ -55,5 +57,6 @@ Klondike utilise sept colonnes de tableau, une pioche et quatre fondations. Le b
 <!-- i18n:faq:id=faq:klondike-solitaire:how-does-draw3-change-strategy-016e7d05 -->
 - **Q : En quoi la pioche 3 change‑t‑elle la stratégie ?**  
   R : Tu dois suivre le cycle des cartes par groupes de trois et planifier sur plusieurs tours.
+
 
 

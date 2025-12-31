@@ -32,6 +32,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Arrow keys` `Press` `Spacebar` `Press`
 
 *   **左右移动**：使用 A/D 键或左右方向键在不同跑道之间切换。  
 *   **跳跃**：按空格键或上方向键跳过缺口与低矮障碍。  
@@ -51,3 +53,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:island-of-treasures:q-what-happens-if-i-aa313a6b -->
 *   **Q: 掉进海里或撞上机关后会怎样？**  
     *   **A:** 一般会直接判定这一局结束，并结算你本次的跑动距离与得分。要想继续挑战，只能从起点重新出发。
+

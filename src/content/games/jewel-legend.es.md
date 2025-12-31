@@ -57,6 +57,8 @@ retos más duros.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `drag` `click` `click`
 
 El juego se controla con ratón o pantalla táctil.
 
@@ -85,4 +87,5 @@ El juego se controla con ratón o pantalla táctil.
         normalmente pierdes una vida y tendrás que repetir el nivel. Puedes
         esperar a que las vidas se regeneren con el tiempo o conseguir más por
         otras vías dentro del juego.
+
 

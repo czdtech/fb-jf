@@ -51,6 +51,8 @@ voll läuft.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `mouse` `click` `drag` `mouse` `drop` `space`
 
 Das Spiel nutzt eine einfache Drag-and-drop-Steuerung.
 
@@ -77,4 +79,5 @@ Das Spiel nutzt eine einfache Drag-and-drop-Steuerung.
     *   **A:** Spiele möglichst lange, indem du das Feld sauber hältst und isolierte
         Löcher vermeidest. Priorisiere Züge, die mehrere Reihen gleichzeitig räumen,
         um Combo‑Boni mitzunehmen.
+
 

@@ -42,6 +42,8 @@ acumular rachas sin caer al lago.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `Click`
 
 - Salto: toca o haz clic en el momento adecuado.  
 - Pausa/Reintentar: botones en pantalla.
@@ -62,5 +64,6 @@ acumular rachas sin caer al lago.
 <!-- i18n:faq:id=faq:lake-jump:endless-ea2091be -->
 - Q: ¿Es un modo infinito?  
   A: Normalmente sí; el objetivo es superar tus mejores marcas personales.
+
 
 

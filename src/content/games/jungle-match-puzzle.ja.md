@@ -33,6 +33,8 @@ Jungle Match Puzzleは、つる、木箱、粘着タイルをブロッカーと�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Drag`
 
 - ドラッグでスワップします。パワーアップはマッチ（またはタップ）で発動します。UIから一時停止/再試行ができます。
 
@@ -50,4 +52,5 @@ Jungle Match Puzzleは、つる、木箱、粘着タイルをブロッカーと�
 <!-- i18n:faq:id=faq:jungle-match-puzzle:are-diagonals-allowed-37ab3fc0 -->
 - **Q: 斜めは許可されていますか？**  
   A: 多くの場合できません。モードのルールを確認してください。
+
 

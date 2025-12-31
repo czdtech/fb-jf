@@ -44,6 +44,8 @@ salas, lo que a su vez desbloquea boosters para tableros más difíciles.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `tap`
 
 - **Intercambiar:** arrastra para cambiar de sitio gemas adyacentes.
 - **Boosters:** tócalos para usarlos.
@@ -67,4 +69,5 @@ salas, lo que a su vez desbloquea boosters para tableros más difíciles.
 *   **P: ¿Las renovaciones afectan a la jugabilidad?**  
     **R:** En su mayoría son cosméticas, aunque algunas pueden desbloquear
     ranuras extra de boosters o recompensas diarias.
+
 

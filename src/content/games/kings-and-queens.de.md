@@ -59,6 +59,8 @@ du dich Raum für Raum durch das Schloss und gestaltest es nach und nach neu.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `tap`
 
 - **Tauschen:** Ziehe zwei benachbarte Steine, um sie zu vertauschen.
 - **Booster nutzen:** Tippe auf einen Booster und anschließend auf das Feld,
@@ -84,4 +86,5 @@ du dich Raum für Raum durch das Schloss und gestaltest es nach und nach neu.
 - **F: Haben Renovierungen Einfluss auf das Gameplay?**  
   **A:** Viele Verbesserungen sind hauptsächlich kosmetisch, einige schalten
   aber zusätzliche Booster-Slots oder tägliche Belohnungen frei.
+
 

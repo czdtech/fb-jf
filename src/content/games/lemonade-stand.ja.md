@@ -25,6 +25,8 @@ Lemonade Standは、レモネード屋の運営をシンプルに体験できる
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse`
 - マウス/UIで数量や価格を設定し、1日を進めます。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ Lemonade Standは、レモネード屋の運営をシンプルに体験できる
 <!-- i18n:faq:id=faq:lemonade-stand:what-is-the-most-important-96f81904 -->
 - **Q: 見るべき最も重要なメトリックは何ですか？**  
   A: 毎日の利益と在庫の残りです。無駄が減って利益が安定して伸びているかを見ましょう。
+
 

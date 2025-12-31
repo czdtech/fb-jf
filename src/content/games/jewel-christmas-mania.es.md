@@ -51,6 +51,8 @@ música alegre.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `click` `drag`
 
 *   **Intercambiar gemas:** usa el ratón para hacer clic y arrastrar una gema a
     una posición adyacente. El intercambio solo es válido si genera un grupo de
@@ -76,4 +78,5 @@ música alegre.
     *   **R:** Si agotas los movimientos antes de completar el objetivo del
         nivel, fallas la partida y es posible que pierdas una vida. Después
         podrás volver a intentarlo.
+
 

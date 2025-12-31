@@ -33,6 +33,8 @@ Jewel Halloween est un match‑3 saisonnier. Échange des gemmes adjacentes pour
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag`
 
 - Échange : Fais glisser des gemmes adjacentes pour les échanger.
 - Bonus : Active en alignant ou en tapant selon les règles.
@@ -46,4 +48,5 @@ Jewel Halloween est un match‑3 saisonnier. Échange des gemmes adjacentes pour
 - Les diagonales sont‑elles permises ? Généralement non — suis les règles du mode.
 <!-- i18n:faq:id=faq:jewel-halloween:hints-available-0dca1b1d -->
 - Des indices disponibles ? Souvent oui ; utilise‑les avec parcimonie.
+
 

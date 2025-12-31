@@ -54,6 +54,8 @@ Platz zu schaffen und die Ziele rechtzeitig zu erreichen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `tap`
 
 - Ziehe zwei benachbarte Bonbons, um sie zu vertauschen.
 - Tippe auf Power-ups, um sie auszulösen (oder kombiniere sie direkt
@@ -78,4 +80,5 @@ Platz zu schaffen und die Ziele rechtzeitig zu erreichen.
 - **F: Sind diagonale Matches erlaubt?**  
   **A:** Normalerweise nicht – es zählen nur horizontale und vertikale Reihen.
   Schau dir zur Sicherheit die Modusregeln im Spiel an.
+
 

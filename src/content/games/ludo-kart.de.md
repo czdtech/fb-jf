@@ -52,6 +52,8 @@ spannende Wendungen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `tap`
 
 - **Würfeln:** Per Klick/Tap auf den Würfel.  
 - **Bewegen:** Nach dem Wurf eine mögliche Figur auswählen, die die gewürfelte
@@ -76,4 +78,5 @@ spannende Wendungen.
 <!-- i18n:faq:id=faq:ludo-kart:how-many-players-ce44cd9b -->
 - **F: Wie viele Spieler:innen können mitspielen?**  
   **A:** Meist 2–4, je nach Modus und Host.
+
 

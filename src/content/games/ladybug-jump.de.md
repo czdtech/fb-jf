@@ -49,6 +49,8 @@ Sprünge mit der Zeit anspruchsvoller und verlangen gutes Timing.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `Click` `hold`
 
 - **Springen:** Tippen/Klicken zum Springen; langes Halten sorgt – je nach
   Version – für höhere Sprünge.  
@@ -73,4 +75,5 @@ Sprünge mit der Zeit anspruchsvoller und verlangen gutes Timing.
 - **F: Kann ich mit Controller spielen?**  
   **A:** Einige Versionen unterstützen Gamepads und erlauben feinere
   Sprungkontrolle über analoge Eingaben.
+
 

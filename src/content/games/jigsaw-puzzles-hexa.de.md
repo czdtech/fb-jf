@@ -56,6 +56,8 @@ räumliches Vorstellungsvermögen zu trainieren.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `mouse` `click` `drag` `drop`
 
 Jigsaw Puzzles Hexa wird mit einem einfachen Drag-and-drop-System gespielt.
 
@@ -82,4 +84,5 @@ Jigsaw Puzzles Hexa wird mit einem einfachen Drag-and-drop-System gespielt.
 *   **F: Gibt es ein Zeitlimit?**
     *   **A:** Nein, das Spiel ist bewusst entspannt gestaltet. Du kannst dir so viel
         Zeit nehmen, wie du möchtest, um jedes Puzzle in Ruhe zu lösen.
+
 

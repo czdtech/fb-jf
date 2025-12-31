@@ -60,6 +60,8 @@ Boostern sorgen für langen Rätselspaß in stimmungsvoller Weihnachtsatmosphär
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `click` `drag`
 
 - **Juwelen tauschen:** Mit der Maus (oder per Touch) auf ein Juwel tippen und
   es mit einem benachbarten Stein vertauschen. Der Tausch klappt nur, wenn
@@ -87,4 +89,5 @@ Boostern sorgen für langen Rätselspaß in stimmungsvoller Weihnachtsatmosphär
     *   **A:** Schaffst du das Levelziel nicht innerhalb der vorgegebenen Zuganzahl,
         gilt das Level als verloren und du verlierst ein Leben. Danach kannst du den
         Versuch erneut starten und es noch einmal probieren.
+
 

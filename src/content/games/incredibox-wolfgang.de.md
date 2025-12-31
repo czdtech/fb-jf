@@ -48,6 +48,8 @@ Strategie bei *Incredibox Wolfgang* dreht sich darum, klassische Arrangements zu
 
 <!-- i18n:section:controls -->
 ### **Steuerungsanleitung**
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Die Steuerung folgt dem standardmäßigen, intuitiven Drag-and-Drop-Interface der offiziellen Incredibox-Spiele.
 
@@ -79,4 +81,5 @@ A: Seine Beliebtheit kommt von seinem einzigartigen und makellos umgesetzten kla
 **F: Sind die Bonus-Lösungen für „Wolfgang" online verfügbar?**
 
 A: Ja. Wenn du nicht weiterkommst oder einfach die Animationen sehen möchtest, liefert dir eine schnelle Suche nach „*Incredibox Wolfgang combos*" auf YouTube die genauen Kombinationen.
+
 

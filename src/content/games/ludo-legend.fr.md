@@ -34,6 +34,8 @@ Ludo Legend est une version numérique soignée du célèbre jeu de plateau Ludo
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `Click`
 
 *   **Lancer le dé :** clique sur le dé pour faire ton jet.
 *   **Déplacer un pion :** après le jet, les déplacements possibles sont indiqués ; clique sur le pion que tu veux avancer.
@@ -52,4 +54,5 @@ Ludo Legend est une version numérique soignée du célèbre jeu de plateau Ludo
 <!-- i18n:faq:id=faq:ludo-legend:q-can-i-pass-my-2134a96c -->
 *   **Q : Puis‑je dépasser mes propres pions ?**
     *   **R :** Oui, tu peux passer devant tes propres pièces. En revanche, si tu formes un bloc avec deux de tes pions sur la même case, ni toi ni tes adversaires ne pouvez occuper cette case avec un troisième pion.
+
 

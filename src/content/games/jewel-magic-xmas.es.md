@@ -54,6 +54,8 @@ de cada nivel, crear combos potentes y repartir espíritu navideño.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `drag`
 
 El juego se maneja con ratón o pantalla táctil.
 
@@ -79,4 +81,5 @@ El juego se maneja con ratón o pantalla táctil.
 *   **P: ¿Qué pasa si me quedo sin movimientos?**
     *   **R:** Si no completas el objetivo del nivel antes de agotar el límite
         de movimientos, tendrás que reiniciar el nivel.
+
 

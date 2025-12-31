@@ -59,6 +59,8 @@ berühren.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `hold` `left` `button` `drag` `mouse`
 
 Das Spiel nutzt einfache Ein-Knopf-Steuerung.
 
@@ -86,4 +88,5 @@ Das Spiel nutzt einfache Ein-Knopf-Steuerung.
 *   **F: Wie verliere ich das Spiel?**
     *   **A:** Die Runde endet, sobald ein Block die unterste Linie des Spielfelds
         erreicht. Halte die Front also so weit oben wie möglich.
+
 

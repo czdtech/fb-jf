@@ -41,6 +41,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### **操作ガイド**
+<!-- i18n:controls:keys -->
+- キー（整合）： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 操作は、公式のIncrediboxゲームの標準的で直感的なドラッグ＆ドロップインターフェースに従います。
 
@@ -72,4 +74,5 @@ A: その人気は、そのユニークで完璧に実行されたクラシッ�
 **Q: 「Wolfgang」のボーナス解決策はオンラインで利用可能ですか？**
 
 A: はい。行き詰まった場合、または単にアニメーションを見たい場合、YouTubeで「*Incredibox Wolfgang combos*」を素早く検索すると、必要な正確な組み合わせが提供されます。
+
 

@@ -35,6 +35,8 @@ aufmerksame Erkundung und effiziente Routenplanung belohnen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD`
 
 - Bewegen und Springen mit Pfeiltasten oder WASD.
 - Angreifen/Interagieren je nach Host über eigene Tasten.
@@ -72,3 +74,4 @@ aufmerksame Erkundung und effiziente Routenplanung belohnen.
 - **F: Kann ich Level schnell neu starten, um bessere Zeiten zu holen?**  
   **A:** In vielen Versionen kannst du über Menüs oder Hotkeys sehr zügig
   neu starten und so verschiedene Routen ausprobieren.
+

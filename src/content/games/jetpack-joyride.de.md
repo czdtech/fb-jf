@@ -37,6 +37,8 @@ Sterne zu verdienen und neue Upgrades freizuschalten.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Hold` `tap`
 
 - Halten/Tippen zum Steigen, Loslassen zum Sinken; zusätzliche Buttons für
   Gadgets und Menüs je nach Host.
@@ -67,3 +69,4 @@ Sterne zu verdienen und neue Upgrades freizuschalten.
 - **F: Macht mich ein Fahrzeug unverwundbar?**  
   **A:** Nein – es fängt einen Treffer ab und geht danach kaputt, du musst
   Gefahren trotzdem ernst nehmen.
+

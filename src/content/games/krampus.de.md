@@ -37,6 +37,8 @@ Atmosphäre und belohnen vorsichtige Bewegung und genaues Beobachten.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD`
 
 - Mit Pfeiltasten oder WASD bewegen und springen; Aktion-/Interaktions-Tasten
   können je nach Host variieren.
@@ -68,4 +70,5 @@ Atmosphäre und belohnen vorsichtige Bewegung und genaues Beobachten.
 - **F: Gibt es Checkpoints im Level?**  
   **A:** Viele Hosts bieten Zwischen-Checkpoints. Achte auf Symbole im HUD oder
   kurze Speicher-Animationen, die dir einen gespeicherten Fortschritt anzeigen.
+
 

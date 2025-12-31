@@ -55,6 +55,8 @@ Levels zu erreichen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow keys` `WASD` `Space`
 
 - **Bewegen/Springen:** Pfeiltasten oder WASD zum Bewegen, Leertaste zum
   Springen; auf Mobilgeräten stehen Touch-Buttons zur Verfügung.
@@ -81,4 +83,5 @@ Levels zu erreichen.
   **A:** Lerne zunächst den sicheren Weg bis zum Ziel. Plane danach eine Route,
   bei der du nach und nach alle Sterne oder Extras einsammelst – manchmal sind
   dafür mehrere Durchläufe nötig.
+
 

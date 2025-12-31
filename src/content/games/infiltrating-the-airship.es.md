@@ -36,6 +36,8 @@ fails y finales.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Mouse`
 - Ratón para escoger opciones; algunas versiones usan teclas para los QTE, según
   el host.
 
@@ -61,4 +63,5 @@ fails y finales.
 <!-- i18n:faq:id=faq:infiltrating-the-airship:can-i-replay-scenes-to-2b23b4a1 -->
 - **P: ¿Puedo rejugar escenas para completar la colección?**  
   R: Sí. La selección de escenas ayuda a conseguir el 100 % en muchas versiones.
+
 

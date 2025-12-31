@@ -65,6 +65,8 @@ Xrun Simulator는 20개의 사운드 아이콘이 배치된 **그리드 인터�
 
 <!-- i18n:section:controls -->
 ### **조작 가이드**
+<!-- i18n:controls:keys -->
+- 키(정렬)： `click` `Click`
 
 이 모드는 시뮬레이터 시리즈의 전형적인 클릭 기반 인터페이스를
 사용합니다.
@@ -92,4 +94,5 @@ Xrun Simulator는 20개의 사운드 아이콘이 배치된 **그리드 인터�
 공식 플랫폼에는 없으며, 보통 **Newgrounds**, **playfiddlebops.com**
 같은 게임·모딩 사이트나 유튜브 소개 영상의 링크를 통해
 브라우저에서 즐길 수 있습니다.
+
 

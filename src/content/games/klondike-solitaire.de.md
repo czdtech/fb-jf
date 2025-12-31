@@ -40,6 +40,8 @@ Zyklus-Kontrolle verlangt.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `drop` `tap`
 
 - Ziehen und Ablegen per Drag-and-drop oder Tippen/Klicken; auf vielen Hosts
   gibt es eine Auto-Move-Funktion für offensichtliche Züge.
@@ -72,4 +74,5 @@ Zyklus-Kontrolle verlangt.
   **A:** Du musst die Dreiergruppen im Stock mitdenken und über mehrere
   Durchgänge planen. Versuche, unwichtige Karten „durchzuscrollen“, ohne
   entscheidende Karten zu verbauen.
+
 

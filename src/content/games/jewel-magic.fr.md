@@ -38,6 +38,8 @@ Jewel Magic est un jeu de puzzle match‑3 classique et captivant qui t'invite d
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `drag`
 
 Le jeu se contrôle avec de simples gestes souris ou tactiles.
 
@@ -57,4 +59,5 @@ Le jeu se contrôle avec de simples gestes souris ou tactiles.
 <!-- i18n:faq:id=faq:jewel-magic:q-what-happens-when-i-e8e69d77 -->
 *   **Q : Que se passe‑t‑il quand je n'ai plus de coups ?**
     *   **R :** Si tu ne complètes pas l'objectif du niveau avant d'épuiser tes coups, tu perdras une vie et devras recommencer le niveau.
+
 

@@ -59,6 +59,8 @@ Hygieneregeln bestrafen jede Form von Kreuzkontamination.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `tap`
 
 - **Sortieren:** Ziehe oder tippe Gegenstände in die beschrifteten Behälter.
 - **Bedienoberfläche:** Über die UI kannst du pausieren, neu starten oder
@@ -84,4 +86,5 @@ Hygieneregeln bestrafen jede Form von Kreuzkontamination.
   **A:** In späteren Levels werden Hygieneverstöße stark geahndet. Es ist oft
   besser, einen Gegenstand kurz zu überspringen, als durch eine Fehlzuordnung
   eine hohe Strafe zu kassieren.
+
 

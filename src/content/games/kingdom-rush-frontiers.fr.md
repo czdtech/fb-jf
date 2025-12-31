@@ -30,6 +30,8 @@ Frontiers affine la formule Kingdom Rush avec de nouveaux biomes, capacités enn
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse`
 
 - Souris/tactile pour construire, améliorer et lancer ; les raccourcis varient selon l'hôte.
 
@@ -54,4 +56,5 @@ Frontiers affine la formule Kingdom Rush avec de nouveaux biomes, capacités enn
 <!-- i18n:faq:id=faq:kingdom-rush-frontiers:are-heroes-necessary-to-win-7dad505c -->
 - **Q : Les héros sont‑ils nécessaires pour gagner ?**
   R : Pas obligatoires mais très utiles pour bloquer et finir les élites.
+
 

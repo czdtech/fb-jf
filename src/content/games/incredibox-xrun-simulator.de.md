@@ -49,6 +49,8 @@ Elektronik-Loops baust.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `click` `Click`
 
 Die Steuerung ist einfach — siehe unten.
 
@@ -73,3 +75,4 @@ Die Steuerung ist einfach — siehe unten.
 - **F: Wo spiele ich den Mod?**  
   **A:** Meist über Modding-Seiten oder Links aus YouTube-Videos, die auf
   Browser-Versionen verweisen.
+

@@ -55,6 +55,8 @@ bestimmter Hindernisse auf dem Spielfeld.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag`
 
 - **Tauschen:** Ziehe zwei benachbarte Steine mit der Maus oder per Touch
   gegeneinander, um ihre Position zu wechseln.
@@ -80,4 +82,5 @@ bestimmter Hindernisse auf dem Spielfeld.
   **A:** Viele Match-3-Spiele zeigen dir nach einer Weile automatisch mögliche
   Züge an. Nutze diese Hinweise sparsam und versuche trotzdem, eigene starke
   Kombos zu finden.
+
 

@@ -33,6 +33,8 @@ Lollipop World: Match 3は、フロスティングやラッパー、チョコレ
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Drag` `tap`
 
 - ドラッグで入れ替えます。パワーアップはタップで使います。一時停止/再試行はUIから行います。
 
@@ -50,4 +52,5 @@ Lollipop World: Match 3は、フロスティングやラッパー、チョコレ
 <!-- i18n:faq:id=faq:lollipop-world-match-3:are-diagonals-allowed-37ab3fc0 -->
 - **Q: 斜めは許可されていますか？**  
   A: 通常はできません。ルールを確認してください。
+
 

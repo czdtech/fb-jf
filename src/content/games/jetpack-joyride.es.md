@@ -35,6 +35,8 @@ para ganar estrellas y desbloquear más mejoras.
 
 <!-- i18n:section:controls -->
 ### Controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Hold` `tap`
 - Mantén pulsado o toca para ascender; suelta para descender. Los botones de
   gadgets y menús varían según el host.
 
@@ -62,4 +64,5 @@ para ganar estrellas y desbloquear más mejoras.
 - **P: ¿Los vehículos me hacen invencible?**  
   R: No. Absorben un impacto y luego se rompen, así que igualmente tienes que
   seguir esquivando.
+
 

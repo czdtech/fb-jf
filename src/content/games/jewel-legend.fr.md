@@ -38,6 +38,8 @@ Jewel Legend est un jeu de puzzle match‑3 vibrant et hautement addictif situé
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `drag` `click` `click`
 
 Le jeu se contrôle avec de simples gestes tactiles ou souris.
 
@@ -57,4 +59,5 @@ Le jeu se contrôle avec de simples gestes tactiles ou souris.
 <!-- i18n:faq:id=faq:jewel-legend:q-im-out-of-moves-374d349b -->
 *   **Q : Je n'ai plus de coups, que faire ?**
     *   **R :** Si tu n'arrives pas à remplir l'objectif du niveau dans le nombre de coups donné, tu perdras une vie et devras réessayer le niveau. Tu peux attendre que les vies se régénèrent au fil du temps ou parfois en acquérir plus par des moyens en jeu.
+
 

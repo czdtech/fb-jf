@@ -40,6 +40,8 @@ ráfagas de viento ponen a prueba tu precisión a la hora de saltar.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `Click` `hold`
 
 - Toca o haz clic para saltar; mantén pulsado para saltar más alto si el juego
   lo permite; pausa o reinicia desde la interfaz.
@@ -60,5 +62,6 @@ ráfagas de viento ponen a prueba tu precisión a la hora de saltar.
 - Q: ¿Es compatible con mando?  
   A: Algunas versiones admiten gamepad y permiten controlar el salto con mayor
   precisión.
+
 
 

@@ -42,6 +42,8 @@ cometiendo el mínimo de errores posible.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Arrow keys` `WASD` `Space`
 
 - **Mover/Saltar:** teclas de flecha o WASD y barra espaciadora; botones táctiles
   en móvil.
@@ -64,4 +66,5 @@ cometiendo el mínimo de errores posible.
 - **¿Consejos para conseguir el 100 % de coleccionables?**  
   R: Primero limpia el nivel completando la ruta básica y luego vuelve para
   trazar una ruta específica que incluya todas las estrellas.
+
 

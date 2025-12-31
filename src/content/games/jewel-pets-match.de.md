@@ -59,6 +59,8 @@ Tierarten – und das alles mit nur begrenzt vielen Zügen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `drag`
 
 Das Spiel nutzt einfache Swap-Mechaniken.
 
@@ -84,4 +86,5 @@ Das Spiel nutzt einfache Swap-Mechaniken.
 *   **F: Was passiert, wenn ich keine Züge mehr habe?**
     *   **A:** Erreichst du das Levelziel nicht innerhalb der vorgegebenen Züge,
         verlierst du ein Leben und musst das Level erneut spielen.
+
 

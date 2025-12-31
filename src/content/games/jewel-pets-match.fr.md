@@ -36,6 +36,8 @@ Jewel Pets Match est un jeu de puzzle match‑3 lumineux et joyeux rempli d'ador
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `drag`
 
 Le jeu se joue avec de simples mécaniques d'échange.
 
@@ -55,4 +57,5 @@ Le jeu se joue avec de simples mécaniques d'échange.
 <!-- i18n:faq:id=faq:jewel-pets-match:q-what-happens-if-i-63c9772b -->
 *   **Q : Que se passe‑t‑il si je n'ai plus de coups ?**
     *   **R :** Si tu ne complètes pas l'objectif du niveau avant d'épuiser tes coups, tu perdras une vie et devras recommencer le niveau.
+
 

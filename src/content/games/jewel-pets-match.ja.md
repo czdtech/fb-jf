@@ -34,6 +34,8 @@ Jewel Pets Matchは、動物キャラクターをそろえて消すマッチ3パ
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Click` `drag`
 
 ゲームは、シンプルなスワップメカニクスでプレイされます。
 
@@ -53,4 +55,5 @@ Jewel Pets Matchは、動物キャラクターをそろえて消すマッチ3パ
 <!-- i18n:faq:id=faq:jewel-pets-match:q-what-happens-if-i-63c9772b -->
 *   **Q: 移動がなくなった場合はどうなりますか？**
     *   **A:** 移動がなくなる前にレベルの目標を完了しない場合、ライフを失い、レベルを再起動する必要があります。
+
 

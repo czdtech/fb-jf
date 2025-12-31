@@ -54,6 +54,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 조작 가이드
+<!-- i18n:controls:keys -->
+- 키(정렬)： `Drag`
 
 - **보석 교환**: 드래그로 인접한 보석을 맞바꾸어
   3개 이상 매치를 만들면 제거됩니다.  
@@ -76,4 +78,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:jungle-match-puzzle:are-diagonals-allowed-37ab3fc0 -->
 - Q: Are diagonals allowed?
   줄 + 줄 조합도 많은 줄을 한 번에 정리할 수 있어 좋습니다.
+
 

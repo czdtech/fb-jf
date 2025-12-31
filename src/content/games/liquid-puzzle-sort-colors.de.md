@@ -59,6 +59,8 @@ nicht in einem Zustand landest, in dem kein sinnvoller Zug mehr möglich ist.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap`
 
 - Tippe zuerst auf die Quellflasche und danach auf die Zielflasche, um zu
   gießen.
@@ -87,4 +89,5 @@ nicht in einem Zustand landest, in dem kein sinnvoller Zug mehr möglich ist.
 - **F: Sind die Hinweise zuverlässig?**  
   **A:** Für einfache Level reichen sie meist aus. In schwierigen Rätseln
   brauchst du trotzdem eine eigene Planung über mehrere Züge hinweg.
+
 

@@ -32,6 +32,8 @@ Kings and Queens reprend les bases du match‑3 et les associe à une progressio
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `tap`
 
 - Glisse pour échanger ; tape sur les boosters pour les utiliser ; menu de scène pour rénover avec les étoiles.
 
@@ -49,4 +51,5 @@ Kings and Queens reprend les bases du match‑3 et les associe à une progressio
 <!-- i18n:faq:id=faq:kings-and-queens:renovations-affect-gameplay-b116edd0 -->
 - **Q : Les rénovations affectent‑elles le gameplay ?**
   R : Elles sont principalement cosmétiques ; certaines débloquent des emplacements de boosters ou des récompenses quotidiennes.
+
 

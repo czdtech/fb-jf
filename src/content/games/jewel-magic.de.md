@@ -64,6 +64,8 @@ schwierige Puzzles zu knacken.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `drag`
 
 Das Spiel wird mit einfachen Maus- oder Touchgesten gesteuert.
 
@@ -90,4 +92,5 @@ Das Spiel wird mit einfachen Maus- oder Touchgesten gesteuert.
 *   **F: Was passiert, wenn ich keine Züge mehr habe?**
     *   **A:** Wenn du das Levelziel nicht vor Ablauf der verfügbaren Züge erreichst,
         verlierst du ein Leben und musst das Level von vorn beginnen.
+
 

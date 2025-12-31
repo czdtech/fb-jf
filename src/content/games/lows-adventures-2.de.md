@@ -34,6 +34,8 @@ belohnen dich für schnelle Durchläufe und clevere Abkürzungen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `WASD`
 
 - Bewegen und Springen mit Pfeiltasten oder WASD.
 - Angreifen/Interagieren je nach Host über eigene Tasten.
@@ -69,4 +71,5 @@ belohnen dich für schnelle Durchläufe und clevere Abkürzungen.
 - **F: Gibt es Checkpoints in längeren Leveln?**  
   **A:** In ausgewählten Stages findest du Zwischen-Checkpoints, die Wiederholungen
   deutlich angenehmer machen.
+
 

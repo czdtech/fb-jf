@@ -80,6 +80,8 @@ releaseDate: 2025-10-10T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### **조작 가이드**
+<!-- i18n:controls:keys -->
+- 키(정렬)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 조작은 공식 Incredibox와 동일한 직관적인 드래그 앤 드롭 방식입니다.
 
@@ -117,4 +119,5 @@ A: 다른 버전에서는 보기 힘든 정통 클래식 테마와 고퀄리티
 **Q: 보너스 조합은 어디서 확인할 수 있나요?**  
 A: `Incredibox Wolfgang combos`로 유튜브를 검색하면, 각 보너스를 여는
 조합을 정리해 둔 영상을 쉽게 찾을 수 있습니다.
+
 

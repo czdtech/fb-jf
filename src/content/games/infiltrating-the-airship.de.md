@@ -37,6 +37,8 @@ du frühere Abschnitte erneut spielen, um alle Fails und Enden zu sammeln.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse`
 
 - Meist Maus für Entscheidungen; je nach Host gelegentlich Tasten für QTEs.
 
@@ -65,3 +67,4 @@ du frühere Abschnitte erneut spielen, um alle Fails und Enden zu sammeln.
 - **F: Kann ich Szenen erneut spielen, um alles zu sammeln?**  
   **A:** Ja, über die Szenenauswahl kannst du gezielt in bestimmte Abschnitte
   springen und fehlende Fails nachholen.
+

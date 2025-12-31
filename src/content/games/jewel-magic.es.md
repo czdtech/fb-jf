@@ -57,6 +57,8 @@ resolver cada puzle.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `drag`
 
 El control se realiza con ratón o pantalla táctil.
 
@@ -83,4 +85,5 @@ El control se realiza con ratón o pantalla táctil.
 *   **P: ¿Qué pasa si me quedo sin movimientos?**
     *   **R:** Si no completas el objetivo del nivel antes de quedarte sin
         movimientos, perderás una vida y tendrás que reiniciar el nivel.
+
 

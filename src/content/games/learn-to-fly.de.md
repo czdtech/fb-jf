@@ -39,6 +39,8 @@ verbesserst deinen Flug immer weiter.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow keys` `space`
 
 - Pfeiltasten oder WASD steuern die Fluglage (Nase hoch/runter).  
 - Leertaste bzw. angegebene Tasten aktivieren Booster – je nach Host leicht
@@ -73,4 +75,5 @@ verbesserst deinen Flug immer weiter.
   **A:** Meist kannst du so lange weiterspielen und verbessern, bis du alle
   Ziele erreicht hast; zusätzliche Herausforderungsmodi verlängern die
   Spielzeit darüber hinaus.
+
 

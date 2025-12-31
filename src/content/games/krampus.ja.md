@@ -25,6 +25,8 @@ Krampusは、薄暗いステージで罠を避けながら進むホラープラ�
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD`
 - 矢印キー/WASDで移動し、ジャンプします。アクション/インタラクトキーは環境によって異なります。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ Krampusは、薄暗いステージで罠を避けながら進むホラープラ�
 <!-- i18n:faq:id=faq:krampus:are-there-checkpoints-in-stage-c1be2023 -->
 - **Q: ステージにチェックポイントはありますか？**  
   A: 多くの環境では途中チェックポイントがあります。HUD/アイコン表示を確認してください。
+
 

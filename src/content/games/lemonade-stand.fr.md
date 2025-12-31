@@ -29,6 +29,8 @@ Lemonade Stand simule un petit stand de limonade. Chaque jour, tu achètes ton s
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Mouse`
 
 - Souris / interface pour régler quantités et prix, puis passer au jour suivant.
 
@@ -53,5 +55,6 @@ Lemonade Stand simule un petit stand de limonade. Chaque jour, tu achètes ton s
 <!-- i18n:faq:id=faq:lemonade-stand:what-is-the-most-important-96f81904 -->
 - **Q : Quel indicateur suivre en priorité ?**  
   R : Le bénéfice quotidien et les restes de stock ; ton objectif est une courbe de profit régulière à la hausse.
+
 
 

@@ -74,6 +74,8 @@ superponer secciones orquestales para crear una composición rica y armónica.
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Los controles son los estándar de Incredibox.
 
@@ -112,4 +114,5 @@ sofisticada y preciosa tanto en música como en arte.
 **P: ¿Hay soluciones de bonus para "Wolfgang" online?**  
 R: Sí. Si te atascas o solo quieres ver las animaciones, una búsqueda de
 "Incredibox Wolfgang combos" en YouTube te dará las combinaciones exactas.
+
 

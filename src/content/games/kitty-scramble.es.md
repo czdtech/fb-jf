@@ -46,6 +46,8 @@ caminos y un buen vocabulario.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag`
 
 - Arrastra sobre las letras para formar una palabra y suelta para enviarla.
 - Usa las pistas con moderación; suelen ser limitadas.
@@ -67,4 +69,5 @@ caminos y un buen vocabulario.
 *   **P: ¿Puedo repetir niveles para conseguir más monedas?**  
     **R:** En muchas versiones puedes rejugar tableros fáciles para farmear
     monedas y conseguir más pistas.
+
 

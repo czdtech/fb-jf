@@ -31,6 +31,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `tap`
 
 - 点击掷骰按钮投掷骰子，然后从可行动的棋子中选择一枚进行移动；多数版本支持本地多人模式，也可能提供对战 AI 的单人模式。  
 
@@ -52,4 +54,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:ludo-kart:how-many-players-ce44cd9b -->
 *   **Q: 支持几人游玩？**  
     *   **A:** 一般支持 2～4 名玩家，具体可在模式选择中查看支持人数。
+
 

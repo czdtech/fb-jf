@@ -56,6 +56,8 @@ Position zu setzen, bis das komplette Bild wieder vor dir liegt.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `Click` `hold` `drag` `drop`
 
 Das Spiel wird ganz intuitiv per Drag-and-drop bedient.
 
@@ -86,4 +88,5 @@ Das Spiel wird ganz intuitiv per Drag-and-drop bedient.
     *   **A:** Schiebe die Teile über den Bildschirm, um mehr Übersicht zu schaffen,
         und lege Gruppen gleicher Farben oder Texturen an. So findest du die
         benötigten Teile schneller wieder.
+
 

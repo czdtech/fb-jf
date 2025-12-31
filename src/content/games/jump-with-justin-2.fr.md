@@ -33,6 +33,8 @@ Jump With Justin 2 est un platformer léger centré sur les sauts à ressort, le
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Arrow keys` `WASD` `Space`
 
 - **Déplacement / saut** : flèches ou WASD + Espace ; boutons tactiles sur mobile.  
 - **Restart** : utilise le redémarrage rapide pour t’entraîner sur une section.
@@ -51,5 +53,6 @@ Jump With Justin 2 est un platformer léger centré sur les sauts à ressort, le
 <!-- i18n:faq:id=faq:jump-with-justin-2:100-collection-tips-0d1fc3ad -->
 - **Q : Des conseils pour le 100 % ?**  
   R : Apprends d’abord un chemin sûr jusqu’à la sortie, puis refais les niveaux en planifiant des détours pour attraper les étoiles.
+
 
 

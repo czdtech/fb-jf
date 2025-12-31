@@ -31,6 +31,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `drag` `drop` `Click` `hold` `drag` `drop`
 
 游戏使用简单的拖放操控方式。
 
@@ -51,4 +53,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:jigsaw-puzzle-deluxe:q-the-pieces-are-all-2d20e446 -->
 *   **问：桌面太乱怎么办？**
     *   **答：** 可以把碎片拖动到虚拟桌面的边缘或角落，留出一块"工作区"，同时把颜色或纹理相近的碎片集中到一起，方便后续查找。
+
 

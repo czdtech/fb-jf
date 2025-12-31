@@ -32,6 +32,8 @@ Jump With Justin 2は、スプリングジャンプ、移動プラットフォ�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Arrow keys` `WASD` `Space`
 
 - 移動：矢印キー / WASD、ジャンプ：Space。モバイルではタッチボタン。
 - 再起動：やり直して区間を練習できます。
@@ -45,4 +47,5 @@ Jump With Justin 2は、スプリングジャンプ、移動プラットフォ�
 - ダブルジャンプはありますか？ステージによっては、バウンスパッドやパワーアップで近い動きができます。
 <!-- i18n:faq:id=faq:jump-with-justin-2:100-collection-tips-0d1fc3ad -->
 - 収集要素を集めるコツは？まず安全にクリアできるルートを固め、次に回収ルートを詰めると安定します。
+
 

@@ -51,6 +51,8 @@ Ludo siendo el primero en llevar a casa las cuatro fichas!
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `Click`
 
 *   **Lanzar dado:** haz clic en el dado para tirarlo.
 *   **Mover ficha:** después de tirar, el juego resaltará tus movimientos
@@ -74,4 +76,5 @@ Ludo siendo el primero en llevar a casa las cuatro fichas!
     *   **R:** Sí, puedes pasar por tus propias fichas. Sin embargo, si tienes
         dos fichas en la misma casilla formando un bloqueo, ni siquiera tú
         mismo podrás colocar una tercera ficha en ese punto.
+
 

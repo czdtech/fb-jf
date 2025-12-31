@@ -49,6 +49,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 조작 가이드
+<!-- i18n:controls:keys -->
+- 키(정렬)： `Tap` `Click` `hold`
 
 - **점프**: 탭/클릭으로 점프하며, 지원하는 빌드에서는
   길게 눌러 더 높이 뛸 수 있습니다.  
@@ -69,4 +71,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:ladybug-jump:controller-supported-4ec31a1d -->
 - Q: Controller supported?
   보스전은 드문 편입니다.
+
 

@@ -25,6 +25,8 @@ Learn to Flyは、飛距離を伸ばすために装備を強化していく距�
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Arrow keys` `space`
 - 矢印キーで角度（ピッチ）を調整します。ブースターはスペースキーなど（環境依存）です。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ Learn to Flyは、飛距離を伸ばすために装備を強化していく距�
 <!-- i18n:faq:id=faq:learn-to-fly:is-there-a-hard-cap-9670078b -->
 - **Q: 日数にハードキャップはありますか？**  
   A: 目標達成まで何日でも強化を続けられます。チャレンジモードもあります。
+
 

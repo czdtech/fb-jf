@@ -27,6 +27,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `Mouse`
 - マウスで選択。ホストによっては、QTE（クイックタイムイベント）用の時折のキー操作があります。
 
 <!-- i18n:section:tips -->
@@ -46,4 +48,5 @@ locale: ja
 <!-- i18n:faq:id=faq:infiltrating-the-airship:can-i-replay-scenes-to-2b23b4a1 -->
 - **Q: コレクションを完成させるためにシーンを再プレイできますか？**  
   A: はい。シーンセレクトは、多くのホストで100%のランを支援します。
+
 

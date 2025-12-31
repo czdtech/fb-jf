@@ -50,6 +50,8 @@ especiales, superar obstáculos complicados y resolver cientos de puzle.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `click` `click` `drag`
 
 El juego se maneja con ratón o pantalla táctil.
 
@@ -79,4 +81,5 @@ El juego se maneja con ratón o pantalla táctil.
     *   **R:** Muchos niveles tienen un límite de movimientos. Debes cumplir el
         objetivo antes de agotarlos; si no, perderás una vida y tendrás que
         intentarlo de nuevo.
+
 

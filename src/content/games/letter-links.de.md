@@ -57,6 +57,8 @@ Punktzahl zu erreichen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `drag` `drag` `click`
 
 *   **Steine setzen:** Ziehe einen Buchstabenstein aus deiner Ablage unten auf
     ein Feld auf dem Spielbrett.  
@@ -86,4 +88,5 @@ Punktzahl zu erreichen.
 *   **F: Darf ich diagonal spielen?**
     *   **A:** Nein. Alle Wörter müssen waagerecht (von links nach rechts) oder
         senkrecht (von oben nach unten) gebildet werden.
+
 

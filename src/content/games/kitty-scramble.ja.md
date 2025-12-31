@@ -31,6 +31,8 @@ Kitty Scrambleは、動物・食べ物・場所などのテーマに沿ったレ
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Drag`
 
 - 文字をなぞって単語を作り、指を離して確定します。ヒントは必要なときだけ使いましょう。
 
@@ -48,4 +50,5 @@ Kitty Scrambleは、動物・食べ物・場所などのテーマに沿ったレ
 <!-- i18n:faq:id=faq:kitty-scramble:can-i-replay-for-coins-f9e57132 -->
 - **Q: コインのためにリプレイできますか？**  
   A: はい。序盤のステージでコインを集めて、ヒントに回すのも手です。
+
 

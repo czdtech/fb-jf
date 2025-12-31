@@ -32,6 +32,8 @@ Jungle Bricks est une version captivante et moderne du genre classique casse‑b
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `hold` `left` `button` `drag` `mouse`
 
 Le jeu utilise des contrôles simples à une touche.
 
@@ -52,4 +54,5 @@ Le jeu utilise des contrôles simples à une touche.
 <!-- i18n:faq:id=faq:jungle-bricks:q-how-can-i-get-90ff761e -->
 *   **Q : Comment puis‑je obtenir plus de balles ?**
     *   **R :** Cherche les blocs spéciaux avec un « + » ou une icône similaire dessus. Toucher et détruire ces blocs ajoutera souvent plus de balles à ta volée pour le prochain tir.
+
 

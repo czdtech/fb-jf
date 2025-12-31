@@ -25,6 +25,8 @@ Low's Adventures 2は、隠しキーや壊れるブロック、ちょっとし�
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD`
 - 矢印キー/WASDで移動し、ジャンプします。攻撃/操作キーは環境によって異なります。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ Low's Adventures 2は、隠しキーや壊れるブロック、ちょっとし�
 <!-- i18n:faq:id=faq:lows-adventures-2:are-there-checkpoints-in-longe-e4d3b8fb -->
 - **Q: より長いステージにチェックポイントはありますか？**  
   A: 一部のステージには途中チェックポイントがあります。
+
 

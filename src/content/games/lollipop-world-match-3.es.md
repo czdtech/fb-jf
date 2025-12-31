@@ -43,6 +43,8 @@ esenciales en los tableros más densos.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `tap`
 
 - Arrastra para intercambiar piezas, toca los potenciadores y usa los botones
   de pausa/reintento de la interfaz.
@@ -63,5 +65,6 @@ esenciales en los tableros más densos.
 <!-- i18n:faq:id=faq:lollipop-world-match-3:are-diagonals-allowed-37ab3fc0 -->
 - Q: ¿Se permiten movimientos en diagonal?  
   A: Normalmente no; revisa las reglas de cada modo de juego.
+
 
 

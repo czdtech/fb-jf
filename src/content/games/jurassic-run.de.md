@@ -58,6 +58,8 @@ persönlichen Rekord immer weiter nach oben zu schrauben.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Space`
 
 - **Bewegen:** A/D oder Pfeil links/rechts, um die Spur zu wechseln.
 - **Springen/Rutschen:** Leertaste bzw. Pfeil nach oben zum Springen,
@@ -84,4 +86,5 @@ persönlichen Rekord immer weiter nach oben zu schrauben.
   **A:** Viele Versionen bieten Schilde, Magnete oder Zeitlupen-Effekte, die dir
   das Einsammeln von Münzen erleichtern oder dich kurzzeitig vor Fehlern
   schützen.
+
 

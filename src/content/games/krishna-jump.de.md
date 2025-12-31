@@ -50,6 +50,8 @@ konstanten Rhythmus sowie schnelle Reaktionen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `Click` `hold`
 
 - **Springen:** Tippen/Klicken, um zu springen; in manchen Versionen sorgt
   langes Halten für höhere Sprünge.  
@@ -72,4 +74,5 @@ konstanten Rhythmus sowie schnelle Reaktionen.
 - **F: Ist das Spiel endlos oder levelbasiert?**  
   **A:** Je nach Modus. Viele Kampagnen bestehen aus handgebauten, kurzen
   Leveln, während es zusätzlich oft einen Endlosmodus für Highscores gibt.
+
 

@@ -42,6 +42,8 @@ passen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse`
 
 - Baue, verbessere und verkaufe Türme per Maus oder Touch.
 - Aktiviere Heldenfähigkeiten und Spezialangriffe über die UI; Hotkeys können
@@ -75,4 +77,5 @@ passen.
 - **F: Sind Helden zwingend nötig, um Levels zu schaffen?**  
   **A:** Streng genommen nicht, aber sie helfen enorm, Lücken zu stopfen,
   Elitegegner zu erledigen und kritische Stellen kurzfristig zu stabilisieren.
+
 

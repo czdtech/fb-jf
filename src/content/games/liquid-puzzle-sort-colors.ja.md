@@ -33,6 +33,8 @@ Liquid puzzle sort colorsは、色付きの液体をボトル間で注ぎ分け�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Tap`
 
 - 注ぐ元のボトルをタップし、次に注ぐ先をタップします。戻す/リセットがあれば活用しましょう。ヒントは次の注ぎ先を提案することがあります。
 
@@ -50,4 +52,5 @@ Liquid puzzle sort colorsは、色付きの液体をボトル間で注ぎ分け�
 <!-- i18n:faq:id=faq:liquid-puzzle-sort-colors:are-hints-reliable-20d3f0b9 -->
 - **Q: ヒントは信頼できますか？**  
   A: 序盤の手がかりにはなりますが、後半は自分でも順番を考える必要があります。
+
 

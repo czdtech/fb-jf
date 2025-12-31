@@ -46,6 +46,8 @@ La stratégie dans *Incredibox Wolfgang* consiste à comprendre l'arrangement cl
 
 <!-- i18n:section:controls -->
 ### **Guide des commandes**
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `drop` `Drag` `drop` `Click` `drag` `Click` `click` `Click` `Click`
 
 Les commandes suivent l'interface intuitive de glisser‑déposer standard des jeux Incredibox officiels.
 
@@ -77,4 +79,5 @@ R : Sa popularité vient de son thème classique unique et parfaitement exécut�
 **Q : Les solutions des bonus pour « Wolfgang » sont‑elles disponibles en ligne ?**
 
 R : Oui. Si tu es bloqué ou veux simplement voir les animations, une recherche rapide de « *Incredibox Wolfgang combos* » sur YouTube te fournira les combinaisons exactes nécessaires.
+
 

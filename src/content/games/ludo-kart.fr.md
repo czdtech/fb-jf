@@ -33,6 +33,8 @@ Ludo Kart adapte le classique Ludo en une course familiale rapide. Tu lances un 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `tap`
 
 - Clique ou appuie pour lancer le dé.
 - Sélectionne ensuite un pion jouable pour le déplacer du nombre de cases indiqué.
@@ -52,5 +54,6 @@ Ludo Kart adapte le classique Ludo en une course familiale rapide. Tu lances un 
 <!-- i18n:faq:id=faq:ludo-kart:how-many-players-ce44cd9b -->
 - Q : Combien de joueurs sont pris en charge ?  
   R : La plupart des versions se jouent à 2–4 joueurs ; consulte les options de mode de jeu pour connaître les configurations possibles.
+
 
 

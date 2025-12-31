@@ -25,6 +25,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作方法
+<!-- i18n:controls:keys -->
+- キー（整合）： `WASD`
 - 矢印キー/WASDで移動し、ジャンプします。攻撃/操作キーは環境によって異なります。
 
 <!-- i18n:section:tips -->
@@ -44,4 +46,5 @@ locale: ja
 <!-- i18n:faq:id=faq:lows-adventures-3:can-i-replay-levels-quickly-0e7d248b -->
 - **Q: メダルのためにレベルを素早くリプレイできますか？**  
   A: はい。多くのバージョンではメニューから素早くリスタートできます。
+
 

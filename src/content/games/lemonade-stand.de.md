@@ -38,6 +38,8 @@ unverkauftes Material verlierst.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Mouse`
 
 - Bediene alle Einstellungen (Mengen, Preise, Werbung) über Maus und
   Benutzeroberfläche und starte dann den nächsten Tag.
@@ -70,4 +72,5 @@ unverkauftes Material verlierst.
 - **F: Auf welche Kennzahl sollte ich besonders achten?**  
   **A:** Beobachte den täglichen Gewinn und die Restbestände. Ziel ist eine
   stetig steigende Gewinnkurve bei möglichst wenig ungenutzter Ware.
+
 

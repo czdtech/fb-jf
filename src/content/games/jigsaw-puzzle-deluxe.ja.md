@@ -30,6 +30,8 @@ Jigsaw Puzzle Deluxeは、画像を選んでピースを組み立てるジグソ
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `drag` `drop` `Click` `hold` `drag` `drop`
 
 ゲームは、シンプルなドラッグ＆ドロップコントロールでプレイされます。
 
@@ -50,4 +52,5 @@ Jigsaw Puzzle Deluxeは、画像を選んでピースを組み立てるジグソ
 <!-- i18n:faq:id=faq:jigsaw-puzzle-deluxe:q-the-pieces-are-all-2d20e446 -->
 *   **Q: ピースがすべて混乱しています。どうやって整理できますか？**
     *   **A:** ピースを画面の周りにドラッグしてスペースを作成します。似た色またはテクスチャーのピースを一緒にグループ化します。これにより、探しているものを見つけやすくなります。
+
 

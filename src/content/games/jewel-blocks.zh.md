@@ -32,6 +32,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作说明
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `drag` `drop` `mouse` `click` `drag` `mouse` `drop` `space`
 
 游戏通过简单的拖拽完成：
 
@@ -51,3 +53,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:jewel-blocks:q-what-is-the-best-03413fee -->
 *   **Q: 想打高分，有什么通用策略？**  
     *   **A:** 一方面要尽可能延长游戏时间，保持棋盘空间充足；另一方面要多争取“一块消多行”的连消机会。比如，如果你能用一次落子清除两条线，其得分往往比先后清除两条单行要高很多。
+

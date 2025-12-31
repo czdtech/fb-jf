@@ -32,6 +32,8 @@ Jurassic Run est un runner infini rapide situé parmi les dinosaures et les obst
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Space`
 
 - Déplacement : A/D ou Gauche/Droite ; saut/glissade avec Espace/Haut et Bas.
 - Pause/Réessayer via l'interface à l'écran.
@@ -50,4 +52,5 @@ Jurassic Run est un runner infini rapide situé parmi les dinosaures et les obst
 <!-- i18n:faq:id=faq:jurassic-run:powerups-6996ef33 -->
 - **Q : Des bonus ?**
   R : Beaucoup de versions incluent des boucliers, aimants ou ralentis.
+
 
