@@ -53,6 +53,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### **3. 操作指南**
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Tap` `Click` `Drag` `Drop` `Swipe` `Pinch` `Shake` `Tilt` `Long Press` `press` `hold`
 
 *脑力测试2* 的控制直观，通常本身就是谜题的一部分。以下是主要的互动方法：
 
@@ -94,3 +96,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:2-tricky-stories:does-the-game-require-an-b76f6b27 -->
 **问：游戏需要互联网连接吗？**
 **答：** 游戏本身可以离线游玩。但是，如果你想使用提示系统（观看广告获得灯泡或跳过关卡），则需要互联网连接。
+

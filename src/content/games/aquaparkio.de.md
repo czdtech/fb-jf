@@ -82,6 +82,8 @@ anderen noch gegenseitig wegstoßen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `Click` `hold` `left` `button` `drag` `mouse`
 
 Aquapark.io ist berühmt für seine extrem einfache Steuerung.
 
@@ -109,4 +111,5 @@ Aquapark.io ist berühmt für seine extrem einfache Steuerung.
 <!-- i18n:faq:id=faq:aquaparkio:q-i-landed-in-the-f1083c12 -->
 *   **F: Ich bin im Wasser gelandet – ist das Rennen verloren?**
     *   **A:** Nein. Du wirst in der Nähe des Sturzpunkts zurück auf die Bahn teleportiert, verlierst aber wertvolle Sekunden und oft deine Position.
+
 

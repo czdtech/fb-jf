@@ -80,6 +80,8 @@ Dominar Age of War requiere equilibrar ataque, defensa y el momento de evolucion
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `Click` `Click` `Click` `Evolve`
 
 El juego se controla casi por completo con el ratón.
 
@@ -111,4 +113,5 @@ El juego se controla casi por completo con el ratón.
 <!-- i18n:faq:id=faq:age-of-war:q-where-can-i-play-d6112852 -->
 *   **P: ¿Dónde puedo jugar Age of War ahora que Flash ha desaparecido?**
     *   **R:** Portales como CrazyGames, Armor Games o Kongregate alojan versiones HTML5/emuladas; busca "Age of War HTML5" en tu navegador y podrás jugarlo sin Flash.
+
 

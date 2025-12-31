@@ -50,6 +50,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `drag` `Click` `hold` `left` `button` `drag` `mouse`
 
 游戏的操作非常简单：
 
@@ -70,3 +72,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:aquaparkio:q-i-landed-in-the-f1083c12 -->
 *   **问：落进水里是不是就输掉比赛了？**
     *   答：** 不会。你会在掉落位置附近自动回到赛道继续比赛，但会损失一些时间；失误次数多了就更难追上领先者。
+

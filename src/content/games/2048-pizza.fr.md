@@ -28,6 +28,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Arrow keys` `Swipes` `Undo`
 
 - **Déplacement des tuiles :** flèches du clavier ou gestes de balayage sur mobile.
 - **Annuler (si disponible) :** certaines versions permettent d’annuler le dernier coup pour corriger une erreur.
@@ -46,4 +48,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:2048-pizza:random-spawns-9976230b -->
 *   **Q : Comment apparaissent les nouvelles tuiles ?**
     *   **R :** Après chaque mouvement, une nouvelle tuile de petite valeur (2 ou 4) apparaît aléatoirement sur une case vide.
+
 

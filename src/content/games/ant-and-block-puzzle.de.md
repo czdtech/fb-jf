@@ -45,6 +45,8 @@ frühzeitig keinen Platz mehr für neue Steine findest.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `rotate` `Undo` `Reset`
 
 - **Steine platzieren:** Ziehe die angezeigten Formen per Maus oder Finger auf
   das Spielfeld; in manchen Varianten kannst du sie vorher drehen.
@@ -68,4 +70,5 @@ frühzeitig keinen Platz mehr für neue Steine findest.
 - **Ist das Spiel endlos?**  
   Viele Varianten sind auf Highscores ausgelegt und laufen so lange, bis kein
   weiterer Zug mehr möglich ist.
+
 

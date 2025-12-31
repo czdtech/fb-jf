@@ -48,6 +48,8 @@ Tu incarnes un petit alien jaune dont le vaisseau a été abattu par le FBI. Coi
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Arrow Keys` `D-Pad` `Analog Stick` `A` `A` `X` `S` `X` `Square` `Hold` `D` `B` `Circle` `Down Arrow Key` `Down` `D-Pad` `Press` `Down` `Jump` `press` `Shoot` `Jump`
 
 Les commandes varient légèrement selon la version, mais la logique reste la même :
 
@@ -79,3 +81,4 @@ Les commandes varient légèrement selon la version, mais la logique reste la m�
 <!-- i18n:faq:id=faq:alien-hominid:q-is-alien-hominid-invasion-6b18b22e -->
 - **Q : Alien Hominid Invasion est‑il le même jeu ?**  
     - **R :** Non. *Alien Hominid Invasion* est une réinterprétation moderne axée coop et progression rogue‑lite dans le même univers, mais avec niveaux et système différents.
+

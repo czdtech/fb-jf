@@ -45,6 +45,8 @@ Alien Hominid の難易度は非常に高いことで有名です。成功する
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Arrow Keys` `D-Pad` `Analog Stick` `A` `A` `X` `S` `X` `Square` `Hold` `D` `B` `Circle` `Down Arrow Key` `Down` `D-Pad` `Press` `Down` `Jump` `press` `Shoot` `Jump`
 
 Flash版とコンソール/HD版で多少異なりますが、基本的な機能は同じです。
 
@@ -76,4 +78,5 @@ Flash版とコンソール/HD版で多少異なりますが、基本的な機能
 <!-- i18n:faq:id=faq:alien-hominid:q-is-alien-hominid-invasion-6b18b22e -->
 *   **Q: *Alien Hominid Invasion* は同じゲームですか？**
     *   **A:** いいえ。*Alien Hominid Invasion* は現代向けに作られた続編であり、オリジナルの「再構築（リイマジニング）」です。ローグライト要素を取り入れた非線形のゲームプレイ、キャラクターの成長要素、異なるメカニクスを備えた、同じ世界観のまったく新しいゲームです。リメイクではありません。
+
 

@@ -45,6 +45,8 @@ fordern deine Zielsicherheit und dein Gefühl für Ballkurven.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `Swipe` `hold` `Swipe`
 
 - **Zielen:** Mit Maus oder Finger ziehen, um Richtung und Höhe des Schusses
   festzulegen.
@@ -70,4 +72,5 @@ fordern deine Zielsicherheit und dein Gefühl für Ballkurven.
 - **F: Spielt der Wind wirklich eine Rolle?**  
   **A:** Ja. Schüsse werden je nach Windrichtung abgelenkt. Kontere das, indem du
   leicht gegen den Wind zielst und den Effet in die Gegenrichtung setzt.
+
 

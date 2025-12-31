@@ -44,6 +44,8 @@ blockieren, dass einzelne Kacheln nicht mehr erreichbar sind.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `click` `tap` `Undo` `Reset`
 
 - **Paare auswählen:** Klicke oder tippe auf zwei passende Kacheln gemäß den
   Verbindungs‑/Regelvorgaben des jeweiligen Modus.
@@ -68,4 +70,5 @@ blockieren, dass einzelne Kacheln nicht mehr erreichbar sind.
   **A:** Einige Versionen bieten ein Mischen der Kacheln an. Heb dir diese
   Funktion für Situationen auf, in denen keine offensichtlichen Züge mehr
   vorhanden sind.
+
 

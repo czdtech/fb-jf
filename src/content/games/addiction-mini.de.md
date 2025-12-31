@@ -45,6 +45,8 @@ richtige Ordnung.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `click` `Undo` `Reset`
 
 - **Karten bewegen:** Per Drag & Drop oder Klick nach den jeweiligen
   Spielregeln verschieben.
@@ -72,3 +74,4 @@ richtige Ordnung.
   **A:** Viele Ausgaben sind bei sorgfältiger Planung gewinnbar, aber je nach
   Zufallslage können einzelne Deals sehr schwierig oder theoretisch unlösbar
   sein.
+

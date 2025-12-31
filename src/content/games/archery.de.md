@@ -48,6 +48,8 @@ Bogenschießen in der Realität.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `hold` `left` `button` `hold` `mouse`
 
 *   **Zielen:** Bewege die Maus, um den Bogen auszurichten. Der Cursor zeigt
     dir an, wohin dein Pfeil ungefähr fliegen wird.
@@ -69,3 +71,4 @@ Bogenschießen in der Realität.
 <!-- i18n:faq:id=faq:archery:q-what-is-the-goal-ab58581b -->
 *   **F: Was ist das eigentliche Ziel des Spiels?**
     *   **A:** Mit einer begrenzten Anzahl Pfeile möglichst viele Punkte sammeln, also so oft wie möglich ins Zentrum treffen.
+

@@ -41,6 +41,8 @@ espacio para seguir jugando.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `rotate` `Undo` `Reset`
 
 - **Colocar bloques:** Arrastra las piezas hasta el tablero. Si el modo lo
   permite, podrás rotarlas antes de soltarlas.
@@ -63,3 +65,4 @@ espacio para seguir jugando.
 - **¿El juego acaba o es infinito?**  
   En muchas versiones es un modo infinito de puntuación: juegas hasta que te
   quedas sin movimientos.
+

@@ -79,6 +79,8 @@ salto mientras los demás se estorban entre sí.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `Click` `hold` `left` `button` `drag` `mouse`
 
 El juego es famoso por su esquema de control extremadamente sencillo.
 
@@ -105,4 +107,5 @@ El juego es famoso por su esquema de control extremadamente sencillo.
 <!-- i18n:faq:id=faq:aquaparkio:q-i-landed-in-the-f1083c12 -->
 *   **P: Si caigo al agua, ¿pierdo la carrera?**
     *   **R:** No. Vuelves al tobogán cerca del punto de caída, pero habrás perdido segundos valiosos, así que intenta aterrizar sobre la pista.
+
 

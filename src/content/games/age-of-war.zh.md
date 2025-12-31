@@ -41,6 +41,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `mouse` `Click` `Click` `Click` `Click` `Evolve`
 
 本作几乎可以完全用鼠标来操作。
 
@@ -63,3 +65,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:age-of-war:q-where-can-i-play-d6112852 -->
 *   **问：现在还可以在哪里玩到 Age of War？**
     *   答：** 许多网页游戏平台已经通过 Flash 模拟器（如 Ruffle）重新提供了《Age of War》，可以直接在现代浏览器中游玩；移动端也有不少移植版或同类玩法的游戏可供选择。
+

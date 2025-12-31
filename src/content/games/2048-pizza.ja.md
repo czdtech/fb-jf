@@ -27,6 +27,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Arrow keys` `Swipes` `Undo`
 
 *   **スライド：** 矢印キーまたはスワイプでピースを移動させます。
 *   **アンドゥ（元に戻す）：** もし使える場合は、操作ミスを修正するために使いましょう。
@@ -36,8 +38,10 @@ locale: ja
 
 <!-- i18n:faq:id=faq:2048-pizza:board-clogs-fastwhy-aa239cf3 -->
 *   **すぐに盤面がいっぱいになってしまいます。なぜですか？**
-<!-- i18n:faq:id=faq:2048-pizza:win-condition-029bdfd9 -->
     *   全方向に無計画に動かしていませんか？「上と右」など、動かす方向を絞ると安定します。
-<!-- i18n:faq:id=faq:2048-pizza:random-spawns-9976230b -->
+<!-- i18n:faq:id=faq:2048-pizza:win-condition-029bdfd9 -->
 *   **勝利条件は？**
     *   ターゲットとなるタイル（例：2048に相当するピザ）を作るか、ハイスコアを目指すことです。
+<!-- i18n:faq:id=faq:2048-pizza:random-spawns-9976230b -->
+*   **新しいタイルはランダムに出現しますか？**
+    *   多くの場合、2や4に相当するタイルが重み付きで出現します。

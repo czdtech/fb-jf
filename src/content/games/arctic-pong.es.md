@@ -40,6 +40,8 @@ golpes y presionar al oponente con colocación y velocidad.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Arrow keys` `WASD` `drag`
 
 - **Mover la pala:** Usa las teclas de dirección, WASD o arrastra con el ratón
   (según la versión) para mover la pala.
@@ -63,3 +65,4 @@ golpes y presionar al oponente con colocación y velocidad.
 - **¿Cómo consigo puntos rápidos?**  
   Varía los ángulos y el tempo de tus devoluciones. Cambios bruscos de dirección
   y velocidad fuerzan al rival a cometer fallos.
+

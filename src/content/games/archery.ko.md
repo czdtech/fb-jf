@@ -44,6 +44,8 @@ Archery World Tour는 현실감을 강조한 양궁 시뮬레이션 게임입니
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `mouse` `Click` `hold` `left` `button` `hold` `mouse`
 
 *   **조준:** 마우스를 움직여 활의 방향을 조절합니다. 커서가 가리키는 위치가
     화살이 향하는 방향입니다.
@@ -65,4 +67,5 @@ Archery World Tour는 현실감을 강조한 양궁 시뮬레이션 게임입니
 <!-- i18n:faq:id=faq:archery:q-what-is-the-goal-ab58581b -->
 *   **Q: 게임의 최종 목표는 무엇인가요?**
     *   **A:** 제한된 화살 수로 가능한 한 많은 점수를 얻는 것이며, 불스아이에 가까울수록 높은 점수를 확보할 수 있습니다.
+
 

@@ -41,6 +41,8 @@ partida viva y alcanzar puntuaciones muy altas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `Tap` `Drag` `Undo` `Restart`
 
 - **Dibujar:** Haz clic o toca y arrastra para conectar números iguales siguiendo
   las reglas del juego.
@@ -65,3 +67,4 @@ partida viva y alcanzar puntuaciones muy altas.
 - **¿Algún consejo de patrones?**  
   Mantén las fichas grandes en el centro y usa los números pequeños en los
   bordes como "alimentadores" para preparar nuevas fusiones.
+

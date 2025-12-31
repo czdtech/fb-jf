@@ -30,6 +30,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `rotate` `Undo` `Reset`
 
 - Fais glisser les formes sur la grille pour les positionner.  
 - Utilise les boutons d’annulation, de rotation ou de réinitialisation si la version en dispose.
@@ -48,5 +50,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:aqua-blocks:endless-ea2091be -->
 - **Q : Y a‑t‑il des niveaux à terminer ?**  
   **R :** La plupart du temps, le jeu est infini et se joue au meilleur score, idéal pour des sessions courtes et détendues.
+
 
 

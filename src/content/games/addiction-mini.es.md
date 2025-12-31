@@ -42,6 +42,8 @@ libres y rompiendo bloqueos con buena planificación.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `click` `Undo` `Reset`
 
 - **Mover cartas:** Arrastra o haz clic para desplazar cartas siguiendo las
   reglas del modo de juego.
@@ -67,3 +69,4 @@ libres y rompiendo bloqueos con buena planificación.
 - **¿Se puede ganar siempre?**  
   Muchas partidas son resolubles si planificas bien, pero, como en cualquier
   solitario, también existe un componente de azar en la distribución inicial.
+

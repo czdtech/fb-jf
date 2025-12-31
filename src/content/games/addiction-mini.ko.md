@@ -42,6 +42,8 @@ Addiction Mini는 Addiction/Monte Carlo 계열 인내(패이션스) 카드 게�
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `Drag` `click` `Undo` `Reset`
 
 - 규칙에 맞는 위치로 카드를 드래그하거나 클릭해 옮길 수 있습니다.
 - 제공되는 경우, 되돌리기나 셔플/스왑 버튼을 눌러 막힌 판을 다시 풀 수
@@ -64,3 +66,4 @@ Addiction Mini는 Addiction/Monte Carlo 계열 인내(패이션스) 카드 게�
 - **모든 판이 깰 수 있는가요?**  
   완벽한 해답이 없는 판도 있을 수 있지만, 대부분의 경우 몇 수를 더 멀리
   내다보며 플레이하면 풀 수 있도록 설계되어 있습니다.
+

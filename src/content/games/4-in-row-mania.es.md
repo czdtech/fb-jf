@@ -41,6 +41,8 @@ amenaza.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `tap` `drop`
 
 - Haz clic o toca una columna para dejar caer una ficha.
 - Suele incluir modos para 2 jugadores en el mismo dispositivo o contra la IA.
@@ -62,3 +64,4 @@ amenaza.
 - **¿Cuál es la mejor apertura?**  
   Empezar en la columna central o cerca del centro suele ofrecer más opciones de
   victoria a largo plazo.
+

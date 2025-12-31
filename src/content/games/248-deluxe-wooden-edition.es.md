@@ -41,6 +41,8 @@ perseguir valores objetivo sin que la cuadrícula se atasque.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `Undo` `Reset`
 
 - **Arrastrar:** Traza una línea a través de números iguales para fusionarlos
   según las reglas.
@@ -63,4 +65,5 @@ perseguir valores objetivo sin que la cuadrícula se atasque.
 - **¿Hay pistas?**  
   Muchas versiones incluyen pistas o sugerencias. Úsalas con moderación para no
   perder el reto del puzle.
+
 

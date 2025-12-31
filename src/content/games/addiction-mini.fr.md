@@ -32,6 +32,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `click` `Undo` `Reset`
 
 - Clique ou fais glisser une carte vers un emplacement valide pour la déplacer.
 - Utilise les boutons d’échange/mélange, d’annulation ou de réinitialisation si le mode en dispose.
@@ -50,5 +52,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:addiction-mini:is-it-winnable-1ea66daa -->
 - **Q : Toutes les parties sont‑elles gagnables ?**  
   **R :** Beaucoup de distributions sont solvables avec un bon plan, mais certaines peuvent être très difficiles ou quasiment impossibles. Le cœur du jeu, c’est justement d’optimiser chaque position.
+
 
 

@@ -47,6 +47,8 @@ Abprallketten sind der Schlüssel, um das Feld rechtzeitig zu räumen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `left` `button`
 
 *   **Zielen:** Bewege die Maus, um die Hilfslinie deiner Schussrichtung zu
     steuern.
@@ -67,4 +69,5 @@ Abprallketten sind der Schlüssel, um das Feld rechtzeitig zu räumen.
 <!-- i18n:faq:id=faq:99-balls-3d:q-what-are-the-stars-ff09abbb -->
 *   **F: Wofür sind die Sterne gedacht?**
     *   **A:** Mit Sternen schaltest du im Hauptmenü neue Skins und Waffen‑Designs frei – ein kosmetischer Bonus für mehr Motivation.
+
 

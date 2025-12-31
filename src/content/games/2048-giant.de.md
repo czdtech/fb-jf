@@ -49,6 +49,8 @@ größere Brett angepasst werden.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow Keys` `arrow keys` `Swipe` `Swipe`
 
 *   **Pfeiltasten:** Bewege alle Kacheln mit den Pfeiltasten in die gewünschte
     Richtung.
@@ -65,4 +67,5 @@ größere Brett angepasst werden.
 <!-- i18n:faq:id=faq:2048-giant:q-how-is-it-different-ae89eec7 -->
 *   **F: Worin unterscheidet es sich vom klassischen 2048?**
     *   **A:** Das Spiel läuft auf einem größeren Raster ab. Dadurch dauern Partien länger, bieten mehr Raum für Taktik und verlangen sorgfältigere Planung.
+
 

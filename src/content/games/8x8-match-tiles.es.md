@@ -40,6 +40,8 @@ sueltas imposibles de emparejar.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `click` `tap` `Undo` `Reset`
 
 - **Seleccionar parejas:** Toca o haz clic en dos fichas iguales siguiendo las
   reglas del modo de juego.
@@ -63,4 +65,5 @@ sueltas imposibles de emparejar.
 - **¿Puedo barajar el tablero?**  
   Algunas variantes permiten barajar las fichas. Reserva esa opción para
   situaciones de emergencia en las que no queden parejas visibles.
+
 

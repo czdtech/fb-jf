@@ -31,6 +31,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `rotate` `Undo` `Reset`
 
 - Fais glisser les pièces sur la grille pour les placer.  
 - Utilise les boutons d’annulation, de rotation (si disponibles) ou de réinitialisation selon la version.
@@ -49,5 +51,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:ant-and-block-puzzle:endless-ea2091be -->
 - **Q : Le jeu a‑t‑il une fin ?**  
   **R :** La plupart des versions sont sans fin et se jouent au score : le but est de tenir le plus longtemps possible.
+
 
 

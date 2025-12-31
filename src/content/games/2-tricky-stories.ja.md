@@ -51,6 +51,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### **3. 操作ガイド**
+<!-- i18n:controls:keys -->
+- キー（整合）： `Tap` `Click` `Drag` `Drop` `Swipe` `Pinch` `Shake` `Tilt` `Long Press` `press` `hold`
 
 *Brain Test 2* の操作は直感的ですが、その操作自体が謎解きの一部になっていることもあります。主な操作方法は以下の通りです。
 
@@ -92,4 +94,5 @@ locale: ja
 <!-- i18n:faq:id=faq:2-tricky-stories:does-the-game-require-an-b76f6b27 -->
 **Q: インターネット接続は必要ですか？**
 **A:** ゲーム自体はオフラインでもプレイ可能です。ただし、ヒントシステムを利用する場合（電球補充のための広告視聴や、レベルスキップ）にはインターネット接続が必要になります。
+
 

@@ -51,6 +51,8 @@ con un flujo estable y seguro.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `tap` `Click` `drag`
 
 Los controles exactos pueden variar según la versión, pero suelen incluir:
 
@@ -85,3 +87,4 @@ Los controles exactos pueden variar según la versión, pero suelen incluir:
   Estandariza el patrón y regula las entradas. Resuelve los conflictos lejos de
   la pista para que el tramo final se mantenga lo más estable y predecible
   posible.
+

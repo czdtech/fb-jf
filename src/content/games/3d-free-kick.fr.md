@@ -29,6 +29,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `Swipe` `hold` `Swipe`
 
 - **Viser :** fais glisser pour régler la direction et la hauteur.
 - **Puissance :** adapte la longueur/durée du geste pour plus ou moins de force.
@@ -43,4 +45,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 - **Le gardien capte tout ?** Vise le second poteau avec une courbe tardive et alterne frappes hautes/tendues pour casser ses lectures.
 <!-- i18n:faq:id=faq:3d-free-kick:does-wind-matter-70cc93ed -->
 - **Le vent change-t-il vraiment quelque chose ?** Oui : décale ton viseur et applique l'effet opposé au vent pour rester sur la même ligne.
+
 

@@ -46,6 +46,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Arrow Keys` `D-Pad` `Analog Stick` `A` `A` `X` `S` `X` `Square` `Hold` `D` `B` `Circle` `Down Arrow Key` `Down` `D-Pad` `Press` `Down` `Jump` `press` `Shoot` `Jump`
 
 不同平台的按键略有差异，但核心功能一致：
 
@@ -73,3 +75,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:alien-hominid:q-is-alien-hominid-invasion-6b18b22e -->
 *   **问：《Alien Hominid Invasion》和本作是同一款游戏吗？**
     *   答：** 不是。《Alien Hominid Invasion》更像是一部精神续作和“再创作”版本，采用了全新的关卡结构与多人合作玩法，节奏和系统设计也与本作不同，可以把它理解为同一 IP 下的全新游戏体验。
+

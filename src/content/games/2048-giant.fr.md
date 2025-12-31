@@ -32,6 +32,8 @@ Les principes de base de 2048 s’appliquent toujours, mais la grille plus grand
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Arrow Keys` `arrow keys` `Swipe` `Swipe`
 
 - **Clavier :** utilise les flèches directionnelles pour déplacer toutes les tuiles.
 - **Écran tactile :** glisse le doigt dans la direction souhaitée.
@@ -46,3 +48,4 @@ Les principes de base de 2048 s’appliquent toujours, mais la grille plus grand
 <!-- i18n:faq:id=faq:2048-giant:q-how-is-it-different-ae89eec7 -->
 *   **Q : En quoi est‑il différent de la version originale ?**
     *   **R :** La grille est plus grande, ce qui rallonge les parties et exige une gestion plus précise de l’espace et des valeurs pour rester maître du plateau.
+

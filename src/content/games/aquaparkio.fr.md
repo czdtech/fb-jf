@@ -53,6 +53,8 @@ Le départ est souvent très chaotique. Plutôt que de te battre au milieu de la
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `Click` `hold` `left` `button` `drag` `mouse`
 
 Les contrôles d’*aquapark.io* sont volontairement minimalistes, que tu joues sur mobile ou au navigateur.
 
@@ -77,4 +79,5 @@ Les contrôles d’*aquapark.io* sont volontairement minimalistes, que tu joues 
 <!-- i18n:faq:id=faq:aquaparkio:q-i-landed-in-the-f1083c12 -->
 *   **Q : Que se passe‑t‑il si je tombe dans l’eau ?**
     *   **R :** Tu réapparaîtras sur le toboggan près du point de chute, mais tu perdras plusieurs secondes précieuses.
+
 

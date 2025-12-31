@@ -33,6 +33,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `hold` `left` `button` `hold` `mouse`
 
 - **Viser :** déplace la souris pour orienter l’arc.  
 - **Bandage et tir :** clique et maintiens le bouton gauche pour tendre la corde, puis relâche pour tirer. Sur mobile, maintiens le doigt et relâche de la même façon.
@@ -51,3 +53,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:archery:q-what-is-the-goal-ab58581b -->
 *   **Q : Quel est l’objectif principal du jeu ?**
     *   **R :** Obtenir le meilleur score avec un nombre limité de flèches en enchaînant les tirs au centre de la cible.
+

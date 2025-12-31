@@ -51,7 +51,7 @@ La préparation est essentielle : ton efficacité en journée détermine tes cha
 <!-- i18n:section:controls -->
 ### Commandes
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `W` `A` `S` `D` `Shift` `Space Bar` `E` `I` `Tab` `Left Mouse Button` `Right Mouse Button`
+- Touches (alignement)： `W` `A` `S` `D` `Mouse` `Hold` `Shift` `Space` `E` `I` `Tab` `Left Click` `Right Click`
 
 Le jeu utilise des commandes classiques de jeu à la première personne :
 
@@ -82,5 +82,6 @@ Le jeu utilise des commandes classiques de jeu à la première personne :
 <!-- i18n:faq:id=faq:99-nights-in-the-forest:where-can-i-find-scrap-7f8b30f6 -->
 **Q : Où trouver de la ferraille ?**  
 **R :** Elle apparaît généralement au sol dans la forêt ou près de certains points d’intérêt. Les emplacements sont en grande partie aléatoires, ce qui t’oblige à explorer pendant la journée.
+
 
 

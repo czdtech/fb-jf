@@ -41,6 +41,8 @@ momento del disparo para superar al portero en desafíos rápidos y rejugables.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Swipe` `Drag` `hold`
 
 - **Mover/Pasar/Chutar:** Sigue las indicaciones en pantalla; según la versión,
   usarás botones o gestos de deslizamiento.
@@ -64,3 +66,4 @@ momento del disparo para superar al portero en desafíos rápidos y rejugables.
 - **Los defensas me rodean siempre, ¿cómo lo evito?**  
   No te obsesiones con regatear entre varios rivales. Pasa y muévete; utiliza
   paredes y cambios de lado para generar huecos.
+

@@ -73,6 +73,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `drag` `Click` `hold` `left` `button` `drag` `mouse`
 
 이 게임은 매우 단순한 조작으로 유명합니다.
 
@@ -99,4 +101,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:aquaparkio:q-i-landed-in-the-f1083c12 -->
 *   **Q: 물에 떨어졌는데 게임이 끝난 건가요?**
     *   **A:** 아닙니다. 곧바로 코스 위로 리스폰되지만 그 동안 시간 손해를 보니, 가능하면 슬라이드 위로 착지하세요.
+
 

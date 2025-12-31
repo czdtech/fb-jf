@@ -45,6 +45,8 @@ der wichtige Paare blockiert sind.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `open`
 
 - **Steine auswählen:** Klicke oder tippe auf zwei identische, offene Steine,
   um sie zu entfernen.
@@ -69,4 +71,5 @@ der wichtige Paare blockiert sind.
   In vielen Versionen kannst du aus mehreren Spielbrettern mit unterschiedlicher
   Schwierigkeit wählen – von einfachen flachen Mustern bis zu hohen,
   mehrlagigen Türmen.
+
 

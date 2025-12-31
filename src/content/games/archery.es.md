@@ -47,6 +47,8 @@ distancia al objetivo.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `hold` `left` `button` `hold` `mouse`
 
 *   **Apuntar:** Mueve el ratón para orientar el arco. El cursor indica hacia
     dónde saldrá la flecha.
@@ -68,4 +70,5 @@ distancia al objetivo.
 <!-- i18n:faq:id=faq:archery:q-what-is-the-goal-ab58581b -->
 *   **P: ¿Cuál es el objetivo del juego?**
     *   **R:** Lograr la máxima puntuación posible con un número limitado de flechas; los impactos en el centro dan el valor más alto.
+
 

@@ -47,6 +47,8 @@ Erster am zweiten Ball bist.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Swipe` `Drag` `hold`
 
 - **Bewegen/Passen/Schießen:** Entsprechend der Bildschirmanzeigen per Wisch-
   geste oder Buttons.
@@ -70,4 +72,5 @@ Erster am zweiten Ball bist.
 - **F: Ich werde ständig von Verteidigern umringt.**  
   **A:** Versuche weniger zu dribbeln und mehr im Doppelpass zu spielen. Pass und
   bewege dich weiter, statt in mehrere Gegenspieler hineinzulaufen.
+
 

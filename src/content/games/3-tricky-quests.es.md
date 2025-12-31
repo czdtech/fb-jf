@@ -58,6 +58,8 @@ La estrategia de *Brain Test 3* hereda la mentalidad de los juegos anteriores, p
 
 <!-- i18n:section:controls -->
 ### **3. Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `Click` `Drag` `Drop` `Item Combination` `Drag` `Swipe` `Pinch` `Shake` `Tilt`
 
 Los controles de *Brain Test 3* se basan en los de las entregas anteriores, pero
 añaden la interacción con el inventario.
@@ -109,4 +111,5 @@ integrada para eliminar la publicidad.
 reúnes ciertos objetos de misión (como fragmentos de una Gema de Poder), debes
 volver al taller para ensamblarlos o crear/mejorar herramientas especiales
 necesarias para progresar.
+
 

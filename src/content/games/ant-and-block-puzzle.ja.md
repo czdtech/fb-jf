@@ -27,6 +27,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Drag` `rotate` `Undo` `Reset`
 
 *   **配置：** ドラッグ＆ドロップでブロックを盤面に置きます。回転機能があるモードでは、タップなどで回転できる場合があります。
 *   **アンドゥ/リセット：** UIボタンから操作します。
@@ -43,5 +45,6 @@ locale: ja
 <!-- i18n:faq:id=faq:ant-and-block-puzzle:endless-ea2091be -->
 *   **終わりはありますか？**
     *   多くのバージョンはスコアアタック形式のエンドレスゲームです。
+
 
 

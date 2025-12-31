@@ -45,6 +45,8 @@ die Pläne deiner Gegnerin oder deines Gegners durchkreuzt.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `tap` `drop`
 
 - **Zug ausführen:** Klicke oder tippe auf eine Spalte, um dort einen Stein
   fallen zu lassen.
@@ -69,4 +71,5 @@ die Pläne deiner Gegnerin oder deines Gegners durchkreuzt.
 - **F: Was ist eine gute Eröffnung?**  
   **A:** Ein Stein in der Mitte oder in den spaltennahen Bereichen ist fast
   immer sinnvoll, da du so die meisten möglichen Viererlinien offenhältst.
+
 

@@ -40,6 +40,8 @@ que el tablero se quede sin huecos.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Arrow keys` `Swipes` `Undo`
 
 - **Deslizar:** Usa las teclas de flecha o gestos de deslizamiento para mover
   todas las fichas del tablero.
@@ -62,4 +64,5 @@ que el tablero se quede sin huecos.
 <!-- i18n:faq:id=faq:2048-pizza:random-spawns-9976230b -->
 - **¿Los generadores son aleatorios?**  
   Por lo general aparecen 2 y 4, con probabilidades ponderadas a favor del 2.
+
 

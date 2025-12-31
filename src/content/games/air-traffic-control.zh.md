@@ -35,6 +35,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `tap` `Click` `drag`
 
 不同版本 UI 略有差异，一般包含以下形式：
 
@@ -57,3 +59,4 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:air-traffic-control:any-tip-for-heavy-traffic-b3840a28 -->
 *   **问：流量特别大时有什么建议？**
     *   答：** 尽量统一进场模式，把“最后进近”那一段保持干净稳定，把冲突解决在外圈；同时控制好进入终端区的节奏，别一次放进太多航班。
+

@@ -31,6 +31,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `open`
 
 - Clique/tape sur deux tuiles identiques et ouvertes pour les retirer.  
 - Utilise les boutons d’indice, de mélange ou de réinitialisation si ton mode les propose.
@@ -49,5 +51,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:aloha-mahjong:multiple-layouts-6bfba2f8 -->
 - **Q : Y a‑t‑il plusieurs plateaux ?**  
   **R :** Oui, la plupart des versions incluent plusieurs configurations avec des difficultés variées, de petites pyramides simples à des structures plus complexes.
+
 
 

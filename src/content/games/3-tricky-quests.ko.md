@@ -56,6 +56,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### **3. 조작 안내**
+<!-- i18n:controls:keys -->
+- 키(정렬)： `Tap` `Click` `Drag` `Drop` `Item Combination` `Drag` `Swipe` `Pinch` `Shake` `Tilt`
 
 *Brain Test 3*의 조작은 전작을 기반으로 하면서, 여기에 인벤토리 조작이
 추가된 형태입니다.
@@ -105,4 +107,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 **A:** 메인 스토리를 진행하기 위한 핵심 공간입니다. 파워 젬 조각 같은 퀘스트
 아이템을 모았다면 작업실로 돌아와 조립하거나, 앞으로 필요한 특수 도구를
 제작·강화해야 다음 구역으로 나아갈 수 있습니다.
+
 

@@ -44,6 +44,8 @@ zuzubauen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `rotate` `Undo` `Reset`
 
 - **Formen platzieren:** Ziehe die vorgegebenen Blöcke mit der Maus oder per
   Touch auf das Raster; je nach Version kannst du sie vorher drehen.
@@ -67,4 +69,5 @@ zuzubauen.
 - **Ist Aqua Blocks endlos?**  
   Meist ja. Viele Versionen laufen so lange, bis du keinen weiteren Block mehr
   sinnvoll setzen kannst und dein Highscore feststeht.
+
 

@@ -76,6 +76,8 @@ Age of War는 플래시 게임 시절 큰 인기를 끌었던 2D 횡스크롤 �
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `mouse` `Click` `Click` `Click` `Click` `Evolve`
 
 거의 모든 조작은 마우스로 이루어집니다.
 
@@ -106,3 +108,4 @@ Age of War는 플래시 게임 시절 큰 인기를 끌었던 2D 횡스크롤 �
 <!-- i18n:faq:id=faq:age-of-war:q-where-can-i-play-d6112852 -->
 *   **Q: 플래시가 종료된 뒤에는 어디에서 Age of War를 즐길 수 있나요?**
     *   **A:** CrazyGames, Armor Games, Kongregate 등에서 HTML5/에뮬레이션 버전을 제공하니, ‘Age of War HTML5’를 검색해 최신 브라우저에서 플레이하세요.
+

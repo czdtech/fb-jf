@@ -90,7 +90,7 @@ desde el Día 1.
 <!-- i18n:section:controls -->
 ### **Guía de controles**
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `W` `A` `S` `D` `Shift` `Space Bar` `E` `I` `Tab` `Left Mouse Button` `Right Mouse Button`
+- Teclas (alineación)： `W` `A` `S` `D` `Mouse` `Hold` `Shift` `Space` `E` `I` `Tab` `Left Click` `Right Click`
 
 El juego utiliza un esquema estándar de controles en primera persona.
 
@@ -133,3 +133,4 @@ Suele aparecer esparcida por el suelo del bosque o cerca de ciertos puntos de
 interés. Sus ubicaciones son aleatorias, así que tendrás que explorar con
 cuidado durante el día. Es el único material con el que fabricar clavos y, por
 lo tanto, es crucial para tu supervivencia.
+

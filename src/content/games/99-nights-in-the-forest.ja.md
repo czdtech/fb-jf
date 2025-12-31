@@ -48,7 +48,7 @@ locale: ja
 <!-- i18n:section:controls -->
 ### 操作ガイド
 <!-- i18n:controls:keys -->
-- キー（整合）： `W` `A` `S` `D` `Shift` `Space Bar` `E` `I` `Tab` `Left Mouse Button` `Right Mouse Button`
+- キー（整合）： `W` `A` `S` `D` `Mouse` `Hold` `Shift` `Space` `E` `I` `Tab` `Left Click` `Right Click`
 
 標準的なFPS（一人称視点）操作です。
 
@@ -79,4 +79,5 @@ locale: ja
 <!-- i18n:faq:id=faq:99-nights-in-the-forest:where-can-i-find-scrap-7f8b30f6 -->
 **Q4. スクラップメタルはどこにありますか？**
 スクラップメタルは通常、森の地面や特定の特徴的な場所の近くに落ちています。出現場所はランダムなので、昼間にしっかり探索する必要があります。釘を作る唯一の材料であり、極めて重要です。
+
 

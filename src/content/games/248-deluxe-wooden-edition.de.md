@@ -45,6 +45,8 @@ zuzubauen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `Undo` `Reset`
 
 - **Verbinden:** Ziehe mit Maus oder Finger über benachbarte Felder mit
   derselben Zahl, um sie gemäß den Spielregeln zu verschmelzen.
@@ -68,4 +70,5 @@ zuzubauen.
 - **F: Gibt es Hinweise?**  
   **A:** Viele Versionen bieten Hilfen oder Vorschläge an. Nutze sie sparsam,
   damit der Rätselcharakter erhalten bleibt.
+
 

@@ -38,7 +38,7 @@ releaseDate: 2025-08-16
 <!-- i18n:section:controls -->
 ### **操作指南**
 <!-- i18n:controls:keys -->
-- 按键（对齐）： `W` `A` `S` `D` `Shift` `Space Bar` `E` `I` `Tab` `Left Mouse Button` `Right Mouse Button`
+- 按键（对齐）： `W` `A` `S` `D` `Mouse` `Hold` `Shift` `Space` `E` `I` `Tab` `Left Click` `Right Click`
 
 游戏使用标准的第一人称控制。
 
@@ -69,3 +69,4 @@ releaseDate: 2025-08-16
 <!-- i18n:faq:id=faq:99-nights-in-the-forest:where-can-i-find-scrap-7f8b30f6 -->
 **4. 在哪里可以找到废金属？**
 废金属通常散落在森林地面或某些地标附近。它的刷新位置是随机的，需要玩家在白天仔细探索。它是制作钉子的唯一材料，因此至关重要。
+

@@ -59,6 +59,8 @@ Die Strategie baut auf der Denkweise der Vorgänger auf, verlangt aber mehr Erku
 
 <!-- i18n:section:controls -->
 ### **3. Steuerung**
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `Click` `Drag` `Drop` `Item Combination` `Drag` `Swipe` `Pinch` `Shake` `Tilt`
 
 Die Steuerung von *Brain Test 3* baut auf den Vorgängern auf, wird aber um
 Inventar‑Aktionen ergänzt.
@@ -110,4 +112,5 @@ Hinweise; oft kannst du Werbung per In‑App‑Kauf entfernen.
 Quest‑Gegenstände (etwa Edelsteinfragmente) gesammelt hast, musst du hierher
 zurückkehren, um sie zusammenzusetzen oder spezielle Werkzeuge zu bauen bzw. zu
 verbessern.
+
 

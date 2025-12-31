@@ -34,6 +34,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `Tap` `Drag` `Undo` `Restart`
 
 - **Tracer une ligne :** clique ou touche une tuile, puis glisse sur les autres tuiles de même valeur pour les relier, puis relâche pour valider.
 - **Annuler (si disponible) :** certaines versions offrent un bouton d’annulation pour corriger une mauvaise ligne.
@@ -48,4 +50,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 - **Y a‑t‑il une condition de victoire ?** C’est plutôt un jeu sans fin. Tu peux te fixer des objectifs de valeur maximale ou de score à battre.
 <!-- i18n:faq:id=faq:2020-connect:any-pattern-tips-24b51a6c -->
 - **Des astuces de disposition ?** Regroupe les grosses valeurs vers le centre et laisse les petites tuiles vers les bords comme « nourriture » pour de futures fusions.
+
 

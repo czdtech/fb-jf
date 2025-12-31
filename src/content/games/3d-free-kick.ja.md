@@ -30,6 +30,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Drag` `Swipe` `hold` `Swipe`
 
 *   **狙う（エイム）：** ドラッグして方向と高さを決めます。
 *   **パワー：** スワイプの長さやホールド時間で強さを調整します。
@@ -47,4 +49,5 @@ locale: ja
 <!-- i18n:faq:id=faq:3d-free-kick:does-wind-matter-70cc93ed -->
 *   **風の影響はありますか？**
     *   はい、あります。風とは逆方向にカーブをかけたり、狙う位置をずらしたりして対策しましょう。
+
 

@@ -61,6 +61,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### **3. 操作指南**
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Tap` `Click` `Drag` `Drop` `Item Combination` `Drag` `Swipe` `Pinch` `Shake` `Tilt`
 
 《Brain Test 3》的基本操作延续了系列前作的手感，只是在此基础上加入了背包与道具组合的交互。
 
@@ -97,3 +99,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:3-tricky-quests:what-is-the-workshop-for-ca2fadbe -->
 **Q: 工坊有什么用？**  
 **A:** 工坊是推进主线剧情的关键地点。当你收集到特定任务道具（比如能量宝石碎片）时，需要回到工坊进行拼合，或者制作/升级特殊工具，才能继续探索新的区域。
+

@@ -46,6 +46,8 @@ und knackt immer höhere Highscores.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `Tap` `Drag` `Undo` `Restart`
 
 - **Verbinden:** Mit Maus oder Touch klickst bzw. tippst du auf ein Feld und
   ziehst über angrenzende Felder mit derselben Zahl, um sie zu verbinden.
@@ -71,4 +73,5 @@ und knackt immer höhere Highscores.
 - **F: Hast du Muster‑Tipps?**  
   **A:** Halte große Zahlen in der Mitte gebündelt und nutze die Ränder als
   "Futter" für neue Merges mit kleineren Werten.
+
 

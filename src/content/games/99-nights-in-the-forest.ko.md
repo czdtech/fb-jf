@@ -80,7 +80,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:controls -->
 ### **조작 방법**
 <!-- i18n:controls:keys -->
-- 키(정렬)： `W` `A` `S` `D` `Shift` `Space Bar` `E` `I` `Tab` `Left Mouse Button` `Right Mouse Button`
+- 키(정렬)： `W` `A` `S` `D` `Mouse` `Hold` `Shift` `Space` `E` `I` `Tab` `Left Click` `Right Click`
 
 게임은 일반적인 1인칭 조작 방식을 따릅니다.
 
@@ -120,4 +120,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 고철은 숲 바닥이나 특정 랜드마크 근처에 흩어져 있는 경우가 많습니다. 스폰
 위치는 어느 정도 랜덤이기 때문에, 낮 시간 동안 주변을 꼼꼼히 탐색해야 합니다.
 못 제작에 반드시 필요한 자원이므로, 보이면 우선적으로 주워 두는 것이 좋습니다.
+
 

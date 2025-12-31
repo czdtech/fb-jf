@@ -41,6 +41,8 @@ forma al disparo.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `Swipe` `hold` `Swipe`
 
 - **Apuntar:** Arrastra para definir dirección y altura del disparo.
 - **Potencia:** Ajusta la fuerza con la longitud del deslizamiento o la duración
@@ -65,3 +67,4 @@ forma al disparo.
 - **¿El viento influye de verdad?**  
   Sí. Compénsalo curvando el balón en sentido contrario y ajustando el punto al
   que apuntas desde el inicio.
+

@@ -95,6 +95,8 @@ pensar que te ayudarán en casi todos los niveles.
 
 <!-- i18n:section:controls -->
 ### **3. Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `Click` `Drag` `Drop` `Swipe` `Pinch` `Shake` `Tilt` `Long Press` `press` `hold`
 
 Los controles de *Brain Test 2* son muy intuitivos y, de hecho, forman parte de
 muchos puzles. Estas son las formas principales de interactuar con el juego:
@@ -150,4 +152,5 @@ más envolvente y con mayor sensación de progreso.
 **A:** El juego se puede jugar sin conexión. Sin embargo, necesitas conexión si
 quieres usar el sistema de pistas (ver anuncios para conseguir bombillas o para
 saltar niveles).
+
 

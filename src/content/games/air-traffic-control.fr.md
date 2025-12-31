@@ -35,6 +35,8 @@ Voici ce qui t’attend dans *Air Traffic Control* et comment t’organiser pour
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `tap` `Click` `drag`
 
 Les contrôles exacts varient selon les versions, mais on retrouve toujours les actions suivantes :
 
@@ -62,4 +64,5 @@ Les contrôles exacts varient selon les versions, mais on retrouve toujours les 
 <!-- i18n:faq:id=faq:air-traffic-control:any-tip-for-heavy-traffic-b3840a28 -->
 - **Q : Des conseils pour gérer un trafic très dense ?**  
   **R :** Imposes un circuit standard (vent arrière → base → finale), espace les entrées et résous les conflits dès qu’ils apparaissent plutôt qu’en courte finale.
+
 

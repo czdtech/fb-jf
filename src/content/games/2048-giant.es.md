@@ -47,6 +47,8 @@ adaptarlas al tamaño del tablero.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Arrow Keys` `arrow keys` `Swipe` `Swipe`
 
 *   **Teclado:** Usa las teclas de flecha para mover todas las fichas de la
     cuadrícula.
@@ -63,4 +65,5 @@ adaptarlas al tamaño del tablero.
 <!-- i18n:faq:id=faq:2048-giant:q-how-is-it-different-ae89eec7 -->
 *   **P: ¿En qué se diferencia del 2048 clásico?**
     *   **R:** Se juega en una cuadrícula más grande, lo que alarga la partida y exige más planificación y control del tablero.
+
 

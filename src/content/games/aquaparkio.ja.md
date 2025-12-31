@@ -47,6 +47,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `drag` `Click` `hold` `left` `button` `drag` `mouse`
 
 このゲームは極めてシンプルな操作で有名です。
 
@@ -71,4 +73,5 @@ locale: ja
 <!-- i18n:faq:id=faq:aquaparkio:q-i-landed-in-the-f1083c12 -->
 *   **Q: 水に落ちたらゲームオーバーですか？**
     *   **A:** いいえ。コースを外れて水に落ちても、落ちた場所の近くのコース上に自動的に復活します。ただし、数秒のタイムロスが発生します。
+
 

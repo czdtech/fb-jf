@@ -53,6 +53,8 @@ La stratégie reprend l’esprit des précédents Brain Test tout en demandant d
 
 <!-- i18n:section:controls -->
 ### **3. Guide des commandes**
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `Click` `Drag` `Drop` `Item Combination` `Drag` `Swipe` `Pinch` `Shake` `Tilt`
 
 Les commandes reprennent la base des précédents Brain Test tout en ajoutant des interactions avec l’inventaire.
 
@@ -89,4 +91,5 @@ Les commandes reprennent la base des précédents Brain Test tout en ajoutant de
 <!-- i18n:faq:id=faq:3-tricky-quests:what-is-the-workshop-for-ca2fadbe -->
 **Q : À quoi sert l’atelier ?**  
 **R :** C’est l’endroit où tu assembles les fragments de Gemme de Pouvoir ou crées des outils spéciaux indispensables pour avancer dans l’histoire principale.
+
 

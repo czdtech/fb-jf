@@ -53,6 +53,8 @@ Alien Hominid는 악명 높을 정도로 어렵습니다. 성공을 위해서는
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `Arrow Keys` `D-Pad` `Analog Stick` `A` `A` `X` `S` `X` `Square` `Hold` `D` `B` `Circle` `Down Arrow Key` `Down` `D-Pad` `Press` `Down` `Jump` `press` `Shoot` `Jump`
 
 버전에 따라 키 배치는 조금씩 다르지만, 기본 조작은 거의 동일합니다.
 
@@ -84,4 +86,5 @@ Alien Hominid는 악명 높을 정도로 어렵습니다. 성공을 위해서는
 <!-- i18n:faq:id=faq:alien-hominid:q-is-alien-hominid-invasion-6b18b22e -->
 - **Q: *Alien Hominid Invasion*은 같은 게임인가요?**  
     - **A:** 아닙니다. 동일 세계관을 공유하지만 로그라이크 요소와 협동 중심 진행 등을 도입한 후속작/재해석에 가깝습니다.
+
 

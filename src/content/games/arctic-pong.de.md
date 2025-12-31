@@ -43,6 +43,8 @@ und erzielst Punkte.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow keys` `WASD` `drag`
 
 - **Schläger bewegen:** Bewege ihn mit den Pfeiltasten, WASD oder per Drag
   (je nach Version), um den Puck zu treffen.
@@ -66,4 +68,5 @@ und erzielst Punkte.
 - **Wie gewinne ich schnell?**  
   Variiere Winkel und Tempo deiner Schläge, ziele auf die Ecken und nutze
   Überraschungsmomente, um den Gegner zu Fehlern zu zwingen.
+
 

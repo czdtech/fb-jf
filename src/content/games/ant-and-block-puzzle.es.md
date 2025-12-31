@@ -42,6 +42,8 @@ filas o zonas para liberar espacio y evitando que el tablero se llene.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `rotate` `Undo` `Reset`
 
 - **Colocar bloques:** Arrastra las piezas hasta su posición. Si el modo lo
   permite, podrás girarlas antes de soltarlas.
@@ -64,4 +66,5 @@ filas o zonas para liberar espacio y evitando que el tablero se llene.
 - **¿El modo es infinito?**  
   En muchas versiones sí: el objetivo es conseguir la máxima puntuación posible
   antes de quedarte sin sitio.
+
 

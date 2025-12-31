@@ -40,6 +40,8 @@ y pistas limitadas y resolver cada tablero sin dejar parejas clave atrapadas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `open`
 
 - **Seleccionar fichas:** Toca o haz clic en dos fichas iguales que estén
   "abiertas" para retirarlas.
@@ -63,3 +65,4 @@ y pistas limitadas y resolver cada tablero sin dejar parejas clave atrapadas.
 - **¿Hay varios tableros?**  
   Sí, normalmente se incluyen varias disposiciones con distintos niveles de
   dificultad.
+

@@ -46,6 +46,8 @@ Chaque évolution débloque de nouvelles unités, des tourelles plus puissantes 
 - **Assaut final :** combine une vague de tes unités les plus puissantes avec ta capacité spéciale pour briser la ligne ennemie et détruire sa base en une seule poussée.
 
 <!-- i18n:section:controls -->
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `Click` `Click` `Click` `Evolve`
 <!-- i18n:section:how-to-play -->
 ### Commandes
 
@@ -74,4 +76,5 @@ Le jeu se joue presque entièrement à la souris :
 <!-- i18n:faq:id=faq:age-of-war:q-where-can-i-play-d6112852 -->
 *   **Q : Où jouer à Age of War maintenant que Flash n’existe plus ?**
     *   **R :** Des sites comme CrazyGames, Armor Games ou Kongregate proposent des versions HTML5/émulées. Cherche « Age of War HTML5 » pour y accéder depuis ton navigateur actuel.
+
 

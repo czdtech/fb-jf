@@ -55,6 +55,8 @@ kontinuierlichen, aber sicheren Tempo bedient wird.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `tap` `Click` `drag`
 
 Die genaue Steuerung hängt von der Version ab, folgt aber meist einem ähnlichen
 Schema:
@@ -97,4 +99,5 @@ Schema:
   gleichzeitig im Endanflug sind. Konflikte solltest du möglichst weit von der
   Landebahn entfernt lösen, damit der letzte Anflugabschnitt ruhig und stabil
   bleibt.
+
 

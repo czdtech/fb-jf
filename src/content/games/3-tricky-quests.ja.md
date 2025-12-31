@@ -52,6 +52,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### **3. 操作ガイド**
+<!-- i18n:controls:keys -->
+- キー（整合）： `Tap` `Click` `Drag` `Drop` `Item Combination` `Drag` `Swipe` `Pinch` `Shake` `Tilt`
 
 *Brain Test 3* の操作は、前作までの基本に加え、インベントリ操作が追加されています。
 
@@ -88,4 +90,5 @@ locale: ja
 <!-- i18n:faq:id=faq:3-tricky-quests:what-is-the-workshop-for-ca2fadbe -->
 **Q: ワークショップは何のためにあるのですか？**
 **A:** ワークショップはメインストーリーを進めるための重要な拠点です。特定のクエストアイテム（パワージェムの欠片など）を集めたら、ワークショップに戻ってそれらを組み立てたり、進行に必要な特別な道具を作ったりアップグレードしたりする必要があります。
+
 

@@ -48,6 +48,8 @@ erreichen. Voraussicht, Strategie und ein bisschen Glück sind dafür entscheide
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Up` `Down` `Left` `Right` `arrow keys` `Swipe`
 
 *   **Desktop:** Mit den **Pfeiltasten Oben, Unten, Links, Rechts** bewegst du
     alle Kacheln gleichzeitig in die gewählte Richtung.
@@ -67,4 +69,5 @@ erreichen. Voraussicht, Strategie und ein bisschen Glück sind dafür entscheide
 <!-- i18n:faq:id=faq:2048-fusion:q-where-does-the-new-6d8fd6f1 -->
 *   **F: Wo erscheinen neue Kacheln?**
     *   **A:** Nach jedem Zug erscheint eine neue Kachel (meist eine 2 oder 4) auf einem zufälligen freien Feld. Plane deine Bewegungen so, dass trotzdem ausreichend Raum für neue Kacheln bleibt.
+
 

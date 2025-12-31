@@ -30,6 +30,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `click` `tap` `Undo` `Reset`
 
 - Clique ou tape sur deux tuiles identiques valides pour les associer.
 - Utilise les boutons d’indice, de mélange, d’annulation ou de réinitialisation si ton mode de jeu les propose.
@@ -48,5 +50,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:8x8-match-tiles:shuffle-187dc570 -->
 - **Q : Les niveaux sont‑ils générés aléatoirement ?**  
   **R :** La plupart des plateaux sont générés de manière procédurale, tu peux donc rejouer souvent sans tomber deux fois sur la même configuration.
+
 
 

@@ -28,6 +28,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `Undo` `Reset`
 
 - **Relier les nombres :** fais glisser ton doigt ou ta souris sur plusieurs cases adjacentes de même valeur pour les fusionner suivant les règles.
 - **Annuler / Réinitialiser :** si le jeu le permet, utilise les boutons dédiés pour corriger une erreur ou recommencer une partie.
@@ -46,4 +48,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:248-deluxe-wooden-edition:hints-27c5017f -->
 *   **Q : Y a‑t‑il des indices ?**
     *   **R :** Certaines versions proposent des indices ou des aides visuelles. Utilise‑les avec parcimonie pour ne pas gâcher le plaisir de la réflexion.
+
 

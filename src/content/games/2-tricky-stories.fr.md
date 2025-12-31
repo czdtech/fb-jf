@@ -54,6 +54,8 @@ Le jeu est conçu autour de la découverte – donner un « corrigé complet �
 
 <!-- i18n:section:controls -->
 ### **3. Commandes**
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `Click` `Drag` `Drop` `Swipe` `Pinch` `Shake` `Tilt` `Long Press` `press` `hold`
 
 Les contrôles sont simples, mais font partie des énigmes :
 
@@ -95,4 +97,5 @@ Les contrôles sont simples, mais font partie des énigmes :
 <!-- i18n:faq:id=faq:2-tricky-stories:does-the-game-require-an-b76f6b27 -->
 **Q : Faut‑il une connexion Internet ?**  
 **R :** Tu peux jouer à la plupart des niveaux hors‑ligne, mais une connexion est nécessaire pour certaines fonctions : indices via pub, saut de niveau, offres spéciales, etc.
+
 

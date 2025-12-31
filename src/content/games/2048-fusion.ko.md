@@ -43,6 +43,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `Up` `Down` `Left` `Right` `arrow keys` `Swipe`
 
 *   **데스크톱:** 방향키(위, 아래, 왼쪽, 오른쪽)를 사용해 그리드 위의 모든
     타일을 한 번에 해당 방향으로 밀어 움직입니다.
@@ -63,4 +65,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:2048-fusion:q-where-does-the-new-6d8fd6f1 -->
 *   **Q: 새 타일은 어디에 생기나요?**
     *   **A:** 매번 움직임을 마칠 때마다 빈 칸 중 한 곳에 2 또는 4 숫자 타일이 무작위로 등장합니다.
+
 

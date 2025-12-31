@@ -34,6 +34,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Up` `Down` `Left` `Right` `arrow keys` `Swipe`
 
 - **Sur ordinateur :** flèches du clavier ↑, ↓, ←, → pour faire glisser toutes les tuiles.
 - **Sur mobile :** glisse le doigt dans la direction souhaitée pour déplacer les tuiles.
@@ -52,4 +54,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:2048-fusion:q-where-does-the-new-6d8fd6f1 -->
 *   **Q : Où apparaissent les nouvelles tuiles ?**
     *   **R :** Après chaque mouvement, une tuile 2 (parfois 4) apparaît aléatoirement sur une case vide de la grille.
+
 

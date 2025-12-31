@@ -30,6 +30,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Arrow keys` `WASD` `drag`
 
 - Déplace la raquette avec les flèches, les touches WASD ou en faisant glisser le doigt/souris, selon la version.  
 - Certains modes proposent un 2‑joueurs local, chacun contrôlant sa propre raquette.
@@ -48,5 +50,6 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:arctic-pong:quick-wins-c88c13f8 -->
 - **Q : Comment gagner rapidement ?**  
   **R :** Varie angles et vitesse, et profite des erreurs de positionnement de l’adversaire pour marquer des buts faciles.
+
 
 

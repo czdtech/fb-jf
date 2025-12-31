@@ -31,6 +31,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Drag` `rotate` `Undo` `Reset`
 
 - 拖拽方块放到网格上；部分版本支持旋转，可按界面提示调整方向。
 - 若提供撤销或重置按钮，可用于回退或重新开始。
@@ -46,3 +48,4 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:aqua-blocks:endless-ea2091be -->
 *   **问：是无尽模式吗？**
     *   答：** 通常是。只要还有可用空间，就能继续摆放并冲更高分。
+

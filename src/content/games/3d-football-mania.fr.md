@@ -29,6 +29,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Swipe` `Drag` `hold`
 
 - Déplacements, passes et tirs se font via les boutons ou gestes affichés à l’écran.
 - Vise en faisant glisser le doigt et ajuste la puissance avec la longueur ou la durée du geste.
@@ -47,4 +49,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:3d-football-mania:defenders-crowd-mefix-a4cae96e -->
 *   **Q : Je me fais enfermer par la défense ?**
     **R :** Joue en une-deux, bouge immédiatement après la passe et évite de forcer un dribble dans la densité.
+
 

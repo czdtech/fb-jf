@@ -52,6 +52,8 @@ estrategia y un pequeño toque de suerte.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Up` `Down` `Left` `Right` `arrow keys` `Swipe`
 
 *   **PC:** Usa las teclas de flecha **Arriba, Abajo, Izquierda y Derecha** para
     mover todas las fichas de la cuadrícula en esa dirección.
@@ -72,4 +74,5 @@ estrategia y un pequeño toque de suerte.
 <!-- i18n:faq:id=faq:2048-fusion:q-where-does-the-new-6d8fd6f1 -->
 *   **P: ¿Dónde aparece la ficha nueva?**
     *   **R:** Después de cada movimiento, aparece una nueva ficha (normalmente un 2 o un 4) en una casilla vacía al azar del tablero.
+
 

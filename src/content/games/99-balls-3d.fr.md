@@ -32,6 +32,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `left` `button`
 
 - **Viser :** déplace la souris (ou ton doigt sur mobile) pour orienter la ligne de visée.
 - **Tirer :** clique ou relâche le doigt pour lancer le flot de balles.
@@ -50,4 +52,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:99-balls-3d:q-what-are-the-stars-ff09abbb -->
 *   **Q : À quoi servent les étoiles ?**
     *   **R :** Elles servent à débloquer de nouveaux skins et types de projectiles dans les menus, afin de personnaliser l’expérience de jeu.
+
 

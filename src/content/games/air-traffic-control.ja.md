@@ -28,6 +28,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Click` `tap` `Click` `drag`
 
 バージョンによって異なりますが、一般的な操作は以下の通りです：
 
@@ -51,4 +53,5 @@ locale: ja
 <!-- i18n:faq:id=faq:air-traffic-control:any-tip-for-heavy-traffic-b3840a28 -->
 *   **交通量が多い時のコツは？**
     *   進入パターンを定型化し、整然と並ばせましょう（メータリング）。滑走路から遠い場所でコンフリクトを解決しておくと、最終進入（ファイナル）が安定します。
+
 

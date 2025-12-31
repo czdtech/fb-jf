@@ -29,6 +29,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `tap` `drop`
 
 - Clique ou touche la colonne dans laquelle tu veux laisser tomber un jeton.
 - Modes 2 joueurs en local ou contre l’IA sont souvent disponibles.
@@ -47,3 +49,4 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:4-in-row-mania:best-opening-a27e9124 -->
 - **Q : Quel est le meilleur coup de départ ?**  \
   **R :** Jouer au centre est généralement le plus fort, car cela ouvre le plus de lignes potentielles.
+

@@ -48,6 +48,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `Click` `Click` `Click` `Click` `Evolve`
 
 すべてマウス操作で行います。
 
@@ -74,4 +76,5 @@ locale: ja
 <!-- i18n:faq:id=faq:age-of-war:q-where-can-i-play-d6112852 -->
 *   **Q: Flash終了後はどこで遊べる？**
     *   **A:** CrazyGames や Armor Games など、多くのサイトがHTML5版を公開しています。「Age of War HTML5」で検索すれば最新のプレイ先が見つかります。
+
 

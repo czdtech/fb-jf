@@ -47,6 +47,8 @@ de que las bolas numeradas lleguen al fondo.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `left` `button`
 
 *   **Apuntar:** Mueve el ratón para controlar la guía de disparo y ver la
     trayectoria inicial.
@@ -67,4 +69,5 @@ de que las bolas numeradas lleguen al fondo.
 <!-- i18n:faq:id=faq:99-balls-3d:q-what-are-the-stars-ff09abbb -->
 *   **P: ¿Para qué sirven las estrellas?**
     *   **R:** Las estrellas se usan para desbloquear nuevos aspectos y tipos de armas desde el menú principal, aportando variedad visual al juego.
+
 

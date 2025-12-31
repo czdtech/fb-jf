@@ -59,6 +59,8 @@ memoria de patrones y dominar todo el repertorio de movimientos del alien.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Arrow Keys` `D-Pad` `Analog Stick` `A` `A` `X` `S` `X` `Square` `Hold` `D` `B` `Circle` `Down Arrow Key` `Down` `D-Pad` `Press` `Down` `Jump` `press` `Shoot` `Jump`
 
 Los controles cambian ligeramente entre la versión Flash y las de consola/HD, pero las funciones básicas son las mismas.
 
@@ -90,3 +92,4 @@ Los controles cambian ligeramente entre la versión Flash y las de consola/HD, p
 <!-- i18n:faq:id=faq:alien-hominid:q-is-alien-hominid-invasion-6b18b22e -->
 *   **P: ¿Alien Hominid Invasion es el mismo juego?**
     *   **R:** No. *Alien Hominid Invasion* es una reinterpretación moderna centrada en el cooperativo, con progreso de personaje y elementos rogue‑lite. Comparte universo, pero es un juego nuevo.
+

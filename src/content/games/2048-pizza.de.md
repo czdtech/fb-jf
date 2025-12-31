@@ -46,6 +46,8 @@ frei zu halten.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow keys` `Swipes` `Undo`
 
 - **Schieben:** Nutze die Pfeiltasten oder Swipes, um alle Kacheln in eine
   Richtung zu bewegen.
@@ -70,4 +72,5 @@ frei zu halten.
   **A:** Nach jedem Zug erscheinen neue Kacheln – in der Regel Werte wie 2 oder
   4, mit einer bestimmten Wahrscheinlichkeit verteilt – auf zufälligen freien
   Feldern.
+
 

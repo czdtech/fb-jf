@@ -32,6 +32,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `mouse` `Click` `left` `button`
 
 *   **瞄准：** 移动鼠标控制瞄准线，用它来预判小球的初始轨迹。
 *   **射击：** 点击鼠标左键发射球流。
@@ -47,3 +49,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:99-balls-3d:q-what-are-the-stars-ff09abbb -->
 *   **问：星星有什么用？**
     *   **答：** 收集星星可以在主菜单解锁新皮肤和武器类型，为游戏增添更多外观变化。
+

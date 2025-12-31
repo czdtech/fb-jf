@@ -77,6 +77,8 @@ Verteidigung und dem richtigen Evolutions‑Timing.
     Feindbasis zu starten.
 
 <!-- i18n:section:controls -->
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `Click` `Click` `Click` `Evolve`
 <!-- i18n:section:how-to-play -->
 ### Steuerung
 
@@ -109,3 +111,4 @@ Gesteuert wird fast ausschließlich mit der Maus.
 <!-- i18n:faq:id=faq:age-of-war:q-where-can-i-play-d6112852 -->
 *   **F: Wo kann ich Age of War nach dem Ende von Flash spielen?**
     *   **A:** Portale wie CrazyGames, Armor Games oder Kongregate hosten HTML5-/Ruffle-Versionen. Suche nach „Age of War HTML5“, um direkt im modernen Browser zu spielen.
+

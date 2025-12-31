@@ -27,6 +27,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Drag` `rotate` `Undo` `Reset`
 
 *   **配置：** ブロックをグリッド上にドラッグします。回転がサポートされている場合は回転させることができます。
 *   **アンドゥ/リセット：** UIボタンから操作します。
@@ -43,4 +45,5 @@ locale: ja
 <!-- i18n:faq:id=faq:aqua-blocks:endless-ea2091be -->
 *   **エンドレスですか？**
     *   はい、基本的には置けなくなるまで続くエンドレス形式です。
+
 

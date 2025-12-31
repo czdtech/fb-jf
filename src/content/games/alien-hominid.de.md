@@ -82,6 +82,8 @@ ausgenutzten Bewegungs- und Aktionsset des Aliens ab.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow Keys` `D-Pad` `Analog Stick` `A` `A` `X` `S` `X` `Square` `Hold` `D` `B` `Circle` `Down Arrow Key` `Down` `D-Pad` `Press` `Down` `Jump` `press` `Shoot` `Jump`
 
 Die Steuerung unterscheidet sich leicht zwischen Flash‑, Konsolen‑ und HD‑
 Versionen, der Kern bleibt aber gleich.
@@ -122,3 +124,4 @@ Versionen, der Kern bleibt aber gleich.
 <!-- i18n:faq:id=faq:alien-hominid:q-is-alien-hominid-invasion-6b18b22e -->
 *   **F: Ist *Alien Hominid Invasion* dasselbe Spiel?**  
     *   **A:** Nein. *Alien Hominid Invasion* ist eine moderne Neuinterpretation mit Koop‑Fokus und Roguelite‑Elementen – gleiches Universum, aber neue Level und Systeme.
+

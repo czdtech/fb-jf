@@ -74,7 +74,7 @@ du stirbst, beginnt alles wieder bei Nacht 1.
 <!-- i18n:section:controls -->
 ### Steuerung
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `W` `A` `S` `D` `Shift` `Space Bar` `E` `I` `Tab` `Left Mouse Button` `Right Mouse Button`
+- Tasten (Abgleich)： `W` `A` `S` `D` `Mouse` `Hold` `Shift` `Space` `E` `I` `Tab` `Left Click` `Right Click`
 
 Das Spiel nutzt eine typische Ego‑Perspektive-Steuerung.
 
@@ -113,3 +113,4 @@ im Haus, schließe die Tür und lausche aufmerksam den Geräuschen draußen.
 **A:** Schrott liegt meist zufällig im Wald oder an markanten Punkten herum. Du musst
 am Tag genau hinschauen und die Umgebung gründlich absuchen. Da er die einzige
 Quelle für Nägel ist, zählt jedes Stück.
+

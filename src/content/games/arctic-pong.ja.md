@@ -27,6 +27,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Arrow keys` `WASD` `drag`
 
 *   **パドル移動：** 矢印キー / WASDキー、またはドラッグ操作。
 *   **モード：** 1台の端末での2人対戦や、対AIのソロプレイが一般的です。
@@ -43,4 +45,5 @@ locale: ja
 <!-- i18n:faq:id=faq:arctic-pong:quick-wins-c88c13f8 -->
 *   **早く勝つコツは？**
     *   単調に打ち返すのではなく、角度とテンポを絶えず変化させて、相手のミスを誘発しましょう。
+
 

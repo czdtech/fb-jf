@@ -93,6 +93,8 @@ allgemeine Strategien und die richtige Denkweise für Brain Test 2.
 
 <!-- i18n:section:controls -->
 ### **3. Steuerung**
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `Click` `Drag` `Drop` `Swipe` `Pinch` `Shake` `Tilt` `Long Press` `press` `hold`
 
 Die Bedienung von *Brain Test 2* ist intuitiv – oft ist die Art der
 Interaktion selbst schon Teil des Rätsels. Die wichtigsten Aktionen sind:
@@ -147,3 +149,4 @@ zusammenhängender und motivierender an.
 **A:** Die meisten Level kannst du offline spielen. Eine Verbindung wird nur
 benötigt, wenn du Anzeigen ansehen möchtest – etwa um Hinweise zu bekommen oder
 Level zu überspringen.
+
