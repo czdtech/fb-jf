@@ -52,6 +52,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `click` `Click` `Click` `Click` `spacebar` `Click` `click`
 
 操作は従来通りポイント＆クリックです。
 
@@ -82,5 +84,6 @@ locale: ja
 <!-- i18n:faq:id=faq:bloons-td-4:what-is-apopalypse-mode-eb2eb7e1 -->
 **5. Apopalypse モードとは？**  
 > ラウンドの合間がなく、報酬金も入らないモードです。気球を倒した分だけが収入になるので非常にシビアです。
+
 
 

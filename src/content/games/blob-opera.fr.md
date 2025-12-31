@@ -34,6 +34,8 @@ Puisqu’il n’y a ni victoire ni défaite, l’objectif est simplement de cré
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `Drag` `Click` `Drag` `Click` `Click`
 
 Les commandes sont pensées pour être simples à la souris ou au tactile :
 
@@ -66,4 +68,5 @@ Les commandes sont pensées pour être simples à la souris ou au tactile :
 **Q : Comment sauvegarder ma création ?**
 
 > Impossible d’exporter un MP3 directement, mais tu peux enregistrer et partager un lien qui rejoue ta performance. Une capture vidéo externe reste une option.
+
 

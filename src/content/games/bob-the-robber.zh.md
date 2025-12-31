@@ -53,6 +53,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Arrow Keys` `Spacebar`
 
 不同代作品的键位略有差异，但整体非常接近：
 
@@ -84,5 +86,6 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:bob-the-robber:is-it-better-to-knock-522a4adb -->
 **4. 究竟是多击倒守卫更好，还是尽量不动手？**  
 在大多数关卡中，“悄无声息地溜过去”往往比清场更安全。击倒守卫应该被视作制造突破口的手段，而不是默认策略。只在确实需要、且确认不会有其他守卫发现的情况下再动手。  
+
 
 

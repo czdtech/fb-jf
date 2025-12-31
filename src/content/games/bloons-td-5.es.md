@@ -88,6 +88,8 @@ BTD5 amplía el universo del juego con varias incorporaciones clave:
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `click` `tap` `Click` `Click`
 
 El juego utiliza una interfaz estándar de apuntar‑y‑clic o toque.
 
@@ -139,4 +141,5 @@ El juego utiliza una interfaz estándar de apuntar‑y‑clic o toque.
 > bien colocado puede darte detección de Camo desde el principio, y un
 > `Bloonsday Device` puede salvarte de una fuga enorme. Son herramientas muy
 > potentes para asegurar la victoria.
+
 

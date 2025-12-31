@@ -44,6 +44,8 @@ arbeiten und die Physik optimal auszunutzen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drop` `mouse`
 
 - **Zielen & Fallenlassen:** Mit Maus oder Touch die Drop‑Position wählen und
   auslösen; manche Level erlauben leichte Schubser/Nudges.
@@ -68,3 +70,4 @@ arbeiten und die Physik optimal auszunutzen.
   **A:** Nur wenige Level verlangen exaktes Timing; meist ist eine gute
   Planung und das Erkennen der richtigen Schwachstelle wichtiger als
   Millisekunden‑Präzision.
+

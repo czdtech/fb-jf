@@ -47,6 +47,8 @@ BTD5 では以下の要素が追加・強化されています。
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `click` `tap` `Click` `Click`
 
 操作はシリーズ伝統のポイント＆クリック（タップ）方式です。
 
@@ -77,5 +79,6 @@ BTD5 では以下の要素が追加・強化されています。
 <!-- i18n:faq:id=faq:bloons-td-5:are-special-agents-worth-it-5a39ac6f -->
 **5. Special Agents は買う価値がありますか？**  
 > あります。`Meerkat Spy` のように序盤の迷彩検知を補ってくれるものや、`Bloonsday Device` のように大量リークを回避できる切り札など、難関マップで大いに役立ちます。
+
 
 

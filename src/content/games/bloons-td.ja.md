@@ -42,6 +42,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ## 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `Drag` `Click` `click` `Click`
 
 Bloons TD はマウスまたはタッチ操作だけで完結するシンプルなインターフェースを採用しています。
 
@@ -73,4 +75,5 @@ Bloons TD はマウスまたはタッチ操作だけで完結するシンプル�
 <!-- i18n:faq:id=faq:bloons-td:how-do-i-make-more-29f9db80 -->
 **4. どうやってお金を増やす？**  
 > 基本収入は Bloon を割ったときの報酬です。さらに稼ぎたい場合は Banana Farm を建ててアップグレードしたり、Monkey Buccaneer や Alchemist の金策ルートを活用しましょう。
+
 

@@ -49,6 +49,8 @@ Les énigmes sont construites autour de tuiles et d’interrupteurs spéciaux 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `arrow keys` `Spacebar`
 
 Le jeu se contrôle uniquement au clavier :
 
@@ -76,4 +78,5 @@ Le jeu se contrôle uniquement au clavier :
 <!-- i18n:faq:id=faq:bloxorz:how-can-i-return-to-46010fe6 -->
 **4. Comment revenir à un niveau déjà atteint ?**  
 > Après chaque niveau, un code à 6 chiffres est affiché. Entre ce code dans le menu principal pour recommencer directement à ce niveau.
+
 

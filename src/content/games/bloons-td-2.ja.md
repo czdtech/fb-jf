@@ -52,6 +52,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `click` `Click` `mouse` `click` `Click` `Click`
 
 本作は Flash 時代らしいポイント＆クリック操作です。
 
@@ -82,4 +84,5 @@ locale: ja
 <!-- i18n:faq:id=faq:bloons-td-2:how-do-i-make-extra-07b6fc14 -->
 **5. お金を増やす方法は？**
 > Bloons TD 2 ではブルーンを割る以外に収入源はありません。後続作にあるバナナファーム等は未搭載なので、ミスショットを減らして効率よく資金を稼ぎましょう。
+
 

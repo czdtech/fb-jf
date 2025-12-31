@@ -32,6 +32,8 @@ Blockbuster Puzzle te met au défi de placer les formes qui arrivent pour décle
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `drop`
 
 - Glisse‑dépose les pièces ; fais‑les pivoter si la version le permet.
 - Annuler/Réinitialiser peut te sauver d’un placement trop gourmand.
@@ -53,4 +55,5 @@ A: Non, mais ça aide. Si la rotation est limitée, mise sur la symétrie et gar
 - Q: Dois‑je poser les grosses formes en premier ou en dernier ?
 
 A: Quand la grille est serrée, pose d’abord la forme la plus difficile. Quand elle est ouverte, place pour préparer des setups multi‑lignes.
+
 

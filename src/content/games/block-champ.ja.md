@@ -41,6 +41,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `drag` `drop` `mouse` `Click` `hold` `tap` `hold` `Drag` `mouse` `drop`
 
 マウスやタッチパネルに適した、非常にシンプルなドラッグ＆ドロップ操作です。
 
@@ -68,4 +70,5 @@ locale: ja
 <!-- i18n:faq:id=faq:block-champ:why-did-the-game-end-c2ae1a32 -->
 **4. スペースが残っているのにゲームオーバーになるのはなぜですか？**  
 > 条件は「手元の3つのピースいずれも置ける場所がない」ことです。見た目に空きがあっても、形が合わなければ即ゲームオーバーになります。
+
 

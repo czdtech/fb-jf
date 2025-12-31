@@ -33,6 +33,8 @@ Brain Trainerにはいくつかの種類のミニゲームが含まれていま�
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `Click`
 
 操作はシンプルで、マウスまたはタップのみで行います。
 
@@ -52,4 +54,5 @@ Brain Trainerにはいくつかの種類のミニゲームが含まれていま�
 <!-- i18n:faq:id=faq:brain-trainer:q-how-can-i-improve-1e0919f0 -->
 - **Q: どうすればスコアが伸びますか？**  
     - **A:** 継続的なプレイが一番の近道。問題パターンに慣れるほど処理速度と精度が自然に向上します。  
+
 

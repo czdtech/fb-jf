@@ -50,6 +50,8 @@ BTD5 erweitert das Universum unter anderem um:
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `click` `tap` `Click` `Click`
 
 Das Interface funktioniert klassisch per Maus oder Touch.
 
@@ -80,3 +82,4 @@ Das Interface funktioniert klassisch per Maus oder Touch.
 <!-- i18n:faq:id=faq:bloons-td-5:are-special-agents-worth-it-5a39ac6f -->
 **5. Lohnt sich der Einsatz von Special Agents?**  
 > Ja. Ein `Meerkat Spy` liefert z. B. frühe Tarnsicht, ein `Bloonsday Device` rettet dich vor großen Leaks – ideal für schwere Karten oder Einsteiger.
+

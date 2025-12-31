@@ -43,6 +43,8 @@ Um hohe Punktzahlen zu erzielen, brauchst du Vorausplanung und sehr sorgfältige
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `mouse` `Click` `hold` `tap` `hold` `Drag` `mouse` `drop`
 
 Block Champ nutzt eine sehr einfache Drag‑and‑Drop‑Steuerung, die mit Maus und Touch gleich gut funktioniert.
 
@@ -70,4 +72,5 @@ Block Champ nutzt eine sehr einfache Drag‑and‑Drop‑Steuerung, die mit Maus
 <!-- i18n:faq:id=faq:block-champ:why-did-the-game-end-c2ae1a32 -->
 **4. Warum ist das Spiel vorbei, obwohl noch viel Platz ist?**  
 > Die Partie endet, sobald keine der drei aktuellen Formen mehr ins Raster passt. Selbst mit sichtbaren Lücken ist Schluss, wenn ihre Formen nicht zu den freien Bereichen passen.
+
 

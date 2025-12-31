@@ -44,6 +44,8 @@ ungünstige Teilekombination erscheint.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `drop`
 
 - **Teile setzen:** Ziehe die Blöcke per Drag‑and‑Drop an ihre Position; je
   nach Version kannst du sie vor dem Platzieren drehen.
@@ -68,3 +70,4 @@ ungünstige Teilekombination erscheint.
 - **F: Sollte ich große Teile zuerst oder zuletzt spielen?**  
   **A:** Wird das Feld eng, setze zuerst das schwierigste Teil. Wenn du viel
   Platz hast, nutze große Teile, um gezielt Mehrfach‑Clears vorzubereiten.
+

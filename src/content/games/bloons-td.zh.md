@@ -67,6 +67,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ## 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `mouse` `Drag` `Click` `click` `Click`
 
 系列大多采用鼠标或触屏操作，逻辑一致：
 
@@ -100,4 +102,5 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:bloons-td:how-do-i-make-more-29f9db80 -->
 **4. 怎么让钱变多？**  
 基础收入来自戳破气球，若想获得显着经济优势，需要建造并升级 Banana Farm 等经济塔，也可以利用部分塔的“生钱”路线。  
+
 

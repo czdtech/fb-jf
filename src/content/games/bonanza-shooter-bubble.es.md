@@ -41,6 +41,8 @@ quedan en pantalla y planificar con qué burbuja vas a disparar a continuación.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `click` `tap`
 
 - Apunta con ratón o pantalla táctil y haz clic o toca para disparar; en algunos
   modos podrás intercambiar la burbuja actual con la siguiente.
@@ -67,3 +69,4 @@ quedan en pantalla y planificar con qué burbuja vas a disparar a continuación.
 
   R: Las estrellas suelen ser objetivos opcionales, pero ayudan a desbloquear
   niveles extra; intenta conseguirlas cuando no comprometan tu partida.
+

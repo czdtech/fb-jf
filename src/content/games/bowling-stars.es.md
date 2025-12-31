@@ -41,6 +41,8 @@ adáptate al comportamiento de la pista para encadenar tiradas perfectas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `Hold` `Drag`
 
 - **Apuntar:** Arrastra a izquierda/derecha para fijar la línea.
 - **Potencia:** Mantén pulsado y suelta para definir la velocidad.
@@ -64,4 +66,5 @@ adáptate al comportamiento de la pista para encadenar tiradas perfectas.
 - **¿Por qué a veces pego demasiado flojo o demasiado fuerte?**
   Ajusta poco a poco tu posición inicial o la intensidad del hook en lugar de
   hacer cambios grandes entre tiros.
+
 

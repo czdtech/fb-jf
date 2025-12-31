@@ -34,6 +34,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `mouse` `Click`
 
 所有项目都以鼠标点击或触控为主，操作成本极低。
 
@@ -53,3 +55,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:brain-trainer:q-how-can-i-improve-1e0919f0 -->
 - **Q：哪些人适合玩？**  
     - **A：** 规则简单，学生、上班族、长者都能上手。难度主要来自时间限制和持续作答，对不同年龄段都具挑战。  
+

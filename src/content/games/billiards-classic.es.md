@@ -46,6 +46,8 @@ buena forma de disfrutar de este clásico de bar.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `drag` `mouse`
 
 *   **Apuntar:** Mueve el ratón para orientar el taco.
 *   **Potencia:** Haz clic y arrastra el medidor de fuerza para ajustar la
@@ -71,4 +73,5 @@ buena forma de disfrutar de este clásico de bar.
 *   **P: ¿Cómo sé qué bolas son mías?**
 
     *   **R:** La mesa sigue “abierta” hasta que alguien emboca la primera bola legal. Si metes una lisa, te quedas con las lisas; si metes una rayada, serás rayadas.
+
 

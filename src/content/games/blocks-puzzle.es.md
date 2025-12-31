@@ -49,6 +49,8 @@ puedes pensar cada jugada con calma para alcanzar la máxima puntuación.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `Drop` `mouse` `click` `drag` `mouse`
 
 *   **Arrastrar y soltar:** Usa el ratón para hacer clic y arrastrar un bloque
     desde el área de selección hasta la cuadrícula.
@@ -76,4 +78,5 @@ puedes pensar cada jugada con calma para alcanzar la máxima puntuación.
     *   **R:** La partida termina cuando ninguna de las tres piezas disponibles
         puede colocarse en la cuadrícula. En ese momento se registra tu
         puntuación final.
+
 

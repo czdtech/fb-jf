@@ -51,6 +51,8 @@ Autre innovation majeure : le **système de rang de joueur**. En accumulant de 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `click` `Click` `Click` `Click` `spacebar` `Click` `click`
 
 L’interface reste du pur point‑and‑click :
 
@@ -81,3 +83,4 @@ L’interface reste du pur point‑and‑click :
 <!-- i18n:faq:id=faq:bloons-td-4:what-is-apopalypse-mode-eb2eb7e1 -->
 **5. Qu’est-ce que le mode Apopalypse ?**  
 > Un mode spécial où les Bloons arrivent sans pause ni bonus de fin de manche ; tes revenus viennent uniquement des Bloons détruits, ce qui rend la partie très exigeante.
+

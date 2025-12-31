@@ -38,6 +38,8 @@ entspannten, aber fordernden Billard‑Simulation.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `drag` `mouse`
 
 *   **Zielen:** Bewege die Maus, um den Queue auszurichten.
 *   **Kraft wählen:** Ziehe am Power‑Regler, um die Stoßstärke festzulegen.
@@ -61,4 +63,5 @@ entspannten, aber fordernden Billard‑Simulation.
 *   **F: Wie weiß ich, ob ich Volle oder Halbe spiele?**
 
     *   **A:** Die erste legal gelochte Kugel nach dem Break legt die Gruppe fest – lochst du eine Volle, gehören dir die Volle; bei einer Halben spielst du Halbe.
+
 

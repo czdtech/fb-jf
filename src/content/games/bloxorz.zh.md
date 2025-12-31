@@ -58,6 +58,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `arrow keys` `Spacebar`
 
 游戏完全通过键盘操作：
 
@@ -85,3 +87,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:bloxorz:how-can-i-return-to-46010fe6 -->
 **4. 想重玩已经到过的关卡怎么办？**  
 每一关通关后都会给出一个 6 位关卡代码，在主菜单输入该代码即可从对应关卡开始，不必从第一关重新打起。  
+

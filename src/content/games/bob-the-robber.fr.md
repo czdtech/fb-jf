@@ -36,6 +36,8 @@ Chaque niveau regorge de systèmes de sécurité : gardes en rondes, caméras,
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Arrow Keys` `Spacebar`
 
 Les commandes restent simples et identiques d’un épisode à l’autre.
 
@@ -67,4 +69,5 @@ Les commandes restent simples et identiques d’un épisode à l’autre.
 <!-- i18n:faq:id=faq:bob-the-robber:is-it-better-to-knock-522a4adb -->
 **Q : Mieux vaut neutraliser les gardes ou les contourner ?**  
 **R :** La discrétion reste l’approche la plus sûre. Assomme seulement si tu dois créer une ouverture et que la zone est vraiment dégagée.
+
 

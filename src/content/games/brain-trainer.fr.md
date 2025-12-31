@@ -42,6 +42,8 @@ Le jeu alterne plusieurs catégories; voici quelques exemples emblématiques :
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click`
 
 Les commandes sont uniformes : tout se joue à la souris ou au tactile.
 
@@ -61,4 +63,5 @@ Les commandes sont uniformes : tout se joue à la souris ou au tactile.
 <!-- i18n:faq:id=faq:brain-trainer:q-how-can-i-improve-1e0919f0 -->
 - **Comment progresser ?**  
     - **R :** En revenant régulièrement. Plus tu répètes un type de casse-tête, plus il devient naturel et rapide.  
+
 

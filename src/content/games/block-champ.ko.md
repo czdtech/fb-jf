@@ -40,6 +40,8 @@ Block Champ는 10×10 격자 위에서 진행되는 전략 블록 퍼즐 게임�
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `drag` `drop` `mouse` `Click` `hold` `tap` `hold` `Drag` `mouse` `drop`
 
 마우스와 터치를 모두 지원하는 직관적인 드래그 앤드 드롭 방식입니다.
 
@@ -67,4 +69,5 @@ Block Champ는 10×10 격자 위에서 진행되는 전략 블록 퍼즐 게임�
 <!-- i18n:faq:id=faq:block-champ:why-did-the-game-end-c2ae1a32 -->
 **4. 보드에 공간이 남았는데 게임이 끝나는 이유는 무엇인가요?**  
 > 현재 보유 중인 세 블록 중 어떤 것도 배치할 수 없으면 패배 조건이 충족됩니다. 겉보기에는 빈칸이 있어 보여도, 모양이 맞지 않으면 게임이 종료됩니다.
+
 

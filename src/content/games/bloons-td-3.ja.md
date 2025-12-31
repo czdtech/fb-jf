@@ -46,6 +46,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `click` `Click` `click` `Click` `Click` `spacebar`
 
 このゲームは直感的なポイント＆クリック操作で完結します。
 -   **タワー選択＆設置:** 右側パネルでタワーをクリックし、マップ上の有効な位置をクリックして設置。
@@ -77,4 +79,5 @@ locale: ja
 <!-- i18n:faq:id=faq:bloons-td-3:whats-the-difference-between-b-86ceeb66 -->
 **5. 黒いブルーンと白いブルーンの違いは？**  
 > Black Bloon は爆発無効、White Bloon は凍結無効です。飛び道具系タワーで対応しましょう。  
+
 

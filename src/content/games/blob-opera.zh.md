@@ -59,6 +59,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `mouse` `Click` `Drag` `Click` `Drag` `Click` `Click`
 
 界面完全为鼠标或触屏操作设计，非常直观：
 
@@ -87,5 +89,6 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:blob-opera:how-do-i-save-my-af5e6d66 -->
 **4. 我怎么保存自己创作的作品？**  
 网页本身不会直接导出 MP3 之类的音频文件，但你可以使用内置录制与分享功能生成一个链接，任何人点击它都可以在网页中重播你的表演。若需要视频或音频文件，可以配合屏幕录制软件自行保存。
+
 
 

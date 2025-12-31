@@ -54,6 +54,8 @@ Das Spiel läuft über 50 immer schwierigere Runden. Jeder zerplatzte Bloon brin
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `click` `Click` `mouse` `click` `Click` `Click`
 
 Die Steuerung ist klassisches Point‑and‑Click:
 
@@ -84,4 +86,5 @@ Die Steuerung ist klassisches Point‑and‑Click:
 <!-- i18n:faq:id=faq:bloons-td-2:how-do-i-make-extra-07b6fc14 -->
 **5. Wie verdiene ich mehr Geld?**  
 > Geld erhältst du ausschließlich durch geplatzte Bloons – Banana Farms oder andere Einkommensquellen gibt es noch nicht.
+
 

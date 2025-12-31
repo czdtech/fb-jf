@@ -46,6 +46,8 @@ La principale révolution vient des **trois chemins d’amélioration** disponib
 
 <!-- i18n:section:controls -->
 ### Guide des commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Tap` `click` `Click`
 
 Les contrôles restent simples sur PC (souris) comme sur mobile (tactile), mais la 3D impose de surveiller la ligne de vue.
 
@@ -76,3 +78,4 @@ Il faut avoir les trois tours Tier 5 d’un même singe sur le terrain. L’un d
 <!-- i18n:faq:id=faq:bloons-td-6:what-is-chimps-mode-3b6712c1 -->
 **5. Qu’est-ce que le mode CHIMPS ?**  
 C’est le défi ultime : pas de Continues, pas de vies perdues, pas de revenus bonus, pas de Monkey Knowledge, pas de Powers et pas de Selling. Seule une stratégie parfaite te mènera à la victoire.
+

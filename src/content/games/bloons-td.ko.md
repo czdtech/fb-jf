@@ -93,6 +93,8 @@ Bloons TD는 매우 인기가 높은 타워 디펜스 게임 시리즈입니다.
 
 <!-- i18n:section:controls -->
 ## 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `mouse` `Drag` `Click` `click` `Click`
 
 게임 조작은 마우스 또는 터치스크린으로 대부분 해결되는 직관적인 방식입니다.
 
@@ -143,3 +145,4 @@ Bloons TD는 매우 인기가 높은 타워 디펜스 게임 시리즈입니다.
 > Banana Farm을 건설하고 업그레이드하는 것이 가장 확실한 방법입니다. 이 밖에도
 > Alchemist나 Monkey Buccaneer처럼 특정 업그레이드를 통해 추가 수익을
 > 만들어 내는 타워들도 존재합니다.
+

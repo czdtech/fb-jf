@@ -44,6 +44,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Drag` `Drop` `mouse` `click` `drag` `mouse`
 
 -   **拖拽选择：** 使用鼠标按住底部区域的方块，将其拖到棋盘上。  
 -   **确认落点：** 拖到高亮区域后松开，即可将方块固定在该位置。  
@@ -61,3 +63,4 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:blocks-puzzle:q-what-happens-when-i-e8e69d77 -->
 -   **问：没有位置可以放新方块时会发生什么？**  
     -   **答：** 当当前三块方块中没有任何一块能够放入棋盘时，这一局立即结束，并记录最终得分。
+

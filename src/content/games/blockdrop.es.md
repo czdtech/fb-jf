@@ -49,6 +49,8 @@ no se llene.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `mouse` `drag` `drop` `space`
 
 El juego utiliza un esquema de control sencillo de arrastrar y soltar.
 
@@ -77,4 +79,5 @@ El juego utiliza un esquema de control sencillo de arrastrar y soltar.
         partida y, sobre todo, prepara el terreno para limpiar dos, tres o
         incluso cuatro líneas con una sola pieza y conseguir enormes bonificaciones
         de combo.
+
 

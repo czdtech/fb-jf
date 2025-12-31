@@ -38,6 +38,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `click` `tap`
 
 - Vise en déplaçant la souris ou ton doigt, puis clique/tape pour tirer.  
 - Échange la bulle active avec la suivante si le mode le permet.  
@@ -57,4 +59,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:bonanza-shooter-bubble:do-i-need-to-collect-b99d43db -->
 - **Q : Dois‑je absolument récupérer toutes les étoiles ?**  
   **R :** Les étoiles sont des objectifs secondaires. Elles servent à débloquer des niveaux bonus ; poursuis-les quand la situation est stable, pas si tu risques de perdre la partie.
+
 

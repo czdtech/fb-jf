@@ -66,6 +66,8 @@ música interesante.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `Drag` `Click` `Drag` `Click` `Click`
 
 Los controles son muy simples e intuitivos, pensados para ratón o pantalla
 táctil.
@@ -112,4 +114,5 @@ táctil.
 > compartir para crear un enlace único que reproduzca tu interpretación para
 > cualquiera que haga clic. También puedes utilizar un programa externo de
 > grabación de pantalla para capturarla como vídeo.
+
 

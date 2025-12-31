@@ -39,6 +39,8 @@ Pour viser le haut du classement, il faut anticiper plusieurs coups à l’avanc
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag` `drop` `mouse` `Click` `hold` `tap` `hold` `Drag` `mouse` `drop`
 
 Le gameplay repose sur un glisser-déposer très simple, compatible souris et tactile.
 
@@ -66,4 +68,5 @@ Le gameplay repose sur un glisser-déposer très simple, compatible souris et ta
 <!-- i18n:faq:id=faq:block-champ:why-did-the-game-end-c2ae1a32 -->
 **4. Pourquoi la partie se termine alors qu’il reste de la place ?**  
 > La partie s’arrête dès qu’aucune des trois pièces proposées ne peut entrer sur la grille. Même avec des trous visibles, si aucune forme n’y rentre, c’est game over.
+
 

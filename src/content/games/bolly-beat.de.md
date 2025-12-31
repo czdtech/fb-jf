@@ -43,6 +43,8 @@ Multiplikatoren und anspruchsvollere Muster frei.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `Click` `Tap`
 
 - **Tippen/Klicken:** Tippe oder klicke, wenn Noten die Trefferzone erreichen;
   je nach Track können auch Halte‑Noten oder Wischbewegungen vorkommen.
@@ -66,3 +68,4 @@ Multiplikatoren und anspruchsvollere Muster frei.
 - **F: Wie steigere ich meine Punktzahl?**  
   **A:** Halte lange Kombos, vermeide "Miss"‑Treffer und ziele auf möglichst
   viele "Perfects", um den Multiplikator hochzutreiben.
+

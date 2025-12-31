@@ -45,6 +45,8 @@ Ziel jeder Partie ist es, alle Runden eines Schwierigkeitsgrads zu überleben, o
 
 <!-- i18n:section:controls -->
 ## Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Drag` `Click` `click` `Click`
 
 Bloons TD lässt sich komplett mit Maus oder Touch bedienen.
 
@@ -76,3 +78,4 @@ Bloons TD lässt sich komplett mit Maus oder Touch bedienen.
 <!-- i18n:faq:id=faq:bloons-td:how-do-i-make-more-29f9db80 -->
 **4. Wie verdiene ich mehr Geld?**  
 > Standardmäßig durch das Platzenlassen von Bloons. Für deutlich mehr Einkommen baust und verbesserst du Banana Farms oder nutzt spezielle Geld‑Upgrades (z. B. Monkey Buccaneer, Alchemist).  
+

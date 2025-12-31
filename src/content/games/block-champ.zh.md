@@ -42,6 +42,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `drag` `drop` `mouse` `Click` `hold` `tap` `hold` `Drag` `mouse` `drop`
 
 本作采用非常直观的拖拽式操作，适合鼠标和触控设备：
 
@@ -69,3 +71,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:faq:id=faq:block-champ:why-did-the-game-end-c2ae1a32 -->
 **4. 为什么明明棋盘还有不少空位，游戏却结束了？**  
 游戏结束条件不是“棋盘塞满”，而是“当前三块拼图**都找不到可放位置**”。哪怕棋盘看起来还有很多空格，如果这些空格的形状组合容纳不了任意一块，你依然会直接 Game Over。
+

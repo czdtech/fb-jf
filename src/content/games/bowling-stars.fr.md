@@ -38,6 +38,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `Hold` `Drag`
 
 - Déplacement de la ligne : fais glisser à gauche/droite.  
 - Puissance : maintiens puis relâche pour lancer.  
@@ -57,3 +59,4 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:bowling-stars:why-do-i-miss-lightheavy-a1826eba -->
 - **Q : Pourquoi certaines boules partent trop léger ou trop fort ?**  
   **R :** Ajuste légèrement ta position de départ ou la quantité d’effet. Un petit changement de vitesse/ligne suffit souvent à corriger les lancers trop « light » ou trop « heavy ».
+

@@ -35,6 +35,8 @@ Dans *Blocks Puzzle*, tu dois placer des formes sur une grille 10×10 pour forme
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `Drop` `mouse` `click` `drag` `mouse`
 
 Le jeu utilise un simple glisser-déposer.
 
@@ -54,4 +56,5 @@ Le jeu utilise un simple glisser-déposer.
 <!-- i18n:faq:id=faq:blocks-puzzle:q-what-happens-when-i-e8e69d77 -->
 -   **Q : Que se passe‑t‑il quand je n’ai plus de place ?**
     -   **R :** Si aucune des trois pièces ne peut être posée, la partie s’arrête et ton score est enregistré.
+
 

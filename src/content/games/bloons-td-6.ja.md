@@ -49,6 +49,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `Tap` `click` `Click`
 
 PC（マウス）でもモバイル（タップ）でも直感的に遊べますが、3D の視線遮蔽物に注意が必要です。
 
@@ -79,4 +81,5 @@ DDT は迷彩・鉛・ブラック特性と高速移動を併せ持ちます。*
 <!-- i18n:faq:id=faq:bloons-td-6:what-is-chimps-mode-3b6712c1 -->
 **5. CHIMPS モードとは？**  
 BTD6 最高難度のモードです。**C**ontinues なし、**H**earts Lost なし、**I**ncome なし（ポップ収入のみ）、**M**onkey Knowledge なし、**P**owers なし、**S**elling なしという制約下で勝利しなければならず、純粋な戦略と操作が試されます。
+
 

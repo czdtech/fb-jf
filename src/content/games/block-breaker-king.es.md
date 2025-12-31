@@ -65,6 +65,8 @@ progresión por niveles con objetivos específicos en cada fase.
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `hold` `drag` `tap`
 
 El juego está pensado para un manejo sencillo con un solo toque en móviles.
 
@@ -107,4 +109,5 @@ Las puntuaciones altas se consiguen:
 *   **Usando bloques especiales:** Algunos niveles incluyen bloques especiales
     (como la bomba que aparece en una de las capturas) que limpian una zona más
     amplia cuando completas su línea.
+
 

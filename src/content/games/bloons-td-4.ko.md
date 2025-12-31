@@ -103,6 +103,8 @@ Bloons TD 4는 Bloons Tower Defense 시리즈가 한 단계 도약하는 전환�
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `click` `Click` `Click` `Click` `spacebar` `Click` `click`
 
 조작 방식은 클래식한 포인트 앤 클릭 인터페이스입니다.
 
@@ -153,3 +155,4 @@ Bloons TD 4는 Bloons Tower Defense 시리즈가 한 단계 도약하는 전환�
 > Apopalypse는 라운드 구분 없이 블룬이 끊임없이 이어져 나오는 특수 모드입니다.
 > 라운드 종료 보너스 돈이 없고, 블룬을 터뜨려서 얻는 돈만으로 버텨야 하기
 > 때문에 난이도가 매우 높은 편입니다.
+

@@ -43,6 +43,8 @@ más exigentes.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `Click` `Tap`
 
 - Toca/haz clic en los indicadores: Pulsa cuando las notas llegan a la zona de
   impacto; algunas canciones pueden incluir notas mantenidas o deslizamientos.
@@ -66,4 +68,5 @@ más exigentes.
 - **¿Cómo subo la puntuación?**
   Mantén combos largos y busca siempre la máxima precisión "Perfect" para
   aumentar el multiplicador de puntos.
+
 

@@ -51,6 +51,8 @@ Jeder Turm besitzt jetzt **drei** Upgrade‑Pfade. Du darfst einen Pfad bis Tier
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Tap` `click` `Click`
 
 Die Bedienung ist auf PC (Maus) wie auch auf Touch‑Geräten intuitiv, erfordert aber wegen der 3D‑Sichtlinien etwas mehr Aufmerksamkeit.
 
@@ -81,3 +83,4 @@ Platziere alle drei Tier‑5‑Varianten eines Affentyps gleichzeitig. Dann verw
 <!-- i18n:faq:id=faq:bloons-td-6:what-is-chimps-mode-3b6712c1 -->
 **5. Was bedeutet CHIMPS‑Modus?**  
 Der schwerste Modus: **C**ontinues, **H**earts Lost, **I**ncome, **M**onkey Knowledge, **P**owers und **S**elling – alles ist deaktiviert oder streng limitiert. Nur saubere Strategie bringt dich ins Ziel.
+

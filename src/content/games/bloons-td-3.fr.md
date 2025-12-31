@@ -42,6 +42,8 @@ Le jeu propose plusieurs tracés et trois niveaux de difficulté (Easy, Medium, 
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `click` `Click` `click` `Click` `Click` `spacebar`
 
 Le jeu utilise une interface simple au clic.
 
@@ -74,3 +76,4 @@ Le jeu utilise une interface simple au clic.
 <!-- i18n:faq:id=faq:bloons-td-3:whats-the-difference-between-b-86ceeb66 -->
 **5. Quelle est la différence entre les bloons noirs et blancs ?**  
 > Les bloons noirs sont immunisés aux explosions (les Bomb Towers ne les touchent pas) et les blancs sont immunisés au gel. Utilise des tours comme les Dart Monkeys ou Boomerangs pour t’en débarrasser.
+

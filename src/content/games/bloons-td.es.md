@@ -88,6 +88,8 @@ todas tus vidas.
 
 <!-- i18n:section:controls -->
 ## Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Drag` `Click` `click` `Click`
 
 El juego se controla principalmente con ratón o pantalla táctil, por lo que es
 muy intuitivo.
@@ -140,4 +142,5 @@ muy intuitivo.
 > La fuente principal es reventar Bloons. Si quieres un extra considerable, levanta
 > y mejora Banana Farms. Algunas torres, como el Alchemist o el Monkey Buccaneer,
 > también tienen rutas de mejora que generan dinero.
+
 

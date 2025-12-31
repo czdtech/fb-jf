@@ -46,6 +46,8 @@ BTD5 apporte notamment :
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `click` `tap` `Click` `Click`
 
 Le gameplay reste un pur point‑and‑click.
 
@@ -76,4 +78,5 @@ Le gameplay reste un pur point‑and‑click.
 <!-- i18n:faq:id=faq:bloons-td-5:are-special-agents-worth-it-5a39ac6f -->
 **5. Les Special Agents valent‑ils la peine ?**  
 > Oui. `Meerkat Spy` offre une détection camo précoce et `Bloonsday Device` peut sauver une partie mal engagée, surtout sur les cartes difficiles.
+
 

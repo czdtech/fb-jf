@@ -46,6 +46,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `arrow keys` `Spacebar`
 
 ゲームはすべてキーボードで操作します。
 
@@ -73,5 +75,6 @@ locale: ja
 <!-- i18n:faq:id=faq:bloxorz:how-can-i-return-to-46010fe6 -->
 **4. 以前到達したステージから再開できますか？**  
 > ステージクリア時に表示される 6 桁パスコードをメニュー画面で入力すれば、同じステージからやり直せます。
+
 
 

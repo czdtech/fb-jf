@@ -91,6 +91,8 @@ modos de juego, creando una sensación de progresión constante.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `click` `Click` `Click` `Click` `spacebar` `Click` `click`
 
 La interfaz es el clásico sistema de apuntar y hacer clic.
 
@@ -138,4 +140,5 @@ La interfaz es el clásico sistema de apuntar y hacer clic.
 > Es un modo especial en el que los Bloons llegan en oleadas continuas y
 > solapadas, sin descansos entre rondas. No ganas dinero al final de cada ronda,
 > solo reventando Bloons, así que es un desafío mucho más duro.
+
 

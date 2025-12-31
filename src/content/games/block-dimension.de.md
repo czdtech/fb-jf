@@ -49,6 +49,8 @@ Punkte. Die Partie endet, sobald keiner der aktuell verfügbaren Blöcke mehr au
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `Drop` `mouse` `drag` `mouse`
 
 - **Block ziehen:** Klicke oder tippe auf einen Block im Auswahlbereich und
   ziehe ihn auf das 10×10‑Raster.
@@ -67,4 +69,5 @@ Punkte. Die Partie endet, sobald keiner der aktuell verfügbaren Blöcke mehr au
 <!-- i18n:faq:id=faq:block-dimension:q-what-is-the-best-03413fee -->
 -   **F: Was ist die beste Strategie für hohe Scores?**  
     -   **A:** Spiele auf Mehrfach‑Clears, halte das Brett lange offen und vermeide unnötige Lücken. So stapeln sich Punkte am schnellsten.
+
 

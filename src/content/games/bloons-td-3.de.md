@@ -47,6 +47,8 @@ Der Titel bietet mehrere Strecken und drei Schwierigkeitsgrade (Easy, Medium, Ha
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `click` `Click` `click` `Click` `Click` `spacebar`
 
 Das Spiel nutzt eine einfache Point‑and‑Click‑Steuerung.
 
@@ -79,3 +81,4 @@ Das Spiel nutzt eine einfache Point‑and‑Click‑Steuerung.
 <!-- i18n:faq:id=faq:bloons-td-3:whats-the-difference-between-b-86ceeb66 -->
 **5. Was unterscheidet schwarze und weiße Bloons?**  
 > Schwarze Bloons sind immun gegen Explosionen, weiße lassen sich nicht einfrieren. Setze Dart Monkeys, Boomerangs oder andere neutrale Schadensquellen ein, um sie zu besiegen.
+

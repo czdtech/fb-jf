@@ -93,6 +93,8 @@ especializados para cada torre.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Tap` `click` `Click`
 
 Los controles son intuitivos tanto en PC (ratón) como en móvil (táctil).
 
@@ -144,4 +146,5 @@ Los controles son intuitivos tanto en PC (ratón) como en móvil (táctil).
 > **N**o **C**ontinues, **N**o **H**earts Lost, **N**o **I**ncome extra, **N**o
 > **M**onkey Knowledge, **N**o **P**owers y **N**o **S**elling. Es la prueba
 > definitiva de la estrategia de cualquier jugador.
+
 

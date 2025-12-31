@@ -57,6 +57,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `mouse` `Tap` `click` `Click`
 
 游戏在 PC（鼠标）与移动端（触控）上的操作都非常直观。
 
@@ -87,3 +89,4 @@ Purple 气球对能量、等离子、火焰和绝大部分魔法攻击免疫，�
 <!-- i18n:faq:id=faq:bloons-td-6:what-is-chimps-mode-3b6712c1 -->
 **5. 什么是 CHIMPS 模式？**  
 CHIMPS 是 BTD6 中难度最高的模式，其名称是规则首字母缩写：No Continues、No Hearts Lost、No Income（除戳气球外）、No Monkey Knowledge、No Powers、No Selling——没有续关、不能掉血、没有额外收入、禁止知识树、禁止道具、禁止卖塔，是对整体策略功底的终极考验。  
+

@@ -37,6 +37,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Arrow Keys` `Spacebar`
 
 シリーズを通してほぼ共通のシンプルな操作です。
 
@@ -68,4 +70,5 @@ locale: ja
 <!-- i18n:faq:id=faq:bob-the-robber:is-it-better-to-knock-522a4adb -->
 **Q: 警備員を倒すのと、やり過ごすのはどちらが良い？**  
 > 基本は「やり過ごす」方が安全です。倒すのは通り道を確保するための緊急手段であり、周囲が完全にクリアであると確認できる時だけ実行しましょう。
+
 

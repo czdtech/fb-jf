@@ -39,6 +39,8 @@ Dans *Bombs Drops Physics balls*, tu dois utiliser la gravité et les collisions
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drop` `mouse`
 
 - Positionne ton curseur (ou ton doigt) puis tape/clique pour lâcher une bombe/ball.  
 - Utilise les boutons de reset/undo si disponibles pour retenter un niveau avec un autre angle.
@@ -57,4 +59,5 @@ Dans *Bombs Drops Physics balls*, tu dois utiliser la gravité et les collisions
 <!-- i18n:faq:id=faq:bombs-drops-physics-balls:do-levels-require-perfect-timi-f97050ff -->
 - **Q : Faut‑il un timing parfait ?**  
   **R :** Quelques niveaux demandent des déclenchements précis, mais la majorité privilégie la planification et la compréhension de la physique plus que les réflexes millimétrés.
+
 

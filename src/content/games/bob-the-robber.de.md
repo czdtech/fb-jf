@@ -71,6 +71,8 @@ knackst Schlösser – immer mit dem Ziel, keinen Alarm auszulösen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow Keys` `Spacebar`
 
 Die Steuerung ist simpel und bleibt in fast allen Teilen identisch.
 
@@ -111,4 +113,5 @@ Die Steuerung ist simpel und bleibt in fast allen Teilen identisch.
   **A:** Schleichen ist fast immer sicherer. Ausschalten sollte die Ausnahme
   bleiben, wenn sich sonst kein Fenster öffnet und du sicherstellen kannst,
   dass der Körper unentdeckt bleibt.
+
 

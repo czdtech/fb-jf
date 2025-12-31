@@ -50,6 +50,8 @@ Brain Trainer incluye distintos tipos de minijuegos. Algunos ejemplos:
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click`
 
 Los controles son muy simples y cambian ligeramente según el minijuego, pero
 siempre se basan en clics o toques.
@@ -76,4 +78,5 @@ siempre se basan en clics o toques.
 *   **P: ¿Cómo puedo mejorar mis resultados?**
     *   **R:** Con práctica. Cuanto más juegues, más familiar te volverás con los
         tipos de retos y más rápido y preciso responderás.
+
 

@@ -45,6 +45,8 @@ rellenar.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag`
 
 - Arrastra las piezas sobre la cuadrícula; rota si el juego lo permite tocando
   la pieza o usando un botón de giro.
@@ -84,4 +86,5 @@ rellenar.
 
   A: Úsalo pronto en cuanto notes que una colocación crea cavidades selladas o
   elimina tu último hueco flexible.
+
 

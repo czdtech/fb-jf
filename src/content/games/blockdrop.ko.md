@@ -42,6 +42,8 @@ BlockDrop은 10×10 격자를 사용하는 전통적인 블록 퍼즐 게임입�
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `drag` `drop` `mouse` `drag` `drop` `space`
 
 게임은 매우 직관적인 드래그 앤드 드롭 방식으로 진행됩니다.
 
@@ -59,4 +61,5 @@ BlockDrop은 10×10 격자를 사용하는 전통적인 블록 퍼즐 게임입�
 <!-- i18n:faq:id=faq:blockdrop:q-whats-the-best-way-04ea0c4b -->
 -   **고득점을 위한 팁은?**
     -   **A:** 가능한 한 오래 버티면서 한 조각으로 여러 줄을 지우는 콤보를 꾸준히 만들면 점수가 크게 오릅니다.
+
 

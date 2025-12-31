@@ -49,6 +49,8 @@ combos antes de quedarte sin espacio en el tablero.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `Drop` `mouse` `drag` `mouse`
 
 *   **Arrastrar y soltar:** Usa el ratón para seleccionar un bloque del área de
     reserva y arrástralo hasta la cuadrícula de 10x10.
@@ -76,4 +78,5 @@ combos antes de quedarte sin espacio en el tablero.
         combos te da muchos más puntos que limpiar líneas sueltas. Además,
         intenta mantener la partida activa el máximo tiempo posible sin quedarte
         sin movimientos.
+
 

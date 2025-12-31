@@ -31,6 +31,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `drag` `drop` `mouse` `drag` `drop` `space`
 
 シンプルなドラッグ＆ドロップ操作です。
 
@@ -50,4 +52,5 @@ locale: ja
 <!-- i18n:faq:id=faq:blockdrop:q-whats-the-best-way-04ea0c4b -->
 *   **Q: ハイスコアを出す一番のコツは？**
     *   **A:** スコアには「生存時間」と「コンボ」の2つが関わります。まずは盤面を整理して長く生き残ること。そして何より重要なのは、2列、3列、あるいは4列を一気に消すような配置を作って「コンボボーナス」を稼ぐことです。
+
 

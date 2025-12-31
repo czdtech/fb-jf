@@ -49,6 +49,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `click` `tap` `Click` `Click`
 
 游戏延续了经典的点选 / 触摸界面，操作方式非常直观：
 
@@ -79,3 +81,4 @@ ZOMG 是基础游戏中最坚韧的飞艇，外壳血量极高，被击破后会
 <!-- i18n:faq:id=faq:bloons-td-5:are-special-agents-worth-it-5a39ac6f -->
 **5. Special Agents 值得买吗？**  
 非常值得，尤其在高难度地图或新手阶段。比如 `Meerkat Spy` 可以提供早期 Camo 侦测，而 `Bloonsday Device` 则能在漏大量气球时救你一命。它们是帮助通关的强力辅助工具。  
+

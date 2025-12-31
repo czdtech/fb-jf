@@ -52,6 +52,8 @@ La partie s’étend sur 50 manches à difficulté croissante : chaque bloon éc
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `click` `Click` `mouse` `click` `Click` `Click`
 
 Le jeu se contrôle intégralement à la souris :
 
@@ -82,3 +84,4 @@ Le jeu se contrôle intégralement à la souris :
 <!-- i18n:faq:id=faq:bloons-td-2:how-do-i-make-extra-07b6fc14 -->
 **5. Peut-on gagner de l’argent autrement ?**  
 > Non. Contrairement aux épisodes ultérieurs, seul l’éclatement des bloons rapporte de l’argent dans Bloons TD 2.
+

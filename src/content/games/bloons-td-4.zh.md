@@ -35,17 +35,17 @@ releaseDate: 2025-08-16T00:00:00.000Z
 <!-- i18n:section:how-to-play -->
 ### 游戏策略
 
--   **提前规划好每座塔要走哪条分支：** 由于高阶升级互斥，你不再能“全点满”。要在建塔时就想好其定位：Bomb Tower 是用于眩晕与对 MOAB 加伤，还是用于大范围控制。
+-   **提前规划好每座塔要走哪条分支：** 由于高阶升级互斥,你不再能“全点满”。要在建塔时就想好其定位：Bomb Tower 是用于眩晕与对 MOAB 加伤,还是用于大范围控制。
 -   **重点应对 Camo 与 Lead 气球：**
-    -   **Camo 气球：** 需要具备侦测能力的塔才能攻击。前期可选方案包括 2/2 Dart Monkey、1/x Spike Factory，或配 Signal Flare（x/3）的 Mortar Tower。
-    -   **Lead 气球：** 炸弹塔（2/x）、带 `Glaive Thrower`（x/2）的回旋镖猴，以及 `Ring of Fire` 路线的 Tack Shooter 都能应对。
+    -   **Camo 气球：** 需要具备侦测能力的塔才能攻击。前期可选方案包括 2/2 Dart Monkey、1/x Spike Factory,或配 Signal Flare（x/3）的 Mortar Tower。
+    -   **Lead 气球：** 炸弹塔（2/x）、带 `Glaive Thrower`（x/2）的回旋镖猴,以及 `Ring of Fire` 路线的 Tack Shooter 都能应对。
 -   **值得冲刺的强力升级路线：**
     -   **Super Monkey 2/x：** 终极后期输出。
-    -   **Bomb Tower 2/3：** 对 MOAB/BFB 有额外伤害并附带控制，是后期必备。
+    -   **Bomb Tower 2/3：** 对 MOAB/BFB 有额外伤害并附带控制,是后期必备。
     -   **Tack Shooter 2/4：** 超强范围清屏能力。
     -   **Monkey Glue 2/2：** 高效减速并融解多层陶瓷 / 飞艇外壳。
--   **一定要建立经济：Banana Farm 必不可少：** 在高难度和漫长对局中，尽早建农场并升到 `Banana Republic`（2/x），才能稳定产出金钱，支撑各种昂贵的 4 级升级、Sun God 和 MOAB Mauler 群等组合。
--   **如何击破 BFB：** BFB 首次出现在第 65 波，推荐配置：
+-   **一定要建立经济：Banana Farm 必不可少：** 在高难度和漫长对局中,尽早建农场并升到 `Banana Republic`（2/x）,才能稳定产出金钱,支撑各种昂贵的 4 级升级、Sun God 和 MOAB Mauler 群等组合。
+-   **如何击破 BFB：** BFB 首次出现在第 65 波,推荐配置：
     -   多座 `MOAB Mauler` 集火并提供减速；
     -   一只 `Bloon Dissolver` 把飞艇与内部高阶气球减速、溶解；
     -   至少一只 Sun God 或其它高单点伤害塔作为主输出；
@@ -53,6 +53,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `click` `Click` `Click` `Click` `spacebar` `Click` `click`
 
 游戏界面依旧是经典的点选式操作：
 
@@ -83,3 +85,4 @@ BFB比 MOAB 更耐打，血量更厚，被击破后会爆出 4 架 MOAB，因此
 <!-- i18n:faq:id=faq:bloons-td-4:what-is-apopalypse-mode-eb2eb7e1 -->
 **5. 什么是 Apopalypse 模式？**  
 Apopalypse 是一种特殊模式，气球会连续不断地刷新，没有回合间隙，也没有回合结算金钱，你只能依靠戳破气球获得收入，因此极具挑战性。  
+

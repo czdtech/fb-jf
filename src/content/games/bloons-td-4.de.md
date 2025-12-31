@@ -68,6 +68,8 @@ auf und schaltest neue Türme, Upgrades und Modi frei.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `click` `Click` `Click` `Click` `spacebar` `Click` `click`
 
 Die Bedienung bleibt klassisch point‑and‑click:
 
@@ -103,3 +105,4 @@ Die Bedienung bleibt klassisch point‑and‑click:
 - **F: Was ist Apopalypse‑Mode?**  
   **A:** Ein Modus mit durchgehenden, ineinander übergehenden Wellen ohne
   Pausen; Geld gibt es nur durch Zerplatzen von Bloons, nicht durch Rundenboni.
+

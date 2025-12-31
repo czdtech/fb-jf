@@ -30,6 +30,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag`
 
 - Glisse les formes sur la grille avec la souris ou le doigt.  
 - Selon la version, tu peux faire pivoter les blocs via un bouton ou un tap supplémentaire.  
@@ -62,4 +64,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 -   **Q : Quand dois‑je utiliser l’annulation ?**
 
     A : Dès que tu vois qu’un coup crée une cavité scellée ou supprime ta dernière zone flexible. Reviens en arrière avant d’être totalement bloqué.
+
 

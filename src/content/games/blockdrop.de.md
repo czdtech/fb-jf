@@ -45,6 +45,8 @@ angebotenen Blöcke mehr auf das Brett passt.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag` `drop` `mouse` `drag` `drop` `space`
 
 Das Spiel nutzt ein simples Drag‑and‑Drop‑Schema.
 
@@ -62,4 +64,5 @@ Das Spiel nutzt ein simples Drag‑and‑Drop‑Schema.
 <!-- i18n:faq:id=faq:blockdrop:q-whats-the-best-way-04ea0c4b -->
 -   **F: Wie erreiche ich hohe Punktzahlen?**
     -   **A:** Spiele möglichst lange, halte das Brett sauber und bereite Kombozüge vor, bei denen du mehrere Linien mit einem Block leeren kannst.
+
 

@@ -69,6 +69,8 @@ siempre procurando que nadie te vea.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Arrow Keys` `Spacebar`
 
 Los controles se mantienen bastante consistentes en toda la serie y son muy
 sencillos.
@@ -113,4 +115,5 @@ sencillos.
 > última opción o usarse solo cuando estés seguro de que ningún otro guardia
 > encontrará el cuerpo. Es una herramienta para abrir huecos puntuales, no una
 > estrategia base.
+
 

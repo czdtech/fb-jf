@@ -82,6 +82,8 @@ unidad, a diferencia de los juegos posteriores con ramas exclusivas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `click` `Click` `click` `Click` `Click` `spacebar`
 
 El juego utiliza una interfaz simple de apuntar y hacer clic.
 
@@ -124,4 +126,5 @@ El juego utiliza una interfaz simple de apuntar y hacer clic.
 > Los Black Bloons son inmunes a explosiones (Bomb Towers). Los White Bloons son
 > inmunes al congelamiento (Ice Towers). Necesitas otras torres como Dart
 > Monkeys o Boomerangs para encargarte de ellos.
+
 

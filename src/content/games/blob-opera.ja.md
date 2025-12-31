@@ -33,6 +33,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `Click` `Drag` `Click` `Drag` `Click` `Click`
 
 マウスやタッチ操作で直感的に遊べます。
 
@@ -65,4 +67,5 @@ locale: ja
 **Q: 作った曲を保存できますか？**
 
 > MP3として直接保存はできませんが、録音＆共有機能で再生リンクを作成できます。外部ツールで画面録画すれば動画にもできます。
+
 

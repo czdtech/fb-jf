@@ -87,6 +87,8 @@ específicas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `click` `Click` `mouse` `click` `Click` `Click`
 
 Los controles son los sencillos de apuntar y hacer clic, típicos de los juegos
 Flash de su época.
@@ -131,4 +133,5 @@ Flash de su época.
 > En Bloons TD 2 la única forma de ganar dinero es reventando Bloons. A
 > diferencia de entregas posteriores de la saga, aquí no hay Banana Farms ni
 > otras habilidades para generar ingresos adicionales.
+
 

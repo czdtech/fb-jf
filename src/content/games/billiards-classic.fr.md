@@ -32,6 +32,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `drag` `mouse`
 
 *   **Viser :** déplace la souris pour orienter la queue.
 *   **Puissance :** clique et fais glisser la jauge de force pour régler l’intensité.
@@ -55,3 +57,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 *   **Q : Comment savoir si je joue les pleines ou les rayées ?**
 
     *   **R :** La table reste ouverte jusqu’à la première bille légale empochée. La couleur de cette bille détermine ton groupe pour la suite.
+

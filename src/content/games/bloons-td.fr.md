@@ -43,6 +43,8 @@ L’objectif est de survivre à toutes les manches d’une carte et d’un nivea
 
 <!-- i18n:section:controls -->
 ## Guide des commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Drag` `Click` `click` `Click`
 
 Bloons TD se joue principalement à la souris ou au tactile, ce qui le rend très intuitif.
 
@@ -74,4 +76,5 @@ Bloons TD se joue principalement à la souris ou au tactile, ce qui le rend trè
 <!-- i18n:faq:id=faq:bloons-td:how-do-i-make-more-29f9db80 -->
 **4. Comment gagner plus d’argent ?**  
 > La plupart des revenus proviennent des Bloons éclatés. Pour booster sérieusement ton économie, construis et améliore des Banana Farms, ou utilise les quelques upgrades génératrices d’argent (Monkey Buccaneer, Alchemist, etc.).  
+
 

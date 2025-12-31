@@ -33,6 +33,8 @@ Selon la version, le mode « Mission » ajoute des objectifs (briques à détr
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `hold` `drag` `tap`
 
 Le gameplay est pensé pour un contrôle tactile ou à la souris.
 
@@ -65,4 +67,5 @@ Les scores montent plus vite en :
 *   enchaînant les briques sans perdre la balle
 *   récupérant les bonus utiles (multi‑balles, puissance, etc.) quand ils apparaissent
 *   terminant rapidement les niveaux si un bonus de temps existe
+
 

@@ -45,6 +45,8 @@ Brain Trainer bietet mehrere Kategorien von Mini-Spielen; typische Beispiele:
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click`
 
 Die Bedienung bleibt in allen Mini‑Games simpel und erfolgt per Maus oder Touch.
 
@@ -64,4 +66,5 @@ Die Bedienung bleibt in allen Mini‑Games simpel und erfolgt per Maus oder Touc
 <!-- i18n:faq:id=faq:brain-trainer:q-how-can-i-improve-1e0919f0 -->
 - **F: Wie verbessere ich mich am besten?**  
     - **A:** Regelmäßiges Spielen ist der Schlüssel. Je besser du die Aufgabentypen kennst, desto schneller und sicherer reagierst du.  
+
 

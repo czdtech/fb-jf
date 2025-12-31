@@ -41,6 +41,8 @@ hohe Punktzahlen – je besser du Anlauf und Abgabepunkt reproduzieren kannst,
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `Hold` `Drag`
 
 - **Zielen:** Links/rechts ziehen, um die Linie einzustellen.
 - **Kraft:** Halten/Loslassen, um die Geschwindigkeit zu bestimmen.
@@ -64,3 +66,4 @@ hohe Punktzahlen – je besser du Anlauf und Abgabepunkt reproduzieren kannst,
 - **F: Warum gehe ich oft zu leicht oder zu voll auf die Tasche?**  
   **A:** Passe pro Frame nur eine Variable leicht an (Startposition ODER Hook),
   statt beides gleichzeitig stark zu verändern.
+

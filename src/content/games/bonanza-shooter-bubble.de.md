@@ -42,6 +42,8 @@ räumen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `click` `tap`
 
 - **Zielen & Schießen:** Mit Maus oder Touch zielen und tippen/klicken, um die
   Blase abzufeuern; je nach Modus kannst du die nächste Kugel tauschen.
@@ -65,3 +67,4 @@ räumen.
 - **F: Muss ich Sterne sammeln?**  
   **A:** Sterne sind meist optionale Ziele, die weitere Level freischalten –
   jage sie nur, wenn du deine Position dadurch nicht riskierst.
+

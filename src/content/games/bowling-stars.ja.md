@@ -30,6 +30,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Drag` `Hold` `Drag`
 
 *   **狙い：** 左右にドラッグして投げるラインを決めます。
 *   **パワー：** ホールド（長押し）してから離すことでスピードを決定します。
@@ -49,4 +51,5 @@ locale: ja
 <!-- i18n:faq:id=faq:bowling-stars:why-do-i-miss-lightheavy-a1826eba -->
 *   **Q: なぜ狙った場所より右や左にズレるのですか？**
     *   **A:** 立ち位置を微調整するか、フックの強さを少しずつ変えてみてください。
+
 

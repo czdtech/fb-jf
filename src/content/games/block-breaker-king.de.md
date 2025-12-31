@@ -37,6 +37,8 @@ Viele Versionen besitzen einen Missionsmodus mit klaren Zielen („räum 10 Lini
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `hold` `drag` `tap`
 
 Das Spiel ist auf eine einfache Touch- bzw. Maussteuerung ausgelegt.
 
@@ -69,4 +71,5 @@ Hohe Punktzahlen erzielst du, indem du…
 *   Doppel‑/Dreifachlinien vorbereitest
 *   viele Züge überlebst und entsprechend mehr Blöcke platzierst
 *   Spezialblöcke (Bomben usw.) nutzt, sobald sie auftauchen
+
 

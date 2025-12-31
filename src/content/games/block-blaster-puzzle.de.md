@@ -46,6 +46,8 @@ bauen, die sich nicht mehr füllen lassen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag`
 
 - **Formen setzen:** Ziehe die verfügbaren Blöcke per Maus oder Touch auf das
   Raster; je nach Version kannst du sie per Tippen oder Button drehen.
@@ -81,3 +83,4 @@ bauen, die sich nicht mehr füllen lassen.
 - **F: Wann sollte ich Undo benutzen?**  
   **A:** Möglichst früh, wenn du merkst, dass eine Platzierung geschlossene
   Hohlräume erzeugt oder deine letzten flexiblen Lücken zunagelt.
+

@@ -38,6 +38,8 @@ releaseDate: 2025-10-18T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `Click` `Tap`
 
 - Clique/tape sur les cibles quand les notes atteignent la zone de frappe.  
 - Certaines pistes ajoutent des notes à maintenir ou des glissés.  
@@ -57,4 +59,5 @@ releaseDate: 2025-10-18T00:00:00.000Z
 <!-- i18n:faq:id=faq:bolly-beat:how-to-increase-score-978e8dec -->
 - **Q : Comment augmenter mon score global ?**  
   **R :** Préserve tes longues séries (combo) et vise les frappes « Perfect ». Plus le multiplicateur reste élevé, plus les étoiles et le score final grimpent.
+
 

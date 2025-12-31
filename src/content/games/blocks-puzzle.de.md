@@ -49,6 +49,8 @@ Platz sparen und vorausschauend denken.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `Drop` `mouse` `click` `drag` `mouse`
 
 - **Drag & Drop:** Klicke/tippe einen Block unten an und ziehe ihn auf das
   Raster.
@@ -69,4 +71,5 @@ Platz sparen und vorausschauend denken.
 <!-- i18n:faq:id=faq:blocks-puzzle:q-what-happens-when-i-e8e69d77 -->
 -   **F: Was passiert, wenn keine Züge mehr möglich sind?**
     -   **A:** Sobald keiner der drei Blöcke mehr passt, endet die Partie und dein Endscore wird gewertet.
+
 

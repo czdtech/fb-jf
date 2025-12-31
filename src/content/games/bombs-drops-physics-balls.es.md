@@ -42,6 +42,8 @@ soluciones mínimas y elegantes que aprovechen la física a tu favor.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drop` `mouse`
 
 - Apunta y suelta con ratón o pantalla táctil; en algunos niveles puedes dar
   pequeños empujones a ciertos elementos.
@@ -68,4 +70,5 @@ soluciones mínimas y elegantes que aprovechen la física a tu favor.
 
   R: Solo unos pocos niveles exigen una sincronización muy precisa. La mayoría recompensan
   más una planificación clara que reflejos súper rápidos.
+
 

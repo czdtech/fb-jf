@@ -43,6 +43,8 @@ asegure una buena cadena de limpiezas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `drop`
 
 - Arrastra y suelta las piezas sobre el tablero; rota si el juego lo permite.
 - Las opciones de Deshacer/Reiniciar te ayudan a corregir colocaciones demasiado
@@ -70,4 +72,5 @@ asegure una buena cadena de limpiezas.
   A: Cuando la cuadrícula está apretada, coloca primero la pieza más difícil.
   Cuando está abierta, usa las grandes para preparar limpiezas de varias líneas
   en un solo turno.
+
 

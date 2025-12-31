@@ -72,6 +72,8 @@ interruptores:
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `arrow keys` `Spacebar`
 
 El control se basa en las teclas de dirección del teclado.
 
@@ -106,4 +108,5 @@ El control se basa en las teclas de dirección del teclado.
 **4. ¿Cómo regreso a un nivel que ya superé?**
 > Al completar cada nivel, el juego muestra un código de 6 caracteres. Puedes
 > introducirlo en el menú principal para empezar directamente desde esa fase.
+
 

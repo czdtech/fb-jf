@@ -78,6 +78,8 @@ Wichtige Elemente sind Spezialfelder und Schalter:
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `arrow keys` `Spacebar`
 
 - Die Bedienung ist unkompliziert und basiert vollständig auf den Pfeiltasten
   sowie der Leertaste.
@@ -111,4 +113,5 @@ Wichtige Elemente sind Spezialfelder und Schalter:
 - **F: Wie komme ich zu einem bereits geschafften Level zurück?**  
   **A:** Gib den Level‑Code, den du nach Abschluss erhalten hast, im Hauptmenü
   ein, um direkt zu diesem Level zu springen.
+
 

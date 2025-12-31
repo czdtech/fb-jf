@@ -74,6 +74,8 @@ puntuación alta.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag` `drop` `mouse` `Click` `hold` `tap` `hold` `Drag` `mouse` `drop`
 
 El juego utiliza controles de arrastrar y soltar muy sencillos, aptos tanto para
 ratón como para pantallas táctiles.
@@ -117,4 +119,5 @@ la orientación en la que aparecen.
 > tres piezas que tienes en la mano. Aunque el tablero parezca bastante vacío,
 > si ninguna de las formas actuales encaja en los huecos disponibles, la partida
 > ha terminado.
+
 

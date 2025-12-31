@@ -39,6 +39,8 @@ La partie s’achève lorsque tu ne peux plus poser aucune des trois pièces pro
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `Drop` `mouse` `drag` `mouse`
 
 -   **Glisser-déposer :** clique/tape sur une pièce puis fais‑la glisser sur la grille pour la déposer.  
 -   **Valider la pose :** relâche pour confirmer lorsque la zone est surlignée. Les pièces ne se **tournent pas**, il faut composer avec leur orientation.
@@ -55,4 +57,5 @@ La partie s’achève lorsque tu ne peux plus poser aucune des trois pièces pro
 <!-- i18n:faq:id=faq:block-dimension:q-what-is-the-best-03413fee -->
 -   **Q : Quelle est la meilleure stratégie pour scorer ?**  
     -   **R :** Prépare des combos de lignes multiples et évite de te précipiter. Plus tu maintiens la grille propre longtemps, plus ton score grimpe.
+
 

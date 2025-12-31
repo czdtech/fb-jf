@@ -38,6 +38,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `drag` `drop` `mouse` `drag` `drop` `space`
 
 游戏以直观的拖拽方式进行。
 
@@ -55,4 +57,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:blockdrop:q-whats-the-best-way-04ea0c4b -->
 -   **问：怎样更容易拿到高分？**
     -   **答：** 关键在于延长对局时间并多做连消。保持棋盘干净、为多行清除预留空间，分数自然会滚雪球般提升。
+
 

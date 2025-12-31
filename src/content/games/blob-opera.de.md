@@ -46,6 +46,8 @@ Ohne Score dreht sich alles darum, interessante Klangfarben zu basteln. Diese Hi
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `Drag` `Click` `Drag` `Click` `Click`
 
 Die Bedienung ist komplett auf Maus oder Touch ausgelegt.
 
@@ -78,4 +80,5 @@ Die Bedienung ist komplett auf Maus oder Touch ausgelegt.
 **F: Wie speichere ich meine Komposition?**
 
 > Ein direkter MP3‑Export ist nicht vorgesehen. Nutze den Record/Share‑Workflow oder eine Bildschirmaufnahme als Alternative.
+
 
