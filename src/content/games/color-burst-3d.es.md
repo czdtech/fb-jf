@@ -62,6 +62,8 @@ A medida que avanzas, la velocidad aumenta, los anillos giran más deprisa y los
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `drag`
 
 Como se muestra en el tutorial de "Cómo jugar", los controles son muy sencillos
   y están pensados para jugar con un solo dedo.
@@ -94,4 +96,5 @@ Tu puntuación depende directamente del número de anillos que atravieses con
 Sí, *Color Burst 3D* está diseñado como un arcade infinito. No se trata de
   llegar a un final, sino de superarte a ti mismo y competir por la puntuación
   más alta posible.
+
 

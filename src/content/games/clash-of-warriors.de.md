@@ -45,6 +45,8 @@ kontrollieren.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `tap`
 
 - Spiele Karten per Klick oder Tap aus deiner Hand aufs Spielfeld.
 - Greife mit Einheiten über das UI an und beende Züge über den "End Turn"-
@@ -71,4 +73,5 @@ kontrollieren.
 - Eignet es sich für kurze Sessions?
   
   Ja, Partien sind in der Regel kurz und damit ideal für zwischendurch.
+
 

@@ -58,6 +58,8 @@ neue Charaktere freizuschalten.
 
 <!-- i18n:section:controls -->
 ### **Steuerung**
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `Tap`
 
 Die Steuerung ist auf schnelle Mobile-Sessions ausgelegt.
 
@@ -89,4 +91,5 @@ Die Steuerung ist auf schnelle Mobile-Sessions ausgelegt.
 **4. Ist das Spiel endlos?**
 > Ja, die Treppe wird prozedural generiert und endet nicht – du spielst, bis dir
 > ein Fehler unterläuft.
+
 

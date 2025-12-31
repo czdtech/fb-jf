@@ -71,6 +71,8 @@ Gedächtnis.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Arrow Keys`
 
 Die Steuerung ist sehr schlicht und ähnelt klassischen 2D-Plattformspieln.
 
@@ -105,4 +107,5 @@ Es gibt keinen separaten Sprint- oder Feuerschuss-Button.
 > Im englischen Sprachraum ist "Cat Mario" üblich. Der ursprüngliche japanische
 > Titel lautet "Syobon Action" (しょぼんのアクション), gelegentlich wird es auch
 > "Neko Mario" genannt.
+
 

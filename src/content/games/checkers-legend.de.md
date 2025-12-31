@@ -50,6 +50,8 @@ kein legaler Zug mehr möglich ist.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `Click`
 
 Die Bedienung ist klickbasiert.
 
@@ -76,4 +78,5 @@ Die Bedienung ist klickbasiert.
     *   A: Du siegst, wenn dein Gegner keine Steine mehr hat oder seine
         verbleibenden Steine vollständig blockiert sind und keinen legalen Zug
         ausführen können.
+
 

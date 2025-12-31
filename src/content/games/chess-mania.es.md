@@ -47,6 +47,8 @@ superar al rival y colocar su rey en jaque mate.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `click`
 
 *   **Seleccionar y mover:** Haz clic en una pieza para ver sus movimientos
     legales resaltados, luego haz clic en la casilla de destino.
@@ -70,4 +72,5 @@ superar al rival y colocar su rey en jaque mate.
 *   **P: ¿Cómo puedo mejorar mis habilidades?**
     *   **R:** Juega con regularidad, analiza tus partidas para aprender de los
         errores y estudia principios básicos de ajedrez y patrones tácticos.
+
 

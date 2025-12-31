@@ -55,6 +55,8 @@ Gebiete verbirgt. So wächst dein Reich mit jeder Fusion weiter.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Click` `drag` `Drag` `Click` `Click`
 
 Das Spiel wird komplett mit Maus oder Touch gesteuert.
 
@@ -87,4 +89,5 @@ Das Spiel wird komplett mit Maus oder Touch gesteuert.
         erhältst du zwei davon und damit effektiv eines gratis. Wann immer es
         möglich ist, lohnt es sich zu warten, bis du fünf gleiche Objekte
         zusammenführen kannst.
+
 

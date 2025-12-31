@@ -84,6 +84,8 @@ La estrategia evoluciona según avanzas.
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Mouse` `Click` `Click` `Click` `SHIFT` `Click` `Click` `CTRL` `Click` `Click`
 
 El juego se maneja sobre todo con ratón, pero los atajos de teclado son clave.
 
@@ -126,4 +128,5 @@ El juego se maneja sobre todo con ratón, pero los atajos de teclado son clave.
 **5. ¿El juego tiene final?**
 > No, Clicker Heroes está pensado como juego infinito; los niveles y cifras
 > escalan sin límite. La meta es tu propio progreso y llegar cada vez más lejos.
+
 

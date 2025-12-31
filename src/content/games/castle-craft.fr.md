@@ -33,6 +33,8 @@ Castle Craft est un jeu de puzzle captivant de fusion et construction où les jo
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Click` `drag` `Drag` `Click` `Click`
 
 Le jeu se contrôle entièrement avec une souris ou un écran tactile.
 
@@ -55,4 +57,5 @@ Le jeu se contrôle entièrement avec une souris ou un écran tactile.
 <!-- i18n:faq:id=faq:castle-craft:q-whats-the-difference-between-a7c4a0ac -->
 *   **Q : Quelle est la différence entre fusionner 3 et fusionner 5 ?**
     *   **R :** Fusionner 3 objets te donne un objet de niveau supérieur. Fusionner 5 objets t'en donne deux, t'en offrant effectivement un gratuitement. Il est toujours plus efficace d'attendre d'avoir cinq objets à fusionner.
+
 

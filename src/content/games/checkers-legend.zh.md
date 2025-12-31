@@ -50,6 +50,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `Click`
 
 游戏使用简单的点击操作。
 
@@ -71,4 +73,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:checkers-legend:q-how-do-i-win-9162cf32 -->
 *   **问：如何赢得比赛？**
     *   **答：** 当对手没有棋子剩余，或者所有剩余棋子都被阻挡无法走出合法步数时，你就获胜了。
+
 

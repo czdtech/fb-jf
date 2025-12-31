@@ -64,6 +64,8 @@ zu erschaffen.
 
 <!-- i18n:section:controls -->
 ### **Steuerung**
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Drag` `Drag` `Click` `Tap` `Click` `Click`
 
 Die Bedienung ist auf Maus oder Touch ausgelegt und sehr intuitiv.
 
@@ -111,3 +113,4 @@ Die Bedienung ist auf Maus oder Touch ausgelegt und sehr intuitiv.
 **5. Kostet das Spiel etwas?**
 > Nein, Blob Opera ist ein kostenloses Web-Experiment und läuft in jedem
 > modernen Browser.
+

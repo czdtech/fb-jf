@@ -45,6 +45,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Arrow Keys`
 
 操作はクラシックなアクションゲームと同じです。
 *   **矢印キー（← →）:** 左右移動
@@ -71,5 +73,6 @@ locale: ja
 <!-- i18n:faq:id=faq:cat-mario:whats-the-real-name-of-0cf1a388 -->
 **4. このゲームの正式名称は？**
 > 英語圏では「Cat Mario」と呼ばれることが多いですが、元の日本語名は「しょぼんのアクション（ローマ字表記：Syobon Action）」です。「Neko Mario」と呼ばれることもあります。
+
 
 

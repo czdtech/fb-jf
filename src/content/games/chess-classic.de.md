@@ -49,6 +49,8 @@ lernen, Eröffnungen zu üben und Endspiele zu trainieren.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `Click`
 
 *   Figur wählen: Klicke auf eine Figur, um sie auszuwählen. Gültige Züge
     werden in der Regel farblich markiert.
@@ -80,4 +82,5 @@ lernen, Eröffnungen zu üben und Endspiele zu trainieren.
         König nicht im Schach), dreifache Stellungswiederholung, unzureichendes
         Material zum Mattsetzen oder wenn beide Spieler sich auf ein Unentschieden
         einigen.
+
 

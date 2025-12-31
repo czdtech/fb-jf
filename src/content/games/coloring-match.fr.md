@@ -46,6 +46,8 @@ l’appliquer sur l’objet.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag`
 
 - **Mélanger les couleurs** : déplace les curseurs de teinte, saturation et
   luminosité (ou les curseurs RVB selon la version).  
@@ -66,4 +68,5 @@ l’appliquer sur l’objet.
 <!-- i18n:faq:id=faq:coloring-match:do-tiny-tweaks-matter-67374069 -->
 - Q : Un raccourci pour les bruns/gris ?
 R : Pas forcément. La plupart des niveaux se valident à partir d’un certain seuil de similarité (par exemple 80–90 %). Les 100 % sont surtout là pour les perfectionnistes.
+
 

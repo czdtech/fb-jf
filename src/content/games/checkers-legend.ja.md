@@ -33,6 +33,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Click` `Click`
 
 クリックだけの簡単操作です。
 
@@ -53,4 +55,5 @@ locale: ja
 <!-- i18n:faq:id=faq:checkers-legend:q-how-do-i-win-9162cf32 -->
 *   **Q: 勝利条件は？**
     *   **A:** 相手の駒を全滅させるか、相手の残った駒がすべて塞がれて動けなくなった（ステイルメイト）時点で勝利となります。
+
 

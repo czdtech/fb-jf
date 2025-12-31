@@ -53,6 +53,8 @@ nuevos territorios, revelando poco a poco un imperio cada vez más próspero.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Click` `drag` `Drag` `Click` `Click`
 
 El juego se maneja por completo con ratón o pantalla táctil.
 
@@ -84,4 +86,5 @@ El juego se maneja por completo con ratón o pantalla táctil.
     *   **R:** Al fusionar 3 objetos obtienes uno de nivel superior; al fusionar
         5 consigues dos, lo que equivale a uno extra "gratis". Siempre que
         puedas, espera a tener cinco para maximizar la eficiencia.
+
 

@@ -29,6 +29,8 @@ Color Pixel Art Classic est un jeu de puzzle relaxant et satisfaisant de coloria
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `tap` `Click` `tap` `mouse` `scroll` `Click` `drag`
 
 *   **Sélectionner une couleur :** clique ou tape sur une couleur dans la palette en bas.
 *   **Remplir un pixel :** clique ou tape sur le pixel numéroté correspondant sur la grille.
@@ -49,4 +51,5 @@ Color Pixel Art Classic est un jeu de puzzle relaxant et satisfaisant de coloria
 <!-- i18n:faq:id=faq:color-pixel-art:q-is-there-a-time-f08811d9 -->
 *   **Q : Y a-t-il une limite de temps ou un moyen de perdre ?**
     *   **R :** Non. C'est un jeu purement relaxant. Il n'y a pas de chronomètres, de scores ou de pénalités. Tu peux prendre tout le temps dont tu as besoin et même quitter un puzzle et y revenir plus tard.
+
 

@@ -35,7 +35,7 @@ Cluster Rushの攻略は、移動の基本を身につけ、各ステージの�
 <!-- i18n:section:controls -->
 ### 操作ガイド
 <!-- i18n:controls:keys -->
-- キー（整合）： `W` `A` `S` `D` `Space Bar` `Space Bar` `Shift` `Esc`
+- キー（整合）： `W` `A` `S` `D` `Mouse` `Space Bar` `Press` `Space Bar` `Shift` `hold` `Esc` `press`
 
 一般的なFPSゲームと同じ操作感です。
 
@@ -71,3 +71,4 @@ Cluster Rushの攻略は、移動の基本を身につけ、各ステージの�
 <!-- i18n:faq:id=faq:cluster-rush:some-levels-seem-impossible-an-f5bf51b6 -->
 **5. 難しすぎるレベルがあります。コツは？**
 焦らず、一度休憩して頭を切り替えるのも手です。詰まったらプレイ動画でルートやコツを確認すると、簡単になる「抜け道」や手順が見つかることもあります。
+

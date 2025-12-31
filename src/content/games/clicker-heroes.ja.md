@@ -42,6 +42,8 @@ Clicker Heroesの戦略は、プレイするにつれて進化します。
 
 <!-- i18n:section:controls -->
 ### **操作ガイド**
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `Mouse` `Click` `Click` `Click` `SHIFT` `Click` `Click` `CTRL` `Click` `Click`
 
 ゲームは主にマウス駆動ですが、効率にはキーボードショートカットが不可欠です。
 
@@ -76,4 +78,5 @@ Clicker Heroesの戦略は、プレイするにつれて進化します。
 <!-- i18n:faq:id=faq:clicker-heroes:is-there-an-end-to-16613676 -->
 **5. ゲームに終わりはありますか？**
 いいえ、Clicker Heroesは無限のゲームとして設計されています。レベルと必要なゴールドとダメージの量は無限にスケールします。目標は個人的な進行と、ますます高いゾーンに到達することです。
+
 

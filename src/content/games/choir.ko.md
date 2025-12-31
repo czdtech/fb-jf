@@ -61,6 +61,8 @@ Choir Game(Blob Opera 기반)은 스테이지나 점수가 없는 실험형 음�
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `mouse` `Drag` `Drag` `Click` `Tap` `Click` `Click`
 
 조작은 아래를 참고하세요.
 
@@ -107,3 +109,4 @@ Choir Game(Blob Opera 기반)은 스테이지나 점수가 없는 실험형 음�
 **5. 무료로 이용할 수 있나요?**  
 > 네, 현대적인 브라우저만 있으면 누구나 무료로 접속해 즐길 수 있는 웹 기반
 > 실험입니다.
+

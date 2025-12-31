@@ -49,6 +49,8 @@ Es un juego atemporal de visión y táctica.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `Click`
 
 El juego se maneja con clics simples.
 
@@ -75,4 +77,5 @@ El juego se maneja con clics simples.
 *   **P: ¿Cómo gano la partida?**
     *   **R:** Ganas cuando el rival se queda sin fichas o cuando todas sus
         piezas están bloqueadas y no pueden realizar ningún movimiento legal.
+
 

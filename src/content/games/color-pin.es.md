@@ -42,6 +42,8 @@ ritmo y la paciencia más que disparar sin pensar.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `Click`
 
 - Toca o haz clic para lanzar un alfiler; en algunas variantes se puede mantener
   pulsado para ajustar.
@@ -67,4 +69,5 @@ ritmo y la paciencia más que disparar sin pensar.
   
   R: Solo dispares cuando el color objetivo esté alineado. Forzar disparos suele
   terminar en choques que podrías haber evitado.
+
 

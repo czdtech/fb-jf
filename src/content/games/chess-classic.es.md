@@ -47,6 +47,8 @@ el arte del jaque mate.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `Click`
 
 *   **Seleccionar pieza:** Haz clic en una pieza para seleccionarla; se
     resaltarán las casillas a las que puede moverse.
@@ -75,4 +77,5 @@ el arte del jaque mate.
     *   **R:** La partida puede terminar en tablas por varias razones: ahogado
         (el jugador no tiene jugadas legales pero su rey no está en jaque), por
         acuerdo, por repetición de la misma posición tres veces, etc.
+
 

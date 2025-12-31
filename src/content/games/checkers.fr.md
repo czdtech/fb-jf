@@ -87,6 +87,8 @@ les capturer et, une fois la dernière rangée adverse atteinte, un pion devient
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `click` `tap` `drag` `Click` `tap` `Click` `tap` `Click`
 
 Dans cette version numérique, tout se joue au clic ou au toucher :
 
@@ -128,5 +130,6 @@ les dames peuvent aller vers l’arrière.
 R : Dès qu’un pion atteint la rangée la plus éloignée de son camp (la rangée de
 départ de l’adversaire), il est promu en dame et gagne la possibilité de se
 mouvoir dans les deux sens.
+
 
 

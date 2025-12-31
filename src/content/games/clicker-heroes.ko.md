@@ -98,6 +98,8 @@ Clicker Heroes의 전략은 진행 단계에 따라 달라집니다.
 
 <!-- i18n:section:controls -->
 ### 조작 방법
+<!-- i18n:controls:keys -->
+- 키(정렬)： `mouse` `Mouse` `Click` `Click` `Click` `SHIFT` `Click` `Click` `CTRL` `Click` `Click`
 
 게임은 기본적으로 마우스로 진행되지만, 단축키를 활용하면 훨씬 편리합니다.
 
@@ -143,3 +145,4 @@ Clicker Heroes의 전략은 진행 단계에 따라 달라집니다.
 > 이론상 끝이 없습니다. 스테이지와 요구 데미지·골드는 무한히 증가하며, 목표는
 > 자신이 어느 구간까지 도달할 수 있는지, 얼마나 빠르게 성장할 수 있는지를
 > 갱신해 나가는 데 있습니다.
+

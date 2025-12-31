@@ -52,6 +52,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド（デジタル版）
+<!-- i18n:controls:keys -->
+- キー（整合）： `Click` `Drag` `Click` `hold` `drag` `Click` `Click` `Click` `click`
 
 コンピュータやスマホでの操作は直感的です。
 *   **駒の移動:**
@@ -84,4 +86,5 @@ locale: ja
 <!-- i18n:faq:id=faq:chess:can-the-king-capture-pieces-c8c6f366 -->
 **4. キングも敵の駒を取れますか？**
 > はい、他の駒と同様に取れます。ただし、敵の利きに入っているマスには移動できません（自分からチェックに入る手は不可です）。
+
 

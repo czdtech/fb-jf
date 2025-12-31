@@ -68,6 +68,8 @@ principiantes y a la vez desafiante para jugadores experimentados.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `click` `tap` `drag` `Click` `tap` `Click` `tap` `Click`
 
 En la versión digital, los controles suelen ser de apuntar y hacer clic o tocar
  y arrastrar.
@@ -103,4 +105,5 @@ En la versión digital, los controles suelen ser de apuntar y hacer clic o tocar
 **4. ¿Cómo se convierte una ficha en Dama?**
 > Cuando llega a la última fila del lado rival (la de salida de sus fichas). En
 > el juego físico se suele marcar apilando otra ficha del mismo color encima.
+
 

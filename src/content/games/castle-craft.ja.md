@@ -33,6 +33,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `Click` `drag` `Drag` `Click` `Click`
 
 マウスまたはタッチ操作で完結します。
 
@@ -55,4 +57,5 @@ locale: ja
 <!-- i18n:faq:id=faq:castle-craft:q-whats-the-difference-between-a7c4a0ac -->
 *   **Q: 3つ合成と5つ合成、何が違うのですか？**
     *   **A:** 3つ合成＝上位1個。5つ合成＝上位2個。つまり5つ合成すると**アイテム1個分が実質タダで手に入る**計算になります。基本的には5個揃うまで待つのが正解です。
+
 

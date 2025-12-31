@@ -62,6 +62,8 @@ interesante o agradable.
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `mouse` `Drag` `Drag` `Click` `Tap` `Click` `Click`
 
 Los controles son muy intuitivos, tanto con ratón como con pantalla táctil.
 
@@ -110,4 +112,5 @@ puede abrir para escuchar tu composición.
 **5. ¿Es gratis?**
 Sí, Blob Opera es un experimento web gratuito al que puedes acceder desde
 cualquier navegador moderno.
+
 

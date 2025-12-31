@@ -33,6 +33,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `drag`
 
 指一本で遊べるシンプルな操作です。
 
@@ -57,4 +59,5 @@ locale: ja
 <!-- i18n:faq:id=faq:color-burst-3d:is-this-game-endless-f7d8f28a -->
 **4. 終わりはありますか？**
 基本的にエンドレスです。ゴールに到達するゲームではなく、ハイスコア更新を競います。
+
 

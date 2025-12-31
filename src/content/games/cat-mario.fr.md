@@ -73,6 +73,8 @@ Il n’y a pas vraiment de "stratégie avancée" : Cat Mario est avant tout un t
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Arrow Keys`
 
 Les commandes sont proches des jeux de plates‑formes 2D classiques :
 
@@ -109,5 +111,6 @@ position de chaque piège.
 R : Les joueurs occidentaux l’appellent souvent "Cat Mario", mais son nom
 original est **Syobon Action** (しょぼんのアクション). On le trouve parfois aussi sous le
 nom "Neko Mario".
+
 
 

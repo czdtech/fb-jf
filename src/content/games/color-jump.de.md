@@ -43,6 +43,8 @@ mit zunehmender Geschwindigkeit im Rhythmus bleiben.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `Click`
 
 - Tippen/Klicken, um zu springen; einige Versionen unterstützen einen
   Doppelsprung (entsprechend im Tutorial angegeben).
@@ -68,4 +70,5 @@ mit zunehmender Geschwindigkeit im Rhythmus bleiben.
   
   Nein, das ist variantenabhängig. Achte auf Hinweise im Tutorial oder in den
   Einstellungen.
+
 

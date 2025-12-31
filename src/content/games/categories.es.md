@@ -40,6 +40,8 @@ movimientos.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `tap`
 
 - Arrastra los elementos hasta los grupos o toca para asignarlos, según la
   interfaz.
@@ -62,4 +64,5 @@ movimientos.
 - **¿Siempre hay límite de tiempo?**
   Suele haber temporizadores suaves o límites de movimientos para mantener un
   ritmo ágil, pero no siempre son muy estrictos.
+
 

@@ -53,6 +53,8 @@ court de temps ou d’essais.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `tap`
 
 - **Placer un élément** : fais glisser un mot/une icône vers un groupe ou
   touche‑le pour l’assigner selon l’interface du jeu.  
@@ -76,4 +78,5 @@ court de temps ou d’essais.
 - **Les niveaux sont‑ils chronométrés ?**  
   Souvent, oui, mais les timers restent légers pour garder un rythme dynamique
   sans trop de pression.
+
 

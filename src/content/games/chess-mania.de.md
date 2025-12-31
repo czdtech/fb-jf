@@ -47,6 +47,8 @@ Ziel, den gegnerischen König mattzusetzen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `click`
 
 *   Auswählen & Ziehen: Klicke eine Figur an, um ihre legalen Züge anzeigen zu
     lassen, und anschließend das Zielfeld, um sie dorthin zu bewegen.
@@ -72,4 +74,5 @@ Ziel, den gegnerischen König mattzusetzen.
     *   A: Spiele regelmäßig, analysiere deine Partien (vor allem Niederlagen),
         studiere Grundprinzipien und Taktikmotive und versuche, typische
         Fehler bewusst zu vermeiden.
+
 

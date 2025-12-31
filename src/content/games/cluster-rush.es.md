@@ -65,7 +65,7 @@ El éxito en Cluster Rush pasa por dominar el movimiento y aprender los niveles.
 <!-- i18n:section:controls -->
 ### **Guía de controles**
 <!-- i18n:controls:keys -->
-- Teclas (alineación)： `W` `A` `S` `D` `Space Bar` `Space Bar` `Shift` `Esc`
+- Teclas (alineación)： `W` `A` `S` `D` `Mouse` `Space Bar` `Press` `Space Bar` `Shift` `hold` `Esc` `press`
 
 Los controles se parecen a los de cualquier juego en primera persona en PC.
 
@@ -108,3 +108,4 @@ siguiente.
 Ten paciencia. Si te atascas, tómate un descanso. También puedes ver vídeos de
 ese nivel en concreto para descubrir rutas o trucos que no habías considerado.
 Muchas veces hay un camino "intencionado" que lo vuelve mucho más asequible.
+

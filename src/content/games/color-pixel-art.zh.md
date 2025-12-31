@@ -43,6 +43,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `tap` `Click` `tap` `mouse` `scroll` `Click` `drag`
 
 *   **选择颜色：** 点击/轻触底部调色盘中的颜色块。
 *   **填充像素：** 在画布上点击/轻触对应编号的像素格即可上色。
@@ -63,4 +65,5 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:color-pixel-art:q-is-there-a-time-f08811d9 -->
 *   **问：这游戏有时间限制或失败条件吗？**
     *   **答：** 没有。这是纯放松向的填色游戏，没有计时、分数或惩罚。你可以慢慢来，甚至中途退出后再回来继续。
+
 

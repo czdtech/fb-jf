@@ -43,6 +43,8 @@ consista en gestionar huecos de reserva y pensar varios movimientos por adelanta
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `tap`
 
 - Toca un posadero para recoger el gato superior; toca el posadero de destino
   para dejarlo, si el movimiento es legal.
@@ -70,4 +72,5 @@ consista en gestionar huecos de reserva y pensar varios movimientos por adelanta
 
   R: No; es más importante deshacer rápido y usar bien los huecos de reserva que buscar la
   solución perfecta a la primera.
+
 

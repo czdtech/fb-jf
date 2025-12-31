@@ -84,6 +84,8 @@ anders; ihre Bewegungen zu verstehen, ist die Grundlage für jede Partie.
 
 <!-- i18n:section:controls -->
 ### Steuerung (digitale Version)
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `Drag` `Click` `hold` `drag` `Click` `Click` `Click` `click`
 
 In der Browser- oder Mobile-Version ist die Bedienung intuitiv.
 
@@ -125,3 +127,4 @@ In der Browser- oder Mobile-Version ist die Bedienung intuitiv.
 > Ja, der König darf gegnerische Figuren schlagen, solange das Zielfeld nicht
 > von einer gegnerischen Figur gedeckt ist – er darf sich niemals selbst ins
 > Schach stellen.
+

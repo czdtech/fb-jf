@@ -84,6 +84,8 @@ distinta, y entender estos movimientos es la base del juego.
 
 <!-- i18n:section:controls -->
 ### Guía de controles (versión digital)
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `Drag` `Click` `hold` `drag` `Click` `Click` `Click` `click`
 
 En ordenador o móvil, los controles son muy intuitivos.
 
@@ -126,4 +128,5 @@ En ordenador o móvil, los controles son muy intuitivos.
 > Sí, el rey puede capturar como cualquier otra pieza moviéndose a la casilla de
 > la pieza rival, pero nunca puede entrar en una casilla que esté atacada por el
 > enemigo (no puede moverse a jaque).
+
 

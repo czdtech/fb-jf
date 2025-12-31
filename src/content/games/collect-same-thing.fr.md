@@ -32,6 +32,8 @@ Collect Same Thing te met au défi d’associer des tuiles/objets identiques sou
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `tap`
 
 - Clique/tape pour sélectionner des paires selon les règles du mode.
 - Utilise indice/mélange (si disponible) avec parcimonie.
@@ -53,4 +55,5 @@ Collect Same Thing te met au défi d’associer des tuiles/objets identiques sou
 - Q: Des astuces pour le score ?
   
   A: Enchaîne des paires rapidement pour maintenir des bonus de combo quand le mode en propose.
+
 

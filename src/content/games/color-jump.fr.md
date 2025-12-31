@@ -31,6 +31,8 @@ Color Jump est un jeu de réflexes minimaliste : ton personnage ne peut traver
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `Click`
 
 - Tape/Clique pour sauter ; certaines variantes autorisent le double saut.
 - Pause/Restart via l’interface.
@@ -52,4 +54,5 @@ Color Jump est un jeu de réflexes minimaliste : ton personnage ne peut traver
 - Q: Double saut ?
   
   A: Certaines versions l’incluent ; vérifie l’indication du tutoriel.
+
 

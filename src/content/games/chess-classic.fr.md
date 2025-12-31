@@ -30,6 +30,8 @@ Chess Classic offre l'expérience intemporelle du jeu d'échecs stratégique dir
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `Click`
 
 *   **Sélection de pièce :** clique sur une pièce pour la sélectionner. Les coups possibles seront surlignés sur le plateau.
 *   **Déplacer une pièce :** clique sur une des cases surlignées pour y déplacer ta pièce sélectionnée.
@@ -49,4 +51,5 @@ Chess Classic offre l'expérience intemporelle du jeu d'échecs stratégique dir
 <!-- i18n:faq:id=faq:chess-classic:q-what-happens-if-no-33cac195 -->
 *   **Q : Que se passe-t-il si personne ne peut gagner ?**
     *   **R :** La partie peut se terminer par une nulle de plusieurs façons, notamment le pat (un joueur n'a pas de coups légaux, mais son roi n'est pas en échec), un accord entre les joueurs, ou si la même position est répétée trois fois.
+
 

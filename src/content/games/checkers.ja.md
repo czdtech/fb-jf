@@ -44,6 +44,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `click` `tap` `drag` `Click` `tap` `Click` `tap` `Click`
 
 デジタル版での操作は、直感的なポイント＆クリックが基本です。
 
@@ -70,4 +72,5 @@ locale: ja
 <!-- i18n:faq:id=faq:checkers:how-does-a-piece-become-a5ba0aca -->
 **4. どうやったらキングになれますか？**
 > 自分の駒が相手側の最奥の列（相手の駒が初期配置されていた列）に到達するとキングになります。ボードゲームでは同じ色の駒をもう1つ上に重ねて区別します。
+
 

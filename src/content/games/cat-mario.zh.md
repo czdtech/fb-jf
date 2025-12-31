@@ -41,6 +41,8 @@ Cat Mario，正式名称为 Syobon Action（しょぼんのアクション），
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Arrow Keys`
 
 操控非常简单，模仿经典的 2D 平台游戏。
 -   **左/右方向键：** 左右移动角色。
@@ -66,4 +68,5 @@ Cat Mario，正式名称为 Syobon Action（しょぼんのアクション），
 <!-- i18n:faq:id=faq:cat-mario:whats-the-real-name-of-0cf1a388 -->
 **4. 这款游戏的真名是什么？**
 > 英语玩家最常称其为"Cat Mario"。其原始日文名为"Syobon Action"（しょぼんのアクション）。有时也被称为"Neko Mario"。
+
 

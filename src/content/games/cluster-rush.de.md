@@ -66,7 +66,7 @@ Erfolg in Cluster Rush basiert auf der Beherrschung der Bewegung und dem Erlerne
 <!-- i18n:section:controls -->
 ### **Steuerung**
 <!-- i18n:controls:keys -->
-- Tasten (Abgleich)： `W` `A` `S` `D` `Space Bar` `Space Bar` `Shift` `Esc`
+- Tasten (Abgleich)： `W` `A` `S` `D` `Mouse` `Space Bar` `Press` `Space Bar` `Shift` `hold` `Esc` `press`
 
 Die Steuerung orientiert sich an gängigen PC-Ego-Spielen.
 
@@ -110,3 +110,4 @@ separater Tastendruck nötig.
 > Mach eine Pause und versuche es später erneut. Schau dir bei Bedarf ein
 > Video zu genau diesem Level an, um alternative Routen oder spezielle Tricks
 > zu sehen, die dir vorher nicht aufgefallen sind.
+

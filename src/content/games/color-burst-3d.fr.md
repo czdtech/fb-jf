@@ -35,6 +35,8 @@ Au fil de la partie, la vitesse augmente, les anneaux tournent plus vite et les 
 
 <!-- i18n:section:controls -->
 ### **Commandes**
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `drag`
 
 Comme indiqué dans le tutoriel, les contrôles sont très simples et pensés pour du one‑touch.
 
@@ -58,4 +60,5 @@ Le score dépend du nombre d’anneaux franchis. Plus tu survis longtemps, plus 
 <!-- i18n:faq:id=faq:color-burst-3d:is-this-game-endless-f7d8f28a -->
 **4. Le jeu est‑il infini ?**
 Oui, *Color Burst 3D* est conçu comme un jeu d’arcade sans fin. L’objectif est de battre ton meilleur score, pas d’atteindre une fin.
+
 

@@ -40,6 +40,8 @@ el dibujo objetivo sin errores de solapamiento.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag` `tap`
 
 - Arrastra para desenrollar una tira a lo largo de su trayectoria; toca o haz
   clic para deshacer cuando el juego lo permita.
@@ -66,4 +68,5 @@ el dibujo objetivo sin errores de solapamiento.
   
   R: Muchas versiones incluyen pistas; úsalas con moderación para no perder el
   desafío del puzle.
+
 

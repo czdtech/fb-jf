@@ -48,6 +48,8 @@ creatividad sin necesidad de tener habilidades artísticas.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `tap` `Click` `tap` `mouse` `scroll` `Click` `drag`
 
 *   **Seleccionar color:** Haz clic o toca un color en la paleta inferior.
 *   **Rellenar píxel:** Haz clic o toca el píxel numerado correspondiente en la
@@ -78,4 +80,5 @@ creatividad sin necesidad de tener habilidades artísticas.
     *   **R:** No. Es un juego de relajación pura. No hay temporizador, ni
         puntuación, ni castigos. Puedes tomarte todo el tiempo que quieras e
         incluso dejar un dibujo a medias y retomarlo más tarde.
+
 

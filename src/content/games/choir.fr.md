@@ -35,6 +35,8 @@ Comme il n’y a pas de « victoire », la stratégie consiste surtout à cr
 
 <!-- i18n:section:controls -->
 ### **Commandes**
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Drag` `Drag` `Click` `Tap` `Click` `Click`
 
 Les contrôles sont simples et fonctionnent à la souris ou au tactile.
 
@@ -68,4 +70,5 @@ Tu ne peux pas exporter un fichier (MP3, etc.). En revanche, tu peux enregistrer
 <!-- i18n:faq:id=faq:choir:is-the-game-free-to-dc95d7ac -->
 **5. Est‑ce gratuit ?**
 Oui, Blob Opera est une expérience web gratuite accessible depuis un navigateur moderne.
+
 

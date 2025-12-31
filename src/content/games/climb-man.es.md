@@ -60,6 +60,8 @@ desbloquear nuevos personajes.
 
 <!-- i18n:section:controls -->
 ### **Guía de controles**
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `Tap`
 
 Los controles son muy sencillos y pensados para móvil.
 
@@ -93,4 +95,5 @@ misiones y reunir todos los personajes.
 **4. ¿El modo principal es infinito?**
 Sí. La escalera se genera de forma procedural y la partida continúa hasta que
 cometes un error.
+
 

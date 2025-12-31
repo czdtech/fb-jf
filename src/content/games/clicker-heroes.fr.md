@@ -46,6 +46,8 @@ La stratégie de Clicker Heroes évolue au fil de ta progression.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `mouse` `Mouse` `Click` `Click` `Click` `SHIFT` `Click` `Click` `CTRL` `Click` `Click`
 
 Le jeu se joue surtout à la souris, mais les raccourcis clavier font gagner beaucoup de temps.
 
@@ -85,3 +87,4 @@ En milieu de jeu, tu peux dépenser des Hero Souls pour « retirer » une gild d
 **5. Le jeu a‑t‑il une fin ?**
 
 Non. Clicker Heroes est conçu comme un jeu infini : les niveaux, l’or et les dégâts requis augmentent sans limite. Le but est de battre tes propres records et d’atteindre des zones toujours plus élevées.
+

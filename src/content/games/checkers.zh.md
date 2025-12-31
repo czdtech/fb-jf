@@ -64,6 +64,8 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `click` `tap` `drag` `Click` `tap` `Click` `tap` `Click`
 
 
 在数字版跳棋中，操作一般非常直观：点击选择，或轻触拖拽即可完成移动。
@@ -94,3 +96,4 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 <!-- i18n:faq:id=faq:checkers:how-does-a-piece-become-a5ba0aca -->
 **3. 普通棋子（兵）能后退吗？**
+

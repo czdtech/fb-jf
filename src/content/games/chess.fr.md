@@ -128,6 +128,8 @@ les plus connus au monde.
 
 <!-- i18n:section:controls -->
 ### Commandes (version numérique)
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `Drag` `Click` `hold` `drag` `Click` `Click` `Click` `click`
 
 Dans une version en ligne ou sur mobile, les contrôles restent très simples :
 
@@ -186,3 +188,4 @@ n’est possible qu’au tour directement après ce double pas.
 **4. Le roi peut‑il capturer une pièce ?**  
 R : Oui, tant que la case de destination n’est pas contrôlée par une pièce
 adverse. Le roi ne peut jamais se mettre lui‑même en échec en capturant.
+

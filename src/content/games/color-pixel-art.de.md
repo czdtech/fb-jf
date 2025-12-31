@@ -45,6 +45,8 @@ Pixelkunstwerk – ganz ohne Zeichenkenntnisse.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `tap` `Click` `tap` `mouse` `scroll` `Click` `drag`
 
 *   Farbe wählen: Klicke oder tippe auf eine Farbe in der Palette.
 *   Pixel ausmalen: Klicke oder tippe auf den entsprechenden nummerierten Pixel
@@ -72,4 +74,5 @@ Pixelkunstwerk – ganz ohne Zeichenkenntnisse.
     *   A: Nein. Das Spiel ist vollständig entspannt – keine Timer, keine
         Strafpunkte. Du kannst jederzeit pausieren und später an deinem Bild
         weiterarbeiten.
+
 

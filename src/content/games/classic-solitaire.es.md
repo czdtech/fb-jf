@@ -55,6 +55,8 @@ construir las bases.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `drag` `Click` `click`
 
 *   **Mover cartas:** Haz clic y arrastra una carta (o una secuencia válida) de
     un montón a otro.
@@ -83,4 +85,5 @@ construir las bases.
     *   **R:** En la mayoría de versiones sí puedes bajar la carta superior de
         una base al tablero si eso te ayuda a destapar nuevas cartas o hacer
         mejores secuencias; es un recurso estratégico importante.
+
 

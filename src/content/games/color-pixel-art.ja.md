@@ -33,6 +33,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `Click` `tap` `Click` `tap` `mouse` `scroll` `Click` `drag`
 
 *   **色選択:** 下のパレットから色をクリック/タップ。
 *   **塗る:** キャンバス上の番号付きピクセルをクリック/タップ。
@@ -53,4 +55,5 @@ locale: ja
 <!-- i18n:faq:id=faq:color-pixel-art:q-is-there-a-time-f08811d9 -->
 *   **Q: 制限時間はありますか？**
     *   **A:** いいえ、ありません。このゲームの目的はリラックスすることです。時間を気にせず、自分のペースで楽しんでください。途中でやめても続きから再開できます。
+
 

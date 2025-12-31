@@ -37,7 +37,7 @@ Réussir dans Cluster Rush, c’est maîtriser les mouvements et apprendre les n
 <!-- i18n:section:controls -->
 ### **Commandes**
 <!-- i18n:controls:keys -->
-- Touches (alignement)： `W` `A` `S` `D` `Space Bar` `Space Bar` `Shift` `Esc`
+- Touches (alignement)： `W` `A` `S` `D` `Mouse` `Space Bar` `Press` `Space Bar` `Shift` `hold` `Esc` `press`
 
 Les contrôles sont proches de ceux des FPS sur PC.
 
@@ -72,3 +72,4 @@ Tu débloques les niveaux/mondes en terminant les précédents dans l’ordre.
 <!-- i18n:faq:id=faq:cluster-rush:some-levels-seem-impossible-an-f5bf51b6 -->
 **5. Certains niveaux semblent impossibles. Un conseil ?**
 La patience est la clé. Fais une pause si tu bloques. Regarder un playthrough peut aussi révéler un chemin plus simple ou un « truc » de route.
+

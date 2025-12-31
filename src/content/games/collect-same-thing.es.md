@@ -42,6 +42,8 @@ solitarios difíciles de combinar.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `tap`
 
 - Haz clic o toca las fichas según las reglas del modo para formar parejas.
 - Usa los botones de pista o barajar (si existen) con moderación.
@@ -66,4 +68,5 @@ solitarios difíciles de combinar.
 
   R: Encadena parejas rápidas para mantener los combos y bonificaciones, cuando
   el modo lo soporte.
+
 

@@ -55,6 +55,8 @@ freilegen und mit etwas Glück und Planung alle Karten auf die Ablagen bringen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `drag` `Click` `click`
 
 *   Karten bewegen: Ziehe per Maus oder Touch eine Karte (oder eine gültige
     Sequenz) auf einen anderen Stapel.
@@ -81,4 +83,5 @@ den Ablagestapel (Waste) zu legen.
     *   A: In den meisten digitalen Varianten ja – zumindest die oberste Karte
         jeder Ablage. Das ist oft wichtig, um weitere verdeckte Karten im
         Tableau aufzudecken.
+
 

@@ -56,6 +56,8 @@ Mit der Zeit erhöht sich die Geschwindigkeit, die Ringe drehen schneller und
 
 <!-- i18n:section:controls -->
 ### **Steuerung**
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `drag`
 
 Die Steuerung ist auf Ein-Finger-Bedienung ausgelegt.
 
@@ -85,4 +87,5 @@ Die Steuerung ist auf Ein-Finger-Bedienung ausgelegt.
 **4. Hat das Spiel ein Ende?**
 > Nein, *Color Burst 3D* ist als Endlos-Arcade-Spiel angelegt. Es geht darum,
 > immer wieder neue persönliche Bestleistungen aufzustellen.
+
 

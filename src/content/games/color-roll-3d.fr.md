@@ -49,6 +49,8 @@ des couleurs dans l’image finale.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Drag` `tap`
 
 - **Dérouler un rouleau** : touche ou clique sur un rouleau pour le dérouler
   dans la zone de jeu.  
@@ -67,4 +69,5 @@ des couleurs dans l’image finale.
 <!-- i18n:faq:id=faq:color-roll-3d:is-there-a-hint-system-23e35ede -->
 - Q : Y a‑t‑il plusieurs ordres valides ?
 R : Analyse quelles couleurs doivent se retrouver visibles en surface et où. Les couches inférieures doivent être posées en premier, les détails par‑dessus.
+
 

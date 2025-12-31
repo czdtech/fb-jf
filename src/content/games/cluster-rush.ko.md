@@ -70,7 +70,7 @@ Cluster Rush는 앞만 보고 달리는 트럭 무리 위를 점프해 이동하
 <!-- i18n:section:controls -->
 ### 조작 방법
 <!-- i18n:controls:keys -->
-- 키(정렬)： `W` `A` `S` `D` `Space Bar` `Space Bar` `Shift` `Esc`
+- 키(정렬)： `W` `A` `S` `D` `Mouse` `Space Bar` `Press` `Space Bar` `Shift` `hold` `Esc` `press`
 
 PC 기준 조작은 일반적인 1인칭 게임과 비슷합니다.
 
@@ -112,3 +112,4 @@ PC 기준 조작은 일반적인 1인칭 게임과 비슷합니다.
 > 잠시 휴식을 취해 머리를 식히거나, 해당 레벨의 공략 영상 등을 참고해 다른 경로
 > 또는 트릭을 참고하는 것도 방법입니다. 대부분의 레벨에는 처음엔 보이지 않는
 > "안정 루트"가 존재하는 경우가 많습니다.
+

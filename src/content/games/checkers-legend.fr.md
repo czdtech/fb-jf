@@ -32,6 +32,8 @@ Checkers Legend est une version numérique du jeu de stratégie classique, aussi
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `Click`
 
 Le jeu se joue avec de simples clics.
 
@@ -52,4 +54,5 @@ Le jeu se joue avec de simples clics.
 <!-- i18n:faq:id=faq:checkers-legend:q-how-do-i-win-9162cf32 -->
 *   **Q : Comment gagner la partie ?**
     *   **R :** Tu gagnes quand ton adversaire n'a plus de pièces, ou quand toutes ses pièces restantes sont bloquées et ne peuvent pas faire de coup légal.
+
 

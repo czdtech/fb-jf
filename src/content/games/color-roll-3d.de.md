@@ -44,6 +44,8 @@ gewünschte Muster.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `tap`
 
 - Ziehe eine Bahn mit der Maus oder per Touch entlang ihrer vorgesehenen
   Spur, um sie auszurollen.
@@ -70,4 +72,5 @@ gewünschte Muster.
   
   Viele Versionen bieten ein Hinweissystem. Nutze es sparsam, damit der
   Aha-Effekt erhalten bleibt.
+
 

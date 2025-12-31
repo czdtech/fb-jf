@@ -43,6 +43,8 @@ Berechnung als auch Mustererkennung.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `click`
 
 - Klicke eine Figur an, um ihre legalen Züge anzuzeigen, und anschließend das
   Zielfeld, um den Zug auszuführen.
@@ -71,4 +73,5 @@ Berechnung als auch Mustererkennung.
   A: Zunächst Mattbilder mit K+D gegen K, K+T gegen K, dann einfache
   König–Bauer-Endspiele mit Opposition sowie Grundideen in Turmendspielen
   (z. B. Lucena- und Philidor-Stellung).
+
 

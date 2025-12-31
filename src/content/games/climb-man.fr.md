@@ -35,6 +35,8 @@ La difficulté vient de la vitesse qui augmente et des obstacles (cordes, danger
 
 <!-- i18n:section:controls -->
 ### **Commandes**
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `Tap`
 
 Les contrôles sont très simples, pensés pour un gameplay rapide.
 
@@ -59,4 +61,5 @@ Faire le meilleur score en montant un maximum de marches sur une seule run. Un o
 <!-- i18n:faq:id=faq:climb-man:is-this-game-endless-f7d8f28a -->
 **4. Le jeu est‑il infini ?**
 Oui, le mode principal est généralement infini : l’escalier est généré et tu grimpes jusqu’à l’erreur.
+
 

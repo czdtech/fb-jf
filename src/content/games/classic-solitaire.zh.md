@@ -52,6 +52,8 @@ releaseDate: 2025-10-17T00:00:00.000Z
 
 <!-- i18n:section:controls -->
 ### 操作指南
+<!-- i18n:controls:keys -->
+- 按键（对齐）： `Click` `drag` `Click` `click`
 
 *   **移动纸牌：** 使用点击并拖拽，将单张牌或合法的连续序列从一个牌堆移动到另一个牌
     堆。
@@ -74,3 +76,4 @@ releaseDate: 2025-10-17T00:00:00.000Z
 <!-- i18n:faq:id=faq:classic-solitaire:q-can-i-move-cards-a79d9fc6 -->
 *   **问：可以把基座上的牌再移回牌桌吗？**
     *   **答：** 在大多数版本中可以。把基座最上方的一张牌移回牌桌，有时能帮助你翻开更多暗牌或调整结构，这往往是关键的高阶策略。
+

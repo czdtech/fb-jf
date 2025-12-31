@@ -41,6 +41,8 @@ idéntico.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Drag`
 
 - Arrastra deslizadores o ajusta cantidades de pintura; la vista previa se
   actualiza en tiempo real.
@@ -67,4 +69,5 @@ idéntico.
   
   R: Sí. Cuando estás muy cerca del objetivo, los últimos pasos dependen de
   microajustes en los deslizadores para conseguir una coincidencia perfecta.
+
 

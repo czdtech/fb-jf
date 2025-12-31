@@ -43,6 +43,8 @@ Timing und Geduld wichtiger sind als wildes Tippen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `Click`
 
 - Tippen/Klicken, um einen Pin in Richtung Kreis abzufeuern; in manchen
   Versionen kannst du Halten oder gedrückt halten, um Winkel zu variieren.
@@ -68,4 +70,5 @@ Timing und Geduld wichtiger sind als wildes Tippen.
   
   Schieße nur dann, wenn dein Zielsegment exakt unter dem Pin ist. Erzwungene
   Schüsse führen fast garantiert zu Kollisionen.
+
 

@@ -49,6 +49,8 @@ Planen entscheidend ist.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Tap` `tap`
 
 - Tippe oder klicke auf eine Sitzstange, um die oberste Katze aufzunehmen, und
   anschließend auf die Zielstange, um sie – falls der Zug erlaubt ist – dort
@@ -78,4 +80,5 @@ Planen entscheidend ist.
   Nein. Wichtig ist, flexibel zu bleiben. Kurze Backtracks und clevere Nutzung
   der Puffer bringen mehr als der Versuch, jeden Zug im Voraus zu
   perfektionieren.
+
 

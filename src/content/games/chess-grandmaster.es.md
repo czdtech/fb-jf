@@ -42,6 +42,8 @@ niveles de dificultad ajustables te permiten entrenar cálculo y reconocimiento
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Click` `click`
 
 - Haz clic en una pieza para ver sus movimientos legales y luego en la casilla
   de destino para moverla.
@@ -69,4 +71,5 @@ niveles de dificultad ajustables te permiten entrenar cálculo y reconocimiento
   R: Los mates básicos (rey+dama vs rey, rey+torre vs rey), la oposición en
   finales de rey y peones y algunos finales de torre fundamentales como las
   posiciones de Lucena y Philidor.
+
 

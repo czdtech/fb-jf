@@ -37,6 +37,8 @@ Classic Solitaire, aussi connu sous le nom de Klondike, est l'un des jeux de car
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `drag` `Click` `click`
 
 *   **Déplacer des cartes :** clique et fais glisser une carte (ou une séquence valide de cartes) d'une pile à une autre.
 *   **Tirer de la pioche :** clique sur la pioche face cachée pour tirer une carte (ou trois, selon la variante du jeu) vers la défausse.
@@ -56,4 +58,5 @@ Classic Solitaire, aussi connu sous le nom de Klondike, est l'un des jeux de car
 <!-- i18n:faq:id=faq:classic-solitaire:q-can-i-move-cards-a79d9fc6 -->
 *   **Q : Puis-je redescendre des cartes de la fondation vers le tableau ?**
     *   **R :** Oui, dans la plupart des versions du jeu, tu peux déplacer la carte du dessus d'une pile de fondation vers le tableau si cela t'aide à révéler d'autres cartes. C'est souvent un coup stratégique clé.
+
 

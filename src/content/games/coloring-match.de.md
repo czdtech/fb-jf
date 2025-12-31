@@ -44,6 +44,8 @@ du mit zu hoher Sättigung oder falscher Helligkeit danebenliegen.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag`
 
 - Bewege Mischregler oder gib Farbanteile an; die Vorschau wird in Echtzeit
   aktualisiert.
@@ -71,4 +73,5 @@ du mit zu hoher Sättigung oder falscher Helligkeit danebenliegen.
   
   Ja. Besonders nahe am Ziel können wenige Prozent bei Sättigung oder Helligkeit
   über Erfolg oder Misserfolg entscheiden. Nutze feine Reglerbewegungen.
+
 

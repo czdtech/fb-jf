@@ -51,6 +51,8 @@ pour poser la menace la plus efficace possible sans gaspiller de ressources.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `tap`
 
 - **Jouer une carte** : clique ou touche une carte depuis ta main puis la zone
   de jeu appropriée.  
@@ -75,4 +77,5 @@ pour poser la menace la plus efficace possible sans gaspiller de ressources.
 - **Les parties sont‑elles rapides ?**  
   Oui, les manches sont conçues pour des sessions courtes, parfaites pour une
   pause.
+
 

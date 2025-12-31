@@ -58,6 +58,8 @@ planification.
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `tap`
 
 - **Choisir un perchoir** : touche ou clique un perchoir pour prendre le chat
   du haut.  
@@ -79,5 +81,6 @@ planification.
 <!-- i18n:faq:id=faq:cat-sort-quest:do-i-need-every-move-7fdeaf28 -->
 - Q : Y a‑t‑il un ordre optimal pour terminer les couleurs ?
 R : Utilise la fonction d’annulation si elle existe, puis reviens quelques mouvements en arrière pour libérer à nouveau un perchoir vide.
+
 
 

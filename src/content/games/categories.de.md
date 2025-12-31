@@ -40,6 +40,8 @@ Zugdruck.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Drag` `tap`
 
 - Ziehe Begriffe per Drag & Drop in Kategorien oder tippe/klicke sie an, um sie
   per UI einer Gruppe zuzuweisen.
@@ -65,4 +67,5 @@ Zugdruck.
   
   Oft gibt es milde Zeitlimits, die das Tempo hochhalten, ohne allzu viel
   Druck aufzubauen.
+
 

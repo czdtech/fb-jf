@@ -69,6 +69,8 @@ memorización más que de habilidad pura.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Arrow Keys`
 
 Los controles imitan a los plataformas 2D clásicos.
 
@@ -100,4 +102,5 @@ No hay botón de correr ni de disparar.
 **4. ¿Cuál es el nombre real del juego?**
 > En inglés se le llama "Cat Mario" o "Neko Mario". Su nombre original en japonés
 > es "Syobon Action" (しょぼんのアクション).
+
 

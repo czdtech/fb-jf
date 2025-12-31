@@ -40,6 +40,8 @@ asegura el control de mesa para llevarte los duelos ajustados.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `tap`
 
 - Juega cartas haciendo clic o tocándolas y elige objetivos si es necesario; usa
   el botón de fin de turno en la interfaz.
@@ -61,4 +63,5 @@ asegura el control de mesa para llevarte los duelos ajustados.
 <!-- i18n:faq:id=faq:clash-of-warriors:fast-mode-f7a3450e -->
 - **¿Las partidas son rápidas?**
   Sí, están pensadas para sesiones cortas y duelos rápidos.
+
 

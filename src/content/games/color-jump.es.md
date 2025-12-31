@@ -39,6 +39,8 @@ coinciden y mantener el ritmo mientras la velocidad aumenta.
 
 <!-- i18n:section:controls -->
 ### Guía de controles
+<!-- i18n:controls:keys -->
+- Teclas (alineación)： `Tap` `Click`
 
 - Toca o haz clic para saltar; algunas variantes permiten un doble salto.
 - Usa los botones de Pausa/Reiniciar de la interfaz para tomar un respiro o
@@ -63,4 +65,5 @@ coinciden y mantener el ritmo mientras la velocidad aumenta.
   
   R: Algunas versiones lo incluyen y otras no; fíjate en las indicaciones del
   tutorial al empezar la partida.
+
 

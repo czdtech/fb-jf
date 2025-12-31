@@ -77,6 +77,8 @@ Die Strategie bei Clicker Heroes entwickelt sich im Spielverlauf.
 
 <!-- i18n:section:controls -->
 ### **Steuerung**
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `mouse` `Mouse` `Click` `Click` `Click` `SHIFT` `Click` `Click` `CTRL` `Click` `Click`
 
 Das Spiel wird überwiegend mit der Maus gespielt, Tastenkürzel erhöhen jedoch
  den Komfort.
@@ -122,3 +124,4 @@ Das Spiel wird überwiegend mit der Maus gespielt, Tastenkürzel erhöhen jedoch
 > Nein, Clicker Heroes ist prinzipiell endlos. Zonen, Gold- und Schadenswerte
 > skalieren unbegrenzt – dein persönliches Ziel ist, immer weiter hinaus zu
 > kommen.
+

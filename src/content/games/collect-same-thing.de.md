@@ -43,6 +43,8 @@ Symbole rechtzeitig abzuräumen und keine einzelnen "Waisen" einzusperren.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `Click` `tap`
 
 - Klicke oder tippe auf zwei passende Kacheln bzw. Objekte, um sie zu paaren –
   die genauen Regeln (Linien, Wege etc.) hängen vom Modus ab.
@@ -68,4 +70,5 @@ Symbole rechtzeitig abzuräumen und keine einzelnen "Waisen" einzusperren.
   
   Versuche, Paare schnell hintereinander zu finden, um mögliche Komboboni in
   Varianten zu nutzen, die Serien belohnen.
+
 

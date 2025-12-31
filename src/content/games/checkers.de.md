@@ -63,6 +63,8 @@ Spieler langfristig zu fordern.
 
 <!-- i18n:section:controls -->
 ### Steuerung
+<!-- i18n:controls:keys -->
+- Tasten (Abgleich)： `click` `tap` `drag` `Click` `tap` `Click` `tap` `Click`
 
 In der digitalen Version erfolgt die Bedienung per Mausklick oder Touch.
 
@@ -99,4 +101,5 @@ In der digitalen Version erfolgt die Bedienung per Mausklick oder Touch.
 > Sobald ein Stein die gegenüberliegende Grundreihe erreicht, wird er gekrönt.
 > Im Brettspiel legt man oft einen zweiten Stein darauf, in der digitalen
 > Version wird dies durch ein Krönungssymbol dargestellt.
+
 

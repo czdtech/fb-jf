@@ -53,6 +53,8 @@ positions de mat fondamentales).
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `click`
 
 - **Jouer un coup** : clique sur une pièce pour afficher ses déplacements
   légaux, puis clique sur la case de destination.  
@@ -71,5 +73,6 @@ positions de mat fondamentales).
 <!-- i18n:faq:id=faq:chess-grandmaster:what-endgames-should-i-learn-b6cc754b -->
 - Q : Des conseils d’ouverture pour débuter ?
 R : Joue régulièrement, résous des exercices tactiques et analyse tes parties perdues pour comprendre tes erreurs. Construis un petit répertoire d’ouvertures simples pour arriver en milieu de jeu dans des positions que tu connais.
+
 
 

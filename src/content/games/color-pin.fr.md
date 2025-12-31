@@ -31,6 +31,8 @@ Color Pin te demande de lancer des aiguilles sur un disque en rotation. Évite d
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Tap` `Click`
 
 - Tape/Clique pour lancer une aiguille (certaines variantes permettent de maintenir pour ajuster).
 - Pause/Restart via l’interface.
@@ -52,4 +54,5 @@ Color Pin te demande de lancer des aiguilles sur un disque en rotation. Évite d
 - Q: Une astuce pour les segments colorés ?
   
   A: Tire uniquement quand la bonne couleur est parfaitement alignée ; forcer un tir crée des collisions évitables.
+
 

@@ -30,6 +30,8 @@ Chess Mania offre une superbe expérience d'échecs pour les passionnés de tous
 
 <!-- i18n:section:controls -->
 ### Commandes
+<!-- i18n:controls:keys -->
+- Touches (alignement)： `Click` `click`
 
 *   **Sélectionner et déplacer :** clique sur une pièce pour voir ses coups légaux surlignés, puis clique sur la case de destination pour la déplacer.
 *   **Menu de partie :** utilise le menu pour choisir la difficulté de ton adversaire, commencer une nouvelle partie ou obtenir un indice si tu es bloqué.
@@ -48,4 +50,5 @@ Chess Mania offre une superbe expérience d'échecs pour les passionnés de tous
 <!-- i18n:faq:id=faq:chess-mania:q-how-can-i-improve-f82d33e2 -->
 *   **Q : Comment puis-je améliorer mes compétences aux échecs ?**
     *   **R :** Le meilleur moyen de s'améliorer est de jouer régulièrement, d'analyser tes parties pour apprendre de tes erreurs, et d'étudier les principes de base et les tactiques des échecs.
+
 

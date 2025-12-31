@@ -34,6 +34,8 @@ locale: ja
 
 <!-- i18n:section:controls -->
 ### 操作ガイド
+<!-- i18n:controls:keys -->
+- キー（整合）： `mouse` `Drag` `Drag` `Click` `Tap` `Click` `Click`
 
 マウスやタッチ操作だけで直感的に遊べます。
 
@@ -66,4 +68,5 @@ MP3などのファイルとして保存はできませんが、録音機能で�
 <!-- i18n:faq:id=faq:choir:is-the-game-free-to-dc95d7ac -->
 **5. 無料で遊べますか？**
 はい。Blob Operaはブラウザで遊べる無料のWeb実験です。
+
 
