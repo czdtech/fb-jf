@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: worlds-hardest-game
-title: "World's Hardest Game 월즈 하더스트 게임"
+title: World's Hardest Game 월즈 하더스트 게임
 description: >-
-  붉은 사각형을 조종해 움직이는 파란 공 사이를 뚫고 골 지점에 도달해야 하는 초고난도 아케이드
-  게임입니다. 한 칸 한 칸 정확한 타이밍과 인내심이 요구되는, 이름 그대로 "세상에서 가장 어렵다"는
-  평을 듣는 작품입니다.
+  붉은 사각형을 조종해 움직이는 파란 공 사이를 뚫고 골 지점에 도달해야 하는 초고난도 아케이드 게임입니다. 한 칸 한 칸 정확한 타이밍과
+  인내심이 요구되는, 이름 그대로 "세상에서 가장 어렵다"는 평을 듣는 작품입니다.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/the-worlds-hardest-game.html'
 thumbnail: /new-images/thumbnails/worlds-hardest-game.jpg
 tags:
@@ -24,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 피하며 목표 지점에 도달해야 하는 초고난도 아케이드 게임입니다. 규칙은 매우 단순하지만, 조금만
 타이밍이 어긋나도 순식간에 실패하기 때문에 극도로 정밀한 조작과 엄청난 인내심이 필요합니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 1.  **패턴을 먼저 관찰하기**: 움직이는 파란 공의 궤적과 주기를 충분히 관찰한 뒤 움직이세요.

@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: rampage-road
-title: "Rampage Road 램페이지 로드"
-description: >-
-  상단 시점에서 자동차를 몰며 적 차량을 파괴하는 카 슈팅 게임입니다.
-  교통량을 피해 달리고, 탄약과 쿨타임을 관리해 적들을 처리하세요.
+title: Rampage Road 램페이지 로드
+description: '상단 시점에서 자동차를 몰며 적 차량을 파괴하는 카 슈팅 게임입니다. 교통량을 피해 달리고, 탄약과 쿨타임을 관리해 적들을 처리하세요.'
 iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
 thumbnail: /new-images/thumbnails/rampage-road.png
 tags:
@@ -28,6 +26,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 최대한 피해를 줄이면서 목표 차량을 제거하는 것이 핵심입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1. **깨끗한 주행 라인 유지하기**  

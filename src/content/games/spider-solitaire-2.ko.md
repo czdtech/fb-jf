@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: spider-solitaire-2
-title: 'Spider Solitaire 스파이더 솔리테어'
+title: Spider Solitaire 스파이더 솔리테어
 description: >-
-  Spider Solitaire는 높은 난이도와 깊은 전략성으로 유명한 솔리테어 변형 게임입니다.
-  같은 무늬의 카드를 K에서 A까지 내림차순으로 정렬해 더미를 비워 나가는 것이
-  목표로, 신중한 계획과 장기적인 수 읽기가 요구됩니다.
+  Spider Solitaire는 높은 난이도와 깊은 전략성으로 유명한 솔리테어 변형 게임입니다. 같은 무늬의 카드를 K에서 A까지
+  내림차순으로 정렬해 더미를 비워 나가는 것이 목표로, 신중한 계획과 장기적인 수 읽기가 요구됩니다.
 iframeSrc: 'https://spidersolitaire.h5games.usercontent.goog/v/42fd7cuq80rao/'
 thumbnail: /new-images/thumbnails/spider-solitaire-2.png
 tags:
@@ -27,6 +26,7 @@ Spider Solitaire는 솔리테어 가운데에서도 가장 인기 있고 어려�
 되돌리기 어렵기 때문에, 높은 수준의 계획성과 인내심이 필요합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 및 공략
 
 1.  **목표 이해하기:** 테이블로 안에서 같은 무늬의 K부터 A까지 이어지는

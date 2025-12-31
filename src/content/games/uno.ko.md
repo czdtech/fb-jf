@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: uno
-title: "UNO Game 우노 게임"
+title: UNO Game 우노 게임
 description: >-
-  세계적으로 사랑받는 카드 게임 UNO를 즐길 수 있는 온라인 버전입니다. 같은 색 또는 같은 숫자의
-  카드를 내고, 특수 카드로 상대의 흐름을 끊으면서 손패를 가장 먼저 모두 비우고 "UNO!"를 외치는
-  사람이 승리합니다.
+  세계적으로 사랑받는 카드 게임 UNO를 즐길 수 있는 온라인 버전입니다. 같은 색 또는 같은 숫자의 카드를 내고, 특수 카드로 상대의 흐름을
+  끊으면서 손패를 가장 먼저 모두 비우고 "UNO!"를 외치는 사람이 승리합니다.
 iframeSrc: 'https://www.xpgameplus.com/games/uno/default.html'
 thumbnail: /new-images/thumbnails/uno.jpg
 tags:
@@ -24,6 +23,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 가장 먼저 0장으로 만드는 고전 카드 게임 UNO의 디지털 버전입니다. 규칙은 간단하지만, 어떤 색을
 남기고 어떤 카드를 아껴 둘지에 따라 전세가 크게 바뀌는 전략성이 특징입니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 1.  **색 우선 전략 세우기**: 현재 테이블 위에 깔린 색을 기준으로, 손에 많은 색부터 차근차근

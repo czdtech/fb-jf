@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: thief-puzzle
-title: 'Thief Puzzle 시프 퍼즐'
+title: Thief Puzzle 시프 퍼즐
 description: >-
-  Thief Puzzle은 고무줄처럼 늘어나는 팔을 뻗어 물건을 훔치면서, 레이저와 경비,
-  톱날 함정을 피해야 하는 퍼즐 게임입니다. 각 스테이지마다 최적의 경로와
-  타이밍을 찾아 목표물을 챙기세요.
+  Thief Puzzle은 고무줄처럼 늘어나는 팔을 뻗어 물건을 훔치면서, 레이저와 경비, 톱날 함정을 피해야 하는 퍼즐 게임입니다. 각
+  스테이지마다 최적의 경로와 타이밍을 찾아 목표물을 챙기세요.
 iframeSrc: 'https://5mubkj30k8998.h5games.usercontent.goog/v/79n1cktk92370/'
 thumbnail: /new-images/thumbnails/thief-puzzle.png
 tags:
@@ -25,6 +24,7 @@ Thief Puzzle에서는 플레이어가 고무줄처럼 늘어나는 팔을 가진
 동선 설계가 중요합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 및 공략
 
 1.  **경로 미리 탐색:**

@@ -30,6 +30,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 있습니다.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 1. **기본 욕구를 제때 채워 주기**  

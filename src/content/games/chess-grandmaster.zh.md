@@ -1,7 +1,7 @@
 ---
 locale: zh
 urlstr: chess-grandmaster
-title: "Chess Grandmaster 国际象棋大师版"
+title: Chess Grandmaster 国际象棋大师版
 description: >-
   《Chess Grandmaster 国际象棋大师版》提供完整的浏览器国际象棋体验，你可以与 AI 或
   本地对手对局，系统化练习开局、中局战术和残局基础，一步步向真正的“棋坛大师”迈进。
@@ -25,6 +25,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 计算能力与棋形识别能力。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **开局：** 争夺中心、快速发展轻子并尽早王车易位。优先把马和象发展到活跃格子，

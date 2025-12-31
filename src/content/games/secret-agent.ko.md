@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: secret-agent
-title: "Secret Agent 시크릿 에이전트"
+title: Secret Agent 시크릿 에이전트
 description: >-
-  잠입과 퍼즐 요소가 섞인 스텔스 액션 게임입니다. 경비의 시야를
-  피해 카메라와 함정을 해제하고, 각종 도구를 활용해 임무를 완수한
-  뒤 안전하게 탈출하세요.
+  잠입과 퍼즐 요소가 섞인 스텔스 액션 게임입니다. 경비의 시야를 피해 카메라와 함정을 해제하고, 각종 도구를 활용해 임무를 완수한 뒤
+  안전하게 탈출하세요.
 iframeSrc: 'https://087cce7dimlq8.h5games.usercontent.goog/v/6na8sphqpnhlo/'
 thumbnail: /new-images/thumbnails/secret-agent.png
 tags:
@@ -29,6 +28,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1. **시야 콘(시야 원뿔)을 항상 의식하기**  

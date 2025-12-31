@@ -1,9 +1,10 @@
 ---
 locale: zh
 urlstr: baldis-basics
-title: "Baldi's Basics 巴尔迪基础"
+title: Baldi's Basics 巴尔迪基础
 description: >-
-  《Baldi's Basics（巴尔迪基础）》是一款披着 90 年代低成本教育游戏外衣的恶搞向生存恐怖作品。下面整理了收集笔记本、道具使用、角色机制与逃出校园的攻略要点。
+  《Baldi's Basics（巴尔迪基础）》是一款披着 90
+  年代低成本教育游戏外衣的恶搞向生存恐怖作品。下面整理了收集笔记本、道具使用、角色机制与逃出校园的攻略要点。
 iframeSrc: 'https://html5.iclouds.io/baldis-basics/index.html'
 thumbnail: /new-images/thumbnails/baldis-basics.jpg
 tags:
@@ -28,6 +29,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 此后，你需要在逐渐紧张的气氛中，一边躲避 Baldi 和一群各有怪癖的角色，一边想办法拿到剩下的 5 本笔记本，最终找到离开校舍的出口。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏策略
 
 想要通关 *Baldi's Basics*，必须掌握听声辨位、道具管理，以及每个角色的行为逻辑。

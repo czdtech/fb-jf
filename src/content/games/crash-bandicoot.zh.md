@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: crash-bandicoot
-title: "Crash Bandicoot 古惑狼 浏览器版"
+title: Crash Bandicoot 古惑狼 浏览器版
 description: >-
-  《Crash Bandicoot 古惑狼 浏览器版》是一款致敬经典的复古平台动作游戏。操控古惑狼奔
-  跑、跳跃与旋转攻击，收集沃帕果和水晶，躲开 TNT 箱与陷阱，在浏览器中重温童年手感。
+  《Crash Bandicoot 古惑狼 浏览器版》是一款致敬经典的复古平台动作游戏。操控古惑狼奔 跑、跳跃与旋转攻击，收集沃帕果和水晶，躲开 TNT
+  箱与陷阱，在浏览器中重温童年手感。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crash-bandicoot.html'
 thumbnail: /new-images/thumbnails/crash-bandicoot.jpg
 tags:
@@ -25,6 +25,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 战，对决 Ripper Roo；通过旋转攻击反弹铁箱击中 BOSS，即可完成通关。
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### 如何游玩
 
 - 在关卡中沿着既定路线前进，尽可能收集沿途的水晶与沃帕果。  

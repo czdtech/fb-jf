@@ -1,10 +1,9 @@
 ---
 locale: ko
 urlstr: retro-drift
-title: "Retro Drift 레트로 드리프트"
+title: Retro Drift 레트로 드리프트
 description: >-
-  탑다운 시점에서 드리프트를 이어 가며 랩 타임을 단축하는 운전 게임입니다.
-  가속을 조절하고 카운터 스티어로 미끄러짐을 컨트롤해 깨끗한 라인을
+  탑다운 시점에서 드리프트를 이어 가며 랩 타임을 단축하는 운전 게임입니다. 가속을 조절하고 카운터 스티어로 미끄러짐을 컨트롤해 깨끗한 라인을
   만들어 보세요.
 iframeSrc: 'https://retrodrift.h5games.usercontent.goog/v/3jr7fjtqu0j18/'
 thumbnail: /new-images/thumbnails/retro-drift.jpg
@@ -29,6 +28,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 여러 코너를 이어 나가는 것이 핵심입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1. **천천히 진입하고 빠르게 탈출하기**  

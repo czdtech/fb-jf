@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: zombie-gun
-title: "Zombie Gun 좀비 건"
+title: Zombie Gun 좀비 건
 description: >-
-  벽 튕김과 폭발을 이용해 최소 탄환으로 방을 쓸어버리는 물리 기반 슈팅 퍼즐 게임입니다. 각도를
-  계산해 총알을 튕기고, 드럼통과 구조물을 활용해 좀비들을 한 번에 정리해 보세요.
+  벽 튕김과 폭발을 이용해 최소 탄환으로 방을 쓸어버리는 물리 기반 슈팅 퍼즐 게임입니다. 각도를 계산해 총알을 튕기고, 드럼통과 구조물을
+  활용해 좀비들을 한 번에 정리해 보세요.
 iframeSrc: 'https://5bcvrmoqria48.h5games.usercontent.goog/v/7cfakbl479q6o/'
 thumbnail: /new-images/thumbnails/zombie-gun.png
 tags:
@@ -24,6 +24,7 @@ Zombie Gun은 벽에 튕기는 총알과 주변 오브젝트를 이용해, 제�
 좀비나 직격으로는倒れない 적이 등장해, 환경을 이용한 처치가 더욱 중요해집니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **뱅크 샷(벽 튕기기) 활용**: 벽이나 천장을 이용해 총알을 튕기면, 직선으로는 맞히기 어려운 위치의

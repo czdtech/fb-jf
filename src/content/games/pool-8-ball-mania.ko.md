@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: pool-8-ball-mania
-title: "Pool 8 Ball Mania 8볼 당구 매니아"
+title: Pool 8 Ball Mania 8볼 당구 매니아
 description: >-
-  8볼 룰을 기반으로 한 캐주얼 포켓볼 게임입니다. 당점과 스핀을
-  조절해 수구를 컨트롤하고, 다음 공까지 연결되는 포지션 플레이를
-  연습해 보세요.
+  8볼 룰을 기반으로 한 캐주얼 포켓볼 게임입니다. 당점과 스핀을 조절해 수구를 컨트롤하고, 다음 공까지 연결되는 포지션 플레이를 연습해
+  보세요.
 iframeSrc: 'https://4i2ksm0sqbsr0.h5games.usercontent.goog/v/6fbgaukuhtvqo/'
 thumbnail: /new-images/thumbnails/pool-8-ball-mania.png
 tags:
@@ -29,6 +28,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 먼저 처리해야 합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1. **다음 공 위치까지 미리 생각하기**  

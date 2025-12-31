@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: unblock-that
-title: "Unblock That 언블록 댓"
+title: Unblock That 언블록 댓
 description: >-
-  나무 블록을 밀어 붉은 블록이 탈출할 길을 만드는 고전 슬라이딩 퍼즐입니다. 가로·세로로만
-  움직이는 블록들을 최소한의 이동으로 정리해 길을 여는 두뇌 게임입니다.
+  나무 블록을 밀어 붉은 블록이 탈출할 길을 만드는 고전 슬라이딩 퍼즐입니다. 가로·세로로만 움직이는 블록들을 최소한의 이동으로 정리해 길을
+  여는 두뇌 게임입니다.
 iframeSrc: 'https://unblockthat.h5games.usercontent.goog/v/6iqu63hhulkgo/'
 thumbnail: /new-images/thumbnails/unblock-that.png
 tags:
@@ -28,6 +28,7 @@ Unblock That은 다양한 길이의 나무 블록이 빽빽하게 배치된 보�
 훈련까지 모두 즐길 수 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **주요 방해 요소 먼저 찾기**: 먼저 붉은 블록과 출구 사이를 가로막는 블록이 무엇인지 확인하세요.

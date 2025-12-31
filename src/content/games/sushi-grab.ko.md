@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: sushi-grab
-title: "Sushi Grab 스시 그랩"
+title: Sushi Grab 스시 그랩
 description: >-
-  Sushi Grab은 회전초밥 레일을 배경으로 주문된 초밥만 빠르게 집어 올려 점수를
-  쌓는 아케이드 게임입니다. 제한 시간 안에 올바른 접시를 고르고, 함정과 벌점
-  접시는 피해 높은 점수 목표를 달성해 보세요.
+  Sushi Grab은 회전초밥 레일을 배경으로 주문된 초밥만 빠르게 집어 올려 점수를 쌓는 아케이드 게임입니다. 제한 시간 안에 올바른
+  접시를 고르고, 함정과 벌점 접시는 피해 높은 점수 목표를 달성해 보세요.
 iframeSrc: 'https://sushigrab.h5games.usercontent.goog/v/0ehlec2inmmrg/'
 thumbnail: /new-images/thumbnails/sushi-grab.png
 tags:
@@ -25,6 +24,7 @@ Sushi Grab은 회전초밥 집을 배경으로 한 속도감 있는 선택형 �
 있습니다. 제한 시간 안에 연속 성공을 이어 가며 목표 점수에 도달하는 것이 목적입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 공략 & 플레이 팁
 
 1. 주문 먼저 확인하기: 화면에 표시된 현재 주문을 먼저 확인하고, 필요 없는 접시는

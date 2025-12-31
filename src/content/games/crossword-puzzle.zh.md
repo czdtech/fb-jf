@@ -1,7 +1,7 @@
 ---
 locale: zh
 urlstr: crossword-puzzle
-title: "Crossword Puzzle 经典纵横填字"
+title: Crossword Puzzle 经典纵横填字
 description: >-
   《Crossword Puzzle 经典纵横填字》是一款传统英文填字游戏。根据横向与纵向编号提示，将
   单词填入方格，使所有交叉字母都相互匹配，最终完成整张网格。
@@ -25,6 +25,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 （cryptic）填字则在提示方式与网格结构上有不同传统。
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### 如何游玩
 
 - 选择某个提示或格子，然后直接输入字母以填入对应单词。  

@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: cut-the-rope
-title: "Cut The Rope 割绳子"
-description: >-
-  《Cut The Rope 割绳子》是一款经典物理益智游戏。你需要通过巧妙剪断绳子，收集星星并
-  让糖果安全落入小怪物 Om Nom 的嘴里。
+title: Cut The Rope 割绳子
+description: 《Cut The Rope 割绳子》是一款经典物理益智游戏。你需要通过巧妙剪断绳子，收集星星并 让糖果安全落入小怪物 Om Nom 的嘴里。
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/c/cut-the-rope/v020/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=4531b37c-a8e0-4a67-9ebd-e8d3190b6277&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=467&original_ref=
 thumbnail: /new-images/thumbnails/cut-the-rope.jpg
@@ -26,6 +24,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 充满变化。 
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### 如何游玩
 
 - 通过滑动/点击切断合适的绳子，让糖果以正确的摆动轨迹朝 Om Nom 摇去。  

@@ -11,7 +11,7 @@ tags:
   - super sprunki brasil
   - super sprunki brasil online
 score: 4.3/5  (380 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -49,6 +49,7 @@ releaseDate: 2025-12-04
 
 ---
 
+<!-- i18n:section:tips -->
 ### Super Sprunki Brasil 공략 팁
 
 - **브라질 리듬 탐색:**

@@ -1,7 +1,7 @@
 ---
 locale: zh
 urlstr: color-roll-3d
-title: "Color Roll 3D 色彩卷纸 3D"
+title: Color Roll 3D 色彩卷纸 3D
 description: >-
   《Color Roll 3D 色彩卷纸 3D》是一款极具满足感的展开填色解谜游戏。你需要按照正确顺
   序将彩色纸带一层层展开，用它们恰到好处地覆盖棋盘，拼出目标图案。
@@ -28,6 +28,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 补细节，最后用少量小块修饰，避免相互覆盖冲突。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **先铺底色：** 通常先从覆盖面积最大、颜色最靠底层的纸带开始展开，把整个棋盘的大

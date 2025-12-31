@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: unpark-me
-title: "Unpark Me 언파크 미"
+title: Unpark Me 언파크 미
 description: >-
-  복잡하게 얽힌 주차장을 배경으로 한 슬라이딩 퍼즐 게임입니다. 다른 자동차와 트럭을 앞으로 혹은
-  뒤로만 움직여 길을 터 주고, 빨간 차가 출구까지 빠져나가도록 최적의 경로를 찾아보세요.
+  복잡하게 얽힌 주차장을 배경으로 한 슬라이딩 퍼즐 게임입니다. 다른 자동차와 트럭을 앞으로 혹은 뒤로만 움직여 길을 터 주고, 빨간 차가
+  출구까지 빠져나가도록 최적의 경로를 찾아보세요.
 iframeSrc: 'https://unparkme.h5games.usercontent.goog/v/59baoe1o8mbe0/'
 thumbnail: /new-images/thumbnails/unpark-me.png
 tags:
@@ -29,6 +29,7 @@ Unpark Me는 이른바 "주차난 퍼즐"로 알려진 고전 슬라이딩 블�
 이동이 요구됩니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **가장 먼저 막고 있는 차량 확인하기**: 먼저 빨간 차와 출구 사이를 곧장 가로막고 있는 차량이

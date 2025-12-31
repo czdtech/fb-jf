@@ -1,17 +1,16 @@
 ---
 locale: zh
 urlstr: brain-trainer
-title: "Brain Trainer 大脑训练馆"
-description: >-
-  《Brain Trainer 大脑训练馆》是一款包含多种小游戏的脑力训练合集，通过记忆、反应、逻辑与计算等项目，帮助
-  你以轻松方式锻炼专注力与思维速度。
-iframeSrc: 'https://braintrainer.h5games.usercontent.goog/v/4f2ffbc6-4208-4087-bfaf-ab0db086da02/'
+title: Brain Trainer 大脑训练馆
+description: 《Brain Trainer 大脑训练馆》是一款包含多种小游戏的脑力训练合集，通过记忆、反应、逻辑与计算等项目，帮助 你以轻松方式锻炼专注力与思维速度。
+iframeSrc: >-
+  https://braintrainer.h5games.usercontent.goog/v/4f2ffbc6-4208-4087-bfaf-ab0db086da02/
 thumbnail: /new-images/thumbnails/brain-trainer.jpg
 tags:
   - puzzle
   - thinky
 score: 4.6/5  (3100 votes)
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
@@ -23,6 +22,7 @@ releaseDate: 2025-10-17
 每个项目通常只需几十秒到一两分钟，适合在碎片时间练习一轮。系统会根据你的表现给出评分或星级，让你可以直观地看到某个能力的进步情况。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏玩法示例
 
 游戏由多种迷你项目组成，例如：

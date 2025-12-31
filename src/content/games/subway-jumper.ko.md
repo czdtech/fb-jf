@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: subway-jumper
-title: 'Subway Jumper 서브웨이 점퍼'
+title: Subway Jumper 서브웨이 점퍼
 description: >-
-  Subway Jumper는 지하철 선로 위 장애물을 피하며 달리는 3라인 러너 게임입니다.
-  레인을 바꾸고 점프·슬라이딩 타이밍을 맞춰 점점 빨라지는 지하철 구간을
-  오래 버텨 보세요.
+  Subway Jumper는 지하철 선로 위 장애물을 피하며 달리는 3라인 러너 게임입니다. 레인을 바꾸고 점프·슬라이딩 타이밍을 맞춰 점점
+  빨라지는 지하철 구간을 오래 버텨 보세요.
 iframeSrc: 'https://34clth7bs1mtg.h5games.usercontent.goog/v/20un142k99goo/'
 thumbnail: /new-images/thumbnails/subway-jumper.png
 tags:
@@ -27,6 +26,7 @@ Subway Jumper는 전형적인 3라인 러너 구조를 가진 러닝 게임입�
 빨리 끝나기 쉽습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 및 공략
 
 1.  **시야를 멀리 두기:**

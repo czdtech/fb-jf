@@ -1,7 +1,7 @@
 ---
 locale: zh
 urlstr: bloons-td-2
-title: "Bloons TD 2 气球塔防 2"
+title: Bloons TD 2 气球塔防 2
 description: >-
   在《Bloons TD 2 气球塔防 2》中，布置并升级 5 种猴子防御塔，在 50 波来袭的气球面前坚守防线，合理搭配炸弹
   与冰冻塔来应对对爆炸免疫的黑气球和对冰冻免疫的白气球。
@@ -38,6 +38,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
     -   **Rainbow Bloon（彩虹气球）：** 游戏中最坚韧的普通气球，被戳破后会分裂成两颗斑马气球。  
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏策略
 
 - **防线必须足够“多样化”**  

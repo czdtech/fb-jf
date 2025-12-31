@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: tiger-run
-title: "Tiger Run 타이거 런"
+title: Tiger Run 타이거 런
 description: >-
-  정글을 배경으로 끝없이 달리는 러너 게임 Tiger Run입니다. 좌우로 레인을 이동하고 점프와
-  슬라이딩으로 장애물을 피하며 코인을 모아 최고 기록에 도전해 보세요.
+  정글을 배경으로 끝없이 달리는 러너 게임 Tiger Run입니다. 좌우로 레인을 이동하고 점프와 슬라이딩으로 장애물을 피하며 코인을 모아
+  최고 기록에 도전해 보세요.
 iframeSrc: 'https://tigerrun.h5games.usercontent.goog/v/1cl0c4rtsjsqo/'
 thumbnail: /new-images/thumbnails/tiger-run.jpeg
 tags:
@@ -24,6 +24,7 @@ Tiger Run은 정글 속을 질주하는 직관적인 엔드리스 러너 게임�
 핵심입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **시야는 항상 앞쪽에 두기**: 캐릭터 발밑이 아니라 멀리 앞을 보면서 달리세요. 앞으로 나타날

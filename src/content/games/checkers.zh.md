@@ -3,13 +3,14 @@ locale: zh
 urlstr: checkers
 title: Checkers 西洋跳棋
 description: 《Checkers 西洋跳棋》是经典 8×8 棋盘跳棋游戏，两位玩家轮流沿斜线移动棋子，通过跳吃与升王争夺盘面优势。
-iframeSrc: 'https://app-98054.games.s3.yandex.net/98054/nmrr3mfit1y3qyd35l9zk4d8awgfxsjq/index.html'
+iframeSrc: >-
+  https://app-98054.games.s3.yandex.net/98054/nmrr3mfit1y3qyd35l9zk4d8awgfxsjq/index.html
 thumbnail: /new-images/thumbnails/checkers.jpg
 tags:
   - board
   - puzzle
 score: 4.5/5  (596 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
@@ -40,6 +41,7 @@ releaseDate: 2025-08-16
 
 - **只走深色格：** 棋子只会摆放和移动在深色格上。
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 基本策略与对局思路
 
 1.  **占据中线与前场，避免只龟缩后方**  

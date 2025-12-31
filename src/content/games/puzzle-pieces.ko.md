@@ -1,10 +1,8 @@
 ---
 locale: ko
 urlstr: puzzle-pieces
-title: "Puzzle Pieces 퍼즐 피시스"
-description: >-
-  다각형 블록을 회전·이동해 빈틈 없이 판을 채우는 공간 퍼즐 게임입니다.
-  제한된 공간과 조각 모양을 계산하며 깔끔한 해답을 찾아 보세요.
+title: Puzzle Pieces 퍼즐 피시스
+description: 다각형 블록을 회전·이동해 빈틈 없이 판을 채우는 공간 퍼즐 게임입니다. 제한된 공간과 조각 모양을 계산하며 깔끔한 해답을 찾아 보세요.
 iframeSrc: 'https://05c9vfh919cbg.h5games.usercontent.goog/v/0ki2bua5asq00/'
 thumbnail: /new-images/thumbnails/puzzle-pieces.png
 tags:
@@ -24,6 +22,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 여러 번 배치를 바꾸어 보는 사고력이 요구됩니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1. **큰 조각과 독특한 모양부터 배치하기**  

@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: baseball
-title: "Doodle Baseball 手绘棒球"
-description: >-
-  《Doodle Baseball（手绘棒球）》是一款节奏简单但很考验打击手感的小游戏，下面是玩法说明、本垒打技巧、操作方式与常见问题。
+title: Doodle Baseball 手绘棒球
+description: 《Doodle Baseball（手绘棒球）》是一款节奏简单但很考验打击手感的小游戏，下面是玩法说明、本垒打技巧、操作方式与常见问题。
 iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
 thumbnail: /new-images/thumbnails/baseball.jpg
 tags:
@@ -25,6 +24,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 你只需要负责挥棒，守备与跑垒会根据击球质量自动处理。真正的挑战在于：随着游戏进行，对方投手会投出速度、落点都不同的球路，包括快速球、慢速球、变向球等，你要不断调整自己的挥棒时机才能稳定击中。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏策略
 
 虽然操作只有一个“挥棒”，但想要稳定打出本垒打，需要专注与节奏感。

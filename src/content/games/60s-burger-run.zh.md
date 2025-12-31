@@ -1,13 +1,14 @@
 ---
-title: "60 Second Burger Run 60 秒汉堡跑酷"
-description: "《60 Second Burger Run》是一款色彩鲜明的限时冲刺平台游戏：在严格的60秒时间限制内一路狂奔，赶在关门前冲进汉堡店！"
-iframeSrc: "https://www.playfiddlebops.com/embed/60s-burger-run/index.html"
+title: 60 Second Burger Run 60 秒汉堡跑酷
+description: 《60 Second Burger Run》是一款色彩鲜明的限时冲刺平台游戏：在严格的60秒时间限制内一路狂奔，赶在关门前冲进汉堡店！
+iframeSrc: 'https://www.playfiddlebops.com/embed/60s-burger-run/index.html'
 thumbnail: /new-images/thumbnails/60s-burger-run.jpg
-urlstr: "60s-burger-run"
-locale: "zh"
-score: "4.6/5  (1344 votes)"
-tags: ["60 seconds burger run"]
-releaseDate: 2025-12-04
+urlstr: 60s-burger-run
+locale: zh
+score: 4.6/5  (1344 votes)
+tags:
+  - 60 seconds burger run
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -24,6 +25,7 @@ releaseDate: 2025-12-04
 
 ---
 
+<!-- i18n:section:tips -->
 ### 策略与技巧
 
 -  **记忆是关键**：倒计时在关卡之间不会重置，所以最重要的是把路线记熟。失败很正常——每一次重来都在帮你熟悉地形，为下一次冲刺省下时间。

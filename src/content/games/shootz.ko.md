@@ -26,6 +26,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 맛이 특징입니다.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 1. **무기 업그레이드에 투자하기**  

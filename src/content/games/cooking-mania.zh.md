@@ -1,7 +1,7 @@
 ---
 locale: zh
 urlstr: cooking-mania
-title: "Cooking Mania 疯狂料理时间管理"
+title: Cooking Mania 疯狂料理时间管理
 description: >-
   《Cooking Mania 疯狂料理时间管理》是一款节奏飞快的餐厅经营游戏。你需要在有限时间
   内同时处理多张订单，连贯出菜、打出连击，并通过升级厨房设备来保持顾客满意度。
@@ -27,6 +27,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 在后续关卡中更轻松地应对高压时刻。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **热门菜品批量预制：** 对于出镜率最高的菜品，提前批量准备好基础食材（如面饼、肉排

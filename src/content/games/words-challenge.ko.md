@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: words-challenge
-title: "Words Challenge 워즈 챌린지"
+title: Words Challenge 워즈 챌린지
 description: >-
-  애너그램, 미니 십자말풀이, 단어 퀴즈 등이 섞인 종합 단어 퍼즐 세트입니다. 접두사·접미사와
-  글자 패턴을 활용해 단어를 추론하고, 제한 시간 안에 문제를 풀어 연속 정답 보너스를 노려 보세요.
+  애너그램, 미니 십자말풀이, 단어 퀴즈 등이 섞인 종합 단어 퍼즐 세트입니다. 접두사·접미사와 글자 패턴을 활용해 단어를 추론하고, 제한
+  시간 안에 문제를 풀어 연속 정답 보너스를 노려 보세요.
 iframeSrc: 'https://60p1t41kumli8.h5games.usercontent.goog/v/7pss7j2tdq7io/'
 thumbnail: /new-images/thumbnails/words-challenge.jpg
 tags:
@@ -23,6 +23,7 @@ Words Challenge는 여러 가지 유형의 단어 퍼즐을 한 번에 즐길 �
 다양한 모드를 섞어 제공합니다. 넓은 어휘력과 패턴 인식 능력을 동시에 요구하는 구성이 특징입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **접두사·접미사 먼저 떠올리기**: RE-, UN- 같은 접두사나 -ING, -ED, -ER 같은 접미사를 기준으로

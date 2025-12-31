@@ -31,6 +31,7 @@ releaseDate: 2025-10-17T00:00:00.000Z
 즐길 수 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1. **빙고 기본 규칙 이해하기**  

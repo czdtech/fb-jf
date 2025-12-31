@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: quiz-x
-title: "Quiz x 퀴즈 X"
+title: Quiz x 퀴즈 X
 description: >-
-  다양한 상식·이미지·간단한 논리 문제를 빠르게 풀어 나가는 퀴즈 쇼
-  게임입니다. 시간을 아끼고 오답을 제거하며 연속 정답 스트릭에
-  도전해 보세요.
+  다양한 상식·이미지·간단한 논리 문제를 빠르게 풀어 나가는 퀴즈 쇼 게임입니다. 시간을 아끼고 오답을 제거하며 연속 정답 스트릭에 도전해
+  보세요.
 iframeSrc: 'https://5348abrdhudu8.h5games.usercontent.goog/v/35ge2no4verb8/'
 thumbnail: /new-images/thumbnails/quiz-x.png
 tags:
@@ -29,6 +28,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 제거해 가며 가장 그럴듯한 선택지를 고르는 것이 중요합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1. **먼저 오답부터 지우기**  

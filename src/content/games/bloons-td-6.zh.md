@@ -1,7 +1,7 @@
 ---
 locale: zh
 urlstr: bloons-td-6
-title: "Bloons TD 6 气球塔防 6"
+title: Bloons TD 6 气球塔防 6
 description: >-
   《Bloons TD 6 气球塔防 6》是系列目前内容最丰富的一作，引入全 3D 画面、英雄单位、三路线升级与 Paragon
   级猴子等系统，需要你精细搭配防御塔与猴子知识，才能顶住最强气球与飞艇浪潮。
@@ -32,6 +32,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **Paragon（至尊猴）：** 某一猴子系的三条路线都升到 Tier 5 后，可以献祭合成为一个极其强大的 Paragon 形态，用于超高回合或 Boss 玩法。  
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏策略
 
 - **塔之间的“协同”是核心**  

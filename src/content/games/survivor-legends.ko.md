@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: survivor-legends
-title: 'Survivor Legends 서바이버 레전드'
+title: Survivor Legends 서바이버 레전드
 description: >-
-  Survivor Legends는 자동 공격형 생존 게임으로, 이동으로 적을 유도하고 레벨업으로
-  무기·패시브를 선택해 몰려오는 적 무리를 버티는 로그라이크 슈팅 게임입니다.
+  Survivor Legends는 자동 공격형 생존 게임으로, 이동으로 적을 유도하고 레벨업으로 무기·패시브를 선택해 몰려오는 적 무리를
+  버티는 로그라이크 슈팅 게임입니다.
 iframeSrc: 'https://244mb60l209a8.h5games.usercontent.goog/v/1koih6fev3le8/'
 thumbnail: /new-images/thumbnails/survivor-legends.png
 tags:
@@ -28,6 +28,7 @@ Survivor Legends는 자동으로 공격하는 캐릭터를 조종해, 사방에�
 완전히 달라집니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 및 공략
 
 1.  **넓은 원을 그리며 움직이기:**

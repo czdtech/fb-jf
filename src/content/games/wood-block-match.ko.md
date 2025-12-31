@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: wood-block-match
-title: "Wood Block Match 우드 블록 매치"
+title: Wood Block Match 우드 블록 매치
 description: >-
-  10×10 보드에 나무 블록을 배치해 행과 열을 지우는 편안한 퍼즐 게임입니다. 제한된 공간을 고려해
-  블록을 배치하고, 주머니처럼 남겨 둔 공간으로 난해한 모양을 처리하며 높은 점수에 도전해 보세요.
+  10×10 보드에 나무 블록을 배치해 행과 열을 지우는 편안한 퍼즐 게임입니다. 제한된 공간을 고려해 블록을 배치하고, 주머니처럼 남겨 둔
+  공간으로 난해한 모양을 처리하며 높은 점수에 도전해 보세요.
 iframeSrc: 'https://2rfr65hktjv5o.h5games.usercontent.goog/v/46h85f5g0sldo/'
 thumbnail: /new-images/thumbnails/wood-block-match.png
 tags:
@@ -25,6 +25,7 @@ Wood Block Match는 10×10 보드 위에 다양한 모양의 나무 블록을 �
 때문에, 장기적으로 공간을 어떻게 보존할지가 매우 중요합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **중앙에 숨 쉴 공간 남기기**: 보드 중앙을 최대한 비워 두고, 가장자리부터 정리해 나가면

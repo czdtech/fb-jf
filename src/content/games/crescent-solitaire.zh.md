@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: crescent-solitaire
-title: "Crescent Solitaire 新月接龙"
+title: Crescent Solitaire 新月接龙
 description: >-
-  《Crescent Solitaire 新月接龙》是一款节奏舒缓的双副牌接龙玩法。你需要在“新月”形牌
-  阵与基础堆之间来回移动牌张，按花色分别从 A 到 K、从 K 到 A 建立完整同花顺序，最终清
-  理整副牌面。
+  《Crescent Solitaire 新月接龙》是一款节奏舒缓的双副牌接龙玩法。你需要在“新月”形牌 阵与基础堆之间来回移动牌张，按花色分别从 A 到
+  K、从 K 到 A 建立完整同花顺序，最终清 理整副牌面。
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/crescent-solitaire-phaser/
 thumbnail: /new-images/thumbnails/crescent-solitaire.jpg
@@ -33,6 +32,7 @@ K，K 之下也可以接 A。牌堆空位不补牌。当所有可行移动耗尽
 顺序（但不能移动最底的 A 或 K）。
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### 如何游玩
 
 - 将桌面各堆最顶端可用的牌移动到对应的基础堆，注意遵循花色与递增/递减方向规则。  

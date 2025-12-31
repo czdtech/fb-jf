@@ -11,7 +11,7 @@ tags:
   - card
   - strategy
 score: 4.3/5  (2250 votes)
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -25,6 +25,7 @@ releaseDate: 2025-10-17
 随着战斗推进，你可以获得新卡、升级卡牌或移除负面牌，从而逐步优化卡组。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏策略与构筑思路
 
 1.  **建立清晰的卡组核心思路**

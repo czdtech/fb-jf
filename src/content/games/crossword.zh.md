@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: crossword
-title: "Crossword 纵横填字基础版"
-description: >-
-  《Crossword 纵横填字基础版》是一款经典英文填字游戏。根据横向与纵向线索填入单词，使
-  所有交叉字母相互匹配，完成整张网格。
+title: Crossword 纵横填字基础版
+description: 《Crossword 纵横填字基础版》是一款经典英文填字游戏。根据横向与纵向线索填入单词，使 所有交叉字母相互匹配，完成整张网格。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword.html'
 thumbnail: /new-images/thumbnails/crossword.jpg
 tags:
@@ -24,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
  180° 旋转对称结构；常见尺寸为平日 15×15、周日 21×21 左右。
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### 如何游玩
 
 - 点击某条线索或直接点击网格中的格子，然后输入字母填入答案。  

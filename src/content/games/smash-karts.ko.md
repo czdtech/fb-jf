@@ -28,6 +28,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 가깝습니다.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 1. **아이템(파워업) 활용법 익히기**  

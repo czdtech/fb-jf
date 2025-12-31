@@ -28,6 +28,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 요구되는 게임입니다.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 1. **기본 좌우 조작부터 완벽히 익히기**  

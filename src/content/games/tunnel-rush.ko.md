@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: tunnel-rush
-title: "Tunnel Rush 터널 러시"
+title: Tunnel Rush 터널 러시
 description: >-
-  고속으로 질주하는 3D 터널 속에서 장애물을 피하는 엔드리스 러너 게임입니다. 현란한 색상의
-  통로를 좌우로 이동하며 바리어를 피하고, 점점 빨라지는 속도 속에서 반사 신경을 시험해 보세요.
+  고속으로 질주하는 3D 터널 속에서 장애물을 피하는 엔드리스 러너 게임입니다. 현란한 색상의 통로를 좌우로 이동하며 바리어를 피하고, 점점
+  빨라지는 속도 속에서 반사 신경을 시험해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/gamehwq/20230830/12a/index.html
 thumbnail: /new-images/thumbnails/tunnel-rush.jpg
@@ -25,6 +25,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 및 각종 패턴을 피해 최대한 오래 살아남는 것이 목표입니다. 진행 시간이 길어질수록 속도가 점점
 빨라져, 시야와 반응 속도를 한계까지 끌어올리게 됩니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 1.  **반응 속도 훈련**: 장애물이 갑자기 튀어나오더라도 당황하지 않고 반사적으로 방향키를 입력할 수

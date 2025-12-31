@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: totemia-cursed-marbles
-title: "Totemia: Cursed Marbles 토테미아: 커스드 마블즈"
+title: 'Totemia: Cursed Marbles 토테미아: 커스드 마블즈'
 description: >-
-  고전 퍼즐 Zuma 스타일의 구슬 쏘기 게임 Totemia: Cursed Marbles입니다. 티키 석상에서 구슬을
-  발사해 같은 색 구슬 세 개 이상을 맞추고, 구슬 줄이 길의 끝에 도달하기 전에 모두 없애야 합니다.
+  고전 퍼즐 Zuma 스타일의 구슬 쏘기 게임 Totemia: Cursed Marbles입니다. 티키 석상에서 구슬을 발사해 같은 색 구슬 세
+  개 이상을 맞추고, 구슬 줄이 길의 끝에 도달하기 전에 모두 없애야 합니다.
 iframeSrc: 'https://totemiacursed.h5games.usercontent.goog/v/2hs7lfvsisr48/'
 thumbnail: /new-images/thumbnails/totemia-cursed-marbles.png
 tags:
@@ -25,6 +25,7 @@ Totemia: Cursed Marbles는 Zuma, Luxor 같은 고전 구슬 슈터의 계보를 
 없애면서, 줄의 맨 앞 구슬이 길 끝의 구멍에 도달하기 전에 전부 제거하는 것이 목표입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **콤보를 노려 점수 올리기**: 한 번 구슬을 터뜨렸을 때, 끊어진 양쪽 끝이 같은 색이라면 서로

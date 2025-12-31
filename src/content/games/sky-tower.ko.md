@@ -1,10 +1,9 @@
 ---
 locale: ko
 urlstr: sky-tower
-title: "Sky Tower 스카이 타워"
+title: Sky Tower 스카이 타워
 description: >-
-  움직이는 발판을 타이밍에 맞춰 떨어뜨려 하늘까지 쌓아 올리는 탑쌓기
-  퍼즐 게임입니다. 오차를 줄여 오버행을 최소화하고 가장 높은 타워를
+  움직이는 발판을 타이밍에 맞춰 떨어뜨려 하늘까지 쌓아 올리는 탑쌓기 퍼즐 게임입니다. 오차를 줄여 오버행을 최소화하고 가장 높은 타워를
   만들어 보세요.
 iframeSrc: 'https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/'
 thumbnail: /new-images/thumbnails/sky-tower.png
@@ -29,6 +28,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 실수가 반복되면 바닥 면적이 줄어들어 금방 게임이 끝나게 됩니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1. **항상 같은 기준점을 바라보기**  

@@ -1,7 +1,7 @@
 ---
 locale: zh
 urlstr: crossyroad
-title: "Crossy Road - 在线玩 Crossy Road 过马路"
+title: Crossy Road - 在线玩 Crossy Road 过马路
 description: >-
   《Crossy Road》是一款 8-bit 风格的无尽街机跳格游戏，你的任务是操控一只鸡（以及其他
   角色）不断穿越马路、河流与铁轨，在不被撞飞或淹死的前提下走得尽可能远。
@@ -10,7 +10,7 @@ thumbnail: /new-images/thumbnails/crossyroad.jpg
 tags:
   - crossy road
 score: 4.8/5  (1104 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -21,6 +21,7 @@ releaseDate: 2025-12-04
 “Why did the chicken cross the road?”（鸡为什么要过马路？）。
  
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### 如何游玩 Crossy Road
  
 - **移动方式：** 玩家通过点击屏幕让角色向前跳一格，也可以通过向左、向右、向下滑动控制角

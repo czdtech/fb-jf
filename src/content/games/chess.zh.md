@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: chess
-title: "Chess 国际象棋基础指南"
+title: Chess 国际象棋基础指南
 description: >-
   通过这份《Chess 国际象棋基础指南》系统学习国际象棋的规则、棋子走法与常见策略。规
-  划每一步落子、掌控整盘局面，在攻守转换中将死对手的国王，赢下这款经久不衰的经典
-  桌游。
+  划每一步落子、掌控整盘局面，在攻守转换中将死对手的国王，赢下这款经久不衰的经典 桌游。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/chess/'
 thumbnail: /new-images/thumbnails/chess.jpg
 tags:
@@ -43,6 +42,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
     选择向前走两格。兵不能向后走，也不能向后吃子。兵还拥有两个特殊规则：*“吃过路兵
     ”*以及*“升变（Promotion）”*。
 
+<!-- i18n:section:how-to-play -->
 ### 玩法策略
 
 #### 开局原则
@@ -54,6 +54,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 3.  **尽早王车易位：** 王车易位是一种特殊走法，可以同时让国王躲到相对安全的位置，并
     把一只车发展到中心附近，是开局阶段非常关键的一步。
 
+<!-- i18n:section:tips -->
 #### 中局策略
 
 1.  **子力价值：** 作为参考，一般认为兵=1 分，马=3 分，象=3 分，车=5 分，后=9 分。交

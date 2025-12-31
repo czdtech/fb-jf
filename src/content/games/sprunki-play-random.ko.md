@@ -1,18 +1,17 @@
 ---
 locale: ko
 urlstr: sprunki-play-random
-title: 'Sprunki Play Random 스프룽키 플레이 랜덤'
+title: Sprunki Play Random 스프룽키 플레이 랜덤
 description: >-
-  Sprunki Play Random은 매번 다른 사운드가 나오는 랜덤 요소가 핵심인 음악 제작
-  모드입니다. 어떤 캐릭터에서 어떤 소리가 나올지 모르는 채, 우연을 활용해
-  나만의 트랙을 완성해 보세요.
+  Sprunki Play Random은 매번 다른 사운드가 나오는 랜덤 요소가 핵심인 음악 제작 모드입니다. 어떤 캐릭터에서 어떤 소리가
+  나올지 모르는 채, 우연을 활용해 나만의 트랙을 완성해 보세요.
 iframeSrc: 'https://turbowarp.org/1148555262/embed'
 thumbnail: /new-images/thumbnails/sprunki-play-random.png
 tags:
   - sprunki play random
   - sprunki play random online
 score: 4.5/5  (614 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -64,6 +63,7 @@ Sprunki Play Random은 "예측할 수 없음"을 중심에 둔 음악 제작 모
 
 ---
 
+<!-- i18n:section:tips -->
 ### Sprunki Play Random 공략 팁
 
 - **배치를 다양하게 바꾸기:**

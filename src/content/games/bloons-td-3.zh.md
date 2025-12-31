@@ -1,7 +1,7 @@
 ---
 locale: zh
 urlstr: bloons-td-3
-title: "Bloons TD 3 气球塔防 3"
+title: Bloons TD 3 气球塔防 3
 description: >-
   《Bloons TD 3 气球塔防 3》在系列基础上加入更多猴子塔、首次引入 MOAB 飞艇与 Monkey Beacon 支援塔，通过更
   多样的地图与难度考验你的塔防布局功力。
@@ -31,6 +31,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **继续沿用气球免疫机制：** 包括 **Lead（铅气球，免疫锐器）**、**Black（黑气球，免疫爆炸）**、**White（白气球，免疫冰冻）** 等，为塔的搭配提出更高要求。  
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏策略
 
 - **平衡开局：飞镖猴 + 钉子塔 + 回旋镖猴：** 前期先用飞镖猴和钉子塔搭好基础，尽早把飞镖猴升到“穿透飞镖”，再在弧形路段补一只 Boomerang Thrower（回旋镖猴），即可稳定清理中前期密集小气球。

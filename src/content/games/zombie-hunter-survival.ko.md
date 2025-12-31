@@ -23,6 +23,7 @@ Zombie Hunter: Survival은 상단 시점에서 캐릭터를 조종해 사방에�
 관리하면서 최대한 오래 살아남는 것이 목표입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **원형으로 묶어 쏘기(영문: Circle Kiting)**: 넓은 원을 그리며 달리면 좀비들이 한 덩어리로 모입니다.

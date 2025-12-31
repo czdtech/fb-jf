@@ -1,7 +1,7 @@
 ---
 locale: zh
 urlstr: collect-same-thing
-title: "Collect Same Thing 同物配对消除"
+title: Collect Same Thing 同物配对消除
 description: >-
   《Collect Same Thing 同物配对消除》是一款画面整洁的配对消除游戏。你需要在有限空
   间里找出相同物品，将它们成对消除，合理规划出牌顺序和空间，才能顺利清空棋盘。
@@ -27,6 +27,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 最后只剩下几块“单身狗”被卡在角落，既没有配对对象又阻塞了空间。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **优先打开通路：** 开局时先处理那些能“打通道路”的配对，尽量让更多被遮挡的方块暴

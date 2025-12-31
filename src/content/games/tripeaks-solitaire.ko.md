@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: tripeaks-solitaire
-title: "Tripeaks Solitaire 트리픽스 솔리테어"
+title: Tripeaks Solitaire 트리픽스 솔리테어
 description: >-
-  세 개의 피라미드 모양 카드 더미를 모두 치우는 트리픽스 솔리테어입니다. 버림 패의 숫자보다
-  하나 높거나 낮은 카드를 연달아 내면서 긴 연속 콤보를 만들고, 패산이 떨어지기 전에 보드를
-  깨끗이 비우는 것이 목표입니다.
+  세 개의 피라미드 모양 카드 더미를 모두 치우는 트리픽스 솔리테어입니다. 버림 패의 숫자보다 하나 높거나 낮은 카드를 연달아 내면서 긴 연속
+  콤보를 만들고, 패산이 떨어지기 전에 보드를 깨끗이 비우는 것이 목표입니다.
 iframeSrc: 'https://tripeakssolitaire.h5games.usercontent.goog/v/4v3d7g06n6rug/'
 thumbnail: /new-images/thumbnails/tripeaks-solitaire.png
 tags:
@@ -29,6 +28,7 @@ Tripeaks Solitaire는 골프 솔리테어와 피라미드 솔리테어의 요소
 순서를 계획하는 전략도 중요합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **목표 파악하기**: 최종 목표는 세 개의 봉우리(피크)에 놓인 카드를 포함해 테이블의 모든 카드를

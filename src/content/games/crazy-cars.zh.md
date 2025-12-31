@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: crazy-cars
-title: "Crazy Cars 疯狂城市赛车"
+title: Crazy Cars 疯狂城市赛车
 description: >-
   《Crazy Cars 疯狂城市赛车》是一款轻松向 3D 驾驶与特技游戏。你可以在开放城市地图中自
-  由探索，参加赛事、收集星星与扳手，借助氮气在各种坡道上腾空飞跃，并逐步解锁更强力
-  的赛车。
+  由探索，参加赛事、收集星星与扳手，借助氮气在各种坡道上腾空飞跃，并逐步解锁更强力 的赛车。
 iframeSrc: 'https://g.igroutka.ru/games/164/2afwOT8yZFmeYWGJ/2/crazy_cars/'
 thumbnail: /new-images/thumbnails/crazy-cars.jpg
 tags:
@@ -27,6 +26,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 ，用来解锁更快的新车。某些版本甚至支持本地双人分屏游玩。
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### 如何游玩
 
 - 驾车在城市地图中探索，寻找各种活动入口：竞速赛、计时赛、障碍赛与特技场地等。  

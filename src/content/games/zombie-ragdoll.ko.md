@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: zombie-ragdoll
-title: "Zombie Ragdoll 좀비 래그돌"
+title: Zombie Ragdoll 좀비 래그돌
 description: >-
-  래그돌 좀비를 날려 레버를 당기고 폭탄과 구조물을 터뜨려 스테이지를 정리하는 퍼즐 슈팅 게임입니다.
-  발사 각도와 힘을 조절해 연쇄 반응을 일으키고, 최소 발사 횟수로 클리어에 도전해 보세요.
+  래그돌 좀비를 날려 레버를 당기고 폭탄과 구조물을 터뜨려 스테이지를 정리하는 퍼즐 슈팅 게임입니다. 발사 각도와 힘을 조절해 연쇄 반응을
+  일으키고, 최소 발사 횟수로 클리어에 도전해 보세요.
 iframeSrc: 'https://04qb5fhi49qmg.h5games.usercontent.goog/v/64br0v92f7928/'
 thumbnail: /new-images/thumbnails/zombie-ragdoll.jpg
 tags:
@@ -24,6 +24,7 @@ Zombie Ragdoll은 좀비 래그돌을 대포처럼 쏘아, 레버를 작동시�
 튕겨 나가고, 그 과정에서 다양한 장치를 건드려 일종의 도미노처럼 연쇄 반응을 일으킵니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **첫 발은 탐색용으로 사용하기**: 첫 번째 샷은 주로 물리 엔진과 구조물이 어떻게 움직이는지

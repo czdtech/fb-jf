@@ -25,6 +25,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 중요한 게임입니다.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 1.  **벽을 이용한 반사 사격:**

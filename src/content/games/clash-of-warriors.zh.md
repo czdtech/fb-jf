@@ -1,7 +1,7 @@
 ---
 locale: zh
 urlstr: clash-of-warriors
-title: "Clash of Warriors 战士冲突"
+title: Clash of Warriors 战士冲突
 description: >-
   《Clash of Warriors 战士冲突》是一款节奏紧凑的卡牌对战游戏。合理规划费用曲线、进
   行高效交换，读懂对手意图，在短时间内打出极具策略性的精彩对局。
@@ -23,6 +23,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 通过合理规划曲线、计算交换和预判对方可能的应对，你可以在几回合之间就决定一局胜负。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **费用曲线纪律：** 尽量在每一回合都把可用资源花到合理上限，保

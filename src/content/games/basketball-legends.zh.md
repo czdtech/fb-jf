@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: basketball-legends
-title: "Basketball Legends 篮球传奇"
+title: Basketball Legends 篮球传奇
 description: >-
-  《Basketball Legends 篮球传奇》完整攻略：带你掌握街机篮球的全部技巧——从基础操作、进攻与防守思路，到
-  Super Shot 超级投篮的使用时机，以及单人和双人模式的常见问题解答。
+  《Basketball Legends 篮球传奇》完整攻略：带你掌握街机篮球的全部技巧——从基础操作、进攻与防守思路，到 Super Shot
+  超级投篮的使用时机，以及单人和双人模式的常见问题解答。
 iframeSrc: 'https://webglmath.github.io/basketball-legends/'
 thumbnail: /new-images/thumbnails/basketball-legends.jpg
 tags:
@@ -25,6 +25,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 你可以参加 1v1 或 2v2 对局，目标很纯粹：在计时结束前，比对手多拿分。游戏的标志性机制是 **Super Shot 超级投篮**——当能量槽蓄满后，可以释放一次几乎无法被封盖的必进球。再加上快速比赛、锦标赛、双人同键盘等多种模式，无论你是独自挑战 AI，还是和朋友在同一键盘上对战，都能找到合适的玩法节奏。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏策略
 
 想要在 *Basketball Legends* 中稳定获胜，关键在于掌握移动细节、出手节奏，以及在对的时间使用 Super Shot 和队友配合。
@@ -43,6 +44,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 3.  **用抢断（Steal）制造快攻：** 当对手在你身边运球时，使用“晃动/抢断”键可以把球拨掉，制造失误。成功抢断后马上冲刺反击，很多轻松得分都来自这种防守转进攻的瞬间。
 4.  **防守同样需要冲刺：** 冲刺不仅是进攻工具，也是补防利器。对手形成空位或快速推进时，立刻使用 Dash 回防，封堵上篮路线或干扰外线出手。
 
+<!-- i18n:section:controls -->
 ### 操作指南
 
 本作最有名的一点，就是支持两名玩家在同一键盘上对战；键位设计也非常经典。

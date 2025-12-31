@@ -1,9 +1,10 @@
 ---
 locale: zh
 urlstr: bad-time-simulator
-title: "Bad Time Simulator 坏时间模拟器"
+title: Bad Time Simulator 坏时间模拟器
 description: >-
-  《Bad Time Simulator（坏时间模拟器）》是一款粉丝自制浏览器游戏，完整复刻了《Undertale》屠杀路线中与 Sans 的高难度最终战，下面是关于玩法策略、操作与常见问题的详细说明。
+  《Bad Time Simulator（坏时间模拟器）》是一款粉丝自制浏览器游戏，完整复刻了《Undertale》屠杀路线中与 Sans
+  的高难度最终战，下面是关于玩法策略、操作与常见问题的详细说明。
 iframeSrc: 'https://gotoanddie.github.io/c2-sans-fight/'
 thumbnail: /new-images/thumbnails/bad-time-simulator.jpg
 tags:
@@ -33,6 +34,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - 所有攻击都是脚本固定的，你面对的是一套设计好的“招式编排”。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏攻略思路
 
 想在 Bad Time Simulator 中获胜，靠的不是乱动，而是**记招 + 微操 + 心态**。

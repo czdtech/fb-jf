@@ -1,17 +1,17 @@
 ---
 locale: ko
 urlstr: sprunki-swapped-horror
-title: 'Sprunki Swapped Horror 스프룽키 스왑드 호러'
+title: Sprunki Swapped Horror 스프룽키 스왑드 호러
 description: >-
-  Sprunki Swapped Horror는 캐릭터의 역할과 이미지를 뒤바꾸는 "스왑" 메커니즘으로,
-  익숙한 스프룽키 캐릭터를 새 사운드와 공포 분위기로 재구성한 모드입니다.
+  Sprunki Swapped Horror는 캐릭터의 역할과 이미지를 뒤바꾸는 "스왑" 메커니즘으로, 익숙한 스프룽키 캐릭터를 새 사운드와
+  공포 분위기로 재구성한 모드입니다.
 iframeSrc: 'https://turbowarp.org/1132681434/embed'
 thumbnail: /new-images/thumbnails/sprunki-swapped-horror.png
 tags:
   - sprunki swapped horror
   - sprunki swapped horror online
 score: 4.4/5  (395 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -53,6 +53,7 @@ Sprunki Swapped Horror는 창의적인 캐릭터 스왑 시스템이 핵심인 I
   완성한 Sprunki Swapped Horror 트랙을 커뮤니티에 공유해, 다른 플레이어와
   영감을 나눌 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### Sprunki Swapped Horror 공략 팁
 
 - **캐릭터 스왑을 적극 활용:**

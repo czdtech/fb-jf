@@ -1,18 +1,17 @@
 ---
 locale: ko
 urlstr: sprunki-basical
-title: 'Sprunki Basical 스프룽키 베이시컬'
+title: Sprunki Basical 스프룽키 베이시컬
 description: >-
-  Sprunki Basical은 단순한 조작만으로 순수한 음악 만들기의 재미를 느낄 수 있는
-  스프룽키 스타일 음악 제작 게임입니다. Incredibox를 좋아하고, 조금 더 가벼운
-  느낌의 새 모드를 찾는 플레이어에게 잘 어울립니다.
+  Sprunki Basical은 단순한 조작만으로 순수한 음악 만들기의 재미를 느낄 수 있는 스프룽키 스타일 음악 제작 게임입니다.
+  Incredibox를 좋아하고, 조금 더 가벼운 느낌의 새 모드를 찾는 플레이어에게 잘 어울립니다.
 iframeSrc: 'https://sprunki-basical.pages.dev/'
 thumbnail: /new-images/thumbnails/sprunki-basical.png
 tags:
   - sprunki basical
   - sprunki basical online
 score: 4.4/5  (420 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -41,6 +40,7 @@ Sprunki Basical은 "기본으로 돌아가기"를 콘셉트로 한 음악 제작
 
 ---
 
+<!-- i18n:section:tips -->
 ### Sprunki Basical 플레이 팁
 
 - **비트부터 깔기:** 우선 리듬 역할을 하는 사운드를 배치해 기본 틀을 만들어

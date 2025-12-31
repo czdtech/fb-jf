@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: solitaire-classic
-title: 'Solitaire Classic 솔리테어 클래식'
+title: Solitaire Classic 솔리테어 클래식
 description: >-
-  Solitaire Classic은 클론다이크(Klondike)로도 잘 알려진 고전 1인용 카드 게임입니다.
-  섞인 52장의 카드를 네 개의 바닥 패(패운데이션)에 A부터 K까지 순서대로 쌓아
-  올리는 것이 목표로, 인내심과 전략, 약간의 운이 함께 요구됩니다.
+  Solitaire Classic은 클론다이크(Klondike)로도 잘 알려진 고전 1인용 카드 게임입니다. 섞인 52장의 카드를 네 개의
+  바닥 패(패운데이션)에 A부터 K까지 순서대로 쌓아 올리는 것이 목표로, 인내심과 전략, 약간의 운이 함께 요구됩니다.
 iframeSrc: 'https://solitaireclassic.h5games.usercontent.goog/v/7sbt28mppqim8/'
 thumbnail: /new-images/thumbnails/solitaire-classic.png
 tags:
@@ -27,6 +26,7 @@ Solitaire Classic은 전 세계에서 가장 널리 사랑받는 솔리테어 �
 전략적인 선택과 인내심이 크게 요구됩니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 및 공략
 
 1.  **구성 요소 이해하기**

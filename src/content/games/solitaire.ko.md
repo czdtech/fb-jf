@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: solitaire
-title: 'Solitaire 솔리테어'
+title: Solitaire 솔리테어
 description: >-
-  Solitaire는 카드를 정해진 순서와 무늬에 맞게 늘어놓아 모든 카드를 바닥 패로
-  옮기고 테이블로를 비우는 고전 1인용 카드 게임입니다. 규칙은 단순하지만
-  높은 전략성이 있어 오래 즐길 수 있는 퍼즐 카드 게임입니다.
+  Solitaire는 카드를 정해진 순서와 무늬에 맞게 늘어놓아 모든 카드를 바닥 패로 옮기고 테이블로를 비우는 고전 1인용 카드 게임입니다.
+  규칙은 단순하지만 높은 전략성이 있어 오래 즐길 수 있는 퍼즐 카드 게임입니다.
 iframeSrc: 'https://www.edogan.us/solitaire-js/'
 thumbnail: /new-images/thumbnails/solitaire.jpg
 tags:
@@ -25,6 +24,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 이동하며 숨겨진 카드를 드러내고, 적절한 순서로 쌓아 가면서 퍼즐을 푸는 느낌으로
 즐길 수 있는 게임입니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 1.  **숨겨진 카드 우선 공개:** 새로운 선택지를 만들기 위해, 뒷면 카드가

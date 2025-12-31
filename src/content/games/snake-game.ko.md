@@ -25,6 +25,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 원리는 예전과 동일합니다.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 1. **이동 경로를 미리 계획하기**  

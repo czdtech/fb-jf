@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: sortworks
-title: 'SortWorks 소트웍스'
+title: SortWorks 소트웍스
 description: >-
-  SortWorks는 다양한 물건을 규칙에 맞게 분류·적재하는 정렬 퍼즐 게임입니다.
-  컨베이어 벨트에서 흘러오는 아이템을 올바른 상자에 보내고, 한정된 버퍼 칸을
-  계획적으로 사용해 막힘 없이 처리하는 것이 핵심입니다.
+  SortWorks는 다양한 물건을 규칙에 맞게 분류·적재하는 정렬 퍼즐 게임입니다. 컨베이어 벨트에서 흘러오는 아이템을 올바른 상자에
+  보내고, 한정된 버퍼 칸을 계획적으로 사용해 막힘 없이 처리하는 것이 핵심입니다.
 iframeSrc: 'https://293f3i461vfvo.h5games.usercontent.goog/v/31blvf8tg44g0/'
 thumbnail: /new-images/thumbnails/sortworks.png
 tags:
@@ -27,6 +26,7 @@ SortWorks는 색깔, 모양, 종류 등 여러 기준에 따라 물건을 분류
 속도가 빨라지고 분류 기준도 복잡해집니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 및 공략
 
 1.  **규칙의 우선순위 세우기:** 위험물/일반 물품처럼 치명적인 분류 규칙을 먼저

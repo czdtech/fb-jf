@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: reversi-mania
-title: "Reversi Mania 리버시 매니아"
+title: Reversi Mania 리버시 매니아
 description: >-
-  Reversi Mania는 클래식 보드 게임 오델로를 브라우저에서 즐길 수 있게 만든 온라인
-  버전입니다. 8x8 보드에서 상대 돌을 양쪽에서 끼워 뒤집고, 코너와 끝줄을 차지해
-  마지막에 더 많은 돌을 남기는 것이 목표입니다.
+  Reversi Mania는 클래식 보드 게임 오델로를 브라우저에서 즐길 수 있게 만든 온라인 버전입니다. 8x8 보드에서 상대 돌을 양쪽에서
+  끼워 뒤집고, 코너와 끝줄을 차지해 마지막에 더 많은 돌을 남기는 것이 목표입니다.
 iframeSrc: 'https://reversimania.h5games.usercontent.goog/v/7rhqf6sl8lpf0/'
 thumbnail: /new-images/thumbnails/reversi-mania.png
 tags:
@@ -28,6 +27,7 @@ Reversi Mania는 리버시(오델로) 규칙을 충실히 구현한 보드 게�
 돌을 가진 쪽이 승리합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 공략 & 플레이 팁
 
 1. 코너 선점하기: 네 모서리 칸에 놓인 돌은 절대 뒤집히지 않기 때문에, 코너를 먼저

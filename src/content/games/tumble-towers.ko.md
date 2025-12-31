@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: tumble-towers
-title: "Tumble Towers 텀블 타워즈"
+title: Tumble Towers 텀블 타워즈
 description: >-
-  낙하하는 블록을 쌓아 안정적인 탑을 만드는 물리 퍼즐 게임입니다. 무게 중심과 돌출 부분을
-  신중하게 조절해, 중력 체크 후에도 무너지지 않는 튼튼한 타워를 완성해 보세요.
+  낙하하는 블록을 쌓아 안정적인 탑을 만드는 물리 퍼즐 게임입니다. 무게 중심과 돌출 부분을 신중하게 조절해, 중력 체크 후에도 무너지지 않는
+  튼튼한 타워를 완성해 보세요.
 iframeSrc: 'https://786ndsslg99r8.h5games.usercontent.goog/v/70bavan56u08g/'
 thumbnail: /new-images/thumbnails/tumble-towers.png
 tags:
@@ -27,6 +27,7 @@ Tumble Towers는 한 조각씩 떨어지는 블록을 쌓아 올려, 중력 검�
 들어왔을 때 탑이 버틸 수 있도록 설계하는 데 있습니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **높이보다 넓은 기반이 우선**: 게임 초반에는 가능한 한 폭이 넓고 평평한 기초층을 만드세요.

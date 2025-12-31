@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: trap-the-cat
-title: "Trap the Cat 트랩 더 캣"
+title: Trap the Cat 트랩 더 캣
 description: >-
-  육각형 격자 위에서 교묘한 고양이의 탈출 경로를 막아 가두는 전략 퍼즐 게임입니다. 한 칸씩
-  장애물을 놓아 고양이가 가장자리까지 도망치지 못하도록 논리적으로 길을 차단해야 합니다.
+  육각형 격자 위에서 교묘한 고양이의 탈출 경로를 막아 가두는 전략 퍼즐 게임입니다. 한 칸씩 장애물을 놓아 고양이가 가장자리까지 도망치지
+  못하도록 논리적으로 길을 차단해야 합니다.
 iframeSrc: 'https://freeonlinegames.github.io/cat-trap.html'
 thumbnail: /new-images/thumbnails/trap-the-cat.jpg
 tags:
@@ -24,6 +24,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 최단 경로를 찾아 가장자리로 도망치려 합니다. 한 수 앞, 두 수 앞을 내다보며 어디를 막아야 고양이의
 이동을 점점 좁혀 갈 수 있을지 계산하는 두뇌 싸움이 핵심입니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 1.  **중앙 장악부터 시작하기**: 처음부터 가장자리를 막으려 하기보다는, 고양이 주변에 장애물을

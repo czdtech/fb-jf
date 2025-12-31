@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: ultimate-knife-smash
-title: "Ultimate Knife Smash 얼티밋 나이프 스매시"
+title: Ultimate Knife Smash 얼티밋 나이프 스매시
 description: >-
-  회전하는 표적에 칼을 던져 꽂는 타이밍 아케이드 게임입니다. 이미 박혀 있는 칼을 피해 빈틈을
-  정확히 노리고, 변화하는 회전 속도와 방향에 맞춰 콤보를 이어 가 보세요.
+  회전하는 표적에 칼을 던져 꽂는 타이밍 아케이드 게임입니다. 이미 박혀 있는 칼을 피해 빈틈을 정확히 노리고, 변화하는 회전 속도와 방향에
+  맞춰 콤보를 이어 가 보세요.
 iframeSrc: 'https://ultimateknifesmash.h5games.usercontent.goog/v/5ifrmqkiihdj0/'
 thumbnail: /new-images/thumbnails/ultimate-knife-smash.png
 tags:
@@ -26,6 +26,7 @@ Ultimate Knife Smash는 회전하는 표적에 칼을 던져 꽂는 단순하지
 읽는 눈과 침착한 손놀림이 중요해집니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **회전 패턴 먼저 관찰하기**: 무작정 던지기보다는, 몇 바퀴 동안 표적의 속도 변화와 방향 전환

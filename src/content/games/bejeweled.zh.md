@@ -10,7 +10,7 @@ thumbnail: /new-images/thumbnails/bejeweled.png
 tags:
   - bejeweled
 score: 4.8/5  (654 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -36,6 +36,7 @@ releaseDate: 2025-12-04
 - **Classic 经典模式：** 没有时间限制，一直玩到棋盘上再也没有可移动的三消为止。
 - **Action / Blitz 模式：** 节奏极快的计时模式（经常是 60 秒），在有限时间内尽可能刷出最高分。
 
+<!-- i18n:section:tips -->
 ### 策略与进阶技巧
 
 -  **优先寻找更大的消除：** 不要只满足于三连。时刻留意是否有机会做四连或五连，创造特殊宝石，才是高分的关键。

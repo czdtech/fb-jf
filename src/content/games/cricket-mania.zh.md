@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: cricket-mania
-title: "Cricket Mania 板球狂热"
-description: >-
-  《Cricket Mania 板球狂热》是一款节奏明快的板球击球游戏。通过选择合适击球线路、掌
-  握挥棒时机，在每个回合不断追赶目标分数。
+title: Cricket Mania 板球狂热
+description: 《Cricket Mania 板球狂热》是一款节奏明快的板球击球游戏。通过选择合适击球线路、掌 握挥棒时机，在每个回合不断追赶目标分数。
 iframeSrc: 'https://73lnk17f84iog.h5games.usercontent.goog/v/1p7sdm5buflt0/'
 thumbnail: /new-images/thumbnails/cricket-mania.png
 tags:
@@ -26,6 +24,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 与防守布阵。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **根据线路选择击球方向：** 球偏向腿侧时可以选择腿侧轻拨，让球顺着护腿板方向滑去；

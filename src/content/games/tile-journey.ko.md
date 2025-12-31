@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: tile-journey
-title: "Tile Journey 타일 저니"
+title: Tile Journey 타일 저니
 description: >-
-  차분하게 즐길 수 있는 타일 매칭 퍼즐 게임 Tile Journey입니다. 같은 타일 세 장을 골라 보드를
-  비우되, 한정된 수의 수집 트레이 칸이 가득 차지 않도록 계획적으로 플레이해야 합니다.
+  차분하게 즐길 수 있는 타일 매칭 퍼즐 게임 Tile Journey입니다. 같은 타일 세 장을 골라 보드를 비우되, 한정된 수의 수집 트레이
+  칸이 가득 차지 않도록 계획적으로 플레이해야 합니다.
 iframeSrc: 'https://0i1jh8boqif48.h5games.usercontent.goog/v/1643ot8on0v9g/'
 thumbnail: /new-images/thumbnails/tile-journey.png
 tags:
@@ -29,6 +29,7 @@ Tile Journey는 느긋한 분위기 속에서 전략을 시험할 수 있는 현
 보드를 전부 정리하고 스테이지를 클리어하려면, 한 칸 한 칸을 신중하게 사용해야 합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **트레이 칸 수를 항상 의식하기**: 수집 트레이는 보통 7칸 정도로 매우 제한적입니다. 아무

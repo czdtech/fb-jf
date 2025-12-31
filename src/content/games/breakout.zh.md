@@ -10,7 +10,7 @@ tags:
   - casual
   - flash
 score: 3.8/5  (494 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
@@ -24,6 +24,7 @@ releaseDate: 2025-08-16
 随着砖块越来越少，小球也会逐渐加速，容错率越来越低。真正的难点在于掌控击球角度、控制节奏，并在不漏球的情况下把屏幕彻底清空。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏策略与通关思路
 
 -   **掌握反弹角度是核心技能**  

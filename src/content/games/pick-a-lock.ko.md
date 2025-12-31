@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: pick-a-lock
-title: "Pick a Lock 픽 어 락"
+title: Pick a Lock 픽 어 락
 description: >-
-  Pick a Lock은 잠금 장치의 다이얼이 표시선을 지날 때 정확한 타이밍으로 눌러 자물쇠를
-  여는 미니멀리즘 리듬 타이밍 게임입니다. 점점 늘어나는 표시선과 좁아지는 판정
-  타이밍 속에서 집중력과 손 감각이 시험됩니다.
+  Pick a Lock은 잠금 장치의 다이얼이 표시선을 지날 때 정확한 타이밍으로 눌러 자물쇠를 여는 미니멀리즘 리듬 타이밍 게임입니다. 점점
+  늘어나는 표시선과 좁아지는 판정 타이밍 속에서 집중력과 손 감각이 시험됩니다.
 iframeSrc: 'https://17ul52pgrglf0.h5games.usercontent.goog/v/5b4f1rj0on970/'
 thumbnail: /new-images/thumbnails/pick-a-lock.jpg
 tags:
@@ -26,6 +25,7 @@ Pick a Lock은 원형 다이얼이 빙글빙글 도는 잠금 장치를 배경�
 점점 올라갑니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 공략 & 플레이 팁
 
 1. 리듬 먼저 잡기: 눈으로만 따라가기보다, 다이얼의 회전 속도에 맞춰 머릿속으로

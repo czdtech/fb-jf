@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: tower-mania
-title: "Tower Mania 타워 매니아"
+title: Tower Mania 타워 매니아
 description: >-
-  흔들리는 블록을 하나씩 쌓아 올려 가장 높은 탑을 만드는 아케이드 게임입니다. 타이밍을 맞춰
-  정확히 중앙에 떨어뜨려 안정적인 탑을 만들고, 점점 작아지는 발판 위에서 기록에 도전해 보세요.
+  흔들리는 블록을 하나씩 쌓아 올려 가장 높은 탑을 만드는 아케이드 게임입니다. 타이밍을 맞춰 정확히 중앙에 떨어뜨려 안정적인 탑을 만들고,
+  점점 작아지는 발판 위에서 기록에 도전해 보세요.
 iframeSrc: 'https://49pvu1mm0ofc0.h5games.usercontent.goog/v/4apam1d97c7mo/'
 thumbnail: /new-images/thumbnails/tower-mania.png
 tags:
@@ -28,6 +28,7 @@ Tower Mania는 간단한 규칙으로 긴장감과 몰입감을 동시에 주는
 점수로 이어집니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **타이밍이 전부**: 게임의 핵심은 떨어뜨리는 순간을 정확히 맞추는 것입니다. 블록이 중앙에 올 때

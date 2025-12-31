@@ -25,6 +25,7 @@ Super Bowling Mania는 아케이드 감성의 10프레임 볼링 게임으로, �
 미세하게 조절하는 것이 중요합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 및 공략
 
 1.  **포켓 노리기:**

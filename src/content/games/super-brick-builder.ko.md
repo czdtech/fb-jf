@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: super-brick-builder
-title: "Super Brick Builder 슈퍼 브릭 빌더"
+title: Super Brick Builder 슈퍼 브릭 빌더
 description: >-
-  Super Brick Builder는 벽돌 블록을 차곡차곡 쌓아 실루엣 형태를 완성하는 퍼즐 게임으로,
-  깔끔한 배치와 지지 구조 설계가 중요한 물리 기반 쌓기 게임입니다.
+  Super Brick Builder는 벽돌 블록을 차곡차곡 쌓아 실루엣 형태를 완성하는 퍼즐 게임으로, 깔끔한 배치와 지지 구조 설계가
+  중요한 물리 기반 쌓기 게임입니다.
 iframeSrc: 'https://0hlb6nt2jsom8.h5games.usercontent.goog/v/4jac78qnv0nr8/'
 thumbnail: /new-images/thumbnails/super-brick-builder.png
 tags:
@@ -25,6 +25,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 세우는 것이 핵심입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 공략 & 플레이 팁
 
 1. **기초부터 탄탄하게:** 높은 구조물을 세우기 전에, 좌우 대칭에 가까운 튼튼한

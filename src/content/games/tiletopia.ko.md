@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: tiletopia
-title: "Tiletopia 타일토피아"
+title: Tiletopia 타일토피아
 description: >-
-  육각형 타일을 하나씩 배치해 작은 도시와 풍경을 만들어 가는 퍼즐 게임 Tiletopia입니다. 도로와
-  숲, 마을의 가장자리를 맞추고 퀘스트를 완료해 높은 점수를 노려 보세요.
+  육각형 타일을 하나씩 배치해 작은 도시와 풍경을 만들어 가는 퍼즐 게임 Tiletopia입니다. 도로와 숲, 마을의 가장자리를 맞추고
+  퀘스트를 완료해 높은 점수를 노려 보세요.
 iframeSrc: 'https://6nilllqpgkm6o.h5games.usercontent.goog/v/7d3689i7s5gfo/'
 thumbnail: /new-images/thumbnails/tiletopia.png
 tags:
@@ -30,6 +30,7 @@ Tiletopia는 육각형 타일을 하나씩 이어 붙이며, 아름답게 이어
 전체 지형이 보기 좋게 이어지도록 타일을 배치하는 것이 높은 점수의 비결입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **가장자리를 맞추는 것이 최우선**: 타일을 배치할 때는 항상 인접한 타일의 가장자리를 확인해,

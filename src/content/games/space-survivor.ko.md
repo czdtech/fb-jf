@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: space-survivor
-title: 'Space Survivor 스페이스 서바이버'
+title: Space Survivor 스페이스 서바이버
 description: >-
-  Space Survivor는 끝없이 몰려오는 외계 함대를 피해 살아남는 로그라이크 생존
-  슈팅 게임입니다. 경험치를 모아 레벨업하고, 다양한 무기와 강화 효과를 골라
-  얼마나 오래 버틸 수 있는지 도전해 보세요.
+  Space Survivor는 끝없이 몰려오는 외계 함대를 피해 살아남는 로그라이크 생존 슈팅 게임입니다. 경험치를 모아 레벨업하고, 다양한
+  무기와 강화 효과를 골라 얼마나 오래 버틸 수 있는지 도전해 보세요.
 iframeSrc: 'https://76sb7kgqtg5kg.h5games.usercontent.goog/v/5s72d5756n840/'
 thumbnail: /new-images/thumbnails/space-survivor.png
 tags:
@@ -28,6 +27,7 @@ Space Survivor는 "Vampire Survivors" 스타일의 로그라이크 생존 액션
 생존하는 것이 목표입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 및 공략
 
 1.  **초반에는 생존 우선:** 초기 무기는 약하므로, 적을 전부 잡으려 하기보다

@@ -11,7 +11,7 @@ tags:
   - board
   - puzzle
 score: 4.6/5  (2900 votes)
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->
@@ -27,6 +27,7 @@ releaseDate: 2025-10-17
 - **升王（King）：** 当普通棋子走到对方底线行时，会升为王，之后可向前后两个方向斜走与吃子。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏策略与对局思路
 
 1.  **控制中心与前线，不要一味退守**

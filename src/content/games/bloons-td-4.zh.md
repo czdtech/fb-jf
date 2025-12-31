@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: bloons-td-4
-title: "Bloons TD 4 气球塔防 4"
-description: >-
-  《Bloons TD 4 气球塔防 4》带来全新的分支升级体系、等级解锁系统和 BFB 飞艇等内容，在更炫的画面下构建更深
-  度的塔防策略。
+title: Bloons TD 4 气球塔防 4
+description: 《Bloons TD 4 气球塔防 4》带来全新的分支升级体系、等级解锁系统和 BFB 飞艇等内容，在更炫的画面下构建更深 度的塔防策略。
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-4.html'
 thumbnail: /new-images/thumbnails/bloons-td-4.jpg
 tags:
@@ -34,6 +32,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **消耗品：** 可以在路面临时摆放的 Road Spikes、Monkey Glue 泥坑等一次性防御物。  
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏策略
 
 -   **提前规划好每座塔要走哪条分支：** 由于高阶升级互斥，你不再能“全点满”。要在建塔时就想好其定位：Bomb Tower 是用于眩晕与对 MOAB 加伤，还是用于大范围控制。

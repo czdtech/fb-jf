@@ -9,7 +9,7 @@ tags:
   - puzzle
   - casual
 score: 4.3/5  (1339 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
@@ -21,6 +21,7 @@ releaseDate: 2025-08-16
 当你消除高位的“连接泡泡”时，其下悬挂的一整串泡泡也会一并坠落，这类连锁效果不仅能迅速清屏，也会给你带来大量额外得分。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏策略与通关思路
 
 1.  **瞄准高处的关键连接点**  

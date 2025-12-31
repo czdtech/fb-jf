@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: tropical-merge
-title: "Tropical Merge 트로피컬 머지"
+title: Tropical Merge 트로피컬 머지
 description: >-
-  남국 섬에서 자원을 합쳐 나무와 건물을 업그레이드하는 머지 어드벤처 게임입니다. 같은 아이템을
-  3개 또는 5개씩 합쳐 더 높은 등급으로 만들고, 안개를 거두며 섬을 확장해 보세요.
+  남국 섬에서 자원을 합쳐 나무와 건물을 업그레이드하는 머지 어드벤처 게임입니다. 같은 아이템을 3개 또는 5개씩 합쳐 더 높은 등급으로
+  만들고, 안개를 거두며 섬을 확장해 보세요.
 iframeSrc: 'https://7jdqir15djng0.h5games.usercontent.goog/v/3nm4cvs4b09jo/'
 thumbnail: /new-images/thumbnails/tropical-merge.png
 tags:
@@ -28,6 +28,7 @@ Tropical Merge는 동일한 아이템을 합쳐 더 높은 단계의 자원과 �
 장기적인 계획 아래 섬을 관리하는 플레이가 큰 보상을 가져다 줍니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **가능하다면 5-머지를 노리기**: 같은 아이템 3개를 합치면 1개가 상위 단계가 되지만,

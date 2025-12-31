@@ -1,9 +1,10 @@
 ---
 locale: zh
 urlstr: bank-robbery
-title: "Bank Robbery 2 银行大劫案 2"
+title: Bank Robbery 2 银行大劫案 2
 description: >-
-  《Bank Robbery 2（银行大劫案 2）》是一款团队对战第一人称射击游戏，你可以扮演劫匪或警察，围绕银行抢劫展开攻防。下面是关于打法策略、操作和常见问题的详细说明。
+  《Bank Robbery 2（银行大劫案
+  2）》是一款团队对战第一人称射击游戏，你可以扮演劫匪或警察，围绕银行抢劫展开攻防。下面是关于打法策略、操作和常见问题的详细说明。
 iframeSrc: >-
   https://app-183971.games.s3.yandex.net/183971/l0eme2yqkthl0y8stmfuz0u8pdpux64m/index.html
 thumbnail: /new-images/thumbnails/bank-robbery.jpg
@@ -28,6 +29,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 地图一般是城市街区，以银行建筑为中心，你可以使用多种武器、道具甚至载具来完成团队目标。每局获得的金钱可以用来在之后的回合购买更强的枪械、防具和战术道具。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏策略
 
 成功与否很大程度取决于你所在的阵营。

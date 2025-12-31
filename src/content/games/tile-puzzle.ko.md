@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: tile-puzzle
-title: "Tile Puzzle 타일 퍼즐"
+title: Tile Puzzle 타일 퍼즐
 description: >-
-  잔잔한 분위기의 전략 퍼즐 게임 Tile Puzzle입니다. 같은 타일 세 장을 찾아 선택해 보드를
-  비우고, 제한된 수집 트레이 칸이 가득 차지 않도록 신중하게 수를 두어야 합니다.
+  잔잔한 분위기의 전략 퍼즐 게임 Tile Puzzle입니다. 같은 타일 세 장을 찾아 선택해 보드를 비우고, 제한된 수집 트레이 칸이 가득
+  차지 않도록 신중하게 수를 두어야 합니다.
 iframeSrc: 'https://5u9qhnk84v07g.h5games.usercontent.goog/v/2h3elehja73a8/'
 thumbnail: /new-images/thumbnails/tile-puzzle.jpg
 tags:
@@ -29,6 +29,7 @@ Tile Puzzle는 계획성과 전략을 동시에 요구하는 현대적인 타일
 타일을 언제 선택할지, 어떤 순서로 막힌 타일을 풀어 줄지 세심하게 계획해야 합니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **누르기 전에 먼저 생각하기**: 수집 트레이는 보통 7칸 정도뿐입니다. 아무 계획 없이 눈에 보이는

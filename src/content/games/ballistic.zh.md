@@ -1,9 +1,8 @@
 ---
 locale: zh
 urlstr: ballistic
-title: "Ballistic 弹射方块"
-description: >-
-  《Ballistic（弹射方块）》是一款基于物理引擎的打砖块式街机游戏，通过精确瞄准、收集额外弹球和善用强化道具，在数字方块压到底线之前把它们统统击碎。
+title: Ballistic 弹射方块
+description: 《Ballistic（弹射方块）》是一款基于物理引擎的打砖块式街机游戏，通过精确瞄准、收集额外弹球和善用强化道具，在数字方块压到底线之前把它们统统击碎。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/'
 thumbnail: /new-images/thumbnails/ballistic.jpg
 tags:
@@ -31,6 +30,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 随着难度提升，你必须同时兼顾：高数字方块的威胁、额外弹球的拾取位置，以及能否通过一次巧妙的“打隧道”来制造超长连锁反应。这也是 *Ballistic* 让人停不下来的原因所在。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏策略
 
 想要在 *Ballistic* 中拿到高分，需要提前几步思考每一枪会造成的连锁反应。

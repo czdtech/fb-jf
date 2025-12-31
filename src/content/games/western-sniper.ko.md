@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: western-sniper
-title: "Western Sniper 웨스턴 스나이퍼"
+title: Western Sniper 웨스턴 스나이퍼
 description: >-
-  서부 무대를 배경으로 한 저격 액션 게임입니다. 숨을 고르고 조준점을 안정시킨 뒤, 우선순위가 높은
-  적과 폭발물을 먼저 제거해 짧은 미션들을 깔끔하게 클리어해 보세요.
+  서부 무대를 배경으로 한 저격 액션 게임입니다. 숨을 고르고 조준점을 안정시킨 뒤, 우선순위가 높은 적과 폭발물을 먼저 제거해 짧은 미션들을
+  깔끔하게 클리어해 보세요.
 iframeSrc: 'https://4oill7a9ltc9g.h5games.usercontent.goog/v/54hea44l6fm4o/'
 thumbnail: /new-images/thumbnails/western-sniper.png
 tags:
@@ -24,6 +24,7 @@ Western Sniper는 서부 풍경을 배경으로, 짧고 빠른 미션들 속에�
 센스도 요구됩니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **우선순위 목표 먼저 제거하기**: 활이나 총을 든 원거리 적, 폭발물 주변에 서 있는 적처럼

@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: battleship
-title: "Battleship 海战棋"
-description: >-
-  《Battleship 海战棋》完整指南：带你熟悉经典海战棋的规则、舰船布阵策略、高效搜索开火模式，以及如何在对
-  手找到你之前先一步击沉对方整支舰队。
+title: Battleship 海战棋
+description: 《Battleship 海战棋》完整指南：带你熟悉经典海战棋的规则、舰船布阵策略、高效搜索开火模式，以及如何在对 手找到你之前先一步击沉对方整支舰队。
 iframeSrc: 'https://cdn.gamesnacks.com/battleship2/gameCode/index.html'
 thumbnail: /new-images/thumbnails/battleship.jpg
 tags:
@@ -32,10 +30,12 @@ releaseDate: 2025-08-16T00:00:00.000Z
 
 当双方都摆好舰队后，进入轮流开火阶段。玩家依次报出一个坐标（例如 “D5”），对手需要根据自己棋盘的实际情况回答“命中（Hit）”或“未中（Miss）”。你会在对方棋盘的那张“记录盘”上，用标记或图标记录每一次命中与落空；当某条船所有格子都被命中时，就视为这艘船被击沉。
 
+<!-- i18n:section:how-to-play -->
 ### 游戏策略
 
 想要在 *Battleship* 中稳定获胜，需要将巧妙的舰队布阵与严谨的逻辑推理结合起来。
 
+<!-- i18n:section:tips -->
 #### 舰队布阵策略（防守）
 
 1.  **避免“太显眼”的位置：**  

@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: tiny-fishing
-title: "Tiny Fishing 타이니 피싱"
+title: Tiny Fishing 타이니 피싱
 description: >-
-  낚싯줄을 깊은 바다로 던져 다양한 물고기를 낚고 장비를 업그레이드하는 캐주얼 낚시 게임입니다.
-  간단한 조작으로 힐링하면서도, 더 깊은 곳으로 내려가 희귀 어종을 모으는 수집의 재미를 느껴 보세요.
+  낚싯줄을 깊은 바다로 던져 다양한 물고기를 낚고 장비를 업그레이드하는 캐주얼 낚시 게임입니다. 간단한 조작으로 힐링하면서도, 더 깊은 곳으로
+  내려가 희귀 어종을 모으는 수집의 재미를 느껴 보세요.
 iframeSrc: 'https://webglmath.github.io/tiny-fishing/'
 thumbnail: /new-images/thumbnails/tiny-fishing.jpg
 tags:
@@ -27,6 +27,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 속도가 크게 달라집니다. 틈틈이 즐기기 좋은 힐링 게임이면서도, 최적의 업그레이드 루트를 고민하는
 전략 요소가 함께 들어 있습니다.
 
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 1.  **낚싯줄 길이 우선 업그레이드**: 초반에는 특히 라인 길이를 먼저 올려 더 깊은 곳까지 내려가는

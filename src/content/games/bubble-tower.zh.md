@@ -9,7 +9,7 @@ tags:
   - puzzle
   - casual
 score: 4.3/5  (1950 votes)
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 
@@ -22,6 +22,7 @@ releaseDate: 2025-10-17
 既要通过三连及以上的同色消除清理大块区域，又要始终留意整塔高度，避免被突然刷新的行数压垮。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏策略与通关思路
 
 1.  **旋转塔体先观察**  

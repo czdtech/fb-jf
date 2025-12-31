@@ -9,7 +9,7 @@ tags:
   - action
   - shooting
 score: 3.9/5  (951 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 
@@ -39,6 +39,7 @@ releaseDate: 2025-08-16
 
 - **团队死斗（TDM）：** 两支队伍在时间结束前比拼击杀数，击杀更多的一方获胜。
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏模式与基础策略
 
 1.  **团队死斗**  

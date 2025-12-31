@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: crazy-balls
-title: "Crazy Balls 疯狂弹球"
-description: >-
-  《Crazy Balls 疯狂弹球》是一款基于物理碰撞的街机游戏。通过控制击球角度与力度，让小
-  球在障碍迷宫中弹跳、反弹并炸开阻碍，完成关卡目标。
+title: Crazy Balls 疯狂弹球
+description: 《Crazy Balls 疯狂弹球》是一款基于物理碰撞的街机游戏。通过控制击球角度与力度，让小 球在障碍迷宫中弹跳、反弹并炸开阻碍，完成关卡目标。
 iframeSrc: 'https://05hi0oufvrcro.h5games.usercontent.goog/v/0qeok5765gar8/'
 thumbnail: /new-images/thumbnails/crazy-balls.png
 tags:
@@ -26,6 +24,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 边缘做“贴墙反弹”，你可以将小球送入看似不可能到达的狭窄通道，完成高难度清场。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **利用侧墙“折射”路线：** 面对狭窄通道或直线打不到的位置，尝试先瞄准侧墙，再利用反

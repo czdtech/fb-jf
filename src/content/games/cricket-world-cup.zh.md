@@ -1,7 +1,7 @@
 ---
 locale: zh
 urlstr: cricket-world-cup
-title: "Cricket World Cup 板球世界杯击球挑战"
+title: Cricket World Cup 板球世界杯击球挑战
 description: >-
   《Cricket World Cup 板球世界杯击球挑战》将板球世界杯中的击球场景浓缩成一回合回合的
   挑战：你需要根据投球线路与场上布阵选择击球方式，在有限回合内完成追分目标。
@@ -24,6 +24,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 任务。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **根据线路选择击球：** 球偏腿侧时，可略微延后挥棒，打出腿侧轻拨、拉球

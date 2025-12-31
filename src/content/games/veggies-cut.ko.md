@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: veggies-cut
-title: "Veggies Cut 베지스 컷"
+title: Veggies Cut 베지스 컷
 description: >-
-  공중에 떠오르는 채소를 한 번에 싹둑 써는 캐주얼 액션 게임입니다. 길고 시원한 베기를 이어 콤보를
-  쌓고, 칼이나 폭탄 같은 위험 요소는 피하며 높은 점수를 노려 보세요.
+  공중에 떠오르는 채소를 한 번에 싹둑 써는 캐주얼 액션 게임입니다. 길고 시원한 베기를 이어 콤보를 쌓고, 칼이나 폭탄 같은 위험 요소는
+  피하며 높은 점수를 노려 보세요.
 iframeSrc: 'https://01pgt4aflffvo.h5games.usercontent.goog/v/2kpv41q3jen50/'
 thumbnail: /new-images/thumbnails/veggies-cut.jpg
 tags:
@@ -27,6 +27,7 @@ Veggies Cut은 주방을 배경으로 공중에 떠오르는 각종 채소를 �
 벌어들이는 것이 핵심입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **여러 채소를 잇는 긴 베기 노리기**: 한 번에 하나씩만 자르기보다, 가능한 한 여러 채소를

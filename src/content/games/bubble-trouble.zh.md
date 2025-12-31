@@ -3,7 +3,8 @@ locale: zh
 urlstr: bubble-trouble
 title: Bubble Trouble 泡泡大麻烦
 description: 《Bubble Trouble 泡泡大麻烦》中，你操控角色用绳索或子弹射破场上的大泡泡，每次命中都会分裂成更小的泡泡，需要在不被击中前将所有泡泡全部清除。
-iframeSrc: 'https://app-96647.games.s3.yandex.net/96647/w4h0ydt7quklspc0jxwg9kauaiii2lnx/index.html'
+iframeSrc: >-
+  https://app-96647.games.s3.yandex.net/96647/w4h0ydt7quklspc0jxwg9kauaiii2lnx/index.html
 thumbnail: /new-images/thumbnails/bubble-trouble.jpg
 tags:
   - arcade
@@ -22,6 +23,7 @@ Bubble Trouble 是一款快节奏的街机动作游戏。玩家控制屏幕底�
 主要挑战是避免被任何弹跳的泡泡触碰到。如果泡泡击中玩家角色，他们会失去一条命。如果玩家用完所有生命或倒计时归零，游戏就结束了。随着玩家进步，关卡会变得更加困难，泡泡更多，初始布局更复杂，时间限制更短。游戏还有一个流行的双人合作模式。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏策略
 
 -   **优先解决最大的泡泡：** 总是试着先弹破最大的泡泡。它们是最危险的，因为它们覆盖最大的面积并产生最多的后续小泡泡。尽早清除它们可以减少整体混乱。

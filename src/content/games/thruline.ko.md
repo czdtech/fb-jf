@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: thruline
-title: 'Thruline 스루라인'
+title: Thruline 스루라인
 description: >-
-  Thruline은 하나의 끊기지 않는 선으로 모든 필수 노드를 지나가야 하는 연결 퍼즐
-  게임입니다. 회전·교차·커버 규칙을 지키면서 올바른 경로를 찾아야 합니다.
+  Thruline은 하나의 끊기지 않는 선으로 모든 필수 노드를 지나가야 하는 연결 퍼즐 게임입니다. 회전·교차·커버 규칙을 지키면서 올바른
+  경로를 찾아야 합니다.
 iframeSrc: 'https://4bl9sdeaqndto.h5games.usercontent.goog/v/4qierjmnf0kng/'
 thumbnail: /new-images/thumbnails/thruline.jpg
 tags:
@@ -25,6 +25,7 @@ Thruline은 그리드 위의 노드들을 하나의 끊기지 않는 선으로 �
 추가되어 난이도가 올라갑니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 및 공략
 
 1.  **병목 지점 먼저 확보:**

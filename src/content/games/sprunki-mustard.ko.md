@@ -1,17 +1,16 @@
 ---
 locale: ko
 urlstr: sprunki-mustard
-title: 'Sprunki Mustard 스프룽키 머스터드'
+title: Sprunki Mustard 스프룽키 머스터드
 description: >-
-  Sprunki Mustard는 모든 캐릭터와 UI를 머스터드 옐로 톤으로 물들여, 익숙한
-  Sprunki를 오싹한 공포 분위기로 재해석한 모드입니다. 노란색에 스며든 섬뜩한
-  사운드와 연출로 색다른 음악을 만들어 보세요.
+  Sprunki Mustard는 모든 캐릭터와 UI를 머스터드 옐로 톤으로 물들여, 익숙한 Sprunki를 오싹한 공포 분위기로 재해석한
+  모드입니다. 노란색에 스며든 섬뜩한 사운드와 연출로 색다른 음악을 만들어 보세요.
 iframeSrc: 'https://html-classic.itch.zone/html/14281578/index.html'
 thumbnail: /new-images/thumbnails/sprunki-mustard.png
 tags:
   - sprunki mustard
 score: 3.9/5  (827 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -51,6 +50,7 @@ Sprunki Mustard는 단순히 색만 바꾼 모드가 아니라, 시각과 청각
   특정 사운드 조합으로만 발동되는 숨겨진 애니메이션이 있어, 조합을 연구하는
   재미가 있습니다.
 
+<!-- i18n:section:controls -->
 ### Sprunki Mustard 조작 방법
 
 Sprunki Mustard의 조작은 다른 Sprunki 모드와 동일해, Incredibox 시리즈에 익숙한

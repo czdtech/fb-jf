@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: stars-aligned
-title: 'Stars Aligned 스타즈 얼라인드'
+title: Stars Aligned 스타즈 얼라인드
 description: >-
-  Stars Aligned는 별 조각을 회전시켜 선과 점을 맞추고 별자리 형태를 완성하는
-  차분한 퍼즐 게임입니다. 조용한 분위기 속에서 공간 감각과 관찰력을 시험해
-  보세요.
+  Stars Aligned는 별 조각을 회전시켜 선과 점을 맞추고 별자리 형태를 완성하는 차분한 퍼즐 게임입니다. 조용한 분위기 속에서 공간
+  감각과 관찰력을 시험해 보세요.
 iframeSrc: 'https://starsaligned.h5games.usercontent.goog/v/3i88p78sohtig/'
 thumbnail: /new-images/thumbnails/stars-aligned.jpg
 tags:
@@ -26,6 +25,7 @@ Stars Aligned는 흩어진 별 조각들을 맞추어 하나의 별자리로 완
 조금 더 섬세한 관찰과 조정이 필요해집니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 및 공략
 
 1.  **기준점부터 맞추기:**

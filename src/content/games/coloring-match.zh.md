@@ -1,11 +1,10 @@
 ---
 locale: zh
 urlstr: coloring-match
-title: "Coloring Match 调色匹配实验室"
+title: Coloring Match 调色匹配实验室
 description: >-
   《Coloring Match 调色匹配实验室》是一款教你如何真正“玩懂颜色”的小游戏。通过混合颜
-  料、调整明度与饱和度，尽可能精确地还原目标色块，在不断尝试中提升自己的色感与调色
-  技巧。
+  料、调整明度与饱和度，尽可能精确地还原目标色块，在不断尝试中提升自己的色感与调色 技巧。
 iframeSrc: 'https://21t5l4ct88d8g.h5games.usercontent.goog/v/6kels35kspngg/'
 thumbnail: /new-images/thumbnails/coloring-match.jpg
 tags:
@@ -29,6 +28,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 来完成最后那一步。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **先锁定色相，再调明度与饱和度：** 最优步骤通常是先在色轮上找到与目标最接近的色

@@ -28,6 +28,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 중요합니다.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 1. **공의 움직임(굴림과 튀김) 이해하기**  

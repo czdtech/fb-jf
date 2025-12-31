@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: crossword-puzzles
-title: "Crossword Puzzles 主题纵横填字合集"
-description: >-
-  《Crossword Puzzles 主题纵横填字合集》提供一系列带主题的英文填字谜题。根据横向与纵
-  向提示完成网格，并通过主题词条体验紧密关联的词汇玩法。
+title: Crossword Puzzles 主题纵横填字合集
+description: 《Crossword Puzzles 主题纵横填字合集》提供一系列带主题的英文填字谜题。根据横向与纵 向提示完成网格，并通过主题词条体验紧密关联的词汇玩法。
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/best-free-themed-puzzles/
 thumbnail: /new-images/thumbnails/crossword-puzzles.jpg
@@ -26,6 +24,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 间通过主题形成暗线关联。很多网站还提供每日更新和历史题库，方便你随时刷题。
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### 如何游玩
 
 - 选择一条提示，然后直接输入字母填入对应词条；必要时依靠交叉字母来确认不确定的拼写。

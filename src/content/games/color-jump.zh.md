@@ -1,7 +1,7 @@
 ---
 locale: zh
 urlstr: color-jump
-title: "Color Jump 色彩跳跃"
+title: Color Jump 色彩跳跃
 description: >-
   《Color Jump 色彩跳跃》是一款一键式跑酷反应游戏。通过精准把握起跳时机，让角色穿
   过颜色匹配的门或平台，在不断加速与图案切换中保持节奏，躲开错误颜色。
@@ -26,6 +26,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 在高速前进的情况下，兼顾节奏感与颜色判断，才能在不断变化的节奏中存活更久。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **提前读两道障碍，而不是只看眼前：** 不要只盯着即将撞上的那一扇门，视线尽量放在

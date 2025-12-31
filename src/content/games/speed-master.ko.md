@@ -1,11 +1,10 @@
 ---
 locale: ko
 urlstr: speed-master
-title: 'Speed Master 스피드 마스터'
+title: Speed Master 스피드 마스터
 description: >-
-  Speed Master는 정확한 타이밍과 집중력을 시험하는 리액션 게임입니다.
-  화면을 가로지르는 표시가 판정선과 겹치는 순간에 정확히 눌러 콤보를 이어 가고,
-  점점 빨라지는 속도 속에서도 침착함을 유지해야 합니다.
+  Speed Master는 정확한 타이밍과 집중력을 시험하는 리액션 게임입니다. 화면을 가로지르는 표시가 판정선과 겹치는 순간에 정확히 눌러
+  콤보를 이어 가고, 점점 빨라지는 속도 속에서도 침착함을 유지해야 합니다.
 iframeSrc: 'https://6e0ej8ct9hdj8.h5games.usercontent.goog/v/1fssfmqquil18/'
 thumbnail: /new-images/thumbnails/speed-master.png
 tags:
@@ -26,6 +25,7 @@ Speed Master는 군더더기 없이 타이밍만으로 승부하는 미니멀 �
 가차 없이 실수로 판정됩니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 및 공략
 
 1.  **박자 세기:** 화면만 쫓기보다 머릿속에서 일정한 박자를 세며 그 박자에 맞춰

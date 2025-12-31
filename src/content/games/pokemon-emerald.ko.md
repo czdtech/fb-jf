@@ -29,6 +29,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 중요한 스토리 축입니다.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 1. **포켓몬 포획에 익숙해지기**  

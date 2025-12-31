@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: timber-guy
-title: "Timber Guy 팀버 가이"
+title: Timber Guy 팀버 가이
 description: >-
-  나무를 베어 내려가며 튀어나오는 가지를 피하는 타이밍 아케이드 게임 Timber Guy입니다. 좌우로
-  위치를 바꾸며 박자에 맞춰 나무를 치고 높은 점수를 노려 보세요.
+  나무를 베어 내려가며 튀어나오는 가지를 피하는 타이밍 아케이드 게임 Timber Guy입니다. 좌우로 위치를 바꾸며 박자에 맞춰 나무를 치고
+  높은 점수를 노려 보세요.
 iframeSrc: 'https://timberguy.h5games.usercontent.goog/v/2ke6osh59ras0/'
 thumbnail: /new-images/thumbnails/timber-guy.png
 tags:
@@ -28,6 +28,7 @@ Timber Guy는 한 손으로도 즐길 수 있는 간단한 타이밍 액션 게�
 더"를 계속 외치게 되는 게임입니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **앞으로 나올 가지를 미리 읽기**: 캐릭터 주변만 보지 말고, 화면 위쪽에 있는 다음 몇 개의

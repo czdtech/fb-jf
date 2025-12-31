@@ -1,10 +1,10 @@
 ---
 locale: zh
 urlstr: bloons-td-5
-title: "Bloons TD 5 气球塔防 5"
+title: Bloons TD 5 气球塔防 5
 description: >-
-  《Bloons TD 5 气球塔防 5》在双路线升级体系上加入 Monkey Sub、Heli Pilot 等新塔与 Special Agents、Monkey Lab
-  等系统，并首次引入 ZOMG 飞艇与猴神神庙，塔防深度与内容量都达到系列高峰。
+  《Bloons TD 5 气球塔防 5》在双路线升级体系上加入 Monkey Sub、Heli Pilot 等新塔与 Special
+  Agents、Monkey Lab 等系统，并首次引入 ZOMG 飞艇与猴神神庙，塔防深度与内容量都达到系列高峰。
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-tower-defense-5.html'
 thumbnail: /new-images/thumbnails/bloons-td-5.jpg
 tags:
@@ -32,6 +32,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 - **主动技能系统：** 许多 4 级升级会解锁主动技能，关键时刻可以一键扭转战局。  
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏策略
 
 -   **经济优先：Banana Farm 决定上限。** 在 BTD5 中，早期建立强大经济几乎是制胜前提。尽早铺设 Banana Farm 并优先冲 4/2 的 `Banana Research Facility`，每回合都会产出现金箱，让你有足够资金买超级猴子、猴神神庙等昂贵单位。

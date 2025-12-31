@@ -1,10 +1,10 @@
 ---
 locale: ko
 urlstr: tiles-of-egypt
-title: "Tiles of Egypt 타일즈 오브 이집트"
+title: Tiles of Egypt 타일즈 오브 이집트
 description: >-
-  고대 이집트를 배경으로 한 트리플 타일 매칭 퍼즐 게임입니다. 같은 무늬의 타일 세 장을 골라
-  제한된 수집 트레이가 가득 차기 전에 보드를 모두 비워야 합니다.
+  고대 이집트를 배경으로 한 트리플 타일 매칭 퍼즐 게임입니다. 같은 무늬의 타일 세 장을 골라 제한된 수집 트레이가 가득 차기 전에 보드를
+  모두 비워야 합니다.
 iframeSrc: >-
   https://tilesofegypt.h5games.usercontent.goog/v/dd964fa3-8999-4546-a4a0-d55a0cc72248/
 thumbnail: /new-images/thumbnails/tiles-of-egypt.jpg
@@ -30,6 +30,7 @@ Tiles of Egypt는 고대 이집트 유적을 연상시키는 독특한 타일 �
 몇 수 앞을 내다보는 퍼즐 감각이 요구됩니다.
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 플레이 전략 & 공략
 
 1.  **세 장 매칭의 기본 규칙 이해하기**: Tiles of Egypt의 모든 움직임은 같은 타일 세 장을 모아

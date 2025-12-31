@@ -1,10 +1,8 @@
 ---
 locale: zh
 urlstr: daily-crossword
-title: "Daily Crossword 每日纵横填字"
-description: >-
-  《Daily Crossword 每日纵横填字》每天提供一张全新的英文填字谜题。根据横向与纵向提示
-  填入单词，让整张网格所有交叉字母完全吻合。
+title: Daily Crossword 每日纵横填字
+description: 《Daily Crossword 每日纵横填字》每天提供一张全新的英文填字谜题。根据横向与纵向提示 填入单词，让整张网格所有交叉字母完全吻合。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword/'
 thumbnail: /new-images/thumbnails/daily-crossword.jpg
 tags:
@@ -24,6 +22,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 还会提供倒计时、线索列表以及检查/揭示工具。
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### 如何游玩
 
 - 选择某条线索或直接点击网格中的格子，然后输入字母填入对应答案。方向键可用来移动光标

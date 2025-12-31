@@ -1,18 +1,17 @@
 ---
 locale: ko
 urlstr: sprunki-cool-as-ice
-title: 'Sprunki Cool As Ice 스프룽키 쿨 애즈 아이스'
+title: Sprunki Cool As Ice 스프룽키 쿨 애즈 아이스
 description: >-
-  Sprunki: Cool As Ice는 눈과 얼음 테마로 꾸며진 Incredibox 스타일 모드입니다.
-  차가운 겨울 분위기 속에서 눈과 얼음 캐릭터를 배치해 새로운 비트와 멜로디를
-  조합하며, 나만의 겨울 사운드트랙을 만들 수 있습니다.
+  Sprunki: Cool As Ice는 눈과 얼음 테마로 꾸며진 Incredibox 스타일 모드입니다. 차가운 겨울 분위기 속에서 눈과 얼음
+  캐릭터를 배치해 새로운 비트와 멜로디를 조합하며, 나만의 겨울 사운드트랙을 만들 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1114795409/embed'
 thumbnail: /new-images/thumbnails/sprunki-cool-as-ice.png
 tags:
   - sprunki cool as ice
   - sprunki cool as ice online
 score: 4.2/5  (324 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 
@@ -51,6 +50,7 @@ Sprunki: Cool As Ice는 단순한 스킨 교체가 아니라, 눈과 얼음 연�
   섞인 분위기를 즐길 수도 있습니다. 화면 오른쪽 아래 캐릭터를 눌러 공포
   테마로 바꾸고, 오른쪽 위 화살표를 눌러 기본 테마로 되돌릴 수 있습니다.
 
+<!-- i18n:section:tips -->
 ### Sprunki: Cool As Ice 플레이 팁
 
 - **캐릭터 조합 실험하기:** 서로 다른 캐릭터를 섞어 어떤 사운드가 나오는지

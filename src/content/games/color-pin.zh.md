@@ -1,7 +1,7 @@
 ---
 locale: zh
 urlstr: color-pin
-title: "Color Pin 旋转彩钉"
+title: Color Pin 旋转彩钉
 description: >-
   《Color Pin 旋转彩钉》是一款考验时机与精确度的“插针”游戏。你需要将一根根细针精准
   地射入旋转圆盘，既不能与已有细针相撞，在颜色模式下还要对准指定色块。
@@ -24,6 +24,7 @@ releaseDate: 2025-10-18T00:00:00.000Z
 节奏感和耐心，而不是盲目“连点”。
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 玩法策略与通关思路
 
 1.  **先观察一整圈，再确定出手节奏：** 刚进入关卡时不要急着连点，先观察圆盘完整旋转

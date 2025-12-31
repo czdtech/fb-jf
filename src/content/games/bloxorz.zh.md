@@ -1,7 +1,7 @@
 ---
 locale: zh
 urlstr: bloxorz
-title: "Bloxorz Magic 魔方桥"
+title: Bloxorz Magic 魔方桥
 description: >-
   《Bloxorz Magic 魔方桥》是一款经典 3D 空间解谜游戏，操控一个 1×2×1 长方体在悬空平台上翻滚前进，利用开
   关、脆弱地板与分体机关，在不掉落的前提下站立落入终点方孔。
@@ -31,6 +31,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
     - **分体开关 `<>`：** 当长方体横跨在其上时，会被切割成两个独立的 1×1 小方块。  
 
 <!-- i18n:section:tips -->
+<!-- i18n:section:how-to-play -->
 ### 游戏策略
 
 - **预判数步，避免“盲走”**  

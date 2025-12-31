@@ -29,6 +29,7 @@ releaseDate: 2025-08-16T00:00:00.000Z
 넘어짐으로 이어질 수 있습니다.
 
 <!-- i18n:section:how-to-play -->
+<!-- i18n:section:tips -->
 ### 플레이 전략
 
 1. **속도 조절 연습하기**  
