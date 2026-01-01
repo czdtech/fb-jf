@@ -33,9 +33,9 @@ export class BaselineCorruptError extends Error {
 }
 
 export const DEFAULT_HARDPOINTS_BASELINE_PATH = path.join(
-  '.kiro',
-  'specs',
-  'i18n-hardpoints-alignment',
+  'config',
+  'i18n',
+  'baselines',
   'hardpoints-baseline.json'
 );
 

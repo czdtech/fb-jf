@@ -6,7 +6,7 @@
  * - scripts/validate-i18n-section-markers.mts
  *
  * Behavior:
- * - Reads the baseline file (default: `.kiro/specs/i18n-hardpoints-alignment/section-markers-baseline.json`)
+ * - Reads the baseline file (default: `config/i18n/baselines/section-markers-baseline.json`)
  * - Groups missing marker entries by (slug, locale)
  * - Inserts missing markers at the best-effort position (usually right above the matching heading)
  * - Conservative by default: if multiple candidate headings exist for a section, it skips the insertion
@@ -35,9 +35,9 @@ const SECTION_MARKER_RE = /<!--\s*i18n:section:([a-z0-9-]+)\s*-->/i;
 const HEADING_RE = /^(#{1,6})\s+/;
 
 const DEFAULT_BASELINE_PATH = path.join(
-  '.kiro',
-  'specs',
-  'i18n-hardpoints-alignment',
+  'config',
+  'i18n',
+  'baselines',
   'section-markers-baseline.json'
 );
 

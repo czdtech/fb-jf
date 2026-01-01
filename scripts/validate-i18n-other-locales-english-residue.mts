@@ -90,9 +90,9 @@ interface ScanReport {
 }
 
 const DEFAULT_BASELINE_PATH = path.join(
-  '.kiro',
-  'specs',
-  'i18n-style-harmonization-lite',
+  'config',
+  'i18n',
+  'baselines',
   'other-locales-english-residue-baseline.json'
 );
 const DEFAULT_REPORT_PATH = 'i18n-other-locales-english-residue-report.json';

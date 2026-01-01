@@ -82,9 +82,9 @@ interface ScanReport {
 }
 
 const DEFAULT_BASELINE_PATH = path.join(
-  '.kiro',
-  'specs',
-  'i18n-style-harmonization-lite',
+  'config',
+  'i18n',
+  'baselines',
   'zh-english-mix-baseline.json'
 );
 const DEFAULT_REPORT_PATH = 'i18n-zh-english-mix-report.json';

@@ -9,7 +9,7 @@
  *   variant, the localized headings must contain the canonical headings
  *   as an ordered subsequence (same heading levels).
  *
- * Requirements: 2.1, 2.2, 6.2 (full-i18n-content)
+ * Reference: docs/i18n/games-content-contract-v1.md
  */
 
 import { describe, it, expect } from 'vitest';

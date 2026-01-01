@@ -32,9 +32,9 @@ const KNOWN_SECTIONS = new Set(['introduction', 'how-to-play', 'rules', 'tips', 
 const SECTION_MARKER_RE = /<!--\s*i18n:section:([a-z0-9-]+)\s*-->/gi;
 
 const DEFAULT_BASELINE_PATH = path.join(
-  '.kiro',
-  'specs',
-  'i18n-hardpoints-alignment',
+  'config',
+  'i18n',
+  'baselines',
   'section-markers-baseline.json'
 );
 
@@ -328,4 +328,3 @@ main().catch((err) => {
   console.error(err instanceof Error ? err.stack || err.message : String(err));
   process.exit(1);
 });
-

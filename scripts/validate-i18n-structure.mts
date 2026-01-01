@@ -17,8 +17,8 @@
  * If any mismatch is found, the script prints a detailed report and
  * exits with a non-zero status code.
  *
- * This implements the "Structure Alignment" requirement from
- * .kiro/specs/full-i18n-content/requirements.md (Requirement 2, 6.2).
+ * This implements the per-slug "Structure Alignment" requirement described in
+ * docs/i18n/games-content-contract-v1.md.
  */
 
 import fs from 'fs/promises';

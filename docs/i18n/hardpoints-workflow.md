@@ -71,9 +71,8 @@
 
 ## 4) Baseline（基线）使用原则
 
-- baseline 文件位置：`.kiro/specs/i18n-hardpoints-alignment/hardpoints-baseline.json`
+- baseline 文件位置：`config/i18n/baselines/hardpoints-baseline.json`
 - baseline 的目标是**逐步清零**，不是长期豁免。
 - 只有在明确接受“历史遗留且短期无法修”的情况下才使用 baseline，并补充可追溯的 note。
 - 更新 baseline（会覆盖为“当前问题全集”，需 commit）：
   - `npm run baseline:i18n-hardpoints`
-
