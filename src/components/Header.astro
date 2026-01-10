@@ -52,7 +52,7 @@ const withLocale = (path: string) => getLocalizedPath(path, locale);
                 <li><a href={withLocale('/search/')}>{t('nav.search', 'Search')}</a></li>
             </ul>
         </nav>
-        <select class="language-select">
+        <select class="language-select" id="language-select" name="language" aria-label="Language">
             <option data-lang="en" data-url="/">English</option>
             <option data-lang="zh-CN" data-url="/zh/">简体中文</option>  
             <option data-lang="es" data-url="/es/">Español</option>
