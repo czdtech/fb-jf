@@ -1,0 +1,324 @@
+---
+/**
+ * Custom Audio Player Component
+ * A styled audio player that matches the neon glow theme
+ * 
+ * Usage:
+ * <AudioPlayer src="/audio/track.wav" title="Beat 1" />
+ */
+
+interface Props {
+  src: string;
+  title?: string;
+  class?: string;
+}
+
+const { src, title = '', class: className = '' } = Astro.props;
+---
+
+<div class={`audio-player ${className}`} data-audio-player>
+  <button class="audio-player__btn" type="button" aria-label={`Play ${title}`} data-play-btn>
+    <span class="audio-player__icon audio-player__icon--play">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+        <polygon points="5,3 19,12 5,21"></polygon>
+      </svg>
+    </span>
+    <span class="audio-player__icon audio-player__icon--pause" style="display: none;">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+        <rect x="6" y="4" width="4" height="16"></rect>
+        <rect x="14" y="4" width="4" height="16"></rect>
+      </svg>
+    </span>
+  </button>
+  
+  <div class="audio-player__progress" data-progress-container>
+    <div class="audio-player__progress-bar" data-progress-bar></div>
+    <div class="audio-player__progress-glow" data-progress-glow></div>
+  </div>
+  
+  <span class="audio-player__time" data-time>0:00</span>
+  
+  <!-- Audio is lazily wired on first interaction to avoid any .wav requests on first paint -->
+  <audio preload="none" crossorigin="anonymous" data-audio data-audio-src={src}></audio>
+</div>
+
+<style>
+  .audio-player {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-sm, 8px);
+    background: var(--color-bg-card, #111);
+    border: 1px solid var(--color-border, #222);
+    border-radius: var(--radius-full, 9999px);
+    padding: var(--spacing-xs, 4px) var(--spacing-md, 12px);
+    min-width: 160px;
+    max-width: 200px;
+    transition: border-color var(--transition-fast, 0.2s ease), box-shadow var(--transition-fast, 0.2s ease);
+  }
+
+  .audio-player:hover {
+    border-color: var(--color-primary, #ff6b9d);
+  }
+
+  .audio-player.is-playing {
+    border-color: var(--color-primary, #ff6b9d);
+    box-shadow: var(--shadow-glow-sm);
+  }
+
+  .audio-player__btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
+    background: var(--color-primary, #ff6b9d);
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    color: var(--color-text-white, #fff);
+    opacity: var(--audio-player-btn-opacity, 1);
+    flex-shrink: 0;
+    transition: transform var(--transition-fast, 0.2s ease), background-color var(--transition-fast, 0.2s ease), opacity var(--transition-fast, 0.2s ease);
+  }
+
+  .audio-player__btn:hover {
+    transform: scale(1.1);
+    background: var(--color-primary-light, #ff8cb2);
+  }
+
+  .audio-player__btn:active {
+    transform: scale(0.95);
+  }
+
+  .audio-player__icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .audio-player__icon--play svg {
+    margin-left: 2px;
+  }
+
+  .audio-player__progress {
+    flex: 1;
+    height: 4px;
+    background: var(--color-border, #222);
+    border-radius: 2px;
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+  }
+
+  .audio-player__progress-bar {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 0%;
+    background: var(--color-primary, #ff6b9d);
+    border-radius: 2px;
+    transition: width 0.1s linear;
+  }
+
+  .audio-player__progress-glow {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 8px;
+    height: 8px;
+    background: var(--color-primary, #ff6b9d);
+    border-radius: 50%;
+    box-shadow: 0 0 8px var(--color-primary, #ff6b9d);
+    opacity: 0;
+    transition: opacity var(--transition-fast, 0.2s ease);
+  }
+
+  .audio-player.is-playing .audio-player__progress-glow {
+    opacity: 1;
+  }
+
+  .audio-player__time {
+    font-size: var(--font-size-xs, 12px);
+    color: var(--color-text-muted, #666);
+    font-variant-numeric: tabular-nums;
+    min-width: 32px;
+    text-align: right;
+  }
+
+  audio {
+    display: none;
+  }
+</style>
+
+<script>
+  // Track currently playing audio globally to avoid O(n) DOM queries on each click
+  let currentlyPlayingPlayer = null;
+  
+  function initAudioPlayers() {
+    const players = document.querySelectorAll('[data-audio-player]');
+    
+    players.forEach((player) => {
+      if (!(player instanceof HTMLElement)) return;
+
+      const audioEl = player.querySelector('[data-audio]');
+      const playBtnEl = player.querySelector('[data-play-btn]');
+      const playIconEl = player.querySelector('.audio-player__icon--play');
+      const pauseIconEl = player.querySelector('.audio-player__icon--pause');
+      const progressContainerEl = player.querySelector('[data-progress-container]');
+      const progressBarEl = player.querySelector('[data-progress-bar]');
+      const progressGlowEl = player.querySelector('[data-progress-glow]');
+      const timeDisplayEl = player.querySelector('[data-time]');
+      
+      if (
+        !(audioEl instanceof HTMLAudioElement) ||
+        !(playBtnEl instanceof HTMLButtonElement) ||
+        !(playIconEl instanceof HTMLElement) ||
+        !(pauseIconEl instanceof HTMLElement) ||
+        !(progressContainerEl instanceof HTMLElement) ||
+        !(progressBarEl instanceof HTMLElement) ||
+        !(progressGlowEl instanceof HTMLElement) ||
+        !(timeDisplayEl instanceof HTMLElement)
+      ) {
+        return;
+      }
+
+      const audio = audioEl;
+      const playBtn = playBtnEl;
+      const playIcon = playIconEl;
+      const pauseIcon = pauseIconEl;
+      const progressContainer = progressContainerEl;
+      const progressBar = progressBarEl;
+      const progressGlow = progressGlowEl;
+      const timeDisplay = timeDisplayEl;
+
+      const playerEl = player;
+      if (playerEl.dataset.audioPlayerInitialized === 'true') return;
+      playerEl.dataset.audioPlayerInitialized = 'true';
+
+      function ensureAudioLoaded() {
+        if (audio.dataset.audioLoaded === 'true') return true;
+        const audioSrc = audio.dataset.audioSrc;
+        if (!audioSrc) return false;
+        audio.src = audioSrc;
+        audio.load();
+        audio.dataset.audioLoaded = 'true';
+        return true;
+      }
+      
+      // Format time as M:SS
+      function formatTime(seconds) {
+        const mins = Math.floor(seconds / 60);
+        const secs = Math.floor(seconds % 60);
+        return `${mins}:${secs.toString().padStart(2, '0')}`;
+      }
+      
+      // Update progress bar - use requestAnimationFrame for smoother updates
+      function updateProgress() {
+        if (audio.duration) {
+          const percent = (audio.currentTime / audio.duration) * 100;
+          progressBar.style.width = `${percent}%`;
+          progressGlow.style.left = `calc(${percent}% - 4px)`;
+          timeDisplay.textContent = formatTime(audio.currentTime);
+        }
+      }
+      
+      // Pause the currently playing player (O(1) instead of O(n))
+      function pauseCurrentlyPlaying() {
+        if (currentlyPlayingPlayer && currentlyPlayingPlayer !== playerEl) {
+          const otherAudioEl = currentlyPlayingPlayer.querySelector('[data-audio]');
+          const otherPlayIconEl = currentlyPlayingPlayer.querySelector('.audio-player__icon--play');
+          const otherPauseIconEl = currentlyPlayingPlayer.querySelector('.audio-player__icon--pause');
+          if (otherAudioEl instanceof HTMLAudioElement && !otherAudioEl.paused) {
+            const otherPlayIcon = otherPlayIconEl instanceof HTMLElement ? otherPlayIconEl : null;
+            const otherPauseIcon = otherPauseIconEl instanceof HTMLElement ? otherPauseIconEl : null;
+
+            otherAudio.pause();
+            currentlyPlayingPlayer.classList.remove('is-playing');
+            if (otherPlayIcon) otherPlayIcon.style.display = 'flex';
+            if (otherPauseIcon) otherPauseIcon.style.display = 'none';
+          }
+        }
+      }
+      
+      // Play/Pause toggle - optimized to avoid querySelectorAll on each click
+      playBtn.addEventListener('click', () => {
+        if (audio.paused) {
+          // Pause currently playing player first (O(1))
+          pauseCurrentlyPlaying();
+          
+          if (!ensureAudioLoaded()) return;
+          audio.play().catch(() => {});
+          player.classList.add('is-playing');
+          playIcon.style.display = 'none';
+          pauseIcon.style.display = 'flex';
+          currentlyPlayingPlayer = playerEl;
+        } else {
+          audio.pause();
+          player.classList.remove('is-playing');
+          playIcon.style.display = 'flex';
+          pauseIcon.style.display = 'none';
+          if (currentlyPlayingPlayer === playerEl) {
+            currentlyPlayingPlayer = null;
+          }
+        }
+      });
+      
+      // Click on progress bar to seek
+      progressContainer.addEventListener('click', (e) => {
+        const rect = progressContainer.getBoundingClientRect();
+        const percent = (e.clientX - rect.left) / rect.width;
+        if (!ensureAudioLoaded()) return;
+
+        if (!audio.duration || Number.isNaN(audio.duration)) {
+          audio.addEventListener(
+            'loadedmetadata',
+            () => {
+              audio.currentTime = percent * audio.duration;
+              updateProgress();
+            },
+            { once: true }
+          );
+          return;
+        }
+
+        audio.currentTime = percent * audio.duration;
+        updateProgress();
+      });
+      
+      // Update progress during playback
+      audio.addEventListener('timeupdate', updateProgress);
+      
+      // Reset when ended
+      audio.addEventListener('ended', () => {
+        player.classList.remove('is-playing');
+        playIcon.style.display = 'flex';
+        pauseIcon.style.display = 'none';
+        progressBar.style.width = '0%';
+        progressGlow.style.left = '0';
+        timeDisplay.textContent = '0:00';
+        if (currentlyPlayingPlayer === playerEl) {
+          currentlyPlayingPlayer = null;
+        }
+      });
+      
+      // Show duration when loaded
+      audio.addEventListener('loadedmetadata', () => {
+        timeDisplay.textContent = formatTime(audio.duration);
+      });
+    });
+  }
+  
+  // Initialize on load
+  initAudioPlayers();
+  
+  // Re-initialize on view transitions (Astro)
+  if (!window.__audioPlayersPageLoadBound) {
+    window.__audioPlayersPageLoadBound = true;
+    document.addEventListener('astro:page-load', () => {
+      currentlyPlayingPlayer = null; // Reset on page transition
+      initAudioPlayers();
+    });
+  }
+</script>

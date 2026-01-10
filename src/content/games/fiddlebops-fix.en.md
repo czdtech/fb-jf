@@ -1,17 +1,18 @@
 ---
 locale: en
-title: Fiddlebops Fix - Play Fiddlebops Fix Online
+title: Fiddlebops Fix
+seoTitle: Play Fiddlebops Fix Online Free | FiddleBops
 description: >-
   Fiddlebops Fix is a creative music game where players compose tracks, explore
   interactive stories, and engage with a vibrant community, all for free online.
 iframeSrc: 'https://turbowarp.org/1131610529/embed'
 thumbnail: /new-images/thumbnails/fiddlebops-fix.png
 urlstr: fiddlebops-fix
-modType: fiddlebops
-score: 4.6/5  (217 votes)
 tags:
   - fiddlebops fix
   - music
+modType: fiddlebops
+score: 4.6/5  (217 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

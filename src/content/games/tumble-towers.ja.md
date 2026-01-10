@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Tumble Towers
+seoTitle: 無料でTumble Towersをオンラインでプレイ | FiddleBops
 description: Tumble Towersは、タワー崩しゲームです。ブロックを引き抜いて塔が倒れないようにしましょう。
 iframeSrc: 'https://786ndsslg99r8.h5games.usercontent.goog/v/70bavan56u08g/'
 thumbnail: /new-images/thumbnails/tumble-towers.png
 urlstr: tumble-towers
-score: 3.9/5  (1742 votes)
 tags:
   - puzzle
   - physics
   - strategy
-locale: ja
+score: 3.9/5  (1742 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

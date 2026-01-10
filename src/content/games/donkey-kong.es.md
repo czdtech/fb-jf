@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: donkey-kong
 title: Donkey Kong
+seoTitle: Juega a Donkey Kong en línea gratis | FiddleBops
 description: >-
   Donkey Kong es un juego de plataformas arcade clásico: sube escaleras, esquiva
   peligros y alcanza la parte superior para superar cada fase.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/donkey-kong.html'
 thumbnail: /new-images/thumbnails/donkey-kong.jpg
+urlstr: donkey-kong
 tags:
   - platformer
   - arcade

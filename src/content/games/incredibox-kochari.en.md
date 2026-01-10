@@ -1,16 +1,21 @@
 ---
 locale: en
-modType: incredibox
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Incredibox Kochari"
-description: "Incredibox Kochari is a fan-made mod that blends the classic Incredibox gameplay with the vibrant culture of the Armenian folk dance, Kochari. Create unique beats with traditional rhythms and sounds."
-iframeSrc: "https://turbowarp.org/718091148/embed"
+title: Incredibox Kochari
+seoTitle: Play Incredibox Kochari Online Free | FiddleBops
+description: >-
+  Incredibox Kochari is a fan-made mod that blends the classic Incredibox
+  gameplay with the vibrant culture of the Armenian folk dance, Kochari. Create
+  unique beats with traditional rhythms and sounds.
+iframeSrc: 'https://turbowarp.org/718091148/embed'
 thumbnail: /new-images/thumbnails/incredibox-kochari.png
-urlstr: "incredibox-kochari"
-score: "4.7/5 (2198 votes)"
-tags: ["music", "cultural"]
-developer: ""
-releaseDate: 2025-10-10
+urlstr: incredibox-kochari
+tags:
+  - music
+  - cultural
+modType: incredibox
+score: 4.7/5 (2198 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

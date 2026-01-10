@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: google-feud
 title: Google Feud 究极关键词擂台
+seoTitle: 免费在线玩 Google Feud 究极关键词擂台 | FiddleBops
 description: 问答游戏，玩法类似家庭问答秀：根据 Google 搜寻自动完成的开头提示， 猜出最热门的关键词补全，尽量在没被三次「打叉」前拿到高分。
 iframeSrc: 'https://mac-web.github.io/macvg/projects/google-feud/game.html'
 thumbnail: /new-images/thumbnails/google-feud.jpg
+urlstr: google-feud
 tags:
   - trivia
   - quiz

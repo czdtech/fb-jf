@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Coloring Match"
-description: "Coloring Match teaches color mixing — blend paints to match targets, manage hue/saturation, and refine with small tweaks."
-iframeSrc: "https://21t5l4ct88d8g.h5games.usercontent.goog/v/6kels35kspngg/"
+title: Coloring Match
+seoTitle: Play Coloring Match Online Free | FiddleBops
+description: >-
+  Coloring Match teaches color mixing — blend paints to match targets, manage
+  hue/saturation, and refine with small tweaks.
+iframeSrc: 'https://21t5l4ct88d8g.h5games.usercontent.goog/v/6kels35kspngg/'
 thumbnail: /new-images/thumbnails/coloring-match.jpg
-urlstr: "coloring-match"
-score: "4.1/5  (1968 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: coloring-match
+tags:
+  - puzzle
+  - casual
+  - thinky
+score: 4.1/5  (1968 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

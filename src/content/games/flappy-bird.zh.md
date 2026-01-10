@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: flappy-bird
 title: Flappy Bird 像素小鸟
+seoTitle: 免费在线玩 Flappy Bird 像素小鸟 | FiddleBops
 description: 单点操作的无尽跑酷：点击让小鸟拍翅膀穿过水管缝隙，不碰到任何障碍就能持续累积分数。
 iframeSrc: 'https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/TAhlQLDa/index.html'
 thumbnail: /new-images/thumbnails/flappy-bird.jpg
+urlstr: flappy-bird
 tags:
   - arcade
   - endless-runner

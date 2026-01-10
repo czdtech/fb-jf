@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Elite Chess エリート・チェス
+seoTitle: 無料でElite Chess エリート・チェスをオンラインでプレイ | FiddleBops
 description: 「Elite Chess」は基礎を磨けるチェスゲーム。オープニングの原則、タクティクス、エンドゲームを学び、優位を勝利につなげましょう。
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
 thumbnail: /new-images/thumbnails/elite-chess.png
 urlstr: elite-chess
-score: 4.4/5  (2326 votes)
 tags:
   - thinky
   - puzzle
+score: 4.4/5  (2326 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

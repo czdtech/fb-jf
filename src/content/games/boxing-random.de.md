@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: boxing-random
-title: "Boxing Random"
+title: Boxing Random
+seoTitle: Spiele Boxing Random kostenlos online | FiddleBops
 description: >-
   Erlebe chaotisches, physikbasiertes Boxen in Boxing Random. Meistere die
   Ein‑Tasten‑Steuerung und passe dich zufälligen Herausforderungen an, um deinen
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://app-197305.games.s3.yandex.net/197305/ymb675rkal3nz409zur9etesdbd74y4d/index.html
 thumbnail: /new-images/thumbnails/boxing-random.jpg
+urlstr: boxing-random
 tags:
   - sports
   - physics

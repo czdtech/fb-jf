@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Snowboard King 2024"
-description: "Race down the mountain and outrun a deadly avalanche! Weave through trees and rocks, collect coins, and upgrade your skills to become the Snowboard King."
-iframeSrc: "https://61nls5ipnd8o8.h5games.usercontent.goog/v/6mdu5qlsugsl0/"
+title: Snowboard King 2024
+seoTitle: Play Snowboard King 2024 Online Free | FiddleBops
+description: >-
+  Race down the mountain and outrun a deadly avalanche! Weave through trees and
+  rocks, collect coins, and upgrade your skills to become the Snowboard King.
+iframeSrc: 'https://61nls5ipnd8o8.h5games.usercontent.goog/v/6mdu5qlsugsl0/'
 thumbnail: /new-images/thumbnails/snowboard-king-2024.png
-urlstr: "snowboard-king-2024"
-score: "4.4/5  (2500 votes)"
-tags: ["sports", "action", "driving"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: snowboard-king-2024
+tags:
+  - sports
+  - action
+  - driving
+score: 4.4/5  (2500 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

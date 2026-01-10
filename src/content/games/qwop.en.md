@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "QWOP Game"
-description: "QWOP is a notoriously difficult physics-based running game where players control a runner's leg muscles using only four keys (Q, W, O, P) to try to run 100 meters without falling."
-iframeSrc: "https://kdata1.com/2020/01/QWOP1/?webgl=true"
+title: QWOP Game
+seoTitle: Play QWOP Game Online Free | FiddleBops
+description: >-
+  QWOP is a notoriously difficult physics-based running game where players
+  control a runner's leg muscles using only four keys (Q, W, O, P) to try to run
+  100 meters without falling.
+iframeSrc: 'https://kdata1.com/2020/01/QWOP1/?webgl=true'
 thumbnail: /new-images/thumbnails/qwop.jpg
-urlstr: "qwop"
-score: "4.7/5  (808 votes)"
-tags: ["physics", "difficulty", "comedy"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: qwop
+tags:
+  - physics
+  - difficulty
+  - comedy
+score: 4.7/5  (808 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

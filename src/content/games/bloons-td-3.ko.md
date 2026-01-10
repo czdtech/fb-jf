@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: bloons-td-3
 title: Bloons TD 3 블룬스 TD 3
+seoTitle: Bloons TD 3 블룬스 TD 3 무료 온라인 플레이 | FiddleBops
 description: >-
   형형색색의 블룬 물결을 막아 내는 고전 타워 디펜스 게임 Bloons TD 3입니다. 8종의 개성 있는 타워를 배치·업그레이드하고 강력한
   Monkey Beacon을 활용해, 시리즈 최초로 등장하는 MOAB에 대비해 보세요.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-3.html'
 thumbnail: /new-images/thumbnails/bloons-td-3.jpg
+urlstr: bloons-td-3
 tags:
   - casual
   - strategy

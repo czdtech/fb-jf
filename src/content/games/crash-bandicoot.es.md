@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: crash-bandicoot
 title: Crash Bandicoot
+seoTitle: Juega a Crash Bandicoot en línea gratis | FiddleBops
 description: >-
   Crash Bandicoot es un juego de plataformas arcade retro: corre, salta y gira,
   recoge frutas Wumpa y cristales, esquiva cajas de TNT y completa niveles
   temáticos en este remake jugable en el navegador.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crash-bandicoot.html'
 thumbnail: /new-images/thumbnails/crash-bandicoot.jpg
+urlstr: crash-bandicoot
 tags:
   - arcade
   - platformer

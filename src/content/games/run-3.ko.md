@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: run-3
 title: Run 3 런 3
+seoTitle: Run 3 런 3 무료 온라인 플레이 | FiddleBops
 description: >-
   우주 공간의 터널을 달리는 3D 러닝 게임입니다. 외계 캐릭터를 조종해 발판 사이의 구멍을 점프해 넘고, 벽과 천장까지 활용해 끝없이
   이어지는 코스를 달려 보세요.
 iframeSrc: 'https://lekug.github.io/tn6pS9dCf37xAhkJv/index.html'
 thumbnail: /new-images/thumbnails/run-3.jpg
+urlstr: run-3
 tags:
   - endless runner
   - space

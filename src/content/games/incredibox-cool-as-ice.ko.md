@@ -1,17 +1,18 @@
 ---
 locale: ko
-urlstr: incredibox-cool-as-ice
 title: Incredibox Cool As Ice 얼음 테마 모드
+seoTitle: Incredibox Cool As Ice 얼음 테마 모드 무료 온라인 플레이 | FiddleBops
 description: >-
   겨울·얼음 테마로 재해석한 팬메이드 모드 'Incredibox Cool As Ice' 가이드입니다. 차가운 비주얼과 사운드를 활용해 계절감
   있는 믹스를 만드는 방법과 모드의 특징을 정리했습니다.
 iframeSrc: 'https://turbowarp.org/1108441752/embed'
 thumbnail: /new-images/thumbnails/incredibox-cool-as-ice.png
+urlstr: incredibox-cool-as-ice
 tags:
   - incredibox cool as ice
   - incredibox cool as ice online
 score: 4.9/5  (724 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Incredibox Cool As Ice 소개

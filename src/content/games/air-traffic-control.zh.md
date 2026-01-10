@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: air-traffic-control
 title: Air Traffic Control 空中交通管制
+seoTitle: 免费在线玩 Air Traffic Control 空中交通管制 | FiddleBops
 description: >-
   在《Air Traffic
   Control（空中交通管制）》中，你需要像真正的塔台管制员一样，为进出港飞机规划航线、避免冲突，并在繁忙空域中安全、有序地安排起降。
 iframeSrc: 'https://2nuk1jh1nvsq8.h5games.usercontent.goog/v/5glj0btngbu2o/'
 thumbnail: /new-images/thumbnails/air-traffic-control.png
+urlstr: air-traffic-control
 tags:
   - thinky
   - puzzle

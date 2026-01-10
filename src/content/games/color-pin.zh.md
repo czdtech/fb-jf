@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: color-pin
 title: Color Pin 旋转彩钉
+seoTitle: 免费在线玩 Color Pin 旋转彩钉 | FiddleBops
 description: >-
   《Color Pin 旋转彩钉》是一款考验时机与精确度的“插针”游戏。你需要将一根根细针精准
   地射入旋转圆盘，既不能与已有细针相撞，在颜色模式下还要对准指定色块。
 iframeSrc: 'https://6jgggrkjibvs0.h5games.usercontent.goog/v/7qaps53r4bt10/'
 thumbnail: /new-images/thumbnails/color-pin.png
+urlstr: color-pin
 tags:
   - puzzle
   - casual

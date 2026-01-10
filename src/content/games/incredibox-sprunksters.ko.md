@@ -1,17 +1,17 @@
 ---
 locale: ko
-urlstr: incredibox-sprunksters
-title: "Incredibox Sprunksters 스프렁크스터즈 모드"
+title: Incredibox Sprunksters 스프렁크스터즈 모드
+seoTitle: Incredibox Sprunksters 스프렁크스터즈 모드 무료 온라인 플레이 | FiddleBops
 description: >-
-  Bismeowth가 제작한 팬메이드 모드 'Incredibox Sprunksters'
-  가이드입니다. Sprunki 스타일 캐릭터와 숨겨진 어나더 월드를
-  활용해 개성 있는 비트를 만드는 방법을 소개합니다.
+  Bismeowth가 제작한 팬메이드 모드 'Incredibox Sprunksters' 가이드입니다. Sprunki 스타일 캐릭터와 숨겨진
+  어나더 월드를 활용해 개성 있는 비트를 만드는 방법을 소개합니다.
 iframeSrc: 'https://turbowarp.org/1129395199/embed'
 thumbnail: /new-images/thumbnails/incredibox-sprunksters.png
+urlstr: incredibox-sprunksters
 tags:
   - incredibox sprunksters
 score: 4.3/5  (185 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

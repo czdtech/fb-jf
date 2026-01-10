@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: ovo
-title: OvO Game - Plataformas de alta precisión
+title: OvO Game
+seoTitle: Juega a OvO Game en línea gratis | FiddleBops
 description: >-
   OvO Game es un plataformas rápido y desafiante en el que controlas a un
   stickman usando saltos precisos, deslizamientos y saltos en pared para superar
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20230129/1/index.html
 thumbnail: /new-images/thumbnails/ovo.jpg
+urlstr: ovo
 tags:
   - platformer
   - parkour

@@ -1,17 +1,18 @@
 ---
 locale: de
-urlstr: yojou-sprunki-mustard
-title: Yojou Sprunki Mustard - Play Yojou Sprunki Mustard Online
+title: Yojou Sprunki Mustard
+seoTitle: Spiele Yojou Sprunki Mustard kostenlos online | FiddleBops
 description: >-
   Yojou Sprunki Mustard ist ein schräge Parodie‑Mod: Eine mysteriöse „Senfsoße“
   hat die Sprunki‑Welt überzogen, alle Charaktere verfärbt und den Sound in ein
   chaotisch‑gelbes Musikexperiment verwandelt.
 iframeSrc: 'https://turbowarp.org/1153723334/embed'
 thumbnail: /new-images/thumbnails/yojou-sprunki-mustard.png
+urlstr: yojou-sprunki-mustard
 tags:
   - yojou sprunki mustard
 score: 4.5/5  (322 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

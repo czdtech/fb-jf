@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: climb-man
 title: Climb Man
+seoTitle: Jouez à Climb Man en ligne gratuitement | FiddleBops
 description: "Dans Climb Man, grimpe toujours plus haut en évitant les pièges\_: attrape les prises au bon moment, anticipe les obstacles et vise le meilleur score."
 iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
 thumbnail: /new-images/thumbnails/climb-man.png
+urlstr: climb-man
 tags:
   - action
   - casual

@@ -1,14 +1,18 @@
 ---
-title: "Grow a Garden"
-description: "包括的なガイドでガーデニングゲームのリラックスした世界を発見しましょう。植え付け、育成、収穫のコアなゲームプレイを学び、夢の庭を作るためのヒントと戦略を手に入れましょう。"
-iframeSrc: "https://growden.io/"
-thumbnail: /new-images/thumbnails/grow-a-garden.jpeg
-urlstr: "grow-a-garden"
-score: "4.9/5  (5065 votes)"
-tags: ["simulation", "casual"]
-developer: ""
-releaseDate: 2025-08-16
 locale: ja
+title: Grow a Garden
+seoTitle: 無料でGrow a Gardenをオンラインでプレイ | FiddleBops
+description: >-
+  包括的なガイドでガーデニングゲームのリラックスした世界を発見しましょう。植え付け、育成、収穫のコアなゲームプレイを学び、夢の庭を作るためのヒントと戦略を手に入れましょう。
+iframeSrc: 'https://growden.io/'
+thumbnail: /new-images/thumbnails/grow-a-garden.jpeg
+urlstr: grow-a-garden
+tags:
+  - simulation
+  - casual
+score: 4.9/5  (5065 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Billiard Hustlers"
-description: "Billiard Hustlers brings pool fundamentals to the browser — aim clean, control cue‑ball, and run the table with smart position play."
-iframeSrc: "https://75hivpjsm2230.h5games.usercontent.goog/v/04igpiqnom6k0/"
+title: Billiard Hustlers
+seoTitle: Play Billiard Hustlers Online Free | FiddleBops
+description: >-
+  Billiard Hustlers brings pool fundamentals to the browser — aim clean, control
+  cue‑ball, and run the table with smart position play.
+iframeSrc: 'https://75hivpjsm2230.h5games.usercontent.goog/v/04igpiqnom6k0/'
 thumbnail: /new-images/thumbnails/billiard-hustlers.jpg
-urlstr: "billiard-hustlers"
-score: "4.2/5  (2217 votes)"
-tags: ["sports", "pool"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: billiard-hustlers
+tags:
+  - sports
+  - pool
+score: 4.2/5  (2217 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

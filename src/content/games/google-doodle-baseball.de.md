@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: google-doodle-baseball
 title: Google Doodle Baseball
+seoTitle: Spiele Google Doodle Baseball kostenlos online | FiddleBops
 description: >-
   Lockeres Baseball-Schlagspiel aus Googles 4th-of-July-Doodle: timinge deine
   Schwünge, ziele in die Lücken im Feld und sammle so viele Runs wie möglich,
   bevor dir die Outs ausgehen.
 iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
 thumbnail: /new-images/thumbnails/google-doodle-baseball.jpg
+urlstr: google-doodle-baseball
 tags:
   - sports
   - arcade

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: find-500-differences
 title: Find 500 Differences
+seoTitle: Juega a Find 500 Differences en línea gratis | FiddleBops
 description: >-
   Pon a prueba tu capacidad de observación con Find 500 Differences. Compara dos
   imágenes que parecen idénticas y encuentra todas las diferencias sutiles que
   las separan.
 iframeSrc: 'https://find500differences2.h5games.usercontent.goog/v/4gu2tobroroug/'
 thumbnail: /new-images/thumbnails/find-500-differences.png
+urlstr: find-500-differences
 tags:
   - puzzle
   - casual

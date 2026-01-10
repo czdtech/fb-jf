@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: words-of-magic
-title: Words of Magic - Puzle de palabras mágicas
+title: Words of Magic
+seoTitle: Juega a Words of Magic en línea gratis | FiddleBops
 description: >-
   Desata tu vocabulario en Words of Magic. Conecta letras para formar palabras y
   rellenar el tablero tipo crucigrama en este relajante puzle mágico para
   amantes de los juegos de palabras.
 iframeSrc: 'https://5a5rs5ng5rvro.h5games.usercontent.goog/v/4grqmc17b1kc0/'
 thumbnail: /new-images/thumbnails/words-of-magic.png
+urlstr: words-of-magic
 tags:
   - puzzle
   - thinky

@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Five Nights at Freddy's 1 (FNAF 1)
+seoTitle: 無料でFive Nights at Freddy's 1 (FNAF 1)をオンラインでプレイ | FiddleBops
 description: ピザ屋でのホラーサバイバル：カメラを監視し、電力を節約し、ドアやライトを操作して、5日間の夜（そしてそれ以降）をアニマトロニクスから守り抜きましょう。
 iframeSrc: 'https://ubg77.github.io/fix/fnaf1/'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-1.jpg
 urlstr: five-nights-at-freddy-1
-score: 4.3/5  (370 votes)
 tags:
   - horror
   - strategy
+score: 4.3/5  (370 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Word Wipe
+seoTitle: 無料でWord Wipeをオンラインでプレイ | FiddleBops
 description: Word Wipeは、単語消去パズルゲームです。隣接する文字から単語を作って消しましょう。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-word-wipe/'
 thumbnail: /new-images/thumbnails/word-wipe.jpg
 urlstr: word-wipe
-score: 4.8/5  (1384 votes)
 tags:
   - puzzle
   - word
   - strategy
-locale: ja
+score: 4.8/5  (1384 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

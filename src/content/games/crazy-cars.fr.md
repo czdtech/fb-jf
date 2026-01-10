@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: crazy-cars
 title: Crazy Cars
+seoTitle: Jouez à Crazy Cars en ligne gratuitement | FiddleBops
 description: "Crazy Cars est un jeu de course arcade déjanté\_: évite le trafic, ramasse les bonus et slalome à toute vitesse pour aller le plus loin possible."
 iframeSrc: 'https://g.igroutka.ru/games/164/2afwOT8yZFmeYWGJ/2/crazy_cars/'
 thumbnail: /new-images/thumbnails/crazy-cars.jpg
+urlstr: crazy-cars
 tags:
   - racing
   - casual

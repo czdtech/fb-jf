@@ -1,17 +1,18 @@
 ---
 locale: de
-urlstr: incredibox-sprunksters
-title: Incredibox Sprunksters - Play Incredibox Sprunksters Online
+title: Incredibox Sprunksters
+seoTitle: Spiele Incredibox Sprunksters kostenlos online | FiddleBops
 description: >-
   Incredibox Sprunksters ist ein Fan-Mod von Bismeowth, der den Sprunki-Stil mit
   dem klassischen Incredibox-Gameplay verbindet und dir viele neue, kreative
   Sounds liefert.
 iframeSrc: 'https://turbowarp.org/1129395199/embed'
 thumbnail: /new-images/thumbnails/incredibox-sprunksters.png
+urlstr: incredibox-sprunksters
 tags:
   - incredibox sprunksters
 score: 4.3/5  (185 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

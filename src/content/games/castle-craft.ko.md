@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: castle-craft
 title: Castle Craft 캐슬 크래프트
+seoTitle: Castle Craft 캐슬 크래프트 무료 온라인 플레이 | FiddleBops
 description: >-
   Castle Craft는 작은 정원을 중세 왕국으로 키워 나가는 머지 & 빌드 퍼즐 게임입니다. 같은 아이템을 합쳐 더 높은 단계로
   업그레이드하고, 자원을 모아 퀘스트를 해결하며 안개로 가려진 땅을 하나씩 개척해 보세요.
 iframeSrc: 'https://1hjdl8ff4msl0.h5games.usercontent.goog/v/2mn9n3pfbrrtg/'
 thumbnail: /new-images/thumbnails/castle-craft.png
+urlstr: castle-craft
 tags:
   - puzzle
   - casual

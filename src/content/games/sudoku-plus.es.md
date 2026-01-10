@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: sudoku-plus
 title: Sudoku Plus
+seoTitle: Juega a Sudoku Plus en línea gratis | FiddleBops
 description: >-
   Sudoku Plus es una versión ampliada del clásico Sudoku. Disfruta del puzle
   numérico de siempre con ayudas como pistas, notas y revisión de errores para
   poner a prueba tu mente.
 iframeSrc: 'https://sudokuplus.h5games.usercontent.goog/v/3q827iuj6msno/'
 thumbnail: /new-images/thumbnails/sudoku-plus.jpg
+urlstr: sudoku-plus
 tags:
   - puzzle
   - thinky

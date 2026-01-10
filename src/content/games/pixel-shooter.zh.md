@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: pixel-shooter
 title: 《Pixel Shooter》像素射击闯关
+seoTitle: 免费在线玩 《Pixel Shooter》像素射击闯关 | FiddleBops
 description: 《Pixel Shooter》是一款复古像素风射击游戏，你将操控角色在不同关卡中对抗成群敌人，拾取增益道具、升级武器，在弹雨中努力生存下去。
 iframeSrc: 'https://a.onlineigry.net/games3/igra-piksel-shuter/index.htm'
 thumbnail: /new-images/thumbnails/pixel-shooter.jpg
+urlstr: pixel-shooter
 tags:
   - shooting
   - pixel art

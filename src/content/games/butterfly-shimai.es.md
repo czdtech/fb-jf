@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: butterfly-shimai
 title: Butterfly Shimai
+seoTitle: Juega a Butterfly Shimai en línea gratis | FiddleBops
 description: >-
   Emprende una preciosa aventura de puzles con Butterfly Shimai. Conecta pares
   de alas iguales para formar mariposas completas, hacerlas volar y limpiar el
   tablero.
 iframeSrc: 'https://1pq2qond4eka0.h5games.usercontent.goog/v/4oiv5e7dd7vd8/'
 thumbnail: /new-images/thumbnails/butterfly-shimai.png
+urlstr: butterfly-shimai
 tags:
   - puzzle
   - casual

@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Truck Trials"
-description: "Test your driving skills in Truck Trials, an off-road driving game where you navigate challenging courses with powerful trucks."
-iframeSrc: "https://trucktrials.h5games.usercontent.goog/v/4u5cado14l780/"
+title: Truck Trials
+seoTitle: Play Truck Trials Online Free | FiddleBops
+description: >-
+  Test your driving skills in Truck Trials, an off-road driving game where you
+  navigate challenging courses with powerful trucks.
+iframeSrc: 'https://trucktrials.h5games.usercontent.goog/v/4u5cado14l780/'
 thumbnail: /new-images/thumbnails/truck-trials.png
-urlstr: "truck-trials"
-score: "4.1/5 (1123 votes)"
-tags: ["driving", "action", "sports"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: truck-trials
+tags:
+  - driving
+  - action
+  - sports
+score: 4.1/5 (1123 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

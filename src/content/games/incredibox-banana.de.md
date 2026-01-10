@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: incredibox-banana
-title: "Incredibox Banana"
+title: Incredibox Banana
+seoTitle: Spiele Incredibox Banana kostenlos online | FiddleBops
 description: >-
   Entdecke den beliebten Fan-Mod "Incredibox Banana". Dieser Guide erklärt das
   Dschungel- und Meme-Thema, seine besondere Sound-Palette und gibt Tipps, wie
   du deinen eigenen Affen-Mix erstellst.
 iframeSrc: 'https://turbowarp.org/1108699828/embed'
 thumbnail: /new-images/thumbnails/incredibox-banana.png
+urlstr: incredibox-banana
 tags:
   - music
   - rhythm

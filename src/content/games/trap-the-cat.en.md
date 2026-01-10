@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Trap the Cat"
-description: "Trap the Cat is a strategic puzzle game where players must block a clever cat's escape routes by placing barriers on a hexagonal grid, using logic and planning to prevent the cat from reaching the edge."
-iframeSrc: "https://freeonlinegames.github.io/cat-trap.html"
+title: Trap the Cat
+seoTitle: Play Trap the Cat Online Free | FiddleBops
+description: >-
+  Trap the Cat is a strategic puzzle game where players must block a clever
+  cat's escape routes by placing barriers on a hexagonal grid, using logic and
+  planning to prevent the cat from reaching the edge.
+iframeSrc: 'https://freeonlinegames.github.io/cat-trap.html'
 thumbnail: /new-images/thumbnails/trap-the-cat.jpg
-urlstr: "trap-the-cat"
-score: "4.0/5  (972 votes)"
-tags: ["strategy", "puzzle", "logic"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: trap-the-cat
+tags:
+  - strategy
+  - puzzle
+  - logic
+score: 4.0/5  (972 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Futoshiki
+seoTitle: 無料でFutoshikiをオンラインでプレイ | FiddleBops
 description: Futoshikiは論理を鋭くします。行/列の一意性で数字を配置し、不等号を尊重して優雅な推論を行いましょう。
 iframeSrc: 'https://6g7i64vihegl0.h5games.usercontent.goog/v/7bd886r75d4ag/'
 thumbnail: /new-images/thumbnails/futoshiki.jpg
 urlstr: futoshiki
-score: 4.3/5  (2098 votes)
 tags:
   - puzzle
   - thinky
+score: 4.3/5  (2098 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

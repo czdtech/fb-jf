@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Wordler
+seoTitle: 無料でWordlerをオンラインでプレイ | FiddleBops
 description: Wordlerは、Wordle風の単語推測ゲームです。ヒントを使って単語を推測しましょう。
 iframeSrc: 'https://30mv2rsaljhjo.h5games.usercontent.goog/v/0hb0g2c5b4m9o/'
 thumbnail: /new-images/thumbnails/wordler.png
 urlstr: wordler
-score: 4.2/5  (2054 votes)
 tags:
   - puzzle
   - word
   - guessing
-locale: ja
+score: 4.2/5  (2054 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

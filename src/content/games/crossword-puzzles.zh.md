@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: crossword-puzzles
 title: Crossword Puzzles 主题纵横填字合集
+seoTitle: 免费在线玩 Crossword Puzzles 主题纵横填字合集 | FiddleBops
 description: 《Crossword Puzzles 主题纵横填字合集》提供一系列带主题的英文填字谜题。根据横向与纵 向提示完成网格，并通过主题词条体验紧密关联的词汇玩法。
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/best-free-themed-puzzles/
 thumbnail: /new-images/thumbnails/crossword-puzzles.jpg
+urlstr: crossword-puzzles
 tags:
   - word
   - puzzle

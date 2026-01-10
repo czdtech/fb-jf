@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: puppet-master
 title: Puppet Master 퍼펫 마스터
+seoTitle: Puppet Master 퍼펫 마스터 무료 온라인 플레이 | FiddleBops
 description: >-
   인형의 팔다리를 따로 조작해 장애물을 돌파하는 물리 퍼즐 게임입니다. 어설픈 움직임과 코믹한 연출 속에서 목표 지점까지 인형을 끌고 가
   보세요.
 iframeSrc: 'https://classroomjq.github.io/puppet-master/'
 thumbnail: /new-images/thumbnails/puppet-master.jpg
+urlstr: puppet-master
 tags:
   - puzzle
   - physics

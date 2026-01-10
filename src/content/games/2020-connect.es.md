@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: 2020-connect
-title: "2020 Connect juego de combinar números"
+title: 2020 Connect juego de combinar números
+seoTitle: Juega a 2020 Connect juego de combinar números en línea gratis | FiddleBops
 description: >-
   2020 Connect es un puzle relajado de combinar números: une casillas con el
   mismo valor, crea fichas más altas y administra el espacio para encadenar
   grandes combos y batir tus récords.
 iframeSrc: 'https://4l7qr4mfc8o80.h5games.usercontent.goog/v/5sm797oi4heu0/'
 thumbnail: /new-images/thumbnails/2020-connect.png
+urlstr: 2020-connect
 tags:
   - puzzle
   - thinky

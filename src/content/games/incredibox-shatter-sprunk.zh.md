@@ -1,14 +1,18 @@
 ---
-locale: "zh"
-urlstr: "incredibox-shatter-sprunk"
-
-title: "Incredibox Shatter Sprunk - 在线畅玩 Incredibox Shatter Sprunk"
-description: "Incredibox Shatter Sprunk 是一款粉丝创作的 Incredibox 模组音乐游戏。在这个版本中，所有角色都以醒目的黄色呈现，每个角色都有独特且不可重复的音效。"
-iframeSrc: "https://turbowarp.org/1144858827/embed"
+locale: zh
+title: Incredibox Shatter Sprunk
+seoTitle: 免费在线玩 Incredibox Shatter Sprunk | FiddleBops
+description: >-
+  Incredibox Shatter Sprunk 是一款粉丝创作的 Incredibox
+  模组音乐游戏。在这个版本中，所有角色都以醒目的黄色呈现，每个角色都有独特且不可重复的音效。
+iframeSrc: 'https://turbowarp.org/1144858827/embed'
 thumbnail: /new-images/thumbnails/incredibox-shatter-sprunk.png
-score: "4.5/5  (614 votes)"
-tags: ["incredibox shatter sprunk", "incredibox shatter sprunk online"]
-releaseDate: 2025-12-04
+urlstr: incredibox-shatter-sprunk
+tags:
+  - incredibox shatter sprunk
+  - incredibox shatter sprunk online
+score: 4.5/5  (614 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Incredibox Shatter Sprunk 有什么好玩的？

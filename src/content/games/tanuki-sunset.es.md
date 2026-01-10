@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: tanuki-sunset
-title: Tanuki Sunset - Longboard al atardecer
+title: Tanuki Sunset
+seoTitle: Juega a Tanuki Sunset en línea gratis | FiddleBops
 description: >-
   Súbete al longboard y deslízate hacia el atardecer en Tanuki Sunset. Controla
   a Tanuki, un mapache patinador, por una carretera costera de estética
@@ -9,6 +9,7 @@ description: >-
   tráfico para convertirte en una leyenda del longboard.
 iframeSrc: 'https://ubg100.github.io/games/tanuki/index.html'
 thumbnail: /new-images/thumbnails/tanuki-sunset.jpg
+urlstr: tanuki-sunset
 tags:
   - arcade
   - racing

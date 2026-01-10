@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: bank-robbery
 title: Bank Robbery 뱅크 로버리
+seoTitle: Bank Robbery 뱅크 로버리 무료 온라인 플레이 | FiddleBops
 description: >-
   팀 기반 FPS Bank Robbery 2에서 경찰팀과 강도팀으로 나뉘어 은행 습격전을 벌이는 게임입니다. 드릴을 지키고, 진입로를 커버하며
   완벽한 턴을 노려 보세요.
 iframeSrc: >-
   https://app-183971.games.s3.yandex.net/183971/l0eme2yqkthl0y8stmfuz0u8pdpux64m/index.html
 thumbnail: /new-images/thumbnails/bank-robbery.jpg
+urlstr: bank-robbery
 tags:
   - fPS
   - action

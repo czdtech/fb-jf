@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Zombie Gun
+seoTitle: 無料でZombie Gunをオンラインでプレイ | FiddleBops
 description: Zombie Gunは、ゾンビシューティングゲームです。ゾンビの群れを撃って生き残りましょう。
 iframeSrc: 'https://5bcvrmoqria48.h5games.usercontent.goog/v/7cfakbl479q6o/'
 thumbnail: /new-images/thumbnails/zombie-gun.png
 urlstr: zombie-gun
-score: 4.0/5  (1898 votes)
 tags:
   - shooting
   - zombie
   - survival
-locale: ja
+score: 4.0/5  (1898 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

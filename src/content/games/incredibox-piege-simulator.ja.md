@@ -1,14 +1,20 @@
 ---
-title: "Incredibox Piege Simulator"
-description: "Incredibox Piège Simulatorのガイドです。グリッドベースのゲームプレイや、ダークで雰囲気のあるサウンドパレット、トラップ系ループを作るコツを紹介します。"
-iframeSrc: "https://turbowarp.org/887559994/embed"
-thumbnail: /new-images/thumbnails/incredibox-piege-simulator.png
-urlstr: "incredibox-piege-simulator"
-score: "4.5/5 (889 votes)"
-tags: ["music", "fan-Made", "simulator"]
-developer: ""
-releaseDate: 2025-10-10
 locale: ja
+title: Incredibox Piege Simulator
+seoTitle: 無料でIncredibox Piege Simulatorをオンラインでプレイ | FiddleBops
+description: >-
+  Incredibox Piège
+  Simulatorのガイドです。グリッドベースのゲームプレイや、ダークで雰囲気のあるサウンドパレット、トラップ系ループを作るコツを紹介します。
+iframeSrc: 'https://turbowarp.org/887559994/embed'
+thumbnail: /new-images/thumbnails/incredibox-piege-simulator.png
+urlstr: incredibox-piege-simulator
+tags:
+  - music
+  - fan-Made
+  - simulator
+score: 4.5/5 (889 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Super Bowling Mania
+seoTitle: 無料でSuper Bowling Maniaをオンラインでプレイ | FiddleBops
 description: Super Bowling Maniaは、エキサイティングなボウリングゲームです。ストライクを狙ってハイスコアを獲得しましょう。
 iframeSrc: 'https://2tm5ud1ghg66o.h5games.usercontent.goog/v/6ifi8lgb3gv0g/'
 thumbnail: /new-images/thumbnails/super-bowling-mania.png
 urlstr: super-bowling-mania
-score: 4.0/5  (1555 votes)
 tags:
   - sports
   - bowling
   - arcade
-locale: ja
+score: 4.0/5  (1555 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

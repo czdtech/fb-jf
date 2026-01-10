@@ -1,17 +1,18 @@
 ---
 locale: en
-title: Sprunki Abgerny - Play Sprunki Abgerny Online
+title: Sprunki Abgerny
+seoTitle: Play Sprunki Abgerny Online Free | FiddleBops
 description: >-
   Sprunki Abgerny is a tribute to ancient cultures and an exploration of the
   endless possibilities of music creation.
 iframeSrc: 'https://turbowarp.org/1095335052/embed'
 thumbnail: /new-images/thumbnails/sprunki-abgerny.png
 urlstr: sprunki-abgerny
-modType: sprunki
-score: 3.9/5  (132 votes)
 tags:
   - sprunki abgerny
   - music
+modType: sprunki
+score: 3.9/5  (132 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

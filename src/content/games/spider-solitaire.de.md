@@ -1,10 +1,14 @@
 ---
 locale: de
-urlstr: spider-solitaire
-title: "Spider Solitaire"
-description: "Spiele Spider Solitaire, ein forderndes und lohnendes Kartenspiel. Baue acht absteigende Folgen nach Farbe von König bis Ass und räume das Tableau leer – ein strategisches Puzzle, das deine Planung und Weitsicht testet."
+title: Spider Solitaire
+seoTitle: Spiele Spider Solitaire kostenlos online | FiddleBops
+description: >-
+  Spiele Spider Solitaire, ein forderndes und lohnendes Kartenspiel. Baue acht
+  absteigende Folgen nach Farbe von König bis Ass und räume das Tableau leer –
+  ein strategisches Puzzle, das deine Planung und Weitsicht testet.
 iframeSrc: 'https://www.squidbyte.com/games_third/spider/en/spider-solitaire-halloween/'
 thumbnail: /new-images/thumbnails/spider-solitaire.jpg
+urlstr: spider-solitaire
 tags:
   - card-game
   - puzzle

@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: snakes-and-ladders
 title: 《Snakes And Ladders》蛇梯棋
+seoTitle: 免费在线玩 《Snakes And Ladders》蛇梯棋 | FiddleBops
 description: >-
   《Snakes And
   Ladders》是一款经典的掷骰子运气棋盘游戏。掷出点数向前移动，踩到梯子就飞速爬升，小心蛇头会让你一路滑回去。谁先到达终点格谁就获胜，非常适合全家一起游玩。
 iframeSrc: 'https://cdn.gamesnacks.com/snakesandladders/gameCode/index.html'
 thumbnail: /new-images/thumbnails/snakes-and-ladders.jpg
+urlstr: snakes-and-ladders
 tags:
   - board-game
   - classic

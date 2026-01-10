@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: word-search
-title: Word Search - Entrena tu vista
+title: Word Search
+seoTitle: Juega a Word Search en línea gratis | FiddleBops
 description: >-
   Word Search es un puzle clásico en el que debes encontrar palabras ocultas en
   una sopa de letras, buscándolas en horizontal, vertical y diagonal para
   completar listas temáticas en este relajante ejercicio mental.
 iframeSrc: 'https://cdn.gamesnacks.com/wordsearch1/gameCode/index.html'
 thumbnail: /new-images/thumbnails/word-search.jpg
+urlstr: word-search
 tags:
   - word
   - puzzle

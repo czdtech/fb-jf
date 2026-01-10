@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Stick Fighter
+seoTitle: 無料でStick Fighterをオンラインでプレイ | FiddleBops
 description: Stick Fighterは、スティックマン戦闘ゲームです。技を使って相手を倒しましょう。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221209/4/index.html
 thumbnail: /new-images/thumbnails/stick-fighter.jpg
 urlstr: stick-fighter
-score: 3.6/5  (1444 votes)
 tags:
   - action
   - fighting
   - arcade
-locale: ja
+score: 3.6/5  (1444 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

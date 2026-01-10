@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: candy-bubbles
 title: Candy Bubbles
+seoTitle: Juega a Candy Bubbles en línea gratis | FiddleBops
 description: >-
   Entra en un mundo dulce y revienta burbujas de caramelo de colores. Apunta el
   cañón, combina tres o más y limpia el tablero en este encantador puzle de
   burbujas.
 iframeSrc: 'https://candybubbles.h5games.usercontent.goog/v/370v1t5h5266g/'
 thumbnail: /new-images/thumbnails/candy-bubbles.png
+urlstr: candy-bubbles
 tags:
   - shooting
   - puzzle

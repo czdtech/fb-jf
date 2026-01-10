@@ -1,6 +1,7 @@
 ---
 locale: en
 title: Block Champ
+seoTitle: Play Block Champ Online Free | FiddleBops
 description: >-
   Challenge your strategic mind with Block Champ, a 10x10 grid puzzle game.
   Place shapes to clear lines, master special lightning and ice blocks, and aim
@@ -8,12 +9,12 @@ description: >-
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/block-champ/'
 thumbnail: /new-images/thumbnails/block-champ.jpg
 urlstr: block-champ
-score: 4.6/5  (926 votes)
 tags:
   - puzzle
   - board-game
+score: 4.6/5  (926 votes)
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

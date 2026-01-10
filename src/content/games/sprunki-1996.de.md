@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: sprunki-1996
-title: "Sprunki 1996 - Sprunki 1996 online spielen"
+title: Sprunki 1996
+seoTitle: Spiele Sprunki 1996 kostenlos online | FiddleBops
 description: >-
   Sprunki 1996 ist ein Musikspiel voller Kreativität und Nostalgie: Mit
   90er-Retro-Computer-Look, Pixelart und elektronischen Beats bastelst du als
@@ -9,10 +9,11 @@ description: >-
   von 1996.
 iframeSrc: 'https://html-classic.itch.zone/html/14634762/index.html'
 thumbnail: /new-images/thumbnails/sprunki-1996.png
+urlstr: sprunki-1996
 tags:
   - sprunki 1996
 score: 4.0/5  (122 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

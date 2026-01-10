@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Daily Solitaire"
-description: "A new Klondike Solitaire challenge awaits you every day. Sort the cards from Ace to King and test your skills with a fresh puzzle daily."
-iframeSrc: "https://dailysolitaire.h5games.usercontent.goog/v/0e4orvvorj2mo/"
+title: Daily Solitaire
+seoTitle: Play Daily Solitaire Online Free | FiddleBops
+description: >-
+  A new Klondike Solitaire challenge awaits you every day. Sort the cards from
+  Ace to King and test your skills with a fresh puzzle daily.
+iframeSrc: 'https://dailysolitaire.h5games.usercontent.goog/v/0e4orvvorj2mo/'
 thumbnail: /new-images/thumbnails/daily-solitaire.png
-urlstr: "daily-solitaire"
-score: "4.7/5  (3300 votes)"
-tags: ["card", "puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: daily-solitaire
+tags:
+  - card
+  - puzzle
+  - casual
+score: 4.7/5  (3300 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

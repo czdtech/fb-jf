@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Farming 10x10
+seoTitle: 無料でFarming 10x10をオンラインでプレイ | FiddleBops
 description: >-
   Farming
   10x10は、古典的な10x10ブロックフィットパズルをアレンジしたゲームです。形を配置し、行や列を消して、貴重なスペースが埋まらないようにしましょう。
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
 thumbnail: /new-images/thumbnails/farming-10x10.jpg
 urlstr: farming-10x10
-score: 4.1/5  (1914 votes)
 tags:
   - puzzle
   - thinky
+score: 4.1/5  (1914 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 

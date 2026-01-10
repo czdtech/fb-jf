@@ -1,16 +1,17 @@
 ---
 locale: de
-urlstr: incredibox-donki-abgerny
-title: Incredibox Donki Abgerny - Play Incredibox Donki Abgerny Online
+title: Incredibox Donki Abgerny
+seoTitle: Spiele Incredibox Donki Abgerny kostenlos online | FiddleBops
 description: >-
   Incredibox Donki Abgerny mischt tiefe Stammesrhythmen, Didgeridoo-Sounds und
   seelenvolle Chants in das klassische Incredibox-Gameplay.
 iframeSrc: 'https://turbowarp.org/1135326100/embed'
 thumbnail: /new-images/thumbnails/incredibox-donki-abgerny.png
+urlstr: incredibox-donki-abgerny
 tags:
   - incredibox donki abgerny
 score: 4.3/5  (154 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,12 +1,11 @@
 ---
 locale: zh
-urlstr: ghost-pro-racing
-title: "Ghost Pro Racing 幽灵赛车计时赛"
-description: >-
-  Ghost Pro Racing 是一款计时赛向赛车游戏，你要追逐幽灵重播，
-  修正走线与煞车点，用稳定输入不断把单圈时间往下压。
+title: Ghost Pro Racing 幽灵赛车计时赛
+seoTitle: 免费在线玩 Ghost Pro Racing 幽灵赛车计时赛 | FiddleBops
+description: Ghost Pro Racing 是一款计时赛向赛车游戏，你要追逐幽灵重播， 修正走线与煞车点，用稳定输入不断把单圈时间往下压。
 iframeSrc: 'https://52v00umba6lko.h5games.usercontent.goog/v/46gechg282a6g/'
 thumbnail: /new-images/thumbnails/ghost-pro-racing.jpg
+urlstr: ghost-pro-racing
 tags:
   - car
   - driving

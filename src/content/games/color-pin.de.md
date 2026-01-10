@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: color-pin
 title: Color Pin
+seoTitle: Spiele Color Pin kostenlos online | FiddleBops
 description: >-
   Color Pin ist ein Präzisions-Nadelspiel – schieße Pins in einen rotierenden
   Kern, ohne Kollisionen zu verursachen, und triff unter Druck die richtige
   Farbe.
 iframeSrc: 'https://6jgggrkjibvs0.h5games.usercontent.goog/v/7qaps53r4bt10/'
 thumbnail: /new-images/thumbnails/color-pin.png
+urlstr: color-pin
 tags:
   - puzzle
   - casual

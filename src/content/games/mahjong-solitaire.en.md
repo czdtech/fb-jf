@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Mahjong Solitaire"
-description: "Challenge your mind with Mahjong Solitaire. Find and match pairs of identical tiles to clear the board in this classic and relaxing puzzle game."
-iframeSrc: "https://4erks8385j9eo.h5games.usercontent.goog/v/1ff4p4m8ilme8/"
+title: Mahjong Solitaire
+seoTitle: Play Mahjong Solitaire Online Free | FiddleBops
+description: >-
+  Challenge your mind with Mahjong Solitaire. Find and match pairs of identical
+  tiles to clear the board in this classic and relaxing puzzle game.
+iframeSrc: 'https://4erks8385j9eo.h5games.usercontent.goog/v/1ff4p4m8ilme8/'
 thumbnail: /new-images/thumbnails/mahjong-solitaire.png
-urlstr: "mahjong-solitaire"
-score: "4.6/5  (2300 votes)"
-tags: ["puzzle", "card", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: mahjong-solitaire
+tags:
+  - puzzle
+  - card
+  - thinky
+  - casual
+score: 4.6/5  (2300 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

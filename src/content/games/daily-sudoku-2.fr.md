@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: daily-sudoku-2
 title: Daily Sudoku 2
+seoTitle: Jouez à Daily Sudoku 2 en ligne gratuitement | FiddleBops
 description: "Daily Sudoku 2 propose de nouvelles grilles et variantes\_: résous un sudoku par jour et teste des dispositions plus corsées."
 iframeSrc: 'https://4j6utu2p6fklg.h5games.usercontent.goog/v/6qh61gl4k3ado/'
 thumbnail: /new-images/thumbnails/daily-sudoku-2.png
+urlstr: daily-sudoku-2
 tags:
   - puzzle
   - thinky

@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: My Space Pet
+seoTitle: 無料でMy Space Petをオンラインでプレイ | FiddleBops
 description: My Space Petは宇宙ペットの育成ゲームです。エイリアンペットの世話をし、ミニゲームでコインを集めながら成長を見守ります。
 iframeSrc: 'https://6jqt3hoth456g.h5games.usercontent.goog/v/6jqt3hoth456g/'
 thumbnail: /new-images/thumbnails/my-space-pet.png
 urlstr: my-space-pet
-score: 4.0/5  (1876 votes)
 tags:
   - casual
+score: 4.0/5  (1876 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

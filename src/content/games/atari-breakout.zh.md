@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: atari-breakout
 title: Atari Breakout 打砖块经典版
+seoTitle: 免费在线玩 Atari Breakout 打砖块经典版 | FiddleBops
 description: 在《Atari Breakout（打砖块经典版）》中，你将操控底部挡板反弹小球，一点点打碎屏幕上方的砖块，通过角度控制和隧道战术冲击高分。
 iframeSrc: >-
   https://app-184523.games.s3.yandex.net/184523/bdryh2h6iqjirujzrk3tlum0j0n28j1o/index.html
 thumbnail: /new-images/thumbnails/atari-breakout.jpg
+urlstr: atari-breakout
 tags:
   - casual
   - action

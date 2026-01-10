@@ -1,17 +1,18 @@
 ---
 locale: de
-urlstr: ayocs-sprunkr
-title: "AYOCS Sprunkr - Play AYOCS Sprunkr Online"
+title: AYOCS Sprunkr
+seoTitle: Spiele AYOCS Sprunkr kostenlos online | FiddleBops
 description: >-
   AYOCS Sprunkr ist ein stylishes Sprunki‑Mod. Neue, modische Charakterdesigns,
   frische Sounds und eine aufgepeppte Audio‑Optik treffen auf das vertraute,
   einfache Drag‑and‑Drop‑Musik‑Gameplay.
 iframeSrc: 'https://turbowarp.org/1114188520/embed'
 thumbnail: /new-images/thumbnails/ayocs-sprunkr.png
+urlstr: ayocs-sprunkr
 tags:
   - ayocs sprunkr
 score: 4.1/5  (54 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

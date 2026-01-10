@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: farm-block-puzzle
 title: Farm Block Puzzle 팜 블록 퍼즐
+seoTitle: Farm Block Puzzle 팜 블록 퍼즐 무료 온라인 플레이 | FiddleBops
 description: 귀여운 농장 테마의 10x10 블록 퍼즐입니다. 블록 모양을 끌어다 놓아 가로나 세로 줄을 채우고 지우며 높은 점수를 노려 보세요.
 iframeSrc: 'https://5hefbqkv5o0do.h5games.usercontent.goog/v/0bio68l8dojl0/'
 thumbnail: /new-images/thumbnails/farm-block-puzzle.png
+urlstr: farm-block-puzzle
 tags:
   - puzzle
   - thinky

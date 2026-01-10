@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: incredibox-dystopia
 title: Incredibox Dystopia
+seoTitle: Jouez à Incredibox Dystopia en ligne gratuitement | FiddleBops
 description: >-
   Incredibox Dystopia est un mod sombre et futuriste : synthés froids, sirènes
   d'alerte et chants mécaniques pour composer la bande‑son d'un futur en ruine.
 iframeSrc: 'https://turbowarp.org/1015284026/embed'
 thumbnail: /new-images/thumbnails/incredibox-dystopia.png
+urlstr: incredibox-dystopia
 tags:
   - music
   - electronic

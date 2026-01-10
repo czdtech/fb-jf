@@ -1,11 +1,12 @@
 ---
 locale: fr
-urlstr: only-up
 title: Only Up
+seoTitle: Jouez à Only Up en ligne gratuitement | FiddleBops
 description: "Only Up est un jeu de parkour vertical exigeant\_: grimpe toujours plus haut en enchaînant sauts précis et plateforme instables, en sachant qu'une erreur peut te renvoyer très bas."
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230826/01/index.htm
 thumbnail: /new-images/thumbnails/only-up.jpg
+urlstr: only-up
 tags:
   - parkour
   - platformer

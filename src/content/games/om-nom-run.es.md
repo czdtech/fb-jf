@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: om-nom-run
-title: 'Om Nom: Run - Runner infinito con Om Nom'
+title: 'Om Nom: Run'
+seoTitle: 'Juega a Om Nom: Run en línea gratis | FiddleBops'
 description: >-
   Acompaña a Om Nom y Om Nelle en un frenético runner infinito. Corre por las
   calles, esquiva obstáculos, recoge monedas y usa potentes mejoras para llegar
   lo más lejos posible.
 iframeSrc: 'https://omnomrun.h5games.usercontent.goog/v/38udj70raubl0/'
 thumbnail: /new-images/thumbnails/om-nom-run.png
+urlstr: om-nom-run
 tags:
   - action
   - casual

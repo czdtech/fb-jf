@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: the-impossible-quiz
-title: "The Impossible Quiz - El cuestionario imposible"
+title: The Impossible Quiz
+seoTitle: Juega a The Impossible Quiz en línea gratis | FiddleBops
 description: >-
   Prepárate para lo inesperado en The Impossible Quiz, un cuestionario
   famosamente difícil y desternillante. Responde preguntas trampa, resuelve
@@ -10,6 +10,7 @@ description: >-
   este puzle mental único.
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-impossible-quiz.html'
 thumbnail: /new-images/thumbnails/the-impossible-quiz.jpg
+urlstr: the-impossible-quiz
 tags:
   - quiz
   - puzzle

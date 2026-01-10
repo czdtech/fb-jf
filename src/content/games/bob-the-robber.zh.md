@@ -1,13 +1,14 @@
 ---
 locale: zh
-urlstr: bob-the-robber
 title: Bob the Robber 怪盗鲍勃
+seoTitle: 免费在线玩 Bob the Robber 怪盗鲍勃 | FiddleBops
 description: >-
   在《Bob the Robber 怪盗鲍勃》系列中，你扮演一位“侠盗”，潜入戒备森严的房屋、银行和博物馆，在不被发现的情
   况下关闭机关、破解保险箱并带着目标战利品全身而退。
 iframeSrc: >-
   https://app-190385.games.s3.yandex.net/190385/i7ty94goiswe8ohxdysos1uzmur0yfwk/index.html
 thumbnail: /new-images/thumbnails/bob-the-robber.jpg
+urlstr: bob-the-robber
 tags:
   - stealth
   - puzzle

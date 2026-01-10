@@ -1,16 +1,17 @@
 ---
-title: "Sprunki Craft \U0001F3AE Play Sprunki Craft Online"
+locale: ja
+title: Sprunki Craft
+seoTitle: 無料でSprunki Craftをオンラインでプレイ | FiddleBops
 description: >-
   Sprunki
   CraftはMinecraftとIncrediboxを掛け合わせた音楽作成ゲームです。おなじみのMinecraft風キャラクターで音を重ね、オリジナルの作品を作れます。
 iframeSrc: 'https://www.minijuegos.com/embed/sprunki-craft'
 thumbnail: /new-images/thumbnails/sprunki-craft.jpg
 urlstr: sprunki-craft
-score: 4.9/5  (724 votes)
 tags:
   - sprunki craft
   - sprunki craft online
-locale: ja
+score: 4.9/5  (724 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

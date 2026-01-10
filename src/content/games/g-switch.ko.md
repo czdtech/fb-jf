@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: g-switch
 title: G-Switch 중력 전환 러너
+seoTitle: G-Switch 중력 전환 러너 무료 온라인 플레이 | FiddleBops
 description: >-
   하나의 버튼으로 중력을 뒤집으며 플랫폼 위를 달리는 러너 게임입니다. 속도가 점점 빨라지는 가운데, 구멍과 톱날을 피하며 최대한 오래 버티는
   것이 목표입니다.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/5/index.html
 thumbnail: /new-images/thumbnails/g-switch.jpg
+urlstr: g-switch
 tags:
   - runner
   - platformer

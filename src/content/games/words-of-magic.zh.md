@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: words-of-magic
 title: Words of Magic：魔法文字连线
+seoTitle: 免费在线玩 Words of Magic：魔法文字连线 | FiddleBops
 description: 在《Words of Magic》中释放你的词汇魔力！ 围绕字母圈连线拼出单词，填满下方的填字网格， 一边放松身心，一边用轻度思考唤醒大脑。
 iframeSrc: 'https://5a5rs5ng5rvro.h5games.usercontent.goog/v/4grqmc17b1kc0/'
 thumbnail: /new-images/thumbnails/words-of-magic.png
+urlstr: words-of-magic
 tags:
   - puzzle
   - thinky

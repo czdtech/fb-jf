@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: om-nom-bubbles
 title: Om Nom Bubbles 옴놈 버블즈
+seoTitle: Om Nom Bubbles 옴놈 버블즈 무료 온라인 플레이 | FiddleBops
 description: >-
   Om Nom Bubbles는 귀여운 옴놈과 함께하는 컬러 버블 슈터 게임으로, 같은 색 버블을 맞춰 없애고 벽을 이용한 뱅크 샷으로 보드를
   정리해 나가는 퍼즐입니다.
 iframeSrc: >-
   https://omnombubbles.h5games.usercontent.goog/v/6bdfc73b-7b9c-4046-9bfe-9269036a772f/
 thumbnail: /new-images/thumbnails/om-nom-bubbles.jpg
+urlstr: om-nom-bubbles
 tags:
   - puzzle
   - casual

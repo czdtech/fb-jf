@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: bullet-force
 title: Bullet Force
+seoTitle: Spiele Bullet Force kostenlos online | FiddleBops
 description: >-
   Stürze dich in schnelle Mehrspieler-Gefechte in Bullet Force, einem modernen
   Ego-Shooter. Passe ein großes Waffenarsenal an, beherrsche mehrere Spielmodi
   und kämpfe online gegen andere Spieler oder übe offline gegen Bots.
 iframeSrc: 'https://ubg44.github.io/BulletForce/'
 thumbnail: /new-images/thumbnails/bullet-force.jpg
+urlstr: bullet-force
 tags:
   - action
   - shooting

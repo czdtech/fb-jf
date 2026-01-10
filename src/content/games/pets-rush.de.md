@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: pets-rush
 title: Pets Rush
+seoTitle: Spiele Pets Rush kostenlos online | FiddleBops
 description: >-
   Pets Rush ist ein schnelles, farbenfrohes Match-3-Puzzle: Tausche süße Tiere,
   bilde Reihen aus drei oder mehr gleichen Motiven, löse starke Kombos aus und
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://petsrush2.h5games.usercontent.goog/v/e566fdbf-c420-4ec6-af2a-7e9a6edab856/
 thumbnail: /new-images/thumbnails/pets-rush.jpg
+urlstr: pets-rush
 tags:
   - puzzle
   - casual

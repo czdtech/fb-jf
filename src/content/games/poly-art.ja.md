@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Poly Art
+seoTitle: 無料でPoly Artをオンラインでプレイ | FiddleBops
 description: Poly Artは3Dパズルゲームです。角度を回転させ、隠れた画像を見つけ、ポリゴンアートをマスターし、視覚的なパズルを解決します。
 iframeSrc: 'https://polyart.h5games.usercontent.goog/v/47aiosp2dbqgg/'
 thumbnail: /new-images/thumbnails/poly-art.png
 urlstr: poly-art
-score: 4.6/5  (2540 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.6/5  (2540 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

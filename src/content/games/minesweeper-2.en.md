@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Minesweeper"
-description: "The timeless classic logic puzzle. Use the number clues to deduce the location of all the hidden mines and clear the board without setting one off!"
-iframeSrc: "https://minesweeper.h5games.usercontent.goog/v/6uo6tf2lnil3o/"
+title: Minesweeper
+seoTitle: Play Minesweeper Online Free | FiddleBops
+description: >-
+  The timeless classic logic puzzle. Use the number clues to deduce the location
+  of all the hidden mines and clear the board without setting one off!
+iframeSrc: 'https://minesweeper.h5games.usercontent.goog/v/6uo6tf2lnil3o/'
 thumbnail: /new-images/thumbnails/minesweeper-2.jpg
-urlstr: "minesweeper-2"
-score: "4.7/5  (3500 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: minesweeper-2
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.7/5  (3500 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: mahjong-classic
 title: Mahjong Classic
+seoTitle: Jouez à Mahjong Classic en ligne gratuitement | FiddleBops
 description: >-
   Profite du puzzle intemporel Mahjong Classic : associe des paires de tuiles
   identiques et libres pour vider le plateau dans ce jeu relaxant de stratégie
   et d'observation.
 iframeSrc: 'https://mahjongclassic.h5games.usercontent.goog/v/6tue6un26r7v0/'
 thumbnail: /new-images/thumbnails/mahjong-classic.png
+urlstr: mahjong-classic
 tags:
   - puzzle
   - thinky

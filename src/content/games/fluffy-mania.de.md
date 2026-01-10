@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: fluffy-mania
 title: Fluffy Mania
+seoTitle: Spiele Fluffy Mania kostenlos online | FiddleBops
 description: >-
   Fluffy Mania ist ein gemütliches Verbindepuzzle: Verbinde niedliche Fluffies,
   löse Kettenreaktionen aus und jag hohen Punktzahlen und Levelzielen hinterher.
 iframeSrc: 'https://02rd6nna08dqg.h5games.usercontent.goog/v/3ngbs02gf9h88/'
 thumbnail: /new-images/thumbnails/fluffy-mania.png
+urlstr: fluffy-mania
 tags:
   - puzzle
   - casual

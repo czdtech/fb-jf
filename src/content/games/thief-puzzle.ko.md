@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: thief-puzzle
 title: Thief Puzzle 시프 퍼즐
+seoTitle: Thief Puzzle 시프 퍼즐 무료 온라인 플레이 | FiddleBops
 description: >-
   Thief Puzzle은 고무줄처럼 늘어나는 팔을 뻗어 물건을 훔치면서, 레이저와 경비, 톱날 함정을 피해야 하는 퍼즐 게임입니다. 각
   스테이지마다 최적의 경로와 타이밍을 찾아 목표물을 챙기세요.
 iframeSrc: 'https://5mubkj30k8998.h5games.usercontent.goog/v/79n1cktk92370/'
 thumbnail: /new-images/thumbnails/thief-puzzle.png
+urlstr: thief-puzzle
 tags:
   - puzzle
   - thinky

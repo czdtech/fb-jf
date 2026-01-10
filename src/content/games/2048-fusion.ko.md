@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: 2048-fusion
 title: 2048 Fusion 2048 퓨전
+seoTitle: 2048 Fusion 2048 퓨전 무료 온라인 플레이 | FiddleBops
 description: 고전 2048 퍼즐을 현대적으로 다듬은 버전입니다. 숫자 타일을 밀어 합치며 2048 타일을 만들고 그 이상까지 도전해 보세요.
 iframeSrc: 'https://7t79nelq6lu50.h5games.usercontent.goog/v/7jm0opa5dtf00/'
 thumbnail: /new-images/thumbnails/2048-fusion.png
+urlstr: 2048-fusion
 tags:
   - puzzle
   - thinky

@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: incredibox-piege-simulator
 title: Incredibox Piège Simulator
+seoTitle: Jouez à Incredibox Piège Simulator en ligne gratuitement | FiddleBops
 description: >-
   Incredibox Piège Simulator est un mod Simulator orienté trap : interface en
   grille, kicks lourds, hi‑hats rapides et nappes sombres pour créer des boucles
   trap intenses.
 iframeSrc: 'https://turbowarp.org/887559994/embed'
 thumbnail: /new-images/thumbnails/incredibox-piege-simulator.png
+urlstr: incredibox-piege-simulator
 tags:
   - music
   - fan-Made

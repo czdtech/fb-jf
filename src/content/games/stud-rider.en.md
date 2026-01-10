@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Stud Rider"
-description: "Stud Rider is a moto hill‑runner — manage momentum, land flat, and link jumps smoothly across rugged tracks."
-iframeSrc: "https://0mm8l94jf1g88.h5games.usercontent.goog/v/6fo3rapem7uio/"
+title: Stud Rider
+seoTitle: Play Stud Rider Online Free | FiddleBops
+description: >-
+  Stud Rider is a moto hill‑runner — manage momentum, land flat, and link jumps
+  smoothly across rugged tracks.
+iframeSrc: 'https://0mm8l94jf1g88.h5games.usercontent.goog/v/6fo3rapem7uio/'
 thumbnail: /new-images/thumbnails/stud-rider.png
-urlstr: "stud-rider"
-score: "3.9/5  (1707 votes)"
-tags: ["bike", "driving", "action"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: stud-rider
+tags:
+  - bike
+  - driving
+  - action
+score: 3.9/5  (1707 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Stack Bounce"
-description: "Test your timing and reflexes in Stack Bounce. Smash through colorful platforms by holding down, but be sure to release before you hit the black obstacles to keep the ball bouncing."
-iframeSrc: "https://stackbounce.h5games.usercontent.goog/v/1aqsvv0aegbjg/"
+title: Stack Bounce
+seoTitle: Play Stack Bounce Online Free | FiddleBops
+description: >-
+  Test your timing and reflexes in Stack Bounce. Smash through colorful
+  platforms by holding down, but be sure to release before you hit the black
+  obstacles to keep the ball bouncing.
+iframeSrc: 'https://stackbounce.h5games.usercontent.goog/v/1aqsvv0aegbjg/'
 thumbnail: /new-images/thumbnails/stack-bounce.jpeg
-urlstr: "stack-bounce"
-score: "4.4/5  (2451 votes)"
-tags: ["action", "casual", "clicker"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: stack-bounce
+tags:
+  - action
+  - casual
+  - clicker
+score: 4.4/5  (2451 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

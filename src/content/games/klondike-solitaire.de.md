@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: klondike-solitaire
 title: Klondike Solitaire
+seoTitle: Spiele Klondike Solitaire kostenlos online | FiddleBops
 description: >-
   Klassisches Klondike-Solitaire: Baue die Ablagestapel von Ass bis König nach
   Farbe auf, sortiere die Tafeln in absteigender Reihenfolge und wechselnden
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-klondike-solitaire/
 thumbnail: /new-images/thumbnails/klondike-solitaire.jpg
+urlstr: klondike-solitaire
 tags:
   - solitaire
   - card

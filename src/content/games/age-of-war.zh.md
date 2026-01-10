@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: age-of-war
 title: Age of War 战争时代
+seoTitle: 免费在线玩 Age of War 战争时代 | FiddleBops
 description: 在《Age of War（战争时代）》中，你将从石器时代一路进化到未来时代，通过造兵、防守、进攻与时机把控，击退敌军并摧毁对方基地。
 iframeSrc: >-
   https://app-196716.games.s3.yandex.net/196716/h5h3xwa1kxsz7wcma59tvvmko0zorc80/index.html
 thumbnail: /new-images/thumbnails/age-of-war.jpg
+urlstr: age-of-war
 tags:
   - strategy
   - action

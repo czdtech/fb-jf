@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: wheely
 title: Wheely
+seoTitle: Spiele Wheely kostenlos online | FiddleBops
 description: >-
   Begleite Wheely, das kleine rote Auto, auf einem liebevollen
   Point‑and‑Click‑Abenteuer: Löse Umgebungsrätsel, aktiviere Mechanismen und
   führe ihn durch knifflige Level bis zur Zielflagge.
 iframeSrc: 'https://www.friv.com/z/games/wheely/index-x.html'
 thumbnail: /new-images/thumbnails/wheely.jpg
+urlstr: wheely
 tags:
   - puzzle
   - adventure

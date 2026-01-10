@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: tiny-football-cup
 title: 《Tiny Football Cup》迷你足球杯
+seoTitle: 免费在线玩 《Tiny Football Cup》迷你足球杯 | FiddleBops
 description: 《Tiny Football Cup》是一款节奏明快的迷你足球游戏。通过及时传球与把握射门时机，在短时间内完成小场对决，用合理站位拿下胜利。
 iframeSrc: 'https://67buf3k7fmhlg.h5games.usercontent.goog/v/4r92r0smsurf0/'
 thumbnail: /new-images/thumbnails/tiny-football-cup.png
+urlstr: tiny-football-cup
 tags:
   - sports
   - soccer

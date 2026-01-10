@@ -1,19 +1,20 @@
 ---
+locale: ja
 title: Cookie Clicker 2 クッキークリッカー2
+seoTitle: 無料でCookie Clicker 2 クッキークリッカー2をオンラインでプレイ | FiddleBops
 description: >-
   「Cookie Clicker
   2」でクッキー帝国を築き上げよう。クリックしてクッキーを焼き、施設をアップグレードし、ゴールデンクッキーを集めて、無限に広がる放置ゲームの傑作。
 iframeSrc: 'https://games-online.io/game/cake-maker/'
 thumbnail: /new-images/thumbnails/cookie-clicker-2.jpg
 urlstr: cookie-clicker-2
-score: 4.1/5  (1344 votes)
 tags:
   - clicker
   - idle
   - casual
+score: 4.1/5  (1344 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

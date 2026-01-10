@@ -1,13 +1,15 @@
 ---
-title: "Sprunki Good Night - Play Sprunki Good Night Online"
-description: "Sprunki Good Nightは落ち着いた雰囲気で音作りができるModです。穏やかなビートやアンビエントを重ねて、子守唄のようなトラックを作れます。"
-iframeSrc: "https://turbowarp.org/1178264025/embed"
-thumbnail: /new-images/thumbnails/sprunki-good-night.png
-urlstr: "sprunki-good-night"
-score: "4.2/5  (227 votes)"
-tags: ["sprunki good night"]
 locale: ja
-releaseDate: 2025-12-04
+title: Sprunki Good Night
+seoTitle: 無料でSprunki Good Nightをオンラインでプレイ | FiddleBops
+description: Sprunki Good Nightは落ち着いた雰囲気で音作りができるModです。穏やかなビートやアンビエントを重ねて、子守唄のようなトラックを作れます。
+iframeSrc: 'https://turbowarp.org/1178264025/embed'
+thumbnail: /new-images/thumbnails/sprunki-good-night.png
+urlstr: sprunki-good-night
+tags:
+  - sprunki good night
+score: 4.2/5  (227 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Good Nightで創作する方法は？

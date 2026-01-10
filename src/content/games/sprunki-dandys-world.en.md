@@ -1,17 +1,18 @@
 ---
 locale: en
-title: Sprunki Dandy's World - Play Sprunki Dandy's World Online
+title: Sprunki Dandy's World
+seoTitle: Play Sprunki Dandy's World Online Free | FiddleBops
 description: >-
   Sprunki Dandy's World is a magical fusion of music, art, and storytelling
   where you create your own exclusive music video.
 iframeSrc: 'https://turbowarp.org/1075503895/embed'
 thumbnail: /new-images/thumbnails/sprunki-dandys-world.png
 urlstr: sprunki-dandys-world
-modType: sprunki
-score: 4.4/5  (304 votes)
 tags:
   - sprunki dandy
   - music
+modType: sprunki
+score: 4.4/5  (304 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

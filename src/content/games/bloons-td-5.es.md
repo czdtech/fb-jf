@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: bloons-td-5
 title: Bloons TD 5
+seoTitle: Juega a Bloons TD 5 en línea gratis | FiddleBops
 description: >-
   Domina Bloons TD 5 con su profundidad estratégica, su gran variedad de torres
   y sus poderosos Agentes Especiales. Construye la defensa definitiva,
@@ -9,6 +9,7 @@ description: >-
   Bloon, incluido el temible ZOMG.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-tower-defense-5.html'
 thumbnail: /new-images/thumbnails/bloons-td-5.jpg
+urlstr: bloons-td-5
 tags:
   - casual
   - strategy

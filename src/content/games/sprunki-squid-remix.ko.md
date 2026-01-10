@@ -1,16 +1,17 @@
 ---
 locale: ko
-urlstr: sprunki-squid-remix
 title: Sprunki Squid Remix 스프룽키 스퀴드 리믹스
+seoTitle: Sprunki Squid Remix 스프룽키 스퀴드 리믹스 무료 온라인 플레이 | FiddleBops
 description: >-
   Sprunki Squid Remix는 넷플릭스 시리즈 "오징어 게임"의 긴장감과 스프룽키의 음악 제작을 결합한 크로스오버 모드입니다.
   서바이벌 게임의 분위기를 리듬과 사운드로 표현해 보는 독특한 경험을 제공합니다.
 iframeSrc: 'https://turbowarp.org/1123885023/embed'
 thumbnail: /new-images/thumbnails/sprunki-squid-remix.png
+urlstr: sprunki-squid-remix
 tags:
   - sprunki squid remix
 score: 4.1/5  (92 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

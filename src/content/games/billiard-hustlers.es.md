@@ -1,13 +1,16 @@
 ---
 locale: es
-urlstr: billiard-hustlers
 title: Billiard Hustlers simulador de billar con efecto
+seoTitle: >-
+  Juega a Billiard Hustlers simulador de billar con efecto en línea gratis |
+  FiddleBops
 description: >-
   Billiard Hustlers lleva los fundamentos del billar a tu navegador: apunta con
   precisión, controla la blanca con efecto y limpia la mesa con buen juego de
   posición.
 iframeSrc: 'https://75hivpjsm2230.h5games.usercontent.goog/v/04igpiqnom6k0/'
 thumbnail: /new-images/thumbnails/billiard-hustlers.jpg
+urlstr: billiard-hustlers
 tags:
   - sports
   - pool

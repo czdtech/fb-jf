@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Bad Time Simulator"
-description: "A detailed guide to the Bad Time Simulator, a fan-made game simulating the difficult Sans boss fight. Includes an introduction, gameplay strategy, controls, and FAQ."
-iframeSrc: "https://gotoanddie.github.io/c2-sans-fight/"
+title: Bad Time Simulator
+seoTitle: Play Bad Time Simulator Online Free | FiddleBops
+description: >-
+  A detailed guide to the Bad Time Simulator, a fan-made game simulating the
+  difficult Sans boss fight. Includes an introduction, gameplay strategy,
+  controls, and FAQ.
+iframeSrc: 'https://gotoanddie.github.io/c2-sans-fight/'
 thumbnail: /new-images/thumbnails/bad-time-simulator.jpg
-urlstr: "bad-time-simulator"
-score: "4.6/5  (1058 votes)"
-tags: ["casual", "rhythm"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: bad-time-simulator
+tags:
+  - casual
+  - rhythm
+score: 4.6/5  (1058 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

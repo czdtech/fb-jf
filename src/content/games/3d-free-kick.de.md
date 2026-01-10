@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: 3d-free-kick
 title: 3D Free Kick
+seoTitle: Spiele 3D Free Kick kostenlos online | FiddleBops
 description: >-
   In 3D Free Kick übst du Freistöße wie ein Profi: Ziele an der Mauer vorbei,
   gib dem Ball Effet und platziere stilvolle Treffer unhaltbar für den Keeper.
 iframeSrc: 'https://78b0enfiv98go.h5games.usercontent.goog/v/00acsktd29tjg/'
 thumbnail: /new-images/thumbnails/3d-free-kick.png
+urlstr: 3d-free-kick
 tags:
   - sports
   - soccer

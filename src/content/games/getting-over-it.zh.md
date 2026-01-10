@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: getting-over-it
 title: Getting Over It 锅里老哥攀登记
+seoTitle: 免费在线玩 Getting Over It 锅里老哥攀登记 | FiddleBops
 description: 锤子攀爬地狱：只靠一把锤子挥动、撑跳与勾挂，把锅里大叔一路拽上 各种超现实地形；高精度物理会无情惩罚任何一点急躁。
 iframeSrc: 'https://ubg77.github.io/fix/getting-over-it/'
 thumbnail: /new-images/thumbnails/getting-over-it.jpg
+urlstr: getting-over-it
 tags:
   - platformer
   - physics

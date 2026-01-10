@@ -1,17 +1,17 @@
 ---
 locale: ko
-urlstr: sprunki-police-and-prisoners
-title: 'Sprunki Police And Prisoners 스프룽키 폴리스 앤 프리즈너즈'
+title: Sprunki Police And Prisoners 스프룽키 폴리스 앤 프리즈너즈
+seoTitle: Sprunki Police And Prisoners 스프룽키 폴리스 앤 프리즈너즈 무료 온라인 플레이 | FiddleBops
 description: >-
-  Sprunki Police and Prisoners Mod는 추상적인 아트 스타일과 스프룽키식 음악 제작을
-  결합한 모드입니다. 경찰과 죄수 콘셉트의 캐릭터들을 배치해, 독특한 분위기의
-  트랙을 만들 수 있습니다.
+  Sprunki Police and Prisoners Mod는 추상적인 아트 스타일과 스프룽키식 음악 제작을 결합한 모드입니다. 경찰과 죄수
+  콘셉트의 캐릭터들을 배치해, 독특한 분위기의 트랙을 만들 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1113493234/embed'
 thumbnail: /new-images/thumbnails/sprunki-police-and-prisoners.png
+urlstr: sprunki-police-and-prisoners
 tags:
   - sprunki police and prisoners
 score: 3.9/5  (325 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

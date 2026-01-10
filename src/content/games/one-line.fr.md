@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: one-line
 title: One Line
+seoTitle: Jouez à One Line en ligne gratuitement | FiddleBops
 description: >-
   One Line est un jeu de réflexion minimaliste où tu dois relier tous les points
   d'une figure avec un seul trait continu, sans lever le stylo.
 iframeSrc: 'https://g2.igroutka.ru/games/3/JLgd70b3BNafhVq5/10/igra-odna-liniya/game.html'
 thumbnail: /new-images/thumbnails/one-line.jpg
+urlstr: one-line
 tags:
   - puzzle
   - thinky

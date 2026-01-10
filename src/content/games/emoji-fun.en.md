@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Emoji Fun"
-description: "A creative puzzle game of associations! Connect the pairs of related emojis by drawing a line between them. Think outside the box to solve each unique puzzle."
-iframeSrc: "https://0aijth0is3tko.h5games.usercontent.goog/v/1c1277hq9kr98/"
+title: Emoji Fun
+seoTitle: Play Emoji Fun Online Free | FiddleBops
+description: >-
+  A creative puzzle game of associations! Connect the pairs of related emojis by
+  drawing a line between them. Think outside the box to solve each unique
+  puzzle.
+iframeSrc: 'https://0aijth0is3tko.h5games.usercontent.goog/v/1c1277hq9kr98/'
 thumbnail: /new-images/thumbnails/emoji-fun.png
-urlstr: "emoji-fun"
-score: "4.3/5  (2100 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: emoji-fun
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.3/5  (2100 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

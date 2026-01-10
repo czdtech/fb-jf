@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: the-sea-rush
-title: The Sea Rush - Aventura de puzles bajo el mar
+title: The Sea Rush
+seoTitle: Juega a The Sea Rush en línea gratis | FiddleBops
 description: >-
   Sumérgete en The Sea Rush, una aventura submarina llena de combinaciones.
   Alinea criaturas marinas, encadena explosiones y recoge tesoros mientras
   esquivas los peligros de las profundidades.
 iframeSrc: 'https://thesearush.h5games.usercontent.goog/v/5ie3e5aghbr18/'
 thumbnail: /new-images/thumbnails/the-sea-rush.png
+urlstr: the-sea-rush
 tags:
   - adventure
   - action

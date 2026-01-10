@@ -1,14 +1,16 @@
 ---
-locale: "zh"
-urlstr: "sprunki-phase-5"
-
-title: "Sprunki Phase 5 - 在线玩 Sprunki Phase 5"
-description: "Sprunki Phase 5 是一款粉丝制作的音乐创作游戏，将基于节奏的创意与诡异的氛围转折相结合。"
-iframeSrc: "https://sprunki-phase-5-ekz.pages.dev/"
+locale: zh
+title: Sprunki Phase 5
+seoTitle: 免费在线玩 Sprunki Phase 5 | FiddleBops
+description: Sprunki Phase 5 是一款粉丝制作的音乐创作游戏，将基于节奏的创意与诡异的氛围转折相结合。
+iframeSrc: 'https://sprunki-phase-5-ekz.pages.dev/'
 thumbnail: /new-images/thumbnails/sprunki-phase-5.png
-score: "4.0/5  (604 votes)"
-tags: ["sprunki phase 5", "sprunki phase 5 online"]
-releaseDate: 2025-12-04
+urlstr: sprunki-phase-5
+tags:
+  - sprunki phase 5
+  - sprunki phase 5 online
+score: 4.0/5  (604 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Phase 5 介绍

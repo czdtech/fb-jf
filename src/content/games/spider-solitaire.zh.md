@@ -1,16 +1,17 @@
 ---
 locale: zh
-urlstr: spider-solitaire
 title: 《Spider Solitaire》蜘蛛纸牌
+seoTitle: 免费在线玩 《Spider Solitaire》蜘蛛纸牌 | FiddleBops
 description: 《Spider Solitaire》是一款经典的纸牌接龙游戏，你需要按从 K 到 A 的顺序整理同花色序列，将完整序列从牌面移除，最终清空所有牌堆。
 iframeSrc: 'https://www.squidbyte.com/games_third/spider/en/spider-solitaire-halloween/'
 thumbnail: /new-images/thumbnails/spider-solitaire.jpg
+urlstr: spider-solitaire
 tags:
   - card
   - solitaire
   - puzzle
 score: 4.8/5  (331 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

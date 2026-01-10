@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: elastic-man
 title: Elastic Man
+seoTitle: Jouez à Elastic Man en ligne gratuitement | FiddleBops
 description: "Elastic Man est un jouet interactif étrange\_: tire, tords et étire un visage en caoutchouc ultra déformable pour te détendre ou t’amuser."
 iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/elasticman/0/index.html'
 thumbnail: /new-images/thumbnails/elastic-man.jpg
+urlstr: elastic-man
 tags:
   - casual
   - sandbox

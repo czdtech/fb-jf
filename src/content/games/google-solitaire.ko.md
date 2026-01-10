@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: google-solitaire
 title: Google Solitaire 구글 솔리테어
+seoTitle: Google Solitaire 구글 솔리테어 무료 온라인 플레이 | FiddleBops
 description: '클래식 클론다이크 솔리테어입니다. 색깔이 번갈아 내려가는 테이블 더미를 옮기며, 각 무늬별로 A부터 K까지 기초 더미를 완성해 보세요.'
 iframeSrc: 'https://www.google.com/logos/fnbx/solitaire/standalone.html'
 thumbnail: /new-images/thumbnails/google-solitaire.jpg
+urlstr: google-solitaire
 tags:
   - solitaire
   - card

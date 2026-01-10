@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Dalgona Game ダルゴナ・ゲーム
+seoTitle: 無料でDalgona Game ダルゴナ・ゲームをオンラインでプレイ | FiddleBops
 description: 「Dalgona Game」は緊張感あふれる型抜きチャレンジ。割らないように慎重に形をなぞり、時間内にダルゴナ（カルメ焼き）を完成させよう。
 iframeSrc: 'https://12d729aggg2h0.h5games.usercontent.goog/v/786aa9qgft3vo/'
 thumbnail: /new-images/thumbnails/dalgona-game.png
 urlstr: dalgona-game
-score: 3.9/5  (1722 votes)
 tags:
   - casual
   - thinky
+score: 3.9/5  (1722 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

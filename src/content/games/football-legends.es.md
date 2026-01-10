@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: football-legends
 title: Football Legends
+seoTitle: Juega a Football Legends en línea gratis | FiddleBops
 description: >-
   Duelo arcade de fútbol: juega 1v1 o 2v2 con remates de cabeza, volea y
   disparos especiales en partidos rápidos o torneos.
 iframeSrc: 'https://webglmath.github.io/football-legends/'
 thumbnail: /new-images/thumbnails/football-legends.jpg
+urlstr: football-legends
 tags:
   - sports
   - soccer

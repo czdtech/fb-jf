@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Tic-Tac-Toe"
-description: "Tic-Tac-Toe is the classic strategy game where two players take turns placing X's and O's on a 3x3 grid, aiming to be the first to get three symbols in a row, column, or diagonal."
-iframeSrc: "https://edit.coolmathgames.com//sites/cmatgame/files/public_games/32511/"
+title: Tic-Tac-Toe
+seoTitle: Play Tic-Tac-Toe Online Free | FiddleBops
+description: >-
+  Tic-Tac-Toe is the classic strategy game where two players take turns placing
+  X's and O's on a 3x3 grid, aiming to be the first to get three symbols in a
+  row, column, or diagonal.
+iframeSrc: 'https://edit.coolmathgames.com//sites/cmatgame/files/public_games/32511/'
 thumbnail: /new-images/thumbnails/tic-tac-toe.jpg
-urlstr: "tic-tac-toe"
-score: "4.6/5  (216 votes)"
-tags: ["strategy", "classic", "puzzle"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: tic-tac-toe
+tags:
+  - strategy
+  - classic
+  - puzzle
+score: 4.6/5  (216 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

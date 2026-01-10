@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Om Nom Run
+seoTitle: 無料でOm Nom Runをオンラインでプレイ | FiddleBops
 description: Om Nom Runはエンドレスランナーです。走ってキャンディやコインを集め、障害物を避けながら距離とスコアを伸ばします。
 iframeSrc: 'https://omnomrun.h5games.usercontent.goog/v/38udj70raubl0/'
 thumbnail: /new-images/thumbnails/om-nom-run.png
 urlstr: om-nom-run
-score: 4.5/5  (3400 votes)
 tags:
   - action
   - casual
+score: 4.5/5  (3400 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

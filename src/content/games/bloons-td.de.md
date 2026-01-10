@@ -1,12 +1,14 @@
 ---
 locale: de
-urlstr: bloons-td
-title: "Bloons TD"
+title: Bloons TD
+seoTitle: Spiele Bloons TD kostenlos online | FiddleBops
 description: >-
-  Meistere das Grundprinzip der Bloons‑Tower‑Defense‑Reihe: Platziere Affentürme,
-  verbessere sie und stoppe jede Bloon‑Welle, bevor sie das Ziel erreicht.
+  Meistere das Grundprinzip der Bloons‑Tower‑Defense‑Reihe: Platziere
+  Affentürme, verbessere sie und stoppe jede Bloon‑Welle, bevor sie das Ziel
+  erreicht.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/bloons-tower-defense.html'
 thumbnail: /new-images/thumbnails/bloons-td.jpg
+urlstr: bloons-td
 tags:
   - casual
   - strategy

@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: tile-journey
 title: Tile Journey
+seoTitle: Jouez à Tile Journey en ligne gratuitement | FiddleBops
 description: >-
   Tile Journey est un puzzle relaxant : sélectionne trois tuiles identiques pour
   les effacer, mais planifie tes coups pour ne pas remplir ton plateau !
 iframeSrc: 'https://0i1jh8boqif48.h5games.usercontent.goog/v/1643ot8on0v9g/'
 thumbnail: /new-images/thumbnails/tile-journey.png
+urlstr: tile-journey
 tags:
   - puzzle
   - casual

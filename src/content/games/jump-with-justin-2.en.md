@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Jump With Justin 2"
-description: "Jump With Justin 2 is a bouncy platformer — time jumps, bounce off hazards, and chain springs to the goal."
-iframeSrc: "https://jumpwithjustin2.h5games.usercontent.goog/v/54vavt12q94n8/"
+title: Jump With Justin 2
+seoTitle: Play Jump With Justin 2 Online Free | FiddleBops
+description: >-
+  Jump With Justin 2 is a bouncy platformer — time jumps, bounce off hazards,
+  and chain springs to the goal.
+iframeSrc: 'https://jumpwithjustin2.h5games.usercontent.goog/v/54vavt12q94n8/'
 thumbnail: /new-images/thumbnails/jump-with-justin-2.png
-urlstr: "jump-with-justin-2"
-score: "3.9/5  (1571 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: jump-with-justin-2
+tags:
+  - action
+  - casual
+score: 3.9/5  (1571 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

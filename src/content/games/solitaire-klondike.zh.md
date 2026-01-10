@@ -1,13 +1,14 @@
 ---
 locale: zh
-urlstr: solitaire-klondike
 title: 《Solitaire Klondike》Klondike 纸牌接龙
+seoTitle: 免费在线玩 《Solitaire Klondike》Klondike 纸牌接龙 | FiddleBops
 description: >-
   《Solitaire Klondike》是最经典、最流行的纸牌接龙玩法之一。使用一副标准 52 张扑克牌，将所有牌按花色从 A 到 K
   依次移入四个基础牌堆，通过桌面操作逐步解锁隐藏牌完成整局。
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/s/solitaire-klondike/v480/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref=
 thumbnail: /new-images/thumbnails/solitaire-klondike.jpg
+urlstr: solitaire-klondike
 tags:
   - card-game
   - classic

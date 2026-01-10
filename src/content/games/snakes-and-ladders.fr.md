@@ -1,14 +1,11 @@
 ---
 locale: fr
-urlstr: snakes-and-ladders
-title: 'Snakes and Ladders'
-description: >-
-  Joue à Snakes and Ladders, le grand classique de plateau basé sur la chance :
-  lance le dé, grimpe aux échelles pour prendre de l’avance et méfie‑toi des
-  serpents qui te feront redescendre. Sois le premier à atteindre la dernière
-  case pour gagner cette partie familiale intemporelle.
+title: Snakes and Ladders
+seoTitle: Jouez à Snakes and Ladders en ligne gratuitement | FiddleBops
+description: "Joue à Snakes and Ladders, le grand classique de plateau basé sur la chance\_: lance le dé, grimpe aux échelles pour prendre de l’avance et méfie‑toi des serpents qui te feront redescendre. Sois le premier à atteindre la dernière case pour gagner cette partie familiale intemporelle."
 iframeSrc: 'https://cdn.gamesnacks.com/snakesandladders/gameCode/index.html'
 thumbnail: /new-images/thumbnails/snakes-and-ladders.jpg
+urlstr: snakes-and-ladders
 tags:
   - board-game
   - classic

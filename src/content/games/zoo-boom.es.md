@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: zoo-boom
-title: Zoo Boom - Explosión de animales
+title: Zoo Boom
+seoTitle: Juega a Zoo Boom en línea gratis | FiddleBops
 description: >-
   Bienvenido a Zoo Boom, un colorido juego de puzles match‑2 en el que tocas
   grupos de adorables animales de zoo para hacerlos explotar y superar niveles
   llenos de retos.
 iframeSrc: 'https://zooboom.h5games.usercontent.goog/v/4g2tps61g9djg/'
 thumbnail: /new-images/thumbnails/zoo-boom.png
+urlstr: zoo-boom
 tags:
   - puzzle
   - casual

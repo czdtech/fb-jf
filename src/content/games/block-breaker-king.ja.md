@@ -1,14 +1,19 @@
 ---
-title: "Block Breaker King ブロック崩しキング"
-description: "「Block Breaker King」はブロックを配置して縦横のラインを消すパズルゲームです。ピースをはめ込んで盤面を整理し、手詰まりになる前にハイスコアを狙いましょう。"
-iframeSrc: "https://40p3ck71ovs88.h5games.usercontent.goog/v/36e5gjc5plhi8/"
-thumbnail: /new-images/thumbnails/block-breaker-king.png
-urlstr: "block-breaker-king"
-score: "3.8/5  (1631 votes)"
-tags: ["arcade", "casual"]
-developer: "Mobirix"
-releaseDate: 2025-10-18
 locale: ja
+title: Block Breaker King ブロック崩しキング
+seoTitle: 無料でBlock Breaker King ブロック崩しキングをオンラインでプレイ | FiddleBops
+description: >-
+  「Block Breaker
+  King」はブロックを配置して縦横のラインを消すパズルゲームです。ピースをはめ込んで盤面を整理し、手詰まりになる前にハイスコアを狙いましょう。
+iframeSrc: 'https://40p3ck71ovs88.h5games.usercontent.goog/v/36e5gjc5plhi8/'
+thumbnail: /new-images/thumbnails/block-breaker-king.png
+urlstr: block-breaker-king
+tags:
+  - arcade
+  - casual
+score: 3.8/5  (1631 votes)
+developer: Mobirix
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

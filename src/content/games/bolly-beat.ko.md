@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: bolly-beat
 title: Bolly Beat 볼리 비트
+seoTitle: Bolly Beat 볼리 비트 무료 온라인 플레이 | FiddleBops
 description: >-
   경쾌한 볼리우드 스타일 음악에 맞춰 화면을 두드리는 리듬 게임 Bolly Beat입니다. 박자에 맞게 탭하고 콤보를 이어 가며, 화려한
   비트와 함께 높은 점수에 도전해 보세요.
 iframeSrc: 'https://bollybeat.h5games.usercontent.goog/v/4k75msiudusn0/'
 thumbnail: /new-images/thumbnails/bolly-beat.jpg
+urlstr: bolly-beat
 tags:
   - casual
   - action

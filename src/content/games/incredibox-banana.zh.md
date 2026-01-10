@@ -1,10 +1,13 @@
 ---
 locale: zh
-urlstr: incredibox-banana
-title: "Incredibox Banana - 在线玩 Incredibox Banana"
-description: "探索粉丝制作的 Incredibox Banana Mod。本指南详细介绍了其受热门 VR 游戏启发的丛林和梗主题、独特的音色调色板，以及创作你自己的猴子混音的技巧。"
+title: Incredibox Banana
+seoTitle: 免费在线玩 Incredibox Banana | FiddleBops
+description: >-
+  探索粉丝制作的 Incredibox Banana Mod。本指南详细介绍了其受热门 VR
+  游戏启发的丛林和梗主题、独特的音色调色板，以及创作你自己的猴子混音的技巧。
 iframeSrc: 'https://turbowarp.org/1108699828/embed'
 thumbnail: /new-images/thumbnails/incredibox-banana.png
+urlstr: incredibox-banana
 tags:
   - music
   - rhythm

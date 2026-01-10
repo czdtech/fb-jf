@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: descent
 title: Descent
+seoTitle: Spiele Descent kostenlos online | FiddleBops
 description: >-
   Descent ist ein minimalistisches Arcade-Geschicklichkeitsspiel, in dem du
   einen Schacht hinabstürzt, von Wand zu Wand springst und gefährlichen
   Hindernissen wie Stacheln und beweglichen Fallen ausweichst.
 iframeSrc: 'https://g2.igroutka.ru/games/17/4tWRaCD7AOzxbTsE/descent/'
 thumbnail: /new-images/thumbnails/descent.jpg
+urlstr: descent
 tags:
   - arcade
   - skill

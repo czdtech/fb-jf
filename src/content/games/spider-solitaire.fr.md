@@ -1,14 +1,11 @@
 ---
 locale: fr
-urlstr: spider-solitaire
-title: 'Spider Solitaire'
-description: >-
-  Joue à Spider Solitaire, un jeu de cartes exigeant et gratifiant : ton but
-  est de construire huit suites descendantes par couleur, du Roi à l’As, puis
-  de vider le tableau dans ce puzzle stratégique qui met ta planification à
-  l’épreuve.
+title: Spider Solitaire
+seoTitle: Jouez à Spider Solitaire en ligne gratuitement | FiddleBops
+description: "Joue à Spider Solitaire, un jeu de cartes exigeant et gratifiant\_: ton but est de construire huit suites descendantes par couleur, du Roi à l’As, puis de vider le tableau dans ce puzzle stratégique qui met ta planification à l’épreuve."
 iframeSrc: 'https://www.squidbyte.com/games_third/spider/en/spider-solitaire-halloween/'
 thumbnail: /new-images/thumbnails/spider-solitaire.jpg
+urlstr: spider-solitaire
 tags:
   - card-game
   - puzzle

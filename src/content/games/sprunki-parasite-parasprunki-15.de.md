@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: sprunki-parasite-parasprunki-15
-title: Incredibox Sprunksters - Incredibox Sprunksters online spielen
+title: Incredibox Sprunksters
+seoTitle: Spiele Incredibox Sprunksters kostenlos online | FiddleBops
 description: >-
   Mach dich bereit für Sprunki Parasite ParaSprunki 15: ein Fan-Mod, der das
   freundliche Sprunki-Universum in eine unheimliche, von Parasiten befallene
   Klangwelt verwandelt.
 iframeSrc: 'https://kdata1.com/2025/03/paraSprunki-update-15-0-part-222/'
 thumbnail: /new-images/thumbnails/sprunki-parasite-parasprunki-15.png
+urlstr: sprunki-parasite-parasprunki-15
 tags:
   - incredibox sprunksters
 score: 4.3/5  (372 votes)

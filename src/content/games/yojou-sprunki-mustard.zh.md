@@ -1,14 +1,17 @@
 ---
-locale: "zh"
-urlstr: "yojou-sprunki-mustard"
-
-title: "Yojou Sprunki Mustard - 在线玩 Yojou Sprunki Mustard"
-description: "Yojou Sprunki Mustard，这款恶搞 Mod，彻底颠覆了 Sprunki 世界，所有角色都被一种神秘的「芥末酱」侵蚀，创造出一种既混乱又有趣的音乐体验。"
-iframeSrc: "https://turbowarp.org/1153723334/embed"
+locale: zh
+title: Yojou Sprunki Mustard
+seoTitle: 免费在线玩 Yojou Sprunki Mustard | FiddleBops
+description: >-
+  Yojou Sprunki Mustard，这款恶搞 Mod，彻底颠覆了 Sprunki
+  世界，所有角色都被一种神秘的「芥末酱」侵蚀，创造出一种既混乱又有趣的音乐体验。
+iframeSrc: 'https://turbowarp.org/1153723334/embed'
 thumbnail: /new-images/thumbnails/yojou-sprunki-mustard.png
-score: "4.5/5  (322 votes)"
-tags: ["yojou sprunki mustard"]
-releaseDate: 2025-12-04
+urlstr: yojou-sprunki-mustard
+tags:
+  - yojou sprunki mustard
+score: 4.5/5  (322 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

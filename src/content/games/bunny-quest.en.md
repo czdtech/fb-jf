@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Bunny Quest"
-description: "Bunny Quest is a tile‑path puzzle — slide tiles, connect routes, and guide the bunny to the goal."
-iframeSrc: "https://630h8fcg3e938.h5games.usercontent.goog/v/51qfd4fr90dro/"
+title: Bunny Quest
+seoTitle: Play Bunny Quest Online Free | FiddleBops
+description: >-
+  Bunny Quest is a tile‑path puzzle — slide tiles, connect routes, and guide the
+  bunny to the goal.
+iframeSrc: 'https://630h8fcg3e938.h5games.usercontent.goog/v/51qfd4fr90dro/'
 thumbnail: /new-images/thumbnails/bunny-quest.png
-urlstr: "bunny-quest"
-score: "4.1/5  (1881 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: bunny-quest
+tags:
+  - puzzle
+  - thinky
+score: 4.1/5  (1881 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

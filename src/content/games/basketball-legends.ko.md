@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: basketball-legends
 title: Basketball Legends 농구 레전드
+seoTitle: Basketball Legends 농구 레전드 무료 온라인 플레이 | FiddleBops
 description: >-
   과장된 캐릭터와 화려한 덩크가 난무하는 아케이드 농구 게임입니다. 1:1 혹은 2:2로 공격·수비와 슈퍼샷 타이밍을 익혀 전설 선수들로
   코트를 지배해 보세요.
 iframeSrc: 'https://webglmath.github.io/basketball-legends/'
 thumbnail: /new-images/thumbnails/basketball-legends.jpg
+urlstr: basketball-legends
 tags:
   - 2-Player
   - sports

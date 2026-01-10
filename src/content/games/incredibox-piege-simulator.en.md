@@ -1,15 +1,22 @@
 ---
 locale: en
-modType: incredibox
-title: "Incredibox Piege Simulator"
-description: "Incredibox Piège Simulator this guide details its grid-based gameplay, dark and atmospheric sound palette, and provides tips for creating intense trap loops."
-iframeSrc: "https://turbowarp.org/887559994/embed"
+title: Incredibox Piege Simulator
+seoTitle: Play Incredibox Piege Simulator Online Free | FiddleBops
+description: >-
+  Incredibox Piège Simulator this guide details its grid-based gameplay, dark
+  and atmospheric sound palette, and provides tips for creating intense trap
+  loops.
+iframeSrc: 'https://turbowarp.org/887559994/embed'
 thumbnail: /new-images/thumbnails/incredibox-piege-simulator.png
-urlstr: "incredibox-piege-simulator"
-score: "4.5/5 (889 votes)"
-tags: ["music", "fan-made", "simulator"]
-developer: ""
-releaseDate: 2025-10-10
+urlstr: incredibox-piege-simulator
+tags:
+  - music
+  - fan-made
+  - simulator
+modType: incredibox
+score: 4.5/5 (889 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 

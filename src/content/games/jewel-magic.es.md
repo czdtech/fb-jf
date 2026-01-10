@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: jewel-magic
 title: Jewel Magic
+seoTitle: Juega a Jewel Magic en línea gratis | FiddleBops
 description: >-
   Desata la magia de las gemas en Jewel Magic, un clásico match‑3. Combina joyas
   brillantes, crea combos poderosos y supera niveles desafiantes en esta
   aventura encantada.
 iframeSrc: 'https://jewelmagic.h5games.usercontent.goog/v/55vd8l21hn1q8/'
 thumbnail: /new-images/thumbnails/jewel-magic.png
+urlstr: jewel-magic
 tags:
   - puzzle
   - casual

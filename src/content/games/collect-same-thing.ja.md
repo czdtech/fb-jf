@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Collect Same Thing コレクト・セイム・シング
+seoTitle: 無料でCollect Same Thing コレクト・セイム・シングをオンラインでプレイ | FiddleBops
 description: 「Collect Same Thing」は、同じアイテムのペアを見つける整理整頓パズル。限られたスペースと時間をうまく使い、ボードをきれいに片付けよう。
 iframeSrc: 'https://01cqom45rtuoo.h5games.usercontent.goog/v/6t1iulpqr6t5g/'
 thumbnail: /new-images/thumbnails/collect-same-thing.png
 urlstr: collect-same-thing
-score: 3.8/5  (1582 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 3.8/5  (1582 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

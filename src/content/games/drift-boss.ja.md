@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Drift Boss ドリフト・ボス
+seoTitle: 無料でDrift Boss ドリフト・ボスをオンラインでプレイ | FiddleBops
 description: 「Drift Boss」はワンボタン操作の爽快ドリフトゲーム。タイミングよく曲がり、コースから落ちないように走り続けてコインを集めよう。
 iframeSrc: 'https://ubg98.github.io/DriftBoss/'
 thumbnail: /new-images/thumbnails/drift-boss.jpg
 urlstr: drift-boss
-score: 3.7/5  (679 votes)
 tags:
   - racing
   - drifting
+score: 3.7/5  (679 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

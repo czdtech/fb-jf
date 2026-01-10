@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: solitaire-klondike
 title: Solitaire Klondike 솔리테어 클론다이크
+seoTitle: Solitaire Klondike 솔리테어 클론다이크 무료 온라인 플레이 | FiddleBops
 description: >-
   Solitaire Klondike는 솔리테어 가운데 가장 널리 알려진 고전 카드 게임입니다. 52장의 카드를 이용해 네 개의 바닥 패에
   무늬별로 A부터 K까지 차례대로 쌓아 올리는 것이 목표로, 인내심과 전략, 그리고 약간의 운이 필요한 게임입니다.
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/s/solitaire-klondike/v480/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref=
 thumbnail: /new-images/thumbnails/solitaire-klondike.jpg
+urlstr: solitaire-klondike
 tags:
   - card-game
   - classic

@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Diner Dash"
-description: "Diner Dash is a time‑management game: seat guests, take orders, serve meals, and keep everyone happy to clear levels."
-iframeSrc: "https://ad-freegames.github.io/flash/game/diner-dash.html"
+title: Diner Dash
+seoTitle: Play Diner Dash Online Free | FiddleBops
+description: >-
+  Diner Dash is a time‑management game: seat guests, take orders, serve meals,
+  and keep everyone happy to clear levels.
+iframeSrc: 'https://ad-freegames.github.io/flash/game/diner-dash.html'
 thumbnail: /new-images/thumbnails/diner-dash.jpg
-urlstr: "diner-dash"
-score: "4.3/5  (691 votes)"
-tags: ["time-management", "strategy"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: diner-dash
+tags:
+  - time-management
+  - strategy
+score: 4.3/5  (691 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

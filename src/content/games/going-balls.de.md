@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: going-balls
 title: Going Balls
+seoTitle: Spiele Going Balls kostenlos online | FiddleBops
 description: >-
   Going Balls ist ein 3D-Kugel-Runner über schmale Bahnen voller Fallen. Halte
   das Gleichgewicht, weich Hindernissen aus, sammle Münzen und erreiche das
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231116/10/index.htm
 thumbnail: /new-images/thumbnails/going-balls.jpg
+urlstr: going-balls
 tags:
   - runner
   - balance

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: big-shark
 title: Big Shark 빅 샤크
+seoTitle: Big Shark 빅 샤크 무료 온라인 플레이 | FiddleBops
 description: >-
   상어가 되어 바닷속을 누비며 먹이를 먹고 성장하는 액션 생존 게임 Big Shark입니다. 더 큰 상어와 지뢰를 피해 살아남아 최고 점수를
   노려 보세요.
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/big-shark/'
 thumbnail: /new-images/thumbnails/big-shark.jpg
+urlstr: big-shark
 tags:
   - casual
   - action

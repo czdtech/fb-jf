@@ -1,11 +1,12 @@
 ---
 locale: ko
-urlstr: fancy-pants-3
 title: Fancy Pants 3 팬시 팬츠 3
+seoTitle: Fancy Pants 3 팬시 팬츠 3 무료 온라인 플레이 | FiddleBops
 description: '모멘텀 플랫포머 시리즈의 세 번째 작품입니다. 더 커진 맵과 비밀, 개선된 벽달리기와 슬라이드로 더욱 부드러운 흐름을 즐겨 보세요.'
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj10/index.html
 thumbnail: /new-images/thumbnails/fancy-pants-3.jpg
+urlstr: fancy-pants-3
 tags:
   - platformer
   - action

@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: 8x8-match-tiles
 title: 8x8 Match Tiles
+seoTitle: Jouez à 8x8 Match Tiles en ligne gratuitement | FiddleBops
 description: >-
   8x8 Match Tiles est un jeu de réflexion minimaliste où tu associes des tuiles
   identiques sur une grille 8×8 tout en gérant l’espace limité.
 iframeSrc: 'https://75njrrvim9kq0.h5games.usercontent.goog/v/1v57mtiv2ele0/'
 thumbnail: /new-images/thumbnails/8x8-match-tiles.jpg
+urlstr: 8x8-match-tiles
 tags:
   - puzzle
   - thinky

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: geometry-dash-world
 title: Geometry Dash World 지오메트리 대시 월드
+seoTitle: Geometry Dash World 지오메트리 대시 월드 무료 온라인 플레이 | FiddleBops
 description: >-
   짧고 밀도 높은 음악 연동 스테이지들로 구성된 Geometry Dash 월드 버전입니다. 두 개의 월드를 달리며 점프와 비행으로 장애물을
   피하고, 구슬과 열쇠를 모아 게이트를 열고 데일리 레벨에 도전해 보세요.
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-world/'
 thumbnail: /new-images/thumbnails/geometry-dash-world.jpg
+urlstr: geometry-dash-world
 tags:
   - rhythm
   - platformer

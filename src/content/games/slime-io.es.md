@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: slime-io
 title: Slime.io
+seoTitle: Juega a Slime.io en línea gratis | FiddleBops
 description: >-
   Un divertido y caótico juego .io de devorar todo lo que veas. Controla tu
   slime, absorbe desde coches hasta edificios enteros y cómete a los jugadores
   más pequeños para convertirte en el limo más grande de la ciudad.
 iframeSrc: 'https://slime-io.h5games.usercontent.goog/v/3p2ufrjemduhg/'
 thumbnail: /new-images/thumbnails/slime-io.png
+urlstr: slime-io
 tags:
   - action
   - casual

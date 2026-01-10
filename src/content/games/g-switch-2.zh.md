@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: g-switch-2
 title: G-Switch 2 重力切换酷跑 2
+seoTitle: 免费在线玩 G-Switch 2 重力切换酷跑 2 | FiddleBops
 description: 《G-Switch 2》是重力翻转跑酷续作，你可以单人挑战或本地多人同屏竞速， 通过切换重力方向来躲避愈来愈密集的陷阱。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/6/index.html
 thumbnail: /new-images/thumbnails/g-switch-2.jpg
+urlstr: g-switch-2
 tags:
   - runner
   - platformer

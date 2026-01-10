@@ -1,13 +1,16 @@
 ---
 locale: es
-urlstr: alien-hominid
 title: 'Alien Hominid: guía del clásico juego de disparos'
+seoTitle: >-
+  Juega a Alien Hominid: guía del clásico juego de disparos en línea gratis |
+  FiddleBops
 description: >-
   Alien Hominid es un frenético juego de acción y disparos de desplazamiento
   lateral creado por The Behemoth. Descubre estrategias, controles y consejos
   para dominar este desafiante clásico de disparos.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/alien-hominid.html'
 thumbnail: /new-images/thumbnails/alien-hominid.jpg
+urlstr: alien-hominid
 tags:
   - shooting
   - action

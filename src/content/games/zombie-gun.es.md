@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: zombie-gun
-title: Zombie Gun - Disparos de rebote contra zombis
+title: Zombie Gun
+seoTitle: Juega a Zombie Gun en línea gratis | FiddleBops
 description: >-
   Zombie Gun es un juego de disparos con físicas: hace rebotar balas en las
   paredes, detona barriles y limpia habitaciones usando ángulos inteligentes y
   munición limitada.
 iframeSrc: 'https://5bcvrmoqria48.h5games.usercontent.goog/v/7cfakbl479q6o/'
 thumbnail: /new-images/thumbnails/zombie-gun.png
+urlstr: zombie-gun
 tags:
   - shooting
   - puzzle

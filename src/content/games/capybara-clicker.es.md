@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: capybara-clicker
 title: Capybara Clicker
+seoTitle: Juega a Capybara Clicker en línea gratis | FiddleBops
 description: >-
   Multiplica tu población de carpinchos en Capybara Clicker. Haz clic para crear
   capybaras, compra mejoras automáticas, desbloquea nuevos climas y viste a tu
   capybara con gorros estilosos en este encantador idle game.
 iframeSrc: 'https://bitlifeonline.github.io/capybara-clicker/'
 thumbnail: /new-images/thumbnails/capybara-clicker.jpg
+urlstr: capybara-clicker
 tags:
   - casual
   - clicker

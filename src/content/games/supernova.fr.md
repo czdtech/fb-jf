@@ -1,13 +1,11 @@
 ---
 locale: fr
-urlstr: supernova
-title: 'Supernova'
-description: >-
-  Pilote ton vaisseau dans Supernova : évite les astéroïdes, détruis les
-  menaces et survive le plus longtemps possible dans ce shooter spatial
-  arcade.
+title: Supernova
+seoTitle: Jouez à Supernova en ligne gratuitement | FiddleBops
+description: "Pilote ton vaisseau dans Supernova\_: évite les astéroïdes, détruis les menaces et survive le plus longtemps possible dans ce shooter spatial arcade."
 iframeSrc: 'https://rebemanae.github.io/supernova/'
 thumbnail: /new-images/thumbnails/supernova.jpg
+urlstr: supernova
 tags:
   - action
   - shooting

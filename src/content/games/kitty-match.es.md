@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: kitty-match
 title: Kitty Match
+seoTitle: Juega a Kitty Match en línea gratis | FiddleBops
 description: >-
   Bienvenido a Kitty Match, un encantador juego de puzles match‑3. Intercambia
   objetos gatunos de colores para hacer combinaciones y superar niveles
   desafiantes.
 iframeSrc: 'https://kittymatch.h5games.usercontent.goog/v/0fb0j00v75210/'
 thumbnail: /new-images/thumbnails/kitty-match.png
+urlstr: kitty-match
 tags:
   - puzzle
   - casual

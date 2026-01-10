@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: block-champ
 title: Block Champ 블록 챔프
+seoTitle: Block Champ 블록 챔프 무료 온라인 플레이 | FiddleBops
 description: >-
   10×10 보드에서 블록을 배치해 줄을 지우는 퍼즐 게임입니다. 번개 블록과 얼음 블록 등 특수 타일을 활용해 공간을 관리하며 최고 점수를
   노려 보세요.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/block-champ/'
 thumbnail: /new-images/thumbnails/block-champ.jpg
+urlstr: block-champ
 tags:
   - puzzle
   - board Game

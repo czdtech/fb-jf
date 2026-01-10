@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Drifting Mania ドリフティング・マニア
+seoTitle: 無料でDrifting Mania ドリフティング・マニアをオンラインでプレイ | FiddleBops
 description: 「Drifting Mania」は見下ろし視点のドリフトゲーム。アクセルとライン取りを整えて、コーナーをつなぎながらラップタイムを縮めよう。
 iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
 thumbnail: /new-images/thumbnails/drifting-mania.png
 urlstr: drifting-mania
-score: 3.8/5  (1640 votes)
 tags:
   - car
   - driving
+score: 3.8/5  (1640 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Golf and Friends
+seoTitle: 無料でGolf and Friendsをオンラインでプレイ | FiddleBops
 description: Golf and Friendsは軽快なミニゴルフです。傾斜を読み、バンクショットを使い、友達とパットを合わせて、楽しいセッションを過ごしましょう。
 iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
 thumbnail: /new-images/thumbnails/golf-and-friends.jpg
 urlstr: golf-and-friends
-score: 4.0/5  (1896 votes)
 tags:
   - sports
   - 2 player
   - puzzle
+score: 4.0/5  (1896 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

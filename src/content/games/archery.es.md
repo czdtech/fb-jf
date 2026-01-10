@@ -1,7 +1,9 @@
 ---
 locale: es
-urlstr: archery
 title: Archery World Tour simulador de tiro con arco
+seoTitle: >-
+  Juega a Archery World Tour simulador de tiro con arco en línea gratis |
+  FiddleBops
 description: >-
   Archery World Tour es un simulador realista de tiro con arco. Viaja por el
   mundo, ajusta tus disparos al viento y a la distancia y apunta al centro de la
@@ -9,6 +11,7 @@ description: >-
 iframeSrc: >-
   https://archery.h5games.usercontent.goog/v/f12fb2aa-d64b-4074-8974-31705698e2e6/
 thumbnail: /new-images/thumbnails/archery.jpg
+urlstr: archery
 tags:
   - sports
   - shooting

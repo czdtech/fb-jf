@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: minesweeper
 title: 《Minesweeper》扫雷益智游戏
+seoTitle: 免费在线玩 《Minesweeper》扫雷益智游戏 | FiddleBops
 description: 《Minesweeper》是一款经典单人益智游戏，你需要在提示数字的帮助下推理出所有隐藏地雷的位置，在不引爆地雷的前提下，安全翻开整块棋盘。
 iframeSrc: 'https://freeonlinegames.github.io/games/minesweeper/'
 thumbnail: /new-images/thumbnails/minesweeper.jpg
+urlstr: minesweeper
 tags:
   - puzzle
   - strategy

@@ -1,14 +1,17 @@
 ---
-title: Sprunki Sonic - Play Sprunki Sonic Online
-description: Sprunki SonicはSonicシリーズ風のキャラクターで音作りを楽しめるSprunki系Modです。ドラッグ＆ドロップでサウンドを重ね、スピード感のあるトラックを作れます。
+locale: ja
+title: Sprunki Sonic
+seoTitle: 無料でSprunki Sonicをオンラインでプレイ | FiddleBops
+description: >-
+  Sprunki
+  SonicはSonicシリーズ風のキャラクターで音作りを楽しめるSprunki系Modです。ドラッグ＆ドロップでサウンドを重ね、スピード感のあるトラックを作れます。
 iframeSrc: 'https://turbowarp.org/1114980098/embed'
 thumbnail: /new-images/thumbnails/sprunki-sonic.png
 urlstr: sprunki-sonic
-score: 4.0/5  (829 votes)
 tags:
   - sprunki sonic
-locale: ja
-releaseDate: 2025-12-04
+score: 4.0/5  (829 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Sonicの紹介

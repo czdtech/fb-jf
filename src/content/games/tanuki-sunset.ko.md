@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: tanuki-sunset
 title: Tanuki Sunset 타누키 선셋
+seoTitle: Tanuki Sunset 타누키 선셋 무료 온라인 플레이 | FiddleBops
 description: >-
   Tanuki Sunset은 너구리 보더 Tanuki가 롱보드를 타고 신스웨이브 감성의 산길을 내려가는 3인칭 아케이드 게임입니다. 드리프트와
   점프, 차량 근접 통과를 이어 가며 스타일리시하게 점수를 쌓아 보세요.
 iframeSrc: 'https://ubg100.github.io/games/tanuki/index.html'
 thumbnail: /new-images/thumbnails/tanuki-sunset.jpg
+urlstr: tanuki-sunset
 tags:
   - arcade
   - racing

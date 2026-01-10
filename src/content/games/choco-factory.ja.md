@@ -1,14 +1,19 @@
 ---
-title: "Choco Factory チョコ・ファクトリー"
-description: "「Choco Factory」で自分だけのチョコレート工場を経営しよう。美味しいチョコを作り、注文に応え、甘いビジネス帝国を築くリラックス・カジュアルゲーム。"
-iframeSrc: "https://g2.igroutka.ru/games/23/0aJSAnXwHyEMfhVW/rvvASMiM/dae161e33a524a85af8ca53ea2f71865/"
-thumbnail: /new-images/thumbnails/choco-factory.jpg
-urlstr: "choco-factory"
-score: "4.1/5  (915 votes)"
-tags: ["casual"]
-developer: ""
-releaseDate: 2025-08-16
 locale: ja
+title: Choco Factory チョコ・ファクトリー
+seoTitle: 無料でChoco Factory チョコ・ファクトリーをオンラインでプレイ | FiddleBops
+description: >-
+  「Choco
+  Factory」で自分だけのチョコレート工場を経営しよう。美味しいチョコを作り、注文に応え、甘いビジネス帝国を築くリラックス・カジュアルゲーム。
+iframeSrc: >-
+  https://g2.igroutka.ru/games/23/0aJSAnXwHyEMfhVW/rvvASMiM/dae161e33a524a85af8ca53ea2f71865/
+thumbnail: /new-images/thumbnails/choco-factory.jpg
+urlstr: choco-factory
+tags:
+  - casual
+score: 4.1/5  (915 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 ### ゲーム紹介

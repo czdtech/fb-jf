@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: solitaire-classic
 title: Solitaire Classic
+seoTitle: Spiele Solitaire Classic kostenlos online | FiddleBops
 description: >-
   Solitaire Classic, auch als Klondike bekannt, ist der zeitlose
   Kartenklassiker: Sortiere alle 52 Karten nach Farbe von Ass bis König auf die
   Ablagestapel und räume das Tableau leer.
 iframeSrc: 'https://solitaireclassic.h5games.usercontent.goog/v/7sbt28mppqim8/'
 thumbnail: /new-images/thumbnails/solitaire-classic.png
+urlstr: solitaire-classic
 tags:
   - card
   - puzzle

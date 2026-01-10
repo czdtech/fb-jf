@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: mahjong
-title: Mahjongg Solitaire - Clásico puzle de fichas
+title: Mahjongg Solitaire
+seoTitle: Juega a Mahjongg Solitaire en línea gratis | FiddleBops
 description: >-
   Mahjongg Solitaire es un puzle clásico para un jugador basado en fichas de
   Mahjong tradicionales chinas, donde debes emparejar fichas abiertas e
   idénticas para limpiar el tablero.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjong/'
 thumbnail: /new-images/thumbnails/mahjong.jpg
+urlstr: mahjong
 tags:
   - board game
   - puzzle

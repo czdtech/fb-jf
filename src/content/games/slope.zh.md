@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: slope
 title: 《Slope》极限斜坡
+seoTitle: 免费在线玩 《Slope》极限斜坡 | FiddleBops
 description: 《Slope》是一款经典的 3D 斜坡跑酷游戏。你操控一颗绿色小球在无尽斜坡赛道上高速下滑，躲避障碍与缺口，看看自己能坚持多远。
 iframeSrc: 'https://webglmath.github.io/slope/'
 thumbnail: /new-images/thumbnails/slope.jpg
+urlstr: slope
 tags:
   - endless runner
   - original

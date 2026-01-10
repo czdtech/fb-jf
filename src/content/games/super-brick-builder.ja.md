@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Super Brick Builder
+seoTitle: 無料でSuper Brick Builderをオンラインでプレイ | FiddleBops
 description: Super Brick Builderは、ブロックを壊すクラシックなブレイクアウトゲームです。パドルとボールを使ってすべてのブロックを破壊しましょう。
 iframeSrc: 'https://0hlb6nt2jsom8.h5games.usercontent.goog/v/4jac78qnv0nr8/'
 thumbnail: /new-images/thumbnails/super-brick-builder.png
 urlstr: super-brick-builder
-score: 4.0/5  (1873 votes)
 tags:
   - arcade
   - breakout
   - classic
-locale: ja
+score: 4.0/5  (1873 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

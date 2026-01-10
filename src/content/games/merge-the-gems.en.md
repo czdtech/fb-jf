@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Merge the Gems"
-description: "Merge identical gems to forge new, more valuable jewels! Fill your board, complete challenges, and discover all the precious stones in this sparkling and addictive merge puzzle game."
-iframeSrc: "https://mergethegems.h5games.usercontent.goog/v/5rut2fhhuqb1g/"
+title: Merge the Gems
+seoTitle: Play Merge the Gems Online Free | FiddleBops
+description: >-
+  Merge identical gems to forge new, more valuable jewels! Fill your board,
+  complete challenges, and discover all the precious stones in this sparkling
+  and addictive merge puzzle game.
+iframeSrc: 'https://mergethegems.h5games.usercontent.goog/v/5rut2fhhuqb1g/'
 thumbnail: /new-images/thumbnails/merge-the-gems.jpg
-urlstr: "merge-the-gems"
-score: "4.4/5  (2400 votes)"
-tags: ["puzzle", "casual", "clicker"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: merge-the-gems
+tags:
+  - puzzle
+  - casual
+  - clicker
+score: 4.4/5  (2400 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: duck-life-4
 title: Duck Life 4
+seoTitle: Jouez à Duck Life 4 en ligne gratuitement | FiddleBops
 description: "Duck Life 4 est un jeu d’entraînement et de course\_: développe les stats de ton canard via des mini‑jeux et gagne des tournois."
 iframeSrc: 'https://webglmath.github.io/ducklife-4/'
 thumbnail: /new-images/thumbnails/duck-life-4.jpg
+urlstr: duck-life-4
 tags:
   - racing
   - simulation

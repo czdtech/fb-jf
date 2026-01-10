@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: diamond-rush
 title: Diamond Rush
+seoTitle: Spiele Diamond Rush kostenlos online | FiddleBops
 description: >-
   Erlebe das Funkeln von Diamond Rush! In diesem schnellen Match-3-Puzzle
   tauschst du funkelnde Diamanten, bildest Reihen aus drei oder mehr gleichen
   Steinen und räumst das Spielfeld, um immer höhere Punktzahlen zu erreichen.
 iframeSrc: 'https://diamondrush.h5games.usercontent.goog/v/63ok750qri670/'
 thumbnail: /new-images/thumbnails/diamond-rush.png
+urlstr: diamond-rush
 tags:
   - puzzle
   - casual

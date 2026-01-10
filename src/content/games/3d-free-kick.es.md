@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: 3d-free-kick
 title: 3D Free Kick tiros libres en 3D
+seoTitle: Juega a 3D Free Kick tiros libres en 3D en línea gratis | FiddleBops
 description: >-
   3D Free Kick te deja lanzar tiros libres como un profesional: apunta a la
   barrera, imprime efecto al balón y marca goles de falta con estilo.
 iframeSrc: 'https://78b0enfiv98go.h5games.usercontent.goog/v/00acsktd29tjg/'
 thumbnail: /new-images/thumbnails/3d-free-kick.png
+urlstr: 3d-free-kick
 tags:
   - sports
   - soccer

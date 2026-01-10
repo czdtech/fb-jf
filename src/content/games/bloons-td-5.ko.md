@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: bloons-td-5
 title: Bloons TD 5 블룬스 타워 디펜스 5
+seoTitle: Bloons TD 5 블룬스 타워 디펜스 5 무료 온라인 플레이 | FiddleBops
 description: >-
   Bloons TD 5는 깊이 있는 전략, 다양한 원숭이 타워, 강력한 스페셜 에이전트로 사랑받는 타워 디펜스 게임입니다. 최강 방어 라인을
   구축해 Monkey God 사원까지 완성하고, 가장 강력한 ZOMG를 포함한 모든 Bloon을 터뜨려 보세요.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-tower-defense-5.html'
 thumbnail: /new-images/thumbnails/bloons-td-5.jpg
+urlstr: bloons-td-5
 tags:
   - casual
   - strategy

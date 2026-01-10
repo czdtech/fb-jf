@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Cat Sort Quest キャット・ソート・クエスト
+seoTitle: 無料でCat Sort Quest キャット・ソート・クエストをオンラインでプレイ | FiddleBops
 description: 「Cat Sort Quest」は癒やしの色分けパズル。猫たちを移動させて、各止まり木を同じ色の猫だけで揃えよう。空きスペースの管理が鍵。
 iframeSrc: 'https://4ajc8tu89od7g.h5games.usercontent.goog/v/49be5kf9v96j0/'
 thumbnail: /new-images/thumbnails/cat-sort-quest.png
 urlstr: cat-sort-quest
-score: 4.2/5  (2088 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.2/5  (2088 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

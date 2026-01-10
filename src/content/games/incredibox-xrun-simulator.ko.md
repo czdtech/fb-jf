@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: incredibox-xrun-simulator
 title: Incredibox Xrun Simulator EDM 시뮬레이터 모드
+seoTitle: Incredibox Xrun Simulator EDM 시뮬레이터 모드 무료 온라인 플레이 | FiddleBops
 description: >-
   EDM·더브스텝·트랩 사운드를 그리드 인터페이스로 믹싱하는 팬메이드 모드 'Incredibox Xrun Simulator' 가이드입니다.
   강렬한 일렉트로닉 루프를 만드는 방법과 플레이 팁을 소개합니다.
 iframeSrc: 'https://turbowarp.org/740478297/embed'
 thumbnail: /new-images/thumbnails/incredibox-xrun-simulator.png
+urlstr: incredibox-xrun-simulator
 tags:
   - music
   - electronic

@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: superhot
 title: Superhot
+seoTitle: Jouez à Superhot en ligne gratuitement | FiddleBops
 description: >-
   Superhot est un FPS tactique unique où le temps ne s’écoule vraiment que
   lorsque tu bouges, transformant chaque affrontement en puzzle stratégique au
   ralenti.
 iframeSrc: 'https://superhotgame.com/superhot-prototype-iframe'
 thumbnail: /new-images/thumbnails/superhot.jpg
+urlstr: superhot
 tags:
   - shooting
   - strategy

@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: getaway-shootout
 title: Getaway Shootout
+seoTitle: Jouez à Getaway Shootout en ligne gratuitement | FiddleBops
 description: >-
   Course‑tir chaotique avec physique débile : bondis jusqu’au point
   d’extraction, ramasse des armes improbables et piège tes rivaux en solo ou à 2
   joueurs.
 iframeSrc: 'https://ubg44.github.io/GetawayShootout/'
 thumbnail: /new-images/thumbnails/getaway-shootout.jpg
+urlstr: getaway-shootout
 tags:
   - action
   - multiplayer

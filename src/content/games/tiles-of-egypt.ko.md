@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: tiles-of-egypt
 title: Tiles of Egypt 타일즈 오브 이집트
+seoTitle: Tiles of Egypt 타일즈 오브 이집트 무료 온라인 플레이 | FiddleBops
 description: >-
   고대 이집트를 배경으로 한 트리플 타일 매칭 퍼즐 게임입니다. 같은 무늬의 타일 세 장을 골라 제한된 수집 트레이가 가득 차기 전에 보드를
   모두 비워야 합니다.
 iframeSrc: >-
   https://tilesofegypt.h5games.usercontent.goog/v/dd964fa3-8999-4546-a4a0-d55a0cc72248/
 thumbnail: /new-images/thumbnails/tiles-of-egypt.jpg
+urlstr: tiles-of-egypt
 tags:
   - puzzle
   - casual

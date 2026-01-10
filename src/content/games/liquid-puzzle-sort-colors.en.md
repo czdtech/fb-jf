@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Liquid puzzle sort colors"
-description: "Liquid puzzle sort colors is a relaxing pour‑sort — decant liquids by color, plan buffers, and finish bottles without deadlocks."
-iframeSrc: "https://1b6vgcuid4b98.h5games.usercontent.goog/v/2vus27k78710o/"
+title: Liquid puzzle sort colors
+seoTitle: Play Liquid puzzle sort colors Online Free | FiddleBops
+description: >-
+  Liquid puzzle sort colors is a relaxing pour‑sort — decant liquids by color,
+  plan buffers, and finish bottles without deadlocks.
+iframeSrc: 'https://1b6vgcuid4b98.h5games.usercontent.goog/v/2vus27k78710o/'
 thumbnail: /new-images/thumbnails/liquid-puzzle-sort-colors.jpg
-urlstr: "liquid-puzzle-sort-colors"
-score: "4.1/5  (1979 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: liquid-puzzle-sort-colors
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.1/5  (1979 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

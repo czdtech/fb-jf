@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: football-legends
 title: Football Legends 풋볼 레전드
+seoTitle: Football Legends 풋볼 레전드 무료 온라인 플레이 | FiddleBops
 description: '유명 선수들을 데포르메한 캐릭터로 즐기는 아케이드 축구 게임입니다. 1v1, 2v2 모드에서 슈팅과 스페셜 스킬을 활용해 골을 넣어 보세요.'
 iframeSrc: 'https://webglmath.github.io/football-legends/'
 thumbnail: /new-images/thumbnails/football-legends.jpg
+urlstr: football-legends
 tags:
   - sports
   - football

@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: learn-to-fly
 title: Learn To Fly
+seoTitle: Jouez à Learn To Fly en ligne gratuitement | FiddleBops
 description: >-
   Jeu de lancer/upgrade avec pingouin volant : règle l’angle, plane et booste,
   gagne de l’argent et achète des pièces pour aller toujours plus loin.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/learn-to-fly.html'
 thumbnail: /new-images/thumbnails/learn-to-fly.jpg
+urlstr: learn-to-fly
 tags:
   - arcade
   - upgrade

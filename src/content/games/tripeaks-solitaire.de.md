@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: tripeaks-solitaire
 title: Tripeaks Solitaire
+seoTitle: Spiele Tripeaks Solitaire kostenlos online | FiddleBops
 description: >-
   Räume in Tripeaks Solitaire die drei Karten‑Gipfel ab: Lege Karten, die genau
   einen Rang höher oder niedriger sind, an und baue lange Serien, bevor dein
   Nachziehstapel leer ist.
 iframeSrc: 'https://tripeakssolitaire.h5games.usercontent.goog/v/4v3d7g06n6rug/'
 thumbnail: /new-images/thumbnails/tripeaks-solitaire.png
+urlstr: tripeaks-solitaire
 tags:
   - card
   - puzzle

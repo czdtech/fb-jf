@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Block Champ ブロック・チャンプ
+seoTitle: 無料でBlock Champ ブロック・チャンプをオンラインでプレイ | FiddleBops
 description: >-
   「Block
   Champ」は10x10のグリッドパズルゲーム。戦略性が問われる配置ゲームで、雷や氷の特殊ブロックを駆使してラインを消し、ハイスコアを目指そう。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/block-champ/'
 thumbnail: /new-images/thumbnails/block-champ.jpg
 urlstr: block-champ
-score: 4.6/5  (926 votes)
 tags:
   - puzzle
   - board Game
+score: 4.6/5  (926 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

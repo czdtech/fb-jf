@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: cookie-clicker
 title: Cookie Clicker 쿠키 클릭커
+seoTitle: Cookie Clicker 쿠키 클릭커 무료 온라인 플레이 | FiddleBops
 description: >-
   전설적인 방치형 클릭 게임 Cookie Clicker를 위한 종합 가이드입니다. 승천 타이밍, 황금 쿠키 활용법과 각종 전략, 자주 묻는
   질문을 통해 쿠키 생산량을 극대화해 보세요.
 iframeSrc: 'https://freeonlinegames.github.io/cookie-clicker/'
 thumbnail: /new-images/thumbnails/cookie-clicker.jpg
+urlstr: cookie-clicker
 tags:
   - casual
   - clicker

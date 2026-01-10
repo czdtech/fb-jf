@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: tnt-bomb
 title: TNT Bomb TNT 폭탄
+seoTitle: TNT Bomb TNT 폭탄 무료 온라인 플레이 | FiddleBops
 description: >-
   제한된 양의 폭탄을 이용해 건물을 무너뜨리는 물리 기반 폭파 퍼즐 게임입니다. 다이너마이트와 강력한 폭탄을 구조물의 약점에 설치해 각
   스테이지의 구조물을 완전히 파괴해 보세요.
 iframeSrc: >-
   https://tntbomb.h5games.usercontent.goog/v/78fb3628-2b9a-4ddc-86ef-7c46021357a2/
 thumbnail: /new-images/thumbnails/tnt-bomb.jpg
+urlstr: tnt-bomb
 tags:
   - puzzle
   - action

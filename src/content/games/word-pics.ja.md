@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Word Pics
+seoTitle: 無料でWord Picsをオンラインでプレイ | FiddleBops
 description: Word Picsは、画像から単語を推測するパズルゲームです。ヒントを見て正しい単語を見つけましょう。
 iframeSrc: 'https://wordpics.h5games.usercontent.goog/v/7sfi13vvf0cro/'
 thumbnail: /new-images/thumbnails/word-pics.jpg
 urlstr: word-pics
-score: 4.4/5 (2150 votes)
 tags:
   - puzzle
   - word
   - picture
-locale: ja
+score: 4.4/5 (2150 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

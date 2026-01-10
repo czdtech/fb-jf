@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: climb-man
-title: "Climb Man 登天小子"
+title: Climb Man 登天小子
+seoTitle: 免费在线玩 Climb Man 登天小子 | FiddleBops
 description: >-
   在《Climb Man: Walk to the Sky 登天小子》中挑战节奏飞快的爬楼街机玩法。掌握左右阶
   梯切换的节奏，躲开绳索等障碍，完成任务并解锁新角色，冲击最高分。
 iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
 thumbnail: /new-images/thumbnails/climb-man.png
+urlstr: climb-man
 tags:
   - action
   - casual

@@ -1,10 +1,14 @@
 ---
 locale: de
-urlstr: stick-war
-title: "Stick War"
-description: "Führe deine Strichmännchen-Armee in Stick War zum Sieg: baue dein Einkommen auf, rekrutiere Schwertkämpfer, Bogenschützen, Riesen & Co. und zerstöre die gegnerische Statue, bevor sie deine vernichten." 
+title: Stick War
+seoTitle: Spiele Stick War kostenlos online | FiddleBops
+description: >-
+  Führe deine Strichmännchen-Armee in Stick War zum Sieg: baue dein Einkommen
+  auf, rekrutiere Schwertkämpfer, Bogenschützen, Riesen & Co. und zerstöre die
+  gegnerische Statue, bevor sie deine vernichten.
 iframeSrc: 'https://www.gamenora.com/upload/games/swf/stick_war/'
 thumbnail: /new-images/thumbnails/stick-war.jpg
+urlstr: stick-war
 tags:
   - strategy
   - rTS

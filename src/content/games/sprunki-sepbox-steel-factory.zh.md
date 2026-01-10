@@ -1,14 +1,17 @@
 ---
-locale: "zh"
-urlstr: "sprunki-sepbox-steel-factory"
-
-title: "Sprunki x Sepbox Steel Factory - 在线玩 Sprunki x Sepbox Steel Factory"
-description: "Sprunki x SepBox Steel Factory 是一次独特的合作，将 Sprunki 的动态艺术性与钢铁和机械的原始机械力量相结合，为传统音乐创作带来真正独特的转折。"
-iframeSrc: "https://turbowarp.org/1099071172/embed"
+locale: zh
+title: Sprunki x Sepbox Steel Factory
+seoTitle: 免费在线玩 Sprunki x Sepbox Steel Factory | FiddleBops
+description: >-
+  Sprunki x SepBox Steel Factory 是一次独特的合作，将 Sprunki
+  的动态艺术性与钢铁和机械的原始机械力量相结合，为传统音乐创作带来真正独特的转折。
+iframeSrc: 'https://turbowarp.org/1099071172/embed'
 thumbnail: /new-images/thumbnails/sprunki-sepbox-steel-factory.png
-score: "4.9/5  (509 votes)"
-tags: ["sprunki x sepbox steel factory"]
-releaseDate: 2025-12-04
+urlstr: sprunki-sepbox-steel-factory
+tags:
+  - sprunki x sepbox steel factory
+score: 4.9/5  (509 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: grass-cutter
 title: Grass Cutter 잔디 깎기 퍼즐
+seoTitle: Grass Cutter 잔디 깎기 퍼즐 무료 온라인 플레이 | FiddleBops
 description: >-
   격자 위의 모든 잔디 칸을 한 번씩만 밟으며 깎아 나가는 경로 계획 퍼즐입니다. 바위와 물, 일방통행 타일 같은 장애물을 피해 막히지 않는
   최적 루트를 찾아보세요.
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/wcIz2a3WYRNKhbuq/rvvASMiM/58925795805842fcbfd7edf67efcd606/
 thumbnail: /new-images/thumbnails/grass-cutter.jpg
+urlstr: grass-cutter
 tags:
   - puzzle
   - logic

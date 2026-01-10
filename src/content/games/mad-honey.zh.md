@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: mad-honey
 title: 《Mad Honey》疯狂蜂蜜
+seoTitle: 免费在线玩 《Mad Honey》疯狂蜂蜜 | FiddleBops
 description: 《Mad Honey》是一款小巧的街机冒险游戏，你要在场景中采集花蜜、躲避危险，并安全把蜂蜜带回蜂巢。
 iframeSrc: 'https://49b5cg0v2itto.h5games.usercontent.goog/v/3tun18rhg88eg/'
 thumbnail: /new-images/thumbnails/mad-honey.png
+urlstr: mad-honey
 tags:
   - adventure
   - casual

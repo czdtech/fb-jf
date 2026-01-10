@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: neon-tower
 title: 霓虹塔
+seoTitle: 免费在线玩 霓虹塔 | FiddleBops
 description: 引导弹跳球下降霓虹塔！旋转螺旋平台找到缝隙让球落下，但要小心红色障碍物。连续粉碎多个关卡以获得能量提升！
 iframeSrc: 'https://2mk3ok3s7jl88.h5games.usercontent.goog/v/39vfhh0oku1j8/'
 thumbnail: /new-images/thumbnails/neon-tower.png
+urlstr: neon-tower
 tags:
   - action
   - casual

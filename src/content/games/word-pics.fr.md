@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: word-pics
 title: Word Pics
+seoTitle: Jouez à Word Pics en ligne gratuitement | FiddleBops
 description: >-
   Word Pics est un jeu de devinettes : trouve le mot qui relie deux images dans
   ce puzzle de mots fun et addictif.
 iframeSrc: 'https://wordpics.h5games.usercontent.goog/v/7sfi13vvf0cro/'
 thumbnail: /new-images/thumbnails/word-pics.jpg
+urlstr: word-pics
 tags:
   - puzzle
   - thinky

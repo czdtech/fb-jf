@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: gym-stack
 title: Gym Stack
+seoTitle: Juega a Gym Stack en línea gratis | FiddleBops
 description: >-
   Apila pesas de forma estratégica y fusiona piezas idénticas en Gym Stack: un
   puzle 3D adictivo en el que el objetivo es hacer buenos merges sin quedarte
   sin espacio.
 iframeSrc: 'https://gymstack.h5games.usercontent.goog/v/3js1l1d7rdkfg/'
 thumbnail: /new-images/thumbnails/gym-stack.jpeg
+urlstr: gym-stack
 tags:
   - action
   - casual

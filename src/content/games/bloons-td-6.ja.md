@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Bloons TD 6 ブルーンズTD 6
+seoTitle: 無料でBloons TD 6 ブルーンズTD 6をオンラインでプレイ | FiddleBops
 description: >-
   シリーズ最新作「Bloons TD
   6」で3Dタワーディフェンスの頂点を体験せよ。ヒーローユニット、3つのアップグレードパス、そして最強の「パラゴン」。戦略は無限大へ。
 iframeSrc: 'https://html5.gamenora.com/Bloons%20TD%206/'
 thumbnail: /new-images/thumbnails/bloons-td-6.jpg
 urlstr: bloons-td-6
-score: 4.8/5  (1057 votes)
 tags:
   - casual
   - strategy
+score: 4.8/5  (1057 votes)
 developer: Ninja Kiwi
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

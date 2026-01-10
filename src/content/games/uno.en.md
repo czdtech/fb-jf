@@ -1,6 +1,7 @@
 ---
 locale: en
 title: UNO Game
+seoTitle: Play UNO Game Online Free | FiddleBops
 description: >-
   UNO is the classic card game where players race to empty their hands by
   matching colors and numbers, using special action cards to block opponents and
@@ -8,13 +9,13 @@ description: >-
 iframeSrc: 'https://www.xpgameplus.com/games/uno/default.html'
 thumbnail: /new-images/thumbnails/uno.jpg
 urlstr: uno
-score: 4.4/5  (1083 votes)
 tags:
   - card-game
   - strategy
   - multiplayer
+score: 4.4/5  (1083 votes)
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 locale: fr
-urlstr: bad-ice-cream-3
 title: Bad Ice Cream 3
+seoTitle: Jouez à Bad Ice Cream 3 en ligne gratuitement | FiddleBops
 description: >-
   Bad Ice‑Cream 3 reprend la formule glacée des épisodes précédents avec de
   nouveaux ennemis, des niveaux plus difficiles et toujours les murs de glace à
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x5/index.html
 thumbnail: /new-images/thumbnails/bad-ice-cream-3.jpg
+urlstr: bad-ice-cream-3
 tags:
   - puzzle
   - casual

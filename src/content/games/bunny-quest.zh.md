@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: bunny-quest
 title: Bunny Quest 小兔迷宫拼图
+seoTitle: 免费在线玩 Bunny Quest 小兔迷宫拼图 | FiddleBops
 description: 《Bunny Quest 小兔迷宫拼图》是一款滑块式路径解谜游戏，通过滑动地砖为小兔子拼出一条从起点到胡萝卜的安全路 线。
 iframeSrc: 'https://630h8fcg3e938.h5games.usercontent.goog/v/51qfd4fr90dro/'
 thumbnail: /new-images/thumbnails/bunny-quest.png
+urlstr: bunny-quest
 tags:
   - puzzle
   - thinky

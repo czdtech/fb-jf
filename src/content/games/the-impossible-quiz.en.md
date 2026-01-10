@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "The Impossible Quiz"
-description: "Prepare for the unexpected in The Impossible Quiz, a notoriously difficult and hilarious trivia game! Answer trick questions, solve illogical puzzles, and navigate bombs and skips to reach the end. Think outside the box and embrace the absurdity to conquer this unique brain-teaser."
-iframeSrc: "https://flash-cdn.blogspot.com/2021/06/the-impossible-quiz.html"
+title: The Impossible Quiz
+seoTitle: Play The Impossible Quiz Online Free | FiddleBops
+description: >-
+  Prepare for the unexpected in The Impossible Quiz, a notoriously difficult and
+  hilarious trivia game! Answer trick questions, solve illogical puzzles, and
+  navigate bombs and skips to reach the end. Think outside the box and embrace
+  the absurdity to conquer this unique brain-teaser.
+iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-impossible-quiz.html'
 thumbnail: /new-images/thumbnails/the-impossible-quiz.jpg
-urlstr: "the-impossible-quiz"
-score: "4.8/5  (1294 votes)"
-tags: ["quiz", "puzzle", "brain-teaser"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: the-impossible-quiz
+tags:
+  - quiz
+  - puzzle
+  - brain-teaser
+score: 4.8/5  (1294 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

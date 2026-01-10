@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: sudoku-plus
 title: Sudoku Plus
+seoTitle: Spiele Sudoku Plus kostenlos online | FiddleBops
 description: >-
   Sudoku Plus ist ein komfortables Sudoku mit Extras: klassische 9x9-Rätsel plus
   Notizenmodus, Hinweise und Fehlerprüfung – ideal für Einsteiger und Profis.
 iframeSrc: 'https://sudokuplus.h5games.usercontent.goog/v/3q827iuj6msno/'
 thumbnail: /new-images/thumbnails/sudoku-plus.jpg
+urlstr: sudoku-plus
 tags:
   - puzzle
   - thinky

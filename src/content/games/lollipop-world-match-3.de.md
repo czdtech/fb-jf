@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: lollipop-world-match-3
 title: 'Lollipop World : match 3'
+seoTitle: 'Spiele Lollipop World : match 3 kostenlos online | FiddleBops'
 description: >-
   Lollipop World: Match 3 ist ein süßes Bonbon-Puzzle: Kombiniere Power-ups,
   räume Blocker aus dem Weg und erfülle die Dschungelziele innerhalb des engen
   Zuglimits.
 iframeSrc: 'https://4oij9suhguc58.h5games.usercontent.goog/v/1osssadggdrao/'
 thumbnail: /new-images/thumbnails/lollipop-world-match-3.jpg
+urlstr: lollipop-world-match-3
 tags:
   - puzzle
   - casual

@@ -1,17 +1,18 @@
 ---
 locale: en
 title: Drift Hunters
+seoTitle: Play Drift Hunters Online Free | FiddleBops
 description: >-
   Drift Hunters is a 3D drifting racer: tune cars, chain drifts, and rack up
   points across tracks.
 iframeSrc: 'https://webglmath.github.io/drift-hunters/'
 thumbnail: /new-images/thumbnails/drift-hunters.jpg
 urlstr: drift-hunters
-score: 5.0/5  (563 votes)
 tags:
   - racing
   - simulation
   - strategy
+score: 5.0/5  (563 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---

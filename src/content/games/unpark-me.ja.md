@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Unpark Me
+seoTitle: 無料でUnpark Meをオンラインでプレイ | FiddleBops
 description: Unpark Meは、駐車場パズルゲームです。車を動かして赤い車を出口まで導きましょう。
 iframeSrc: 'https://unparkme.h5games.usercontent.goog/v/59baoe1o8mbe0/'
 thumbnail: /new-images/thumbnails/unpark-me.png
 urlstr: unpark-me
-score: 4.4/5  (2500 votes)
 tags:
   - puzzle
   - logic
   - parking
-locale: ja
+score: 4.4/5  (2500 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 

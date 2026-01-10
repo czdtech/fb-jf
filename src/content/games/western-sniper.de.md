@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: western-sniper
 title: Western Sniper
+seoTitle: Spiele Western Sniper kostenlos online | FiddleBops
 description: >-
   Western Sniper ist ein schneller Scharfschützen‑Shooter im Wilden Westen: Ruhe
   den Fadenkreuz, kompensiere das Wackeln und schalte Prioritätsziele in kurzen
   Missionen aus.
 iframeSrc: 'https://4oill7a9ltc9g.h5games.usercontent.goog/v/54hea44l6fm4o/'
 thumbnail: /new-images/thumbnails/western-sniper.png
+urlstr: western-sniper
 tags:
   - shooting
   - action

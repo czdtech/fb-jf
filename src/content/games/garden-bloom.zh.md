@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: garden-bloom
 title: Garden Bloom 花园绽放
+seoTitle: 免费在线玩 Garden Bloom 花园绽放 | FiddleBops
 description: 在 Garden Bloom 中修复一座被荒废的花园！完成具有挑战性的三消关卡来获得星星， 再用它们解锁任务与装饰，打造你心目中的梦想花园。
 iframeSrc: 'https://gardenbloom.h5games.usercontent.goog/v/03uqf2ceev9h8/'
 thumbnail: /new-images/thumbnails/garden-bloom.png
+urlstr: garden-bloom
 tags:
   - puzzle
   - casual

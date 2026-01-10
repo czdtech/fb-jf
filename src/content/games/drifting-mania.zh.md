@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: drifting-mania
 title: Drifting Mania 顶视漂移狂热
+seoTitle: 免费在线玩 Drifting Mania 顶视漂移狂热 | FiddleBops
 description: 《Drifting Mania 顶视漂移狂热》是一款俯视视角小体量漂移赛车游戏。通过精细控制油门与 车尾甩动，连贯完成弯道漂移并刷出最快单圈成绩。
 iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
 thumbnail: /new-images/thumbnails/drifting-mania.png
+urlstr: drifting-mania
 tags:
   - car
   - driving

@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: fruit-chopper
 title: Fruit Chopper 프루트 초퍼
+seoTitle: Fruit Chopper 프루트 초퍼 무료 온라인 플레이 | FiddleBops
 description: 사방에서 날아오는 과일을 베어 내는 아케이드 게임입니다. 폭탄을 피해 가능한 한 많은 과일을 콤보로 잘라 최고 점수에 도전해 보세요.
 iframeSrc: 'https://1cgb9ogmd6780.h5games.usercontent.goog/v/37g4pe88slmfo/'
 thumbnail: /new-images/thumbnails/fruit-chopper.png
+urlstr: fruit-chopper
 tags:
   - action
   - casual

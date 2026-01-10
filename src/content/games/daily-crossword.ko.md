@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: daily-crossword
 title: Daily Crossword 데일리 크로스워드
+seoTitle: Daily Crossword 데일리 크로스워드 무료 온라인 플레이 | FiddleBops
 description: >-
   매일 새로운 십자말 퍼즐을 풀 수 있는 Daily Crossword입니다. 가로·세로 힌트를 이용해 격자를 채우고, 교차 글자를 통해 답을
   확인해 보세요.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword/'
 thumbnail: /new-images/thumbnails/daily-crossword.jpg
+urlstr: daily-crossword
 tags:
   - word
   - puzzle

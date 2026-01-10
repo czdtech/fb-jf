@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: bloons-td-6
 title: Bloons TD 6 블룬스 TD 6
+seoTitle: Bloons TD 6 블룬스 TD 6 무료 온라인 플레이 | FiddleBops
 description: >-
   3D 그래픽과 히어로, 타워별 3갈래 업그레이드 경로, 최종 형태인 파라곤까지 모두 담은 시리즈 최신작 Bloons TD 6입니다. 침략해
   오는 모든 블룬을 터뜨리기 위한 완벽한 수비 전략을 세워 보세요.
 iframeSrc: 'https://html5.gamenora.com/Bloons%20TD%206/'
 thumbnail: /new-images/thumbnails/bloons-td-6.jpg
+urlstr: bloons-td-6
 tags:
   - casual
   - strategy

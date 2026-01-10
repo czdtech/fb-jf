@@ -1,15 +1,16 @@
 ---
 locale: fr
-urlstr: cluster-rush
 title: Cluster Rush
+seoTitle: Jouez à Cluster Rush en ligne gratuitement | FiddleBops
 description: "Cluster Rush est un runner nerveux où tu sautes de camion en camion à toute vitesse\_: anticipe les collisions, enchaîne les bonds et tiens jusqu’à l’arrivée."
 iframeSrc: 'https://clusterrush.io/game/cluster-rush/'
 thumbnail: /new-images/thumbnails/cluster-rush.jpg
+urlstr: cluster-rush
 tags:
   - action
   - casual
 score: 4.6/5  (1082 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

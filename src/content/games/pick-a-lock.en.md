@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Pick a Lock"
-description: "Pick a Lock tests timing and focus — stop the dial on markers, chain perfect hits, and unlock increasingly tricky locks."
-iframeSrc: "https://17ul52pgrglf0.h5games.usercontent.goog/v/5b4f1rj0on970/"
+title: Pick a Lock
+seoTitle: Play Pick a Lock Online Free | FiddleBops
+description: >-
+  Pick a Lock tests timing and focus — stop the dial on markers, chain perfect
+  hits, and unlock increasingly tricky locks.
+iframeSrc: 'https://17ul52pgrglf0.h5games.usercontent.goog/v/5b4f1rj0on970/'
 thumbnail: /new-images/thumbnails/pick-a-lock.jpg
-urlstr: "pick-a-lock"
-score: "3.9/5  (1712 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: pick-a-lock
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 3.9/5  (1712 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

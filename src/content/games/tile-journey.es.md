@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: tile-journey
-title: Tile Journey - Viaje de fichas relajante
+title: Tile Journey
+seoTitle: Juega a Tile Journey en línea gratis | FiddleBops
 description: >-
   Emprende un relajante viaje de fichas en Tile Journey. Selecciona tres fichas
   idénticas para eliminarlas del tablero y planifica cada movimiento para no
   llenar la bandeja de colección.
 iframeSrc: 'https://0i1jh8boqif48.h5games.usercontent.goog/v/1643ot8on0v9g/'
 thumbnail: /new-images/thumbnails/tile-journey.png
+urlstr: tile-journey
 tags:
   - puzzle
   - casual

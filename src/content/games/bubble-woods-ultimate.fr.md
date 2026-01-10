@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: bubble-woods-ultimate
 title: Bubble Woods Ultimate
+seoTitle: Jouez à Bubble Woods Ultimate en ligne gratuitement | FiddleBops
 description: "Bubble Woods Ultimate est un bubble shooter en 60 secondes\_: enchaîne les matches, déclenche le tir enflammé et utilise les bonus pour grimper au score."
 iframeSrc: 'https://bubblewoods4.h5games.usercontent.goog/v/4jslovpheann0/'
 thumbnail: /new-images/thumbnails/bubble-woods-ultimate.png
+urlstr: bubble-woods-ultimate
 tags:
   - shooting
   - action

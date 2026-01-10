@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Daily Word Search"
-description: "Daily Word Search offers calming word hunts — find hidden words across directions and beat the clock or relax."
-iframeSrc: "https://1i20ele8n07u0.h5games.usercontent.goog/v/1n8osodo9gs80/"
+title: Daily Word Search
+seoTitle: Play Daily Word Search Online Free | FiddleBops
+description: >-
+  Daily Word Search offers calming word hunts — find hidden words across
+  directions and beat the clock or relax.
+iframeSrc: 'https://1i20ele8n07u0.h5games.usercontent.goog/v/1n8osodo9gs80/'
 thumbnail: /new-images/thumbnails/daily-word-search.png
-urlstr: "daily-word-search"
-score: "4.1/5  (1984 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: daily-word-search
+tags:
+  - puzzle
+  - thinky
+score: 4.1/5  (1984 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

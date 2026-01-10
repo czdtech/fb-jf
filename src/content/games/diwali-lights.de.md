@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: diwali-lights
 title: Diwali Lights
+seoTitle: Spiele Diwali Lights kostenlos online | FiddleBops
 description: >-
   Diwali Lights ist ein festliches Licht-Puzzle: Entzünde Diyas in vorgegebenen
   Mustern, vermeide Überschneidungen und bringe die leuchtenden Designs zum
   Strahlen.
 iframeSrc: 'https://diwalilights.h5games.usercontent.goog/v/5cddqg9lrn3kg/'
 thumbnail: /new-images/thumbnails/diwali-lights.jpg
+urlstr: diwali-lights
 tags:
   - puzzle
   - casual

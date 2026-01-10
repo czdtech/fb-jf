@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Rotate"
-description: "Rotate is a challenging puzzle game where players must rotate the game world to guide a ball through complex mazes and obstacles, using gravity and momentum to reach the goal in each level."
-iframeSrc: "https://rebemanae.github.io/rotate/"
+title: Rotate
+seoTitle: Play Rotate Online Free | FiddleBops
+description: >-
+  Rotate is a challenging puzzle game where players must rotate the game world
+  to guide a ball through complex mazes and obstacles, using gravity and
+  momentum to reach the goal in each level.
+iframeSrc: 'https://rebemanae.github.io/rotate/'
 thumbnail: /new-images/thumbnails/rotate.jpg
-urlstr: "rotate"
-score: "4.9/5  (1155 votes)"
-tags: ["puzzle", "physics", "rotation"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: rotate
+tags:
+  - puzzle
+  - physics
+  - rotation
+score: 4.9/5  (1155 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

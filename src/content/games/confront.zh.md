@@ -1,14 +1,14 @@
 ---
 locale: zh
-urlstr: confront
-title: "Confront 子弹时间对决"
+title: Confront 子弹时间对决
+seoTitle: 免费在线玩 Confront 子弹时间对决 | FiddleBops
 description: >-
   《Confront 子弹时间对决》是一款节奏极快的射击游戏，你需要依靠迅捷的瞄准与反应在
-  子弹横飞的战场中生存，并利用子弹时间做出更精确的决策，体验与传统射击完全不同的紧
-  张对抗。
+  子弹横飞的战场中生存，并利用子弹时间做出更精确的决策，体验与传统射击完全不同的紧 张对抗。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp37/gamehwq/20220228/07/index.htm
 thumbnail: /new-images/thumbnails/confront.jpg
+urlstr: confront
 tags:
   - casual
   - shooting

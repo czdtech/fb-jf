@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: cut-the-rope
 title: Cut The Rope
+seoTitle: Juega a Cut The Rope en línea gratis | FiddleBops
 description: >-
   Cut The Rope es un puzle de físicas: corta cuerdas, recoge estrellas y
   consigue que el caramelo llegue hasta Om Nom sin perderlo.
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/c/cut-the-rope/v020/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=4531b37c-a8e0-4a67-9ebd-e8d3190b6277&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=467&original_ref=
 thumbnail: /new-images/thumbnails/cut-the-rope.jpg
+urlstr: cut-the-rope
 tags:
   - puzzle
   - physics

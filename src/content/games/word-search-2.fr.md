@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: word-search-2
 title: Word Search 2
+seoTitle: Jouez à Word Search 2 en ligne gratuitement | FiddleBops
 description: >-
   Le classique puzzle de recherche de mots. Trouve tous les mots cachés dans la
   grille de lettres, à l'horizontale, verticale, diagonale ou même à l'envers !
 iframeSrc: 'https://wordsearch.h5games.usercontent.goog/v/6abe3eefqt368/'
 thumbnail: /new-images/thumbnails/word-search-2.jpg
+urlstr: word-search-2
 tags:
   - puzzle
   - thinky

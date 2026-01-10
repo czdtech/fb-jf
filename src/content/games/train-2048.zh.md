@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: train-2048
 title: 《Train 2048》火车版 2048
+seoTitle: 免费在线玩 《Train 2048》火车版 2048 | FiddleBops
 description: 《Train 2048》是一款将 2048 合并机制与火车元素结合的数字益智游戏。通过滑动整排车厢，使相同数字的车厢相遇合并，努力合成更高数值的列车。
 iframeSrc: >-
   https://train2048.h5games.usercontent.goog/v/efebc769-0d8d-48f4-b437-af712b013132/
 thumbnail: /new-images/thumbnails/train-2048.jpg
+urlstr: train-2048
 tags:
   - puzzle
   - numbers

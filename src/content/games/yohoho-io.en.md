@@ -1,6 +1,7 @@
 ---
 locale: en
 title: YoHoHo.io
+seoTitle: Play YoHoHo.io Online Free | FiddleBops
 description: >-
   Set sail for adventure in YoHoHo.io, a thrilling pirate-themed battle royale
   game! Grow your pirate by collecting gold, eliminate smaller opponents, and
@@ -9,12 +10,12 @@ description: >-
 iframeSrc: 'https://bitlifeonline.github.io/class16523/yohoho-io/'
 thumbnail: /new-images/thumbnails/yohoho-io.jpg
 urlstr: yohoho-io
-score: 5.0/5  (316 votes)
 tags:
   - io-game
   - battle-royale
   - pirate
   - multiplayer
+score: 5.0/5  (316 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---

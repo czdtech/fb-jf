@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: uno
 title: UNO Game
+seoTitle: Spiele UNO Game kostenlos online | FiddleBops
 description: >-
   UNO ist der klassische Karten‑Kracher: Lege passende Farben oder Zahlen ab,
   nutze Aktionskarten, um deine Mitspieler auszubremsen, und sei der oder die
   Erste, die nur noch eine Karte hat – inklusive lautem „UNO!“.
 iframeSrc: 'https://www.xpgameplus.com/games/uno/default.html'
 thumbnail: /new-images/thumbnails/uno.jpg
+urlstr: uno
 tags:
   - card game
   - strategy

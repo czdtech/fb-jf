@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: carrom-clash
 title: Carrom Clash
+seoTitle: Spiele Carrom Clash kostenlos online | FiddleBops
 description: >-
   Erlebe das klassische Carrom-Brettspiel auf deinem Gerät. Ziele mit dem
   Striker, loch deine Steine und decke die Dame, um deinen Gegner in diesem
   Präzisions- und Taktikspiel zu schlagen.
 iframeSrc: 'https://carromclash.h5games.usercontent.goog/v/4pmfd00515bbg/'
 thumbnail: /new-images/thumbnails/carrom-clash.png
+urlstr: carrom-clash
 tags:
   - sports
   - puzzle

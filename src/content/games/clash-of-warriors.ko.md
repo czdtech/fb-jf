@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: clash-of-warriors
 title: Clash of Warriors 클래시 오브 워리어즈
+seoTitle: Clash of Warriors 클래시 오브 워리어즈 무료 온라인 플레이 | FiddleBops
 description: >-
   Clash of Warriors는 짧고 굵은 카드 배틀이 핵심인 전략 게임입니다. 마나曲선에 맞춰 카드를 내고, 효율적인 교환으로 보드를
   장악해 상대를 읽어내며 승리를 노려 보세요.
 iframeSrc: 'https://7t89fh6irdv0g.h5games.usercontent.goog/v/5gpd6kf06hr8g/'
 thumbnail: /new-images/thumbnails/clash-of-warriors.png
+urlstr: clash-of-warriors
 tags:
   - card
   - thinky

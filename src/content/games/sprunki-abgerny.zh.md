@@ -1,14 +1,15 @@
 ---
-locale: "zh"
-urlstr: "sprunki-abgerny"
-
-title: "Sprunki Abgerny - 在线玩 Sprunki Abgerny"
-description: "Sprunki Abgerny 不仅仅是一款普通的音乐游戏，它是对古老文化的致敬，也是对音乐无限可能性的探索。"
-iframeSrc: "https://turbowarp.org/1095335052/embed"
+locale: zh
+title: Sprunki Abgerny
+seoTitle: 免费在线玩 Sprunki Abgerny | FiddleBops
+description: Sprunki Abgerny 不仅仅是一款普通的音乐游戏，它是对古老文化的致敬，也是对音乐无限可能性的探索。
+iframeSrc: 'https://turbowarp.org/1095335052/embed'
 thumbnail: /new-images/thumbnails/sprunki-abgerny.png
-score: "3.9/5  (132 votes)"
-tags: ["sprunki abgerny"]
-releaseDate: 2025-12-04
+urlstr: sprunki-abgerny
+tags:
+  - sprunki abgerny
+score: 3.9/5  (132 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Abgerny 有什么特别之处？

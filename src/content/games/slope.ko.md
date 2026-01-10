@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: slope
 title: Slope 슬로프
+seoTitle: Slope 슬로프 무료 온라인 플레이 | FiddleBops
 description: >-
   녹색 공을 조종해 가파른 경사로를 끝없이 내려오는 엔드리스 러너 게임입니다. 붉은 장애물을 피해 최대한 오래 살아남아 최고 기록에 도전해
   보세요.
 iframeSrc: 'https://webglmath.github.io/slope/'
 thumbnail: /new-images/thumbnails/slope.jpg
+urlstr: slope
 tags:
   - endless runner
   - original

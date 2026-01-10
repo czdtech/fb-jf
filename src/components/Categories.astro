@@ -1,4 +1,5 @@
 ---
+import Icon from './Icon.astro';
 import { getLocaleFromLangAttr, getLocalizedPath, useTranslations } from '../i18n/utils';
 
 interface Props {
@@ -10,26 +11,26 @@ const locale = getLocaleFromLangAttr(lang);
 const t = useTranslations(locale);
 const withLocale = (path: string) => getLocalizedPath(path, locale);
 
-// Category definitions with icon classes and slug keys
+// Category definitions with icon names (matching Icon.astro)
 const categories = [
-  { slug: 'puzzle', icon: 'fa-solid fa-puzzle-piece' },
-  { slug: 'casual', icon: 'fa-solid fa-face-smile' },
-  { slug: 'thinky', icon: 'fa-solid fa-brain' },
-  { slug: 'action', icon: 'fa-solid fa-bolt' },
-  { slug: 'sports', icon: 'fa-regular fa-futbol' },
-  { slug: 'strategy', icon: 'fa-solid fa-chess-knight' },
-  { slug: 'platformer', icon: 'fa-solid fa-shoe-prints' },
-  { slug: 'arcade', icon: 'fa-solid fa-gamepad' },
-  { slug: 'shooting', icon: 'fa-solid fa-crosshairs' },
-  { slug: 'card', icon: 'fa-regular fa-gem' },
-  { slug: 'rhythm', icon: 'fa-solid fa-drum' },
-  { slug: 'adventure', icon: 'fa-regular fa-compass' },
-  { slug: 'music', icon: 'fa-solid fa-music' },
-  { slug: 'clicker', icon: 'fa-regular fa-hand-pointer' },
-  { slug: 'driving', icon: 'fa-solid fa-car' },
-  { slug: 'physics', icon: 'fa-solid fa-atom' },
-  { slug: 'multiplayer', icon: 'fa-solid fa-users' },
-  { slug: '2-player', icon: 'fa-solid fa-cogs' },
+  { slug: 'puzzle', icon: 'puzzle' },
+  { slug: 'casual', icon: 'smile' },
+  { slug: 'thinky', icon: 'brain' },
+  { slug: 'action', icon: 'bolt' },
+  { slug: 'sports', icon: 'futbol' },
+  { slug: 'strategy', icon: 'chess' },
+  { slug: 'platformer', icon: 'footprints' },
+  { slug: 'arcade', icon: 'gamepad' },
+  { slug: 'shooting', icon: 'crosshairs' },
+  { slug: 'card', icon: 'gem' },
+  { slug: 'rhythm', icon: 'drum' },
+  { slug: 'adventure', icon: 'compass' },
+  { slug: 'music', icon: 'music' },
+  { slug: 'clicker', icon: 'pointer' },
+  { slug: 'driving', icon: 'car' },
+  { slug: 'physics', icon: 'atom' },
+  { slug: 'multiplayer', icon: 'users' },
+  { slug: '2-player', icon: 'cogs' },
 ] as const;
 ---
 
@@ -42,7 +43,7 @@ const categories = [
         return (
           <a class="category-card" href={withLocale(`/c/${slug}/`)} title={displayName}>
             <div class="category-card-content">
-              <i class={icon} aria-hidden="true"></i>
+              <Icon name={icon} size={20} />
               <span>{displayName}</span>
             </div>
           </a>

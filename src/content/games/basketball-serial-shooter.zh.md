@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: basketball-serial-shooter
 title: Basketball Serial Shooter 连发投篮挑战
+seoTitle: 免费在线玩 Basketball Serial Shooter 连发投篮挑战 | FiddleBops
 description: >-
   《Basketball Serial Shooter 连发投篮挑战》是一款强调节奏与弧线控制的连发投篮游戏，在有限时间或球数
   内，通过稳定手感与精准预判，把一颗颗篮球空心送进篮筐。
 iframeSrc: 'https://41d3mmm660u50.h5games.usercontent.goog/v/1t2n5uvjnbv1o/'
 thumbnail: /new-images/thumbnails/basketball-serial-shooter.jpg
+urlstr: basketball-serial-shooter
 tags:
   - sports
   - basketball

@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: cards-21
-title: "Cards-21"
+title: Cards-21
+seoTitle: Spiele Cards-21 kostenlos online | FiddleBops
 description: >-
   Cards-21 ist eine schlanke Blackjack-Variante – ziehe Karten, bleib möglichst
   nahe an 21 und vermeide es, zu überziehen.
 iframeSrc: 'https://11kvu79prlefg.h5games.usercontent.goog/v/67r78cf7q96c0/'
 thumbnail: /new-images/thumbnails/cards-21.png
+urlstr: cards-21
 tags:
   - card
   - casual

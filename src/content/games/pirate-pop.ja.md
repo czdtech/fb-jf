@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Pirate Pop
+seoTitle: 無料でPirate Popをオンラインでプレイ | FiddleBops
 description: Pirate Popは海賊テーマのバブルシューターです。バブルをそろえて消し、レベル目標の達成を目指します。
 iframeSrc: 'https://piratepop.h5games.usercontent.goog/v/3japc2shd35ug/'
 thumbnail: /new-images/thumbnails/pirate-pop.png
 urlstr: pirate-pop
-score: 4.3/5  (2100 votes)
 tags:
   - puzzle
   - casual
+score: 4.3/5  (2100 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

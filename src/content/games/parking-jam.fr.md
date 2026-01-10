@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: parking-jam
 title: Parking Jam
+seoTitle: Jouez à Parking Jam en ligne gratuitement | FiddleBops
 description: >-
   Parking Jam est un puzzle de circulation : déplace les voitures dans le bon
   ordre pour libérer la voie de sortie en un minimum de mouvements.
 iframeSrc: 'https://4knmpq6joecbg.h5games.usercontent.goog/v/1uamg2frss2qg/'
 thumbnail: /new-images/thumbnails/parking-jam.png
+urlstr: parking-jam
 tags:
   - puzzle
   - thinky

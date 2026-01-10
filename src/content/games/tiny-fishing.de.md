@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: tiny-fishing
 title: Tiny Fishing
+seoTitle: Spiele Tiny Fishing kostenlos online | FiddleBops
 description: >-
   Tiny Fishing ist ein entspanntes Angelspiel: Wirf deine Leine in die Tiefe,
   fange immer bessere Fische und verbessere deine Ausrüstung, um in noch tiefere
   Gewässer vorzudringen.
 iframeSrc: 'https://webglmath.github.io/tiny-fishing/'
 thumbnail: /new-images/thumbnails/tiny-fishing.jpg
+urlstr: tiny-fishing
 tags:
   - fishing
   - casual

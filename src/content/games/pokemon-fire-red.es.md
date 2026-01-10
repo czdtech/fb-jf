@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: pokemon-fire-red
 title: Pokémon Rojo Fuego
+seoTitle: Juega a Pokémon Rojo Fuego en línea gratis | FiddleBops
 description: >-
   Pokémon Rojo Fuego es un remake fiel del clásico Pokémon Rojo en el que
   recorres la región de Kanto, capturas y entrenas Pokémon, desafías a los
@@ -9,6 +9,7 @@ description: >-
   Campeón de la Liga Pokémon.
 iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonred'
 thumbnail: /new-images/thumbnails/pokemon-fire-red.jpg
+urlstr: pokemon-fire-red
 tags:
   - rpg
   - adventure

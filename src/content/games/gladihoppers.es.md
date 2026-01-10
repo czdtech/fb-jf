@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: gladihoppers
 title: Gladihoppers
+seoTitle: Juega a Gladihoppers en línea gratis | FiddleBops
 description: >-
   Luchas de gladiadores 2D con saltos físicos: personaliza tu equipo, mide
   estocadas y paradas y asciende por las arenas en duelos y distintos modos.
 iframeSrc: 'https://m.igroutka.ru/g-1/113/Gladihoppers/'
 thumbnail: /new-images/thumbnails/gladihoppers.jpg
+urlstr: gladihoppers
 tags:
   - fighting
   - action

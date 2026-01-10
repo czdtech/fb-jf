@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: super-smash-flash
 title: 《Super Smash Flash》乱斗闪光
+seoTitle: 免费在线玩 《Super Smash Flash》乱斗闪光 | FiddleBops
 description: 《Super Smash Flash》是一款同人制作的横版乱斗格斗游戏，集合多款经典游戏与动漫角色，在多种场景中进行多人乱斗，将对手击飞场外获取胜利。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/super-smash-flash.html'
 thumbnail: /new-images/thumbnails/super-smash-flash.jpg
+urlstr: super-smash-flash
 tags:
   - fighting
   - platformer

@@ -1,13 +1,14 @@
 ---
 locale: zh
-urlstr: plants-vs-brainrots
-title: Plants Vs Brainrots - Roblox 脑洞塔防指南
+title: Plants Vs Brainrots
+seoTitle: 免费在线玩 Plants Vs Brainrots | FiddleBops
 description: >-
   《Plants vs Brainrots》是一款在 Roblox 平台上爆火的玩家自制塔防游戏，以恶搞“脑腐”网络迷因为主题，你要布置各类“理智植物”，抵御
   Skibidi Toilet、Sigma 等脑腐敌人对你大脑的进攻。
 iframeSrc: >-
   https://playhop.com/dist-app/471072?header=no&utm_source=distrib&utm_medium=gameflare
 thumbnail: /new-images/thumbnails/plants-vs-brainrots.jpg
+urlstr: plants-vs-brainrots
 tags:
   - roblox
   - casual

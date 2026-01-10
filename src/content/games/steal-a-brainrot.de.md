@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: steal-a-brainrot
 title: Steal a Brainrot
+seoTitle: Spiele Steal a Brainrot kostenlos online | FiddleBops
 description: >-
   Entdecke das chaotische Roblox-Erlebnis „Steal a Brainrot". Lerne das Gameplay
   dieses meme-gefüllten Spiels, in dem du Brainrot-Charaktere wie Skibidi Toilet
   schnappst und Wachen entwischst. Finde Tipps, Strategien und mehr.
 iframeSrc: 'https://st.8games.net/7/8g/igra-ukradi-brejnrot-100-original/'
 thumbnail: /new-images/thumbnails/steal-a-brainrot.webp
+urlstr: steal-a-brainrot
 tags:
   - casual
   - action

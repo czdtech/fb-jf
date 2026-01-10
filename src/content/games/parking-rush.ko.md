@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: parking-rush
 title: Parking Rush 파킹 러시
+seoTitle: Parking Rush 파킹 러시 무료 온라인 플레이 | FiddleBops
 description: >-
   Parking Rush는 혼잡한 주차장을 정리하는 라인 드로잉 퍼즐 게임으로, 각 자동차에 맞는 색상의 주차 칸까지 길을 그려 주되 서로
   부딪히지 않도록 동선과 타이밍을 조절해야 합니다.
 iframeSrc: 'https://7nq79vktk8fho.h5games.usercontent.goog/v/4u3a6m3hm9lj8/'
 thumbnail: /new-images/thumbnails/parking-rush.png
+urlstr: parking-rush
 tags:
   - puzzle
   - driving

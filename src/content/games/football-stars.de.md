@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: football-stars
-title: "Football Stars"
+title: Football Stars
+seoTitle: Spiele Football Stars kostenlos online | FiddleBops
 description: >-
-  Football Stars verdichtet Fußball zu schnellen Arcade-Partien: Spiele
-  zügige Pässe, timinge Abschlüsse und setze dich in kurzen Matches gegen die
-  Abwehr durch.
+  Football Stars verdichtet Fußball zu schnellen Arcade-Partien: Spiele zügige
+  Pässe, timinge Abschlüsse und setze dich in kurzen Matches gegen die Abwehr
+  durch.
 iframeSrc: 'https://0bqhpbln445co.h5games.usercontent.goog/v/2to6kd3co500g/'
 thumbnail: /new-images/thumbnails/football-stars.png
+urlstr: football-stars
 tags:
   - sports
   - soccer

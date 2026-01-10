@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: aquaparkio
 title: Aquapark.io carreras en tobogán de agua
+seoTitle: Juega a Aquapark.io carreras en tobogán de agua en línea gratis | FiddleBops
 description: >-
   En aquapark.io compites en un enorme parque acuático para ser el primero en
   llegar a la piscina. Aprende atajos aéreos, derriba rivales del tobogán y
   domina los controles para ganar.
 iframeSrc: 'https://bitlifeonline.github.io/class23523/aquaparkio/'
 thumbnail: /new-images/thumbnails/aquaparkio.jpg
+urlstr: aquaparkio
 tags:
   - casual
   - racing

@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Sushi Grab"
-description: "Sushi Grab is a speedy arcade picker — snag the right sushi, avoid traps, and hit score targets."
-iframeSrc: "https://sushigrab.h5games.usercontent.goog/v/0ehlec2inmmrg/"
+title: Sushi Grab
+seoTitle: Play Sushi Grab Online Free | FiddleBops
+description: >-
+  Sushi Grab is a speedy arcade picker — snag the right sushi, avoid traps, and
+  hit score targets.
+iframeSrc: 'https://sushigrab.h5games.usercontent.goog/v/0ehlec2inmmrg/'
 thumbnail: /new-images/thumbnails/sushi-grab.png
-urlstr: "sushi-grab"
-score: "3.9/5  (1602 votes)"
-tags: ["casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: sushi-grab
+tags:
+  - casual
+  - thinky
+score: 3.9/5  (1602 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

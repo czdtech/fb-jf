@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: cat-sort-quest
 title: Cat Sort Quest 캣 소트 퀘스트
+seoTitle: Cat Sort Quest 캣 소트 퀘스트 무료 온라인 플레이 | FiddleBops
 description: >-
   Cat Sort Quest는 여러 색 고양이들을 기둥 사이로 옮겨 색깔별로 정리하는 퍼즐 게임입니다. 제한된 빈 기둥을 버퍼처럼 활용해, 각
   기둥에 한 가지 색 고양이만 남도록 깔끔하게 분류해 보세요.
 iframeSrc: 'https://4ajc8tu89od7g.h5games.usercontent.goog/v/49be5kf9v96j0/'
 thumbnail: /new-images/thumbnails/cat-sort-quest.png
+urlstr: cat-sort-quest
 tags:
   - puzzle
   - thinky

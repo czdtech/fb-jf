@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: zumba-ocean
 title: Zumba Ocean
+seoTitle: Spiele Zumba Ocean kostenlos online | FiddleBops
 description: >-
   Tauche in Zumba Ocean in ein Kugelketten‑Puzzle ab: Schieße bunte Perlen,
   bilde Dreier‑Kombos und stoppe die Kette, bevor sie die Muschel am Ende
   erreicht.
 iframeSrc: 'https://zumbaocean.h5games.usercontent.goog/v/1gb65icesunig/'
 thumbnail: /new-images/thumbnails/zumba-ocean.png
+urlstr: zumba-ocean
 tags:
   - shooting
   - puzzle

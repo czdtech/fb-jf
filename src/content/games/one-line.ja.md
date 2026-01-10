@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: One Line
+seoTitle: 無料でOne Lineをオンラインでプレイ | FiddleBops
 description: One Lineは一筆書きパズルゲームです。形を一筆でなぞり、ルールを満たすルートを見つけます。
 iframeSrc: 'https://g2.igroutka.ru/games/3/JLgd70b3BNafhVq5/10/igra-odna-liniya/game.html'
 thumbnail: /new-images/thumbnails/one-line.jpg
 urlstr: one-line
-score: 3.9/5  (549 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 3.9/5  (549 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

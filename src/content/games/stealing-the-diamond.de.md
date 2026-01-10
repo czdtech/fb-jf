@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: stealing-the-diamond
 title: Stealing The Diamond
+seoTitle: Spiele Stealing The Diamond kostenlos online | FiddleBops
 description: >-
   Begleite Henry Stickmin in „Stealing the Diamond“, einem witzigen
   Entscheidungs-Abenteuer: Schleich dich ins Museum, klaue den Riesendiamanten
   und entdecke alle Fails und mehrere Enden.
 iframeSrc: 'https://bitlifeonline.github.io/stealing-the-diamond/'
 thumbnail: /new-images/thumbnails/stealing-the-diamond.jpg
+urlstr: stealing-the-diamond
 tags:
   - adventure
   - funny

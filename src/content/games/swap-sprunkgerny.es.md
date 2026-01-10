@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: swap-sprunkgerny
-title: 'Swap Sprunkgerny - Juega a Swap Sprunkgerny online'
+title: Swap Sprunkgerny
+seoTitle: Juega a Swap Sprunkgerny en línea gratis | FiddleBops
 description: >-
   Imagina un grupo de criaturas alienígenas, con ojos enormes y personalidades
   rarísimas, esperando a que las hagas cobrar vida. En Swap Sprunkgerny tú eres
@@ -9,11 +9,12 @@ description: >-
   tocar música única.
 iframeSrc: 'https://turbowarp.org/1141050651/embed'
 thumbnail: /new-images/thumbnails/swap-sprunkgerny.png
+urlstr: swap-sprunkgerny
 tags:
   - swap sprunkgerny
   - swap sprunkgerny online
 score: 4.9/5  (724 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

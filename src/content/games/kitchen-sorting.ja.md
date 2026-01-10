@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Kitchen Sorting
+seoTitle: 無料でKitchen Sortingをオンラインでプレイ | FiddleBops
 description: Kitchen Sortingは整頓された分類パズルゲームです。時間のプレッシャーの下で食品、道具、廃棄物を正しく分類し、交差汚染を避けましょう。
 iframeSrc: 'https://757entlesmh4g.h5games.usercontent.goog/v/1r9oimecfevc0/'
 thumbnail: /new-images/thumbnails/kitchen-sorting.png
 urlstr: kitchen-sorting
-score: 3.9/5  (1744 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 3.9/5  (1744 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

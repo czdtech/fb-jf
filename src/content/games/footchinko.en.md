@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Footchinko"
-description: "Experience the unique blend of football and pachinko in Footchinko! Drop the ball, hit the pegs, and aim for high scores and exciting bonuses."
-iframeSrc: "https://footchinko2.h5games.usercontent.goog/v/3iniom5rsklno/"
+title: Footchinko
+seoTitle: Play Footchinko Online Free | FiddleBops
+description: >-
+  Experience the unique blend of football and pachinko in Footchinko! Drop the
+  ball, hit the pegs, and aim for high scores and exciting bonuses.
+iframeSrc: 'https://footchinko2.h5games.usercontent.goog/v/3iniom5rsklno/'
 thumbnail: /new-images/thumbnails/footchinko.jpg
-urlstr: "footchinko"
-score: "4.5/5  (2230 votes)"
-tags: ["sports", "casual", "action"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: footchinko
+tags:
+  - sports
+  - casual
+  - action
+score: 4.5/5  (2230 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

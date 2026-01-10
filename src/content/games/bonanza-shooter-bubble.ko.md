@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: bonanza-shooter-bubble
 title: Bonanza Shooter Bubble 보난자 버블 슈터
+seoTitle: Bonanza Shooter Bubble 보난자 버블 슈터 무료 온라인 플레이 | FiddleBops
 description: >-
   Bonanza Shooter Bubble은 화려한 색감이 돋보이는 클래식 버블 슈터 게임입니다. 각도를 계산해 버블을 쏘고, 같은 색 버블을
   3개 이상 맞춰 큰 덩어리를 떨어뜨리며 점수를 노려 보세요.
 iframeSrc: 'https://65bijcm9l375g.h5games.usercontent.goog/v/6v521t1km2i30/'
 thumbnail: /new-images/thumbnails/bonanza-shooter-bubble.jpg
+urlstr: bonanza-shooter-bubble
 tags:
   - puzzle
   - casual

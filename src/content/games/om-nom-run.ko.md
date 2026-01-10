@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: om-nom-run
 title: 'Om Nom: Run 옴놈 런'
+seoTitle: 'Om Nom: Run 옴놈 런 무료 온라인 플레이 | FiddleBops'
 description: >-
   Om Nom: Run에서는 옴놈과 옴넬과 함께 거리를 질주하며 장애물을 피하고 코인을 모으고, 다양한 파워업을 활용해 얼마나 멀리까지 달릴
   수 있는지 도전할 수 있습니다.
 iframeSrc: 'https://omnomrun.h5games.usercontent.goog/v/38udj70raubl0/'
 thumbnail: /new-images/thumbnails/om-nom-run.png
+urlstr: om-nom-run
 tags:
   - action
   - casual

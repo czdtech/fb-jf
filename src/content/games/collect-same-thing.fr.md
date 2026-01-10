@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: collect-same-thing
 title: Collect Same Thing
+seoTitle: Jouez à Collect Same Thing en ligne gratuitement | FiddleBops
 description: "Collect Same Thing est un puzzle d’association\_: fais correspondre les mêmes objets, vide la grille par paires et gère l’espace pour ne pas te bloquer."
 iframeSrc: 'https://01cqom45rtuoo.h5games.usercontent.goog/v/6t1iulpqr6t5g/'
 thumbnail: /new-images/thumbnails/collect-same-thing.png
+urlstr: collect-same-thing
 tags:
   - puzzle
   - thinky

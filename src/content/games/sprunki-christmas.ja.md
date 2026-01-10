@@ -1,13 +1,17 @@
 ---
-title: "Sprunki Christmas - Play Sprunki Christmas Online"
-description: "Sprunki Christmasはクリスマスの祝祭ムードの中で冒険できるSprunki作品です。レベルを進めたりギフトを集めたりしながら、冬テーマのチャレンジを楽しめます。"
-iframeSrc: "https://turbowarp.org/1104040581/embed"
-thumbnail: /new-images/thumbnails/sprunki-christmas.png
-urlstr: "sprunki-christmas"
-score: "4.6/5  (486 votes)"
-tags: ["sprunki christmas"]
 locale: ja
-releaseDate: 2025-12-04
+title: Sprunki Christmas
+seoTitle: 無料でSprunki Christmasをオンラインでプレイ | FiddleBops
+description: >-
+  Sprunki
+  Christmasはクリスマスの祝祭ムードの中で冒険できるSprunki作品です。レベルを進めたりギフトを集めたりしながら、冬テーマのチャレンジを楽しめます。
+iframeSrc: 'https://turbowarp.org/1104040581/embed'
+thumbnail: /new-images/thumbnails/sprunki-christmas.png
+urlstr: sprunki-christmas
+tags:
+  - sprunki christmas
+score: 4.6/5  (486 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

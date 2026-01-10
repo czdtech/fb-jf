@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Jewel Pets Match
+seoTitle: 無料でJewel Pets Matchをオンラインでプレイ | FiddleBops
 description: 宝石のような動物をそろえるマッチ3パズルです。入れ替えて3つ以上をそろえ、各レベルの目標を達成します。
 iframeSrc: 'https://jewelpetsmatch.h5games.usercontent.goog/v/2kcabvevoilco/'
 thumbnail: /new-images/thumbnails/jewel-pets-match.png
 urlstr: jewel-pets-match
-score: 4.4/5  (2300 votes)
 tags:
   - puzzle
   - casual
   - action
+score: 4.4/5  (2300 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

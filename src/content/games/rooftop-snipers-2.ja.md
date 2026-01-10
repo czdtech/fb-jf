@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Rooftop Snipers 2
+seoTitle: 無料でRooftop Snipers 2をオンラインでプレイ | FiddleBops
 description: Rooftop Snipers 2は物理挙動のある対戦シューティングです。屋上で撃ち合い、相手を落とした方が勝ちになります。
 iframeSrc: 'https://rebemanae.github.io/rooftop-snipers-2/'
 thumbnail: /new-images/thumbnails/rooftop-snipers-2.jpg
 urlstr: rooftop-snipers-2
-score: 4.1/5  (546 votes)
 tags:
   - action
   - 2 player
   - casual
+score: 4.1/5  (546 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

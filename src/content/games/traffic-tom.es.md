@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: traffic-tom
-title: Traffic Tom - Aventura en moto entre el tráfico
+title: Traffic Tom
+seoTitle: Juega a Traffic Tom en línea gratis | FiddleBops
 description: >-
   Acompaña a Tom en una trepidante aventura en moto. Esquiva coches entre el
   tráfico denso, completa misiones y mejora tu vehículo hasta convertirte en el
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://traffictom.h5games.usercontent.goog/v/7c1a9fb2-2097-4c14-b7b1-052d80d41adb/
 thumbnail: /new-images/thumbnails/traffic-tom.jpg
+urlstr: traffic-tom
 tags:
   - driving
   - action

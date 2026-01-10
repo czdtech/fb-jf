@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Subway Jumper
+seoTitle: 無料でSubway Jumperをオンラインでプレイ | FiddleBops
 description: Subway Jumperは、地下鉄を走り抜けるエンドレスランナーゲームです。ジャンプ、スライド、避けながらできるだけ遠くまで走りましょう。
 iframeSrc: 'https://34clth7bs1mtg.h5games.usercontent.goog/v/20un142k99goo/'
 thumbnail: /new-images/thumbnails/subway-jumper.png
 urlstr: subway-jumper
-score: 3.9/5  (1759 votes)
 tags:
   - runner
   - endless
   - arcade
-locale: ja
+score: 3.9/5  (1759 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

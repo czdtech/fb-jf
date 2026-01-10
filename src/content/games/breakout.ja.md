@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Breakout ブレイクアウト
+seoTitle: 無料でBreakout ブレイクアウトをオンラインでプレイ | FiddleBops
 description: 「ブレイクアウト」は全てのブロック崩しの原点。パドルを操作し、ボールを跳ね返し、全てのレンガを破壊せよ。レジェンド級アーケードゲームの完全攻略ガイド。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/atari-breakout.html'
 thumbnail: /new-images/thumbnails/breakout.jpg
 urlstr: breakout
-score: 3.8/5  (494 votes)
 tags:
   - arcade
   - casual
+score: 3.8/5  (494 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

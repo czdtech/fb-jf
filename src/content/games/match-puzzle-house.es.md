@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: match-puzzle-house
-title: Match Puzzle House - Combina y reforma tu casa
+title: Match Puzzle House
+seoTitle: Juega a Match Puzzle House en línea gratis | FiddleBops
 description: >-
   Match Puzzle House combina partidas de mach-3 con decoración del hogar: cumple
   objetivos, gana estrellas y renueva habitaciones usando potenciadores con
   cabeza.
 iframeSrc: 'https://7cp83ss0h08p0.h5games.usercontent.goog/v/49v2bsl4scjdo/'
 thumbnail: /new-images/thumbnails/match-puzzle-house.png
+urlstr: match-puzzle-house
 tags:
   - puzzle
   - casual

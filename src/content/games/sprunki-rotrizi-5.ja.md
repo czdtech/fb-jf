@@ -1,15 +1,15 @@
 ---
-title: Sprunki Rotrizi 5.0 - Play Sprunki Rotrizi 5.0 Online
-description: >-
-  Sprunki Rotrizi 5.0はグリッチ系の演出や重い低音を特徴とする音楽制作Modです。サウンドを重ねて実験的なトラックを作れます。
+locale: ja
+title: Sprunki Rotrizi 5.0
+seoTitle: 無料でSprunki Rotrizi 5.0をオンラインでプレイ | FiddleBops
+description: Sprunki Rotrizi 5.0はグリッチ系の演出や重い低音を特徴とする音楽制作Modです。サウンドを重ねて実験的なトラックを作れます。
 iframeSrc: 'https://turbowarp.org/1126764795/embed'
 thumbnail: /new-images/thumbnails/sprunki-rotrizi-5.png
 urlstr: sprunki-rotrizi-5
-score: 4.0/5  (232 votes)
 tags:
   - sprunki rotrizi 5.0
-locale: ja
-releaseDate: 2025-12-04
+score: 4.0/5  (232 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

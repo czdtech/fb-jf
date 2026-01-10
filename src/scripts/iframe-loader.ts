@@ -5,6 +5,8 @@
  * Requirements: 4.2
  */
 
+import { mergeConfig } from './utils/config-merge';
+
 export interface IframeLoaderConfig {
   iframeId: string;
   playButtonId: string;
@@ -12,10 +14,11 @@ export interface IframeLoaderConfig {
   iframeSrc: string;
 }
 
-const defaultConfig: Partial<IframeLoaderConfig> = {
+const defaultConfig: IframeLoaderConfig = {
   iframeId: 'fiddlebops-iframe',
   playButtonId: 'playButton',
-  containerSelector: '.game-iframe-sprunki'
+  containerSelector: '.game-iframe-sprunki',
+  iframeSrc: '',
 };
 
 /**
@@ -23,10 +26,7 @@ const defaultConfig: Partial<IframeLoaderConfig> = {
  * Sets up click event on play button to load the game iframe
  */
 export function initIframeLoader(config: IframeLoaderConfig): void {
-  const { iframeId, playButtonId, containerSelector, iframeSrc } = {
-    ...defaultConfig,
-    ...config
-  };
+  const { iframeId, playButtonId, containerSelector, iframeSrc } = mergeConfig(defaultConfig, config);
 
   if (!iframeSrc) {
     console.warn('Iframe loader: iframeSrc is required');
@@ -68,12 +68,6 @@ export function initIframeLoader(config: IframeLoaderConfig): void {
  */
 export function createIframeLoader(iframeSrc: string, customConfig?: Partial<IframeLoaderConfig>): () => void {
   return () => {
-    initIframeLoader({
-      iframeId: 'fiddlebops-iframe',
-      playButtonId: 'playButton',
-      containerSelector: '.game-iframe-sprunki',
-      iframeSrc,
-      ...customConfig
-    });
+    initIframeLoader(mergeConfig(defaultConfig, { ...customConfig, iframeSrc }));
   };
 }

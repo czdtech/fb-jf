@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Gold Miner Tom
+seoTitle: 無料でGold Miner Tomをオンラインでプレイ | FiddleBops
 description: >-
   トムが大金持ちになるのを手伝おう！爪を投げて金塊や宝石、その他の宝物を掴み取る、クラシックなゴールドマイナーゲーム。時間切れになる前に目標金額を達成しましょう！
 iframeSrc: 'https://goldminertom.h5games.usercontent.goog/v/5l8d724in1pco/'
 thumbnail: /new-images/thumbnails/gold-miner-tom.png
 urlstr: gold-miner-tom
-score: 4.3/5  (2200 votes)
 tags:
   - action
   - casual
   - clicker
+score: 4.3/5  (2200 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

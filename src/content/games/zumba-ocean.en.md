@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Zumba Ocean"
-description: "Dive into a marble-shooting puzzle adventure! Shoot colorful pearls to make matches of three or more and clear the chain before it reaches the shell. A classic and addictive challenge with an ocean theme."
-iframeSrc: "https://zumbaocean.h5games.usercontent.goog/v/1gb65icesunig/"
+title: Zumba Ocean
+seoTitle: Play Zumba Ocean Online Free | FiddleBops
+description: >-
+  Dive into a marble-shooting puzzle adventure! Shoot colorful pearls to make
+  matches of three or more and clear the chain before it reaches the shell. A
+  classic and addictive challenge with an ocean theme.
+iframeSrc: 'https://zumbaocean.h5games.usercontent.goog/v/1gb65icesunig/'
 thumbnail: /new-images/thumbnails/zumba-ocean.png
-urlstr: "zumba-ocean"
-score: "4.5/5  (2800 votes)"
-tags: ["shooting", "puzzle", "action"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: zumba-ocean
+tags:
+  - shooting
+  - puzzle
+  - action
+score: 4.5/5  (2800 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

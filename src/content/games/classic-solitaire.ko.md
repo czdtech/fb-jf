@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: classic-solitaire
 title: Classic Solitaire 클래식 솔리테어
+seoTitle: Classic Solitaire 클래식 솔리테어 무료 온라인 플레이 | FiddleBops
 description: >-
   Classic Solitaire(클론다이크)는 가장 널리 알려진 1인용 카드 게임입니다. 테이블에 펼쳐진 카드를 옮기고 정리해, 네 개의
   기초 더미에 각 무늬별 A부터 K까지 순서대로 쌓아 올려 보세요.
 iframeSrc: 'https://6uj90l2koon6g.h5games.usercontent.goog/v/2a72i89u7qfe8/'
 thumbnail: /new-images/thumbnails/classic-solitaire.png
+urlstr: classic-solitaire
 tags:
   - card
   - puzzle

@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Age of War"
-description: "iscover the ultimate guide to Age of War, the classic strategy game. Learn winning strategies, controls, and tips to evolve your army from cavemen to future warriors and dominate the battlefield."
-iframeSrc: "https://app-196716.games.s3.yandex.net/196716/h5h3xwa1kxsz7wcma59tvvmko0zorc80/index.html"
+title: Age of War
+seoTitle: Play Age of War Online Free | FiddleBops
+description: >-
+  iscover the ultimate guide to Age of War, the classic strategy game. Learn
+  winning strategies, controls, and tips to evolve your army from cavemen to
+  future warriors and dominate the battlefield.
+iframeSrc: >-
+  https://app-196716.games.s3.yandex.net/196716/h5h3xwa1kxsz7wcma59tvvmko0zorc80/index.html
 thumbnail: /new-images/thumbnails/age-of-war.jpg
-urlstr: "age-of-war"
-score: "4.5/5  (525 votes)"
-tags: ["strategy", "action"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: age-of-war
+tags:
+  - strategy
+  - action
+score: 4.5/5  (525 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

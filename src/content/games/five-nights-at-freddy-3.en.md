@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Five Nights at Freddy's 3 (FNAF 3)"
-description: "System‑management horror: lure Springtrap with audio, watch cameras/vents, and reboot failing systems to survive each night." 
-iframeSrc: "https://ubg77.github.io/fix/fnaf2/fnaf3.html"
+title: Five Nights at Freddy's 3 (FNAF 3)
+seoTitle: Play Five Nights at Freddy's 3 (FNAF 3) Online Free | FiddleBops
+description: >-
+  System‑management horror: lure Springtrap with audio, watch cameras/vents, and
+  reboot failing systems to survive each night.
+iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf3.html'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-3.jpg
-urlstr: "five-nights-at-freddy-3"
-score: "3.8/5  (149 votes)"
-tags: ["horror", "strategy"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: five-nights-at-freddy-3
+tags:
+  - horror
+  - strategy
+score: 3.8/5  (149 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

@@ -1,16 +1,15 @@
 ---
 locale: zh
-urlstr: geometry-dash
-title: "Geometry Dash Wave Spam - 线上几何冲刺波形特训"
-description: >-
-  别再管那些花俏装饰了。这不是普通的 Geometry Dash 关卡，
-  而是一段纯粹、只剩波形模式的地狱试炼，用来打碎你的手感，再把你锻造成真正的波形高手。
+title: Geometry Dash Wave Spam
+seoTitle: 免费在线玩 Geometry Dash Wave Spam | FiddleBops
+description: 别再管那些花俏装饰了。这不是普通的 Geometry Dash 关卡， 而是一段纯粹、只剩波形模式的地狱试炼，用来打碎你的手感，再把你锻造成真正的波形高手。
 iframeSrc: 'https://turbowarp.org/1185431027/embed'
 thumbnail: /new-images/thumbnails/geometry-dash.png
+urlstr: geometry-dash
 tags:
   - geometry dash
 score: 4.5/5  (604 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

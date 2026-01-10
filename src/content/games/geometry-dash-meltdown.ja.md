@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Geometry Dash Meltdown
+seoTitle: 無料でGeometry Dash Meltdownをオンラインでプレイ | FiddleBops
 description: リズムプラットフォーマーパック：テーマ別のハザードや船のセクションを備えた、新しい音楽同期レベルをジャンプして飛び回りましょう。
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-meltdown/'
 thumbnail: /new-images/thumbnails/geometry-dash-meltdown.jpg
 urlstr: geometry-dash-meltdown
-score: 4.4/5  (994 votes)
 tags:
   - rhythm
   - platformer
+score: 4.4/5  (994 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Word Connect"
-description: "Connect letters and expand your vocabulary in Word Connect, an addictive word puzzle game! Swipe to form words from a circular set of letters and fill in the crossword-style blanks. Discover bonus words, use hints, and challenge yourself across thousands of levels in this relaxing brain-teaser."
-iframeSrc: "https://previews.customer.envatousercontent.com/files/309288677/index.html"
+title: Word Connect
+seoTitle: Play Word Connect Online Free | FiddleBops
+description: >-
+  Connect letters and expand your vocabulary in Word Connect, an addictive word
+  puzzle game! Swipe to form words from a circular set of letters and fill in
+  the crossword-style blanks. Discover bonus words, use hints, and challenge
+  yourself across thousands of levels in this relaxing brain-teaser.
+iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288677/index.html'
 thumbnail: /new-images/thumbnails/word-connect.jpg
-urlstr: "word-connect"
-score: "3.9/5  (144 votes)"
-tags: ["word-game", "puzzle", "brain-teaser"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: word-connect
+tags:
+  - word-game
+  - puzzle
+  - brain-teaser
+score: 3.9/5  (144 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: slope-3
 title: Slope 3 슬로프 3
+seoTitle: Slope 3 슬로프 3 무료 온라인 플레이 | FiddleBops
 description: >-
   인기 Slope 시리즈의 최신작으로, 향상된 3D 그래픽과 새로운 장애물이 추가된 엔드리스 볼 러너 게임입니다. 끝없이 이어지는 경사로에서
   붉은 블록과 함정을 피해 한계까지 내려가 보세요.
 iframeSrc: 'https://games-online.io/game/Slope3/'
 thumbnail: /new-images/thumbnails/slope-3.jpg
+urlstr: slope-3
 tags:
   - endless runner
   - 3d

@@ -1,15 +1,22 @@
 ---
 locale: en
-modType: incredibox
-title: "Incredibox Rave"
-description: "Incredibox Rave this guide details its electronic dance music palette, gameplay for creating high-energy tracks, and how to unlock its neon-themed bonuses."
-iframeSrc: "https://turbowarp.org/980794126/embed"
+title: Incredibox Rave
+seoTitle: Play Incredibox Rave Online Free | FiddleBops
+description: >-
+  Incredibox Rave this guide details its electronic dance music palette,
+  gameplay for creating high-energy tracks, and how to unlock its neon-themed
+  bonuses.
+iframeSrc: 'https://turbowarp.org/980794126/embed'
 thumbnail: /new-images/thumbnails/incredibox-rave.png
-urlstr: "incredibox-rave"
-score: "4.7/5 (1888 votes)"
-tags: ["music", "rave", "rhythm"]
-developer: ""
-releaseDate: 2025-10-10
+urlstr: incredibox-rave
+tags:
+  - music
+  - rave
+  - rhythm
+modType: incredibox
+score: 4.7/5 (1888 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 

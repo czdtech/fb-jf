@@ -3,6 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import CATEGORIES from '../../components/Categories.astro';
 import { getCategoryHreflang } from '../../data/hreflang';
 import { getCanonicalGames, toGameCardData, type GameEntry } from '../../lib/canonical-games';
+import { buildCategorySeoTitle } from '../../lib/seo-title';
 export async function getStaticPaths() {
   // 只使用英文 canonical 游戏作为分类基准，避免各语言版本重复出现在分类列表中
   const canonicalGames = await getCanonicalGames();
@@ -83,7 +84,7 @@ const description = `Play ${gameCount} ${displayTagName} games online for free. 
   .map((g) => toGameCardData(g, locale).title)
   .join(', ')} and more!`;
 
-const title = `${displayTagName} Games - FiddleBops Game World`;
+const title = buildCategorySeoTitle(locale, displayTagName);
 const canonicalUrl = `https://www.playfiddlebops.com/c/${slug}/`;
 
 const jsonLd = {

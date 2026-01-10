@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: guess-the-kitty
 title: 《Guess the Kitty》猫咪猜猜看
+seoTitle: 免费在线玩 《Guess the Kitty》猫咪猜猜看 | FiddleBops
 description: >-
   《Guess the
   Kitty》是一款以猫咪为主题的图片问答游戏，你要根据照片和提示，判断正确的猫咪品种或外貌特征，在一轮轮主题关卡中检验自己的“吸猫”知识。
 iframeSrc: 'https://webglmath.github.io/guess-the-kitty/'
 thumbnail: /new-images/thumbnails/guess-the-kitty.jpg
+urlstr: guess-the-kitty
 tags:
   - trivia
   - puzzle

@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: bloons-td-6
 title: Bloons TD 6 气球塔防 6
+seoTitle: 免费在线玩 Bloons TD 6 气球塔防 6 | FiddleBops
 description: >-
   《Bloons TD 6 气球塔防 6》是系列目前内容最丰富的一作，引入全 3D 画面、英雄单位、三路线升级与 Paragon
   级猴子等系统，需要你精细搭配防御塔与猴子知识，才能顶住最强气球与飞艇浪潮。
 iframeSrc: 'https://html5.gamenora.com/Bloons%20TD%206/'
 thumbnail: /new-images/thumbnails/bloons-td-6.jpg
+urlstr: bloons-td-6
 tags:
   - casual
   - strategy

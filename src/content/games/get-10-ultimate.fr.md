@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: get-10-ultimate
 title: Get 10 Ultimate
+seoTitle: Jouez à Get 10 Ultimate en ligne gratuitement | FiddleBops
 description: >-
   Un puzzle de nombres exigeant : appuie sur des groupes de chiffres identiques
   adjacents pour les fusionner en une valeur plus élevée. Saura‑tu atteindre 10…
   puis aller encore plus loin ?
 iframeSrc: 'https://4oljglvsib9no.h5games.usercontent.goog/v/4nttt72qlep8o/'
 thumbnail: /new-images/thumbnails/get-10-ultimate.png
+urlstr: get-10-ultimate
 tags:
   - puzzle
   - thinky

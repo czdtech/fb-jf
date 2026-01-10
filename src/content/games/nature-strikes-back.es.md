@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: nature-strikes-back
-title: Nature Strikes Back - Espíritus guardianes al contraataque
+title: Nature Strikes Back
+seoTitle: Juega a Nature Strikes Back en línea gratis | FiddleBops
 description: >-
   Fusiona y comanda a los Espíritus Guardianes de la naturaleza en este intenso
   tower defense. Combina unidades para hacerlas más fuertes y defiende el
   Corazón de la Naturaleza frente a oleadas de Mucklings.
 iframeSrc: 'https://79gloe1v4okkg.h5games.usercontent.goog/v/6qlhje6nn2bg0/'
 thumbnail: /new-images/thumbnails/nature-strikes-back.png
+urlstr: nature-strikes-back
 tags:
   - strategy
   - tower Defense

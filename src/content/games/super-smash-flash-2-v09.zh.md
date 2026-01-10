@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: super-smash-flash-2-v09
 title: 《Super Smash Flash 2 v0.9》乱斗闪光 2 旧版
+seoTitle: 免费在线玩 《Super Smash Flash 2 v0.9》乱斗闪光 2 旧版 | FiddleBops
 description: 《Super Smash Flash 2 v0.9》是乱斗闪光系列的早期版本，集合多款经典游戏角色，在横版场景中进行多人乱斗，将对手击飞出场外获胜。
 iframeSrc: 'https://kdata1.com/games/SSF9_2011/?kbhgames'
 thumbnail: /new-images/thumbnails/super-smash-flash-2-v09.jpg
+urlstr: super-smash-flash-2-v09
 tags:
   - fighting
   - crossover

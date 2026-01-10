@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: powerwall
 title: Powerwall
+seoTitle: Spiele Powerwall kostenlos online | FiddleBops
 description: >-
   Verteidige dein Tor in Powerwall, einem schnellen Arcade-Reflexspiel.
   Aktiviere im richtigen Moment deine Energiewand und blocke den Ball, bevor er
   die Ziellinie überquert.
 iframeSrc: 'https://powerwall2.h5games.usercontent.goog/v/2744b7jm5t0jg/'
 thumbnail: /new-images/thumbnails/powerwall.png
+urlstr: powerwall
 tags:
   - action
   - sports

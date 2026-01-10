@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: haru-pandas-slide
 title: Haru Pandas Slide 판다 슬라이드 퍼즐
+seoTitle: Haru Pandas Slide 판다 슬라이드 퍼즐 무료 온라인 플레이 | FiddleBops
 description: >-
   귀여운 판다 그림을 다시 맞추는 슬라이드 퍼즐 게임입니다. 타일을 밀어 행과 열을 정렬해, 최소 이동으로 원래의 판다 이미지를 완성해
   보세요.
 iframeSrc: 'https://0vc1kolll32h8.h5games.usercontent.goog/v/0t898ulinrkag/'
 thumbnail: /new-images/thumbnails/haru-pandas-slide.png
+urlstr: haru-pandas-slide
 tags:
   - puzzle
   - thinky

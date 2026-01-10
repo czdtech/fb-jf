@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: the-binding-of-isaac
 title: The Binding of Isaac 더 바인딩 오브 아이작
+seoTitle: The Binding of Isaac 더 바인딩 오브 아이작 무료 온라인 플레이 | FiddleBops
 description: >-
   The Binding of Isaac는 쌍스틱 슈팅 요소를 가진 로그라이크 액션 RPG로, 매번 다른 구조의 지하실을 탐험하며 괴물들과
   싸우고 기묘한 아이템을 모아 생존해야 하는 게임입니다.
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-binding-of-isaac.html'
 thumbnail: /new-images/thumbnails/the-binding-of-isaac.jpg
+urlstr: the-binding-of-isaac
 tags:
   - roguelike
   - action-RPG

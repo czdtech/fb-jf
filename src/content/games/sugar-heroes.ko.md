@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: sugar-heroes
 title: Sugar Heroes 슈가 히어로즈
+seoTitle: Sugar Heroes 슈가 히어로즈 무료 온라인 플레이 | FiddleBops
 description: >-
   Sugar Heroes는 귀여운 디저트 캐릭터를 맞추어 없애는 매치-3 퍼즐 게임입니다. 줄을 맞춰 터뜨리고, 스페셜 조합으로 강력한 폭발을
   일으켜 스테이지 목표를 달성하세요.
 iframeSrc: 'https://2f4eprapfvtoo.h5games.usercontent.goog/v/4bc5h26thvau8/'
 thumbnail: /new-images/thumbnails/sugar-heroes.png
+urlstr: sugar-heroes
 tags:
   - match-3
   - puzzle

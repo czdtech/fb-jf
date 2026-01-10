@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Island Of Treasures
+seoTitle: 無料でIsland Of Treasuresをオンラインでプレイ | FiddleBops
 description: 海賊をテーマにした3Dエンドレスランナーです。宝石やコインを集め、罠や障害物を避けながら島を走り抜けます。
 iframeSrc: 'https://5kvkrsasec6l8.h5games.usercontent.goog/v/7kfn10n6josho/'
 thumbnail: /new-images/thumbnails/island-of-treasures.png
 urlstr: island-of-treasures
-score: 4.3/5  (2200 votes)
 tags:
   - action
   - adventure
   - casual
+score: 4.3/5  (2200 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

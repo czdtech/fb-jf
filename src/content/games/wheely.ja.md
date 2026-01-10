@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Wheely
+seoTitle: 無料でWheelyをオンラインでプレイ | FiddleBops
 description: Wheelyは、車のパズルアドベンチャーゲームです。赤い車を助けてゴールまで導きましょう。
 iframeSrc: 'https://www.friv.com/z/games/wheely/index-x.html'
 thumbnail: /new-images/thumbnails/wheely.jpg
 urlstr: wheely
-score: 4.8/5  (695 votes)
 tags:
   - puzzle
   - adventure
   - car
-locale: ja
+score: 4.8/5  (695 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

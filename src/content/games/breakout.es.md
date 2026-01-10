@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: breakout
 title: Breakout
+seoTitle: Juega a Breakout en línea gratis | FiddleBops
 description: >-
   Controla la pala, devuelve la bola y destruye todos los ladrillos en el
   clásico arcade Breakout. Aprende trucos y consejos para dominar este atemporal
   rompebloques.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/atari-breakout.html'
 thumbnail: /new-images/thumbnails/breakout.jpg
+urlstr: breakout
 tags:
   - arcade
   - casual

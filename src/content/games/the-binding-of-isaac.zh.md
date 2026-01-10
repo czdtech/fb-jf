@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: the-binding-of-isaac
 title: 《The Binding of Isaac》以撒的结合
+seoTitle: 免费在线玩 《The Binding of Isaac》以撒的结合 | FiddleBops
 description: >-
   《The Binding of Isaac》是一款黑暗风格的类 Rogue 动作
   RPG。跟随以撒一路逃入地下室，与各类畸形怪物战斗、收集古怪道具，在随机生成的地牢中探索，体验每局截然不同的组合与结局。
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-binding-of-isaac.html'
 thumbnail: /new-images/thumbnails/the-binding-of-isaac.jpg
+urlstr: the-binding-of-isaac
 tags:
   - roguelike
   - action-RPG

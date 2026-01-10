@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: jigsaw-puzzles-hexa
 title: Jigsaw Puzzles Hexa 헥사 블록 퍼즐
+seoTitle: Jigsaw Puzzles Hexa 헥사 블록 퍼즐 무료 온라인 플레이 | FiddleBops
 description: >-
   육각형 블록 조각으로 그림을 완성하는 'Jigsaw Puzzles Hexa' 가이드입니다. 회전 없이 주어진 모양을 맞춰 넣으며 공간 감각을
   키워 보세요.
 iframeSrc: 'https://jigsawpuzzleshexa.h5games.usercontent.goog/v/5e9bm1tuf1me0/'
 thumbnail: /new-images/thumbnails/jigsaw-puzzles-hexa.jpg
+urlstr: jigsaw-puzzles-hexa
 tags:
   - puzzle
   - casual

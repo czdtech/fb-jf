@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: color-pixel-art
 title: Color Pixel Art Classic 像素填色经典版
+seoTitle: 免费在线玩 Color Pixel Art Classic 像素填色经典版 | FiddleBops
 description: >-
   在《Color Pixel Art Classic 像素填色经典版》中，通过数字填色的方式完成一幅幅精致的
   像素画。选择颜色、找到对应编号方格并填充，逐步还原隐藏在像素里的完整图像，是非常 解压的休闲体验。
 iframeSrc: 'https://colorpixel.h5games.usercontent.goog/v/6ko86juonaau0/'
 thumbnail: /new-images/thumbnails/color-pixel-art.png
+urlstr: color-pixel-art
 tags:
   - puzzle
   - casual

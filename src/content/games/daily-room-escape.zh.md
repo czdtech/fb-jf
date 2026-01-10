@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: daily-room-escape
 title: Daily Room Escape 每日密室逃脱
+seoTitle: 免费在线玩 Daily Room Escape 每日密室逃脱 | FiddleBops
 description: 《Daily Room Escape 每日密室逃脱》提供一日一关的小型逃脱谜题。你需要在房间里寻找道 具、破解密码锁，并逐步拼凑线索，找到离开的出口。
 iframeSrc: 'https://0e53jjs7cgfvg.h5games.usercontent.goog/v/7ksqnmpcepl5g/'
 thumbnail: /new-images/thumbnails/daily-room-escape.png
+urlstr: daily-room-escape
 tags:
   - puzzle
   - escape

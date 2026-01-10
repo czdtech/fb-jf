@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: table-tennis
 title: Table Tennis
+seoTitle: Jouez à Table Tennis en ligne gratuitement | FiddleBops
 description: "Maîtrise ta raquette dans Table Tennis\_: affronte l'IA, marque des points et deviens champion de ping‑pong grâce à ton timing et tes réflexes."
 iframeSrc: 'https://tabletennis.h5games.usercontent.goog/v/4eeofbe4nfj1g/'
 thumbnail: /new-images/thumbnails/table-tennis.png
+urlstr: table-tennis
 tags:
   - sports
   - 2 player

@@ -1,14 +1,18 @@
 ---
-title: "FullSpeed Racing"
-description: "FullSpeed Racingはアーケードレーサーです。ラインを選び、ブレーキングポイントを決め、ペースでクリーンに追い越しましょう。"
-iframeSrc: "https://fullspeedracing.h5games.usercontent.goog/v/4kqu52vbp4da8/"
-thumbnail: /new-images/thumbnails/fullspeed-racing.jpg
-urlstr: "fullspeed-racing"
-score: "4.1/5  (2014 votes)"
-tags: ["car", "driving", "sports"]
-developer: ""
-releaseDate: 2025-10-18
 locale: ja
+title: FullSpeed Racing
+seoTitle: 無料でFullSpeed Racingをオンラインでプレイ | FiddleBops
+description: FullSpeed Racingはアーケードレーサーです。ラインを選び、ブレーキングポイントを決め、ペースでクリーンに追い越しましょう。
+iframeSrc: 'https://fullspeedracing.h5games.usercontent.goog/v/4kqu52vbp4da8/'
+thumbnail: /new-images/thumbnails/fullspeed-racing.jpg
+urlstr: fullspeed-racing
+tags:
+  - car
+  - driving
+  - sports
+score: 4.1/5  (2014 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

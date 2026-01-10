@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Color Burst 3D カラーバースト3D
+seoTitle: 無料でColor Burst 3D カラーバースト3Dをオンラインでプレイ | FiddleBops
 description: 「Color Burst 3D」は反射神経が頼りのハイスピード・アーケード。回転するリングの同じ色を狙ってボールを操り、鮮やかな世界を駆け抜けろ。
 iframeSrc: 'https://colorburst3d.h5games.usercontent.goog/v/3l27vlnq6dvto/'
 thumbnail: /new-images/thumbnails/color-burst-3d.jpeg
 urlstr: color-burst-3d
-score: 3.8/5  (1487 votes)
 tags:
   - action
   - casual
+score: 3.8/5  (1487 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: gold-miner-tom
 title: Gold Miner Tom 골드 마이너 톰
+seoTitle: Gold Miner Tom 골드 마이너 톰 무료 온라인 플레이 | FiddleBops
 description: >-
   광부 톰을 도와 부자가 되어 보세요! 흔들리는 집게를 내려 금덩이와 보석, 각종 보물들을 끌어올리는 클래식 골드 마이너 게임입니다. 제한
   시간 안에 레벨마다 정해진 목표 금액을 달성해야 합니다.
 iframeSrc: 'https://goldminertom.h5games.usercontent.goog/v/5l8d724in1pco/'
 thumbnail: /new-images/thumbnails/gold-miner-tom.png
+urlstr: gold-miner-tom
 tags:
   - action
   - casual

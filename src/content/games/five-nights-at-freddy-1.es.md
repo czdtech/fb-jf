@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: five-nights-at-freddy-1
 title: Five Nights at Freddy's 1 (FNAF 1)
+seoTitle: Juega a Five Nights at Freddy's 1 (FNAF 1) en línea gratis | FiddleBops
 description: >-
   Terror de supervivencia en una pizzería: vigila las cámaras, administra la
   energía y cierra puertas y luces a tiempo para mantener fuera a los
   animatrónicos durante cinco noches (y más allá).
 iframeSrc: 'https://ubg77.github.io/fix/fnaf1/'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-1.jpg
+urlstr: five-nights-at-freddy-1
 tags:
   - horror
   - strategy

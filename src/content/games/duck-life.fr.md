@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: duck-life
 title: Duck Life
+seoTitle: Jouez à Duck Life en ligne gratuitement | FiddleBops
 description: "Duck Life est un jeu d’entraînement et de course\_: améliore ton canard via des mini‑jeux et gagne des courses."
 iframeSrc: 'https://games.wixgames.co.uk/games/ducklife1/webgl/'
 thumbnail: /new-images/thumbnails/duck-life.jpg
+urlstr: duck-life
 tags:
   - racing
   - simulation

@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Quest Bingo"
-description: "Go on a Bingo adventure! Daub your way through exciting levels, complete quests, use powerful boosters, and collect puzzle pieces in this modern twist on the classic game."
-iframeSrc: "https://52nk212336l1g.h5games.usercontent.goog/v/0smbj5p2kjk78/"
+title: Quest Bingo
+seoTitle: Play Quest Bingo Online Free | FiddleBops
+description: >-
+  Go on a Bingo adventure! Daub your way through exciting levels, complete
+  quests, use powerful boosters, and collect puzzle pieces in this modern twist
+  on the classic game.
+iframeSrc: 'https://52nk212336l1g.h5games.usercontent.goog/v/0smbj5p2kjk78/'
 thumbnail: /new-images/thumbnails/quest-bingo.png
-urlstr: "quest-bingo"
-score: "4.5/5  (2550 votes)"
-tags: ["card", "puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: quest-bingo
+tags:
+  - card
+  - puzzle
+  - casual
+score: 4.5/5  (2550 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

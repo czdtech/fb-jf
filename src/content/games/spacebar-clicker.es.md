@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: spacebar-clicker
 title: Spacebar Clicker
+seoTitle: Juega a Spacebar Clicker en línea gratis | FiddleBops
 description: >-
   Pon a prueba tu velocidad de pulsación con Spacebar Clicker, un adictivo juego
   incremental. Pulsa la barra espaciadora para ganar puntos y úsalos para
@@ -9,6 +9,7 @@ description: >-
   hasta dónde puedes llegar en este sencillo pero absorbente clicker.
 iframeSrc: 'https://spacebarclicker.co/game/spacebar-counter/'
 thumbnail: /new-images/thumbnails/spacebar-clicker.jpg
+urlstr: spacebar-clicker
 tags:
   - clicker
   - idle

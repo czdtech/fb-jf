@@ -1,15 +1,17 @@
 ---
 locale: fr
-urlstr: cowboys-vs-aliens
 title: Cowboys vs Aliens
+seoTitle: Jouez à Cowboys vs Aliens en ligne gratuitement | FiddleBops
 description: "Cowboys vs Aliens mélange western et science‑fiction\_: défends ta ville avec ton revolver, vise vite et élimine les envahisseurs venus de l’espace."
-iframeSrc: 'https://app-183000.games.s3.yandex.net/183000/ej1ob1cdiuv0fq3vw88l1k7pakdngmk7/index.html'
+iframeSrc: >-
+  https://app-183000.games.s3.yandex.net/183000/ej1ob1cdiuv0fq3vw88l1k7pakdngmk7/index.html
 thumbnail: /new-images/thumbnails/cowboys-vs-aliens.jpg
+urlstr: cowboys-vs-aliens
 tags:
   - action
   - shooting
 score: 3.7/5  (1185 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

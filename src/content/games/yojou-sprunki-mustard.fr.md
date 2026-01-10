@@ -1,16 +1,17 @@
 ---
 locale: fr
-urlstr: yojou-sprunki-mustard
 title: Yojou Sprunki Mustard
+seoTitle: Jouez à Yojou Sprunki Mustard en ligne gratuitement | FiddleBops
 description: >-
   Yojou Sprunki Mustard est un mod parodique qui subvertit le monde Sprunki :
   tous les personnages sont envahis par une mystérieuse sauce moutarde jaune.
 iframeSrc: 'https://turbowarp.org/1153723334/embed'
 thumbnail: /new-images/thumbnails/yojou-sprunki-mustard.png
+urlstr: yojou-sprunki-mustard
 tags:
   - yojou sprunki mustard
 score: 4.5/5  (322 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

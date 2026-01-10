@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: bloons-td-4
 title: Bloons TD 4
+seoTitle: Spiele Bloons TD 4 kostenlos online | FiddleBops
 description: >-
   Tauche in Bloons TD 4 ein – mit verzweigten Upgrade‑Pfaden, neuen Türmen und
   dem mächtigen BFB‑Blimp. Steigere deinen Rang, schalte Inhalte frei und baue
   eine flexible Verteidigung gegen jede Bloon‑Art.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-4.html'
 thumbnail: /new-images/thumbnails/bloons-td-4.jpg
+urlstr: bloons-td-4
 tags:
   - casual
   - strategy

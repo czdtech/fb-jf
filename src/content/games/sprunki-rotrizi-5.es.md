@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: sprunki-rotrizi-5
-title: Sprunki Rotrizi 5.0 - Juega a Sprunki Rotrizi 5.0 online
+title: Sprunki Rotrizi 5.0
+seoTitle: Juega a Sprunki Rotrizi 5.0 en línea gratis | FiddleBops
 description: >-
   Sprunki Rotrizi 5.0 es una experiencia gratuita de mezcla musical que te deja
   desatar tu creatividad y crear beats electrizantes, destacando entre los mods
@@ -9,10 +9,11 @@ description: >-
   envolventes.
 iframeSrc: 'https://turbowarp.org/1126764795/embed'
 thumbnail: /new-images/thumbnails/sprunki-rotrizi-5.png
+urlstr: sprunki-rotrizi-5
 tags:
   - sprunki rotrizi 5.0
 score: 4.0/5  (232 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

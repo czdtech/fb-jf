@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: powerwall
 title: Powerwall
+seoTitle: 免费在线玩 Powerwall | FiddleBops
 description: 在快节奏街机游戏 Powerwall 中守护你的球门。使用能量屏障拦截来球，展现你的反应速度和时机把握能力。
 iframeSrc: 'https://powerwall2.h5games.usercontent.goog/v/2744b7jm5t0jg/'
 thumbnail: /new-images/thumbnails/powerwall.png
+urlstr: powerwall
 tags:
   - action
   - sports

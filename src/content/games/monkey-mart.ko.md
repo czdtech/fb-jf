@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: monkey-mart
 title: Monkey Mart 몽키 마트
+seoTitle: Monkey Mart 몽키 마트 무료 온라인 플레이 | FiddleBops
 description: >-
   Monkey Mart는 귀여운 원숭이 점장과 직원들이 운영하는 슈퍼마켓을 관리하는 시뮬레이션 게임으로, 농작물을 수확하고 상품을 진열하며
   손님을 응대해 가게를 키워 나갑니다.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/gamehwq/20221216/09/index.htm
 thumbnail: /new-images/thumbnails/monkey-mart.jpg
+urlstr: monkey-mart
 tags:
   - simulation
   - management

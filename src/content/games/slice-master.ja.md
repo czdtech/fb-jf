@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Slice Master
+seoTitle: 無料でSlice Masterをオンラインでプレイ | FiddleBops
 description: Slice Masterはスライシングアクションゲームです。果物を切って得点し、爆弾を避けながらコンボをつなぎます。
 iframeSrc: 'https://bitlifeonline.github.io/slice-master/'
 thumbnail: /new-images/thumbnails/slice-master.jpg
 urlstr: slice-master
-score: 4.3/5  (480 votes)
 tags:
   - action
   - casual
+score: 4.3/5  (480 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

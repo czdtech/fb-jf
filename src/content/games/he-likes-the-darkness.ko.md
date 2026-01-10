@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: he-likes-the-darkness
 title: He Likes The Darkness 어둠을 좋아하는 소년
+seoTitle: He Likes The Darkness 어둠을 좋아하는 소년 무료 온라인 플레이 | FiddleBops
 description: >-
   어두운 실루엣 속을 달리며 빛나는 오브를 모으는 미니멀 플랫포머입니다. 시야가 제한된 스테이지에서 점프 타이밍과 함정 패턴을 읽어, 위험을
   피해 골인 지점까지 도달하세요.
 iframeSrc: 'https://77gr97nn0bej0.h5games.usercontent.goog/v/0emki8kk9qofo/'
 thumbnail: /new-images/thumbnails/he-likes-the-darkness.png
+urlstr: he-likes-the-darkness
 tags:
   - action
   - puzzle

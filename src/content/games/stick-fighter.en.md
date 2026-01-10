@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Stick Fighter"
-description: "Become a master of stickman combat in Stick Fighter! This action-packed brawler pits you against other stick figures in a physics-based arena. Use your fists, feet, and a variety of weapons to be the last one standing."
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221209/4/index.html"
+title: Stick Fighter
+seoTitle: Play Stick Fighter Online Free | FiddleBops
+description: >-
+  Become a master of stickman combat in Stick Fighter! This action-packed
+  brawler pits you against other stick figures in a physics-based arena. Use
+  your fists, feet, and a variety of weapons to be the last one standing.
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221209/4/index.html
 thumbnail: /new-images/thumbnails/stick-fighter.jpg
-urlstr: "stick-fighter"
-score: "3.6/5  (1444 votes)"
-tags: ["fighting", "action", "stickman"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: stick-fighter
+tags:
+  - fighting
+  - action
+  - stickman
+score: 3.6/5  (1444 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

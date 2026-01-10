@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: totemia-cursed-marbles
 title: 'Totemia: Cursed Marbles'
+seoTitle: 'Spiele Totemia: Cursed Marbles kostenlos online | FiddleBops'
 description: >-
   Totemia: Cursed Marbles ist ein klassischer Marble‑Shooter im Stil von Zuma:
   Schieße farbige Kugeln aus deinem Tiki‑Stein, bilde Dreier‑Kombos und zerstöre
   die Kugelkette, bevor sie das Ziel erreicht.
 iframeSrc: 'https://totemiacursed.h5games.usercontent.goog/v/2hs7lfvsisr48/'
 thumbnail: /new-images/thumbnails/totemia-cursed-marbles.png
+urlstr: totemia-cursed-marbles
 tags:
   - shooting
   - puzzle

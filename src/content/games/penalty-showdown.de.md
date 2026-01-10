@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: penalty-showdown
-title: "Penalty Showdown"
+title: Penalty Showdown
+seoTitle: Spiele Penalty Showdown kostenlos online | FiddleBops
 description: >-
   Penalty Showdown ist ein nervenaufreibendes Elfmeterschießen: Wähle Ecken,
   variiere die Schusshöhe und lese als Schütze oder Keeper dein Gegenüber, um
   das Duell vom Punkt zu gewinnen.
 iframeSrc: 'https://58r8ibinmpjeg.h5games.usercontent.goog/v/2m3pjv3her9fg/'
 thumbnail: /new-images/thumbnails/penalty-showdown.jpg
+urlstr: penalty-showdown
 tags:
   - sports
   - soccer

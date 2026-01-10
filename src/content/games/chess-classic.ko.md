@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: chess-classic
 title: Chess Classic 체스 클래식
+seoTitle: Chess Classic 체스 클래식 무료 온라인 플레이 | FiddleBops
 description: >-
   Chess Classic은 브라우저에서 즐기는 정통 체스 게임입니다. 난이도를 조절해 컴퓨터와 대국하며, 기물 운용과 전술을 연습하고
   체크메이트 실력을 기를 수 있습니다.
 iframeSrc: 'https://chessclassic.h5games.usercontent.goog/v/7hf0vulane380/'
 thumbnail: /new-images/thumbnails/chess-classic.png
+urlstr: chess-classic
 tags:
   - thinky
   - 2 player

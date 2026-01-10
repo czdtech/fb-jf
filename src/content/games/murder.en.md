@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Murder"
-description: "Murder is a suspenseful social deduction game where one player secretly acts as the murderer, aiming to eliminate others without being discovered, while other players try to identify and stop them."
-iframeSrc: "https://ubg77.github.io/fix/murder/"
+title: Murder
+seoTitle: Play Murder Online Free | FiddleBops
+description: >-
+  Murder is a suspenseful social deduction game where one player secretly acts
+  as the murderer, aiming to eliminate others without being discovered, while
+  other players try to identify and stop them.
+iframeSrc: 'https://ubg77.github.io/fix/murder/'
 thumbnail: /new-images/thumbnails/murder.jpg
-urlstr: "murder"
-score: "4.0/5  (1485 votes)"
-tags: ["social deduction", "strategy", "party"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: murder
+tags:
+  - social deduction
+  - strategy
+  - party
+score: 4.0/5  (1485 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

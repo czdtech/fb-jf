@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Iron Snout"
-description: "Kung‑fu pig brawler: parry wolves, juggle with kicks, and throw back weapons to survive waves and set high scores." 
-iframeSrc: "https://webglmath.github.io/iron-snout/"
+title: Iron Snout
+seoTitle: Play Iron Snout Online Free | FiddleBops
+description: >-
+  Kung‑fu pig brawler: parry wolves, juggle with kicks, and throw back weapons
+  to survive waves and set high scores.
+iframeSrc: 'https://webglmath.github.io/iron-snout/'
 thumbnail: /new-images/thumbnails/iron-snout.jpg
-urlstr: "iron-snout"
-score: "4.3/5  (842 votes)"
-tags: ["fighting", "arcade"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: iron-snout
+tags:
+  - fighting
+  - arcade
+score: 4.3/5  (842 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Bloons TD 3 ブルーンズTD 3
+seoTitle: 無料でBloons TD 3 ブルーンズTD 3をオンラインでプレイ | FiddleBops
 description: >-
   「Bloons TD
   3」でシリーズは大きく飛躍！新マップ8種、スパイク・オー・パルトなどの新タワー、そしてシリーズの顔「MOAB」が初登場。戦略の幅が広がった名作TD。
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-3.html'
 thumbnail: /new-images/thumbnails/bloons-td-3.jpg
 urlstr: bloons-td-3
-score: 4.9/5  (538 votes)
 tags:
   - casual
   - strategy
+score: 4.9/5  (538 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Thruline"
-description: "Thruline is a clean connect‑the‑network — draw a single continuous line through nodes to satisfy turn/coverage constraints."
-iframeSrc: "https://4bl9sdeaqndto.h5games.usercontent.goog/v/4qierjmnf0kng/"
+title: Thruline
+seoTitle: Play Thruline Online Free | FiddleBops
+description: >-
+  Thruline is a clean connect‑the‑network — draw a single continuous line
+  through nodes to satisfy turn/coverage constraints.
+iframeSrc: 'https://4bl9sdeaqndto.h5games.usercontent.goog/v/4qierjmnf0kng/'
 thumbnail: /new-images/thumbnails/thruline.jpg
-urlstr: "thruline"
-score: "4.1/5  (1983 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: thruline
+tags:
+  - puzzle
+  - thinky
+score: 4.1/5  (1983 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

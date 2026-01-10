@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: google-solitaire
 title: Google Solitaire
+seoTitle: Jouez à Google Solitaire en ligne gratuitement | FiddleBops
 description: >-
   Solitaire Klondike classique : déplace les cartes pour construire les
   fondations par couleur de l'As au Roi, en utilisant des colonnes qui alternent
   les couleurs.
 iframeSrc: 'https://www.google.com/logos/fnbx/solitaire/standalone.html'
 thumbnail: /new-images/thumbnails/google-solitaire.jpg
+urlstr: google-solitaire
 tags:
   - solitaire
   - card

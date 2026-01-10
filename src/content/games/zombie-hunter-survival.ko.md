@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: zombie-hunter-survival
 title: 'Zombie Hunter: Survival 좀비 헌터: 서바이벌'
+seoTitle: 'Zombie Hunter: Survival 좀비 헌터: 서바이벌 무료 온라인 플레이 | FiddleBops'
 description: >-
   탑다운 시점에서 몰려오는 좀비 무리를 상대하는 생존 슈팅 게임입니다. 넓게 유인(kiting)해 탄약을 아끼고, 재장전 타이밍과 이동 경로를
   계산해 끝없이 이어지는 웨이브를 버텨 보세요.
 iframeSrc: 'https://6ctmcm40nbff0.h5games.usercontent.goog/v/2a81mr3h8ut10/'
 thumbnail: /new-images/thumbnails/zombie-hunter-survival.png
+urlstr: zombie-hunter-survival
 tags:
   - shooting
   - horror

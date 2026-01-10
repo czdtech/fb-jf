@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: slope-2
 title: Slope 2
+seoTitle: Juega a Slope 2 en línea gratis | FiddleBops
 description: >-
   Slope 2 es la secuela del popular endless runner en el que controlas una bola
   que baja por una pendiente pronunciada, esquivando obstáculos y bloques rojos
@@ -9,6 +9,7 @@ description: >-
   velocidad.
 iframeSrc: 'https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slope-2/index.html'
 thumbnail: /new-images/thumbnails/slope-2.jpg
+urlstr: slope-2
 tags:
   - endless runner
   - ball

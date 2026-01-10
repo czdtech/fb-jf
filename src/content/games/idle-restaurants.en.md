@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Idle Restaurants"
-description: "Build your own restaurant empire in this addictive idle game! Hire chefs, upgrade your kitchen and tables, and automate your business to become a culinary tycoon."
-iframeSrc: "https://idlerestaurants.h5games.usercontent.goog/v/4ut41titp1kvg/"
+title: Idle Restaurants
+seoTitle: Play Idle Restaurants Online Free | FiddleBops
+description: >-
+  Build your own restaurant empire in this addictive idle game! Hire chefs,
+  upgrade your kitchen and tables, and automate your business to become a
+  culinary tycoon.
+iframeSrc: 'https://idlerestaurants.h5games.usercontent.goog/v/4ut41titp1kvg/'
 thumbnail: /new-images/thumbnails/idle-restaurants.png
-urlstr: "idle-restaurants"
-score: "4.4/5  (2500 votes)"
-tags: ["casual", "clicker", "strategy"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: idle-restaurants
+tags:
+  - casual
+  - clicker
+  - strategy
+score: 4.4/5  (2500 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

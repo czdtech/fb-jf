@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: text-twist
 title: 《Text Twist》英文拼词挑战
+seoTitle: 免费在线玩 《Text Twist》英文拼词挑战 | FiddleBops
 description: 《Text Twist》是一款经典的英文单词拼写游戏。根据给出的一组字母，在限定时间内尽量拼出更多合法单词，并找出使用全部字母的关键单词以进入下一轮。
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/t/text-twist/v010/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref=
 thumbnail: /new-images/thumbnails/text-twist.jpg
+urlstr: text-twist
 tags:
   - word-game
   - puzzle

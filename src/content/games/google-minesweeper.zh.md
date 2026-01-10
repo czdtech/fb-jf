@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: google-minesweeper
 title: Google Minesweeper 谷歌扫雷
+seoTitle: 免费在线玩 Google Minesweeper 谷歌扫雷 | FiddleBops
 description: 经典逻辑谜题：根据格子上的数字线索推理安全区与地雷位置， 在不引爆任何地雷的前提下清空整个棋盘。
 iframeSrc: 'https://www.minesweepergoogle.com/gameapp.html'
 thumbnail: /new-images/thumbnails/google-minesweeper.jpg
+urlstr: google-minesweeper
 tags:
   - puzzle
   - logic

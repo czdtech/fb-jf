@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "G-Switch 3"
-description: "High‑speed gravity runner with new traps and robust local multiplayer modes that test timing and consistency." 
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221121/2/index.html"
+title: G-Switch 3
+seoTitle: Play G-Switch 3 Online Free | FiddleBops
+description: >-
+  High‑speed gravity runner with new traps and robust local multiplayer modes
+  that test timing and consistency.
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221121/2/index.html
 thumbnail: /new-images/thumbnails/g-switch-3.jpg
-urlstr: "g-switch-3"
-score: "4.7/5  (801 votes)"
-tags: ["runner", "platformer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: g-switch-3
+tags:
+  - runner
+  - platformer
+score: 4.7/5  (801 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

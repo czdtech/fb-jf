@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: incredibox-fruity
 title: Incredibox Fruity
+seoTitle: Juega a Incredibox Fruity en línea gratis | FiddleBops
 description: >-
   Descubre la guía definitiva de Incredibox Fruity, el clásico juego de
   estrategia 2D. Aprende tácticas ganadoras, controles y trucos para hacer
@@ -9,6 +9,7 @@ description: >-
   dominar el campo de batalla.
 iframeSrc: 'https://turbowarp.org/414716080/embed'
 thumbnail: /new-images/thumbnails/incredibox-fruity.jpg
+urlstr: incredibox-fruity
 tags:
   - strategy
   - action

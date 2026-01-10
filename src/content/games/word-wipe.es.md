@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: word-wipe
-title: Word Wipe - Limpia el tablero con palabras
+title: Word Wipe
+seoTitle: Juega a Word Wipe en línea gratis | FiddleBops
 description: >-
   Limpia el tablero usando tu vocabulario en Word Wipe, un puzle de palabras
   rápido y adictivo. Conecta letras en cualquier dirección para formar términos,
@@ -9,6 +9,7 @@ description: >-
   para despejar filas y lograr una gran puntuación.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-word-wipe/'
 thumbnail: /new-images/thumbnails/word-wipe.jpg
+urlstr: word-wipe
 tags:
   - word-game
   - puzzle

@@ -1,19 +1,24 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Grow a Garden"
-description: "Discover the relaxing world of gardening games with our comprehensive guide. Learn the core gameplay of planting, growing, and harvesting, plus get tips and strategies to create your dream garden." 
-iframeSrc: "https://growden.io/"
+title: Grow a Garden
+seoTitle: Play Grow a Garden Online Free | FiddleBops
+description: >-
+  Discover the relaxing world of gardening games with our comprehensive guide.
+  Learn the core gameplay of planting, growing, and harvesting, plus get tips
+  and strategies to create your dream garden.
+iframeSrc: 'https://growden.io/'
 thumbnail: /new-images/thumbnails/grow-a-garden.jpeg
-urlstr: "grow-a-garden"
+urlstr: grow-a-garden
+tags:
+  - simulation
+  - casual
 featured: true
 featuredRank: 3
 sidebarNew: 3
 sidebarPopular: 4
-score: "4.9/5  (5065 votes)"
-tags: ["simulation", "casual"]
-developer: ""
-releaseDate: 2025-08-16
+score: 4.9/5  (5065 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

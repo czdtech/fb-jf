@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: breaking-the-bank
 title: Breaking the Bank
+seoTitle: Juega a Breaking the Bank en línea gratis | FiddleBops
 description: >-
   Intenta un atrevido atraco bancario en Breaking the Bank, la primera aventura
   de Henry Stickmin. Elige tu método y disfruta de desenlaces desternillantes,
   pero recuerda: solo un camino lleva al éxito.
 iframeSrc: 'https://rebemanae.github.io/breaking-the-bank/'
 thumbnail: /new-images/thumbnails/breaking-the-bank.jpg
+urlstr: breaking-the-bank
 tags:
   - puzzle
   - adventure

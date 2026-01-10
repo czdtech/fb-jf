@@ -1,14 +1,15 @@
 ---
-locale: "zh"
-urlstr: "sprunki-police-and-prisoners"
-
-title: "Sprunki Police And Prisoners - 在线玩 Sprunki Police And Prisoners"
-description: "Sprunki Police and Prisoners Mod 是对著名 Incredibox Sprunki 现实的一次引人入胜且创新的修改。"
-iframeSrc: "https://turbowarp.org/1113493234/embed"
+locale: zh
+title: Sprunki Police And Prisoners
+seoTitle: 免费在线玩 Sprunki Police And Prisoners | FiddleBops
+description: Sprunki Police and Prisoners Mod 是对著名 Incredibox Sprunki 现实的一次引人入胜且创新的修改。
+iframeSrc: 'https://turbowarp.org/1113493234/embed'
 thumbnail: /new-images/thumbnails/sprunki-police-and-prisoners.png
-score: "3.9/5  (325 votes)"
-tags: ["sprunki police and prisoners"]
-releaseDate: 2025-12-04
+urlstr: sprunki-police-and-prisoners
+tags:
+  - sprunki police and prisoners
+score: 3.9/5  (325 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### 什么是 Sprunki Police and Prisoners Mod？

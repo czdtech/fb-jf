@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: stick-fight
 title: Stick Fight
+seoTitle: Jouez à Stick Fight en ligne gratuitement | FiddleBops
 description: >-
   Entre dans l’arène chaotique de Stick Fight, un brawler basé sur la physique
   où tu affrontes d’autres bonshommes bâtons pour être le dernier debout.
 iframeSrc: 'https://ext.minijuegosgratis.com/stick-fighter-2/index.html'
 thumbnail: /new-images/thumbnails/stick-fight.jpg
+urlstr: stick-fight
 tags:
   - fighting
   - action

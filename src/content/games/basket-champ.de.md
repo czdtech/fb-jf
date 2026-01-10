@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: basket-champ
 title: Basket Champ
+seoTitle: Spiele Basket Champ kostenlos online | FiddleBops
 description: >-
   Basket Champ ist eine Ein‑Tasten‑Korbjagd. Stelle Bogen und Stärke deiner
   Würfe ein, triff saubere Swishes und halte deine Treffer‑Serie am Laufen.
 iframeSrc: 'https://0outkmbudufj8.h5games.usercontent.goog/v/1stcrgq2b9d08/'
 thumbnail: /new-images/thumbnails/basket-champ.png
+urlstr: basket-champ
 tags:
   - sports
   - basketball

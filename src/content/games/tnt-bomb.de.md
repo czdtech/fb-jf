@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: tnt-bomb
 title: TNT Bomb
+seoTitle: Spiele TNT Bomb kostenlos online | FiddleBops
 description: >-
   TNT Bomb ist ein physikbasiertes Abriss‑Puzzle: Platziere deine begrenzten
   Sprengladungen clever, sprenge tragende Strukturen weg und lege jedes Gebäude
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://tntbomb.h5games.usercontent.goog/v/78fb3628-2b9a-4ddc-86ef-7c46021357a2/
 thumbnail: /new-images/thumbnails/tnt-bomb.jpg
+urlstr: tnt-bomb
 tags:
   - puzzle
   - action

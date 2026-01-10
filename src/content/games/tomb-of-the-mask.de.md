@@ -1,10 +1,14 @@
 ---
 locale: de
-urlstr: tomb-of-the-mask
-title: "Tomb of the Mask"
-description: "Rase durch gefährliche Labyrinthe in Tomb of the Mask: Wische dich von Wand zu Wand, sammle Münzen und Power‑ups und entkomme der aufsteigenden Flut, bevor sie dich erwischt."
+title: Tomb of the Mask
+seoTitle: Spiele Tomb of the Mask kostenlos online | FiddleBops
+description: >-
+  Rase durch gefährliche Labyrinthe in Tomb of the Mask: Wische dich von Wand zu
+  Wand, sammle Münzen und Power‑ups und entkomme der aufsteigenden Flut, bevor
+  sie dich erwischt.
 iframeSrc: 'https://w8.snokido.com/games/unity-webgl/tomb-run/index.html'
 thumbnail: /new-images/thumbnails/tomb-of-the-mask.jpg
+urlstr: tomb-of-the-mask
 tags:
   - arcade
   - maze

@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "House Flip"
-description: "House Flip gamifies renovation — inspect, budget upgrades, and flip properties by fixing layout, style, and curb appeal."
-iframeSrc: "https://45g7qkftithd0.h5games.usercontent.goog/v/7691fk060s8pg/"
+title: House Flip
+seoTitle: Play House Flip Online Free | FiddleBops
+description: >-
+  House Flip gamifies renovation — inspect, budget upgrades, and flip properties
+  by fixing layout, style, and curb appeal.
+iframeSrc: 'https://45g7qkftithd0.h5games.usercontent.goog/v/7691fk060s8pg/'
 thumbnail: /new-images/thumbnails/house-flip.png
-urlstr: "house-flip"
-score: "4.0/5  (1861 votes)"
-tags: ["puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: house-flip
+tags:
+  - puzzle
+  - casual
+score: 4.0/5  (1861 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

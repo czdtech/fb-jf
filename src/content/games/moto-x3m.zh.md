@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: moto-x3m
 title: 《Moto X3M》特技摩托极限赛
+seoTitle: 免费在线玩 《Moto X3M》特技摩托极限赛 | FiddleBops
 description: 《Moto X3M》是一款刺激的摩托特技竞速游戏，你需要驾驶摩托在布满陷阱、跳台与爆炸机关的赛道上飞跃、翻转、冲线，用最快速度完成关卡并刷出高分。
 iframeSrc: 'https://webglmath.github.io/moto-x3m/'
 thumbnail: /new-images/thumbnails/moto-x3m.jpg
+urlstr: moto-x3m
 tags:
   - racing
   - stunt

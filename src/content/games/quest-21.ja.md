@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Quest 21
+seoTitle: 無料でQuest 21をオンラインでプレイ | FiddleBops
 description: Quest 21はカード戦略ゲームです。21を目指し、バストを避け、対戦相手を打ち負かし、カードマスターになります。
 iframeSrc: 'https://7h2pln0tgo8q0.h5games.usercontent.goog/v/004k30od8uvog/'
 thumbnail: /new-images/thumbnails/quest-21.png
 urlstr: quest-21
-score: 4.5/5  (2700 votes)
 tags:
   - card
   - thinky
   - casual
+score: 4.5/5  (2700 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

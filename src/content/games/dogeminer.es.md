@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: dogeminer
 title: DogeMiner
+seoTitle: Juega a DogeMiner en línea gratis | FiddleBops
 description: >-
   DogeMiner es un idle clicker: mina monedas, compra mejoras y ayudantes y
   automatiza la producción para ganar cada vez más rápido.
 iframeSrc: 'https://edufall.github.io/o16/doge-miner/'
 thumbnail: /new-images/thumbnails/dogeminer.jpg
+urlstr: dogeminer
 tags:
   - idle
   - clicker

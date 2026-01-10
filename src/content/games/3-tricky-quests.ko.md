@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: 3-tricky-quests
 title: 'Brain Test 3: Tricky Quests 브레인 테스트 3: 트리키 퀘스트'
+seoTitle: 'Brain Test 3: Tricky Quests 브레인 테스트 3: 트리키 퀘스트 무료 온라인 플레이 | FiddleBops'
 description: >-
-  기발한 퍼즐과 모험 요소가 결합된 Brain Test 3: Tricky Quests입니다.
-  아이템을 모으고 사용하며 아버지를 구하기 위한 Alyx의 여정을 따라가 보세요.
+  기발한 퍼즐과 모험 요소가 결합된 Brain Test 3: Tricky Quests입니다. 아이템을 모으고 사용하며 아버지를 구하기 위한
+  Alyx의 여정을 따라가 보세요.
 iframeSrc: 'https://bitlifeonline.github.io/brain-test-3-tricky-quests/'
 thumbnail: /new-images/thumbnails/3-tricky-quests.jpg
+urlstr: 3-tricky-quests
 tags:
   - casual
   - rhythm

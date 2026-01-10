@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: moto-x3m
 title: Moto X3M
+seoTitle: Spiele Moto X3M kostenlos online | FiddleBops
 description: >-
   Moto X3M ist ein rasantes und anspruchsvolles Motorrad-Stuntspiel: Flitze über
   gefährliche Strecken mit Rampen, Fallen und Explosionen und zeige waghalsige
   Tricks.
 iframeSrc: 'https://webglmath.github.io/moto-x3m/'
 thumbnail: /new-images/thumbnails/moto-x3m.jpg
+urlstr: moto-x3m
 tags:
   - racing
   - stunt

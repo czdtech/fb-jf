@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Bad Ice Cream 2 バッド・アイスクリーム2
+seoTitle: 無料でBad Ice Cream 2 バッド・アイスクリーム2をオンラインでプレイ | FiddleBops
 description: 「Bad Ice-Cream 2」の氷の迷宮を極めよう！敵を凍らせて閉じ込め、すべてのフルーツを集めるための必勝法、操作ガイド、ヒントを紹介。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x6/index.html
 thumbnail: /new-images/thumbnails/bad-ice-cream-2.jpg
 urlstr: bad-ice-cream-2
-score: 3.9/5  (1035 votes)
 tags:
   - puzzle
   - action
+score: 3.9/5  (1035 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

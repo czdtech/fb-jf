@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: cannon-balls-3d
 title: Cannon Balls 3D 炮弹拆塔 3D
+seoTitle: 免费在线玩 Cannon Balls 3D 炮弹拆塔 3D | FiddleBops
 description: 《Cannon Balls 3D 炮弹拆塔 3D》中，你要用有限的炮弹瞄准并摧毁各种立体塔楼结构，利用物理碰撞与连锁倒塌效果 完成关卡。
 iframeSrc: 'https://cannonballs3d.h5games.usercontent.goog/v/004m7ejm69rs0/'
 thumbnail: /new-images/thumbnails/cannon-balls-3d.png
+urlstr: cannon-balls-3d
 tags:
   - puzzle
   - casual

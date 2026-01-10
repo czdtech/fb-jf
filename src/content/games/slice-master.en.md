@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Slice Master"
-description: "Slice Master is a satisfying physics-based game where players control a knife to slice through various objects, aiming for perfect cuts and collecting rewards while navigating through challenging obstacle courses."
-iframeSrc: "https://bitlifeonline.github.io/slice-master/"
+title: Slice Master
+seoTitle: Play Slice Master Online Free | FiddleBops
+description: >-
+  Slice Master is a satisfying physics-based game where players control a knife
+  to slice through various objects, aiming for perfect cuts and collecting
+  rewards while navigating through challenging obstacle courses.
+iframeSrc: 'https://bitlifeonline.github.io/slice-master/'
 thumbnail: /new-images/thumbnails/slice-master.jpg
-urlstr: "slice-master"
-score: "4.3/5  (480 votes)"
-tags: ["physics", "action", "slicing"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: slice-master
+tags:
+  - physics
+  - action
+  - slicing
+score: 4.3/5  (480 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

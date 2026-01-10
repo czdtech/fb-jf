@@ -1,17 +1,18 @@
 ---
 locale: es
-urlstr: sprunki-phase-2-5
-title: 'Sprunki Phase 2.5 - Juega a Sprunki Phase 2.5 en línea'
+title: Sprunki Phase 2.5
+seoTitle: Juega a Sprunki Phase 2.5 en línea gratis | FiddleBops
 description: >-
   Sprunki Phase 2.5 (JOKE MOD) es un experimento gamberro que convierte la
   clásica mezcla musical de Sprunki en una fiesta de bromas, sustos y giros
   inesperados.
 iframeSrc: 'https://html-classic.itch.zone/html/14324321/index.html'
 thumbnail: /new-images/thumbnails/sprunki-phase-2-5.png
+urlstr: sprunki-phase-2-5
 tags:
   - sprunki phase 2.5
 score: 4.3/5  (218 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

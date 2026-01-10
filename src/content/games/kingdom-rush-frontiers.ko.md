@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: kingdom-rush-frontiers
 title: Kingdom Rush Frontiers 킹덤 러시 프론티어
+seoTitle: Kingdom Rush Frontiers 킹덤 러시 프론티어 무료 온라인 플레이 | FiddleBops
 description: >-
   인기 타워 디펜스 'Kingdom Rush'의 후속작인 'Kingdom Rush Frontiers' 가이드입니다. 다양한 지형과 적 능력,
   특화 타워를 활용해 전선을 지키는 전략을 소개합니다.
 iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush-frontiers.html'
 thumbnail: /new-images/thumbnails/kingdom-rush-frontiers.jpg
+urlstr: kingdom-rush-frontiers
 tags:
   - tower-defense
   - strategy

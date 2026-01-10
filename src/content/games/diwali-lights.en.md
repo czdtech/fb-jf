@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Diwali Lights"
-description: "Diwali Lights is a festive tap‑puzzle — light diyas in patterns, avoid overlaps, and complete glowing designs."
-iframeSrc: "https://diwalilights.h5games.usercontent.goog/v/5cddqg9lrn3kg/"
+title: Diwali Lights
+seoTitle: Play Diwali Lights Online Free | FiddleBops
+description: >-
+  Diwali Lights is a festive tap‑puzzle — light diyas in patterns, avoid
+  overlaps, and complete glowing designs.
+iframeSrc: 'https://diwalilights.h5games.usercontent.goog/v/5cddqg9lrn3kg/'
 thumbnail: /new-images/thumbnails/diwali-lights.jpg
-urlstr: "diwali-lights"
-score: "4.1/5  (1835 votes)"
-tags: ["puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: diwali-lights
+tags:
+  - puzzle
+  - casual
+score: 4.1/5  (1835 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

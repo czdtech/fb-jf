@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Crash Bandicoot クラッシュ・バンディクー
+seoTitle: 無料でCrash Bandicoot クラッシュ・バンディクーをオンラインでプレイ | FiddleBops
 description: あの「クラッシュ・バンディクー」のファンメイド・ブラウザ版。走って、飛んで、スピンして、おなじみの木箱やリンゴを集めながらゴールを目指せ。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crash-bandicoot.html'
 thumbnail: /new-images/thumbnails/crash-bandicoot.jpg
 urlstr: crash-bandicoot
-score: 4.8/5  (820 votes)
 tags:
   - arcade
   - platformer
   - retro
+score: 4.8/5  (820 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

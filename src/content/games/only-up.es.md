@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: only-up
-title: Only Up - Escalada 3D extrema
+title: Only Up
+seoTitle: Juega a Only Up en línea gratis | FiddleBops
 description: >-
   Only Up es un exigente plataformas 3D en el que debes escalar con precisión un
   mundo caótico y precario, superando obstáculos y dominando saltos milimétricos
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230826/01/index.htm
 thumbnail: /new-images/thumbnails/only-up.jpg
+urlstr: only-up
 tags:
   - platformer
   - adventure

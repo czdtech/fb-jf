@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: incredibox-yaboo
-title: "Incredibox YaBoo"
+title: Incredibox YaBoo
+seoTitle: Juega a Incredibox YaBoo en línea gratis | FiddleBops
 description: >-
   Sumérgete en el mod fan-made "Incredibox YaBoo". Esta guía repasa su paleta
   sonora única, la jugabilidad de creación musical y cómo desbloquear sus
   bonificaciones temáticas.
 iframeSrc: 'https://turbowarp.org/1095206379/embed'
 thumbnail: /new-images/thumbnails/incredibox-yaboo.png
+urlstr: incredibox-yaboo
 tags:
   - music
   - rhythm

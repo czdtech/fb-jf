@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: snake-io
 title: Snake.io
+seoTitle: Spiele Snake.io kostenlos online | FiddleBops
 description: >-
   Spiele Snake.io, ein beliebtes Multiplayer-Actionspiel, das das klassische
   Snake-Prinzip modern interpretiert: Miss dich mit anderen Spielern, friss
@@ -9,6 +9,7 @@ description: >-
   die Arena zu dominieren.
 iframeSrc: 'https://snake.io/crazygames/'
 thumbnail: /new-images/thumbnails/snake-io.jpg
+urlstr: snake-io
 tags:
   - io-games
   - snake

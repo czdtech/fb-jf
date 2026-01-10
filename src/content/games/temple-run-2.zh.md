@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: temple-run-2
 title: 《Temple Run 2》神庙逃亡 2
+seoTitle: 免费在线玩 《Temple Run 2》神庙逃亡 2 | FiddleBops
 description: 《Temple Run 2》是一款经典的 3D 跑酷游戏。扮演探险者从诡异神庙中奔逃，躲避陷阱与障碍，收集金币与道具，一路甩开身后的怪物追击。
 iframeSrc: >-
   https://sxiao.4399.com/4399swf//upload_swf/ftp35/gamehwq/20210119/11/index.html
 thumbnail: /new-images/thumbnails/temple-run-2.jpg
+urlstr: temple-run-2
 tags:
   - running
   - action

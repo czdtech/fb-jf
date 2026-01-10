@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Pirates Match 3
+seoTitle: 無料でPirates Match 3をオンラインでプレイ | FiddleBops
 description: Pirates Match 3は海賊テーマのマッチ3パズルです。宝石をそろえて消し、パワーアップを作りながら目標達成を目指します。
 iframeSrc: >-
   https://piratesmatch3.h5games.usercontent.goog/v/fea2f25f-a39a-4273-93c1-38f8f9bd8260/
 thumbnail: /new-images/thumbnails/pirates-match-3.jpg
 urlstr: pirates-match-3
-score: 4.3/5  (2150 votes)
 tags:
   - puzzle
   - casual
+score: 4.3/5  (2150 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

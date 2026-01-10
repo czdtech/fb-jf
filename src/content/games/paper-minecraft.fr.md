@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: paper-minecraft
 title: Paper Minecraft
+seoTitle: Jouez à Paper Minecraft en ligne gratuitement | FiddleBops
 description: >-
   Paper Minecraft est une réinterprétation 2D de Minecraft, offrant un monde en
   défilement horizontal à explorer, où tu mines, craftes, construis et survis
   face aux monstres.
 iframeSrc: 'https://scratch.mit.edu/projects/10128407/embed'
 thumbnail: /new-images/thumbnails/paper-minecraft.jpg
+urlstr: paper-minecraft
 tags:
   - sandbox
   - crafting

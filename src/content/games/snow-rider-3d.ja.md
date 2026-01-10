@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Snow Rider 3D
+seoTitle: 無料でSnow Rider 3Dをオンラインでプレイ | FiddleBops
 description: Snow Rider 3Dは冬をテーマにしたアクションゲームです。そりで雪山を滑り降り、障害物を避けながらできるだけ遠くへ進みます。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231130/2/index.html
 thumbnail: /new-images/thumbnails/snow-rider-3d.jpg
 urlstr: snow-rider-3d
-score: 4.3/5  (1041 votes)
 tags:
   - action
   - 3d
   - winter
+score: 4.3/5  (1041 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

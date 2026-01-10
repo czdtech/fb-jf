@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: fruit-chopper
 title: Fruit Chopper
+seoTitle: Jouez à Fruit Chopper en ligne gratuitement | FiddleBops
 description: >-
   Aiguise tes lames dans Fruit Chopper : tranche une pluie de fruits volants
   tout en évitant les bombes. Jusqu'où iras‑tu en score ?
 iframeSrc: 'https://1cgb9ogmd6780.h5games.usercontent.goog/v/37g4pe88slmfo/'
 thumbnail: /new-images/thumbnails/fruit-chopper.png
+urlstr: fruit-chopper
 tags:
   - action
   - casual

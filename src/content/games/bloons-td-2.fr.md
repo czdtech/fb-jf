@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: bloons-td-2
 title: Bloons TD 2
+seoTitle: Jouez à Bloons TD 2 en ligne gratuitement | FiddleBops
 description: >-
   Dans Bloons TD 2, place et améliore 5 tours singes différentes pour éclater 50
   vagues de bloons, tout en gérant les immunités des bloons noirs et blancs.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-2.html'
 thumbnail: /new-images/thumbnails/bloons-td-2.jpg
+urlstr: bloons-td-2
 tags:
   - casual
   - strategy

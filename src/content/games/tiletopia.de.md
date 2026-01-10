@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: tiletopia
 title: Tiletopia
+seoTitle: Spiele Tiletopia kostenlos online | FiddleBops
 description: >-
   Baue in Tiletopia deine eigene Mini‑Welt: Platziere Hex‑Kacheln, verbinde
   Wälder, Felder und Dörfer, erfülle Aufträge und erschaffe eine stimmige
   Landschaft Kachel für Kachel.
 iframeSrc: 'https://6nilllqpgkm6o.h5games.usercontent.goog/v/7d3689i7s5gfo/'
 thumbnail: /new-images/thumbnails/tiletopia.png
+urlstr: tiletopia
 tags:
   - puzzle
   - strategy

@@ -1,15 +1,15 @@
 ---
-title: Sprunki Phase 8 - Play Sprunki Phase 8 Online
-description: >-
-  Sprunki Phase 8は、音楽制作にホラー系の演出を加えたModです。暗めの雰囲気のサウンドと演出でトラックを作れます。
+locale: ja
+title: Sprunki Phase 8
+seoTitle: 無料でSprunki Phase 8をオンラインでプレイ | FiddleBops
+description: Sprunki Phase 8は、音楽制作にホラー系の演出を加えたModです。暗めの雰囲気のサウンドと演出でトラックを作れます。
 iframeSrc: 'https://turbowarp.org/1140266189/embed'
 thumbnail: /new-images/thumbnails/sprunki-phase-8.png
 urlstr: sprunki-phase-8
-score: 4.2/5  (396 votes)
 tags:
   - sprunki phase 8
-locale: ja
-releaseDate: 2025-12-04
+score: 4.2/5  (396 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

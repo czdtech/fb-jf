@@ -1,13 +1,13 @@
 ---
 locale: ko
-urlstr: carrom-challenges
-title: 'Carrom Challenges 캐롬 챌린지'
+title: Carrom Challenges 캐롬 챌린지
+seoTitle: Carrom Challenges 캐롬 챌린지 무료 온라인 플레이 | FiddleBops
 description: >-
-  Carrom Challenges는 실제 캐롬 보드를 옮겨 놓은 듯한 테이블 스포츠 게임입니다.
-  스트라이커 각도와 세기를 조절해 자신의 말을 포켓에 넣고, 퀸을 안전하게 커버하며
-  정교한 수 싸움을 펼쳐 보세요.
+  Carrom Challenges는 실제 캐롬 보드를 옮겨 놓은 듯한 테이블 스포츠 게임입니다. 스트라이커 각도와 세기를 조절해 자신의 말을
+  포켓에 넣고, 퀸을 안전하게 커버하며 정교한 수 싸움을 펼쳐 보세요.
 iframeSrc: 'https://6m4vq4nu17rto.h5games.usercontent.goog/v/1g4ai19abgj0g/'
 thumbnail: /new-images/thumbnails/carrom-challenges.png
+urlstr: carrom-challenges
 tags:
   - sports
   - pool

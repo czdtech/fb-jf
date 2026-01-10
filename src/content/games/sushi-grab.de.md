@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: sushi-grab
 title: Sushi Grab
+seoTitle: Spiele Sushi Grab kostenlos online | FiddleBops
 description: >-
   Sushi Grab ist ein schnelles Förderband-Spiel: Greif das richtige Sushi, meide
   Fallen und erfülle Bestellungen, bevor der Timer abläuft.
 iframeSrc: 'https://sushigrab.h5games.usercontent.goog/v/0ehlec2inmmrg/'
 thumbnail: /new-images/thumbnails/sushi-grab.png
+urlstr: sushi-grab
 tags:
   - casual
   - thinky

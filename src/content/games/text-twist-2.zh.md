@@ -1,10 +1,12 @@
 ---
 locale: zh
-urlstr: text-twist-2
 title: 《Text Twist 2》英文拼词挑战 2
+seoTitle: 免费在线玩 《Text Twist 2》英文拼词挑战 2 | FiddleBops
 description: 《Text Twist 2》是一款英文单词拼写益智游戏。根据给出的字母组合，在限定时间内尽可能拼出更多有效单词，并找出使用全部字母的关键单词以进入下一轮。
-iframeSrc: 'https://games.cdn.famobi.com/html5games/t/text-twist-2/v110/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=40935b5f-cfef-4ac2-9179-549869282f4b&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=693&original_ref='
+iframeSrc: >-
+  https://games.cdn.famobi.com/html5games/t/text-twist-2/v110/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=40935b5f-cfef-4ac2-9179-549869282f4b&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=693&original_ref=
 thumbnail: /new-images/thumbnails/text-twist-2.jpg
+urlstr: text-twist-2
 tags:
   - word-game
   - puzzle

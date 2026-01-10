@@ -1,14 +1,21 @@
 ---
 locale: fr
-urlstr: "mini-golf-world"
-title: "Mini Golf World"
-description: "Mini Golf World polit le mini‑golf : lis les pentes, utilise les rebonds sur les rampes et maîtrise la puissance pour enchaîner les trous dans des mondes thématiques."
-iframeSrc: "https://32tnqh6bck80g.h5games.usercontent.goog/v/3auurdk9r953g/"
+title: Mini Golf World
+seoTitle: Jouez à Mini Golf World en ligne gratuitement | FiddleBops
+description: >-
+  Mini Golf World polit le mini‑golf : lis les pentes, utilise les rebonds sur
+  les rampes et maîtrise la puissance pour enchaîner les trous dans des mondes
+  thématiques.
+iframeSrc: 'https://32tnqh6bck80g.h5games.usercontent.goog/v/3auurdk9r953g/'
 thumbnail: /new-images/thumbnails/mini-golf-world.png
-tags: ["sports", "puzzle", "casual"]
-score: "4.1/5  (1903 votes)"
-developer: ""
-releaseDate: 2025-10-18
+urlstr: mini-golf-world
+tags:
+  - sports
+  - puzzle
+  - casual
+score: 4.1/5  (1903 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: 60s-burger-run
 title: 60 Seconds Burger Run 60초 버거 런
+seoTitle: 60 Seconds Burger Run 60초 버거 런 무료 온라인 플레이 | FiddleBops
 description: >-
   60초라는 제한 시간 안에 햄버거 가게에 도착해야 하는 스피드 런 플랫폼 게임 60 Seconds Burger Run입니다. 빠른 판단과
   점프로 최대한 많은 스테이지를 돌파해 보세요.
 iframeSrc: 'https://www.playfiddlebops.com/embed/60s-burger-run/index.html'
 thumbnail: /new-images/thumbnails/60s-burger-run.jpg
+urlstr: 60s-burger-run
 tags:
   - 60 seconds burger run
 score: 4.6/5  (1344 votes)

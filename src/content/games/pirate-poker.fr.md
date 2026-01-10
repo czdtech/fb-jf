@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: pirate-poker
 title: Pirate Poker
+seoTitle: Jouez à Pirate Poker en ligne gratuitement | FiddleBops
 description: "Pirate Poker mélange poker et ambiance pirate\_: forme les meilleures mains possibles, gère ta mise et bluffe pour rafler le butin."
 iframeSrc: 'https://6ghou5c7rjb9g.h5games.usercontent.goog/v/2n3b0c56pikmo/'
 thumbnail: /new-images/thumbnails/pirate-poker.png
+urlstr: pirate-poker
 tags:
   - card
   - strategy

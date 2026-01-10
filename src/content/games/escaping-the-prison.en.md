@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Escaping the Prison"
-description: "A Henry Stickmin point‑and‑click adventure: choose items and routes (Sneaky/Badass/Legal) to break out, with multiple endings and gags."
-iframeSrc: "https://classroomjq.github.io/escaping-the-prison/"
+title: Escaping the Prison
+seoTitle: Play Escaping the Prison Online Free | FiddleBops
+description: >-
+  A Henry Stickmin point‑and‑click adventure: choose items and routes
+  (Sneaky/Badass/Legal) to break out, with multiple endings and gags.
+iframeSrc: 'https://classroomjq.github.io/escaping-the-prison/'
 thumbnail: /new-images/thumbnails/escaping-the-prison.jpg
-urlstr: "escaping-the-prison"
-score: "5.0/5  (1344 votes)"
-tags: ["adventure", "point-and-click"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: escaping-the-prison
+tags:
+  - adventure
+  - point-and-click
+score: 5.0/5  (1344 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

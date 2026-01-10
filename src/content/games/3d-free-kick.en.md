@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "3D Free Kick"
-description: "3D Free Kick lets you bend it like a pro — aim the wall, curve the ball, and score stylish set‑pieces."
-iframeSrc: "https://78b0enfiv98go.h5games.usercontent.goog/v/00acsktd29tjg/"
+title: 3D Free Kick
+seoTitle: Play 3D Free Kick Online Free | FiddleBops
+description: >-
+  3D Free Kick lets you bend it like a pro — aim the wall, curve the ball, and
+  score stylish set‑pieces.
+iframeSrc: 'https://78b0enfiv98go.h5games.usercontent.goog/v/00acsktd29tjg/'
 thumbnail: /new-images/thumbnails/3d-free-kick.png
-urlstr: "3d-free-kick"
-score: "4.1/5  (1866 votes)"
-tags: ["sports", "soccer"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: 3d-free-kick
+tags:
+  - sports
+  - soccer
+score: 4.1/5  (1866 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

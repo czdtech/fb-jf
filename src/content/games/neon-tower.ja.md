@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Neon Tower
+seoTitle: 無料でNeon Towerをオンラインでプレイ | FiddleBops
 description: Neon Towerはドラッグ操作でタワーを回転させるアクションゲームです。隙間を作って先へ進み、危険な足場を避けながらスコアを伸ばします。
 iframeSrc: 'https://2mk3ok3s7jl88.h5games.usercontent.goog/v/39vfhh0oku1j8/'
 thumbnail: /new-images/thumbnails/neon-tower.png
 urlstr: neon-tower
-score: 4.2/5  (2000 votes)
 tags:
   - action
   - casual
+score: 4.2/5  (2000 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

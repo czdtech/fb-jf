@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: cards-21
-title: "Cards-21"
+title: Cards-21
+seoTitle: Juega a Cards-21 en línea gratis | FiddleBops
 description: >-
   Cards-21 destila la esencia del blackjack: pide carta o plántate, gestiona el
   riesgo y persigue el 21 sin pasarte.
 iframeSrc: 'https://11kvu79prlefg.h5games.usercontent.goog/v/67r78cf7q96c0/'
 thumbnail: /new-images/thumbnails/cards-21.png
+urlstr: cards-21
 tags:
   - card
   - casual

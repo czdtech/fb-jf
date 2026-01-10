@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: parking-jam
 title: 《Parking Jam》停车大作战
+seoTitle: 免费在线玩 《Parking Jam》停车大作战 | FiddleBops
 description: 《Parking Jam》是一款空间滑块式的停车解谜游戏，你需要按正确顺序挪动车辆，为目标车让出出口通道，用尽量少的步数疏通拥挤停车场。
 iframeSrc: 'https://4knmpq6joecbg.h5games.usercontent.goog/v/1uamg2frss2qg/'
 thumbnail: /new-images/thumbnails/parking-jam.png
+urlstr: parking-jam
 tags:
   - puzzle
   - thinky

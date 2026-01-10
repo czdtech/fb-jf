@@ -1,14 +1,17 @@
 ---
-locale: "zh"
-urlstr: "sprunki-virus-new-update"
-
-title: "Sprunki Virus New Update - 在线玩 Sprunki Virus New Update"
-description: "你是否渴望一段挑战感官极限的音乐之旅？Sprunki Virus 将带你进入一个被病毒感染的 Sprunki 世界，用诡异的音景、故障的画面和紧张的游戏机制为你带来前所未有的刺激体验！"
-iframeSrc: "https://turbowarp.org/1104064786/embed"
+locale: zh
+title: Sprunki Virus New Update
+seoTitle: 免费在线玩 Sprunki Virus New Update | FiddleBops
+description: >-
+  你是否渴望一段挑战感官极限的音乐之旅？Sprunki Virus 将带你进入一个被病毒感染的 Sprunki
+  世界，用诡异的音景、故障的画面和紧张的游戏机制为你带来前所未有的刺激体验！
+iframeSrc: 'https://turbowarp.org/1104064786/embed'
 thumbnail: /new-images/thumbnails/sprunki-virus-new-update.png
-score: "4.0/5  (407 votes)"
-tags: ["sprunki virus new update"]
-releaseDate: 2025-12-04
+urlstr: sprunki-virus-new-update
+tags:
+  - sprunki virus new update
+score: 4.0/5  (407 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

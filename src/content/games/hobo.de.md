@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: hobo
 title: Hobo
+seoTitle: Spiele Hobo kostenlos online | FiddleBops
 description: >-
   Hobo ist ein überdrehtes Beat ’em up: Prügle dich durch Straßenlevel mit
   freischaltbaren Kombos, improvisierten Waffen und völlig abgefahrenen
   Spezialattacken.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/hobo.html'
 thumbnail: /new-images/thumbnails/hobo.jpg
+urlstr: hobo
 tags:
   - fighting
   - beat-em-up

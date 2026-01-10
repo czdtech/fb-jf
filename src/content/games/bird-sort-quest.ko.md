@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: bird-sort-quest
-title: 'Bird Sort Quest 버드 소트 퀘스트'
+title: Bird Sort Quest 버드 소트 퀘스트
+seoTitle: Bird Sort Quest 버드 소트 퀘스트 무료 온라인 플레이 | FiddleBops
 description: >-
-  여러 색깔 새들을 횃대 사이로 옮겨 같은 색끼리 모으는 정렬 퍼즐 게임입니다.
-  제한된 빈 횃대를 버퍼로 잘 활용해, 모든 횃대를 단일 색으로 정리해 보세요.
+  여러 색깔 새들을 횃대 사이로 옮겨 같은 색끼리 모으는 정렬 퍼즐 게임입니다. 제한된 빈 횃대를 버퍼로 잘 활용해, 모든 횃대를 단일 색으로
+  정리해 보세요.
 iframeSrc: 'https://59c0fiphd7ng0.h5games.usercontent.goog/v/5cgtqofbdtd08/'
 thumbnail: /new-images/thumbnails/bird-sort-quest.png
+urlstr: bird-sort-quest
 tags:
   - puzzle
   - thinky

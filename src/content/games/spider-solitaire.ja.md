@@ -1,15 +1,18 @@
 ---
-# Frontmatter: config.ts の schema に従う
-title: "Spider Solitaire"
-description: "Spider Solitaireは104枚で遊ぶソリティアです。キングからエースまでの同一スートの並びを作り、タブローをすべてクリアします。"
-iframeSrc: "https://www.squidbyte.com/games_third/spider/en/spider-solitaire-halloween/"
-thumbnail: /new-images/thumbnails/spider-solitaire.jpg
-urlstr: "spider-solitaire"
-score: "4.8/5  (331 votes)"
-tags: ["card-game", "puzzle", "strategy"]
-developer: ""
-releaseDate: 2025-08-16
 locale: ja
+title: Spider Solitaire
+seoTitle: 無料でSpider Solitaireをオンラインでプレイ | FiddleBops
+description: Spider Solitaireは104枚で遊ぶソリティアです。キングからエースまでの同一スートの並びを作り、タブローをすべてクリアします。
+iframeSrc: 'https://www.squidbyte.com/games_third/spider/en/spider-solitaire-halloween/'
+thumbnail: /new-images/thumbnails/spider-solitaire.jpg
+urlstr: spider-solitaire
+tags:
+  - card-game
+  - puzzle
+  - strategy
+score: 4.8/5  (331 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

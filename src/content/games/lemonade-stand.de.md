@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: lemonade-stand
 title: Lemonade Stand
+seoTitle: Spiele Lemonade Stand kostenlos online | FiddleBops
 description: >-
   Klassische Wirtschaftssimulation: Lege Preis, Rezept und Werbung fest, kaufe
   Becher/Zitronen/Eis und maximiere deinen Tagesgewinn bei wechselndem Wetter.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/lemonade-stand.html'
 thumbnail: /new-images/thumbnails/lemonade-stand.jpg
+urlstr: lemonade-stand
 tags:
   - simulation
   - tycoon

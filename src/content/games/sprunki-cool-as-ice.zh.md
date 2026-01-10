@@ -1,14 +1,15 @@
 ---
 locale: zh
-urlstr: sprunki-cool-as-ice
-title: Sprunki Cool As Ice - 在线玩 Sprunki Cool As Ice
+title: Sprunki Cool As Ice
+seoTitle: 免费在线玩 Sprunki Cool As Ice | FiddleBops
 description: 'Sprunki: Cool As Ice 是 Incredibox 家族的一次重大创新，它通过独特的冬季主题为音乐创作带来了全新视角。'
 iframeSrc: 'https://turbowarp.org/1114795409/embed'
 thumbnail: /new-images/thumbnails/sprunki-cool-as-ice.png
-score: 4.2/5  (324 votes)
+urlstr: sprunki-cool-as-ice
 tags:
   - sprunki cool as ice
   - sprunki cool as ice online
+score: 4.2/5  (324 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

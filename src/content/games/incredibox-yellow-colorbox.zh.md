@@ -1,15 +1,18 @@
 ---
 locale: zh
-urlstr: incredibox-yellow-colorbox
-title: "Incredibox Yellow Colorbox - 在线玩 Incredibox Yellow Colorbox"
-description: "Incredibox Yellow Colorbox 是一款粉丝创作的 Incredibox Mod 音乐游戏。在这个版本中，所有角色都以醒目的黄色呈现，每个角色都有独特且不可重复的音效。"
+title: Incredibox Yellow Colorbox
+seoTitle: 免费在线玩 Incredibox Yellow Colorbox | FiddleBops
+description: >-
+  Incredibox Yellow Colorbox 是一款粉丝创作的 Incredibox Mod
+  音乐游戏。在这个版本中，所有角色都以醒目的黄色呈现，每个角色都有独特且不可重复的音效。
 iframeSrc: 'https://www.minijuegos.com/embed/incredibox-yellow-colorbox'
 thumbnail: /new-images/thumbnails/incredibox-yellow-colorbox.png
+urlstr: incredibox-yellow-colorbox
 tags:
   - incredibox yellow colorbox
   - incredibox yellow colorbox online
 score: 4.5/5  (614 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### 什么是 Incredibox Yellow Colorbox？

@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Love Tester"
-description: "Playful novelty: enter names to get a fun compatibility score; non‑scientific and meant purely for entertainment." 
-iframeSrc: "https://games.cdn.famobi.com/html5games/l/love-tester/v030/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=24cb4711-7c74-4831-8b1c-678985959174&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=176&original_ref="
+title: Love Tester
+seoTitle: Play Love Tester Online Free | FiddleBops
+description: >-
+  Playful novelty: enter names to get a fun compatibility score; non‑scientific
+  and meant purely for entertainment.
+iframeSrc: >-
+  https://games.cdn.famobi.com/html5games/l/love-tester/v030/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=24cb4711-7c74-4831-8b1c-678985959174&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=176&original_ref=
 thumbnail: /new-images/thumbnails/love-tester.jpg
-urlstr: "love-tester"
-score: "4.0/5  (913 votes)"
-tags: ["casual", "novelty"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: love-tester
+tags:
+  - casual
+  - novelty
+score: 4.0/5  (913 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

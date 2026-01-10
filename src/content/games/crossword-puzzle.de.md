@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: crossword-puzzle
 title: Crossword Puzzle
+seoTitle: Spiele Crossword Puzzle kostenlos online | FiddleBops
 description: >-
   Crossword Puzzle ist ein klassisches Worträtsel: Fülle das Gitter, indem du
   horizontale und vertikale Hinweise löst, bis alle Kreuzungen passen.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword-puzzle.html'
 thumbnail: /new-images/thumbnails/crossword-puzzle.jpg
+urlstr: crossword-puzzle
 tags:
   - word
   - puzzle

@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: incredibox-rave
 title: Incredibox Rave
+seoTitle: Jouez à Incredibox Rave en ligne gratuitement | FiddleBops
 description: >-
   Incredibox Rave est un mod EDM néon : palette dance/techno/house, ambiance
   boîte de nuit et bonus lumineux à débloquer.
 iframeSrc: 'https://turbowarp.org/980794126/embed'
 thumbnail: /new-images/thumbnails/incredibox-rave.png
+urlstr: incredibox-rave
 tags:
   - music
   - rave

@@ -1,13 +1,16 @@
 ---
 locale: es
-urlstr: shooter
 title: Five Nights at Freddy's Shooter (FNAF Shooter)
+seoTitle: >-
+  Juega a Five Nights at Freddy's Shooter (FNAF Shooter) en línea gratis |
+  FiddleBops
 description: >-
   Five Nights at Freddy's Shooter es un juego de acción y terror en el que te
   enfrentas a los animatrónicos del universo FNAF usando todo tipo de armas para
   sobrevivir a oleadas de robots asesinos.
 iframeSrc: 'https://bitlifeonline.github.io/fnaf-shooter/'
 thumbnail: /new-images/thumbnails/shooter.jpg
+urlstr: shooter
 tags:
   - horror
   - shooting

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: sky-tower
 title: Sky Tower
+seoTitle: Juega a Sky Tower en línea gratis | FiddleBops
 description: >-
   Sky Tower es un juego de apilar pisos: calcula el momento exacto para soltar
   las plataformas, minimiza los salientes y construye la torre más alta y
   estable posible.
 iframeSrc: 'https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/'
 thumbnail: /new-images/thumbnails/sky-tower.png
+urlstr: sky-tower
 tags:
   - puzzle
   - thinky

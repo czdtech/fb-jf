@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Crossword Puzzles"
-description: "Crossword Puzzles offers themed crosswords: solve across and down clues to complete each grid."
-iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/best-free-themed-puzzles/"
+title: Crossword Puzzles
+seoTitle: Play Crossword Puzzles Online Free | FiddleBops
+description: >-
+  Crossword Puzzles offers themed crosswords: solve across and down clues to
+  complete each grid.
+iframeSrc: >-
+  https://ams.cdn.arkadiumhosted.com/assets/global/game/best-free-themed-puzzles/
 thumbnail: /new-images/thumbnails/crossword-puzzles.jpg
-urlstr: "crossword-puzzles"
-score: "4.1/5  (697 votes)"
-tags: ["word", "puzzle"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: crossword-puzzles
+tags:
+  - word
+  - puzzle
+score: 4.1/5  (697 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

@@ -1,12 +1,14 @@
 ---
 locale: es
-urlstr: cuphead
-title: "Cuphead"
+title: Cuphead
+seoTitle: Juega a Cuphead en línea gratis | FiddleBops
 description: >-
   Cuphead es un frenético run‑and‑gun: domina saltos y dashes precisos, aprende
-  los patrones de los jefes y sobrevive a combates tan duros como espectaculares.
+  los patrones de los jefes y sobrevive a combates tan duros como
+  espectaculares.
 iframeSrc: 'https://bitlifeonline.github.io/cuphead/'
 thumbnail: /new-images/thumbnails/cuphead.jpg
+urlstr: cuphead
 tags:
   - action
   - platformer

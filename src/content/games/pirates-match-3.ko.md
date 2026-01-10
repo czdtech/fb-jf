@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: pirates-match-3
 title: Pirates Match 3 해적 매치3
+seoTitle: Pirates Match 3 해적 매치3 무료 온라인 플레이 | FiddleBops
 description: >-
   해적 깃발, 닻, 금화 등 해적 테마 아이콘을 맞바꿔 3개 이상 맞추는 퍼즐 게임입니다. 특수 조합으로 파워업을 만들고, 제한된 이동 횟수
   안에 스테이지 목표를 달성해 보세요.
 iframeSrc: >-
   https://piratesmatch3.h5games.usercontent.goog/v/fea2f25f-a39a-4273-93c1-38f8f9bd8260/
 thumbnail: /new-images/thumbnails/pirates-match-3.jpg
+urlstr: pirates-match-3
 tags:
   - puzzle
   - casual

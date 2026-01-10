@@ -1,17 +1,18 @@
 ---
 locale: es
-urlstr: fiddlebops-but-dandys-world
-title: "Fiddlebops But Dandy's World - Juega a Fiddlebops But Dandy's World en línea"
+title: Fiddlebops But Dandy's World
+seoTitle: Juega a Fiddlebops But Dandy's World en línea gratis | FiddleBops
 description: >-
-  Fiddlebops But Dandy's World no es solo un juego, sino un viaje musical
-  lleno de magia donde Dandy y su banda te guían por escenarios sonoros
-  sorprendentes mientras compones tus propias mezclas.
+  Fiddlebops But Dandy's World no es solo un juego, sino un viaje musical lleno
+  de magia donde Dandy y su banda te guían por escenarios sonoros sorprendentes
+  mientras compones tus propias mezclas.
 iframeSrc: 'https://turbowarp.org/1114551059/embed'
 thumbnail: /new-images/thumbnails/fiddlebops-but-dandys-world.png
+urlstr: fiddlebops-but-dandys-world
 tags:
   - fiddlebops but dandy
 score: 4.6/5  (27 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

@@ -1,15 +1,17 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "4 Pics 1 Word"
-description: "Here's your chance to play 4 Pics 1 Word Game. Have fun with this one!"
-iframeSrc: "https://previews.customer.envatousercontent.com/files/309288896/index.html"
+title: 4 Pics 1 Word
+seoTitle: Play 4 Pics 1 Word Online Free | FiddleBops
+description: Here's your chance to play 4 Pics 1 Word Game. Have fun with this one!
+iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288896/index.html'
 thumbnail: /new-images/thumbnails/4-pics-1-word.jpg
-urlstr: "4-pics-1-word"
-score: "4.5/5  (144 votes)"
-tags: ["casual", "rhythm"]
-developer: "So Far So Good"
-releaseDate: 2025-08-16
+urlstr: 4-pics-1-word
+tags:
+  - casual
+  - rhythm
+score: 4.5/5  (144 votes)
+developer: So Far So Good
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

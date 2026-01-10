@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Roll This Ball"
-description: "A classic sliding puzzle that will test your logic. Slide the wooden blocks to create a clear path for the ball to roll from the start to the goal."
-iframeSrc: "https://rollthisball3.h5games.usercontent.goog/v/65vs8rm7dfjno/"
+title: Roll This Ball
+seoTitle: Play Roll This Ball Online Free | FiddleBops
+description: >-
+  A classic sliding puzzle that will test your logic. Slide the wooden blocks to
+  create a clear path for the ball to roll from the start to the goal.
+iframeSrc: 'https://rollthisball3.h5games.usercontent.goog/v/65vs8rm7dfjno/'
 thumbnail: /new-images/thumbnails/roll-this-ball-3.png
-urlstr: "roll-this-ball-3"
-score: "4.4/5  (2550 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: roll-this-ball-3
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.4/5  (2550 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

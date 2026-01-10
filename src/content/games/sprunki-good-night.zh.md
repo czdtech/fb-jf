@@ -1,14 +1,17 @@
 ---
-locale: "zh"
-urlstr: "sprunki-good-night"
-
-title: "Sprunki Good Night - 在线玩 Sprunki Good Night"
-description: "Sprunki Good Night 是一款让你在疲惫的一天后彻底放松身心的 Mod。来到 Sprunki Good Night，用温柔平和的节拍创作一首完美的摇篮曲，迎接甜美的梦乡！"
-iframeSrc: "https://turbowarp.org/1178264025/embed"
+locale: zh
+title: Sprunki Good Night
+seoTitle: 免费在线玩 Sprunki Good Night | FiddleBops
+description: >-
+  Sprunki Good Night 是一款让你在疲惫的一天后彻底放松身心的 Mod。来到 Sprunki Good
+  Night，用温柔平和的节拍创作一首完美的摇篮曲，迎接甜美的梦乡！
+iframeSrc: 'https://turbowarp.org/1178264025/embed'
 thumbnail: /new-images/thumbnails/sprunki-good-night.png
-score: "4.2/5  (227 votes)"
-tags: ["sprunki good night"]
-releaseDate: 2025-12-04
+urlstr: sprunki-good-night
+tags:
+  - sprunki good night
+score: 4.2/5  (227 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### 如何在 Sprunki Good Night 中创作？

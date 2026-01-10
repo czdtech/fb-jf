@@ -1,17 +1,18 @@
 ---
 locale: de
-urlstr: mundo-torajo-sprunki
-title: "Mundo Torajo Sprunki - Play Mundo Torajo Sprunki Online"
+title: Mundo Torajo Sprunki
+seoTitle: Spiele Mundo Torajo Sprunki kostenlos online | FiddleBops
 description: >-
   Dieser besondere Mod verbindet die verspielte Welt von Mundo Torajo mit dem
   rhythmischen Kreativspaß der Sprunki-Plattform und lässt dich beim Spielen
   grenzenlos kreativ werden.
 iframeSrc: 'https://turbowarp.org/1096623350/embed'
 thumbnail: /new-images/thumbnails/mundo-torajo-sprunki.png
+urlstr: mundo-torajo-sprunki
 tags:
   - mundo torajo sprunki
 score: 4.0/5  (112 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

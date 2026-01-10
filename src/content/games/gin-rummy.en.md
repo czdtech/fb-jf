@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Gin Rummy"
-description: "Play the classic card game of Gin Rummy. Form your cards into sets and runs, knock to end the round, and try to catch your opponent with a hand full of deadwood."
-iframeSrc: "https://ginrummy.h5games.usercontent.goog/v/1sj72j2nsfin0/"
+title: Gin Rummy
+seoTitle: Play Gin Rummy Online Free | FiddleBops
+description: >-
+  Play the classic card game of Gin Rummy. Form your cards into sets and runs,
+  knock to end the round, and try to catch your opponent with a hand full of
+  deadwood.
+iframeSrc: 'https://ginrummy.h5games.usercontent.goog/v/1sj72j2nsfin0/'
 thumbnail: /new-images/thumbnails/gin-rummy.png
-urlstr: "gin-rummy"
-score: "4.7/5  (2800 votes)"
-tags: ["card", "puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: gin-rummy
+tags:
+  - card
+  - puzzle
+  - thinky
+score: 4.7/5  (2800 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

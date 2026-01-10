@@ -1,6 +1,7 @@
 ---
 locale: en
-title: Sprunki Pyramixed - Play Sprunki Pyramixed Online
+title: Sprunki Pyramixed
+seoTitle: Play Sprunki Pyramixed Online Free | FiddleBops
 description: >-
   Sprunki Pyramixed is a fantastic music creation platform that cleverly
   balances ease of use with depth, allowing everyone to enjoy the fun of making
@@ -8,11 +9,11 @@ description: >-
 iframeSrc: 'https://turbowarp.org/1133167510/embed'
 thumbnail: /new-images/thumbnails/sprunki-pyramixed-version.png
 urlstr: sprunki-pyramixed-version
-modType: sprunki
-score: 4.0/5  (254 votes)
 tags:
   - sprunki pyramixed
   - music
+modType: sprunki
+score: 4.0/5  (254 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

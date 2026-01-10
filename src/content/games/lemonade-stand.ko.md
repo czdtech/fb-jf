@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: lemonade-stand
 title: Lemonade Stand 레모네이드 가게 경영
+seoTitle: Lemonade Stand 레모네이드 가게 경영 무료 온라인 플레이 | FiddleBops
 description: >-
   고전 경영 시뮬레이션 'Lemonade Stand' 가이드입니다. 날씨와 수요를 고려해 가격·레시피·광고를 조절하고, 재고를 관리해 매일의
   이익을 극대화하세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/lemonade-stand.html'
 thumbnail: /new-images/thumbnails/lemonade-stand.jpg
+urlstr: lemonade-stand
 tags:
   - simulation
   - tycoon

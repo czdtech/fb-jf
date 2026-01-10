@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Merge Melons
+seoTitle: 無料でMerge Melonsをオンラインでプレイ | FiddleBops
 description: Merge Melonsはメロンをマージして大きくするパズルです。ボードが埋まらないように整理しながら、上位のフルーツを作ります。
 iframeSrc: 'https://mergemelons.h5games.usercontent.goog/v/7526h5to2d1v0/'
 thumbnail: /new-images/thumbnails/merge-melons.png
 urlstr: merge-melons
-score: 4.7/5  (2990 votes)
 tags:
   - puzzle
   - casual
+score: 4.7/5  (2990 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

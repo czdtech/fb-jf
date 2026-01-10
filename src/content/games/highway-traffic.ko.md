@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: highway-traffic
 title: Highway Traffic 하이웨이 트래픽
+seoTitle: Highway Traffic 하이웨이 트래픽 무료 온라인 플레이 | FiddleBops
 description: >-
   붐비는 고속도로 위를 달리며 차량 사이를 요리조리 피해 나가는 아케이드 드라이빙 게임입니다. 교통사고를 내지 않고 멀리 갈수록 높은 점수와
   보상을 얻을 수 있습니다.
 iframeSrc: >-
   https://app-97317.games.s3.yandex.net/97317/zr27uqx4qauq31fg2ud41a7oye9c4dki/index.html
 thumbnail: /new-images/thumbnails/highway-traffic.jpg
+urlstr: highway-traffic
 tags:
   - driving
   - traffic

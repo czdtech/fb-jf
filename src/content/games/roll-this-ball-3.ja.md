@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Roll This Ball 3
+seoTitle: 無料でRoll This Ball 3をオンラインでプレイ | FiddleBops
 description: Roll This Ball 3はスライド式のパズルです。タイルを動かして通路をつなぎ、ボールをゴールまで導きます。
 iframeSrc: 'https://rollthisball3.h5games.usercontent.goog/v/65vs8rm7dfjno/'
 thumbnail: /new-images/thumbnails/roll-this-ball-3.png
 urlstr: roll-this-ball-3
-score: 4.4/5  (2550 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.4/5  (2550 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

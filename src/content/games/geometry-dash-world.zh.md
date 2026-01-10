@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: geometry-dash-world
 title: Geometry Dash World 几何冲刺：世界篇
+seoTitle: 免费在线玩 Geometry Dash World 几何冲刺：世界篇 | FiddleBops
 description: 精炼版节奏平台世界：在两个主题世界中快速通关多个短关卡， 跟着音乐节奏奔跑、跳跃与飞行，用收集到的光球解锁大门并挑战每日关卡。
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-world/'
 thumbnail: /new-images/thumbnails/geometry-dash-world.jpg
+urlstr: geometry-dash-world
 tags:
   - rhythm
   - platformer

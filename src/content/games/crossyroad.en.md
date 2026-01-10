@@ -1,16 +1,17 @@
 ---
 locale: en
-title: Crossy Road - Play Crossy Road Online
+title: Crossy Road
+seoTitle: Play Crossy Road Online Free | FiddleBops
 description: >-
   Crossy Road is an 8-bit endless arcade hopper game in which your mission is to
   control the chicken and cross the roads, rivers, and railroads safely.
 iframeSrc: 'https://www.playfiddlebops.com/embed/crossyroad/index.html'
 thumbnail: /new-images/thumbnails/crossyroad.jpg
 urlstr: crossyroad
-score: 4.8/5  (1104 votes)
 tags:
   - crossy road
   - arcade
+score: 4.8/5  (1104 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: tile-guru
 title: 《Tile Guru》方块大师三消
+seoTitle: 免费在线玩 《Tile Guru》方块大师三消 | FiddleBops
 description: 《Tile Guru》是一款 3D 视角的方块消除/连连看类游戏。通过从堆叠的立体方块中挑选图案相同的牌，凑成三张即可消除，清空全部方块即为通关。
 iframeSrc: 'https://5en3tugq69tdo.h5games.usercontent.goog/v/4pu6to0p0cgrg/'
 thumbnail: /new-images/thumbnails/tile-guru.png
+urlstr: tile-guru
 tags:
   - puzzle
   - match 3

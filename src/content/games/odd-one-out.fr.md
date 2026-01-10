@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: odd-one-out
 title: Odd One Out
+seoTitle: Jouez à Odd One Out en ligne gratuitement | FiddleBops
 description: >-
   Odd One Out est un jeu d'observation où tu dois repérer l'intrus dans un
   groupe d'objets, en testant ton sens du détail et ta logique de
   catégorisation.
 iframeSrc: 'https://oddoneout.h5games.usercontent.goog/v/50nqosk9lm28o/'
 thumbnail: /new-images/thumbnails/odd-one-out.jpg
+urlstr: odd-one-out
 tags:
   - puzzle
   - thinky

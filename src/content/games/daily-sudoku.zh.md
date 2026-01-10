@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: daily-sudoku
 title: Daily Sudoku 每日数独
+seoTitle: 免费在线玩 Daily Sudoku 每日数独 | FiddleBops
 description: >-
   《Daily Sudoku 每日数独》每天提供一盘全新的 9×9 逻辑数独。将 1–9 填入网格，使每一 行、每一列以及每个 3×3 宫都恰好包含 1 到
   9 各一次、且不重复。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-daily-sudoku/'
 thumbnail: /new-images/thumbnails/daily-sudoku.jpg
+urlstr: daily-sudoku
 tags:
   - puzzle
   - logic

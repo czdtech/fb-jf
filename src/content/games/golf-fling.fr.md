@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: golf-fling
 title: Golf Fling
+seoTitle: Jouez à Golf Fling en ligne gratuitement | FiddleBops
 description: >-
   Vise le hole‑in‑one dans Golf Fling ! Un puzzle basé sur la physique où tu
   vises, tires et relâches pour propulser la balle.
 iframeSrc: >-
   https://golffling.h5games.usercontent.goog/v/0aa707a3-71a5-4ad8-be9b-32ce55e28d64/
 thumbnail: /new-images/thumbnails/golf-fling.jpg
+urlstr: golf-fling
 tags:
   - sports
   - puzzle

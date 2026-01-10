@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: golf-fling
 title: Golf Fling 골프 플링 퍼즐
+seoTitle: Golf Fling 골프 플링 퍼즐 무료 온라인 플레이 | FiddleBops
 description: >-
   골프채 대신 드래그 앤 릴리즈로 공을 튕겨 보내는 물리 퍼즐 골프 게임입니다. 공을 당겨 쏘는 힘과 각도를 조절해 장애물을 넘고, 가능한
   적은 번수로 홀인을 노려 보세요.
 iframeSrc: >-
   https://golffling.h5games.usercontent.goog/v/0aa707a3-71a5-4ad8-be9b-32ce55e28d64/
 thumbnail: /new-images/thumbnails/golf-fling.jpg
+urlstr: golf-fling
 tags:
   - sports
   - puzzle

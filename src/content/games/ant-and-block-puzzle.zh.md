@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: ant-and-block-puzzle
 title: Ant and block puzzle 蚂蚁方块拼图
+seoTitle: 免费在线玩 Ant and block puzzle 蚂蚁方块拼图 | FiddleBops
 description: 《Ant and block puzzle（蚂蚁方块拼图）》是一款轻松的方块摆放益智游戏：把给定形状放进棋盘，凑满行或区域即可清除腾挪，尽量别留死角。
 iframeSrc: 'https://6f5e193l1nhig.h5games.usercontent.goog/v/2bgjgmrog0tgg/'
 thumbnail: /new-images/thumbnails/ant-and-block-puzzle.png
+urlstr: ant-and-block-puzzle
 tags:
   - puzzle
   - thinky

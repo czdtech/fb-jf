@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Five Nights at Freddy's 2 (FNAF 2)"
-description: "Mask and music‑box management: track multiple animatronics, wind the Puppet’s box, use the flashlight, and don the Freddy mask at the right moment to survive." 
-iframeSrc: "https://ubg77.github.io/fix/fnaf2/"
+title: Five Nights at Freddy's 2 (FNAF 2)
+seoTitle: Play Five Nights at Freddy's 2 (FNAF 2) Online Free | FiddleBops
+description: >-
+  Mask and music‑box management: track multiple animatronics, wind the Puppet’s
+  box, use the flashlight, and don the Freddy mask at the right moment to
+  survive.
+iframeSrc: 'https://ubg77.github.io/fix/fnaf2/'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-2.jpg
-urlstr: "five-nights-at-freddy-2"
-score: "3.7/5  (697 votes)"
-tags: ["horror", "strategy"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: five-nights-at-freddy-2
+tags:
+  - horror
+  - strategy
+score: 3.7/5  (697 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

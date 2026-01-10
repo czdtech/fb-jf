@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: friday-night-funkin
 title: Friday Night Funkin 프라이데이 나이트 펑킨
+seoTitle: Friday Night Funkin 프라이데이 나이트 펑킨 무료 온라인 플레이 | FiddleBops
 description: 화살표 노트를 음악에 맞춰 입력해 상대와 배틀하는 리듬 게임입니다. 난이도가 올라갈수록 노트 패턴과 롱 노트가 복잡해집니다.
 iframeSrc: 'https://html-classic.itch.zone/html/2876359-1077558/index.html'
 thumbnail: /new-images/thumbnails/friday-night-funkin.jpg
+urlstr: friday-night-funkin
 tags:
   - rhythm
   - music

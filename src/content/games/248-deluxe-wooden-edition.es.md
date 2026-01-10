@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: 248-deluxe-wooden-edition
-title: "248 Deluxe Wooden Edition puzle de madera"
+title: 248 Deluxe Wooden Edition puzle de madera
+seoTitle: Juega a 248 Deluxe Wooden Edition puzle de madera en línea gratis | FiddleBops
 description: >-
   248 Deluxe Wooden Edition es un puzle relajado de unir números en un tablero
   de estilo madera. Conecta casillas iguales, fusiona valores y administra el
   espacio para no bloquear la cuadrícula.
 iframeSrc: 'https://0k2rsj4f89nr8.h5games.usercontent.goog/v/03pkkc7ds3qdg/'
 thumbnail: /new-images/thumbnails/248-deluxe-wooden-edition.jpg
+urlstr: 248-deluxe-wooden-edition
 tags:
   - puzzle
   - thinky

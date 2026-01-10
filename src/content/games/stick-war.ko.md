@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: stick-war
 title: Stick War 스틱 워
+seoTitle: Stick War 스틱 워 무료 온라인 플레이 | FiddleBops
 description: >-
   Stick War는 웹에서 큰 인기를 끈 실시간 전략 게임으로, Inamorta 세계에서 "오더(Order)" 국가를 이끌어 금을 캐고
   군대를 키워 적의 동상을 파괴하는 것이 목표입니다.
 iframeSrc: 'https://www.gamenora.com/upload/games/swf/stick_war/'
 thumbnail: /new-images/thumbnails/stick-war.jpg
+urlstr: stick-war
 tags:
   - strategy
   - rTS

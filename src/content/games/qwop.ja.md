@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: QWOP
+seoTitle: 無料でQWOPをオンラインでプレイ | FiddleBops
 description: QWOPはランニングゲームです。太ももやふくらはぎを個別に操作して走らせる、独特の操作感が特徴です。
 iframeSrc: 'https://kdata1.com/2020/01/QWOP1/?webgl=true'
 thumbnail: /new-images/thumbnails/qwop.jpg
 urlstr: qwop
-score: 4.7/5  (808 votes)
 tags:
   - action
   - casual
   - novelty
+score: 4.7/5  (808 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

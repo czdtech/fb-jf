@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: bloxorz
 title: Bloxorz Magic
+seoTitle: Juega a Bloxorz Magic en línea gratis | FiddleBops
 description: >-
   Guía tu bloque rectangular a través de desafiantes puzles 3D en Bloxorz. Cruza
   baldosas frágiles, acciona interruptores, divide el bloque en dos y hazlo
@@ -9,6 +9,7 @@ description: >-
   puzles.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/bloxorz.html'
 thumbnail: /new-images/thumbnails/bloxorz.jpg
+urlstr: bloxorz
 tags:
   - casual
   - rhythm

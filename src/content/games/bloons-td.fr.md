@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: bloons-td
-title: "Bloons TD"
-description: "Bloons TD est la base de la série : place des tours singes, améliore‑les et éclate des vagues de bloons de plus en plus résistants avant qu’ils n’atteignent la sortie."
-iframeSrc: "https://ad-freegames.github.io/flash/game/bloons-tower-defense.html"
+title: Bloons TD
+seoTitle: Jouez à Bloons TD en ligne gratuitement | FiddleBops
+description: "Bloons TD est la base de la série\_: place des tours singes, améliore‑les et éclate des vagues de bloons de plus en plus résistants avant qu’ils n’atteignent la sortie."
+iframeSrc: 'https://ad-freegames.github.io/flash/game/bloons-tower-defense.html'
 thumbnail: /new-images/thumbnails/bloons-td.jpg
+urlstr: bloons-td
 tags:
   - casual
   - strategy

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: kingdom-rush-frontiers
 title: Kingdom Rush Frontiers
+seoTitle: Spiele Kingdom Rush Frontiers kostenlos online | FiddleBops
 description: >-
   Kingdom Rush Frontiers ist der Nachfolger des Klassikers: Baue und verbessere
   Türme, setze Verstärkungen und Helden ein und kontere verschiedene Gegnertypen
   mit cleverer Platzierung.
 iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush-frontiers.html'
 thumbnail: /new-images/thumbnails/kingdom-rush-frontiers.jpg
+urlstr: kingdom-rush-frontiers
 tags:
   - tower-defense
   - strategy

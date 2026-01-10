@@ -1,19 +1,20 @@
 ---
+locale: ja
 title: Crazy Cars クレイジー・カーズ
+seoTitle: 無料でCrazy Cars クレイジー・カーズをオンラインでプレイ | FiddleBops
 description: >-
   「Crazy
   Cars」はオープンワールド風の街を爆走する3Dカーアクション。レース、タイムトライアル、スタントに挑戦し、隠されたアイテムを集めて新車をアンロックしよう。
 iframeSrc: 'https://g.igroutka.ru/games/164/2afwOT8yZFmeYWGJ/2/crazy_cars/'
 thumbnail: /new-images/thumbnails/crazy-cars.jpg
 urlstr: crazy-cars
-score: 3.6/5  (197 votes)
 tags:
   - racing
   - driving
   - stunts
+score: 3.6/5  (197 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

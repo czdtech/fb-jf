@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: incredibox-geek-dance-simulator
 title: Incredibox Geek Dance Simulator
+seoTitle: Jouez à Incredibox Geek Dance Simulator en ligne gratuitement | FiddleBops
 description: >-
   Incredibox Geek Dance Simulator célèbre la culture geek avec une interface en
   grille : sons chiptune 8‑bit, bruitages rétro et outils simples pour composer
   tes propres boucles de jeu vidéo.
 iframeSrc: 'https://turbowarp.org/904948672/embed'
 thumbnail: /new-images/thumbnails/incredibox-geek-dance-simulator.png
+urlstr: incredibox-geek-dance-simulator
 tags:
   - music
   - rhythm

@@ -1,13 +1,13 @@
 ---
 locale: ko
-urlstr: block-breaker-king
-title: 'Block Breaker King 블록 브레이커 킹'
+title: Block Breaker King 블록 브레이커 킹
+seoTitle: Block Breaker King 블록 브레이커 킹 무료 온라인 플레이 | FiddleBops
 description: >-
-  Block Breaker King: Mission은 떨어지는 블록 없이 테트리스처럼 조각을 배치해
-  줄을 지우는 퍼즐 게임입니다. 라인을 동시에 여러 개 지우고, 번개·얼음 블록을
-  활용해 높은 점수를 노려 보세요.
+  Block Breaker King: Mission은 떨어지는 블록 없이 테트리스처럼 조각을 배치해 줄을 지우는 퍼즐 게임입니다. 라인을
+  동시에 여러 개 지우고, 번개·얼음 블록을 활용해 높은 점수를 노려 보세요.
 iframeSrc: 'https://40p3ck71ovs88.h5games.usercontent.goog/v/36e5gjc5plhi8/'
 thumbnail: /new-images/thumbnails/block-breaker-king.png
+urlstr: block-breaker-king
 tags:
   - puzzle
   - casual

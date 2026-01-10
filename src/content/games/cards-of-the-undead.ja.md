@@ -1,19 +1,20 @@
 ---
+locale: ja
 title: Cards of the Undead カーズ・オブ・ザ・アンデッド
+seoTitle: 無料でCards of the Undead カーズ・オブ・ザ・アンデッドをオンラインでプレイ | FiddleBops
 description: >-
   「Cards of the
   Undead」でゾンビ溢れるカードの世界を生き残れ！カードをめくって戦い、アイテムを集め、ヒーローを強化するターン制サバイバルパズル。
 iframeSrc: 'https://4afojpng981kg.h5games.usercontent.goog/v/1ge6qnd6h4ss0/'
 thumbnail: /new-images/thumbnails/cards-of-the-undead.png
 urlstr: cards-of-the-undead
-score: 4.3/5  (2250 votes)
 tags:
   - puzzle
   - strategy
   - zombie
+score: 4.3/5  (2250 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,14 +1,16 @@
 ---
-locale: "zh"
-urlstr: "grow-a-garden"
-
-title: "Grow a Garden - 花园经营游戏介绍与指南"
-description: "通过这篇全面指南，一起走进轻松治愈的园艺游戏世界。了解从播种、培育到收获的核心玩法，并掌握打造理想花园的实用技巧与策略。"
-iframeSrc: "https://growden.io/"
+locale: zh
+title: Grow a Garden
+seoTitle: 免费在线玩 Grow a Garden | FiddleBops
+description: 通过这篇全面指南，一起走进轻松治愈的园艺游戏世界。了解从播种、培育到收获的核心玩法，并掌握打造理想花园的实用技巧与策略。
+iframeSrc: 'https://growden.io/'
 thumbnail: /new-images/thumbnails/grow-a-garden.jpeg
-score: "4.9/5  (5065 votes)"
-tags: ["simulation", "casual"]
-releaseDate: 2025-08-16
+urlstr: grow-a-garden
+tags:
+  - simulation
+  - casual
+score: 4.9/5  (5065 votes)
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

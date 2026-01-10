@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: archery
 title: Archery World Tour
+seoTitle: Spiele Archery World Tour kostenlos online | FiddleBops
 description: >-
   Schnapp dir Bogen und Pfeile und geh in Archery World Tour auf Weltreise.
   Berücksichtige Wind und Entfernung, triff ins Schwarze und werde
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://archery.h5games.usercontent.goog/v/f12fb2aa-d64b-4074-8974-31705698e2e6/
 thumbnail: /new-images/thumbnails/archery.jpg
+urlstr: archery
 tags:
   - sports
   - shooting

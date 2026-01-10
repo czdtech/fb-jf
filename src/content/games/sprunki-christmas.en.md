@@ -1,6 +1,7 @@
 ---
 locale: en
-title: Sprunki Christmas - Play Sprunki Christmas Online
+title: Sprunki Christmas
+seoTitle: Play Sprunki Christmas Online Free | FiddleBops
 description: >-
   Sprunki Christmas is a Mod that allows you to fully enjoy the fun of the game
   in the festive atmosphere. Come to the world of Sprunki Christmas and light up
@@ -8,11 +9,11 @@ description: >-
 iframeSrc: 'https://turbowarp.org/1104040581/embed'
 thumbnail: /new-images/thumbnails/sprunki-christmas.png
 urlstr: sprunki-christmas
-modType: sprunki
-score: 4.6/5  (486 votes)
 tags:
   - sprunki christmas
   - music
+modType: sprunki
+score: 4.6/5  (486 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

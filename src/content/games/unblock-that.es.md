@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: unblock-that
-title: Unblock That - Desbloquea el camino
+title: Unblock That
+seoTitle: Juega a Unblock That en línea gratis | FiddleBops
 description: >-
   Un puzle clásico de bloques deslizantes. Mueve los bloques de madera para
   liberar el camino y sacar el bloque rojo del tablero. Ideal para amantes de
   los retos lógicos.
 iframeSrc: 'https://unblockthat.h5games.usercontent.goog/v/6iqu63hhulkgo/'
 thumbnail: /new-images/thumbnails/unblock-that.png
+urlstr: unblock-that
 tags:
   - puzzle
   - thinky

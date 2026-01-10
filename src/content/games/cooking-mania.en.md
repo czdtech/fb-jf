@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Cooking Mania"
-description: "Cooking Mania is a fast time‑management cooker — juggle orders, chain combos, and upgrade kitchens to keep customers happy."
-iframeSrc: "https://626dr588t6g9g.h5games.usercontent.goog/v/76eqgdom1qfbg/"
+title: Cooking Mania
+seoTitle: Play Cooking Mania Online Free | FiddleBops
+description: >-
+  Cooking Mania is a fast time‑management cooker — juggle orders, chain combos,
+  and upgrade kitchens to keep customers happy.
+iframeSrc: 'https://626dr588t6g9g.h5games.usercontent.goog/v/76eqgdom1qfbg/'
 thumbnail: /new-images/thumbnails/cooking-mania.jpg
-urlstr: "cooking-mania"
-score: "4.0/5  (1839 votes)"
-tags: ["casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: cooking-mania
+tags:
+  - casual
+  - thinky
+score: 4.0/5  (1839 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

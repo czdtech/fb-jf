@@ -1,16 +1,17 @@
 ---
 locale: ko
-urlstr: fiddlebops-sprunksters-remix
 title: Fiddlebops Sprunksters Remix
+seoTitle: Fiddlebops Sprunksters Remix 무료 온라인 플레이 | FiddleBops
 description: >-
   Fiddlebops 스타일과 Sprunksters 테마를 섞은 리믹스 음악 Mod입니다. 다양한 캐릭터 루프를 섞어 자신만의
   Sprunksters 리믹스를 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1149194527/embed'
 thumbnail: /new-images/thumbnails/fiddlebops-sprunksters-remix.png
+urlstr: fiddlebops-sprunksters-remix
 tags:
   - fiddlebops sprunksters remix
 score: 4.1/5  (127 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: mahjongg-solitaire
 title: Mahjongg Solitaire 마작 솔리테어 클래식
+seoTitle: Mahjongg Solitaire 마작 솔리테어 클래식 무료 온라인 플레이 | FiddleBops
 description: >-
   Mahjongg Solitaire는 Mahjong Solitaire 또는 Shanghai Solitaire로도 알려진 고전 싱글 플레이 타일
   매칭 퍼즐로, 같은 모양의 자유 타일을 짝지어 144장의 타일을 모두 제거하는 게임입니다.
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjongg-solitaire/
 thumbnail: /new-images/thumbnails/mahjongg-solitaire.jpg
+urlstr: mahjongg-solitaire
 tags:
   - puzzle
   - tile-matching

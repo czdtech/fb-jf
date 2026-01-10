@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: smarty-bubbles
 title: Smarty Bubbles 스마티 버블
+seoTitle: Smarty Bubbles 스마티 버블 무료 온라인 플레이 | FiddleBops
 description: >-
   순수한 클래식 버블 슈터를 즐길 수 있는 게임입니다. 대포로 버블을 쏴 같은 색을 세 개 이상 맞추고, 버블이 아래에 닿기 전에 모두 제거해
   보세요.
 iframeSrc: 'https://smartybubbles.h5games.usercontent.goog/v/09fhbor6rfpv0/'
 thumbnail: /new-images/thumbnails/smarty-bubbles.png
+urlstr: smarty-bubbles
 tags:
   - shooting
   - puzzle

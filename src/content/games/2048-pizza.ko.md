@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: 2048-pizza
-title: "2048 Pizza 2048 피자"
+title: 2048 Pizza 2048 피자
+seoTitle: 2048 Pizza 2048 피자 무료 온라인 플레이 | FiddleBops
 description: >-
-  2048 Pizza는 클래식 2048 슬라이드·머지 퍼즐을 피자 토핑 테마로 재해석한 게임입니다.
-  타일을 밀어 같은 숫자를 합치고, 점점 더 큰 조각을 만들어 보세요.
+  2048 Pizza는 클래식 2048 슬라이드·머지 퍼즐을 피자 토핑 테마로 재해석한 게임입니다. 타일을 밀어 같은 숫자를 합치고, 점점 더
+  큰 조각을 만들어 보세요.
 iframeSrc: 'https://14qikp6hbljig.h5games.usercontent.goog/v/4htrmkq5b0b78/'
 thumbnail: /new-images/thumbnails/2048-pizza.png
+urlstr: 2048-pizza
 tags:
   - puzzle
   - thinky

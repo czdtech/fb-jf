@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: mega-prize-scratch
-title: Mega Prize Scratch - Rasca y gana casual
+title: Mega Prize Scratch
+seoTitle: Juega a Mega Prize Scratch en línea gratis | FiddleBops
 description: >-
   Mega Prize Scratch es un juego casual de tarjetas para rascar: revela
   casillas, combina símbolos y pon límites a la sesión para mantener la
   experiencia divertida.
 iframeSrc: 'https://3a38lqtqled1o.h5games.usercontent.goog/v/37llbljplv5v0/'
 thumbnail: /new-images/thumbnails/mega-prize-scratch.png
+urlstr: mega-prize-scratch
 tags:
   - casual
 score: 3.6/5  (1538 votes)

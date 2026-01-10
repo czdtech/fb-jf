@@ -1,6 +1,7 @@
 ---
 locale: en
-title: Incredibox Shatter Sprunk - Play Incredibox Shatter Sprunk Online
+title: Incredibox Shatter Sprunk
+seoTitle: Play Incredibox Shatter Sprunk Online Free | FiddleBops
 description: >-
   Incredibox Shatter Sprunk is a fan-created Incredibox mod music game. In this
   version, all characters are presented in a striking yellow color, and each
@@ -8,12 +9,12 @@ description: >-
 iframeSrc: 'https://turbowarp.org/1144858827/embed'
 thumbnail: /new-images/thumbnails/incredibox-shatter-sprunk.png
 urlstr: incredibox-shatter-sprunk
-modType: incredibox
-score: 4.5/5  (614 votes)
 tags:
   - incredibox shatter sprunk
   - incredibox shatter sprunk online
   - music
+modType: incredibox
+score: 4.5/5  (614 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

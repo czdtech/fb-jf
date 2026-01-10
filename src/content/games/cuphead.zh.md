@@ -1,12 +1,11 @@
 ---
 locale: zh
-urlstr: cuphead
-title: "Cuphead 茶杯头"
-description: >-
-  《Cuphead 茶杯头》是一款节奏极快的横版跑枪游戏，你需要掌握精准跳跃、冲刺与 Boss
-  攻击模式，在高强度战斗中存活下来。
+title: Cuphead 茶杯头
+seoTitle: 免费在线玩 Cuphead 茶杯头 | FiddleBops
+description: 《Cuphead 茶杯头》是一款节奏极快的横版跑枪游戏，你需要掌握精准跳跃、冲刺与 Boss 攻击模式，在高强度战斗中存活下来。
 iframeSrc: 'https://bitlifeonline.github.io/cuphead/'
 thumbnail: /new-images/thumbnails/cuphead.jpg
+urlstr: cuphead
 tags:
   - action
   - platformer

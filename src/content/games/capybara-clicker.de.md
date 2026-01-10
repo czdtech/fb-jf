@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: capybara-clicker
 title: Capybara Clicker
+seoTitle: Spiele Capybara Clicker kostenlos online | FiddleBops
 description: >-
   Vervielfache deine Capybara-Population in Capybara Clicker. Klicke, um
   Capybaras zu erzeugen, kaufe automatische Upgrades, schalte neue Wetterlagen
@@ -9,6 +9,7 @@ description: >-
   Idle-Spiel.
 iframeSrc: 'https://bitlifeonline.github.io/capybara-clicker/'
 thumbnail: /new-images/thumbnails/capybara-clicker.jpg
+urlstr: capybara-clicker
 tags:
   - casual
   - clicker

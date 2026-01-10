@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: guess-the-kitty
 title: Guess the Kitty
+seoTitle: Jouez à Guess the Kitty en ligne gratuitement | FiddleBops
 description: >-
   Quiz illustré avec des chats : devine la bonne race ou caractéristique à
   partir des photos et indices, et progresse à travers des manches thématiques.
 iframeSrc: 'https://webglmath.github.io/guess-the-kitty/'
 thumbnail: /new-images/thumbnails/guess-the-kitty.jpg
+urlstr: guess-the-kitty
 tags:
   - trivia
   - puzzle

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: veggies-cut
-title: Veggies Cut - Corta verduras a lo loco
+title: Veggies Cut
+seoTitle: Juega a Veggies Cut en línea gratis | FiddleBops
 description: >-
   Veggies Cut es un cortador de cocina arcade: encadena cortes largos y limpios,
   esquiva peligros y encuentra el ritmo perfecto para lograr puntuaciones
   altísimas.
 iframeSrc: 'https://01pgt4aflffvo.h5games.usercontent.goog/v/2kpv41q3jen50/'
 thumbnail: /new-images/thumbnails/veggies-cut.jpg
+urlstr: veggies-cut
 tags:
   - action
   - casual

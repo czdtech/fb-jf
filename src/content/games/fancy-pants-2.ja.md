@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Fancy Pants 2 ファンシーパンツ2
+seoTitle: 無料でFancy Pants 2 ファンシーパンツ2をオンラインでプレイ | FiddleBops
 description: 「Fancy Pants 2」は勢い重視のプラットフォーマー続編。より速い移動テクニック、新しい敵、秘密とトロフィーが詰まった大きな手描きステージ。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj9/index.html
 thumbnail: /new-images/thumbnails/fancy-pants-2.jpg
 urlstr: fancy-pants-2
-score: 4.3/5  (582 votes)
 tags:
   - platformer
   - action
+score: 4.3/5  (582 votes)
 developer: Brad Borne
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

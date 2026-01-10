@@ -1,14 +1,17 @@
 ---
-title: "2048 Pizza 2048ピザ"
-description: "「2048 ピザ」は、ピザのテーマで楽しむカジュアルな2048パズルゲームです。ピザのピースを組み合わせて、美味しいピザを完成させましょう！"
-iframeSrc: "https://14qikp6hbljig.h5games.usercontent.goog/v/4htrmkq5b0b78/"
-thumbnail: /new-images/thumbnails/2048-pizza.png
-urlstr: "2048-pizza"
-score: "4.2/5  (2089 votes)"
-tags: ["puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
 locale: ja
+title: 2048 Pizza 2048ピザ
+seoTitle: 無料で2048 Pizza 2048ピザをオンラインでプレイ | FiddleBops
+description: 「2048 ピザ」は、ピザのテーマで楽しむカジュアルな2048パズルゲームです。ピザのピースを組み合わせて、美味しいピザを完成させましょう！
+iframeSrc: 'https://14qikp6hbljig.h5games.usercontent.goog/v/4htrmkq5b0b78/'
+thumbnail: /new-images/thumbnails/2048-pizza.png
+urlstr: 2048-pizza
+tags:
+  - puzzle
+  - casual
+score: 4.2/5  (2089 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,6 +1,7 @@
 ---
 locale: en
 title: MONOPOLY
+seoTitle: Play MONOPOLY Online Free | FiddleBops
 description: >-
   Monopoly is a classic real estate board game where players buy, rent, or sell
   properties with the goal of bankrupting their opponents and becoming the
@@ -8,13 +9,13 @@ description: >-
 iframeSrc: 'https://w8.snokido.com/games/html5/monopoly/index.html'
 thumbnail: /new-images/thumbnails/monopoly.jpg
 urlstr: monopoly
-score: 3.7/5  (1329 votes)
 tags:
   - board-game
   - strategy
   - economic
+score: 3.7/5  (1329 votes)
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

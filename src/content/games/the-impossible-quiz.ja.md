@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: The Impossible Quiz
+seoTitle: 無料でThe Impossible Quizをオンラインでプレイ | FiddleBops
 description: The Impossible Quizは、トリッキーで面白いクイズゲームです。予想外の答えを見つけて難しい質問に挑戦しましょう。
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-impossible-quiz.html'
 thumbnail: /new-images/thumbnails/the-impossible-quiz.jpg
 urlstr: the-impossible-quiz
-score: 4.8/5  (1294 votes)
 tags:
   - quiz
   - puzzle
   - humor
-locale: ja
-releaseDate: 2025-08-16
+score: 4.8/5  (1294 votes)
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

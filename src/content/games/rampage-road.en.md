@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Rampage Road"
-description: "Rampage Road is a chaotic car shooter — weave traffic, blast foes, and survive explosive pursuits."
-iframeSrc: "https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/"
+title: Rampage Road
+seoTitle: Play Rampage Road Online Free | FiddleBops
+description: >-
+  Rampage Road is a chaotic car shooter — weave traffic, blast foes, and survive
+  explosive pursuits.
+iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
 thumbnail: /new-images/thumbnails/rampage-road.png
-urlstr: "rampage-road"
-score: "3.9/5  (1753 votes)"
-tags: ["car", "driving", "shooting"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: rampage-road
+tags:
+  - car
+  - driving
+  - shooting
+score: 3.9/5  (1753 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

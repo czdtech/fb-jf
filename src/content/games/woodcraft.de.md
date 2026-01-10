@@ -1,10 +1,14 @@
 ---
 locale: de
-urlstr: woodcraft
-title: "Woodcraft"
-description: "Werde zum Holzhandwerker in Woodcraft: Bearbeite Werkstücke im richtigen Takt, erfülle Aufträge und schaltest neue Werkzeuge und Muster frei – ein entspanntes, rhythmisches Crafting‑Spiel." 
+title: Woodcraft
+seoTitle: Spiele Woodcraft kostenlos online | FiddleBops
+description: >-
+  Werde zum Holzhandwerker in Woodcraft: Bearbeite Werkstücke im richtigen Takt,
+  erfülle Aufträge und schaltest neue Werkzeuge und Muster frei – ein
+  entspanntes, rhythmisches Crafting‑Spiel.
 iframeSrc: 'https://g2.igroutka.ru/games/164/i06q7hMeRCsWOPKy/woodcraft/'
 thumbnail: /new-images/thumbnails/woodcraft.jpg
+urlstr: woodcraft
 tags:
   - casual
   - rhythm

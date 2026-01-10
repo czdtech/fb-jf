@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Doodle Jump ドゥードゥル・ジャンプ
+seoTitle: 無料でDoodle Jump ドゥードゥル・ジャンプをオンラインでプレイ | FiddleBops
 description: 「Doodle Jump」は中毒性抜群の縦スクロールアクション。足場を飛び移り、モンスターを避け、空高くどこまでも登っていこう。
 iframeSrc: 'https://ubg98.github.io/DoodleJump/'
 thumbnail: /new-images/thumbnails/doodle-jump.jpg
 urlstr: doodle-jump
-score: 4.2/5  (915 votes)
 tags:
   - arcade
   - platformer
+score: 4.2/5  (915 votes)
 developer: Lima Sky
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

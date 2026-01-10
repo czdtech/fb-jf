@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: zombie-hunter-survival
 title: 'Zombie Hunter: Survival'
+seoTitle: 'Spiele Zombie Hunter: Survival kostenlos online | FiddleBops'
 description: >-
   Zombie Hunter: Survival ist ein nervenaufreibender Top‑Down‑Shooter: Kreise
   Zombiehorden aus, haushalte mit Munition und überlebe immer härtere Wellen.
 iframeSrc: 'https://6ctmcm40nbff0.h5games.usercontent.goog/v/2a81mr3h8ut10/'
 thumbnail: /new-images/thumbnails/zombie-hunter-survival.png
+urlstr: zombie-hunter-survival
 tags:
   - shooting
   - horror

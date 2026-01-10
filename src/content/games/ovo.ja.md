@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Ovo
+seoTitle: 無料でOvoをオンラインでプレイ | FiddleBops
 description: Ovoはミニマリストなプラットフォーマーです。ジャンプやスライドで障害物を避け、正確な移動でステージを進みます。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20230129/1/index.html
 thumbnail: /new-images/thumbnails/ovo.jpg
 urlstr: ovo
-score: 4.6/5  (773 votes)
 tags:
   - action
   - platformer
   - casual
+score: 4.6/5  (773 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: cat-sort-quest
 title: Cat Sort Quest
+seoTitle: Jouez à Cat Sort Quest en ligne gratuitement | FiddleBops
 description: >-
   Cat Sort Quest est un jeu de tri relaxant : déplace les chats d’un perchoir à
   l’autre, regroupe les couleurs et gère intelligemment tes emplacements vides
   pour résoudre chaque puzzle.
 iframeSrc: 'https://4ajc8tu89od7g.h5games.usercontent.goog/v/49be5kf9v96j0/'
 thumbnail: /new-images/thumbnails/cat-sort-quest.png
+urlstr: cat-sort-quest
 tags:
   - puzzle
   - thinky

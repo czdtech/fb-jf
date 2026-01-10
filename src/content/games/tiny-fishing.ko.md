@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: tiny-fishing
 title: Tiny Fishing 타이니 피싱
+seoTitle: Tiny Fishing 타이니 피싱 무료 온라인 플레이 | FiddleBops
 description: >-
   낚싯줄을 깊은 바다로 던져 다양한 물고기를 낚고 장비를 업그레이드하는 캐주얼 낚시 게임입니다. 간단한 조작으로 힐링하면서도, 더 깊은 곳으로
   내려가 희귀 어종을 모으는 수집의 재미를 느껴 보세요.
 iframeSrc: 'https://webglmath.github.io/tiny-fishing/'
 thumbnail: /new-images/thumbnails/tiny-fishing.jpg
+urlstr: tiny-fishing
 tags:
   - fishing
   - casual

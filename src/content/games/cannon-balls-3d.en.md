@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Cannon Balls 3D"
-description: "Ready, aim, fire! Demolish structures with your cannon in this satisfying 3D physics puzzle. Aim for the weak spots and use your limited ammo wisely to bring everything crashing down."
-iframeSrc: "https://cannonballs3d.h5games.usercontent.goog/v/004m7ejm69rs0/"
+title: Cannon Balls 3D
+seoTitle: Play Cannon Balls 3D Online Free | FiddleBops
+description: >-
+  Ready, aim, fire! Demolish structures with your cannon in this satisfying 3D
+  physics puzzle. Aim for the weak spots and use your limited ammo wisely to
+  bring everything crashing down.
+iframeSrc: 'https://cannonballs3d.h5games.usercontent.goog/v/004m7ejm69rs0/'
 thumbnail: /new-images/thumbnails/cannon-balls-3d.png
-urlstr: "cannon-balls-3d"
-score: "4.2/5  (1900 votes)"
-tags: ["shooting", "puzzle", "action"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: cannon-balls-3d
+tags:
+  - shooting
+  - puzzle
+  - action
+score: 4.2/5  (1900 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

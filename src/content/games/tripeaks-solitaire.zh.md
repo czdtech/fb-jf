@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: tripeaks-solitaire
 title: 《Tripeaks Solitaire》三峰纸牌接龙
+seoTitle: 免费在线玩 《Tripeaks Solitaire》三峰纸牌接龙 | FiddleBops
 description: 《Tripeaks Solitaire》是一款以三座牌峰为布局的纸牌接龙游戏。通过按顺序移除牌峰上的明牌，将整个牌面清空以完成关卡。
 iframeSrc: 'https://tripeakssolitaire.h5games.usercontent.goog/v/4v3d7g06n6rug/'
 thumbnail: /new-images/thumbnails/tripeaks-solitaire.png
+urlstr: tripeaks-solitaire
 tags:
   - card
   - puzzle

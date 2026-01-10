@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: flames-fortune
 title: Flames & Fortune
+seoTitle: Spiele Flames & Fortune kostenlos online | FiddleBops
 description: >-
   Flames & Fortune ist ein taktischer, kartenähnlicher Battler – verwalte deine
   Hand, nutze Tempo-Vorteile und überliste Gegner mit klug geplanten Zügen.
 iframeSrc: 'https://0e8d16hkgti30.h5games.usercontent.goog/v/00r0qn2t79f3g/'
 thumbnail: /new-images/thumbnails/flames-fortune.jpg
+urlstr: flames-fortune
 tags:
   - card
   - thinky

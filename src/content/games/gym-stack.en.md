@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Gym Stack"
-description: "Stack up weights and smash through obstacles in Gym Stack! A fun and challenging runner game where you collect weights to grow stronger."
-iframeSrc: "https://gymstack.h5games.usercontent.goog/v/3js1l1d7rdkfg/"
+title: Gym Stack
+seoTitle: Play Gym Stack Online Free | FiddleBops
+description: >-
+  Stack up weights and smash through obstacles in Gym Stack! A fun and
+  challenging runner game where you collect weights to grow stronger.
+iframeSrc: 'https://gymstack.h5games.usercontent.goog/v/3js1l1d7rdkfg/'
 thumbnail: /new-images/thumbnails/gym-stack.jpeg
-urlstr: "gym-stack"
-score: "3.9/5  (1642 votes)"
-tags: ["action", "casual", "sports"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: gym-stack
+tags:
+  - action
+  - casual
+  - sports
+score: 3.9/5  (1642 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

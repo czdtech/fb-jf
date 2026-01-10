@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Cards-21 カード21
+seoTitle: 無料でCards-21 カード21をオンラインでプレイ | FiddleBops
 description: 「Cards-21」はシンプルなブラックジャック。ヒットかスタンドか、リスクを管理してバーストせずに21を目指そう。手軽に楽しめるカードゲーム。
 iframeSrc: 'https://11kvu79prlefg.h5games.usercontent.goog/v/67r78cf7q96c0/'
 thumbnail: /new-images/thumbnails/cards-21.png
 urlstr: cards-21
-score: 3.8/5  (1547 votes)
 tags:
   - card
   - casual
   - thinky
+score: 3.8/5  (1547 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

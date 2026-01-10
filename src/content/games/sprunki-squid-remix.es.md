@@ -1,17 +1,18 @@
 ---
 locale: es
-urlstr: sprunki-squid-remix
-title: 'Sprunki Squid Remix - Juega a Sprunki Squid Remix online'
+title: Sprunki Squid Remix
+seoTitle: Juega a Sprunki Squid Remix en línea gratis | FiddleBops
 description: >-
   Sprunki Squid ofrece una experiencia única y muy intensa: combina los temas e
   imágenes icónicas de El juego del calamar con la libertad creativa de Sprunki
   para crear una jugabilidad crossover que no se parece a nada.
 iframeSrc: 'https://turbowarp.org/1123885023/embed'
 thumbnail: /new-images/thumbnails/sprunki-squid-remix.png
+urlstr: sprunki-squid-remix
 tags:
   - sprunki squid remix
 score: 4.1/5  (92 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

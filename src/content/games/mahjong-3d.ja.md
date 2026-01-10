@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Mahjong 3D
+seoTitle: 無料でMahjong 3Dをオンラインでプレイ | FiddleBops
 description: 3Dで遊べる麻雀ソリティアです。パズルを回転させてフリータイルのペアを見つけ、盤面をクリアします。
 iframeSrc: >-
   https://mahjong3d.h5games.usercontent.goog/v/eba0837e-4855-4bb2-b762-5dd6d8982cac/
 thumbnail: /new-images/thumbnails/mahjong-3d.jpg
 urlstr: mahjong-3d
-score: 4.5/5  (2400 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.5/5  (2400 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

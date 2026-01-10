@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: color-roll-3d
 title: Color Roll 3D 色彩卷纸 3D
+seoTitle: 免费在线玩 Color Roll 3D 色彩卷纸 3D | FiddleBops
 description: >-
   《Color Roll 3D 色彩卷纸 3D》是一款极具满足感的展开填色解谜游戏。你需要按照正确顺
   序将彩色纸带一层层展开，用它们恰到好处地覆盖棋盘，拼出目标图案。
 iframeSrc: 'https://63vakb2ehqof8.h5games.usercontent.goog/v/381au2qko6no0/'
 thumbnail: /new-images/thumbnails/color-roll-3d.png
+urlstr: color-roll-3d
 tags:
   - puzzle
   - thinky

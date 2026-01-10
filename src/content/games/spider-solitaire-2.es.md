@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: spider-solitaire-2
 title: Spider Solitaire
+seoTitle: Juega a Spider Solitaire en línea gratis | FiddleBops
 description: >-
   Enfréntate al reto de Spider Solitaire. Ordena las cartas en secuencias
   descendentes por palo para retirarlas del tablero. Una verdadera prueba de
   estrategia y planificación.
 iframeSrc: 'https://spidersolitaire.h5games.usercontent.goog/v/42fd7cuq80rao/'
 thumbnail: /new-images/thumbnails/spider-solitaire-2.png
+urlstr: spider-solitaire-2
 tags:
   - card
   - puzzle

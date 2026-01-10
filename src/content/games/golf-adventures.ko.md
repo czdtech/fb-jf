@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: golf-adventures
 title: Golf Adventures 골프 어드벤처
+seoTitle: Golf Adventures 골프 어드벤처 무료 온라인 플레이 | FiddleBops
 description: >-
   물리 연산을 활용해 볼을 홀에 넣는 골프 퍼즐 게임입니다. 각종 장애물과 기상천외한 코스를 적은 타수로 공략하며, 각도와 파워를 계산해 샷을
   설계해 보세요.
 iframeSrc: 'https://golfadventures.h5games.usercontent.goog/v/2er1vod6k6p0o/'
 thumbnail: /new-images/thumbnails/golf-adventures.png
+urlstr: golf-adventures
 tags:
   - sports
   - puzzle

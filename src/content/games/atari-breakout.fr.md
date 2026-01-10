@@ -1,7 +1,7 @@
 ---
 locale: fr
-urlstr: atari-breakout
 title: Atari Breakout
+seoTitle: Jouez à Atari Breakout en ligne gratuitement | FiddleBops
 description: >-
   Atari Breakout est un classique de l’arcade : contrôle ta raquette, fais
   rebondir la balle pour casser toutes les briques et vise le meilleur score
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://app-184523.games.s3.yandex.net/184523/bdryh2h6iqjirujzrk3tlum0j0n28j1o/index.html
 thumbnail: /new-images/thumbnails/atari-breakout.jpg
+urlstr: atari-breakout
 tags:
   - casual
   - action

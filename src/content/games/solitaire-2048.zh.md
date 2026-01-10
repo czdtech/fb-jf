@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: solitaire-2048
 title: 《Solitaire 2048》合成纸牌 2048
+seoTitle: 免费在线玩 《Solitaire 2048》合成纸牌 2048 | FiddleBops
 description: >-
   《Solitaire 2048》是一款把 2048
   合成机制与纸牌流结合起来的益智游戏。通过将数字牌放入不同列中，让相邻相同数字合并升级，合理管理各列空间打出大连锁。
 iframeSrc: 'https://041gj41756cjg.h5games.usercontent.goog/v/7n148hti57veo/'
 thumbnail: /new-images/thumbnails/solitaire-2048.png
+urlstr: solitaire-2048
 tags:
   - card
   - puzzle

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: comfy-farm
 title: Comfy Farm
+seoTitle: Juega a Comfy Farm en línea gratis | FiddleBops
 description: >-
   ¡Bienvenido a Comfy Farm! Planta semillas, riega tus cultivos y cóséchalos
   para ganar monedas. Protege tus plantas de las plagas y usa tus beneficios
   para mejorar y ampliar tu propia granja acogedora.
 iframeSrc: 'https://comfyfarm.h5games.usercontent.goog/v/73m7i3ndifhg0/'
 thumbnail: /new-images/thumbnails/comfy-farm.png
+urlstr: comfy-farm
 tags:
   - casual
   - strategy

@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: geometry-dash-wave
 title: Geometry Dash Wave 웨이브 모드
+seoTitle: Geometry Dash Wave 웨이브 모드 무료 온라인 플레이 | FiddleBops
 description: >-
   삼각형 아이콘으로 대각선 파동 궤적을 그리며 장애물을 피해 나가는 리듬 플랫포머입니다. 한 번의 클릭으로 위·아래를 오가는 웨이브 조작에
   익숙해져, 음악에 맞춰 까다로운 코스를 완주해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231205/04/index.html
 thumbnail: /new-images/thumbnails/geometry-dash-wave.jpg
+urlstr: geometry-dash-wave
 tags:
   - rhythm
   - platformer

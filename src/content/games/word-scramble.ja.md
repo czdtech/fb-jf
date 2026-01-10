@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Word Scramble
+seoTitle: 無料でWord Scrambleをオンラインでプレイ | FiddleBops
 description: Word Scrambleは、単語アナグラムゲームです。シャッフルされた文字から単語を作りましょう。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/word-scramble/'
 thumbnail: /new-images/thumbnails/word-scramble.jpg
 urlstr: word-scramble
-score: 3.5/5  (764 votes)
 tags:
   - puzzle
   - word
   - anagram
-locale: ja
+score: 3.5/5  (764 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

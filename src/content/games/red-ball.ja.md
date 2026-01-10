@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Red Ball
+seoTitle: 無料でRed Ballをオンラインでプレイ | FiddleBops
 description: Red Ballはクラシックなプラットフォームゲームです。赤いボールを転がし、ジャンプし、パズルを解決し、レベルを完了します。
 iframeSrc: >-
   https://app-185271.games.s3.yandex.net/185271/uvjrp10onrrllry3esbc3gpnf7s40cj5/index.html
 thumbnail: /new-images/thumbnails/red-ball.jpg
 urlstr: red-ball
-score: 4.2/5  (1161 votes)
 tags:
   - platformer
   - action
   - casual
+score: 4.2/5  (1161 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

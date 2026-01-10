@@ -1,17 +1,18 @@
 ---
 locale: es
-urlstr: sprunki-phase-8
-title: 'Sprunki Phase 8 - Juega a Sprunki Phase 8 en línea'
+title: Sprunki Phase 8
+seoTitle: Juega a Sprunki Phase 8 en línea gratis | FiddleBops
 description: >-
   Sprunki Phase 8 es un experimento valiente que combina la creación musical con
   una estética de terror. Es una plataforma llena de misterio y creatividad que
   te permite divertirte componiendo mientras exploras tu lado más oscuro.
 iframeSrc: 'https://turbowarp.org/1140266189/embed'
 thumbnail: /new-images/thumbnails/sprunki-phase-8.png
+urlstr: sprunki-phase-8
 tags:
   - sprunki phase 8
 score: 4.2/5  (396 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

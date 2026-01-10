@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: bowling-stars
 title: Bowling Stars 保龄球之星
+seoTitle: 免费在线玩 Bowling Stars 保龄球之星 | FiddleBops
 description: 《Bowling Stars 保龄球之星》是一款休闲保龄球游戏，通过瞄准、旋转与力度控制打出 Strike 与 Spare，挑战不同 球道布局与高分记录。
 iframeSrc: 'https://0pst60kfu8pi8.h5games.usercontent.goog/v/249kviafiu6co/'
 thumbnail: /new-images/thumbnails/bowling-stars.png
+urlstr: bowling-stars
 tags:
   - sports
   - casual

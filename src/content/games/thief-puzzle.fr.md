@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: thief-puzzle
 title: Thief Puzzle
+seoTitle: Jouez à Thief Puzzle en ligne gratuitement | FiddleBops
 description: >-
   Thief Puzzle est un puzzle de bras extensible malicieux : etire, evite les
   pieges et attrape les cibles avec des angles et un timing astucieux.
 iframeSrc: 'https://5mubkj30k8998.h5games.usercontent.goog/v/79n1cktk92370/'
 thumbnail: /new-images/thumbnails/thief-puzzle.png
+urlstr: thief-puzzle
 tags:
   - puzzle
   - thinky

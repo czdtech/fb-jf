@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: tripeaks-solitaire
 title: Tripeaks Solitaire 트리픽스 솔리테어
+seoTitle: Tripeaks Solitaire 트리픽스 솔리테어 무료 온라인 플레이 | FiddleBops
 description: >-
   세 개의 피라미드 모양 카드 더미를 모두 치우는 트리픽스 솔리테어입니다. 버림 패의 숫자보다 하나 높거나 낮은 카드를 연달아 내면서 긴 연속
   콤보를 만들고, 패산이 떨어지기 전에 보드를 깨끗이 비우는 것이 목표입니다.
 iframeSrc: 'https://tripeakssolitaire.h5games.usercontent.goog/v/4v3d7g06n6rug/'
 thumbnail: /new-images/thumbnails/tripeaks-solitaire.png
+urlstr: tripeaks-solitaire
 tags:
   - card
   - puzzle

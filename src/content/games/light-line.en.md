@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Light Line"
-description: "Light Line is a luminous path‑drawing puzzler — connect nodes without crossings, manage energy, and solve with elegant routes."
-iframeSrc: "https://4es9bmcl5tp2o.h5games.usercontent.goog/v/5uo8nsnhp1vjo/"
+title: Light Line
+seoTitle: Play Light Line Online Free | FiddleBops
+description: >-
+  Light Line is a luminous path‑drawing puzzler — connect nodes without
+  crossings, manage energy, and solve with elegant routes.
+iframeSrc: 'https://4es9bmcl5tp2o.h5games.usercontent.goog/v/5uo8nsnhp1vjo/'
 thumbnail: /new-images/thumbnails/light-line.png
-urlstr: "light-line"
-score: "4.2/5  (2077 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: light-line
+tags:
+  - puzzle
+  - thinky
+score: 4.2/5  (2077 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

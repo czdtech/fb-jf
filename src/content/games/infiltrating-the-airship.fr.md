@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: infiltrating-the-airship
 title: Infiltrating the Airship
+seoTitle: Jouez à Infiltrating the Airship en ligne gratuitement | FiddleBops
 description: >-
   Épisode Henry Stickmin à bord d’un dirigeable : choisis gadgets et routes,
   déclenche des gags et débloque plusieurs fins grâce au système de scènes
   rejouables.
 iframeSrc: 'https://rebemanae.github.io/infiltrating-the-airship/'
 thumbnail: /new-images/thumbnails/infiltrating-the-airship.jpg
+urlstr: infiltrating-the-airship
 tags:
   - adventure
   - point-and-click

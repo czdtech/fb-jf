@@ -1,13 +1,11 @@
 ---
 locale: zh
-urlstr: word-connect
-title: 'Word Connect：连线拼词挑战'
-description: >-
-  《Word Connect》是一款上瘾的英文拼词游戏。
-  从圆形字母盘中划线连出单词，填满上方填字格，顺便挖掘隐藏单词、赚取金币，
-  在轻松节奏中拓展词汇量。
+title: Word Connect：连线拼词挑战
+seoTitle: 免费在线玩 Word Connect：连线拼词挑战 | FiddleBops
+description: 《Word Connect》是一款上瘾的英文拼词游戏。 从圆形字母盘中划线连出单词，填满上方填字格，顺便挖掘隐藏单词、赚取金币， 在轻松节奏中拓展词汇量。
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288677/index.html'
 thumbnail: /new-images/thumbnails/word-connect.jpg
+urlstr: word-connect
 tags:
   - word-game
   - puzzle

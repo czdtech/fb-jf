@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: snake
 title: Snake
+seoTitle: Juega a Snake en línea gratis | FiddleBops
 description: >-
   Juega al clásico atemporal Snake. Controla una línea en movimiento continuo,
   come comida para alargarla y evita chocar contra las paredes o tu propia cola.
@@ -9,6 +9,7 @@ description: >-
   desafiante.
 iframeSrc: 'https://www.googlesnake.com/snakem.php'
 thumbnail: /new-images/thumbnails/snake.jpg
+urlstr: snake
 tags:
   - classic
   - arcade

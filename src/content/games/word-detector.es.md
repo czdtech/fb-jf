@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: word-detector
-title: Word Detector - Caza palabras en la cuadrícula
+title: Word Detector
+seoTitle: Juega a Word Detector en línea gratis | FiddleBops
 description: >-
   Pon a prueba tu vocabulario en Word Detector. Encuentra y traza palabras
   ocultas en una cuadrícula de letras, conectando fichas en cualquier dirección
   antes de que se agote el tiempo.
 iframeSrc: 'https://worddetector.h5games.usercontent.goog/v/4gaf9ej9hp398/'
 thumbnail: /new-images/thumbnails/word-detector.png
+urlstr: word-detector
 tags:
   - puzzle
   - thinky

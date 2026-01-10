@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Basketball Master 2 バスケットボール・マスター2
+seoTitle: 無料でBasketball Master 2 バスケットボール・マスター2をオンラインでプレイ | FiddleBops
 description: 「Basketball Master 2」でシュートスキルを見せつけろ！障害物を破壊し、正確な狙いでゴールを決める、楽しくも挑戦的なバスケットボールゲーム。
 iframeSrc: 'https://basketballmaster2.h5games.usercontent.goog/v/267j5oehq25q0/'
 thumbnail: /new-images/thumbnails/basketball-master-2.png
 urlstr: basketball-master-2
-score: 4.5/5 (2345 votes)
 tags:
   - sports
   - basketball
   - shooting
+score: 4.5/5 (2345 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

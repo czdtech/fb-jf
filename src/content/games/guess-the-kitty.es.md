@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: guess-the-kitty
 title: Guess the Kitty
+seoTitle: Juega a Guess the Kitty en línea gratis | FiddleBops
 description: >-
   Concurso visual con gatos: deduce la raza o rasgos correctos a partir de
   imágenes y pistas, y avanza por rondas temáticas.
 iframeSrc: 'https://webglmath.github.io/guess-the-kitty/'
 thumbnail: /new-images/thumbnails/guess-the-kitty.jpg
+urlstr: guess-the-kitty
 tags:
   - trivia
   - puzzle

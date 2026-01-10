@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: whack-your-boss
 title: Whack Your Boss
+seoTitle: Jouez à Whack Your Boss en ligne gratuitement | FiddleBops
 description: >-
   Whack Your Boss est un jeu interactif à l'humour noir : découvre plus d'une
   douzaine de façons créatives et comiques de « casser » ton patron ennuyeux.
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/whack-your-boss-24-ways.html'
 thumbnail: /new-images/thumbnails/whack-your-boss.jpg
+urlstr: whack-your-boss
 tags:
   - interactive
   - funny

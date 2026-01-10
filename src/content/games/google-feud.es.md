@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: google-feud
 title: Google Feud
+seoTitle: Juega a Google Feud en línea gratis | FiddleBops
 description: >-
   Juego de adivinanzas tipo encuesta: completa las sugerencias de autocompletar
   con las búsquedas más populares y avanza rondas sin quedarte sin intentos.
 iframeSrc: 'https://mac-web.github.io/macvg/projects/google-feud/game.html'
 thumbnail: /new-images/thumbnails/google-feud.jpg
+urlstr: google-feud
 tags:
   - trivia
   - quiz

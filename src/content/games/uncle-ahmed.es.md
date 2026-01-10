@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: uncle-ahmed
-title: Uncle Ahmed - Aventura de plataformas clásica
+title: Uncle Ahmed
+seoTitle: Juega a Uncle Ahmed en línea gratis | FiddleBops
 description: >-
   Vive una aventura de plataformas 2D al estilo clásico con Uncle Ahmed. Salta
   sobre enemigos, recoge monedas y usa potenciadores para rescatar a tu sobrino
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://uncleahmed.h5games.usercontent.goog/v/31ca380f-5493-4371-b5ac-5c3c2da67626/
 thumbnail: /new-images/thumbnails/uncle-ahmed.jpg
+urlstr: uncle-ahmed
 tags:
   - action
   - adventure

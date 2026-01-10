@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: word-search-2
-title: Word Search - Sopa de letras clásica
+title: Word Search
+seoTitle: Juega a Word Search en línea gratis | FiddleBops
 description: >-
   La clásica sopa de letras: encuentra todas las palabras ocultas en la
   cuadrícula. Pueden estar en horizontal, vertical o diagonal, ¡e incluso
   escritas al revés!
 iframeSrc: 'https://wordsearch.h5games.usercontent.goog/v/6abe3eefqt368/'
 thumbnail: /new-images/thumbnails/word-search-2.jpg
+urlstr: word-search-2
 tags:
   - puzzle
   - thinky

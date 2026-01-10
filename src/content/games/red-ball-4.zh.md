@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: red-ball-4
 title: 《Red Ball 4》红球大冒险 4
+seoTitle: 免费在线玩 《Red Ball 4》红球大冒险 4 | FiddleBops
 description: >-
   《Red Ball
   4》是一款基于真实物理的横版闯关游戏。你将操控一颗可爱的红色小球，对抗企图把世界全部变成方块的邪恶方块军团，在充满机关与谜题的关卡中一路滚动、弹跳与解谜。
 iframeSrc: 'https://class198.github.io/g177/red-ball-4/'
 thumbnail: /new-images/thumbnails/red-ball-4.jpg
+urlstr: red-ball-4
 tags:
   - platformer
   - physics

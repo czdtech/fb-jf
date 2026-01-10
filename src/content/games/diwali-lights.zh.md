@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: diwali-lights
 title: Diwali Lights 排灯节点灯谜题
+seoTitle: 免费在线玩 Diwali Lights 排灯节点灯谜题 | FiddleBops
 description: >-
   《Diwali Lights 排灯节点灯谜题》是一款节日气氛十足的点灯解谜游戏。你需要按照规则点
   亮油灯（diyas），在不违反限制的前提下完成发光图案，有些关卡还带有步数或时间限制。
 iframeSrc: 'https://diwalilights.h5games.usercontent.goog/v/5cddqg9lrn3kg/'
 thumbnail: /new-images/thumbnails/diwali-lights.jpg
+urlstr: diwali-lights
 tags:
   - puzzle
   - casual

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: rocket-league
 title: Rocket League 로켓 리그
+seoTitle: Rocket League 로켓 리그 무료 온라인 플레이 | FiddleBops
 description: >-
   로켓 부스터가 달린 자동차로 축구를 즐기는 고속 스포츠 게임입니다. 점프와 부스트를 활용해 거대한 공을 상대 골대로 몰아 넣고, 화려한 공중
   슛과 팀 플레이로 승리를 노려 보세요.
 iframeSrc: 'https://ubg77.github.io/edit/rocket-soccer-derby/'
 thumbnail: /new-images/thumbnails/rocket-league.jpg
+urlstr: rocket-league
 tags:
   - sports
   - racing

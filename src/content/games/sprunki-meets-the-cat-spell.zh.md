@@ -1,14 +1,16 @@
 ---
-locale: "zh"
-urlstr: "sprunki-meets-the-cat-spell"
-
-title: "Sprunki Meets The Cat Spell - 在线玩 Sprunki Meets The Cat Spell"
-description: "这款 Mod 是现有 Mod「Sprunki Cats Game」的重制版本。"
-iframeSrc: "https://turbowarp.org/1149710266/embed"
+locale: zh
+title: Sprunki Meets The Cat Spell
+seoTitle: 免费在线玩 Sprunki Meets The Cat Spell | FiddleBops
+description: 这款 Mod 是现有 Mod「Sprunki Cats Game」的重制版本。
+iframeSrc: 'https://turbowarp.org/1149710266/embed'
 thumbnail: /new-images/thumbnails/sprunki-meets-the-cat-spell.png
-score: "4.8/5  (649 votes)"
-tags: ["sprunki meets the cat spell", "sprunki meets the cat spell online"]
-releaseDate: 2025-12-04
+urlstr: sprunki-meets-the-cat-spell
+tags:
+  - sprunki meets the cat spell
+  - sprunki meets the cat spell online
+score: 4.8/5  (649 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Meets The Cat Spell 介绍

@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Super Smash Flash
+seoTitle: 無料でSuper Smash Flashをオンラインでプレイ | FiddleBops
 description: Super Smash Flashは、オリジナルのファン製格闘ゲームです。様々なゲームキャラクターで戦う楽しい体験を提供します。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/super-smash-flash.html'
 thumbnail: /new-images/thumbnails/super-smash-flash.jpg
 urlstr: super-smash-flash
-score: 3.5/5  (679 votes)
 tags:
   - fighting
   - classic
   - action
-locale: ja
+score: 3.5/5  (679 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

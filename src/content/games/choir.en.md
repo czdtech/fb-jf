@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Choir Game"
-description: "Discover Blob Opera, the viral choir game! This guide provides detailed gameplay instructions, controls, tips, and answers to common questions for this creative musical experiment."
-iframeSrc: "https://d21u3ic0kp9e91.cloudfront.net/choir/04/index.html"
+title: Choir Game
+seoTitle: Play Choir Game Online Free | FiddleBops
+description: >-
+  Discover Blob Opera, the viral choir game! This guide provides detailed
+  gameplay instructions, controls, tips, and answers to common questions for
+  this creative musical experiment.
+iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/choir/04/index.html'
 thumbnail: /new-images/thumbnails/choir.jpg
-urlstr: "choir"
-score: "4.1/5  (123 votes)"
-tags: ["casual", "music"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: choir
+tags:
+  - casual
+  - music
+score: 4.1/5  (123 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

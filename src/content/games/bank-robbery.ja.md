@@ -1,5 +1,7 @@
 ---
+locale: ja
 title: Bank Robbery 銀行強盗：警官vs泥棒
+seoTitle: 無料でBank Robbery 銀行強盗：警官vs泥棒をオンラインでプレイ | FiddleBops
 description: >-
   「Bank
   Robbery」で究極の強盗劇、または正義の執行を体験せよ！強盗チームと警察チームに分かれ、戦略とチームワークで勝利を掴むタクティカルFPSの完全ガイド。
@@ -7,14 +9,13 @@ iframeSrc: >-
   https://app-183971.games.s3.yandex.net/183971/l0eme2yqkthl0y8stmfuz0u8pdpux64m/index.html
 thumbnail: /new-images/thumbnails/bank-robbery.jpg
 urlstr: bank-robbery
-score: 4.2/5  (1331 votes)
 tags:
   - action
   - fps
   - multiplayer
+score: 4.2/5  (1331 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

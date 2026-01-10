@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: only-up
 title: Only Up 온리 업
+seoTitle: Only Up 온리 업 무료 온라인 플레이 | FiddleBops
 description: >-
   Only Up는 각종 떠다니는 오브젝트와 기묘한 구조물로 이루어진 혼란스러운 3D 세계를 끊임없이 올라가야 하는 하드코어 플랫폼 게임으로,
   한 번 떨어지면 큰 구간을 다시 올라가야 하는 긴장감을 제공합니다.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230826/01/index.htm
 thumbnail: /new-images/thumbnails/only-up.jpg
+urlstr: only-up
 tags:
   - platformer
   - adventure

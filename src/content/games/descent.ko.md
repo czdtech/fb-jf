@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: descent
 title: Descent 디센트
+seoTitle: Descent 디센트 무료 온라인 플레이 | FiddleBops
 description: >-
   수직 통로를 떨어지며 벽을 타고 점프해 내려가는 아케이드 스킬 게임 Descent입니다. 가시와 함정을 피해 타이밍 좋게 벽을 옮겨 다니며
   아래로 내려가 보세요.
 iframeSrc: 'https://g2.igroutka.ru/games/17/4tWRaCD7AOzxbTsE/descent/'
 thumbnail: /new-images/thumbnails/descent.jpg
+urlstr: descent
 tags:
   - arcade
   - skill

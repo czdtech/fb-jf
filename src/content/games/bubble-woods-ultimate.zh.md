@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: bubble-woods-ultimate
 title: Bubble Woods Ultimate 森林泡泡射击终极版
+seoTitle: 免费在线玩 Bubble Woods Ultimate 森林泡泡射击终极版 | FiddleBops
 description: >-
   《Bubble Woods Ultimate 森林泡泡射击终极版》是一款以森林为背景的高分挑战泡泡游戏，在限定时间内尽可能多地消
   除泡泡，制造连锁与大坠落拿高分。
 iframeSrc: 'https://bubblewoods4.h5games.usercontent.goog/v/4jslovpheann0/'
 thumbnail: /new-images/thumbnails/bubble-woods-ultimate.png
+urlstr: bubble-woods-ultimate
 tags:
   - puzzle
   - casual

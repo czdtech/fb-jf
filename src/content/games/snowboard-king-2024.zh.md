@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: snowboard-king-2024
 title: 《Snowboard King 2024》单板滑雪之王
+seoTitle: 免费在线玩 《Snowboard King 2024》单板滑雪之王 | FiddleBops
 description: >-
   《Snowboard King
   2024》是一款紧张刺激的街机滑雪游戏。驾驭你的单板从山顶飞驰而下，一边躲避树木和岩石，一边拼命甩开身后步步逼近的雪崩，收集金币升级能力，冲击“滑雪之王”称号。
 iframeSrc: 'https://61nls5ipnd8o8.h5games.usercontent.goog/v/6mdu5qlsugsl0/'
 thumbnail: /new-images/thumbnails/snowboard-king-2024.png
+urlstr: snowboard-king-2024
 tags:
   - sports
   - action

@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: the-sea-rush
 title: 《The Sea Rush》海底消除探险
+seoTitle: 免费在线玩 《The Sea Rush》海底消除探险 | FiddleBops
 description: 《The Sea Rush》是一款海底主题的三消/消除游戏。通过交换或点击方块，将相同颜色的宝石或海洋元素连成一线进行消除，完成关卡目标。
 iframeSrc: 'https://thesearush.h5games.usercontent.goog/v/5ie3e5aghbr18/'
 thumbnail: /new-images/thumbnails/the-sea-rush.png
+urlstr: the-sea-rush
 tags:
   - match 3
   - puzzle

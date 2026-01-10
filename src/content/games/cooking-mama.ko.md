@@ -1,13 +1,13 @@
 ---
 locale: ko
-urlstr: cooking-mama
-title: "Cooking Mama: Mama Kills Animals 쿠킹 마마 패러디"
+title: 'Cooking Mama: Mama Kills Animals 쿠킹 마마 패러디'
+seoTitle: 'Cooking Mama: Mama Kills Animals 쿠킹 마마 패러디 무료 온라인 플레이 | FiddleBops'
 description: >-
-  동물권 단체 PETA가 제작한 충격적인 패러디 게임 'Cooking Mama: Mama Kills
-  Animals'를 소개합니다. 게임의 탄생 배경과 풍자적인 연출, 공식 시리즈와의 차이,
-  그리고 담긴 동물 보호 메시지를 정리한 가이드입니다.
+  동물권 단체 PETA가 제작한 충격적인 패러디 게임 'Cooking Mama: Mama Kills Animals'를 소개합니다. 게임의 탄생
+  배경과 풍자적인 연출, 공식 시리즈와의 차이, 그리고 담긴 동물 보호 메시지를 정리한 가이드입니다.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/cooking-mama.html'
 thumbnail: /new-images/thumbnails/cooking-mama.jpg
+urlstr: cooking-mama
 tags:
   - horror
 score: 4.4/5  (1078 votes)

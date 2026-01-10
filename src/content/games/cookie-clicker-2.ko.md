@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: cookie-clicker-2
 title: Cookie Clicker 2 쿠키 클릭커 2
+seoTitle: Cookie Clicker 2 쿠키 클릭커 2 무료 온라인 플레이 | FiddleBops
 description: >-
   전설적인 방치형 클릭 게임 Cookie Clicker를 위한 가이드입니다. 승천 타이밍, 황금 쿠키 활용법, 미니게임과 각종 팁을 통해 쿠키
   생산량을 극대화해 보세요.
 iframeSrc: 'https://games-online.io/game/cake-maker/'
 thumbnail: /new-images/thumbnails/cookie-clicker-2.jpg
+urlstr: cookie-clicker-2
 tags:
   - casual
   - clicker

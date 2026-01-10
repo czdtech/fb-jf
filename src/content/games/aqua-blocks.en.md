@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Aqua Blocks"
-description: "Aqua Blocks is a watery block‑placer — fit shapes, clear lines, and keep the board breathing."
-iframeSrc: "https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/"
+title: Aqua Blocks
+seoTitle: Play Aqua Blocks Online Free | FiddleBops
+description: >-
+  Aqua Blocks is a watery block‑placer — fit shapes, clear lines, and keep the
+  board breathing.
+iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
 thumbnail: /new-images/thumbnails/aqua-blocks.png
-urlstr: "aqua-blocks"
-score: "3.9/5  (1701 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: aqua-blocks
+tags:
+  - puzzle
+  - thinky
+score: 3.9/5  (1701 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

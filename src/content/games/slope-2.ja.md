@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Slope 2
+seoTitle: 無料でSlope 2をオンラインでプレイ | FiddleBops
 description: Slope 2はエンドレスランナーです。ボールを転がして障害物を避け、加速するスピードに対応します。
 iframeSrc: 'https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slope-2/index.html'
 thumbnail: /new-images/thumbnails/slope-2.jpg
 urlstr: slope-2
-score: 3.8/5  (790 votes)
 tags:
   - action
   - casual
+score: 3.8/5  (790 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

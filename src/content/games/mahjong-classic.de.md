@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: mahjong-classic
 title: Mahjong Classic
+seoTitle: Spiele Mahjong Classic kostenlos online | FiddleBops
 description: >-
   Genieße das zeitlose Puzzle Mahjong Classic. Finde und paare identische, freie
   Steine, um das Spielfeld zu räumen – ein entspanntes Spiel für Kopf und Auge.
 iframeSrc: 'https://mahjongclassic.h5games.usercontent.goog/v/6tue6un26r7v0/'
 thumbnail: /new-images/thumbnails/mahjong-classic.png
+urlstr: mahjong-classic
 tags:
   - puzzle
   - thinky

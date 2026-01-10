@@ -1,14 +1,17 @@
 ---
-title: "Merge Haven"
-description: "Merge Havenは庭づくり要素のあるマージゲームです。アイテムをマージして庭園を整え、エリアを広げていきます。"
-iframeSrc: "https://1jjan0u3n07qg.h5games.usercontent.goog/v/5aruivrappsfg/"
-thumbnail: /new-images/thumbnails/merge-haven.png
-urlstr: "merge-haven"
-score: "4.1/5  (1989 votes)"
-tags: ["casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
 locale: ja
+title: Merge Haven
+seoTitle: 無料でMerge Havenをオンラインでプレイ | FiddleBops
+description: Merge Havenは庭づくり要素のあるマージゲームです。アイテムをマージして庭園を整え、エリアを広げていきます。
+iframeSrc: 'https://1jjan0u3n07qg.h5games.usercontent.goog/v/5aruivrappsfg/'
+thumbnail: /new-images/thumbnails/merge-haven.png
+urlstr: merge-haven
+tags:
+  - casual
+  - thinky
+score: 4.1/5  (1989 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 ### ゲーム紹介

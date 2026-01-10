@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: 99-balls-3d
 title: 99 Balls 3D 99 볼즈 3D
+seoTitle: 99 Balls 3D 99 볼즈 3D 무료 온라인 플레이 | FiddleBops
 description: >-
   번호가 적힌 공들을 향해 연속으로 공을 쏘아 없애는 물리 퍼즐 슈팅 게임입니다. 반사각을 이용해 한 번의 샷으로 최대한 많은 타격을 노려
   보세요.
 iframeSrc: 'https://99balls3d.h5games.usercontent.goog/v/0b35ksethbio8/'
 thumbnail: /new-images/thumbnails/99-balls-3d.jpeg
+urlstr: 99-balls-3d
 tags:
   - shooting
   - puzzle

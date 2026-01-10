@@ -1,14 +1,18 @@
 ---
-title: "Penalty Showdown"
-description: "Penalty Showdownはペナルティキック対決です。ショットを撮り、ゴールをセーブし、対戦相手と競い、PKチャンピオンになります。"
-iframeSrc: "https://58r8ibinmpjeg.h5games.usercontent.goog/v/2m3pjv3her9fg/"
-thumbnail: /new-images/thumbnails/penalty-showdown.jpg
-urlstr: "penalty-showdown"
-score: "4.0/5  (1879 votes)"
-tags: ["sports", "2 player", "casual"]
-developer: ""
-releaseDate: 2025-10-18
 locale: ja
+title: Penalty Showdown
+seoTitle: 無料でPenalty Showdownをオンラインでプレイ | FiddleBops
+description: Penalty Showdownはペナルティキック対決です。ショットを撮り、ゴールをセーブし、対戦相手と競い、PKチャンピオンになります。
+iframeSrc: 'https://58r8ibinmpjeg.h5games.usercontent.goog/v/2m3pjv3her9fg/'
+thumbnail: /new-images/thumbnails/penalty-showdown.jpg
+urlstr: penalty-showdown
+tags:
+  - sports
+  - 2 player
+  - casual
+score: 4.0/5  (1879 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,14 +1,17 @@
 ---
-title: "Neon Rider"
-description: "Neon Riderは未来的なレーシングゲームです。ネオントラックを走り、色を切り替えながら障害物を避けて進みます。"
-iframeSrc: "https://1ef80kndi1bv0.h5games.usercontent.goog/v/4glscq8hf3m20/"
-thumbnail: /new-images/thumbnails/neon-rider.png
-urlstr: "neon-rider"
-score: "4.0/5  (1768 votes)"
-tags: ["action", "racing"]
-developer: ""
-releaseDate: 2025-10-18
 locale: ja
+title: Neon Rider
+seoTitle: 無料でNeon Riderをオンラインでプレイ | FiddleBops
+description: Neon Riderは未来的なレーシングゲームです。ネオントラックを走り、色を切り替えながら障害物を避けて進みます。
+iframeSrc: 'https://1ef80kndi1bv0.h5games.usercontent.goog/v/4glscq8hf3m20/'
+thumbnail: /new-images/thumbnails/neon-rider.png
+urlstr: neon-rider
+tags:
+  - action
+  - racing
+score: 4.0/5  (1768 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

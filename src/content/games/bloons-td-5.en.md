@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Bloons TD 5"
-description: "Master Bloons TD 5 with its deep strategy, diverse towers, and powerful Special Agents. Build the ultimate defense, unlock the mighty Temple of the Monkey God, and pop every last Bloon, including the fearsome ZOMG."
-iframeSrc: "https://1000freegames.github.io/swf/bloons-tower-defense-5.html"
+title: Bloons TD 5
+seoTitle: Play Bloons TD 5 Online Free | FiddleBops
+description: >-
+  Master Bloons TD 5 with its deep strategy, diverse towers, and powerful
+  Special Agents. Build the ultimate defense, unlock the mighty Temple of the
+  Monkey God, and pop every last Bloon, including the fearsome ZOMG.
+iframeSrc: 'https://1000freegames.github.io/swf/bloons-tower-defense-5.html'
 thumbnail: /new-images/thumbnails/bloons-td-5.jpg
-urlstr: "bloons-td-5"
-score: "3.7/5  (628 votes)"
-tags: ["casual", "strategy"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: bloons-td-5
+tags:
+  - casual
+  - strategy
+score: 3.7/5  (628 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

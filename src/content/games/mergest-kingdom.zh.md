@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: mergest-kingdom
 title: 《Mergest Kingdom》合成王国冒险
+seoTitle: 免费在线玩 《Mergest Kingdom》合成王国冒险 | FiddleBops
 description: >-
   《Mergest
   Kingdom》是一款奇幻题材的合成建造游戏，你通过合成植物、石块与各类遗物来升级产物、清除迷雾、扩张领地，并在任务与活动中规划高效的合成链。
 iframeSrc: 'https://620tnu7381eao.h5games.usercontent.goog/v/27p309rk86cr8/'
 thumbnail: /new-images/thumbnails/mergest-kingdom.png
+urlstr: mergest-kingdom
 tags:
   - puzzle
   - adventure

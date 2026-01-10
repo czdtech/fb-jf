@@ -1,17 +1,17 @@
 ---
 locale: ko
-urlstr: sprunki-like-minecraft
-title: "Sprunki Like Minecraft 스프룽키 라이크 마인크래프트 온라인"
+title: Sprunki Like Minecraft 스프룽키 라이크 마인크래프트
+seoTitle: Sprunki Like Minecraft 스프룽키 라이크 마인크래프트 무료 온라인 플레이 | FiddleBops
 description: >-
-  Incredibox Sprunki를 좋아하고, Minecraft 픽셀 세계도 사랑한다면 Sprunki Like Minecraft
-  모드는 꼭 해볼 만한 콜라보 음악 모드입니다. 마인크래프트풍 블록 스타일로 재해석된
-  Sprunki 캐릭터들과 함께 색다른 비트를 만들어 보세요.
+  Incredibox Sprunki를 좋아하고, Minecraft 픽셀 세계도 사랑한다면 Sprunki Like Minecraft 모드는 꼭
+  해볼 만한 콜라보 음악 모드입니다. 마인크래프트풍 블록 스타일로 재해석된 Sprunki 캐릭터들과 함께 색다른 비트를 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1095572358/embed'
 thumbnail: /new-images/thumbnails/sprunki-like-minecraft.png
+urlstr: sprunki-like-minecraft
 tags:
   - sprunki like minecraft
 score: 4.6/5  (601 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Five Nights at Freddy's 4 (FNAF 4)"
-description: "Bedroom nightmare survival: listen for breathing, manage doors and closet, and use your flashlight wisely to keep night terrors at bay."
-iframeSrc: "https://ubg77.github.io/fix/fnaf2/fnaf4.html"
+title: Five Nights at Freddy's 4 (FNAF 4)
+seoTitle: Play Five Nights at Freddy's 4 (FNAF 4) Online Free | FiddleBops
+description: >-
+  Bedroom nightmare survival: listen for breathing, manage doors and closet, and
+  use your flashlight wisely to keep night terrors at bay.
+iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf4.html'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-4.jpg
-urlstr: "five-nights-at-freddy-4"
-score: "4.9/5  (625 votes)"
-tags: ["horror", "strategy"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: five-nights-at-freddy-4
+tags:
+  - horror
+  - strategy
+score: 4.9/5  (625 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

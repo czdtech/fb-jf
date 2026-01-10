@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: red-ball-4
 title: Red Ball 4
+seoTitle: Juega a Red Ball 4 en línea gratis | FiddleBops
 description: >-
   Red Ball 4 es un juego de plataformas con físicas en el que controlas a una
   simpática bola roja en una misión para salvar el mundo de los malvados
@@ -9,6 +9,7 @@ description: >-
   obstáculos y puzles.
 iframeSrc: 'https://class198.github.io/g177/red-ball-4/'
 thumbnail: /new-images/thumbnails/red-ball-4.jpg
+urlstr: red-ball-4
 tags:
   - platformer
   - physics

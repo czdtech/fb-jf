@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Om Nom Bubbles"
-description: "Om Nom Bubbles is a colorful bubble shooter — match colors, bank shots, and clear boards with smart angles."
-iframeSrc: "https://omnombubbles.h5games.usercontent.goog/v/6bdfc73b-7b9c-4046-9bfe-9269036a772f/"
+title: Om Nom Bubbles
+seoTitle: Play Om Nom Bubbles Online Free | FiddleBops
+description: >-
+  Om Nom Bubbles is a colorful bubble shooter — match colors, bank shots, and
+  clear boards with smart angles.
+iframeSrc: >-
+  https://omnombubbles.h5games.usercontent.goog/v/6bdfc73b-7b9c-4046-9bfe-9269036a772f/
 thumbnail: /new-images/thumbnails/om-nom-bubbles.jpg
-urlstr: "om-nom-bubbles"
-score: "4.3/5  (2059 votes)"
-tags: ["puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: om-nom-bubbles
+tags:
+  - puzzle
+  - casual
+score: 4.3/5  (2059 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

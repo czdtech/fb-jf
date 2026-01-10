@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: tic-tac-toe
 title: 《Tic-Tac-Toe》井字棋
+seoTitle: 免费在线玩 《Tic-Tac-Toe》井字棋 | FiddleBops
 description: 《Tic-Tac-Toe》是一款经典的双人策略小游戏。两名玩家轮流在 3×3 棋盘上落下 X 或 O，率先在行、列或对角线上连成三个相同符号者获胜。
 iframeSrc: 'https://edit.coolmathgames.com//sites/cmatgame/files/public_games/32511/'
 thumbnail: /new-images/thumbnails/tic-tac-toe.jpg
+urlstr: tic-tac-toe
 tags:
   - strategy
   - classic

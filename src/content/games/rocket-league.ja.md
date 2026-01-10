@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Rocket League
+seoTitle: 無料でRocket Leagueをオンラインでプレイ | FiddleBops
 description: Rocket Leagueはカーサッカーゲームです。車を運転してボールを打ち、ゴールを決めて勝利を目指します。
 iframeSrc: 'https://ubg77.github.io/edit/rocket-soccer-derby/'
 thumbnail: /new-images/thumbnails/rocket-league.jpg
 urlstr: rocket-league
-score: 4.7/5  (530 votes)
 tags:
   - sports
   - action
   - 2 player
+score: 4.7/5  (530 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

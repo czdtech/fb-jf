@@ -1,18 +1,23 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Steal a Brainrot"
-description: "Discover the chaotic Roblox experience, 'Steal a Brainrot.' Learn the gameplay of this meme-filled game where you snatch brainrot characters like Skibidi Toilet and escape guards. Find tips, strategies, and more." 
-iframeSrc: "https://st.8games.net/7/8g/igra-ukradi-brejnrot-100-original/"
+title: Steal a Brainrot
+seoTitle: Play Steal a Brainrot Online Free | FiddleBops
+description: >-
+  Discover the chaotic Roblox experience, 'Steal a Brainrot.' Learn the gameplay
+  of this meme-filled game where you snatch brainrot characters like Skibidi
+  Toilet and escape guards. Find tips, strategies, and more.
+iframeSrc: 'https://st.8games.net/7/8g/igra-ukradi-brejnrot-100-original/'
 thumbnail: /new-images/thumbnails/steal-a-brainrot.webp
-urlstr: "steal-a-brainrot"
+urlstr: steal-a-brainrot
+tags:
+  - casual
+  - action
 featured: true
 featuredRank: 1
 sidebarNew: 1
-score: "4.7/5  (3719 votes)"
-tags: ["casual", "action"]
-developer: ""
-releaseDate: 2025-08-16
+score: 4.7/5  (3719 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

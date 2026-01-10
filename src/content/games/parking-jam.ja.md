@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Parking Jam
+seoTitle: 無料でParking Jamをオンラインでプレイ | FiddleBops
 description: Parking Jamは駐車パズルゲームです。車を前後に動かして渋滞を解消し、出口までの道を作ります。
 iframeSrc: 'https://4knmpq6joecbg.h5games.usercontent.goog/v/1uamg2frss2qg/'
 thumbnail: /new-images/thumbnails/parking-jam.png
 urlstr: parking-jam
-score: 4.2/5  (2031 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.2/5  (2031 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

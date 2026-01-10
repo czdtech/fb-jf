@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: bank-robbery
 title: Bank Robbery 2 asaltos al banco PvP
+seoTitle: Juega a Bank Robbery 2 asaltos al banco PvP en línea gratis | FiddleBops
 description: >-
   Bank Robbery 2 es un juego de disparos en primera persona por equipos donde
   policías y ladrones se enfrentan en un gran atraco. Aprende estrategias para
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://app-183971.games.s3.yandex.net/183971/l0eme2yqkthl0y8stmfuz0u8pdpux64m/index.html
 thumbnail: /new-images/thumbnails/bank-robbery.jpg
+urlstr: bank-robbery
 tags:
   - fPS
   - action

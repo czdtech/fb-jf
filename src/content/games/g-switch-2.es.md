@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: g-switch-2
 title: G-Switch 2
+seoTitle: Juega a G-Switch 2 en línea gratis | FiddleBops
 description: >-
   Secuela del runner de cambio de gravedad: corre en solitario o en multijugador
   local, invierte la gravedad para esquivar trampas mientras la velocidad se
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/6/index.html
 thumbnail: /new-images/thumbnails/g-switch-2.jpg
+urlstr: g-switch-2
 tags:
   - runner
   - platformer

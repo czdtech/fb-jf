@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: ping-pong
 title: Ping Pong
+seoTitle: Spiele Ping Pong kostenlos online | FiddleBops
 description: >-
   Ping Pong ist ein klassisches Arcade-Sportspiel: Zwei Spieler steuern je ein
   Paddle und schlagen den Ball hin und her, um Punkte zu erzielen, wenn der
   Gegner den Ball verfehlt.
 iframeSrc: 'https://ranimania.com/Games/pingpong/ping_pong/'
 thumbnail: /new-images/thumbnails/ping-pong.jpg
+urlstr: ping-pong
 tags:
   - arcade
   - sports

@@ -1,16 +1,17 @@
 ---
 locale: ko
-urlstr: minecraft-cave-escape
-title: "Minecraft Cave Escape 마인크래프트 동굴 탈출"
+title: Minecraft Cave Escape 마인크래프트 동굴 탈출
+seoTitle: Minecraft Cave Escape 마인크래프트 동굴 탈출 무료 온라인 플레이 | FiddleBops
 description: >-
-  Minecraft Cave Escape에서는 재료 하나 없이 어두운 동굴에 갇힌 상태에서, 위에서 떨어지는
-  블록을 타고 끝없이 위로 올라가 탈출해야 합니다. 단, 블록에 깔리지 않도록 주의하세요!
+  Minecraft Cave Escape에서는 재료 하나 없이 어두운 동굴에 갇힌 상태에서, 위에서 떨어지는 블록을 타고 끝없이 위로 올라가
+  탈출해야 합니다. 단, 블록에 깔리지 않도록 주의하세요!
 iframeSrc: 'https://turbowarp.org/1189417610/embed'
 thumbnail: /new-images/thumbnails/minecraft-cave-escape.png
+urlstr: minecraft-cave-escape
 tags:
   - minecraft cave escape
 score: 4.7/5  (354 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

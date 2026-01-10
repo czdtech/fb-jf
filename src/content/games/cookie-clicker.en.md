@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Cookie Clicker"
-description: "The definitive guide for Cookie Clicker, the legendary incremental game. Discover gameplay strategies, tips for Ascension, Golden Cookies, and answers to common questions to maximize your cookie production."
-iframeSrc: "https://freeonlinegames.github.io/cookie-clicker/"
+title: Cookie Clicker
+seoTitle: Play Cookie Clicker Online Free | FiddleBops
+description: >-
+  The definitive guide for Cookie Clicker, the legendary incremental game.
+  Discover gameplay strategies, tips for Ascension, Golden Cookies, and answers
+  to common questions to maximize your cookie production.
+iframeSrc: 'https://freeonlinegames.github.io/cookie-clicker/'
 thumbnail: /new-images/thumbnails/cookie-clicker.jpg
-urlstr: "cookie-clicker"
-score: "4.6/5  (1437 votes)"
-tags: ["casual", "clicker"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: cookie-clicker
+tags:
+  - casual
+  - clicker
+score: 4.6/5  (1437 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

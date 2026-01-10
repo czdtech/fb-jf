@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Tank Trouble"
-description: "Tank Trouble is a multiplayer tank battle game where players control tanks in a maze-like arena, shooting at opponents while navigating walls and obstacles to be the last tank standing."
-iframeSrc: "https://www.friv2018.com/games/html5/tank-trouble-2/"
+title: Tank Trouble
+seoTitle: Play Tank Trouble Online Free | FiddleBops
+description: >-
+  Tank Trouble is a multiplayer tank battle game where players control tanks in
+  a maze-like arena, shooting at opponents while navigating walls and obstacles
+  to be the last tank standing.
+iframeSrc: 'https://www.friv2018.com/games/html5/tank-trouble-2/'
 thumbnail: /new-images/thumbnails/tank-trouble.jpg
-urlstr: "tank-trouble"
-score: "4.5/5  (525 votes)"
-tags: ["multiplayer", "action", "tank battle"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: tank-trouble
+tags:
+  - multiplayer
+  - action
+  - tank battle
+score: 4.5/5  (525 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

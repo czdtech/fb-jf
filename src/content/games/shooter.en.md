@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Five Nights at Freddy's Shooter (FNAF Shooter)"
-description: "Five Nights at Freddy's Shooter is a horror action game where players fight against animatronic characters from the FNAF universe, using various weapons to survive waves of attacking robots in a shooting gameplay style."
-iframeSrc: "https://bitlifeonline.github.io/fnaf-shooter/"
+title: Five Nights at Freddy's Shooter (FNAF Shooter)
+seoTitle: Play Five Nights at Freddy's Shooter (FNAF Shooter) Online Free | FiddleBops
+description: >-
+  Five Nights at Freddy's Shooter is a horror action game where players fight
+  against animatronic characters from the FNAF universe, using various weapons
+  to survive waves of attacking robots in a shooting gameplay style.
+iframeSrc: 'https://bitlifeonline.github.io/fnaf-shooter/'
 thumbnail: /new-images/thumbnails/shooter.jpg
-urlstr: "shooter"
-score: "4.1/5  (805 votes)"
-tags: ["horror", "shooting", "action"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: shooter
+tags:
+  - horror
+  - shooting
+  - action
+score: 4.1/5  (805 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: five-nights-at-freddy-3
 title: Five Nights at Freddy's 3 (FNAF 3) 弗雷迪的五夜惊魂 3
+seoTitle: 免费在线玩 Five Nights at Freddy's 3 (FNAF 3) 弗雷迪的五夜惊魂 3 | FiddleBops
 description: 系统管理向的恐怖生存：用广播声引诱 Springtrap、通过监视器与通风口追踪， 适时重启故障系统，撑过每一个夜班。
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf3.html'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-3.jpg
+urlstr: five-nights-at-freddy-3
 tags:
   - horror
   - strategy

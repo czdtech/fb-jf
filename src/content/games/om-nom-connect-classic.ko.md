@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: om-nom-connect-classic
 title: Om Nom Connect Classic 옴놈 커넥트 클래식
+seoTitle: Om Nom Connect Classic 옴놈 커넥트 클래식 무료 온라인 플레이 | FiddleBops
 description: >-
   Om Nom Connect Classic는 귀여운 옴놈과 친구들이 그려진 타일을 연결해 보드를 비우는 전통 커넥트 퍼즐로, 두 번 이하로
   꺾이는 경로만 허용되는 규칙이 특징입니다.
 iframeSrc: >-
   https://omnomconnectclassic.h5games.usercontent.goog/v/6bc88dac-9f6b-4f2f-8c85-e715c899bb63/
 thumbnail: /new-images/thumbnails/om-nom-connect-classic.jpg
+urlstr: om-nom-connect-classic
 tags:
   - puzzle
   - casual

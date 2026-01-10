@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: World's Hardest Game
+seoTitle: 無料でWorld's Hardest Gameをオンラインでプレイ | FiddleBops
 description: World's Hardest Gameは、世界で最も難しいゲームです。赤い四角を避けて緑のゾーンに到達しましょう。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/the-worlds-hardest-game.html'
 thumbnail: /new-images/thumbnails/worlds-hardest-game.jpg
 urlstr: worlds-hardest-game
-score: 4.9/5  (1070 votes)
 tags:
   - arcade
   - skill
   - difficult
-locale: ja
+score: 4.9/5  (1070 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

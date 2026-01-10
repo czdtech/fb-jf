@@ -1,14 +1,22 @@
 ---
 locale: en
-title: "Mahjong Classic"
-description: "Enjoy the timeless puzzle of Mahjong Classic. Match pairs of identical, unblocked tiles to clear the board in this relaxing game of strategy and observation."
-iframeSrc: "https://mahjongclassic.h5games.usercontent.goog/v/6tue6un26r7v0/"
+title: Mahjong Classic
+seoTitle: Play Mahjong Classic Online Free | FiddleBops
+description: >-
+  Enjoy the timeless puzzle of Mahjong Classic. Match pairs of identical,
+  unblocked tiles to clear the board in this relaxing game of strategy and
+  observation.
+iframeSrc: 'https://mahjongclassic.h5games.usercontent.goog/v/6tue6un26r7v0/'
 thumbnail: /new-images/thumbnails/mahjong-classic.png
-urlstr: "mahjong-classic"
-score: "4.6/5  (2900 votes)"
-tags: ["puzzle", "thinky", "casual", "card"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: mahjong-classic
+tags:
+  - puzzle
+  - thinky
+  - casual
+  - card
+score: 4.6/5  (2900 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

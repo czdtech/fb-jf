@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Flappy Bird
+seoTitle: 無料でFlappy Birdをオンラインでプレイ | FiddleBops
 description: タップで羽ばたくエンドレスランナー：鳥を誘導して土管の隙間をくぐり抜け、障害物に触れずにスコアを伸ばしましょう。
 iframeSrc: 'https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/TAhlQLDa/index.html'
 thumbnail: /new-images/thumbnails/flappy-bird.jpg
 urlstr: flappy-bird
-score: 3.6/5  (297 votes)
 tags:
   - arcade
   - endless-runner
+score: 3.6/5  (297 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

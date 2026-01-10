@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: tanuki-sunset
 title: Tanuki Sunset
+seoTitle: Spiele Tanuki Sunset kostenlos online | FiddleBops
 description: >-
   Schnapp dir dein Longboard und cruist in Tanuki Sunset dem Sonnenuntergang
   entgegen: Als Waschbär Tanuki driftest du synthwave-getauchte Serpentinen
@@ -9,6 +9,7 @@ description: >-
   Highscores.
 iframeSrc: 'https://ubg100.github.io/games/tanuki/index.html'
 thumbnail: /new-images/thumbnails/tanuki-sunset.jpg
+urlstr: tanuki-sunset
 tags:
   - arcade
   - racing

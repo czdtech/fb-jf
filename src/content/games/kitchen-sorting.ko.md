@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: kitchen-sorting
 title: Kitchen Sorting 키친 소팅
+seoTitle: Kitchen Sorting 키친 소팅 무료 온라인 플레이 | FiddleBops
 description: >-
   Kitchen Sorting은 주방에서 나오는 재료, 도구, 쓰레기 등을 올바른 분류함에 빠르게 넣어야 하는 카테고리 퍼즐 게임입니다. 시간
   압박 속에서도 교차 오염을 피하며 정확하게 분류하는 것이 중요합니다.
 iframeSrc: 'https://757entlesmh4g.h5games.usercontent.goog/v/1r9oimecfevc0/'
 thumbnail: /new-images/thumbnails/kitchen-sorting.png
+urlstr: kitchen-sorting
 tags:
   - puzzle
   - thinky

@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Bubble Tower 3D バブルタワー3D
+seoTitle: 無料でBubble Tower 3D バブルタワー3Dをオンラインでプレイ | FiddleBops
 description: 「Bubble Tower 3D」は回転するタワーが舞台のバブルシューティングゲーム！タワーを回して狙いを定め、連鎖でバブルを消し去ろう。
 iframeSrc: 'https://bubbletower.h5games.usercontent.goog/v/7ebcukaef3voo/'
 thumbnail: /new-images/thumbnails/bubble-tower.png
 urlstr: bubble-tower
-score: 4.3/5  (1950 votes)
 tags:
   - puzzle
   - shooting
   - casual
+score: 4.3/5  (1950 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Cluster Rush"
-description: "Master the art of truck-jumping in Cluster Rush with our detailed guide. Get gameplay strategies, controls, tips, and answers to common questions for this intense first-person platformer."
-iframeSrc: "https://clusterrush.io/game/cluster-rush/"
+title: Cluster Rush
+seoTitle: Play Cluster Rush Online Free | FiddleBops
+description: >-
+  Master the art of truck-jumping in Cluster Rush with our detailed guide. Get
+  gameplay strategies, controls, tips, and answers to common questions for this
+  intense first-person platformer.
+iframeSrc: 'https://clusterrush.io/game/cluster-rush/'
 thumbnail: /new-images/thumbnails/cluster-rush.jpg
-urlstr: "cluster-rush"
-score: "4.6/5  (1082 votes)"
-tags: ["platformer", "parkour"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: cluster-rush
+tags:
+  - platformer
+  - parkour
+score: 4.6/5  (1082 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

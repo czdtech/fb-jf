@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: blackjack
-title: "BlackJack"
-description: "Dans le blackjack (21), tu affrontes le croupier : essaie de te rapprocher de 21 sans le dépasser, en décidant quand tirer une carte ou t’arrêter, et en utilisant quelques décisions basiques de stratégie."
-iframeSrc: "https://freegames.org/games/blackjack/v1/"
+title: BlackJack
+seoTitle: Jouez à BlackJack en ligne gratuitement | FiddleBops
+description: "Dans le blackjack (21), tu affrontes le croupier\_: essaie de te rapprocher de 21 sans le dépasser, en décidant quand tirer une carte ou t’arrêter, et en utilisant quelques décisions basiques de stratégie."
+iframeSrc: 'https://freegames.org/games/blackjack/v1/'
 thumbnail: /new-images/thumbnails/blackjack.jpg
+urlstr: blackjack
 tags:
   - casual
   - rhythm

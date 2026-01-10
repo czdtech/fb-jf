@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: five-nights-at-freddy-2
 title: Five Nights at Freddy's 2 (FNAF 2) 파이브 나이츠 앳 프레디 2
+seoTitle: Five Nights at Freddy's 2 (FNAF 2) 파이브 나이츠 앳 프레디 2 무료 온라인 플레이 | FiddleBops
 description: >-
   Five Nights at Freddy's 2는 전작과 달리 문 대신 Freddy 가면과 오르골을 관리해야 하는 공포 게임으로, 복수의
   애니매트로닉을 주시하면서 Puppet의 뮤직 박스를 감고, 손전등과 마스크를 적절한 타이밍에 사용해 밤을 버텨야 합니다.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-2.jpg
+urlstr: five-nights-at-freddy-2
 tags:
   - horror
   - strategy

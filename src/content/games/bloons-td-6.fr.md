@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: bloons-td-6
 title: Bloons TD 6
+seoTitle: Jouez à Bloons TD 6 en ligne gratuitement | FiddleBops
 description: "Bloons TD 6 pousse la défense de tour au maximum\_: graphismes 3D, héros, 3 chemins d’upgrade, Monkey Knowledge et Paragons pour les parties très longues."
 iframeSrc: 'https://html5.gamenora.com/Bloons%20TD%206/'
 thumbnail: /new-images/thumbnails/bloons-td-6.jpg
+urlstr: bloons-td-6
 tags:
   - casual
   - strategy

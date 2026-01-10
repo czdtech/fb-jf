@@ -1,17 +1,17 @@
 ---
 locale: ko
-urlstr: sprunki-babies
-title: 'Sprunki Babies 스프룽키 베이비즈'
+title: Sprunki Babies 스프룽키 베이비즈
+seoTitle: Sprunki Babies 스프룽키 베이비즈 무료 온라인 플레이 | FiddleBops
 description: >-
-  Sprunki Babies는 아기 Sprunki 캐릭터들을 활용해 귀엽고 창의적인 음악을
-  만들어 보는 음악 샌드박스 게임입니다. 누구나 직관적인 조작으로 나만의
-  합창단을 꾸미고 힐링되는 사운드를 만들 수 있습니다.
+  Sprunki Babies는 아기 Sprunki 캐릭터들을 활용해 귀엽고 창의적인 음악을 만들어 보는 음악 샌드박스 게임입니다. 누구나
+  직관적인 조작으로 나만의 합창단을 꾸미고 힐링되는 사운드를 만들 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1110888906/embed'
 thumbnail: /new-images/thumbnails/sprunki-babies.png
+urlstr: sprunki-babies
 tags:
   - sprunki babies
 score: 4.0/5  (212 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: hit-and-run
-title: "Hit and Run 히트 앤 런"
+title: Hit and Run 히트 앤 런
+seoTitle: Hit and Run 히트 앤 런 무료 온라인 플레이 | FiddleBops
 description: >-
-  Hit and Run은 도시를 질주하며 각종 물체와 차량을 들이받고, 경찰의 추격을 피해 도망치는
-  액션 드라이빙 게임입니다. 난장판을 만든 뒤 무사히 탈출할 수 있을까요?
+  Hit and Run은 도시를 질주하며 각종 물체와 차량을 들이받고, 경찰의 추격을 피해 도망치는 액션 드라이빙 게임입니다. 난장판을 만든
+  뒤 무사히 탈출할 수 있을까요?
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230911/07/index.html
 thumbnail: /new-images/thumbnails/hit-and-run.jpg
+urlstr: hit-and-run
 tags:
   - action
   - driving

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: mahjong-solitaire
 title: Mahjong Solitaire
+seoTitle: Spiele Mahjong Solitaire kostenlos online | FiddleBops
 description: >-
   Fordere deinen Kopf mit Mahjong Solitaire heraus. Finde und paare identische,
   freie Steine, um das Spielfeld in diesem klassischen, entspannenden
   Puzzlespiel zu leeren.
 iframeSrc: 'https://4erks8385j9eo.h5games.usercontent.goog/v/1ff4p4m8ilme8/'
 thumbnail: /new-images/thumbnails/mahjong-solitaire.png
+urlstr: mahjong-solitaire
 tags:
   - puzzle
   - card

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: retro-drift
 title: Retro Drift 레트로 드리프트
+seoTitle: Retro Drift 레트로 드리프트 무료 온라인 플레이 | FiddleBops
 description: >-
   탑다운 시점에서 드리프트를 이어 가며 랩 타임을 단축하는 운전 게임입니다. 가속을 조절하고 카운터 스티어로 미끄러짐을 컨트롤해 깨끗한 라인을
   만들어 보세요.
 iframeSrc: 'https://retrodrift.h5games.usercontent.goog/v/3jr7fjtqu0j18/'
 thumbnail: /new-images/thumbnails/retro-drift.jpg
+urlstr: retro-drift
 tags:
   - car
   - driving

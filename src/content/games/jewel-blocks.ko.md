@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: jewel-blocks
 title: Jewel Blocks 보석 블록 퍼즐
+seoTitle: Jewel Blocks 보석 블록 퍼즐 무료 온라인 플레이 | FiddleBops
 description: >-
   회전 없이 주어진 블록만으로 줄을 채워 지우는 퍼즐 게임 'Jewel Blocks' 가이드입니다. 10x10 보드에서 공간을 효율적으로
   사용하는 전략과 고득점 팁을 정리했습니다.
 iframeSrc: 'https://jewelblocks.h5games.usercontent.goog/v/0puee6ie0j880/'
 thumbnail: /new-images/thumbnails/jewel-blocks.png
+urlstr: jewel-blocks
 tags:
   - puzzle
   - thinky

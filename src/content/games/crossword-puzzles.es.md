@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: crossword-puzzles
 title: Crossword Puzzles
+seoTitle: Juega a Crossword Puzzles en línea gratis | FiddleBops
 description: >-
   Crossword Puzzles ofrece crucigramas temáticos: resuelve definiciones en
   horizontal y vertical para completar cada cuadrícula.
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/best-free-themed-puzzles/
 thumbnail: /new-images/thumbnails/crossword-puzzles.jpg
+urlstr: crossword-puzzles
 tags:
   - word
   - puzzle

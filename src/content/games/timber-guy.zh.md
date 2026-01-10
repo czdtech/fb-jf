@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: timber-guy
 title: 《Timber Guy》伐木达人
+seoTitle: 免费在线玩 《Timber Guy》伐木达人 | FiddleBops
 description: 《Timber Guy》是一款一键式反应游戏。你扮演伐木工，在限定时间内疯狂砍树，同时要不断切换站位，避免被树枝砸到。
 iframeSrc: 'https://timberguy.h5games.usercontent.goog/v/2ke6osh59ras0/'
 thumbnail: /new-images/thumbnails/timber-guy.png
+urlstr: timber-guy
 tags:
   - arcade
   - reflex

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: aqua-blocks
-title: "Aqua Blocks puzle acuático de bloques"
+title: Aqua Blocks puzle acuático de bloques
+seoTitle: Juega a Aqua Blocks puzle acuático de bloques en línea gratis | FiddleBops
 description: >-
   Aqua Blocks es un relajante juego de colocar bloques. Encaja las piezas para
   completar líneas o zonas, limpia varias filas a la vez y evita crear huecos
   cerrados que no puedas rellenar.
 iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
 thumbnail: /new-images/thumbnails/aqua-blocks.png
+urlstr: aqua-blocks
 tags:
   - puzzle
   - thinky

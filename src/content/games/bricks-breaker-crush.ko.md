@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: bricks-breaker-crush
 title: Bricks Breaker Crush 브릭스 브레이커 크러시
+seoTitle: Bricks Breaker Crush 브릭스 브레이커 크러시 무료 온라인 플레이 | FiddleBops
 description: >-
   Bricks Breaker Crush는 숫자가 적힌 벽돌에 연속으로 볼을 튕겨 넣는 벽돌 깨기 퍼즐 게임입니다. 각도를 잡아 다중 튕김
   경로를 만들고, +볼 아이템으로 볼 수를 늘리며, 아래로 내려오는 벽을 막아 보세요.
 iframeSrc: 'https://7uvo1rchfrhr8.h5games.usercontent.goog/v/4tk6unop5lefg/'
 thumbnail: /new-images/thumbnails/bricks-breaker-crush.png
+urlstr: bricks-breaker-crush
 tags:
   - puzzle
   - thinky

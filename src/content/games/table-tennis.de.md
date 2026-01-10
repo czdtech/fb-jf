@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: table-tennis
 title: Table Tennis
+seoTitle: Spiele Table Tennis kostenlos online | FiddleBops
 description: >-
   Werde zum virtuellen Ping-Pong‑Champion in Table Tennis: Fordere die KI
   heraus, punkte mit gutem Timing und schnellen Reflexen und kontrolliere das
   Match mit klugen Platzierungen.
 iframeSrc: 'https://tabletennis.h5games.usercontent.goog/v/4eeofbe4nfj1g/'
 thumbnail: /new-images/thumbnails/table-tennis.png
+urlstr: table-tennis
 tags:
   - sports
   - 2 player

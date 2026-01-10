@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: super-sprunki-brasil
 title: Super Sprunki Brasil V1.3
+seoTitle: Spiele Super Sprunki Brasil V1.3 kostenlos online | FiddleBops
 description: >-
   Super Sprunki Brasil ist ein Incredibox-Mod, der es dir ermöglicht, deine
   musikalische Kreativität mit leidenschaftlichem brasilianischem Flair zu
@@ -9,6 +9,7 @@ description: >-
   die Leidenschaft und Vitalität Brasiliens in die Welt zu tragen!
 iframeSrc: 'https://turbowarp.org/1080827660/embed'
 thumbnail: /new-images/thumbnails/super-sprunki-brasil.png
+urlstr: super-sprunki-brasil
 tags:
   - super sprunki brasil
   - super sprunki brasil online

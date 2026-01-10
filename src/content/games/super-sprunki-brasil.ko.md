@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: super-sprunki-brasil
 title: Super Sprunki Brasil V1.3 슈퍼 스프룽키 브라질 V1.3
+seoTitle: Super Sprunki Brasil V1.3 슈퍼 스프룽키 브라질 V1.3 무료 온라인 플레이 | FiddleBops
 description: >-
   Super Sprunki Brasil은 브라질 음악과 문화를 스프룽키 스타일 음악 제작에 녹여낸 Incredibox 모드입니다. 삼바,
   보사노바 등 브라질 리듬을 활용해 열정적인 트랙을 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1080827660/embed'
 thumbnail: /new-images/thumbnails/super-sprunki-brasil.png
+urlstr: super-sprunki-brasil
 tags:
   - super sprunki brasil
   - super sprunki brasil online

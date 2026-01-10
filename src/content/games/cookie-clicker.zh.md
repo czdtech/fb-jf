@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: cookie-clicker
 title: Cookie Clicker 曲奇点击器 全攻略
+seoTitle: 免费在线玩 Cookie Clicker 曲奇点击器 全攻略 | FiddleBops
 description: >-
   这是一份《Cookie Clicker 曲奇点击器》的完整中文指南。帮你理解这款传奇增量游戏的核 心循环、Ascension（转生）机制、Golden
   Cookies（黄金曲奇）运用技巧，以及如何在中后 期高效规划每一次周目。
 iframeSrc: 'https://freeonlinegames.github.io/cookie-clicker/'
 thumbnail: /new-images/thumbnails/cookie-clicker.jpg
+urlstr: cookie-clicker
 tags:
   - casual
   - clicker

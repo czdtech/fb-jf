@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: incredibox-yaboo
-title: "Incredibox YaBoo - 在线玩 Incredibox YaBoo"
-description: "深入探索粉丝制作的 Incredibox YaBoo Mod。本指南涵盖了其独特的音色调色板、音乐创作玩法，以及如何解锁其主题奖励。"
+title: Incredibox YaBoo
+seoTitle: 免费在线玩 Incredibox YaBoo | FiddleBops
+description: 深入探索粉丝制作的 Incredibox YaBoo Mod。本指南涵盖了其独特的音色调色板、音乐创作玩法，以及如何解锁其主题奖励。
 iframeSrc: 'https://turbowarp.org/1095206379/embed'
 thumbnail: /new-images/thumbnails/incredibox-yaboo.png
+urlstr: incredibox-yaboo
 tags:
   - music
   - rhythm

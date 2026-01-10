@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: fruit-slot-machine
 title: Fruit Slot Machine
+seoTitle: Juega a Fruit Slot Machine en línea gratis | FiddleBops
 description: >-
   Fruit Slot Machine recrea una clásica tragaperras de tres rodillos: gira con
   responsabilidad, aprende las líneas de pago y persigue las funciones
   especiales sin apostar de más.
 iframeSrc: 'https://7f8j0t3m1ptv8.h5games.usercontent.goog/v/33cv74na0lvqg/'
 thumbnail: /new-images/thumbnails/fruit-slot-machine.jpg
+urlstr: fruit-slot-machine
 tags:
   - casual
 score: 3.6/5  (1527 votes)

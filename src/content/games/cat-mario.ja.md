@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Cat Mario キャットマリオ（しょぼんのアクション）
+seoTitle: 無料でCat Mario キャットマリオ（しょぼんのアクション）をオンラインでプレイ | FiddleBops
 description: 別名「しょぼんのアクション」。「マリオ」のような見た目でプレイヤーを絶望させる、史上最も理不尽で有名なトラップアクションゲーム。
 iframeSrc: 'https://tiwb.github.io/catmario/'
 thumbnail: /new-images/thumbnails/cat-mario.jpg
 urlstr: cat-mario
-score: 4.6/5  (1147 votes)
 tags:
   - platformer
   - action
   - meme
+score: 4.6/5  (1147 votes)
 developer: Chiku
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

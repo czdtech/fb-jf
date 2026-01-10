@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Emoji With Friends 絵文字ウィズフレンズ
+seoTitle: 無料でEmoji With Friends 絵文字ウィズフレンズをオンラインでプレイ | FiddleBops
 description: 「Emoji With Friends」は気軽に遊べるパーティー系パズル。絵文字をマッチさせて推理し、友達と競いながらテンポよく遊べます。
 iframeSrc: 'https://2gtc787tjm7c8.h5games.usercontent.goog/v/5lfna7ldlrun8/'
 thumbnail: /new-images/thumbnails/emoji-with-friends.png
 urlstr: emoji-with-friends
-score: 3.9/5  (1517 votes)
 tags:
   - puzzle
   - casual
   - 2 player
+score: 3.9/5  (1517 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

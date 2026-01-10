@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Powerwall"
-description: "Defend your goal in Powerwall, a fast-paced arcade game. Use your paddle to block incoming balls and unleash powerful abilities."
-iframeSrc: "https://powerwall2.h5games.usercontent.goog/v/2744b7jm5t0jg/"
+title: Powerwall
+seoTitle: Play Powerwall Online Free | FiddleBops
+description: >-
+  Defend your goal in Powerwall, a fast-paced arcade game. Use your paddle to
+  block incoming balls and unleash powerful abilities.
+iframeSrc: 'https://powerwall2.h5games.usercontent.goog/v/2744b7jm5t0jg/'
 thumbnail: /new-images/thumbnails/powerwall.png
-urlstr: "powerwall"
-score: "4.1/5  (987 votes)"
-tags: ["action", "sports", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: powerwall
+tags:
+  - action
+  - sports
+  - casual
+score: 4.1/5  (987 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

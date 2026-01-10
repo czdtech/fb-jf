@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: pokemon-emerald
 title: Pokemon Emerald 포켓몬 에메랄드
+seoTitle: Pokemon Emerald 포켓몬 에메랄드 무료 온라인 플레이 | FiddleBops
 description: >-
   호연 지방을 무대로 모험을 떠나는 포켓몬 RPG입니다. 포켓몬을 잡고 키우며 체육관 관장을 상대하고, 마그마단·아쿠아단의 계획을 막아
   챔피언에 도전해 보세요.
 iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonemerald'
 thumbnail: /new-images/thumbnails/pokemon-emerald.jpg
+urlstr: pokemon-emerald
 tags:
   - rpg
   - adventure

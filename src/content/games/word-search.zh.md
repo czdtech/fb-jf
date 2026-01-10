@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: word-search
 title: Word Search：主题找单词
+seoTitle: 免费在线玩 Word Search：主题找单词 | FiddleBops
 description: >-
   《Word Search》是一款经典的字母搜寻游戏。 在方阵中横向、纵向或斜向寻找隐藏单词，完成不同主题的单词列表，
   一边放松大脑，一边锻炼观察力和英语拼写。
 iframeSrc: 'https://cdn.gamesnacks.com/wordsearch1/gameCode/index.html'
 thumbnail: /new-images/thumbnails/word-search.jpg
+urlstr: word-search
 tags:
   - word
   - puzzle

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: cooking-mania
 title: Cooking Mania 쿠킹 매니아
+seoTitle: Cooking Mania 쿠킹 매니아 무료 온라인 플레이 | FiddleBops
 description: >-
   빠른 템포로 진행되는 시간 관리형 요리 게임 Cooking Mania입니다. 주문을 동시에 처리하고 콤보를 이어 가며, 주방을 업그레이드해
   손님들을 만족시켜 보세요.
 iframeSrc: 'https://626dr588t6g9g.h5games.usercontent.goog/v/76eqgdom1qfbg/'
 thumbnail: /new-images/thumbnails/cooking-mania.jpg
+urlstr: cooking-mania
 tags:
   - casual
   - thinky

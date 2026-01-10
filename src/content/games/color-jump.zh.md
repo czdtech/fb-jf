@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: color-jump
 title: Color Jump 色彩跳跃
+seoTitle: 免费在线玩 Color Jump 色彩跳跃 | FiddleBops
 description: >-
   《Color Jump 色彩跳跃》是一款一键式跑酷反应游戏。通过精准把握起跳时机，让角色穿
   过颜色匹配的门或平台，在不断加速与图案切换中保持节奏，躲开错误颜色。
 iframeSrc: 'https://2sqb7s6hkuouo.h5games.usercontent.goog/v/251huhkdnons0/'
 thumbnail: /new-images/thumbnails/color-jump.png
+urlstr: color-jump
 tags:
   - action
   - casual

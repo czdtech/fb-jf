@@ -1,14 +1,18 @@
 ---
-title: "Bird Sort Quest バード・ソート・クエスト"
-description: "「Bird Sort Quest」は色合わせとパズルの癒やしの融合。止まり木の鳥たちを移動させ、色を揃えよう。数手先を読む計画性が鍵になるロジックパズル。"
-iframeSrc: "https://59c0fiphd7ng0.h5games.usercontent.goog/v/5cgtqofbdtd08/"
-thumbnail: /new-images/thumbnails/bird-sort-quest.png
-urlstr: "bird-sort-quest"
-score: "4.1/5  (2069 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
 locale: ja
+title: Bird Sort Quest バード・ソート・クエスト
+seoTitle: 無料でBird Sort Quest バード・ソート・クエストをオンラインでプレイ | FiddleBops
+description: 「Bird Sort Quest」は色合わせとパズルの癒やしの融合。止まり木の鳥たちを移動させ、色を揃えよう。数手先を読む計画性が鍵になるロジックパズル。
+iframeSrc: 'https://59c0fiphd7ng0.h5games.usercontent.goog/v/5cgtqofbdtd08/'
+thumbnail: /new-images/thumbnails/bird-sort-quest.png
+urlstr: bird-sort-quest
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.1/5  (2069 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

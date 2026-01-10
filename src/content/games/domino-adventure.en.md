@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Domino Adventure"
-description: "Master the classic board game, Domino Adventure. This guide provides expert strategies for Block and Draw modes, tips for managing your tiles, and how to win rounds by being the first to play all your dominoes."
-iframeSrc: "https://28vlnkkhq8gjg.h5games.usercontent.goog/v/4mi9k9oin4dn8/"
+title: Domino Adventure
+seoTitle: Play Domino Adventure Online Free | FiddleBops
+description: >-
+  Master the classic board game, Domino Adventure. This guide provides expert
+  strategies for Block and Draw modes, tips for managing your tiles, and how to
+  win rounds by being the first to play all your dominoes.
+iframeSrc: 'https://28vlnkkhq8gjg.h5games.usercontent.goog/v/4mi9k9oin4dn8/'
 thumbnail: /new-images/thumbnails/domino-adventure.png
-urlstr: "domino-adventure"
-score: "4.3/5  (2144 votes)"
-tags: ["puzzle", "strategy", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: domino-adventure
+tags:
+  - puzzle
+  - strategy
+  - casual
+score: 4.3/5  (2144 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

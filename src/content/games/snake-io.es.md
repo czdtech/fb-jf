@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: snake-io
 title: Snake.io
+seoTitle: Juega a Snake.io en línea gratis | FiddleBops
 description: >-
   Juega a Snake.io, un popular juego de acción multijugador que moderniza la
   experiencia clásica de la serpiente. Compite contra otros jugadores para
@@ -10,6 +10,7 @@ description: >-
   juego casual.
 iframeSrc: 'https://snake.io/crazygames/'
 thumbnail: /new-images/thumbnails/snake-io.jpg
+urlstr: snake-io
 tags:
   - io-games
   - snake

@@ -19,26 +19,10 @@ import { describe, it, expect, beforeAll } from 'vitest';
 import * as fc from 'fast-check';
 import * as fs from 'fs';
 import * as path from 'path';
+import { discoverGamePagesFromDist } from '../utils/file-discovery';
+import { extractSeoFromHtml, type PageSEOData as BasePageSEOData } from '../utils/seo-helpers';
 
 // Types for SEO data
-interface OGData {
-  title: string | null;
-  description: string | null;
-  url: string | null;
-  siteName: string | null;
-  locale: string | null;
-  image: string | null;
-  type: string | null;
-}
-
-interface TwitterData {
-  card: string | null;
-  site: string | null;
-  title: string | null;
-  description: string | null;
-  image: string | null;
-}
-
 interface JsonLdData {
   '@context': string;
   '@type': string;
@@ -49,91 +33,11 @@ interface JsonLdData {
   [key: string]: unknown;
 }
 
-interface PageSEOData {
-  title: string | null;
-  description: string | null;
-  keywords: string | null;
-  robots: string | null;
-  canonical: string | null;
-  og: OGData;
-  twitter: TwitterData;
-  jsonLd: JsonLdData[] | null;
-}
+type PageSEOData = BasePageSEOData<JsonLdData>;
 
 interface SEOSnapshot {
   totalPages: number;
   pages: Record<string, PageSEOData>;
-}
-
-
-// SEO extraction functions (same as in seo-snapshot.mjs)
-function extractMetaContent(html: string, name: string, property = false): string | null {
-  const attr = property ? 'property' : 'name';
-  
-  const regex = new RegExp(
-    `<meta\\s+(?:[^>]*?\\s)?${attr}="${name}"(?:\\s[^>]*?)?\\s+content="([^"]*)"` +
-    `|<meta\\s+(?:[^>]*?\\s)?content="([^"]*)"(?:\\s[^>]*?)?\\s+${attr}="${name}"`,
-    'i'
-  );
-  const match = html.match(regex);
-  return match ? (match[1] || match[2]) : null;
-}
-
-function extractTitle(html: string): string | null {
-  const match = html.match(/<title>([^<]*)<\/title>/i);
-  return match ? match[1] : null;
-}
-
-function extractCanonical(html: string): string | null {
-  const regex = /<link\s+(?:[^>]*?\s)?rel=["']canonical["'](?:\s[^>]*?)?\s+href=["']([^"']*)["']|<link\s+(?:[^>]*?\s)?href=["']([^"']*)["'](?:\s[^>]*?)?\s+rel=["']canonical["']/i;
-  const match = html.match(regex);
-  return match ? (match[1] || match[2]) : null;
-}
-
-function extractJsonLd(html: string): JsonLdData[] | null {
-  const regex = /<script\s+type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi;
-  const matches: JsonLdData[] = [];
-  let match;
-  
-  while ((match = regex.exec(html)) !== null) {
-    try {
-      const jsonContent = match[1].trim();
-      if (jsonContent) {
-        matches.push(JSON.parse(jsonContent));
-      }
-    } catch (e) {
-      // Skip invalid JSON
-    }
-  }
-  
-  return matches.length > 0 ? matches : null;
-}
-
-function extractSeoFromHtml(html: string): PageSEOData {
-  return {
-    title: extractTitle(html),
-    description: extractMetaContent(html, 'description'),
-    keywords: extractMetaContent(html, 'keywords'),
-    robots: extractMetaContent(html, 'robots'),
-    canonical: extractCanonical(html),
-    og: {
-      title: extractMetaContent(html, 'og:title', true),
-      description: extractMetaContent(html, 'og:description', true),
-      url: extractMetaContent(html, 'og:url', true),
-      siteName: extractMetaContent(html, 'og:site_name', true),
-      locale: extractMetaContent(html, 'og:locale', true),
-      image: extractMetaContent(html, 'og:image', true),
-      type: extractMetaContent(html, 'og:type', true),
-    },
-    twitter: {
-      card: extractMetaContent(html, 'twitter:card'),
-      site: extractMetaContent(html, 'twitter:site'),
-      title: extractMetaContent(html, 'twitter:title'),
-      description: extractMetaContent(html, 'twitter:description'),
-      image: extractMetaContent(html, 'twitter:image'),
-    },
-    jsonLd: extractJsonLd(html),
-  };
 }
 
 /**
@@ -169,58 +73,6 @@ let distExists = false;
 let allGamePages: string[] = [];
 let pagesWithCanonical: string[] = [];
 let pagesWithJsonLd: string[] = [];
-
-/**
- * Get list of Content Collection game slugs by reading the content directory
- */
-function getContentCollectionSlugs(): string[] {
-  const contentDir = path.join(process.cwd(), 'src/content/games');
-  const slugs: string[] = [];
-  
-  if (fs.existsSync(contentDir)) {
-    const files = fs.readdirSync(contentDir);
-    for (const file of files) {
-      // Only use canonical English entries.
-      // Content is stored as `<urlstr>.<locale>.md` (e.g. `soccar.en.md`).
-      if (file.endsWith('.en.md')) {
-        slugs.push(file.replace('.en.md', ''));
-      }
-    }
-  }
-  
-  return slugs;
-}
-
-/**
- * Discover game pages from dist/ directory
- * This ensures new pages are automatically covered without needing baseline updates
- */
-function discoverGamePagesFromDist(): string[] {
-  const distPath = path.join(process.cwd(), 'dist');
-  if (!fs.existsSync(distPath)) return [];
-  
-  const contentSlugs = new Set(getContentCollectionSlugs());
-  const excludedSlugs = new Set(['categories', 'privacy', 'terms-of-service', '404']);
-  const gamePages: string[] = [];
-  
-  // Read dist directory for single-segment paths that match content collection
-  const entries = fs.readdirSync(distPath, { withFileTypes: true });
-  
-  for (const entry of entries) {
-    if (entry.isDirectory()) {
-      const slug = entry.name;
-      // Check if this slug exists in content collection and has an index.html
-      if (contentSlugs.has(slug) && !excludedSlugs.has(slug)) {
-        const indexPath = path.join(distPath, slug, 'index.html');
-        if (fs.existsSync(indexPath)) {
-          gamePages.push(`/${slug}/`);
-        }
-      }
-    }
-  }
-  
-  return gamePages;
-}
 
 beforeAll(() => {
   const baselinePath = path.join(process.cwd(), 'scripts/snapshots/seo-baseline.json');
@@ -265,7 +117,7 @@ function getCurrentSeoData(urlPath: string): PageSEOData | null {
   }
   
   const html = fs.readFileSync(fullPath, 'utf-8');
-  return extractSeoFromHtml(html);
+  return extractSeoFromHtml<JsonLdData>(html);
 }
 
 describe('SEO Preservation Tests - Current Build Validation', () => {

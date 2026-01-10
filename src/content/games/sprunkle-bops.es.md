@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: sprunkle-bops
-title: Sprunkle Bops - Juega a Sprunkle Bops online
+title: Sprunkle Bops
+seoTitle: Juega a Sprunkle Bops en línea gratis | FiddleBops
 description: >-
   Sprunkle Bops es una expansión creada por fans del popular juego de mezcla
   musical Incredibox, con mods personalizados, nuevas fases y mecánicas únicas.
 iframeSrc: 'https://turbowarp.org/1122091658/embed'
 thumbnail: /new-images/thumbnails/sprunkle-bops.png
+urlstr: sprunkle-bops
 tags:
   - sprunkle bops
   - sprunkle bops online

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: western-sniper
-title: Western Sniper - Francotirador del viejo oeste
+title: Western Sniper
+seoTitle: Juega a Western Sniper en línea gratis | FiddleBops
 description: >-
   Western Sniper es un juego de disparos casual en el que encarnas a un
   pistolero del salvaje oeste, apuntando con precisión para eliminar a bandidos
   desde la distancia en escenarios llenos de coberturas y objetivos.
 iframeSrc: 'https://4oill7a9ltc9g.h5games.usercontent.goog/v/54hea44l6fm4o/'
 thumbnail: /new-images/thumbnails/western-sniper.png
+urlstr: western-sniper
 tags:
   - action
   - shooting

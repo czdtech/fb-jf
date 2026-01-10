@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: pokemon-emerald
 title: Pokemon Emerald
+seoTitle: Spiele Pokemon Emerald kostenlos online | FiddleBops
 description: >-
   Pokemon Emerald ist ein Rollenspiel der Pokémon-Reihe: Du reist durch die
   Hoenn-Region, fängst und trainierst Pokémon, trittst gegen Trainer und
@@ -9,6 +9,7 @@ description: >-
   Pokémon-Liga zu werden.
 iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonemerald'
 thumbnail: /new-images/thumbnails/pokemon-emerald.jpg
+urlstr: pokemon-emerald
 tags:
   - rpg
   - adventure

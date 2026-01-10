@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Timber Guy
+seoTitle: 無料でTimber Guyをオンラインでプレイ | FiddleBops
 description: Timber Guyは、木こりのアーケードゲームです。タイミングよく木を切って高得点を目指しましょう。
 iframeSrc: 'https://timberguy.h5games.usercontent.goog/v/2ke6osh59ras0/'
 thumbnail: /new-images/thumbnails/timber-guy.png
 urlstr: timber-guy
-score: 3.8/5  (1659 votes)
 tags:
   - arcade
   - timing
   - casual
-locale: ja
+score: 3.8/5  (1659 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

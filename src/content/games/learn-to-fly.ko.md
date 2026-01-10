@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: learn-to-fly
 title: Learn To Fly 펭귄 비행 업그레이드
+seoTitle: Learn To Fly 펭귄 비행 업그레이드 무료 온라인 플레이 | FiddleBops
 description: >-
   펭귄을 멀리 날려 보내는 거리 비행 게임 'Learn To Fly' 가이드입니다. 발사 각도와 자세를 조절해 비행 거리를 늘리고, 벌어들인
   돈으로 글라이더와 로켓을 업그레이드하세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/learn-to-fly.html'
 thumbnail: /new-images/thumbnails/learn-to-fly.jpg
+urlstr: learn-to-fly
 tags:
   - arcade
   - upgrade

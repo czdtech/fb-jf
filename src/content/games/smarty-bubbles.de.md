@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: smarty-bubbles
 title: Smarty Bubbles
+seoTitle: Spiele Smarty Bubbles kostenlos online | FiddleBops
 description: >-
   Ein klassischer, farbenfroher Bubble-Shooter: Ziele mit der Kanone, kombiniere
   drei oder mehr Blasen derselben Farbe, um sie platzen zu lassen, und leere das
   Feld, bevor die Blasen den unteren Rand erreichen.
 iframeSrc: 'https://smartybubbles.h5games.usercontent.goog/v/09fhbor6rfpv0/'
 thumbnail: /new-images/thumbnails/smarty-bubbles.png
+urlstr: smarty-bubbles
 tags:
   - shooting
   - puzzle

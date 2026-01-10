@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: cookie-clicker-2
 title: Cookie Clicker 2 曲奇点击器 2 全攻略
+seoTitle: 免费在线玩 Cookie Clicker 2 曲奇点击器 2 全攻略 | FiddleBops
 description: >-
   这是一份《Cookie Clicker 2 曲奇点击器 2》的完整中文指南。帮你理解这款传奇增量游戏
   的核心循环、Ascension（转生）机制、Golden Cookies（黄金曲奇）运用技巧，以及如何在 中后期高效规划每一次周目。
 iframeSrc: 'https://games-online.io/game/cake-maker/'
 thumbnail: /new-images/thumbnails/cookie-clicker-2.jpg
+urlstr: cookie-clicker-2
 tags:
   - casual
   - clicker

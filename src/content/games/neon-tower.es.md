@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: neon-tower
-title: Neon Tower - Deja caer la bola por la torre de neón
+title: Neon Tower
+seoTitle: Juega a Neon Tower en línea gratis | FiddleBops
 description: >-
   Guía la bola rebotando hacia abajo en Neon Tower. Gira la torre en hélice para
   alinear los huecos y dejarla caer, pero cuidado con las plataformas rojas.
   Encadena caídas para conseguir un poderoso modo fuego.
 iframeSrc: 'https://2mk3ok3s7jl88.h5games.usercontent.goog/v/39vfhh0oku1j8/'
 thumbnail: /new-images/thumbnails/neon-tower.png
+urlstr: neon-tower
 tags:
   - action
   - casual

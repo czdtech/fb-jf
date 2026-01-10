@@ -1,7 +1,8 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
-import { GAMES_HREFLANG } from '../../../data/hreflang';
+import { getPagedListHreflang } from '../../../data/hreflang';
 import { getCanonicalGames, toGameCardData } from '../../../lib/canonical-games';
+import { buildListSeoTitle } from '../../../lib/seo-title';
 
 export async function getStaticPaths({ paginate }) {
   // Single Source of Truth: use canonical (en) games from astro:content
@@ -11,16 +12,18 @@ export async function getStaticPaths({ paginate }) {
 
 // 所有分页数据都在 "page" 参数中传递
 const { page } = Astro.props;
+const hreflangLinks = getPagedListHreflang('/games/', page.currentPage);
 const locale = 'ko';
-const title = '전체 게임 - FiddleBops 게임 월드';
+const baseTitle = '전체 게임';
+const title = buildListSeoTitle(locale, baseTitle, page.currentPage);
 const description =
   'FiddleBops 게임 월드에 포함된 모든 게임 목록입니다. Incredibox, Sprunki 등 음악 창작 게임을 다운로드 없이 무료로 즐겨보세요.';
-const canonicalUrl = 'https://www.playfiddlebops.com/ko/games/';
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site).toString();
 const ogImage = 'https://www.playfiddlebops.com/tw.jpg';
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Game',
-  name: title,
+  name: baseTitle,
   alternateName: 'playfiddlebops.com',
   url: canonicalUrl,
   description
@@ -34,7 +37,7 @@ const jsonLd = {
   ogType="website"
   twitterCard="summary_large_image"
   jsonLd={jsonLd}
-  hreflangLinks={GAMES_HREFLANG}
+  hreflangLinks={hreflangLinks}
   lang="ko"
 >
   <section class="games">

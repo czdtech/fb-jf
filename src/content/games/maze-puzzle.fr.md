@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: maze-puzzle
 title: Maze Puzzle
+seoTitle: Jouez à Maze Puzzle en ligne gratuitement | FiddleBops
 description: >-
   Maze Puzzle est un jeu de labyrinthe épuré : trace le chemin le plus court,
   attire les gardes en patrouille et sors avec les clés avant la fin du temps.
 iframeSrc: 'https://3931uc3bsois0.h5games.usercontent.goog/v/7nvm8etm546uo/'
 thumbnail: /new-images/thumbnails/maze-puzzle.png
+urlstr: maze-puzzle
 tags:
   - puzzle
   - thinky

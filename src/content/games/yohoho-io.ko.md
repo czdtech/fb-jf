@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: yohoho-io
 title: YoHoHo.io 요호호.io
+seoTitle: YoHoHo.io 요호호.io 무료 온라인 플레이 | FiddleBops
 description: >-
   해적들이 마지막 한 명이 될 때까지 싸우는 해적 배틀로얄 .io 게임입니다. 섬 곳곳의 금화를 모아 몸집과 공격 범위를 키우고, 칼 공격과
   대시를 활용해 다른 해적들을 쓰러뜨리며 안전 지대 안에서 끝까지 살아남으세요.
 iframeSrc: 'https://bitlifeonline.github.io/class16523/yohoho-io/'
 thumbnail: /new-images/thumbnails/yohoho-io.jpg
+urlstr: yohoho-io
 tags:
   - io-game
   - battle-royale

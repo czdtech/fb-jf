@@ -1,6 +1,7 @@
 ---
 locale: en
-title: Sprunki Good Night - Play Sprunki Good Night Online
+title: Sprunki Good Night
+seoTitle: Play Sprunki Good Night Online Free | FiddleBops
 description: >-
   Sprunki Good Night is a Mod that allows you to completely relax your body and
   mind after a tired day. Come to Sprunki Good Night and use gentle and peaceful
@@ -8,11 +9,11 @@ description: >-
 iframeSrc: 'https://turbowarp.org/1178264025/embed'
 thumbnail: /new-images/thumbnails/sprunki-good-night.png
 urlstr: sprunki-good-night
-modType: sprunki
-score: 4.2/5  (227 votes)
 tags:
   - sprunki good night
   - music
+modType: sprunki
+score: 4.2/5  (227 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

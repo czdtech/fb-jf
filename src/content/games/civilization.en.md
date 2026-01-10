@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Civilization: Collect And Build"
-description: "Build your civilization from the ground up! Collect resources, construct buildings, and advance through the ages. A casual strategy game with rhythmic gameplay elements."
-iframeSrc: "https://g2.igroutka.ru/games/23/u6OtaIwSh2rBbZQ8/rvvASMiM/05de7c87be654b588b44dfdafeb11312/"
+title: 'Civilization: Collect And Build'
+seoTitle: 'Play Civilization: Collect And Build Online Free | FiddleBops'
+description: >-
+  Build your civilization from the ground up! Collect resources, construct
+  buildings, and advance through the ages. A casual strategy game with rhythmic
+  gameplay elements.
+iframeSrc: >-
+  https://g2.igroutka.ru/games/23/u6OtaIwSh2rBbZQ8/rvvASMiM/05de7c87be654b588b44dfdafeb11312/
 thumbnail: /new-images/thumbnails/civilization.jpg
-urlstr: "civilization"
-score: "4.9/5  (1122 votes)"
-tags: ["casual", "rhythm"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: civilization
+tags:
+  - casual
+  - rhythm
+score: 4.9/5  (1122 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: space-survivor
 title: Space Survivor
+seoTitle: Spiele Space Survivor kostenlos online | FiddleBops
 description: >-
   Steuere dein Raumschiff durch endlose Wellen außerirdischer Gegner in diesem
   roguelike Survival-Spiel. Sammle Erfahrung, wähle mächtige Upgrades und finde
   heraus, wie lange du dem Ansturm standhalten kannst.
 iframeSrc: 'https://76sb7kgqtg5kg.h5games.usercontent.goog/v/5s72d5756n840/'
 thumbnail: /new-images/thumbnails/space-survivor.png
+urlstr: space-survivor
 tags:
   - action
   - shooting

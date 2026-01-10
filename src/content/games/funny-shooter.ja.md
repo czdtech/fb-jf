@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Funny Shooter
+seoTitle: 無料でFunny Shooterをオンラインでプレイ | FiddleBops
 description: ウェーブシューターのプロトタイプ：奇抜な敵と戦い、現金を回収し、武器をアップグレードして、ますます厳しくなるラウンドを生き残りましょう。
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter/'
 thumbnail: /new-images/thumbnails/funny-shooter.jpg
 urlstr: funny-shooter
-score: 5.0/5  (797 votes)
 tags:
   - shooting
   - fps
+score: 5.0/5  (797 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

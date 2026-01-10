@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: rooftop-snipers-2
 title: 《Rooftop Snipers 2》天台布偶狙击战 2
+seoTitle: 免费在线玩 《Rooftop Snipers 2》天台布偶狙击战 2 | FiddleBops
 description: >-
   《Rooftop Snipers 2》是一款充满搞笑 ragdoll
   物理效果的对战射击小游戏。两名火柴人站在天台边缘，用各种武器把对手击飞下楼，过程充满失衡、反冲和意外翻车场面。
 iframeSrc: 'https://rebemanae.github.io/rooftop-snipers-2/'
 thumbnail: /new-images/thumbnails/rooftop-snipers-2.jpg
+urlstr: rooftop-snipers-2
 tags:
   - shooting
   - physics

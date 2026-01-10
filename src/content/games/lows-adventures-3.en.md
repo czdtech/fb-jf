@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Low's Adventures 3"
-description: "Retro platformer trilogy entry: tighter jumps, new gimmick blocks, and more secrets across compact stages." 
-iframeSrc: "https://previews.customer.envatousercontent.com/files/480663659/index.html"
+title: Low's Adventures 3
+seoTitle: Play Low's Adventures 3 Online Free | FiddleBops
+description: >-
+  Retro platformer trilogy entry: tighter jumps, new gimmick blocks, and more
+  secrets across compact stages.
+iframeSrc: 'https://previews.customer.envatousercontent.com/files/480663659/index.html'
 thumbnail: /new-images/thumbnails/lows-adventures-3.jpg
-urlstr: "lows-adventures-3"
-score: "4.1/5  (570 votes)"
-tags: ["platformer", "adventure"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: lows-adventures-3
+tags:
+  - platformer
+  - adventure
+score: 4.1/5  (570 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

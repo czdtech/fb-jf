@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: funny-shooter
 title: Funny Shooter
+seoTitle: Spiele Funny Shooter kostenlos online | FiddleBops
 description: >-
   Funny Shooter ist ein Wave-Shooter-Prototyp: Kämpfe gegen schräge Gegner,
   sammle Geld und verbessere Waffen, um immer härtere Runden zu überleben.
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter/'
 thumbnail: /new-images/thumbnails/funny-shooter.jpg
+urlstr: funny-shooter
 tags:
   - shooting
   - fps

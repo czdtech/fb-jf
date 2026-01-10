@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Highway Traffic
+seoTitle: 無料でHighway Trafficをオンラインでプレイ | FiddleBops
 description: 一人称視点の車線すり抜けゲーム：高速道路の車の間を縫うように走り、ミッションを完了し、お金を稼いで車やアップグレードを手に入れましょう。
 iframeSrc: >-
   https://app-97317.games.s3.yandex.net/97317/zr27uqx4qauq31fg2ud41a7oye9c4dki/index.html
 thumbnail: /new-images/thumbnails/highway-traffic.jpg
 urlstr: highway-traffic
-score: 4.5/5  (188 votes)
 tags:
   - driving
   - traffic
+score: 4.5/5  (188 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

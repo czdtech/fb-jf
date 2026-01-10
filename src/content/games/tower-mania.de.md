@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: tower-mania
 title: Tower Mania
+seoTitle: Spiele Tower Mania kostenlos online | FiddleBops
 description: >-
   Baue in Tower Mania den höchsten Turm: Staple schwingende Blöcke im richtigen
   Moment, vermeide Wackler und halte deine Konstruktion so stabil wie möglich.
 iframeSrc: 'https://49pvu1mm0ofc0.h5games.usercontent.goog/v/4apam1d97c7mo/'
 thumbnail: /new-images/thumbnails/tower-mania.png
+urlstr: tower-mania
 tags:
   - casual
   - puzzle

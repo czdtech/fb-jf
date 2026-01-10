@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: the-hidden-antique-shop
 title: The Hidden Antique Shop
+seoTitle: Spiele The Hidden Antique Shop kostenlos online | FiddleBops
 description: >-
   In The Hidden Antique Shop durchstöberst du einen gemütlichen
   Antiquitätenladen: Finde versteckte Objekte, vergleiche Silhouetten und knacke
   einfache Schlösser, um neue Regale freizuschalten.
 iframeSrc: 'https://7nh0dnmovl0g0.h5games.usercontent.goog/v/01busogksrcm0/'
 thumbnail: /new-images/thumbnails/the-hidden-antique-shop.png
+urlstr: the-hidden-antique-shop
 tags:
   - puzzle
   - thinky

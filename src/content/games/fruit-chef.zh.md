@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: fruit-chef
 title: Fruit Chef 水果厨神斩斩乐
+seoTitle: 免费在线玩 Fruit Chef 水果厨神斩斩乐 | FiddleBops
 description: Fruit Chef 是一款节奏明快的切水果游戏，通过连续俐落的刀光划破飞舞的水果， 避开炸弹并掌握节奏来打出惊人连段。
 iframeSrc: 'https://419in6alhpp88.h5games.usercontent.goog/v/22nao6drjf7v0/'
 thumbnail: /new-images/thumbnails/fruit-chef.png
+urlstr: fruit-chef
 tags:
   - action
   - casual

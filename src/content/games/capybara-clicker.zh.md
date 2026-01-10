@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: capybara-clicker
 title: Capybara Clicker 水豚点击放置
+seoTitle: 免费在线玩 Capybara Clicker 水豚点击放置 | FiddleBops
 description: 《Capybara Clicker 水豚点击放置》是一款放置点击类游戏，你通过点点点和升级收益，解锁越来越多、越来越可爱 的水豚形态与天气演出。
 iframeSrc: 'https://bitlifeonline.github.io/capybara-clicker/'
 thumbnail: /new-images/thumbnails/capybara-clicker.jpg
+urlstr: capybara-clicker
 tags:
   - idle
   - clicker

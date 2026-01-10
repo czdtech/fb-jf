@@ -1,13 +1,15 @@
 ---
-title: "Geometry Dash Wave Spam - Geometry Dash Wave Spamをオンラインでプレイ"
-description: "ウェーブ操作に特化した高難度チャレンジ。余計な要素を省き、狭い回廊を正確な入力で抜ける練習になります。"
-iframeSrc: "https://turbowarp.org/1185431027/embed"
-thumbnail: /new-images/thumbnails/geometry-dash.png
-urlstr: "geometry-dash"
-score: "4.5/5  (604 votes)"
-tags: ["geometry dash"]
 locale: ja
-releaseDate: 2025-12-04
+title: Geometry Dash Wave Spam
+seoTitle: 無料でGeometry Dash Wave Spamをオンラインでプレイ | FiddleBops
+description: ウェーブ操作に特化した高難度チャレンジ。余計な要素を省き、狭い回廊を正確な入力で抜ける練習になります。
+iframeSrc: 'https://turbowarp.org/1185431027/embed'
+thumbnail: /new-images/thumbnails/geometry-dash.png
+urlstr: geometry-dash
+tags:
+  - geometry dash
+score: 4.5/5  (604 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

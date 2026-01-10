@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Reversi Mania
+seoTitle: 無料でReversi Maniaをオンラインでプレイ | FiddleBops
 description: Reversi Maniaは定番の戦略ボードゲーム（オセロ）です。相手の石を挟んで裏返し、終局時に多い方が勝ちです。
 iframeSrc: 'https://reversimania.h5games.usercontent.goog/v/7rhqf6sl8lpf0/'
 thumbnail: /new-images/thumbnails/reversi-mania.png
 urlstr: reversi-mania
-score: 4.4/5  (2231 votes)
 tags:
   - card
   - thinky
   - 2 player
+score: 4.4/5  (2231 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Daily Sudoku デイリー・数独
+seoTitle: 無料でDaily Sudoku デイリー・数独をオンラインでプレイ | FiddleBops
 description: 「Daily Sudoku」で毎日新しいナンプレに挑戦。論理的思考を駆使して、1から9の数字ですべてのマスを埋めよう。脳トレの王道。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-daily-sudoku/'
 thumbnail: /new-images/thumbnails/daily-sudoku.jpg
 urlstr: daily-sudoku
-score: 3.8/5  (1071 votes)
 tags:
   - puzzle
   - logic
+score: 3.8/5  (1071 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

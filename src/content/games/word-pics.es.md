@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: word-pics
-title: Word Pics - Adivina la palabra por las fotos
+title: Word Pics
+seoTitle: Juega a Word Pics en línea gratis | FiddleBops
 description: >-
   Adivina la palabra que conecta las dos imágenes en Word Pics, un divertido y
   adictivo juego de puzles de vocabulario.
 iframeSrc: 'https://wordpics.h5games.usercontent.goog/v/7sfi13vvf0cro/'
 thumbnail: /new-images/thumbnails/word-pics.jpg
+urlstr: word-pics
 tags:
   - puzzle
   - thinky

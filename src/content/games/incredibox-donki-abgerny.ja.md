@@ -1,13 +1,15 @@
 ---
-title: "Incredibox Donki Abgerny - Play Incredibox Donki Abgerny Online"
-description: "Incredibox Donki Abgernyは、部族的なリズムやチャントを意識したサウンドでミックスを作るファンメイドModです。"
-iframeSrc: "https://turbowarp.org/1135326100/embed"
-thumbnail: /new-images/thumbnails/incredibox-donki-abgerny.png
-urlstr: "incredibox-donki-abgerny"
-score: "4.3/5  (154 votes)"
-tags: ["incredibox donki abgerny"]
 locale: ja
-releaseDate: 2025-12-04
+title: Incredibox Donki Abgerny
+seoTitle: 無料でIncredibox Donki Abgernyをオンラインでプレイ | FiddleBops
+description: Incredibox Donki Abgernyは、部族的なリズムやチャントを意識したサウンドでミックスを作るファンメイドModです。
+iframeSrc: 'https://turbowarp.org/1135326100/embed'
+thumbnail: /new-images/thumbnails/incredibox-donki-abgerny.png
+urlstr: incredibox-donki-abgerny
+tags:
+  - incredibox donki abgerny
+score: 4.3/5  (154 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

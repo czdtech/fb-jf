@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: red-ball
 title: Red Ball
+seoTitle: Juega a Red Ball en línea gratis | FiddleBops
 description: >-
   Red Ball es el juego de plataformas original basado en físicas en el que
   controlas a una bola roja que rebota a través de niveles llenos de obstáculos,
@@ -10,6 +10,7 @@ description: >-
 iframeSrc: >-
   https://app-185271.games.s3.yandex.net/185271/uvjrp10onrrllry3esbc3gpnf7s40cj5/index.html
 thumbnail: /new-images/thumbnails/red-ball.jpg
+urlstr: red-ball
 tags:
   - platformer
   - physics

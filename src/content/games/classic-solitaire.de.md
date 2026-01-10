@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: classic-solitaire
 title: Classic Solitaire
+seoTitle: Spiele Classic Solitaire kostenlos online | FiddleBops
 description: >-
   Genieße das zeitlose Kartenspiel Classic Solitaire (Klondike). Verschiebe
   Karten geschickt zwischen Tableau und Ablagestapeln, um alle Farben in
   aufsteigender Reihenfolge zu sortieren.
 iframeSrc: 'https://6uj90l2koon6g.h5games.usercontent.goog/v/2a72i89u7qfe8/'
 thumbnail: /new-images/thumbnails/classic-solitaire.png
+urlstr: classic-solitaire
 tags:
   - card
   - puzzle

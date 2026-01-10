@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Bloons TD 2"
-description: "Experience the classic Bloons TD 2! Place and upgrade five unique monkey towers to defend against 50 waves of balloons, and master the strategy needed to counter immune Black and White bloons."
-iframeSrc: "https://1000freegames.github.io/swf/bloons-td-2.html"
+title: Bloons TD 2
+seoTitle: Play Bloons TD 2 Online Free | FiddleBops
+description: >-
+  Experience the classic Bloons TD 2! Place and upgrade five unique monkey
+  towers to defend against 50 waves of balloons, and master the strategy needed
+  to counter immune Black and White bloons.
+iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-2.html'
 thumbnail: /new-images/thumbnails/bloons-td-2.jpg
-urlstr: "bloons-td-2"
-score: "4.9/5  (574 votes)"
-tags: ["casual", "strategy"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: bloons-td-2
+tags:
+  - casual
+  - strategy
+score: 4.9/5  (574 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Doodle Baseball ドゥードゥル・ベースボール
+seoTitle: 無料でDoodle Baseball ドゥードゥル・ベースボールをオンラインでプレイ | FiddleBops
 description: 「Doodle Baseball」の完全ガイド。魅力的でシンプルなタイミング勝負の野球ゲーム。ホームランのコツ、操作方法、そしてよくある質問への答えを網羅。
 iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
 thumbnail: /new-images/thumbnails/baseball.jpg
 urlstr: baseball
-score: 4.4/5  (525 votes)
 tags:
   - casual
   - sports
+score: 4.4/5  (525 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

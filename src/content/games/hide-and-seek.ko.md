@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: hide-and-seek
 title: Hide And Seek! 술래잡기 스텔스
+seoTitle: Hide And Seek! 술래잡기 스텔스 무료 온라인 플레이 | FiddleBops
 description: >-
   술래잡기를 탑다운 스텔스 액션으로 재해석한 캐주얼 게임입니다. 숨는 플레이어는 NPC 사이에 섞여 목표를 수행하고, 술래는 시야와 스프린트를
   활용해 제한 시간 안에 모두 찾아야 합니다.
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/YWRIxUAXudnq4HO1/rvvASMiM/239942ce1a1349f6bcc9d312b32c5c3b/
 thumbnail: /new-images/thumbnails/hide-and-seek.jpg
+urlstr: hide-and-seek
 tags:
   - stealth
   - arcade

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: gunspin
 title: Gunspin 건스핀
+seoTitle: Gunspin 건스핀 무료 온라인 플레이 | FiddleBops
 description: >-
   Gunspin은 총의 반동을 추진력으로 바꾸어, 총을 쏠 때마다 몸이 회전하고 앞으로 날아가는 독특한 아케이드 게임입니다. 공중에서 탄약과
   코인을 수집하며 장애물을 피해 최대한 멀리 날아가는 것이 목표입니다.
 iframeSrc: 'https://ubg44.github.io/GunSpin/'
 thumbnail: /new-images/thumbnails/gunspin.jpg
+urlstr: gunspin
 tags:
   - arcade
   - physics

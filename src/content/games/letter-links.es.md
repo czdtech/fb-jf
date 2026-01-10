@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: letter-links
 title: Letter Links
+seoTitle: Juega a Letter Links en línea gratis | FiddleBops
 description: >-
   Letter Links es un desafío diario de construcción de palabras. Coloca tus
   fichas de letras en el tablero para formar palabras de alta puntuación,
@@ -9,6 +9,7 @@ description: >-
   grupo.
 iframeSrc: 'https://7u583tvdi3f00.h5games.usercontent.goog/v/424maigpuljoo/'
 thumbnail: /new-images/thumbnails/letter-links.png
+urlstr: letter-links
 tags:
   - puzzle
   - thinky

@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Smarty Bubbles 2"
-description: "The addictive bubble shooter is back! Aim, shoot, and match colorful bubbles to clear the board. Plan your shots carefully to avoid adding new rows!"
-iframeSrc: "https://smartybubbles2.h5games.usercontent.goog/v/1u280qojm9oq0/"
+title: Smarty Bubbles 2
+seoTitle: Play Smarty Bubbles 2 Online Free | FiddleBops
+description: >-
+  The addictive bubble shooter is back! Aim, shoot, and match colorful bubbles
+  to clear the board. Plan your shots carefully to avoid adding new rows!
+iframeSrc: 'https://smartybubbles2.h5games.usercontent.goog/v/1u280qojm9oq0/'
 thumbnail: /new-images/thumbnails/smarty-bubbles-2.png
-urlstr: "smarty-bubbles-2"
-score: "4.4/5  (2600 votes)"
-tags: ["shooting", "puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: smarty-bubbles-2
+tags:
+  - shooting
+  - puzzle
+  - casual
+score: 4.4/5  (2600 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

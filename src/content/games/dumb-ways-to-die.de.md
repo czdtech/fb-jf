@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: dumb-ways-to-die
 title: Dumb Ways to Die
+seoTitle: Spiele Dumb Ways to Die kostenlos online | FiddleBops
 description: >-
   Dumb Ways to Die ist eine schnelle Sammlung von Reaktions-Minispielen: Löse
   Mikro-Challenges im Zeitdruck, damit deine Figuren nicht auf dumme Weise
   sterben.
 iframeSrc: 'https://html5.iclouds.io/dumb-ways-die/'
 thumbnail: /new-images/thumbnails/dumb-ways-to-die.jpg
+urlstr: dumb-ways-to-die
 tags:
   - arcade
   - minigames

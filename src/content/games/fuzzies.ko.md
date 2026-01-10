@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: fuzzies
 title: Fuzzies 퍼지즈 버블 슈터
+seoTitle: Fuzzies 퍼지즈 버블 슈터 무료 온라인 플레이 | FiddleBops
 description: >-
   귀여운 털뭉치 버블을 쏴서 같은 색을 3개 이상 맞춰 없애는 컬러 매칭 버블 슈터입니다. 천장이 서서히 내려오기 전에 연쇄를 터뜨리고
   부스터를 활용해 화면을 정리하세요.
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=662&original_ref=
 thumbnail: /new-images/thumbnails/fuzzies.jpg
+urlstr: fuzzies
 tags:
   - puzzle
   - match-3

@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: age-of-war
 title: Age of War
+seoTitle: Spiele Age of War kostenlos online | FiddleBops
 description: >-
   Age of War ist ein Klassiker unter den 2D‑Strategie‑Spielen. Entwickle deine
   Armee vom Steinzeit‑Stamm bis zur Zukunftsarmee weiter, setze Türme und
@@ -10,6 +10,7 @@ description: >-
 iframeSrc: >-
   https://app-196716.games.s3.yandex.net/196716/h5h3xwa1kxsz7wcma59tvvmko0zorc80/index.html
 thumbnail: /new-images/thumbnails/age-of-war.jpg
+urlstr: age-of-war
 tags:
   - strategy
   - action

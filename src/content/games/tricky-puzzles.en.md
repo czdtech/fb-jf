@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Brain Test: Tricky Puzzles"
-description: "Challenge your brain with Brain Test: Tricky Puzzles, a mind-bending game that defies conventional logic! Solve unique riddles and puzzles by tapping, dragging, and even rotating your device. Think outside the box and explore every possibility to find the surprising solutions."
-iframeSrc: "https://rebemanae.github.io/brain-test-tricky-puzzles/"
+title: 'Brain Test: Tricky Puzzles'
+seoTitle: 'Play Brain Test: Tricky Puzzles Online Free | FiddleBops'
+description: >-
+  Challenge your brain with Brain Test: Tricky Puzzles, a mind-bending game that
+  defies conventional logic! Solve unique riddles and puzzles by tapping,
+  dragging, and even rotating your device. Think outside the box and explore
+  every possibility to find the surprising solutions.
+iframeSrc: 'https://rebemanae.github.io/brain-test-tricky-puzzles/'
 thumbnail: /new-images/thumbnails/tricky-puzzles.jpg
-urlstr: "tricky-puzzles"
-score: "4.1/5  (713 votes)"
-tags: ["puzzle", "brain-teaser", "logic"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: tricky-puzzles
+tags:
+  - puzzle
+  - brain-teaser
+  - logic
+score: 4.1/5  (713 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

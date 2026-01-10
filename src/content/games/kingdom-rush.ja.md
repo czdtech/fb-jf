@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Kingdom Rush
+seoTitle: 無料でKingdom Rushをオンラインでプレイ | FiddleBops
 description: フラッグシップのタワーディフェンス：4つのタワータイプを配置してアップグレードし、援軍を呼び、ヒーローを細かく操作してチョークポイントを守りましょう。
 iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush.html'
 thumbnail: /new-images/thumbnails/kingdom-rush.jpg
 urlstr: kingdom-rush
-score: 3.8/5  (405 votes)
 tags:
   - tower-defense
   - strategy
+score: 3.8/5  (405 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

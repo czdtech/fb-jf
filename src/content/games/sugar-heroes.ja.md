@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Sugar Heroes
+seoTitle: 無料でSugar Heroesをオンラインでプレイ | FiddleBops
 description: Sugar Heroesは、甘いキャンディーをマッチするパズルゲームです。3つ以上の同じキャンディーを揃えてレベルをクリアしましょう。
 iframeSrc: 'https://2f4eprapfvtoo.h5games.usercontent.goog/v/4bc5h26thvau8/'
 thumbnail: /new-images/thumbnails/sugar-heroes.png
 urlstr: sugar-heroes
-score: 4.1/5  (1986 votes)
 tags:
   - puzzle
   - match-3
   - casual
-locale: ja
+score: 4.1/5  (1986 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

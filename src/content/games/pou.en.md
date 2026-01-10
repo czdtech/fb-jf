@@ -1,15 +1,23 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Pou Game"
-description: "Pou Game is a virtual pet simulation game where players adopt and care for an alien pet named Pou. Players feed, clean, play with, and customize their Pou, helping it grow and thrive while engaging in various mini-games and activities."
-iframeSrc: "https://app-184491.games.s3.yandex.net/184491/simr1s69tzefn132i2xlbk4dusun0mgw/index.html"
+title: Pou Game
+seoTitle: Play Pou Game Online Free | FiddleBops
+description: >-
+  Pou Game is a virtual pet simulation game where players adopt and care for an
+  alien pet named Pou. Players feed, clean, play with, and customize their Pou,
+  helping it grow and thrive while engaging in various mini-games and
+  activities.
+iframeSrc: >-
+  https://app-184491.games.s3.yandex.net/184491/simr1s69tzefn132i2xlbk4dusun0mgw/index.html
 thumbnail: /new-images/thumbnails/pou.jpg
-urlstr: "pou"
-score: "3.5/5  (711 votes)"
-tags: ["virtual pet", "simulation", "casual"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: pou
+tags:
+  - virtual pet
+  - simulation
+  - casual
+score: 3.5/5  (711 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

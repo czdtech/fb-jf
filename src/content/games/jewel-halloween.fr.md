@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: jewel-halloween
 title: Jewel Halloween
+seoTitle: Jouez à Jewel Halloween en ligne gratuitement | FiddleBops
 description: >-
   Jewel Halloween est un match‑3 sur le thème d'Halloween : citrouilles,
   fantômes et potions à aligner pour purifier le plateau avant la fin des coups.
 iframeSrc: 'https://0gk3ormb878mg.h5games.usercontent.goog/v/1qgqb91tuaqv0/'
 thumbnail: /new-images/thumbnails/jewel-halloween.png
+urlstr: jewel-halloween
 tags:
   - puzzle
   - casual

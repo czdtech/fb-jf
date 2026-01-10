@@ -1,14 +1,17 @@
 ---
-title: Sprunki Squid Remix - Play Sprunki Squid Remix Online
-description: Sprunki Squid RemixはSquid Game風の演出を取り入れたSprunki系Modです。サスペンス寄りのビートや効果音で雰囲気のあるトラックを作れます。
+locale: ja
+title: Sprunki Squid Remix
+seoTitle: 無料でSprunki Squid Remixをオンラインでプレイ | FiddleBops
+description: >-
+  Sprunki Squid RemixはSquid
+  Game風の演出を取り入れたSprunki系Modです。サスペンス寄りのビートや効果音で雰囲気のあるトラックを作れます。
 iframeSrc: 'https://turbowarp.org/1123885023/embed'
 thumbnail: /new-images/thumbnails/sprunki-squid-remix.png
 urlstr: sprunki-squid-remix
-score: 4.1/5  (92 votes)
 tags:
   - sprunki squid remix
-locale: ja
-releaseDate: 2025-12-04
+score: 4.1/5  (92 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

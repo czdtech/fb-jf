@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: space-survivor
 title: Space Survivor
+seoTitle: Juega a Space Survivor en línea gratis | FiddleBops
 description: >-
   Pilota tu nave a través de oleadas infinitas de enemigos alienígenas en este
   trepidante roguelike de supervivencia. Recoge XP, elige potentes mejoras y
   comprueba cuánto tiempo eres capaz de resistir.
 iframeSrc: 'https://76sb7kgqtg5kg.h5games.usercontent.goog/v/5s72d5756n840/'
 thumbnail: /new-images/thumbnails/space-survivor.png
+urlstr: space-survivor
 tags:
   - action
   - shooting

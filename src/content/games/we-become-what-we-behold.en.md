@@ -1,6 +1,7 @@
 ---
 locale: en
 title: We Become What We Behold
+seoTitle: Play We Become What We Behold Online Free | FiddleBops
 description: >-
   Explore the impact of media and sensationalism in We Become What We Behold, a
   thought-provoking satirical game. Capture news events with your camera,
@@ -9,12 +10,12 @@ description: >-
 iframeSrc: 'https://html5.iclouds.io/we-become-behold/index.html'
 thumbnail: /new-images/thumbnails/we-become-what-we-behold.jpg
 urlstr: we-become-what-we-behold
-score: 4.0/5  (987 votes)
 tags:
   - satire
   - social-commentary
   - interactive-story
   - thinky
+score: 4.0/5  (987 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---

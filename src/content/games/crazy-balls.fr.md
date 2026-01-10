@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: crazy-balls
 title: Crazy Balls
+seoTitle: Jouez à Crazy Balls en ligne gratuitement | FiddleBops
 description: "Crazy Balls est un jeu d’arcade chaotique avec des balles rebondissantes\_: vise, tire et provoque des réactions en chaîne pour nettoyer l’écran."
 iframeSrc: 'https://05hi0oufvrcro.h5games.usercontent.goog/v/0qeok5765gar8/'
 thumbnail: /new-images/thumbnails/crazy-balls.png
+urlstr: crazy-balls
 tags:
   - action
   - casual

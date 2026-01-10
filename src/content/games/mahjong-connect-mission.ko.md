@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: mahjong-connect-mission
 title: 'Mahjong Connect : Mission 마작 커넥트 미션'
+seoTitle: 'Mahjong Connect : Mission 마작 커넥트 미션 무료 온라인 플레이 | FiddleBops'
 description: >-
   Mahjong Connect: Mission은 같은 패를 최대 두 번까지만 꺾이는 선으로 이어 지워 나가는 마작 커넥트 퍼즐입니다. 제한
   시간 안에 보드를 비우기 위해 잠금, 안개, 폭탄 같은 특수 타일을 우선적으로 관리해야 합니다.
 iframeSrc: 'https://7gsm6u8848nko.h5games.usercontent.goog/v/3qaqg5nju3th8/'
 thumbnail: /new-images/thumbnails/mahjong-connect-mission.png
+urlstr: mahjong-connect-mission
 tags:
   - mahjong
   - puzzle

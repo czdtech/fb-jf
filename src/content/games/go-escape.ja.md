@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Go Escape
+seoTitle: 無料でGo Escapeをオンラインでプレイ | FiddleBops
 description: Go Escapeは精密な脱出プラットフォーマーです。ジャンプのタイミングを計り、罠を読み、コンパクトな部屋の中の安全なルートを通り抜けましょう。
 iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
 thumbnail: /new-images/thumbnails/go-escape.png
 urlstr: go-escape
-score: 4.0/5  (1833 votes)
 tags:
   - puzzle
   - escape
   - action
+score: 4.0/5  (1833 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

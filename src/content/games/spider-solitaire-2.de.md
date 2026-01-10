@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: spider-solitaire-2
 title: Spider Solitaire
+seoTitle: Spiele Spider Solitaire kostenlos online | FiddleBops
 description: >-
   Stell dich der Herausforderung von Spider Solitaire: Ordne Karten nach Farbe
   in absteigender Reihenfolge von König bis Ass, räume das Tableau leer und
   beweise deine Planung und Strategie.
 iframeSrc: 'https://spidersolitaire.h5games.usercontent.goog/v/42fd7cuq80rao/'
 thumbnail: /new-images/thumbnails/spider-solitaire-2.png
+urlstr: spider-solitaire-2
 tags:
   - card
   - puzzle

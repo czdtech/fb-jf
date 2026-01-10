@@ -1,13 +1,11 @@
 ---
 locale: fr
-urlstr: soccar
-title: 'SocCar'
-description: >-
-  Monte au volant dans SocCar, un jeu d’action qui mélange foot et voitures :
-  fonce sur le terrain, percute l’énorme ballon et marque des buts pour battre
-  ton adversaire. Maîtrise conduite et visée pour remporter le match.
+title: SocCar
+seoTitle: Jouez à SocCar en ligne gratuitement | FiddleBops
+description: "Monte au volant dans SocCar, un jeu d’action qui mélange foot et voitures\_: fonce sur le terrain, percute l’énorme ballon et marque des buts pour battre ton adversaire. Maîtrise conduite et visée pour remporter le match."
 iframeSrc: 'https://ubg77.github.io/edit/soccar/'
 thumbnail: /new-images/thumbnails/soccar.jpg
+urlstr: soccar
 tags:
   - sports
   - cars

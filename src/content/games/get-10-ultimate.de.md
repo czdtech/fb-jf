@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: get-10-ultimate
 title: Get 10 Ultimate
+seoTitle: Spiele Get 10 Ultimate kostenlos online | FiddleBops
 description: >-
   Anspruchsvolles Zahlenpuzzle: Tippe auf benachbarte, gleiche Zahlen, um sie zu
   einer höheren Ziffer zu verschmelzen. Schaffst du die 10 – und noch mehr?
 iframeSrc: 'https://4oljglvsib9no.h5games.usercontent.goog/v/4nttt72qlep8o/'
 thumbnail: /new-images/thumbnails/get-10-ultimate.png
+urlstr: get-10-ultimate
 tags:
   - puzzle
   - thinky

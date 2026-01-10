@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: ludo-legend
 title: Ludo Legend
+seoTitle: Spiele Ludo Legend kostenlos online | FiddleBops
 description: >-
   Werde zur Ludo-Legende in diesem klassischen Brettspiel. Würfle, bewege deine
   Figuren und renne schneller ins Ziel als deine Gegner.
 iframeSrc: 'https://ludolegend.h5games.usercontent.goog/v/613uvcaa3eiqo/'
 thumbnail: /new-images/thumbnails/ludo-legend.png
+urlstr: ludo-legend
 tags:
   - 2 player
   - card

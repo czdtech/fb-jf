@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Speed Master"
-description: "Speed Master is a precision reaction gauntlet — hit prompts on beat, chain perfects, and keep composure as speeds spike."
-iframeSrc: "https://6e0ej8ct9hdj8.h5games.usercontent.goog/v/1fssfmqquil18/"
+title: Speed Master
+seoTitle: Play Speed Master Online Free | FiddleBops
+description: >-
+  Speed Master is a precision reaction gauntlet — hit prompts on beat, chain
+  perfects, and keep composure as speeds spike.
+iframeSrc: 'https://6e0ej8ct9hdj8.h5games.usercontent.goog/v/1fssfmqquil18/'
 thumbnail: /new-images/thumbnails/speed-master.png
-urlstr: "speed-master"
-score: "4.0/5  (1811 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: speed-master
+tags:
+  - action
+  - casual
+score: 4.0/5  (1811 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

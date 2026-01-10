@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Choir Game クワイア・ゲーム
+seoTitle: 無料でChoir Game クワイア・ゲームをオンラインでプレイ | FiddleBops
 description: 「Blob Opera」として知られるバイラルな合唱ゲーム！4体のブロブを操作して、リアルでコミカルなオペラ音楽を奏でよう。創造力を解き放つ音楽実験。
 iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/choir/04/index.html'
 thumbnail: /new-images/thumbnails/choir.jpg
 urlstr: choir
-score: 4.1/5  (123 votes)
 tags:
   - casual
   - music
+score: 4.1/5  (123 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

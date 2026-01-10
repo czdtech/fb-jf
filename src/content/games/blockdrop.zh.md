@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: blockdrop
 title: BlockDrop 方块下落拼图
+seoTitle: 免费在线玩 BlockDrop 方块下落拼图 | FiddleBops
 description: >-
   《BlockDrop 方块下落拼图》是一款经典 10×10 格子方块游戏，拖放三块给定形状到棋盘上，凑满整行或整列即可
   消除，没有时间限制，却非常考验布局与预判。
 iframeSrc: 'https://51vi4vae20f8o.h5games.usercontent.goog/v/66bqinuuh36b8/'
 thumbnail: /new-images/thumbnails/blockdrop.png
+urlstr: blockdrop
 tags:
   - puzzle
   - thinky

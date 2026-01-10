@@ -1,13 +1,17 @@
 ---
-title: "Sprunki Like Minecraft - Play Sprunki Like Minecraft Online"
-description: "Sprunki Like Minecraft ModはMinecraft風の見た目で遊べるSprunki系の音楽作成Modです。キャラクターを組み合わせて音を重ね、トラックを作ります。"
-iframeSrc: "https://turbowarp.org/1095572358/embed"
-thumbnail: /new-images/thumbnails/sprunki-like-minecraft.png
-urlstr: "sprunki-like-minecraft"
-score: "4.6/5  (601 votes)"
-tags: ["sprunki like minecraft"]
 locale: ja
-releaseDate: 2025-12-04
+title: Sprunki Like Minecraft
+seoTitle: 無料でSprunki Like Minecraftをオンラインでプレイ | FiddleBops
+description: >-
+  Sprunki Like Minecraft
+  ModはMinecraft風の見た目で遊べるSprunki系の音楽作成Modです。キャラクターを組み合わせて音を重ね、トラックを作ります。
+iframeSrc: 'https://turbowarp.org/1095572358/embed'
+thumbnail: /new-images/thumbnails/sprunki-like-minecraft.png
+urlstr: sprunki-like-minecraft
+tags:
+  - sprunki like minecraft
+score: 4.6/5  (601 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

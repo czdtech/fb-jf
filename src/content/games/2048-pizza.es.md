@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: 2048-pizza
-title: "2048 Pizza puzle de porciones"
+title: 2048 Pizza puzle de porciones
+seoTitle: Juega a 2048 Pizza puzle de porciones en línea gratis | FiddleBops
 description: >-
   2048 Pizza reimagina el clásico 2048 con porciones de pizza. Desliza las
-  fichas, combina iguales y hornea cada vez porciones más grandes mientras evitas
-  que el tablero se llene.
+  fichas, combina iguales y hornea cada vez porciones más grandes mientras
+  evitas que el tablero se llene.
 iframeSrc: 'https://14qikp6hbljig.h5games.usercontent.goog/v/4htrmkq5b0b78/'
 thumbnail: /new-images/thumbnails/2048-pizza.png
+urlstr: 2048-pizza
 tags:
   - puzzle
   - thinky

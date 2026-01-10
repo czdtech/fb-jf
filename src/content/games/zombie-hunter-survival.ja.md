@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Zombie Hunter Survival
+seoTitle: 無料でZombie Hunter Survivalをオンラインでプレイ | FiddleBops
 description: Zombie Hunter Survivalは、ゾンビサバイバルゲームです。資源を集めてゾンビの世界で生き残りましょう。
 iframeSrc: 'https://6ctmcm40nbff0.h5games.usercontent.goog/v/2a81mr3h8ut10/'
 thumbnail: /new-images/thumbnails/zombie-hunter-survival.png
 urlstr: zombie-hunter-survival
-score: 4.1/5  (2022 votes)
 tags:
   - survival
   - zombie
   - action
-locale: ja
+score: 4.1/5  (2022 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

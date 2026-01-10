@@ -1,14 +1,11 @@
 ---
 locale: fr
-urlstr: snake-io
-title: 'Snake.io'
-description: >-
-  Joue à Snake.io, un jeu d’action multijoueur qui modernise le concept
-  classique du serpent : affronte d’autres joueurs pour devenir le plus long
-  en avalant des pastilles et en piégeant tes adversaires, et utilise le boost
-  de vitesse avec stratégie pour dominer l’arène.
+title: Snake.io
+seoTitle: Jouez à Snake.io en ligne gratuitement | FiddleBops
+description: "Joue à Snake.io, un jeu d’action multijoueur qui modernise le concept classique du serpent\_: affronte d’autres joueurs pour devenir le plus long en avalant des pastilles et en piégeant tes adversaires, et utilise le boost de vitesse avec stratégie pour dominer l’arène."
 iframeSrc: 'https://snake.io/crazygames/'
 thumbnail: /new-images/thumbnails/snake-io.jpg
+urlstr: snake-io
 tags:
   - io-games
   - snake

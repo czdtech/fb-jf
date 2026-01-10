@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: cookie-clicker-2
 title: Cookie Clicker 2
+seoTitle: Spiele Cookie Clicker 2 kostenlos online | FiddleBops
 description: >-
   Der ultimative Leitfaden für Cookie Clicker, das legendäre Incremental-Game.
   Erfahre Strategien, Ascension-Tipps, den Umgang mit Golden Cookies und
   Antworten auf häufige Fragen, um deine Keksproduktion zu maximieren.
 iframeSrc: 'https://games-online.io/game/cake-maker/'
 thumbnail: /new-images/thumbnails/cookie-clicker-2.jpg
+urlstr: cookie-clicker-2
 tags:
   - casual
   - clicker

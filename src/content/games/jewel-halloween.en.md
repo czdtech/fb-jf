@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Jewel Halloween"
-description: "Jewel Halloween is a spooky match‑3 — swap gems, trigger cascades, and clear stage goals."
-iframeSrc: "https://0gk3ormb878mg.h5games.usercontent.goog/v/1qgqb91tuaqv0/"
+title: Jewel Halloween
+seoTitle: Play Jewel Halloween Online Free | FiddleBops
+description: >-
+  Jewel Halloween is a spooky match‑3 — swap gems, trigger cascades, and clear
+  stage goals.
+iframeSrc: 'https://0gk3ormb878mg.h5games.usercontent.goog/v/1qgqb91tuaqv0/'
 thumbnail: /new-images/thumbnails/jewel-halloween.png
-urlstr: "jewel-halloween"
-score: "4.1/5  (1942 votes)"
-tags: ["puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: jewel-halloween
+tags:
+  - puzzle
+  - casual
+score: 4.1/5  (1942 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

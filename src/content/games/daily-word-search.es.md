@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: daily-word-search
 title: Daily Word Search
+seoTitle: Juega a Daily Word Search en línea gratis | FiddleBops
 description: >-
   Daily Word Search te propone sopas de letras relajantes: encuentra las
   palabras ocultas en todas las direcciones y elige entre jugar contrarreloj o
   en modo tranquilo.
 iframeSrc: 'https://1i20ele8n07u0.h5games.usercontent.goog/v/1n8osodo9gs80/'
 thumbnail: /new-images/thumbnails/daily-word-search.png
+urlstr: daily-word-search
 tags:
   - puzzle
   - thinky

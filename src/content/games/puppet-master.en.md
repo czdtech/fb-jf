@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Puppet Master"
-description: "Puppet Master is a quirky physics-based puzzle game where players control a puppet character through challenging obstacles and levels by manipulating its movement and limbs to reach the goal."
-iframeSrc: "https://classroomjq.github.io/puppet-master/"
+title: Puppet Master
+seoTitle: Play Puppet Master Online Free | FiddleBops
+description: >-
+  Puppet Master is a quirky physics-based puzzle game where players control a
+  puppet character through challenging obstacles and levels by manipulating its
+  movement and limbs to reach the goal.
+iframeSrc: 'https://classroomjq.github.io/puppet-master/'
 thumbnail: /new-images/thumbnails/puppet-master.jpg
-urlstr: "puppet-master"
-score: "4.3/5  (1234 votes)"
-tags: ["puzzle", "physics", "comedy"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: puppet-master
+tags:
+  - puzzle
+  - physics
+  - comedy
+score: 4.3/5  (1234 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

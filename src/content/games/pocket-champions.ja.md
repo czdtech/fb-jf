@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Pocket Champions
+seoTitle: 無料でPocket Championsをオンラインでプレイ | FiddleBops
 description: Pocket Championsは格闘ゲームです。キャラクターを選び、攻防の読み合いとコンボで相手に勝ちます。
 iframeSrc: 'https://pocketchampions.h5games.usercontent.goog/v/24houhjfrhfi8/'
 thumbnail: /new-images/thumbnails/pocket-champions.png
 urlstr: pocket-champions
-score: 4.4/5  (2600 votes)
 tags:
   - action
   - 2 player
   - casual
+score: 4.4/5  (2600 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

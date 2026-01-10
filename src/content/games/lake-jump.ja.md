@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Lake Jump
+seoTitle: 無料でLake Jumpをオンラインでプレイ | FiddleBops
 description: Lake Jumpはワンタップタイミングゲームです。プラットフォームを飛び越え、落下を避け、完璧なジャンプを連鎖させます。
 iframeSrc: 'https://lakejump.h5games.usercontent.goog/v/33bg3iluek1fg/'
 thumbnail: /new-images/thumbnails/lake-jump.png
 urlstr: lake-jump
-score: 3.7/5  (1276 votes)
 tags:
   - action
   - casual
+score: 3.7/5  (1276 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

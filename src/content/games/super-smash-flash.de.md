@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: super-smash-flash
 title: Super Smash Flash
+seoTitle: Spiele Super Smash Flash kostenlos online | FiddleBops
 description: >-
   Erlebe den Fan-Klassiker Super Smash Flash: Wähle Kultfiguren aus Games und
   Anime und kämpfe in 2D‑Plattformarenen darum, deine Gegner aus dem Bildschirm
   zu schleudern.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/super-smash-flash.html'
 thumbnail: /new-images/thumbnails/super-smash-flash.jpg
+urlstr: super-smash-flash
 tags:
   - fighting
   - platformer

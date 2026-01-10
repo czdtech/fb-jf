@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: my-space-pet
-title: My Space Pet - Adopta a tu mascota alienígena
+title: My Space Pet
+seoTitle: Juega a My Space Pet en línea gratis | FiddleBops
 description: >-
   Emprende una aventura interestelar con My Space Pet. Adopta y cuida de tu
   propia criatura alienígena, explora la galaxia y personaliza su hogar
   espacial.
 iframeSrc: 'https://6jqt3hoth456g.h5games.usercontent.goog/v/6jqt3hoth456g/'
 thumbnail: /new-images/thumbnails/my-space-pet.png
+urlstr: my-space-pet
 tags:
   - casual
   - adventure

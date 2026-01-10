@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Merge Cakes"
-description: "Merge identical cakes to create new, more elaborate desserts! Fill your display, complete orders, and build the sweetest bakery in this delightful and relaxing merge puzzle game."
-iframeSrc: "https://mergecakes.h5games.usercontent.goog/v/516lkgikje8fo/"
+title: Merge Cakes
+seoTitle: Play Merge Cakes Online Free | FiddleBops
+description: >-
+  Merge identical cakes to create new, more elaborate desserts! Fill your
+  display, complete orders, and build the sweetest bakery in this delightful and
+  relaxing merge puzzle game.
+iframeSrc: 'https://mergecakes.h5games.usercontent.goog/v/516lkgikje8fo/'
 thumbnail: /new-images/thumbnails/merge-cakes.jpg
-urlstr: "merge-cakes"
-score: "4.4/5  (2350 votes)"
-tags: ["puzzle", "casual", "clicker"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: merge-cakes
+tags:
+  - puzzle
+  - casual
+  - clicker
+score: 4.4/5  (2350 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

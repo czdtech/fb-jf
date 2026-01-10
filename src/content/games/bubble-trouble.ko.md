@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: bubble-trouble
 title: Bubble Trouble 버블 트러블
+seoTitle: Bubble Trouble 버블 트러블 무료 온라인 플레이 | FiddleBops
 description: >-
   Bubble Trouble은 화면을 튀어 다니는 버블을 작살(하푼)로 터뜨리는 아케이드 액션 게임입니다. 큰 버블을 쏘면 두 개의 작은
   버블로 나뉘니, 맞지 않도록 피하면서 시간 안에 모든 버블을 제거하세요.
 iframeSrc: >-
   https://app-96647.games.s3.yandex.net/96647/w4h0ydt7quklspc0jxwg9kauaiii2lnx/index.html
 thumbnail: /new-images/thumbnails/bubble-trouble.jpg
+urlstr: bubble-trouble
 tags:
   - arcade
   - action

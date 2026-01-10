@@ -1,18 +1,18 @@
 ---
 locale: de
-urlstr: sprunki-squid-remix
 title: Sprunki Squid Remix
+seoTitle: Spiele Sprunki Squid Remix kostenlos online | FiddleBops
 description: >-
-  Sprunki Squid bietet ein wirklich einzigartiges und aufregendes Erlebnis.
-  Es kombiniert die ikonischen Themen und Visuals von Squid Game mit der
-  kreativen Freiheit von Sprunki, was zu einem beispiellosen Crossover-Gameplay
-  führt.
+  Sprunki Squid bietet ein wirklich einzigartiges und aufregendes Erlebnis. Es
+  kombiniert die ikonischen Themen und Visuals von Squid Game mit der kreativen
+  Freiheit von Sprunki, was zu einem beispiellosen Crossover-Gameplay führt.
 iframeSrc: 'https://turbowarp.org/1123885023/embed'
 thumbnail: /new-images/thumbnails/sprunki-squid-remix.png
+urlstr: sprunki-squid-remix
 tags:
   - sprunki squid remix
 score: 4.1/5  (92 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: fruit-ninja
 title: Fruit Ninja 프루트 닌자
+seoTitle: Fruit Ninja 프루트 닌자 무료 온라인 플레이 | FiddleBops
 description: 공중에 튀어 오르는 과일을 손가락으로 베어 넘기는 아케이드 슬래시 게임입니다. 폭탄을 피하며 콤보와 프렌지 타임을 노려 보세요.
 iframeSrc: 'https://emulatoros.github.io/gfile/fruitninja/'
 thumbnail: /new-images/thumbnails/fruit-ninja.jpg
+urlstr: fruit-ninja
 tags:
   - arcade
   - action

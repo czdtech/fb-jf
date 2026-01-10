@@ -1,15 +1,23 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "OvO Dimensions"
-description: "OvO Dimensions is a challenging 2D platformer that extends the OvO series with new mechanics and obstacles, requiring players to master precise jumps, wall slides, and momentum control to navigate complex levels and achieve fast clear times."
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221219/8/index.html"
+title: OvO Dimensions
+seoTitle: Play OvO Dimensions Online Free | FiddleBops
+description: >-
+  OvO Dimensions is a challenging 2D platformer that extends the OvO series with
+  new mechanics and obstacles, requiring players to master precise jumps, wall
+  slides, and momentum control to navigate complex levels and achieve fast clear
+  times.
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221219/8/index.html
 thumbnail: /new-images/thumbnails/ovo-dimensions.jpg
-urlstr: "ovo-dimensions"
-score: "4.9/5  (278 votes)"
-tags: ["platformer", "action", "speedrun"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: ovo-dimensions
+tags:
+  - platformer
+  - action
+  - speedrun
+score: 4.9/5  (278 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

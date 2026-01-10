@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: cooking-mania
 title: Cooking Mania 疯狂料理时间管理
+seoTitle: 免费在线玩 Cooking Mania 疯狂料理时间管理 | FiddleBops
 description: >-
   《Cooking Mania 疯狂料理时间管理》是一款节奏飞快的餐厅经营游戏。你需要在有限时间
   内同时处理多张订单，连贯出菜、打出连击，并通过升级厨房设备来保持顾客满意度。
 iframeSrc: 'https://626dr588t6g9g.h5games.usercontent.goog/v/76eqgdom1qfbg/'
 thumbnail: /new-images/thumbnails/cooking-mania.jpg
+urlstr: cooking-mania
 tags:
   - casual
   - thinky

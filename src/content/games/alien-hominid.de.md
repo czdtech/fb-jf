@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: alien-hominid
 title: Alien Hominid
+seoTitle: Spiele Alien Hominid kostenlos online | FiddleBops
 description: >-
   Der ultimative Guide zum klassischen Run‑and‑Gun‑Shooter Alien Hominid. Hier
   findest du detaillierte Strategien, Steuerungstipps und Antworten auf häufige
   Fragen, um diesen anspruchsvollen Side‑Scroller von The Behemoth zu meistern.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/alien-hominid.html'
 thumbnail: /new-images/thumbnails/alien-hominid.jpg
+urlstr: alien-hominid
 tags:
   - shooting
   - action

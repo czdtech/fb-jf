@@ -1,17 +1,18 @@
 ---
 locale: de
-urlstr: sprunki-sepbox-steel-factory
 title: Sprunki x Sepbox Steel Factory
+seoTitle: Spiele Sprunki x Sepbox Steel Factory kostenlos online | FiddleBops
 description: >-
   Sprunki x SepBox Steel Factory ist eine einzigartige Kollaboration, die
   Sprunkis dynamische Kunst mit der rohen, mechanischen Kraft von Stahl und
   Maschinen verbindet.
 iframeSrc: 'https://turbowarp.org/1099071172/embed'
 thumbnail: /new-images/thumbnails/sprunki-sepbox-steel-factory.png
+urlstr: sprunki-sepbox-steel-factory
 tags:
   - sprunki x sepbox steel factory
 score: 4.9/5  (509 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

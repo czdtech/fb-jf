@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: sudoku
 title: 《Sudoku》经典数独
+seoTitle: 免费在线玩 《Sudoku》经典数独 | FiddleBops
 description: >-
   《Sudoku》是一款经典数字逻辑谜题游戏。你需要在 9×9 方格中填入 1–9，使每一行、每一列和每个 3×3 宫格都恰好包含 1–9
   且不重复，考验推理能力与耐心。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/html5-sudoku/'
 thumbnail: /new-images/thumbnails/sudoku.jpg
+urlstr: sudoku
 tags:
   - puzzle
   - logic

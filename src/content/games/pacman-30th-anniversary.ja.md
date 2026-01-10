@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Pacman 30th Anniversary
+seoTitle: 無料でPacman 30th Anniversaryをオンラインでプレイ | FiddleBops
 description: Pacman 30th Anniversaryはクラシックアーケードゲームの記念版です。迷路を通してナビゲートし、ドットを食べ、ゴーストを避けます。
 iframeSrc: 'https://pacman-30thanniversary.com/game/doodle-pacman/pacman.html'
 thumbnail: /new-images/thumbnails/pacman-30th-anniversary.jpg
 urlstr: pacman-30th-anniversary
-score: 3.6/5  (745 votes)
 tags:
   - action
   - casual
   - arcade
+score: 3.6/5  (745 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,11 +1,12 @@
 ---
 locale: fr
-urlstr: pou
 title: Pou Game
+seoTitle: Jouez à Pou Game en ligne gratuitement | FiddleBops
 description: "Pou Game est un jeu de simulation d’animal virtuel dans lequel tu adoptes et t’occupes d’un petit extraterrestre nommé Pou\_: nourris‑le, lave‑le, joue avec lui et personnalise son apparence pour le voir grandir et s’épanouir à travers de nombreux mini‑jeux et activités."
 iframeSrc: >-
   https://app-184491.games.s3.yandex.net/184491/simr1s69tzefn132i2xlbk4dusun0mgw/index.html
 thumbnail: /new-images/thumbnails/pou.jpg
+urlstr: pou
 tags:
   - virtual pet
   - simulation

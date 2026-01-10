@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "2020 Connect"
-description: "2020 Connect is a number‑merge puzzler — connect equal tiles, create higher values, and manage space for big chains."
-iframeSrc: "https://4l7qr4mfc8o80.h5games.usercontent.goog/v/5sm797oi4heu0/"
+title: 2020 Connect
+seoTitle: Play 2020 Connect Online Free | FiddleBops
+description: >-
+  2020 Connect is a number‑merge puzzler — connect equal tiles, create higher
+  values, and manage space for big chains.
+iframeSrc: 'https://4l7qr4mfc8o80.h5games.usercontent.goog/v/5sm797oi4heu0/'
 thumbnail: /new-images/thumbnails/2020-connect.png
-urlstr: "2020-connect"
-score: "4.2/5  (1965 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: 2020-connect
+tags:
+  - puzzle
+  - thinky
+score: 4.2/5  (1965 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

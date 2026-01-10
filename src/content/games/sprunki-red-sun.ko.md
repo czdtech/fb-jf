@@ -1,17 +1,17 @@
 ---
 locale: ko
-urlstr: sprunki-red-sun
-title: 'Sprunki Red Sun 스프룽키 레드 선'
+title: Sprunki Red Sun 스프룽키 레드 선
+seoTitle: Sprunki Red Sun 스프룽키 레드 선 무료 온라인 플레이 | FiddleBops
 description: >-
-  Sprunki Red Sun은 붉은 태양 아래 뜨겁게 타오르는 세계를 배경으로 한 스프룽키
-  모드입니다. 강렬한 붉은 비주얼과 폭발적인 비트로, 불길한 종말 감성의
-  하드한 트랙을 만들 수 있습니다.
+  Sprunki Red Sun은 붉은 태양 아래 뜨겁게 타오르는 세계를 배경으로 한 스프룽키 모드입니다. 강렬한 붉은 비주얼과 폭발적인
+  비트로, 불길한 종말 감성의 하드한 트랙을 만들 수 있습니다.
 iframeSrc: 'https://kdata1.com/2025/02/sprunki-x-redsun/'
 thumbnail: /new-images/thumbnails/sprunki-red-sun.png
+urlstr: sprunki-red-sun
 tags:
   - sprunki red sun
 score: 4.4/5  (232 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

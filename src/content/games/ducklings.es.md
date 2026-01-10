@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: ducklings
 title: Ducklings
+seoTitle: Juega a Ducklings en línea gratis | FiddleBops
 description: >-
   Ducklings es un relajante juego de recoger patitos: rescata crías en el lago y
   llévalas sanas y salvas de vuelta a tu nido.
 iframeSrc: 'https://g2.igroutka.ru/games/164/BkDlKfiWjEoZ2rcG/ducklings_io/'
 thumbnail: /new-images/thumbnails/ducklings.jpg
+urlstr: ducklings
 tags:
   - casual
   - arcade

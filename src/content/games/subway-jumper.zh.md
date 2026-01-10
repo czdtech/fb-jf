@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: subway-jumper
 title: 《Subway Jumper》地铁跑酷跳跃
+seoTitle: 免费在线玩 《Subway Jumper》地铁跑酷跳跃 | FiddleBops
 description: 《Subway Jumper》是一款横版跑酷+跳跃闯关游戏。你要在地铁轨道与月台之间奔跑、跳跃、躲避列车和障碍，安全抵达终点。
 iframeSrc: 'https://34clth7bs1mtg.h5games.usercontent.goog/v/20un142k99goo/'
 thumbnail: /new-images/thumbnails/subway-jumper.png
+urlstr: subway-jumper
 tags:
   - running
   - platformer

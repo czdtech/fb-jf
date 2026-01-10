@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Ping Pong"
-description: "Ping Pong is a classic arcade sports game where two players control paddles to hit a ball back and forth across a screen, aiming to score points by making the opponent miss the ball."
-iframeSrc: "https://ranimania.com/Games/pingpong/ping_pong/"
+title: Ping Pong
+seoTitle: Play Ping Pong Online Free | FiddleBops
+description: >-
+  Ping Pong is a classic arcade sports game where two players control paddles to
+  hit a ball back and forth across a screen, aiming to score points by making
+  the opponent miss the ball.
+iframeSrc: 'https://ranimania.com/Games/pingpong/ping_pong/'
 thumbnail: /new-images/thumbnails/ping-pong.jpg
-urlstr: "ping-pong"
-score: "4.6/5  (193 votes)"
-tags: ["arcade", "sports", "classic"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: ping-pong
+tags:
+  - arcade
+  - sports
+  - classic
+score: 4.6/5  (193 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

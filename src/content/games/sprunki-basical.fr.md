@@ -1,7 +1,7 @@
 ---
 locale: fr
-urlstr: sprunki-basical
-title: Sprunki Basical - Jouer à Sprunki Basical en ligne
+title: Sprunki Basical
+seoTitle: Jouez à Sprunki Basical en ligne gratuitement | FiddleBops
 description: >-
   Sprunki Basical est un jeu de création musicale « retour aux bases » qui te
   permet de profiter du plaisir le plus pur de la musique avec des commandes
@@ -9,6 +9,7 @@ description: >-
   nouveau, Sprunki Basical est un excellent choix !
 iframeSrc: 'https://sprunki-basical.pages.dev/'
 thumbnail: /new-images/thumbnails/sprunki-basical.png
+urlstr: sprunki-basical
 tags:
   - sprunki basical
   - sprunki basical online

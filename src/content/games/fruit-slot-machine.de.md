@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: fruit-slot-machine
 title: Fruit Slot Machine
+seoTitle: Spiele Fruit Slot Machine kostenlos online | FiddleBops
 description: >-
   Fruit Slot Machine ist ein klassischer Drei-Walzen-Slot: Drehe
   verantwortungsvoll, lerne die Gewinnlinien kennen und jage Features, ohne dein
   Einsatzlimit zu sprengen.
 iframeSrc: 'https://7f8j0t3m1ptv8.h5games.usercontent.goog/v/33cv74na0lvqg/'
 thumbnail: /new-images/thumbnails/fruit-slot-machine.jpg
+urlstr: fruit-slot-machine
 tags:
   - casual
 score: 3.6/5  (1527 votes)

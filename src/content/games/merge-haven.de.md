@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: merge-haven
-title: "Merge Haven"
+title: Merge Haven
+seoTitle: Spiele Merge Haven kostenlos online | FiddleBops
 description: >-
   Merge Haven ist ein beruhigender Merge-Aufbau: Erstelle Merge-Ketten, erfülle
   Aufgaben und baue mit kluger Brettverwaltung ein kleines Zuhause auf.
 iframeSrc: 'https://1jjan0u3n07qg.h5games.usercontent.goog/v/5aruivrappsfg/'
 thumbnail: /new-images/thumbnails/merge-haven.png
+urlstr: merge-haven
 tags:
   - puzzle
   - casual

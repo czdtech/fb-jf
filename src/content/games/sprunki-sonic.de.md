@@ -1,18 +1,19 @@
 ---
 locale: de
-urlstr: sprunki-sonic
-title: "Sprunki Sonic 🔥"
+title: Sprunki Sonic
+seoTitle: Spiele Sprunki Sonic kostenlos online | FiddleBops
 description: >-
-  Egal ob du Rhythmusspiele liebst oder ein treuer Fan der Sonic-Reihe bist –
-  in Sprunki Sonic findest du deinen Spaß. Dieses Spiel ist leicht zu erlernen,
+  Egal ob du Rhythmusspiele liebst oder ein treuer Fan der Sonic-Reihe bist – in
+  Sprunki Sonic findest du deinen Spaß. Dieses Spiel ist leicht zu erlernen,
   aber schwer zu meistern, perfekt für Spieler aller Fähigkeitsstufen.
 iframeSrc: 'https://turbowarp.org/1114980098/embed'
 thumbnail: /new-images/thumbnails/sprunki-sonic.png
+urlstr: sprunki-sonic
 tags:
   - sprunki sonic
   - sprunki sonic online
 score: 4.0/5  (829 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Einführung in Sprunki Sonic

@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Spacebar Clicker"
-description: "Test your clicking speed with Spacebar Clicker, an addictive incremental game. Press the spacebar to earn points and use them to buy powerful upgrades. Automate your clicks and multiply your earnings to see how high you can score in this simple yet engaging clicker game."
-iframeSrc: "https://spacebarclicker.co/game/spacebar-counter/"
+title: Spacebar Clicker
+seoTitle: Play Spacebar Clicker Online Free | FiddleBops
+description: >-
+  Test your clicking speed with Spacebar Clicker, an addictive incremental game.
+  Press the spacebar to earn points and use them to buy powerful upgrades.
+  Automate your clicks and multiply your earnings to see how high you can score
+  in this simple yet engaging clicker game.
+iframeSrc: 'https://spacebarclicker.co/game/spacebar-counter/'
 thumbnail: /new-images/thumbnails/spacebar-clicker.jpg
-urlstr: "spacebar-clicker"
-score: "4.1/5  (866 votes)"
-tags: ["clicker", "idle", "skill"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: spacebar-clicker
+tags:
+  - clicker
+  - idle
+  - skill
+score: 4.1/5  (866 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

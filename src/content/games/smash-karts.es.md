@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: smash-karts
 title: Smash Karts
+seoTitle: Juega a Smash Karts en línea gratis | FiddleBops
 description: >-
   Smash Karts es un juego multijugador online de karts en el que compites en
   carreras frenéticas, recoges power‑ups y te enfrentas a otros jugadores
   mientras recorres circuitos llenos de color en 3D.
 iframeSrc: 'https://webgltest-17af1.firebaseapp.com/'
 thumbnail: /new-images/thumbnails/smash-karts.jpg
+urlstr: smash-karts
 tags:
   - racing
   - multiplayer

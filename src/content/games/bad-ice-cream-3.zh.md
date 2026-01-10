@@ -1,13 +1,14 @@
 ---
 locale: zh
-urlstr: bad-ice-cream-3
 title: Bad Ice-Cream 3 坏坏冰淇淋 3
+seoTitle: 免费在线玩 Bad Ice-Cream 3 坏坏冰淇淋 3 | FiddleBops
 description: >-
   《Bad Ice-Cream 3（坏坏冰淇淋
   3）》是系列第三作，在保留核心玩法的基础上加入了更多关卡、更复杂的冰雪迷宫以及全新敌人类型，需要你用更成熟的冰墙策略来收集所有水果。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x5/index.html
 thumbnail: /new-images/thumbnails/bad-ice-cream-3.jpg
+urlstr: bad-ice-cream-3
 tags:
   - puzzle
   - casual

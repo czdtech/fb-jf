@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Odd One Out"
-description: "Find the item that doesn't belong in the group in Odd One Out, a game that tests your observation and critical thinking skills."
-iframeSrc: "https://oddoneout.h5games.usercontent.goog/v/50nqosk9lm28o/"
+title: Odd One Out
+seoTitle: Play Odd One Out Online Free | FiddleBops
+description: >-
+  Find the item that doesn't belong in the group in Odd One Out, a game that
+  tests your observation and critical thinking skills.
+iframeSrc: 'https://oddoneout.h5games.usercontent.goog/v/50nqosk9lm28o/'
 thumbnail: /new-images/thumbnails/odd-one-out.jpg
-urlstr: "odd-one-out"
-score: "4.0/5 (987 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: odd-one-out
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.0/5 (987 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

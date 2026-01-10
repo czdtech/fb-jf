@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: incredibox-wolfgang
 title: Incredibox Wolfgang
+seoTitle: Jouez à Incredibox Wolfgang en ligne gratuitement | FiddleBops
 description: >-
   Incredibox Wolfgang est un mod orchestral classique : cordes, cuivres et
   chœurs inspirés de Mozart et des grands compositeurs.
 iframeSrc: 'https://turbowarp.org/943197191/embed'
 thumbnail: /new-images/thumbnails/incredibox-wolfgang.png
+urlstr: incredibox-wolfgang
 tags:
   - music
   - classical

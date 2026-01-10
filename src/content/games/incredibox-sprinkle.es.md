@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: incredibox-sprinkle
-title: Incredibox Sprinkle - Juega Incredibox Sprinkle en línea
+title: Incredibox Sprinkle
+seoTitle: Juega a Incredibox Sprinkle en línea gratis | FiddleBops
 description: >-
-  Sprinkle es un juego de creación musical fácil de jugar y muy divertido.
-  Tanto si eres un jugador casual como si te interesa la producción musical,
-  aquí encontrarás tu propio espacio creativo.
+  Sprinkle es un juego de creación musical fácil de jugar y muy divertido. Tanto
+  si eres un jugador casual como si te interesa la producción musical, aquí
+  encontrarás tu propio espacio creativo.
 iframeSrc: 'https://g.sprinkleincredibox.com/web-game/SprinkleIncredibox/index.html'
 thumbnail: /new-images/thumbnails/incredibox-sprinkle.png
+urlstr: incredibox-sprinkle
 tags:
   - incredibox sprinkle
 score: 3.8/5  (387 votes)

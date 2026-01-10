@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: minesweeper-2
 title: Minesweeper
+seoTitle: Jouez à Minesweeper en ligne gratuitement | FiddleBops
 description: >-
   La version classique et intemporelle du démineur : utilise les nombres comme
   indices pour localiser toutes les mines cachées et vider la grille sans en
   faire exploser une seule.
 iframeSrc: 'https://minesweeper.h5games.usercontent.goog/v/6uo6tf2lnil3o/'
 thumbnail: /new-images/thumbnails/minesweeper-2.jpg
+urlstr: minesweeper-2
 tags:
   - puzzle
   - thinky

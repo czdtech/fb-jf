@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: wordle
 title: Wordle：每日五字猜词
+seoTitle: 免费在线玩 Wordle：每日五字猜词 | FiddleBops
 description: >-
   《Wordle》是一款风靡全球的每日单词猜谜游戏。 你有最多六次机会猜出一个五字母英文单词，
   通过颜色提示推理出正确字母及其位置，是极简却高度上瘾的词汇挑战。
 iframeSrc: 'https://ext.minijuegos.com/wordle/'
 thumbnail: /new-images/thumbnails/wordle.jpg
+urlstr: wordle
 tags:
   - word
   - puzzle

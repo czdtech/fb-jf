@@ -1,15 +1,21 @@
 ---
 locale: en
-modType: incredibox
-title: "Incredibox Choir"
-description: "Explore the harmonious world of Incredibox Choir, a fan-made mod focusing on vocal arrangements and choral music."
-iframeSrc: "https://turbowarp.org/1034584392/embed"
+title: Incredibox Choir
+seoTitle: Play Incredibox Choir Online Free | FiddleBops
+description: >-
+  Explore the harmonious world of Incredibox Choir, a fan-made mod focusing on
+  vocal arrangements and choral music.
+iframeSrc: 'https://turbowarp.org/1034584392/embed'
 thumbnail: /new-images/thumbnails/incredibox-choir.png
-urlstr: "incredibox-choir"
-score: "4.6/5 (1254 votes)"
-tags: ["music", "vocal", "casual"]
-developer: ""
-releaseDate: 2025-10-10
+urlstr: incredibox-choir
+tags:
+  - music
+  - vocal
+  - casual
+modType: incredibox
+score: 4.6/5 (1254 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 

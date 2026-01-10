@@ -1,18 +1,19 @@
 ---
 locale: fr
-urlstr: jewel-duel
 title: Jewel Duel
+seoTitle: Jouez à Jewel Duel en ligne gratuitement | FiddleBops
 description: >-
   Jewel Duel mêle match‑3 et RPG : fais des alignements pour lancer des
   attaques, utiliser des sorts et vaincre tes ennemis.
 iframeSrc: 'https://5f4e2d55f2dt8.h5games.usercontent.goog/v/36105ruk0rln0/'
 thumbnail: /new-images/thumbnails/jewel-duel.jpg
+urlstr: jewel-duel
 tags:
   - puzzle
   - rpg
   - match-3
 score: 4.2/5  (2052 votes)
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

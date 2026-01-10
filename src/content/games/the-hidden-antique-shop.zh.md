@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: the-hidden-antique-shop
 title: 《The Hidden Antique Shop》古董铺找物
+seoTitle: 免费在线玩 《The Hidden Antique Shop》古董铺找物 | FiddleBops
 description: >-
   《The Hidden Antique
   Shop》是一款隐藏物品解谜游戏。走进充满古董与小摆件的老店，在繁杂场景中按照提示寻找指定物品，体验细节观察与放松解谜的乐趣。
 iframeSrc: 'https://7nh0dnmovl0g0.h5games.usercontent.goog/v/01busogksrcm0/'
 thumbnail: /new-images/thumbnails/the-hidden-antique-shop.png
+urlstr: the-hidden-antique-shop
 tags:
   - hidden-object
   - puzzle

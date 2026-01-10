@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: jewel-pets-match
 title: Jewel Pets Match
+seoTitle: Jouez à Jewel Pets Match en ligne gratuitement | FiddleBops
 description: >-
   Jewel Pets Match mélange gemmes et animaux mignons : aligne des symboles pour
   aider les petites créatures et progresser à travers les niveaux.
 iframeSrc: 'https://jewelpetsmatch.h5games.usercontent.goog/v/2kcabvevoilco/'
 thumbnail: /new-images/thumbnails/jewel-pets-match.png
+urlstr: jewel-pets-match
 tags:
   - puzzle
   - casual

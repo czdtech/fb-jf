@@ -1,14 +1,15 @@
 ---
+locale: ja
 title: 60 Seconds Burger Run 60秒バーガーラン
+seoTitle: 無料で60 Seconds Burger Run 60秒バーガーランをオンラインでプレイ | FiddleBops
 description: >-
   「60秒バーガーラン」は、閉店間際のハンバーガーショップを目指して疾走する、カラフルでエキサイティングなスピードラン・プラットフォーマーです！制限時間は厳守の60秒！
 iframeSrc: 'https://www.playfiddlebops.com/embed/60s-burger-run/index.html'
 thumbnail: /new-images/thumbnails/60s-burger-run.jpg
 urlstr: 60s-burger-run
-score: 4.6/5  (1344 votes)
 tags:
   - 60 seconds burger run
-locale: ja
+score: 4.6/5  (1344 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

@@ -1,16 +1,17 @@
 ---
 locale: ko
-urlstr: fiddlebops-but-dandys-world
-title: "Fiddlebops But Dandy''s World 피들밥스 x 댄디즈 월드"
+title: Fiddlebops But Dandy''s World 피들밥스 x 댄디즈 월드
+seoTitle: Fiddlebops But Dandy''s World 피들밥스 x 댄디즈 월드 무료 온라인 플레이 | FiddleBops
 description: >-
-  Fiddlebops의 음악 제작을 Dandy''s World 세계관과 섞은 리믹스 버전입니다.
-  드래그 앤 드롭으로 사운드 아이콘을 올려 독특한 음악과 이야기를 만들어 보세요.
+  Fiddlebops의 음악 제작을 Dandy''s World 세계관과 섞은 리믹스 버전입니다. 드래그 앤 드롭으로 사운드 아이콘을 올려
+  독특한 음악과 이야기를 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1114551059/embed'
 thumbnail: /new-images/thumbnails/fiddlebops-but-dandys-world.png
+urlstr: fiddlebops-but-dandys-world
 tags:
   - fiddlebops but dandy
 score: 4.6/5  (27 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

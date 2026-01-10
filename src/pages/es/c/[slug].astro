@@ -3,6 +3,7 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import CATEGORIES from '../../../components/Categories.astro';
 import { getCategoryHreflang } from '../../../data/hreflang';
 import { toGameCardData, type GameEntry } from '../../../lib/canonical-games';
+import { buildCategorySeoTitle } from '../../../lib/seo-title';
 
 export { getStaticPaths } from '../../c/[slug].astro';
 
@@ -26,7 +27,7 @@ const description = `Juega en línea gratis a ${gameCount} juegos de ${displayTa
   .slice(0, 3)
   .map((g) => toGameCardData(g, locale).title)
   .join(', ')} y más.`;
-const title = `Juegos de ${displayTagName} - FiddleBops Game World`;
+const title = buildCategorySeoTitle(locale, displayTagName);
 const canonicalUrl = `https://www.playfiddlebops.com/es/c/${slug}/`;
 
 const jsonLd = {

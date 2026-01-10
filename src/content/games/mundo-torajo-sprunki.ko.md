@@ -1,16 +1,17 @@
 ---
 locale: ko
-urlstr: mundo-torajo-sprunki
-title: "Mundo Torajo Sprunki 문도 토라호 스프런키"
+title: Mundo Torajo Sprunki 문도 토라호 스프런키
+seoTitle: Mundo Torajo Sprunki 문도 토라호 스프런키 무료 온라인 플레이 | FiddleBops
 description: >-
-  Mundo Torajo Sprunki는 문도 토라호의 기괴하고 귀여운 세계관과 Sprunki의 리듬 기반
-  사운드 플레이를 섞어, 색감과 음악으로 끝없는 창작을 즐길 수 있는 독특한 모드입니다.
+  Mundo Torajo Sprunki는 문도 토라호의 기괴하고 귀여운 세계관과 Sprunki의 리듬 기반 사운드 플레이를 섞어, 색감과
+  음악으로 끝없는 창작을 즐길 수 있는 독특한 모드입니다.
 iframeSrc: 'https://turbowarp.org/1096623350/embed'
 thumbnail: /new-images/thumbnails/mundo-torajo-sprunki.png
+urlstr: mundo-torajo-sprunki
 tags:
   - mundo torajo sprunki
 score: 4.0/5  (112 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

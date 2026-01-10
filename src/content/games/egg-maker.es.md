@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: egg-maker
 title: Egg Maker
+seoTitle: Juega a Egg Maker en línea gratis | FiddleBops
 description: >-
   Egg Maker es un pequeño puzle de cocina y gestión de tiempo: encadena pasos de
   preparación, controla la sartén y sirve huevos perfectos incluso en plena hora
   punta.
 iframeSrc: 'https://2jbqv0uarsk18.h5games.usercontent.goog/v/2cnuunat3mtpg/'
 thumbnail: /new-images/thumbnails/egg-maker.png
+urlstr: egg-maker
 tags:
   - casual
   - thinky

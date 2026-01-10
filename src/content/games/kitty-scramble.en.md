@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Kitty Scramble"
-description: "Kitty Scramble is a cozy word‑hunt — swipe across letter grids, find themed words, and clear boards with pattern recognition."
-iframeSrc: "https://6cifr142haig8.h5games.usercontent.goog/v/1c963avg5lo9g/"
+title: Kitty Scramble
+seoTitle: Play Kitty Scramble Online Free | FiddleBops
+description: >-
+  Kitty Scramble is a cozy word‑hunt — swipe across letter grids, find themed
+  words, and clear boards with pattern recognition.
+iframeSrc: 'https://6cifr142haig8.h5games.usercontent.goog/v/1c963avg5lo9g/'
 thumbnail: /new-images/thumbnails/kitty-scramble.png
-urlstr: "kitty-scramble"
-score: "4.2/5  (2038 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: kitty-scramble
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.2/5  (2038 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

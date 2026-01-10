@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: cooking-mama
 title: 'Cooking Mama: Mama Kills Animals'
+seoTitle: 'Spiele Cooking Mama: Mama Kills Animals kostenlos online | FiddleBops'
 description: >-
   Erfahre mehr über "Cooking Mama: Mama Kills Animals", das schockierende
   Parodiespiel von PETA. Diese Anleitung erklärt Ursprung, satirisches Gameplay
@@ -9,6 +9,7 @@ description: >-
   offiziellen Reihe ab.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/cooking-mama.html'
 thumbnail: /new-images/thumbnails/cooking-mama.jpg
+urlstr: cooking-mama
 tags:
   - horror
 score: 4.4/5  (1078 votes)

@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: hole-io
 title: Hole io
+seoTitle: Juega a Hole io en línea gratis | FiddleBops
 description: >-
   Brawler .io de ciudad devorada: mueve un agujero negro para tragar objetos,
   crecer de tamaño y superar o eliminar a tus rivales en el mapa.
 iframeSrc: 'https://holeio.com/'
 thumbnail: /new-images/thumbnails/hole-io.jpg
+urlstr: hole-io
 tags:
   - io
   - arcade

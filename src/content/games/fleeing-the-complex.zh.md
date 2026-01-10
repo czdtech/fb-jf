@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: fleeing-the-complex
 title: Fleeing the Complex 逃出高墙监狱
+seoTitle: 免费在线玩 Fleeing the Complex 逃出高墙监狱 | FiddleBops
 description: Henry Stickmin 系列中规模最大的一次越狱行动：通过选择道具与路线， 尝试从要塞级监狱中逃脱，解锁多种结局并收集所有失败与角色资料。
 iframeSrc: 'https://ubg77.github.io/fleeing-the-complex/'
 thumbnail: /new-images/thumbnails/fleeing-the-complex.jpg
+urlstr: fleeing-the-complex
 tags:
   - adventure
   - point-and-click

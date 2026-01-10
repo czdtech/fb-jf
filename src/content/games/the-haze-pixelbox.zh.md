@@ -1,16 +1,17 @@
 ---
 locale: zh
-urlstr: the-haze-pixelbox
 title: '《The Haze: Pixelbox》迷雾像素盒'
+seoTitle: '免费在线玩 《The Haze: Pixelbox》迷雾像素盒 | FiddleBops'
 description: '《The Haze: Pixelbox》是一款氛围独特的像素解谜/探索游戏。你将在迷雾笼罩的像素世界里移动方块、解开机关，逐步拼凑出隐藏在雾后的真相。'
 iframeSrc: 'https://turbowarp.org/1020955547/embed'
 thumbnail: /new-images/thumbnails/the-haze-pixelbox.png
+urlstr: the-haze-pixelbox
 tags:
   - puzzle
   - adventure
   - pixel
 score: 3.9/5  (132 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

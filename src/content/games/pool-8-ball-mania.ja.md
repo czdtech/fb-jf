@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Pool 8 Ball Mania
+seoTitle: 無料でPool 8 Ball Maniaをオンラインでプレイ | FiddleBops
 description: Pool 8 Ball Maniaはクラシックな8球ビリヤードです。ボールをポケットに入れ、対戦相手と競い、プールチャンピオンになります。
 iframeSrc: 'https://4i2ksm0sqbsr0.h5games.usercontent.goog/v/6fbgaukuhtvqo/'
 thumbnail: /new-images/thumbnails/pool-8-ball-mania.png
 urlstr: pool-8-ball-mania
-score: 4.2/5  (2059 votes)
 tags:
   - sports
   - casual
   - 2 player
+score: 4.2/5  (2059 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

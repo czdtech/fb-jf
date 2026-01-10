@@ -1,17 +1,18 @@
 ---
 locale: de
-urlstr: sprunki-eggs-mix
-title: Sprunki Egg's Mix - Sprunki Egg's Mix online spielen
+title: Sprunki Egg's Mix
+seoTitle: Spiele Sprunki Egg's Mix kostenlos online | FiddleBops
 description: >-
   Sprunki Egg's Mix ist ein Knobelspiel rund um bunte Sprunki-Eier: Kombiniere
   ihre speziellen Eigenschaften, löse Kettenreaktionen aus und räume das
   Spielfeld mit cleveren Zügen.
 iframeSrc: 'https://turbowarp.org/1102648676/embed'
 thumbnail: /new-images/thumbnails/sprunki-eggs-mix.png
+urlstr: sprunki-eggs-mix
 tags:
   - sprunki egg
 score: 3.9/5  (125 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Was macht Sprunki Egg's Mix besonders?

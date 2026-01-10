@@ -1,13 +1,13 @@
 ---
 locale: ko
-urlstr: rock-paper-scissors-dojo
-title: "Rock Paper Scissors Dojo 가위바위보 도장"
+title: Rock Paper Scissors Dojo 가위바위보 도장
+seoTitle: Rock Paper Scissors Dojo 가위바위보 도장 무료 온라인 플레이 | FiddleBops
 description: >-
-  가위바위보를 심리전으로 확장한 대전 게임입니다. 상대의 패턴을
-  읽고, 스스로는 읽히지 않도록 전략을 섞어 베스트 오브 매치에서
-  승리를 노려 보세요.
+  가위바위보를 심리전으로 확장한 대전 게임입니다. 상대의 패턴을 읽고, 스스로는 읽히지 않도록 전략을 섞어 베스트 오브 매치에서 승리를 노려
+  보세요.
 iframeSrc: 'https://0o2ssijd98lgg.h5games.usercontent.goog/v/39t01692a4rs8/'
 thumbnail: /new-images/thumbnails/rock-paper-scissors-dojo.png
+urlstr: rock-paper-scissors-dojo
 tags:
   - casual
   - 2 player

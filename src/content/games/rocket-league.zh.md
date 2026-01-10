@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: rocket-league
 title: 《Rocket League》火箭联盟式赛车足球
+seoTitle: 免费在线玩 《Rocket League》火箭联盟式赛车足球 | FiddleBops
 description: >-
   《Rocket
   League》是一款把足球与火箭喷射赛车结合在一起的高能体育游戏。你驾驶装有喷射推进器的战车在场上飞驰、跳跃、腾空撞球，把巨大足球撞进对方球门，完成一连串精彩空中配合。
 iframeSrc: 'https://ubg77.github.io/edit/rocket-soccer-derby/'
 thumbnail: /new-images/thumbnails/rocket-league.jpg
+urlstr: rocket-league
 tags:
   - sports
   - racing

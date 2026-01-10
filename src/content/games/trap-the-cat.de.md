@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: trap-the-cat
 title: Trap the Cat
+seoTitle: Spiele Trap the Cat kostenlos online | FiddleBops
 description: >-
   Trap the Cat ist ein strategisches Logik‑Puzzle: Platziere Barrieren auf einem
   Wabenfeld so, dass der schlaue Kater keinen Weg mehr zum Rand findet.
 iframeSrc: 'https://freeonlinegames.github.io/cat-trap.html'
 thumbnail: /new-images/thumbnails/trap-the-cat.jpg
+urlstr: trap-the-cat
 tags:
   - strategy
   - puzzle

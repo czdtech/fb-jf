@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Wood Block Match"
-description: "Wood Block Match is a calming block‑fit — place wooden shapes, clear rows/columns, and preserve space with smart pocketing."
-iframeSrc: "https://2rfr65hktjv5o.h5games.usercontent.goog/v/46h85f5g0sldo/"
+title: Wood Block Match
+seoTitle: Play Wood Block Match Online Free | FiddleBops
+description: >-
+  Wood Block Match is a calming block‑fit — place wooden shapes, clear
+  rows/columns, and preserve space with smart pocketing.
+iframeSrc: 'https://2rfr65hktjv5o.h5games.usercontent.goog/v/46h85f5g0sldo/'
 thumbnail: /new-images/thumbnails/wood-block-match.png
-urlstr: "wood-block-match"
-score: "4.1/5  (1969 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: wood-block-match
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.1/5  (1969 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: daily-sudoku-3
 title: Daily Sudoku
+seoTitle: Spiele Daily Sudoku kostenlos online | FiddleBops
 description: >-
   Jeden Tag ein neues Sudoku-Logikrätsel: Fülle das 9×9-Gitter so, dass jede
   Zeile, Spalte und jedes 3×3-Feld die Ziffern 1 bis 9 ohne Wiederholung
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://dailysudoku.h5games.usercontent.goog/v/03446732-f14b-4bcc-9e8b-68fc499a0cec/
 thumbnail: /new-images/thumbnails/daily-sudoku-3.jpg
+urlstr: daily-sudoku-3
 tags:
   - puzzle
   - thinky

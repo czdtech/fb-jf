@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: bowling-stars
 title: Bowling Stars
+seoTitle: Jouez à Bowling Stars en ligne gratuitement | FiddleBops
 description: "Bowling Stars est une simulation de bowling à 10 quilles\_: ajuste ton angle, ton effet et ta puissance pour enchaîner les strikes et gérer tes spares."
 iframeSrc: 'https://0pst60kfu8pi8.h5games.usercontent.goog/v/249kviafiu6co/'
 thumbnail: /new-images/thumbnails/bowling-stars.png
+urlstr: bowling-stars
 tags:
   - sports
   - casual

@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: golf-fling
 title: Golf Fling
+seoTitle: Spiele Golf Fling kostenlos online | FiddleBops
 description: >-
   Golf Fling ist ein physikbasiertes Golf-Puzzlespiel. Ziele, ziehe und lass
   los, um den Ball durch knifflige Kurse zu schleudern und ihn mit möglichst
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://golffling.h5games.usercontent.goog/v/0aa707a3-71a5-4ad8-be9b-32ce55e28d64/
 thumbnail: /new-images/thumbnails/golf-fling.jpg
+urlstr: golf-fling
 tags:
   - sports
   - puzzle

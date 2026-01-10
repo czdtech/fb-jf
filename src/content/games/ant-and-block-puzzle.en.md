@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Ant and block puzzle"
-description: "Ant and block puzzle is a neat block‑fitter — place shapes, fill rows, and avoid dead zones."
-iframeSrc: "https://6f5e193l1nhig.h5games.usercontent.goog/v/2bgjgmrog0tgg/"
+title: Ant and block puzzle
+seoTitle: Play Ant and block puzzle Online Free | FiddleBops
+description: >-
+  Ant and block puzzle is a neat block‑fitter — place shapes, fill rows, and
+  avoid dead zones.
+iframeSrc: 'https://6f5e193l1nhig.h5games.usercontent.goog/v/2bgjgmrog0tgg/'
 thumbnail: /new-images/thumbnails/ant-and-block-puzzle.png
-urlstr: "ant-and-block-puzzle"
-score: "3.8/5  (1524 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: ant-and-block-puzzle
+tags:
+  - puzzle
+  - thinky
+score: 3.8/5  (1524 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

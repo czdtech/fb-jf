@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Fleeing the Complex"
-description: "Branching stick‑figure escape: choose items and routes to break out of the complex, discover multiple endings, and collect all fails/bios."
-iframeSrc: "https://ubg77.github.io/fleeing-the-complex/"
+title: Fleeing the Complex
+seoTitle: Play Fleeing the Complex Online Free | FiddleBops
+description: >-
+  Branching stick‑figure escape: choose items and routes to break out of the
+  complex, discover multiple endings, and collect all fails/bios.
+iframeSrc: 'https://ubg77.github.io/fleeing-the-complex/'
 thumbnail: /new-images/thumbnails/fleeing-the-complex.jpg
-urlstr: "fleeing-the-complex"
-score: "4.7/5  (1158 votes)"
-tags: ["adventure", "point-and-click"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: fleeing-the-complex
+tags:
+  - adventure
+  - point-and-click
+score: 4.7/5  (1158 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

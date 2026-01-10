@@ -1,16 +1,17 @@
 ---
 locale: ko
-urlstr: fiddlebops-sprunkbop
 title: Fiddlebops Sprunkbop 피들밥스 스프렁크밥
+seoTitle: Fiddlebops Sprunkbop 피들밥스 스프렁크밥 무료 온라인 플레이 | FiddleBops
 description: >-
   Fiddlebops의 드래그 앤 드롭 음악 제작에 Sprunki 스타일을 더한 팬 메이드 Mod입니다. 새로운 캐릭터와 사운드로 독특한
   비트를 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1114551059/embed'
 thumbnail: /new-images/thumbnails/fiddlebops-sprunkbop.png
+urlstr: fiddlebops-sprunkbop
 tags:
   - fiddlebops sprunkbop
 score: 4.1/5  (308 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

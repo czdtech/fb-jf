@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: crash-bandicoot
 title: Crash Bandicoot
+seoTitle: Jouez à Crash Bandicoot en ligne gratuitement | FiddleBops
 description: "Retrouve Crash Bandicoot dans un runner 3D plein de caisses\_: cours, saute, fais des tours sur toi‑même et évite les pièges pour atteindre la fin des niveaux."
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crash-bandicoot.html'
 thumbnail: /new-images/thumbnails/crash-bandicoot.jpg
+urlstr: crash-bandicoot
 tags:
   - action
   - casual

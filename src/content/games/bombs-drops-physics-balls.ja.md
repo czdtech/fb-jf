@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Bombs Drops Physics balls ボムズ・ドロップス・フィジックス・ボール
+seoTitle: 無料でBombs Drops Physics balls ボムズ・ドロップス・フィジックス・ボールをオンラインでプレイ | FiddleBops
 description: 「Bombs Drops Physics balls」は爆弾と物理演算で遊ぶパズルゲーム。投下タイミングを見極め、連鎖反応を起こし、ターゲットを一掃しよう。
 iframeSrc: 'https://6nhcl6kaecsio.h5games.usercontent.goog/v/09ccnat7ptqs8/'
 thumbnail: /new-images/thumbnails/bombs-drops-physics-balls.jpg
 urlstr: bombs-drops-physics-balls
-score: 3.9/5  (1598 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 3.9/5  (1598 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

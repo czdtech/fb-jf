@@ -1,5 +1,7 @@
 ---
+locale: ja
 title: Atari Breakout アタリ・ブロック崩し
+seoTitle: 無料でAtari Breakout アタリ・ブロック崩しをオンラインでプレイ | FiddleBops
 description: >-
   伝説のアーケードゲーム「Atari
   Breakout」を極めよう。すべてのブロックを粉砕し、ハイスコアを叩き出すための勝利の戦略、操作方法、そしてコツを伝授。
@@ -7,13 +9,12 @@ iframeSrc: >-
   https://app-184523.games.s3.yandex.net/184523/bdryh2h6iqjirujzrk3tlum0j0n28j1o/index.html
 thumbnail: /new-images/thumbnails/atari-breakout.jpg
 urlstr: atari-breakout
-score: 3.7/5  (602 votes)
 tags:
   - casual
   - action
+score: 3.7/5  (602 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

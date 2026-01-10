@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: cake-slice-ninja
 title: Cake Slice Ninja
+seoTitle: Jouez à Cake Slice Ninja en ligne gratuitement | FiddleBops
 description: "Cake Slice Ninja est un jeu de découpe façon «\_fruit ninja\_»\_: tranche les parts de gâteau en vol, enchaîne les combos et évite les bombes."
 iframeSrc: 'https://cakesliceninja.h5games.usercontent.goog/v/5bh2c88k8pku8/'
 thumbnail: /new-images/thumbnails/cake-slice-ninja.jpeg
+urlstr: cake-slice-ninja
 tags:
   - action
   - casual

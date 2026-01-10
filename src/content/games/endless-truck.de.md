@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: endless-truck
 title: Endless Truck
+seoTitle: Spiele Endless Truck kostenlos online | FiddleBops
 description: >-
   Endless Truck ist ein Stunt-Runner: Steuere dein Tempo, lande sauber und kette
   Boosts aneinander, während du unterwegs Geld und Upgrades einsammelst.
 iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
 thumbnail: /new-images/thumbnails/endless-truck.png
+urlstr: endless-truck
 tags:
   - car
   - driving

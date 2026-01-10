@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: wordle
-title: Wordle - Adivina la palabra del día
+title: Wordle
+seoTitle: Juega a Wordle en línea gratis | FiddleBops
 description: >-
   Wordle es un popular puzle diario en el que tienes seis intentos para adivinar
   una palabra de cinco letras, usando pistas de colores para deducir las letras
   correctas y su posición en este adictivo reto de vocabulario.
 iframeSrc: 'https://ext.minijuegos.com/wordle/'
 thumbnail: /new-images/thumbnails/wordle.jpg
+urlstr: wordle
 tags:
   - word
   - puzzle

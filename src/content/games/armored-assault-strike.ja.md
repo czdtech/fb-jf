@@ -1,14 +1,20 @@
 ---
-title: "Armored Assault Strike アーマード・アサルト・ストライク"
-description: "「Armored Assault Strike」で戦場を支配せよ。戦車や戦闘車両を操り、激しい銃撃戦と戦略的な位置取りで敵を殲滅するアクション・シューティング。"
-iframeSrc: "https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/"
-thumbnail: /new-images/thumbnails/armored-assault-strike.png
-urlstr: "armored-assault-strike"
-score: "4.0/5  (1930 votes)"
-tags: ["action", "shooter", "tank"]
-developer: ""
-releaseDate: 2025-10-18
 locale: ja
+title: Armored Assault Strike アーマード・アサルト・ストライク
+seoTitle: 無料でArmored Assault Strike アーマード・アサルト・ストライクをオンラインでプレイ | FiddleBops
+description: >-
+  「Armored Assault
+  Strike」で戦場を支配せよ。戦車や戦闘車両を操り、激しい銃撃戦と戦略的な位置取りで敵を殲滅するアクション・シューティング。
+iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
+thumbnail: /new-images/thumbnails/armored-assault-strike.png
+urlstr: armored-assault-strike
+tags:
+  - action
+  - shooter
+  - tank
+score: 4.0/5  (1930 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

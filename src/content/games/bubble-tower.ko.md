@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: bubble-tower
 title: Bubble Tower 3D 버블 타워 3D
+seoTitle: Bubble Tower 3D 버블 타워 3D 무료 온라인 플레이 | FiddleBops
 description: >-
   Bubble Tower 3D는 원통 형태의 타워를 둘러싼 버블을 3차원으로 쏘아 맞추는 퍼즐 슈팅 게임입니다. 타워를 회전해 최적 각도를
   찾고, 같은 색 버블을 세 개 이상 이어 보드를 모두 비워 보세요.
 iframeSrc: 'https://bubbletower.h5games.usercontent.goog/v/7ebcukaef3voo/'
 thumbnail: /new-images/thumbnails/bubble-tower.png
+urlstr: bubble-tower
 tags:
   - puzzle
   - shooting

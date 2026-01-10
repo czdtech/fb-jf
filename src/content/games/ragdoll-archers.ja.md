@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Ragdoll Archers
+seoTitle: 無料でRagdoll Archersをオンラインでプレイ | FiddleBops
 description: Ragdoll Archersは物理ベースのアーチェリーゲームです。角度とパワーを調整して矢を放ち、相手を倒します。
 iframeSrc: 'https://bitlifeonline.github.io/ragdoll-archers/'
 thumbnail: /new-images/thumbnails/ragdoll-archers.jpg
 urlstr: ragdoll-archers
-score: 4.4/5  (466 votes)
 tags:
   - action
   - casual
   - 2 player
+score: 4.4/5  (466 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

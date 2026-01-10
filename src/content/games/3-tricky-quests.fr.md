@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: 3-tricky-quests
 title: 'Brain Test 3: Tricky Quests'
+seoTitle: 'Jouez à Brain Test 3: Tricky Quests en ligne gratuitement | FiddleBops'
 description: "Brain Test 3: Tricky Quests mélange énigmes tordues et aventure\_: explore avec Alyx, collecte des objets et résous des quêtes pour retrouver les Gemmes de Pouvoir et sauver son père."
 iframeSrc: 'https://bitlifeonline.github.io/brain-test-3-tricky-quests/'
 thumbnail: /new-images/thumbnails/3-tricky-quests.jpg
+urlstr: 3-tricky-quests
 tags:
   - casual
   - rhythm

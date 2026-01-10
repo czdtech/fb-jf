@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: timber-guy
-title: Timber Guy - Corta al ritmo perfecto
+title: Timber Guy
+seoTitle: Juega a Timber Guy en línea gratis | FiddleBops
 description: >-
   Timber Guy es un arcade de reflejos y cortes: tala el árbol, esquiva ramas y
   encadena hachazos al ritmo adecuado.
 iframeSrc: 'https://timberguy.h5games.usercontent.goog/v/2ke6osh59ras0/'
 thumbnail: /new-images/thumbnails/timber-guy.png
+urlstr: timber-guy
 tags:
   - action
   - casual

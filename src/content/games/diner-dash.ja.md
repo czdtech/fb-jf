@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Diner Dash ダイナー・ダッシュ
+seoTitle: 無料でDiner Dash ダイナー・ダッシュをオンラインでプレイ | FiddleBops
 description: 「Diner Dash」はタイムマネジメントゲームの金字塔。席に案内し、注文を取り、食事を運び、片付ける。多忙なレストランを切り盛りしよう。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/diner-dash.html'
 thumbnail: /new-images/thumbnails/diner-dash.jpg
 urlstr: diner-dash
-score: 4.3/5  (691 votes)
 tags:
   - time-management
   - strategy
+score: 4.3/5  (691 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

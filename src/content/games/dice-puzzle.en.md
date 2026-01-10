@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Dice Puzzle"
-description: "A challenging brain-teaser! Place and merge dice on the board. Combine three identical dice to create a higher number, and aim for the ultimate jewel cube. Plan your moves carefully before the board fills up!"
-iframeSrc: "https://0vfcifju4i900.h5games.usercontent.goog/v/2jg90liogd5f8/"
+title: Dice Puzzle
+seoTitle: Play Dice Puzzle Online Free | FiddleBops
+description: >-
+  A challenging brain-teaser! Place and merge dice on the board. Combine three
+  identical dice to create a higher number, and aim for the ultimate jewel cube.
+  Plan your moves carefully before the board fills up!
+iframeSrc: 'https://0vfcifju4i900.h5games.usercontent.goog/v/2jg90liogd5f8/'
 thumbnail: /new-images/thumbnails/dice-puzzle.jpg
-urlstr: "dice-puzzle"
-score: "4.4/5  (2100 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: dice-puzzle
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.4/5  (2100 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

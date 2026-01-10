@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: veggies-cut
 title: Veggies Cut：厨房切菜高手
+seoTitle: 免费在线玩 Veggies Cut：厨房切菜高手 | FiddleBops
 description: 《Veggies Cut》是一款节奏感十足的切菜休闲游戏。用流畅的滑动划出利落刀路， 一次性切开尽可能多的蔬菜，躲开炸弹与危险道具，用稳定节奏冲击高分连击。
 iframeSrc: 'https://01pgt4aflffvo.h5games.usercontent.goog/v/2kpv41q3jen50/'
 thumbnail: /new-images/thumbnails/veggies-cut.jpg
+urlstr: veggies-cut
 tags:
   - action
   - casual

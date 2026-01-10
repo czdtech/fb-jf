@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Fuzzies"
-description: "Color‑matching bubble shooter: aim and pop fuzzies by matching colors, use boosters, and prevent the wall from reaching the bottom." 
-iframeSrc: "https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=662&original_ref="
+title: Fuzzies
+seoTitle: Play Fuzzies Online Free | FiddleBops
+description: >-
+  Color‑matching bubble shooter: aim and pop fuzzies by matching colors, use
+  boosters, and prevent the wall from reaching the bottom.
+iframeSrc: >-
+  https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=662&original_ref=
 thumbnail: /new-images/thumbnails/fuzzies.jpg
-urlstr: "fuzzies"
-score: "4.1/5  (539 votes)"
-tags: ["puzzle", "match-3"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: fuzzies
+tags:
+  - puzzle
+  - match-3
+score: 4.1/5  (539 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

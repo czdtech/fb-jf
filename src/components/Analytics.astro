@@ -3,84 +3,32 @@
  * Analytics Component
  * Contains Google Analytics (gtag.js) and Google AdSense code.
  *
- * 推荐方案：Google Funding Choices（AdSense「隐私权和消息」）+ Consent Mode v2
- * - EEA/UK/CH：默认拒绝，等待 CMP 同意后更新
- * - 其他地区：默认授予，提高广告展示/收入
+ * 性能优化：延后加载（首次用户交互 或 5秒后）
+ * - 先初始化 Consent Mode（轻量，不阻塞）
+ * - GA/AdSense 脚本延后到用户交互时再注入
  */
 ---
 
 <meta name="google-adsense-account" content="ca-pub-1444054360166733">
 
-<!-- Google Funding Choices / Privacy & messaging (CMP) -->
-<script async src="https://fundingchoicesmessages.google.com/i/pub-1444054360166733?ers=1"></script>
-<script is:inline>
-  (function () {
-    // Signal Funding Choices presence (Google snippet)
-    function signalGooglefcPresent() {
-      try {
-        if (window.frames && window.frames.googlefcPresent) return;
-      } catch {
-        // ignore
-      }
-      if (!document.body) {
-        setTimeout(signalGooglefcPresent, 0);
-        return;
-      }
-      const iframe = document.createElement('iframe');
-      iframe.name = 'googlefcPresent';
-      iframe.style.display = 'none';
-      document.body.appendChild(iframe);
-    }
-    signalGooglefcPresent();
-  })();
-</script>
-
 <script is:inline>
   (function () {
     const GA_ID = 'G-9JME3P55QJ';
     const ADSENSE_CLIENT = 'ca-pub-1444054360166733';
+    const FC_URL = 'https://fundingchoicesmessages.google.com/i/pub-1444054360166733?ers=1';
 
-    // EEA + UK + CH（Google 广告/分析常见需要同意的地区集合）
+    // EEA + UK (GB) + CH - ISO 3166-1 alpha-2 codes
     const GDPR_REGIONS = [
       'AT','BE','BG','HR','CY','CZ','DK','EE','FI','FR','DE','GR','HU','IE','IT','LV','LT','LU','MT','NL','PL','PT','RO','SK','SI','ES','SE',
-      'IS','LI','NO', // EEA
-      'GB','UK',      // UK（部分系统可能回传 UK）
-      'CH',           // Switzerland
+      'IS','LI','NO','GB','CH',
     ];
 
-    function setLoadedFlag(name) {
-      try {
-        window.__fb_loaded = window.__fb_loaded || {};
-        window.__fb_loaded[name] = true;
-      } catch {
-        // ignore
-      }
-    }
-
-    function isLoaded(name) {
-      return Boolean(window.__fb_loaded && window.__fb_loaded[name]);
-    }
-
-    function injectScript(src, attrs) {
-      const s = document.createElement('script');
-      s.src = src;
-      if (attrs) {
-        for (const [k, v] of Object.entries(attrs)) {
-          if (v === true) s.setAttribute(k, '');
-          else if (v !== false && v != null) s.setAttribute(k, String(v));
-        }
-      }
-      document.head.appendChild(s);
-    }
-
-    // Init gtag() as early as possible so other inline scripts can call it.
+    // --- Minimal gtag init (required before consent calls) ---
     window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      window.dataLayer.push(arguments);
-    }
+    function gtag() { window.dataLayer.push(arguments); }
     if (typeof window.gtag !== 'function') window.gtag = gtag;
 
-    // Consent Mode v2 defaults: deny in EEA/UK/CH, grant elsewhere.
+    // Consent Mode v2 defaults (this is lightweight, no blocking)
     window.gtag('consent', 'default', {
       ad_storage: 'denied',
       analytics_storage: 'denied',
@@ -96,21 +44,60 @@
       ad_personalization: 'granted',
     });
 
-    // GA4
-    if (!isLoaded('ga')) {
-      setLoadedFlag('ga');
-      injectScript(`https://www.googletagmanager.com/gtag/js?id=${encodeURIComponent(GA_ID)}`, { async: true });
-      window.gtag('js', new Date());
-      window.gtag('config', GA_ID);
+    // --- Deferred loading (on first interaction OR 5s timeout) ---
+    var loaded = false;
+
+    function injectScript(src, attrs) {
+      var s = document.createElement('script');
+      s.src = src;
+      if (attrs) {
+        for (var k in attrs) {
+          var v = attrs[k];
+          if (v === true) s.setAttribute(k, '');
+          else if (v !== false && v != null) s.setAttribute(k, String(v));
+        }
+      }
+      document.head.appendChild(s);
     }
 
-    // AdSense (Auto Ads)
-    if (!isLoaded('adsense')) {
-      setLoadedFlag('adsense');
+    function signalGooglefcPresent() {
+      try { if (window.frames && window.frames.googlefcPresent) return; } catch {}
+      if (!document.body) { setTimeout(signalGooglefcPresent, 0); return; }
+      var iframe = document.createElement('iframe');
+      iframe.name = 'googlefcPresent';
+      iframe.style.display = 'none';
+      document.body.appendChild(iframe);
+    }
+
+    function loadAll() {
+      if (loaded) return;
+      loaded = true;
+
+      // Funding Choices CMP
+      injectScript(FC_URL, { async: true });
+      signalGooglefcPresent();
+
+    // GA4
+      injectScript('https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(GA_ID), { async: true });
+      window.gtag('js', new Date());
+      window.gtag('config', GA_ID);
+
+      // AdSense
       injectScript(
-        `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${encodeURIComponent(ADSENSE_CLIENT)}`,
+        'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=' + encodeURIComponent(ADSENSE_CLIENT),
         { async: true, crossorigin: 'anonymous' }
       );
     }
+
+    // Trigger on first user interaction (intentionally no mousemove - fires too easily)
+    var events = ['click', 'scroll', 'keydown', 'touchstart'];
+    function onInteraction() {
+      events.forEach(function(e) { document.removeEventListener(e, onInteraction, { passive: true, capture: true }); });
+      loadAll();
+    }
+    events.forEach(function(e) { document.addEventListener(e, onInteraction, { passive: true, capture: true }); });
+
+    // Fallback: load after 5 seconds if no interaction
+    setTimeout(loadAll, 5000);
   })();
 </script>

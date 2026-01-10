@@ -1,18 +1,19 @@
 ---
 locale: es
-urlstr: sprunki-pyramixed
-title: 'Sprunki Pyramixed 0.9 - Juega a Sprunki Pyramixed 0.9 en línea'
+title: Sprunki Pyramixed 0.9
+seoTitle: Juega a Sprunki Pyramixed 0.9 en línea gratis | FiddleBops
 description: >-
-  Sprunki Pyramixed 0.9 es un juego innovador de creación musical que rompe
-  con los límites del género y combina a la perfección el ritmo con un diseño de
+  Sprunki Pyramixed 0.9 es un juego innovador de creación musical que rompe con
+  los límites del género y combina a la perfección el ritmo con un diseño de
   personajes altamente personalizable.
 iframeSrc: 'https://turbowarp.org/1144118565/embed'
 thumbnail: /new-images/thumbnails/sprunki-pyramixed.png
+urlstr: sprunki-pyramixed
 tags:
   - sprunki pyramixed 0.9
   - sprunki pyramixed 0.9 online
 score: 4.7/5  (455 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

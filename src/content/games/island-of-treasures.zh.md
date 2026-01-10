@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: island-of-treasures
 title: 《Island Of Treasures》宝藏之岛跑酷
+seoTitle: 免费在线玩 《Island Of Treasures》宝藏之岛跑酷 | FiddleBops
 description: >-
   在《Island Of Treasures》中，你将作为一名大胆的海盗，在 3D
   无尽跑酷的孤岛上狂奔，收集闪耀宝物、躲避致命机关、甩开其他海盗，争做岛上最富有的传奇船长。
 iframeSrc: 'https://5kvkrsasec6l8.h5games.usercontent.goog/v/7kfn10n6josho/'
 thumbnail: /new-images/thumbnails/island-of-treasures.png
+urlstr: island-of-treasures
 tags:
   - action
   - adventure

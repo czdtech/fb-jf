@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: g-switch-3
 title: G-Switch 3 고속 중력 러너
+seoTitle: G-Switch 3 고속 중력 러너 무료 온라인 플레이 | FiddleBops
 description: >-
   새로운 함정과 강력한 로컬 멀티플레이 모드를 더한 고속 중력 전환 러너입니다. 빠르게 이어지는 장애물 구간을 정확한 타이밍과 일정한 리듬으로
   돌파해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221121/2/index.html
 thumbnail: /new-images/thumbnails/g-switch-3.jpg
+urlstr: g-switch-3
 tags:
   - runner
   - platformer

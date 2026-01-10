@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: fleeing-the-complex
 title: Fleeing the Complex
+seoTitle: Spiele Fleeing the Complex kostenlos online | FiddleBops
 description: >-
   Fleeing the Complex ist Henry Stickmins größter Ausbruch: Triff
   Entscheidungen, nutze schräge Gadgets und finde mehrere Enden – inklusive
   zahlreicher herrlich gescheiterter Fluchtversuche.
 iframeSrc: 'https://ubg77.github.io/fleeing-the-complex/'
 thumbnail: /new-images/thumbnails/fleeing-the-complex.jpg
+urlstr: fleeing-the-complex
 tags:
   - adventure
   - point-and-click

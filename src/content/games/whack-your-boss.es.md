@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: whack-your-boss
-title: Whack Your Boss - Desahogo virtual
+title: Whack Your Boss
+seoTitle: Juega a Whack Your Boss en línea gratis | FiddleBops
 description: >-
   Whack Your Boss es un juego de desahogo oscuro y satírico donde exploras
   formas exageradas y caricaturescas de “vengarte” de tu jefe en un entorno
   completamente ficticio.
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/whack-your-boss-24-ways.html'
 thumbnail: /new-images/thumbnails/whack-your-boss.jpg
+urlstr: whack-your-boss
 tags:
   - action
   - satire

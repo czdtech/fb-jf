@@ -1,14 +1,17 @@
 ---
-title: "Rock Paper Scissors Dojo"
-description: "Rock Paper Scissors Dojoはじゃんけんを題材にした対戦ゲームです。相手の癖を読みながら手を選び、勝利を重ねます。"
-iframeSrc: "https://0o2ssijd98lgg.h5games.usercontent.goog/v/39t01692a4rs8/"
-thumbnail: /new-images/thumbnails/rock-paper-scissors-dojo.png
-urlstr: "rock-paper-scissors-dojo"
-score: "3.8/5  (1659 votes)"
-tags: ["casual", "2 player"]
-developer: ""
-releaseDate: 2025-10-18
 locale: ja
+title: Rock Paper Scissors Dojo
+seoTitle: 無料でRock Paper Scissors Dojoをオンラインでプレイ | FiddleBops
+description: Rock Paper Scissors Dojoはじゃんけんを題材にした対戦ゲームです。相手の癖を読みながら手を選び、勝利を重ねます。
+iframeSrc: 'https://0o2ssijd98lgg.h5games.usercontent.goog/v/39t01692a4rs8/'
+thumbnail: /new-images/thumbnails/rock-paper-scissors-dojo.png
+urlstr: rock-paper-scissors-dojo
+tags:
+  - casual
+  - 2 player
+score: 3.8/5  (1659 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,16 +1,18 @@
 ---
 locale: fr
-urlstr: plants-vs-brainrots
 title: Plants vs Brainrots
+seoTitle: Jouez à Plants vs Brainrots en ligne gratuitement | FiddleBops
 description: "Plants vs Brainrots est un tower defense inspiré de Plants vs Zombies\_: place des plantes de combat pour arrêter des vagues de Brainrots avant qu'ils n'atteignent ta maison."
-iframeSrc: 'https://playhop.com/dist-app/471072?header=no&utm_source=distrib&utm_medium=gameflare'
+iframeSrc: >-
+  https://playhop.com/dist-app/471072?header=no&utm_source=distrib&utm_medium=gameflare
 thumbnail: /new-images/thumbnails/plants-vs-brainrots.jpg
+urlstr: plants-vs-brainrots
 tags:
   - strategy
   - tower Defense
 score: 4.6/5  (4375 votes)
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

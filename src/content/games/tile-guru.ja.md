@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Tile Guru
+seoTitle: 無料でTile Guruをオンラインでプレイ | FiddleBops
 description: Tile Guruは、タイルマッチングパズルゲームです。同じタイルを3つ揃えて消しましょう。
 iframeSrc: 'https://5en3tugq69tdo.h5games.usercontent.goog/v/4pu6to0p0cgrg/'
 thumbnail: /new-images/thumbnails/tile-guru.png
 urlstr: tile-guru
-score: 4.1/5  (1974 votes)
 tags:
   - puzzle
   - matching
   - relaxing
-locale: ja
+score: 4.1/5  (1974 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

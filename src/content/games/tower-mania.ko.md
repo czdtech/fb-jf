@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: tower-mania
 title: Tower Mania 타워 매니아
+seoTitle: Tower Mania 타워 매니아 무료 온라인 플레이 | FiddleBops
 description: >-
   흔들리는 블록을 하나씩 쌓아 올려 가장 높은 탑을 만드는 아케이드 게임입니다. 타이밍을 맞춰 정확히 중앙에 떨어뜨려 안정적인 탑을 만들고,
   점점 작아지는 발판 위에서 기록에 도전해 보세요.
 iframeSrc: 'https://49pvu1mm0ofc0.h5games.usercontent.goog/v/4apam1d97c7mo/'
 thumbnail: /new-images/thumbnails/tower-mania.png
+urlstr: tower-mania
 tags:
   - casual
   - puzzle

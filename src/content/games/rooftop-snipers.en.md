@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Rooftop Snipers"
-description: "Rooftop Snipers is the original physics-based shooting game where two pixel characters fight on rooftops, using simple controls to shoot and knock opponents off buildings with hilarious ragdoll physics."
-iframeSrc: "https://webglmath.github.io/rooftop-snipers/"
+title: Rooftop Snipers
+seoTitle: Play Rooftop Snipers Online Free | FiddleBops
+description: >-
+  Rooftop Snipers is the original physics-based shooting game where two pixel
+  characters fight on rooftops, using simple controls to shoot and knock
+  opponents off buildings with hilarious ragdoll physics.
+iframeSrc: 'https://webglmath.github.io/rooftop-snipers/'
 thumbnail: /new-images/thumbnails/rooftop-snipers.jpg
-urlstr: "rooftop-snipers"
-score: "3.8/5  (995 votes)"
-tags: ["shooting", "physics", "classic"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: rooftop-snipers
+tags:
+  - shooting
+  - physics
+  - classic
+score: 3.8/5  (995 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

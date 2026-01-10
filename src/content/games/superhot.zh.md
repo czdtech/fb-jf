@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: superhot
 title: 《SUPERHOT》子弹时间战术射击
+seoTitle: 免费在线玩 《SUPERHOT》子弹时间战术射击 | FiddleBops
 description: 《SUPERHOT》是一款极具创意的第一人称战术射击游戏：时间只在你移动时流动。在白色极简场景中规划走位与射击，用最少的动作解决所有敌人。
 iframeSrc: 'https://superhotgame.com/superhot-prototype-iframe'
 thumbnail: /new-images/thumbnails/superhot.jpg
+urlstr: superhot
 tags:
   - shooting
   - strategy

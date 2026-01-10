@@ -1,16 +1,17 @@
 ---
 locale: ko
-urlstr: sprunki-sepbox-steel-factory
 title: Sprunki x Sepbox Steel Factory 스프룽키 x 셉박스 스틸 팩토리
+seoTitle: Sprunki x Sepbox Steel Factory 스프룽키 x 셉박스 스틸 팩토리 무료 온라인 플레이 | FiddleBops
 description: >-
   Sprunki x SepBox Steel Factory는 철제 공장 분위기와 스프룽키 음악 제작을 결합한 공장 테마 모드입니다. 금속
   충돌음, 기계음, 산업 비트를 쌓아 나만의 인더스트리얼 사운드를 만들 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1099071172/embed'
 thumbnail: /new-images/thumbnails/sprunki-sepbox-steel-factory.png
+urlstr: sprunki-sepbox-steel-factory
 tags:
   - sprunki x sepbox steel factory
 score: 4.9/5  (509 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 locale: fr
-urlstr: basket-random
 title: Basket Random
+seoTitle: Jouez à Basket Random en ligne gratuitement | FiddleBops
 description: >-
   Basket Random est un jeu de basket complètement chaotique basé sur la
   physique : un seul bouton pour sauter, des terrains, ballons et joueurs qui
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://app-197304.games.s3.yandex.net/197304/kj9rcykboy6eol5xnn250jesr7v0hoh1/index.html
 thumbnail: /new-images/thumbnails/basket-random.jpg
+urlstr: basket-random
 tags:
   - casual
   - sports

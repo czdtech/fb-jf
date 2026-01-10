@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: go-escape
 title: Go Escape 精准房间脱出
+seoTitle: 免费在线玩 Go Escape 精准房间脱出 | FiddleBops
 description: Go Escape 是一款讲究精准操作的房间脱出平台游戏——你要掌握跳跃时机、读懂陷阱节奏， 在小巧却充满机关的房间中找出最安全的逃脱路线。
 iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
 thumbnail: /new-images/thumbnails/go-escape.png
+urlstr: go-escape
 tags:
   - puzzle
   - escape

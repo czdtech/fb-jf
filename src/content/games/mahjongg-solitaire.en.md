@@ -1,15 +1,23 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Mahjongg Solitaire"
-description: "Clear the board in Mahjongg Solitaire, the classic single-player tile-matching puzzle game! Find and match identical, unblocked tiles to remove them from the layout. Strategize your moves to expose more tiles and clear the entire board in this timeless brain-teaser."
-iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjongg-solitaire/"
+title: Mahjongg Solitaire
+seoTitle: Play Mahjongg Solitaire Online Free | FiddleBops
+description: >-
+  Clear the board in Mahjongg Solitaire, the classic single-player tile-matching
+  puzzle game! Find and match identical, unblocked tiles to remove them from the
+  layout. Strategize your moves to expose more tiles and clear the entire board
+  in this timeless brain-teaser.
+iframeSrc: >-
+  https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjongg-solitaire/
 thumbnail: /new-images/thumbnails/mahjongg-solitaire.jpg
-urlstr: "mahjongg-solitaire"
-score: "4.5/5  (256 votes)"
-tags: ["puzzle", "tile-matching", "classic"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: mahjongg-solitaire
+tags:
+  - puzzle
+  - tile-matching
+  - classic
+score: 4.5/5  (256 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

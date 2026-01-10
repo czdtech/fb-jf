@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Bob the Robber"
-description: "Become a master thief in Bob the Robber! Sneak past guards, disable cameras, crack safes, and steal valuable loot in this challenging stealth puzzle-platformer series."
-iframeSrc: "https://app-190385.games.s3.yandex.net/190385/i7ty94goiswe8ohxdysos1uzmur0yfwk/index.html"
+title: Bob the Robber
+seoTitle: Play Bob the Robber Online Free | FiddleBops
+description: >-
+  Become a master thief in Bob the Robber! Sneak past guards, disable cameras,
+  crack safes, and steal valuable loot in this challenging stealth
+  puzzle-platformer series.
+iframeSrc: >-
+  https://app-190385.games.s3.yandex.net/190385/i7ty94goiswe8ohxdysos1uzmur0yfwk/index.html
 thumbnail: /new-images/thumbnails/bob-the-robber.jpg
-urlstr: "bob-the-robber"
-score: "3.7/5  (403 votes)"
-tags: ["stealth", "puzzle"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: bob-the-robber
+tags:
+  - stealth
+  - puzzle
+score: 3.7/5  (403 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

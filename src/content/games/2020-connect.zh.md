@@ -1,11 +1,11 @@
 ---
 locale: zh
-urlstr: 2020-connect
-title: "2020 Connect 2020连接"
-description: >-
-  在《2020 Connect（2020连接）》中，通过连接相同数字的方块来合并升级，合理规划棋盘空间，制造连续消除与高额连锁得分。
+title: 2020 Connect 2020连接
+seoTitle: 免费在线玩 2020 Connect 2020连接 | FiddleBops
+description: 在《2020 Connect（2020连接）》中，通过连接相同数字的方块来合并升级，合理规划棋盘空间，制造连续消除与高额连锁得分。
 iframeSrc: 'https://4l7qr4mfc8o80.h5games.usercontent.goog/v/5sm797oi4heu0/'
 thumbnail: /new-images/thumbnails/2020-connect.png
+urlstr: 2020-connect
 tags:
   - puzzle
   - thinky

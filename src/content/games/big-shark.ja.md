@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Big Shark ビッグ・シャーク
+seoTitle: 無料でBig Shark ビッグ・シャークをオンラインでプレイ | FiddleBops
 description: 「Big Shark」の海で王者になれ！凶暴なサメを操り、小魚を食べて巨大化し、危険なライバルや機雷を避けて海の食物連鎖の頂点を目指すサバイバルガイド。
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/big-shark/'
 thumbnail: /new-images/thumbnails/big-shark.jpg
 urlstr: big-shark
-score: 4.0/5  (372 votes)
 tags:
   - action
   - survival
   - animal
+score: 4.0/5  (372 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

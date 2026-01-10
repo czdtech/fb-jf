@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: maze-puzzle
-title: Maze Puzzle - Laberintos compactos con llaves y guardianes
+title: Maze Puzzle
+seoTitle: Juega a Maze Puzzle en línea gratis | FiddleBops
 description: >-
   Maze Puzzle es un runner de laberintos limpio: traza la ruta más corta, tienta
   a los guardias patrullando y llega a la salida con todas las llaves antes de
   que se acabe el tiempo.
 iframeSrc: 'https://3931uc3bsois0.h5games.usercontent.goog/v/7nvm8etm546uo/'
 thumbnail: /new-images/thumbnails/maze-puzzle.png
+urlstr: maze-puzzle
 tags:
   - puzzle
   - thinky

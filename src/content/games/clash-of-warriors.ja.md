@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Clash of Warriors クラッシュ・オブ・ウォリアーズ
+seoTitle: 無料でClash of Warriors クラッシュ・オブ・ウォリアーズをオンラインでプレイ | FiddleBops
 description: 「Clash of Warriors」は短時間で遊べるコンパクトなカードバトル。マナカーブを意識し、有利な交換を繰り返し、戦略で相手を打ち負かせ。
 iframeSrc: 'https://7t89fh6irdv0g.h5games.usercontent.goog/v/5gpd6kf06hr8g/'
 thumbnail: /new-images/thumbnails/clash-of-warriors.png
 urlstr: clash-of-warriors
-score: 3.9/5  (1668 votes)
 tags:
   - card
   - thinky
+score: 3.9/5  (1668 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

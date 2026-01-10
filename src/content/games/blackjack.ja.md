@@ -1,14 +1,18 @@
 ---
-title: "Blackjack ブラックジャック"
-description: "「ブラックジャック（21）」のルールと戦略をマスターしよう。ディーラーと1対1の勝負。手札の合計を「21」に近づけ、バーストせずにディーラーを打ち負かすカジノゲームの定番。"
-iframeSrc: "https://freegames.org/games/blackjack/v1/"
-thumbnail: /new-images/thumbnails/blackjack.jpg
-urlstr: "blackjack"
-score: "4.1/5  (439 votes)"
-tags: ["casual", "rhythm"]
-developer: ""
-releaseDate: 2025-08-16
 locale: ja
+title: Blackjack ブラックジャック
+seoTitle: 無料でBlackjack ブラックジャックをオンラインでプレイ | FiddleBops
+description: >-
+  「ブラックジャック（21）」のルールと戦略をマスターしよう。ディーラーと1対1の勝負。手札の合計を「21」に近づけ、バーストせずにディーラーを打ち負かすカジノゲームの定番。
+iframeSrc: 'https://freegames.org/games/blackjack/v1/'
+thumbnail: /new-images/thumbnails/blackjack.jpg
+urlstr: blackjack
+tags:
+  - casual
+  - rhythm
+score: 4.1/5  (439 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 ### ゲーム紹介

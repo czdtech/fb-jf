@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: chess
 title: Chess
+seoTitle: Spiele Chess kostenlos online | FiddleBops
 description: >-
   Lerne Regeln, Figuren und Strategien von Schach, dem ultimativen
   Denksport-Spiel. Plane deine Züge, kontrolliere das Brett und setze den König
   deines Gegners matt, um diesen zeitlosen Klassiker zu gewinnen.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/chess/'
 thumbnail: /new-images/thumbnails/chess.jpg
+urlstr: chess
 tags:
   - strategy
   - puzzle

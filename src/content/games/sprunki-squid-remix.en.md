@@ -1,6 +1,7 @@
 ---
 locale: en
-title: Sprunki Squid Remix - Play Sprunki Squid Remix Online
+title: Sprunki Squid Remix
+seoTitle: Play Sprunki Squid Remix Online Free | FiddleBops
 description: >-
   prunki Squid offers a truly unique and thrilling experience. It combines the
   iconic themes and visuals of Squid Game with the creative freedom of Sprunki,
@@ -8,11 +9,11 @@ description: >-
 iframeSrc: 'https://turbowarp.org/1123885023/embed'
 thumbnail: /new-images/thumbnails/sprunki-squid-remix.png
 urlstr: sprunki-squid-remix
-modType: sprunki
-score: 4.1/5  (92 votes)
 tags:
   - sprunki squid remix
   - music
+modType: sprunki
+score: 4.1/5  (92 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

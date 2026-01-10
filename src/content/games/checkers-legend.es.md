@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: checkers-legend
 title: Checkers Legend
+seoTitle: Juega a Checkers Legend en línea gratis | FiddleBops
 description: >-
   Conviértete en una leyenda de las damas en Checkers Legend. Planifica tus
   movimientos, captura las fichas rivales y corona a tus damas para dominar el
   tablero.
 iframeSrc: 'https://checkerslegend.h5games.usercontent.goog/v/43mkj41ari948/'
 thumbnail: /new-images/thumbnails/checkers-legend.png
+urlstr: checkers-legend
 tags:
   - puzzle
   - thinky

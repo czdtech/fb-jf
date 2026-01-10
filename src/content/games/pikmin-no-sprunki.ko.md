@@ -1,17 +1,17 @@
 ---
 locale: ko
-urlstr: pikmin-no-sprunki
-title: "Pikmin No Sprunki 피크민 노 스프런키 온라인"
+title: Pikmin No Sprunki 피크민 노 스프런키
+seoTitle: Pikmin No Sprunki 피크민 노 스프런키 무료 온라인 플레이 | FiddleBops
 description: >-
-  Pikmin 세계관과 Sprunki 스타일의 음악 연출이 합쳐진 창작형 음악
-  샌드박스 게임입니다. 다양한 사운드와 테마를 조합해 나만의
+  Pikmin 세계관과 Sprunki 스타일의 음악 연출이 합쳐진 창작형 음악 샌드박스 게임입니다. 다양한 사운드와 테마를 조합해 나만의
   Pikmin No Sprunki 비트를 만들어 보세요.
 iframeSrc: 'https://img.sprunki.net/game/pikmin-no-sprunki.html'
 thumbnail: /new-images/thumbnails/pikmin-no-sprunki.png
+urlstr: pikmin-no-sprunki
 tags:
   - pikmin no sprunki
 score: 4.0/5  (89 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

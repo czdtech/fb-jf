@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: mahjong
 title: Mahjong 마작
+seoTitle: Mahjong 마작 무료 온라인 플레이 | FiddleBops
 description: Mahjongg Solitaire는 전통 중국 마작 패를 사용해 같은 모양의 열린 패를 짝지어 없애는 고전 퍼즐 게임입니다.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjong/'
 thumbnail: /new-images/thumbnails/mahjong.jpg
+urlstr: mahjong
 tags:
   - board game
   - puzzle

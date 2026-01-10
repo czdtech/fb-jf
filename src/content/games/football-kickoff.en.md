@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Football Kickoff"
-description: "Football Kickoff spotlights special teams — aim kicks, read wind, and nail field position with smart power control."
-iframeSrc: "https://30sab7l7n7df0.h5games.usercontent.goog/v/5c7k7dlnf1c5g/"
+title: Football Kickoff
+seoTitle: Play Football Kickoff Online Free | FiddleBops
+description: >-
+  Football Kickoff spotlights special teams — aim kicks, read wind, and nail
+  field position with smart power control.
+iframeSrc: 'https://30sab7l7n7df0.h5games.usercontent.goog/v/5c7k7dlnf1c5g/'
 thumbnail: /new-images/thumbnails/football-kickoff.jpg
-urlstr: "football-kickoff"
-score: "3.8/5  (1709 votes)"
-tags: ["sports", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: football-kickoff
+tags:
+  - sports
+  - casual
+score: 3.8/5  (1709 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

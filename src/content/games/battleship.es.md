@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: battleship
 title: Battleship hundir la flota clásico
+seoTitle: Juega a Battleship hundir la flota clásico en línea gratis | FiddleBops
 description: >-
   Battleship es el clásico juego de estrategia para hundir la flota enemiga.
   Aquí tienes reglas, tácticas de colocación de barcos, patrones de búsqueda
   eficientes y consejos para hundir antes de que te encuentren.
 iframeSrc: 'https://cdn.gamesnacks.com/battleship2/gameCode/index.html'
 thumbnail: /new-images/thumbnails/battleship.jpg
+urlstr: battleship
 tags:
   - strategy
   - casual

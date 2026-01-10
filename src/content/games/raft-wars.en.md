@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Raft Wars"
-description: "Raft Wars is a turn-based strategy shooting game where players help two young brothers defend their treasure from pirates and vikings using tennis balls and other projectiles in naval battles."
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210301/jj8/index.html"
+title: Raft Wars
+seoTitle: Play Raft Wars Online Free | FiddleBops
+description: >-
+  Raft Wars is a turn-based strategy shooting game where players help two young
+  brothers defend their treasure from pirates and vikings using tennis balls and
+  other projectiles in naval battles.
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210301/jj8/index.html
 thumbnail: /new-images/thumbnails/raft-wars.jpg
-urlstr: "raft-wars"
-score: "4.0/5  (1180 votes)"
-tags: ["strategy", "shooting", "turn-based"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: raft-wars
+tags:
+  - strategy
+  - shooting
+  - turn-based
+score: 4.0/5  (1180 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

@@ -1,14 +1,19 @@
 ---
-title: "Incredibox YaBoo"
-description: "ファン作成の『Incredibox YaBoo』モッドに飛び込みましょう。このガイドでは、そのユニークなサウンドパレット、音楽制作ゲームプレイ、テーマ別ボーナスのアンロック方法を取り上げます。"
-iframeSrc: "https://turbowarp.org/1095206379/embed"
-thumbnail: /new-images/thumbnails/incredibox-yaboo.png
-urlstr: "incredibox-yaboo"
-score: "4.5/5 (987 votes)"
-tags: ["music", "rhythm"]
-developer: ""
-releaseDate: 2025-10-10
 locale: ja
+title: Incredibox YaBoo
+seoTitle: 無料でIncredibox YaBooをオンラインでプレイ | FiddleBops
+description: >-
+  ファン作成の『Incredibox
+  YaBoo』モッドに飛び込みましょう。このガイドでは、そのユニークなサウンドパレット、音楽制作ゲームプレイ、テーマ別ボーナスのアンロック方法を取り上げます。
+iframeSrc: 'https://turbowarp.org/1095206379/embed'
+thumbnail: /new-images/thumbnails/incredibox-yaboo.png
+urlstr: incredibox-yaboo
+tags:
+  - music
+  - rhythm
+score: 4.5/5 (987 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

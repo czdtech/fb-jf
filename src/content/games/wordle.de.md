@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: wordle
 title: Wordle
+seoTitle: Spiele Wordle kostenlos online | FiddleBops
 description: >-
   Wordle ist das tägliche Worträtsel, in dem du mit sechs Versuchen ein
   fünfstelliges Wort errätst – Farbhilfen zeigen dir, welche Buchstaben richtig
   sind und an welcher Stelle sie stehen.
 iframeSrc: 'https://ext.minijuegos.com/wordle/'
 thumbnail: /new-images/thumbnails/wordle.jpg
+urlstr: wordle
 tags:
   - word
   - puzzle

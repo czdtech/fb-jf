@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: bricks-breaker-crush
 title: Bricks Breaker Crush
+seoTitle: Jouez à Bricks Breaker Crush en ligne gratuitement | FiddleBops
 description: "Bricks Breaker Crush est un jeu de tirs de balles contre des briques numérotées\_: vise des angles longs, récupère des balles bonus et empêche le mur de toucher le bas."
 iframeSrc: 'https://7uvo1rchfrhr8.h5games.usercontent.goog/v/4tk6unop5lefg/'
 thumbnail: /new-images/thumbnails/bricks-breaker-crush.png
+urlstr: bricks-breaker-crush
 tags:
   - puzzle
   - thinky

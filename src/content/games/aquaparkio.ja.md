@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Aquapark.io アクアパーク.io
+seoTitle: 無料でAquapark.io アクアパーク.ioをオンラインでプレイ | FiddleBops
 description: >-
   「Aquapark.io」は、巨大なウォータースライダーを舞台にしたハイパーカジュアル・レースゲーム。スライダーを飛び出し、ショートカットを決めて1位を目指せ！
 iframeSrc: 'https://bitlifeonline.github.io/class23523/aquaparkio/'
 thumbnail: /new-images/thumbnails/aquaparkio.jpg
 urlstr: aquaparkio
-score: 4.9/5  (169 votes)
 tags:
   - casual
   - racing
   - multiplayer
+score: 4.9/5  (169 votes)
 developer: Voodoo
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

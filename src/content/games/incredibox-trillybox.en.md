@@ -1,15 +1,22 @@
 ---
 locale: en
-modType: incredibox
-title: "Incredibox Trillybox"
-description: "Explore 'Incredibox Trillybox,' the fan-made mod dedicated to Trap music. This guide details its 808-heavy sound palette, gameplay for creating hard-hitting beats, and how to unlock its modern, themed bonuses."
-iframeSrc: "https://turbowarp.org/907049948/embed"
+title: Incredibox Trillybox
+seoTitle: Play Incredibox Trillybox Online Free | FiddleBops
+description: >-
+  Explore 'Incredibox Trillybox,' the fan-made mod dedicated to Trap music. This
+  guide details its 808-heavy sound palette, gameplay for creating hard-hitting
+  beats, and how to unlock its modern, themed bonuses.
+iframeSrc: 'https://turbowarp.org/907049948/embed'
 thumbnail: /new-images/thumbnails/incredibox-trillybox.png
-urlstr: "incredibox-trillybox"
-score: "4.5/5 (999 votes)"
-tags: ["music", "hip-hop", "rhythm"]
-developer: ""
-releaseDate: 2025-10-10
+urlstr: incredibox-trillybox
+tags:
+  - music
+  - hip-hop
+  - rhythm
+modType: incredibox
+score: 4.5/5 (999 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 

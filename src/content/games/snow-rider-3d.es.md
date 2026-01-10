@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: snow-rider-3d
 title: Snow Rider 3D
+seoTitle: Juega a Snow Rider 3D en línea gratis | FiddleBops
 description: >-
   Súbete al trineo en Snow Rider 3D, un frenético juego de acción invernal.
   Desciende por colinas nevadas, esquiva obstáculos como árboles y muñecos de
@@ -11,6 +11,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231130/2/index.html
 thumbnail: /new-images/thumbnails/snow-rider-3d.jpg
+urlstr: snow-rider-3d
 tags:
   - action
   - 3d

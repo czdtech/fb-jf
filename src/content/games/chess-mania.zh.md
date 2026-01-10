@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: chess-mania
 title: Chess Mania 国际象棋狂热
+seoTitle: 免费在线玩 Chess Mania 国际象棋狂热 | FiddleBops
 description: 《Chess Mania 国际象棋狂热》是一款面向各个水平玩家的多功能国际象棋游戏。与你的 AI 对手过招、挑战趣味棋题，在对局与训练中不断提升自己的棋艺。
 iframeSrc: 'https://chessmania.h5games.usercontent.goog/v/3if0hd2c47oo8/'
 thumbnail: /new-images/thumbnails/chess-mania.png
+urlstr: chess-mania
 tags:
   - thinky
   - 2 player

@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: snake-io
 title: 《Snake.io》多人贪吃蛇竞技
+seoTitle: 免费在线玩 《Snake.io》多人贪吃蛇竞技 | FiddleBops
 description: 《Snake.io》是一款现代化的在线多人贪吃蛇动作游戏。吞食能量点、巧妙围杀对手，利用加速策略性地掌控战局，争夺场上最长、最大的一条蛇。
 iframeSrc: 'https://snake.io/crazygames/'
 thumbnail: /new-images/thumbnails/snake-io.jpg
+urlstr: snake-io
 tags:
   - io-games
   - snake

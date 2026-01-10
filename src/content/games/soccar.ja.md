@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: SocCar
+seoTitle: 無料でSocCarをオンラインでプレイ | FiddleBops
 description: SocCarは車でサッカーをするゲームです。フィールドを走ってボールを押し込み、相手より多く得点することを目指します。
 iframeSrc: 'https://ubg77.github.io/edit/soccar/'
 thumbnail: /new-images/thumbnails/soccar.jpg
 urlstr: soccar
-score: 4.7/5  (870 votes)
 tags:
   - sports
   - cars
   - action
+score: 4.7/5  (870 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

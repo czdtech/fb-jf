@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Western Sniper"
-description: "Western Sniper is a quick‑draw shooter — steady aim, manage sway, and pick priority targets across snappy missions."
-iframeSrc: "https://4oill7a9ltc9g.h5games.usercontent.goog/v/54hea44l6fm4o/"
+title: Western Sniper
+seoTitle: Play Western Sniper Online Free | FiddleBops
+description: >-
+  Western Sniper is a quick‑draw shooter — steady aim, manage sway, and pick
+  priority targets across snappy missions.
+iframeSrc: 'https://4oill7a9ltc9g.h5games.usercontent.goog/v/54hea44l6fm4o/'
 thumbnail: /new-images/thumbnails/western-sniper.png
-urlstr: "western-sniper"
-score: "4.1/5  (2016 votes)"
-tags: ["shooting", "action"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: western-sniper
+tags:
+  - shooting
+  - action
+score: 4.1/5  (2016 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

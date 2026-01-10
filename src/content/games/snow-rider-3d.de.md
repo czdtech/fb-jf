@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: snow-rider-3d
 title: Snow Rider 3D
+seoTitle: Spiele Snow Rider 3D kostenlos online | FiddleBops
 description: >-
   Spring auf deinen Schlitten in Snow Rider 3D! Steuere den Hügel hinab, weiche
   Bäumen, Schneemännern und Felsen aus, nutze Rampen für Sprünge und sammle
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231130/2/index.html
 thumbnail: /new-images/thumbnails/snow-rider-3d.jpg
+urlstr: snow-rider-3d
 tags:
   - action
   - 3d

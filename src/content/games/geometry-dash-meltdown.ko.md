@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: geometry-dash-meltdown
 title: Geometry Dash Meltdown 지오메트리 대시 멜트다운
+seoTitle: Geometry Dash Meltdown 지오메트리 대시 멜트다운 무료 온라인 플레이 | FiddleBops
 description: >-
   새로운 음악과 테마가 포함된 Geometry Dash 스핀오프입니다. 음악에 맞춰 점프하고 비행하며 스파이크와 패드를 통과하는 짧지만 강렬한
   스테이지들을 클리어해 보세요.
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-meltdown/'
 thumbnail: /new-images/thumbnails/geometry-dash-meltdown.jpg
+urlstr: geometry-dash-meltdown
 tags:
   - rhythm
   - platformer

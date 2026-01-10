@@ -1,14 +1,19 @@
 ---
-title: "Happy Wheels (ハッピーウィールズ)"
-description: "悪名高いグラフィックとユーモアで知られる物理演算ゲーム、Happy Wheelsの詳細ガイド。命がけのユーザー作成レベルを生き残るための、ゲームプレイ戦略、操作方法、よくある質問を学びましょう。"
-iframeSrc: "https://games-online.io/game/HappyWheels/"
-thumbnail: /new-images/thumbnails/happy-wheels.jpg
-urlstr: "happy-wheels"
-score: "3.9/5  (1175 votes)"
-tags: ["platformer", "physics"]
-developer: ""
-releaseDate: 2025-08-16
 locale: ja
+title: Happy Wheels (ハッピーウィールズ)
+seoTitle: 無料でHappy Wheels (ハッピーウィールズ)をオンラインでプレイ | FiddleBops
+description: >-
+  悪名高いグラフィックとユーモアで知られる物理演算ゲーム、Happy
+  Wheelsの詳細ガイド。命がけのユーザー作成レベルを生き残るための、ゲームプレイ戦略、操作方法、よくある質問を学びましょう。
+iframeSrc: 'https://games-online.io/game/HappyWheels/'
+thumbnail: /new-images/thumbnails/happy-wheels.jpg
+urlstr: happy-wheels
+tags:
+  - platformer
+  - physics
+score: 3.9/5  (1175 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

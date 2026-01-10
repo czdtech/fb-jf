@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: 2020-connect
-title: "2020 Connect"
+title: 2020 Connect
+seoTitle: Spiele 2020 Connect kostenlos online | FiddleBops
 description: >-
   2020 Connect ist ein ruhiges, aber taktisches Zahlen‑Merge‑Puzzle. Verbinde
   Felder mit gleichen Zahlen, erschaffe höhere Werte und verwalte geschickt den
   knappen Platz, um lange Komboketten und hohe Punktzahlen zu erreichen.
 iframeSrc: 'https://4l7qr4mfc8o80.h5games.usercontent.goog/v/5sm797oi4heu0/'
 thumbnail: /new-images/thumbnails/2020-connect.png
+urlstr: 2020-connect
 tags:
   - puzzle
   - thinky

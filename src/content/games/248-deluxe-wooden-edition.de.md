@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: 248-deluxe-wooden-edition
-title: "248 Deluxe Wooden Edition"
+title: 248 Deluxe Wooden Edition
+seoTitle: Spiele 248 Deluxe Wooden Edition kostenlos online | FiddleBops
 description: >-
   248 Deluxe Wooden Edition ist ein ruhiges Zahlen‑Verbindungspuzzle auf einem
   Holzbrett. Verbinde benachbarte gleiche Zahlen, fusioniere sie zu höheren
   Werten und verwalte den knappen Platz, ohne das Raster zu verstopfen.
 iframeSrc: 'https://0k2rsj4f89nr8.h5games.usercontent.goog/v/03pkkc7ds3qdg/'
 thumbnail: /new-images/thumbnails/248-deluxe-wooden-edition.jpg
+urlstr: 248-deluxe-wooden-edition
 tags:
   - puzzle
   - thinky

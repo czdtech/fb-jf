@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: backyard-zombie-defense
-title: "Backyard Zombie Defense"
+title: Backyard Zombie Defense
+seoTitle: Spiele Backyard Zombie Defense kostenlos online | FiddleBops
 description: >-
   Backyard Zombie Defense ist ein unkompliziertes Tower‑Defense‑Spiel. Platziere
   Geschütze, rüste sie clever auf und halte die Zombiehorden von deinem Garten
   fern.
 iframeSrc: 'https://18ivvthj417fo.h5games.usercontent.goog/v/27786m6fltuso/'
 thumbnail: /new-images/thumbnails/backyard-zombie-defense.png
+urlstr: backyard-zombie-defense
 tags:
   - tower Defense
   - thinky

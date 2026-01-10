@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: giant-attack
 title: Giant Attack 巨人袭来
+seoTitle: 免费在线玩 Giant Attack 巨人袭来 | FiddleBops
 description: 在这款节奏明快的街机动作游戏中迎战庞大的巨人！一路收集同伴让自己变得更高更壮， 释放威力惊人的投掷攻击，赶在巨人把你踩扁前先把它击倒。
 iframeSrc: 'https://5699ri02mr840.h5games.usercontent.goog/v/0dov2qbpnafb0/'
 thumbnail: /new-images/thumbnails/giant-attack.png
+urlstr: giant-attack
 tags:
   - action
   - casual

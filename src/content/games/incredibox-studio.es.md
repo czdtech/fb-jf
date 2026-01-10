@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: incredibox-studio
 title: Incredibox Studio
+seoTitle: Juega a Incredibox Studio en línea gratis | FiddleBops
 description: >-
   Incredibox Studio es un juego fan-made inspirado en el Incredibox original.
   Creado en Scratch y optimizado con TurboWarp, ofrece un entorno tipo sandbox
   donde los jugadores pueden crear sus propias mezclas musicales.
 iframeSrc: 'https://turbowarp.org/1013575298/embed'
 thumbnail: /new-images/thumbnails/incredibox-studio.png
+urlstr: incredibox-studio
 tags:
   - music
   - sandbox

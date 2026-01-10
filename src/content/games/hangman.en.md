@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Hangman"
-description: "Classic word‑guessing: deduce the secret word by proposing letters, avoiding too many wrong guesses before the figure is completed." 
-iframeSrc: "https://hangman-frontend.coolmathgames.com/home"
+title: Hangman
+seoTitle: Play Hangman Online Free | FiddleBops
+description: >-
+  Classic word‑guessing: deduce the secret word by proposing letters, avoiding
+  too many wrong guesses before the figure is completed.
+iframeSrc: 'https://hangman-frontend.coolmathgames.com/home'
 thumbnail: /new-images/thumbnails/hangman.jpg
-urlstr: "hangman"
-score: "3.7/5  (708 votes)"
-tags: ["word", "puzzle"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: hangman
+tags:
+  - word
+  - puzzle
+score: 3.7/5  (708 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

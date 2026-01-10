@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Bad Ice-Cream"
-description: "A complete guide to the original Bad Ice-Cream. Learn strategies, controls, and tips to collect all the fruit while freezing your enemies in this classic arcade puzzle game."
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x4/index.html"
+title: Bad Ice-Cream
+seoTitle: Play Bad Ice-Cream Online Free | FiddleBops
+description: >-
+  A complete guide to the original Bad Ice-Cream. Learn strategies, controls,
+  and tips to collect all the fruit while freezing your enemies in this classic
+  arcade puzzle game.
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x4/index.html
 thumbnail: /new-images/thumbnails/bad-ice-cream.jpg
-urlstr: "bad-ice-cream"
-score: "4.9/5  (1015 votes)"
-tags: ["casual", "puzzle"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: bad-ice-cream
+tags:
+  - casual
+  - puzzle
+score: 4.9/5  (1015 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

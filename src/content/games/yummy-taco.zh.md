@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: yummy-taco
 title: Yummy Taco：塔可快餐小店
+seoTitle: 免费在线玩 Yummy Taco：塔可快餐小店 | FiddleBops
 description: 在《Yummy Taco》中经营你自己的墨西哥卷饼小店。 接单、备料、组装香喷喷的塔可，用速度与准确度同时打动顾客， 赚取收入升级厨房，解锁更多食材与菜谱。
 iframeSrc: >-
   https://g2.igroutka.ru/games/7/K6bHUF2pdiz30Aam/4399swf/upload_swf/ftp40/chenling/20220916/6/
 thumbnail: /new-images/thumbnails/yummy-taco.jpg
+urlstr: yummy-taco
 tags:
   - cooking
   - simulation

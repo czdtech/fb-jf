@@ -1,14 +1,18 @@
 ---
 locale: de
-urlstr: sprunki-clicker
-title: "Sprunki Clicker - Sprunki Clicker online spielen"
-description: "In Sprunki Clicker begibst du dich auf ein magisches Musikabenteuer, bei dem jeder Klick neue Klänge, Figuren und Effekte freischaltet – bis aus einfachen Tönen eine wachsende Klangwelt entsteht."
+title: Sprunki Clicker
+seoTitle: Spiele Sprunki Clicker kostenlos online | FiddleBops
+description: >-
+  In Sprunki Clicker begibst du dich auf ein magisches Musikabenteuer, bei dem
+  jeder Klick neue Klänge, Figuren und Effekte freischaltet – bis aus einfachen
+  Tönen eine wachsende Klangwelt entsteht.
 iframeSrc: 'https://1games.io/game/sprunki-clicker/'
 thumbnail: /new-images/thumbnails/sprunki-clicker.png
+urlstr: sprunki-clicker
 tags:
   - sprunki clicker
 score: 4.7/5  (524 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

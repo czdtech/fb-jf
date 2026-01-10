@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: guns-n-bottles
 title: Guns n' Bottles
+seoTitle: Spiele Guns n' Bottles kostenlos online | FiddleBops
 description: >-
   Teste dein Timing und deine Präzision in diesem süchtig machenden
   Schießbuden-Spiel. Tippe im perfekten Moment, um Flaschen zu treffen, während
   sich deine Waffe dreht – aber halte dich von den roten Flaschen fern!
 iframeSrc: 'https://aktestgunsandbottles.h5games.usercontent.goog/v/51pcsm84fc4ag/'
 thumbnail: /new-images/thumbnails/guns-n-bottles.png
+urlstr: guns-n-bottles
 tags:
   - shooting
   - action

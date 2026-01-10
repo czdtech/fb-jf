@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Jewel Magic Xmas
+seoTitle: 無料でJewel Magic Xmasをオンラインでプレイ | FiddleBops
 description: クリスマス風のマッチ3パズルです。オーナメントなどを入れ替えてそろえ、レベル目標を達成します。
 iframeSrc: 'https://jewelmagicxmas.h5games.usercontent.goog/v/19095ne8tscfg/'
 thumbnail: /new-images/thumbnails/jewel-magic-xmas.png
 urlstr: jewel-magic-xmas
-score: 4.4/5  (2200 votes)
 tags:
   - puzzle
   - casual
   - action
+score: 4.4/5  (2200 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

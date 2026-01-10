@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: carrom-clash
 title: Carrom Clash
+seoTitle: Juega a Carrom Clash en línea gratis | FiddleBops
 description: >-
   Disfruta del clásico juego de mesa Carrom en tu dispositivo. Apunta el
   striker, emboca tus fichas y cubre a la reina para derrotar a tu rival en este
   juego de habilidad y precisión.
 iframeSrc: 'https://carromclash.h5games.usercontent.goog/v/4pmfd00515bbg/'
 thumbnail: /new-images/thumbnails/carrom-clash.png
+urlstr: carrom-clash
 tags:
   - sports
   - puzzle

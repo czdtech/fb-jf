@@ -1,6 +1,7 @@
 ---
 locale: en
-title: Sprunki Pyramixed 0.9 - Play Sprunki Pyramixed 0.9 Online
+title: Sprunki Pyramixed 0.9
+seoTitle: Play Sprunki Pyramixed 0.9 Online Free | FiddleBops
 description: >-
   Sprunkgerny Pyramixed 0.9 is an innovative music creation game that breaks the
   shackles of traditional music games and perfectly combines rhythm with
@@ -8,12 +9,12 @@ description: >-
 iframeSrc: 'https://turbowarp.org/1144118565/embed'
 thumbnail: /new-images/thumbnails/sprunki-pyramixed.png
 urlstr: sprunki-pyramixed
-modType: sprunki
-score: 4.7/5  (455 votes)
 tags:
   - sprunki pyramixed 0.9
   - sprunki pyramixed 0.9 online
   - music
+modType: sprunki
+score: 4.7/5  (455 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

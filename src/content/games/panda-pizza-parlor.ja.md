@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Panda Pizza Parlor
+seoTitle: 無料でPanda Pizza Parlorをオンラインでプレイ | FiddleBops
 description: Panda Pizza Parlorはレストラン管理ゲームです。注文に合わせてピザを作り、素早く提供して店を拡大します。
 iframeSrc: 'https://pandapizzaparlor.h5games.usercontent.goog/v/16ldgoh3to3f8/'
 thumbnail: /new-images/thumbnails/panda-pizza-parlor.png
 urlstr: panda-pizza-parlor
-score: 4.7/5  (2150 votes)
 tags:
   - casual
   - thinky
+score: 4.7/5  (2150 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

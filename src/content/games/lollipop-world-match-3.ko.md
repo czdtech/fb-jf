@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: lollipop-world-match-3
 title: 'Lollipop World : match 3 롤리팝 월드 매치3 퍼즐'
+seoTitle: 'Lollipop World : match 3 롤리팝 월드 매치3 퍼즐 무료 온라인 플레이 | FiddleBops'
 description: >-
   Lollipop World: Match 3는 파워업을 조합하고 각종 장애물을 부수며, 제한된 이동 수 안에 스테이지 목표를 달성해야 하는
   캔디 매치‑3 퍼즐 게임입니다.
 iframeSrc: 'https://4oij9suhguc58.h5games.usercontent.goog/v/1osssadggdrao/'
 thumbnail: /new-images/thumbnails/lollipop-world-match-3.jpg
+urlstr: lollipop-world-match-3
 tags:
   - puzzle
   - casual

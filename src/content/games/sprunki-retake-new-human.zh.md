@@ -1,14 +1,16 @@
 ---
-locale: "zh"
-urlstr: "sprunki-retake-new-human"
-
-title: "Sprunki Retake New Human 🔥 在线玩 Sprunki Retake New Human"
-description: "Sprunki Retake New Human 的核心是通过全新的人形角色设计，重新诠释经典的 Incredibox 体验。"
-iframeSrc: "https://turbowarp.org/1139615160/embed"
+locale: zh
+title: Sprunki Retake New Human
+seoTitle: 免费在线玩 Sprunki Retake New Human | FiddleBops
+description: Sprunki Retake New Human 的核心是通过全新的人形角色设计，重新诠释经典的 Incredibox 体验。
+iframeSrc: 'https://turbowarp.org/1139615160/embed'
 thumbnail: /new-images/thumbnails/sprunki-retake-new-human.png
-score: "4.0/5  (829 votes)"
-tags: ["sprunki retake new human", "musical mod"]
-releaseDate: 2025-12-04
+urlstr: sprunki-retake-new-human
+tags:
+  - sprunki retake new human
+  - musical mod
+score: 4.0/5  (829 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Retake New Human 介绍

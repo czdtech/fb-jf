@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: blockbuster-puzzle
 title: Blockbuster Puzzle
+seoTitle: Spiele Blockbuster Puzzle kostenlos online | FiddleBops
 description: >-
   Blockbuster Puzzle ist ein befriedigendes Block‑Clear‑Spiel. Plane deine
   Platzierungen, löse Kettenreaktionen aus und vermeide es, wichtige Freiflächen
   zuzubauen.
 iframeSrc: 'https://177gd8gft04p0.h5games.usercontent.goog/v/0md288db3fuq8/'
 thumbnail: /new-images/thumbnails/blockbuster-puzzle.png
+urlstr: blockbuster-puzzle
 tags:
   - puzzle
   - thinky

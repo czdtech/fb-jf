@@ -1,12 +1,15 @@
 ---
 locale: es
-urlstr: bird-sort-quest
-title: "Bird Sort Quest ordenar pajaritos por colores"
+title: Bird Sort Quest ordenar pajaritos por colores
+seoTitle: >-
+  Juega a Bird Sort Quest ordenar pajaritos por colores en línea gratis |
+  FiddleBops
 description: >-
   Bird Sort Quest convierte ordenar colores en un reto relajante. Mueve pájaros
   entre perchas, agrúpalos por color y planifica varios pasos por delante.
 iframeSrc: 'https://59c0fiphd7ng0.h5games.usercontent.goog/v/5cgtqofbdtd08/'
 thumbnail: /new-images/thumbnails/bird-sort-quest.png
+urlstr: bird-sort-quest
 tags:
   - puzzle
   - thinky

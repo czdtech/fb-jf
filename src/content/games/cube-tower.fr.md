@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: cube-tower
 title: Cube Tower
+seoTitle: Jouez à Cube Tower en ligne gratuitement | FiddleBops
 description: "Cube Tower est un jeu de défense de tour cubique\_: place et améliore des cubes de défense pour arrêter les vagues d’ennemis."
 iframeSrc: 'https://cubetower.h5games.usercontent.goog/v/6k8tnoea28210/'
 thumbnail: /new-images/thumbnails/cube-tower.png
+urlstr: cube-tower
 tags:
   - strategy
   - puzzle

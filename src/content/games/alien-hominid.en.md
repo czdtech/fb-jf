@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Alien Hominid"
-description: "The ultimate guide for the classic run-and-gun shooter, Alien Hominid. Find detailed strategies, controls, and FAQs to help you master this challenging side-scroller from The Behemoth."
-iframeSrc: "https://ad-freegames.github.io/flash/game/alien-hominid.html"
+title: Alien Hominid
+seoTitle: Play Alien Hominid Online Free | FiddleBops
+description: >-
+  The ultimate guide for the classic run-and-gun shooter, Alien Hominid. Find
+  detailed strategies, controls, and FAQs to help you master this challenging
+  side-scroller from The Behemoth.
+iframeSrc: 'https://ad-freegames.github.io/flash/game/alien-hominid.html'
 thumbnail: /new-images/thumbnails/alien-hominid.jpg
-urlstr: "alien-hominid"
-score: "5.0/5  (126 votes)"
-tags: ["shooting", "action"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: alien-hominid
+tags:
+  - shooting
+  - action
+score: 5.0/5  (126 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

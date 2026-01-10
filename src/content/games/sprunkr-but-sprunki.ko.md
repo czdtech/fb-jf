@@ -1,17 +1,17 @@
 ---
 locale: ko
-urlstr: sprunkr-but-sprunki
-title: 'Sprunkr But Sprunki 스프렁커 버트 스프룽키'
+title: Sprunkr But Sprunki 스프렁커 버트 스프룽키
+seoTitle: Sprunkr But Sprunki 스프렁커 버트 스프룽키 무료 온라인 플레이 | FiddleBops
 description: >-
-  Sprunkr But Sprunki는 Sprunkr의 게임 플레이에 스프룽키 스타일의 캐릭터와 사운드를
-  입힌 크로스오버 모드입니다. Sprunkr의 규칙은 그대로 즐기면서, 스프룽키 특유의
-  비주얼과 루프 사운드를 함께 감상할 수 있습니다.
+  Sprunkr But Sprunki는 Sprunkr의 게임 플레이에 스프룽키 스타일의 캐릭터와 사운드를 입힌 크로스오버 모드입니다.
+  Sprunkr의 규칙은 그대로 즐기면서, 스프룽키 특유의 비주얼과 루프 사운드를 함께 감상할 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1113707117/embed'
 thumbnail: /new-images/thumbnails/sprunkr-but-sprunki.png
+urlstr: sprunkr-but-sprunki
 tags:
   - sprunkr but sprunki
 score: 4.5/5  (541 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Geometry Dash World"
-description: "Compact rhythm‑platformer worlds: run, jump, and fly through short music‑synced levels, unlock gates with collected orbs, and visit daily levels." 
-iframeSrc: "https://geometrylite.io/game/geometry-dash-world/"
+title: Geometry Dash World
+seoTitle: Play Geometry Dash World Online Free | FiddleBops
+description: >-
+  Compact rhythm‑platformer worlds: run, jump, and fly through short
+  music‑synced levels, unlock gates with collected orbs, and visit daily levels.
+iframeSrc: 'https://geometrylite.io/game/geometry-dash-world/'
 thumbnail: /new-images/thumbnails/geometry-dash-world.jpg
-urlstr: "geometry-dash-world"
-score: "3.6/5  (1425 votes)"
-tags: ["rhythm", "platformer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: geometry-dash-world
+tags:
+  - rhythm
+  - platformer
+score: 3.6/5  (1425 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

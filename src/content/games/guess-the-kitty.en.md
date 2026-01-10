@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Guess the Kitty"
-description: "Picture quiz with cats: deduce the correct breed/feature from images and hints; progress through themed rounds." 
-iframeSrc: "https://webglmath.github.io/guess-the-kitty/"
+title: Guess the Kitty
+seoTitle: Play Guess the Kitty Online Free | FiddleBops
+description: >-
+  Picture quiz with cats: deduce the correct breed/feature from images and
+  hints; progress through themed rounds.
+iframeSrc: 'https://webglmath.github.io/guess-the-kitty/'
 thumbnail: /new-images/thumbnails/guess-the-kitty.jpg
-urlstr: "guess-the-kitty"
-score: "3.8/5  (727 votes)"
-tags: ["trivia", "puzzle"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: guess-the-kitty
+tags:
+  - trivia
+  - puzzle
+score: 3.8/5  (727 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

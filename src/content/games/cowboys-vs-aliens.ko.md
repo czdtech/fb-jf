@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: cowboys-vs-aliens
 title: Cowboys vs Aliens 카우보이 vs 에일리언
+seoTitle: Cowboys vs Aliens 카우보이 vs 에일리언 무료 온라인 플레이 | FiddleBops
 description: >-
   서부 시대 카우보이와 외계인의 대결을 다룬 액션 슈팅 'Cowboys vs Aliens' 가이드입니다. 대표적인 플레이 방식과 기본 전략,
   조작법을 정리해 외계 침략자로부터 황야를 지켜 보세요.
 iframeSrc: >-
   https://app-183000.games.s3.yandex.net/183000/ej1ob1cdiuv0fq3vw88l1k7pakdngmk7/index.html
 thumbnail: /new-images/thumbnails/cowboys-vs-aliens.jpg
+urlstr: cowboys-vs-aliens
 tags:
   - action
   - shooting

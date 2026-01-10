@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: comfy-farm
 title: Comfy Farm
+seoTitle: Spiele Comfy Farm kostenlos online | FiddleBops
 description: >-
   Willkommen auf der Comfy Farm. Säe Samen, gieße deine Pflanzen, ernte sie mit
   Gewinn und schütze deine Felder vor Schädlingen, während du deinen eigenen
   gemütlichen Bauernhof ausbaust.
 iframeSrc: 'https://comfyfarm.h5games.usercontent.goog/v/73m7i3ndifhg0/'
 thumbnail: /new-images/thumbnails/comfy-farm.png
+urlstr: comfy-farm
 tags:
   - casual
   - strategy

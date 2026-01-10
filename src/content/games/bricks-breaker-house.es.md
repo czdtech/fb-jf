@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: bricks-breaker-house
 title: Bricks Breaker House
+seoTitle: Juega a Bricks Breaker House en línea gratis | FiddleBops
 description: >-
   Bricks Breaker House le da un toque acogedor al rompebloques clásico: marca
   ángulos, juega con los potenciadores y mantén la casa en pie.
 iframeSrc: 'https://1s6hqqts5ko6o.h5games.usercontent.goog/v/7n8ge2nvqqksg/'
 thumbnail: /new-images/thumbnails/bricks-breaker-house.png
+urlstr: bricks-breaker-house
 tags:
   - puzzle
   - casual

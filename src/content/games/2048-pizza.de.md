@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: 2048-pizza
-title: "2048 Pizza"
+title: 2048 Pizza
+seoTitle: Spiele 2048 Pizza kostenlos online | FiddleBops
 description: >-
   2048 Pizza bringt das bekannte 2048‑Prinzip mit leckerem Pizzabelag auf den
   Bildschirm. Schiebe Kacheln, verschmelze gleiche Werte und backe dich Stück
   für Stück zu immer größeren Pizzaschnitten.
 iframeSrc: 'https://14qikp6hbljig.h5games.usercontent.goog/v/4htrmkq5b0b78/'
 thumbnail: /new-images/thumbnails/2048-pizza.png
+urlstr: 2048-pizza
 tags:
   - puzzle
   - thinky

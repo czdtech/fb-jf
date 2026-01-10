@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: fireboy-and-watergirl-4
-title: "Fireboy And Watergirl 4"
+title: Fireboy And Watergirl 4
+seoTitle: Spiele Fireboy And Watergirl 4 kostenlos online | FiddleBops
 description: >-
   Der vierte Teil der Reihe "Fireboy and Watergirl: The Crystal Temple" bringt
-  Portalrätsel ins Koop-Platforming: Meistere die Kristallportale mit
-  Teamwork, Timing und cleveren Routen.
+  Portalrätsel ins Koop-Platforming: Meistere die Kristallportale mit Teamwork,
+  Timing und cleveren Routen.
 iframeSrc: 'https://slope-game.github.io/fireboy-water-4/'
 thumbnail: /new-images/thumbnails/fireboy-and-watergirl-4.jpg
+urlstr: fireboy-and-watergirl-4
 tags:
   - casual
   - rhythm

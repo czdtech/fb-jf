@@ -1,13 +1,14 @@
 ---
 locale: zh
-urlstr: raft-wars
 title: 《Raft Wars》木筏宝藏大作战
+seoTitle: 免费在线玩 《Raft Wars》木筏宝藏大作战 | FiddleBops
 description: >-
   《Raft
   Wars》是一款回合制物理射击+策略小游戏。玩家要帮助两位发现宝藏的小兄弟，用网球等各类投射武器，在海上与海盗、维京人等敌人对战，守护来之不易的财富。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210301/jj8/index.html
 thumbnail: /new-images/thumbnails/raft-wars.jpg
+urlstr: raft-wars
 tags:
   - strategy
   - shooting

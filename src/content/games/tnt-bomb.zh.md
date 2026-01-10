@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: tnt-bomb
 title: 《TNT Bomb》爆破工程师
+seoTitle: 免费在线玩 《TNT Bomb》爆破工程师 | FiddleBops
 description: 《TNT Bomb》是一款基于物理的策略拆除游戏。你需要在有限数量的炸药内，精确布置 TNT 与强力炸弹，将关卡中的建筑物彻底夷为平地。
 iframeSrc: >-
   https://tntbomb.h5games.usercontent.goog/v/78fb3628-2b9a-4ddc-86ef-7c46021357a2/
 thumbnail: /new-images/thumbnails/tnt-bomb.jpg
+urlstr: tnt-bomb
 tags:
   - puzzle
   - action

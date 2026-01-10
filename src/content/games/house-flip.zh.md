@@ -1,10 +1,13 @@
 ---
 locale: zh
-urlstr: house-flip
-title: "《House Flip》房屋翻新模拟"
-description: "《House Flip》是一款把房屋装修和买卖过程游戏化的轻度模拟游戏，你要检查房屋问题、规划预算，在有限资金内优化格局、风格和门面表现，再高价转卖赚取差价。"
+title: 《House Flip》房屋翻新模拟
+seoTitle: 免费在线玩 《House Flip》房屋翻新模拟 | FiddleBops
+description: >-
+  《House
+  Flip》是一款把房屋装修和买卖过程游戏化的轻度模拟游戏，你要检查房屋问题、规划预算，在有限资金内优化格局、风格和门面表现，再高价转卖赚取差价。
 iframeSrc: 'https://45g7qkftithd0.h5games.usercontent.goog/v/7691fk060s8pg/'
 thumbnail: /new-images/thumbnails/house-flip.png
+urlstr: house-flip
 tags:
   - puzzle
   - casual

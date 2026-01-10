@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: word-wipe
 title: Word Wipe
+seoTitle: Jouez à Word Wipe en ligne gratuitement | FiddleBops
 description: >-
   Word Wipe est un jeu de mots dynamique : relie les lettres pour former des
   mots, fais-les disparaître et efface des lignes contre la montre.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-word-wipe/'
 thumbnail: /new-images/thumbnails/word-wipe.jpg
+urlstr: word-wipe
 tags:
   - word-game
   - puzzle

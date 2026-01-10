@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: red-ball-4
 title: Red Ball 4 레드 볼 4
+seoTitle: Red Ball 4 레드 볼 4 무료 온라인 플레이 | FiddleBops
 description: >-
   Red Ball 4는 세상의 모든 것을 네모로 만들려는 악당 사각형들을 막기 위해, 귀여운 빨간 공을 조종해 모험을 떠나는 물리 기반
   플랫포머 게임입니다. 장애물과 퍼즐을 넘어서며 세상을 구해 보세요.
 iframeSrc: 'https://class198.github.io/g177/red-ball-4/'
 thumbnail: /new-images/thumbnails/red-ball-4.jpg
+urlstr: red-ball-4
 tags:
   - platformer
   - physics

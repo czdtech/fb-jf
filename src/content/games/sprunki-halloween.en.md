@@ -1,6 +1,7 @@
 ---
 locale: en
-title: Sprunki Halloween - Play Sprunki Halloween Online
+title: Sprunki Halloween
+seoTitle: Play Sprunki Halloween Online Free | FiddleBops
 description: >-
   Sprunki Halloween is a Mod that allows you to unleash your musical talents in
   the atmosphere of Halloween. Come and join Sprunki Halloween, and use
@@ -8,11 +9,11 @@ description: >-
 iframeSrc: 'https://turbowarp.org/1087683438/embed'
 thumbnail: /new-images/thumbnails/sprunki-halloween.png
 urlstr: sprunki-halloween
-modType: sprunki
-score: 4.2/5  (142 votes)
 tags:
   - sprunki halloween
   - music
+modType: sprunki
+score: 4.2/5  (142 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

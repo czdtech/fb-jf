@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: electron-dash
 title: Electron Dash
+seoTitle: Spiele Electron Dash kostenlos online | FiddleBops
 description: >-
   Electron Dash ist ein schneller Tunnel-Runner: Springe, dash durch Lücken und
   lande sicher auf rotierenden Plattformen, um möglichst weit zu kommen.
 iframeSrc: 'https://slope-game.github.io/electron-dash/'
 thumbnail: /new-images/thumbnails/electron-dash.jpg
+urlstr: electron-dash
 tags:
   - arcade
   - runner

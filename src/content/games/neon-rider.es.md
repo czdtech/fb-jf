@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: neon-rider
-title: "Neon Rider - Carreras de moto con físicas precisas"
+title: Neon Rider
+seoTitle: Juega a Neon Rider en línea gratis | FiddleBops
 description: >-
-  Neon Rider ofrece recorridos de moto con físicas pulidas: equilibra la
-  moto, controla el acelerador y gira con precisión para dominar los circuitos
-  de neón.
+  Neon Rider ofrece recorridos de moto con físicas pulidas: equilibra la moto,
+  controla el acelerador y gira con precisión para dominar los circuitos de
+  neón.
 iframeSrc: 'https://1ef80kndi1bv0.h5games.usercontent.goog/v/4glscq8hf3m20/'
 thumbnail: /new-images/thumbnails/neon-rider.png
+urlstr: neon-rider
 tags:
   - bike
   - action

@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: stars-aligned
 title: 《Stars Aligned》星轨对位
+seoTitle: 免费在线玩 《Stars Aligned》星轨对位 | FiddleBops
 description: 《Stars Aligned》是一款舒缓的星座拼图游戏。旋转星片、连接光线，将零散的星点拼接成完整的星座图案。
 iframeSrc: 'https://starsaligned.h5games.usercontent.goog/v/3i88p78sohtig/'
 thumbnail: /new-images/thumbnails/stars-aligned.jpg
+urlstr: stars-aligned
 tags:
   - puzzle
   - thinky

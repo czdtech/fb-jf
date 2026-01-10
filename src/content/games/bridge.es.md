@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: bridge
 title: Bridge
+seoTitle: Juega a Bridge en línea gratis | FiddleBops
 description: >-
   Juega al clásico juego de cartas por parejas, Bridge. Coopera con tu compañero
   en la subasta y en el juego de bazas para superar a los rivales y cumplir el
   contrato.
 iframeSrc: 'https://2ipri8asu56io.h5games.usercontent.goog/v/0gn3i94fda0h0/'
 thumbnail: /new-images/thumbnails/bridge.png
+urlstr: bridge
 tags:
   - card
   - puzzle

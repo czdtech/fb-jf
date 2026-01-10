@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Retro Bowl
+seoTitle: 無料でRetro Bowlをオンラインでプレイ | FiddleBops
 description: Retro Bowlはアメフトのチーム運営ゲームです。編成や戦術を決め、試合に勝って優勝を目指します。
 iframeSrc: 'https://game316009.konggames.com/gamez/0031/6009/live/index.html'
 thumbnail: /new-images/thumbnails/retro-bowl.jpg
 urlstr: retro-bowl
-score: 3.5/5  (637 votes)
 tags:
   - sports
   - strategy
   - casual
+score: 3.5/5  (637 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

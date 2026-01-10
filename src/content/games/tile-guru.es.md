@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: tile-guru
-title: Tile Guru - Maestro de las fichas triples
+title: Tile Guru
+seoTitle: Juega a Tile Guru en línea gratis | FiddleBops
 description: >-
   Tile Guru es un puzle de fichas triples muy pulido: elige fichas, gestiona la
   bandeja y despeja el tablero sin atascar tus pilas.
 iframeSrc: 'https://5en3tugq69tdo.h5games.usercontent.goog/v/4pu6to0p0cgrg/'
 thumbnail: /new-images/thumbnails/tile-guru.png
+urlstr: tile-guru
 tags:
   - mahjong
   - puzzle

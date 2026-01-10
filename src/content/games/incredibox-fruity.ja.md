@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Incredibox Fruity
+seoTitle: 無料でIncredibox Fruityをオンラインでプレイ | FiddleBops
 description: >-
   Incredibox
   Fruityの究極ガイド、クラシック戦略ゲームを発見しましょう。洞窟人から未来の戦士まで軍隊を進化させ、戦場を支配するための勝利戦略、操作方法、ヒントを学びましょう。
 iframeSrc: 'https://turbowarp.org/414716080/embed'
 thumbnail: /new-images/thumbnails/incredibox-fruity.jpg
 urlstr: incredibox-fruity
-score: 4.5/5  (525 votes)
 tags:
   - strategy
   - action
+score: 4.5/5  (525 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

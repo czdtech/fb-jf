@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: solitaire-classic
 title: Solitaire Classic
+seoTitle: Jouez à Solitaire Classic en ligne gratuitement | FiddleBops
 description: "Le jeu de cartes solo intemporel, aussi connu sous le nom de Klondike\_: déplace toutes les cartes vers les piles de fondation de l'As au Roi pour gagner."
 iframeSrc: 'https://solitaireclassic.h5games.usercontent.goog/v/7sbt28mppqim8/'
 thumbnail: /new-images/thumbnails/solitaire-classic.png
+urlstr: solitaire-classic
 tags:
   - card
   - puzzle

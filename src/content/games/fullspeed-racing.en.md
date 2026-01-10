@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "FullSpeed Racing"
-description: "FullSpeed Racing is an arcade racer — pick lines, nail braking points, and overtake cleanly at pace."
-iframeSrc: "https://fullspeedracing.h5games.usercontent.goog/v/4kqu52vbp4da8/"
+title: FullSpeed Racing
+seoTitle: Play FullSpeed Racing Online Free | FiddleBops
+description: >-
+  FullSpeed Racing is an arcade racer — pick lines, nail braking points, and
+  overtake cleanly at pace.
+iframeSrc: 'https://fullspeedracing.h5games.usercontent.goog/v/4kqu52vbp4da8/'
 thumbnail: /new-images/thumbnails/fullspeed-racing.jpg
-urlstr: "fullspeed-racing"
-score: "4.1/5  (2014 votes)"
-tags: ["car", "driving", "sports"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: fullspeed-racing
+tags:
+  - car
+  - driving
+  - sports
+score: 4.1/5  (2014 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

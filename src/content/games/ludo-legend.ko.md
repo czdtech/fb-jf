@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: ludo-legend
 title: Ludo Legend 루도 레전드
+seoTitle: Ludo Legend 루도 레전드 무료 온라인 플레이 | FiddleBops
 description: >-
   Ludo Legend는 고전 보드게임 루도를 디지털로 옮긴 작품으로, 주사위를 굴려 말을 움직이고 상대보다 먼저 네 개의 말을 중앙 홈까지
   보내 전설적인 승자가 되는 것을 목표로 합니다.
 iframeSrc: 'https://ludolegend.h5games.usercontent.goog/v/613uvcaa3eiqo/'
 thumbnail: /new-images/thumbnails/ludo-legend.png
+urlstr: ludo-legend
 tags:
   - 2 player
   - card

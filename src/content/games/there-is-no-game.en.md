@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "There is no game"
-description: "Experience the unique meta-puzzle adventure of There is no game! Defy a sarcastic narrator, break the fourth wall, and solve unconventional puzzles by clicking and dragging elements. This humorous and mind-bending game challenges your perception of what a game can be."
-iframeSrc: "https://webglmath.github.io/there-is-no-game/"
+title: There is no game
+seoTitle: Play There is no game Online Free | FiddleBops
+description: >-
+  Experience the unique meta-puzzle adventure of There is no game! Defy a
+  sarcastic narrator, break the fourth wall, and solve unconventional puzzles by
+  clicking and dragging elements. This humorous and mind-bending game challenges
+  your perception of what a game can be.
+iframeSrc: 'https://webglmath.github.io/there-is-no-game/'
 thumbnail: /new-images/thumbnails/there-is-no-game.jpg
-urlstr: "there-is-no-game"
-score: "3.9/5  (1003 votes)"
-tags: ["puzzle", "adventure", "funny"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: there-is-no-game
+tags:
+  - puzzle
+  - adventure
+  - funny
+score: 3.9/5  (1003 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: worlds-hardest-game
 title: World's Hardest Game：世界上最难的小游戏？
+seoTitle: 免费在线玩 World's Hardest Game：世界上最难的小游戏？ | FiddleBops
 description: >-
   《World's Hardest Game》是一款以高难度着称的街机闯关游戏。 你要操控一个红色方块，在布满移动蓝色圆点的关卡中穿梭，
   用极其精准的走位与惊人的耐心，躲避一切障碍抵达终点。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/the-worlds-hardest-game.html'
 thumbnail: /new-images/thumbnails/worlds-hardest-game.jpg
+urlstr: worlds-hardest-game
 tags:
   - difficulty
   - arcade

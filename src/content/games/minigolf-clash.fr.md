@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: minigolf-clash
 title: Minigolf Clash
+seoTitle: Jouez à Minigolf Clash en ligne gratuitement | FiddleBops
 description: >-
   Minigolf Clash propose des parcours de mini‑golf créatifs : lis les pentes,
   joue les bandes et rentre tes balles sous le par sur des pistes décalées.
 iframeSrc: 'https://7a8e5urbht3f8.h5games.usercontent.goog/v/2ptudqjkva98g/'
 thumbnail: /new-images/thumbnails/minigolf-clash.png
+urlstr: minigolf-clash
 tags:
   - sports
   - puzzle

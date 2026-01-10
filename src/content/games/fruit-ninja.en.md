@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Fruit Ninja"
-description: "Arcade slicing: swipe through flying fruit while avoiding bombs; chain combos and frenzy boosts for higher scores."
-iframeSrc: "https://emulatoros.github.io/gfile/fruitninja/"
+title: Fruit Ninja
+seoTitle: Play Fruit Ninja Online Free | FiddleBops
+description: >-
+  Arcade slicing: swipe through flying fruit while avoiding bombs; chain combos
+  and frenzy boosts for higher scores.
+iframeSrc: 'https://emulatoros.github.io/gfile/fruitninja/'
 thumbnail: /new-images/thumbnails/fruit-ninja.jpg
-urlstr: "fruit-ninja"
-score: "4.3/5  (1027 votes)"
-tags: ["arcade", "action"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: fruit-ninja
+tags:
+  - arcade
+  - action
+score: 4.3/5  (1027 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

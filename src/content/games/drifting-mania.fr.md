@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: drifting-mania
 title: Drifting mania
+seoTitle: Jouez à Drifting mania en ligne gratuitement | FiddleBops
 description: "Drifting Mania teste un drift en vue du dessus\_: dose l’accélérateur, enchaîne les glisses et maîtrise le rythme des virages."
 iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
 thumbnail: /new-images/thumbnails/drifting-mania.png
+urlstr: drifting-mania
 tags:
   - car
   - driving

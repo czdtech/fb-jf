@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: color-burst-3d
-title: "Color Burst 3D 色彩冲击 3D"
+title: Color Burst 3D 色彩冲击 3D
+seoTitle: 免费在线玩 Color Burst 3D 色彩冲击 3D | FiddleBops
 description: >-
   《Color Burst 3D 色彩冲击 3D》是一款节奏极快的街机游戏。你需要操控不断向前冲的彩
   球，只能穿过与自己颜色一致的环形区域，在高速旋转与频繁变色中坚持更久、刷出高分。
 iframeSrc: 'https://colorburst3d.h5games.usercontent.goog/v/3l27vlnq6dvto/'
 thumbnail: /new-images/thumbnails/color-burst-3d.jpeg
+urlstr: color-burst-3d
 tags:
   - action
   - casual

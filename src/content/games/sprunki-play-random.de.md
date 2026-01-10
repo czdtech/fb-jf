@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: sprunki-play-random
-title: Sprunki Play Random - Sprunki Play Random online spielen
+title: Sprunki Play Random
+seoTitle: Spiele Sprunki Play Random kostenlos online | FiddleBops
 description: >-
   Sprunki Play Random ist ein Musikbaukasten voller Überraschungen: Zufällige
   Sounds, unerwartete Kombinationen und jede Menge Raum zum Ausprobieren.
 iframeSrc: 'https://turbowarp.org/1148555262/embed'
 thumbnail: /new-images/thumbnails/sprunki-play-random.png
+urlstr: sprunki-play-random
 tags:
   - sprunki play random
   - sprunki play random online

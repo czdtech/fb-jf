@@ -1,18 +1,18 @@
 ---
 locale: ko
-urlstr: sprunki-sonic
-title: "Sprunki Sonic 🔥 스프룽키 소닉"
+title: Sprunki Sonic 스프룽키 소닉
+seoTitle: Sprunki Sonic 스프룽키 소닉 무료 온라인 플레이 | FiddleBops
 description: >-
-  Sprunki Sonic은 소닉 시리즈의 캐릭터와 스피드를 Incredibox식 음악 제작에
-  결합한 모드입니다. 소닉, 테일즈, 너클즈 등과 함께 리듬을 맞추며 자신만의
-  소닉 스타일 트랙을 만들어 보세요.
+  Sprunki Sonic은 소닉 시리즈의 캐릭터와 스피드를 Incredibox식 음악 제작에 결합한 모드입니다. 소닉, 테일즈, 너클즈 등과
+  함께 리듬을 맞추며 자신만의 소닉 스타일 트랙을 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1114980098/embed'
 thumbnail: /new-images/thumbnails/sprunki-sonic.png
+urlstr: sprunki-sonic
 tags:
   - sprunki sonic
   - sprunki sonic online
 score: 4.0/5  (829 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

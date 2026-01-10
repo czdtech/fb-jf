@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Grass Cutter
+seoTitle: 無料でGrass Cutterをオンラインでプレイ | FiddleBops
 description: グリッドパズル：限られた手数で全てのタイルを一度だけ刈り、障害物を避け、芝生を完璧にクリアするためのルートを計画しましょう。
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/wcIz2a3WYRNKhbuq/rvvASMiM/58925795805842fcbfd7edf67efcd606/
 thumbnail: /new-images/thumbnails/grass-cutter.jpg
 urlstr: grass-cutter
-score: 4.5/5  (1065 votes)
 tags:
   - puzzle
   - logic
+score: 4.5/5  (1065 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,14 +1,20 @@
 ---
-title: "Incredibox Vibin"
-description: "チルなlo-fiヒップホップテーマのファン作成モッド『Incredibox Vibin'』を探索しましょう。このガイドでは、メローなサウンドパレット、リラックスビートを作成するためのゲームプレイ、心地よいテーマ別ボーナスのアンロック方法を詳しく説明します。"
-iframeSrc: "https://turbowarp.org/1050468579/embed"
-thumbnail: /new-images/thumbnails/incredibox-vibin.png
-urlstr: "incredibox-vibin"
-score: "4.7/5 (1754 votes)"
-tags: ["music", "rhythm", "sandbox"]
-developer: ""
-releaseDate: 2025-10-10
 locale: ja
+title: Incredibox Vibin
+seoTitle: 無料でIncredibox Vibinをオンラインでプレイ | FiddleBops
+description: >-
+  チルなlo-fiヒップホップテーマのファン作成モッド『Incredibox
+  Vibin'』を探索しましょう。このガイドでは、メローなサウンドパレット、リラックスビートを作成するためのゲームプレイ、心地よいテーマ別ボーナスのアンロック方法を詳しく説明します。
+iframeSrc: 'https://turbowarp.org/1050468579/embed'
+thumbnail: /new-images/thumbnails/incredibox-vibin.png
+urlstr: incredibox-vibin
+tags:
+  - music
+  - rhythm
+  - sandbox
+score: 4.7/5 (1754 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: puzzle-pieces-merge
 title: 《Puzzle Pieces Merge》拼图碎片合成
+seoTitle: 免费在线玩 《Puzzle Pieces Merge》拼图碎片合成 | FiddleBops
 description: 《Puzzle Pieces Merge》是一款放松又有创意的拼图游戏，你需要拖拽、旋转并合并散落的拼图碎片，逐步拼出一幅幅精美的风景图。
 iframeSrc: 'https://5burcumauc5p0.h5games.usercontent.goog/v/4k8cb35sbe9fo/'
 thumbnail: /new-images/thumbnails/puzzle-pieces-merge.jpg
+urlstr: puzzle-pieces-merge
 tags:
   - puzzle
   - casual

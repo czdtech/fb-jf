@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: cube-tower
 title: Cube Tower
+seoTitle: Spiele Cube Tower kostenlos online | FiddleBops
 description: >-
   Schütze deinen Cube Tower vor Wellen von Gegnern in diesem
   Tower-Defense-Spiel. Platziere und verbessere deine Türme strategisch, um zu
   überleben.
 iframeSrc: 'https://cubetower.h5games.usercontent.goog/v/6k8tnoea28210/'
 thumbnail: /new-images/thumbnails/cube-tower.png
+urlstr: cube-tower
 tags:
   - tower Defense
   - action

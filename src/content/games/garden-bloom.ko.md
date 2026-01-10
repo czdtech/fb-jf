@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: garden-bloom
 title: Garden Bloom 가든 블룸
+seoTitle: Garden Bloom 가든 블룸 무료 온라인 플레이 | FiddleBops
 description: >-
   매치‑3 퍼즐을 풀어 별을 모으고, 폐허가 된 정원을 다시 꾸며 가는 힐링 퍼즐 게임입니다. 꽃과 장식을 직접 골라 자신만의 정원을 디자인해
   보세요.
 iframeSrc: 'https://gardenbloom.h5games.usercontent.goog/v/03uqf2ceev9h8/'
 thumbnail: /new-images/thumbnails/garden-bloom.png
+urlstr: garden-bloom
 tags:
   - puzzle
   - casual

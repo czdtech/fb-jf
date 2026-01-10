@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Going Balls
+seoTitle: 無料でGoing Ballsをオンラインでプレイ | FiddleBops
 description: 3Dボール転がし障害物ランナー：梁や罠の上でバランスを取り、コインを集め、落ちずにゴールを目指しましょう。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231116/10/index.htm
 thumbnail: /new-images/thumbnails/going-balls.jpg
 urlstr: going-balls
-score: 4.3/5  (509 votes)
 tags:
   - runner
   - balance
+score: 4.3/5  (509 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

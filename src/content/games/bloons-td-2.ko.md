@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: bloons-td-2
 title: Bloons TD 2 블룬스 TD 2
+seoTitle: Bloons TD 2 블룬스 TD 2 무료 온라인 플레이 | FiddleBops
 description: >-
   고전 타워 디펜스 시리즈의 두 번째 작품 Bloons TD 2입니다. 다섯 가지 원숭이 타워를 배치하고 업그레이드해 50라운드에 달하는
   블룬(풍선) 물결을 막아 내고, 폭발·빙결에 면역인 블랙/화이트 블룬에 대응하는 전략을 익혀 보세요.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-2.html'
 thumbnail: /new-images/thumbnails/bloons-td-2.jpg
+urlstr: bloons-td-2
 tags:
   - casual
   - strategy

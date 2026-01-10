@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: breaking-the-bank
 title: Breaking the Bank 브레이킹 더 뱅크
+seoTitle: Breaking the Bank 브레이킹 더 뱅크 무료 온라인 플레이 | FiddleBops
 description: >-
   Henry Stickmin 시리즈의 첫 작품 Breaking the Bank에서 무모한 은행 털이에 도전해 보세요. 여섯 가지 침입 방법 중
   하나를 고르고, 웃픈 실패 엔딩들을 감상하다 단 하나뿐인 성공 루트를 찾아보는 선택형 코미디 게임입니다.
 iframeSrc: 'https://rebemanae.github.io/breaking-the-bank/'
 thumbnail: /new-images/thumbnails/breaking-the-bank.jpg
+urlstr: breaking-the-bank
 tags:
   - puzzle
   - adventure

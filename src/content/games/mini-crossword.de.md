@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: mini-crossword
 title: Mini Crossword
+seoTitle: Spiele Mini Crossword kostenlos online | FiddleBops
 description: >-
   Mini Crossword ist ein kompaktes tägliches Kreuzworträtsel, das in wenigen
   Minuten eine knackige Wortaufgabe für alle Schwierigkeitsstufen bietet.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword-mini/'
 thumbnail: /new-images/thumbnails/mini-crossword.jpg
+urlstr: mini-crossword
 tags:
   - puzzle
   - word

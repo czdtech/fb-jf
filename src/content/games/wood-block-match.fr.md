@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: wood-block-match
 title: Wood Block Match
+seoTitle: Jouez à Wood Block Match en ligne gratuitement | FiddleBops
 description: >-
   Wood Block Match est un puzzle de placement de blocs relaxant : place des
   formes en bois, efface des lignes et préserve l'espace avec une stratégie
   maligne.
 iframeSrc: 'https://2rfr65hktjv5o.h5games.usercontent.goog/v/46h85f5g0sldo/'
 thumbnail: /new-images/thumbnails/wood-block-match.png
+urlstr: wood-block-match
 tags:
   - puzzle
   - thinky

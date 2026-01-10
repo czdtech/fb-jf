@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: merge-heroes
 title: Merge Heroes
+seoTitle: Jouez à Merge Heroes en ligne gratuitement | FiddleBops
 description: >-
   Le jeu de stratégie de fusion et de bataille ultime ! Combine des héros pour
   forger une armée puissante, déploie‑les sur le champ de bataille et défends
   ton royaume contre des vagues de monstres.
 iframeSrc: 'https://mergeheroes.h5games.usercontent.goog/v/7i7m361ib4vr8/'
 thumbnail: /new-images/thumbnails/merge-heroes.png
+urlstr: merge-heroes
 tags:
   - strategy
   - action

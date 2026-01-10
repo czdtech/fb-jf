@@ -1,16 +1,17 @@
 ---
 locale: zh
-urlstr: tap-tap-shots
 title: 《Tap Tap Shots》连点投篮
+seoTitle: 免费在线玩 《Tap Tap Shots》连点投篮 | FiddleBops
 description: 《Tap Tap Shots》是一款简单却颇具挑战性的街机投篮游戏。通过连续点击控制篮球高度，在限时内不断命中篮筐刷分。
 iframeSrc: 'https://ubg77.github.io/game131022/tap-tap-shots/'
 thumbnail: /new-images/thumbnails/tap-tap-shots.jpg
+urlstr: tap-tap-shots
 tags:
   - sports
   - arcade
   - clicker
 score: 4.9/5  (415 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

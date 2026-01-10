@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: incredibox-hijinks
-title: "Incredibox Hijinks"
+title: Incredibox Hijinks
+seoTitle: Juega a Incredibox Hijinks en línea gratis | FiddleBops
 description: >-
   Explora "Incredibox Hijinks", un caótico mod fan-made de temática cartoon.
   Esta guía detalla su alocada paleta de sonidos electrónicos, la jugabilidad
@@ -9,6 +9,7 @@ description: >-
   temáticos.
 iframeSrc: 'https://turbowarp.org/1027156305/embed'
 thumbnail: /new-images/thumbnails/incredibox-hijinks.png
+urlstr: incredibox-hijinks
 tags:
   - music
   - rhythm

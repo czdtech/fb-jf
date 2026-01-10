@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: G-Switch
+seoTitle: 無料でG-Switchをオンラインでプレイ | FiddleBops
 description: ワンボタン重力ランナー：重力を反転させてプラットフォームを渡り続け、ギャップとノコギリを避け、速度上昇を生き延びましょう。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/5/index.html
 thumbnail: /new-images/thumbnails/g-switch.jpg
 urlstr: g-switch
-score: 3.7/5  (1326 votes)
 tags:
   - runner
   - platformer
+score: 3.7/5  (1326 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

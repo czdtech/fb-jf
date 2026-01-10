@@ -1,11 +1,12 @@
 ---
 locale: fr
-urlstr: boxing-random
 title: Boxing Random
+seoTitle: Jouez à Boxing Random en ligne gratuitement | FiddleBops
 description: "Boxing Random est un jeu de boxe complètement fou basé sur la physique\_: un seul bouton pour sauter/frapper, des bras qui changent de taille et des rounds aléatoires à gagner en 5 KO."
 iframeSrc: >-
   https://app-197305.games.s3.yandex.net/197305/ymb675rkal3nz409zur9etesdbd74y4d/index.html
 thumbnail: /new-images/thumbnails/boxing-random.jpg
+urlstr: boxing-random
 tags:
   - sports
   - physics

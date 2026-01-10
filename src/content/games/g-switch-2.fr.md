@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: g-switch-2
 title: G-Switch 2
+seoTitle: Jouez à G-Switch 2 en ligne gratuitement | FiddleBops
 description: >-
   Suite du runner gravitationnel : cours en solo ou en multijoueur local,
   inverse la gravité pour survivre aux pièges à mesure que la vitesse grimpe.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/6/index.html
 thumbnail: /new-images/thumbnails/g-switch-2.jpg
+urlstr: g-switch-2
 tags:
   - runner
   - platformer

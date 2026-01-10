@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: thruline
 title: Thruline
+seoTitle: Spiele Thruline kostenlos online | FiddleBops
 description: >-
   Thruline ist ein klares Verbindungs‑Puzzle: Ziehe eine einzige durchgehende
   Linie über alle Knoten und erfülle dabei Vorgaben für Kurven, Abdeckung und
   erlaubte Kreuzungen.
 iframeSrc: 'https://4bl9sdeaqndto.h5games.usercontent.goog/v/4qierjmnf0kng/'
 thumbnail: /new-images/thumbnails/thruline.jpg
+urlstr: thruline
 tags:
   - puzzle
   - thinky

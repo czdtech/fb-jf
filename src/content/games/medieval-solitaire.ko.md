@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: medieval-solitaire
 title: Medieval Solitaire 미디벌 솔리테어
+seoTitle: Medieval Solitaire 미디벌 솔리테어 무료 온라인 플레이 | FiddleBops
 description: >-
   Medieval Solitaire는 중세 기사와 성, 왕실을 배경으로 한 클론다이크 솔리테어로, 에이스부터 킹까지 슈트별 기초 더미를 완성해
   테이블의 패를 모두 정리하는 전략 카드 퍼즐입니다.
 iframeSrc: 'https://7se96a0j4qu80.h5games.usercontent.goog/v/1iv1d4soimc78/'
 thumbnail: /new-images/thumbnails/medieval-solitaire.png
+urlstr: medieval-solitaire
 tags:
   - card
   - puzzle

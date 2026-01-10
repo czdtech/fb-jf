@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: tiles-of-egypt
 title: 《Tiles of Egypt》埃及方块秘境
+seoTitle: 免费在线玩 《Tiles of Egypt》埃及方块秘境 | FiddleBops
 description: 《Tiles of Egypt》是一款以古埃及为主题的方块配对消除游戏。在金字塔与神庙背景下，从堆叠的方块中找出相同图案进行消除，解开古老的谜团。
 iframeSrc: >-
   https://tilesofegypt.h5games.usercontent.goog/v/dd964fa3-8999-4546-a4a0-d55a0cc72248/
 thumbnail: /new-images/thumbnails/tiles-of-egypt.jpg
+urlstr: tiles-of-egypt
 tags:
   - puzzle
   - match 3

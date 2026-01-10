@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Tractor Mania
+seoTitle: 無料でTractor Maniaをオンラインでプレイ | FiddleBops
 description: Tractor Maniaは、トラクターレーシングゲームです。でこぼこ道を走破してゴールを目指しましょう。
 iframeSrc: 'https://4agtsfcp8ur38.h5games.usercontent.goog/v/35kskpc4lmtig/'
 thumbnail: /new-images/thumbnails/tractor-mania.png
 urlstr: tractor-mania
-score: 4.0/5  (1880 votes)
 tags:
   - racing
   - physics
   - driving
-locale: ja
+score: 4.0/5  (1880 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

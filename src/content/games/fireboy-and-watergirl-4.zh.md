@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: fireboy-and-watergirl-4
-title: "Fireboy And Watergirl 4 水火小英雄：水晶神殿"
+title: Fireboy And Watergirl 4 水火小英雄：水晶神殿
+seoTitle: 免费在线玩 Fireboy And Watergirl 4 水火小英雄：水晶神殿 | FiddleBops
 description: >-
   这是一份《Fireboy and Watergirl 4：The Crystal Temple》的完整指南，
   教你掌握水晶传送门、双人合作策略、解谜技巧、操作方式与常见问题。
 iframeSrc: 'https://slope-game.github.io/fireboy-water-4/'
 thumbnail: /new-images/thumbnails/fireboy-and-watergirl-4.jpg
+urlstr: fireboy-and-watergirl-4
 tags:
   - casual
   - rhythm

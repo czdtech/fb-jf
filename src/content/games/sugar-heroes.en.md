@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Sugar Heroes"
-description: "Sugar Heroes is a vibrant match‑3 — free blockers, merge power‑ups, and hit scene goals under smart move planning."
-iframeSrc: "https://2f4eprapfvtoo.h5games.usercontent.goog/v/4bc5h26thvau8/"
+title: Sugar Heroes
+seoTitle: Play Sugar Heroes Online Free | FiddleBops
+description: >-
+  Sugar Heroes is a vibrant match‑3 — free blockers, merge power‑ups, and hit
+  scene goals under smart move planning.
+iframeSrc: 'https://2f4eprapfvtoo.h5games.usercontent.goog/v/4bc5h26thvau8/'
 thumbnail: /new-images/thumbnails/sugar-heroes.png
-urlstr: "sugar-heroes"
-score: "4.1/5  (1986 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: sugar-heroes
+tags:
+  - puzzle
+  - casual
+  - thinky
+score: 4.1/5  (1986 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Crazy Balls"
-description: "Crazy Balls is a physics arcade — bounce, bank, and blast through obstacle mazes with controlled shots."
-iframeSrc: "https://05hi0oufvrcro.h5games.usercontent.goog/v/0qeok5765gar8/"
+title: Crazy Balls
+seoTitle: Play Crazy Balls Online Free | FiddleBops
+description: >-
+  Crazy Balls is a physics arcade — bounce, bank, and blast through obstacle
+  mazes with controlled shots.
+iframeSrc: 'https://05hi0oufvrcro.h5games.usercontent.goog/v/0qeok5765gar8/'
 thumbnail: /new-images/thumbnails/crazy-balls.png
-urlstr: "crazy-balls"
-score: "3.8/5  (1617 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: crazy-balls
+tags:
+  - action
+  - casual
+score: 3.8/5  (1617 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

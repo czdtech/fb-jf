@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: sprunki-mustard
-title: Sprunki Mustard - Sprunki Mustard online spielen
+title: Sprunki Mustard
+seoTitle: Spiele Sprunki Mustard kostenlos online | FiddleBops
 description: >-
   Sprunki Mustard taucht die gesamte Sprunki-Welt in Senfgelb: Charaktere,
   Oberfläche und Stimmung kippen in eine leicht unheimliche Variante des
   bekannten Musikmods.
 iframeSrc: 'https://html-classic.itch.zone/html/14281578/index.html'
 thumbnail: /new-images/thumbnails/sprunki-mustard.png
+urlstr: sprunki-mustard
 tags:
   - sprunki mustard
 score: 3.9/5  (827 votes)

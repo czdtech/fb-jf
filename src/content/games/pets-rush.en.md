@@ -1,14 +1,22 @@
 ---
 locale: en
-title: "Pets Rush"
-description: "A fast-paced and colorful match-3 puzzle! Swap cute pets to make matches of three or more, create powerful combos, and clear the board before the pets reach the top."
-iframeSrc: "https://petsrush2.h5games.usercontent.goog/v/e566fdbf-c420-4ec6-af2a-7e9a6edab856/"
+title: Pets Rush
+seoTitle: Play Pets Rush Online Free | FiddleBops
+description: >-
+  A fast-paced and colorful match-3 puzzle! Swap cute pets to make matches of
+  three or more, create powerful combos, and clear the board before the pets
+  reach the top.
+iframeSrc: >-
+  https://petsrush2.h5games.usercontent.goog/v/e566fdbf-c420-4ec6-af2a-7e9a6edab856/
 thumbnail: /new-images/thumbnails/pets-rush.jpg
-urlstr: "pets-rush"
-score: "4.3/5  (2150 votes)"
-tags: ["puzzle", "casual", "action"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: pets-rush
+tags:
+  - puzzle
+  - casual
+  - action
+score: 4.3/5  (2150 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

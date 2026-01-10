@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Merge Fruit
+seoTitle: 無料でMerge Fruitをオンラインでプレイ | FiddleBops
 description: Merge Fruitはフルーツを育てていくマージパズルです。同じフルーツを合体させて大きくし、ボードが埋まらないように整理します。
 iframeSrc: 'https://3eltb7i874s60.h5games.usercontent.goog/v/28f34ighqoh10/'
 thumbnail: /new-images/thumbnails/merge-fruit.png
 urlstr: merge-fruit
-score: 4.1/5  (1957 votes)
 tags:
   - puzzle
   - casual
+score: 4.1/5  (1957 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

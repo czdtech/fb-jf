@@ -1,13 +1,15 @@
 ---
-title: "Sprunki Red Sun - Play Sprunki Red Sun Online"
-description: "Sprunki Red Sun Modは赤い配色と力強いビートで雰囲気を変えたModです。低音やパーカッションを重ねてトラックを作れます。"
-iframeSrc: "https://kdata1.com/2025/02/sprunki-x-redsun/"
-thumbnail: /new-images/thumbnails/sprunki-red-sun.png
-urlstr: "sprunki-red-sun"
-score: "4.4/5  (232 votes)"
-tags: ["sprunki red sun"]
 locale: ja
-releaseDate: 2025-12-04
+title: Sprunki Red Sun
+seoTitle: 無料でSprunki Red Sunをオンラインでプレイ | FiddleBops
+description: Sprunki Red Sun Modは赤い配色と力強いビートで雰囲気を変えたModです。低音やパーカッションを重ねてトラックを作れます。
+iframeSrc: 'https://kdata1.com/2025/02/sprunki-x-redsun/'
+thumbnail: /new-images/thumbnails/sprunki-red-sun.png
+urlstr: sprunki-red-sun
+tags:
+  - sprunki red sun
+score: 4.4/5  (232 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Red Sunとは何ですか？

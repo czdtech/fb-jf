@@ -1,20 +1,23 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
-import { FIDDLEBOPS_MOD_HREFLANG } from '../../../data/hreflang';
+import { getPagedListHreflang } from '../../../data/hreflang';
 import { toGameCardData } from '../../../lib/canonical-games';
+import { buildListSeoTitle } from '../../../lib/seo-title';
 export { getStaticPaths } from '../../fiddlebops-mod/[...page].astro';
 
 const { page } = Astro.props;
+const hreflangLinks = getPagedListHreflang('/fiddlebops-mod/', page.currentPage);
 const locale = 'ja';
-const title = 'Fiddlebops Mod - FiddleBops ゲームワールド';
+const baseTitle = 'Fiddlebops Mod';
+const title = buildListSeoTitle(locale, baseTitle, page.currentPage);
 const description =
   'Fiddlebops をテーマにしたさまざまな Mod やリミックス作品を集めたページです。オンラインで無料プレイできます。';
-const canonicalUrl = 'https://www.playfiddlebops.com/ja/fiddlebops-mod/';
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site).toString();
 const ogImage = 'https://www.playfiddlebops.com/tw.jpg';
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Game',
-  name: title,
+  name: baseTitle,
   alternateName: 'playfiddlebops.com',
   url: canonicalUrl,
   description
@@ -28,7 +31,7 @@ const jsonLd = {
   ogType="website"
   twitterCard="summary_large_image"
   jsonLd={jsonLd}
-  hreflangLinks={FIDDLEBOPS_MOD_HREFLANG}
+  hreflangLinks={hreflangLinks}
   lang="ja"
 >
   <section class="games">

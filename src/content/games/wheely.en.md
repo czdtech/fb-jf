@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Wheely"
-description: "Join Wheely, the adorable red car, on a charming point-and-click puzzle adventure! Solve clever environmental puzzles, interact with various mechanisms, and guide Wheely through challenging levels to reach his destination. A delightful brain-teaser for all ages."
-iframeSrc: "https://www.friv.com/z/games/wheely/index-x.html"
+title: Wheely
+seoTitle: Play Wheely Online Free | FiddleBops
+description: >-
+  Join Wheely, the adorable red car, on a charming point-and-click puzzle
+  adventure! Solve clever environmental puzzles, interact with various
+  mechanisms, and guide Wheely through challenging levels to reach his
+  destination. A delightful brain-teaser for all ages.
+iframeSrc: 'https://www.friv.com/z/games/wheely/index-x.html'
 thumbnail: /new-images/thumbnails/wheely.jpg
-urlstr: "wheely"
-score: "4.8/5  (695 votes)"
-tags: ["puzzle", "adventure", "point-and-click"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: wheely
+tags:
+  - puzzle
+  - adventure
+  - point-and-click
+score: 4.8/5  (695 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: jewel-magic
 title: Jewel Magic
+seoTitle: Spiele Jewel Magic kostenlos online | FiddleBops
 description: >-
   Entfessle die Magie der Edelsteine in Jewel Magic, einem klassischen
   Match-3-Puzzlespiel. Kombiniere funkelnde Juwelen, erschaffe starke Kombos und
   meistere herausfordernde Level.
 iframeSrc: 'https://jewelmagic.h5games.usercontent.goog/v/55vd8l21hn1q8/'
 thumbnail: /new-images/thumbnails/jewel-magic.png
+urlstr: jewel-magic
 tags:
   - puzzle
   - casual

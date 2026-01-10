@@ -1,0 +1,21 @@
+---
+import OptimizedImage from './OptimizedImage.astro';
+import AudioPlayer from './AudioPlayer.astro';
+
+interface Props {
+  title: string;
+  imageSrc: string;
+  audioSrc: string;
+}
+
+const { title, imageSrc, audioSrc } = Astro.props as Props;
+---
+
+<div class="game">
+  <div class="game-logo">
+    <OptimizedImage src={imageSrc} alt={title} loading="lazy" width={150} height={150} />
+  </div>
+  <p>{title}</p>
+  <AudioPlayer src={audioSrc} title={title} />
+</div>
+

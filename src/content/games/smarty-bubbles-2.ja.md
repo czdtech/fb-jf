@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Smarty Bubbles 2
+seoTitle: 無料でSmarty Bubbles 2をオンラインでプレイ | FiddleBops
 description: Smarty Bubbles 2はバブルシューターのパズルです。同じ色をそろえて消し、ボードをクリアします。
 iframeSrc: 'https://smartybubbles2.h5games.usercontent.goog/v/1u280qojm9oq0/'
 thumbnail: /new-images/thumbnails/smarty-bubbles-2.png
 urlstr: smarty-bubbles-2
-score: 4.4/5  (2600 votes)
 tags:
   - puzzle
   - casual
+score: 4.4/5  (2600 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

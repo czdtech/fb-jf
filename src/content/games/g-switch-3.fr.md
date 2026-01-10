@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: g-switch-3
 title: G-Switch 3
+seoTitle: Jouez à G-Switch 3 en ligne gratuitement | FiddleBops
 description: >-
   Runner gravitationnel ultra rapide avec nouveaux pièges en chaîne et
   multijoueur local renforcé pour tester ton timing et ta régularité.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221121/2/index.html
 thumbnail: /new-images/thumbnails/g-switch-3.jpg
+urlstr: g-switch-3
 tags:
   - runner
   - platformer

@@ -1,17 +1,17 @@
 ---
 locale: ko
-urlstr: geometry-dash
-title: "Geometry Dash Wave Spam 지오메트리 대시 웨이브 스팸"
+title: Geometry Dash Wave Spam 지오메트리 대시 웨이브 스팸
+seoTitle: Geometry Dash Wave Spam 지오메트리 대시 웨이브 스팸 무료 온라인 플레이 | FiddleBops
 description: >-
-  포탈과 패드를 모두 걷어낸 순수 웨이브 전용 Geometry Dash 커스텀 레벨입니다.
-  한 줄짜리 좁은 코리더에서 파동 궤적만으로 끝까지 버티며 웨이브 컨트롤
-  실력을 극한까지 끌어올려 보세요.
+  포탈과 패드를 모두 걷어낸 순수 웨이브 전용 Geometry Dash 커스텀 레벨입니다. 한 줄짜리 좁은 코리더에서 파동 궤적만으로 끝까지
+  버티며 웨이브 컨트롤 실력을 극한까지 끌어올려 보세요.
 iframeSrc: 'https://turbowarp.org/1185431027/embed'
 thumbnail: /new-images/thumbnails/geometry-dash.png
+urlstr: geometry-dash
 tags:
   - geometry dash
 score: 4.5/5  (604 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

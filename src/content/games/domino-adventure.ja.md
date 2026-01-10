@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Domino Adventure ドミノ・アドベンチャー
+seoTitle: 無料でDomino Adventure ドミノ・アドベンチャーをオンラインでプレイ | FiddleBops
 description: 「Domino Adventure」は世界を旅するドミノゲーム。戦略的に牌を並べて対戦相手を出し抜き、勝利を重ねてトロフィーロードを進もう。
 iframeSrc: 'https://28vlnkkhq8gjg.h5games.usercontent.goog/v/4mi9k9oin4dn8/'
 thumbnail: /new-images/thumbnails/domino-adventure.png
 urlstr: domino-adventure
-score: 4.3/5  (2144 votes)
 tags:
   - card
   - puzzle
   - thinky
+score: 4.3/5  (2144 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: bejeweled
-title: Bejeweled - Play Bejeweled Online
+title: Bejeweled
+seoTitle: Spiele Bejeweled kostenlos online | FiddleBops
 description: >-
   Bejeweled ist ein legendäres Match‑3‑Puzzlespiel. Vertausche Edelsteine, bilde
   Reihen, nutze Spezialsteine und jage Kettenreaktionen, um immer höhere
   Punktzahlen zu erzielen.
 iframeSrc: 'https://files.acticdn.com/278374/30464/index.html'
 thumbnail: /new-images/thumbnails/bejeweled.png
+urlstr: bejeweled
 tags:
   - bejeweled
 score: 4.8/5  (654 votes)

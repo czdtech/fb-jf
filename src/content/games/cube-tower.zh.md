@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: cube-tower
 title: Cube Tower 立方体塔防
+seoTitle: 免费在线玩 Cube Tower 立方体塔防 | FiddleBops
 description: >-
   在《Cube Tower 立方体塔防》中，你需要保护位于中央的“立方体之塔”，抵御一波又一波来袭
   的敌人。通过合理放置并升级不同类型的防御塔，才能在高压攻势下生存下来。
 iframeSrc: 'https://cubetower.h5games.usercontent.goog/v/6k8tnoea28210/'
 thumbnail: /new-images/thumbnails/cube-tower.png
+urlstr: cube-tower
 tags:
   - tower Defense
   - action

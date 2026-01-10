@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Word Search 2
+seoTitle: 無料でWord Search 2をオンラインでプレイ | FiddleBops
 description: Word Search 2は、単語検索ゲームの続編です。より多くの単語とレベルで楽しめます。
 iframeSrc: 'https://wordsearch.h5games.usercontent.goog/v/6abe3eefqt368/'
 thumbnail: /new-images/thumbnails/word-search-2.jpg
 urlstr: word-search-2
-score: 4.5/5  (2800 votes)
 tags:
   - puzzle
   - word
   - search
-locale: ja
+score: 4.5/5  (2800 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 

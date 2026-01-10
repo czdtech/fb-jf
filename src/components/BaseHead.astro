@@ -2,17 +2,21 @@
 /**
  * BaseHead Component
  * Contains all common head elements (charset, viewport, favicon, fonts)
- * Output format matches existing pages exactly
  * 
- * Uses relative paths for local assets (Requirements: 7.3)
+ * Performance optimizations:
+ * - Self-hosted fonts (no external requests)
+ * - Critical fonts preloaded for faster FCP
  */
 ---
 
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <link rel="icon" href="/favicon.ico" />
 <link rel="stylesheet" href="/main.css">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<!-- Self-hosted fonts (no external requests for Latin text) -->
+<link rel="stylesheet" href="/fonts.css">
+
+<!-- Preload critical font files for faster FCP -->
+<link rel="preload" href="/fonts/russo-one-400-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/chakra-petch-400-latin.woff2" as="font" type="font/woff2" crossorigin>

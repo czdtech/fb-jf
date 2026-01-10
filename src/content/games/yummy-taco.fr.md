@@ -1,12 +1,14 @@
 ---
 locale: fr
-urlstr: yummy-taco
 title: Yummy Taco
+seoTitle: Jouez à Yummy Taco en ligne gratuitement | FiddleBops
 description: >-
   Yummy Taco est un jeu de cuisine rapide : prends les commandes, assemble des
   tacos délicieux et sers vite pour gagner de l'argent.
-iframeSrc: 'https://g2.igroutka.ru/games/7/K6bHUF2pdiz30Aam/4399swf/upload_swf/ftp40/chenling/20220916/6/'
+iframeSrc: >-
+  https://g2.igroutka.ru/games/7/K6bHUF2pdiz30Aam/4399swf/upload_swf/ftp40/chenling/20220916/6/
 thumbnail: /new-images/thumbnails/yummy-taco.jpg
+urlstr: yummy-taco
 tags:
   - cooking
   - simulation

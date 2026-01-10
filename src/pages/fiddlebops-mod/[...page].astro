@@ -1,7 +1,8 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { FIDDLEBOPS_MOD_HREFLANG } from '../../data/hreflang';
+import { getPagedListHreflang } from '../../data/hreflang';
 import { getCanonicalGames, toGameCardData } from '../../lib/canonical-games';
+import { buildListSeoTitle } from '../../lib/seo-title';
 
 export async function getStaticPaths({ paginate }) {
   const canonicalGames = await getCanonicalGames();
@@ -14,16 +15,18 @@ export async function getStaticPaths({ paginate }) {
 
 // 所有分页数据都在 "page" 参数中传递
 const { page } = Astro.props;
+const hreflangLinks = getPagedListHreflang('/fiddlebops-mod/', page.currentPage);
 const locale = 'en';
-const title = 'Fiddlebops Mod - FiddleBops Game World';
+const baseTitle = 'Fiddlebops Mod';
+const title = buildListSeoTitle(locale, baseTitle, page.currentPage);
 const description =
   'Create your unique music with FiddleBops! This fan-made project, inspired by Incredibox, lets you mix and match various sounds to compose personalized tracks.';
-const canonicalUrl = 'https://www.playfiddlebops.com/fiddlebops-mod/';
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site).toString();
 const ogImage = 'https://www.playfiddlebops.com/tw.jpg';
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Game',
-  name: title,
+  name: baseTitle,
   alternateName: 'playfiddlebops.com',
   url: canonicalUrl,
   description
@@ -37,7 +40,7 @@ const jsonLd = {
   ogType="website"
   twitterCard="summary_large_image"
   jsonLd={jsonLd}
-  hreflangLinks={FIDDLEBOPS_MOD_HREFLANG}
+  hreflangLinks={hreflangLinks}
   lang="en"
 >
   <section class="games">

@@ -1,14 +1,11 @@
 ---
 locale: fr
-urlstr: spider-solitaire-card-games
 title: 'Spider Solitaire: Card Games'
-description: >-
-  Mets‑toi au défi avec Spider Solitaire, une variante populaire du solitaire :
-  vide le tableau en construisant huit suites complètes de cartes du Roi à
-  l’As. Avec plusieurs niveaux de difficulté (1, 2 ou 4 couleurs), c’est un
-  puzzle stratégique pour tous les profils de joueurs.
+seoTitle: 'Jouez à Spider Solitaire: Card Games en ligne gratuitement | FiddleBops'
+description: "Mets‑toi au défi avec Spider Solitaire, une variante populaire du solitaire\_: vide le tableau en construisant huit suites complètes de cartes du Roi à l’As. Avec plusieurs niveaux de difficulté (1, 2 ou 4 couleurs), c’est un puzzle stratégique pour tous les profils de joueurs."
 iframeSrc: 'https://ubg98.github.io/SpiderSolitaire/'
 thumbnail: /new-images/thumbnails/spider-solitaire-card-games.jpg
+urlstr: spider-solitaire-card-games
 tags:
   - card-game
   - puzzle

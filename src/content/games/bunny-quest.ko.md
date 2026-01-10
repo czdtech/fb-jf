@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: bunny-quest
 title: Bunny Quest 버니 퀘스트
+seoTitle: Bunny Quest 버니 퀘스트 무료 온라인 플레이 | FiddleBops
 description: >-
   Bunny Quest는 타일을 밀어 길을 만드는 경로 퍼즐 게임입니다. 타일을 슬라이드해 토끼가 출발점에서 목표 지점까지 끊기지 않는 길을
   만들고, 가능하다면 중간의 아이템도 챙겨 보세요.
 iframeSrc: 'https://630h8fcg3e938.h5games.usercontent.goog/v/51qfd4fr90dro/'
 thumbnail: /new-images/thumbnails/bunny-quest.png
+urlstr: bunny-quest
 tags:
   - puzzle
   - thinky

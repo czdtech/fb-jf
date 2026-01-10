@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Moving Co
+seoTitle: 無料でMoving Coをオンラインでプレイ | FiddleBops
 description: Moving Coは物流パズルゲームです。家具をパックし、トラックを整理し、効率的に移動し、スペース管理をマスターします。
 iframeSrc: 'https://movingco.h5games.usercontent.goog/v/3crgi5efdnml0/'
 thumbnail: /new-images/thumbnails/moving-co.png
 urlstr: moving-co
-score: 3.8/5  (1364 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 3.8/5  (1364 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

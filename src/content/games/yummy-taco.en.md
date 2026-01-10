@@ -1,6 +1,7 @@
 ---
 locale: en
 title: Yummy Taco
+seoTitle: Play Yummy Taco Online Free | FiddleBops
 description: >-
   Get ready to cook up some delicious tacos in Yummy Taco, a fun and fast-paced
   cooking simulation game! Take customer orders, select fresh ingredients, and
@@ -10,12 +11,12 @@ iframeSrc: >-
   https://g2.igroutka.ru/games/7/K6bHUF2pdiz30Aam/4399swf/upload_swf/ftp40/chenling/20220916/6/
 thumbnail: /new-images/thumbnails/yummy-taco.jpg
 urlstr: yummy-taco
-score: 4.1/5  (1206 votes)
 tags:
   - cooking
   - simulation
   - time-management
   - strategy
+score: 4.1/5  (1206 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---

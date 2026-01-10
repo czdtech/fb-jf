@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Tiny Fishing"
-description: "Tiny Fishing is a relaxing fishing game where players cast their line into the depths, catch various fish species, and upgrade their equipment to reach deeper waters and discover rare creatures."
-iframeSrc: "https://webglmath.github.io/tiny-fishing/"
+title: Tiny Fishing
+seoTitle: Play Tiny Fishing Online Free | FiddleBops
+description: >-
+  Tiny Fishing is a relaxing fishing game where players cast their line into the
+  depths, catch various fish species, and upgrade their equipment to reach
+  deeper waters and discover rare creatures.
+iframeSrc: 'https://webglmath.github.io/tiny-fishing/'
 thumbnail: /new-images/thumbnails/tiny-fishing.jpg
-urlstr: "tiny-fishing"
-score: "4.7/5  (322 votes)"
-tags: ["fishing", "casual", "upgrade"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: tiny-fishing
+tags:
+  - fishing
+  - casual
+  - upgrade
+score: 4.7/5  (322 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

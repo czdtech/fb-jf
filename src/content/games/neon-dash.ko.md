@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: neon-dash
 title: Neon Dash 네온 대시
+seoTitle: Neon Dash 네온 대시 무료 온라인 플레이 | FiddleBops
 description: 'Neon Dash는 가시와 발판, 리듬에 맞춰 움직이는 함정들을 피해 정확한 타이밍으로 점프해 돌파해야 하는 하이 스피드 런 게임입니다.'
 iframeSrc: 'https://1bveca4tkimog.h5games.usercontent.goog/v/4bq2naj6mtutg/'
 thumbnail: /new-images/thumbnails/neon-dash.png
+urlstr: neon-dash
 tags:
   - action
   - thinky

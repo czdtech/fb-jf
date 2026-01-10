@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: bombs-drops-physics-balls
 title: Bombs Drops Physics balls 폭탄 드롭 피직스 볼
+seoTitle: Bombs Drops Physics balls 폭탄 드롭 피직스 볼 무료 온라인 플레이 | FiddleBops
 description: >-
   Bombs Drops Physics balls는 중력과 타이밍, 간단한 폭파 기믹이 어우러진 물리 퍼즐 게임입니다. 공이나 폭탄을 떨어뜨려
   구조물을 무너뜨리고, 연쇄 반응을 일으켜 최소한의 드롭으로 목표를 달성해 보세요.
 iframeSrc: 'https://6nhcl6kaecsio.h5games.usercontent.goog/v/09ccnat7ptqs8/'
 thumbnail: /new-images/thumbnails/bombs-drops-physics-balls.jpg
+urlstr: bombs-drops-physics-balls
 tags:
   - puzzle
   - thinky

@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Brain Test 2: Tricky Stories"
-description: "Here's your chance to play Brain Test 2: Tricky Stories Game. Have fun with this one!"
-iframeSrc: "https://bitlifeonline.github.io/brain-test-2-tricky-stories/"
+title: 'Brain Test 2: Tricky Stories'
+seoTitle: 'Play Brain Test 2: Tricky Stories Online Free | FiddleBops'
+description: >-
+  Here's your chance to play Brain Test 2: Tricky Stories Game. Have fun with
+  this one!
+iframeSrc: 'https://bitlifeonline.github.io/brain-test-2-tricky-stories/'
 thumbnail: /new-images/thumbnails/2-tricky-stories.jpg
-urlstr: "2-tricky-stories"
-score: "4.0/5  (1166 votes)"
-tags: ["casual", "rhythm"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: 2-tricky-stories
+tags:
+  - casual
+  - rhythm
+score: 4.0/5  (1166 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

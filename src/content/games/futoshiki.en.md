@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Futoshiki"
-description: "Futoshiki sharpens logic — place digits with row/column uniqueness while honoring inequality signs for elegant deductions."
-iframeSrc: "https://6g7i64vihegl0.h5games.usercontent.goog/v/7bd886r75d4ag/"
+title: Futoshiki
+seoTitle: Play Futoshiki Online Free | FiddleBops
+description: >-
+  Futoshiki sharpens logic — place digits with row/column uniqueness while
+  honoring inequality signs for elegant deductions.
+iframeSrc: 'https://6g7i64vihegl0.h5games.usercontent.goog/v/7bd886r75d4ag/'
 thumbnail: /new-images/thumbnails/futoshiki.jpg
-urlstr: "futoshiki"
-score: "4.3/5  (2098 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: futoshiki
+tags:
+  - puzzle
+  - thinky
+score: 4.3/5  (2098 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

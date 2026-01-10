@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: basketball-serial-shooter
 title: Basketball serial shooter 농구 시리얼 슈터
+seoTitle: Basketball serial shooter 농구 시리얼 슈터 무료 온라인 플레이 | FiddleBops
 description: >-
   연속 슛으로 점수를 겨루는 농구 스코어 어택 게임입니다. 포물선을 안정적으로 잡고 리듬을 유지해, 움직이는 골대와 바람 속에서도 연속
   스윗스팟을 노려 보세요.
 iframeSrc: 'https://41d3mmm660u50.h5games.usercontent.goog/v/1t2n5uvjnbv1o/'
 thumbnail: /new-images/thumbnails/basketball-serial-shooter.jpg
+urlstr: basketball-serial-shooter
 tags:
   - sports
   - basketball

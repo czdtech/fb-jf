@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: letter-links
 title: 《Letter Links》每日连词挑战
+seoTitle: 免费在线玩 《Letter Links》每日连词挑战 | FiddleBops
 description: 《Letter Links》是一款策略性英文造词游戏，你需要把字母牌放在棋盘上，拼出高得分单词、吃满加成格，并让所有字母牌连成一个整体。
 iframeSrc: 'https://7u583tvdi3f00.h5games.usercontent.goog/v/424maigpuljoo/'
 thumbnail: /new-images/thumbnails/letter-links.png
+urlstr: letter-links
 tags:
   - puzzle
   - thinky

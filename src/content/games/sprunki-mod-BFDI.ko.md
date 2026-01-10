@@ -1,17 +1,18 @@
 ---
 locale: ko
-urlstr: sprunki-mod-BFDI
 title: Sprunki Mod BFDI 스프룽키 모드 BFDI
+seoTitle: Sprunki Mod BFDI 스프룽키 모드 BFDI 무료 온라인 플레이 | FiddleBops
 description: >-
   Sprunki Mod BFDI는 Incredibox 스타일 Sprunki에 애니메이션 "Battle for Dream
   Island(BFDI)"의 오브젝트 캐릭터 감성을 더한 모드입니다. BFDI풍 오브젝트 캐릭터로 사운드를 쌓아, 독특한 느낌의 믹스를 만들
   수 있습니다.
 iframeSrc: 'https://turbowarp.org/1087434086/embed'
 thumbnail: /new-images/thumbnails/sprunki-mod-BFDI.png
+urlstr: sprunki-mod-BFDI
 tags:
   - sprunki mod bfdi
 score: 4.2/5  (347 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

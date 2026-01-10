@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: incredibox-rave
 title: Incredibox Rave 레이브 클럽 모드
+seoTitle: Incredibox Rave 레이브 클럽 모드 무료 온라인 플레이 | FiddleBops
 description: >-
   네온 조명과 클럽 분위기를 담은 팬메이드 모드 'Incredibox Rave' 가이드입니다. 테크노·하우스·디스코 계열 전자음으로 레이브
   트랙을 만드는 방법과 보너스 해금 팁을 다룹니다.
 iframeSrc: 'https://turbowarp.org/980794126/embed'
 thumbnail: /new-images/thumbnails/incredibox-rave.png
+urlstr: incredibox-rave
 tags:
   - music
   - rave

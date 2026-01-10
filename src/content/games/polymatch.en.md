@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "PolyMatch"
-description: "Dive into the colorful world of PolyMatch! A unique puzzle game where you rotate and place polyomino pieces to complete intricate patterns."
-iframeSrc: "https://4h72h3ha1dnh0.h5games.usercontent.goog/v/4mrusdmqik1l8/"
-urlstr: "polymatch"
+title: PolyMatch
+seoTitle: Play PolyMatch Online Free | FiddleBops
+description: >-
+  Dive into the colorful world of PolyMatch! A unique puzzle game where you
+  rotate and place polyomino pieces to complete intricate patterns.
+iframeSrc: 'https://4h72h3ha1dnh0.h5games.usercontent.goog/v/4mrusdmqik1l8/'
 thumbnail: /new-images/thumbnails/polymatch.png
-score: "4.2/5  (1999 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: polymatch
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.2/5  (1999 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

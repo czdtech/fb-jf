@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: basketball-legends
 title: Basketball Legends
+seoTitle: Spiele Basketball Legends kostenlos online | FiddleBops
 description: >-
   Basketball Legends ist ein rasantes Arcade‑Basketballspiel im Comic‑Stil.
   Spiele 1‑gegen‑1 oder 2‑gegen‑2, setze Dunks, Blocks und Superschüsse ein und
   dominiere das Feld allein oder im 2‑Spieler‑Modus.
 iframeSrc: 'https://webglmath.github.io/basketball-legends/'
 thumbnail: /new-images/thumbnails/basketball-legends.jpg
+urlstr: basketball-legends
 tags:
   - 2-Player
   - sports

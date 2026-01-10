@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Stack Bounce
+seoTitle: 無料でStack Bounceをオンラインでプレイ | FiddleBops
 description: >-
   Stack
   Bounceでタイミングと反射神経をテストしましょう。長押ししてカラフルなプラットフォームを粉砕しますが、黒い障害物に当たる前に離してボールを跳ね続けさせましょう。
 iframeSrc: 'https://stackbounce.h5games.usercontent.goog/v/1aqsvv0aegbjg/'
 thumbnail: /new-images/thumbnails/stack-bounce.jpeg
 urlstr: stack-bounce
-score: 4.4/5  (2451 votes)
 tags:
   - arcade
   - casual
   - skill
-locale: ja
+score: 4.4/5  (2451 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 

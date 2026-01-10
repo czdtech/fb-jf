@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: war-of-sticks
-title: 'War of Sticks：火柴人帝国战争'
+title: War of Sticks：火柴人帝国战争
+seoTitle: 免费在线玩 War of Sticks：火柴人帝国战争 | FiddleBops
 description: >-
   在《War of Sticks》中指挥你的火柴人军团，对抗残暴的红色帝国！派工人采金、
   训练持盾兵、弓箭手、野蛮人与法师，建造防御塔并精心布阵，用智慧与兵力夺回失落的王国。
 iframeSrc: 'https://g.igroutka.ru/games/164/lt2ARJHFBxPb4spD/4/war_of_sticks/'
 thumbnail: /new-images/thumbnails/war-of-sticks.jpg
+urlstr: war-of-sticks
 tags:
   - strategy
   - rTS

@@ -1,7 +1,7 @@
 ---
 locale: fr
-urlstr: highway-traffic
 title: Highway Traffic
+seoTitle: Jouez à Highway Traffic en ligne gratuitement | FiddleBops
 description: >-
   Highway Traffic est un lane‑splitter arcade en vue interne ou poursuite :
   faufile‑toi dans la circulation, évite les collisions et gagne de l’argent
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://app-97317.games.s3.yandex.net/97317/zr27uqx4qauq31fg2ud41a7oye9c4dki/index.html
 thumbnail: /new-images/thumbnails/highway-traffic.jpg
+urlstr: highway-traffic
 tags:
   - driving
   - traffic

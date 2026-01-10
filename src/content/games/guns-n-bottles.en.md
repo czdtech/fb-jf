@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Guns n' Bottles"
-description: "Test your timing and precision in this addictive shooting gallery game. Tap at the perfect moment to shoot the bottles as your gun rotates, but avoid the red ones!"
-iframeSrc: "https://aktestgunsandbottles.h5games.usercontent.goog/v/51pcsm84fc4ag/"
+title: Guns n' Bottles
+seoTitle: Play Guns n' Bottles Online Free | FiddleBops
+description: >-
+  Test your timing and precision in this addictive shooting gallery game. Tap at
+  the perfect moment to shoot the bottles as your gun rotates, but avoid the red
+  ones!
+iframeSrc: 'https://aktestgunsandbottles.h5games.usercontent.goog/v/51pcsm84fc4ag/'
 thumbnail: /new-images/thumbnails/guns-n-bottles.png
-urlstr: "guns-n-bottles"
-score: "4.1/5  (1800 votes)"
-tags: ["shooting", "action", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: guns-n-bottles
+tags:
+  - shooting
+  - action
+  - casual
+score: 4.1/5  (1800 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

@@ -1,14 +1,19 @@
 ---
-title: "99 Nights in the Forest 森の99夜"
-description: "インディーホラー「99 Nights in the Forest」の概要を紹介。呪われた森で99日間生き延びるためのサバイバル術、リソース管理、そして恐怖の夜を乗り切る戦略を学びましょう。"
-iframeSrc: "https://st.8games.net/7/8g/igra-99-nochej-v-lesu-101-original/"
-thumbnail: /new-images/thumbnails/99-nights-in-the-forest.webp
-urlstr: "99-nights-in-the-forest"
-score: "4.7/5  (2765 votes)"
-tags: ["horror", "survival"]
-developer: ""
-releaseDate: 2025-08-16
 locale: ja
+title: 99 Nights in the Forest 森の99夜
+seoTitle: 無料で99 Nights in the Forest 森の99夜をオンラインでプレイ | FiddleBops
+description: >-
+  インディーホラー「99 Nights in the
+  Forest」の概要を紹介。呪われた森で99日間生き延びるためのサバイバル術、リソース管理、そして恐怖の夜を乗り切る戦略を学びましょう。
+iframeSrc: 'https://st.8games.net/7/8g/igra-99-nochej-v-lesu-101-original/'
+thumbnail: /new-images/thumbnails/99-nights-in-the-forest.webp
+urlstr: 99-nights-in-the-forest
+tags:
+  - horror
+  - survival
+score: 4.7/5  (2765 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

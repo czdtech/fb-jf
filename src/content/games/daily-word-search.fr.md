@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: daily-word-search
 title: Daily Word Search
+seoTitle: Jouez à Daily Word Search en ligne gratuitement | FiddleBops
 description: "Daily Word Search te propose une nouvelle grille de mots mêlés chaque jour\_: retrouve les mots cachés horizontalement, verticalement et en diagonale."
 iframeSrc: 'https://1i20ele8n07u0.h5games.usercontent.goog/v/1n8osodo9gs80/'
 thumbnail: /new-images/thumbnails/daily-word-search.png
+urlstr: daily-word-search
 tags:
   - word
   - puzzle

@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: zombie-ragdoll
 title: Zombie Ragdoll
+seoTitle: Jouez à Zombie Ragdoll en ligne gratuitement | FiddleBops
 description: >-
   Zombie Ragdoll mélange physique et zombies : projette des morts-vivants sur
   des pièges pour les éliminer avec style.
 iframeSrc: 'https://04qb5fhi49qmg.h5games.usercontent.goog/v/64br0v92f7928/'
 thumbnail: /new-images/thumbnails/zombie-ragdoll.jpg
+urlstr: zombie-ragdoll
 tags:
   - shooting
   - puzzle

@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Tile Puzzle"
-description: "A relaxing and strategic puzzle game. Find and select three identical tiles to clear them from the board. Plan your moves carefully to avoid filling up your collection tray."
-iframeSrc: "https://5u9qhnk84v07g.h5games.usercontent.goog/v/2h3elehja73a8/"
+title: Tile Puzzle
+seoTitle: Play Tile Puzzle Online Free | FiddleBops
+description: >-
+  A relaxing and strategic puzzle game. Find and select three identical tiles to
+  clear them from the board. Plan your moves carefully to avoid filling up your
+  collection tray.
+iframeSrc: 'https://5u9qhnk84v07g.h5games.usercontent.goog/v/2h3elehja73a8/'
 thumbnail: /new-images/thumbnails/tile-puzzle.jpg
-urlstr: "tile-puzzle"
-score: "4.4/5  (2300 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: tile-puzzle
+tags:
+  - puzzle
+  - casual
+  - thinky
+score: 4.4/5  (2300 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

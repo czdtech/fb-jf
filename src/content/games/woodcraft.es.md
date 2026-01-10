@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: woodcraft
-title: "Woodcraft - Taller de madera relajante"
+title: Woodcraft
+seoTitle: Juega a Woodcraft en línea gratis | FiddleBops
 description: >-
   Domina el arte de la carpintería en este juego casual relajante. Crea piezas
-  de madera al ritmo adecuado, completa pedidos y desbloquea nuevas
-  herramientas y patrones en una experiencia de crafteo muy satisfactoria.
-iframeSrc: "https://g2.igroutka.ru/games/164/i06q7hMeRCsWOPKy/woodcraft/"
+  de madera al ritmo adecuado, completa pedidos y desbloquea nuevas herramientas
+  y patrones en una experiencia de crafteo muy satisfactoria.
+iframeSrc: 'https://g2.igroutka.ru/games/164/i06q7hMeRCsWOPKy/woodcraft/'
 thumbnail: /new-images/thumbnails/woodcraft.jpg
+urlstr: woodcraft
 tags:
   - casual
   - rhythm

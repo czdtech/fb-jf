@@ -1,16 +1,12 @@
 ---
 locale: fr
-urlstr: snow-rider-3d
-title: 'Snow Rider 3D'
-description: >-
-  Monte sur ta luge dans Snow Rider 3D, un jeu d’action hivernal rythmé :
-  dévale les pentes enneigées, évite les obstacles comme les arbres et les
-  bonshommes de neige et utilise les tremplins pour réaliser des sauts.
-  Récupère des cadeaux pour débloquer de nouvelles luges et mets tes réflexes
-  à l’épreuve pour battre tes records.
+title: Snow Rider 3D
+seoTitle: Jouez à Snow Rider 3D en ligne gratuitement | FiddleBops
+description: "Monte sur ta luge dans Snow Rider 3D, un jeu d’action hivernal rythmé\_: dévale les pentes enneigées, évite les obstacles comme les arbres et les bonshommes de neige et utilise les tremplins pour réaliser des sauts. Récupère des cadeaux pour débloquer de nouvelles luges et mets tes réflexes à l’épreuve pour battre tes records."
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231130/2/index.html
 thumbnail: /new-images/thumbnails/snow-rider-3d.jpg
+urlstr: snow-rider-3d
 tags:
   - action
   - 3d

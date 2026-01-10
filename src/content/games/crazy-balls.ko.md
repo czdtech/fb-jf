@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: crazy-balls
 title: Crazy Balls 크레이지 볼즈
+seoTitle: Crazy Balls 크레이지 볼즈 무료 온라인 플레이 | FiddleBops
 description: >-
   물리 엔진으로 움직이는 공을 쏘아 장애물 미로를 돌파하는 아케이드 게임 Crazy Balls입니다. 각도를 재고 힘을 조절해 튕기기와 벽
   맞추기를 활용해 보세요.
 iframeSrc: 'https://05hi0oufvrcro.h5games.usercontent.goog/v/0qeok5765gar8/'
 thumbnail: /new-images/thumbnails/crazy-balls.png
+urlstr: crazy-balls
 tags:
   - action
   - casual

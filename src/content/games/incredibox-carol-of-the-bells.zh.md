@@ -1,10 +1,13 @@
 ---
 locale: zh
-urlstr: incredibox-carol-of-the-bells
-title: "Incredibox Carol of the Bells - 在线玩 Incredibox Carol of the Bells"
-description: "探索节日主题的 Incredibox Andlbox Carol of the Bells 粉丝 Mod。本指南详细介绍了其圣诞主题、重混经典颂歌的玩法，以及如何解锁其独特的节日主题奖励。"
+title: Incredibox Carol of the Bells
+seoTitle: 免费在线玩 Incredibox Carol of the Bells | FiddleBops
+description: >-
+  探索节日主题的 Incredibox Andlbox Carol of the Bells 粉丝
+  Mod。本指南详细介绍了其圣诞主题、重混经典颂歌的玩法，以及如何解锁其独特的节日主题奖励。
 iframeSrc: 'https://turbowarp.org/931427102/embed'
 thumbnail: /new-images/thumbnails/incredibox-carol-of-the-bells.png
+urlstr: incredibox-carol-of-the-bells
 tags:
   - music
   - christmas

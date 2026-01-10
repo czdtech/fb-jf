@@ -1,12 +1,11 @@
 ---
 locale: zh
-urlstr: football-stars
-title: "Football Stars 街机足球明星"
-description: >-
-  Football Stars 把足球浓缩成短暂、爽快的街机对战——靠聪明传球、掌握射门时机与走位，
-  在简短比赛中晃过防守、取得进球。
+title: Football Stars 街机足球明星
+seoTitle: 免费在线玩 Football Stars 街机足球明星 | FiddleBops
+description: Football Stars 把足球浓缩成短暂、爽快的街机对战——靠聪明传球、掌握射门时机与走位， 在简短比赛中晃过防守、取得进球。
 iframeSrc: 'https://0bqhpbln445co.h5games.usercontent.goog/v/2to6kd3co500g/'
 thumbnail: /new-images/thumbnails/football-stars.png
+urlstr: football-stars
 tags:
   - sports
   - soccer

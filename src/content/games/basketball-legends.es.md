@@ -1,13 +1,16 @@
 ---
 locale: es
-urlstr: basketball-legends
 title: Basketball Legends arcade de estrellas del basket
+seoTitle: >-
+  Juega a Basketball Legends arcade de estrellas del basket en línea gratis |
+  FiddleBops
 description: >-
   Basketball Legends es un juego de baloncesto arcade rápido con versiones
   caricaturizadas de grandes estrellas. Aprende controles, estrategias de ataque
   y defensa, uso del supertiro y claves para 1 jugador y 2 jugadores.
 iframeSrc: 'https://webglmath.github.io/basketball-legends/'
 thumbnail: /new-images/thumbnails/basketball-legends.jpg
+urlstr: basketball-legends
 tags:
   - 2-Player
   - sports

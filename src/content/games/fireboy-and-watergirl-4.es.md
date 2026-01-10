@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: fireboy-and-watergirl-4
-title: "Fireboy And Watergirl 4"
+title: Fireboy And Watergirl 4
+seoTitle: Juega a Fireboy And Watergirl 4 en línea gratis | FiddleBops
 description: >-
   Guía definitiva de Fireboy and Watergirl 4: The Crystal Temple. Aprende a
   dominar los portales de cristal con estrategias cooperativas, consejos de
@@ -9,6 +9,7 @@ description: >-
   plataformas de 2 jugadores.
 iframeSrc: 'https://slope-game.github.io/fireboy-water-4/'
 thumbnail: /new-images/thumbnails/fireboy-and-watergirl-4.jpg
+urlstr: fireboy-and-watergirl-4
 tags:
   - casual
   - rhythm

@@ -1,7 +1,7 @@
 ---
 locale: ko
-urlstr: text-twist-2
 title: Text Twist 2 텍스트 트위스트 2
+seoTitle: Text Twist 2 텍스트 트위스트 2 무료 온라인 플레이 | FiddleBops
 description: >-
   Text Twist 2는 인기 단어 퍼즐 게임의 후속작으로, Untimed·Crossword 등 새로운 모드와 확장된 사전, 향상된 그래픽을
   제공하는 작품입니다. 뒤섞인 알파벳을 풀어 최대한 많은 단어를 찾고, 모든 글자를 사용하는 '빙고 단어'를 맞혀 다음 라운드로 나아가
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/t/text-twist-2/v110/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=40935b5f-cfef-4ac2-9179-549869282f4b&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=693&original_ref=
 thumbnail: /new-images/thumbnails/text-twist-2.jpg
+urlstr: text-twist-2
 tags:
   - word-game
   - puzzle

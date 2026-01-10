@@ -1,14 +1,18 @@
 ---
-title: "Lucky Vegas Blackjack"
-description: "Lucky Vegas Blackjackはテンポよく遊べるブラックジャックです。基本戦略と資金管理を意識し、損失を追いかけずに楽しみましょう。"
-iframeSrc: "https://35ntqr0siokq8.h5games.usercontent.goog/v/1hhotshtjugn8/"
-thumbnail: /new-images/thumbnails/lucky-vegas-blackjack.png
-urlstr: "lucky-vegas-blackjack"
-score: "3.7/5  (1604 votes)"
-tags: ["card", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
 locale: ja
+title: Lucky Vegas Blackjack
+seoTitle: 無料でLucky Vegas Blackjackをオンラインでプレイ | FiddleBops
+description: Lucky Vegas Blackjackはテンポよく遊べるブラックジャックです。基本戦略と資金管理を意識し、損失を追いかけずに楽しみましょう。
+iframeSrc: 'https://35ntqr0siokq8.h5games.usercontent.goog/v/1hhotshtjugn8/'
+thumbnail: /new-images/thumbnails/lucky-vegas-blackjack.png
+urlstr: lucky-vegas-blackjack
+tags:
+  - card
+  - casual
+  - thinky
+score: 3.7/5  (1604 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

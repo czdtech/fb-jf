@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: cat-sort-quest
 title: Cat Sort Quest
+seoTitle: Spiele Cat Sort Quest kostenlos online | FiddleBops
 description: >-
   Cat Sort Quest ist ein gemütliches Farbsortier-Puzzle – verschiebe Katzen
   zwischen Sitzstangen, sammle gleiche Farben und jongliere mit wenigen freien
   Plätzen.
 iframeSrc: 'https://4ajc8tu89od7g.h5games.usercontent.goog/v/49be5kf9v96j0/'
 thumbnail: /new-images/thumbnails/cat-sort-quest.png
+urlstr: cat-sort-quest
 tags:
   - puzzle
   - thinky

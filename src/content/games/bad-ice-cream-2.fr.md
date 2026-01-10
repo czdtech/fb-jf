@@ -1,7 +1,7 @@
 ---
 locale: fr
-urlstr: bad-ice-cream-2
 title: Bad Ice Cream 2
+seoTitle: Jouez à Bad Ice Cream 2 en ligne gratuitement | FiddleBops
 description: >-
   Bad Ice‑Cream 2 est un jeu d’arcade/puzzle givré : crée et casse des murs de
   glace pour collecter tous les fruits du labyrinthe tout en évitant les
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x6/index.html
 thumbnail: /new-images/thumbnails/bad-ice-cream-2.jpg
+urlstr: bad-ice-cream-2
 tags:
   - puzzle
   - action

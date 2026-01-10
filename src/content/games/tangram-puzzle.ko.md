@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: tangram-puzzle
 title: Tangram Puzzle 탱그램 퍼즐
+seoTitle: Tangram Puzzle 탱그램 퍼즐 무료 온라인 플레이 | FiddleBops
 description: >-
   Tangram Puzzle은 일곱 개의 기하학 조각을 회전시켜 실루엣을 정확히 채우는 고전 칠교 퍼즐 게임입니다. 겹치거나 빈틈 없이 배치해
   공간 감각을 시험해 보세요.
 iframeSrc: 'https://38lbr23ak5hn8.h5games.usercontent.goog/v/3v2lg4sb2v3ug/'
 thumbnail: /new-images/thumbnails/tangram-puzzle.jpg
+urlstr: tangram-puzzle
 tags:
   - puzzle
   - thinky

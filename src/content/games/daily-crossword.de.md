@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: daily-crossword
 title: Daily Crossword
+seoTitle: Spiele Daily Crossword kostenlos online | FiddleBops
 description: >-
   Daily Crossword liefert dir jeden Tag ein neues Kreuzworträtsel – löse
   horizontale und vertikale Hinweise und fülle das Gitter.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword/'
 thumbnail: /new-images/thumbnails/daily-crossword.jpg
+urlstr: daily-crossword
 tags:
   - word
   - puzzle

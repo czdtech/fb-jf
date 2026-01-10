@@ -1,14 +1,18 @@
 ---
-title: "Candy Riddles"
-description: "Candy Riddlesは陽気なマッチ3ゲームです。お菓子を交換し、コンボをトリガーし、賢いカスケードでステージ目標を解決しましょう。"
-iframeSrc: "https://7vciensnt6ei8.h5games.usercontent.goog/v/0lsk1qj66dbno/"
-thumbnail: /new-images/thumbnails/candy-riddles.png
-urlstr: "candy-riddles"
-score: "4.2/5  (2018 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
 locale: ja
+title: Candy Riddles
+seoTitle: 無料でCandy Riddlesをオンラインでプレイ | FiddleBops
+description: Candy Riddlesは陽気なマッチ3ゲームです。お菓子を交換し、コンボをトリガーし、賢いカスケードでステージ目標を解決しましょう。
+iframeSrc: 'https://7vciensnt6ei8.h5games.usercontent.goog/v/0lsk1qj66dbno/'
+thumbnail: /new-images/thumbnails/candy-riddles.png
+urlstr: candy-riddles
+tags:
+  - puzzle
+  - casual
+  - thinky
+score: 4.2/5  (2018 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

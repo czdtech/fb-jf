@@ -1,5 +1,7 @@
 ---
+locale: ja
 title: Crescent Solitaire クレセント・ソリティア
+seoTitle: 無料でCrescent Solitaire クレセント・ソリティアをオンラインでプレイ | FiddleBops
 description: >-
   「Crescent
   Solitaire」はちょっと変わったソリティア。三日月状に並んだカードを、8つの組札に昇順・降順で並べ替えよう。リシャッフルが鍵を握る思考系カードゲーム。
@@ -7,13 +9,12 @@ iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/crescent-solitaire-phaser/
 thumbnail: /new-images/thumbnails/crescent-solitaire.jpg
 urlstr: crescent-solitaire
-score: 4.4/5  (944 votes)
 tags:
   - solitaire
   - card
+score: 4.4/5  (944 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

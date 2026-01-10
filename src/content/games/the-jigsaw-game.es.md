@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: the-jigsaw-game
-title: The Jigsaw Game - Puzle de piezas clásicas
+title: The Jigsaw Game
+seoTitle: Juega a The Jigsaw Game en línea gratis | FiddleBops
 description: >-
   The Jigsaw Game ofrece una experiencia relajante de puzle de imágenes: coloca
   primero los bordes, agrupa colores y texturas y completa ilustraciones pieza a
   pieza.
 iframeSrc: 'https://2avtkm5bj06f0.h5games.usercontent.goog/v/66fijarm4ldv0/'
 thumbnail: /new-images/thumbnails/the-jigsaw-game.png
+urlstr: the-jigsaw-game
 tags:
   - puzzle
   - thinky

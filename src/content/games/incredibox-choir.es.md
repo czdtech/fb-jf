@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: incredibox-choir
-title: "Incredibox Choir"
+title: Incredibox Choir
+seoTitle: Juega a Incredibox Choir en línea gratis | FiddleBops
 description: >-
   Explora el mundo armonioso de Incredibox Choir, un mod fan-made centrado en
   arreglos vocales y música coral de gran potencia.
 iframeSrc: 'https://turbowarp.org/1034584392/embed'
 thumbnail: /new-images/thumbnails/incredibox-choir.png
+urlstr: incredibox-choir
 tags:
   - music
   - vocal

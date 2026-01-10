@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: tic-tac-toe-mania
 title: Tic Tac Toe Mania
+seoTitle: Spiele Tic Tac Toe Mania kostenlos online | FiddleBops
 description: >-
   Tic Tac Toe Mania bringt das Klassiker‑Duell auf Tempo: setze Gabeln, blocke
   Drohungen und erzwinge Remis oder Sieg – je nach Variante auch auf größeren
   Brettern.
 iframeSrc: 'https://7dcsid310v1u8.h5games.usercontent.goog/v/13cfdat69ufug/'
 thumbnail: /new-images/thumbnails/tic-tac-toe-mania.png
+urlstr: tic-tac-toe-mania
 tags:
   - 2 player
   - thinky

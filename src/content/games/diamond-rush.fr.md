@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: diamond-rush
 title: Diamond Rush
+seoTitle: Jouez à Diamond Rush en ligne gratuitement | FiddleBops
 description: "Diamond Rush est un match‑3 dynamique\_: aligne des gemmes, déclenche des combos et termine les objectifs avant la fin du temps ou des coups."
 iframeSrc: 'https://diamondrush.h5games.usercontent.goog/v/63ok750qri670/'
 thumbnail: /new-images/thumbnails/diamond-rush.png
+urlstr: diamond-rush
 tags:
   - puzzle
   - casual

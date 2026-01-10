@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: daily-sudoku
 title: Daily Sudoku
+seoTitle: Jouez à Daily Sudoku en ligne gratuitement | FiddleBops
 description: "Daily Sudoku t’offre une nouvelle grille de sudoku chaque jour\_: remplis les cases de 1 à 9 sans répéter de chiffre par ligne, colonne et carré."
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-daily-sudoku/'
 thumbnail: /new-images/thumbnails/daily-sudoku.jpg
+urlstr: daily-sudoku
 tags:
   - puzzle
   - thinky

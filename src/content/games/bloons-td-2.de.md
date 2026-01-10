@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: bloons-td-2
 title: Bloons TD 2
+seoTitle: Spiele Bloons TD 2 kostenlos online | FiddleBops
 description: >-
   Erlebe den Klassiker Bloons TD 2. Platziere und verbessere fünf verschiedene
   Affentürme, halte 50 Wellen von Bloons auf und lerne, wie du immunen schwarzen
   und weißen Bloons strategisch begegnest.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-2.html'
 thumbnail: /new-images/thumbnails/bloons-td-2.jpg
+urlstr: bloons-td-2
 tags:
   - casual
   - strategy

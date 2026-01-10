@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: color-burst-3d
 title: Color Burst 3D
+seoTitle: Jouez à Color Burst 3D en ligne gratuitement | FiddleBops
 description: "Color Burst 3D est un runner d’adresse coloré\_: guide ta balle à travers des anneaux rotatifs en ne touchant que les segments de la même couleur."
 iframeSrc: 'https://colorburst3d.h5games.usercontent.goog/v/3l27vlnq6dvto/'
 thumbnail: /new-images/thumbnails/color-burst-3d.jpeg
+urlstr: color-burst-3d
 tags:
   - action
   - casual

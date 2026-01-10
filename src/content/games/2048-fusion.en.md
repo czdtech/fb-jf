@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "2048 Fusion"
-description: "A modern take on the classic 2048 puzzle. Slide and combine numbered tiles to create the 2048 tile and beyond. Plan your moves to avoid filling the board!"
-iframeSrc: "https://7t79nelq6lu50.h5games.usercontent.goog/v/7jm0opa5dtf00/"
+title: 2048 Fusion
+seoTitle: Play 2048 Fusion Online Free | FiddleBops
+description: >-
+  A modern take on the classic 2048 puzzle. Slide and combine numbered tiles to
+  create the 2048 tile and beyond. Plan your moves to avoid filling the board!
+iframeSrc: 'https://7t79nelq6lu50.h5games.usercontent.goog/v/7jm0opa5dtf00/'
 thumbnail: /new-images/thumbnails/2048-fusion.png
-urlstr: "2048-fusion"
-score: "4.3/5  (2000 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: 2048-fusion
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.3/5  (2000 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

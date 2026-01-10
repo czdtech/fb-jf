@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: supernova
-title: 'Supernova'
+title: Supernova
+seoTitle: Juega a Supernova en línea gratis | FiddleBops
 description: >-
-  Supernova es un juego de disparos espacial arcade: pilota tu nave por un campo de
-  asteroides, destruye rocas y amenazas y sobrevive el máximo tiempo posible
+  Supernova es un juego de disparos espacial arcade: pilota tu nave por un campo
+  de asteroides, destruye rocas y amenazas y sobrevive el máximo tiempo posible
   para batir récords.
 iframeSrc: 'https://rebemanae.github.io/supernova/'
 thumbnail: /new-images/thumbnails/supernova.jpg
+urlstr: supernova
 tags:
   - action
   - shooting

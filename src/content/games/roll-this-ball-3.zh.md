@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: roll-this-ball-3
 title: 《Roll This Ball》滑块引路拼图
+seoTitle: 免费在线玩 《Roll This Ball》滑块引路拼图 | FiddleBops
 description: 《Roll This Ball》是一款经典滑块解谜游戏，通过移动木制方块为小球拼出一条从起点通往终点的完整轨道，考验你的逻辑与规划能力。
 iframeSrc: 'https://rollthisball3.h5games.usercontent.goog/v/65vs8rm7dfjno/'
 thumbnail: /new-images/thumbnails/roll-this-ball-3.png
+urlstr: roll-this-ball-3
 tags:
   - puzzle
   - thinky

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: zoo-boom
 title: Zoo Boom
+seoTitle: Spiele Zoo Boom kostenlos online | FiddleBops
 description: >-
   Willkommen in Zoo Boom – einem kunterbunten Match‑2‑Puzzle: Tippe Gruppen
   süßer Zootiere weg, zünde Booster und erfülle Levelziele mit spektakulären
   Kettenreaktionen.
 iframeSrc: 'https://zooboom.h5games.usercontent.goog/v/4g2tps61g9djg/'
 thumbnail: /new-images/thumbnails/zoo-boom.png
+urlstr: zoo-boom
 tags:
   - puzzle
   - casual

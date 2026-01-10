@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Secret Agent
+seoTitle: 無料でSecret Agentをオンラインでプレイ | FiddleBops
 description: Secret Agentはステルスアクションゲームです。基地に侵入し、見つからないようにミッションを達成します。
 iframeSrc: 'https://087cce7dimlq8.h5games.usercontent.goog/v/6na8sphqpnhlo/'
 thumbnail: /new-images/thumbnails/secret-agent.png
 urlstr: secret-agent
-score: 4.0/5  (1874 votes)
 tags:
   - action
   - thinky
   - casual
+score: 4.0/5  (1874 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Low's Adventures 3
+seoTitle: 無料でLow's Adventures 3をオンラインでプレイ | FiddleBops
 description: レトロプラットフォーマートリロジーエントリー：より厳しいジャンプ、新しいギミックブロック、コンパクトなステージでより多くの秘密。
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/480663659/index.html'
 thumbnail: /new-images/thumbnails/lows-adventures-3.jpg
 urlstr: lows-adventures-3
-score: 4.1/5  (570 votes)
 tags:
   - platformer
   - adventure
+score: 4.1/5  (570 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

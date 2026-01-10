@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: ludo-kart
 title: 《Ludo Kart》赛车飞行棋
+seoTitle: 免费在线玩 《Ludo Kart》赛车飞行棋 | FiddleBops
 description: 《Ludo Kart》是一款轻松的骰子竞速棋盘游戏，掷骰子前进棋子，率先把自己的所有棋子送回终点基地即获胜。
 iframeSrc: 'https://35q41h2gp6dd8.h5games.usercontent.goog/v/6q7tggnmscsj8/'
 thumbnail: /new-images/thumbnails/ludo-kart.png
+urlstr: ludo-kart
 tags:
   - casual
   - thinky

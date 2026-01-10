@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: northern-heights
 title: Northern Heights 노던 하이츠
+seoTitle: Northern Heights 노던 하이츠 무료 온라인 플레이 | FiddleBops
 description: >-
   Northern Heights는 설원 위를 미끄러지듯 내려오며 스턴트를 펼치고 코인을 모아 전설의 스키어를 노리는 스포츠 게임입니다. 속도와
   컨트롤의 균형을 잡는 것이 핵심입니다.
 iframeSrc: 'https://northernheights.h5games.usercontent.goog/v/1pct901lj7uko/'
 thumbnail: /new-images/thumbnails/northern-heights.png
+urlstr: northern-heights
 tags:
   - sports
   - action

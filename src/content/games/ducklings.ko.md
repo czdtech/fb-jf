@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: ducklings
 title: Ducklings 덕클링스
+seoTitle: Ducklings 덕클링스 무료 온라인 플레이 | FiddleBops
 description: '호수 위를 헤엄치며 길 잃은 새끼 오리들을 구해 오는 힐링 게임입니다. 장애물을 피해 새끼들을 이끌고, 둥지를 업그레이드해 보세요.'
 iframeSrc: 'https://g2.igroutka.ru/games/164/BkDlKfiWjEoZ2rcG/ducklings_io/'
 thumbnail: /new-images/thumbnails/ducklings.jpg
+urlstr: ducklings
 tags:
   - animal
   - casual

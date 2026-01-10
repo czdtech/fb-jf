@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: the-jigsaw-game
 title: The Jigsaw Game 더 직소 게임
+seoTitle: The Jigsaw Game 더 직소 게임 무료 온라인 플레이 | FiddleBops
 description: >-
   The Jigsaw Game은 다양한 난이도의 그림 퍼즐을 맞추는 직소 퍼즐 게임입니다. 조각을 돌려 제자리로 옮기며, 완성된 일러스트를
   감상해 보세요.
 iframeSrc: 'https://2avtkm5bj06f0.h5games.usercontent.goog/v/66fijarm4ldv0/'
 thumbnail: /new-images/thumbnails/the-jigsaw-game.png
+urlstr: the-jigsaw-game
 tags:
   - jigsaw
   - puzzle

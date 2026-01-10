@@ -1,16 +1,17 @@
 ---
 locale: ko
-urlstr: sprunki-christmas
 title: Sprunki Christmas 스프룽키 크리스마스
+seoTitle: Sprunki Christmas 스프룽키 크리스마스 무료 온라인 플레이 | FiddleBops
 description: >-
   Sprunki Christmas는 크리스마스 분위기 속에서 스프룽키 스타일 음악과 퍼즐을 즐길 수 있는 모드입니다. 선물을 모으고 트리를
   장식하며, 축제 감성 가득한 사운드와 비주얼을 경험해 보세요.
 iframeSrc: 'https://turbowarp.org/1104040581/embed'
 thumbnail: /new-images/thumbnails/sprunki-christmas.png
+urlstr: sprunki-christmas
 tags:
   - sprunki christmas
 score: 4.6/5  (486 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

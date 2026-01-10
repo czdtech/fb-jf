@@ -1,14 +1,22 @@
 ---
 locale: fr
-urlstr: "mahjongg-solitaire"
-title: "Mahjongg Solitaire"
-description: "Vide le plateau dans Mahjongg Solitaire, le classique puzzle d’appariement de tuiles pour un joueur : trouve et associe des tuiles libres identiques, planifie tes coups et découvre un casse‑tête intemporel."
-iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjongg-solitaire/"
+title: Mahjongg Solitaire
+seoTitle: Jouez à Mahjongg Solitaire en ligne gratuitement | FiddleBops
+description: >-
+  Vide le plateau dans Mahjongg Solitaire, le classique puzzle d’appariement de
+  tuiles pour un joueur : trouve et associe des tuiles libres identiques,
+  planifie tes coups et découvre un casse‑tête intemporel.
+iframeSrc: >-
+  https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjongg-solitaire/
 thumbnail: /new-images/thumbnails/mahjongg-solitaire.jpg
-tags: ["puzzle", "tile-matching", "classic"]
-score: "4.5/5  (256 votes)"
-developer: ""
-releaseDate: 2025-08-16
+urlstr: mahjongg-solitaire
+tags:
+  - puzzle
+  - tile-matching
+  - classic
+score: 4.5/5  (256 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

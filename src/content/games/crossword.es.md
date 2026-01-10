@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: crossword
 title: Crossword
+seoTitle: Juega a Crossword en línea gratis | FiddleBops
 description: >-
   Crossword es un crucigrama clásico: completa la cuadrícula resolviendo las
   pistas en horizontal y vertical hasta que todas las letras encajen.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword.html'
 thumbnail: /new-images/thumbnails/crossword.jpg
+urlstr: crossword
 tags:
   - word
   - puzzle

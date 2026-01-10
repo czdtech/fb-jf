@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: snake
 title: Snake
+seoTitle: Spiele Snake kostenlos online | FiddleBops
 description: >-
   Spiele den zeitlosen Klassiker Snake: Steuere eine ständig weiterwachsende
   Schlange, friss Futter, um länger zu werden, und vermeide Kollisionen mit
   Wänden oder deinem eigenen Schwanz, um den Highscore zu knacken.
 iframeSrc: 'https://www.googlesnake.com/snakem.php'
 thumbnail: /new-images/thumbnails/snake.jpg
+urlstr: snake
 tags:
   - classic
   - arcade

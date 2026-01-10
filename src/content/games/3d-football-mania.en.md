@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "3D Football Mania"
-description: "3D Football Mania captures quick footy moments — dribble, pass, and finish with clean shot timing."
-iframeSrc: "https://0iadidf74ef9o.h5games.usercontent.goog/v/4cmv5jsv0n25g/"
+title: 3D Football Mania
+seoTitle: Play 3D Football Mania Online Free | FiddleBops
+description: >-
+  3D Football Mania captures quick footy moments — dribble, pass, and finish
+  with clean shot timing.
+iframeSrc: 'https://0iadidf74ef9o.h5games.usercontent.goog/v/4cmv5jsv0n25g/'
 thumbnail: /new-images/thumbnails/3d-football-mania.png
-urlstr: "3d-football-mania"
-score: "3.9/5  (1738 votes)"
-tags: ["sports", "soccer"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: 3d-football-mania
+tags:
+  - sports
+  - soccer
+score: 3.9/5  (1738 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Cannon Balls 3D キャノンボール3D
+seoTitle: 無料でCannon Balls 3D キャノンボール3Dをオンラインでプレイ | FiddleBops
 description: 「Cannon Balls 3D」で破壊の限りを尽くせ！大砲で狙いを定め、建物を粉々に破壊する爽快3D物理パズル。弱点を狙って弾薬を節約しよう。
 iframeSrc: 'https://cannonballs3d.h5games.usercontent.goog/v/004m7ejm69rs0/'
 thumbnail: /new-images/thumbnails/cannon-balls-3d.png
 urlstr: cannon-balls-3d
-score: 4.2/5  (1900 votes)
 tags:
   - shooting
   - puzzle
   - action
+score: 4.2/5  (1900 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: sudoku
 title: Sudoku
+seoTitle: Jouez à Sudoku en ligne gratuitement | FiddleBops
 description: "Sudoku est un casse‑tête numérique classique\_: remplis une grille 9x9 avec les chiffres 1 à 9 en veillant à ce que chaque ligne, colonne et bloc 3x3 contienne chaque chiffre une seule fois."
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/html5-sudoku/'
 thumbnail: /new-images/thumbnails/sudoku.jpg
+urlstr: sudoku
 tags:
   - puzzle
   - logic

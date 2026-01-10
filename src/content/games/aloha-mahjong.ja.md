@@ -1,14 +1,17 @@
 ---
-title: "Aloha Mahjong アロハ・麻雀"
-description: "「Aloha Mahjong」は、南国リゾート気分で楽しめるリラックス麻雀ソリティアです。ペアを見つけ、積み重なった牌を消して、島の雰囲気を満喫しましょう。"
-iframeSrc: "https://02ef7fb7guapg.h5games.usercontent.goog/v/13knu9k9rm8go/"
-thumbnail: /new-images/thumbnails/aloha-mahjong.jpg
-urlstr: "aloha-mahjong"
-score: "4.1/5  (1956 votes)"
-tags: ["mahjong", "puzzle"]
-developer: ""
-releaseDate: 2025-10-18
 locale: ja
+title: Aloha Mahjong アロハ・麻雀
+seoTitle: 無料でAloha Mahjong アロハ・麻雀をオンラインでプレイ | FiddleBops
+description: 「Aloha Mahjong」は、南国リゾート気分で楽しめるリラックス麻雀ソリティアです。ペアを見つけ、積み重なった牌を消して、島の雰囲気を満喫しましょう。
+iframeSrc: 'https://02ef7fb7guapg.h5games.usercontent.goog/v/13knu9k9rm8go/'
+thumbnail: /new-images/thumbnails/aloha-mahjong.jpg
+urlstr: aloha-mahjong
+tags:
+  - mahjong
+  - puzzle
+score: 4.1/5  (1956 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

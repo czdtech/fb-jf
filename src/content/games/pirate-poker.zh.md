@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: pirate-poker
 title: 《Pirate Poker》海盗德州扑克
+seoTitle: 免费在线玩 《Pirate Poker》海盗德州扑克 | FiddleBops
 description: 《Pirate Poker》是一款充满海盗风情的五张抽牌扑克游戏，你将和一群老海狗同桌搏命下注、诈唬与比牌，用有限的金币赢下七海上最大的筹码堆。
 iframeSrc: 'https://6ghou5c7rjb9g.h5games.usercontent.goog/v/2n3b0c56pikmo/'
 thumbnail: /new-images/thumbnails/pirate-poker.png
+urlstr: pirate-poker
 tags:
   - card
   - puzzle

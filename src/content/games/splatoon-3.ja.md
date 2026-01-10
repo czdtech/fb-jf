@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Splatoon 3
+seoTitle: 無料でSplatoon 3をオンラインでプレイ | FiddleBops
 description: Splatoon 3はインクで塗って戦う対戦シューターです。チームで陣地を塗り広げ、ルールに沿って勝利を目指します。
 iframeSrc: 'https://bitlifeonline.github.io/splatoon-3/'
 thumbnail: /new-images/thumbnails/splatoon-3.jpg
 urlstr: splatoon-3
-score: 4.3/5  (955 votes)
 tags:
   - action
   - shooting
   - multiplayer
+score: 4.3/5  (955 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

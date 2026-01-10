@@ -1,14 +1,17 @@
 ---
-title: "Mini Golf World"
-description: "Mini Golf Worldはミニゴルフゲームです。コースの障害物を読み、少ないストロークでカップインを目指します。"
-iframeSrc: "https://32tnqh6bck80g.h5games.usercontent.goog/v/3auurdk9r953g/"
-thumbnail: /new-images/thumbnails/mini-golf-world.png
-urlstr: "mini-golf-world"
-score: "4.1/5  (1903 votes)"
-tags: ["casual", "sports"]
-developer: ""
-releaseDate: 2025-10-18
 locale: ja
+title: Mini Golf World
+seoTitle: 無料でMini Golf Worldをオンラインでプレイ | FiddleBops
+description: Mini Golf Worldはミニゴルフゲームです。コースの障害物を読み、少ないストロークでカップインを目指します。
+iframeSrc: 'https://32tnqh6bck80g.h5games.usercontent.goog/v/3auurdk9r953g/'
+thumbnail: /new-images/thumbnails/mini-golf-world.png
+urlstr: mini-golf-world
+tags:
+  - casual
+  - sports
+score: 4.1/5  (1903 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

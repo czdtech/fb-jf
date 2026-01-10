@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: slice-master
 title: 《Slice Master》切割大师
+seoTitle: 免费在线玩 《Slice Master》切割大师 | FiddleBops
 description: 《Slice Master》是一款节奏爽快的切割游戏。控制飞刀或利刃在关卡中不断弹跳、切碎沿途的物体和障碍，享受连击与清屏的快感。
 iframeSrc: 'https://bitlifeonline.github.io/slice-master/'
 thumbnail: /new-images/thumbnails/slice-master.jpg
+urlstr: slice-master
 tags:
   - arcade
   - action

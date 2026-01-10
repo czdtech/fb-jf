@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: climb-man
-title: "Climb Man"
+title: Climb Man
+seoTitle: Spiele Climb Man kostenlos online | FiddleBops
 description: >-
-  Meistere das schnelle Arcade-Spiel Climb Man: Walk to the Sky. Dieses
-  Handbuch gibt dir Strategien für perfektes Timing, das Umgehen von
-  Hindernissen und das Freischalten neuer Charaktere für Höchstpunktzahlen.
+  Meistere das schnelle Arcade-Spiel Climb Man: Walk to the Sky. Dieses Handbuch
+  gibt dir Strategien für perfektes Timing, das Umgehen von Hindernissen und das
+  Freischalten neuer Charaktere für Höchstpunktzahlen.
 iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
 thumbnail: /new-images/thumbnails/climb-man.png
+urlstr: climb-man
 tags:
   - action
   - casual

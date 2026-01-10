@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: geometry-dash-subzero
 title: Geometry Dash SubZero 지오메트리 대시 서브제로
+seoTitle: Geometry Dash SubZero 지오메트리 대시 서브제로 무료 온라인 플레이 | FiddleBops
 description: >-
   겨울 테마의 리듬 플랫포머 레벨 팩입니다. 얼어붙은 배경과 빠른 패턴 속에서 점프와 비행, 링 타이밍을 맞춰 음악과 함께 장애물을 돌파해
   보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp46/chenling/20240322/06/index.html
 thumbnail: /new-images/thumbnails/geometry-dash-subzero.jpg
+urlstr: geometry-dash-subzero
 tags:
   - rhythm
   - platformer

@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Fairyland"
-description: "Fairyland is a gentle puzzle adventure — explore cozy scenes, solve light puzzles, and complete objectives at a restful pace."
-iframeSrc: "https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/"
+title: Fairyland
+seoTitle: Play Fairyland Online Free | FiddleBops
+description: >-
+  Fairyland is a gentle puzzle adventure — explore cozy scenes, solve light
+  puzzles, and complete objectives at a restful pace.
+iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
 thumbnail: /new-images/thumbnails/fairyland.png
-urlstr: "fairyland"
-score: "4.0/5  (1821 votes)"
-tags: ["adventure", "puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: fairyland
+tags:
+  - adventure
+  - puzzle
+  - casual
+score: 4.0/5  (1821 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

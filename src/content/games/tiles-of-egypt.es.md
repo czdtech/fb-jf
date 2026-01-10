@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: tiles-of-egypt
-title: Tiles of Egypt - Tríos en el antiguo Egipto
+title: Tiles of Egypt
+seoTitle: Juega a Tiles of Egypt en línea gratis | FiddleBops
 description: >-
   Viaja al antiguo Egipto en este puzle de fichas triples. Selecciona tres
   fichas idénticas y desbloqueadas para limpiarlas del tablero y planifica cada
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://tilesofegypt.h5games.usercontent.goog/v/dd964fa3-8999-4546-a4a0-d55a0cc72248/
 thumbnail: /new-images/thumbnails/tiles-of-egypt.jpg
+urlstr: tiles-of-egypt
 tags:
   - puzzle
   - casual

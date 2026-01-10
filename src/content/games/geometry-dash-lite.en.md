@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Geometry Dash Lite"
-description: "Rhythm platforming sampler: jump and fly to the beat through preset levels, avoiding spikes and timing pads/portals." 
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20240221/08/index.html"
+title: Geometry Dash Lite
+seoTitle: Play Geometry Dash Lite Online Free | FiddleBops
+description: >-
+  Rhythm platforming sampler: jump and fly to the beat through preset levels,
+  avoiding spikes and timing pads/portals.
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20240221/08/index.html
 thumbnail: /new-images/thumbnails/geometry-dash-lite.jpg
-urlstr: "geometry-dash-lite"
-score: "4.8/5  (332 votes)"
-tags: ["rhythm", "platformer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: geometry-dash-lite
+tags:
+  - rhythm
+  - platformer
+score: 4.8/5  (332 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

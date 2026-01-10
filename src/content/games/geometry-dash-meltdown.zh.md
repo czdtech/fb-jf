@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: geometry-dash-meltdown
 title: Geometry Dash Meltdown 几何冲刺：熔毁篇
+seoTitle: 免费在线玩 Geometry Dash Meltdown 几何冲刺：熔毁篇 | FiddleBops
 description: 节奏平台关卡包：在全新曲目与主题关卡中跳跃与飞行， 穿过各种尖刺、跳板与重力传送门，挑战高难度飞船与球形段落。
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-meltdown/'
 thumbnail: /new-images/thumbnails/geometry-dash-meltdown.jpg
+urlstr: geometry-dash-meltdown
 tags:
   - rhythm
   - platformer

@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: fancy-pants
 title: Fancy Pants
+seoTitle: Juega a Fancy Pants en línea gratis | FiddleBops
 description: >-
   Fancy Pants es un juego de plataformas estilizado de monigote con mucho
   estilo: velocidad e impulso rápidos, saltos en pared y parkour fluido por
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj8/index.html
 thumbnail: /new-images/thumbnails/fancy-pants.jpg
+urlstr: fancy-pants
 tags:
   - platformer
   - action

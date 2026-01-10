@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Five Nights at Freddy's 4 (FNAF 4)
+seoTitle: 無料でFive Nights at Freddy's 4 (FNAF 4)をオンラインでプレイ | FiddleBops
 description: 寝室での悪夢サバイバル：呼吸音に耳を澄まし、ドアとクローゼットを管理し、懐中電灯を賢く使って夜の恐怖を食い止めましょう。
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf4.html'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-4.jpg
 urlstr: five-nights-at-freddy-4
-score: 4.9/5  (625 votes)
 tags:
   - horror
   - strategy
+score: 4.9/5  (625 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: addiction-mini
-title: "Addiction Mini solitario de secuencias"
+title: Addiction Mini solitario de secuencias
+seoTitle: Juega a Addiction Mini solitario de secuencias en línea gratis | FiddleBops
 description: >-
-  Addiction Mini es una versión compacta de los solitarios tipo Addiction. Coloca
-  las cartas en orden, despeja filas y planifica varios movimientos por
+  Addiction Mini es una versión compacta de los solitarios tipo Addiction.
+  Coloca las cartas en orden, despeja filas y planifica varios movimientos por
   adelantado.
 iframeSrc: 'https://0lk0u0jb90plo.h5games.usercontent.goog/v/2rppmab9dqneo/'
 thumbnail: /new-images/thumbnails/addiction-mini.jpg
+urlstr: addiction-mini
 tags:
   - card
   - puzzle

@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: fruit-slot-machine
 title: Fruit Slot Machine 经典水果机
+seoTitle: 免费在线玩 Fruit Slot Machine 经典水果机 | FiddleBops
 description: Fruit Slot Machine 模拟经典三轮水果机——负责任地按钮旋转， 了解赔率线与奖项设计，在不过度下注的前提下享受轻松转盘乐趣。
 iframeSrc: 'https://7f8j0t3m1ptv8.h5games.usercontent.goog/v/33cv74na0lvqg/'
 thumbnail: /new-images/thumbnails/fruit-slot-machine.jpg
+urlstr: fruit-slot-machine
 tags:
   - casual
 score: 3.6/5  (1527 votes)

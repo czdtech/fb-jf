@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: captain-gold
 title: Captain Gold 黄金船长
+seoTitle: 免费在线玩 Captain Gold 黄金船长 | FiddleBops
 description: 《Captain Gold 黄金船长》中，你要操控海盗船长抛出钩爪，在限定时间或次数内抓回尽可能多的金块与宝石，避开 石头和炸药。
 iframeSrc: 'https://5djvqvgrgqc0o.h5games.usercontent.goog/v/58gqt26rjid7o/'
 thumbnail: /new-images/thumbnails/captain-gold.png
+urlstr: captain-gold
 tags:
   - puzzle
   - casual

@@ -1,14 +1,17 @@
 ---
-locale: "zh"
-urlstr: "sprunki-1996"
-
-title: "Sprunki 1996 - 在线玩 Sprunki 1996"
-description: "Sprunki 1996 是一款充满创意和怀旧感的音乐游戏。它采用独特的 90 年代复古电脑美学，结合简单有趣的音乐创作玩法，为 Sprunki 和 Incredibox 的粉丝带来全新体验。"
-iframeSrc: "https://html-classic.itch.zone/html/14634762/index.html"
+locale: zh
+title: Sprunki 1996
+seoTitle: 免费在线玩 Sprunki 1996 | FiddleBops
+description: >-
+  Sprunki 1996 是一款充满创意和怀旧感的音乐游戏。它采用独特的 90 年代复古电脑美学，结合简单有趣的音乐创作玩法，为 Sprunki 和
+  Incredibox 的粉丝带来全新体验。
+iframeSrc: 'https://html-classic.itch.zone/html/14634762/index.html'
 thumbnail: /new-images/thumbnails/sprunki-1996.png
-score: "4.0/5  (122 votes)"
-tags: ["sprunki 1996"]
-releaseDate: 2025-12-04
+urlstr: sprunki-1996
+tags:
+  - sprunki 1996
+score: 4.0/5  (122 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

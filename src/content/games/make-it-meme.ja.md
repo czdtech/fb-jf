@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Make It Meme
+seoTitle: 無料でMake It Memeをオンラインでプレイ | FiddleBops
 description: Make It Memeはキャプションを作って投票するパーティーゲームです。画像にひと言を付けてミームを作り、みんなで投票します。
 iframeSrc: 'https://artedu1808.github.io/g177/make-it-meme/'
 thumbnail: /new-images/thumbnails/make-it-meme.jpg
 urlstr: make-it-meme
-score: 4.4/5  (1458 votes)
 tags:
   - casual
   - 2 player
   - novelty
+score: 4.4/5  (1458 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

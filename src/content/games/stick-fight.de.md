@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: stick-fight
 title: Stick Fight
+seoTitle: Spiele Stick Fight kostenlos online | FiddleBops
 description: >-
   Betritt die chaotische Arena von Stick Fight: einem physikbasierten
   Prügelspiel, in dem du mit einem Strichmännchen gegen andere kämpfst, Waffen
   einsammelst und als letzter übrig bleiben musst.
 iframeSrc: 'https://ext.minijuegosgratis.com/stick-fighter-2/index.html'
 thumbnail: /new-images/thumbnails/stick-fight.jpg
+urlstr: stick-fight
 tags:
   - fighting
   - action

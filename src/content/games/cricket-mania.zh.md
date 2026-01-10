@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: cricket-mania
 title: Cricket Mania 板球狂热
+seoTitle: 免费在线玩 Cricket Mania 板球狂热 | FiddleBops
 description: 《Cricket Mania 板球狂热》是一款节奏明快的板球击球游戏。通过选择合适击球线路、掌 握挥棒时机，在每个回合不断追赶目标分数。
 iframeSrc: 'https://73lnk17f84iog.h5games.usercontent.goog/v/1p7sdm5buflt0/'
 thumbnail: /new-images/thumbnails/cricket-mania.png
+urlstr: cricket-mania
 tags:
   - sports
   - casual

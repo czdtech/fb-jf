@@ -1,18 +1,19 @@
 ---
 locale: en
-title: "Sprunki Retake \U0001F525 Play Sprunki Retake Online"
+title: Sprunki Retake
+seoTitle: Play Sprunki Retake Online Free | FiddleBops
 description: >-
   If you love rhythm games and have a penchant for horror elements, Sprunki
   Retake will definitely get you hooked!
 iframeSrc: 'https://www.minijuegos.com/embed/sprunki-retake'
 thumbnail: /new-images/thumbnails/sprunki-retake.png
 urlstr: sprunki-retake
-modType: sprunki
-score: 4.3/5  (524 votes)
 tags:
   - sprunki retake
   - sprunki retake online
   - music
+modType: sprunki
+score: 4.3/5  (524 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

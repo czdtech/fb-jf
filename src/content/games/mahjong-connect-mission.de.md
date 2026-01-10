@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: mahjong-connect-mission
 title: 'Mahjong Connect : Mission'
+seoTitle: 'Spiele Mahjong Connect : Mission kostenlos online | FiddleBops'
 description: >-
   Mahjong Connect: Mission ist ein Verbindungs-Mahjong: Verbinde identische
   Steine über Pfade mit höchstens zwei Knicken, räume das Feld und schlage die
   Zeit.
 iframeSrc: 'https://7gsm6u8848nko.h5games.usercontent.goog/v/3qaqg5nju3th8/'
 thumbnail: /new-images/thumbnails/mahjong-connect-mission.png
+urlstr: mahjong-connect-mission
 tags:
   - mahjong
   - puzzle

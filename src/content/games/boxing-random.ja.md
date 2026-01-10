@@ -1,14 +1,21 @@
 ---
-title: "Boxing Random ボクシング・ランダム"
-description: "「Boxing Random」は物理演算が予測不能なボクシングゲーム！ワンボタン操作でジャンプ＆パンチ。毎回変わるルールや環境に適応して、先に5勝した方が勝者だ。"
-iframeSrc: "https://app-197305.games.s3.yandex.net/197305/ymb675rkal3nz409zur9etesdbd74y4d/index.html"
-thumbnail: /new-images/thumbnails/boxing-random.jpg
-urlstr: "boxing-random"
-score: "4.1/5  (855 votes)"
-tags: ["sports", "action", "2-players"]
-developer: "RHM Interactive"
-releaseDate: 2025-08-16
 locale: ja
+title: Boxing Random ボクシング・ランダム
+seoTitle: 無料でBoxing Random ボクシング・ランダムをオンラインでプレイ | FiddleBops
+description: >-
+  「Boxing
+  Random」は物理演算が予測不能なボクシングゲーム！ワンボタン操作でジャンプ＆パンチ。毎回変わるルールや環境に適応して、先に5勝した方が勝者だ。
+iframeSrc: >-
+  https://app-197305.games.s3.yandex.net/197305/ymb675rkal3nz409zur9etesdbd74y4d/index.html
+thumbnail: /new-images/thumbnails/boxing-random.jpg
+urlstr: boxing-random
+tags:
+  - sports
+  - action
+  - 2-players
+score: 4.1/5  (855 votes)
+developer: RHM Interactive
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

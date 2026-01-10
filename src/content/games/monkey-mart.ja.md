@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Monkey Mart
+seoTitle: 無料でMonkey Martをオンラインでプレイ | FiddleBops
 description: Monkey Martはストア管理ゲームです。商品を補充して販売し、設備をアップグレードしながら店を拡大します。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/gamehwq/20221216/09/index.htm
 thumbnail: /new-images/thumbnails/monkey-mart.jpg
 urlstr: monkey-mart
-score: 4.4/5  (592 votes)
 tags:
   - casual
   - thinky
   - strategy
+score: 4.4/5  (592 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

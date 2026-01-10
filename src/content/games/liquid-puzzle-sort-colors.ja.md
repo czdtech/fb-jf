@@ -1,19 +1,20 @@
 ---
+locale: ja
 title: Liquid puzzle sort colors
+seoTitle: 無料でLiquid puzzle sort colorsをオンラインでプレイ | FiddleBops
 description: >-
   Liquid puzzle sort
   colorsはリラックスした注ぎ分けソートです。色で液体を注ぎ、バッファーを計画し、デッドロックなしでボトルを完成させます。
 iframeSrc: 'https://1b6vgcuid4b98.h5games.usercontent.goog/v/2vus27k78710o/'
 thumbnail: /new-images/thumbnails/liquid-puzzle-sort-colors.jpg
 urlstr: liquid-puzzle-sort-colors
-score: 4.1/5  (1979 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.1/5  (1979 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

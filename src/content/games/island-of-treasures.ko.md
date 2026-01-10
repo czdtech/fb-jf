@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: island-of-treasures
 title: Island Of Treasures 해적 런 게임
+seoTitle: Island Of Treasures 해적 런 게임 무료 온라인 플레이 | FiddleBops
 description: >-
   3D 해적 테마 끝없는 러너 'Island Of Treasures' 가이드입니다. 보석과 코인을 모으고, 함정을 피하며, 라이벌 해적을
   따돌려 버려진 섬의 전설적인 부자가 되어 보세요.
 iframeSrc: 'https://5kvkrsasec6l8.h5games.usercontent.goog/v/7kfn10n6josho/'
 thumbnail: /new-images/thumbnails/island-of-treasures.png
+urlstr: island-of-treasures
 tags:
   - action
   - adventure

@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Doodle Baseball"
-description: "A guide to Doodle Baseball, the charming and simple timing-based sports game. Learn how to play, get tips for hitting home runs, understand the controls, and find answers to common questions."
-iframeSrc: "https://freeonlinegames.github.io/fourth-of-july-2019.html"
+title: Doodle Baseball
+seoTitle: Play Doodle Baseball Online Free | FiddleBops
+description: >-
+  A guide to Doodle Baseball, the charming and simple timing-based sports game.
+  Learn how to play, get tips for hitting home runs, understand the controls,
+  and find answers to common questions.
+iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
 thumbnail: /new-images/thumbnails/baseball.jpg
-urlstr: "baseball"
-score: "4.4/5  (525 votes)"
-tags: ["casual", "sports"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: baseball
+tags:
+  - casual
+  - sports
+score: 4.4/5  (525 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

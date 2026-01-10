@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Happy Wheels"
-description: "A detailed guide to the notoriously graphic and humorous physics-based game, Happy Wheels. Learn gameplay strategies, controls, and answers to common questions for surviving its deadly user-created levels." 
-iframeSrc: "https://games-online.io/game/HappyWheels/"
+title: Happy Wheels
+seoTitle: Play Happy Wheels Online Free | FiddleBops
+description: >-
+  A detailed guide to the notoriously graphic and humorous physics-based game,
+  Happy Wheels. Learn gameplay strategies, controls, and answers to common
+  questions for surviving its deadly user-created levels.
+iframeSrc: 'https://games-online.io/game/HappyWheels/'
 thumbnail: /new-images/thumbnails/happy-wheels.jpg
-urlstr: "happy-wheels"
-score: "3.9/5  (1175 votes)"
-tags: ["platformer", "physics"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: happy-wheels
+tags:
+  - platformer
+  - physics
+score: 3.9/5  (1175 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

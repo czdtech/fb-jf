@@ -1,19 +1,20 @@
 ---
+locale: ja
 title: Farm Block Puzzle ファーム・ブロックパズル
+seoTitle: 無料でFarm Block Puzzle ファーム・ブロックパズルをオンラインでプレイ | FiddleBops
 description: >-
   「Farm Block
   Puzzle」は農場テーマの癒やし系ブロックパズル。ブロックを10x10グリッドにドラッグ＆ドロップして完全なラインを作り、盤面をクリアしよう。
 iframeSrc: 'https://5hefbqkv5o0do.h5games.usercontent.goog/v/0bio68l8dojl0/'
 thumbnail: /new-images/thumbnails/farm-block-puzzle.png
 urlstr: farm-block-puzzle
-score: 4.4/5  (2400 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.4/5  (2400 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

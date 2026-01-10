@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: uncle-ahmed
 title: Uncle Ahmed 엉클 아메드
+seoTitle: Uncle Ahmed 엉클 아메드 무료 온라인 플레이 | FiddleBops
 description: >-
   납치된 조카를 구하기 위해 모험을 떠나는 2D 플랫폼 액션 게임입니다. 적의 머리를 밟고 코인을 모으며, 다양한 파워업을 활용해 어둠의
   마법사를 물리치고 스테이지를 돌파하세요.
 iframeSrc: >-
   https://uncleahmed.h5games.usercontent.goog/v/31ca380f-5493-4371-b5ac-5c3c2da67626/
 thumbnail: /new-images/thumbnails/uncle-ahmed.jpg
+urlstr: uncle-ahmed
 tags:
   - action
   - adventure

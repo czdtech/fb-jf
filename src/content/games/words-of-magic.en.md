@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Words of Magic"
-description: "Unleash your vocabulary in Words of Magic! Connect letters to form words and fill out the crossword puzzle. A magical and relaxing brain-teaser for word game lovers."
-iframeSrc: "https://5a5rs5ng5rvro.h5games.usercontent.goog/v/4grqmc17b1kc0/"
+title: Words of Magic
+seoTitle: Play Words of Magic Online Free | FiddleBops
+description: >-
+  Unleash your vocabulary in Words of Magic! Connect letters to form words and
+  fill out the crossword puzzle. A magical and relaxing brain-teaser for word
+  game lovers.
+iframeSrc: 'https://5a5rs5ng5rvro.h5games.usercontent.goog/v/4grqmc17b1kc0/'
 thumbnail: /new-images/thumbnails/words-of-magic.png
-urlstr: "words-of-magic"
-score: "4.4/5  (2200 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: words-of-magic
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.4/5  (2200 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

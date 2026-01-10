@@ -1,19 +1,20 @@
 ---
+locale: ja
 title: 2048 Fusion 2048 フュージョン
+seoTitle: 無料で2048 Fusion 2048 フュージョンをオンラインでプレイ | FiddleBops
 description: >-
   名作パズル「2048」を現代風にアレンジした「2048
   フュージョン」。タイルをスライドさせて合体させ、2048タイル、そしてその先を目指しましょう！計画的に動かさないと盤面がいっぱいになってしまいます！
 iframeSrc: 'https://7t79nelq6lu50.h5games.usercontent.goog/v/7jm0opa5dtf00/'
 thumbnail: /new-images/thumbnails/2048-fusion.png
 urlstr: 2048-fusion
-score: 4.3/5  (2000 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.3/5  (2000 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

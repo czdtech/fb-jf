@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: fleeing-the-complex
 title: Fleeing the Complex 플리잉 더 컴플렉스
+seoTitle: Fleeing the Complex 플리잉 더 컴플렉스 무료 온라인 플레이 | FiddleBops
 description: 'Henry Stickmin 시리즈의 한 편으로, 고도로 경비가 삼엄한 감옥에서 탈출을 시도하는 포인트 앤 클릭 분기 어드벤처입니다.'
 iframeSrc: 'https://ubg77.github.io/fleeing-the-complex/'
 thumbnail: /new-images/thumbnails/fleeing-the-complex.jpg
+urlstr: fleeing-the-complex
 tags:
   - action
   - story-rich

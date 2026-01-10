@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: sprunkle-bops
 title: Sprunkle Bops 스프렁클 밥스
+seoTitle: Sprunkle Bops 스프렁클 밥스 무료 온라인 플레이 | FiddleBops
 description: >-
   Sprunkle Bops는 Incredibox 스타일 음악 믹싱 게임을 확장한 팬 메이드 모드로, 커스텀 페이즈와 새로운 게임 요소를 더해
   랩 배틀 형태의 리듬 플레이를 즐길 수 있게 해 줍니다.
 iframeSrc: 'https://turbowarp.org/1122091658/embed'
 thumbnail: /new-images/thumbnails/sprunkle-bops.png
+urlstr: sprunkle-bops
 tags:
   - sprunkle bops
   - sprunkle bops online

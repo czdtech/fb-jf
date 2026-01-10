@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: pokemon-emerald
 title: Pokemon Emerald
+seoTitle: Jouez à Pokemon Emerald en ligne gratuitement | FiddleBops
 description: "Pokemon Emerald est un RPG Pokémon se déroulant dans la région de Hoenn\_: capture et entraîne des Pokémon, affronte les Champions d'Arène et déjoue les plans de la Team Magma et de la Team Aqua pour devenir Maître de la Ligue."
 iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonemerald'
 thumbnail: /new-images/thumbnails/pokemon-emerald.jpg
+urlstr: pokemon-emerald
 tags:
   - rpg
   - adventure

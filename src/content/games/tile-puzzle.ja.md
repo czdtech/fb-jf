@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Tile Puzzle
+seoTitle: 無料でTile Puzzleをオンラインでプレイ | FiddleBops
 description: Tile Puzzleは、スライディングタイルパズルゲームです。タイルをスライドさせて画像を完成させましょう。
 iframeSrc: 'https://5u9qhnk84v07g.h5games.usercontent.goog/v/2h3elehja73a8/'
 thumbnail: /new-images/thumbnails/tile-puzzle.jpg
 urlstr: tile-puzzle
-score: 4.4/5  (2300 votes)
 tags:
   - puzzle
   - sliding
   - classic
-locale: ja
+score: 4.4/5  (2300 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 

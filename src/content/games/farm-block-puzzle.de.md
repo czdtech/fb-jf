@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: farm-block-puzzle
 title: Farm Block Puzzle
+seoTitle: Spiele Farm Block Puzzle kostenlos online | FiddleBops
 description: >-
   Ein entspanntes Blockpuzzle im gemütlichen Bauernhof-Look: Ziehe verschiedene
   Formen auf das 10x10-Gitter, bilde vollständige Reihen und räume sie vom
   Spielfeld.
 iframeSrc: 'https://5hefbqkv5o0do.h5games.usercontent.goog/v/0bio68l8dojl0/'
 thumbnail: /new-images/thumbnails/farm-block-puzzle.png
+urlstr: farm-block-puzzle
 tags:
   - puzzle
   - thinky

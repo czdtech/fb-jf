@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: stickman-hook
 title: Stickman Hook
+seoTitle: Jouez à Stickman Hook en ligne gratuitement | FiddleBops
 description: "Stickman Hook est un jeu de balancement physique\_: utilise un grappin pour te balancer de point d’ancrage en point d’ancrage, évite les obstacles et termine chaque niveau avec style."
 iframeSrc: 'https://ubg98.github.io/StickmanHook/'
 thumbnail: /new-images/thumbnails/stickman-hook.jpg
+urlstr: stickman-hook
 tags:
   - physics
   - swinging

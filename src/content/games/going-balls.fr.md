@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: going-balls
 title: Going Balls
+seoTitle: Jouez à Going Balls en ligne gratuitement | FiddleBops
 description: >-
   Runner 3D de bille sur obstacles : garde l'équilibre sur poutres et pièges,
   collecte des pièces et atteins l'arrivée sans tomber dans le vide.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231116/10/index.htm
 thumbnail: /new-images/thumbnails/going-balls.jpg
+urlstr: going-balls
 tags:
   - runner
   - balance

@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Element Blocks エレメント・ブロックス
+seoTitle: 無料でElement Blocks エレメント・ブロックスをオンラインでプレイ | FiddleBops
 description: 「Element Blocks」は戦略的ブロックパズル。エレメント（元素）ブロックを配置してラインを消し、星を集めてブースターを発動。盤面を制覇しよう。
 iframeSrc: 'https://elementblocks.h5games.usercontent.goog/v/35up5t7ao24i8/'
 thumbnail: /new-images/thumbnails/element-blocks.png
 urlstr: element-blocks
-score: 4.5/5  (2500 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.5/5  (2500 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: bricks-breaker-crush
 title: Bricks Breaker Crush
+seoTitle: Juega a Bricks Breaker Crush en línea gratis | FiddleBops
 description: >-
   Bricks Breaker Crush te lanza lluvias de ladrillos que debes destrozar: apunta
   tus ráfagas, acumula multiplicadores y traza ángulos óptimos a través de
   campos densos.
 iframeSrc: 'https://7uvo1rchfrhr8.h5games.usercontent.goog/v/4tk6unop5lefg/'
 thumbnail: /new-images/thumbnails/bricks-breaker-crush.png
+urlstr: bricks-breaker-crush
 tags:
   - puzzle
   - thinky

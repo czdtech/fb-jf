@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Murder
+seoTitle: 無料でMurderをオンラインでプレイ | FiddleBops
 description: Murderは戦略的な暗殺ゲームです。王を暗殺し、衛兵を避け、王位を掌握します。慎重に計画し、検出されずに成功します。
 iframeSrc: 'https://ubg77.github.io/fix/murder/'
 thumbnail: /new-images/thumbnails/murder.jpg
 urlstr: murder
-score: 4.0/5  (1485 votes)
 tags:
   - casual
   - thinky
   - strategy
+score: 4.0/5  (1485 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

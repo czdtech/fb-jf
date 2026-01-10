@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: basketball-serial-shooter
 title: Basketball serial shooter
+seoTitle: Jouez à Basketball serial shooter en ligne gratuitement | FiddleBops
 description: >-
   Basketball serial shooter est un défi de tir en série : règle ton arc, garde
   le rythme et enchaîne les paniers dans un temps limité ou avec un nombre de
   balles réduit.
 iframeSrc: 'https://41d3mmm660u50.h5games.usercontent.goog/v/1t2n5uvjnbv1o/'
 thumbnail: /new-images/thumbnails/basketball-serial-shooter.jpg
+urlstr: basketball-serial-shooter
 tags:
   - sports
   - basketball

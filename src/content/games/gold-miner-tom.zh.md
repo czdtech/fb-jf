@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: gold-miner-tom
 title: Gold Miner Tom 汤姆黄金矿工
+seoTitle: 免费在线玩 Gold Miner Tom 汤姆黄金矿工 | FiddleBops
 description: 帮汤姆发大财！经典黄金矿工玩法：操控钩爪抓取金块、宝石与宝袋， 在时间结束前达成每一关的金钱目标。
 iframeSrc: 'https://goldminertom.h5games.usercontent.goog/v/5l8d724in1pco/'
 thumbnail: /new-images/thumbnails/gold-miner-tom.png
+urlstr: gold-miner-tom
 tags:
   - action
   - casual

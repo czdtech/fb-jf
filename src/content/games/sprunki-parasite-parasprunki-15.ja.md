@@ -1,15 +1,16 @@
 ---
-title: Incredibox Sprunksters - Play Incredibox Sprunksters Online
+locale: ja
+title: Incredibox Sprunksters
+seoTitle: 無料でIncredibox Sprunkstersをオンラインでプレイ | FiddleBops
 description: >-
   Sprunki Parasite ParaSprunki
   15は不穏な雰囲気のSprunki系ファンModです。サウンドや演出がホラー寄りになっている場合があります。
 iframeSrc: 'https://kdata1.com/2025/03/paraSprunki-update-15-0-part-222/'
 thumbnail: /new-images/thumbnails/sprunki-parasite-parasprunki-15.png
 urlstr: sprunki-parasite-parasprunki-15
-score: 4.3/5  (372 votes)
 tags:
   - incredibox sprunksters
-locale: ja
+score: 4.3/5  (372 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: House Of Hazards
+seoTitle: 無料でHouse Of Hazardsをオンラインでプレイ | FiddleBops
 description: ローカルパーティーのカオス：罠だらけの家で簡単な家事をこなしながら、友達がハザード（罠）を発動してあなたを妨害します。
 iframeSrc: 'https://webglmath.github.io/house-of-hazards/'
 thumbnail: /new-images/thumbnails/house-of-hazards.jpg
 urlstr: house-of-hazards
-score: 4.1/5  (127 votes)
 tags:
   - party
   - multiplayer
+score: 4.1/5  (127 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

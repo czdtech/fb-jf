@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: duck-life
 title: Duck Life
+seoTitle: Spiele Duck Life kostenlos online | FiddleBops
 description: >-
   Duck Life ist der erste Teil der Trainings- und Rennsimulation: Stärke deine
   Ente in Minispielen und gewinne Rennen, um neue Gebiete freizuschalten.
 iframeSrc: 'https://games.wixgames.co.uk/games/ducklife1/webgl/'
 thumbnail: /new-images/thumbnails/duck-life.jpg
+urlstr: duck-life
 tags:
   - racing
   - simulation

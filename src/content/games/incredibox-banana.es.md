@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: incredibox-banana
-title: "Incredibox Banana"
+title: Incredibox Banana
+seoTitle: Juega a Incredibox Banana en línea gratis | FiddleBops
 description: >-
   Explora el mod fan-made "Incredibox Banana". Esta guía explica su temática de
   jungla y memes inspirada en el popular juego de VR, su paleta sonora única y
   consejos para crear tu propio mix de monos.
 iframeSrc: 'https://turbowarp.org/1108699828/embed'
 thumbnail: /new-images/thumbnails/incredibox-banana.png
+urlstr: incredibox-banana
 tags:
   - music
   - rhythm

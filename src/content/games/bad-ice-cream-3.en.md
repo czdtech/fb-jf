@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Bad Ice Cream 3"
-description: "Master the icy puzzles of Bad Ice-Cream 3. Find expert strategies, controls, and tips to collect all fruit and outsmart new enemies in this chilly arcade adventure."
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x5/index.html"
+title: Bad Ice Cream 3
+seoTitle: Play Bad Ice Cream 3 Online Free | FiddleBops
+description: >-
+  Master the icy puzzles of Bad Ice-Cream 3. Find expert strategies, controls,
+  and tips to collect all fruit and outsmart new enemies in this chilly arcade
+  adventure.
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x5/index.html
 thumbnail: /new-images/thumbnails/bad-ice-cream-3.jpg
-urlstr: "bad-ice-cream-3"
-score: "4.2/5  (660 votes)"
-tags: ["puzzle", "casual"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: bad-ice-cream-3
+tags:
+  - puzzle
+  - casual
+score: 4.2/5  (660 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

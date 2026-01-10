@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: parking-rush
-title: Parking Rush - Coordina el caos del aparcamiento
+title: Parking Rush
+seoTitle: Juega a Parking Rush en línea gratis | FiddleBops
 description: >-
   Un puzle de tráfico tan divertido como desafiante. Dibuja un camino para cada
   coche hasta su plaza del mismo color, pero ten cuidado de que no choquen entre
   sí.
 iframeSrc: 'https://7nq79vktk8fho.h5games.usercontent.goog/v/4u3a6m3hm9lj8/'
 thumbnail: /new-images/thumbnails/parking-rush.png
+urlstr: parking-rush
 tags:
   - puzzle
   - driving

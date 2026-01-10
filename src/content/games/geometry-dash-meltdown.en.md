@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Geometry Dash Meltdown"
-description: "Rhythm platformer pack: jump and fly through new music‑synced levels with themed hazards and ship segments." 
-iframeSrc: "https://geometrylite.io/game/geometry-dash-meltdown/"
+title: Geometry Dash Meltdown
+seoTitle: Play Geometry Dash Meltdown Online Free | FiddleBops
+description: >-
+  Rhythm platformer pack: jump and fly through new music‑synced levels with
+  themed hazards and ship segments.
+iframeSrc: 'https://geometrylite.io/game/geometry-dash-meltdown/'
 thumbnail: /new-images/thumbnails/geometry-dash-meltdown.jpg
-urlstr: "geometry-dash-meltdown"
-score: "4.4/5  (994 votes)"
-tags: ["rhythm", "platformer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: geometry-dash-meltdown
+tags:
+  - rhythm
+  - platformer
+score: 4.4/5  (994 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

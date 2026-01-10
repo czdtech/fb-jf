@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: blocks-puzzle
 title: Blocks Puzzle
+seoTitle: Spiele Blocks Puzzle kostenlos online | FiddleBops
 description: >-
   Blocks Puzzle ist ein klassisches, süchtig machendes Blockpuzzle. Deine
   Aufgabe ist es, unterschiedlich geformte Blöcke in ein 10×10‑Raster zu setzen,
   Linien zu füllen und Platz zu schaffen.
 iframeSrc: 'https://6ljls661l4lkg.h5games.usercontent.goog/v/1mil2011qbul0/'
 thumbnail: /new-images/thumbnails/blocks-puzzle.jpg
+urlstr: blocks-puzzle
 tags:
   - puzzle
   - casual

@@ -1,13 +1,13 @@
 ---
 locale: ko
-urlstr: aqua-blocks
-title: "Aqua Blocks 아쿠아 블록스"
+title: Aqua Blocks 아쿠아 블록스
+seoTitle: Aqua Blocks 아쿠아 블록스 무료 온라인 플레이 | FiddleBops
 description: >-
-  Aqua Blocks는 물 속을 연상시키는 보드 위에 블록 조각을 배치해 줄과 영역을 채우는
-  퍼즐 게임입니다. 다양한 모양의 블록을 맞춰 넣어 라인을 지우고, 막힌 공간 없이
-  보드를 깨끗하게 유지하는 것이 핵심입니다.
+  Aqua Blocks는 물 속을 연상시키는 보드 위에 블록 조각을 배치해 줄과 영역을 채우는 퍼즐 게임입니다. 다양한 모양의 블록을 맞춰
+  넣어 라인을 지우고, 막힌 공간 없이 보드를 깨끗하게 유지하는 것이 핵심입니다.
 iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
 thumbnail: /new-images/thumbnails/aqua-blocks.png
+urlstr: aqua-blocks
 tags:
   - puzzle
   - thinky

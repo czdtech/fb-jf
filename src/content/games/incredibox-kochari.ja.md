@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Incredibox Kochari
+seoTitle: 無料でIncredibox Kochariをオンラインでプレイ | FiddleBops
 description: >-
   Incredibox
   Kochariは、クラシックなIncrediboxゲームプレイをアルメニアの民族ダンスKochariの鮮やかな文化と融合させたファン作成モッドです。伝統的なリズムとサウンドでユニークなビートを作成しましょう。
 iframeSrc: 'https://turbowarp.org/718091148/embed'
 thumbnail: /new-images/thumbnails/incredibox-kochari.png
 urlstr: incredibox-kochari
-score: 4.7/5 (2198 votes)
 tags:
   - music
   - cultural
+score: 4.7/5 (2198 votes)
 developer: ''
 releaseDate: 2025-10-10T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: superhot
 title: Superhot
+seoTitle: Juega a Superhot en línea gratis | FiddleBops
 description: >-
   Superhot es un innovador juego de disparos en primera persona en el que el
   tiempo solo avanza cuando tú te mueves, creando una mezcla única de puzle
   táctico y acción estratégica.
 iframeSrc: 'https://superhotgame.com/superhot-prototype-iframe'
 thumbnail: /new-images/thumbnails/superhot.jpg
+urlstr: superhot
 tags:
   - shooting
   - strategy

@@ -1,13 +1,16 @@
 ---
 locale: ko
-urlstr: five-nights-at-freddy-sl
 title: Five Nights at Freddy's Sister Location 파이브 나이츠 앳 프레디 시스터 로케이션
+seoTitle: >-
+  Five Nights at Freddy's Sister Location 파이브 나이츠 앳 프레디 시스터 로케이션 무료 온라인 플레이 |
+  FiddleBops
 description: >-
   Five Nights at Freddy's Sister Location은 밤마다 다른 임무를 수행하며 Funtime 애니매트로닉을 피해
   살아남아야 하는 시프트제 공포 게임입니다. 방 사이를 이동하고 유지 보수 작업을 수행하며, 불길한 연출 속에서 각종 스크립트 이벤트를 버텨
   내야 합니다.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnafsl.html'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-sl.jpg
+urlstr: five-nights-at-freddy-sl
 tags:
   - horror
   - adventure

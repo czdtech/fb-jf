@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Minesweeper 1000"
-description: "Minesweeper 1000 refreshes classic minesweeper — read number logic, flag bombs, and clear huge boards with efficient techniques."
-iframeSrc: "https://5gsana77eub30.h5games.usercontent.goog/v/7363vv8e5mrb8/"
+title: Minesweeper 1000
+seoTitle: Play Minesweeper 1000 Online Free | FiddleBops
+description: >-
+  Minesweeper 1000 refreshes classic minesweeper — read number logic, flag
+  bombs, and clear huge boards with efficient techniques.
+iframeSrc: 'https://5gsana77eub30.h5games.usercontent.goog/v/7363vv8e5mrb8/'
 thumbnail: /new-images/thumbnails/minesweeper-1000.png
-urlstr: "minesweeper-1000"
-score: "4.3/5  (2107 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: minesweeper-1000
+tags:
+  - puzzle
+  - thinky
+score: 4.3/5  (2107 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

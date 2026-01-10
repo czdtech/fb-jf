@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Mergest Kingdom"
-description: "Mergest Kingdom is a merge‑and‑build fantasy — combine tiles, complete quests, and expand realms with efficient chain planning."
-iframeSrc: "https://620tnu7381eao.h5games.usercontent.goog/v/27p309rk86cr8/"
+title: Mergest Kingdom
+seoTitle: Play Mergest Kingdom Online Free | FiddleBops
+description: >-
+  Mergest Kingdom is a merge‑and‑build fantasy — combine tiles, complete quests,
+  and expand realms with efficient chain planning.
+iframeSrc: 'https://620tnu7381eao.h5games.usercontent.goog/v/27p309rk86cr8/'
 thumbnail: /new-images/thumbnails/mergest-kingdom.png
-urlstr: "mergest-kingdom"
-score: "4.2/5  (2079 votes)"
-tags: ["puzzle", "adventure", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: mergest-kingdom
+tags:
+  - puzzle
+  - adventure
+  - thinky
+score: 4.2/5  (2079 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

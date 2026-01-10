@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Five Nights at Freddy's Sister Location"
-description: "Shift‑based horror with tasks: move between rooms, complete maintenance jobs, monitor Funtime animatronics, and survive scripted set‑pieces."
-iframeSrc: "https://ubg77.github.io/fix/fnaf2/fnafsl.html"
+title: Five Nights at Freddy's Sister Location
+seoTitle: Play Five Nights at Freddy's Sister Location Online Free | FiddleBops
+description: >-
+  Shift‑based horror with tasks: move between rooms, complete maintenance jobs,
+  monitor Funtime animatronics, and survive scripted set‑pieces.
+iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnafsl.html'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-sl.jpg
-urlstr: "five-nights-at-freddy-sl"
-score: "3.9/5  (678 votes)"
-tags: ["horror", "adventure"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: five-nights-at-freddy-sl
+tags:
+  - horror
+  - adventure
+score: 3.9/5  (678 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

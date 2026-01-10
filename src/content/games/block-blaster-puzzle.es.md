@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: block-blaster-puzzle
 title: Block Blaster Puzzle
+seoTitle: Juega a Block Blaster Puzzle en línea gratis | FiddleBops
 description: >-
   Block Blaster Puzzle combina la colocación de bloques con limpiezas en cadena:
   encaja las piezas, prepara explosiones de varias líneas y mantén el tablero
   siempre respirable.
 iframeSrc: 'https://0nrdbfos8jhv8.h5games.usercontent.goog/v/6ovao2cpe86og/'
 thumbnail: /new-images/thumbnails/block-blaster-puzzle.png
+urlstr: block-blaster-puzzle
 tags:
   - puzzle
   - thinky

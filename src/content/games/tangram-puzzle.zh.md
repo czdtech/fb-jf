@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: tangram-puzzle
 title: 《Tangram Puzzle》七巧板拼图
+seoTitle: 免费在线玩 《Tangram Puzzle》七巧板拼图 | FiddleBops
 description: 《Tangram Puzzle》是一款基于经典七巧板的拼图游戏。使用七块几何板块，在不给它们重叠的前提下，拼出目标剪影图形。
 iframeSrc: 'https://38lbr23ak5hn8.h5games.usercontent.goog/v/3v2lg4sb2v3ug/'
 thumbnail: /new-images/thumbnails/tangram-puzzle.jpg
+urlstr: tangram-puzzle
 tags:
   - puzzle
   - tangram

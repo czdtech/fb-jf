@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Letter Links"
-description: "A daily word-building challenge. Place your letter tiles on the board to form high-scoring words, utilize bonus squares, and connect all your letters in a single group."
-iframeSrc: "https://7u583tvdi3f00.h5games.usercontent.goog/v/424maigpuljoo/"
+title: Letter Links
+seoTitle: Play Letter Links Online Free | FiddleBops
+description: >-
+  A daily word-building challenge. Place your letter tiles on the board to form
+  high-scoring words, utilize bonus squares, and connect all your letters in a
+  single group.
+iframeSrc: 'https://7u583tvdi3f00.h5games.usercontent.goog/v/424maigpuljoo/'
 thumbnail: /new-images/thumbnails/letter-links.png
-urlstr: "letter-links"
-score: "4.6/5  (2850 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: letter-links
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.6/5  (2850 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

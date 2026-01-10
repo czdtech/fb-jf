@@ -1,14 +1,17 @@
 ---
-locale: "zh"
-urlstr: "sprunki-phase-1"
-
-title: "Sprunki Phase 1 - 在线玩 Sprunki Phase 1"
-description: "Sprunki Phase 1 是进入奇妙 Sprunki 宇宙的完美入口。它提供了一种简单、直观的方式来体验音乐创作的乐趣，看看这个充满活力的创意世界在最初是什么样子。"
-iframeSrc: "https://turbowarp.org/1127823859/embed"
+locale: zh
+title: Sprunki Phase 1
+seoTitle: 免费在线玩 Sprunki Phase 1 | FiddleBops
+description: >-
+  Sprunki Phase 1 是进入奇妙 Sprunki
+  宇宙的完美入口。它提供了一种简单、直观的方式来体验音乐创作的乐趣，看看这个充满活力的创意世界在最初是什么样子。
+iframeSrc: 'https://turbowarp.org/1127823859/embed'
 thumbnail: /new-images/thumbnails/sprunki-phase-1.png
-score: "4.3/5  (96 votes)"
-tags: ["sprunki phase 1"]
-releaseDate: 2025-12-04
+urlstr: sprunki-phase-1
+tags:
+  - sprunki phase 1
+score: 4.3/5  (96 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

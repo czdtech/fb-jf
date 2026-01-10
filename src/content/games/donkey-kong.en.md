@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Donkey Kong"
-description: "Donkey Kong is a classic arcade platformer: climb ladders, avoid hazards, and reach the top to clear stages."
-iframeSrc: "https://ad-freegames.github.io/flash/game/donkey-kong.html"
+title: Donkey Kong
+seoTitle: Play Donkey Kong Online Free | FiddleBops
+description: >-
+  Donkey Kong is a classic arcade platformer: climb ladders, avoid hazards, and
+  reach the top to clear stages.
+iframeSrc: 'https://ad-freegames.github.io/flash/game/donkey-kong.html'
 thumbnail: /new-images/thumbnails/donkey-kong.jpg
-urlstr: "donkey-kong"
-score: "4.0/5  (537 votes)"
-tags: ["platformer", "arcade"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: donkey-kong
+tags:
+  - platformer
+  - arcade
+score: 4.0/5  (537 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

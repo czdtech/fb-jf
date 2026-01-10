@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Perfect Piano"
-description: "Test your rhythm and reflexes in Perfect Piano! Tap the falling notes as they reach the keyboard to play beautiful songs. Don't miss a single tile!"
-iframeSrc: "https://perfectpiano.h5games.usercontent.goog/v/48c3ch9soa7cg/"
+title: Perfect Piano
+seoTitle: Play Perfect Piano Online Free | FiddleBops
+description: >-
+  Test your rhythm and reflexes in Perfect Piano! Tap the falling notes as they
+  reach the keyboard to play beautiful songs. Don't miss a single tile!
+iframeSrc: 'https://perfectpiano.h5games.usercontent.goog/v/48c3ch9soa7cg/'
 thumbnail: /new-images/thumbnails/perfect-piano.png
-urlstr: "perfect-piano"
-score: "4.5/5  (2950 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: perfect-piano
+tags:
+  - action
+  - casual
+score: 4.5/5  (2950 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

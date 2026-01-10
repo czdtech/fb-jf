@@ -1,18 +1,18 @@
 ---
 locale: ko
-urlstr: swap-sprunkgerny
-title: 'Swap Sprunkgerny 스왑 스프렁거니'
+title: Swap Sprunkgerny 스왑 스프렁거니
+seoTitle: Swap Sprunkgerny 스왑 스프렁거니 무료 온라인 플레이 | FiddleBops
 description: >-
-  Swap Sprunkgerny는 여러 기묘한 캐릭터를 드래그해 올려 독특한 음악을 만드는
-  스프룽키 스타일 모드입니다. 자리 바꾸기(스왑)를 통해 서로 다른 사운드를
-  조합하며 자신만의 트랙을 만들어 보세요.
+  Swap Sprunkgerny는 여러 기묘한 캐릭터를 드래그해 올려 독특한 음악을 만드는 스프룽키 스타일 모드입니다. 자리 바꾸기(스왑)를
+  통해 서로 다른 사운드를 조합하며 자신만의 트랙을 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1141050651/embed'
 thumbnail: /new-images/thumbnails/swap-sprunkgerny.png
+urlstr: swap-sprunkgerny
 tags:
   - swap sprunkgerny
   - swap sprunkgerny online
 score: 4.9/5  (724 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Tiger Run
+seoTitle: 無料でTiger Runをオンラインでプレイ | FiddleBops
 description: Tiger Runは、タイガーが主人公のエンドレスランナーゲームです。障害物を避けて走り続けましょう。
 iframeSrc: 'https://tigerrun.h5games.usercontent.goog/v/1cl0c4rtsjsqo/'
 thumbnail: /new-images/thumbnails/tiger-run.jpeg
 urlstr: tiger-run
-score: 3.8/5  (1627 votes)
 tags:
   - runner
   - endless
   - animal
-locale: ja
+score: 3.8/5  (1627 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

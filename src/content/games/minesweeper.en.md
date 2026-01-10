@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Minesweeper"
-description: "Minesweeper is a single-player puzzle video game where the objective is to clear a rectangular board containing hidden \"mines\" or bombs without detonating any of them, with the help of clues about the number of neighboring mines in each field."
-iframeSrc: "https://freeonlinegames.github.io/games/minesweeper/"
+title: Minesweeper
+seoTitle: Play Minesweeper Online Free | FiddleBops
+description: >-
+  Minesweeper is a single-player puzzle video game where the objective is to
+  clear a rectangular board containing hidden "mines" or bombs without
+  detonating any of them, with the help of clues about the number of neighboring
+  mines in each field.
+iframeSrc: 'https://freeonlinegames.github.io/games/minesweeper/'
 thumbnail: /new-images/thumbnails/minesweeper.jpg
-urlstr: "minesweeper"
-score: "3.6/5  (289 votes)"
-tags: ["puzzle", "strategy", "casual"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: minesweeper
+tags:
+  - puzzle
+  - strategy
+  - casual
+score: 3.6/5  (289 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

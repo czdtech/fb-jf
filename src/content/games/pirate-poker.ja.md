@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Pirate Poker
+seoTitle: 無料でPirate Pokerをオンラインでプレイ | FiddleBops
 description: Pirate Pokerは海賊テーマのポーカーゲームです。役を作って賭け、相手より強いハンドで勝ちます。
 iframeSrc: 'https://6ghou5c7rjb9g.h5games.usercontent.goog/v/2n3b0c56pikmo/'
 thumbnail: /new-images/thumbnails/pirate-poker.png
 urlstr: pirate-poker
-score: 4.3/5  (2200 votes)
 tags:
   - card
   - casual
+score: 4.3/5  (2200 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: giant-attack
 title: Giant Attack
+seoTitle: Spiele Giant Attack kostenlos online | FiddleBops
 description: >-
   Stelle dich gewaltigen Riesen in Giant Attack! Sammle Verbündete, um an Größe
   und Stärke zu gewinnen, und schleudere immer mächtigere Angriffe, bis die
   Giganten fallen.
 iframeSrc: 'https://5699ri02mr840.h5games.usercontent.goog/v/0dov2qbpnafb0/'
 thumbnail: /new-images/thumbnails/giant-attack.png
+urlstr: giant-attack
 tags:
   - action
   - casual

@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: candy-bubbles
 title: Candy Bubbles 糖果泡泡龙
+seoTitle: 免费在线玩 Candy Bubbles 糖果泡泡龙 | FiddleBops
 description: 《Candy Bubbles》是一款糖果主题的泡泡射击游戏，瞄准发射糖果泡泡，连成三个及以上同色即可消除，清空棋盘 的同时欣赏甜蜜糖果世界。
 iframeSrc: 'https://candybubbles.h5games.usercontent.goog/v/370v1t5h5266g/'
 thumbnail: /new-images/thumbnails/candy-bubbles.png
+urlstr: candy-bubbles
 tags:
   - shooting
   - puzzle

@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: bank-robbery
 title: Bank Robbery
+seoTitle: Spiele Bank Robbery kostenlos online | FiddleBops
 description: >-
   Ein ausführlicher Guide zu Bank Robbery 2, einem teambasierten Ego‑Shooter
   rund um Banküberfälle. Lerne Strategien für Räuber und Cops, die Steuerung und
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://app-183971.games.s3.yandex.net/183971/l0eme2yqkthl0y8stmfuz0u8pdpux64m/index.html
 thumbnail: /new-images/thumbnails/bank-robbery.jpg
+urlstr: bank-robbery
 tags:
   - fPS
   - action

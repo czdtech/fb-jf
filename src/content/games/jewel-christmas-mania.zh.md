@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: jewel-christmas-mania
 title: 《Jewel Christmas Mania》圣诞宝石狂欢
+seoTitle: 免费在线玩 《Jewel Christmas Mania》圣诞宝石狂欢 | FiddleBops
 description: >-
   《Jewel Christmas
   Mania》是一款充满节日气氛的三消游戏，你要在圣诞主题棋盘上交换闪耀宝石，完成关卡目标、触发华丽连锁，感受节日灯火与音乐的双重氛围。
 iframeSrc: 'https://jewelchristmasmania.h5games.usercontent.goog/v/3vom8bn0qgmto/'
 thumbnail: /new-images/thumbnails/jewel-christmas-mania.png
+urlstr: jewel-christmas-mania
 tags:
   - puzzle
   - casual

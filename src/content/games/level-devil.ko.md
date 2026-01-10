@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: level-devil
 title: Level Devil 트롤 플랫폼
+seoTitle: Level Devil 트롤 플랫폼 무료 온라인 플레이 | FiddleBops
 description: >-
   갑자기 바뀌는 함정과 가짜 출구가 가득한 트롤 플랫폼 게임 'Level Devil' 가이드입니다. 숨겨진 함정을 익히고 침착하게 레벨을
   돌파해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231215/10/index.html
 thumbnail: /new-images/thumbnails/level-devil.jpg
+urlstr: level-devil
 tags:
   - platformer
   - puzzle

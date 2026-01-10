@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: coloring-match
 title: Coloring Match
+seoTitle: Spiele Coloring Match kostenlos online | FiddleBops
 description: >-
   Coloring Match bringt dir Farbmischen bei – kombiniere Farben, um Zieltöne zu
   treffen, justiere Farbton/Sättigung und feile mit kleinen Anpassungen am
   perfekten Match.
 iframeSrc: 'https://21t5l4ct88d8g.h5games.usercontent.goog/v/6kels35kspngg/'
 thumbnail: /new-images/thumbnails/coloring-match.jpg
+urlstr: coloring-match
 tags:
   - puzzle
   - casual

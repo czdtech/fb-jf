@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: tic-tac-toe-mania
 title: Tic Tac Toe Mania 틱택토 매니아
+seoTitle: Tic Tac Toe Mania 틱택토 매니아 무료 온라인 플레이 | FiddleBops
 description: >-
   Tic Tac Toe Mania는 삼목(틱택토)을 여러 변형 규칙과 함께 즐길 수 있는 두뇌 싸움 게임으로, 포크를 유도하고 위협을 차단하며
   무승부 또는 승리를 노리는 전략 플레이가 핵심입니다.
 iframeSrc: 'https://7dcsid310v1u8.h5games.usercontent.goog/v/13cfdat69ufug/'
 thumbnail: /new-images/thumbnails/tic-tac-toe-mania.png
+urlstr: tic-tac-toe-mania
 tags:
   - 2 player
   - thinky

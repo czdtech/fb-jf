@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: cookie-clicker
 title: Cookie Clicker
+seoTitle: Jouez à Cookie Clicker en ligne gratuitement | FiddleBops
 description: "Cookie Clicker est le clicker culte\_: clique pour cuire des cookies, achète des bâtiments automatiques, débloque des upgrades et fais monter ton compteur à des nombres absurdes."
 iframeSrc: 'https://freeonlinegames.github.io/cookie-clicker/'
 thumbnail: /new-images/thumbnails/cookie-clicker.jpg
+urlstr: cookie-clicker
 tags:
   - casual
   - clicker

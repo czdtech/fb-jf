@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Snake.io
+seoTitle: 無料でSnake.ioをオンラインでプレイ | FiddleBops
 description: Snake.ioはオンラインのヘビ成長ゲームです。ペレットを食べて成長し、相手を避けたり巻き込んだりしながら上位を目指します。
 iframeSrc: 'https://snake.io/crazygames/'
 thumbnail: /new-images/thumbnails/snake-io.jpg
 urlstr: snake-io
-score: 3.5/5  (677 votes)
 tags:
   - io-games
   - snake
   - multiplayer
+score: 3.5/5  (677 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

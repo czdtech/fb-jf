@@ -1,17 +1,18 @@
 ---
 locale: fr
-urlstr: incredibox-yellow-colorbox
 title: Incredibox Yellow Colorbox
+seoTitle: Jouez à Incredibox Yellow Colorbox en ligne gratuitement | FiddleBops
 description: >-
   Incredibox Yellow Colorbox est un mod thématique jaune : sons électroniques
   lumineux et esthétique monochrome pour des mixes très marqués visuellement.
 iframeSrc: 'https://www.minijuegos.com/embed/incredibox-yellow-colorbox'
 thumbnail: /new-images/thumbnails/incredibox-yellow-colorbox.png
+urlstr: incredibox-yellow-colorbox
 tags:
   - music
   - rhythm
 score: 4.5/5  (614 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:tips -->

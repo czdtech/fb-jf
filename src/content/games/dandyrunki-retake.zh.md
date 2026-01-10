@@ -1,17 +1,18 @@
 ---
 locale: zh
-urlstr: dandyrunki-retake
-title: "Dandyrunki Retake - 在线玩 Dandyrunki Retake 混音版"
+title: Dandyrunki Retake
+seoTitle: 免费在线玩 Dandyrunki Retake | FiddleBops
 description: >-
-  在《Dandyrunki Retake》混音版中，你可以零门槛上手，自由组合节奏与旋律。无论是轻度玩
-  家还是音乐爱好者，都能在这款 Remix 中找到属于自己的创作乐趣。
+  在《Dandyrunki Retake》混音版中，你可以零门槛上手，自由组合节奏与旋律。无论是轻度玩 家还是音乐爱好者，都能在这款 Remix
+  中找到属于自己的创作乐趣。
 iframeSrc: 'https://turbowarp.org/1126924449/embed'
 thumbnail: /new-images/thumbnails/dandyrunki-retake.png
+urlstr: dandyrunki-retake
 tags:
   - dandyrunki retake
   - dandyrunki retake online
 score: 3.7/5  (255 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Dandyrunki Retake 有什么好玩之处？

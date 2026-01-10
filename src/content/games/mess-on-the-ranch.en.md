@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Mess on the Ranch"
-description: "Mess on the Ranch is a tidy‑up puzzler — sort animals and tools, repair fences, and restore order with efficient routing."
-iframeSrc: "https://0b9371ju6aitg.h5games.usercontent.goog/v/0f8khbpbtdrg8/"
+title: Mess on the Ranch
+seoTitle: Play Mess on the Ranch Online Free | FiddleBops
+description: >-
+  Mess on the Ranch is a tidy‑up puzzler — sort animals and tools, repair
+  fences, and restore order with efficient routing.
+iframeSrc: 'https://0b9371ju6aitg.h5games.usercontent.goog/v/0f8khbpbtdrg8/'
 thumbnail: /new-images/thumbnails/mess-on-the-ranch.png
-urlstr: "mess-on-the-ranch"
-score: "4.0/5  (1882 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: mess-on-the-ranch
+tags:
+  - puzzle
+  - casual
+  - thinky
+score: 4.0/5  (1882 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

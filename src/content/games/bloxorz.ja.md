@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Bloxorz ブロックス
+seoTitle: 無料でBloxorz ブロックスをオンラインでプレイ | FiddleBops
 description: 1×2×1 のブロックを転がし、穴に直立状態で落とし込む 3D ロジックパズル Bloxorz。精密な読みと計画で 33 ステージを攻略しよう。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/bloxorz.html'
 thumbnail: /new-images/thumbnails/bloxorz.jpg
 urlstr: bloxorz
-score: 3.9/5  (922 votes)
 tags:
   - puzzle
   - thinky
   - classic
+score: 3.9/5  (922 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

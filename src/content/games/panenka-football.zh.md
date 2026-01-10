@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: panenka-football
 title: 《Panenka Football》勺子点球大师
+seoTitle: 免费在线玩 《Panenka Football》勺子点球大师 | FiddleBops
 description: >-
   《Panenka
   Football》是一款专注点球策略的足球小游戏，你可以尝试经典“勺子点球”等各种射门方式，通过伪装意图与精准挑射，骗过门将、攻入关键一球。
 iframeSrc: 'https://15n5pfdq70ung.h5games.usercontent.goog/v/2ftdtu6n19sk8/'
 thumbnail: /new-images/thumbnails/panenka-football.png
+urlstr: panenka-football
 tags:
   - sports
   - soccer

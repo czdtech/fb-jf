@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "G-Switch"
-description: "One‑button gravity runner: flip gravity to keep running across platforms, avoid gaps and saws, and survive increasing speed." 
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/5/index.html"
+title: G-Switch
+seoTitle: Play G-Switch Online Free | FiddleBops
+description: >-
+  One‑button gravity runner: flip gravity to keep running across platforms,
+  avoid gaps and saws, and survive increasing speed.
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/5/index.html
 thumbnail: /new-images/thumbnails/g-switch.jpg
-urlstr: "g-switch"
-score: "3.7/5  (1326 votes)"
-tags: ["runner", "platformer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: g-switch
+tags:
+  - runner
+  - platformer
+score: 3.7/5  (1326 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

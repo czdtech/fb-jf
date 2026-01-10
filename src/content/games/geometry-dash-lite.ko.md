@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: geometry-dash-lite
 title: Geometry Dash Lite 지오메트리 대시 라이트
+seoTitle: Geometry Dash Lite 지오메트리 대시 라이트 무료 온라인 플레이 | FiddleBops
 description: >-
   리듬에 맞춰 점프하고 날아가며 장애물을 피하는 Geometry Dash 입문 버전입니다. 음악에 맞춘 여러 기본 스테이지에서 점프 패드와
   포탈, 비행 파트에 도전해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20240221/08/index.html
 thumbnail: /new-images/thumbnails/geometry-dash-lite.jpg
+urlstr: geometry-dash-lite
 tags:
   - rhythm
   - platformer

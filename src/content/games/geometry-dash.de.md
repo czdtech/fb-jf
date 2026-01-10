@@ -1,17 +1,18 @@
 ---
 locale: de
-urlstr: geometry-dash
-title: "Geometry Dash Wave Spam - Play Geometry Dash Online"
+title: Geometry Dash Wave Spam
+seoTitle: Spiele Geometry Dash Wave Spam kostenlos online | FiddleBops
 description: >-
   Geometry Dash Wave Spam ist ein Hardcore-Wave-Training: keine Portale, keine
   Pads, keine Coins – nur du, dein Schiff und enge Pixelkorridore, die dein
   Timing bis an die Grenze treiben.
 iframeSrc: 'https://turbowarp.org/1185431027/embed'
 thumbnail: /new-images/thumbnails/geometry-dash.png
+urlstr: geometry-dash
 tags:
   - geometry dash
 score: 4.5/5  (604 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

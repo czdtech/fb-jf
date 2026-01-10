@@ -1,12 +1,14 @@
 ---
 locale: fr
-urlstr: text-twist-2
 title: Text Twist 2
+seoTitle: Jouez à Text Twist 2 en ligne gratuitement | FiddleBops
 description: >-
   Text Twist 2 est la suite du puzzle de mots populaire : nouveaux modes,
   dictionnaire elargi et graphismes ameliores pour tester ton vocabulaire.
-iframeSrc: 'https://games.cdn.famobi.com/html5games/t/text-twist-2/v110/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=40935b5f-cfef-4ac2-9179-549869282f4b&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=693&original_ref='
+iframeSrc: >-
+  https://games.cdn.famobi.com/html5games/t/text-twist-2/v110/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=40935b5f-cfef-4ac2-9179-549869282f4b&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=693&original_ref=
 thumbnail: /new-images/thumbnails/text-twist-2.jpg
+urlstr: text-twist-2
 tags:
   - word-game
   - puzzle

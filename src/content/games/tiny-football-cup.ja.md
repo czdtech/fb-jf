@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Tiny Football Cup
+seoTitle: 無料でTiny Football Cupをオンラインでプレイ | FiddleBops
 description: Tiny Football Cupは、ミニサッカーゲームです。小さなフィールドで激しい試合を楽しみましょう。
 iframeSrc: 'https://67buf3k7fmhlg.h5games.usercontent.goog/v/4r92r0smsurf0/'
 thumbnail: /new-images/thumbnails/tiny-football-cup.png
 urlstr: tiny-football-cup
-score: 3.9/5  (1761 votes)
 tags:
   - sports
   - football
   - arcade
-locale: ja
+score: 3.9/5  (1761 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

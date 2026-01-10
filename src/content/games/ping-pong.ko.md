@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: ping-pong
 title: Ping Pong 탁구 게임
+seoTitle: Ping Pong 탁구 게임 무료 온라인 플레이 | FiddleBops
 description: '클래식 아케이드 스타일의 탁구 게임입니다. 패들을 움직여 공을 되받아치고, 상대가 놓치도록 만들어 점수를 따내 보세요.'
 iframeSrc: 'https://ranimania.com/Games/pingpong/ping_pong/'
 thumbnail: /new-images/thumbnails/ping-pong.jpg
+urlstr: ping-pong
 tags:
   - arcade
   - sports

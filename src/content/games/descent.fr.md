@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: descent
 title: Descent
+seoTitle: Jouez à Descent en ligne gratuitement | FiddleBops
 description: "Descent est un jeu de chute libre arcade\_: fais descendre ta bille à travers des plateformes mobiles sans te faire écraser."
 iframeSrc: 'https://g2.igroutka.ru/games/17/4tWRaCD7AOzxbTsE/descent/'
 thumbnail: /new-images/thumbnails/descent.jpg
+urlstr: descent
 tags:
   - action
   - casual

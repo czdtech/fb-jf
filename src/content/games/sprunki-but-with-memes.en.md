@@ -1,6 +1,7 @@
 ---
 locale: en
-title: Sprunki But With Memes - Play Sprunki But With Memes Online
+title: Sprunki But With Memes
+seoTitle: Play Sprunki But With Memes Online Free | FiddleBops
 description: >-
   Sprunki but with memes is a music game that allows you to create as much as
   you want in the sea of memes. Come and join Sprunki but with memes, and use
@@ -8,11 +9,11 @@ description: >-
 iframeSrc: 'https://kdata1.com/5000/2024/sprunki-retake-memes/'
 thumbnail: /new-images/thumbnails/sprunki-but-with-memes.png
 urlstr: sprunki-but-with-memes
-modType: sprunki
-score: 4.2/5  (142 votes)
 tags:
   - sprunki but with memes
   - music
+modType: sprunki
+score: 4.2/5  (142 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

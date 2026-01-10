@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: shootz
 title: 《Shootz》简约塔防射击
+seoTitle: 免费在线玩 《Shootz》简约塔防射击 | FiddleBops
 description: 《Shootz》是一款轻量级塔防+射击结合的小游 戏。你需要操控炮台或防御塔，射击从四面八方涌来的敌人，防止它们接近你的核心基地。
 iframeSrc: 'https://g.igroutka.ru/games/17/9IsudOxakgP0EVKC/shootz/'
 thumbnail: /new-images/thumbnails/shootz.jpg
+urlstr: shootz
 tags:
   - tower defense
   - shooting

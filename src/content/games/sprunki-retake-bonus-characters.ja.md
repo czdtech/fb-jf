@@ -1,13 +1,17 @@
 ---
-title: "Sprunki Retake Bonus Characters - Play Sprunki Retake Bonus Characters Online"
-description: "Sprunki Retake Bonus Charactersは、古代文化へのオマージュを感じる民族的なサウンドで音作りを楽しめるModです。部族リズムや独特の音色を重ねてトラックを作れます。"
-iframeSrc: "https://turbowarp.org/1107905149/embed"
-thumbnail: /new-images/thumbnails/sprunki-retake-bonus-characters.png
-urlstr: "sprunki-retake-bonus-characters"
-score: "3.9/5  (132 votes)"
-tags: ["sprunki retake bonus characters"]
 locale: ja
-releaseDate: 2025-12-04
+title: Sprunki Retake Bonus Characters
+seoTitle: 無料でSprunki Retake Bonus Charactersをオンラインでプレイ | FiddleBops
+description: >-
+  Sprunki Retake Bonus
+  Charactersは、古代文化へのオマージュを感じる民族的なサウンドで音作りを楽しめるModです。部族リズムや独特の音色を重ねてトラックを作れます。
+iframeSrc: 'https://turbowarp.org/1107905149/embed'
+thumbnail: /new-images/thumbnails/sprunki-retake-bonus-characters.png
+urlstr: sprunki-retake-bonus-characters
+tags:
+  - sprunki retake bonus characters
+score: 3.9/5  (132 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Retake Bonus Charactersの紹介

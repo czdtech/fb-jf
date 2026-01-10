@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: house-flip
-title: "House Flip"
+title: House Flip
+seoTitle: Spiele House Flip kostenlos online | FiddleBops
 description: >-
   House Flip macht Renovieren zum Spiel: Inspiziere Häuser, plane dein Budget
   für Upgrades und verkaufe sie mit besserem Grundriss, Stil und Außenwirkung
   gewinnbringend weiter.
 iframeSrc: 'https://45g7qkftithd0.h5games.usercontent.goog/v/7691fk060s8pg/'
 thumbnail: /new-images/thumbnails/house-flip.png
+urlstr: house-flip
 tags:
   - puzzle
   - casual

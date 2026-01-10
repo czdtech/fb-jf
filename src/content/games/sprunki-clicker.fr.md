@@ -1,17 +1,18 @@
 ---
 locale: fr
-urlstr: sprunki-clicker
-title: 'Sprunki Clicker - Jouer à Sprunki Clicker en ligne'
+title: Sprunki Clicker
+seoTitle: Jouez à Sprunki Clicker en ligne gratuitement | FiddleBops
 description: >-
   Sprunki Clicker est un jeu idle / clicker musical où chaque clic fait évoluer
-  ton univers sonore. Accumule de l’énergie, débloque de nouveaux personnages
-  et fais grandir ton arbre d’harmonie au rythme de tes mélodies.
+  ton univers sonore. Accumule de l’énergie, débloque de nouveaux personnages et
+  fais grandir ton arbre d’harmonie au rythme de tes mélodies.
 iframeSrc: 'https://1games.io/game/sprunki-clicker/'
 thumbnail: /new-images/thumbnails/sprunki-clicker.png
+urlstr: sprunki-clicker
 tags:
   - sprunki clicker
-score: "4.7/5  (524 votes)"
-releaseDate: 2025-12-04
+score: 4.7/5  (524 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

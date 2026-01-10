@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: sugar-heroes
 title: Sugar Heroes
+seoTitle: Jouez à Sugar Heroes en ligne gratuitement | FiddleBops
 description: "Sugar Heroes est un match‑3 dynamique\_: libère les blocs, fusionne les bonus et atteins les objectifs de niveau avec des combos bien préparés."
 iframeSrc: 'https://2f4eprapfvtoo.h5games.usercontent.goog/v/4bc5h26thvau8/'
 thumbnail: /new-images/thumbnails/sugar-heroes.png
+urlstr: sugar-heroes
 tags:
   - puzzle
   - casual

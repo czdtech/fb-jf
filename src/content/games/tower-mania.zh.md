@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: tower-mania
 title: 《Tower Mania》高塔叠叠乐
+seoTitle: 免费在线玩 《Tower Mania》高塔叠叠乐 | FiddleBops
 description: 《Tower Mania》是一款考验节奏与精度的叠塔游戏。通过在合适时机放下移动中的楼层方块，将高塔一层层叠向天空，尽量避免偏移导致塔体变窄甚至倒塌。
 iframeSrc: 'https://49pvu1mm0ofc0.h5games.usercontent.goog/v/4apam1d97c7mo/'
 thumbnail: /new-images/thumbnails/tower-mania.png
+urlstr: tower-mania
 tags:
   - arcade
   - one button

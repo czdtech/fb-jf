@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: tile-journey
 title: Tile Journey 타일 저니
+seoTitle: Tile Journey 타일 저니 무료 온라인 플레이 | FiddleBops
 description: >-
   차분하게 즐길 수 있는 타일 매칭 퍼즐 게임 Tile Journey입니다. 같은 타일 세 장을 골라 보드를 비우되, 한정된 수의 수집 트레이
   칸이 가득 차지 않도록 계획적으로 플레이해야 합니다.
 iframeSrc: 'https://0i1jh8boqif48.h5games.usercontent.goog/v/1643ot8on0v9g/'
 thumbnail: /new-images/thumbnails/tile-journey.png
+urlstr: tile-journey
 tags:
   - puzzle
   - casual

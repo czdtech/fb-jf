@@ -1,14 +1,22 @@
 ---
 locale: en
-title: "Scooter Xtreme 3D"
-description: "Hit the skate park in Scooter Xtreme 3D! Race through challenging courses, perform awesome stunts and grinds, and collect coins to unlock new scooters and characters."
-iframeSrc: "https://scooterxtreme.h5games.usercontent.goog/v/c842db43-7823-45bc-b575-acbd9bda5de4/"
+title: Scooter Xtreme 3D
+seoTitle: Play Scooter Xtreme 3D Online Free | FiddleBops
+description: >-
+  Hit the skate park in Scooter Xtreme 3D! Race through challenging courses,
+  perform awesome stunts and grinds, and collect coins to unlock new scooters
+  and characters.
+iframeSrc: >-
+  https://scooterxtreme.h5games.usercontent.goog/v/c842db43-7823-45bc-b575-acbd9bda5de4/
 thumbnail: /new-images/thumbnails/scooter-xtreme.jpg
-urlstr: "scooter-xtreme"
-score: "4.3/5  (2200 votes)"
-tags: ["action", "sports", "driving"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: scooter-xtreme
+tags:
+  - action
+  - sports
+  - driving
+score: 4.3/5  (2200 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

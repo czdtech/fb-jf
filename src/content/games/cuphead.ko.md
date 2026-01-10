@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: cuphead
 title: Cuphead 컵헤드
+seoTitle: Cuphead 컵헤드 무료 온라인 플레이 | FiddleBops
 description: '빠른 템포의 런앤건 액션 게임 Cuphead입니다. 정밀한 점프와 대시, 보스 패턴을 익혀 숨 막히는 전투를 돌파해 보세요.'
 iframeSrc: 'https://bitlifeonline.github.io/cuphead/'
 thumbnail: /new-images/thumbnails/cuphead.jpg
+urlstr: cuphead
 tags:
   - action
   - platformer

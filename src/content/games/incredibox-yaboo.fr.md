@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: incredibox-yaboo
 title: Incredibox Yaboo
+seoTitle: Jouez à Incredibox Yaboo en ligne gratuitement | FiddleBops
 description: >-
   Incredibox Yaboo est un mod fan‑made coloré : beats punchy, voix fun et
   visuels cartoon pour des mixes légers et dynamiques.
 iframeSrc: 'https://turbowarp.org/1095206379/embed'
 thumbnail: /new-images/thumbnails/incredibox-yaboo.png
+urlstr: incredibox-yaboo
 tags:
   - music
   - rhythm

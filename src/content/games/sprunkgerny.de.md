@@ -1,15 +1,20 @@
 ---
 locale: de
-urlstr: sprunkgerny
-title: "Sprunkgerny - Sprunkgerny online spielen"
-description: "Wenn du nach einem wirklich ungewöhnlichen Musikerlebnis suchst, ist Sprunkgerny ein Muss: Es sprengt die Grenzen klassischer Rhythmusspiele, feiert Unperfektes und Zufall und lässt dich in einer schrägen, surrealen Welt frei mit Sounds experimentieren."
+title: Sprunkgerny
+seoTitle: Spiele Sprunkgerny kostenlos online | FiddleBops
+description: >-
+  Wenn du nach einem wirklich ungewöhnlichen Musikerlebnis suchst, ist
+  Sprunkgerny ein Muss: Es sprengt die Grenzen klassischer Rhythmusspiele,
+  feiert Unperfektes und Zufall und lässt dich in einer schrägen, surrealen Welt
+  frei mit Sounds experimentieren.
 iframeSrc: 'https://turbowarp.org/1107761681/embed'
 thumbnail: /new-images/thumbnails/sprunkgerny.png
+urlstr: sprunkgerny
 tags:
   - sprunkgerny
   - sprunkgerny online
 score: 4.9/5  (724 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Einführung in Sprunkgerny

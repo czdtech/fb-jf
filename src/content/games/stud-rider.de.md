@@ -1,10 +1,13 @@
 ---
 locale: de
-urlstr: stud-rider
-title: "Stud Rider"
-description: "Stud Rider ist ein Motorrad‑Hill‑Runner: Halte dein Tempo im Fluss, lande möglichst flach und verbinde Sprünge sauber über ruppiges Gelände." 
+title: Stud Rider
+seoTitle: Spiele Stud Rider kostenlos online | FiddleBops
+description: >-
+  Stud Rider ist ein Motorrad‑Hill‑Runner: Halte dein Tempo im Fluss, lande
+  möglichst flach und verbinde Sprünge sauber über ruppiges Gelände.
 iframeSrc: 'https://0mm8l94jf1g88.h5games.usercontent.goog/v/6fo3rapem7uio/'
 thumbnail: /new-images/thumbnails/stud-rider.png
+urlstr: stud-rider
 tags:
   - bike
   - driving

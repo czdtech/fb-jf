@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: mahjong-solitaire
-title: Mahjong Solitaire - Puzle clásico para un jugador
+title: Mahjong Solitaire
+seoTitle: Juega a Mahjong Solitaire en línea gratis | FiddleBops
 description: >-
   Pon a prueba tu mente con Mahjong Solitaire. Encuentra y empareja fichas
   idénticas y libres para despejar el tablero en este puzle clásico y relajante.
 iframeSrc: 'https://4erks8385j9eo.h5games.usercontent.goog/v/1ff4p4m8ilme8/'
 thumbnail: /new-images/thumbnails/mahjong-solitaire.png
+urlstr: mahjong-solitaire
 tags:
   - puzzle
   - card

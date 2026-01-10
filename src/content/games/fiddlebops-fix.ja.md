@@ -1,13 +1,17 @@
 ---
-title: "Fiddlebops Fix - Fiddlebops Fixをオンラインでプレイ"
-description: "Fiddlebops Fixは、無料で遊べるクリエイティブなオンライン音楽ゲームです。トラックを作曲し、インタラクティブなストーリーを探索し、活気あるコミュニティと交流しましょう。"
-iframeSrc: "https://turbowarp.org/1131610529/embed"
-thumbnail: /new-images/thumbnails/fiddlebops-fix.png
-urlstr: "fiddlebops-fix"
-score: "4.6/5  (217 votes)"
-tags: ["fiddlebops fix"]
 locale: ja
-releaseDate: 2025-12-04
+title: Fiddlebops Fix
+seoTitle: 無料でFiddlebops Fixをオンラインでプレイ | FiddleBops
+description: >-
+  Fiddlebops
+  Fixは、無料で遊べるクリエイティブなオンライン音楽ゲームです。トラックを作曲し、インタラクティブなストーリーを探索し、活気あるコミュニティと交流しましょう。
+iframeSrc: 'https://turbowarp.org/1131610529/embed'
+thumbnail: /new-images/thumbnails/fiddlebops-fix.png
+urlstr: fiddlebops-fix
+tags:
+  - fiddlebops fix
+score: 4.6/5  (217 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Fiddlebops Fixは何が特別なの？

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: flames-fortune
 title: Flames & Fortune 플레임즈 & 포춘
+seoTitle: Flames & Fortune 플레임즈 & 포춘 무료 온라인 플레이 | FiddleBops
 description: >-
   Flames & Fortune는 전술적인 카드 스타일 배틀 게임입니다. 손패와 템포를 관리하며 매 턴 최적의 선택을 통해 상대를 압도해
   보세요.
 iframeSrc: 'https://0e8d16hkgti30.h5games.usercontent.goog/v/00r0qn2t79f3g/'
 thumbnail: /new-images/thumbnails/flames-fortune.jpg
+urlstr: flames-fortune
 tags:
   - card
   - thinky

@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: sky-tower
 title: Sky Tower
+seoTitle: Jouez à Sky Tower en ligne gratuitement | FiddleBops
 description: "Sky Tower est un jeu d’empilement\_: déclenche tes chutes au bon moment pour aligner les étages, limiter les débords et construire la tour la plus haute et la plus propre possible."
 iframeSrc: 'https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/'
 thumbnail: /new-images/thumbnails/sky-tower.png
+urlstr: sky-tower
 tags:
   - puzzle
   - thinky

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: veggies-cut
 title: Veggies Cut
+seoTitle: Spiele Veggies Cut kostenlos online | FiddleBops
 description: >-
   Veggies Cut ist ein schnelles Küchen‑Slice‑Game: Ziehe lange, saubere Schnitte
   durch Gemüse, weiche Gefahren aus und halte deinen Rhythmus für hohe
   Kombopunkte.
 iframeSrc: 'https://01pgt4aflffvo.h5games.usercontent.goog/v/2kpv41q3jen50/'
 thumbnail: /new-images/thumbnails/veggies-cut.jpg
+urlstr: veggies-cut
 tags:
   - action
   - casual

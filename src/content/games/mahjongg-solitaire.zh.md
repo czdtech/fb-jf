@@ -1,12 +1,14 @@
 ---
 locale: zh
-urlstr: mahjongg-solitaire
-title: "《Mahjongg Solitaire》经典麻将牌连连看"
+title: 《Mahjongg Solitaire》经典麻将牌连连看
+seoTitle: 免费在线玩 《Mahjongg Solitaire》经典麻将牌连连看 | FiddleBops
 description: >-
-  《Mahjongg Solitaire》（又称麻将消除或上海接龙）是一款经典的单人麻将牌配对益智游戏。找出并消除一对对相同且“自由”的牌，解锁被压住的牌面，最终清空整块布局。
+  《Mahjongg
+  Solitaire》（又称麻将消除或上海接龙）是一款经典的单人麻将牌配对益智游戏。找出并消除一对对相同且“自由”的牌，解锁被压住的牌面，最终清空整块布局。
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjongg-solitaire/
 thumbnail: /new-images/thumbnails/mahjongg-solitaire.jpg
+urlstr: mahjongg-solitaire
 tags:
   - puzzle
   - tile-matching

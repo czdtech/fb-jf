@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Bloons TD 4 ブルーンズTD 4
+seoTitle: 無料でBloons TD 4 ブルーンズTD 4をオンラインでプレイ | FiddleBops
 description: シリーズの転換点「Bloons TD 4」。分岐するアップグレード、ランク制度、そして赤い悪夢「BFB」が登場。育成と選択が鍵となる現代的TDの原点。
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-4.html'
 thumbnail: /new-images/thumbnails/bloons-td-4.jpg
 urlstr: bloons-td-4
-score: 4.3/5  (852 votes)
 tags:
   - casual
   - strategy
+score: 4.3/5  (852 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

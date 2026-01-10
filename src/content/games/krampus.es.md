@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: krampus
 title: Krampus
+seoTitle: Juega a Krampus en línea gratis | FiddleBops
 description: >-
   Plataformas de terror navideño: recorre niveles oscuros, evita trampas y
   criaturas y encuentra llaves y objetos para escapar de la guarida de Krampus.
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/krampus1/'
 thumbnail: /new-images/thumbnails/krampus.jpg
+urlstr: krampus
 tags:
   - horror
   - platformer

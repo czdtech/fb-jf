@@ -1,14 +1,15 @@
 ---
-locale: "zh"
-urlstr: "sprunki-babies"
-
-title: "Sprunki Babies - 在线玩 Sprunki Babies"
-description: "这款迷人的音乐沙盒游戏让你掌控一群可爱的 Sprunki 宝宝角色，每个角色都准备好为你的作品贡献独特的音乐声音。"
-iframeSrc: "https://turbowarp.org/1110888906/embed"
+locale: zh
+title: Sprunki Babies
+seoTitle: 免费在线玩 Sprunki Babies | FiddleBops
+description: 这款迷人的音乐沙盒游戏让你掌控一群可爱的 Sprunki 宝宝角色，每个角色都准备好为你的作品贡献独特的音乐声音。
+iframeSrc: 'https://turbowarp.org/1110888906/embed'
 thumbnail: /new-images/thumbnails/sprunki-babies.png
-score: "4.0/5  (212 votes)"
-tags: ["sprunki babies"]
-releaseDate: 2025-12-04
+urlstr: sprunki-babies
+tags:
+  - sprunki babies
+score: 4.0/5  (212 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

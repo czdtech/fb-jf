@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: futoshiki
 title: Futoshiki
+seoTitle: Jouez à Futoshiki en ligne gratuitement | FiddleBops
 description: >-
   Futoshiki affûte ta logique : place des chiffres uniques par ligne et colonne
   tout en respectant les signes d’inégalité pour des déductions élégantes.
 iframeSrc: 'https://6g7i64vihegl0.h5games.usercontent.goog/v/7bd886r75d4ag/'
 thumbnail: /new-images/thumbnails/futoshiki.jpg
+urlstr: futoshiki
 tags:
   - puzzle
   - thinky

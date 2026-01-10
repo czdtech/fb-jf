@@ -1,13 +1,16 @@
 ---
 locale: es
-urlstr: air-traffic-control
-title: "Air Traffic Control simulador de control aéreo"
+title: Air Traffic Control simulador de control aéreo
+seoTitle: >-
+  Juega a Air Traffic Control simulador de control aéreo en línea gratis |
+  FiddleBops
 description: >-
   Air Traffic Control es un juego de gestión en tiempo real donde organizas
   llegadas y salidas de aviones. Marca rumbos, evita conflictos y coordina
   aterrizajes seguros desde tu pantalla.
 iframeSrc: 'https://2nuk1jh1nvsq8.h5games.usercontent.goog/v/5glj0btngbu2o/'
 thumbnail: /new-images/thumbnails/air-traffic-control.png
+urlstr: air-traffic-control
 tags:
   - thinky
   - puzzle

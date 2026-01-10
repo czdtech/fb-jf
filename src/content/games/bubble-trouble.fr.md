@@ -1,11 +1,12 @@
 ---
 locale: fr
-urlstr: bubble-trouble
 title: Bubble Trouble
+seoTitle: Jouez à Bubble Trouble en ligne gratuitement | FiddleBops
 description: "Bubble Trouble est un arcade nerveux\_: tire ton harpon vers le haut pour éclater les bulles rebondissantes, qui se divisent en bulles de plus en plus petites jusqu’à disparaître."
 iframeSrc: >-
   https://app-96647.games.s3.yandex.net/96647/w4h0ydt7quklspc0jxwg9kauaiii2lnx/index.html
 thumbnail: /new-images/thumbnails/bubble-trouble.jpg
+urlstr: bubble-trouble
 tags:
   - arcade
   - action

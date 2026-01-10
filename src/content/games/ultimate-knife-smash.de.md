@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: ultimate-knife-smash
 title: Ultimate Knife Smash
+seoTitle: Spiele Ultimate Knife Smash kostenlos online | FiddleBops
 description: >-
   Ultimate Knife Smash ist ein Reaktions‑Wurfspiel: Timinge deine Würfe, triff
   Lücken zwischen den Messern und zerbrich das Ziel sauber, ohne vorhandene
   Klingen zu treffen.
 iframeSrc: 'https://ultimateknifesmash.h5games.usercontent.goog/v/5ifrmqkiihdj0/'
 thumbnail: /new-images/thumbnails/ultimate-knife-smash.png
+urlstr: ultimate-knife-smash
 tags:
   - action
   - casual

@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Pets Rush
+seoTitle: 無料でPets Rushをオンラインでプレイ | FiddleBops
 description: Pets Rushはマッチ3パズルです。同じペットをそろえて消し、レベル目標の達成を目指します。
 iframeSrc: >-
   https://petsrush2.h5games.usercontent.goog/v/e566fdbf-c420-4ec6-af2a-7e9a6edab856/
 thumbnail: /new-images/thumbnails/pets-rush.jpg
 urlstr: pets-rush
-score: 4.3/5  (2150 votes)
 tags:
   - puzzle
   - casual
+score: 4.3/5  (2150 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

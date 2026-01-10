@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Get 10 Ultimate
+seoTitle: 無料でGet 10 Ultimateをオンラインでプレイ | FiddleBops
 description: やりがいのある数字パズル！隣り合う同じ数字をタップして、より大きな数字に合体させましょう。あなたは10、そしてその先に到達できますか？
 iframeSrc: 'https://4oljglvsib9no.h5games.usercontent.goog/v/4nttt72qlep8o/'
 thumbnail: /new-images/thumbnails/get-10-ultimate.png
 urlstr: get-10-ultimate
-score: 4.4/5  (2400 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.4/5  (2400 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

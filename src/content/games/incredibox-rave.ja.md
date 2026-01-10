@@ -1,14 +1,20 @@
 ---
-title: "Incredibox Rave"
-description: "Incredibox Raveのガイドです。EDM系サウンドパレットや、ハイエナジートラックを作るゲームプレイ、ネオンテーマのボーナス演出の探し方を紹介します。"
-iframeSrc: "https://turbowarp.org/980794126/embed"
-thumbnail: /new-images/thumbnails/incredibox-rave.png
-urlstr: "incredibox-rave"
-score: "4.7/5 (1888 votes)"
-tags: ["music", "rave", "rhythm"]
-developer: ""
-releaseDate: 2025-10-10
 locale: ja
+title: Incredibox Rave
+seoTitle: 無料でIncredibox Raveをオンラインでプレイ | FiddleBops
+description: >-
+  Incredibox
+  Raveのガイドです。EDM系サウンドパレットや、ハイエナジートラックを作るゲームプレイ、ネオンテーマのボーナス演出の探し方を紹介します。
+iframeSrc: 'https://turbowarp.org/980794126/embed'
+thumbnail: /new-images/thumbnails/incredibox-rave.png
+urlstr: incredibox-rave
+tags:
+  - music
+  - rave
+  - rhythm
+score: 4.7/5 (1888 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

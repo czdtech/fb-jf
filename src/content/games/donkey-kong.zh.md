@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: donkey-kong
 title: Donkey Kong 大金刚 经典街机版
+seoTitle: 免费在线玩 Donkey Kong 大金刚 经典街机版 | FiddleBops
 description: 《Donkey Kong 大金刚》是一款经典街机平台跳跃游戏。操控马力欧攀爬钢梁与梯子，躲避木 桶和火球，一路爬到顶层营救 Pauline。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/donkey-kong.html'
 thumbnail: /new-images/thumbnails/donkey-kong.jpg
+urlstr: donkey-kong
 tags:
   - platformer
   - arcade

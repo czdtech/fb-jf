@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: color-roll-3d
 title: Color Roll 3D
+seoTitle: Spiele Color Roll 3D kostenlos online | FiddleBops
 description: >-
   Color Roll 3D ist ein befriedigendes Entroll-und-Ausfüll-Puzzle – rolle
   Farbbahnen in der richtigen Reihenfolge aus, um das Zielmuster exakt zu
   treffen.
 iframeSrc: 'https://63vakb2ehqof8.h5games.usercontent.goog/v/381au2qko6no0/'
 thumbnail: /new-images/thumbnails/color-roll-3d.png
+urlstr: color-roll-3d
 tags:
   - puzzle
   - thinky

@@ -1,6 +1,7 @@
 ---
 locale: en
 title: Tunnel Rush
+seoTitle: Play Tunnel Rush Online Free | FiddleBops
 description: >-
   Tunnel Rush is a fast-paced endless running game where players navigate
   through a colorful 3D tunnel, avoiding obstacles and barriers while traveling
@@ -9,12 +10,12 @@ iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/gamehwq/20230830/12a/index.html
 thumbnail: /new-images/thumbnails/tunnel-rush.jpg
 urlstr: tunnel-rush
-score: 4.6/5  (919 votes)
 tags:
   - endless-runner
   - 3d
   - speed
   - arcade
+score: 4.6/5  (919 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---

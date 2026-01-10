@@ -1,11 +1,12 @@
 ---
 locale: fr
-urlstr: slither-io
 title: Slither.io
+seoTitle: Jouez à Slither.io en ligne gratuitement | FiddleBops
 description: "Slither.io est un célèbre jeu multijoueur en ligne où tu contrôles un serpent lumineux\_: avale des orbes pour grandir tout en évitant les autres joueurs dans une arène infinie pour devenir le plus long de tous."
 iframeSrc: >-
   https://app-165910.games.s3.yandex.net/165910/rm0dpvrwyxo0cakog5vc1sr4c8b6xj1s/index.html
 thumbnail: /new-images/thumbnails/slither-io.jpg
+urlstr: slither-io
 tags:
   - multiplayer
   - io game

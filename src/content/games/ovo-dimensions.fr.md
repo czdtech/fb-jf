@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: ovo-dimensions
 title: OvO Dimensions
+seoTitle: Jouez à OvO Dimensions en ligne gratuitement | FiddleBops
 description: >-
   OvO Dimensions est un platformer de précision : enchaîne sauts muraux,
   glissades et dashs à travers des niveaux rapides et exigeants.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221219/8/index.html
 thumbnail: /new-images/thumbnails/ovo-dimensions.jpg
+urlstr: ovo-dimensions
 tags:
   - platformer
   - speedrun

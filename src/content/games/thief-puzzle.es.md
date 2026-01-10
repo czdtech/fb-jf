@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: thief-puzzle
-title: Thief Puzzle - Puzles de brazo elástico
+title: Thief Puzzle
+seoTitle: Juega a Thief Puzzle en línea gratis | FiddleBops
 description: >-
   Thief Puzzle es un travieso juego de puzles con brazo elástico: estírate para
   robar, esquiva trampas y alcanza los objetivos con ángulos y tiempos
   perfectamente calculados.
 iframeSrc: 'https://5mubkj30k8998.h5games.usercontent.goog/v/79n1cktk92370/'
 thumbnail: /new-images/thumbnails/thief-puzzle.png
+urlstr: thief-puzzle
 tags:
   - puzzle
   - thinky

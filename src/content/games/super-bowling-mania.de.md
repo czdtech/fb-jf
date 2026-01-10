@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: super-bowling-mania
 title: Super Bowling Mania
+seoTitle: Spiele Super Bowling Mania kostenlos online | FiddleBops
 description: >-
   Schnür deine Bowlingschuhe in Super Bowling Mania: Ziele auf Strikes, räume
   schwierige Spares ab und jag deinem Highscore hinterher – mit realistischer
   Physik und einfacher Steuerung.
 iframeSrc: 'https://2tm5ud1ghg66o.h5games.usercontent.goog/v/6ifi8lgb3gv0g/'
 thumbnail: /new-images/thumbnails/super-bowling-mania.png
+urlstr: super-bowling-mania
 tags:
   - sports
   - 2 player

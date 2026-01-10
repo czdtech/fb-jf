@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: google-snake
 title: Google Snake
+seoTitle: Juega a Google Snake en línea gratis | FiddleBops
 description: >-
   Versión moderna de Snake: guía a una serpiente en crecimiento para comer
   fruta, evita colisiones y persigue récords con distintos conjuntos de reglas.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230830/05/index.html
 thumbnail: /new-images/thumbnails/google-snake.jpg
+urlstr: google-snake
 tags:
   - arcade
   - snake

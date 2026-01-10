@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: droid-o
 title: Droid-O
+seoTitle: Juega a Droid-O en línea gratis | FiddleBops
 description: >-
   Droid-O es un juego de disparos de arena en vista cenital, muy preciso:
   esquiva oleadas de enemigos, encadena habilidades y sobrevive a amenazas cada
   vez mayores moviéndote con precisión quirúrgica.
 iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
 thumbnail: /new-images/thumbnails/droid-o.png
+urlstr: droid-o
 tags:
   - action
   - shooting

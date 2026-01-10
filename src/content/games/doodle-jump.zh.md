@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: doodle-jump
 title: Doodle Jump 涂鸦跳跃
+seoTitle: 免费在线玩 Doodle Jump 涂鸦跳跃 | FiddleBops
 description: 《Doodle Jump 涂鸦跳跃》是一款纵向无尽平台跳跃游戏。通过在平台间不断弹跳，躲避怪物 和断裂板，并灵活运用各种道具，一路向高空攀升。
 iframeSrc: 'https://ubg98.github.io/DoodleJump/'
 thumbnail: /new-images/thumbnails/doodle-jump.jpg
+urlstr: doodle-jump
 tags:
   - arcade
   - platformer

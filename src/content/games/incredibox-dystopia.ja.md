@@ -1,14 +1,20 @@
 ---
-title: "Incredibox Dystopia"
-description: "ダークなサイバーパンクの世界を舞台にしたファン作成モッド『Incredibox Dystopia』を探索しましょう。このガイドでは、エレクトロニックとシンセウェーブのサウンドパレット、未来的なビートを作成するためのゲームプレイのヒント、テーマ別ボーナスのアンロック方法を詳しく説明します。"
-iframeSrc: "https://turbowarp.org/1015284026/embed"
-thumbnail: /new-images/thumbnails/incredibox-dystopia.png
-urlstr: "incredibox-dystopia"
-score: "4.8/5 (2345 votes)"
-tags: ["music", "electronic", "rhythm"]
-developer: ""
-releaseDate: 2025-10-10
 locale: ja
+title: Incredibox Dystopia
+seoTitle: 無料でIncredibox Dystopiaをオンラインでプレイ | FiddleBops
+description: >-
+  ダークなサイバーパンクの世界を舞台にしたファン作成モッド『Incredibox
+  Dystopia』を探索しましょう。このガイドでは、エレクトロニックとシンセウェーブのサウンドパレット、未来的なビートを作成するためのゲームプレイのヒント、テーマ別ボーナスのアンロック方法を詳しく説明します。
+iframeSrc: 'https://turbowarp.org/1015284026/embed'
+thumbnail: /new-images/thumbnails/incredibox-dystopia.png
+urlstr: incredibox-dystopia
+tags:
+  - music
+  - electronic
+  - rhythm
+score: 4.8/5 (2345 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

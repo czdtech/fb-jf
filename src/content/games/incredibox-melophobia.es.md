@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: incredibox-melophobia
-title: "Incredibox Melophobia"
+title: Incredibox Melophobia
+seoTitle: Juega a Incredibox Melophobia en línea gratis | FiddleBops
 description: >-
   Incredibox Melophobia ofrece una paleta sonora ecléctica con chiptune y
   samples extraños, y esta guía da consejos para desbloquear sus bonus animados
   más bizarros.
 iframeSrc: 'https://turbowarp.org/1110167821/embed'
 thumbnail: /new-images/thumbnails/incredibox-melophobia.png
+urlstr: incredibox-melophobia
 tags:
   - music
   - rhythm

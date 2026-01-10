@@ -1,18 +1,19 @@
 ---
 locale: de
-urlstr: incredibox-shatter-sprunk
-title: Incredibox Shatter Sprunk - Play Incredibox Shatter Sprunk Online
+title: Incredibox Shatter Sprunk
+seoTitle: Spiele Incredibox Shatter Sprunk kostenlos online | FiddleBops
 description: >-
   Incredibox Shatter Sprunk ist ein von Fans erstellter Incredibox-Mod. Alle
   Charaktere sind in auffälligem Gelb gehalten und jede Figur steuert einen
   einzigartigen, unverwechselbaren Sound bei.
 iframeSrc: 'https://turbowarp.org/1144858827/embed'
 thumbnail: /new-images/thumbnails/incredibox-shatter-sprunk.png
+urlstr: incredibox-shatter-sprunk
 tags:
   - incredibox shatter sprunk
   - incredibox shatter sprunk online
 score: 4.5/5  (614 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Was macht Incredibox Shatter Sprunk so spaßig?

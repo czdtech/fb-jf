@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: 8x8-match-tiles
-title: "8x8 Match Tiles puzle de emparejar fichas"
+title: 8x8 Match Tiles puzle de emparejar fichas
+seoTitle: Juega a 8x8 Match Tiles puzle de emparejar fichas en línea gratis | FiddleBops
 description: >-
   8x8 Match Tiles es un puzle limpio de emparejar fichas en una cuadrícula de
   8×8. Forma parejas iguales, limpia el tablero y gestiona el espacio limitado
   para no quedarte sin movimientos.
 iframeSrc: 'https://75njrrvim9kq0.h5games.usercontent.goog/v/1v57mtiv2ele0/'
 thumbnail: /new-images/thumbnails/8x8-match-tiles.jpg
+urlstr: 8x8-match-tiles
 tags:
   - puzzle
   - thinky

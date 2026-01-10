@@ -1,20 +1,23 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
-import { UPDATE_GAMES_HREFLANG } from '../../../data/hreflang';
+import { getPagedListHreflang } from '../../../data/hreflang';
 import { toGameCardData } from '../../../lib/canonical-games';
+import { buildListSeoTitle } from '../../../lib/seo-title';
 export { getStaticPaths } from '../../update-games/[...page].astro';
 
 const { page } = Astro.props;
+const hreflangLinks = getPagedListHreflang('/update-games/', page.currentPage);
 const locale = 'de';
-const title = 'Neue Spiele - FiddleBops Game World';
+const baseTitle = 'Neue Spiele';
+const title = buildListSeoTitle(locale, baseTitle, page.currentPage);
 const description =
   'Entdecke die neuesten Spiele in der FiddleBops Game World, darunter Musik-, Puzzle- und Arcade-Spiele. Spiele kostenlos online, ganz ohne Download.';
-const canonicalUrl = 'https://www.playfiddlebops.com/de/update-games/';
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site).toString();
 const ogImage = 'https://www.playfiddlebops.com/tw.jpg';
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Game',
-  name: title,
+  name: baseTitle,
   alternateName: 'playfiddlebops.com',
   url: canonicalUrl,
   description
@@ -28,7 +31,7 @@ const jsonLd = {
   ogType="website"
   twitterCard="summary_large_image"
   jsonLd={jsonLd}
-  hreflangLinks={UPDATE_GAMES_HREFLANG}
+  hreflangLinks={hreflangLinks}
   lang="de"
 >
   <section class="games">

@@ -1,13 +1,13 @@
 ---
 locale: ko
-urlstr: steal-a-brainrot
-title: 'Steal a Brainrot 스틸 어 브레인롯'
+title: Steal a Brainrot 스틸 어 브레인롯
+seoTitle: Steal a Brainrot 스틸 어 브레인롯 무료 온라인 플레이 | FiddleBops
 description: >-
-  Steal a Brainrot는 Roblox에서 즐길 수 있는 액션·잠입 게임으로, 엄중 경비를
-  뚫고 인터넷 밈 "Brainrot" 캐릭터를 훔쳐 기지로 가져오는 것이 목표입니다.
-  스키비디 화장실 같은 밈 캐릭터를 들고 경비를 피해 도망쳐 보세요.
+  Steal a Brainrot는 Roblox에서 즐길 수 있는 액션·잠입 게임으로, 엄중 경비를 뚫고 인터넷 밈 "Brainrot" 캐릭터를
+  훔쳐 기지로 가져오는 것이 목표입니다. 스키비디 화장실 같은 밈 캐릭터를 들고 경비를 피해 도망쳐 보세요.
 iframeSrc: 'https://st.8games.net/7/8g/igra-ukradi-brejnrot-100-original/'
 thumbnail: /new-images/thumbnails/steal-a-brainrot.webp
+urlstr: steal-a-brainrot
 tags:
   - casual
   - action

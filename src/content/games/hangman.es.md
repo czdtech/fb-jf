@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: hangman
-title: "Hangman"
+title: Hangman
+seoTitle: Juega a Hangman en línea gratis | FiddleBops
 description: >-
   Clásico juego de adivinar palabras: descubre la palabra secreta proponiendo
   letras y evita cometer demasiados fallos antes de que se complete el muñeco.
 iframeSrc: 'https://hangman-frontend.coolmathgames.com/home'
 thumbnail: /new-images/thumbnails/hangman.jpg
+urlstr: hangman
 tags:
   - word
   - puzzle

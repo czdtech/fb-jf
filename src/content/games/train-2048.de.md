@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: train-2048
 title: Train 2048
+seoTitle: Spiele Train 2048 kostenlos online | FiddleBops
 description: >-
   Verschiebe und vereine Waggons in Train 2048 – eine Zugvariante des
   2048‑Klassikers. Schiebe gleiche Wagen zusammen, baue immer stärkere Züge und
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://train2048.h5games.usercontent.goog/v/efebc769-0d8d-48f4-b437-af712b013132/
 thumbnail: /new-images/thumbnails/train-2048.jpg
+urlstr: train-2048
 tags:
   - puzzle
   - thinky

@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: block-champ
 title: Block Champ
+seoTitle: Jouez à Block Champ en ligne gratuitement | FiddleBops
 description: "Block Champ est un puzzle 10×10 avec blocs spéciaux\_: place des formes pour compléter des lignes, déclenche les éclairs et débarrasse‑toi des blocs de glace pour tenir le plus longtemps possible."
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/block-champ/'
 thumbnail: /new-images/thumbnails/block-champ.jpg
+urlstr: block-champ
 tags:
   - puzzle
   - board Game

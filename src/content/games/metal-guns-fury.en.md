@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Metal Guns Fury"
-description: "Metal Guns Fury is a run‑and‑gun arcade — dodge bullets, manage weapons, and blast through waves with crisp movement."
-iframeSrc: "https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/"
+title: Metal Guns Fury
+seoTitle: Play Metal Guns Fury Online Free | FiddleBops
+description: >-
+  Metal Guns Fury is a run‑and‑gun arcade — dodge bullets, manage weapons, and
+  blast through waves with crisp movement.
+iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
 thumbnail: /new-images/thumbnails/metal-guns-fury.jpg
-urlstr: "metal-guns-fury"
-score: "4.1/5  (2012 votes)"
-tags: ["action", "shooting"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: metal-guns-fury
+tags:
+  - action
+  - shooting
+score: 4.1/5  (2012 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

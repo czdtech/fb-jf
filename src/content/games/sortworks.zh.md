@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: sortworks
 title: 《SortWorks》多列颜色排序
+seoTitle: 免费在线玩 《SortWorks》多列颜色排序 | FiddleBops
 description: 《SortWorks》是一款瓶装/列式的颜色排序益智游戏。通过在不同列之间倒换彩色元素，把同色块整理到同一列中，考验你的规划与空间管理能力。
 iframeSrc: 'https://293f3i461vfvo.h5games.usercontent.goog/v/31blvf8tg44g0/'
 thumbnail: /new-images/thumbnails/sortworks.png
+urlstr: sortworks
 tags:
   - puzzle
   - sorting

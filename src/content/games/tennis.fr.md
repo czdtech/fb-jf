@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: tennis
 title: Tennis
+seoTitle: Jouez à Tennis en ligne gratuitement | FiddleBops
 description: >-
   Tennis est un jeu arcade classique : attrape ta raquette et affronte un
   adversaire. Sers, echange et marque des points pour gagner le match.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/tennis.html'
 thumbnail: /new-images/thumbnails/tennis.jpg
+urlstr: tennis
 tags:
   - sports
   - arcade

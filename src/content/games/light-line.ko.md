@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: light-line
 title: Light Line 라이트 라인 퍼즐
+seoTitle: Light Line 라이트 라인 퍼즐 무료 온라인 플레이 | FiddleBops
 description: >-
   Light Line는 빛나는 노드들을 선으로 이어 가는 패스 드로잉 퍼즐입니다. 선이 서로 교차하지 않도록 연결하고, 제한된 턴 수와 선
   길이, 반드시 지나가야 하는 칸과 스위치로 여닫히는 게이트까지 관리하며 깔끔한 해답을 찾아보세요.
 iframeSrc: 'https://4es9bmcl5tp2o.h5games.usercontent.goog/v/5uo8nsnhp1vjo/'
 thumbnail: /new-images/thumbnails/light-line.png
+urlstr: light-line
 tags:
   - puzzle
   - thinky

@@ -1,6 +1,7 @@
 ---
 locale: en
 title: Nature Strikes Back
+seoTitle: Play Nature Strikes Back Online Free | FiddleBops
 description: >-
   Merge and command the Guardian Spirits of nature in this exciting tower
   defense game. Combine your units to make them stronger and defend the Heart of
@@ -8,13 +9,13 @@ description: >-
 iframeSrc: 'https://79gloe1v4okkg.h5games.usercontent.goog/v/6qlhje6nn2bg0/'
 thumbnail: /new-images/thumbnails/nature-strikes-back.png
 urlstr: nature-strikes-back
-score: 4.4/5  (2300 votes)
 tags:
   - strategy
   - tower-defense
   - action
+score: 4.4/5  (2300 votes)
 developer: ''
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

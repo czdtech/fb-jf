@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: stack-bounce
 title: Stack Bounce
+seoTitle: Jouez à Stack Bounce en ligne gratuitement | FiddleBops
 description: >-
   Teste ton sens du timing et tes réflexes dans Stack Bounce. Traverse les
   plateformes colorées en les brisant, mais relâche avant de toucher les zones
   noires si tu veux continuer à rebondir.
 iframeSrc: 'https://stackbounce.h5games.usercontent.goog/v/1aqsvv0aegbjg/'
 thumbnail: /new-images/thumbnails/stack-bounce.jpeg
+urlstr: stack-bounce
 tags:
   - action
   - casual

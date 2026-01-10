@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: find-the-difference
 title: Find the Difference
+seoTitle: Jouez à Find the Difference en ligne gratuitement | FiddleBops
 description: >-
   Aiguise ton regard et teste ton sens du détail : compare deux images presque
   identiques et trouve toutes les différences avant la fin du temps.
 iframeSrc: 'https://findthedifference.h5games.usercontent.goog/v/0tambv0iojsn8/'
 thumbnail: /new-images/thumbnails/find-the-difference.jpg
+urlstr: find-the-difference
 tags:
   - puzzle
   - casual

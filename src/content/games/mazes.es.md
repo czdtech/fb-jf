@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: mazes
-title: Mazes - Clásicos laberintos de trazo rápido
+title: Mazes
+seoTitle: Juega a Mazes en línea gratis | FiddleBops
 description: >-
   Mazes propone recorridos clásicos por laberintos: dibuja rutas óptimas,
   esquiva trampas y bate los tiempos objetivo con un trazado limpio.
 iframeSrc: 'https://1ivu76rhffpsg.h5games.usercontent.goog/v/00icu4vi09j18/'
 thumbnail: /new-images/thumbnails/mazes.jpg
+urlstr: mazes
 tags:
   - puzzle
   - thinky

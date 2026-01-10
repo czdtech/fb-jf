@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: age-of-war
 title: Age of War guía y estrategia
+seoTitle: Juega a Age of War guía y estrategia en línea gratis | FiddleBops
 description: >-
   Age of War es un clásico juego de estrategia lateral en el que haces
   evolucionar tu ejército desde la Edad de Piedra hasta el futuro. Aprende
@@ -10,6 +10,7 @@ description: >-
 iframeSrc: >-
   https://app-196716.games.s3.yandex.net/196716/h5h3xwa1kxsz7wcma59tvvmko0zorc80/index.html
 thumbnail: /new-images/thumbnails/age-of-war.jpg
+urlstr: age-of-war
 tags:
   - strategy
   - action

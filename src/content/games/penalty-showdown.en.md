@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Penalty Showdown"
-description: "Penalty Showdown is a tense shootout — pick corners, vary height, and outguess keepers in alternating kicker/keeper rounds."
-iframeSrc: "https://58r8ibinmpjeg.h5games.usercontent.goog/v/2m3pjv3her9fg/"
+title: Penalty Showdown
+seoTitle: Play Penalty Showdown Online Free | FiddleBops
+description: >-
+  Penalty Showdown is a tense shootout — pick corners, vary height, and outguess
+  keepers in alternating kicker/keeper rounds.
+iframeSrc: 'https://58r8ibinmpjeg.h5games.usercontent.goog/v/2m3pjv3her9fg/'
 thumbnail: /new-images/thumbnails/penalty-showdown.jpg
-urlstr: "penalty-showdown"
-score: "4.0/5  (1879 votes)"
-tags: ["sports", "soccer"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: penalty-showdown
+tags:
+  - sports
+  - soccer
+score: 4.0/5  (1879 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

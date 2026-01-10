@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: ludo-kart
 title: Ludo Kart
+seoTitle: Spiele Ludo Kart kostenlos online | FiddleBops
 description: >-
   Ludo Kart ist ein lockeres Würfel-und-Renn-Brettspiel: Würfle, bewege deine
   Figuren und sei als Erste:r im Ziel.
 iframeSrc: 'https://35q41h2gp6dd8.h5games.usercontent.goog/v/6q7tggnmscsj8/'
 thumbnail: /new-images/thumbnails/ludo-kart.png
+urlstr: ludo-kart
 tags:
   - casual
   - thinky

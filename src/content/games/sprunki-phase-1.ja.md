@@ -1,14 +1,15 @@
 ---
-title: Sprunki Phase 1 - Play Sprunki Phase 1 Online
+locale: ja
+title: Sprunki Phase 1
+seoTitle: 無料でSprunki Phase 1をオンラインでプレイ | FiddleBops
 description: Sprunki Phase 1は、Sprunkiユニバースの始まりに触れられる入口のModです。直感的な操作で音を重ね、初期の鮮やかな魅力を味わえます。
 iframeSrc: 'https://turbowarp.org/1127823859/embed'
 thumbnail: /new-images/thumbnails/sprunki-phase-1.png
 urlstr: sprunki-phase-1
-score: 4.3/5  (96 votes)
 tags:
   - sprunki phase 1
-locale: ja
-releaseDate: 2025-12-04
+score: 4.3/5  (96 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

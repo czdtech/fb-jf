@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: merge-fruit
 title: Merge Fruit
+seoTitle: Spiele Merge Fruit kostenlos online | FiddleBops
 description: >-
   Merge Fruit ist ein saftiges Merge-und-Drop-Spiel: Kombiniere identische
   Früchte, kontrolliere die Stapelhöhe und löse Kettenreaktionen für hohe
   Punktzahlen aus.
 iframeSrc: 'https://3eltb7i874s60.h5games.usercontent.goog/v/28f34ighqoh10/'
 thumbnail: /new-images/thumbnails/merge-fruit.png
+urlstr: merge-fruit
 tags:
   - puzzle
   - thinky

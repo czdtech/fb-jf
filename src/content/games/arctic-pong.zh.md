@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: arctic-pong
 title: Arctic Pong 北极乒乓
+seoTitle: 免费在线玩 Arctic Pong 北极乒乓 | FiddleBops
 description: 《Arctic Pong（北极乒乓）》是一款冰雪主题的简约乒乓对战游戏，通过移动挡板接回冰球、改变反弹角度，以节奏和走位压制对手、赢下比分。
 iframeSrc: 'https://arcticpong.h5games.usercontent.goog/v/1quekndr8ig0o/'
 thumbnail: /new-images/thumbnails/arctic-pong.png
+urlstr: arctic-pong
 tags:
   - 2 player
   - casual

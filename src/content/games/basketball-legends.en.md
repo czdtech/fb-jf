@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Basketball Legends"
-description: "A complete guide to the arcade sports game Basketball Legends. Learn the controls, strategies for offense and defense, how to use the supershot, and answers to common questions for 1-player and 2-player modes."
-iframeSrc: "https://webglmath.github.io/basketball-legends/"
+title: Basketball Legends
+seoTitle: Play Basketball Legends Online Free | FiddleBops
+description: >-
+  A complete guide to the arcade sports game Basketball Legends. Learn the
+  controls, strategies for offense and defense, how to use the supershot, and
+  answers to common questions for 1-player and 2-player modes.
+iframeSrc: 'https://webglmath.github.io/basketball-legends/'
 thumbnail: /new-images/thumbnails/basketball-legends.jpg
-urlstr: "basketball-legends"
-score: "4.5/5  (832 votes)"
-tags: ["2-player", "sports"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: basketball-legends
+tags:
+  - 2-player
+  - sports
+score: 4.5/5  (832 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

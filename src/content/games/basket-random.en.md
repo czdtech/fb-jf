@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Basket Random"
-description: "A guide to Basket Random, the wacky and unpredictable physics-based basketball game. Learn the one-button controls, strategies for embracing chaos, and how to win in this hilarious 2-player game."
-iframeSrc: "https://app-197304.games.s3.yandex.net/197304/kj9rcykboy6eol5xnn250jesr7v0hoh1/index.html"
+title: Basket Random
+seoTitle: Play Basket Random Online Free | FiddleBops
+description: >-
+  A guide to Basket Random, the wacky and unpredictable physics-based basketball
+  game. Learn the one-button controls, strategies for embracing chaos, and how
+  to win in this hilarious 2-player game.
+iframeSrc: >-
+  https://app-197304.games.s3.yandex.net/197304/kj9rcykboy6eol5xnn250jesr7v0hoh1/index.html
 thumbnail: /new-images/thumbnails/basket-random.jpg
-urlstr: "basket-random"
-score: "4.2/5  (284 votes)"
-tags: ["casual", "sports"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: basket-random
+tags:
+  - casual
+  - sports
+score: 4.2/5  (284 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

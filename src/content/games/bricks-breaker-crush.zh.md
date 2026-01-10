@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: bricks-breaker-crush
 title: Bricks Breaker Crush 方块消消打砖块
+seoTitle: 免费在线玩 Bricks Breaker Crush 方块消消打砖块 | FiddleBops
 description: >-
   《Bricks Breaker Crush》是一款带“弹道射击”玩法的打砖块游戏，发射一串小球反弹击碎数字砖块，利用角度与反弹
   路线尽量在砖块到达底线前清场。
 iframeSrc: 'https://7uvo1rchfrhr8.h5games.usercontent.goog/v/4tk6unop5lefg/'
 thumbnail: /new-images/thumbnails/bricks-breaker-crush.png
+urlstr: bricks-breaker-crush
 tags:
   - puzzle
   - casual

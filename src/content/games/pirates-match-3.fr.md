@@ -1,11 +1,12 @@
 ---
 locale: fr
-urlstr: pirates-match-3
 title: Pirates Match 3
+seoTitle: Jouez à Pirates Match 3 en ligne gratuitement | FiddleBops
 description: "Pirates Match 3 est un match‑3 à thème pirate\_: aligne des symboles, charge des bonus et remplis les objectifs pour faire voguer ton équipage vers le trésor."
 iframeSrc: >-
   https://piratesmatch3.h5games.usercontent.goog/v/fea2f25f-a39a-4273-93c1-38f8f9bd8260/
 thumbnail: /new-images/thumbnails/pirates-match-3.jpg
+urlstr: pirates-match-3
 tags:
   - puzzle
   - casual

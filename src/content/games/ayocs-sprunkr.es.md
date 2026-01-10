@@ -1,17 +1,18 @@
 ---
 locale: es
-urlstr: ayocs-sprunkr
-title: "AYOCS Sprunkr mod de estilo para Sprunki"
+title: AYOCS Sprunkr mod de estilo para Sprunki
+seoTitle: Juega a AYOCS Sprunkr mod de estilo para Sprunki en línea gratis | FiddleBops
 description: >-
   AYOCS Sprunkr es un mod estilizado del universo Sprunki: personajes con nuevos
   diseños de moda, loops de sonido renovados y una experiencia audiovisual mucho
   más moderna para crear música.
 iframeSrc: 'https://turbowarp.org/1114188520/embed'
 thumbnail: /new-images/thumbnails/ayocs-sprunkr.png
+urlstr: ayocs-sprunkr
 tags:
   - ayocs sprunkr
 score: 4.1/5  (54 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

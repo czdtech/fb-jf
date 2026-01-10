@@ -1,15 +1,22 @@
 ---
 locale: en
-modType: incredibox
-title: "Incredibox Xrun simulator"
-description: "Explore 'Incredibox Xrun Simulator,' the high-energy fan-made mod. This guide details its EDM and dubstep theme, grid-based gameplay, and provides tips for creating intense electronic mixes and loops."
-iframeSrc: "https://turbowarp.org/740478297/embed"
+title: Incredibox Xrun simulator
+seoTitle: Play Incredibox Xrun simulator Online Free | FiddleBops
+description: >-
+  Explore 'Incredibox Xrun Simulator,' the high-energy fan-made mod. This guide
+  details its EDM and dubstep theme, grid-based gameplay, and provides tips for
+  creating intense electronic mixes and loops.
+iframeSrc: 'https://turbowarp.org/740478297/embed'
 thumbnail: /new-images/thumbnails/incredibox-xrun-simulator.png
-urlstr: "incredibox-xrun-simulator"
-score: "4.5/5 (1055 votes)"
-tags: ["music", "electronic", "simulator"]
-developer: ""
-releaseDate: 2025-10-10
+urlstr: incredibox-xrun-simulator
+tags:
+  - music
+  - electronic
+  - simulator
+modType: incredibox
+score: 4.5/5 (1055 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 

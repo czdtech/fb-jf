@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: family-feud
 title: Family Feud 家庭问答大对决
+seoTitle: 免费在线玩 Family Feud 家庭问答大对决 | FiddleBops
 description: Family Feud 是一款以「问卷调查」为基础的答题游戏，你要在多个回合中猜出大众最常回答的答案， 并在最后的 Fast Money 环节冲高总分。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/family-feud/'
 thumbnail: /new-images/thumbnails/family-feud.jpg
+urlstr: family-feud
 tags:
   - trivia
   - quiz

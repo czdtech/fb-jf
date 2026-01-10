@@ -1,16 +1,17 @@
 ---
 locale: zh
-urlstr: super-sprunki-brasil
-title: Super Sprunki Brasil V1.3 - 在线玩 Super Sprunki Brasil
+title: Super Sprunki Brasil V1.3
+seoTitle: 免费在线玩 Super Sprunki Brasil V1.3 | FiddleBops
 description: >-
   Super Sprunki Brasil 是一款 Incredibox Mod，让你用热情的巴西风情点燃你的音乐创造力。快来加入 Super Sprunki
   Brasil，用你的音乐向世界传递巴西的热情与活力！
 iframeSrc: 'https://turbowarp.org/1080827660/embed'
 thumbnail: /new-images/thumbnails/super-sprunki-brasil.png
-score: 4.3/5  (380 votes)
+urlstr: super-sprunki-brasil
 tags:
   - super sprunki brasil
   - super sprunki brasil online
+score: 4.3/5  (380 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Tiger Run"
-description: "Tiger Run is a jungle runner — dash, jump, and slide to dodge obstacles and collect coins."
-iframeSrc: "https://tigerrun.h5games.usercontent.goog/v/1cl0c4rtsjsqo/"
+title: Tiger Run
+seoTitle: Play Tiger Run Online Free | FiddleBops
+description: >-
+  Tiger Run is a jungle runner — dash, jump, and slide to dodge obstacles and
+  collect coins.
+iframeSrc: 'https://tigerrun.h5games.usercontent.goog/v/1cl0c4rtsjsqo/'
 thumbnail: /new-images/thumbnails/tiger-run.jpeg
-urlstr: "tiger-run"
-score: "3.8/5  (1627 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: tiger-run
+tags:
+  - action
+  - casual
+score: 3.8/5  (1627 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

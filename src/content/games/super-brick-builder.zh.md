@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: super-brick-builder
 title: 《Super Brick Builder》超级砖块建造者
+seoTitle: 免费在线玩 《Super Brick Builder》超级砖块建造者 | FiddleBops
 description: 《Super Brick Builder》是一款休闲建造向的方块堆叠游戏。通过拖放和旋转各类砖块，搭建稳定的结构或完成指定造型目标。
 iframeSrc: 'https://0hlb6nt2jsom8.h5games.usercontent.goog/v/4jac78qnv0nr8/'
 thumbnail: /new-images/thumbnails/super-brick-builder.png
+urlstr: super-brick-builder
 tags:
   - puzzle
   - building

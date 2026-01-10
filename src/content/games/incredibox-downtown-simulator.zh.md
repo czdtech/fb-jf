@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: incredibox-downtown-simulator
-title: "Incredibox Downtown Simulator - 在线玩 Incredibox Downtown Simulator"
-description: "一款全新的 Incredibox Mod 等你探索。更多详情即将推出。"
+title: Incredibox Downtown Simulator
+seoTitle: 免费在线玩 Incredibox Downtown Simulator | FiddleBops
+description: 一款全新的 Incredibox Mod 等你探索。更多详情即将推出。
 iframeSrc: 'https://turbowarp.org/949700724/embed'
 thumbnail: /new-images/thumbnails/incredibox-downtown-simulator.png
+urlstr: incredibox-downtown-simulator
 tags:
   - music
   - simulator

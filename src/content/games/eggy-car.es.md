@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: eggy-car
 title: Eggy Car
+seoTitle: Juega a Eggy Car en línea gratis | FiddleBops
 description: >-
   Eggy Car es un juego de conducción con físicas en el que llevas un huevo
   frágil sobre el coche: sube y baja colinas sin que se caiga ni se rompa.
 iframeSrc: 'https://webglmath.github.io/eggy-car/'
 thumbnail: /new-images/thumbnails/eggy-car.jpg
+urlstr: eggy-car
 tags:
   - driving
   - physics

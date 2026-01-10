@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Crash Bandicoot"
-description: "Crash Bandicoot is a retro arcade platformer: run, jump, spin, collect Wumpa fruit and crystals, dodge TNT, and clear themed stages in a browser-based remake."
-iframeSrc: "https://ad-freegames.github.io/flash/game/crash-bandicoot.html"
+title: Crash Bandicoot
+seoTitle: Play Crash Bandicoot Online Free | FiddleBops
+description: >-
+  Crash Bandicoot is a retro arcade platformer: run, jump, spin, collect Wumpa
+  fruit and crystals, dodge TNT, and clear themed stages in a browser-based
+  remake.
+iframeSrc: 'https://ad-freegames.github.io/flash/game/crash-bandicoot.html'
 thumbnail: /new-images/thumbnails/crash-bandicoot.jpg
-urlstr: "crash-bandicoot"
-score: "4.8/5  (820 votes)"
-tags: ["arcade", "platformer", "retro"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: crash-bandicoot
+tags:
+  - arcade
+  - platformer
+  - retro
+score: 4.8/5  (820 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: learn-to-fly
 title: Learn To Fly
+seoTitle: Juega a Learn To Fly en línea gratis | FiddleBops
 description: >-
   Learn to Fly es un juego de lanzamiento por distancia sobre mejora progresiva:
   ajusta el ángulo de despegue, planea y usa propulsores, gana dinero y compra
   piezas para volar cada día un poco más lejos.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/learn-to-fly.html'
 thumbnail: /new-images/thumbnails/learn-to-fly.jpg
+urlstr: learn-to-fly
 tags:
   - arcade
   - upgrade

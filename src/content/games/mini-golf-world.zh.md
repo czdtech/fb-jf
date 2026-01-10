@@ -1,11 +1,11 @@
 ---
 locale: zh
-urlstr: mini-golf-world
-title: "《Mini Golf World》迷你高尔夫世界"
-description: >-
-  《Mini Golf World》是一款打磨精良的迷你高尔夫游戏，你需要读懂坡度、利用反弹轨迹并精准控制推杆力度，在各种主题球场中打出标准杆甚至一杆进洞。
+title: 《Mini Golf World》迷你高尔夫世界
+seoTitle: 免费在线玩 《Mini Golf World》迷你高尔夫世界 | FiddleBops
+description: 《Mini Golf World》是一款打磨精良的迷你高尔夫游戏，你需要读懂坡度、利用反弹轨迹并精准控制推杆力度，在各种主题球场中打出标准杆甚至一杆进洞。
 iframeSrc: 'https://32tnqh6bck80g.h5games.usercontent.goog/v/3auurdk9r953g/'
 thumbnail: /new-images/thumbnails/mini-golf-world.png
+urlstr: mini-golf-world
 tags:
   - sports
   - puzzle

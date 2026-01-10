@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: we-become-what-we-behold
 title: We Become What We Behold 위 비컴 왓 위 비홀드
+seoTitle: We Become What We Behold 위 비컴 왓 위 비홀드 무료 온라인 플레이 | FiddleBops
 description: >-
   미디어와 선정주의가 사회에 미치는 영향을 다룬 풍자 게임입니다. 카메라로 어떤 장면을 뉴스로 내보낼지 선택하면서, 부정적인 이슈에 집중하는
   시선이 어떻게 갈등과 분열을 키우는지 직접 체험해 보세요.
 iframeSrc: 'https://html5.iclouds.io/we-become-behold/index.html'
 thumbnail: /new-images/thumbnails/we-become-what-we-behold.jpg
+urlstr: we-become-what-we-behold
 tags:
   - satire
   - social-commentary

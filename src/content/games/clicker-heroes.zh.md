@@ -1,13 +1,13 @@
 ---
 locale: zh
-urlstr: clicker-heroes
-title: "Clicker Heroes 点击英雄全指南"
+title: Clicker Heroes 点击英雄全指南
+seoTitle: 免费在线玩 Clicker Heroes 点击英雄全指南 | FiddleBops
 description: >-
   这是一份《Clicker Heroes 点击英雄》完整中文攻略。从核心玩法、Ascension（转生）与
-  Ancients（远古之神）培养思路，到操作技巧与常见问题解答，帮助你高效推进这款极具黏
-  性的放置/点击游戏。
+  Ancients（远古之神）培养思路，到操作技巧与常见问题解答，帮助你高效推进这款极具黏 性的放置/点击游戏。
 iframeSrc: 'https://cdn.clickerheroes.com/gamebuild/'
 thumbnail: /new-images/thumbnails/clicker-heroes.jpg
+urlstr: clicker-heroes
 tags:
   - clicker
   - casual

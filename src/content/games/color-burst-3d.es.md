@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: color-burst-3d
-title: "Color Burst 3D"
+title: Color Burst 3D
+seoTitle: Juega a Color Burst 3D en línea gratis | FiddleBops
 description: >-
   Domina el frenético juego de arcade Color Burst 3D. Esta guía te ofrece
   estrategias expertas para sincronizar tus movimientos, alinear el color de la
@@ -9,6 +9,7 @@ description: >-
   conseguir una puntuación récord.
 iframeSrc: 'https://colorburst3d.h5games.usercontent.goog/v/3l27vlnq6dvto/'
 thumbnail: /new-images/thumbnails/color-burst-3d.jpeg
+urlstr: color-burst-3d
 tags:
   - action
   - casual

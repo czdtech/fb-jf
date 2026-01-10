@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: breakout
 title: Breakout 브레이크아웃
+seoTitle: Breakout 브레이크아웃 무료 온라인 플레이 | FiddleBops
 description: >-
   패들을 움직여 공을 튕기고 위쪽의 벽돌을 모두 부수는 고전 아케이드 게임 Breakout입니다. 각도 조절과 터널 전략을 익혀, 시대를
   초월한 블록 브레이커의 손맛을 즐겨 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/atari-breakout.html'
 thumbnail: /new-images/thumbnails/breakout.jpg
+urlstr: breakout
 tags:
   - arcade
   - casual

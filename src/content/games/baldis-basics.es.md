@@ -1,13 +1,16 @@
 ---
 locale: es
-urlstr: baldis-basics
 title: Baldi's Basics guía del terror de supervivencia educativo
+seoTitle: >-
+  Juega a Baldi's Basics guía del terror de supervivencia educativo en línea
+  gratis | FiddleBops
 description: >-
   Baldi's Basics es un juego de terror y supervivencia que se disfraza de título
   educativo de los 90. Aprende a conseguir los cuadernos, usar los objetos,
   esquivar a Baldi y a los demás personajes y escapar de la escuela.
 iframeSrc: 'https://html5.iclouds.io/baldis-basics/index.html'
 thumbnail: /new-images/thumbnails/baldis-basics.jpg
+urlstr: baldis-basics
 tags:
   - puzzle
   - horror

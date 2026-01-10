@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Drive Mad"
-description: "Drive Mad is a physics driving challenge: balance your vehicle, clear obstacles, and reach the finish without flipping."
-iframeSrc: "https://ubg98.github.io/DriveMad/"
+title: Drive Mad
+seoTitle: Play Drive Mad Online Free | FiddleBops
+description: >-
+  Drive Mad is a physics driving challenge: balance your vehicle, clear
+  obstacles, and reach the finish without flipping.
+iframeSrc: 'https://ubg98.github.io/DriveMad/'
 thumbnail: /new-images/thumbnails/drive-mad.jpg
-urlstr: "drive-mad"
-score: "3.7/5  (1285 votes)"
-tags: ["driving", "physics"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: drive-mad
+tags:
+  - driving
+  - physics
+score: 3.7/5  (1285 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

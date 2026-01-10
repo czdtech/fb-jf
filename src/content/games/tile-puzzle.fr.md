@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: tile-puzzle
 title: Tile Puzzle
+seoTitle: Jouez à Tile Puzzle en ligne gratuitement | FiddleBops
 description: >-
   Tile Puzzle est un jeu de puzzle stratégique relaxant : trouve et sélectionne
   trois tuiles identiques pour les effacer. Planifie tes coups pour ne pas
   remplir ton plateau.
 iframeSrc: 'https://5u9qhnk84v07g.h5games.usercontent.goog/v/2h3elehja73a8/'
 thumbnail: /new-images/thumbnails/tile-puzzle.jpg
+urlstr: tile-puzzle
 tags:
   - puzzle
   - casual

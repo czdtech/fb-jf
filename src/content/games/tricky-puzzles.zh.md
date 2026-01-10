@@ -1,16 +1,17 @@
 ---
 locale: zh
-urlstr: tricky-puzzles
 title: 《Tricky Puzzles》脑洞益智合集
+seoTitle: 免费在线玩 《Tricky Puzzles》脑洞益智合集 | FiddleBops
 description: 《Tricky Puzzles》是一款集合多种脑洞题与机关谜题的益智游戏。看似简单的问题背后往往藏着反常规思路，需要你跳出惯性思考才能通关。
 iframeSrc: 'https://rebemanae.github.io/brain-test-tricky-puzzles/'
 thumbnail: /new-images/thumbnails/tricky-puzzles.jpg
+urlstr: tricky-puzzles
 tags:
   - puzzle
   - brain-teaser
   - funny
 score: 4.1/5  (713 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Basket Champ"
-description: "Basket Champ is a one‑touch hoop challenge — set arc, swish clean, and string perfect shots."
-iframeSrc: "https://0outkmbudufj8.h5games.usercontent.goog/v/1stcrgq2b9d08/"
+title: Basket Champ
+seoTitle: Play Basket Champ Online Free | FiddleBops
+description: >-
+  Basket Champ is a one‑touch hoop challenge — set arc, swish clean, and string
+  perfect shots.
+iframeSrc: 'https://0outkmbudufj8.h5games.usercontent.goog/v/1stcrgq2b9d08/'
 thumbnail: /new-images/thumbnails/basket-champ.png
-urlstr: "basket-champ"
-score: "4.0/5  (1816 votes)"
-tags: ["sports", "basketball", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: basket-champ
+tags:
+  - sports
+  - basketball
+  - casual
+score: 4.0/5  (1816 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: find-500-differences
 title: Find 500 Differences 找不同大挑战
+seoTitle: 免费在线玩 Find 500 Differences 找不同大挑战 | FiddleBops
 description: 在《Find 500 Differences》中挑战你的观察力：比较两张几乎一模一样的图片， 找出藏在细节里的所有差异。
 iframeSrc: 'https://find500differences2.h5games.usercontent.goog/v/4gu2tobroroug/'
 thumbnail: /new-images/thumbnails/find-500-differences.png
+urlstr: find-500-differences
 tags:
   - puzzle
   - casual

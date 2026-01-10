@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: idle-restaurants
 title: 《Idle Restaurants》放置餐厅大亨
+seoTitle: 免费在线玩 《Idle Restaurants》放置餐厅大亨 | FiddleBops
 description: 在《Idle Restaurants》中，你要从一家小餐馆起步，雇佣厨师与服务员、升级厨房和餐桌、引入经理实现自动化，逐步扩张为遍布各地的餐饮帝国。
 iframeSrc: 'https://idlerestaurants.h5games.usercontent.goog/v/4ut41titp1kvg/'
 thumbnail: /new-images/thumbnails/idle-restaurants.png
+urlstr: idle-restaurants
 tags:
   - casual
   - clicker

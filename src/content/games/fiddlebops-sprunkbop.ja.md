@@ -1,13 +1,17 @@
 ---
-title: "Fiddlebops Sprunkbop - Fiddlebops Sprunkbopをオンラインでプレイ"
-description: "Fiddlebops Sprunkbopは最高のクロスオーバーイベントです！Fiddlebopsの夢中になれる音楽制作のコアはそのままに、オリジナルのキャラクターすべてを象徴的なSprunkiクルーに入れ替えています。"
-iframeSrc: "https://turbowarp.org/1114551059/embed"
-thumbnail: /new-images/thumbnails/fiddlebops-sprunkbop.png
-urlstr: "fiddlebops-sprunkbop"
-score: "4.1/5  (308 votes)"
-tags: ["fiddlebops sprunkbop"]
 locale: ja
-releaseDate: 2025-12-04
+title: Fiddlebops Sprunkbop
+seoTitle: 無料でFiddlebops Sprunkbopをオンラインでプレイ | FiddleBops
+description: >-
+  Fiddlebops
+  Sprunkbopは最高のクロスオーバーイベントです！Fiddlebopsの夢中になれる音楽制作のコアはそのままに、オリジナルのキャラクターすべてを象徴的なSprunkiクルーに入れ替えています。
+iframeSrc: 'https://turbowarp.org/1114551059/embed'
+thumbnail: /new-images/thumbnails/fiddlebops-sprunkbop.png
+urlstr: fiddlebops-sprunkbop
+tags:
+  - fiddlebops sprunkbop
+score: 4.1/5  (308 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

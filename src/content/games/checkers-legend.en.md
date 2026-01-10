@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Checkers Legend"
-description: "Become a Checkers Legend in this classic board game. Plan your moves, capture your opponent's pieces, and crown your kings to dominate the board."
-iframeSrc: "https://checkerslegend.h5games.usercontent.goog/v/43mkj41ari948/"
+title: Checkers Legend
+seoTitle: Play Checkers Legend Online Free | FiddleBops
+description: >-
+  Become a Checkers Legend in this classic board game. Plan your moves, capture
+  your opponent's pieces, and crown your kings to dominate the board.
+iframeSrc: 'https://checkerslegend.h5games.usercontent.goog/v/43mkj41ari948/'
 thumbnail: /new-images/thumbnails/checkers-legend.png
-urlstr: "checkers-legend"
-score: "4.6/5  (2900 votes)"
-tags: ["puzzle", "thinky", "casual", "card"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: checkers-legend
+tags:
+  - puzzle
+  - thinky
+  - casual
+  - card
+score: 4.6/5  (2900 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

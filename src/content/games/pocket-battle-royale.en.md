@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Pocket Battle Royale"
-description: "A fast-paced, top-down 2D battle royale. Scavenge for weapons and health, stay inside the shrinking safe zone, and be the last one standing to claim victory!"
-iframeSrc: "https://pocketbattleroyale.h5games.usercontent.goog/v/1n9qfv4cpdie8/"
+title: Pocket Battle Royale
+seoTitle: Play Pocket Battle Royale Online Free | FiddleBops
+description: >-
+  A fast-paced, top-down 2D battle royale. Scavenge for weapons and health, stay
+  inside the shrinking safe zone, and be the last one standing to claim victory!
+iframeSrc: 'https://pocketbattleroyale.h5games.usercontent.goog/v/1n9qfv4cpdie8/'
 thumbnail: /new-images/thumbnails/pocket-battle-royale.png
-urlstr: "pocket-battle-royale"
-score: "4.2/5  (2100 votes)"
-tags: ["action", "shooting"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: pocket-battle-royale
+tags:
+  - action
+  - shooting
+score: 4.2/5  (2100 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

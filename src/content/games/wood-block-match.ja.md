@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Wood Block Match
+seoTitle: 無料でWood Block Matchをオンラインでプレイ | FiddleBops
 description: Wood Block Matchは、木製ブロックパズルゲームです。ブロックを配置して列をクリアしましょう。
 iframeSrc: 'https://2rfr65hktjv5o.h5games.usercontent.goog/v/46h85f5g0sldo/'
 thumbnail: /new-images/thumbnails/wood-block-match.png
 urlstr: wood-block-match
-score: 4.1/5  (1969 votes)
 tags:
   - puzzle
   - block
   - strategy
-locale: ja
+score: 4.1/5  (1969 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

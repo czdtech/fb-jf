@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: guns-n-bottles
 title: 《Guns n' Bottles》旋转手枪打瓶子
+seoTitle: 免费在线玩 《Guns n' Bottles》旋转手枪打瓶子 | FiddleBops
 description: >-
   在《Guns n'
   Bottles》中，用极致的手感和时机挑战自己的反应力：枪在画面中央不断旋转，你要在恰到好处的瞬间开枪击碎绿色酒瓶，同时小心避开致命的红瓶。
 iframeSrc: 'https://aktestgunsandbottles.h5games.usercontent.goog/v/51pcsm84fc4ag/'
 thumbnail: /new-images/thumbnails/guns-n-bottles.png
+urlstr: guns-n-bottles
 tags:
   - shooting
   - action

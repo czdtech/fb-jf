@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Basketball serial shooter"
-description: "Basketball serial shooter turns rapid‑fire hoops into skill — set arcs, manage rhythm, and chain swishes under pressure."
-iframeSrc: "https://41d3mmm660u50.h5games.usercontent.goog/v/1t2n5uvjnbv1o/"
+title: Basketball serial shooter
+seoTitle: Play Basketball serial shooter Online Free | FiddleBops
+description: >-
+  Basketball serial shooter turns rapid‑fire hoops into skill — set arcs, manage
+  rhythm, and chain swishes under pressure.
+iframeSrc: 'https://41d3mmm660u50.h5games.usercontent.goog/v/1t2n5uvjnbv1o/'
 thumbnail: /new-images/thumbnails/basketball-serial-shooter.jpg
-urlstr: "basketball-serial-shooter"
-score: "4.3/5  (2141 votes)"
-tags: ["sports", "basketball"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: basketball-serial-shooter
+tags:
+  - sports
+  - basketball
+score: 4.3/5  (2141 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

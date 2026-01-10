@@ -1,0 +1,351 @@
+{
+  "totalFiles": 4753,
+  "changedFiles": 4753,
+  "unchangedFiles": 0,
+  "errorFiles": 0,
+  "flaggedFiles": 13,
+  "samples": [
+    {
+      "file": "src/content/games/2-tricky-stories.de.md",
+      "locale": "de",
+      "fromTitle": "Brain Test 2: Tricky Stories",
+      "toTitle": "Brain Test 2: Tricky Stories",
+      "toSeoTitle": "Spiele Brain Test 2: Tricky Stories kostenlos online | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2-tricky-stories.en.md",
+      "locale": "en",
+      "fromTitle": "Brain Test 2: Tricky Stories",
+      "toTitle": "Brain Test 2: Tricky Stories",
+      "toSeoTitle": "Play Brain Test 2: Tricky Stories Online Free | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2-tricky-stories.es.md",
+      "locale": "es",
+      "fromTitle": "Brain Test 2: Tricky Stories en línea",
+      "toTitle": "Brain Test 2: Tricky Stories",
+      "toSeoTitle": "Juega a Brain Test 2: Tricky Stories en línea gratis | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2-tricky-stories.fr.md",
+      "locale": "fr",
+      "fromTitle": "Brain Test 2: Tricky Stories",
+      "toTitle": "Brain Test 2: Tricky Stories",
+      "toSeoTitle": "Jouez à Brain Test 2: Tricky Stories en ligne gratuitement | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2-tricky-stories.ja.md",
+      "locale": "ja",
+      "fromTitle": "Brain Test 2: Tricky Stories 脳トレテスト2：トリッキーストーリー",
+      "toTitle": "Brain Test 2: Tricky Stories 脳トレテスト2：トリッキーストーリー",
+      "toSeoTitle": "無料でBrain Test 2: Tricky Stories 脳トレテスト2：トリッキーストーリーをオンラインでプレイ | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2-tricky-stories.ko.md",
+      "locale": "ko",
+      "fromTitle": "Brain Test 2: Tricky Stories 브레인 테스트 2: 트리키 스토리즈",
+      "toTitle": "Brain Test 2: Tricky Stories 브레인 테스트 2: 트리키 스토리즈",
+      "toSeoTitle": "Brain Test 2: Tricky Stories 브레인 테스트 2: 트리키 스토리즈 무료 온라인 플레이 | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2-tricky-stories.zh.md",
+      "locale": "zh",
+      "fromTitle": "Brain Test 2: Tricky Stories 脑力测试2：棘手故事",
+      "toTitle": "Brain Test 2: Tricky Stories 脑力测试2：棘手故事",
+      "toSeoTitle": "免费在线玩 Brain Test 2: Tricky Stories 脑力测试2：棘手故事 | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2020-connect.de.md",
+      "locale": "de",
+      "fromTitle": "2020 Connect",
+      "toTitle": "2020 Connect",
+      "toSeoTitle": "Spiele 2020 Connect kostenlos online | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2020-connect.en.md",
+      "locale": "en",
+      "fromTitle": "2020 Connect",
+      "toTitle": "2020 Connect",
+      "toSeoTitle": "Play 2020 Connect Online Free | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2020-connect.es.md",
+      "locale": "es",
+      "fromTitle": "2020 Connect juego de combinar números",
+      "toTitle": "2020 Connect juego de combinar números",
+      "toSeoTitle": "Juega a 2020 Connect juego de combinar números en línea gratis | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2020-connect.fr.md",
+      "locale": "fr",
+      "fromTitle": "2020 Connect",
+      "toTitle": "2020 Connect",
+      "toSeoTitle": "Jouez à 2020 Connect en ligne gratuitement | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2020-connect.ja.md",
+      "locale": "ja",
+      "fromTitle": "2020 Connect 2020 コネクト",
+      "toTitle": "2020 Connect 2020 コネクト",
+      "toSeoTitle": "無料で2020 Connect 2020 コネクトをオンラインでプレイ | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2020-connect.ko.md",
+      "locale": "ko",
+      "fromTitle": "2020 Connect 2020 커넥트",
+      "toTitle": "2020 Connect 2020 커넥트",
+      "toSeoTitle": "2020 Connect 2020 커넥트 무료 온라인 플레이 | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2020-connect.zh.md",
+      "locale": "zh",
+      "fromTitle": "2020 Connect 2020连接",
+      "toTitle": "2020 Connect 2020连接",
+      "toSeoTitle": "免费在线玩 2020 Connect 2020连接 | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2048-fusion.de.md",
+      "locale": "de",
+      "fromTitle": "2048 Fusion",
+      "toTitle": "2048 Fusion",
+      "toSeoTitle": "Spiele 2048 Fusion kostenlos online | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2048-fusion.en.md",
+      "locale": "en",
+      "fromTitle": "2048 Fusion",
+      "toTitle": "2048 Fusion",
+      "toSeoTitle": "Play 2048 Fusion Online Free | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2048-fusion.es.md",
+      "locale": "es",
+      "fromTitle": "2048 Fusion puzle de fichas",
+      "toTitle": "2048 Fusion puzle de fichas",
+      "toSeoTitle": "Juega a 2048 Fusion puzle de fichas en línea gratis | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2048-fusion.fr.md",
+      "locale": "fr",
+      "fromTitle": "2048 Fusion",
+      "toTitle": "2048 Fusion",
+      "toSeoTitle": "Jouez à 2048 Fusion en ligne gratuitement | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2048-fusion.ja.md",
+      "locale": "ja",
+      "fromTitle": "2048 Fusion 2048 フュージョン",
+      "toTitle": "2048 Fusion 2048 フュージョン",
+      "toSeoTitle": "無料で2048 Fusion 2048 フュージョンをオンラインでプレイ | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2048-fusion.ko.md",
+      "locale": "ko",
+      "fromTitle": "2048 Fusion 2048 퓨전",
+      "toTitle": "2048 Fusion 2048 퓨전",
+      "toSeoTitle": "2048 Fusion 2048 퓨전 무료 온라인 플레이 | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2048-fusion.zh.md",
+      "locale": "zh",
+      "fromTitle": "2048 Fusion（2048 融合）",
+      "toTitle": "2048 Fusion（2048 融合）",
+      "toSeoTitle": "免费在线玩 2048 Fusion（2048 融合） | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2048-giant.de.md",
+      "locale": "de",
+      "fromTitle": "2048 Giant",
+      "toTitle": "2048 Giant",
+      "toSeoTitle": "Spiele 2048 Giant kostenlos online | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2048-giant.en.md",
+      "locale": "en",
+      "fromTitle": "2048 Giant",
+      "toTitle": "2048 Giant",
+      "toSeoTitle": "Play 2048 Giant Online Free | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2048-giant.es.md",
+      "locale": "es",
+      "fromTitle": "2048 Giant versión de tablero grande",
+      "toTitle": "2048 Giant versión de tablero grande",
+      "toSeoTitle": "Juega a 2048 Giant versión de tablero grande en línea gratis | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2048-giant.fr.md",
+      "locale": "fr",
+      "fromTitle": "2048 Giant",
+      "toTitle": "2048 Giant",
+      "toSeoTitle": "Jouez à 2048 Giant en ligne gratuitement | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2048-giant.ja.md",
+      "locale": "ja",
+      "fromTitle": "2048 Giant 2048 ジャイアント",
+      "toTitle": "2048 Giant 2048 ジャイアント",
+      "toSeoTitle": "無料で2048 Giant 2048 ジャイアントをオンラインでプレイ | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2048-giant.ko.md",
+      "locale": "ko",
+      "fromTitle": "2048 Giant 2048 자이언트",
+      "toTitle": "2048 Giant 2048 자이언트",
+      "toSeoTitle": "2048 Giant 2048 자이언트 무료 온라인 플레이 | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2048-giant.zh.md",
+      "locale": "zh",
+      "fromTitle": "2048 Giant 2048 巨型版",
+      "toTitle": "2048 Giant 2048 巨型版",
+      "toSeoTitle": "免费在线玩 2048 Giant 2048 巨型版 | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2048-pizza.de.md",
+      "locale": "de",
+      "fromTitle": "2048 Pizza",
+      "toTitle": "2048 Pizza",
+      "toSeoTitle": "Spiele 2048 Pizza kostenlos online | FiddleBops"
+    },
+    {
+      "file": "src/content/games/2048-pizza.en.md",
+      "locale": "en",
+      "fromTitle": "2048 Pizza",
+      "toTitle": "2048 Pizza",
+      "toSeoTitle": "Play 2048 Pizza Online Free | FiddleBops"
+    }
+  ],
+  "flagged": [
+    {
+      "file": "src/content/games/sprunki-craft.zh.md",
+      "locale": "zh",
+      "fromTitle": "Sprunki Craft 🎮 在线玩 Sprunki Craft",
+      "toTitle": "Sprunki Craft 在线玩 Sprunki Craft",
+      "reasons": [
+        "stripEmoji",
+        "stillLooksLikeSeoBoilerplate"
+      ]
+    },
+    {
+      "file": "src/content/games/sprunki-play-random.de.md",
+      "locale": "de",
+      "fromTitle": "Sprunki Play Random - Sprunki Play Random online spielen",
+      "toTitle": "Sprunki Play Random",
+      "reasons": [
+        "splitOnHyphenSeparator",
+        "stillLooksLikeSeoBoilerplate"
+      ]
+    },
+    {
+      "file": "src/content/games/sprunki-play-random.en.md",
+      "locale": "en",
+      "fromTitle": "Sprunki Play Random - Play Sprunki Play Random Online",
+      "toTitle": "Sprunki Play Random",
+      "reasons": [
+        "splitOnHyphenSeparator",
+        "stillLooksLikeSeoBoilerplate"
+      ]
+    },
+    {
+      "file": "src/content/games/sprunki-play-random.es.md",
+      "locale": "es",
+      "fromTitle": "Sprunki Play Random - Juega a Sprunki Play Random en línea",
+      "toTitle": "Sprunki Play Random",
+      "reasons": [
+        "splitOnHyphenSeparator",
+        "stillLooksLikeSeoBoilerplate"
+      ]
+    },
+    {
+      "file": "src/content/games/sprunki-play-random.fr.md",
+      "locale": "fr",
+      "fromTitle": "Sprunki Play Random - Jouer à Sprunki Play Random en ligne",
+      "toTitle": "Sprunki Play Random",
+      "reasons": [
+        "splitOnHyphenSeparator",
+        "stillLooksLikeSeoBoilerplate"
+      ]
+    },
+    {
+      "file": "src/content/games/sprunki-play-random.ja.md",
+      "locale": "ja",
+      "fromTitle": "Sprunki Play Random - Play Sprunki Play Random Online",
+      "toTitle": "Sprunki Play Random",
+      "reasons": [
+        "splitOnHyphenSeparator",
+        "stillLooksLikeSeoBoilerplate"
+      ]
+    },
+    {
+      "file": "src/content/games/sprunki-play-random.ko.md",
+      "locale": "ko",
+      "fromTitle": "Sprunki Play Random 스프룽키 플레이 랜덤",
+      "toTitle": "Sprunki Play Random 스프룽키 플레이 랜덤",
+      "reasons": [
+        "stillLooksLikeSeoBoilerplate"
+      ]
+    },
+    {
+      "file": "src/content/games/sprunki-play-random.zh.md",
+      "locale": "zh",
+      "fromTitle": "Sprunki Play Random - 在线玩 Sprunki Play Random",
+      "toTitle": "Sprunki Play Random",
+      "reasons": [
+        "splitOnHyphenSeparator",
+        "stillLooksLikeSeoBoilerplate"
+      ]
+    },
+    {
+      "file": "src/content/games/sprunki-retake-new-human.es.md",
+      "locale": "es",
+      "fromTitle": "Sprunki Retake New Human 🔥 Juega a Sprunki Retake New Human online",
+      "toTitle": "Sprunki Retake New Human Juega a Sprunki Retake New Human online",
+      "reasons": [
+        "stripEmoji",
+        "stillLooksLikeSeoBoilerplate"
+      ]
+    },
+    {
+      "file": "src/content/games/sprunki-retake-new-human.zh.md",
+      "locale": "zh",
+      "fromTitle": "Sprunki Retake New Human 🔥 在线玩 Sprunki Retake New Human",
+      "toTitle": "Sprunki Retake New Human 在线玩 Sprunki Retake New Human",
+      "reasons": [
+        "stripEmoji",
+        "stillLooksLikeSeoBoilerplate"
+      ]
+    },
+    {
+      "file": "src/content/games/sprunki-retake.zh.md",
+      "locale": "zh",
+      "fromTitle": "Sprunki Retake 🔥 在线玩 Sprunki Retake",
+      "toTitle": "Sprunki Retake 在线玩 Sprunki Retake",
+      "reasons": [
+        "stripEmoji",
+        "stillLooksLikeSeoBoilerplate"
+      ]
+    },
+    {
+      "file": "src/content/games/sprunki-sonic.es.md",
+      "locale": "es",
+      "fromTitle": "Sprunki Sonic 🔥 Juega a Sprunki Sonic online",
+      "toTitle": "Sprunki Sonic Juega a Sprunki Sonic online",
+      "reasons": [
+        "stripEmoji",
+        "stillLooksLikeSeoBoilerplate"
+      ]
+    },
+    {
+      "file": "src/content/games/sprunki-sonic.zh.md",
+      "locale": "zh",
+      "fromTitle": "Sprunki Sonic 🔥 在线玩 Sprunki Sonic",
+      "toTitle": "Sprunki Sonic 在线玩 Sprunki Sonic",
+      "reasons": [
+        "stripEmoji",
+        "stillLooksLikeSeoBoilerplate"
+      ]
+    }
+  ],
+  "errors": []
+}

@@ -1,17 +1,18 @@
 ---
 locale: ko
-urlstr: sprunki-meets-the-cat-spell
-title: 'Sprunki Meets The Cat Spell 스프룽키 미츠 더 캣 스펠'
+title: Sprunki Meets The Cat Spell 스프룽키 미츠 더 캣 스펠
+seoTitle: Sprunki Meets The Cat Spell 스프룽키 미츠 더 캣 스펠 무료 온라인 플레이 | FiddleBops
 description: >-
-  Sprunki Meets The Cat Spell은 기존 고양이 테마 모드를 다시 다듬은 스프룽키 모드로,
-  귀여운 고양이 귀와 고양이 컨셉을 입은 캐릭터들로 음악을 만드는 게임입니다.
+  Sprunki Meets The Cat Spell은 기존 고양이 테마 모드를 다시 다듬은 스프룽키 모드로, 귀여운 고양이 귀와 고양이 컨셉을
+  입은 캐릭터들로 음악을 만드는 게임입니다.
 iframeSrc: 'https://turbowarp.org/1149710266/embed'
 thumbnail: /new-images/thumbnails/sprunki-meets-the-cat-spell.png
+urlstr: sprunki-meets-the-cat-spell
 tags:
   - sprunki meets the cat spell
   - sprunki meets the cat spell online
 score: 4.8/5  (649 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

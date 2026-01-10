@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Bubble Shooter HD バブルシューターHD
+seoTitle: 無料でBubble Shooter HD バブルシューターHDをオンラインでプレイ | FiddleBops
 description: 「Bubble Shooter HD」は色鮮やかで美しい定番パズル。狙いを定めてバブルを撃ち、同じ色を3つ以上揃えて消そう。中毒性抜群の戦略パズル。
 iframeSrc: 'https://695vevup4pmu0.h5games.usercontent.goog/v/7ptf20o9mjr48/'
 thumbnail: /new-images/thumbnails/bubble-shooter-hd.png
 urlstr: bubble-shooter-hd
-score: 4.6/5  (2890 votes)
 tags:
   - puzzle
   - casual
   - shooting
+score: 4.6/5  (2890 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

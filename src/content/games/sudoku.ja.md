@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Sudoku
+seoTitle: 無料でSudokuをオンラインでプレイ | FiddleBops
 description: クラシックな数独パズルゲームです。論理的思考を使って9×9のグリッドを数字で埋めましょう。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/html5-sudoku/'
 thumbnail: /new-images/thumbnails/sudoku.jpg
 urlstr: sudoku
-score: 5.0/5  (1136 votes)
 tags:
   - puzzle
   - logic
   - classic
-locale: ja
+score: 5.0/5  (1136 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

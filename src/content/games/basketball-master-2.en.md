@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Basketball Master 2"
-description: "Show off your basketball skills in Basketball Master 2. Aim, shoot, and score in this fun and challenging basketball game."
-iframeSrc: "https://basketballmaster2.h5games.usercontent.goog/v/267j5oehq25q0/"
+title: Basketball Master 2
+seoTitle: Play Basketball Master 2 Online Free | FiddleBops
+description: >-
+  Show off your basketball skills in Basketball Master 2. Aim, shoot, and score
+  in this fun and challenging basketball game.
+iframeSrc: 'https://basketballmaster2.h5games.usercontent.goog/v/267j5oehq25q0/'
 thumbnail: /new-images/thumbnails/basketball-master-2.png
-urlstr: "basketball-master-2"
-score: "4.5/5 (2345 votes)"
-tags: ["sports", "basketball", "shooting"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: basketball-master-2
+tags:
+  - sports
+  - basketball
+  - shooting
+score: 4.5/5 (2345 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: zumba-ocean
 title: Zumba Ocean
+seoTitle: Jouez à Zumba Ocean en ligne gratuitement | FiddleBops
 description: >-
   Zumba Ocean est un shooter de billes façon Zuma : tire des perles colorées
   pour former des trios et arrêter la chaîne avant qu'elle n'atteigne la
   coquille.
 iframeSrc: 'https://zumbaocean.h5games.usercontent.goog/v/1gb65icesunig/'
 thumbnail: /new-images/thumbnails/zumba-ocean.png
+urlstr: zumba-ocean
 tags:
   - shooting
   - puzzle

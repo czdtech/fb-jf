@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: addiction-mini
 title: Addiction Mini 成瘾迷你版
+seoTitle: 免费在线玩 Addiction Mini 成瘾迷你版 | FiddleBops
 description: 《Addiction Mini（成瘾迷你版）》是一款精简版的接龙序列纸牌游戏，你需要在有限空间里不断调整牌序，按规则排出顺子并打破局面僵局。
 iframeSrc: 'https://0lk0u0jb90plo.h5games.usercontent.goog/v/2rppmab9dqneo/'
 thumbnail: /new-images/thumbnails/addiction-mini.jpg
+urlstr: addiction-mini
 tags:
   - card
   - puzzle

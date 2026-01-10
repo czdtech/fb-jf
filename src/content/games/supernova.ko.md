@@ -1,13 +1,13 @@
 ---
 locale: ko
-urlstr: supernova
-title: 'Supernova 슈퍼노바'
+title: Supernova 슈퍼노바
+seoTitle: Supernova 슈퍼노바 무료 온라인 플레이 | FiddleBops
 description: >-
-  Supernova는 위험한 소행성 지대를 비행하며 우주선을 조종해 암석과 적을
-  격추하는 아케이드 스타일 슈팅 게임입니다. 가능한 한 오래 살아남아 최고
-  점수를 노려 보세요.
+  Supernova는 위험한 소행성 지대를 비행하며 우주선을 조종해 암석과 적을 격추하는 아케이드 스타일 슈팅 게임입니다. 가능한 한 오래
+  살아남아 최고 점수를 노려 보세요.
 iframeSrc: 'https://rebemanae.github.io/supernova/'
 thumbnail: /new-images/thumbnails/supernova.jpg
+urlstr: supernova
 tags:
   - action
   - shooting

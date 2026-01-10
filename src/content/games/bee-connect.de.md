@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: bee-connect
-title: "Bee Connect"
+title: Bee Connect
+seoTitle: Spiele Bee Connect kostenlos online | FiddleBops
 description: >-
   In Bee Connect ordnest du Zahlen auf einem Wabenfeld so an, dass sich Gruppen
   aus mindestens vier gleichen Werten bilden und zu höheren Zahlen verschmelzen.
 iframeSrc: >-
   https://beeconnect.h5games.usercontent.goog/v/06c7e297-3e6d-4512-9fb2-e491ae2b2fb9/
 thumbnail: /new-images/thumbnails/bee-connect.jpg
+urlstr: bee-connect
 tags:
   - puzzle
   - casual

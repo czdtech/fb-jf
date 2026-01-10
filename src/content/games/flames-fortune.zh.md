@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: flames-fortune
 title: Flames & Fortune 烈焰与幸运卡牌战
+seoTitle: 免费在线玩 Flames & Fortune 烈焰与幸运卡牌战 | FiddleBops
 description: Flames & Fortune 是一款战术感很强的卡牌式战斗游戏，通过管理手牌与节奏， 在回合中作出精准判断，以智慧压制对手。
 iframeSrc: 'https://0e8d16hkgti30.h5games.usercontent.goog/v/00r0qn2t79f3g/'
 thumbnail: /new-images/thumbnails/flames-fortune.jpg
+urlstr: flames-fortune
 tags:
   - card
   - thinky

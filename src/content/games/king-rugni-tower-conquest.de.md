@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: king-rugni-tower-conquest
-title: "King Rugni Tower Conquest"
+title: King Rugni Tower Conquest
+seoTitle: Spiele King Rugni Tower Conquest kostenlos online | FiddleBops
 description: >-
   King Rugni Tower Conquest ist ein kompakter Tower-Defense-Titel: Baue und
   verbessere Türme, lenke Creeps durch Todeszonen und verteidige deine Linien
   mit klugen Upgrades.
 iframeSrc: 'https://1kh2cdjui86vo.h5games.usercontent.goog/v/71hetkqd45518/'
 thumbnail: /new-images/thumbnails/king-rugni-tower-conquest.jpg
+urlstr: king-rugni-tower-conquest
 tags:
   - tower Defense
   - thinky

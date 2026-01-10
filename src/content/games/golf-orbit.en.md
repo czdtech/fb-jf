@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Golf Orbit"
-description: "Golf Orbit is a one‑tap launch‑and‑land golf — set launch angle, manage spin, and ride planetary gravity for long, strategic flights."
-iframeSrc: "https://7e0r297sgk0j0.h5games.usercontent.goog/v/1976bdao4gtf0/"
+title: Golf Orbit
+seoTitle: Play Golf Orbit Online Free | FiddleBops
+description: >-
+  Golf Orbit is a one‑tap launch‑and‑land golf — set launch angle, manage spin,
+  and ride planetary gravity for long, strategic flights.
+iframeSrc: 'https://7e0r297sgk0j0.h5games.usercontent.goog/v/1976bdao4gtf0/'
 thumbnail: /new-images/thumbnails/golf-orbit.png
-urlstr: "golf-orbit"
-score: "4.1/5  (1926 votes)"
-tags: ["sports", "puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: golf-orbit
+tags:
+  - sports
+  - puzzle
+  - casual
+score: 4.1/5  (1926 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Daily Word Climb デイリー・ワード・クライム
+seoTitle: 無料でDaily Word Climb デイリー・ワード・クライムをオンラインでプレイ | FiddleBops
 description: 「Daily Word Climb」は毎日配信される新感覚ワードパズル。色のヒントを頼りに文字を入れ替え、正しい単語を見つけ出そう。
 iframeSrc: 'https://7j9i6247552ro.h5games.usercontent.goog/v/1g49kcc7pdiio/'
 thumbnail: /new-images/thumbnails/daily-word-climb.png
 urlstr: daily-word-climb
-score: 4.4/5  (2300 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.4/5  (2300 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

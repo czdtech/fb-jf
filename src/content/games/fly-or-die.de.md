@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: fly-or-die
 title: Fly or Die
+seoTitle: Spiele Fly or Die kostenlos online | FiddleBops
 description: >-
   Fly or Die ist ein Evolutions-Survival-Game im .io-Stil: Iss das richtige
   Futter, steig die Nahrungskette hinauf und meide Räuber und Gefahren in Luft
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://app-96679.games.s3.yandex.net/96679/jshypemnvrae6bchv5d2nej2892owe69/index.html
 thumbnail: /new-images/thumbnails/fly-or-die.jpg
+urlstr: fly-or-die
 tags:
   - survival
   - io

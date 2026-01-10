@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: perfect-piano
 title: Perfect Piano
+seoTitle: Jouez à Perfect Piano en ligne gratuitement | FiddleBops
 description: "Perfect Piano est un jeu de rythme type Piano Tiles\_: touche les notes qui défilent au bon moment pour jouer des morceaux sans rater une seule case."
 iframeSrc: 'https://perfectpiano.h5games.usercontent.goog/v/48c3ch9soa7cg/'
 thumbnail: /new-images/thumbnails/perfect-piano.png
+urlstr: perfect-piano
 tags:
   - action
   - casual

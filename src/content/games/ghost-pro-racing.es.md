@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: ghost-pro-racing
-title: "Ghost Pro Racing"
+title: Ghost Pro Racing
+seoTitle: Juega a Ghost Pro Racing en línea gratis | FiddleBops
 description: >-
   Ghost Pro Racing es un juego de contrarreloj pura: persigue las repeticiones
   fantasma, perfecciona tus trazadas y rebaja décimas con entradas consistentes
   en cada vuelta.
 iframeSrc: 'https://52v00umba6lko.h5games.usercontent.goog/v/46gechg282a6g/'
 thumbnail: /new-images/thumbnails/ghost-pro-racing.jpg
+urlstr: ghost-pro-racing
 tags:
   - car
   - driving

@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: jet-boi
 title: Jet Boi 제트팩 듀얼
+seoTitle: Jet Boi 제트팩 듀얼 무료 온라인 플레이 | FiddleBops
 description: >-
   2인용 제트팩 대전 게임 'Jet Boi' 가이드입니다. 제한된 연료로 공중을 제어하며 무기를 집어 들고, 상대를 스테이지 밖으로 날려 보내
   승리를 노려 보세요.
 iframeSrc: >-
   https://g.igroutka.ru/games/23/yw5Aj09crUtBZC8T/rvvASMiM/5113cafa646f4648abc873fe8fbb7232/
 thumbnail: /new-images/thumbnails/jet-boi.jpg
+urlstr: jet-boi
 tags:
   - action
   - multiplayer

@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: om-nom-connect-classic
 title: Om Nom Connect Classic
+seoTitle: Spiele Om Nom Connect Classic kostenlos online | FiddleBops
 description: >-
   Verbinde Om Nom in diesem klassischen Kachel-Puzzle! Finde Paare identischer
   Kacheln mit Om Nom und seinen Freunden und räume das Spielfeld, indem du sie
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://omnomconnectclassic.h5games.usercontent.goog/v/6bc88dac-9f6b-4f2f-8c85-e715c899bb63/
 thumbnail: /new-images/thumbnails/om-nom-connect-classic.jpg
+urlstr: om-nom-connect-classic
 tags:
   - puzzle
   - casual

@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: 4-in-Row Mania フォープラス・マニア
+seoTitle: 無料で4-in-Row Mania フォープラス・マニアをオンラインでプレイ | FiddleBops
 description: 「4-in-Row Mania」でクラシックな四目並べを楽しもう。列に4つの駒を揃えるだけのシンプルなルールで、戦略的な対戦が熱いボードゲームです。
 iframeSrc: 'https://4vt1c4a3eda48.h5games.usercontent.goog/v/73p1lulj7oe3o/'
 thumbnail: /new-images/thumbnails/4-in-row-mania.jpg
 urlstr: 4-in-row-mania
-score: 4.1/5  (1993 votes)
 tags:
   - board
   - puzzle
+score: 4.1/5  (1993 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

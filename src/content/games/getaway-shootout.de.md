@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: getaway-shootout
 title: Getaway Shootout
+seoTitle: Spiele Getaway Shootout kostenlos online | FiddleBops
 description: >-
   Getaway Shootout ist ein chaotischer Physik-Racer-Shooter: Hüpfe im Zweitakt
   zur Fluchtzone, sammle schräge Waffen ein und trickse Rivalen im Solo- oder
   2-Spieler-Modus aus.
 iframeSrc: 'https://ubg44.github.io/GetawayShootout/'
 thumbnail: /new-images/thumbnails/getaway-shootout.jpg
+urlstr: getaway-shootout
 tags:
   - action
   - multiplayer

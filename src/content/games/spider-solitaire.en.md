@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Spider Solitaire"
-description: "Play Spider Solitaire, a challenging and rewarding card game. Your goal is to build eight descending sequences of cards by suit, from King to Ace. Clear the tableau to win in this strategic puzzle that tests your planning and foresight."
-iframeSrc: "https://www.squidbyte.com/games_third/spider/en/spider-solitaire-halloween/"
+title: Spider Solitaire
+seoTitle: Play Spider Solitaire Online Free | FiddleBops
+description: >-
+  Play Spider Solitaire, a challenging and rewarding card game. Your goal is to
+  build eight descending sequences of cards by suit, from King to Ace. Clear the
+  tableau to win in this strategic puzzle that tests your planning and
+  foresight.
+iframeSrc: 'https://www.squidbyte.com/games_third/spider/en/spider-solitaire-halloween/'
 thumbnail: /new-images/thumbnails/spider-solitaire.jpg
-urlstr: "spider-solitaire"
-score: "4.8/5  (331 votes)"
-tags: ["card-game", "puzzle", "strategy"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: spider-solitaire
+tags:
+  - card-game
+  - puzzle
+  - strategy
+score: 4.8/5  (331 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: train-miner
-title: "Train Miner - Puzle de vías mineras"
+title: Train Miner
+seoTitle: Juega a Train Miner en línea gratis | FiddleBops
 description: >-
-  Train Miner es un puzle de tendido de vías: coloca railes, recoge
-  mineral y llega a la salida optimizando giros y consumo de combustible.
-iframeSrc: "https://7r2vmm5fqv830.h5games.usercontent.goog/v/3ubj960lc0t4o/"
+  Train Miner es un puzle de tendido de vías: coloca railes, recoge mineral y
+  llega a la salida optimizando giros y consumo de combustible.
+iframeSrc: 'https://7r2vmm5fqv830.h5games.usercontent.goog/v/3ubj960lc0t4o/'
 thumbnail: /new-images/thumbnails/train-miner.png
+urlstr: train-miner
 tags:
   - puzzle
   - thinky

@@ -1,15 +1,16 @@
 ---
 locale: en
-title: Pikmin No Sprunki - Play Pikmin No Sprunki Online
+title: Pikmin No Sprunki
+seoTitle: Play Pikmin No Sprunki Online Free | FiddleBops
 description: Pikmin No Sprunki is more than just a simple game; it
 iframeSrc: 'https://img.sprunki.net/game/pikmin-no-sprunki.html'
 thumbnail: /new-images/thumbnails/pikmin-no-sprunki.png
 urlstr: pikmin-no-sprunki
-modType: sprunki
-score: 4.0/5  (89 votes)
 tags:
   - pikmin no sprunki
   - music
+modType: sprunki
+score: 4.0/5  (89 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

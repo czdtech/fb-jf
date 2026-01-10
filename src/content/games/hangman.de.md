@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: hangman
 title: Hangman
+seoTitle: Spiele Hangman kostenlos online | FiddleBops
 description: >-
   Klassisches Wort-Ratespiel: Finde das geheime Wort, indem du Buchstaben
   vorschlägst – aber mach nicht zu viele Fehler, bevor die Strichfigur
   vollständig ist.
 iframeSrc: 'https://hangman-frontend.coolmathgames.com/home'
 thumbnail: /new-images/thumbnails/hangman.jpg
+urlstr: hangman
 tags:
   - word
   - puzzle

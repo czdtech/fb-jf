@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Chess Grandmaster チェス・グランドマスター
+seoTitle: 無料でChess Grandmaster チェス・グランドマスターをオンラインでプレイ | FiddleBops
 description: 「Chess Grandmaster」で本格的なチェス対局を。オープニング理論、中盤の戦術、そしてエンドゲームの基礎を学び、グランドマスターへの道を歩め。
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
 thumbnail: /new-images/thumbnails/chess-grandmaster.jpg
 urlstr: chess-grandmaster
-score: 4.5/5  (2431 votes)
 tags:
   - thinky
   - puzzle
+score: 4.5/5  (2431 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

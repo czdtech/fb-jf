@@ -1,15 +1,18 @@
 ---
-# Frontmatter: config.ts の schema に従う
-title: "Spider Solitaire: Card Games"
-description: "Spider Solitaireは104枚で遊ぶソリティアです。キングからエースまでの同一スートの並びを作り、タブローのクリアを目指します。"
-iframeSrc: "https://ubg98.github.io/SpiderSolitaire/"
-thumbnail: /new-images/thumbnails/spider-solitaire-card-games.jpg
-urlstr: "spider-solitaire-card-games"
-score: "4.2/5  (1141 votes)"
-tags: ["card-game", "puzzle", "strategy"]
-developer: ""
-releaseDate: 2025-08-16
 locale: ja
+title: 'Spider Solitaire: Card Games'
+seoTitle: '無料でSpider Solitaire: Card Gamesをオンラインでプレイ | FiddleBops'
+description: Spider Solitaireは104枚で遊ぶソリティアです。キングからエースまでの同一スートの並びを作り、タブローのクリアを目指します。
+iframeSrc: 'https://ubg98.github.io/SpiderSolitaire/'
+thumbnail: /new-images/thumbnails/spider-solitaire-card-games.jpg
+urlstr: spider-solitaire-card-games
+tags:
+  - card-game
+  - puzzle
+  - strategy
+score: 4.2/5  (1141 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

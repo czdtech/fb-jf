@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: metal-guns-fury
 title: Metal Guns Fury 메탈 건즈 퓨리
+seoTitle: Metal Guns Fury 메탈 건즈 퓨리 무료 온라인 플레이 | FiddleBops
 description: >-
   Metal Guns Fury는 탄을 피하며 전장을 질주하는 런앤건 아케이드 액션으로, 무기를 관리하며 밀려오는 적을 호쾌하게 쓸어 버리는
   게임입니다.
 iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
 thumbnail: /new-images/thumbnails/metal-guns-fury.jpg
+urlstr: metal-guns-fury
 tags:
   - action
   - shooting

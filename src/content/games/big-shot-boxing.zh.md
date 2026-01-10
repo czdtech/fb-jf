@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: big-shot-boxing
 title: Big Shot Boxing 拳击争霸
+seoTitle: 免费在线玩 Big Shot Boxing 拳击争霸 | FiddleBops
 description: >-
   在《Big Shot Boxing 拳击争霸》中，从无名小拳手一路打上世界冠军擂台，合理训练属性、研究对手打法，利用
   简洁却富有深度的操作系统赢下每一场比赛。
 iframeSrc: 'https://rebemanae.github.io/big-shot-boxing/'
 thumbnail: /new-images/thumbnails/big-shot-boxing.jpg
+urlstr: big-shot-boxing
 tags:
   - sports
   - action

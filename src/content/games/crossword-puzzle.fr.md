@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: crossword-puzzle
 title: Crossword Puzzle
+seoTitle: Jouez à Crossword Puzzle en ligne gratuitement | FiddleBops
 description: "Crossword Puzzle est un classique des jeux de mots\_: remplis la grille en trouvant les réponses des définitions horizontales et verticales."
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword-puzzle.html'
 thumbnail: /new-images/thumbnails/crossword-puzzle.jpg
+urlstr: crossword-puzzle
 tags:
   - word
   - puzzle

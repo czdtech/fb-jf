@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: pirate-poker
 title: Pirate Poker
+seoTitle: Spiele Pirate Poker kostenlos online | FiddleBops
 description: >-
   Ahoi! Setze, bluffe und stelle in Pirate Poker das beste Fünf-Karten-Blatt
   zusammen. Fordere raue Seebären heraus, verwalte deine Dublonen und zeige,
   dass du der schärfste Kartenspieler auf den sieben Weltmeeren bist.
 iframeSrc: 'https://6ghou5c7rjb9g.h5games.usercontent.goog/v/2n3b0c56pikmo/'
 thumbnail: /new-images/thumbnails/pirate-poker.png
+urlstr: pirate-poker
 tags:
   - card
   - puzzle

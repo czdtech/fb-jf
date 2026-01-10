@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: guess-the-word
 title: Guess The Word
+seoTitle: Spiele Guess The Word kostenlos online | FiddleBops
 description: >-
   Guess The Word ist ein klares Wortlegespiel: Verbinde Buchstaben, nutze
   Mustererkennung und fülle Kreuzwort-Gitter mit deinem Wortschatz und etwas
   Kombinationsgabe.
 iframeSrc: 'https://5e2trj00jcfog.h5games.usercontent.goog/v/1hrc6f7979nig/'
 thumbnail: /new-images/thumbnails/guess-the-word.png
+urlstr: guess-the-word
 tags:
   - puzzle
   - thinky

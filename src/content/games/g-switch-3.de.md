@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: g-switch-3
 title: G-Switch 3
+seoTitle: Spiele G-Switch 3 kostenlos online | FiddleBops
 description: >-
   G-Switch 3 erhöht Tempo und Schwierigkeitsgrad: schnellere Gravity-Flips,
   komplexere Fallenketten und erweiterter lokaler Multiplayer für große
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221121/2/index.html
 thumbnail: /new-images/thumbnails/g-switch-3.jpg
+urlstr: g-switch-3
 tags:
   - runner
   - platformer

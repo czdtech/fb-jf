@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: sudoku
 title: Sudoku 스도쿠
+seoTitle: Sudoku 스도쿠 무료 온라인 플레이 | FiddleBops
 description: >-
   Sudoku는 9x9 격자를 채워 각 줄·각 칸·3x3 박스에 1~9가 한 번씩만 들어가게 만드는 고전 숫자 논리 퍼즐입니다. 직관적인
   인터페이스로 전통 스도쿠를 간단하게 즐길 수 있습니다.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/html5-sudoku/'
 thumbnail: /new-images/thumbnails/sudoku.jpg
+urlstr: sudoku
 tags:
   - puzzle
   - thinky

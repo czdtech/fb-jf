@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: trap-the-cat
 title: Trap the Cat
+seoTitle: Jouez à Trap the Cat en ligne gratuitement | FiddleBops
 description: >-
   Trap the Cat est un puzzle stratégique : bloque les voies d'évasion du chat en
   plaçant des barrières sur une grille hexagonale.
 iframeSrc: 'https://freeonlinegames.github.io/cat-trap.html'
 thumbnail: /new-images/thumbnails/trap-the-cat.jpg
+urlstr: trap-the-cat
 tags:
   - strategy
   - puzzle

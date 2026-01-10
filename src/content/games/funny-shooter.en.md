@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Funny Shooter"
-description: "Wave shooter prototype: fight quirky enemies, collect cash, and upgrade weapons to survive increasingly tough rounds." 
-iframeSrc: "https://bitlifeonline.github.io/class2623/funny-shooter/"
+title: Funny Shooter
+seoTitle: Play Funny Shooter Online Free | FiddleBops
+description: >-
+  Wave shooter prototype: fight quirky enemies, collect cash, and upgrade
+  weapons to survive increasingly tough rounds.
+iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter/'
 thumbnail: /new-images/thumbnails/funny-shooter.jpg
-urlstr: "funny-shooter"
-score: "5.0/5  (797 votes)"
-tags: ["shooting", "fps"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: funny-shooter
+tags:
+  - shooting
+  - fps
+score: 5.0/5  (797 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

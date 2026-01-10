@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Categories"
-description: "Categories is a quick word‑sorting brainteaser — group items by theme, deduce outliers, and beat the clock."
-iframeSrc: "https://1ssgr48qrfod0.h5games.usercontent.goog/v/20nv9be906iho/"
+title: Categories
+seoTitle: Play Categories Online Free | FiddleBops
+description: >-
+  Categories is a quick word‑sorting brainteaser — group items by theme, deduce
+  outliers, and beat the clock.
+iframeSrc: 'https://1ssgr48qrfod0.h5games.usercontent.goog/v/20nv9be906iho/'
 thumbnail: /new-images/thumbnails/categories.png
-urlstr: "categories"
-score: "4.0/5  (1855 votes)"
-tags: ["thinky", "puzzle"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: categories
+tags:
+  - thinky
+  - puzzle
+score: 4.0/5  (1855 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

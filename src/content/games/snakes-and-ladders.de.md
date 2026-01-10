@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: snakes-and-ladders
-title: "Snakes And Ladders"
+title: Snakes And Ladders
+seoTitle: Spiele Snakes And Ladders kostenlos online | FiddleBops
 description: >-
   Spiele Snakes and Ladders, das klassische Würfel-Brettspiel: Würfle, klettere
   Leitern hinauf, rutsche auf Schlangen hinunter und sei als Erster auf dem
   Zielfeld, um diese zeitlose Familienpartie zu gewinnen.
 iframeSrc: 'https://cdn.gamesnacks.com/snakesandladders/gameCode/index.html'
 thumbnail: /new-images/thumbnails/snakes-and-ladders.jpg
+urlstr: snakes-and-ladders
 tags:
   - board-game
   - classic

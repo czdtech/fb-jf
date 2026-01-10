@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: neon-tower
 title: Neon Tower
+seoTitle: Spiele Neon Tower kostenlos online | FiddleBops
 description: >-
   Führe den springenden Ball den Neon Tower hinab! Drehe die Helix-Plattform,
   finde Lücken und lass den Ball hindurchfallen – aber hüte dich vor roten
@@ -9,6 +9,7 @@ description: >-
   bekommen!
 iframeSrc: 'https://2mk3ok3s7jl88.h5games.usercontent.goog/v/39vfhh0oku1j8/'
 thumbnail: /new-images/thumbnails/neon-tower.png
+urlstr: neon-tower
 tags:
   - action
   - casual

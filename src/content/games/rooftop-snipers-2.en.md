@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Rooftop Snipers 2"
-description: "Rooftop Snipers 2 is a hilarious physics-based shooting game where two stick figures battle on rooftops, trying to knock each other off using various weapons with unpredictable ragdoll physics."
-iframeSrc: "https://rebemanae.github.io/rooftop-snipers-2/"
+title: Rooftop Snipers 2
+seoTitle: Play Rooftop Snipers 2 Online Free | FiddleBops
+description: >-
+  Rooftop Snipers 2 is a hilarious physics-based shooting game where two stick
+  figures battle on rooftops, trying to knock each other off using various
+  weapons with unpredictable ragdoll physics.
+iframeSrc: 'https://rebemanae.github.io/rooftop-snipers-2/'
 thumbnail: /new-images/thumbnails/rooftop-snipers-2.jpg
-urlstr: "rooftop-snipers-2"
-score: "4.1/5  (546 votes)"
-tags: ["shooting", "physics", "multiplayer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: rooftop-snipers-2
+tags:
+  - shooting
+  - physics
+  - multiplayer
+score: 4.1/5  (546 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

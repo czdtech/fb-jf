@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: cooking-mania
 title: Cooking Mania
+seoTitle: Juega a Cooking Mania en línea gratis | FiddleBops
 description: >-
   Cooking Mania es un frenético juego de gestión de tiempo en la cocina:
   gestiona pedidos, encadena combos y mejora tu restaurante para mantener a
   todos los clientes satisfechos.
 iframeSrc: 'https://626dr588t6g9g.h5games.usercontent.goog/v/76eqgdom1qfbg/'
 thumbnail: /new-images/thumbnails/cooking-mania.jpg
+urlstr: cooking-mania
 tags:
   - casual
   - thinky

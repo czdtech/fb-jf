@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: breaking-the-bank
 title: Breaking the Bank
+seoTitle: Spiele Breaking the Bank kostenlos online | FiddleBops
 description: >-
   Wage in Breaking the Bank deinen ersten großen Bankraub mit Henry Stickmin.
   Wähle eine Methode, sieh dir die verrückten Fehlschläge an – und finde den
   einzigen Weg, der wirklich funktioniert.
 iframeSrc: 'https://rebemanae.github.io/breaking-the-bank/'
 thumbnail: /new-images/thumbnails/breaking-the-bank.jpg
+urlstr: breaking-the-bank
 tags:
   - puzzle
   - adventure

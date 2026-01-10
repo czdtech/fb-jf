@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: incredibox-trillybox
 title: Incredibox Trillybox
+seoTitle: Jouez à Incredibox Trillybox en ligne gratuitement | FiddleBops
 description: >-
   Incredibox Trillybox est un mod dédié à la trap moderne : 808 lourdes, hi‑hats
   mitraillette, synthés sombres et voix autotunées pour créer tes propres
   bangers.
 iframeSrc: 'https://turbowarp.org/907049948/embed'
 thumbnail: /new-images/thumbnails/incredibox-trillybox.png
+urlstr: incredibox-trillybox
 tags:
   - music
   - hip-Hop

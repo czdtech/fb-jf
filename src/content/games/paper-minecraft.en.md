@@ -1,6 +1,7 @@
 ---
 locale: en
 title: Paper Minecraft
+seoTitle: Play Paper Minecraft Online Free | FiddleBops
 description: >-
   Paper Minecraft is a 2D re-imagining of the popular sandbox game, offering
   players a side-scrolling world to explore, mine resources, craft items, build
@@ -8,12 +9,12 @@ description: >-
 iframeSrc: 'https://scratch.mit.edu/projects/10128407/embed'
 thumbnail: /new-images/thumbnails/paper-minecraft.jpg
 urlstr: paper-minecraft
-score: 3.6/5  (848 votes)
 tags:
   - sandbox
   - crafting
   - 2d platformer
   - adventure
+score: 3.6/5  (848 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---

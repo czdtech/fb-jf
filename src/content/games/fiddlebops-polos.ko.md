@@ -1,16 +1,17 @@
 ---
 locale: ko
-urlstr: fiddlebops-polos
 title: Fiddlebops Polos 피들밥스 폴로스
+seoTitle: Fiddlebops Polos 피들밥스 폴로스 무료 온라인 플레이 | FiddleBops
 description: >-
   Fiddlebops Polos는 다양한 캐릭터와 사운드를 조합해 음악을 만드는 온라인 음악 크리에이션 게임입니다. 드래그 앤 드롭으로 루프를
   쌓고 이야기를 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1149630445/embed'
 thumbnail: /new-images/thumbnails/fiddlebops-polos.png
+urlstr: fiddlebops-polos
 tags:
   - fiddlebops polos
 score: 4.6/5  (217 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

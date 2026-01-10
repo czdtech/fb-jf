@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: fruit-cube-blast
 title: Fruit Cube Blast 프루트 큐브 블래스트
+seoTitle: Fruit Cube Blast 프루트 큐브 블래스트 무료 온라인 플레이 | FiddleBops
 description: >-
   Fruit Cube Blast는 같은 색 과일 큐브를 터치해 한 번에 없애는 "탭 투 블래스트" 퍼즐 게임입니다. 큰 그룹을 터뜨려 폭발적인
   콤보를 만들고, 다양한 부스터로 스테이지 목표를 달성해 보세요.
 iframeSrc: 'https://5pj67mkaqugmo.h5games.usercontent.goog/v/151if1r687t30/'
 thumbnail: /new-images/thumbnails/fruit-cube-blast.jpg
+urlstr: fruit-cube-blast
 tags:
   - puzzle
   - casual

@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Cricket Hero"
-description: "Step up to the crease and become a Cricket Hero! Time your shots to perfection and score as many runs as you can in this exciting cricket batting game."
-iframeSrc: "https://crickethero.h5games.usercontent.goog/v/7cnfq54s3ilao/"
+title: Cricket Hero
+seoTitle: Play Cricket Hero Online Free | FiddleBops
+description: >-
+  Step up to the crease and become a Cricket Hero! Time your shots to perfection
+  and score as many runs as you can in this exciting cricket batting game.
+iframeSrc: 'https://crickethero.h5games.usercontent.goog/v/7cnfq54s3ilao/'
 thumbnail: /new-images/thumbnails/cricket-hero.jpg
-urlstr: "cricket-hero"
-score: "4.3/5  (2109 votes)"
-tags: ["sports", "action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: cricket-hero
+tags:
+  - sports
+  - action
+  - casual
+score: 4.3/5  (2109 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

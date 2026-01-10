@@ -1,19 +1,20 @@
 ---
+locale: ja
 title: Solitaire Classic
+seoTitle: 無料でSolitaire Classicをオンラインでプレイ | FiddleBops
 description: >-
   Solitaire
   ClassicはKlondike（クロンダイク）としても知られる定番ソリティアです。52枚をスートごとにA〜Kでファウンデーションにそろえます。
 iframeSrc: 'https://solitaireclassic.h5games.usercontent.goog/v/7sbt28mppqim8/'
 thumbnail: /new-images/thumbnails/solitaire-classic.png
 urlstr: solitaire-classic
-score: 4.7/5  (3100 votes)
 tags:
   - card
   - puzzle
   - casual
+score: 4.7/5  (3100 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 

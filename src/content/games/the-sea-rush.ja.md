@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: The Sea Rush
+seoTitle: 無料でThe Sea Rushをオンラインでプレイ | FiddleBops
 description: The Sea Rushは、海をテーマにしたエンドレスランナーゲームです。波を乗り越え、障害物を避けて進みましょう。
 iframeSrc: 'https://thesearush.h5games.usercontent.goog/v/5ie3e5aghbr18/'
 thumbnail: /new-images/thumbnails/the-sea-rush.png
 urlstr: the-sea-rush
-score: 4.1/5 (1234 votes)
 tags:
   - runner
   - endless
   - ocean
-locale: ja
+score: 4.1/5 (1234 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

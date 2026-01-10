@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: breaking-the-bank
-title: "Breaking the Bank 神偷亨利：挖银行"
+title: Breaking the Bank 神偷亨利：挖银行
+seoTitle: 免费在线玩 Breaking the Bank 神偷亨利：挖银行 | FiddleBops
 description: >-
   《Breaking the Bank》是“神偷亨利”（Henry Stickmin）系列的开端，以互动动画 + 多结局选择的形式，讲述亨利第
   一次尝试打劫银行却屡战屡败的搞笑故事。
 iframeSrc: 'https://rebemanae.github.io/breaking-the-bank/'
 thumbnail: /new-images/thumbnails/breaking-the-bank.jpg
+urlstr: breaking-the-bank
 tags:
   - adventure
   - puzzle

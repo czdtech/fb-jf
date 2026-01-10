@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: tricky-puzzles
-title: 'Brain Test: Tricky Puzzles - Puzles tramposos'
+title: 'Brain Test: Tricky Puzzles'
+seoTitle: 'Juega a Brain Test: Tricky Puzzles en línea gratis | FiddleBops'
 description: >-
   Pon a prueba tu cerebro con Brain Test: Tricky Puzzles, un juego de acertijos
   que desafía la lógica convencional. Resuelve enigmas únicos tocando,
@@ -10,6 +10,7 @@ description: >-
   ingeniosas.
 iframeSrc: 'https://rebemanae.github.io/brain-test-tricky-puzzles/'
 thumbnail: /new-images/thumbnails/tricky-puzzles.jpg
+urlstr: tricky-puzzles
 tags:
   - puzzle
   - brain-teaser

@@ -1,6 +1,7 @@
 ---
 locale: en
 title: Slope
+seoTitle: Play Slope Online Free | FiddleBops
 description: >-
   Slope is the original endless running game where players control a green ball
   rolling down a steep slope, avoiding red obstacles and trying to survive as
@@ -8,12 +9,12 @@ description: >-
 iframeSrc: 'https://webglmath.github.io/slope/'
 thumbnail: /new-images/thumbnails/slope.jpg
 urlstr: slope
-score: 4.0/5  (1197 votes)
 tags:
   - endless-runner
   - original
   - slope
   - arcade
+score: 4.0/5  (1197 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---

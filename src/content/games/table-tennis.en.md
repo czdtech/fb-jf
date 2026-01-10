@@ -1,6 +1,7 @@
 ---
 locale: en
 title: Table Tennis
+seoTitle: Play Table Tennis Online Free | FiddleBops
 description: >-
   Master the paddle in this classic game of Table Tennis. Challenge the AI,
   score points, and become a virtual ping-pong champion with precise timing and
@@ -8,13 +9,13 @@ description: >-
 iframeSrc: 'https://tabletennis.h5games.usercontent.goog/v/4eeofbe4nfj1g/'
 thumbnail: /new-images/thumbnails/table-tennis.png
 urlstr: table-tennis
-score: 4.2/5  (1873 votes)
 tags:
   - sports
   - 2-player
   - action
+score: 4.2/5  (1873 votes)
 developer: ''
-releaseDate: 2025-10-17
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

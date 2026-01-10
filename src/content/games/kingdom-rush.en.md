@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Kingdom Rush"
-description: "Flagship tower defense: place and upgrade four tower types, call reinforcements, and micro a hero to hold choke points." 
-iframeSrc: "https://1000freegames.github.io/swf/kingdom-rush.html"
+title: Kingdom Rush
+seoTitle: Play Kingdom Rush Online Free | FiddleBops
+description: >-
+  Flagship tower defense: place and upgrade four tower types, call
+  reinforcements, and micro a hero to hold choke points.
+iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush.html'
 thumbnail: /new-images/thumbnails/kingdom-rush.jpg
-urlstr: "kingdom-rush"
-score: "3.8/5  (405 votes)"
-tags: ["tower-defense", "strategy"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: kingdom-rush
+tags:
+  - tower-defense
+  - strategy
+score: 3.8/5  (405 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

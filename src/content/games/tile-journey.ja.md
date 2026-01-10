@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Tile Journey
+seoTitle: 無料でTile Journeyをオンラインでプレイ | FiddleBops
 description: Tile Journeyは、タイルパズルアドベンチャーゲームです。タイルを並べてパスを作り、ゴールを目指しましょう。
 iframeSrc: 'https://0i1jh8boqif48.h5games.usercontent.goog/v/1643ot8on0v9g/'
 thumbnail: /new-images/thumbnails/tile-journey.png
 urlstr: tile-journey
-score: 4.5/5  (2650 votes)
 tags:
   - puzzle
   - adventure
   - strategy
-locale: ja
+score: 4.5/5  (2650 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 

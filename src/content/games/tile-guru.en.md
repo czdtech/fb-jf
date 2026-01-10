@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Tile Guru"
-description: "Tile Guru is a polished tile‑match — pick triples, manage stacks, and clear trays without clogging lanes."
-iframeSrc: "https://5en3tugq69tdo.h5games.usercontent.goog/v/4pu6to0p0cgrg/"
+title: Tile Guru
+seoTitle: Play Tile Guru Online Free | FiddleBops
+description: >-
+  Tile Guru is a polished tile‑match — pick triples, manage stacks, and clear
+  trays without clogging lanes.
+iframeSrc: 'https://5en3tugq69tdo.h5games.usercontent.goog/v/4pu6to0p0cgrg/'
 thumbnail: /new-images/thumbnails/tile-guru.png
-urlstr: "tile-guru"
-score: "4.1/5  (1974 votes)"
-tags: ["mahjong", "puzzle"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: tile-guru
+tags:
+  - mahjong
+  - puzzle
+score: 4.1/5  (1974 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

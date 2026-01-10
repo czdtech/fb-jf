@@ -1,7 +1,7 @@
 ---
 locale: fr
-urlstr: fly-or-die
 title: Fly or Die
+seoTitle: Jouez à Fly or Die en ligne gratuitement | FiddleBops
 description: >-
   Survie évolutive (.io) : mange les bonnes proies pour grimper dans la chaîne
   alimentaire tout en évitant prédateurs et dangers à travers ciels et
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://app-96679.games.s3.yandex.net/96679/jshypemnvrae6bchv5d2nej2892owe69/index.html
 thumbnail: /new-images/thumbnails/fly-or-die.jpg
+urlstr: fly-or-die
 tags:
   - survival
   - io

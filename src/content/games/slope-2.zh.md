@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: slope-2
 title: 《Slope 2》极限斜坡 2
+seoTitle: 免费在线玩 《Slope 2》极限斜坡 2 | FiddleBops
 description: 《Slope 2》是经典斜坡跑酷的进化续作。你将操控一颗高速滚动的球，在充满斜坡、缺口和陷阱的平台上一路下滑，挑战更快节奏和更高难度的生存极限。
 iframeSrc: 'https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slope-2/index.html'
 thumbnail: /new-images/thumbnails/slope-2.jpg
+urlstr: slope-2
 tags:
   - 3d
   - running

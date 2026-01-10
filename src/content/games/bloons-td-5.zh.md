@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: bloons-td-5
 title: Bloons TD 5 气球塔防 5
+seoTitle: 免费在线玩 Bloons TD 5 气球塔防 5 | FiddleBops
 description: >-
   《Bloons TD 5 气球塔防 5》在双路线升级体系上加入 Monkey Sub、Heli Pilot 等新塔与 Special
   Agents、Monkey Lab 等系统，并首次引入 ZOMG 飞艇与猴神神庙，塔防深度与内容量都达到系列高峰。
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-tower-defense-5.html'
 thumbnail: /new-images/thumbnails/bloons-td-5.jpg
+urlstr: bloons-td-5
 tags:
   - casual
   - strategy

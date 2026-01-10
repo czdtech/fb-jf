@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Color Pixel Art Classic"
-description: "Relax and unwind with this classic color-by-number pixel art game. Select a color, find the corresponding number, and fill in the pixels to reveal a beautiful piece of art."
-iframeSrc: "https://colorpixel.h5games.usercontent.goog/v/6ko86juonaau0/"
+title: Color Pixel Art Classic
+seoTitle: Play Color Pixel Art Classic Online Free | FiddleBops
+description: >-
+  Relax and unwind with this classic color-by-number pixel art game. Select a
+  color, find the corresponding number, and fill in the pixels to reveal a
+  beautiful piece of art.
+iframeSrc: 'https://colorpixel.h5games.usercontent.goog/v/6ko86juonaau0/'
 thumbnail: /new-images/thumbnails/color-pixel-art.png
-urlstr: "color-pixel-art"
-score: "4.6/5  (3000 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: color-pixel-art
+tags:
+  - puzzle
+  - casual
+  - thinky
+score: 4.6/5  (3000 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

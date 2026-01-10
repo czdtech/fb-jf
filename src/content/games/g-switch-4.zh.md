@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: g-switch-4
 title: G-Switch 4 重力切换酷跑 4
+seoTitle: 免费在线玩 G-Switch 4 重力切换酷跑 4 | FiddleBops
 description: 重力翻转跑酷系列最新作：操作手感更顺、陷阱链更刁钻， 并强化了支援多人的本地竞速模式。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231127/09/index.html
 thumbnail: /new-images/thumbnails/g-switch-4.jpg
+urlstr: g-switch-4
 tags:
   - runner
   - platformer

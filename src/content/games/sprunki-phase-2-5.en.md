@@ -1,15 +1,16 @@
 ---
 locale: en
-title: Sprunki Phase 2.5 - Play Sprunki Phase 2.5 Online
+title: Sprunki Phase 2.5
+seoTitle: Play Sprunki Phase 2.5 Online Free | FiddleBops
 description: Sprunki Phase 2.5 (JOKE MOD) isn
 iframeSrc: 'https://html-classic.itch.zone/html/14324321/index.html'
 thumbnail: /new-images/thumbnails/sprunki-phase-2-5.png
 urlstr: sprunki-phase-2-5
-modType: sprunki
-score: 4.3/5  (218 votes)
 tags:
   - sprunki phase 2.5
   - music
+modType: sprunki
+score: 4.3/5  (218 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

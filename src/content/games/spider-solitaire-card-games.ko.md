@@ -1,14 +1,13 @@
 ---
 locale: ko
-urlstr: spider-solitaire-card-games
 title: 'Spider Solitaire: Card Games 스파이더 솔리테어 카드 게임'
+seoTitle: 'Spider Solitaire: Card Games 스파이더 솔리테어 카드 게임 무료 온라인 플레이 | FiddleBops'
 description: >-
-  Spider Solitaire: Card Games는 두 벌의 카드를 사용하는 인기 있는 스파이더
-  솔리테어 변형입니다. 같은 무늬로 K에서 A까지 여덟 개의 완전한 열을 만들어
-  테이블로를 비우는 것이 목표이며, 1·2·4무늬 난이도로 누구나 전략적인 재미를
-  느낄 수 있습니다.
+  Spider Solitaire: Card Games는 두 벌의 카드를 사용하는 인기 있는 스파이더 솔리테어 변형입니다. 같은 무늬로 K에서
+  A까지 여덟 개의 완전한 열을 만들어 테이블로를 비우는 것이 목표이며, 1·2·4무늬 난이도로 누구나 전략적인 재미를 느낄 수 있습니다.
 iframeSrc: 'https://ubg98.github.io/SpiderSolitaire/'
 thumbnail: /new-images/thumbnails/spider-solitaire-card-games.jpg
+urlstr: spider-solitaire-card-games
 tags:
   - card-game
   - puzzle

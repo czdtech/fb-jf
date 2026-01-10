@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: monkey-mart
-title: Monkey Mart - Supermercado gestionado por monos
+title: Monkey Mart
+seoTitle: Juega a Monkey Mart en línea gratis | FiddleBops
 description: >-
   Monkey Mart es un encantador y adictivo juego de simulación en el que
   gestionas un supermercado atendido por adorables monos: cultiva, produce,
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/gamehwq/20221216/09/index.htm
 thumbnail: /new-images/thumbnails/monkey-mart.jpg
+urlstr: monkey-mart
 tags:
   - simulation
   - management

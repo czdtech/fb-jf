@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: baseball
 title: Doodle Baseball
+seoTitle: Jouez à Doodle Baseball en ligne gratuitement | FiddleBops
 description: >-
   Doodle Baseball est un mini‑jeu de base‑ball à un seul bouton : choisis le bon
   timing pour frapper la balle, enchaîne les home runs et marque un maximum de
   points avant tes trois retraits.
 iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
 thumbnail: /new-images/thumbnails/baseball.jpg
+urlstr: baseball
 tags:
   - casual
   - sports

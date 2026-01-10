@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: jewel-blocks
 title: Jewel Blocks
+seoTitle: Spiele Jewel Blocks kostenlos online | FiddleBops
 description: >-
   Kniffliges Puzzlespiel mit Juwel-Blöcken: Ziehe die Formen ins 10x10-Raster,
   bilde vollständige Reihen und räume sie ab – aber vorsicht, die Blöcke lassen
   sich nicht drehen.
 iframeSrc: 'https://jewelblocks.h5games.usercontent.goog/v/0puee6ie0j880/'
 thumbnail: /new-images/thumbnails/jewel-blocks.png
+urlstr: jewel-blocks
 tags:
   - puzzle
   - thinky

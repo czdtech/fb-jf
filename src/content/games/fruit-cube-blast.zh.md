@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: fruit-cube-blast
 title: Fruit Cube Blast 水果方块爆爆乐
+seoTitle: 免费在线玩 Fruit Cube Blast 水果方块爆爆乐 | FiddleBops
 description: 在 Fruit Cube Blast 中一路炸穿多汁关卡！点击成片同色水果方块，制造华丽连锁与爆炸特效， 清空棋盘、完成关卡目标。
 iframeSrc: 'https://5pj67mkaqugmo.h5games.usercontent.goog/v/151if1r687t30/'
 thumbnail: /new-images/thumbnails/fruit-cube-blast.jpg
+urlstr: fruit-cube-blast
 tags:
   - puzzle
   - casual

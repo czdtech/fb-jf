@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: block-breaker-king
-title: "Block Breaker King"
+title: Block Breaker King
+seoTitle: Juega a Block Breaker King en línea gratis | FiddleBops
 description: >-
   Block Breaker King moderniza el clásico rompebloques: apunta los rebotes,
   gestiona los potenciadores y controla la velocidad de la bola para limpiar la
   pantalla con la máxima eficiencia.
 iframeSrc: 'https://40p3ck71ovs88.h5games.usercontent.goog/v/36e5gjc5plhi8/'
 thumbnail: /new-images/thumbnails/block-breaker-king.png
+urlstr: block-breaker-king
 tags:
   - puzzle
   - casual

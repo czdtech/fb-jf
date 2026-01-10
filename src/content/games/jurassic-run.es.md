@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: jurassic-run
 title: Jurassic Run
+seoTitle: Juega a Jurassic Run en línea gratis | FiddleBops
 description: >-
   Jurassic Run es un endless runner prehistórico: esquiva peligros, cambia de
   carril y corre al máximo para batir récords.
 iframeSrc: 'https://260c4eej53igg.h5games.usercontent.goog/v/5h99gs1rujgk0/'
 thumbnail: /new-images/thumbnails/jurassic-run.png
+urlstr: jurassic-run
 tags:
   - action
   - casual

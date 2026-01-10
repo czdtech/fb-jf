@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: google-doodle-baseball
 title: Google Doodle Baseball 구글 두들 야구
+seoTitle: Google Doodle Baseball 구글 두들 야구 무료 온라인 플레이 | FiddleBops
 description: >-
   구글 독립기념일 두들에서 가져온 간단한 타격형 야구 게임입니다. 투구 타이밍에 맞춰 스윙하고 빈 공간을 노려 안타와 홈런을 쌓으며, 아웃되기
   전에 최대한 많은 점수를 올려 보세요.
 iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
 thumbnail: /new-images/thumbnails/google-doodle-baseball.jpg
+urlstr: google-doodle-baseball
 tags:
   - sports
   - arcade

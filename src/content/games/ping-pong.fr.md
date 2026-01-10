@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: ping-pong
 title: Ping Pong
+seoTitle: Jouez à Ping Pong en ligne gratuitement | FiddleBops
 description: "Ping Pong est une adaptation rétro du jeu de raquette classique\_: renvoie la balle, anticipe les angles et tente de marquer sans laisser passer le moindre tir."
 iframeSrc: 'https://ranimania.com/Games/pingpong/ping_pong/'
 thumbnail: /new-images/thumbnails/ping-pong.jpg
+urlstr: ping-pong
 tags:
   - arcade
   - sports

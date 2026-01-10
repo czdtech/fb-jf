@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: cricket-world-cup
 title: Cricket World Cup 크리켓 월드컵
+seoTitle: Cricket World Cup 크리켓 월드컵 무료 온라인 플레이 | FiddleBops
 description: >-
   크리켓 월드컵 분위기 속에서 타격 상황만을 추려낸 Cricket World Cup입니다. 라인과 길이를 읽고, 땅볼과 로프트 샷을 적절히
   섞어 제한 오버 안에 목표 스코어를 추격해 보세요.
 iframeSrc: 'https://5ret6v2c94q4g.h5games.usercontent.goog/v/09j66svc50570/'
 thumbnail: /new-images/thumbnails/cricket-world-cup.png
+urlstr: cricket-world-cup
 tags:
   - sports
   - casual

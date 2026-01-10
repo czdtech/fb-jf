@@ -1,13 +1,17 @@
 ---
-title: "Incredibox Sprunksters - Play Incredibox Sprunksters Online"
-description: "Incredibox Sprunkstersは、サンプルやエフェクトが追加されたファンメイドModです。ドラッグ＆ドロップでループを組み、独自のミックスを作れます。"
-iframeSrc: "https://turbowarp.org/1129395199/embed"
-thumbnail: /new-images/thumbnails/incredibox-sprunksters.png
-urlstr: "incredibox-sprunksters"
-score: "4.3/5  (185 votes)"
-tags: ["incredibox sprunksters"]
 locale: ja
-releaseDate: 2025-12-04
+title: Incredibox Sprunksters
+seoTitle: 無料でIncredibox Sprunkstersをオンラインでプレイ | FiddleBops
+description: >-
+  Incredibox
+  Sprunkstersは、サンプルやエフェクトが追加されたファンメイドModです。ドラッグ＆ドロップでループを組み、独自のミックスを作れます。
+iframeSrc: 'https://turbowarp.org/1129395199/embed'
+thumbnail: /new-images/thumbnails/incredibox-sprunksters.png
+urlstr: incredibox-sprunksters
+tags:
+  - incredibox sprunksters
+score: 4.3/5  (185 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

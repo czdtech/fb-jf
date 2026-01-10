@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: block-blaster-puzzle
 title: Block Blaster Puzzle
+seoTitle: Jouez à Block Blaster Puzzle en ligne gratuitement | FiddleBops
 description: "Block Blaster Puzzle est un jeu de placement de blocs\_: pose des formes sur la grille, prépare des explosions multi‑lignes et évite de créer des trous impossibles à remplir."
 iframeSrc: 'https://0nrdbfos8jhv8.h5games.usercontent.goog/v/6ovao2cpe86og/'
 thumbnail: /new-images/thumbnails/block-blaster-puzzle.png
+urlstr: block-blaster-puzzle
 tags:
   - puzzle
   - thinky

@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: jurassic-run
 title: 《Jurassic Run》侏罗纪狂奔
+seoTitle: 免费在线玩 《Jurassic Run》侏罗纪狂奔 | FiddleBops
 description: 《Jurassic Run》是一款恐龙主题的无尽跑酷游戏，你要在史前丛林中左右换道、跳跃和滑行，躲开各种危险并拾取金币，冲击更高分数。
 iframeSrc: 'https://260c4eej53igg.h5games.usercontent.goog/v/5h99gs1rujgk0/'
 thumbnail: /new-images/thumbnails/jurassic-run.png
+urlstr: jurassic-run
 tags:
   - action
   - casual

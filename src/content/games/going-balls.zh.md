@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: going-balls
 title: Going Balls 3D 滚球跑酷
+seoTitle: 免费在线玩 Going Balls 3D 滚球跑酷 | FiddleBops
 description: 3D 滚球障碍跑酷：在狭窄赛道上保持平衡，穿过横梁与陷阱， 收集金币并在不掉落的前提下抵达终点。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231116/10/index.htm
 thumbnail: /new-images/thumbnails/going-balls.jpg
+urlstr: going-balls
 tags:
   - runner
   - balance

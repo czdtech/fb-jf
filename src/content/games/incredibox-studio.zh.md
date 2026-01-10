@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: incredibox-studio
-title: Incredibox Studio - 在线玩 Incredibox Studio
+title: Incredibox Studio
+seoTitle: 免费在线玩 Incredibox Studio | FiddleBops
 description: >-
   Incredibox Studio 是一款受原版 Incredibox 启发的粉丝制作游戏。它使用 Scratch 创建并通过 TurboWarp
   优化，允许玩家在沙盒环境中创作自己的音乐混音。
 iframeSrc: 'https://turbowarp.org/1013575298/embed'
 thumbnail: /new-images/thumbnails/incredibox-studio.png
+urlstr: incredibox-studio
 tags:
   - music
   - sandbox

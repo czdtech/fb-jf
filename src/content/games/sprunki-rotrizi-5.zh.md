@@ -1,14 +1,17 @@
 ---
-locale: "zh"
-urlstr: "sprunki-rotrizi-5"
-
-title: "Sprunki Rotrizi 5.0 - 在线玩 Sprunki Rotrizi 5.0"
-description: "Sprunki Rotrizi 5.0 是一款令人兴奋的免费音乐混音体验，让你释放创造力并创作电气化的节拍。它凭借先进的失真算法和沉浸式视觉效果在 Sprunki Mod 中脱颖而出。"
-iframeSrc: "https://turbowarp.org/1126764795/embed"
+locale: zh
+title: Sprunki Rotrizi 5.0
+seoTitle: 免费在线玩 Sprunki Rotrizi 5.0 | FiddleBops
+description: >-
+  Sprunki Rotrizi 5.0 是一款令人兴奋的免费音乐混音体验，让你释放创造力并创作电气化的节拍。它凭借先进的失真算法和沉浸式视觉效果在
+  Sprunki Mod 中脱颖而出。
+iframeSrc: 'https://turbowarp.org/1126764795/embed'
 thumbnail: /new-images/thumbnails/sprunki-rotrizi-5.png
-score: "4.0/5  (232 votes)"
-tags: ["sprunki rotrizi 5.0"]
-releaseDate: 2025-12-04
+urlstr: sprunki-rotrizi-5
+tags:
+  - sprunki rotrizi 5.0
+score: 4.0/5  (232 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

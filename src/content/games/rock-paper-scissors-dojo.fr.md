@@ -1,13 +1,11 @@
 ---
 locale: fr
-urlstr: rock-paper-scissors-dojo
-title: 'Rock Paper Scissors Dojo'
-description: >-
-  Rock Paper Scissors Dojo transforme « pierre‑feuille‑ciseaux » en duel
-  malin : repère les schémas, varie tes stratégies et devance tes adversaires
-  sur des manches en plusieurs manches gagnantes.
+title: Rock Paper Scissors Dojo
+seoTitle: Jouez à Rock Paper Scissors Dojo en ligne gratuitement | FiddleBops
+description: "Rock Paper Scissors Dojo transforme «\_pierre‑feuille‑ciseaux\_» en duel malin\_: repère les schémas, varie tes stratégies et devance tes adversaires sur des manches en plusieurs manches gagnantes."
 iframeSrc: 'https://0o2ssijd98lgg.h5games.usercontent.goog/v/39t01692a4rs8/'
 thumbnail: /new-images/thumbnails/rock-paper-scissors-dojo.png
+urlstr: rock-paper-scissors-dojo
 tags:
   - casual
   - 2 player

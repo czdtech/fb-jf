@@ -1,13 +1,17 @@
 ---
-title: "Sprunki Dandy's World - Play Sprunki Dandy's World Online"
-description: "Sprunki Dandy's Worldは、音楽・アート・物語が混ざり合った世界で、自分だけのミュージックビデオを作れる作品です。キャラクターや楽器を組み合わせて、ユニークなリズムを生み出せます。"
-iframeSrc: "https://turbowarp.org/1075503895/embed"
-thumbnail: /new-images/thumbnails/sprunki-dandys-world.png
-urlstr: "sprunki-dandys-world"
-score: "4.4/5  (304 votes)"
-tags: ["sprunki dandy"]
 locale: ja
-releaseDate: 2025-12-04
+title: Sprunki Dandy's World
+seoTitle: 無料でSprunki Dandy's Worldをオンラインでプレイ | FiddleBops
+description: >-
+  Sprunki Dandy's
+  Worldは、音楽・アート・物語が混ざり合った世界で、自分だけのミュージックビデオを作れる作品です。キャラクターや楽器を組み合わせて、ユニークなリズムを生み出せます。
+iframeSrc: 'https://turbowarp.org/1075503895/embed'
+thumbnail: /new-images/thumbnails/sprunki-dandys-world.png
+urlstr: sprunki-dandys-world
+tags:
+  - sprunki dandy
+score: 4.4/5  (304 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Dandy's Worldの紹介

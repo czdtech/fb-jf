@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: tiny-fishing
 title: 《Tiny Fishing》轻松趣味钓鱼
+seoTitle: 免费在线玩 《Tiny Fishing》轻松趣味钓鱼 | FiddleBops
 description: 《Tiny Fishing》是一款节奏悠闲的钓鱼游戏。抛出鱼线、捕捉各种鱼类，用赚到的金币升级装备，解锁更深的水域和稀有鱼种。
 iframeSrc: 'https://webglmath.github.io/tiny-fishing/'
 thumbnail: /new-images/thumbnails/tiny-fishing.jpg
+urlstr: tiny-fishing
 tags:
   - fishing
   - casual

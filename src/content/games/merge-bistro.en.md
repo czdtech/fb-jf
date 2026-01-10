@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Merge Bistro"
-description: "Merge Bistro is a cozy merge‑management — combine ingredients, fulfill orders, and expand a charming bistro efficiently."
-iframeSrc: "https://0f5mbl2u9ont8.h5games.usercontent.goog/v/50p3a8ekgfdk8/"
+title: Merge Bistro
+seoTitle: Play Merge Bistro Online Free | FiddleBops
+description: >-
+  Merge Bistro is a cozy merge‑management — combine ingredients, fulfill orders,
+  and expand a charming bistro efficiently.
+iframeSrc: 'https://0f5mbl2u9ont8.h5games.usercontent.goog/v/50p3a8ekgfdk8/'
 thumbnail: /new-images/thumbnails/merge-bistro.png
-urlstr: "merge-bistro"
-score: "4.1/5  (1996 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: merge-bistro
+tags:
+  - puzzle
+  - casual
+  - thinky
+score: 4.1/5  (1996 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

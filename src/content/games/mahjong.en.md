@@ -1,6 +1,7 @@
 ---
 locale: en
 title: Mahjong
+seoTitle: Play Mahjong Online Free | FiddleBops
 description: >-
   Mahjongg Solitaire is a classic single-player puzzle game based on traditional
   Chinese Mahjong tiles, where players match identical open pairs to clear the
@@ -8,13 +9,13 @@ description: >-
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjong/'
 thumbnail: /new-images/thumbnails/mahjong.jpg
 urlstr: mahjong
-score: 4.8/5  (888 votes)
 tags:
   - board-game
   - puzzle
   - casual
+score: 4.8/5  (888 votes)
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

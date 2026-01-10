@@ -1,17 +1,18 @@
 ---
 locale: en
 title: Family Feud
+seoTitle: Play Family Feud Online Free | FiddleBops
 description: >-
   Survey‑based quiz game: guess the most popular answers to family survey
   questions across multiple rounds and fast money.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/family-feud/'
 thumbnail: /new-images/thumbnails/family-feud.jpg
 urlstr: family-feud
-score: 4.1/5  (237 votes)
 tags:
   - trivia
   - quiz
   - thinky
+score: 4.1/5  (237 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---

@@ -5,6 +5,7 @@
  * Requirements: 4.1
  */
 
+import { mergeConfig } from './utils/config-merge';
 import {
   defaultLocale,
   getLocaleFromLangAttr,
@@ -214,7 +215,7 @@ function setCurrentLanguage(select: HTMLSelectElement, currentLang?: string): vo
  * Sets up change event listener and selects current language
  */
 export function initLanguageSwitcher(config: Partial<LanguageSwitcherConfig> = {}): void {
-  const { selectSelector, currentLang } = { ...defaultConfig, ...config };
+  const { selectSelector, currentLang } = mergeConfig(defaultConfig, config);
 
   const select = document.querySelector(selectSelector) as HTMLSelectElement | null;
   

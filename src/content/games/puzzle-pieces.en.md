@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Puzzle Pieces"
-description: "Puzzle Pieces delivers clean brainteasers — rotate, fit shapes, and complete boards without gaps."
-iframeSrc: "https://05c9vfh919cbg.h5games.usercontent.goog/v/0ki2bua5asq00/"
+title: Puzzle Pieces
+seoTitle: Play Puzzle Pieces Online Free | FiddleBops
+description: >-
+  Puzzle Pieces delivers clean brainteasers — rotate, fit shapes, and complete
+  boards without gaps.
+iframeSrc: 'https://05c9vfh919cbg.h5games.usercontent.goog/v/0ki2bua5asq00/'
 thumbnail: /new-images/thumbnails/puzzle-pieces.png
-urlstr: "puzzle-pieces"
-score: "4.0/5  (1888 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: puzzle-pieces
+tags:
+  - puzzle
+  - thinky
+score: 4.0/5  (1888 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

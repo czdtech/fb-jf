@@ -1,13 +1,14 @@
 ---
-title: Sprunki Mustard - Play Sprunki Mustard Online
+locale: ja
+title: Sprunki Mustard
+seoTitle: 無料でSprunki Mustardをオンラインでプレイ | FiddleBops
 description: Sprunki Mustardはマスタードイエロー基調の配色で遊べるModです。色味と演出で不穏な雰囲気を作りながら、音を重ねて曲を作れます。
 iframeSrc: 'https://html-classic.itch.zone/html/14281578/index.html'
 thumbnail: /new-images/thumbnails/sprunki-mustard.png
 urlstr: sprunki-mustard
-score: 3.9/5  (827 votes)
 tags:
   - sprunki mustard
-locale: ja
+score: 3.9/5  (827 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

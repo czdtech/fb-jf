@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Archery World Tour アーチェリー・ワールドツアー
+seoTitle: 無料でArchery World Tour アーチェリー・ワールドツアーをオンラインでプレイ | FiddleBops
 description: 「アーチェリー・ワールドツアー」へようこそ。風向きや距離を計算してブルズアイを射抜き、世界中の大会でチャンピオンを目指すリアルなアーチェリーゲームです。
 iframeSrc: >-
   https://archery.h5games.usercontent.goog/v/f12fb2aa-d64b-4074-8974-31705698e2e6/
 thumbnail: /new-images/thumbnails/archery.jpg
 urlstr: archery
-score: 4.4/5  (2700 votes)
 tags:
   - sports
   - shooting
   - action
+score: 4.4/5  (2700 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

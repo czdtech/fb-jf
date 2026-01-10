@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: comfy-farm
 title: Comfy Farm
+seoTitle: Jouez à Comfy Farm en ligne gratuitement | FiddleBops
 description: "Comfy Farm est une ferme cozy à gérer à ton rythme\_: plante, arrose, récolte et complète des commandes pour faire prospérer ton petit domaine."
 iframeSrc: 'https://comfyfarm.h5games.usercontent.goog/v/73m7i3ndifhg0/'
 thumbnail: /new-images/thumbnails/comfy-farm.png
+urlstr: comfy-farm
 tags:
   - casual
   - puzzle

@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: crossword-puzzle
 title: Crossword Puzzle 经典纵横填字
+seoTitle: 免费在线玩 Crossword Puzzle 经典纵横填字 | FiddleBops
 description: >-
   《Crossword Puzzle 经典纵横填字》是一款传统英文填字游戏。根据横向与纵向编号提示，将
   单词填入方格，使所有交叉字母都相互匹配，最终完成整张网格。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword-puzzle.html'
 thumbnail: /new-images/thumbnails/crossword-puzzle.jpg
+urlstr: crossword-puzzle
 tags:
   - word
   - puzzle

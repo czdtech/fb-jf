@@ -18,6 +18,45 @@ body {
     background-color: var(--color-bg-primary);
     color: var(--color-text-primary);
     overflow-x: hidden;
+    /* Safe area support for notch devices */
+    padding-left: env(safe-area-inset-left, 0px);
+    padding-right: env(safe-area-inset-right, 0px);
+}
+
+/* P0: 防止移动端意外下拉刷新 */
+html {
+    overscroll-behavior: contain;
+}
+
+/* ===========================================
+ * CLS & PERFORMANCE OPTIMIZATIONS
+ * =========================================== */
+
+/* Reserve space for game iframe to prevent CLS */
+.game-iframe-sprunki {
+    contain: layout style;
+    min-height: 300px;
+}
+
+/* Reserve space for video container */
+.video-container {
+    contain: layout style;
+    min-height: 200px;
+}
+
+/* Use content-visibility for below-the-fold sections */
+.about,
+.faq-section,
+.game-video,
+.trending-section,
+.sound-explorer-section {
+    content-visibility: auto;
+    contain-intrinsic-size: auto 500px;
+}
+
+/* Lock background scroll when mobile nav overlay is open */
+body.nav-open {
+    overflow: hidden;
 }
 
 .container {
@@ -29,30 +68,69 @@ body {
 a {
    text-decoration: none;
    color: var(--color-link);
-   display: block;
 }
 
 a:hover {
     color: var(--color-link-hover);
 }
 
+/* Headings use display font */
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-family-display);
+    color: var(--color-text-primary);
+    line-height: 1.2;
+}
+
+/* Section titles with accent underline */
+.section-title,
+.games h2,
+.about h2,
+.related-games h2,
+.game-page-title {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    padding-bottom: var(--spacing-md);
+    margin-bottom: var(--spacing-2xl);
+}
+
+.section-title::after,
+.games h2::after,
+.about h2::after,
+.related-games h2::after,
+.game-page-title::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80px;
+    height: 4px;
+    background: linear-gradient(90deg, var(--color-primary), var(--color-primary-light));
+    border-radius: 2px;
+    box-shadow: 0 0 10px var(--glow-color-50);
+}
+
 /* ===========================================
  * HEADER
  * =========================================== */
 header {
-    background-color: var(--color-bg-primary);
-    padding: var(--spacing-md) 0;
-    box-shadow: var(--shadow-sm);
-    overflow: hidden;
+    /* Fallback for browsers without backdrop-filter support */
+    background-color: rgba(10, 10, 10, 0.95);
+    padding: var(--spacing-lg) 0;
+    position: sticky;
+    top: 0;
+    z-index: var(--z-index-nav);
+    border-bottom: 1px solid var(--color-border);
 }
 
-header::after {
-    content: "";
-    position: absolute;
-    bottom: -20px;
-    left: 0;
-    width: 100%;
-    height: 60px;
+/* Progressive enhancement: use backdrop-filter if supported */
+@supports (backdrop-filter: blur(10px)) or (-webkit-backdrop-filter: blur(10px)) {
+    header {
+        background-color: rgba(10, 10, 10, 0.85);
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
+    }
 }
 
 header .container {
@@ -66,6 +144,9 @@ header .logo h1 {
     font-size: var(--font-size-xl);
     font-weight: var(--font-weight-bold);
     color: var(--color-text-white);
+    display: flex;
+    align-items: center;
+    gap: 4px;
 }
 
 header .logo h1 a:hover {
@@ -73,8 +154,8 @@ header .logo h1 a:hover {
 }
 
 header .logo h1 .light {
-    font-weight: var(--font-weight-light);
-    color: var(--color-text-white);
+    font-weight: var(--font-weight-normal);
+    color: var(--color-primary);
 }
 
 header nav ul {
@@ -82,20 +163,42 @@ header nav ul {
     padding: 0;
     margin: 0;
     display: flex;
+    gap: var(--spacing-xl);
 }
 
 header nav ul li {
-    margin-left: var(--spacing-xl);
+    margin-left: 0;
 }
 
 header nav ul li a {
     color: var(--color-text-white);
     font-weight: var(--font-weight-normal);
     transition: color var(--transition-normal);
+    display: block;
+    position: relative;
 }
 
 header nav ul li a:hover {
-    color: var(--color-primary-darker);
+    color: var(--color-primary);
+}
+
+/* P2: 导航活动状态指示器 */
+header nav ul li a.active,
+header nav ul li a[aria-current="page"] {
+    color: var(--color-primary);
+}
+
+header nav ul li a.active::after,
+header nav ul li a[aria-current="page"]::after {
+    content: '';
+    position: absolute;
+    bottom: -8px;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: var(--color-primary);
+    box-shadow: 0 0 10px var(--glow-color-50);
+    border-radius: 1px;
 }
 
 /* Navigation Toggle Button */
@@ -103,28 +206,156 @@ header nav ul li a:hover {
     display: none;
     background: none;
     border: none;
-    font-size: var(--font-size-xl);
     cursor: pointer;
-    padding: var(--spacing-xs);
+    padding: var(--spacing-sm);
     color: var(--color-text-white);
+    /* P0: 确保触摸目标 >= 44px */
+    min-width: 44px;
+    min-height: 44px;
+    align-items: center;
+    justify-content: center;
 }
 
 .nav-toggle:focus {
     outline: none;
 }
 
+/* P0: Nav toggle SVG 图标切换 */
+.nav-toggle .nav-icon-close {
+    display: none;
+}
+
+.nav-menu.active ~ .nav-toggle .nav-icon-open,
+.nav-toggle.is-active .nav-icon-open {
+    display: none;
+}
+
+.nav-menu.active ~ .nav-toggle .nav-icon-close,
+.nav-toggle.is-active .nav-icon-close {
+    display: block;
+}
+
 .nav-menu {
     display: block;
 }
 
-/* Header language selector */
+/* Header language selector - Custom styled dropdown
+ * Note: Using SVG data URI for dropdown arrow as <select> doesn't support ::after.
+ * The arrow color (#ff6b9d) matches --color-primary. Update both if theme changes.
+ */
 .language-select {
-    float: right;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-color: var(--color-bg-card);
+    color: var(--color-text-white);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    padding: var(--spacing-sm) var(--spacing-2xl) var(--spacing-sm) var(--spacing-md);
+    font-size: var(--font-size-sm);
+    font-family: var(--font-family-primary);
+    cursor: pointer;
+    transition: all var(--transition-fast);
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23ff6b9d' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    min-width: 100px;
 }
 
-/* Utility class for clearing floats */
-.clear-both {
-    clear: both;
+.language-select:hover {
+    border-color: var(--color-primary);
+    box-shadow: 0 0 10px var(--glow-color-20);
+}
+
+.language-select:focus {
+    outline: none;
+    border-color: var(--color-primary);
+    box-shadow: var(--shadow-focus);
+}
+
+.language-select option {
+    background-color: var(--color-bg-card);
+    color: var(--color-text-white);
+    padding: var(--spacing-sm);
+}
+
+/* ===========================================
+ * NAVIGATION DROPDOWN MENU
+ * =========================================== */
+.nav-dropdown {
+    position: relative;
+}
+
+.nav-dropdown-toggle {
+    background: none;
+    border: none;
+    color: var(--color-text-white);
+    font-weight: var(--font-weight-normal);
+    font-size: inherit;
+    font-family: inherit;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-xs);
+    padding: 0;
+    transition: color var(--transition-normal);
+}
+
+.nav-dropdown-toggle:hover {
+    color: var(--color-primary);
+}
+
+/* P0: Dropdown arrow 使用 SVG 替代文字 */
+.dropdown-arrow {
+    transition: transform var(--transition-fast);
+    flex-shrink: 0;
+}
+
+.nav-dropdown.is-open .dropdown-arrow {
+    transform: rotate(180deg);
+}
+
+.nav-dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: var(--color-bg-card);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    padding: var(--spacing-sm) 0;
+    min-width: 180px;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity var(--transition-fast), visibility var(--transition-fast), transform var(--transition-fast);
+    transform: translateX(-50%) translateY(10px);
+    z-index: calc(var(--z-index-nav) + 1);
+    box-shadow: var(--shadow-lg);
+    margin-top: var(--spacing-sm);
+    flex-direction: column;
+    gap: 0;
+}
+
+.nav-dropdown.is-open .nav-dropdown-menu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(-50%) translateY(0);
+}
+
+.nav-dropdown-menu li {
+    margin: 0;
+}
+
+.nav-dropdown-menu li a {
+    display: block;
+    padding: var(--spacing-sm) var(--spacing-lg);
+    white-space: nowrap;
+    transition: background-color var(--transition-fast), color var(--transition-fast);
+}
+
+.nav-dropdown-menu li a:hover {
+    background-color: rgba(255, 107, 157, 0.1);
+    color: var(--color-primary);
 }
 
 /* ===========================================
@@ -149,21 +380,47 @@ header nav ul li a:hover {
  * HERO SECTION
  * =========================================== */
 .hero {
-    padding: var(--spacing-2xl) 0;
+    padding: var(--spacing-3xl) 0;
+    position: relative;
+}
+
+/* Game page H1 title - additional styles */
+.game-page-title {
+    text-align: center;
+    font-size: var(--font-size-2xl);
+    font-weight: var(--font-weight-bold);
+    color: var(--color-text-white);
+    margin: 0 0 var(--spacing-xl) 0;
+    flex: 0 0 100%;
+}
+
+/* Subtle gradient glow behind hero */
+.hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
+    height: 300px;
+    background: radial-gradient(ellipse at center, rgba(255, 107, 157, 0.15) 0%, transparent 70%);
+    pointer-events: none;
+    z-index: -1;
 }
 
 .hero .container {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 /* ===========================================
  * GAME CARD
  * =========================================== */
 .game-card {
-    background-color: var(--color-bg-white);
+    background-color: var(--color-bg-card);
     padding: var(--spacing-xl);
-    box-shadow: var(--shadow-sm);
+    border: 1px solid var(--color-border);
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -172,6 +429,21 @@ header nav ul li a:hover {
     width: 100%;
     margin: 0 auto;
     gap: var(--spacing-xl);
+    position: relative;
+    overflow: hidden;
+    /* 修复: 使用 border-box 确保 padding/border 包含在 width 内 */
+    box-sizing: border-box;
+}
+
+/* Top glow line on game card */
+.game-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, var(--color-primary), transparent);
 }
 
 .game-card .game-image-container {
@@ -194,75 +466,8 @@ header nav ul li a:hover {
     margin: 0 auto;
 }
 
-.game-card .game-iframe-pop,
-.game-card .game-iframe-new {
-    width: 13.5%;
-    float: left;
-    margin: 0;
-    padding: 0;
-}
-
-.game-card .game-iframe-pop ul,
-.game-card .game-iframe-new ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-.game-card .game-iframe-pop li,
-.game-card .game-iframe-new li {
-    width: 100%;
-}
-
-.game-card .game-iframe-pop li a:hover,
-.game-card .game-iframe-new li a:hover {
-    color: var(--color-link);
-}
-
-.game-card .game-iframe-pop img,
-.game-card .game-iframe-new img {
-    width: 100%;
-}
-
-.game-card .game-iframe-pop .title,
-.game-card .game-iframe-new .title {
-    font-weight: var(--font-weight-bold);
-    font-size: var(--font-size-md);
-    padding-bottom: var(--spacing-md);
-}
-
-.game-card .game-iframe-pop h3,
-.game-card .game-iframe-new h3 {
-    font-size: 16px;
-}
-
-@media screen and (max-width: 980px) {
-    .game-card .game-iframe-sprunki {
-        width: 100%;
-    }
-    .game-card .game-iframe-pop {
-        display: none;
-    }
-    .game-card .game-iframe-new {
-        width: 100%;
-    }
-    .game-card .game-iframe-new ul {
-        grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-        gap: var(--grid-gap);
-        display: grid;
-        text-align: center;
-    }
-    .game-card .game-iframe-new li {
-        border-radius: var(--radius-lg);
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: space-between;
-    }
-    .game-card .game-iframe-new h3 {
-        font-size: 20px;
-    }
-}
+/* Sidebar styles - SEE homepage.css for glassmorphism card styles */
+/* Base resets only, visual styles in homepage.css */
 
 .game-card .game-image {
     text-align: left;
@@ -290,19 +495,23 @@ header nav ul li a:hover {
  * BUTTONS
  * =========================================== */
 .play-button {
-    background-color: var(--color-secondary);
+    background-color: var(--color-primary);
     color: var(--color-text-white);
     border: none;
     padding: var(--spacing-md) var(--spacing-xl);
     font-size: var(--font-size-base);
+    font-weight: var(--font-weight-bold);
     cursor: pointer;
     border-radius: var(--radius-lg);
     margin-top: var(--spacing-lg);
-    transition: background-color var(--transition-normal);
+    transition: all var(--transition-normal);
+    box-shadow: var(--shadow-glow-sm);
 }
 
 .play-button:hover {
-    background-color: var(--color-secondary-dark);
+    background-color: var(--color-primary-light);
+    box-shadow: var(--shadow-glow-md);
+    transform: translateY(-2px);
 }
 
 /* iframe overlay button */
@@ -330,12 +539,15 @@ header nav ul li a:hover {
  * GAMES SECTION
  * =========================================== */
 .games {
-    padding: var(--spacing-2xl) 0;
+    padding: var(--spacing-3xl) 0;
+    background-color: var(--color-bg-light);
+    margin: var(--spacing-3xl) 0;
+    border-radius: var(--radius-xl);
 }
 
 .games h2 {
     text-align: center;
-    margin-bottom: var(--spacing-xl);
+    margin-bottom: var(--spacing-2xl);
     font-size: var(--font-size-2xl);
     color: var(--color-text-light);
 }
@@ -348,14 +560,41 @@ header nav ul li a:hover {
 }
 
 .game {
-    background-color: var(--color-bg-white);
+    background-color: var(--color-bg-card);
     padding: var(--spacing-lg);
-    box-shadow: var(--shadow-sm);
+    border: 1px solid var(--color-border);
     border-radius: var(--radius-lg);
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    /* Prevent grid blowout on mobile */
+    min-width: 0;
+    overflow: hidden;
+    /* P1: 所有卡片都是可点击的 */
+    cursor: pointer;
+}
+
+/* P1: 增强的游戏卡片 Hover 效果 - 更强的光晕和微缩放 */
+.game:hover {
+    border-color: var(--color-primary);
+    box-shadow:
+        0 0 30px rgba(255, 107, 157, 0.4),
+        0 0 60px rgba(255, 107, 157, 0.15),
+        0 12px 40px rgba(0, 0, 0, 0.4);
+    transform: translateY(-8px) scale(1.02);
+}
+
+/* P1: Hover 时图片亮度提升 */
+.game:hover img {
+    filter: brightness(1.1) contrast(1.05);
+}
+
+/* P1: Hover 时标题颜色变化 */
+.game:hover .game__title--ellipsis,
+.game:hover p {
+    color: var(--color-primary);
 }
 
 .game .game-logo img {
@@ -418,20 +657,21 @@ header nav ul li a:hover {
  * ABOUT SECTION
  * =========================================== */
 .about {
-    padding: var(--spacing-2xl) 0;
+    padding: var(--spacing-3xl) 0;
+    margin-top: var(--spacing-2xl);
 }
 
 .about h2 {
     text-align: center;
-    margin-bottom: var(--spacing-xl);
+    margin-bottom: var(--spacing-2xl);
     font-size: var(--font-size-2xl);
-    color: var(--color-text-light);
+    color: var(--color-text-primary);
 }
 
 .about-content {
-    background-color: var(--color-bg-gray);
-    padding: var(--spacing-xl);
-    box-shadow: var(--shadow-sm);
+    background-color: var(--color-bg-card);
+    padding: var(--spacing-2xl);
+    border: 1px solid var(--color-border);
     margin-bottom: var(--spacing-xl);
     border-radius: var(--radius-xl);
 }
@@ -561,6 +801,41 @@ header nav ul li a:hover {
     background-color: var(--color-primary-dark);
 }
 
+/* Explore/More link container */
+.more {
+    text-align: center;
+    margin-top: var(--spacing-2xl);
+}
+
+.more a {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+    background: linear-gradient(135deg, var(--color-primary), var(--color-primary-dark));
+    color: var(--color-text-white);
+    padding: var(--spacing-md) var(--spacing-2xl);
+    font-size: var(--font-size-base);
+    font-weight: var(--font-weight-semibold);
+    border-radius: var(--radius-full);
+    transition: all var(--transition-normal);
+    box-shadow: var(--shadow-glow-sm);
+}
+
+.more a:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-glow-md);
+    color: var(--color-text-white);
+}
+
+.more a::after {
+    content: '→';
+    transition: transform var(--transition-fast);
+}
+
+.more a:hover::after {
+    transform: translateX(4px);
+}
+
 .more-games {
     background-color: var(--color-accent-red);
     color: var(--color-text-white);
@@ -656,10 +931,11 @@ header nav ul li a:hover {
  * FOOTER
  * =========================================== */
 footer {
-    background-color: var(--color-text-dark);
-    color: var(--color-text-white);
+    background-color: var(--color-bg-dark);
+    color: var(--color-text-muted);
     padding: var(--spacing-xl) 0;
     text-align: center;
+    border-top: 1px solid var(--color-border);
 }
 
 footer .container {
@@ -702,18 +978,22 @@ footer .copyright {
     
     header .nav-menu {
         position: fixed;
-        top: 0;
+        top: 70px; /* Start below header */
         left: 0;
+        right: 0;
+        bottom: 0;
         width: 100%;
-        height: 100%;
+        height: calc(100vh - 70px);
         background: var(--color-nav-overlay);
         display: flex;
         flex-direction: column;
         justify-content: flex-start;
-        padding-top: 100px;
+        padding-top: var(--spacing-2xl);
         align-items: center;
         opacity: 0;
         visibility: hidden;
+        /* 修复: 隐藏时禁用事件，避免阻挡 footer 点击 */
+        pointer-events: none;
         transition: opacity var(--transition-normal), visibility var(--transition-normal);
         z-index: var(--z-index-nav);
         margin-top: 0;
@@ -738,6 +1018,39 @@ footer .copyright {
     .nav-menu.active {
         opacity: 1;
         visibility: visible;
+        /* 激活时恢复事件响应 */
+        pointer-events: auto;
+    }
+
+    /* Mobile dropdown styles */
+    .nav-dropdown-menu {
+        position: static;
+        transform: none;
+        opacity: 1;
+        visibility: visible;
+        background: transparent;
+        border: none;
+        box-shadow: none;
+        padding: var(--spacing-sm) 0;
+        min-width: auto;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height var(--transition-normal);
+    }
+
+    .nav-dropdown.is-open .nav-dropdown-menu {
+        max-height: 200px;
+        transform: none;
+    }
+
+    .nav-dropdown-menu li a {
+        padding: var(--spacing-xs) var(--spacing-lg);
+        font-size: var(--font-size-sm);
+        color: var(--color-text-muted);
+    }
+
+    .nav-dropdown-menu li a:hover {
+        background: transparent;
     }
 
     .related-grid {
@@ -766,6 +1079,17 @@ footer .copyright {
     
     .game-card .game-info {
         text-align: center;
+    }
+}
+
+/* Extra-small phones: force <= 2 columns so cards stay tappable */
+@media (max-width: 480px) {
+    .game-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .related-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 }
 
@@ -856,16 +1180,25 @@ footer .copyright {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: var(--color-overlay-dark);
+    background-color: var(--color-primary);
     color: var(--color-text-white);
     border: none;
-    padding: var(--spacing-lg) 32px;
+    padding: var(--spacing-xl) 40px;
     text-align: center;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 18px;
+    font-weight: var(--font-weight-bold);
     cursor: pointer;
     z-index: var(--z-index-button);
-    border-radius: var(--radius-md);
+    border-radius: 50px;
+    box-shadow: var(--shadow-glow-sm);
+    transition: all var(--transition-normal);
+}
+
+/* Base hover - enhanced in homepage.css for game page context */
+#playButton:hover {
+    background-color: var(--color-primary-light);
+    transform: translate(-50%, -50%) scale(1.08);
 }
 
 /* ===========================================
@@ -873,24 +1206,71 @@ footer .copyright {
  * - Hide the empty iframe before Play is clicked so the cover/background is visible.
  * - Once playing, show iframe by toggling `.is-playing` on the container.
  * =========================================== */
+/* ===========================================
+ * GAME IFRAME - 16:9 + SAFE AREA DESIGN
+ * Core game elements in center 80% area
+ * =========================================== */
 .game-iframe-sprunki iframe {
     display: none;
+    width: 100%;
+    height: 100%;
+    border: none;
+    aspect-ratio: var(--aspect-ratio-game, 16/9);
+    /* Safe area: game content in center 80% */
+    box-sizing: border-box;
 }
 
 .game-iframe-sprunki.is-playing iframe {
     display: block;
+    /* When playing, fill the container */
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+/* Safe area wrapper for game content - center 80% */
+.game-iframe-sprunki::after {
+    content: '';
+    position: absolute;
+    top: var(--game-safe-padding, 10%);
+    left: var(--game-safe-padding, 10%);
+    right: var(--game-safe-padding, 10%);
+    bottom: var(--game-safe-padding, 10%);
+    border: 2px dashed rgba(255, 107, 157, 0.1);
+    border-radius: var(--radius-lg, 16px);
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    z-index: 1;
+}
+
+/* Show safe area guide on hover (dev/debug) */
+.game-iframe-sprunki:hover::after {
+    opacity: 0; /* Set to 1 for debug */
+}
+
+/* Fullscreen mode - account for device safe areas */
+.game-iframe-sprunki:-webkit-full-screen,
+.game-iframe-sprunki:fullscreen {
+    padding: 
+        max(env(safe-area-inset-top, 0px), var(--game-safe-padding, 5%))
+        max(env(safe-area-inset-right, 0px), var(--game-safe-padding, 5%))
+        max(env(safe-area-inset-bottom, 0px), var(--game-safe-padding, 5%))
+        max(env(safe-area-inset-left, 0px), var(--game-safe-padding, 5%));
+    background: #000;
+}
+
+.game-iframe-sprunki:-webkit-full-screen iframe,
+.game-iframe-sprunki:fullscreen iframe {
+    border-radius: var(--radius-lg, 16px);
 }
 
 /* ===========================================
  * GAME THUMBNAILS
  * =========================================== */
-.game-iframe-new ul li img,
-.game-iframe-pop ul li img {
-    width: 100%;
-    aspect-ratio: var(--aspect-ratio-thumbnail);
-    object-fit: cover;
-    border-radius: var(--radius-md);
-}
+/* Sidebar thumbnail styles - SEE homepage.css for glassmorphism styles */
 
 .game-logo img {
     width: 100%;
@@ -911,6 +1291,9 @@ footer .copyright {
     text-decoration: none;
     transition: transform var(--transition-normal), box-shadow var(--transition-normal);
     border-radius: var(--radius-lg);
+    /* P0: 确保触摸目标足够大 */
+    min-height: 44px;
+    min-width: 44px;
 }
 
 .game a:hover {
@@ -954,7 +1337,8 @@ footer .copyright {
 }
 
 .category-card {
-    background: var(--color-bg-white);
+    background: var(--color-bg-card);
+    border: 1px solid var(--color-border);
     border-radius: var(--radius-lg);
     box-shadow: var(--shadow-sm);
     text-decoration: none;
@@ -962,12 +1346,18 @@ footer .copyright {
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: transform var(--transition-fast), box-shadow var(--transition-fast);
+    transition: all var(--transition-normal);
+    /* P1: 分类卡片可点击 */
+    cursor: pointer;
 }
 
 .category-card:hover {
-    transform: translateY(-2px);
-    box-shadow: var(--shadow-md);
+    transform: translateY(-4px);
+    border-color: var(--color-primary);
+    box-shadow:
+        0 0 20px var(--glow-color-25),
+        0 8px 24px rgba(0, 0, 0, 0.3);
+    background: rgba(255, 107, 157, 0.05);
 }
 
 .category-card-content {
@@ -1005,7 +1395,301 @@ footer .copyright {
 }
 
 @media screen and (max-width: 768px) {
+    /* 移动端分类：紧凑网格布局，一次性展示所有分类 */
+    /* 移除滑动指示器，因为不需要滚动了 */
+    section.categories::before,
+    section.categories::after,
+    .games.categories::before,
+    .games.categories::after {
+        display: none;
+    }
+    
     .category-grid {
-        grid-template-columns: repeat(2, 1fr);
+        /* 紧凑3列网格，全部显示 */
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 8px;
+        padding: 0;
+        margin: 0;
+        overflow: visible;
+    }
+
+    .category-card {
+        /* 紧凑卡片 */
+        aspect-ratio: auto;
+        padding: 12px 6px;
+        border-radius: 10px;
+        min-height: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .category-card-content {
+        flex-direction: column;
+        gap: 4px;
+        text-align: center;
+        align-items: center;
+    }
+    
+    .category-card i {
+        font-size: 18px;
+    }
+    
+    .category-card span {
+        font-size: 10px;
+        line-height: 1.2;
+        word-break: break-word;
+        max-width: 100%;
+    }
+    
+    /* Hover 效果简化 */
+    .category-card:hover {
+        transform: none;
     }
 }
+
+/* ===========================================
+ * ANIMATIONS (from fiddlebops-frontend)
+ * =========================================== */
+
+/* Pulse glow animation */
+@keyframes pulse-glow {
+    0%, 100% {
+        transform: scale(1);
+        opacity: 0.3;
+    }
+    50% {
+        transform: scale(1.5);
+        opacity: 0.6;
+    }
+}
+
+/* Float animation */
+@keyframes float {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-4px);
+    }
+}
+
+/* Bounce note animation (for logo) */
+@keyframes bounce-note {
+    0%, 100% {
+        transform: translateY(0) rotate(0deg);
+    }
+    25% {
+        transform: translateY(-3px) rotate(-5deg);
+    }
+    75% {
+        transform: translateY(-3px) rotate(5deg);
+    }
+}
+
+/* Fade in animation */
+@keyframes fade-in {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* P3: 卡片进入动画 - 从下方淡入 */
+@keyframes cardFadeUp {
+    from {
+        opacity: 0;
+        transform: translateY(24px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.animate-pulse-glow {
+    animation: pulse-glow 2s ease-in-out infinite;
+}
+
+.animate-float {
+    animation: float 3s ease-in-out infinite;
+}
+
+.animate-bounce-note {
+    animation: bounce-note 1.5s ease-in-out infinite;
+}
+
+.animate-fade-in {
+    animation: fade-in var(--duration-slow) var(--easing-default) forwards;
+}
+
+/* P3: 游戏卡片网格进入动画 - 交错延迟 */
+.game-grid .game {
+    animation: cardFadeUp 0.5s cubic-bezier(0.4, 0, 0.2, 1) backwards;
+}
+
+/* 交错延迟效果 - 每个卡片延迟 50ms */
+.game-grid .game:nth-child(1) { animation-delay: 0.05s; }
+.game-grid .game:nth-child(2) { animation-delay: 0.1s; }
+.game-grid .game:nth-child(3) { animation-delay: 0.15s; }
+.game-grid .game:nth-child(4) { animation-delay: 0.2s; }
+.game-grid .game:nth-child(5) { animation-delay: 0.25s; }
+.game-grid .game:nth-child(6) { animation-delay: 0.3s; }
+.game-grid .game:nth-child(7) { animation-delay: 0.35s; }
+.game-grid .game:nth-child(8) { animation-delay: 0.4s; }
+.game-grid .game:nth-child(9) { animation-delay: 0.45s; }
+.game-grid .game:nth-child(10) { animation-delay: 0.5s; }
+.game-grid .game:nth-child(11) { animation-delay: 0.55s; }
+.game-grid .game:nth-child(12) { animation-delay: 0.6s; }
+.game-grid .game:nth-child(n+13) { animation-delay: 0.65s; }
+
+/* ===========================================
+ * GLOW BADGE VARIANT
+ * =========================================== */
+.badge-glow {
+    display: inline-flex;
+    align-items: center;
+    padding: 4px 12px;
+    font-size: var(--font-size-caption);
+    font-weight: var(--font-weight-semibold);
+    border-radius: var(--radius-full);
+    background-color: rgba(255, 107, 157, 0.1);
+    border: 1px solid rgba(255, 107, 157, 0.5);
+    color: var(--color-primary);
+    transition: all var(--transition-fast);
+}
+
+.badge-glow:hover {
+    background-color: rgba(255, 107, 157, 0.2);
+    transform: scale(1.05);
+}
+
+/* Multi-color glow badges */
+.badge-glow-cyan {
+    background-color: rgba(0, 204, 255, 0.1);
+    border-color: rgba(0, 204, 255, 0.5);
+    color: var(--glow-cyan);
+}
+
+.badge-glow-yellow {
+    background-color: rgba(255, 204, 0, 0.1);
+    border-color: rgba(255, 204, 0, 0.5);
+    color: var(--glow-yellow);
+}
+
+.badge-glow-green {
+    background-color: rgba(102, 255, 102, 0.1);
+    border-color: rgba(102, 255, 102, 0.5);
+    color: var(--glow-green);
+}
+
+.badge-glow-purple {
+    background-color: rgba(153, 102, 255, 0.1);
+    border-color: rgba(153, 102, 255, 0.5);
+    color: var(--glow-purple);
+}
+
+.badge-glow-red {
+    background-color: rgba(255, 68, 68, 0.1);
+    border-color: rgba(255, 68, 68, 0.5);
+    color: var(--glow-red);
+}
+
+/* ===========================================
+ * BUTTON MICRO-INTERACTIONS
+ * =========================================== */
+.btn-glow {
+    background-color: var(--color-bg-card);
+    color: var(--color-text-primary);
+    border: 1px solid var(--color-border);
+    padding: var(--spacing-md) var(--spacing-xl);
+    border-radius: var(--radius-md);
+    font-weight: var(--font-weight-medium);
+    cursor: pointer;
+    transition: all var(--transition-fast);
+    box-shadow: var(--shadow-glow-sm);
+}
+
+.btn-glow:hover {
+    border-color: var(--color-primary);
+    box-shadow: var(--shadow-glow-md);
+    background-color: rgba(255, 107, 157, 0.05);
+    color: var(--color-primary);
+}
+
+.btn-glow:active {
+    transform: scale(0.95);
+}
+
+/* Apply active scale to all interactive buttons */
+button:active,
+.play-button:active,
+#playButton:active {
+    transform: scale(0.95);
+}
+
+#playButton:active {
+    transform: translate(-50%, -50%) scale(0.95);
+}
+
+/* ===========================================
+ * CARD IMAGE HOVER SCALE
+ * =========================================== */
+.game img,
+.game-card img,
+.game--mod img {
+    transition: transform var(--transition-normal);
+    /* Ensure images don't overflow their containers on mobile */
+    max-width: 100%;
+    height: auto;
+}
+
+.game:hover img,
+.game-card:hover img,
+.game--mod:hover img {
+    transform: scale(1.05);
+}
+
+/* ===========================================
+ * REDUCED MOTION SUPPORT
+ * =========================================== */
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+    
+    /* Keep opacity transitions but remove transforms */
+    .game:hover img,
+    .game-card:hover img,
+    .game--mod:hover img,
+    .game:hover,
+    button:active,
+    .play-button:active,
+    #playButton:active,
+    .btn-glow:active {
+        transform: none !important;
+    }
+
+    /* P3: 禁用卡片进入动画 */
+    .game-grid .game {
+        animation: none !important;
+        opacity: 1 !important;
+    }
+
+    /* P3: 禁用 Featured 渐变动画 */
+    .game--featured::before {
+        animation: none !important;
+        opacity: 0 !important;
+    }
+}
+

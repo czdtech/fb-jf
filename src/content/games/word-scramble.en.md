@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Word Scramble"
-description: "Unscramble letters and challenge your mind in Word Scramble, a classic word puzzle game! Rearrange jumbled letters to form the correct word within a time limit. Test your vocabulary and quick thinking across various levels and categories in this engaging brain-teaser."
-iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/word-scramble/"
+title: Word Scramble
+seoTitle: Play Word Scramble Online Free | FiddleBops
+description: >-
+  Unscramble letters and challenge your mind in Word Scramble, a classic word
+  puzzle game! Rearrange jumbled letters to form the correct word within a time
+  limit. Test your vocabulary and quick thinking across various levels and
+  categories in this engaging brain-teaser.
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/word-scramble/'
 thumbnail: /new-images/thumbnails/word-scramble.jpg
-urlstr: "word-scramble"
-score: "3.5/5  (764 votes)"
-tags: ["word-game", "puzzle", "brain-teaser"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: word-scramble
+tags:
+  - word-game
+  - puzzle
+  - brain-teaser
+score: 3.5/5  (764 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: merge-the-gems
 title: Merge the Gems
+seoTitle: Jouez à Merge the Gems en ligne gratuitement | FiddleBops
 description: >-
   Fusionne des gemmes identiques pour forger de nouveaux joyaux plus précieux !
   Remplis ton plateau, accomplis des défis et découvre toutes les pierres
   précieuses dans ce puzzle de fusion étincelant et addictif.
 iframeSrc: 'https://mergethegems.h5games.usercontent.goog/v/5rut2fhhuqb1g/'
 thumbnail: /new-images/thumbnails/merge-the-gems.jpg
+urlstr: merge-the-gems
 tags:
   - puzzle
   - casual

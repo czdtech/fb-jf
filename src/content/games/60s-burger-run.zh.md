@@ -1,13 +1,14 @@
 ---
+locale: zh
 title: 60 Second Burger Run 60 秒汉堡跑酷
+seoTitle: 免费在线玩 60 Second Burger Run 60 秒汉堡跑酷 | FiddleBops
 description: 《60 Second Burger Run》是一款色彩鲜明的限时冲刺平台游戏：在严格的60秒时间限制内一路狂奔，赶在关门前冲进汉堡店！
 iframeSrc: 'https://www.playfiddlebops.com/embed/60s-burger-run/index.html'
 thumbnail: /new-images/thumbnails/60s-burger-run.jpg
 urlstr: 60s-burger-run
-locale: zh
-score: 4.6/5  (1344 votes)
 tags:
   - 60 seconds burger run
+score: 4.6/5  (1344 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Cake Slice Ninja
+seoTitle: 無料でCake Slice Ninjaをオンラインでプレイ | FiddleBops
 description: >-
   Cake Slice
   Ninjaは甘いスライシングラッシュです。スワイプでクリーンカットし、コンボをチェインさせ、ハザードを避けてハイスコアを目指しましょう。
 iframeSrc: 'https://cakesliceninja.h5games.usercontent.goog/v/5bh2c88k8pku8/'
 thumbnail: /new-images/thumbnails/cake-slice-ninja.jpeg
 urlstr: cake-slice-ninja
-score: 4.2/5  (1931 votes)
 tags:
   - action
   - casual
+score: 4.2/5  (1931 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

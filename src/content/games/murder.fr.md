@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: murder
 title: Murder
+seoTitle: Jouez à Murder en ligne gratuitement | FiddleBops
 description: >-
   Murder est un jeu de déduction et de trahison où un meurtrier se cache parmi
   les joueurs. Observe, enquête ou élimine discrètement pour remporter la
   partie.
 iframeSrc: 'https://ubg77.github.io/fix/murder/'
 thumbnail: /new-images/thumbnails/murder.jpg
+urlstr: murder
 tags:
   - party game
   - strategy

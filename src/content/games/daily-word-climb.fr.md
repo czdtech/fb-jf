@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: daily-word-climb
 title: Daily Word Climb
+seoTitle: Jouez à Daily Word Climb en ligne gratuitement | FiddleBops
 description: "Daily Word Climb est un défi de mots quotidien\_: trouve des mots à partir d’un ensemble de lettres pour gravir les niveaux."
 iframeSrc: 'https://7j9i6247552ro.h5games.usercontent.goog/v/1g49kcc7pdiio/'
 thumbnail: /new-images/thumbnails/daily-word-climb.png
+urlstr: daily-word-climb
 tags:
   - word
   - puzzle

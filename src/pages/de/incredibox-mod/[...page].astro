@@ -1,20 +1,23 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
-import { INCREDIBOX_MOD_HREFLANG } from '../../../data/hreflang';
+import { getPagedListHreflang } from '../../../data/hreflang';
 import { toGameCardData } from '../../../lib/canonical-games';
+import { buildListSeoTitle } from '../../../lib/seo-title';
 export { getStaticPaths } from '../../incredibox-mod/[...page].astro';
 
 const { page } = Astro.props;
+const hreflangLinks = getPagedListHreflang('/incredibox-mod/', page.currentPage);
 const locale = 'de';
-const title = 'Incredibox Mod - Incredibox Game World';
+const baseTitle = 'Incredibox Mod';
+const title = buildListSeoTitle(locale, baseTitle, page.currentPage);
 const description =
   'Entdecke Mods, Spezialversionen und Remixes rund um Incredibox. Erstelle neue Soundkombinationen direkt im Browser und spiele kostenlos.';
-const canonicalUrl = 'https://www.playfiddlebops.com/de/incredibox-mod/';
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site).toString();
 const ogImage = 'https://www.playfiddlebops.com/tw.jpg';
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Game',
-  name: title,
+  name: baseTitle,
   alternateName: 'playfiddlebops.com',
   url: canonicalUrl,
   description
@@ -28,7 +31,7 @@ const jsonLd = {
   ogType="website"
   twitterCard="summary_large_image"
   jsonLd={jsonLd}
-  hreflangLinks={INCREDIBOX_MOD_HREFLANG}
+  hreflangLinks={hreflangLinks}
   lang="de"
 >
   <section class="games">

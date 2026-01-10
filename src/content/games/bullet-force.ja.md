@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Bullet Force バレットフォース
+seoTitle: 無料でBullet Force バレットフォースをオンラインでプレイ | FiddleBops
 description: >-
   「Bullet
   Force」で本格FPSの世界へ飛び込め！多彩な武器カスタマイズ、PvP、征服モード。広大なマップで繰り広げられるハイスピードな銃撃戦を体験せよ。
 iframeSrc: 'https://ubg44.github.io/BulletForce/'
 thumbnail: /new-images/thumbnails/bullet-force.jpg
 urlstr: bullet-force
-score: 3.9/5  (951 votes)
 tags:
   - action
   - shooting
+score: 3.9/5  (951 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

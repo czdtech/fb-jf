@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: crossyroad
-title: Crossy Road - Juega a Crossy Road en línea
+title: Crossy Road
+seoTitle: Juega a Crossy Road en línea gratis | FiddleBops
 description: >-
   Crossy Road es un runner infinito arcade de estética 8‑bit en el que tu misión
   es controlar a la famosa gallina y cruzar carreteras, ríos y vías de tren sin
   morir en el intento.
 iframeSrc: 'https://www.playfiddlebops.com/embed/crossyroad/index.html'
 thumbnail: /new-images/thumbnails/crossyroad.jpg
+urlstr: crossyroad
 tags:
   - crossy road
 score: 4.8/5  (1104 votes)

@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: tiletopia
 title: Tiletopia
+seoTitle: Jouez à Tiletopia en ligne gratuitement | FiddleBops
 description: >-
   Tiletopia est un puzzle de construction de ville relaxant : place des tuiles
   pour connecter des routes, construire des maisons et créer ton propre monde
   miniature.
 iframeSrc: 'https://6nilllqpgkm6o.h5games.usercontent.goog/v/7d3689i7s5gfo/'
 thumbnail: /new-images/thumbnails/tiletopia.png
+urlstr: tiletopia
 tags:
   - puzzle
   - strategy

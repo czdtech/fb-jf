@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: santas-quest
 title: Santa's Quest
+seoTitle: Spiele Santa's Quest kostenlos online | FiddleBops
 description: >-
   Santa's Quest ist ein weihnachtliches Puzzleabenteuer: Plane Santas Route,
   räume den Weg frei und bringe alle Geschenke rechtzeitig ans Ziel.
 iframeSrc: 'https://santasquest.h5games.usercontent.goog/v/737gsbva7bkqo/'
 thumbnail: /new-images/thumbnails/santas-quest.png
+urlstr: santas-quest
 tags:
   - puzzle
   - casual

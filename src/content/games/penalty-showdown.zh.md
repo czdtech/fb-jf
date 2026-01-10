@@ -1,11 +1,13 @@
 ---
 locale: zh
-urlstr: penalty-showdown
-title: "《Penalty Showdown》点球对决"
+title: 《Penalty Showdown》点球对决
+seoTitle: 免费在线玩 《Penalty Showdown》点球对决 | FiddleBops
 description: >-
-  《Penalty Showdown》是一款紧张刺激的点球大战游戏，你将在射手与门将角色之间轮流切换，通过选择角度与高度、揣摩对手意图，在互射点球中赢下最终胜利。
+  《Penalty
+  Showdown》是一款紧张刺激的点球大战游戏，你将在射手与门将角色之间轮流切换，通过选择角度与高度、揣摩对手意图，在互射点球中赢下最终胜利。
 iframeSrc: 'https://58r8ibinmpjeg.h5games.usercontent.goog/v/2m3pjv3her9fg/'
 thumbnail: /new-images/thumbnails/penalty-showdown.jpg
+urlstr: penalty-showdown
 tags:
   - sports
   - soccer

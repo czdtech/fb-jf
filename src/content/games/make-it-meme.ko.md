@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: make-it-meme
 title: Make It Meme 메이크 잇 밈
+seoTitle: Make It Meme 메이크 잇 밈 무료 온라인 플레이 | FiddleBops
 description: >-
   Make It Meme는 플레이어들이 밈 이미지를 보고 제한 시간 안에 자막을 붙인 뒤 서로 평가해 승자를 가리는 온라인 멀티플레이 파티
   게임입니다.
 iframeSrc: 'https://artedu1808.github.io/g177/make-it-meme/'
 thumbnail: /new-images/thumbnails/make-it-meme.jpg
+urlstr: make-it-meme
 tags:
   - party game
   - casual

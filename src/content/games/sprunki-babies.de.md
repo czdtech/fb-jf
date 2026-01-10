@@ -1,14 +1,18 @@
 ---
 locale: de
-urlstr: sprunki-babies
-title: "Sprunki Babies - Sprunki Babies online spielen"
-description: "In Sprunki Babies leitest du eine Truppe supersüßer Baby-Sprunki-Figuren, die mit ihren einzigartigen Stimmen und Sounds deine eigenen kleinen Musikstücke zum Leben erwecken – ganz ohne Musiktheorie, nur mit Kreativität und Spaß."
+title: Sprunki Babies
+seoTitle: Spiele Sprunki Babies kostenlos online | FiddleBops
+description: >-
+  In Sprunki Babies leitest du eine Truppe supersüßer Baby-Sprunki-Figuren, die
+  mit ihren einzigartigen Stimmen und Sounds deine eigenen kleinen Musikstücke
+  zum Leben erwecken – ganz ohne Musiktheorie, nur mit Kreativität und Spaß.
 iframeSrc: 'https://turbowarp.org/1110888906/embed'
 thumbnail: /new-images/thumbnails/sprunki-babies.png
+urlstr: sprunki-babies
 tags:
   - sprunki babies
 score: 4.0/5  (212 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

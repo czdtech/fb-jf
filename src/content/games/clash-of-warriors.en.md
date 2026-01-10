@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Clash of Warriors"
-description: "Clash of Warriors is a compact card battler — curve your plays, trade efficiently, and outthink opponents."
-iframeSrc: "https://7t89fh6irdv0g.h5games.usercontent.goog/v/5gpd6kf06hr8g/"
+title: Clash of Warriors
+seoTitle: Play Clash of Warriors Online Free | FiddleBops
+description: >-
+  Clash of Warriors is a compact card battler — curve your plays, trade
+  efficiently, and outthink opponents.
+iframeSrc: 'https://7t89fh6irdv0g.h5games.usercontent.goog/v/5gpd6kf06hr8g/'
 thumbnail: /new-images/thumbnails/clash-of-warriors.png
-urlstr: "clash-of-warriors"
-score: "3.9/5  (1668 votes)"
-tags: ["card", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: clash-of-warriors
+tags:
+  - card
+  - thinky
+score: 3.9/5  (1668 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

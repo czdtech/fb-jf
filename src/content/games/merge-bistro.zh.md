@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: merge-bistro
 title: 《Merge Bistro》合成经营小餐馆
+seoTitle: 免费在线玩 《Merge Bistro》合成经营小餐馆 | FiddleBops
 description: 《Merge Bistro》是一款温馨的合成+餐厅经营游戏，你需要合成食材、完成顾客订单，并通过精细规划操作台与仓库，逐步扩大这家迷你小餐馆。
 iframeSrc: 'https://0f5mbl2u9ont8.h5games.usercontent.goog/v/50p3a8ekgfdk8/'
 thumbnail: /new-images/thumbnails/merge-bistro.png
+urlstr: merge-bistro
 tags:
   - puzzle
   - casual

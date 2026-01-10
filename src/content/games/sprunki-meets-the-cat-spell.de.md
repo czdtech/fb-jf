@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: sprunki-meets-the-cat-spell
-title: Sprunki Meets The Cat Spell - Sprunki Meets The Cat Spell online spielen
+title: Sprunki Meets The Cat Spell
+seoTitle: Spiele Sprunki Meets The Cat Spell kostenlos online | FiddleBops
 description: >-
   Sprunki Meets The Cat Spell ist eine überarbeitete Version des
   Sprunki-Cats-Mods: Alle Figuren werden als katzenhafte Sprunki-Charaktere neu
@@ -9,11 +9,12 @@ description: >-
   niedlichen Musikmix.
 iframeSrc: 'https://turbowarp.org/1149710266/embed'
 thumbnail: /new-images/thumbnails/sprunki-meets-the-cat-spell.png
+urlstr: sprunki-meets-the-cat-spell
 tags:
   - sprunki meets the cat spell
   - sprunki meets the cat spell online
 score: 4.8/5  (649 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Einführung in Sprunki Meets The Cat Spell

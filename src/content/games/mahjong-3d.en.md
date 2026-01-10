@@ -1,14 +1,22 @@
 ---
 locale: en
-title: "Mahjong 3D"
-description: "Experience Mahjong Solitaire in a new dimension! Rotate the 3D puzzle, find matching pairs of free tiles, and clear the board in this immersive and strategic game."
-iframeSrc: "https://mahjong3d.h5games.usercontent.goog/v/eba0837e-4855-4bb2-b762-5dd6d8982cac/"
+title: Mahjong 3D
+seoTitle: Play Mahjong 3D Online Free | FiddleBops
+description: >-
+  Experience Mahjong Solitaire in a new dimension! Rotate the 3D puzzle, find
+  matching pairs of free tiles, and clear the board in this immersive and
+  strategic game.
+iframeSrc: >-
+  https://mahjong3d.h5games.usercontent.goog/v/eba0837e-4855-4bb2-b762-5dd6d8982cac/
 thumbnail: /new-images/thumbnails/mahjong-3d.jpg
-urlstr: "mahjong-3d"
-score: "4.5/5  (2400 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: mahjong-3d
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.5/5  (2400 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 ## English Guide

@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: bridge
 title: Bridge 合同桥牌
+seoTitle: 免费在线玩 Bridge 合同桥牌 | FiddleBops
 description: 《Bridge 合同桥牌》是一款经典四人两两结队的争上叫与打牌游戏，通过叫牌确定定约和将牌，与搭档配合拿到足够墩 数，战胜对家。
 iframeSrc: 'https://2ipri8asu56io.h5games.usercontent.goog/v/0gn3i94fda0h0/'
 thumbnail: /new-images/thumbnails/bridge.png
+urlstr: bridge
 tags:
   - card
   - puzzle

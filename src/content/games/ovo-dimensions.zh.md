@@ -1,13 +1,14 @@
 ---
 locale: zh
-urlstr: ovo-dimensions
 title: 《OvO Dimensions》高难维度跳跳关
+seoTitle: 免费在线玩 《OvO Dimensions》高难维度跳跳关 | FiddleBops
 description: >-
   《OvO Dimensions》是 OvO 系列的进阶续作，这款高难度 2D
   平台跳跃游戏加入了全新机关与机制，需要你精确掌握起跳、滑行与墙跳，用极限操作在复杂关卡中刷新通关时间。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221219/8/index.html
 thumbnail: /new-images/thumbnails/ovo-dimensions.jpg
+urlstr: ovo-dimensions
 tags:
   - platformer
   - action

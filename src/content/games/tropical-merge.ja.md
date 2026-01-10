@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Tropical Merge
+seoTitle: 無料でTropical Mergeをオンラインでプレイ | FiddleBops
 description: Tropical Mergeは、トロピカルテーマのマージゲームです。アイテムを合体させて楽園を作りましょう。
 iframeSrc: 'https://7jdqir15djng0.h5games.usercontent.goog/v/3nm4cvs4b09jo/'
 thumbnail: /new-images/thumbnails/tropical-merge.png
 urlstr: tropical-merge
-score: 4.2/5  (2068 votes)
 tags:
   - merge
   - casual
   - tropical
-locale: ja
+score: 4.2/5  (2068 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

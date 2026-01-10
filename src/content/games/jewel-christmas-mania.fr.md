@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: jewel-christmas-mania
 title: Jewel Christmas Mania
+seoTitle: Jouez à Jewel Christmas Mania en ligne gratuitement | FiddleBops
 description: >-
   Plonge dans l'esprit des fêtes avec Jewel Christmas Mania : aligne des bijoux
   scintillants dans ce match‑3 de Noël et relève des niveaux toujours plus
   exigeants.
 iframeSrc: 'https://jewelchristmasmania.h5games.usercontent.goog/v/3vom8bn0qgmto/'
 thumbnail: /new-images/thumbnails/jewel-christmas-mania.png
+urlstr: jewel-christmas-mania
 tags:
   - puzzle
   - casual

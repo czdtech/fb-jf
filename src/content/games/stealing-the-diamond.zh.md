@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: stealing-the-diamond
 title: 《Stealing The Diamond》偷钻石大作战
+seoTitle: 免费在线玩 《Stealing The Diamond》偷钻石大作战 | FiddleBops
 description: >-
   《Stealing The Diamond》是 Henry Stickmin
   系列中一部充满笑点的互动冒险游戏。潜入博物馆，想办法把巨型钻石偷到手，体验各种工具与路线带来的爆笑失败和多种结局。
 iframeSrc: 'https://bitlifeonline.github.io/stealing-the-diamond/'
 thumbnail: /new-images/thumbnails/stealing-the-diamond.jpg
+urlstr: stealing-the-diamond
 tags:
   - adventure
   - funny

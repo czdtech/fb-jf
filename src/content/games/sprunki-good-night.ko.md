@@ -1,17 +1,17 @@
 ---
 locale: ko
-urlstr: sprunki-good-night
-title: 'Sprunki Good Night 스프룽키 굿 나이트'
+title: Sprunki Good Night 스프룽키 굿 나이트
+seoTitle: Sprunki Good Night 스프룽키 굿 나이트 무료 온라인 플레이 | FiddleBops
 description: >-
-  Sprunki Good Night는 하루를 마무리하며 몸과 마음을 편안하게 풀어 줄 수 있는
-  스프룽키 모드입니다. 잔잔한 피아노와 자연음, 느린 비트로 나만의 자장가를
-  만들어 편안한 밤을 준비해 보세요.
+  Sprunki Good Night는 하루를 마무리하며 몸과 마음을 편안하게 풀어 줄 수 있는 스프룽키 모드입니다. 잔잔한 피아노와 자연음,
+  느린 비트로 나만의 자장가를 만들어 편안한 밤을 준비해 보세요.
 iframeSrc: 'https://turbowarp.org/1178264025/embed'
 thumbnail: /new-images/thumbnails/sprunki-good-night.png
+urlstr: sprunki-good-night
 tags:
   - sprunki good night
 score: 4.2/5  (227 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

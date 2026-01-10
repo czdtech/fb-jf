@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Veggies Cut
+seoTitle: 無料でVeggies Cutをオンラインでプレイ | FiddleBops
 description: Veggies Cutは、野菜切りゲームです。タイミングよく野菜を切ってスライスしましょう。
 iframeSrc: 'https://01pgt4aflffvo.h5games.usercontent.goog/v/2kpv41q3jen50/'
 thumbnail: /new-images/thumbnails/veggies-cut.jpg
 urlstr: veggies-cut
-score: 4.0/5  (1867 votes)
 tags:
   - arcade
   - casual
   - slicing
-locale: ja
+score: 4.0/5  (1867 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

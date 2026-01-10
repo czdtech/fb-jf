@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Quiz x"
-description: "Quiz x is a fast quiz show — read prompts, think broadly, and pick best‑fit answers under light time pressure."
-iframeSrc: "https://5348abrdhudu8.h5games.usercontent.goog/v/35ge2no4verb8/"
+title: Quiz x
+seoTitle: Play Quiz x Online Free | FiddleBops
+description: >-
+  Quiz x is a fast quiz show — read prompts, think broadly, and pick best‑fit
+  answers under light time pressure.
+iframeSrc: 'https://5348abrdhudu8.h5games.usercontent.goog/v/35ge2no4verb8/'
 thumbnail: /new-images/thumbnails/quiz-x.png
-urlstr: "quiz-x"
-score: "3.9/5  (1725 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: quiz-x
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 3.9/5  (1725 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

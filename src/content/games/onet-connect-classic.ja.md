@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Onet Connect Classic
+seoTitle: 無料でOnet Connect Classicをオンラインでプレイ | FiddleBops
 description: Onet Connect Classicはマッチングパズルです。同じタイルのペアを接続し、ルール内のパスでボードを消していきます。
 iframeSrc: 'https://onetconnectclassic.h5games.usercontent.goog/v/0q8248mt11l3g/'
 thumbnail: /new-images/thumbnails/onet-connect-classic.png
 urlstr: onet-connect-classic
-score: 4.3/5  (1840 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.3/5  (1840 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

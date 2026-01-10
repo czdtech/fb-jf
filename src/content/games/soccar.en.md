@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "SocCar"
-description: "Get behind the wheel in SocCar, an action-packed game that combines the thrill of soccer with the power of cars. Drive on the field, boost into the giant soccer ball, and score goals against your opponent. Master your driving and aiming skills to win the match."
-iframeSrc: "https://ubg77.github.io/edit/soccar/"
+title: SocCar
+seoTitle: Play SocCar Online Free | FiddleBops
+description: >-
+  Get behind the wheel in SocCar, an action-packed game that combines the thrill
+  of soccer with the power of cars. Drive on the field, boost into the giant
+  soccer ball, and score goals against your opponent. Master your driving and
+  aiming skills to win the match.
+iframeSrc: 'https://ubg77.github.io/edit/soccar/'
 thumbnail: /new-images/thumbnails/soccar.jpg
-urlstr: "soccar"
-score: "4.7/5  (870 votes)"
-tags: ["sports", "cars", "action"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: soccar
+tags:
+  - sports
+  - cars
+  - action
+score: 4.7/5  (870 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

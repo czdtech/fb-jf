@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Polymatch
+seoTitle: 無料でPolymatchをオンラインでプレイ | FiddleBops
 description: Polymatchはポリゴンマッチングゲームです。形をマッチし、パターンを接続し、視覚的なパズルをマスターします。
 iframeSrc: 'https://4h72h3ha1dnh0.h5games.usercontent.goog/v/4mrusdmqik1l8/'
 thumbnail: /new-images/thumbnails/polymatch.png
 urlstr: polymatch
-score: 4.2/5  (1999 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.2/5  (1999 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

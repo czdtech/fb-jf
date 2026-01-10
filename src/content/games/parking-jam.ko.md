@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: parking-jam
 title: Parking Jam 파킹 잼
+seoTitle: Parking Jam 파킹 잼 무료 온라인 플레이 | FiddleBops
 description: >-
   Rush Hour 스타일의 주차 퍼즐 게임입니다. 자동차를 순서대로 움직여 출구를 막는 차량을 치우고, 최소한의 이동으로 주차장을 탈출해
   보세요.
 iframeSrc: 'https://4knmpq6joecbg.h5games.usercontent.goog/v/1uamg2frss2qg/'
 thumbnail: /new-images/thumbnails/parking-jam.png
+urlstr: parking-jam
 tags:
   - puzzle
   - thinky

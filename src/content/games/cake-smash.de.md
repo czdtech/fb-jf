@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: cake-smash
 title: Cake Smash
+seoTitle: Spiele Cake Smash kostenlos online | FiddleBops
 description: >-
   Zertrümmere leckere Kuchen in Cake Smash, einem bunten Match-3-Puzzlespiel.
   Tausche Kuchen, bilde Reihen und löse Spezial-Kombos aus, um die Levelziele zu
   erreichen.
 iframeSrc: 'https://41la6sld9ed88.h5games.usercontent.goog/v/36d90atplnu7o/'
 thumbnail: /new-images/thumbnails/cake-smash.png
+urlstr: cake-smash
 tags:
   - puzzle
   - casual

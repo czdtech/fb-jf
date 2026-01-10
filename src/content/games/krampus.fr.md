@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: krampus
 title: Krampus
+seoTitle: Jouez à Krampus en ligne gratuitement | FiddleBops
 description: >-
   Jeu de plateforme d’horreur de fin d’année : explore des niveaux sombres,
   évite les pièges et les créatures, et trouve des clés et objets pour
   t’échapper de l’antre de Krampus.
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/krampus1/'
 thumbnail: /new-images/thumbnails/krampus.jpg
+urlstr: krampus
 tags:
   - horror
   - platformer

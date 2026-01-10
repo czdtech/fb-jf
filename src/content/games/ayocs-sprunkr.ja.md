@@ -1,13 +1,17 @@
 ---
-title: "AYOCS Sprunkr AYOCS スプランカー"
-description: "AYOCS Sprunkrで音楽制作をスタイリッシュに進化させよう！おしゃれな新キャラ、洗練されたビジュアル、そして新しいサウンドで、Sprunkiの世界を一新するModが登場。"
-iframeSrc: "https://turbowarp.org/1114188520/embed"
-thumbnail: /new-images/thumbnails/ayocs-sprunkr.png
-urlstr: "ayocs-sprunkr"
-score: "4.1/5  (54 votes)"
-tags: ["ayocs sprunkr"]
 locale: ja
-releaseDate: 2025-12-04
+title: AYOCS Sprunkr AYOCS スプランカー
+seoTitle: 無料でAYOCS Sprunkr AYOCS スプランカーをオンラインでプレイ | FiddleBops
+description: >-
+  AYOCS
+  Sprunkrで音楽制作をスタイリッシュに進化させよう！おしゃれな新キャラ、洗練されたビジュアル、そして新しいサウンドで、Sprunkiの世界を一新するModが登場。
+iframeSrc: 'https://turbowarp.org/1114188520/embed'
+thumbnail: /new-images/thumbnails/ayocs-sprunkr.png
+urlstr: ayocs-sprunkr
+tags:
+  - ayocs sprunkr
+score: 4.1/5  (54 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,14 +1,17 @@
 ---
-title: "Arctic Pong アークティック・ポン"
-description: "「Arctic Pong」は極寒の地で行うパドル対決。角度をつけて打ち返し、ペースを支配し、対戦相手より多く得点しましょう。"
-iframeSrc: "https://arcticpong.h5games.usercontent.goog/v/1quekndr8ig0o/"
-thumbnail: /new-images/thumbnails/arctic-pong.png
-urlstr: "arctic-pong"
-score: "3.7/5  (1332 votes)"
-tags: ["2 player", "casual"]
-developer: ""
-releaseDate: 2025-10-18
 locale: ja
+title: Arctic Pong アークティック・ポン
+seoTitle: 無料でArctic Pong アークティック・ポンをオンラインでプレイ | FiddleBops
+description: 「Arctic Pong」は極寒の地で行うパドル対決。角度をつけて打ち返し、ペースを支配し、対戦相手より多く得点しましょう。
+iframeSrc: 'https://arcticpong.h5games.usercontent.goog/v/1quekndr8ig0o/'
+thumbnail: /new-images/thumbnails/arctic-pong.png
+urlstr: arctic-pong
+tags:
+  - 2 player
+  - casual
+score: 3.7/5  (1332 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

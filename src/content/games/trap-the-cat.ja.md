@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Trap the Cat
+seoTitle: 無料でTrap the Catをオンラインでプレイ | FiddleBops
 description: Trap the Catは、猫を囲むパズルゲームです。タイルをブロックして猫が逃げられないようにしましょう。
 iframeSrc: 'https://freeonlinegames.github.io/cat-trap.html'
 thumbnail: /new-images/thumbnails/trap-the-cat.jpg
 urlstr: trap-the-cat
-score: 4.0/5  (972 votes)
 tags:
   - puzzle
   - strategy
   - logic
-locale: ja
+score: 4.0/5  (972 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

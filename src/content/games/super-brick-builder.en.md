@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Super Brick Builder"
-description: "Super Brick Builder is a satisfying block‑stack — lay bricks cleanly, plan supports, and complete structures with minimal waste."
-iframeSrc: "https://0hlb6nt2jsom8.h5games.usercontent.goog/v/4jac78qnv0nr8/"
+title: Super Brick Builder
+seoTitle: Play Super Brick Builder Online Free | FiddleBops
+description: >-
+  Super Brick Builder is a satisfying block‑stack — lay bricks cleanly, plan
+  supports, and complete structures with minimal waste.
+iframeSrc: 'https://0hlb6nt2jsom8.h5games.usercontent.goog/v/4jac78qnv0nr8/'
 thumbnail: /new-images/thumbnails/super-brick-builder.png
-urlstr: "super-brick-builder"
-score: "4.0/5  (1873 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: super-brick-builder
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.0/5  (1873 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

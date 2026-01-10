@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: ludo-kart
 title: Ludo Kart 루도 카트
+seoTitle: Ludo Kart 루도 카트 무료 온라인 플레이 | FiddleBops
 description: 'Ludo Kart는 주사위를 굴려 말을 움직이고, 상대보다 먼저 모든 말을 집까지 보내는 것을 목표로 하는 가벼운 레이싱 보드게임입니다.'
 iframeSrc: 'https://35q41h2gp6dd8.h5games.usercontent.goog/v/6q7tggnmscsj8/'
 thumbnail: /new-images/thumbnails/ludo-kart.png
+urlstr: ludo-kart
 tags:
   - casual
   - thinky

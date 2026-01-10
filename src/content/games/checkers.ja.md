@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Checkers チェッカー
+seoTitle: 無料でCheckers チェッカーをオンラインでプレイ | FiddleBops
 description: >-
   直感的な操作とシンプルなルールで楽しめる「Checkers」で遊ぼう。斜めに進み、相手の駒を飛び越えて取り、キングを目指そう。時代を超えて愛される知略ゲーム。
 iframeSrc: >-
   https://app-98054.games.s3.yandex.net/98054/nmrr3mfit1y3qyd35l9zk4d8awgfxsjq/index.html
 thumbnail: /new-images/thumbnails/checkers.jpg
 urlstr: checkers
-score: 4.5/5  (596 votes)
 tags:
   - strategy
   - puzzle
+score: 4.5/5  (596 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

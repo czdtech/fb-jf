@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Gold Miner
+seoTitle: 無料でGold Minerをオンラインでプレイ | FiddleBops
 description: フックで釣り上げるアーケードの定番：タイミングよく爪を放って金や宝石を掴み、パワーアップを購入し、時間切れになる前に目標金額を達成しましょう。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/gold-miner.html'
 thumbnail: /new-images/thumbnails/gold-miner.jpg
 urlstr: gold-miner
-score: 4.2/5  (260 votes)
 tags:
   - arcade
   - skill
+score: 4.2/5  (260 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

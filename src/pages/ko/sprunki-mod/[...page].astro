@@ -1,20 +1,23 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
-import { SPRUNKI_MOD_HREFLANG } from '../../../data/hreflang';
+import { getPagedListHreflang } from '../../../data/hreflang';
 import { toGameCardData } from '../../../lib/canonical-games';
+import { buildListSeoTitle } from '../../../lib/seo-title';
 export { getStaticPaths } from '../../sprunki-mod/[...page].astro';
 
 const { page } = Astro.props;
+const hreflangLinks = getPagedListHreflang('/sprunki-mod/', page.currentPage);
 const locale = 'ko';
-const title = 'Sprunki Mod - Sprunki 게임 월드';
+const baseTitle = 'Sprunki Mod';
+const title = buildListSeoTitle(locale, baseTitle, page.currentPage);
 const description =
   'Sprunki를 기반으로 한 다양한 Mod, 스핀오프, 콜라보 작품들을 모아둔 페이지입니다. 브라우저에서 바로 무료로 플레이해 보세요.';
-const canonicalUrl = 'https://www.playfiddlebops.com/ko/sprunki-mod/';
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site).toString();
 const ogImage = 'https://www.playfiddlebops.com/tw.jpg';
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Game',
-  name: title,
+  name: baseTitle,
   alternateName: 'playfiddlebops.com',
   url: canonicalUrl,
   description
@@ -28,7 +31,7 @@ const jsonLd = {
   ogType="website"
   twitterCard="summary_large_image"
   jsonLd={jsonLd}
-  hreflangLinks={SPRUNKI_MOD_HREFLANG}
+  hreflangLinks={hreflangLinks}
   lang="ko"
 >
   <section class="games">

@@ -1,17 +1,18 @@
 ---
 locale: fr
-urlstr: sprunki-mustard
-title: Sprunki Mustard - Jouer à Sprunki Mustard en ligne
+title: Sprunki Mustard
+seoTitle: Jouez à Sprunki Mustard en ligne gratuitement | FiddleBops
 description: >-
   Dans Sprunki Mustard, tous les personnages adoptent une palette jaune
   moutarde, donnant au Mod une ambiance étrange et légèrement horrifique, tout
   en conservant le cœur musical de Sprunki.
 iframeSrc: 'https://html-classic.itch.zone/html/14281578/index.html'
 thumbnail: /new-images/thumbnails/sprunki-mustard.png
+urlstr: sprunki-mustard
 tags:
   - sprunki mustard
 score: 3.9/5  (827 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Qu’est‑ce que Sprunki Mustard ?

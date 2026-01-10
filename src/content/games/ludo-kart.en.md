@@ -1,19 +1,20 @@
 ---
 locale: en
 title: Ludo Kart
+seoTitle: Play Ludo Kart Online Free | FiddleBops
 description: >-
   Ludo Kart is a breezy dice‑and‑race board game — roll, move tokens, and be the
   first to reach home.
 iframeSrc: 'https://35q41h2gp6dd8.h5games.usercontent.goog/v/6q7tggnmscsj8/'
 thumbnail: /new-images/thumbnails/ludo-kart.png
 urlstr: ludo-kart
-score: 3.8/5  (1542 votes)
 tags:
   - casual
   - thinky
   - 2-player
+score: 3.8/5  (1542 votes)
 developer: ''
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

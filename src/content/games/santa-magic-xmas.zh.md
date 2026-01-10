@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: santa-magic-xmas
 title: 《Santa Magic Xmas》圣诞老人的魔法礼物
+seoTitle: 免费在线玩 《Santa Magic Xmas》圣诞老人的魔法礼物 | FiddleBops
 description: 《Santa Magic Xmas》是一款充满节日气息的三消解谜游戏！通过匹配色彩缤纷的圣诞装饰品并清空棋盘，帮助圣诞老人送出礼物，感受圣诞魔法。
 iframeSrc: 'https://santamagicxmas.h5games.usercontent.goog/v/27gpp489kce80/'
 thumbnail: /new-images/thumbnails/santa-magic-xmas.png
+urlstr: santa-magic-xmas
 tags:
   - puzzle
   - casual

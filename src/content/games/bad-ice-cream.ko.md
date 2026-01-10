@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: bad-ice-cream
 title: Bad Ice-Cream 배드 아이스크림
+seoTitle: Bad Ice-Cream 배드 아이스크림 무료 온라인 플레이 | FiddleBops
 description: >-
   시리즈의 첫 작품 Bad Ice-Cream입니다. 얼음 블록을 만들고 부수며 적을 피해 과일을 모두 모아, 40개의 얼음 미로 스테이지를
   정복해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x4/index.html
 thumbnail: /new-images/thumbnails/bad-ice-cream.jpg
+urlstr: bad-ice-cream
 tags:
   - casual
   - puzzle

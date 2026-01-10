@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: clash-of-warriors
 title: Clash of Warriors
+seoTitle: Juega a Clash of Warriors en línea gratis | FiddleBops
 description: >-
   Clash of Warriors condensa los duelos de cartas en rondas tácticas muy
   compactas: curva bien tus jugadas, intercambia con eficiencia y supera a tus
   rivales con mejores decisiones.
 iframeSrc: 'https://7t89fh6irdv0g.h5games.usercontent.goog/v/5gpd6kf06hr8g/'
 thumbnail: /new-images/thumbnails/clash-of-warriors.png
+urlstr: clash-of-warriors
 tags:
   - card
   - thinky

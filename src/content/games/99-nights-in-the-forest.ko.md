@@ -1,13 +1,13 @@
 ---
 locale: ko
-urlstr: 99-nights-in-the-forest
-title: '99 Nights in the Forest 99 나이츠 인 더 포레스트'
+title: 99 Nights in the Forest 99 나이츠 인 더 포레스트
+seoTitle: 99 Nights in the Forest 99 나이츠 인 더 포레스트 무료 온라인 플레이 | FiddleBops
 description: >-
-  99 Nights in the Forest는 저주받은 숲에서 99일 밤을 버티는 1인칭 생존
-  공포 게임입니다. 자원을 모아 오두막을 강화하고 매일 밤 몰려오는 괴물을
-  막아내세요.
+  99 Nights in the Forest는 저주받은 숲에서 99일 밤을 버티는 1인칭 생존 공포 게임입니다. 자원을 모아 오두막을 강화하고
+  매일 밤 몰려오는 괴물을 막아내세요.
 iframeSrc: 'https://st.8games.net/7/8g/igra-99-nochej-v-lesu-101-original/'
 thumbnail: /new-images/thumbnails/99-nights-in-the-forest.webp
+urlstr: 99-nights-in-the-forest
 tags:
   - horror
   - survival

@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: tripeaks-solitaire
 title: Tripeaks Solitaire
+seoTitle: Jouez à Tripeaks Solitaire en ligne gratuitement | FiddleBops
 description: >-
   Tripeaks Solitaire : un jeu de cartes rapide où tu dois associer des cartes
   d'un rang supérieur ou inférieur pour dégager les trois pics.
 iframeSrc: 'https://tripeakssolitaire.h5games.usercontent.goog/v/4v3d7g06n6rug/'
 thumbnail: /new-images/thumbnails/tripeaks-solitaire.png
+urlstr: tripeaks-solitaire
 tags:
   - card
   - puzzle

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: word-search-2
 title: Word Search 워드 서치
+seoTitle: Word Search 워드 서치 무료 온라인 플레이 | FiddleBops
 description: >-
   알파벳 격자 속에 숨겨진 단어를 찾는 클래식 워드 서치 퍼즐입니다. 가로, 세로, 대각선, 심지어 거꾸로 숨은 단어까지 모두 찾아 리스트를
   완성해 보세요.
 iframeSrc: 'https://wordsearch.h5games.usercontent.goog/v/6abe3eefqt368/'
 thumbnail: /new-images/thumbnails/word-search-2.jpg
+urlstr: word-search-2
 tags:
   - puzzle
   - thinky

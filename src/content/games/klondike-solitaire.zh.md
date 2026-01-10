@@ -1,13 +1,14 @@
 ---
 locale: zh
-urlstr: klondike-solitaire
 title: 《Klondike Solitaire》克朗代克纸牌
+seoTitle: 免费在线玩 《Klondike Solitaire》克朗代克纸牌 | FiddleBops
 description: >-
   《Klondike Solitaire》是最经典的单人纸牌玩法之一：在牌桌上按花色从 A 到 K
   建立基础堆，并在牌阵中按红黑交替、点数递减的规则移动卡牌，可选择抽一张或三张模式。
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-klondike-solitaire/
 thumbnail: /new-images/thumbnails/klondike-solitaire.jpg
+urlstr: klondike-solitaire
 tags:
   - solitaire
   - card

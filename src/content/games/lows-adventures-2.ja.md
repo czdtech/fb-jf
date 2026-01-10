@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Low's Adventures 2
+seoTitle: 無料でLow's Adventures 2をオンラインでプレイ | FiddleBops
 description: レトロプラットフォーマー続編：コンパクトなステージを走ってジャンプし、キーと秘密を見つけ、タイムチャレンジを打ち負かします。
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/489323722/index.html'
 thumbnail: /new-images/thumbnails/lows-adventures-2.jpg
 urlstr: lows-adventures-2
-score: 3.6/5  (671 votes)
 tags:
   - platformer
   - adventure
+score: 3.6/5  (671 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

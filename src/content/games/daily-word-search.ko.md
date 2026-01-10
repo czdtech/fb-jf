@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: daily-word-search
 title: Daily Word Search 데일리 낱말 찾기
+seoTitle: Daily Word Search 데일리 낱말 찾기 무료 온라인 플레이 | FiddleBops
 description: >-
   격자 속에 숨겨진 영어 단어들을 찾는 Daily Word Search입니다. 가로·세로·대각선 방향으로 단어를 이어 보고, 타이머 모드와
   휴식 모드 중 원하는 방식으로 즐겨 보세요.
 iframeSrc: 'https://1i20ele8n07u0.h5games.usercontent.goog/v/1n8osodo9gs80/'
 thumbnail: /new-images/thumbnails/daily-word-search.png
+urlstr: daily-word-search
 tags:
   - puzzle
   - thinky

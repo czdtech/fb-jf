@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Tricky Puzzles
+seoTitle: 無料でTricky Puzzlesをオンラインでプレイ | FiddleBops
 description: Tricky Puzzlesは、トリッキーなパズルゲームです。創造的思考で難しいパズルを解きましょう。
 iframeSrc: 'https://rebemanae.github.io/brain-test-tricky-puzzles/'
 thumbnail: /new-images/thumbnails/tricky-puzzles.jpg
 urlstr: tricky-puzzles
-score: 4.1/5  (713 votes)
 tags:
   - puzzle
   - brain
   - logic
-locale: ja
+score: 4.1/5  (713 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

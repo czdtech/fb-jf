@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Hide And Seek! (かくれんぼ！)
+seoTitle: 無料でHide And Seek! (かくれんぼ！)をオンラインでプレイ | FiddleBops
 description: カジュアルなステルス鬼ごっこ：隠れる側はNPCに紛れてアイテムを集め、探す側（鬼）は視界やダッシュを使って時間切れになる前に全員捕まえましょう。
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/YWRIxUAXudnq4HO1/rvvASMiM/239942ce1a1349f6bcc9d312b32c5c3b/
 thumbnail: /new-images/thumbnails/hide-and-seek.jpg
 urlstr: hide-and-seek
-score: 4.5/5  (917 votes)
 tags:
   - stealth
   - arcade
+score: 4.5/5  (917 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

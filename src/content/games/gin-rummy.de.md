@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: gin-rummy
 title: Gin Rummy
+seoTitle: Spiele Gin Rummy kostenlos online | FiddleBops
 description: >-
   Gin Rummy ist ein klassisches Zwei-Personen-Kartenspiel aus der Rummy-Familie.
   Bilde Sätze und Straßen, reduziere deinen "Deadwood"-Wert (unpassende Karten)
   und klopfe im richtigen Moment, um mehr Punkte als dein Gegner zu erzielen.
 iframeSrc: 'https://ginrummy.h5games.usercontent.goog/v/1sj72j2nsfin0/'
 thumbnail: /new-images/thumbnails/gin-rummy.png
+urlstr: gin-rummy
 tags:
   - card
   - puzzle

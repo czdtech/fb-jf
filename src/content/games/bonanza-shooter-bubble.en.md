@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Bonanza Shooter Bubble"
-description: "Bonanza Shooter Bubble is a colorful bubble‑shooter — bank angles, manage colors, and drop big clusters for points."
-iframeSrc: "https://65bijcm9l375g.h5games.usercontent.goog/v/6v521t1km2i30/"
+title: Bonanza Shooter Bubble
+seoTitle: Play Bonanza Shooter Bubble Online Free | FiddleBops
+description: >-
+  Bonanza Shooter Bubble is a colorful bubble‑shooter — bank angles, manage
+  colors, and drop big clusters for points.
+iframeSrc: 'https://65bijcm9l375g.h5games.usercontent.goog/v/6v521t1km2i30/'
 thumbnail: /new-images/thumbnails/bonanza-shooter-bubble.jpg
-urlstr: "bonanza-shooter-bubble"
-score: "4.1/5  (1937 votes)"
-tags: ["puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: bonanza-shooter-bubble
+tags:
+  - puzzle
+  - casual
+score: 4.1/5  (1937 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

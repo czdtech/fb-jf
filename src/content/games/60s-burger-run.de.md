@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: 60s-burger-run
 title: 60 Seconds Burger Run
+seoTitle: Spiele 60 Seconds Burger Run kostenlos online | FiddleBops
 description: >-
   60 Seconds Burger Run ist ein buntes Speed‑Run‑Plattformspiel, in dem du in
   nur 60 Sekunden zur schließenden Burger‑Bude rennen musst. Präge dir die
@@ -9,6 +9,7 @@ description: >-
   bevor der Timer abläuft.
 iframeSrc: 'https://www.playfiddlebops.com/embed/60s-burger-run/index.html'
 thumbnail: /new-images/thumbnails/60s-burger-run.jpg
+urlstr: 60s-burger-run
 tags:
   - 60 seconds burger run
 score: 4.6/5  (1344 votes)

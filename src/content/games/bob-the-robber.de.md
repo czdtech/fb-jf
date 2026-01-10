@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: bob-the-robber
 title: Bob the Robber
+seoTitle: Spiele Bob the Robber kostenlos online | FiddleBops
 description: >-
   Werde zum Meisterdieb in Bob the Robber. Schleiche an Wachen vorbei, schalte
   Kameras aus, knacke Tresore und klaue die Beute in diesem fordernden
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://app-190385.games.s3.yandex.net/190385/i7ty94goiswe8ohxdysos1uzmur0yfwk/index.html
 thumbnail: /new-images/thumbnails/bob-the-robber.jpg
+urlstr: bob-the-robber
 tags:
   - stealth
   - puzzle

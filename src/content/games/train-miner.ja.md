@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Train Miner
+seoTitle: 無料でTrain Minerをオンラインでプレイ | FiddleBops
 description: Train Minerは、列車と採掘を組み合わせたゲームです。資源を集めて列車をアップグレードしましょう。
 iframeSrc: 'https://7r2vmm5fqv830.h5games.usercontent.goog/v/3ubj960lc0t4o/'
 thumbnail: /new-images/thumbnails/train-miner.png
 urlstr: train-miner
-score: 4.1/5  (1970 votes)
 tags:
   - simulation
   - mining
   - upgrade
-locale: ja
+score: 4.1/5  (1970 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

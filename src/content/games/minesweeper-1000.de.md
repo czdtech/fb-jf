@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: minesweeper-1000
 title: Minesweeper 1000
+seoTitle: Spiele Minesweeper 1000 kostenlos online | FiddleBops
 description: >-
   Minesweeper 1000 frischt den Klassiker auf: Lies die Zahlenlogik, markiere
   Bomben und räume riesige Felder mit effizienten Techniken.
 iframeSrc: 'https://5gsana77eub30.h5games.usercontent.goog/v/7363vv8e5mrb8/'
 thumbnail: /new-images/thumbnails/minesweeper-1000.png
+urlstr: minesweeper-1000
 tags:
   - puzzle
   - thinky

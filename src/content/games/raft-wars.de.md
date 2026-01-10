@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: raft-wars
 title: Raft Wars
+seoTitle: Spiele Raft Wars kostenlos online | FiddleBops
 description: >-
   Raft Wars ist ein rundenbasiertes Taktik-Shooter, in dem du zwei Brüdern
   hilfst, ihren Schatz gegen Piraten und Wikinger zu verteidigen – mit
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210301/jj8/index.html
 thumbnail: /new-images/thumbnails/raft-wars.jpg
+urlstr: raft-wars
 tags:
   - strategy
   - shooting

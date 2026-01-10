@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: tumble-towers
 title: 《Tumble Towers》摇摇欲坠的高塔
+seoTitle: 免费在线玩 《Tumble Towers》摇摇欲坠的高塔 | FiddleBops
 description: 《Tumble Towers》是一款物理堆叠搭塔游戏。通过瞄准与投放方块，控制重心与悬挑，搭出既高又稳的高塔并扛住落地后的晃动检验。
 iframeSrc: 'https://786ndsslg99r8.h5games.usercontent.goog/v/70bavan56u08g/'
 thumbnail: /new-images/thumbnails/tumble-towers.png
+urlstr: tumble-towers
 tags:
   - physics
   - puzzle

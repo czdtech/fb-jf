@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: smash-karts
 title: 《Smash Karts》武装卡丁车大乱斗
+seoTitle: 免费在线玩 《Smash Karts》武装卡丁车大乱斗 | FiddleBops
 description: 《Smash Karts》是一款多人实时卡丁车对战游戏。驾驶小车在立体场景中飞驰，拾取武器箱，用火箭、地雷等各种道具互相攻击，争夺排行榜第一。
 iframeSrc: 'https://webgltest-17af1.firebaseapp.com/'
 thumbnail: /new-images/thumbnails/smash-karts.jpg
+urlstr: smash-karts
 tags:
   - kart
   - multiplayer

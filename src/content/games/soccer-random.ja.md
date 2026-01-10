@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Soccer Random
+seoTitle: 無料でSoccer Randomをオンラインでプレイ | FiddleBops
 description: Soccer Randomは物理ベースのサッカーゲームです。ワンボタンでジャンプ/キックし、先に5ゴール決めた方が勝ちになります。
 iframeSrc: >-
   https://app-197306.games.s3.yandex.net/197306/b1dbvmcde0oog4ebj00rinxr3e367fl4/index.html
 thumbnail: /new-images/thumbnails/soccer-random.jpg
 urlstr: soccer-random
-score: 4.1/5  (594 votes)
 tags:
   - 2-player
   - physics
   - sports
+score: 4.1/5  (594 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

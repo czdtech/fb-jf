@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: medieval-solitaire
-title: Medieval Solitaire - Klondike clásico con temática medieval
+title: Medieval Solitaire
+seoTitle: Juega a Medieval Solitaire en línea gratis | FiddleBops
 description: >-
   Viaja al pasado con Medieval Solitaire, un solitario Klondike clásico con
   estética medieval. Levanta las pilas de base de As a Rey y limpia el tapete en
   este puzle estratégico.
 iframeSrc: 'https://7se96a0j4qu80.h5games.usercontent.goog/v/1iv1d4soimc78/'
 thumbnail: /new-images/thumbnails/medieval-solitaire.png
+urlstr: medieval-solitaire
 tags:
   - card
   - puzzle

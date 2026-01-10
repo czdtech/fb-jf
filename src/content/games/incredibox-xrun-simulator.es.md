@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: incredibox-xrun-simulator
-title: "Incredibox Xrun Simulator"
+title: Incredibox Xrun Simulator
+seoTitle: Juega a Incredibox Xrun Simulator en línea gratis | FiddleBops
 description: >-
   Explora "Incredibox Xrun Simulator", un mod fan-made de alta energía. Esta
   guía detalla su temática EDM y dubstep, la jugabilidad en rejilla y consejos
   para crear mezclas y loops electrónicos intensos.
 iframeSrc: 'https://turbowarp.org/740478297/embed'
 thumbnail: /new-images/thumbnails/incredibox-xrun-simulator.png
+urlstr: incredibox-xrun-simulator
 tags:
   - music
   - electronic

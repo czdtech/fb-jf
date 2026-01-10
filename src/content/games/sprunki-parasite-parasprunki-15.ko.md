@@ -1,17 +1,17 @@
 ---
 locale: ko
-urlstr: sprunki-parasite-parasprunki-15
-title: 'Incredibox Sprunksters 인크레디박스 스프렁크스터즈'
+title: Incredibox Sprunksters 인크레디박스 스프렁크스터즈
+seoTitle: Incredibox Sprunksters 인크레디박스 스프렁크스터즈 무료 온라인 플레이 | FiddleBops
 description: >-
-  Incredibox Sprunksters, 즉 Sprunki Parasite ParaSprunki 15는 스프룽키 세계를
-  공포 테마로 뒤틀어 놓은 팬 메이드 모드입니다. 기괴하게 변한 캐릭터와
-  글리치 사운드로, 익숙한 음악 제작을 섬뜩한 분위기의 경험으로 바꿔 줍니다.
+  Incredibox Sprunksters, 즉 Sprunki Parasite ParaSprunki 15는 스프룽키 세계를 공포 테마로 뒤틀어
+  놓은 팬 메이드 모드입니다. 기괴하게 변한 캐릭터와 글리치 사운드로, 익숙한 음악 제작을 섬뜩한 분위기의 경험으로 바꿔 줍니다.
 iframeSrc: 'https://kdata1.com/2025/03/paraSprunki-update-15-0-part-222/'
 thumbnail: /new-images/thumbnails/sprunki-parasite-parasprunki-15.png
+urlstr: sprunki-parasite-parasprunki-15
 tags:
   - incredibox sprunksters
 score: 4.3/5  (372 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

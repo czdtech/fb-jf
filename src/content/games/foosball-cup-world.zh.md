@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: foosball-cup-world
 title: Foosball Cup World 桌上足球世界杯
+seoTitle: 免费在线玩 Foosball Cup World 桌上足球世界杯 | FiddleBops
 description: Foosball Cup World 带来节奏快速的桌上足球体验——利用角度射门、掌握旋杆时机， 聪明防守，在短兵相接的比赛中取胜。
 iframeSrc: 'https://7ak26cf4bf850.h5games.usercontent.goog/v/6jmmp78dbnp50/'
 thumbnail: /new-images/thumbnails/foosball-cup-world.png
+urlstr: foosball-cup-world
 tags:
   - sports
   - soccer

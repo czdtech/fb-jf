@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Cricket World Cup クリケット・ワールド・カップ
+seoTitle: 無料でCricket World Cup クリケット・ワールド・カップをオンラインでプレイ | FiddleBops
 description: 「Cricket World Cup」で世界の頂点を目指せ。ラインと長さを読み、ゴロとフライを使い分け、守備の隙間を突いて勝利を掴み取るバッティングゲーム。
 iframeSrc: 'https://5ret6v2c94q4g.h5games.usercontent.goog/v/09j66svc50570/'
 thumbnail: /new-images/thumbnails/cricket-world-cup.png
 urlstr: cricket-world-cup
-score: 4.1/5  (1998 votes)
 tags:
   - sports
   - casual
+score: 4.1/5  (1998 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

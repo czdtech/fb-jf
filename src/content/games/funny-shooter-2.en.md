@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Funny Shooter 2"
-description: "Wave‑based FPS: blast bizarre enemies with an expanding arsenal, earn coins, and upgrade weapons between stages." 
-iframeSrc: "https://bitlifeonline.github.io/class2623/funny-shooter-2/"
+title: Funny Shooter 2
+seoTitle: Play Funny Shooter 2 Online Free | FiddleBops
+description: >-
+  Wave‑based FPS: blast bizarre enemies with an expanding arsenal, earn coins,
+  and upgrade weapons between stages.
+iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter-2/'
 thumbnail: /new-images/thumbnails/funny-shooter-2.jpg
-urlstr: "funny-shooter-2"
-score: "3.8/5  (514 votes)"
-tags: ["shooting", "fps"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: funny-shooter-2
+tags:
+  - shooting
+  - fps
+score: 3.8/5  (514 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: onet-connect-classic
 title: 《Onet Connect Classic》经典连连看
+seoTitle: 免费在线玩 《Onet Connect Classic》经典连连看 | FiddleBops
 description: 在《Onet Connect Classic》中测试你的眼力与速度！在时间耗尽前，找出并消除所有可以通过不超过两次转弯连接的相同图案方块，清空整个棋盘。
 iframeSrc: 'https://onetconnectclassic.h5games.usercontent.goog/v/0q8248mt11l3g/'
 thumbnail: /new-images/thumbnails/onet-connect-classic.png
+urlstr: onet-connect-classic
 tags:
   - puzzle
   - casual

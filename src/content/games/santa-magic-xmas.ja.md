@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Santa Magic Xmas
+seoTitle: 無料でSanta Magic Xmasをオンラインでプレイ | FiddleBops
 description: Santa Magic Xmasはサンタのアドベンチャーゲームです。魔法を使いながらプレゼントを配達し、時間内のクリアを目指します。
 iframeSrc: 'https://santamagicxmas.h5games.usercontent.goog/v/27gpp489kce80/'
 thumbnail: /new-images/thumbnails/santa-magic-xmas.png
 urlstr: santa-magic-xmas
-score: 4.4/5  (2250 votes)
 tags:
   - casual
   - adventure
+score: 4.4/5  (2250 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

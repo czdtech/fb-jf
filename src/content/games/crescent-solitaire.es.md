@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: crescent-solitaire
 title: Crescent Solitaire
+seoTitle: Juega a Crescent Solitaire en línea gratis | FiddleBops
 description: >-
   Crescent Solitaire es una relajante variante de solitario con dos barajas:
   mueve cartas entre los semicírculos para construir las bases y despejar el
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/crescent-solitaire-phaser/
 thumbnail: /new-images/thumbnails/crescent-solitaire.jpg
+urlstr: crescent-solitaire
 tags:
   - solitaire
   - card

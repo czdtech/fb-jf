@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: giant-attack
 title: Giant Attack 거대 괴물 공격
+seoTitle: Giant Attack 거대 괴물 공격 무료 온라인 플레이 | FiddleBops
 description: >-
   전장에서 동료들을 모아 몸집과 공격력을 키우고, 거대한 괴물에게 강력한 투척 공격을 퍼붓는 액션 아케이드 게임입니다. 피격을 피하며 최대한
   크게 성장해 보세요.
 iframeSrc: 'https://5699ri02mr840.h5games.usercontent.goog/v/0dov2qbpnafb0/'
 thumbnail: /new-images/thumbnails/giant-attack.png
+urlstr: giant-attack
 tags:
   - action
   - casual

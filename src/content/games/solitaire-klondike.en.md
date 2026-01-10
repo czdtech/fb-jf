@@ -1,15 +1,23 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Solitaire Klondike"
-description: "Play the classic game of Klondike Solitaire, the most popular version of solitaire. The goal is to move all 52 cards into the four foundation piles by suit, in ascending order from Ace to King. Strategically move cards on the tableau to uncover new possibilities and complete the game."
-iframeSrc: "https://games.cdn.famobi.com/html5games/s/solitaire-klondike/v480/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref="
+title: Solitaire Klondike
+seoTitle: Play Solitaire Klondike Online Free | FiddleBops
+description: >-
+  Play the classic game of Klondike Solitaire, the most popular version of
+  solitaire. The goal is to move all 52 cards into the four foundation piles by
+  suit, in ascending order from Ace to King. Strategically move cards on the
+  tableau to uncover new possibilities and complete the game.
+iframeSrc: >-
+  https://games.cdn.famobi.com/html5games/s/solitaire-klondike/v480/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref=
 thumbnail: /new-images/thumbnails/solitaire-klondike.jpg
-urlstr: "solitaire-klondike"
-score: "3.9/5  (653 votes)"
-tags: ["card-game", "classic", "strategy"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: solitaire-klondike
+tags:
+  - card-game
+  - classic
+  - strategy
+score: 3.9/5  (653 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

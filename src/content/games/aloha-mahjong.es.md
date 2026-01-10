@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: aloha-mahjong
-title: "Aloha Mahjong mahjong relajante"
+title: Aloha Mahjong mahjong relajante
+seoTitle: Juega a Aloha Mahjong mahjong relajante en línea gratis | FiddleBops
 description: >-
   Aloha Mahjong es un mahjong solitario relajante: encuentra parejas de fichas,
   despeja capas del tablero y disfruta de un ambiente de isla tropical mientras
   resuelves cada disposición.
 iframeSrc: 'https://02ef7fb7guapg.h5games.usercontent.goog/v/13knu9k9rm8go/'
 thumbnail: /new-images/thumbnails/aloha-mahjong.jpg
+urlstr: aloha-mahjong
 tags:
   - mahjong
   - puzzle

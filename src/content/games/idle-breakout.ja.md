@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Idle Breakout
+seoTitle: 無料でIdle Breakoutをオンラインでプレイ | FiddleBops
 description: 放置ゲーム＋ブロック崩しの融合：クリックでブロックを壊し、自動ボールやタレットを購入し、プレステージで倍率を得て、アップグレードを最適化しましょう。
 iframeSrc: 'https://ubg98.github.io/IdleBreakout/'
 thumbnail: /new-images/thumbnails/idle-breakout.jpg
 urlstr: idle-breakout
-score: 4.3/5  (1151 votes)
 tags:
   - idle
   - clicker
+score: 4.3/5  (1151 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

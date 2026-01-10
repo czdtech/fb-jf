@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Paper Minecraft
+seoTitle: 無料でPaper Minecraftをオンラインでプレイ | FiddleBops
 description: Paper MinecraftはMinecraftを2D風にしたサンドボックスゲームです。採掘やクラフト、建築をしながら探索します。
 iframeSrc: 'https://scratch.mit.edu/projects/10128407/embed'
 thumbnail: /new-images/thumbnails/paper-minecraft.jpg
 urlstr: paper-minecraft
-score: 3.6/5  (848 votes)
 tags:
   - adventure
   - sandbox
   - casual
+score: 3.6/5  (848 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

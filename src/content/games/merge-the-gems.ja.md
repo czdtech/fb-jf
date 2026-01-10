@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Merge the Gems
+seoTitle: 無料でMerge the Gemsをオンラインでプレイ | FiddleBops
 description: Merge the Gemsは宝石をマージして育てるパズルです。盤面を整理しながら合体を重ね、上位の宝石を作ります。
 iframeSrc: 'https://mergethegems.h5games.usercontent.goog/v/5rut2fhhuqb1g/'
 thumbnail: /new-images/thumbnails/merge-the-gems.jpg
 urlstr: merge-the-gems
-score: 4.4/5  (2400 votes)
 tags:
   - puzzle
   - casual
+score: 4.4/5  (2400 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

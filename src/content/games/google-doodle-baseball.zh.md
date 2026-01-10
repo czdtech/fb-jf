@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: google-doodle-baseball
 title: Google Doodle Baseball 谷歌涂鸦棒球
+seoTitle: 免费在线玩 Google Doodle Baseball 谷歌涂鸦棒球 | FiddleBops
 description: 改编自 Google 7 月 4 日节日涂鸦的轻量棒球游戏：抓准挥棒时机，把球打向空档， 在三个出局前尽量多得分。
 iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
 thumbnail: /new-images/thumbnails/google-doodle-baseball.jpg
+urlstr: google-doodle-baseball
 tags:
   - sports
   - arcade

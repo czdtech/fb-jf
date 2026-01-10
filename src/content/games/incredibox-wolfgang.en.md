@@ -1,15 +1,22 @@
 ---
 locale: en
-modType: incredibox
-title: "Incredibox Wolfgang"
-description: "Explore 'Incredibox Wolfgang,' the fan-made mod celebrating classical music and Mozart. This guide details its orchestral sound palette, gameplay for composing elegant pieces, and how to unlock its 18th-century themed bonuses."
-iframeSrc: "https://turbowarp.org/943197191/embed"
+title: Incredibox Wolfgang
+seoTitle: Play Incredibox Wolfgang Online Free | FiddleBops
+description: >-
+  Explore 'Incredibox Wolfgang,' the fan-made mod celebrating classical music
+  and Mozart. This guide details its orchestral sound palette, gameplay for
+  composing elegant pieces, and how to unlock its 18th-century themed bonuses.
+iframeSrc: 'https://turbowarp.org/943197191/embed'
 thumbnail: /new-images/thumbnails/incredibox-wolfgang.png
-urlstr: "incredibox-wolfgang"
-score: "4.8/5 (2451 votes)"
-tags: ["music", "classical", "rhythm"]
-developer: ""
-releaseDate: 2025-10-10
+urlstr: incredibox-wolfgang
+tags:
+  - music
+  - classical
+  - rhythm
+modType: incredibox
+score: 4.8/5 (2451 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 

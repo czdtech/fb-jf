@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: getting-over-it
 title: Getting over it
+seoTitle: Spiele Getting over it kostenlos online | FiddleBops
 description: >-
   Getting Over It ist eine Kletter-Herausforderung mit Hammerphysik: Schwinge,
   pogo und ziehe einen Mann im Kessel über surreale Hindernisse – jede kleine
   Unachtsamkeit kann dich weit zurückwerfen.
 iframeSrc: 'https://ubg77.github.io/fix/getting-over-it/'
 thumbnail: /new-images/thumbnails/getting-over-it.jpg
+urlstr: getting-over-it
 tags:
   - platformer
   - physics

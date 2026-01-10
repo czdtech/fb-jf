@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: electron-dash
 title: Electron Dash
+seoTitle: Jouez à Electron Dash en ligne gratuitement | FiddleBops
 description: "Electron Dash est un runner futuriste dans un tunnel\_: cours, saute et téléporte‑toi de plateforme en plateforme sans tomber dans le vide."
 iframeSrc: 'https://slope-game.github.io/electron-dash/'
 thumbnail: /new-images/thumbnails/electron-dash.jpg
+urlstr: electron-dash
 tags:
   - action
   - casual

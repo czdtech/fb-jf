@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: bloons-td-3
 title: Bloons TD 3
+seoTitle: Jouez à Bloons TD 3 en ligne gratuitement | FiddleBops
 description: "Bloons TD 3 ajoute de nouvelles tours, le Monkey Beacon et le premier MOAB\_: construis une défense équilibrée et prépare‑toi pour le dirigeable final."
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-3.html'
 thumbnail: /new-images/thumbnails/bloons-td-3.jpg
+urlstr: bloons-td-3
 tags:
   - casual
   - strategy

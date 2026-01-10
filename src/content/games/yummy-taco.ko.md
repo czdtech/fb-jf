@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: yummy-taco
 title: Yummy Taco 야미 타코
+seoTitle: Yummy Taco 야미 타코 무료 온라인 플레이 | FiddleBops
 description: >-
   분주한 타코 가게의 셰프가 되어 손님에게 맛있는 타코를 만들어 주는 요리 시뮬레이션 게임입니다. 주문을 빠르게 확인하고 신선한 재료를 골라
   조합해, 시간 안에 정확한 타코를 완성해 보세요.
 iframeSrc: >-
   https://g2.igroutka.ru/games/7/K6bHUF2pdiz30Aam/4399swf/upload_swf/ftp40/chenling/20220916/6/
 thumbnail: /new-images/thumbnails/yummy-taco.jpg
+urlstr: yummy-taco
 tags:
   - cooking
   - simulation

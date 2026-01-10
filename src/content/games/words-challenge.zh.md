@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: words-challenge
 title: Words Challenge：多合一文字挑战
+seoTitle: 免费在线玩 Words Challenge：多合一文字挑战 | FiddleBops
 description: >-
   《Words Challenge》把多种文字玩法混合在一起：变位拼词、小型填字、 以及节奏紧凑的文字问答。在轻度计时压力下，同时考验你的词根词缀感、
   字母频率直觉和排除推理能力。
 iframeSrc: 'https://60p1t41kumli8.h5games.usercontent.goog/v/7pss7j2tdq7io/'
 thumbnail: /new-images/thumbnails/words-challenge.jpg
+urlstr: words-challenge
 tags:
   - puzzle
   - thinky

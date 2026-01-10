@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: spider-solitaire-2
 title: Spider Solitaire 스파이더 솔리테어
+seoTitle: Spider Solitaire 스파이더 솔리테어 무료 온라인 플레이 | FiddleBops
 description: >-
   Spider Solitaire는 높은 난이도와 깊은 전략성으로 유명한 솔리테어 변형 게임입니다. 같은 무늬의 카드를 K에서 A까지
   내림차순으로 정렬해 더미를 비워 나가는 것이 목표로, 신중한 계획과 장기적인 수 읽기가 요구됩니다.
 iframeSrc: 'https://spidersolitaire.h5games.usercontent.goog/v/42fd7cuq80rao/'
 thumbnail: /new-images/thumbnails/spider-solitaire-2.png
+urlstr: spider-solitaire-2
 tags:
   - card
   - puzzle

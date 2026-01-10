@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: classic-solitaire
 title: Classic Solitaire
+seoTitle: Juega a Classic Solitaire en línea gratis | FiddleBops
 description: >-
   Disfruta del solitario clásico (Klondike). Mueve cartas con estrategia entre
   el tablero y las bases para ordenar todos los palos en orden ascendente.
 iframeSrc: 'https://6uj90l2koon6g.h5games.usercontent.goog/v/2a72i89u7qfe8/'
 thumbnail: /new-images/thumbnails/classic-solitaire.png
+urlstr: classic-solitaire
 tags:
   - card
   - puzzle

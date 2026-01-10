@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Learn To Fly"
-description: "Penguin launch upgrade game: adjust launch angle, glide and boost, earn cash, and buy parts to fly farther each day." 
-iframeSrc: "https://ad-freegames.github.io/flash/game/learn-to-fly.html"
+title: Learn To Fly
+seoTitle: Play Learn To Fly Online Free | FiddleBops
+description: >-
+  Penguin launch upgrade game: adjust launch angle, glide and boost, earn cash,
+  and buy parts to fly farther each day.
+iframeSrc: 'https://ad-freegames.github.io/flash/game/learn-to-fly.html'
 thumbnail: /new-images/thumbnails/learn-to-fly.jpg
-urlstr: "learn-to-fly"
-score: "4.6/5  (132 votes)"
-tags: ["arcade", "upgrade"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: learn-to-fly
+tags:
+  - arcade
+  - upgrade
+score: 4.6/5  (132 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

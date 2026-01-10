@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Mini Crossword
+seoTitle: 無料でMini Crosswordをオンラインでプレイ | FiddleBops
 description: Mini Crosswordはコンパクトなクロスワードパズルです。手がかりを解き、短時間でグリッドを埋めます。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword-mini/'
 thumbnail: /new-images/thumbnails/mini-crossword.jpg
 urlstr: mini-crossword
-score: 4.9/5  (363 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.9/5  (363 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

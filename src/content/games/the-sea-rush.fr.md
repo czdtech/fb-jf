@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: the-sea-rush
 title: The Sea Rush
+seoTitle: Jouez à The Sea Rush en ligne gratuitement | FiddleBops
 description: >-
   The Sea Rush est un puzzle match-3 sous-marin : aligne trois animaux marins ou
   plus pour marquer des points et progresser dans l aventure.
 iframeSrc: 'https://thesearush.h5games.usercontent.goog/v/5ie3e5aghbr18/'
 thumbnail: /new-images/thumbnails/the-sea-rush.png
+urlstr: the-sea-rush
 tags:
   - adventure
   - action

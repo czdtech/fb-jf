@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: pokemon-fire-red
 title: Pokemon Fire Red 포켓몬 파이어레드
+seoTitle: Pokemon Fire Red 포켓몬 파이어레드 무료 온라인 플레이 | FiddleBops
 description: >-
   1세대 '포켓몬 레드'를 리메이크한 작품입니다. 관동 지방을 여행하며 포켓몬을 포획·육성하고, 로켓단의 음모를 저지하며 포켓몬 리그 챔피언에
   도전해 보세요.
 iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonred'
 thumbnail: /new-images/thumbnails/pokemon-fire-red.jpg
+urlstr: pokemon-fire-red
 tags:
   - rpg
   - adventure

@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Cube Tower キューブ・タワー
+seoTitle: 無料でCube Tower キューブ・タワーをオンラインでプレイ | FiddleBops
 description: 「Cube Tower」は迫りくる敵から中央のタワーを守る防衛ゲーム。戦略的に砲台を配置し、アップグレードしてウェーブを生き残れ。
 iframeSrc: 'https://cubetower.h5games.usercontent.goog/v/6k8tnoea28210/'
 thumbnail: /new-images/thumbnails/cube-tower.png
 urlstr: cube-tower
-score: 4.4/5 (1987 votes)
 tags:
   - tower Defense
   - action
   - thinky
+score: 4.4/5 (1987 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

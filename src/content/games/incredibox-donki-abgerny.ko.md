@@ -1,17 +1,17 @@
 ---
 locale: ko
-urlstr: incredibox-donki-abgerny
-title: "Incredibox Donki Abgerny 인크레디박스 돈키 아브게르니 온라인 플레이"
+title: Incredibox Donki Abgerny 인크레디박스 돈키 아브게르니
+seoTitle: Incredibox Donki Abgerny 인크레디박스 돈키 아브게르니 무료 온라인 플레이 | FiddleBops
 description: >-
-  Incredibox Donki Abgerny는 클래식한 Incredibox 플레이에 깊은 부족 리듬과 디저리두
-  사운드, 영혼을 울리는 챈트를 더한 버전입니다. 끊임없이 변하는 비트에 맞춰
-  비트박서들을 배치하며 고대 부족 의식 같은 음악을 만들어 보세요.
+  Incredibox Donki Abgerny는 클래식한 Incredibox 플레이에 깊은 부족 리듬과 디저리두 사운드, 영혼을 울리는 챈트를
+  더한 버전입니다. 끊임없이 변하는 비트에 맞춰 비트박서들을 배치하며 고대 부족 의식 같은 음악을 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1135326100/embed'
 thumbnail: /new-images/thumbnails/incredibox-donki-abgerny.png
+urlstr: incredibox-donki-abgerny
 tags:
   - incredibox donki abgerny
 score: 4.3/5  (154 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

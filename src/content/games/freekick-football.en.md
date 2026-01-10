@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Freekick Football"
-description: "Test your free-kick skills in Freekick Football. Aim, shoot, and score to become a free-kick master."
-iframeSrc: "https://freekickfootball.h5games.usercontent.goog/v/0lqeu7698mvk0/"
+title: Freekick Football
+seoTitle: Play Freekick Football Online Free | FiddleBops
+description: >-
+  Test your free-kick skills in Freekick Football. Aim, shoot, and score to
+  become a free-kick master.
+iframeSrc: 'https://freekickfootball.h5games.usercontent.goog/v/0lqeu7698mvk0/'
 thumbnail: /new-images/thumbnails/freekick-football.png
-urlstr: "freekick-football"
-score: "4.2/5 (1876 votes)"
-tags: ["soccer", "sports", "shooting"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: freekick-football
+tags:
+  - soccer
+  - sports
+  - shooting
+score: 4.2/5 (1876 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

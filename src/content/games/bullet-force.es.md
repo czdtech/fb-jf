@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: bullet-force
 title: Bullet Force
+seoTitle: Juega a Bullet Force en línea gratis | FiddleBops
 description: >-
   Lánzate a combates multijugador frenéticos en Bullet Force, un juego de
   disparos moderno en primera persona. Personaliza un enorme arsenal, domina
@@ -9,6 +9,7 @@ description: >-
   conexión contra bots.
 iframeSrc: 'https://ubg44.github.io/BulletForce/'
 thumbnail: /new-images/thumbnails/bullet-force.jpg
+urlstr: bullet-force
 tags:
   - action
   - shooting

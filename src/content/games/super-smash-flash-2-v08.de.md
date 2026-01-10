@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: super-smash-flash-2-v08
 title: 'Super Smash Flash 2: Demo v0.8b'
+seoTitle: 'Spiele Super Smash Flash 2: Demo v0.8b kostenlos online | FiddleBops'
 description: >-
   Die legendäre Fan-Prügelei ist mit Super Smash Flash 2 zurück: Wähle aus einem
   großen Roster ikonischer Figuren und liefere dir schnelle Plattformkämpfe –
   allein oder mit Freunden.
 iframeSrc: 'https://kdata1.com/games/SSF22/?kbhgames'
 thumbnail: /new-images/thumbnails/super-smash-flash-2-v08.jpg
+urlstr: super-smash-flash-2-v08
 tags:
   - fighting
   - platformer

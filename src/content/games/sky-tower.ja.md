@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Sky Tower
+seoTitle: 無料でSky Towerをオンラインでプレイ | FiddleBops
 description: Sky Towerはタワー構築ゲームです。ブロックを積み重ね、タワーを構築し、バランスを保ち、できるだけ高く構築します。
 iframeSrc: 'https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/'
 thumbnail: /new-images/thumbnails/sky-tower.png
 urlstr: sky-tower
-score: 3.9/5  (1731 votes)
 tags:
   - casual
   - thinky
+score: 3.9/5  (1731 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

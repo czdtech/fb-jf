@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: the-impossible-quiz
 title: The Impossible Quiz
+seoTitle: Jouez à The Impossible Quiz en ligne gratuitement | FiddleBops
 description: >-
   The Impossible Quiz est un jeu de quiz difficile et hilarant : reponds a des
   questions pieges, resous des puzzles illogiques et navigue entre bombes et
   skips.
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-impossible-quiz.html'
 thumbnail: /new-images/thumbnails/the-impossible-quiz.jpg
+urlstr: the-impossible-quiz
 tags:
   - quiz
   - puzzle

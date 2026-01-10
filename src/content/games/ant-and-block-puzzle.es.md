@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: ant-and-block-puzzle
-title: "Ant and Block Puzzle puzle de bloques"
+title: Ant and Block Puzzle puzle de bloques
+seoTitle: Juega a Ant and Block Puzzle puzle de bloques en línea gratis | FiddleBops
 description: >-
   Ant and Block Puzzle es un puzle relajado de colocar piezas. Encaja los
   bloques, completa filas o áreas para despejar espacio y evita quedarte sin
   movimientos gracias a un buen encajado.
 iframeSrc: 'https://6f5e193l1nhig.h5games.usercontent.goog/v/2bgjgmrog0tgg/'
 thumbnail: /new-images/thumbnails/ant-and-block-puzzle.png
+urlstr: ant-and-block-puzzle
 tags:
   - puzzle
   - thinky

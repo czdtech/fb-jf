@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: google-minesweeper
 title: Google Minesweeper 구글 지뢰찾기
+seoTitle: Google Minesweeper 구글 지뢰찾기 무료 온라인 플레이 | FiddleBops
 description: >-
   숫자 단서를 바탕으로 안전한 칸을 추리해 지뢰를 피하며 판을 전부 여는 고전 논리 퍼즐입니다. 깃발로 지뢰 위치를 표시하고, 한 번도
   폭발시키지 않고 전체 격자를 클리어해 보세요.
 iframeSrc: 'https://www.minesweepergoogle.com/gameapp.html'
 thumbnail: /new-images/thumbnails/google-minesweeper.jpg
+urlstr: google-minesweeper
 tags:
   - puzzle
   - logic

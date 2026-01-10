@@ -1,15 +1,11 @@
 ---
 locale: fr
-urlstr: splatoon-3
-title: 'Splatoon 3'
-description: >-
-  Plonge dans le monde haut en couleur de Splatoon 3 ! Dans ce shooter
-  nerveux, recouvre le terrain avec l’encre de ton équipe pour remporter la
-  victoire. Transforme‑toi en calamar pour nager dans ton encre, tendre des
-  embuscades et recharger ton arme. Maîtrise les déplacements et le jeu
-  d’équipe pour dominer le turf.
+title: Splatoon 3
+seoTitle: Jouez à Splatoon 3 en ligne gratuitement | FiddleBops
+description: "Plonge dans le monde haut en couleur de Splatoon 3\_! Dans ce shooter nerveux, recouvre le terrain avec l’encre de ton équipe pour remporter la victoire. Transforme‑toi en calamar pour nager dans ton encre, tendre des embuscades et recharger ton arme. Maîtrise les déplacements et le jeu d’équipe pour dominer le turf."
 iframeSrc: 'https://bitlifeonline.github.io/splatoon-3/'
 thumbnail: /new-images/thumbnails/splatoon-3.jpg
+urlstr: splatoon-3
 tags:
   - action
   - shooting

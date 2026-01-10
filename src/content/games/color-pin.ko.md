@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: color-pin
 title: Color Pin 컬러 핀
+seoTitle: Color Pin 컬러 핀 무료 온라인 플레이 | FiddleBops
 description: >-
   Color Pin은 회전하는 원에 핀을 정확한 타이밍에 꽂아 넣는 타이밍 퍼즐 게임입니다. 이미 꽂힌 핀과 부딪히지 않도록 조심하고, 색상
   모드에서는 지정된 색 구간에 맞춰 넣어야 합니다.
 iframeSrc: 'https://6jgggrkjibvs0.h5games.usercontent.goog/v/7qaps53r4bt10/'
 thumbnail: /new-images/thumbnails/color-pin.png
+urlstr: color-pin
 tags:
   - puzzle
   - casual

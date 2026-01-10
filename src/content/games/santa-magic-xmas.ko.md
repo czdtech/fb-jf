@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: santa-magic-xmas
 title: Santa Magic Xmas 산타 매직 크리스마스
+seoTitle: Santa Magic Xmas 산타 매직 크리스마스 무료 온라인 플레이 | FiddleBops
 description: >-
   크리스마스 장식들을 맞바꿔 3개 이상 맞추는 매치3 퍼즐 게임입니다. 종·오너먼트·진저브레드맨 등을 이어 강력한 파워업을 만들고, 선물을
   제때 배달할 수 있도록 스테이지 목표를 달성해 보세요.
 iframeSrc: 'https://santamagicxmas.h5games.usercontent.goog/v/27gpp489kce80/'
 thumbnail: /new-images/thumbnails/santa-magic-xmas.png
+urlstr: santa-magic-xmas
 tags:
   - puzzle
   - casual

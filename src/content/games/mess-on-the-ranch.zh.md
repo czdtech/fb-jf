@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: mess-on-the-ranch
 title: 《Mess on the Ranch》牧场大扫除
+seoTitle: 免费在线玩 《Mess on the Ranch》牧场大扫除 | FiddleBops
 description: >-
   《Mess on the
   Ranch》是一款以牧场为背景的整理解谜游戏，你需要在有限步数或时间内，把乱跑的动物赶回围栏、归类工具、修补围栏并清理杂物，让牧场重新恢复井然有序。
 iframeSrc: 'https://0b9371ju6aitg.h5games.usercontent.goog/v/0f8khbpbtdrg8/'
 thumbnail: /new-images/thumbnails/mess-on-the-ranch.png
+urlstr: mess-on-the-ranch
 tags:
   - puzzle
   - casual

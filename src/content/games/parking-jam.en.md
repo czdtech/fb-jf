@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Parking Jam"
-description: "Parking Jam is a spatial slider — move cars in sequence, free the exit lane, and solve compact lots with minimal moves."
-iframeSrc: "https://4knmpq6joecbg.h5games.usercontent.goog/v/1uamg2frss2qg/"
+title: Parking Jam
+seoTitle: Play Parking Jam Online Free | FiddleBops
+description: >-
+  Parking Jam is a spatial slider — move cars in sequence, free the exit lane,
+  and solve compact lots with minimal moves.
+iframeSrc: 'https://4knmpq6joecbg.h5games.usercontent.goog/v/1uamg2frss2qg/'
 thumbnail: /new-images/thumbnails/parking-jam.png
-urlstr: "parking-jam"
-score: "4.2/5  (2031 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: parking-jam
+tags:
+  - puzzle
+  - thinky
+score: 4.2/5  (2031 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Only Up"
-description: "Only Up is a challenging 3D platformer where players must meticulously climb a precarious and often chaotic world, overcoming obstacles and mastering precise jumps to reach higher altitudes without falling."
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230826/01/index.htm"
+title: Only Up
+seoTitle: Play Only Up Online Free | FiddleBops
+description: >-
+  Only Up is a challenging 3D platformer where players must meticulously climb a
+  precarious and often chaotic world, overcoming obstacles and mastering precise
+  jumps to reach higher altitudes without falling.
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230826/01/index.htm
 thumbnail: /new-images/thumbnails/only-up.jpg
-urlstr: "only-up"
-score: "3.5/5  (1311 votes)"
-tags: ["platformer", "adventure", "difficulty"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: only-up
+tags:
+  - platformer
+  - adventure
+  - difficulty
+score: 3.5/5  (1311 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

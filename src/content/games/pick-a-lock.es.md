@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: pick-a-lock
-title: Pick a Lock - Juego de ritmo y precisión
+title: Pick a Lock
+seoTitle: Juega a Pick a Lock en línea gratis | FiddleBops
 description: >-
   Pick a Lock pone a prueba tu precisión y concentración: detén la aguja sobre
   los marcadores, encadena golpes perfectos y abre cerraduras cada vez más
   complicadas.
 iframeSrc: 'https://17ul52pgrglf0.h5games.usercontent.goog/v/5b4f1rj0on970/'
 thumbnail: /new-images/thumbnails/pick-a-lock.jpg
+urlstr: pick-a-lock
 tags:
   - puzzle
   - thinky

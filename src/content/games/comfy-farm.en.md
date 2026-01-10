@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Comfy Farm"
-description: "Welcome to Comfy Farm! Plant seeds, water your crops, and harvest them for profit. Protect your plants from pests and use your earnings to upgrade and expand your very own cozy farm."
-iframeSrc: "https://comfyfarm.h5games.usercontent.goog/v/73m7i3ndifhg0/"
+title: Comfy Farm
+seoTitle: Play Comfy Farm Online Free | FiddleBops
+description: >-
+  Welcome to Comfy Farm! Plant seeds, water your crops, and harvest them for
+  profit. Protect your plants from pests and use your earnings to upgrade and
+  expand your very own cozy farm.
+iframeSrc: 'https://comfyfarm.h5games.usercontent.goog/v/73m7i3ndifhg0/'
 thumbnail: /new-images/thumbnails/comfy-farm.png
-urlstr: "comfy-farm"
-score: "4.3/5  (2000 votes)"
-tags: ["casual", "strategy", "clicker"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: comfy-farm
+tags:
+  - casual
+  - strategy
+  - clicker
+score: 4.3/5  (2000 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

@@ -1,16 +1,17 @@
 ---
 locale: de
-urlstr: sprunki-phase-8
-title: Sprunki Phase 8 - Sprunki Phase 8 online spielen
+title: Sprunki Phase 8
+seoTitle: Spiele Sprunki Phase 8 kostenlos online | FiddleBops
 description: >-
   Sprunki Phase 8 ist ein experimenteller Horror-Musikmod: Du baust Tracks mit
   gruseligen Figuren, unheimlichen Sounds und einer dichten, dunklen Atmosphäre.
 iframeSrc: 'https://turbowarp.org/1140266189/embed'
 thumbnail: /new-images/thumbnails/sprunki-phase-8.png
+urlstr: sprunki-phase-8
 tags:
   - sprunki phase 8
 score: 4.2/5  (396 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

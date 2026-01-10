@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Jewel Magic Xmas"
-description: "Get into the holiday spirit with Jewel Magic Xmas! A festive match-3 puzzle game where you swap Christmas ornaments to solve puzzles and complete cheerful levels."
-iframeSrc: "https://jewelmagicxmas.h5games.usercontent.goog/v/19095ne8tscfg/"
+title: Jewel Magic Xmas
+seoTitle: Play Jewel Magic Xmas Online Free | FiddleBops
+description: >-
+  Get into the holiday spirit with Jewel Magic Xmas! A festive match-3 puzzle
+  game where you swap Christmas ornaments to solve puzzles and complete cheerful
+  levels.
+iframeSrc: 'https://jewelmagicxmas.h5games.usercontent.goog/v/19095ne8tscfg/'
 thumbnail: /new-images/thumbnails/jewel-magic-xmas.png
-urlstr: "jewel-magic-xmas"
-score: "4.4/5  (2200 votes)"
-tags: ["puzzle", "casual", "action"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: jewel-magic-xmas
+tags:
+  - puzzle
+  - casual
+  - action
+score: 4.4/5  (2200 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Electron Dash"
-description: "Electron Dash is a fast tunnel runner: jump, dash, and land on rotating platforms to survive long runs."
-iframeSrc: "https://slope-game.github.io/electron-dash/"
+title: Electron Dash
+seoTitle: Play Electron Dash Online Free | FiddleBops
+description: >-
+  Electron Dash is a fast tunnel runner: jump, dash, and land on rotating
+  platforms to survive long runs.
+iframeSrc: 'https://slope-game.github.io/electron-dash/'
 thumbnail: /new-images/thumbnails/electron-dash.jpg
-urlstr: "electron-dash"
-score: "4.4/5  (1386 votes)"
-tags: ["arcade", "runner"]
-developer: ""
-releaseDate: 2025-09-09
+urlstr: electron-dash
+tags:
+  - arcade
+  - runner
+score: 4.4/5  (1386 votes)
+developer: ''
+releaseDate: 2025-09-09T00:00:00.000Z
 ---
 
 

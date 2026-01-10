@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: arctic-pong
 title: Arctic Pong
+seoTitle: Jouez à Arctic Pong en ligne gratuitement | FiddleBops
 description: >-
   Arctic Pong est une version glacée de Pong : contrôle ta raquette, renvoie le
   palet avec l’angle voulu et marque plus de points que ton adversaire.
 iframeSrc: 'https://arcticpong.h5games.usercontent.goog/v/1quekndr8ig0o/'
 thumbnail: /new-images/thumbnails/arctic-pong.png
+urlstr: arctic-pong
 tags:
   - 2 player
   - casual

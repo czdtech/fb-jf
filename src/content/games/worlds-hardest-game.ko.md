@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: worlds-hardest-game
 title: World's Hardest Game 월즈 하더스트 게임
+seoTitle: World's Hardest Game 월즈 하더스트 게임 무료 온라인 플레이 | FiddleBops
 description: >-
   붉은 사각형을 조종해 움직이는 파란 공 사이를 뚫고 골 지점에 도달해야 하는 초고난도 아케이드 게임입니다. 한 칸 한 칸 정확한 타이밍과
   인내심이 요구되는, 이름 그대로 "세상에서 가장 어렵다"는 평을 듣는 작품입니다.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/the-worlds-hardest-game.html'
 thumbnail: /new-images/thumbnails/worlds-hardest-game.jpg
+urlstr: worlds-hardest-game
 tags:
   - difficulty
   - arcade

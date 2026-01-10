@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Bob the Robber ボブ・ザ・ロバー
+seoTitle: 無料でBob the Robber ボブ・ザ・ロバーをオンラインでプレイ | FiddleBops
 description: 「Bob the Robber」で義賊になろう！警備員をかわし、カメラを無効化し、金庫を破れ。ステルスとパズルが融合した大人気泥棒アクションゲーム。
 iframeSrc: >-
   https://app-190385.games.s3.yandex.net/190385/i7ty94goiswe8ohxdysos1uzmur0yfwk/index.html
 thumbnail: /new-images/thumbnails/bob-the-robber.jpg
 urlstr: bob-the-robber
-score: 3.7/5  (403 votes)
 tags:
   - stealth
   - puzzle
+score: 3.7/5  (403 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

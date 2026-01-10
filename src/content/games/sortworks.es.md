@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: sortworks
 title: SortWorks
+seoTitle: Juega a SortWorks en línea gratis | FiddleBops
 description: >-
   SortWorks es un limpio puzle de clasificar y apilar: organiza objetos según
   reglas, planifica los espacios de buffer y evita bloqueos bajo una presión que
   va en aumento.
 iframeSrc: 'https://293f3i461vfvo.h5games.usercontent.goog/v/31blvf8tg44g0/'
 thumbnail: /new-images/thumbnails/sortworks.png
+urlstr: sortworks
 tags:
   - puzzle
   - thinky

@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: he-likes-the-darkness
 title: He Likes The Darkness
+seoTitle: Juega a He Likes The Darkness en línea gratis | FiddleBops
 description: >-
   He Likes The Darkness es un plataformas de atmósfera oscura: recorre niveles
   sombríos, recoge orbes y calcula saltos muy precisos entre trampas mortales.
 iframeSrc: 'https://77gr97nn0bej0.h5games.usercontent.goog/v/0emki8kk9qofo/'
 thumbnail: /new-images/thumbnails/he-likes-the-darkness.png
+urlstr: he-likes-the-darkness
 tags:
   - action
   - puzzle

@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Words Challenge"
-description: "Words Challenge is a mixed word‑skills set — anagrams, crosswords, and quick trivia that reward breadth and deduction."
-iframeSrc: "https://60p1t41kumli8.h5games.usercontent.goog/v/7pss7j2tdq7io/"
+title: Words Challenge
+seoTitle: Play Words Challenge Online Free | FiddleBops
+description: >-
+  Words Challenge is a mixed word‑skills set — anagrams, crosswords, and quick
+  trivia that reward breadth and deduction.
+iframeSrc: 'https://60p1t41kumli8.h5games.usercontent.goog/v/7pss7j2tdq7io/'
 thumbnail: /new-images/thumbnails/words-challenge.jpg
-urlstr: "words-challenge"
-score: "4.1/5  (1982 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: words-challenge
+tags:
+  - puzzle
+  - thinky
+score: 4.1/5  (1982 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: bloxorz
 title: Bloxorz Magic 블록소르즈 매직
+seoTitle: Bloxorz Magic 블록소르즈 매직 무료 온라인 플레이 | FiddleBops
 description: >-
   직사각형 블록을 굴려 스테이지 끝의 구멍까지 보내는 3D 퍼즐 게임 Bloxorz Magic입니다. 떨어지기 쉬운 발판과 각종 스위치, 블록
   분할 기믹을 이용해 정교하게 굴려 나가야 하는 두뇌 풀가동 퍼즐을 즐겨 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/bloxorz.html'
 thumbnail: /new-images/thumbnails/bloxorz.jpg
+urlstr: bloxorz
 tags:
   - casual
   - rhythm

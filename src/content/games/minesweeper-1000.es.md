@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: minesweeper-1000
-title: Minesweeper 1000 - Buscaminas a gran escala
+title: Minesweeper 1000
+seoTitle: Juega a Minesweeper 1000 en línea gratis | FiddleBops
 description: >-
   Minesweeper 1000 renueva el clásico Buscaminas: lee la lógica de los números,
   marca las bombas y limpia tableros enormes usando técnicas eficientes.
 iframeSrc: 'https://5gsana77eub30.h5games.usercontent.goog/v/7363vv8e5mrb8/'
 thumbnail: /new-images/thumbnails/minesweeper-1000.png
+urlstr: minesweeper-1000
 tags:
   - puzzle
   - thinky

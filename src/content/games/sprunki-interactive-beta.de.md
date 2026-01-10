@@ -1,14 +1,18 @@
 ---
 locale: de
-urlstr: sprunki-interactive-beta
-title: "Sprunki Interactive BETA - Sprunki Interactive BETA online spielen"
-description: "Sprunki Interactive BETA ist ein experimenteller Sprunki-Mod mit frei herumlaufenden Figuren, zufälligen Kollisionen und einem Mix aus süßer Oberfläche und unterschwelligem Horror."
+title: Sprunki Interactive BETA
+seoTitle: Spiele Sprunki Interactive BETA kostenlos online | FiddleBops
+description: >-
+  Sprunki Interactive BETA ist ein experimenteller Sprunki-Mod mit frei
+  herumlaufenden Figuren, zufälligen Kollisionen und einem Mix aus süßer
+  Oberfläche und unterschwelligem Horror.
 iframeSrc: 'https://turbowarp.org/1090663998/embed'
 thumbnail: /new-images/thumbnails/sprunki-interactive-beta.png
+urlstr: sprunki-interactive-beta
 tags:
   - sprunki interactive beta
 score: 4.0/5  (407 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Was ist Sprunki Interactive BETA?

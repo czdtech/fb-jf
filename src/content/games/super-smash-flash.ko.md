@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: super-smash-flash
 title: Super Smash Flash 슈퍼 스매시 플래시
+seoTitle: Super Smash Flash 슈퍼 스매시 플래시 무료 온라인 플레이 | FiddleBops
 description: >-
   Super Smash Flash는 여러 인기 게임·애니 캐릭터를 한 화면에서 조작해 싸우는 팬 메이드 대전 액션 게임입니다. 간단한 키
   조합으로 최대 4인이 난투를 즐길 수 있습니다.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/super-smash-flash.html'
 thumbnail: /new-images/thumbnails/super-smash-flash.jpg
+urlstr: super-smash-flash
 tags:
   - fighting
   - action

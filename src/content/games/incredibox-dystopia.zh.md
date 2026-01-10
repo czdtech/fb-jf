@@ -1,10 +1,13 @@
 ---
 locale: zh
-urlstr: incredibox-dystopia
-title: "Incredibox Dystopia - 在线玩 Incredibox Dystopia"
-description: "探索 Incredibox Dystopia，这款粉丝 Mod 设定在黑暗的赛博朋克世界。本指南详细介绍了其电子和合成波音色调色板、创作未来派节拍的游戏技巧，以及如何解锁其主题奖励。"
+title: Incredibox Dystopia
+seoTitle: 免费在线玩 Incredibox Dystopia | FiddleBops
+description: >-
+  探索 Incredibox Dystopia，这款粉丝 Mod
+  设定在黑暗的赛博朋克世界。本指南详细介绍了其电子和合成波音色调色板、创作未来派节拍的游戏技巧，以及如何解锁其主题奖励。
 iframeSrc: 'https://turbowarp.org/1015284026/embed'
 thumbnail: /new-images/thumbnails/incredibox-dystopia.png
+urlstr: incredibox-dystopia
 tags:
   - music
   - electronic

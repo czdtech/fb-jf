@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: droid-o
 title: Droid-O 드로이드-O
+seoTitle: Droid-O 드로이드-O 무료 온라인 플레이 | FiddleBops
 description: >-
   Droid-O는 템포 빠른 탑다운 아레나 슈팅 게임입니다. 카이팅과 스킬 시너지, 정교한 움직임으로 점점 거세지는 적 웨이브에서 살아남아
   보세요.
 iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
 thumbnail: /new-images/thumbnails/droid-o.png
+urlstr: droid-o
 tags:
   - action
   - shooting

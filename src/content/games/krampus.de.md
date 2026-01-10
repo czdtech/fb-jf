@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: krampus
 title: Krampus
+seoTitle: Spiele Krampus kostenlos online | FiddleBops
 description: >-
   Krampus ist ein weihnachtlicher Horror-Plattformspiel: Erkunde dunkle Level,
   weiche Fallen und Kreaturen aus und finde Schlüssel und Items, um aus der
   Höhle des Krampus zu entkommen.
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/krampus1/'
 thumbnail: /new-images/thumbnails/krampus.jpg
+urlstr: krampus
 tags:
   - horror
   - platformer

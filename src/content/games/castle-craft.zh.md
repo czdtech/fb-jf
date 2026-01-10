@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: castle-craft
 title: Castle Craft 王国合成工坊
+seoTitle: 免费在线玩 Castle Craft 王国合成工坊 | FiddleBops
 description: 《Castle Craft 王国合成工坊》是一款合成 + 建设类解谜游戏，通过合并资源与建筑，从一块小小的花园起步，逐步打造属于你的中世纪王国。
 iframeSrc: 'https://1hjdl8ff4msl0.h5games.usercontent.goog/v/2mn9n3pfbrrtg/'
 thumbnail: /new-images/thumbnails/castle-craft.png
+urlstr: castle-craft
 tags:
   - puzzle
   - casual

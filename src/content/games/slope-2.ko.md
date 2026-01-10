@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: slope-2
 title: Slope 2 슬로프 2
+seoTitle: Slope 2 슬로프 2 무료 온라인 플레이 | FiddleBops
 description: >-
   끝없이 이어지는 경사로를 굴러 내려가는 볼 러너 게임의 후속작입니다. 더 빨라진 속도와 새로운 장애물을 피해 최대한 오래 살아남아 최고
   기록에 도전해 보세요.
 iframeSrc: 'https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slope-2/index.html'
 thumbnail: /new-images/thumbnails/slope-2.jpg
+urlstr: slope-2
 tags:
   - endless runner
   - ball

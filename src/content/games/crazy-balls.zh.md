@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: crazy-balls
 title: Crazy Balls 疯狂弹球
+seoTitle: 免费在线玩 Crazy Balls 疯狂弹球 | FiddleBops
 description: 《Crazy Balls 疯狂弹球》是一款基于物理碰撞的街机游戏。通过控制击球角度与力度，让小 球在障碍迷宫中弹跳、反弹并炸开阻碍，完成关卡目标。
 iframeSrc: 'https://05hi0oufvrcro.h5games.usercontent.goog/v/0qeok5765gar8/'
 thumbnail: /new-images/thumbnails/crazy-balls.png
+urlstr: crazy-balls
 tags:
   - action
   - casual

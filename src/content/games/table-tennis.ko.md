@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: table-tennis
 title: Table Tennis 탁구 게임
+seoTitle: Table Tennis 탁구 게임 무료 온라인 플레이 | FiddleBops
 description: >-
   Table Tennis는 빠른 랠리와 반사신경이 중요한 탁구 게임으로, AI와 겨루며 정확한 타이밍과 패들 조작으로 점수를 따는 스포츠
   시뮬레이션입니다.
 iframeSrc: 'https://tabletennis.h5games.usercontent.goog/v/4eeofbe4nfj1g/'
 thumbnail: /new-images/thumbnails/table-tennis.png
+urlstr: table-tennis
 tags:
   - sports
   - 2 player

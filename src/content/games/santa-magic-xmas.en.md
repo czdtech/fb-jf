@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Santa Magic Xmas"
-description: "Experience the magic of Christmas in this festive match-3 puzzle game! Help Santa by matching colorful ornaments and clearing the board to deliver the presents."
-iframeSrc: "https://santamagicxmas.h5games.usercontent.goog/v/27gpp489kce80/"
+title: Santa Magic Xmas
+seoTitle: Play Santa Magic Xmas Online Free | FiddleBops
+description: >-
+  Experience the magic of Christmas in this festive match-3 puzzle game! Help
+  Santa by matching colorful ornaments and clearing the board to deliver the
+  presents.
+iframeSrc: 'https://santamagicxmas.h5games.usercontent.goog/v/27gpp489kce80/'
 thumbnail: /new-images/thumbnails/santa-magic-xmas.png
-urlstr: "santa-magic-xmas"
-score: "4.4/5  (2250 votes)"
-tags: ["puzzle", "casual", "action"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: santa-magic-xmas
+tags:
+  - puzzle
+  - casual
+  - action
+score: 4.4/5  (2250 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

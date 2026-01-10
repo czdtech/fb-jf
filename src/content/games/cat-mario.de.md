@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: cat-mario
 title: Cat Mario
+seoTitle: Spiele Cat Mario kostenlos online | FiddleBops
 description: >-
   Stell dich dem ultimativen unfairen Plattformspiel in Cat Mario (Syobon
   Action). Navigiere durch eine Welt voller versteckter Fallen, absurder Feinde
@@ -9,6 +9,7 @@ description: >-
   Parodiespiel.
 iframeSrc: 'https://tiwb.github.io/catmario/'
 thumbnail: /new-images/thumbnails/cat-mario.jpg
+urlstr: cat-mario
 tags:
   - platformer
   - casual

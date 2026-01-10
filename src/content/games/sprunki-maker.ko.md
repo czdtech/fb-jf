@@ -1,18 +1,18 @@
 ---
 locale: ko
-urlstr: sprunki-maker
-title: 'Sprunki Maker (BIG update) 스프룽키 메이커 (대형 업데이트)'
+title: Sprunki Maker (BIG update) 스프룽키 메이커 (대형 업데이트)
+seoTitle: Sprunki Maker (BIG update) 스프룽키 메이커 (대형 업데이트) 무료 온라인 플레이 | FiddleBops
 description: >-
-  Sprunki Maker는 머리부터 발끝까지 직접 꾸밀 수 있는 스프룽키 캐릭터 메이커
-  모드입니다. 헤어, 표정, 의상, 색상을 마음껏 조합해 나만의 오리지널 Sprunki를
-  만들어 보세요.
+  Sprunki Maker는 머리부터 발끝까지 직접 꾸밀 수 있는 스프룽키 캐릭터 메이커 모드입니다. 헤어, 표정, 의상, 색상을 마음껏
+  조합해 나만의 오리지널 Sprunki를 만들어 보세요.
 iframeSrc: 'https://www.playfiddlebops.com/embed/sprunki-marker/index.html'
 thumbnail: /new-images/thumbnails/sprunki-maker.png
+urlstr: sprunki-maker
 tags:
   - sprunki maker (big update)
   - sprunki maker (big update) online
 score: 4.8/5  (700 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

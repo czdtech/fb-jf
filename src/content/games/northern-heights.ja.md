@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Northern Heights
+seoTitle: 無料でNorthern Heightsをオンラインでプレイ | FiddleBops
 description: Northern Heightsは登山サバイバルゲームです。エネルギーや防寒などのリソースを管理しながらルートを選び、頂上を目指します。
 iframeSrc: 'https://northernheights.h5games.usercontent.goog/v/1pct901lj7uko/'
 thumbnail: /new-images/thumbnails/northern-heights.png
 urlstr: northern-heights
-score: 4.6/5 (2876 votes)
 tags:
   - adventure
   - thinky
+score: 4.6/5 (2876 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

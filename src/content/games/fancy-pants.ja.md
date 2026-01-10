@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Fancy Pants ファンシーパンツ
+seoTitle: 無料でFancy Pants ファンシーパンツをオンラインでプレイ | FiddleBops
 description: 「Fancy Pants」はスタイリッシュな棒人間プラットフォーマー。勢い、壁ジャンプ、流れるような動きで手描きレベルと隠し部屋を駆け抜けます。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj8/index.html
 thumbnail: /new-images/thumbnails/fancy-pants.jpg
 urlstr: fancy-pants
-score: 4.7/5  (778 votes)
 tags:
   - platformer
   - action
+score: 4.7/5  (778 votes)
 developer: Brad Borne
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

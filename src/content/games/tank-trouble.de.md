@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: tank-trouble
 title: Tank Trouble
+seoTitle: Spiele Tank Trouble kostenlos online | FiddleBops
 description: >-
   Tank Trouble ist ein Mehrspieler-Panzerduell im Labyrinth: Navigiere enge
   Gänge, pralle mit Schüssen an Wänden ab und versuche, als letzter intakter
   Panzer übrig zu bleiben.
 iframeSrc: 'https://www.friv2018.com/games/html5/tank-trouble-2/'
 thumbnail: /new-images/thumbnails/tank-trouble.jpg
+urlstr: tank-trouble
 tags:
   - multiplayer
   - action

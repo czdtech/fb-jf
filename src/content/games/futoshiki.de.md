@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: futoshiki
 title: Futoshiki
+seoTitle: Spiele Futoshiki kostenlos online | FiddleBops
 description: >-
   Futoshiki schärft deine Logik: Trage Ziffern so ein, dass jede Zeile und
   Spalte alle Zahlen genau einmal enthält und alle Ungleichheitszeichen
   eingehalten werden.
 iframeSrc: 'https://6g7i64vihegl0.h5games.usercontent.goog/v/7bd886r75d4ag/'
 thumbnail: /new-images/thumbnails/futoshiki.jpg
+urlstr: futoshiki
 tags:
   - puzzle
   - thinky

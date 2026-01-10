@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: island-of-treasures
 title: Island Of Treasures
+seoTitle: Spiele Island Of Treasures kostenlos online | FiddleBops
 description: >-
   Brich in diesem 3D-Endless-Runner zu einem Piratenabenteuer auf! Sammle
   funkelnde Juwelen, weiche tödlichen Fallen aus und trickse rivalisierende
   Piraten aus, um der reichste Freibeuter der Insel zu werden.
 iframeSrc: 'https://5kvkrsasec6l8.h5games.usercontent.goog/v/7kfn10n6josho/'
 thumbnail: /new-images/thumbnails/island-of-treasures.png
+urlstr: island-of-treasures
 tags:
   - action
   - adventure

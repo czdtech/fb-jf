@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: slice-master
 title: Slice Master
+seoTitle: Spiele Slice Master kostenlos online | FiddleBops
 description: >-
   Slice Master ist ein befriedigendes Physikspiel, in dem du ein Messer
   steuerst, das sich durch verschiedenste Objekte schneidet. Ziel sind perfekte
   Schnitte, viele Kombos und reichlich Belohnungen auf trickreichen Parcours.
 iframeSrc: 'https://bitlifeonline.github.io/slice-master/'
 thumbnail: /new-images/thumbnails/slice-master.jpg
+urlstr: slice-master
 tags:
   - physics
   - action

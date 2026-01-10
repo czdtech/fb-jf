@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: galactic-empire
 title: Galactic Empire 갤럭틱 엠파이어
+seoTitle: Galactic Empire 갤럭틱 엠파이어 무료 온라인 플레이 | FiddleBops
 description: >-
   위에서 내려다보는 우주 전략 게임입니다. 자원을 채굴하고 함선과 방어 시설을 건설해 함대를 편성하고, 적의 파상 공격을 막으면서 인접 구역을
   점령해 나가야 합니다.
 iframeSrc: 'https://g.igroutka.ru/games/164/8plhaK3IOLoFbVPB/2/galactic_empire/'
 thumbnail: /new-images/thumbnails/galactic-empire.jpg
+urlstr: galactic-empire
 tags:
   - strategy
   - space

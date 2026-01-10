@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: dalgona-game
 title: Dalgona Game
+seoTitle: Spiele Dalgona Game kostenlos online | FiddleBops
 description: >-
   Dalgona Game setzt das Ausschneiden von Zuckerwaben um – fahre Formen
   vorsichtig nach, kontrolliere Risse und schließe rechtzeitig ab, bevor die
   Zeit abläuft.
 iframeSrc: 'https://12d729aggg2h0.h5games.usercontent.goog/v/786aa9qgft3vo/'
 thumbnail: /new-images/thumbnails/dalgona-game.png
+urlstr: dalgona-game
 tags:
   - casual
   - thinky

@@ -1,10 +1,15 @@
 ---
 locale: de
-urlstr: spacebar-clicker
-title: "Spacebar Clicker"
-description: "Teste deine Klickgeschwindigkeit im Spacebar Clicker, einem süchtig machenden Incremental-Game. Drücke die Leertaste, um Punkte zu sammeln, kaufe damit Upgrades, automatisiere deine Klicks und vervielfache deine Einnahmen – bis der Highscore durch die Decke geht."
+title: Spacebar Clicker
+seoTitle: Spiele Spacebar Clicker kostenlos online | FiddleBops
+description: >-
+  Teste deine Klickgeschwindigkeit im Spacebar Clicker, einem süchtig machenden
+  Incremental-Game. Drücke die Leertaste, um Punkte zu sammeln, kaufe damit
+  Upgrades, automatisiere deine Klicks und vervielfache deine Einnahmen – bis
+  der Highscore durch die Decke geht.
 iframeSrc: 'https://spacebarclicker.co/game/spacebar-counter/'
 thumbnail: /new-images/thumbnails/spacebar-clicker.jpg
+urlstr: spacebar-clicker
 tags:
   - clicker
   - idle

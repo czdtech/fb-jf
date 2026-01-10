@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: pick-a-lock
 title: Pick a Lock
+seoTitle: Jouez à Pick a Lock en ligne gratuitement | FiddleBops
 description: "Pick a Lock est un jeu de timing minimaliste\_: arrête l'aiguille sur les marqueurs, enchaîne les coups parfaits et ouvre des serrures de plus en plus difficiles."
 iframeSrc: 'https://17ul52pgrglf0.h5games.usercontent.goog/v/5b4f1rj0on970/'
 thumbnail: /new-images/thumbnails/pick-a-lock.jpg
+urlstr: pick-a-lock
 tags:
   - puzzle
   - thinky

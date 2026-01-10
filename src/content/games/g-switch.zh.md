@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: g-switch
 title: G-Switch 重力切换酷跑
+seoTitle: 免费在线玩 G-Switch 重力切换酷跑 | FiddleBops
 description: 一键式重力跑酷游戏：通过翻转重力在平台间持续奔跑， 躲开缺口与圆锯，在不断加速的节奏中尽量活得更久。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/5/index.html
 thumbnail: /new-images/thumbnails/g-switch.jpg
+urlstr: g-switch
 tags:
   - runner
   - platformer

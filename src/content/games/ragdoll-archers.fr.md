@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: ragdoll-archers
 title: Ragdoll Archers
+seoTitle: Jouez à Ragdoll Archers en ligne gratuitement | FiddleBops
 description: "Ragdoll Archers est un jeu de tir à l’arc basé sur la physique où tu contrôles des archers en chiffon bancals pour tirer des flèches sur tes adversaires\_; les effets physiques réalistes rendent chaque tir à la fois difficile et amusant."
 iframeSrc: 'https://bitlifeonline.github.io/ragdoll-archers/'
 thumbnail: /new-images/thumbnails/ragdoll-archers.jpg
+urlstr: ragdoll-archers
 tags:
   - physics
   - archery

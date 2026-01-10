@@ -1,13 +1,14 @@
 ---
 locale: zh
-urlstr: crescent-solitaire
 title: Crescent Solitaire 新月接龙
+seoTitle: 免费在线玩 Crescent Solitaire 新月接龙 | FiddleBops
 description: >-
   《Crescent Solitaire 新月接龙》是一款节奏舒缓的双副牌接龙玩法。你需要在“新月”形牌 阵与基础堆之间来回移动牌张，按花色分别从 A 到
   K、从 K 到 A 建立完整同花顺序，最终清 理整副牌面。
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/crescent-solitaire-phaser/
 thumbnail: /new-images/thumbnails/crescent-solitaire.jpg
+urlstr: crescent-solitaire
 tags:
   - solitaire
   - card

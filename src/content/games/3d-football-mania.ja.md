@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: 3D Football Mania 3D サッカーマニア
+seoTitle: 無料で3D Football Mania 3D サッカーマニアをオンラインでプレイ | FiddleBops
 description: 「3D サッカーマニア」は、サッカーの決定的な瞬間を切り取ったゲームです。ドリブル、パス、そして絶妙なタイミングのシュートでゴールネットを揺らしましょう。
 iframeSrc: 'https://0iadidf74ef9o.h5games.usercontent.goog/v/4cmv5jsv0n25g/'
 thumbnail: /new-images/thumbnails/3d-football-mania.png
 urlstr: 3d-football-mania
-score: 3.9/5  (1738 votes)
 tags:
   - sports
   - soccer
+score: 3.9/5  (1738 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

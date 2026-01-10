@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "My Space Pet"
-description: "Embark on an interstellar adventure with My Space Pet! Adopt and care for your very own alien creature, explore the galaxy, and customize your pet's home."
-iframeSrc: "https://6jqt3hoth456g.h5games.usercontent.goog/v/6jqt3hoth456g/"
+title: My Space Pet
+seoTitle: Play My Space Pet Online Free | FiddleBops
+description: >-
+  Embark on an interstellar adventure with My Space Pet! Adopt and care for your
+  very own alien creature, explore the galaxy, and customize your pet's home.
+iframeSrc: 'https://6jqt3hoth456g.h5games.usercontent.goog/v/6jqt3hoth456g/'
 thumbnail: /new-images/thumbnails/my-space-pet.png
-urlstr: "my-space-pet"
-score: "4.0/5  (1876 votes)"
-tags: ["casual", "adventure", "simulation"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: my-space-pet
+tags:
+  - casual
+  - adventure
+  - simulation
+score: 4.0/5  (1876 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

@@ -1,14 +1,18 @@
 ---
-title: "Ghost Pro Racing"
-description: "Ghost Pro Racingはタイムトライアルレーサーです。ゴーストのリプレイを追いかけ、完璧なライン取りをし、一貫した入力でコンマ数秒を削りましょう。"
-iframeSrc: "https://52v00umba6lko.h5games.usercontent.goog/v/46gechg282a6g/"
-thumbnail: /new-images/thumbnails/ghost-pro-racing.jpg
-urlstr: "ghost-pro-racing"
-score: "3.9/5  (1711 votes)"
-tags: ["car", "driving", "sports"]
-developer: ""
-releaseDate: 2025-10-18
 locale: ja
+title: Ghost Pro Racing
+seoTitle: 無料でGhost Pro Racingをオンラインでプレイ | FiddleBops
+description: Ghost Pro Racingはタイムトライアルレーサーです。ゴーストのリプレイを追いかけ、完璧なライン取りをし、一貫した入力でコンマ数秒を削りましょう。
+iframeSrc: 'https://52v00umba6lko.h5games.usercontent.goog/v/46gechg282a6g/'
+thumbnail: /new-images/thumbnails/ghost-pro-racing.jpg
+urlstr: ghost-pro-racing
+tags:
+  - car
+  - driving
+  - sports
+score: 3.9/5  (1711 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

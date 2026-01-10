@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: pics-word-game
 title: 《Pics Word Game》图猜文字
+seoTitle: 免费在线玩 《Pics Word Game》图猜文字 | FiddleBops
 description: 《Pics Word Game》是一款图文联想文字解谜游戏，你需要根据多张图片提供的线索，推理出它们共同指向的那个单词或词组。
 iframeSrc: 'https://picswordgame.h5games.usercontent.goog/v/40jujb4uelhb0/'
 thumbnail: /new-images/thumbnails/pics-word-game.jpg
+urlstr: pics-word-game
 tags:
   - puzzle
   - thinky

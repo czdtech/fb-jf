@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: tripeaks-solitaire
-title: Tripeaks Solitaire - Despeja las tres cimas
+title: Tripeaks Solitaire
+seoTitle: Juega a Tripeaks Solitaire en línea gratis | FiddleBops
 description: >-
   Despeja las tres montañas en Tripeaks Solitaire, un solitario rápido en el que
   encadenas cartas un rango arriba o abajo para limpiar la mesa antes de que se
   agote el mazo.
 iframeSrc: 'https://tripeakssolitaire.h5games.usercontent.goog/v/4v3d7g06n6rug/'
 thumbnail: /new-images/thumbnails/tripeaks-solitaire.png
+urlstr: tripeaks-solitaire
 tags:
   - card
   - puzzle

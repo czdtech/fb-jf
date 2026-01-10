@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: captain-gold
 title: Captain Gold
+seoTitle: Spiele Captain Gold kostenlos online | FiddleBops
 description: >-
   Captain Gold ist eine klassische Goldgräber-Herausforderung – timinge deine
   Würfe, angelt wertvolle Schätze und meidet Felsen, um das Geldziel zu
   erreichen.
 iframeSrc: 'https://5djvqvgrgqc0o.h5games.usercontent.goog/v/58gqt26rjid7o/'
 thumbnail: /new-images/thumbnails/captain-gold.png
+urlstr: captain-gold
 tags:
   - casual
   - thinky

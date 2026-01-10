@@ -13,14 +13,14 @@ import { describe, it, expect, beforeAll } from 'vitest';
 import * as fc from 'fast-check';
 import * as fs from 'fs';
 import * as path from 'path';
+import { findAstroFiles } from '../utils/file-discovery';
 
 // List of migrated components that should exist in src/components/
 // Note: Nav.astro was removed as dead code (never imported anywhere)
 const MIGRATED_COMPONENTS = [
   'Header.astro',
   'Common.astro',
-  'PopularGames.astro',
-  'NewGames.astro',
+  'GameSidebar.astro',
   'TrendingGames.astro',
   'IndexTrendingGames.astro',
   'Categories.astro',
@@ -42,28 +42,6 @@ let distExists = false;
 let componentsDir: string;
 let pagesDir: string;
 let astroFiles: string[] = [];
-
-/**
- * Recursively find all .astro files in a directory
- */
-function findAstroFiles(dir: string): string[] {
-  const files: string[] = [];
-  
-  if (!fs.existsSync(dir)) return files;
-  
-  const entries = fs.readdirSync(dir, { withFileTypes: true });
-  
-  for (const entry of entries) {
-    const fullPath = path.join(dir, entry.name);
-    if (entry.isDirectory()) {
-      files.push(...findAstroFiles(fullPath));
-    } else if (entry.name.endsWith('.astro')) {
-      files.push(fullPath);
-    }
-  }
-  
-  return files;
-}
 
 /**
  * Extract import statements from an Astro file

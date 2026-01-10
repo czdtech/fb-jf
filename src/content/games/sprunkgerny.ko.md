@@ -1,18 +1,18 @@
 ---
 locale: ko
-urlstr: sprunkgerny
-title: 'Sprunkgerny 스프렁거니'
+title: Sprunkgerny 스프렁거니
+seoTitle: Sprunkgerny 스프렁거니 무료 온라인 플레이 | FiddleBops
 description: >-
-  Sprunkgerny는 기존 리듬 게임의 틀을 깨고, 실험적인 사운드와 기묘한 비주얼로
-  독특한 음악을 만들어 볼 수 있는 창의적인 음악 게임입니다. 규칙에 갇히지 않고
-  즉흥성과 우연성을 즐기며 새로운 영감을 얻을 수 있습니다.
+  Sprunkgerny는 기존 리듬 게임의 틀을 깨고, 실험적인 사운드와 기묘한 비주얼로 독특한 음악을 만들어 볼 수 있는 창의적인 음악
+  게임입니다. 규칙에 갇히지 않고 즉흥성과 우연성을 즐기며 새로운 영감을 얻을 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1107761681/embed'
 thumbnail: /new-images/thumbnails/sprunkgerny.png
+urlstr: sprunkgerny
 tags:
   - sprunkgerny
   - sprunkgerny online
 score: 4.9/5  (724 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

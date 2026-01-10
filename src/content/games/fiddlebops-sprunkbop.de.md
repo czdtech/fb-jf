@@ -1,17 +1,18 @@
 ---
 locale: de
-urlstr: fiddlebops-sprunkbop
-title: Fiddlebops Sprunkbop - Play Fiddlebops Sprunkbop Online
+title: Fiddlebops Sprunkbop
+seoTitle: Spiele Fiddlebops Sprunkbop kostenlos online | FiddleBops
 description: >-
   Fiddlebops Sprunkbop ist ein Fanmod, der das klassische Fiddlebops-Prinzip mit
   einem frischen, chaotischen Sprunkbop-Stil verbindet – neue Looks, frische
   Sounds, gleichbleibend simples Musikbasteln.
 iframeSrc: 'https://turbowarp.org/1114551059/embed'
 thumbnail: /new-images/thumbnails/fiddlebops-sprunkbop.png
+urlstr: fiddlebops-sprunkbop
 tags:
   - fiddlebops sprunkbop
 score: 4.1/5  (308 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

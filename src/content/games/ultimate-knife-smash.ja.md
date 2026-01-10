@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Ultimate Knife Smash
+seoTitle: 無料でUltimate Knife Smashをオンラインでプレイ | FiddleBops
 description: Ultimate Knife Smashは、ナイフ投げゲームです。タイミングよくナイフを投げて的に刺しましょう。
 iframeSrc: 'https://ultimateknifesmash.h5games.usercontent.goog/v/5ifrmqkiihdj0/'
 thumbnail: /new-images/thumbnails/ultimate-knife-smash.png
 urlstr: ultimate-knife-smash
-score: 4.0/5  (1749 votes)
 tags:
   - arcade
   - timing
   - casual
-locale: ja
+score: 4.0/5  (1749 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

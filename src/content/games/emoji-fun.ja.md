@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Emoji Fun 絵文字ファン
+seoTitle: 無料でEmoji Fun 絵文字ファンをオンラインでプレイ | FiddleBops
 description: 「Emoji Fun」は連想力を試すパズルゲーム。関連する絵文字のペアを見つけて線で繋ごう。柔軟な発想でユニークなパズルを解き明かせ。
 iframeSrc: 'https://0aijth0is3tko.h5games.usercontent.goog/v/1c1277hq9kr98/'
 thumbnail: /new-images/thumbnails/emoji-fun.png
 urlstr: emoji-fun
-score: 4.3/5  (2100 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.3/5  (2100 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

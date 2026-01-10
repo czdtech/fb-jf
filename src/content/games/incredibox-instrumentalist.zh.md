@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: incredibox-instrumentalist
-title: "Incredibox Instrumentalist - 在线玩 Incredibox Instrumentalist"
-description: "Incredibox Instrumentalist 本指南详细介绍了其独特的将乐器召唤到舞台上的玩法及其折衷的世界音乐调色板，创造一个纯器乐管弦乐队。"
+title: Incredibox Instrumentalist
+seoTitle: 免费在线玩 Incredibox Instrumentalist | FiddleBops
+description: Incredibox Instrumentalist 本指南详细介绍了其独特的将乐器召唤到舞台上的玩法及其折衷的世界音乐调色板，创造一个纯器乐管弦乐队。
 iframeSrc: 'https://turbowarp.org/1040856097/embed'
 thumbnail: /new-images/thumbnails/incredibox-instrumentalist.png
+urlstr: incredibox-instrumentalist
 tags:
   - music
   - sandbox

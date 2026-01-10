@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: jigsaw-puzzle-deluxe
 title: Jigsaw Puzzle Deluxe
+seoTitle: Spiele Jigsaw Puzzle Deluxe kostenlos online | FiddleBops
 description: >-
   Das klassische Puzzle-Erlebnis im digitalen Gewand: Wähle aus einer großen
   Sammlung schöner Motive und setze sie Teil für Teil zusammen – mit
   unterschiedlichen Schwierigkeitsstufen für Einsteiger und Profis.
 iframeSrc: 'https://jigsawpuzzledeluxe.h5games.usercontent.goog/v/5jfat3ipu2790/'
 thumbnail: /new-images/thumbnails/jigsaw-puzzle-deluxe.png
+urlstr: jigsaw-puzzle-deluxe
 tags:
   - puzzle
   - casual

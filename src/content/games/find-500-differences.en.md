@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Find 500 Differences"
-description: "Challenge your observation skills with Find 500 Differences. Compare two seemingly identical images and find all the subtle differences."
-iframeSrc: "https://find500differences2.h5games.usercontent.goog/v/4gu2tobroroug/"
+title: Find 500 Differences
+seoTitle: Play Find 500 Differences Online Free | FiddleBops
+description: >-
+  Challenge your observation skills with Find 500 Differences. Compare two
+  seemingly identical images and find all the subtle differences.
+iframeSrc: 'https://find500differences2.h5games.usercontent.goog/v/4gu2tobroroug/'
 thumbnail: /new-images/thumbnails/find-500-differences.png
-urlstr: "find-500-differences"
-score: "3.9/5  (1234 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: find-500-differences
+tags:
+  - puzzle
+  - casual
+  - thinky
+score: 3.9/5  (1234 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

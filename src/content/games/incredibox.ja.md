@@ -1,13 +1,16 @@
 ---
-title: "Incredibox - Play Incredibox Online"
-description: "Incrediboxは、キャラクターにサウンドを割り当ててループ音楽を作る音楽制作ゲームです。ドラッグ＆ドロップで直感的にミックスを作れます。"
-iframeSrc: "https://nom74100.github.io/in-box/"
-thumbnail: /new-images/thumbnails/incredibox.png
-urlstr: "incredibox"
-score: "4.9/5  (724 votes)"
-tags: ["incredibox", "incredibox online"]
 locale: ja
-releaseDate: 2025-12-04
+title: Incredibox
+seoTitle: 無料でIncrediboxをオンラインでプレイ | FiddleBops
+description: Incrediboxは、キャラクターにサウンドを割り当ててループ音楽を作る音楽制作ゲームです。ドラッグ＆ドロップで直感的にミックスを作れます。
+iframeSrc: 'https://nom74100.github.io/in-box/'
+thumbnail: /new-images/thumbnails/incredibox.png
+urlstr: incredibox
+tags:
+  - incredibox
+  - incredibox online
+score: 4.9/5  (724 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

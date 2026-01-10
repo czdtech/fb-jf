@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: google-solitaire
 title: Google Solitaire
+seoTitle: Spiele Google Solitaire kostenlos online | FiddleBops
 description: >-
   Klassisches Klondike-Solitär: Baue für jede Farbe einen Ablagestapel von Ass
   bis König auf, während du in den Tableau-Spalten absteigend in wechselnden
   Farben sortierst.
 iframeSrc: 'https://www.google.com/logos/fnbx/solitaire/standalone.html'
 thumbnail: /new-images/thumbnails/google-solitaire.jpg
+urlstr: google-solitaire
 tags:
   - solitaire
   - card

@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Slope
+seoTitle: 無料でSlopeをオンラインでプレイ | FiddleBops
 description: Slopeはエンドレスの3Dランナーです。ボールを転がして障害物を避け、できるだけ長く生き残ります。
 iframeSrc: 'https://webglmath.github.io/slope/'
 thumbnail: /new-images/thumbnails/slope.jpg
 urlstr: slope
-score: 4.0/5  (1197 votes)
 tags:
   - action
   - casual
+score: 4.0/5  (1197 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

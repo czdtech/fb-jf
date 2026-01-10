@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Basket Battle バスケット・バトル
+seoTitle: 無料でBasket Battle バスケット・バトルをオンラインでプレイ | FiddleBops
 description: >-
   「Basket
   Battle」は物理演算を駆使したバスケットボール対決です。弧を描いてシュートし、リバウンドを制し、スピーディーな試合展開で相手を圧倒しましょう。
 iframeSrc: 'https://1e2ocejsf0rm8.h5games.usercontent.goog/v/093f1a2jf2p98/'
 thumbnail: /new-images/thumbnails/basket-battle.png
 urlstr: basket-battle
-score: 3.9/5  (1728 votes)
 tags:
   - sports
   - basketball
+score: 3.9/5  (1728 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

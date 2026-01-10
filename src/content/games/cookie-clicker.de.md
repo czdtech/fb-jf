@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: cookie-clicker
 title: Cookie Clicker
+seoTitle: Spiele Cookie Clicker kostenlos online | FiddleBops
 description: >-
   Der ultimative Leitfaden für Cookie Clicker, das legendäre Incremental-Game.
   Erfahre Strategien, Ascension-Tipps, den Umgang mit Golden Cookies und
   Antworten auf häufige Fragen, um deine Keksproduktion zu maximieren.
 iframeSrc: 'https://freeonlinegames.github.io/cookie-clicker/'
 thumbnail: /new-images/thumbnails/cookie-clicker.jpg
+urlstr: cookie-clicker
 tags:
   - casual
   - clicker

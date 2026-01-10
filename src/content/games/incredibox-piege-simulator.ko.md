@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: incredibox-piege-simulator
 title: Incredibox Piege Simulator 트랩 시뮬레이터 모드
+seoTitle: Incredibox Piege Simulator 트랩 시뮬레이터 모드 무료 온라인 플레이 | FiddleBops
 description: >-
   그리드 기반 인터페이스로 어두운 트랩 비트를 만드는 팬메이드 모드 'Incredibox Piege Simulator' 가이드입니다. 808
   중심 사운드 팔레트와 루프 채우기 팁을 정리했습니다.
 iframeSrc: 'https://turbowarp.org/887559994/embed'
 thumbnail: /new-images/thumbnails/incredibox-piege-simulator.png
+urlstr: incredibox-piege-simulator
 tags:
   - music
   - fan-Made

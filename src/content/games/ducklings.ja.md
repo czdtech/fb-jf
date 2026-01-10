@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Ducklings ダックリングス
+seoTitle: 無料でDucklings ダックリングスをオンラインでプレイ | FiddleBops
 description: 「Ducklings」は癒やし系のアヒル救出ゲーム。池に迷子の子アヒルたちを集め、ボートを避けながら安全に巣まで連れて帰ろう。
 iframeSrc: 'https://g2.igroutka.ru/games/164/BkDlKfiWjEoZ2rcG/ducklings_io/'
 thumbnail: /new-images/thumbnails/ducklings.jpg
 urlstr: ducklings
-score: 4.0/5  (1129 votes)
 tags:
   - casual
   - arcade
+score: 4.0/5  (1129 votes)
 developer: Pelican Party
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

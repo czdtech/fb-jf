@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Duck Life ダックライフ
+seoTitle: 無料でDuck Life ダックライフをオンラインでプレイ | FiddleBops
 description: 「Duck Life」は元祖アヒル育成レースゲーム。ミニゲームでステータスを上げ、レースに勝利して牧場を救おう。
 iframeSrc: 'https://games.wixgames.co.uk/games/ducklife1/webgl/'
 thumbnail: /new-images/thumbnails/duck-life.jpg
 urlstr: duck-life
-score: 4.2/5  (1164 votes)
 tags:
   - racing
   - simulation
+score: 4.2/5  (1164 votes)
 developer: Wix Games
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

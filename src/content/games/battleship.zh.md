@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: battleship
 title: Battleship 海战棋
+seoTitle: 免费在线玩 Battleship 海战棋 | FiddleBops
 description: 《Battleship 海战棋》完整指南：带你熟悉经典海战棋的规则、舰船布阵策略、高效搜索开火模式，以及如何在对 手找到你之前先一步击沉对方整支舰队。
 iframeSrc: 'https://cdn.gamesnacks.com/battleship2/gameCode/index.html'
 thumbnail: /new-images/thumbnails/battleship.jpg
+urlstr: battleship
 tags:
   - strategy
   - casual

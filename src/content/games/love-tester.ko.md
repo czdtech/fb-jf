@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: love-tester
 title: Love Tester 러브 테스터
+seoTitle: Love Tester 러브 테스터 무료 온라인 플레이 | FiddleBops
 description: >-
   Love Tester는 이름을 입력하면 재미로 궁합 점수를 보여 주는 가벼운 놀이용 테스트로, 과학적 근거는 전혀 없으며 오로지 엔터테인먼트
   목적의 장난감입니다.
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/l/love-tester/v030/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=24cb4711-7c74-4831-8b1c-678985959174&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=176&original_ref=
 thumbnail: /new-images/thumbnails/love-tester.jpg
+urlstr: love-tester
 tags:
   - casual
   - novelty

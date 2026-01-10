@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: quest-bingo
 title: Quest Bingo 퀘스트 빙고
+seoTitle: Quest Bingo 퀘스트 빙고 무료 온라인 플레이 | FiddleBops
 description: >-
   고전 빙고 규칙에 모험 요소를 더한 게임입니다. 숫자를 찍어 패턴을 완성하고, 스테이지별 퀘스트를 달성하며 퍼즐 조각과 부스터를 수집해
   보세요.
 iframeSrc: 'https://52nk212336l1g.h5games.usercontent.goog/v/0smbj5p2kjk78/'
 thumbnail: /new-images/thumbnails/quest-bingo.png
+urlstr: quest-bingo
 tags:
   - card
   - puzzle

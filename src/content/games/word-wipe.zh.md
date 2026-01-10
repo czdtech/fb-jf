@@ -1,13 +1,11 @@
 ---
 locale: zh
-urlstr: word-wipe
-title: 'Word Wipe：连线消除拼字'
-description: >-
-  《Word Wipe》是一款节奏紧张的英文拼字消除游戏。
-  在字母方阵中连线拼出单词，让被选中的字母方块消失、上方字母下落，
-  在倒计时压力下不断清行冲分。
+title: Word Wipe：连线消除拼字
+seoTitle: 免费在线玩 Word Wipe：连线消除拼字 | FiddleBops
+description: 《Word Wipe》是一款节奏紧张的英文拼字消除游戏。 在字母方阵中连线拼出单词，让被选中的字母方块消失、上方字母下落， 在倒计时压力下不断清行冲分。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-word-wipe/'
 thumbnail: /new-images/thumbnails/word-wipe.jpg
+urlstr: word-wipe
 tags:
   - word-game
   - puzzle

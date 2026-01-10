@@ -1,14 +1,20 @@
 ---
-title: "Minecraft Cave Escape"
-description: "Minecraft Cave Escapeは脱出チャレンジです。洞窟をナビゲートし、パズルを解決し、障害物を避け、Minecraftスタイルで自由への道を見つけます。"
-iframeSrc: "https://turbowarp.org/1189417610/embed"
-thumbnail: /new-images/thumbnails/minecraft-cave-escape.png
-urlstr: "minecraft-cave-escape"
-score: "4.7/5  (354 votes)"
-tags: ["adventure", "puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-12-04
 locale: ja
+title: Minecraft Cave Escape
+seoTitle: 無料でMinecraft Cave Escapeをオンラインでプレイ | FiddleBops
+description: >-
+  Minecraft Cave
+  Escapeは脱出チャレンジです。洞窟をナビゲートし、パズルを解決し、障害物を避け、Minecraftスタイルで自由への道を見つけます。
+iframeSrc: 'https://turbowarp.org/1189417610/embed'
+thumbnail: /new-images/thumbnails/minecraft-cave-escape.png
+urlstr: minecraft-cave-escape
+tags:
+  - adventure
+  - puzzle
+  - thinky
+score: 4.7/5  (354 votes)
+developer: ''
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

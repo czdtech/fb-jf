@@ -1,17 +1,17 @@
 ---
 locale: zh
-urlstr: boxing-random
-title: "Boxing Random 随机拳击对决"
-description: >-
-  《Boxing Random 随机拳击对决》是一款物理系搞笑拳击游戏，双方角色动作与环境元素都充满随机性，考验你在混
-  乱节奏中抓时机出拳与防守。
-iframeSrc: 'https://app-197305.games.s3.yandex.net/197305/ymb675rkal3nz409zur9etesdbd74y4d/index.html'
+title: Boxing Random 随机拳击对决
+seoTitle: 免费在线玩 Boxing Random 随机拳击对决 | FiddleBops
+description: 《Boxing Random 随机拳击对决》是一款物理系搞笑拳击游戏，双方角色动作与环境元素都充满随机性，考验你在混 乱节奏中抓时机出拳与防守。
+iframeSrc: >-
+  https://app-197305.games.s3.yandex.net/197305/ymb675rkal3nz409zur9etesdbd74y4d/index.html
 thumbnail: /new-images/thumbnails/boxing-random.jpg
+urlstr: boxing-random
 tags:
   - sports
   - action
 score: 4.1/5  (855 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

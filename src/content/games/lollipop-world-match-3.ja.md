@@ -1,19 +1,20 @@
 ---
+locale: ja
 title: 'Lollipop World : match 3'
+seoTitle: '無料でLollipop World : match 3をオンラインでプレイ | FiddleBops'
 description: >-
   Lollipop World: Match
   3はキャンディパズラーです。パワーアップを組み合わせ、ブロッカーを破壊し、厳しい移動制限内でシーン目標を満たします。
 iframeSrc: 'https://4oij9suhguc58.h5games.usercontent.goog/v/1osssadggdrao/'
 thumbnail: /new-images/thumbnails/lollipop-world-match-3.jpg
 urlstr: lollipop-world-match-3
-score: 4.0/5  (1871 votes)
 tags:
   - puzzle
   - casual
   - thinky
+score: 4.0/5  (1871 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: friday-night-funkin
 title: Friday Night Funkin
+seoTitle: Jouez à Friday Night Funkin en ligne gratuitement | FiddleBops
 description: >-
   Battle de rythme : enchaîne les notes en rythme face à tes adversaires au fil
   des semaines ; les difficultés élevées ajoutent des patterns plus rapides et
   des notes longues piégeuses.
 iframeSrc: 'https://html-classic.itch.zone/html/2876359-1077558/index.html'
 thumbnail: /new-images/thumbnails/friday-night-funkin.jpg
+urlstr: friday-night-funkin
 tags:
   - rhythm
   - music

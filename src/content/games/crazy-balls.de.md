@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: crazy-balls
 title: Crazy Balls
+seoTitle: Spiele Crazy Balls kostenlos online | FiddleBops
 description: >-
   Crazy Balls ist ein Physik-Arcade-Spiel – lasse Bälle prallen, nutze Banden
   und schieße dich mit kontrollierten Schüssen durch Hindernis-Labyrinthe.
 iframeSrc: 'https://05hi0oufvrcro.h5games.usercontent.goog/v/0qeok5765gar8/'
 thumbnail: /new-images/thumbnails/crazy-balls.png
+urlstr: crazy-balls
 tags:
   - action
   - casual

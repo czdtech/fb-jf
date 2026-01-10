@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: fancy-pants-3
 title: Fancy Pants 3
+seoTitle: Spiele Fancy Pants 3 kostenlos online | FiddleBops
 description: >-
   Fancy Pants 3 bringt das Momentum-Platforming zurück – mit größeren Levels,
   mehr Geheimnissen und geschliffenen Wallruns und Slides in handgezeichneten
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj10/index.html
 thumbnail: /new-images/thumbnails/fancy-pants-3.jpg
+urlstr: fancy-pants-3
 tags:
   - platformer
   - action

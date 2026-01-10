@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: parking-rush
 title: Parking Rush
+seoTitle: Jouez à Parking Rush en ligne gratuitement | FiddleBops
 description: "Parking Rush est un jeu de puzzle de circulation amusant et exigeant\_: dessine un trajet pour chaque voiture jusqu'à sa place de parking de même couleur sans provoquer de collision."
 iframeSrc: 'https://7nq79vktk8fho.h5games.usercontent.goog/v/4u3a6m3hm9lj8/'
 thumbnail: /new-images/thumbnails/parking-rush.png
+urlstr: parking-rush
 tags:
   - puzzle
   - driving

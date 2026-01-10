@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "HexaMind"
-description: "HexaMind is a hex‑grid logic puzzler — place tiles, satisfy adjacency rules, and manage parity across honeycomb layouts."
-iframeSrc: "https://518ndvi54l1n0.h5games.usercontent.goog/v/608gefgjbkc88/"
+title: HexaMind
+seoTitle: Play HexaMind Online Free | FiddleBops
+description: >-
+  HexaMind is a hex‑grid logic puzzler — place tiles, satisfy adjacency rules,
+  and manage parity across honeycomb layouts.
+iframeSrc: 'https://518ndvi54l1n0.h5games.usercontent.goog/v/608gefgjbkc88/'
 thumbnail: /new-images/thumbnails/hexamind.png
-urlstr: "hexamind"
-score: "4.2/5  (2066 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: hexamind
+tags:
+  - puzzle
+  - thinky
+score: 4.2/5  (2066 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

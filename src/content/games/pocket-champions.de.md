@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: pocket-champions
 title: 'Pocket Champs: 3D Racing'
+seoTitle: 'Spiele Pocket Champs: 3D Racing kostenlos online | FiddleBops'
 description: >-
   Trainiere deinen Champ, rüste ihn mit den richtigen Gadgets aus und sieh zu,
   wie er ins Ziel sprintet! Ein Idle-Rennspiel, in dem Vorbereitung und
   Strategie entscheidend sind, wenn du zum Pocket Champ werden willst.
 iframeSrc: 'https://pocketchampions.h5games.usercontent.goog/v/24houhjfrhfi8/'
 thumbnail: /new-images/thumbnails/pocket-champions.png
+urlstr: pocket-champions
 tags:
   - strategy
   - casual

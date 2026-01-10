@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: panenka-football
 title: Panenka Football 파넨카 풋볼
+seoTitle: Panenka Football 파넨카 풋볼 무료 온라인 플레이 | FiddleBops
 description: 대담한 파넨카 킥을 중심으로 펼쳐지는 승부차기 게임입니다. 골키퍼의 움직임을 읽어 칩슛과 코너 슈트를 섞어 사용하며 심리전을 즐겨 보세요.
 iframeSrc: 'https://15n5pfdq70ung.h5games.usercontent.goog/v/2ftdtu6n19sk8/'
 thumbnail: /new-images/thumbnails/panenka-football.png
+urlstr: panenka-football
 tags:
   - sports
   - soccer

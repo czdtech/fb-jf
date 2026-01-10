@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: getting-over-it
 title: Getting Over It 망치 등반
+seoTitle: Getting Over It 망치 등반 무료 온라인 플레이 | FiddleBops
 description: >-
   커다란 항아리에 갇힌 남자가 망치 하나만으로 절벽과 기묘한 장애물을 기어오르는 극한 물리 등반 게임입니다. 섬세한 컨트롤이 요구되며, 작은
   실수 하나가 수분·수시간의 진행을 한 번에 날려 버릴 수 있습니다.
 iframeSrc: 'https://ubg77.github.io/fix/getting-over-it/'
 thumbnail: /new-images/thumbnails/getting-over-it.jpg
+urlstr: getting-over-it
 tags:
   - platformer
   - physics

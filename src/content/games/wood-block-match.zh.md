@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: wood-block-match
 title: Wood Block Match：木质方块消除
+seoTitle: 免费在线玩 Wood Block Match：木质方块消除 | FiddleBops
 description: >-
   《Wood Block Match》是一款节奏舒缓的木质方块拼图游戏。 拖动不同形状的木块填满行或列来清除棋盘，用聪明的布局预留空间、制造多行连消，
   在宁静木纹中挑战高分。
 iframeSrc: 'https://2rfr65hktjv5o.h5games.usercontent.goog/v/46h85f5g0sldo/'
 thumbnail: /new-images/thumbnails/wood-block-match.png
+urlstr: wood-block-match
 tags:
   - puzzle
   - thinky

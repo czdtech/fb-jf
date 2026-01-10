@@ -1,17 +1,17 @@
 ---
 locale: ko
-urlstr: sprunki-1996
-title: 'Sprunki 1996 스프룽키 1996'
+title: Sprunki 1996 스프룽키 1996
+seoTitle: Sprunki 1996 스프룽키 1996 무료 온라인 플레이 | FiddleBops
 description: >-
-  Sprunki 1996은 90년대 감성을 가득 담은 레트로 스타일 음악 게임입니다.
-  올드 PC 감성의 픽셀 아트와 간단하지만 중독성 있는 음악 제작 플레이를 결합해,
-  Sprunki·Incredibox 팬들에게 색다른 경험을 선사합니다.
+  Sprunki 1996은 90년대 감성을 가득 담은 레트로 스타일 음악 게임입니다. 올드 PC 감성의 픽셀 아트와 간단하지만 중독성 있는
+  음악 제작 플레이를 결합해, Sprunki·Incredibox 팬들에게 색다른 경험을 선사합니다.
 iframeSrc: 'https://html-classic.itch.zone/html/14634762/index.html'
 thumbnail: /new-images/thumbnails/sprunki-1996.png
+urlstr: sprunki-1996
 tags:
   - sprunki 1996
 score: 4.0/5  (122 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: kitchen-sorting
 title: Kitchen Sorting
+seoTitle: Juega a Kitchen Sorting en línea gratis | FiddleBops
 description: >-
   Kitchen Sorting es un puzle de categorización exprés: clasifica alimentos,
   utensilios y residuos bajo presión de tiempo evitando la contaminación
   cruzada.
 iframeSrc: 'https://757entlesmh4g.h5games.usercontent.goog/v/1r9oimecfevc0/'
 thumbnail: /new-images/thumbnails/kitchen-sorting.png
+urlstr: kitchen-sorting
 tags:
   - puzzle
   - thinky

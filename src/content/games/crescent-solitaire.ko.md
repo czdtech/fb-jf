@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: crescent-solitaire
 title: Crescent Solitaire 크레센트 솔리테어
+seoTitle: Crescent Solitaire 크레센트 솔리테어 무료 온라인 플레이 | FiddleBops
 description: >-
   반달 모양으로 펼쳐진 패 더미를 옮겨 기초 패를 완성해 가는 카드 솔리테어 변형인 Crescent Solitaire입니다. 차분하게 카드를
   정리하며 여유로운 시간을 보내 보세요.
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/crescent-solitaire-phaser/
 thumbnail: /new-images/thumbnails/crescent-solitaire.jpg
+urlstr: crescent-solitaire
 tags:
   - solitaire
   - card

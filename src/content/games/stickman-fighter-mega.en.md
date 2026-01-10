@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Stickman Fighter Mega"
-description: "Stickman Fighter Mega is a kinetic brawler — time parries, chain combos, and dismantle waves with specials and spacing."
-iframeSrc: "https://0f2fr1ttejsng.h5games.usercontent.goog/v/6dfsqbbtglo48/"
+title: Stickman Fighter Mega
+seoTitle: Play Stickman Fighter Mega Online Free | FiddleBops
+description: >-
+  Stickman Fighter Mega is a kinetic brawler — time parries, chain combos, and
+  dismantle waves with specials and spacing.
+iframeSrc: 'https://0f2fr1ttejsng.h5games.usercontent.goog/v/6dfsqbbtglo48/'
 thumbnail: /new-images/thumbnails/stickman-fighter-mega.jpg
-urlstr: "stickman-fighter-mega"
-score: "4.1/5  (1975 votes)"
-tags: ["stickman", "action"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: stickman-fighter-mega
+tags:
+  - stickman
+  - action
+score: 4.1/5  (1975 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

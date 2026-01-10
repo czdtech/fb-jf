@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: SUPERHOT
+seoTitle: 無料でSUPERHOTをオンラインでプレイ | FiddleBops
 description: SUPERHOTは、時間があなたの動きと共に動く革新的なFPSゲームです。戦略的に動いて敵を倒しましょう。
 iframeSrc: 'https://superhotgame.com/superhot-prototype-iframe'
 thumbnail: /new-images/thumbnails/superhot.jpg
 urlstr: superhot
-score: 3.9/5  (1186 votes)
 tags:
   - fps
   - strategy
   - innovative
-locale: ja
+score: 3.9/5  (1186 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

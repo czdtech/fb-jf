@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: bob-the-robber
 title: Bob the Robber 밥 더 로버
+seoTitle: Bob the Robber 밥 더 로버 무료 온라인 플레이 | FiddleBops
 description: >-
   잠입과 퍼즐 요소가 결합된 2D 스텔스 게임 시리즈 Bob the Robber입니다. 정의감(?) 넘치는 도둑 밥이 되어 경비원을 피해
   잠입하고, 카메라를 끄고, 금고를 털어 귀중한 전리품을 훔쳐 보세요.
 iframeSrc: >-
   https://app-190385.games.s3.yandex.net/190385/i7ty94goiswe8ohxdysos1uzmur0yfwk/index.html
 thumbnail: /new-images/thumbnails/bob-the-robber.jpg
+urlstr: bob-the-robber
 tags:
   - stealth
   - puzzle

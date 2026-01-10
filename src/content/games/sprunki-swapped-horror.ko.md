@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: sprunki-swapped-horror
 title: Sprunki Swapped Horror 스프룽키 스왑드 호러
+seoTitle: Sprunki Swapped Horror 스프룽키 스왑드 호러 무료 온라인 플레이 | FiddleBops
 description: >-
   Sprunki Swapped Horror는 캐릭터의 역할과 이미지를 뒤바꾸는 "스왑" 메커니즘으로, 익숙한 스프룽키 캐릭터를 새 사운드와
   공포 분위기로 재구성한 모드입니다.
 iframeSrc: 'https://turbowarp.org/1132681434/embed'
 thumbnail: /new-images/thumbnails/sprunki-swapped-horror.png
+urlstr: sprunki-swapped-horror
 tags:
   - sprunki swapped horror
   - sprunki swapped horror online

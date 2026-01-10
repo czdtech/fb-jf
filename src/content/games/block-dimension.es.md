@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: block-dimension
 title: Block Dimension
+seoTitle: Juega a Block Dimension en línea gratis | FiddleBops
 description: >-
   Adéntrate en Block Dimension, un juego de puzles en 3D que pondrá a prueba tu
   visión espacial. Gira la estructura y encaja los bloques a la perfección.
 iframeSrc: 'https://62dfg8ps4f7lg.h5games.usercontent.goog/v/0k3gcfq0ljti8/'
 thumbnail: /new-images/thumbnails/block-dimension.png
+urlstr: block-dimension
 tags:
   - puzzle
   - thinky

@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: my-space-pet
 title: 《My Space Pet》我的太空宠物
+seoTitle: 免费在线玩 《My Space Pet》我的太空宠物 | FiddleBops
 description: >-
   《My Space Pet》是一款星际主题的虚拟宠物养成游戏，你将收养一只名叫 Zuub
   的外星小生物，照顾它的日常起居、玩小游戏赚取金币，并为它布置独一无二的太空小家。
 iframeSrc: 'https://6jqt3hoth456g.h5games.usercontent.goog/v/6jqt3hoth456g/'
 thumbnail: /new-images/thumbnails/my-space-pet.png
+urlstr: my-space-pet
 tags:
   - casual
   - adventure

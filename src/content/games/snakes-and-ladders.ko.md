@@ -1,13 +1,13 @@
 ---
 locale: ko
-urlstr: snakes-and-ladders
-title: "Snakes And Ladders 뱀과 사다리"
+title: Snakes And Ladders 뱀과 사다리
+seoTitle: Snakes And Ladders 뱀과 사다리 무료 온라인 플레이 | FiddleBops
 description: >-
-  주사위를 굴려 말을 움직이며 뱀과 사다리를 오르내리는 클래식 보드
-  게임입니다. 사다리를 타고 앞서 나가고, 뱀을 밟으면 아래로 떨어지는
-  운빨 파티 게임을 즐겨 보세요.
+  주사위를 굴려 말을 움직이며 뱀과 사다리를 오르내리는 클래식 보드 게임입니다. 사다리를 타고 앞서 나가고, 뱀을 밟으면 아래로 떨어지는 운빨
+  파티 게임을 즐겨 보세요.
 iframeSrc: 'https://cdn.gamesnacks.com/snakesandladders/gameCode/index.html'
 thumbnail: /new-images/thumbnails/snakes-and-ladders.jpg
+urlstr: snakes-and-ladders
 tags:
   - board-game
   - classic

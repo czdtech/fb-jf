@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Table Tennis
+seoTitle: 無料でTable Tennisをオンラインでプレイ | FiddleBops
 description: Table Tennisは、クラシックな卓球ゲームです。パドルをコントロールしてボールを打ち返し、相手を倒しましょう。
 iframeSrc: 'https://tabletennis.h5games.usercontent.goog/v/4eeofbe4nfj1g/'
 thumbnail: /new-images/thumbnails/table-tennis.png
 urlstr: table-tennis
-score: 4.2/5  (1873 votes)
 tags:
   - sports
   - table tennis
   - arcade
-locale: ja
+score: 4.2/5  (1873 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 

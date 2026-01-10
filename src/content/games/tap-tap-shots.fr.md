@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: tap-tap-shots
 title: Tap Tap Shots
+seoTitle: Jouez à Tap Tap Shots en ligne gratuitement | FiddleBops
 description: >-
   Tap Tap Shots est un jeu de basket arcade addictif : tape pour faire rebondir
   le ballon et marque autant de paniers consecutifs que possible.
 iframeSrc: 'https://ubg77.github.io/game131022/tap-tap-shots/'
 thumbnail: /new-images/thumbnails/tap-tap-shots.jpg
+urlstr: tap-tap-shots
 tags:
   - sports
   - arcade

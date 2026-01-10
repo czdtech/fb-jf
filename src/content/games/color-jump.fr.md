@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: color-jump
 title: Color Jump
+seoTitle: Jouez à Color Jump en ligne gratuitement | FiddleBops
 description: "Color Jump est un runner à un seul tap\_: fais sauter ton personnage au bon moment, fais correspondre les couleurs et traverse des motifs changeants sans te tromper."
 iframeSrc: 'https://2sqb7s6hkuouo.h5games.usercontent.goog/v/251huhkdnons0/'
 thumbnail: /new-images/thumbnails/color-jump.png
+urlstr: color-jump
 tags:
   - action
   - casual

@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Gunspin
+seoTitle: 無料でGunspinをオンラインでプレイ | FiddleBops
 description: 反動推進アーケード：銃を発射して回転・飛行させ、弾薬を集め、ハザードを乗り越えてできるだけ遠くまで移動しましょう。
 iframeSrc: 'https://ubg44.github.io/GunSpin/'
 thumbnail: /new-images/thumbnails/gunspin.jpg
 urlstr: gunspin
-score: 4.1/5  (1211 votes)
 tags:
   - arcade
   - physics
+score: 4.1/5  (1211 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Western Sniper
+seoTitle: 無料でWestern Sniperをオンラインでプレイ | FiddleBops
 description: Western Sniperは、西部スナイパーゲームです。正確に狙って悪党を倒しましょう。
 iframeSrc: 'https://4oill7a9ltc9g.h5games.usercontent.goog/v/54hea44l6fm4o/'
 thumbnail: /new-images/thumbnails/western-sniper.png
 urlstr: western-sniper
-score: 4.1/5  (2016 votes)
 tags:
   - shooting
   - western
   - sniper
-locale: ja
+score: 4.1/5  (2016 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

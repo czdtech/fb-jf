@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: color-pixel-art
 title: Color Pixel Art Classic
+seoTitle: Juega a Color Pixel Art Classic en línea gratis | FiddleBops
 description: >-
   Relájate con este clásico juego de pintar por números en estilo pixel art.
   Elige un color, busca el número correspondiente y rellena los píxeles hasta
   revelar una ilustración completa y llena de detalle.
 iframeSrc: 'https://colorpixel.h5games.usercontent.goog/v/6ko86juonaau0/'
 thumbnail: /new-images/thumbnails/color-pixel-art.png
+urlstr: color-pixel-art
 tags:
   - puzzle
   - casual

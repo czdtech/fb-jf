@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: mahjong
 title: 《Mahjongg Solitaire》麻将连连看益智游戏
+seoTitle: 免费在线玩 《Mahjongg Solitaire》麻将连连看益智游戏 | FiddleBops
 description: >-
   《Mahjongg
   Solitaire》是一款基于中国传统麻将牌的单人消除益智游戏，你需要在限定布局中找出并消除一对对相同、且处于“开放”状态的牌，直到清空整块牌面。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjong/'
 thumbnail: /new-images/thumbnails/mahjong.jpg
+urlstr: mahjong
 tags:
   - board game
   - puzzle

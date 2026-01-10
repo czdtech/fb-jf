@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Descent ディセント
+seoTitle: 無料でDescent ディセントをオンラインでプレイ | FiddleBops
 description: 「Descent」はひたすら下へと降りていくアーケードアクション。壁キックを駆使し、トゲや罠を避けながら、深淵を目指せ。
 iframeSrc: 'https://g2.igroutka.ru/games/17/4tWRaCD7AOzxbTsE/descent/'
 thumbnail: /new-images/thumbnails/descent.jpg
 urlstr: descent
-score: 5.0/5  (1486 votes)
 tags:
   - arcade
   - skill
+score: 5.0/5  (1486 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

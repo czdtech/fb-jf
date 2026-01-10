@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: basketball-master-2
 title: Basketball Master 2 篮球大师 2
+seoTitle: 免费在线玩 Basketball Master 2 篮球大师 2 | FiddleBops
 description: >-
   在《Basketball Master 2（篮球大师 2）》中，通过拖动瞄准、控制力度，把篮球穿过各种障碍精准投入篮筐。这篇指
   南会帮你掌握投篮手感、破坏木板与冰块的技巧，以及如何稳定打出高分。
 iframeSrc: 'https://basketballmaster2.h5games.usercontent.goog/v/267j5oehq25q0/'
 thumbnail: /new-images/thumbnails/basketball-master-2.png
+urlstr: basketball-master-2
 tags:
   - sports
   - basketball

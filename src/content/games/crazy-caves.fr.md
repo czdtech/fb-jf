@@ -1,11 +1,12 @@
 ---
 locale: fr
-urlstr: crazy-caves
 title: Crazy Caves
+seoTitle: Jouez à Crazy Caves en ligne gratuitement | FiddleBops
 description: "Crazy Caves est un jeu de tir dans une mine\_: lance ta pioche ou tes projectiles pour briser les rochers et récupérer des trésors avant qu’ils ne t’écrasent."
 iframeSrc: >-
   https://crazycaves.h5games.usercontent.goog/v/24bc2c61-c599-4c5a-9fde-fd3a14fd28a6/
 thumbnail: /new-images/thumbnails/crazy-caves.jpg
+urlstr: crazy-caves
 tags:
   - action
   - casual

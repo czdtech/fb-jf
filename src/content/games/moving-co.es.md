@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: moving-co
-title: Moving Co - Día de mudanza convertido en puzle
+title: Moving Co
+seoTitle: Juega a Moving Co en línea gratis | FiddleBops
 description: >-
   Moving Co. convierte una mudanza en un puzle ligero: planifica rutas,
   transporta los objetos con cuidado y vence al reloj con una logística
   ordenada.
 iframeSrc: 'https://movingco.h5games.usercontent.goog/v/3crgi5efdnml0/'
 thumbnail: /new-images/thumbnails/moving-co.png
+urlstr: moving-co
 tags:
   - casual
   - thinky

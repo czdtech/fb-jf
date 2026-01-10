@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: tower-crash-3d
 title: Tower Crash 3D 타워 크래시 3D
+seoTitle: Tower Crash 3D 타워 크래시 3D 무료 온라인 플레이 | FiddleBops
 description: >-
   형형색색 블록으로 쌓인 탑을 부수는 3D 물리 퍼즐 게임입니다. 포탄 색과 같은 블록만 파괴되므로, 제한된 발사 횟수 안에 지지대를 노려 한
   번에 탑을 무너뜨려 보세요.
 iframeSrc: >-
   https://towercrash3d.h5games.usercontent.goog/v/7c54afc1-3ca4-4121-a52a-9ea74e30f0d7/
 thumbnail: /new-images/thumbnails/tower-crash-3d.jpg
+urlstr: tower-crash-3d
 tags:
   - action
   - shooting

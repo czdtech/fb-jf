@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Thief Puzzle"
-description: "Thief Puzzle is a mischievous rope‑arm puzzler — stretch, avoid traps, and grab targets with clever angles and timing."
-iframeSrc: "https://5mubkj30k8998.h5games.usercontent.goog/v/79n1cktk92370/"
+title: Thief Puzzle
+seoTitle: Play Thief Puzzle Online Free | FiddleBops
+description: >-
+  Thief Puzzle is a mischievous rope‑arm puzzler — stretch, avoid traps, and
+  grab targets with clever angles and timing.
+iframeSrc: 'https://5mubkj30k8998.h5games.usercontent.goog/v/79n1cktk92370/'
 thumbnail: /new-images/thumbnails/thief-puzzle.png
-urlstr: "thief-puzzle"
-score: "4.0/5  (1876 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: thief-puzzle
+tags:
+  - puzzle
+  - thinky
+score: 4.0/5  (1876 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

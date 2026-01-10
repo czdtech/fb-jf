@@ -1,17 +1,18 @@
 ---
 locale: es
-urlstr: sprunki-interactive-beta
-title: 'Sprunki Interactive BETA - Juega a Sprunki Interactive BETA en línea'
+title: Sprunki Interactive BETA
+seoTitle: Juega a Sprunki Interactive BETA en línea gratis | FiddleBops
 description: >-
   Sprunki Interactive BETA no es una simple actualización de Sprunki, sino un
   experimento interactivo que añade movimiento dinámico de personajes y
   colisiones impredecibles para crear un paisaje sonoro caótico y sorprendente.
 iframeSrc: 'https://turbowarp.org/1090663998/embed'
 thumbnail: /new-images/thumbnails/sprunki-interactive-beta.png
+urlstr: sprunki-interactive-beta
 tags:
   - sprunki interactive beta
 score: 4.0/5  (407 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

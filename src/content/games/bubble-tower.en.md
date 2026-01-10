@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Bubble Tower 3D"
-description: "Take on a new dimension of bubble shooting in Bubble Tower 3D! Rotate the tower, aim your shot, and match three or more colored bubbles to clear the board before the bubbles reach the bottom."
-iframeSrc: "https://bubbletower.h5games.usercontent.goog/v/7ebcukaef3voo/"
+title: Bubble Tower 3D
+seoTitle: Play Bubble Tower 3D Online Free | FiddleBops
+description: >-
+  Take on a new dimension of bubble shooting in Bubble Tower 3D! Rotate the
+  tower, aim your shot, and match three or more colored bubbles to clear the
+  board before the bubbles reach the bottom.
+iframeSrc: 'https://bubbletower.h5games.usercontent.goog/v/7ebcukaef3voo/'
 thumbnail: /new-images/thumbnails/bubble-tower.png
-urlstr: "bubble-tower"
-score: "4.3/5  (1950 votes)"
-tags: ["puzzle", "shooting", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: bubble-tower
+tags:
+  - puzzle
+  - shooting
+  - casual
+score: 4.3/5  (1950 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

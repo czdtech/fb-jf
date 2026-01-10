@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: gangsters
 title: Gangsters
+seoTitle: Spiele Gangsters kostenlos online | FiddleBops
 description: >-
   Gangsters ist ein physikbasierter Ragdoll-Shooter: Zwei
   Strichmännchen-Gangster springen und schießen auf Dächern – time Sprünge und
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://app-185146.games.s3.yandex.net/185146/4mtxwijatlm9neect542qv9nbcqetm7u/index.html
 thumbnail: /new-images/thumbnails/gangsters.jpg
+urlstr: gangsters
 tags:
   - action
   - physics

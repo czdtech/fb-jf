@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: football-stars
 title: Football Stars 풋볼 스타즈
+seoTitle: Football Stars 풋볼 스타즈 무료 온라인 플레이 | FiddleBops
 description: '간단한 조작으로 즐기는 캐주얼 축구 게임입니다. 팀을 선택해 패스와 슛, 태클을 활용하며 빠른 템포의 경기를 치러 보세요.'
 iframeSrc: 'https://0bqhpbln445co.h5games.usercontent.goog/v/2to6kd3co500g/'
 thumbnail: /new-images/thumbnails/football-stars.png
+urlstr: football-stars
 tags:
   - sports
   - football

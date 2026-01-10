@@ -1,13 +1,13 @@
 ---
 locale: zh
-urlstr: word-scramble
-title: 'Word Scramble：字母重组猜词'
+title: Word Scramble：字母重组猜词
+seoTitle: 免费在线玩 Word Scramble：字母重组猜词 | FiddleBops
 description: >-
-  《Word Scramble》是一款经典的英文字母重组游戏。
-  在限定时间内把打乱顺序的字母重新排列成正确单词，
+  《Word Scramble》是一款经典的英文字母重组游戏。 在限定时间内把打乱顺序的字母重新排列成正确单词，
   一边训练词汇量，一边考验你的反应与模式识别能力。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/word-scramble/'
 thumbnail: /new-images/thumbnails/word-scramble.jpg
+urlstr: word-scramble
 tags:
   - word-game
   - puzzle

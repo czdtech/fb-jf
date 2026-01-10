@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: differences-find-quest
 title: Differences Find Quest 每日找不同任务
+seoTitle: 免费在线玩 Differences Find Quest 每日找不同任务 | FiddleBops
 description: >-
   《Differences Find Quest 每日找不同任务》是一款细节丰富的找不同游戏。通过对比两张看
   似相同的图片，标记所有差异，并合理使用提示完成关卡。
 iframeSrc: 'https://4rsldln0df32g.h5games.usercontent.goog/v/1hcmcbpl76s40/'
 thumbnail: /new-images/thumbnails/differences-find-quest.png
+urlstr: differences-find-quest
 tags:
   - puzzle
   - thinky

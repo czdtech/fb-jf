@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Santa's Quest"
-description: "Santa's Quest is a festive puzzle adventure — solve simple objectives, clear routes, and deliver gifts on time."
-iframeSrc: "https://santasquest.h5games.usercontent.goog/v/737gsbva7bkqo/"
+title: Santa's Quest
+seoTitle: Play Santa's Quest Online Free | FiddleBops
+description: >-
+  Santa's Quest is a festive puzzle adventure — solve simple objectives, clear
+  routes, and deliver gifts on time.
+iframeSrc: 'https://santasquest.h5games.usercontent.goog/v/737gsbva7bkqo/'
 thumbnail: /new-images/thumbnails/santas-quest.png
-urlstr: "santas-quest"
-score: "3.9/5  (1688 votes)"
-tags: ["puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: santas-quest
+tags:
+  - puzzle
+  - casual
+score: 3.9/5  (1688 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

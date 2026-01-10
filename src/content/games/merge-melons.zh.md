@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: merge-melons
 title: 《Merge Melons》西瓜合成大挑战
+seoTitle: 免费在线玩 《Merge Melons》西瓜合成大挑战 | FiddleBops
 description: >-
   《Merge Melons》是一款受 Suika Game
   启发的物理合成益智游戏，你需要不断投放并合成水果，目标是合成出巨型西瓜，同时避免水果堆叠触碰到容器顶部。
 iframeSrc: 'https://mergemelons.h5games.usercontent.goog/v/7526h5to2d1v0/'
 thumbnail: /new-images/thumbnails/merge-melons.png
+urlstr: merge-melons
 tags:
   - puzzle
   - casual

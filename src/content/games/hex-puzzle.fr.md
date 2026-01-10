@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: hex-puzzle
 title: Hex Puzzle
+seoTitle: Jouez à Hex Puzzle en ligne gratuitement | FiddleBops
 description: >-
   Hex Puzzle est un puzzle de blocs exigeant sur une grille hexagonale : place
   des pièces en forme d'hexagones pour compléter des lignes dans toutes les
   directions, sans jamais pouvoir les faire pivoter.
 iframeSrc: 'https://blockpuzzle.h5games.usercontent.goog/v/3rkr8c5j9b23o/'
 thumbnail: /new-images/thumbnails/hex-puzzle.jpg
+urlstr: hex-puzzle
 tags:
   - puzzle
   - thinky

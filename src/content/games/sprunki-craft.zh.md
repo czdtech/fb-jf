@@ -1,16 +1,17 @@
 ---
 locale: zh
-urlstr: sprunki-craft
-title: "Sprunki Craft \U0001F3AE 在线玩 Sprunki Craft"
+title: Sprunki Craft
+seoTitle: 免费在线玩 Sprunki Craft | FiddleBops
 description: >-
   Sprunki Craft 是 Minecraft 和 Incredibox 的完美结合，为玩家提供了一个充满创意和乐趣的音乐创作平台。快来加入
   Sprunki Craft 的世界，用你熟悉的 Minecraft 角色创作属于你自己的专属音乐作品！
 iframeSrc: 'https://www.minijuegos.com/embed/sprunki-craft'
 thumbnail: /new-images/thumbnails/sprunki-craft.jpg
-score: 4.9/5  (724 votes)
+urlstr: sprunki-craft
 tags:
   - sprunki craft
   - sprunki craft online
+score: 4.9/5  (724 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

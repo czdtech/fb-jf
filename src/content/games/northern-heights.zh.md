@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: northern-heights
 title: 北方高地
+seoTitle: 免费在线玩 北方高地 | FiddleBops
 description: 在北方高地开启激动人心的滑雪之旅。穿越陡峭的下坡，表演特技，收集金币成为滑雪传奇。
 iframeSrc: 'https://northernheights.h5games.usercontent.goog/v/1pct901lj7uko/'
 thumbnail: /new-images/thumbnails/northern-heights.png
+urlstr: northern-heights
 tags:
   - sports
   - action

@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: crossword-puzzles
 title: Crossword Puzzles 테마 십자말 모음
+seoTitle: Crossword Puzzles 테마 십자말 모음 무료 온라인 플레이 | FiddleBops
 description: >-
   다양한 테마가 적용된 십자말 퍼즐을 즐길 수 있는 Crossword Puzzles입니다. 가로·세로 힌트를 풀어 격자를 완성하고, 퍼즐마다
   숨겨진 공통 주제를 찾아보세요.
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/best-free-themed-puzzles/
 thumbnail: /new-images/thumbnails/crossword-puzzles.jpg
+urlstr: crossword-puzzles
 tags:
   - word
   - puzzle

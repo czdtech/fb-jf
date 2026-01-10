@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: hole-io
 title: Hole io
+seoTitle: Spiele Hole io kostenlos online | FiddleBops
 description: >-
   Stadtverschlingendes .io-Spiel: Steuere ein Schwarzes Loch, friss Objekte,
   wachse immer weiter und übertrumpfe oder eliminiere deine Rivalen auf der
   Karte.
 iframeSrc: 'https://holeio.com/'
 thumbnail: /new-images/thumbnails/hole-io.jpg
+urlstr: hole-io
 tags:
   - io
   - arcade

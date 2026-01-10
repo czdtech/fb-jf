@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Tap Tap Shots"
-description: "Test your timing and rhythm in Tap-Tap Shots, an addictive one-touch basketball game. Tap to make the ball bounce and score as many consecutive baskets as you can. Find your rhythm, aim for clean shots, and set the ball on fire to achieve a high score!"
-iframeSrc: "https://ubg77.github.io/game131022/tap-tap-shots/"
+title: Tap Tap Shots
+seoTitle: Play Tap Tap Shots Online Free | FiddleBops
+description: >-
+  Test your timing and rhythm in Tap-Tap Shots, an addictive one-touch
+  basketball game. Tap to make the ball bounce and score as many consecutive
+  baskets as you can. Find your rhythm, aim for clean shots, and set the ball on
+  fire to achieve a high score!
+iframeSrc: 'https://ubg77.github.io/game131022/tap-tap-shots/'
 thumbnail: /new-images/thumbnails/tap-tap-shots.jpg
-urlstr: "tap-tap-shots"
-score: "4.9/5  (415 votes)"
-tags: ["sports", "arcade", "rhythm"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: tap-tap-shots
+tags:
+  - sports
+  - arcade
+  - rhythm
+score: 4.9/5  (415 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

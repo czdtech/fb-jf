@@ -1,14 +1,15 @@
 ---
 locale: es
-urlstr: cookie-clicker
-title: "Cookie Clicker"
+title: Cookie Clicker
+seoTitle: Juega a Cookie Clicker en línea gratis | FiddleBops
 description: >-
   Guía definitiva de Cookie Clicker, el legendario juego incremental. Descubre
-  estrategias de juego, trucos para la Ascensión, el uso de las Golden Cookies
-  y respuestas a las dudas más frecuentes para maximizar tu producción de
+  estrategias de juego, trucos para la Ascensión, el uso de las Golden Cookies y
+  respuestas a las dudas más frecuentes para maximizar tu producción de
   galletas.
 iframeSrc: 'https://freeonlinegames.github.io/cookie-clicker/'
 thumbnail: /new-images/thumbnails/cookie-clicker.jpg
+urlstr: cookie-clicker
 tags:
   - casual
   - clicker

@@ -1,13 +1,13 @@
 ---
 locale: ko
-urlstr: stickman-fighter-mega
-title: 'Stickman Fighter Mega 스틱맨 파이터 메가'
+title: Stickman Fighter Mega 스틱맨 파이터 메가
+seoTitle: Stickman Fighter Mega 스틱맨 파이터 메가 무료 온라인 플레이 | FiddleBops
 description: >-
-  Stickman Fighter Mega는 패링 타이밍과 거리 조절이 중요한 2D 스틱맨 벨트스크롤
-  액션 게임입니다. 적의 공격을 받아치고 콤보와 스페셜 스킬로 몰려오는 적
-  물결을 쓸어 버리세요.
+  Stickman Fighter Mega는 패링 타이밍과 거리 조절이 중요한 2D 스틱맨 벨트스크롤 액션 게임입니다. 적의 공격을 받아치고
+  콤보와 스페셜 스킬로 몰려오는 적 물결을 쓸어 버리세요.
 iframeSrc: 'https://0f2fr1ttejsng.h5games.usercontent.goog/v/6dfsqbbtglo48/'
 thumbnail: /new-images/thumbnails/stickman-fighter-mega.jpg
+urlstr: stickman-fighter-mega
 tags:
   - stickman
   - action

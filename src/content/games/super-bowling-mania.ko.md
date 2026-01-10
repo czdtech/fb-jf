@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: super-bowling-mania
 title: Super Bowling Mania 슈퍼 볼링 매니아
+seoTitle: Super Bowling Mania 슈퍼 볼링 매니아 무료 온라인 플레이 | FiddleBops
 description: >-
   Super Bowling Mania는 간단한 조작으로 스트라이크를 노릴 수 있는 캐주얼 볼링 게임입니다. 각 레인의 패턴과 곡선을 읽고,
   각도와 힘 조절로 시원한 한 방을 터뜨려 보세요.
 iframeSrc: 'https://2tm5ud1ghg66o.h5games.usercontent.goog/v/6ifi8lgb3gv0g/'
 thumbnail: /new-images/thumbnails/super-bowling-mania.png
+urlstr: super-bowling-mania
 tags:
   - sports
   - casual

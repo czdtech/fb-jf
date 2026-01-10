@@ -1,13 +1,16 @@
 ---
 locale: es
-urlstr: baseball
 title: Doodle Baseball béisbol doodle del 4 de julio
+seoTitle: >-
+  Juega a Doodle Baseball béisbol doodle del 4 de julio en línea gratis |
+  FiddleBops
 description: >-
   Doodle Baseball es un encantador juego arcade de bateo con estética doodle.
   Aprende a jugar, consigue más jonrones, domina el momento del bateo y resuelve
   las dudas más comunes.
 iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
 thumbnail: /new-images/thumbnails/baseball.jpg
+urlstr: baseball
 tags:
   - casual
   - sports

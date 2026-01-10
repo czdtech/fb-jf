@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: puzzle-pieces
 title: Puzzle Pieces
+seoTitle: Jouez à Puzzle Pieces en ligne gratuitement | FiddleBops
 description: "Puzzle Pieces propose des casse‑têtes épurés\_: fais pivoter les pièces, emboîte les formes et remplis le plateau sans laisser de trou."
 iframeSrc: 'https://05c9vfh919cbg.h5games.usercontent.goog/v/0ki2bua5asq00/'
 thumbnail: /new-images/thumbnails/puzzle-pieces.png
+urlstr: puzzle-pieces
 tags:
   - puzzle
   - thinky

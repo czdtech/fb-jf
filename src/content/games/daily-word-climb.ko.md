@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: daily-word-climb
 title: Daily Word Climb 데일리 워드 클라임
+seoTitle: Daily Word Climb 데일리 워드 클라임 무료 온라인 플레이 | FiddleBops
 description: >-
   매일 주어지는 글자 퍼즐에서 알맞은 단어를 찾아 격자를 완성해 보세요. 타일 색깔 힌트를 활용해 글자의 올바른 위치를 추리하는 논리형 단어
   게임입니다.
 iframeSrc: 'https://7j9i6247552ro.h5games.usercontent.goog/v/1g49kcc7pdiio/'
 thumbnail: /new-images/thumbnails/daily-word-climb.png
+urlstr: daily-word-climb
 tags:
   - puzzle
   - thinky

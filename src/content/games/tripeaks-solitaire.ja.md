@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: TriPeaks Solitaire
+seoTitle: 無料でTriPeaks Solitaireをオンラインでプレイ | FiddleBops
 description: TriPeaks Solitaireは、クラシックなトライピークスソリティアゲームです。3つのピラミッドからカードを消しましょう。
 iframeSrc: 'https://tripeakssolitaire.h5games.usercontent.goog/v/4v3d7g06n6rug/'
 thumbnail: /new-images/thumbnails/tripeaks-solitaire.png
 urlstr: tripeaks-solitaire
-score: 4.5/5  (2600 votes)
 tags:
   - solitaire
   - cards
   - strategy
-locale: ja
+score: 4.5/5  (2600 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: daily-word-climb
 title: Daily Word Climb
+seoTitle: Spiele Daily Word Climb kostenlos online | FiddleBops
 description: >-
   Tägliche Worträtsel-Herausforderung: Tausche Buchstaben im Gitter, bilde die
   richtigen Wörter und nutze Farbhilfe, um Positionen zu deduzieren – alles
   innerhalb eines begrenzten Zuglimits.
 iframeSrc: 'https://7j9i6247552ro.h5games.usercontent.goog/v/1g49kcc7pdiio/'
 thumbnail: /new-images/thumbnails/daily-word-climb.png
+urlstr: daily-word-climb
 tags:
   - puzzle
   - thinky

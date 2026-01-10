@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: gladihoppers
 title: Gladihoppers
+seoTitle: Spiele Gladihoppers kostenlos online | FiddleBops
 description: >-
   Gladihoppers ist ein verrückter 2D-Gladiatorenkampf mit hüpfender Physik.
   Rüste deinen Kämpfer mit Waffen, Rüstungen und Schilden aus, timinge Stöße und
@@ -9,6 +9,7 @@ description: >-
   oben.
 iframeSrc: 'https://m.igroutka.ru/g-1/113/Gladihoppers/'
 thumbnail: /new-images/thumbnails/gladihoppers.jpg
+urlstr: gladihoppers
 tags:
   - fighting
   - action

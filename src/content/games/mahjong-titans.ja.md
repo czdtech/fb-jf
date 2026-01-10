@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Mahjong Titans
+seoTitle: 無料でMahjong Titansをオンラインでプレイ | FiddleBops
 description: 麻雀タイルのペアを消してレイアウトをクリアする、定番のタイルマッチパズルです。複数の難易度で遊べます。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/mahjong-titans.html'
 thumbnail: /new-images/thumbnails/mahjong-titans.jpg
 urlstr: mahjong-titans
-score: 4.0/5  (628 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.0/5  (628 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

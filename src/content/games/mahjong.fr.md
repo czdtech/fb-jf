@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: mahjong
 title: Mahjong
+seoTitle: Jouez à Mahjong en ligne gratuitement | FiddleBops
 description: >-
   Mahjongg Solitaire est un puzzle classique pour un joueur basé sur des tuiles
   de mahjong chinoises traditionnelles, où tu dois associer des paires ouvertes
   identiques pour vider le plateau.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjong/'
 thumbnail: /new-images/thumbnails/mahjong.jpg
+urlstr: mahjong
 tags:
   - board game
   - puzzle

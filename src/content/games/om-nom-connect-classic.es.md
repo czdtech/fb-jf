@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: om-nom-connect-classic
-title: Om Nom Connect Classic - Conecta fichas con Om Nom
+title: Om Nom Connect Classic
+seoTitle: Juega a Om Nom Connect Classic en línea gratis | FiddleBops
 description: >-
   Conéctate con Om Nom en este clásico puzle de emparejar fichas. Encuentra
   parejas idénticas con Om Nom y sus amigos y limpia el tablero conectándolas
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://omnomconnectclassic.h5games.usercontent.goog/v/6bc88dac-9f6b-4f2f-8c85-e715c899bb63/
 thumbnail: /new-images/thumbnails/om-nom-connect-classic.jpg
+urlstr: om-nom-connect-classic
 tags:
   - puzzle
   - casual

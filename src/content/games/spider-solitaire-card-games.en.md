@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Spider Solitaire: Card Games"
-description: "Challenge yourself with Spider Solitaire, a popular variant of the classic card game. The objective is to clear the tableau by building eight full sequences of cards from King down to Ace. With adjustable difficulty levels (1, 2, or 4 suits), it's a strategic puzzle for all players."
-iframeSrc: "https://ubg98.github.io/SpiderSolitaire/"
+title: 'Spider Solitaire: Card Games'
+seoTitle: 'Play Spider Solitaire: Card Games Online Free | FiddleBops'
+description: >-
+  Challenge yourself with Spider Solitaire, a popular variant of the classic
+  card game. The objective is to clear the tableau by building eight full
+  sequences of cards from King down to Ace. With adjustable difficulty levels
+  (1, 2, or 4 suits), it's a strategic puzzle for all players.
+iframeSrc: 'https://ubg98.github.io/SpiderSolitaire/'
 thumbnail: /new-images/thumbnails/spider-solitaire-card-games.jpg
-urlstr: "spider-solitaire-card-games"
-score: "4.2/5  (1141 votes)"
-tags: ["card-game", "puzzle", "strategy"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: spider-solitaire-card-games
+tags:
+  - card-game
+  - puzzle
+  - strategy
+score: 4.2/5  (1141 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

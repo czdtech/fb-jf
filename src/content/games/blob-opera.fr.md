@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: blob-opera
-title: "Blob Opera"
-description: "Blob Opera est une expérience musicale interactive : fais glisser quatre blobs chanteurs pour créer ton propre mini‑opéra sans aucune connaissance musicale."
-iframeSrc: "https://gacembed.withgoogle.com/blob-opera/"
+title: Blob Opera
+seoTitle: Jouez à Blob Opera en ligne gratuitement | FiddleBops
+description: "Blob Opera est une expérience musicale interactive\_: fais glisser quatre blobs chanteurs pour créer ton propre mini‑opéra sans aucune connaissance musicale."
+iframeSrc: 'https://gacembed.withgoogle.com/blob-opera/'
 thumbnail: /new-images/thumbnails/blob-opera.jpg
+urlstr: blob-opera
 tags:
   - music
   - casual

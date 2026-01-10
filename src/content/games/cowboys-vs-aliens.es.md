@@ -1,14 +1,16 @@
 ---
 locale: es
-urlstr: cowboys-vs-aliens
-title: "Cowboys vs Aliens"
+title: Cowboys vs Aliens
+seoTitle: Juega a Cowboys vs Aliens en línea gratis | FiddleBops
 description: >-
   Guía completa del tema "Cowboys vs Aliens". Descubre los tipos de juego más
-  habituales (defensa de torres, juego de disparos de acción), estrategias, controles y
-  consejos para defender el Salvaje Oeste de una invasión alienígena.
+  habituales (defensa de torres, juego de disparos de acción), estrategias,
+  controles y consejos para defender el Salvaje Oeste de una invasión
+  alienígena.
 iframeSrc: >-
   https://app-183000.games.s3.yandex.net/183000/ej1ob1cdiuv0fq3vw88l1k7pakdngmk7/index.html
 thumbnail: /new-images/thumbnails/cowboys-vs-aliens.jpg
+urlstr: cowboys-vs-aliens
 tags:
   - action
   - shooting

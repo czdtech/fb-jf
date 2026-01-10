@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: secret-agent
 title: Secret Agent
+seoTitle: Jouez à Secret Agent en ligne gratuitement | FiddleBops
 description: "Secret Agent est un jeu d’infiltration‑action\_: faufile‑toi derrière les gardes, désactive les pièges et remplis tes objectifs en utilisant tes gadgets et un timing millimétré."
 iframeSrc: 'https://087cce7dimlq8.h5games.usercontent.goog/v/6na8sphqpnhlo/'
 thumbnail: /new-images/thumbnails/secret-agent.png
+urlstr: secret-agent
 tags:
   - action
   - puzzle

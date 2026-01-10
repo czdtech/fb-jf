@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: fuzzies
 title: Fuzzies 毛球泡泡龙
+seoTitle: 免费在线玩 Fuzzies 毛球泡泡龙 | FiddleBops
 description: Fuzzies 是一款颜色匹配式泡泡射击游戏，瞄准并射出毛绒毛球， 通过同色连线引爆消除、使用增益道具，阻止上方墙面压到最底部。
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=662&original_ref=
 thumbnail: /new-images/thumbnails/fuzzies.jpg
+urlstr: fuzzies
 tags:
   - puzzle
   - match-3

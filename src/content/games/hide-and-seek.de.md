@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: hide-and-seek
 title: Hide And Seek!
+seoTitle: Spiele Hide And Seek! kostenlos online | FiddleBops
 description: >-
   Lockeres Versteck- und Fangspiel von oben: Als Suchender jagst du Spieler mit
   Sichtkegel und Sprints, als Versteckter mischst du dich unter NPCs, sammelst
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/YWRIxUAXudnq4HO1/rvvASMiM/239942ce1a1349f6bcc9d312b32c5c3b/
 thumbnail: /new-images/thumbnails/hide-and-seek.jpg
+urlstr: hide-and-seek
 tags:
   - stealth
   - arcade

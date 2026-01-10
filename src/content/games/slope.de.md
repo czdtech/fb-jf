@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: slope
 title: Slope
+seoTitle: Spiele Slope kostenlos online | FiddleBops
 description: >-
   Slope ist das originale Endless-Runner-Spiel, in dem du eine grüne Kugel eine
   steile Rampe hinuntersteuerst, roten Hindernissen ausweichst und versuchst, in
   diesem fordernden, süchtig machenden Lauf so lange wie möglich zu überleben.
 iframeSrc: 'https://webglmath.github.io/slope/'
 thumbnail: /new-images/thumbnails/slope.jpg
+urlstr: slope
 tags:
   - endless runner
   - original

@@ -1,14 +1,14 @@
 ---
 locale: es
-urlstr: incredibox-creatophobos
-title: "Incredibox Creatophobos"
+title: Incredibox Creatophobos
+seoTitle: Juega a Incredibox Creatophobos en línea gratis | FiddleBops
 description: >-
   Descubre los secretos de "Incredibox Creatophobos", un inquietante mod
-  fan-made de terror. Esta guía explica su paleta sonora monstruosa e
-  industrial y ofrece consejos para crear paisajes sonoros realmente
-  aterradores.
+  fan-made de terror. Esta guía explica su paleta sonora monstruosa e industrial
+  y ofrece consejos para crear paisajes sonoros realmente aterradores.
 iframeSrc: 'https://turbowarp.org/1041902515/embed'
 thumbnail: /new-images/thumbnails/incredibox-creatophobos.png
+urlstr: incredibox-creatophobos
 tags:
   - music
   - horror

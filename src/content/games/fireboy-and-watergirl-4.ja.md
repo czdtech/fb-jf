@@ -1,14 +1,19 @@
 ---
-title: "Fireboy And Watergirl 4"
-description: "「Fireboy and Watergirl 4: The Crystal Temple」の決定版ガイド。2人協力プレイのプラットフォーマーで、クリスタルポータルのマスター方法、パズルのヒント、操作方法、FAQを学びましょう。"
-iframeSrc: "https://slope-game.github.io/fireboy-water-4/"
-thumbnail: /new-images/thumbnails/fireboy-and-watergirl-4.jpg
-urlstr: "fireboy-and-watergirl-4"
-score: "4.6/5  (117 votes)"
-tags: ["casual", "rhythm"]
-developer: ""
-releaseDate: 2025-08-16
 locale: ja
+title: Fireboy And Watergirl 4
+seoTitle: 無料でFireboy And Watergirl 4をオンラインでプレイ | FiddleBops
+description: >-
+  「Fireboy and Watergirl 4: The Crystal
+  Temple」の決定版ガイド。2人協力プレイのプラットフォーマーで、クリスタルポータルのマスター方法、パズルのヒント、操作方法、FAQを学びましょう。
+iframeSrc: 'https://slope-game.github.io/fireboy-water-4/'
+thumbnail: /new-images/thumbnails/fireboy-and-watergirl-4.jpg
+urlstr: fireboy-and-watergirl-4
+tags:
+  - casual
+  - rhythm
+score: 4.6/5  (117 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

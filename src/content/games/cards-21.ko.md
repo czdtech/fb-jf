@@ -1,13 +1,13 @@
 ---
 locale: ko
-urlstr: cards-21
-title: 'Cards-21 카드스 21'
+title: Cards-21 카드스 21
+seoTitle: Cards-21 카드스 21 무료 온라인 플레이 | FiddleBops
 description: >-
-  Cards-21은 블랙잭 룰을 간단히 즐길 수 있는 카드 게임입니다. 카드를 더 뽑거나
-  멈추는 선택으로 21에 최대한 가깝게 점수를 맞추되, 21을 넘지 않도록 위험을
-  관리해야 합니다.
+  Cards-21은 블랙잭 룰을 간단히 즐길 수 있는 카드 게임입니다. 카드를 더 뽑거나 멈추는 선택으로 21에 최대한 가깝게 점수를 맞추되,
+  21을 넘지 않도록 위험을 관리해야 합니다.
 iframeSrc: 'https://11kvu79prlefg.h5games.usercontent.goog/v/67r78cf7q96c0/'
 thumbnail: /new-images/thumbnails/cards-21.png
+urlstr: cards-21
 tags:
   - card
   - casual

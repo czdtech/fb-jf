@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: bad-ice-cream-3
 title: Bad Ice-Cream 3 nuevos laberintos helados
+seoTitle: Juega a Bad Ice-Cream 3 nuevos laberintos helados en línea gratis | FiddleBops
 description: >-
   Bad Ice-Cream 3 es la tercera entrega de la serie de puzles helados. Domina
   los muros de hielo, esquiva a los nuevos enemigos y recoge toda la fruta en
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x5/index.html
 thumbnail: /new-images/thumbnails/bad-ice-cream-3.jpg
+urlstr: bad-ice-cream-3
 tags:
   - puzzle
   - casual

@@ -1,13 +1,14 @@
 ---
 locale: zh
-urlstr: soccer-random
 title: 《Soccer Random》随机物理足球
+seoTitle: 免费在线玩 《Soccer Random》随机物理足球 | FiddleBops
 description: >-
   《Soccer Random》是一款满屏都是“意外”的物理足球小游戏。用一个按键就能控制球员跳跃、射门和解围，在不断变化的场地、球和角色组合中，率先打进 5
   球赢下比赛。
 iframeSrc: >-
   https://app-197306.games.s3.yandex.net/197306/b1dbvmcde0oog4ebj00rinxr3e367fl4/index.html
 thumbnail: /new-images/thumbnails/soccer-random.jpg
+urlstr: soccer-random
 tags:
   - 2-player
   - physics

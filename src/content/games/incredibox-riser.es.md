@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: incredibox-riser
-title: "Incredibox Riser"
+title: Incredibox Riser
+seoTitle: Juega a Incredibox Riser en línea gratis | FiddleBops
 description: >-
   Incredibox Riser ofrece una paleta electrónica ambiental, una jugabilidad
   centrada en crear pistas cósmicas y varios bonus de ciencia ficción que puedes
   desbloquear.
 iframeSrc: 'https://turbowarp.org/966510261/embed'
 thumbnail: /new-images/thumbnails/incredibox-riser.png
+urlstr: incredibox-riser
 tags:
   - music
   - electronic

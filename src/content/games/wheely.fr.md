@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: wheely
 title: Wheely
+seoTitle: Jouez à Wheely en ligne gratuitement | FiddleBops
 description: >-
   Wheely est un puzzle point-and-click charmant : résous des énigmes
   environnementales et guide la petite voiture rouge vers sa destination.
 iframeSrc: 'https://www.friv.com/z/games/wheely/index-x.html'
 thumbnail: /new-images/thumbnails/wheely.jpg
+urlstr: wheely
 tags:
   - puzzle
   - adventure

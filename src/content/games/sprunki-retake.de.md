@@ -1,18 +1,19 @@
 ---
 locale: de
-urlstr: sprunki-retake
-title: "Sprunki Retake 🔥 Sprunki Retake online spielen"
+title: Sprunki Retake
+seoTitle: Spiele Sprunki Retake kostenlos online | FiddleBops
 description: >-
   Wenn du Rhythmusspiele liebst und Horror-Elemente spannend findest, ist
   Sprunki Retake der richtige Mod für dich: Ein Mix aus Sprunki-Charme,
   Gruselstimmung und frischen Figuren.
 iframeSrc: 'https://www.minijuegos.com/embed/sprunki-retake'
 thumbnail: /new-images/thumbnails/sprunki-retake.png
+urlstr: sprunki-retake
 tags:
   - sprunki retake
   - sprunki retake online
 score: 4.3/5  (524 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Einführung in Sprunki Retake

@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: gladihoppers
 title: Gladihoppers 蹦跳角斗士
+seoTitle: 免费在线玩 Gladihoppers 蹦跳角斗士 | FiddleBops
 description: 2D 物理蹦跳角斗游戏：自订装备，掌握突刺与招架时机， 在各个竞技场模式中一路爬升排名。
 iframeSrc: 'https://m.igroutka.ru/g-1/113/Gladihoppers/'
 thumbnail: /new-images/thumbnails/gladihoppers.jpg
+urlstr: gladihoppers
 tags:
   - fighting
   - action

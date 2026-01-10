@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: farming-10x10
 title: Farming 10x10
+seoTitle: Juega a Farming 10x10 en línea gratis | FiddleBops
 description: >-
   Farming 10x10 lleva la clásica mecánica de encajar piezas en un tablero de
   10×10 a un entorno de granja relajante: coloca las formas, completa filas y
   columnas y evita bloquear el espacio disponible.
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
 thumbnail: /new-images/thumbnails/farming-10x10.jpg
+urlstr: farming-10x10
 tags:
   - puzzle
   - thinky

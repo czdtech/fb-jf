@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: fluffy-mania
 title: Fluffy Mania 플러피 매니아
+seoTitle: Fluffy Mania 플러피 매니아 무료 온라인 플레이 | FiddleBops
 description: >-
   Fluffy Mania는 아기자기한 분위기의 연결형 퍼즐 게임입니다. 같은 색 플러피를 이어서 제거하고, 연쇄 반응을 만들어 높은 점수를
   노려 보세요.
 iframeSrc: 'https://02rd6nna08dqg.h5games.usercontent.goog/v/3ngbs02gf9h88/'
 thumbnail: /new-images/thumbnails/fluffy-mania.png
+urlstr: fluffy-mania
 tags:
   - puzzle
   - casual

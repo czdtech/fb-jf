@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: hobo
 title: 《Hobo》流浪汉街头乱斗
+seoTitle: 免费在线玩 《Hobo》流浪汉街头乱斗 | FiddleBops
 description: 《Hobo》是一款极度夸张的横版清版动作游戏，你要操控脾气暴躁的流浪汉在城市各处痛揍敌人，解锁一连串离谱的连招、即兴武器与恶搞必杀技。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/hobo.html'
 thumbnail: /new-images/thumbnails/hobo.jpg
+urlstr: hobo
 tags:
   - fighting
   - beat-em-up

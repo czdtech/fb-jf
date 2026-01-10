@@ -1,17 +1,17 @@
 ---
 locale: ko
-urlstr: fiddlebops-fix
-title: "Fiddlebops Fix 피들밥스 픽스"
+title: Fiddlebops Fix 피들밥스 픽스
+seoTitle: Fiddlebops Fix 피들밥스 픽스 무료 온라인 플레이 | FiddleBops
 description: >-
-  Fiddlebops Fix는 다양한 오리지널 캐릭터와 사운드로 곡을 만드는 온라인
-  음악 제작 게임입니다. 자유롭게 루프를 조합해 나만의 트랙과 이야기를 만들어
-  보세요.
+  Fiddlebops Fix는 다양한 오리지널 캐릭터와 사운드로 곡을 만드는 온라인 음악 제작 게임입니다. 자유롭게 루프를 조합해 나만의
+  트랙과 이야기를 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1131610529/embed'
 thumbnail: /new-images/thumbnails/fiddlebops-fix.png
+urlstr: fiddlebops-fix
 tags:
   - fiddlebops fix
 score: 4.6/5  (217 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

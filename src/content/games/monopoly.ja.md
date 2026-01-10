@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Monopoly
+seoTitle: 無料でMonopolyをオンラインでプレイ | FiddleBops
 description: クラシックなMonopolyボードゲームをプレイします。不動産を購入し、家を建設し、レントを収集し、対戦相手を破産させます。
 iframeSrc: 'https://w8.snokido.com/games/html5/monopoly/index.html'
 thumbnail: /new-images/thumbnails/monopoly.jpg
 urlstr: monopoly
-score: 3.7/5  (1329 votes)
 tags:
   - card
   - 2 player
   - casual
+score: 3.7/5  (1329 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

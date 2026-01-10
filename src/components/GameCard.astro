@@ -1,5 +1,6 @@
 ---
 import { Image } from 'astro:assets';
+import OptimizedImage from './OptimizedImage.astro';
 import { getLocaleFromLangAttr, getLocalizedPath } from '../i18n/utils';
 
 interface Props {
@@ -20,19 +21,29 @@ const isRemote = thumbnail.startsWith('http://') || thumbnail.startsWith('https:
 const isAbsolutePath = thumbnail.startsWith('/');
 
 // For local images, we need to handle them differently
-// Remote images and absolute paths (public folder) can be used directly
+// Remote images: use plain img
+// Absolute paths (public folder): use OptimizedImage for WebP support
+// Relative paths (src folder): use Astro Image for build-time optimization
 ---
 
 <div class="game game--compact">
   <a href={href} title={title}>
     <div class="game-logo game-l-2">
-      {isRemote || isAbsolutePath ? (
+      {isRemote ? (
         <img 
           src={thumbnail} 
           alt={title} 
           loading={loading}
           width="300"
-          height="300"
+          height="169"
+        />
+      ) : isAbsolutePath ? (
+        <OptimizedImage 
+          src={thumbnail} 
+          alt={title} 
+          loading={loading}
+          width={300}
+          height={169}
         />
       ) : (
         <Image 
@@ -40,7 +51,7 @@ const isAbsolutePath = thumbnail.startsWith('/');
           alt={title} 
           loading={loading}
           width={300}
-          height={300}
+          height={169}
           format="webp"
         />
       )}

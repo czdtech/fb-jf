@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Tractor Mania"
-description: "Tractor Mania is a farm hauler — balance loads, manage torque, and deliver cargo safely across rough terrain."
-iframeSrc: "https://4agtsfcp8ur38.h5games.usercontent.goog/v/35kskpc4lmtig/"
+title: Tractor Mania
+seoTitle: Play Tractor Mania Online Free | FiddleBops
+description: >-
+  Tractor Mania is a farm hauler — balance loads, manage torque, and deliver
+  cargo safely across rough terrain.
+iframeSrc: 'https://4agtsfcp8ur38.h5games.usercontent.goog/v/35kskpc4lmtig/'
 thumbnail: /new-images/thumbnails/tractor-mania.png
-urlstr: "tractor-mania"
-score: "4.0/5  (1880 votes)"
-tags: ["car", "driving", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: tractor-mania
+tags:
+  - car
+  - driving
+  - casual
+score: 4.0/5  (1880 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

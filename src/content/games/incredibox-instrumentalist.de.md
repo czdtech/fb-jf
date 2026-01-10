@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: incredibox-instrumentalist
 title: Incredibox Instrumentalist
+seoTitle: Spiele Incredibox Instrumentalist kostenlos online | FiddleBops
 description: >-
   Incredibox Instrumentalist setzt auf reine Instrumentalmusik: Du rufst
   Instrumente aus aller Welt direkt auf die Bühne und stellst dir dein eigenes
   Orchester zusammen.
 iframeSrc: 'https://turbowarp.org/1040856097/embed'
 thumbnail: /new-images/thumbnails/incredibox-instrumentalist.png
+urlstr: incredibox-instrumentalist
 tags:
   - music
   - sandbox

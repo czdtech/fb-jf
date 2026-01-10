@@ -1,14 +1,15 @@
 ---
-locale: "zh"
-urlstr: "sprunki-pyramixed-version"
-
-title: "Sprunki Pyramixed - 在线玩 Sprunki Pyramixed"
-description: "Sprunki Pyramixed 是一个出色的音乐创作平台，巧妙地平衡了易用性和深度，让每个人都能享受制作音乐的乐趣。"
-iframeSrc: "https://turbowarp.org/1133167510/embed"
+locale: zh
+title: Sprunki Pyramixed
+seoTitle: 免费在线玩 Sprunki Pyramixed | FiddleBops
+description: Sprunki Pyramixed 是一个出色的音乐创作平台，巧妙地平衡了易用性和深度，让每个人都能享受制作音乐的乐趣。
+iframeSrc: 'https://turbowarp.org/1133167510/embed'
 thumbnail: /new-images/thumbnails/sprunki-pyramixed-version.png
-score: "4.0/5  (254 votes)"
-tags: ["sprunki pyramixed"]
-releaseDate: 2025-12-04
+urlstr: sprunki-pyramixed-version
+tags:
+  - sprunki pyramixed
+score: 4.0/5  (254 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

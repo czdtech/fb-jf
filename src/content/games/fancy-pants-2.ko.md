@@ -1,11 +1,12 @@
 ---
 locale: ko
-urlstr: fancy-pants-2
 title: Fancy Pants 2 팬시 팬츠 2
+seoTitle: Fancy Pants 2 팬시 팬츠 2 무료 온라인 플레이 | FiddleBops
 description: '속도감 있는 모멘텀 플랫포머의 후속작입니다. 더 빨라진 움직임, 새로운 적, 비밀과 트로피가 숨겨진 손그림 스테이지를 달려 보세요.'
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj9/index.html
 thumbnail: /new-images/thumbnails/fancy-pants-2.jpg
+urlstr: fancy-pants-2
 tags:
   - platformer
   - action

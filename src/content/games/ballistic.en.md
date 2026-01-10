@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Ballistic game"
-description: "A guide to the physics-based arcade game Ballistic. Learn how to aim, collect extra balls, use power-ups, and achieve high scores by clearing numbered blocks before they reach the bottom."
-iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/"
+title: Ballistic game
+seoTitle: Play Ballistic game Online Free | FiddleBops
+description: >-
+  A guide to the physics-based arcade game Ballistic. Learn how to aim, collect
+  extra balls, use power-ups, and achieve high scores by clearing numbered
+  blocks before they reach the bottom.
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/'
 thumbnail: /new-images/thumbnails/ballistic.jpg
-urlstr: "ballistic"
-score: "4.5/5  (764 votes)"
-tags: ["puzzle", "casual"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: ballistic
+tags:
+  - puzzle
+  - casual
+score: 4.5/5  (764 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

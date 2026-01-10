@@ -1,17 +1,18 @@
 ---
 locale: de
-urlstr: sprunki-but-with-memes
-title: Sprunki But With Memes - Sprunki But With Memes online spielen
+title: Sprunki But With Memes
+seoTitle: Spiele Sprunki But With Memes kostenlos online | FiddleBops
 description: >-
   Sprunki But With Memes ist ein Musikspiel, in dem du in einem Meer aus Memes
   komponierst: Zieh ikonische Meme-Sounds auf Figuren, baue absurde Tracks und
   entfessle deinen ganz eigenen Meme-Hype.
 iframeSrc: 'https://kdata1.com/5000/2024/sprunki-retake-memes/'
 thumbnail: /new-images/thumbnails/sprunki-but-with-memes.png
+urlstr: sprunki-but-with-memes
 tags:
   - sprunki but with memes
 score: 4.2/5  (142 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

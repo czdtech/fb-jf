@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Rocket League"
-description: "Rocket League is a high-octane sports game that combines soccer with rocket-powered cars, where players drive, jump, and boost to hit a giant ball into the opponent's goal in fast-paced aerial matches."
-iframeSrc: "https://ubg77.github.io/edit/rocket-soccer-derby/"
+title: Rocket League
+seoTitle: Play Rocket League Online Free | FiddleBops
+description: >-
+  Rocket League is a high-octane sports game that combines soccer with
+  rocket-powered cars, where players drive, jump, and boost to hit a giant ball
+  into the opponent's goal in fast-paced aerial matches.
+iframeSrc: 'https://ubg77.github.io/edit/rocket-soccer-derby/'
 thumbnail: /new-images/thumbnails/rocket-league.jpg
-urlstr: "rocket-league"
-score: "4.7/5  (530 votes)"
-tags: ["sports", "racing", "multiplayer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: rocket-league
+tags:
+  - sports
+  - racing
+  - multiplayer
+score: 4.7/5  (530 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

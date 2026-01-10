@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: baseball
 title: Doodle Baseball 두들 베이스볼
+seoTitle: Doodle Baseball 두들 베이스볼 무료 온라인 플레이 | FiddleBops
 description: >-
   손그림 스타일로 즐기는 아케이드 야구 게임 Doodle Baseball입니다. 투수의 공을 보고 타이밍에 맞춰 한 번의 클릭으로 홈런을 노려
   보세요.
 iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
 thumbnail: /new-images/thumbnails/baseball.jpg
+urlstr: baseball
 tags:
   - casual
   - sports

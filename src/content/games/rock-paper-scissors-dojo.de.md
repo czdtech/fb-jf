@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: rock-paper-scissors-dojo
-title: "Rock Paper Scissors Dojo"
+title: Rock Paper Scissors Dojo
+seoTitle: Spiele Rock Paper Scissors Dojo kostenlos online | FiddleBops
 description: >-
-  Rock Paper Scissors Dojo macht aus Schere-Stein-Papier ein kleines
-  Mindgame: Lies die Muster deiner Gegner, mische deine Strategien und gewinne
+  Rock Paper Scissors Dojo macht aus Schere-Stein-Papier ein kleines Mindgame:
+  Lies die Muster deiner Gegner, mische deine Strategien und gewinne
   Best-of-Duelle durch kluge Vorhersagen.
 iframeSrc: 'https://0o2ssijd98lgg.h5games.usercontent.goog/v/39t01692a4rs8/'
 thumbnail: /new-images/thumbnails/rock-paper-scissors-dojo.png
+urlstr: rock-paper-scissors-dojo
 tags:
   - casual
   - 2 player

@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: subway-jumper
 title: Subway Jumper
+seoTitle: Juega a Subway Jumper en línea gratis | FiddleBops
 description: >-
   Subway Jumper es un runner ágil de tres carriles: cambia de vía, ajusta saltos
   y deslizamientos y mantén el ritmo mientras esquivas los peligros del metro.
 iframeSrc: 'https://34clth7bs1mtg.h5games.usercontent.goog/v/20un142k99goo/'
 thumbnail: /new-images/thumbnails/subway-jumper.png
+urlstr: subway-jumper
 tags:
   - action
   - casual

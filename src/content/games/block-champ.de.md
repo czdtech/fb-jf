@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: block-champ
 title: Block Champ
+seoTitle: Spiele Block Champ kostenlos online | FiddleBops
 description: >-
   Fordere deinen Grips in Block Champ heraus, einem 10×10‑Grid‑Puzzlespiel.
   Platziere Formen, räume Reihen, nutze Blitz‑ und Eisblöcke geschickt und jage
   deinen Highscore.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/block-champ/'
 thumbnail: /new-images/thumbnails/block-champ.jpg
+urlstr: block-champ
 tags:
   - puzzle
   - board Game

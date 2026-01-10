@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: quiz-x
 title: 《Quiz x》快节奏知识问答
+seoTitle: 免费在线玩 《Quiz x》快节奏知识问答 | FiddleBops
 description: 《Quiz x》是一款节奏紧凑的知识问答游戏。阅读题目提示，在轻微时间压力下快速思考、排除干扰选项，并选出最合适的答案，通过连续答对累积得分加成。
 iframeSrc: 'https://5348abrdhudu8.h5games.usercontent.goog/v/35ge2no4verb8/'
 thumbnail: /new-images/thumbnails/quiz-x.png
+urlstr: quiz-x
 tags:
   - puzzle
   - thinky

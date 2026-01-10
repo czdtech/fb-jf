@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: fleeing-the-complex
 title: Fleeing the Complex
+seoTitle: Jouez à Fleeing the Complex en ligne gratuitement | FiddleBops
 description: >-
   Évasion à embranchements façon stickman : choisis objets et routes pour
   t’évader du complexe, découvre plusieurs fins et collectionne tous les
   fails/bios.
 iframeSrc: 'https://ubg77.github.io/fleeing-the-complex/'
 thumbnail: /new-images/thumbnails/fleeing-the-complex.jpg
+urlstr: fleeing-the-complex
 tags:
   - adventure
   - point-and-click

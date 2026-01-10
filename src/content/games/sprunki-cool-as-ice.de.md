@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: sprunki-cool-as-ice
-title: Sprunki Cool As Ice - Sprunki Cool As Ice online spielen
+title: Sprunki Cool As Ice
+seoTitle: Spiele Sprunki Cool As Ice kostenlos online | FiddleBops
 description: >-
   Sprunki: Cool As Ice ist ein Winter-Mod im Sprunki-/Incredibox-Stil: Mit
   frostigen Figuren, eisigen Sounds und versteckten Horror-Elementen bastelst du
   dir kalte, aber extrem stylische Tracks im Schnee-Look.
 iframeSrc: 'https://turbowarp.org/1114795409/embed'
 thumbnail: /new-images/thumbnails/sprunki-cool-as-ice.png
+urlstr: sprunki-cool-as-ice
 tags:
   - sprunki cool as ice
   - sprunki cool as ice online

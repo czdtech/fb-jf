@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Smarty Bubbles"
-description: "A classic and colorful bubble shooter experience. Aim your cannon, match three or more bubbles of the same color to pop them, and clear the board before the bubbles reach the bottom!"
-iframeSrc: "https://smartybubbles.h5games.usercontent.goog/v/09fhbor6rfpv0/"
+title: Smarty Bubbles
+seoTitle: Play Smarty Bubbles Online Free | FiddleBops
+description: >-
+  A classic and colorful bubble shooter experience. Aim your cannon, match three
+  or more bubbles of the same color to pop them, and clear the board before the
+  bubbles reach the bottom!
+iframeSrc: 'https://smartybubbles.h5games.usercontent.goog/v/09fhbor6rfpv0/'
 thumbnail: /new-images/thumbnails/smarty-bubbles.png
-urlstr: "smarty-bubbles"
-score: "4.3/5  (2200 votes)"
-tags: ["shooting", "puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: smarty-bubbles
+tags:
+  - shooting
+  - puzzle
+  - casual
+score: 4.3/5  (2200 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

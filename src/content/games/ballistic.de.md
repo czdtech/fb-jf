@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: ballistic
 title: Ballistic game
+seoTitle: Spiele Ballistic game kostenlos online | FiddleBops
 description: >-
   Ein Guide zum physikbasierten Arcade‑Spiel Ballistic. Lerne, wie du präzise
   zielst, Extrabälle sammelst, Power‑ups einsetzt und hohe Punktzahlen
   erreichst, bevor die nummerierten Blöcke den unteren Rand erreichen.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/'
 thumbnail: /new-images/thumbnails/ballistic.jpg
+urlstr: ballistic
 tags:
   - puzzle
   - casual

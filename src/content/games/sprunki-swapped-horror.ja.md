@@ -1,15 +1,16 @@
 ---
-title: Sprunki Swapped Horror - Play Sprunki Swapped Horror Online
+locale: ja
+title: Sprunki Swapped Horror
+seoTitle: 無料でSprunki Swapped Horrorをオンラインでプレイ | FiddleBops
 description: >-
   Sprunki Swapped
   Horrorはキャラクターの入れ替えで音を組み替えるホラー系Modです。見慣れた要素がねじれたサウンドで、いつもと違うトラックを作れます。
 iframeSrc: 'https://turbowarp.org/1132681434/embed'
 thumbnail: /new-images/thumbnails/sprunki-swapped-horror.png
 urlstr: sprunki-swapped-horror
-score: 4.4/5  (395 votes)
 tags:
   - sprunki swapped horror
-locale: ja
+score: 4.4/5  (395 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

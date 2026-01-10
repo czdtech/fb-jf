@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Wordler"
-description: "Wordler is a daily deduction word game — guess five‑letter words, leverage feedback colors, and converge with pattern logic."
-iframeSrc: "https://30mv2rsaljhjo.h5games.usercontent.goog/v/0hb0g2c5b4m9o/"
+title: Wordler
+seoTitle: Play Wordler Online Free | FiddleBops
+description: >-
+  Wordler is a daily deduction word game — guess five‑letter words, leverage
+  feedback colors, and converge with pattern logic.
+iframeSrc: 'https://30mv2rsaljhjo.h5games.usercontent.goog/v/0hb0g2c5b4m9o/'
 thumbnail: /new-images/thumbnails/wordler.png
-urlstr: "wordler"
-score: "4.2/5  (2054 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: wordler
+tags:
+  - puzzle
+  - thinky
+score: 4.2/5  (2054 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

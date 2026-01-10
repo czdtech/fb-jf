@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Carrom Clash キャロム・クラッシュ
+seoTitle: 無料でCarrom Clash キャロム・クラッシュをオンラインでプレイ | FiddleBops
 description: 「Carrom Clash」で本格的なボードゲーム体験を。おはじきビリヤードとも呼ばれるキャロムで、ストライカーを弾き、自分の駒をポケットに入れよう。
 iframeSrc: 'https://carromclash.h5games.usercontent.goog/v/4pmfd00515bbg/'
 thumbnail: /new-images/thumbnails/carrom-clash.png
 urlstr: carrom-clash
-score: 4.4/5  (2600 votes)
 tags:
   - sports
   - puzzle
   - action
+score: 4.4/5  (2600 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

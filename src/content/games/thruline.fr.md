@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: thruline
 title: Thruline
+seoTitle: Jouez à Thruline en ligne gratuitement | FiddleBops
 description: >-
   Thruline est un puzzle de connexion de reseau epure : trace une ligne continue
   unique a travers les noeuds en respectant les contraintes de virages et
   couverture.
 iframeSrc: 'https://4bl9sdeaqndto.h5games.usercontent.goog/v/4qierjmnf0kng/'
 thumbnail: /new-images/thumbnails/thruline.jpg
+urlstr: thruline
 tags:
   - puzzle
   - thinky

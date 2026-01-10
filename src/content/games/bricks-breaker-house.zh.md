@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: bricks-breaker-house
 title: Bricks Breaker House 打砖块小屋
+seoTitle: 免费在线玩 Bricks Breaker House 打砖块小屋 | FiddleBops
 description: 《Bricks Breaker House》是一款以“装修小屋”为主题的打砖块游戏，通过每一关消除砖块获取星星和金币，逐步解锁 房间与家具装饰。
 iframeSrc: 'https://1s6hqqts5ko6o.h5games.usercontent.goog/v/7n8ge2nvqqksg/'
 thumbnail: /new-images/thumbnails/bricks-breaker-house.png
+urlstr: bricks-breaker-house
 tags:
   - puzzle
   - casual

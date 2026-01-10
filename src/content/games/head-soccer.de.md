@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: head-soccer
 title: Head Soccer
+seoTitle: Spiele Head Soccer kostenlos online | FiddleBops
 description: >-
   Head Soccer ist arcadiger 1v1-Fußball mit Riesen-Köpfen: Springe, schieße und
   setze Spezialschüsse ein, um deinen Gegner in kurzen, knackigen Partien zu
   übertreffen.
 iframeSrc: 'https://1games.io/game/head-soccer-2024/'
 thumbnail: /new-images/thumbnails/head-soccer.jpg
+urlstr: head-soccer
 tags:
   - sports
   - soccer

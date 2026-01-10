@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: totemia-cursed-marbles
 title: Totemia Cursed Marbles
+seoTitle: Jouez à Totemia Cursed Marbles en ligne gratuitement | FiddleBops
 description: >-
   Totemia Cursed Marbles est un puzzle de tir de billes classique : tire pour
   créer des matchs de trois ou plus et détruis la chaîne avant qu'elle
   n'atteigne la fin du chemin.
 iframeSrc: 'https://totemiacursed.h5games.usercontent.goog/v/2hs7lfvsisr48/'
 thumbnail: /new-images/thumbnails/totemia-cursed-marbles.png
+urlstr: totemia-cursed-marbles
 tags:
   - shooting
   - puzzle

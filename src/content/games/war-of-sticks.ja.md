@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: War of Sticks
+seoTitle: 無料でWar of Sticksをオンラインでプレイ | FiddleBops
 description: War of Sticksは、スティックマン戦争ゲームです。軍隊を指揮して敵を倒しましょう。
 iframeSrc: 'https://g.igroutka.ru/games/164/lt2ARJHFBxPb4spD/4/war_of_sticks/'
 thumbnail: /new-images/thumbnails/war-of-sticks.jpg
 urlstr: war-of-sticks
-score: 4.4/5  (816 votes)
 tags:
   - strategy
   - war
   - stickman
-locale: ja
+score: 4.4/5  (816 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

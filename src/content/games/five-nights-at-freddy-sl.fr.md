@@ -1,13 +1,16 @@
 ---
 locale: fr
-urlstr: five-nights-at-freddy-sl
 title: Five Nights at Freddy's Sister Location
+seoTitle: >-
+  Jouez à Five Nights at Freddy's Sister Location en ligne gratuitement |
+  FiddleBops
 description: >-
   Horreur scénarisée par nuits : déplace‑toi entre les salles, accomplis des
   tâches de maintenance, surveille les animatroniques Funtime et survis à des
   séquences scriptées.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnafsl.html'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-sl.jpg
+urlstr: five-nights-at-freddy-sl
 tags:
   - horror
   - adventure

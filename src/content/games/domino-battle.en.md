@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Domino Battle"
-description: "Challenge an opponent in a classic game of Dominoes. Strategically place your tiles, block your opponent, and be the first to empty your hand to win the battle."
-iframeSrc: "https://dominobattle.h5games.usercontent.goog/v/45fvkhcnai3s0/"
+title: Domino Battle
+seoTitle: Play Domino Battle Online Free | FiddleBops
+description: >-
+  Challenge an opponent in a classic game of Dominoes. Strategically place your
+  tiles, block your opponent, and be the first to empty your hand to win the
+  battle.
+iframeSrc: 'https://dominobattle.h5games.usercontent.goog/v/45fvkhcnai3s0/'
 thumbnail: /new-images/thumbnails/domino-battle.png
-urlstr: "domino-battle"
-score: "4.5/5  (2700 votes)"
-tags: ["card", "puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: domino-battle
+tags:
+  - card
+  - puzzle
+  - thinky
+score: 4.5/5  (2700 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

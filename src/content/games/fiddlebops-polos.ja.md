@@ -1,13 +1,17 @@
 ---
-title: "Fiddlebops Polos - Fiddlebops Polosをオンラインでプレイ"
-description: "Fiddlebops Polosは、無料で遊べるクリエイティブなオンライン音楽ゲームです。トラックを作曲し、インタラクティブなストーリーを探索し、活気あるコミュニティと交流しましょう。"
-iframeSrc: "https://turbowarp.org/1149630445/embed"
-thumbnail: /new-images/thumbnails/fiddlebops-polos.png
-urlstr: "fiddlebops-polos"
-score: "4.6/5  (217 votes)"
-tags: ["fiddlebops polos"]
 locale: ja
-releaseDate: 2025-12-04
+title: Fiddlebops Polos
+seoTitle: 無料でFiddlebops Polosをオンラインでプレイ | FiddleBops
+description: >-
+  Fiddlebops
+  Polosは、無料で遊べるクリエイティブなオンライン音楽ゲームです。トラックを作曲し、インタラクティブなストーリーを探索し、活気あるコミュニティと交流しましょう。
+iframeSrc: 'https://turbowarp.org/1149630445/embed'
+thumbnail: /new-images/thumbnails/fiddlebops-polos.png
+urlstr: fiddlebops-polos
+tags:
+  - fiddlebops polos
+score: 4.6/5  (217 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Fiddlebops Polosの特徴

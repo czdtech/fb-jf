@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: drifting-mania
 title: Drifting mania
+seoTitle: Spiele Drifting mania kostenlos online | FiddleBops
 description: >-
   Drifting mania testet dein Driftkönnen aus der Top-Down-Perspektive – dosiere
   das Gas, verknüpfe saubere Slides und finde den perfekten Rhythmus durch die
   Kurven.
 iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
 thumbnail: /new-images/thumbnails/drifting-mania.png
+urlstr: drifting-mania
 tags:
   - car
   - driving

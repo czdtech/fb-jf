@@ -1,17 +1,18 @@
 ---
 locale: en
 title: Duck Life 4
+seoTitle: Play Duck Life 4 Online Free | FiddleBops
 description: >-
   Duck Life 4 is a training and racing sim: build your duck’s stats in
   mini‑games and win tournaments.
 iframeSrc: 'https://webglmath.github.io/ducklife-4/'
 thumbnail: /new-images/thumbnails/duck-life-4.jpg
 urlstr: duck-life-4
-score: 4.8/5  (1295 votes)
 tags:
   - racing
   - simulation
   - strategy
+score: 4.8/5  (1295 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---

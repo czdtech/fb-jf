@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: candy-riddles
-title: "Candy Riddles"
+title: Candy Riddles
+seoTitle: Juega a Candy Riddles en línea gratis | FiddleBops
 description: >-
   Candy Riddles es un alegre match‑3: intercambia caramelos, desata combos y
   resuelve los objetivos de cada fase con cascadas inteligentes.
 iframeSrc: 'https://7vciensnt6ei8.h5games.usercontent.goog/v/0lsk1qj66dbno/'
 thumbnail: /new-images/thumbnails/candy-riddles.png
+urlstr: candy-riddles
 tags:
   - puzzle
   - casual

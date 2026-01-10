@@ -23,6 +23,7 @@
   "nav": {
     "home": "ホーム",
     "newGames": "新しいゲーム",
+    "mods": "Mods",
     "search": "検索",
     "fiddlebopsMod": "Fiddlebops Mod",
     "incrediboxMod": "Incredibox Mod",
@@ -36,7 +37,7 @@
     "popularGames": "人気ゲーム",
     "newGames": "新しいゲーム",
     "trendingGames": "トレンドゲーム",
-    "recentlyPlayed": "最近遊んだ",
+    "featured": "注目",
     "exploreGames": "ゲームを探索"
   },
   "common": {

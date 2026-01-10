@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Wordle
+seoTitle: 無料でWordleをオンラインでプレイ | FiddleBops
 description: Wordleは、大人気の単語推測ゲームです。6回の試行で5文字の単語を推測しましょう。
 iframeSrc: 'https://ext.minijuegos.com/wordle/'
 thumbnail: /new-images/thumbnails/wordle.jpg
 urlstr: wordle
-score: 4.8/5  (515 votes)
 tags:
   - puzzle
   - word
   - logic
-locale: ja
+score: 4.8/5  (515 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

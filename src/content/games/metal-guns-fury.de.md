@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: metal-guns-fury
 title: Metal Guns Fury
+seoTitle: Spiele Metal Guns Fury kostenlos online | FiddleBops
 description: >-
   Metal Guns Fury ist ein Run-and-Gun-Arcadeshooter: Weiche Kugeln aus, wechsle
   geschickt die Waffen und ballere dich mit präziser Bewegung durch
   Gegnerwellen.
 iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
 thumbnail: /new-images/thumbnails/metal-guns-fury.jpg
+urlstr: metal-guns-fury
 tags:
   - action
   - shooting

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: crazy-cars
 title: Crazy Cars
+seoTitle: Spiele Crazy Cars kostenlos online | FiddleBops
 description: >-
   Crazy Cars ist ein lockeres 3D-Fahr- und Stuntspiel: Erkunde eine Stadtkarte,
   nimm an Events teil, sammle Sterne und Schraubenschlüssel und setze Nitro für
   spektakuläre Sprünge im Browser ein.
 iframeSrc: 'https://g.igroutka.ru/games/164/2afwOT8yZFmeYWGJ/2/crazy_cars/'
 thumbnail: /new-images/thumbnails/crazy-cars.jpg
+urlstr: crazy-cars
 tags:
   - racing
   - driving

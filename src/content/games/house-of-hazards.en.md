@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "House Of Hazards"
-description: "Local party chaos: complete simple chores in a booby‑trapped house while friends trigger hazards to knock you out." 
-iframeSrc: "https://webglmath.github.io/house-of-hazards/"
+title: House Of Hazards
+seoTitle: Play House Of Hazards Online Free | FiddleBops
+description: >-
+  Local party chaos: complete simple chores in a booby‑trapped house while
+  friends trigger hazards to knock you out.
+iframeSrc: 'https://webglmath.github.io/house-of-hazards/'
 thumbnail: /new-images/thumbnails/house-of-hazards.jpg
-urlstr: "house-of-hazards"
-score: "4.1/5  (127 votes)"
-tags: ["party", "multiplayer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: house-of-hazards
+tags:
+  - party
+  - multiplayer
+score: 4.1/5  (127 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

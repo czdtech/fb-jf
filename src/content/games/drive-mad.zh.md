@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: drive-mad
 title: Drive Mad 疯狂卡车物理闯关
+seoTitle: 免费在线玩 Drive Mad 疯狂卡车物理闯关 | FiddleBops
 description: 《Drive Mad 疯狂卡车物理闯关》是一款基于物理的驾驶游戏。控制车辆重心与前进速度，穿 过跷跷板、桥梁与机关陷阱，在不翻车的前提下抵达终点。
 iframeSrc: 'https://ubg98.github.io/DriveMad/'
 thumbnail: /new-images/thumbnails/drive-mad.jpg
+urlstr: drive-mad
 tags:
   - driving
   - physics

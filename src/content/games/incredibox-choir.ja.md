@@ -1,14 +1,18 @@
 ---
-title: "Incredibox Choir"
-description: "ボーカルアレンジと合唱音楽に焦点を当てたファンメイドMod、Incredibox Choirの調和の世界を探索しましょう。"
-iframeSrc: "https://turbowarp.org/1034584392/embed"
-thumbnail: /new-images/thumbnails/incredibox-choir.png
-urlstr: "incredibox-choir"
-score: "4.6/5 (1254 votes)"
-tags: ["music", "vocal", "casual"]
-developer: ""
-releaseDate: 2025-10-10
 locale: ja
+title: Incredibox Choir
+seoTitle: 無料でIncredibox Choirをオンラインでプレイ | FiddleBops
+description: ボーカルアレンジと合唱音楽に焦点を当てたファンメイドMod、Incredibox Choirの調和の世界を探索しましょう。
+iframeSrc: 'https://turbowarp.org/1034584392/embed'
+thumbnail: /new-images/thumbnails/incredibox-choir.png
+urlstr: incredibox-choir
+tags:
+  - music
+  - vocal
+  - casual
+score: 4.6/5 (1254 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

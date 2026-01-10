@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: truck-trials
 title: Truck Trials
+seoTitle: Jouez à Truck Trials en ligne gratuitement | FiddleBops
 description: >-
   Truck Trials est un jeu de conduite tout-terrain : navigue sur des parcours
   difficiles avec de puissants camions, en misant sur l'adresse et la précision.
 iframeSrc: 'https://trucktrials.h5games.usercontent.goog/v/4u5cado14l780/'
 thumbnail: /new-images/thumbnails/truck-trials.png
+urlstr: truck-trials
 tags:
   - driving
   - action

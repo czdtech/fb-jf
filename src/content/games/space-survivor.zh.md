@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: space-survivor
 title: 《Space Survivor》太空生存射击
+seoTitle: 免费在线玩 《Space Survivor》太空生存射击 | FiddleBops
 description: 《Space Survivor》是一款俯视角太空生存射击游戏。驾驶你的飞船在宇宙中躲避敌人攻击、收集升级道具，对抗一波波来袭的敌舰与陨石，尽可能活得更久。
 iframeSrc: 'https://76sb7kgqtg5kg.h5games.usercontent.goog/v/5s72d5756n840/'
 thumbnail: /new-images/thumbnails/space-survivor.png
+urlstr: space-survivor
 tags:
   - shooting
   - survival

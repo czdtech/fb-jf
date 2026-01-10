@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: house-of-hazards
 title: House Of Hazards
+seoTitle: Jouez à House Of Hazards en ligne gratuitement | FiddleBops
 description: >-
   Party game local chaotique : réalise des tâches quotidiennes dans une maison
   pleine de pièges pendant que tes amis déclenchent des hazards pour te faire
   voler dans tous les sens.
 iframeSrc: 'https://webglmath.github.io/house-of-hazards/'
 thumbnail: /new-images/thumbnails/house-of-hazards.jpg
+urlstr: house-of-hazards
 tags:
   - party
   - multiplayer

@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: sprunki-virus-new-update
-title: Sprunki Virus New Update - Juega a Sprunki Virus New Update online
+title: Sprunki Virus New Update
+seoTitle: Juega a Sprunki Virus New Update en línea gratis | FiddleBops
 description: >-
   ¿Buscas un viaje musical que lleve tus sentidos al límite? Sprunki Virus te
   sumerge en un mundo infectado, con paisajes sonoros inquietantes, gráficos
@@ -9,10 +9,11 @@ description: >-
   estremecedora.
 iframeSrc: 'https://turbowarp.org/1104064786/embed'
 thumbnail: /new-images/thumbnails/sprunki-virus-new-update.png
+urlstr: sprunki-virus-new-update
 tags:
   - sprunki virus new update
 score: 4.0/5  (407 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

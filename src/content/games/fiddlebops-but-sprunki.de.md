@@ -1,17 +1,18 @@
 ---
 locale: de
-urlstr: fiddlebops-but-sprunki
-title: FiddleBops but Sprunki - Play FiddleBops but Sprunki Online
+title: FiddleBops but Sprunki
+seoTitle: Spiele FiddleBops but Sprunki kostenlos online | FiddleBops
 description: >-
   FiddleBops but Sprunki ist ein verrücktes Crossover: Das bekannte Musikbasteln
   aus Fiddlebops trifft auf die ikonische Sprunki-Crew und bringt frische Sounds
   und Optik ins Spiel.
 iframeSrc: 'https://turbowarp.org/1114915532/embed'
 thumbnail: /new-images/thumbnails/fiddlebops-but-sprunki.png
+urlstr: fiddlebops-but-sprunki
 tags:
   - fiddlebops but sprunki
 score: 4.2/5  (94 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,17 +1,18 @@
 ---
 locale: en
 title: Hobo
+seoTitle: Play Hobo Online Free | FiddleBops
 description: >-
   Over‑the‑top beat ’em up: brawl through city stages with unlockable combos,
   improvised weapons, and outrageous special moves.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/hobo.html'
 thumbnail: /new-images/thumbnails/hobo.jpg
 urlstr: hobo
-score: 4.9/5  (1360 votes)
 tags:
   - fighting
   - beat-em-up
   - action
+score: 4.9/5  (1360 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---

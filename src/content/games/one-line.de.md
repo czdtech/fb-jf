@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: one-line
 title: One Line
+seoTitle: Spiele One Line kostenlos online | FiddleBops
 description: >-
   One Line ist ein minimalistisches Puzzlespiel, in dem du mit einer einzigen,
   durchgehenden Linie alle Punkte auf dem Spielfeld verbindest, ohne abzusetzen
   oder einen Weg doppelt zu zeichnen.
 iframeSrc: 'https://g2.igroutka.ru/games/3/JLgd70b3BNafhVq5/10/igra-odna-liniya/game.html'
 thumbnail: /new-images/thumbnails/one-line.jpg
+urlstr: one-line
 tags:
   - puzzle
   - logic

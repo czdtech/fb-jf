@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: incredibox-kochari
 title: Incredibox Kochari 아르메니아 민속 춤 모드
+seoTitle: Incredibox Kochari 아르메니아 민속 춤 모드 무료 온라인 플레이 | FiddleBops
 description: >-
   아르메니아 전통 춤 'Kochari' 문화를 Incredibox 스타일로 재해석한 팬메이드 모드입니다. 전통 리듬과 보컬을 활용해 민속
   느낌의 믹스를 만드는 방법을 소개합니다.
 iframeSrc: 'https://turbowarp.org/718091148/embed'
 thumbnail: /new-images/thumbnails/incredibox-kochari.png
+urlstr: incredibox-kochari
 tags:
   - music
   - cultural

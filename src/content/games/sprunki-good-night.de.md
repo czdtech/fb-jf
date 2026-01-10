@@ -1,14 +1,18 @@
 ---
 locale: de
-urlstr: sprunki-good-night
-title: "Sprunki Good Night - Sprunki Good Night online spielen"
-description: "Sprunki Good Night ist ein beruhigender Sprunki-Mod: Mit sanften Klavierklängen, Naturgeräuschen und langsamen Beats bastelst du dir deine eigene Einschlaf- oder Entspannungs-Playlist."
+title: Sprunki Good Night
+seoTitle: Spiele Sprunki Good Night kostenlos online | FiddleBops
+description: >-
+  Sprunki Good Night ist ein beruhigender Sprunki-Mod: Mit sanften
+  Klavierklängen, Naturgeräuschen und langsamen Beats bastelst du dir deine
+  eigene Einschlaf- oder Entspannungs-Playlist.
 iframeSrc: 'https://turbowarp.org/1178264025/embed'
 thumbnail: /new-images/thumbnails/sprunki-good-night.png
+urlstr: sprunki-good-night
 tags:
   - sprunki good night
 score: 4.2/5  (227 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Wie komponierst du in Sprunki Good Night?

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: woodcraft
-title: "Woodcraft 우드크래프트"
+title: Woodcraft 우드크래프트
+seoTitle: Woodcraft 우드크래프트 무료 온라인 플레이 | FiddleBops
 description: >-
-  편안한 나무 공예를 즐길 수 있는 캐주얼 게임입니다. 리듬감 있게 나무를 깎고, 주문서에 맞는
-  목공품을 완성해 새로운 도구와 패턴을 열어 가며 공방을 성장시켜 보세요.
+  편안한 나무 공예를 즐길 수 있는 캐주얼 게임입니다. 리듬감 있게 나무를 깎고, 주문서에 맞는 목공품을 완성해 새로운 도구와 패턴을 열어
+  가며 공방을 성장시켜 보세요.
 iframeSrc: 'https://g2.igroutka.ru/games/164/i06q7hMeRCsWOPKy/woodcraft/'
 thumbnail: /new-images/thumbnails/woodcraft.jpg
+urlstr: woodcraft
 tags:
   - casual
   - rhythm

@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: mahjong-classic
 title: 《Mahjong Classic》经典麻将接龙
+seoTitle: 免费在线玩 《Mahjong Classic》经典麻将接龙 | FiddleBops
 description: 在《Mahjong Classic》中享受永不过时的麻将接龙谜题：在多层牌阵中寻找并消除成对的自由牌，用策略和观察力清空整局。
 iframeSrc: 'https://mahjongclassic.h5games.usercontent.goog/v/6tue6un26r7v0/'
 thumbnail: /new-images/thumbnails/mahjong-classic.png
+urlstr: mahjong-classic
 tags:
   - puzzle
   - thinky

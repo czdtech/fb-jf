@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Sudoku Plus"
-description: "A feature-rich Sudoku experience. Enjoy the classic logic puzzle with helpful tools like hints, notes, and error checking to challenge your brain."
-iframeSrc: "https://sudokuplus.h5games.usercontent.goog/v/3q827iuj6msno/"
+title: Sudoku Plus
+seoTitle: Play Sudoku Plus Online Free | FiddleBops
+description: >-
+  A feature-rich Sudoku experience. Enjoy the classic logic puzzle with helpful
+  tools like hints, notes, and error checking to challenge your brain.
+iframeSrc: 'https://sudokuplus.h5games.usercontent.goog/v/3q827iuj6msno/'
 thumbnail: /new-images/thumbnails/sudoku-plus.jpg
-urlstr: "sudoku-plus"
-score: "4.7/5  (3100 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: sudoku-plus
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.7/5  (3100 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

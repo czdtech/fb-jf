@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: aqua-blocks
 title: Aqua Blocks
+seoTitle: Jouez à Aqua Blocks en ligne gratuitement | FiddleBops
 description: >-
   Aqua Blocks est un jeu de placement apaisant : place des formes, complète des
   lignes et garde le plateau dégagé le plus longtemps possible.
 iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
 thumbnail: /new-images/thumbnails/aqua-blocks.png
+urlstr: aqua-blocks
 tags:
   - puzzle
   - thinky

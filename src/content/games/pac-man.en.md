@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "PAC-MAN"
-description: "PAC-MAN is a classic arcade maze game where players control Pac-Man, navigating a labyrinth to eat all the pellets while avoiding four colorful ghosts. Eating power pellets allows Pac-Man to temporarily turn the tables and eat the ghosts."
-iframeSrc: "https://bward2.github.io/pacman-js/"
+title: PAC-MAN
+seoTitle: Play PAC-MAN Online Free | FiddleBops
+description: >-
+  PAC-MAN is a classic arcade maze game where players control Pac-Man,
+  navigating a labyrinth to eat all the pellets while avoiding four colorful
+  ghosts. Eating power pellets allows Pac-Man to temporarily turn the tables and
+  eat the ghosts.
+iframeSrc: 'https://bward2.github.io/pacman-js/'
 thumbnail: /new-images/thumbnails/pac-man.jpg
-urlstr: "pac-man"
-score: "5.0/5  (1241 votes)"
-tags: ["arcade", "maze", "classic"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: pac-man
+tags:
+  - arcade
+  - maze
+  - classic
+score: 5.0/5  (1241 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

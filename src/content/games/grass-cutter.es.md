@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: grass-cutter
 title: Grass Cutter
+seoTitle: Juega a Grass Cutter en línea gratis | FiddleBops
 description: >-
   Puzle de cuadrícula: corta cada casilla de césped exactamente una vez con
   movimientos limitados, evitando obstáculos y trazando rutas perfectas para
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/wcIz2a3WYRNKhbuq/rvvASMiM/58925795805842fcbfd7edf67efcd606/
 thumbnail: /new-images/thumbnails/grass-cutter.jpg
+urlstr: grass-cutter
 tags:
   - puzzle
   - logic

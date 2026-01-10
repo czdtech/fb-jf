@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: gangsters
 title: Gangsters
+seoTitle: Juega a Gangsters en línea gratis | FiddleBops
 description: >-
   Duelos con físicas ragdoll: dos gangsters tipo stickman rebotan y disparan
   sobre azoteas; calcula saltos y tiros para mandar al rival al vacío.
 iframeSrc: >-
   https://app-185146.games.s3.yandex.net/185146/4mtxwijatlm9neect542qv9nbcqetm7u/index.html
 thumbnail: /new-images/thumbnails/gangsters.jpg
+urlstr: gangsters
 tags:
   - action
   - physics

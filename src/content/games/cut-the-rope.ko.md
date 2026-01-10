@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: cut-the-rope
 title: Cut The Rope 컷 더 로프
+seoTitle: Cut The Rope 컷 더 로프 무료 온라인 플레이 | FiddleBops
 description: >-
   줄을 잘라 사탕을 옴놈에게 먹이는 물리 퍼즐 게임 Cut The Rope입니다. 줄을 자르는 순서와 타이밍을 맞춰 별을 모으고, 사탕을
   잃어버리지 않도록 조심하세요.
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/c/cut-the-rope/v020/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=4531b37c-a8e0-4a67-9ebd-e8d3190b6277&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=467&original_ref=
 thumbnail: /new-images/thumbnails/cut-the-rope.jpg
+urlstr: cut-the-rope
 tags:
   - puzzle
   - physics

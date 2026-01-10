@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: categories
 title: Categories
+seoTitle: Jouez à Categories en ligne gratuitement | FiddleBops
 description: >-
   Categories est un petit jeu de logique où tu dois classer des mots ou objets
   par thèmes, repérer les intrus et résoudre chaque grille avant la fin du temps
   ou des tentatives.
 iframeSrc: 'https://1ssgr48qrfod0.h5games.usercontent.goog/v/20nv9be906iho/'
 thumbnail: /new-images/thumbnails/categories.png
+urlstr: categories
 tags:
   - thinky
   - puzzle

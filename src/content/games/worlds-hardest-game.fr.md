@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: worlds-hardest-game
 title: World's Hardest Game
+seoTitle: Jouez à World's Hardest Game en ligne gratuitement | FiddleBops
 description: >-
   World's Hardest Game est un jeu d'adresse culte : déplace un petit carré rouge
   à travers des niveaux remplis d'ennemis et d'obstacles sans te faire toucher.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/the-worlds-hardest-game.html'
 thumbnail: /new-images/thumbnails/worlds-hardest-game.jpg
+urlstr: worlds-hardest-game
 tags:
   - difficulty
   - arcade

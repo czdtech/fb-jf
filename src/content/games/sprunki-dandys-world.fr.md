@@ -1,14 +1,15 @@
 ---
 locale: fr
-urlstr: sprunki-dandys-world
-title: Sprunki Dandy's World - Jouer à Sprunki Dandy's World en ligne
+title: Sprunki Dandy's World
+seoTitle: Jouez à Sprunki Dandy's World en ligne gratuitement | FiddleBops
 description: "Sprunki Dandy's World est un Mod qui mêle musique, mise en scène et récit\_: crée ton propre clip musical avec des personnages au style unique et des instruments variés."
 iframeSrc: 'https://turbowarp.org/1075503895/embed'
 thumbnail: /new-images/thumbnails/sprunki-dandys-world.png
-score: 4.4/5  (304 votes)
+urlstr: sprunki-dandys-world
 tags:
   - sprunki dandy
-releaseDate: 2025-12-04
+score: 4.4/5  (304 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Découvrir Sprunki Dandy's World

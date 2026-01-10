@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Billiards Classic クラシック・ビリヤード
+seoTitle: 無料でBilliards Classic クラシック・ビリヤードをオンラインでプレイ | FiddleBops
 description: 「Billiards Classic」で正統派8ボールを楽しもう。狙いを定め、スピンを操り、相手より先に自分のボールを全て落として勝利をつかめ！
 iframeSrc: 'https://billiardsclassic.h5games.usercontent.goog/v/27m4mvjv84l70/'
 thumbnail: /new-images/thumbnails/billiards-classic.png
 urlstr: billiards-classic
-score: 4.5/5  (2900 votes)
 tags:
   - sports
   - puzzle
   - casual
+score: 4.5/5  (2900 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

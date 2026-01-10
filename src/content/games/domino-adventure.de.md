@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: domino-adventure
 title: Domino Adventure
+seoTitle: Spiele Domino Adventure kostenlos online | FiddleBops
 description: >-
   Beherrsche das klassische Brettspiel Domino in Domino Adventure. Lerne
   Strategien für Block- und Draw-Modus, verwalte deine Steine clever und gewinne
   Runden, indem du als Erster all deine Domino-Steine ausspielst.
 iframeSrc: 'https://28vlnkkhq8gjg.h5games.usercontent.goog/v/4mi9k9oin4dn8/'
 thumbnail: /new-images/thumbnails/domino-adventure.png
+urlstr: domino-adventure
 tags:
   - puzzle
   - strategy

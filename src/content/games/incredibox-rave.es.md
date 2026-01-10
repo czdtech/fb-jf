@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: incredibox-rave
-title: "Incredibox Rave"
+title: Incredibox Rave
+seoTitle: Juega a Incredibox Rave en línea gratis | FiddleBops
 description: >-
   Incredibox Rave ofrece una paleta de música electrónica de baile, una
   jugabilidad pensada para crear temas de alta energía y una serie de bonus de
   neón que puedes desbloquear mientras compones.
 iframeSrc: 'https://turbowarp.org/980794126/embed'
 thumbnail: /new-images/thumbnails/incredibox-rave.png
+urlstr: incredibox-rave
 tags:
   - music
   - rave

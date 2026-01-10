@@ -1,14 +1,15 @@
 ---
 locale: es
-urlstr: spider-solitaire-card-games
-title: "Spider Solitaire: Card Games"
+title: 'Spider Solitaire: Card Games'
+seoTitle: 'Juega a Spider Solitaire: Card Games en línea gratis | FiddleBops'
 description: >-
   Ponte a prueba con Spider Solitaire, una popular variante del solitario
   clásico. El objetivo es limpiar el tablero construyendo ocho secuencias
   completas de cartas, de Rey a As. Con niveles de dificultad ajustables (1, 2 o
   4 palos), es un puzle estratégico para todo tipo de jugadores.
-iframeSrc: "https://ubg98.github.io/SpiderSolitaire/"
+iframeSrc: 'https://ubg98.github.io/SpiderSolitaire/'
 thumbnail: /new-images/thumbnails/spider-solitaire-card-games.jpg
+urlstr: spider-solitaire-card-games
 tags:
   - card-game
   - puzzle

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: incredibox-piege-simulator
 title: Incredibox Piège Simulator
+seoTitle: Spiele Incredibox Piège Simulator kostenlos online | FiddleBops
 description: >-
   Incredibox Piège ("Trap") Simulator nutzt ein Raster-Interface und eine
   dunkle, atmosphärische Trap-Soundpalette, mit der du intensive Trap-Loops
   bauen kannst.
 iframeSrc: 'https://turbowarp.org/887559994/embed'
 thumbnail: /new-images/thumbnails/incredibox-piege-simulator.png
+urlstr: incredibox-piege-simulator
 tags:
   - music
   - fan-Made

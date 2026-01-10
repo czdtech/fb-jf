@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: fruit-chef
 title: Fruit Chef 프루트 셰프
+seoTitle: Fruit Chef 프루트 셰프 무료 온라인 플레이 | FiddleBops
 description: 화면을 날아다니는 과일을 한 번에 길게 썰어 콤보를 노리는 슬래시 액션 게임입니다. 폭탄을 피하며 리듬감 있게 썰어 보세요.
 iframeSrc: 'https://419in6alhpp88.h5games.usercontent.goog/v/22nao6drjf7v0/'
 thumbnail: /new-images/thumbnails/fruit-chef.png
+urlstr: fruit-chef
 tags:
   - action
   - casual

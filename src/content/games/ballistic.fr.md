@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: ballistic
 title: Ballistic game
+seoTitle: Jouez à Ballistic game en ligne gratuitement | FiddleBops
 description: >-
   Ballistic est un casse‑tête arcade basé sur la physique où tu tires des salves
   de balles pour casser des blocs numérotés avant qu’ils n’atteignent le bas de
   l’écran.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/'
 thumbnail: /new-images/thumbnails/ballistic.jpg
+urlstr: ballistic
 tags:
   - puzzle
   - casual

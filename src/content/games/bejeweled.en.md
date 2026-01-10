@@ -1,14 +1,15 @@
 ---
 locale: en
-title: Bejeweled - Play Bejeweled Online
+title: Bejeweled
+seoTitle: Play Bejeweled Online Free | FiddleBops
 description: Bejeweled simple yet highly addictive gameplay loop made it a pioneer of the
 iframeSrc: 'https://files.acticdn.com/278374/30464/index.html'
 thumbnail: /new-images/thumbnails/bejeweled.png
 urlstr: bejeweled
-score: 4.8/5  (654 votes)
 tags:
   - bejeweled
   - puzzle
+score: 4.8/5  (654 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

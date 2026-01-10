@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Maze Puzzle
+seoTitle: 無料でMaze Puzzleをオンラインでプレイ | FiddleBops
 description: Maze Puzzleは頭を使う迷路パズルです。ルートをたどり、行き止まりを避けながら、少ない移動で出口を目指します。
 iframeSrc: 'https://3931uc3bsois0.h5games.usercontent.goog/v/7nvm8etm546uo/'
 thumbnail: /new-images/thumbnails/maze-puzzle.png
 urlstr: maze-puzzle
-score: 4.0/5  (1866 votes)
 tags:
   - puzzle
   - thinky
+score: 4.0/5  (1866 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

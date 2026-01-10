@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Diamond Rush"
-description: "Experience the sparkle of Diamond Rush! A fast-paced match-3 puzzle game where you swap and match dazzling diamonds to clear the board and achieve high scores."
-iframeSrc: "https://diamondrush.h5games.usercontent.goog/v/63ok750qri670/"
-urlstr: "diamond-rush"
+title: Diamond Rush
+seoTitle: Play Diamond Rush Online Free | FiddleBops
+description: >-
+  Experience the sparkle of Diamond Rush! A fast-paced match-3 puzzle game where
+  you swap and match dazzling diamonds to clear the board and achieve high
+  scores.
+iframeSrc: 'https://diamondrush.h5games.usercontent.goog/v/63ok750qri670/'
 thumbnail: /new-images/thumbnails/diamond-rush.png
-score: "4.3/5  (2010 votes)"
-tags: ["puzzle", "casual", "action"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: diamond-rush
+tags:
+  - puzzle
+  - casual
+  - action
+score: 4.3/5  (2010 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

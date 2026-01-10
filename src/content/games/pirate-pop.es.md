@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: pirate-pop
 title: Pirate Pop
+seoTitle: Juega a Pirate Pop en línea gratis | FiddleBops
 description: >-
   ¡Al abordaje! Apunta y revienta las burbujas piratas. Un clásico Bubble
   Shooter en el que combinas tres o más burbujas para limpiar el tablero y
   quedarte con el tesoro.
 iframeSrc: 'https://piratepop.h5games.usercontent.goog/v/3japc2shd35ug/'
 thumbnail: /new-images/thumbnails/pirate-pop.png
+urlstr: pirate-pop
 tags:
   - shooting
   - puzzle

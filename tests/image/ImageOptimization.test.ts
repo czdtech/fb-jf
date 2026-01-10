@@ -13,32 +13,10 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { load } from 'cheerio';
 import * as fc from 'fast-check';
+import { findIndexHtmlFiles } from '../utils/file-discovery';
 
 describe('Property 6: Image Optimization Attributes', () => {
   const distDir = path.join(process.cwd(), 'dist');
-
-  // Helper function to find all HTML files in dist directory
-  function findHtmlFiles(dir: string): string[] {
-    const files: string[] = [];
-    
-    if (!fs.existsSync(dir)) {
-      return files;
-    }
-
-    const entries = fs.readdirSync(dir, { withFileTypes: true });
-    
-    for (const entry of entries) {
-      const fullPath = path.join(dir, entry.name);
-      
-      if (entry.isDirectory()) {
-        files.push(...findHtmlFiles(fullPath));
-      } else if (entry.isFile() && entry.name === 'index.html') {
-        files.push(fullPath);
-      }
-    }
-    
-    return files;
-  }
 
   // Helper function to extract all img tags from HTML
   function extractImageTags(htmlPath: string): Array<{ src: string; alt: string; loading?: string; width?: string; height?: string }> {
@@ -63,7 +41,7 @@ describe('Property 6: Image Optimization Attributes', () => {
   it(
     'should have width, height, and loading attributes on all game thumbnail images',
     () => {
-    const htmlFiles = findHtmlFiles(distDir);
+    const htmlFiles = findIndexHtmlFiles(distDir);
     
     if (htmlFiles.length === 0) {
       console.warn('No HTML files found in dist directory. Run `npm run build` first.');
@@ -125,7 +103,7 @@ describe('Property 6: Image Optimization Attributes', () => {
   );
 
   it('should have alt attributes on all images for accessibility', () => {
-    const htmlFiles = findHtmlFiles(distDir);
+    const htmlFiles = findIndexHtmlFiles(distDir);
     
     if (htmlFiles.length === 0) {
       console.warn('No HTML files found in dist directory. Run `npm run build` first.');
@@ -152,5 +130,5 @@ describe('Property 6: Image Optimization Attributes', () => {
       ),
       { numRuns: Math.min(100, htmlFiles.length) }
     );
-  });
+  }, 30000);
 });

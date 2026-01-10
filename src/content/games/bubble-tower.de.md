@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: bubble-tower
 title: Bubble Tower 3D
+seoTitle: Spiele Bubble Tower 3D kostenlos online | FiddleBops
 description: >-
   Erlebe Bubble-Shooting in einer neuen Dimension in Bubble Tower 3D. Drehe den
   Turm, ziele sorgfältig und triff mindestens drei gleichfarbige Blasen, bevor
   die Blasen den unteren Rand erreichen.
 iframeSrc: 'https://bubbletower.h5games.usercontent.goog/v/7ebcukaef3voo/'
 thumbnail: /new-images/thumbnails/bubble-tower.png
+urlstr: bubble-tower
 tags:
   - puzzle
   - shooting

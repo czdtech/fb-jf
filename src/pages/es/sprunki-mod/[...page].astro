@@ -1,20 +1,23 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
-import { SPRUNKI_MOD_HREFLANG } from '../../../data/hreflang';
+import { getPagedListHreflang } from '../../../data/hreflang';
 import { toGameCardData } from '../../../lib/canonical-games';
+import { buildListSeoTitle } from '../../../lib/seo-title';
 export { getStaticPaths } from '../../sprunki-mod/[...page].astro';
 
 const { page } = Astro.props;
+const hreflangLinks = getPagedListHreflang('/sprunki-mod/', page.currentPage);
 const locale = 'es';
-const title = 'Sprunki Mod - Sprunki Game World';
+const baseTitle = 'Sprunki Mod';
+const title = buildListSeoTitle(locale, baseTitle, page.currentPage);
 const description =
   'Explora mods, spin-offs y versiones especiales inspiradas en Sprunki. Juega gratis en línea, sin descargar.';
-const canonicalUrl = 'https://www.playfiddlebops.com/es/sprunki-mod/';
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site).toString();
 const ogImage = 'https://www.playfiddlebops.com/tw.jpg';
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Game',
-  name: title,
+  name: baseTitle,
   alternateName: 'playfiddlebops.com',
   url: canonicalUrl,
   description
@@ -28,7 +31,7 @@ const jsonLd = {
   ogType="website"
   twitterCard="summary_large_image"
   jsonLd={jsonLd}
-  hreflangLinks={SPRUNKI_MOD_HREFLANG}
+  hreflangLinks={hreflangLinks}
   lang="es"
 >
   <section class="games">

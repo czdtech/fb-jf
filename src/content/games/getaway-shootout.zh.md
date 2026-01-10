@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: getaway-shootout
 title: Getaway Shootout 乱斗逃脱赛
+seoTitle: 免费在线玩 Getaway Shootout 乱斗逃脱赛 | FiddleBops
 description: 失控物理系竞速射击：用笨拙的跳跃一路蹦到撤离点，捡起各种搞笑武器， 在单人或双人模式中比拼谁先成功逃脱。
 iframeSrc: 'https://ubg44.github.io/GetawayShootout/'
 thumbnail: /new-images/thumbnails/getaway-shootout.jpg
+urlstr: getaway-shootout
 tags:
   - action
   - multiplayer

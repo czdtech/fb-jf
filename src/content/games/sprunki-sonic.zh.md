@@ -1,14 +1,16 @@
 ---
-locale: "zh"
-urlstr: "sprunki-sonic"
-
-title: "Sprunki Sonic 🔥 在线玩 Sprunki Sonic"
-description: "无论你是节奏游戏爱好者还是 Sonic 系列的忠实粉丝，你都能在 Sprunki Sonic 中找到你的乐趣。这款游戏易学难精，非常适合各种技能水平的玩家。"
-iframeSrc: "https://turbowarp.org/1114980098/embed"
+locale: zh
+title: Sprunki Sonic
+seoTitle: 免费在线玩 Sprunki Sonic | FiddleBops
+description: 无论你是节奏游戏爱好者还是 Sonic 系列的忠实粉丝，你都能在 Sprunki Sonic 中找到你的乐趣。这款游戏易学难精，非常适合各种技能水平的玩家。
+iframeSrc: 'https://turbowarp.org/1114980098/embed'
 thumbnail: /new-images/thumbnails/sprunki-sonic.png
-score: "4.0/5  (829 votes)"
-tags: ["sprunki sonic", "sprunki sonic online"]
-releaseDate: 2025-12-04
+urlstr: sprunki-sonic
+tags:
+  - sprunki sonic
+  - sprunki sonic online
+score: 4.0/5  (829 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Sonic 介绍

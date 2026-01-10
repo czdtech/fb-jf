@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: hoop-stars
 title: Hoop Stars
+seoTitle: Spiele Hoop Stars kostenlos online | FiddleBops
 description: >-
   Hoop Stars ist ein Ring-Flip-Skillspiel: Drehe den Ring, timinge deine Flips
   und lasse ihn sauber über den Pfosten gleiten, bevor dein Gegner punktet.
 iframeSrc: 'https://6si9877n1hvh8.h5games.usercontent.goog/v/717o1ln0arjho/'
 thumbnail: /new-images/thumbnails/hoop-stars.png
+urlstr: hoop-stars
 tags:
   - sports
   - action

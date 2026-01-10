@@ -1,16 +1,17 @@
 ---
-title: Sprunki Cool As Ice - Play Sprunki Cool As Ice Online
+locale: ja
+title: Sprunki Cool As Ice
+seoTitle: 無料でSprunki Cool As Iceをオンラインでプレイ | FiddleBops
 description: >-
   Sprunki: Cool As
   Iceは冬のテーマで遊べる音楽作成Modです。キャラクターにサウンドを割り当てて音を重ね、雪や氷の雰囲気のトラックを作れます。
 iframeSrc: 'https://turbowarp.org/1114795409/embed'
 thumbnail: /new-images/thumbnails/sprunki-cool-as-ice.png
 urlstr: sprunki-cool-as-ice
-score: 4.2/5  (324 votes)
 tags:
   - sprunki cool as ice
   - sprunki cool as ice online
-locale: ja
+score: 4.2/5  (324 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

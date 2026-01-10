@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: speed-master
 title: Speed Master
+seoTitle: Juega a Speed Master en línea gratis | FiddleBops
 description: >-
   Speed Master es una prueba extrema de reflejos: acierta los avisos al ritmo,
   encadena perfectos y mantén la calma cuando la velocidad se dispare.
 iframeSrc: 'https://6e0ej8ct9hdj8.h5games.usercontent.goog/v/1fssfmqquil18/'
 thumbnail: /new-images/thumbnails/speed-master.png
+urlstr: speed-master
 tags:
   - action
   - casual

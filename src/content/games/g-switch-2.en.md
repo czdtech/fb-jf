@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "G-Switch 2"
-description: "Gravity‑flip runner sequel: race solo or in local multiplayer, flipping gravity to survive traps at rising speed." 
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/6/index.html"
+title: G-Switch 2
+seoTitle: Play G-Switch 2 Online Free | FiddleBops
+description: >-
+  Gravity‑flip runner sequel: race solo or in local multiplayer, flipping
+  gravity to survive traps at rising speed.
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/6/index.html
 thumbnail: /new-images/thumbnails/g-switch-2.jpg
-urlstr: "g-switch-2"
-score: "3.6/5  (331 votes)"
-tags: ["runner", "platformer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: g-switch-2
+tags:
+  - runner
+  - platformer
+score: 3.6/5  (331 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

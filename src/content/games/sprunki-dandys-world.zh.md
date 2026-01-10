@@ -1,14 +1,15 @@
 ---
-locale: "zh"
-urlstr: "sprunki-dandys-world"
-
-title: "Sprunki Dandy's World - 在线玩 Sprunki Dandy's World"
-description: "Sprunki Dandy's World 是一款独特的游戏，将音乐、艺术和故事融为一体。在这里，你可以释放你的创造力，创造属于你自己的音乐世界。"
-iframeSrc: "https://turbowarp.org/1075503895/embed"
+locale: zh
+title: Sprunki Dandy's World
+seoTitle: 免费在线玩 Sprunki Dandy's World | FiddleBops
+description: Sprunki Dandy's World 是一款独特的游戏，将音乐、艺术和故事融为一体。在这里，你可以释放你的创造力，创造属于你自己的音乐世界。
+iframeSrc: 'https://turbowarp.org/1075503895/embed'
 thumbnail: /new-images/thumbnails/sprunki-dandys-world.png
-score: "4.4/5  (304 votes)"
-tags: ["sprunki dandy"]
-releaseDate: 2025-12-04
+urlstr: sprunki-dandys-world
+tags:
+  - sprunki dandy
+score: 4.4/5  (304 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Dandy's World 介绍

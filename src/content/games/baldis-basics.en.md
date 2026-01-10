@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Baldi's Basics"
-description: "A detailed guide to Baldi's Basics, the parody survival horror game. Learn how to collect notebooks, use items strategically, avoid Baldi and other characters, and escape the schoolhouse."
-iframeSrc: "https://html5.iclouds.io/baldis-basics/index.html"
+title: Baldi's Basics
+seoTitle: Play Baldi's Basics Online Free | FiddleBops
+description: >-
+  A detailed guide to Baldi's Basics, the parody survival horror game. Learn how
+  to collect notebooks, use items strategically, avoid Baldi and other
+  characters, and escape the schoolhouse.
+iframeSrc: 'https://html5.iclouds.io/baldis-basics/index.html'
 thumbnail: /new-images/thumbnails/baldis-basics.jpg
-urlstr: "baldis-basics"
-score: "4.5/5  (781 votes)"
-tags: ["puzzle", "horror"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: baldis-basics
+tags:
+  - puzzle
+  - horror
+score: 4.5/5  (781 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

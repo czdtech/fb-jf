@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: geometry-dash-subzero
 title: Geometry Dash SubZero
+seoTitle: Juega a Geometry Dash SubZero en línea gratis | FiddleBops
 description: >-
   Pack independiente de niveles de ritmo invernales: salta, vuela y encaja los
   anillos al ritmo de la música entre escenarios helados y patrones rápidos.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp46/chenling/20240322/06/index.html
 thumbnail: /new-images/thumbnails/geometry-dash-subzero.jpg
+urlstr: geometry-dash-subzero
 tags:
   - rhythm
   - platformer

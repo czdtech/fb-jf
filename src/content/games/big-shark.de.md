@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: big-shark
 title: Big Shark
+seoTitle: Spiele Big Shark kostenlos online | FiddleBops
 description: >-
   Ein Guide zum Action‑Survival‑Spiel Big Shark. Lerne, wie du frisst und
   wächst, Gefahren wie größere Haie und Minen meidest und im Ozean die höchste
   Punktzahl erreichst.
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/big-shark/'
 thumbnail: /new-images/thumbnails/big-shark.jpg
+urlstr: big-shark
 tags:
   - casual
   - action

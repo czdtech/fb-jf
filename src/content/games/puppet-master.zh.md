@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: puppet-master
 title: 《Puppet Master》物理木偶大师
+seoTitle: 免费在线玩 《Puppet Master》物理木偶大师 | FiddleBops
 description: 《Puppet Master》是一款物理解谜向的搞怪木偶游戏，你需要通过操控木偶的四肢与身体动作，在各种障碍与关卡中艰难前进，想办法摇摇晃晃地抵达终点。
 iframeSrc: 'https://classroomjq.github.io/puppet-master/'
 thumbnail: /new-images/thumbnails/puppet-master.jpg
+urlstr: puppet-master
 tags:
   - puzzle
   - physics

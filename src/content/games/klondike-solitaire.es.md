@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: klondike-solitaire
 title: Klondike Solitaire
+seoTitle: Juega a Klondike Solitaire en línea gratis | FiddleBops
 description: >-
   Klondike clásico: construye las fundaciones de As a Rey por palos usando
   columnas de mesa que descienden en colores alternos; modo robar‑1 o robar‑3.
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-klondike-solitaire/
 thumbnail: /new-images/thumbnails/klondike-solitaire.jpg
+urlstr: klondike-solitaire
 tags:
   - solitaire
   - card

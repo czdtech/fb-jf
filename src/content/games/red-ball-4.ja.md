@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Red Ball 4
+seoTitle: 無料でRed Ball 4をオンラインでプレイ | FiddleBops
 description: Red Ball 4はプラットフォームアドベンチャーです。ボールを転がし、ジャンプし、敵を倒し、レベルを完了し、世界を救います。
 iframeSrc: 'https://class198.github.io/g177/red-ball-4/'
 thumbnail: /new-images/thumbnails/red-ball-4.jpg
 urlstr: red-ball-4
-score: 4.2/5  (1186 votes)
 tags:
   - platformer
   - action
   - casual
+score: 4.2/5  (1186 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: giant-attack
 title: Giant Attack
+seoTitle: Juega a Giant Attack en línea gratis | FiddleBops
 description: >-
   Enfréntate a gigantes colosales en este arcade lleno de acción. Reúne aliados
   para crecer en tamaño y poder, y desata ataques devastadores para derribar a
   los monstruos titánicos.
 iframeSrc: 'https://5699ri02mr840.h5games.usercontent.goog/v/0dov2qbpnafb0/'
 thumbnail: /new-images/thumbnails/giant-attack.png
+urlstr: giant-attack
 tags:
   - action
   - casual

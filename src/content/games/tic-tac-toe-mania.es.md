@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: tic-tac-toe-mania
-title: Tic Tac Toe Mania - Duelos rápidos de tres en raya
+title: Tic Tac Toe Mania
+seoTitle: Juega a Tic Tac Toe Mania en línea gratis | FiddleBops
 description: >-
   Tic Tac Toe Mania moderniza el clásico tres en raya con partidas ágiles,
   variantes de tablero y reglas especiales. Provoca bifurcaciones, bloquea
   amenazas y fuerza empates o victorias con juego óptimo.
 iframeSrc: 'https://7dcsid310v1u8.h5games.usercontent.goog/v/13cfdat69ufug/'
 thumbnail: /new-images/thumbnails/tic-tac-toe-mania.png
+urlstr: tic-tac-toe-mania
 tags:
   - 2 player
   - thinky

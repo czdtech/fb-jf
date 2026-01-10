@@ -1,10 +1,14 @@
 ---
 locale: fr
-urlstr: guess-their-answer
-title: "Guess Their Answer"
-description: "Guess Their Answer est un jeu de sondages rapide : pense comme la foule, propose les réponses les plus courantes et marque plus de points que tes adversaires en couvrant un maximum d’idées."
-iframeSrc: "https://0s1do8fmhrn9g.h5games.usercontent.goog/v/08gmb663j6g78/"
+title: Guess Their Answer
+seoTitle: Jouez à Guess Their Answer en ligne gratuitement | FiddleBops
+description: >-
+  Guess Their Answer est un jeu de sondages rapide : pense comme la foule,
+  propose les réponses les plus courantes et marque plus de points que tes
+  adversaires en couvrant un maximum d’idées.
+iframeSrc: 'https://0s1do8fmhrn9g.h5games.usercontent.goog/v/08gmb663j6g78/'
 thumbnail: /new-images/thumbnails/guess-their-answer.png
+urlstr: guess-their-answer
 tags:
   - puzzle
   - thinky

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: crossword-puzzle
 title: Crossword Puzzle 십자말 퍼즐
+seoTitle: Crossword Puzzle 십자말 퍼즐 무료 온라인 플레이 | FiddleBops
 description: >-
   가로·세로 힌트를 이용해 격자 안의 단어를 채워 넣는 고전 단어 게임 Crossword Puzzle입니다. 다양한 스타일의 십자말 퍼즐을
   온라인에서 가볍게 즐겨 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword-puzzle.html'
 thumbnail: /new-images/thumbnails/crossword-puzzle.jpg
+urlstr: crossword-puzzle
 tags:
   - word
   - puzzle

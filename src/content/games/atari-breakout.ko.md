@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: atari-breakout
 title: Atari Breakout 아타리 브레이크아웃
+seoTitle: Atari Breakout 아타리 브레이크아웃 무료 온라인 플레이 | FiddleBops
 description: >-
   고전 아케이드 게임 Atari Breakout 공략입니다. 패들을 조종해 공을 튕기며 벽돌을 모두 깨고, 터널 전략으로 고득점을 노려
   보세요.
 iframeSrc: >-
   https://app-184523.games.s3.yandex.net/184523/bdryh2h6iqjirujzrk3tlum0j0n28j1o/index.html
 thumbnail: /new-images/thumbnails/atari-breakout.jpg
+urlstr: atari-breakout
 tags:
   - casual
   - action

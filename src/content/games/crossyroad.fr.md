@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: crossyroad
 title: Crossy Road
+seoTitle: Jouez à Crossy Road en ligne gratuitement | FiddleBops
 description: >-
   Dans Crossy Road, fais traverser routes et rivières à ton personnage sans te
   faire renverser ni tomber à l’eau, et va le plus loin possible.
 iframeSrc: 'https://www.playfiddlebops.com/embed/crossyroad/index.html'
 thumbnail: /new-images/thumbnails/crossyroad.jpg
+urlstr: crossyroad
 tags:
   - action
   - casual

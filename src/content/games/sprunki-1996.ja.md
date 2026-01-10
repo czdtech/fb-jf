@@ -1,13 +1,15 @@
 ---
-title: "Sprunki 1996 - Play Sprunki 1996 Online"
-description: "Sprunki 1996は90年代風の見た目で遊べる音楽作成ゲームです。キャラクターを組み合わせて音を重ね、レトロな雰囲気の曲を作れます。"
-iframeSrc: "https://html-classic.itch.zone/html/14634762/index.html"
-thumbnail: /new-images/thumbnails/sprunki-1996.png
-urlstr: "sprunki-1996"
-score: "4.0/5  (122 votes)"
-tags: ["sprunki 1996"]
 locale: ja
-releaseDate: 2025-12-04
+title: Sprunki 1996
+seoTitle: 無料でSprunki 1996をオンラインでプレイ | FiddleBops
+description: Sprunki 1996は90年代風の見た目で遊べる音楽作成ゲームです。キャラクターを組み合わせて音を重ね、レトロな雰囲気の曲を作れます。
+iframeSrc: 'https://html-classic.itch.zone/html/14634762/index.html'
+thumbnail: /new-images/thumbnails/sprunki-1996.png
+urlstr: sprunki-1996
+tags:
+  - sprunki 1996
+score: 4.0/5  (122 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: hexa-dungeon
 title: 《Hexa Dungeon》六角地牢连线战
+seoTitle: 免费在线玩 《Hexa Dungeon》六角地牢连线战 | FiddleBops
 description: >-
   在《Hexa
   Dungeon》中走进六角地牢，对抗骷髅与怪物——通过在六边形棋盘上连接同色宝石触发消除，用更长的连线打出更高伤害，是一款融合三消与地牢战斗的解谜 RPG。
 iframeSrc: 'https://hexadungeon.h5games.usercontent.goog/v/0j3gttu45n06g/'
 thumbnail: /new-images/thumbnails/hexa-dungeon.png
+urlstr: hexa-dungeon
 tags:
   - puzzle
   - action

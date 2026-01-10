@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: minesweeper-1000
 title: Minesweeper 1000
+seoTitle: Jouez à Minesweeper 1000 en ligne gratuitement | FiddleBops
 description: >-
   Minesweeper 1000 modernise le démineur classique : lis la logique des nombres,
   pose des drapeaux et nettoie d’immenses grilles avec des techniques efficaces.
 iframeSrc: 'https://5gsana77eub30.h5games.usercontent.goog/v/7363vv8e5mrb8/'
 thumbnail: /new-images/thumbnails/minesweeper-1000.png
+urlstr: minesweeper-1000
 tags:
   - puzzle
   - thinky

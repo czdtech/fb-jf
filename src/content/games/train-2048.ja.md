@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Train 2048
+seoTitle: 無料でTrain 2048をオンラインでプレイ | FiddleBops
 description: Train 2048は、2048ゲームと列車を組み合わせたパズルゲームです。同じ数字の列車を合体させましょう。
 iframeSrc: >-
   https://train2048.h5games.usercontent.goog/v/efebc769-0d8d-48f4-b437-af712b013132/
 thumbnail: /new-images/thumbnails/train-2048.jpg
 urlstr: train-2048
-score: 4.1/5  (1120 votes)
 tags:
   - puzzle
   - numbers
   - merge
-locale: ja
+score: 4.1/5  (1120 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 

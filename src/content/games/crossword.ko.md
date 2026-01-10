@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: crossword
 title: Crossword 크로스워드
+seoTitle: Crossword 크로스워드 무료 온라인 플레이 | FiddleBops
 description: 가로·세로 힌트를 풀어 서로 교차하는 글자를 맞춰 가는 클래식 퍼즐 게임 Crossword입니다. 알파벳 단어 퍼즐의 정석을 경험해 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword.html'
 thumbnail: /new-images/thumbnails/crossword.jpg
+urlstr: crossword
 tags:
   - word
   - puzzle

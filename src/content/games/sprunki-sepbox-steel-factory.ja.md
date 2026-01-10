@@ -1,15 +1,17 @@
 ---
-title: Sprunki x SepBox Steel Factory - Play Sprunki x SepBox Steel Factory Online
+locale: ja
+title: Sprunki x SepBox Steel Factory
+seoTitle: 無料でSprunki x SepBox Steel Factoryをオンラインでプレイ | FiddleBops
 description: >-
-  Sprunki x SepBox Steel Factoryは工場（スチール工場）風のサウンドで音作りをするModです。金属音や機械音を重ねて産業的なトラックを作れます。
+  Sprunki x SepBox Steel
+  Factoryは工場（スチール工場）風のサウンドで音作りをするModです。金属音や機械音を重ねて産業的なトラックを作れます。
 iframeSrc: 'https://turbowarp.org/1099071172/embed'
 thumbnail: /new-images/thumbnails/sprunki-sepbox-steel-factory.png
 urlstr: sprunki-sepbox-steel-factory
-score: 4.9/5  (509 votes)
 tags:
   - sprunki sepbox steel factory
-locale: ja
-releaseDate: 2025-12-04
+score: 4.9/5  (509 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,17 +1,18 @@
 ---
 locale: de
-urlstr: sprunkr-but-sprunki
 title: Sprunkr But Sprunki
+seoTitle: Spiele Sprunkr But Sprunki kostenlos online | FiddleBops
 description: >-
   Sprunkr But Sprunki ersetzt die Figuren des Sprunkr-Mods durch
   Sprunki-Charaktere – du spielst mit dem Sprunkr-Gameplay, aber im Look & Sound
   der Sprunki-Welt.
 iframeSrc: 'https://turbowarp.org/1113707117/embed'
 thumbnail: /new-images/thumbnails/sprunkr-but-sprunki.png
+urlstr: sprunkr-but-sprunki
 tags:
   - sprunkr but sprunki
 score: 4.5/5  (541 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

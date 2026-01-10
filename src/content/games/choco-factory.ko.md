@@ -1,14 +1,14 @@
 ---
 locale: ko
-urlstr: choco-factory
-title: "Choco Factory 초코 팩토리"
+title: Choco Factory 초코 팩토리
+seoTitle: Choco Factory 초코 팩토리 무료 온라인 플레이 | FiddleBops
 description: >-
-  Choco Factory는 나만의 초콜릿 공장을 운영하는 캐주얼 게임으로, 다양한 초콜릿을
-  생산해 주문을 맞추고 공장을 성장시키는 재미를 담고 있습니다. 레시피를 관리하고
-  기계를 업그레이드하며 달콤한 비즈니스를 키워 보세요.
+  Choco Factory는 나만의 초콜릿 공장을 운영하는 캐주얼 게임으로, 다양한 초콜릿을 생산해 주문을 맞추고 공장을 성장시키는 재미를
+  담고 있습니다. 레시피를 관리하고 기계를 업그레이드하며 달콤한 비즈니스를 키워 보세요.
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/0aJSAnXwHyEMfhVW/rvvASMiM/dae161e33a524a85af8ca53ea2f71865/
 thumbnail: /new-images/thumbnails/choco-factory.jpg
+urlstr: choco-factory
 tags:
   - casual
 score: 4.1/5  (915 votes)

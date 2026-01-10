@@ -1,7 +1,7 @@
 ---
 locale: fr
-urlstr: level-devil
 title: Level Devil
+seoTitle: Jouez à Level Devil en ligne gratuitement | FiddleBops
 description: >-
   Plateformer troll : les niveaux changent sans prévenir avec piques surgissant,
   sols qui s’effondrent et fausses sorties ; apprends les pièges et garde ton
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231215/10/index.html
 thumbnail: /new-images/thumbnails/level-devil.jpg
+urlstr: level-devil
 tags:
   - platformer
   - puzzle

@@ -1,6 +1,7 @@
 ---
 locale: en
-title: FiddleBops but Sprunki - Play FiddleBops but Sprunki Online
+title: FiddleBops but Sprunki
+seoTitle: Play FiddleBops but Sprunki Online Free | FiddleBops
 description: >-
   FiddleBops but Sprunki is an awesome crossover event! It keeps the addictive
   music-making core of Fiddlebops but swaps out all the original characters for
@@ -8,11 +9,11 @@ description: >-
 iframeSrc: 'https://turbowarp.org/1114915532/embed'
 thumbnail: /new-images/thumbnails/fiddlebops-but-sprunki.png
 urlstr: fiddlebops-but-sprunki
-modType: fiddlebops
-score: 4.2/5  (94 votes)
 tags:
   - fiddlebops but sprunki
   - music
+modType: fiddlebops
+score: 4.2/5  (94 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

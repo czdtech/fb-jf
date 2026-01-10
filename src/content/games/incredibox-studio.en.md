@@ -1,16 +1,21 @@
 ---
 locale: en
-modType: incredibox
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Incredibox Studio"
-description: "Incredibox Studio is a fan-made game inspired by the original Incredibox. It's created using Scratch and optimized with TurboWarp, allowing players to create their own musical mixes in a sandbox environment."
-iframeSrc: "https://turbowarp.org/1013575298/embed"
+title: Incredibox Studio
+seoTitle: Play Incredibox Studio Online Free | FiddleBops
+description: >-
+  Incredibox Studio is a fan-made game inspired by the original Incredibox. It's
+  created using Scratch and optimized with TurboWarp, allowing players to create
+  their own musical mixes in a sandbox environment.
+iframeSrc: 'https://turbowarp.org/1013575298/embed'
 thumbnail: /new-images/thumbnails/incredibox-studio.png
-urlstr: "incredibox-studio"
-score: "4.8/5 (1842 votes)"
-tags: ["music", "sandbox"]
-developer: ""
-releaseDate: 2025-10-10
+urlstr: incredibox-studio
+tags:
+  - music
+  - sandbox
+modType: incredibox
+score: 4.8/5 (1842 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

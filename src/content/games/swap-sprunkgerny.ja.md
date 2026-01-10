@@ -1,16 +1,19 @@
 ---
+locale: ja
 title: Swap Sprunkgerny
-description: Swap Sprunkgernyは、個性豊かなキャラクターをドラッグ＆ドロップで並べて音楽を作るSprunki系Modです。組み合わせを替えるほど、音と踊りが変化します。
+seoTitle: 無料でSwap Sprunkgernyをオンラインでプレイ | FiddleBops
+description: >-
+  Swap
+  Sprunkgernyは、個性豊かなキャラクターをドラッグ＆ドロップで並べて音楽を作るSprunki系Modです。組み合わせを替えるほど、音と踊りが変化します。
 iframeSrc: 'https://turbowarp.org/1141050651/embed'
 thumbnail: /new-images/thumbnails/swap-sprunkgerny.png
 urlstr: swap-sprunkgerny
-score: 4.9/5  (724 votes)
 tags:
   - sprunki
   - music
   - swap
-locale: ja
-releaseDate: 2025-12-04
+score: 4.9/5  (724 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Swap Sprunkgernyの紹介

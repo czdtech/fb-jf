@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Survivor Legends
+seoTitle: 無料でSurvivor Legendsをオンラインでプレイ | FiddleBops
 description: Survivor Legendsは、サバイバル戦略ゲームです。資源を集め、避難所を建設し、生き残りましょう。
 iframeSrc: 'https://244mb60l209a8.h5games.usercontent.goog/v/1koih6fev3le8/'
 thumbnail: /new-images/thumbnails/survivor-legends.png
 urlstr: survivor-legends
-score: 4.1/5  (2019 votes)
 tags:
   - survival
   - strategy
   - adventure
-locale: ja
+score: 4.1/5  (2019 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

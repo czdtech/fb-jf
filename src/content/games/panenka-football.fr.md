@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: panenka-football
 title: Panenka Football
+seoTitle: Jouez à Panenka Football en ligne gratuitement | FiddleBops
 description: "Panenka Football est un jeu de tirs au but centré sur la fameuse Panenka\_: masque tes intentions, dose ta frappe et déjoue les gardiens avec des chips audacieuses."
 iframeSrc: 'https://15n5pfdq70ung.h5games.usercontent.goog/v/2ftdtu6n19sk8/'
 thumbnail: /new-images/thumbnails/panenka-football.png
+urlstr: panenka-football
 tags:
   - sports
   - soccer

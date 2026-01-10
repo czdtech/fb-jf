@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Butterfly Shimai"
-description: "Soar into a beautiful puzzle adventure with Butterfly Shimai! Connect matching butterfly wings to make them fly away and clear the board."
-iframeSrc: "https://1pq2qond4eka0.h5games.usercontent.goog/v/4oiv5e7dd7vd8/"
-urlstr: "butterfly-shimai"
+title: Butterfly Shimai
+seoTitle: Play Butterfly Shimai Online Free | FiddleBops
+description: >-
+  Soar into a beautiful puzzle adventure with Butterfly Shimai! Connect matching
+  butterfly wings to make them fly away and clear the board.
+iframeSrc: 'https://1pq2qond4eka0.h5games.usercontent.goog/v/4oiv5e7dd7vd8/'
 thumbnail: /new-images/thumbnails/butterfly-shimai.png
-score: "4.6/5  (2100 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: butterfly-shimai
+tags:
+  - puzzle
+  - casual
+  - thinky
+score: 4.6/5  (2100 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

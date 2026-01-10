@@ -1,19 +1,20 @@
 ---
+locale: ja
 title: Golf Orbit
+seoTitle: 無料でGolf Orbitをオンラインでプレイ | FiddleBops
 description: >-
   Golf
   Orbitは、飛ばして着地させるワンタップゴルフです。発射角度を決め、スピンを管理し、惑星の重力を利用して、戦略的なロングフライトを目指しましょう。
 iframeSrc: 'https://7e0r297sgk0j0.h5games.usercontent.goog/v/1976bdao4gtf0/'
 thumbnail: /new-images/thumbnails/golf-orbit.png
 urlstr: golf-orbit
-score: 4.1/5  (1926 votes)
 tags:
   - sports
   - puzzle
   - casual
+score: 4.1/5  (1926 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: emoji-fun
 title: Emoji Fun 表情联想谜题
+seoTitle: 免费在线玩 Emoji Fun 表情联想谜题 | FiddleBops
 description: Emoji Fun 是一款充满创意的联想解谜游戏，你要通过画线连结成对的表情符号， 靠直觉与发散思维破解每一关。
 iframeSrc: 'https://0aijth0is3tko.h5games.usercontent.goog/v/1c1277hq9kr98/'
 thumbnail: /new-images/thumbnails/emoji-fun.png
+urlstr: emoji-fun
 tags:
   - puzzle
   - thinky

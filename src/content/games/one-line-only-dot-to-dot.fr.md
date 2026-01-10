@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: one-line-only-dot-to-dot
 title: 'One Line Only: Dot to Dot'
+seoTitle: 'Jouez à One Line Only: Dot to Dot en ligne gratuitement | FiddleBops'
 description: >-
   One Line Only: Dot to Dot est un puzzle de tracé où tu dois relier tous les
   points avec un seul trait continu sans repasser deux fois au même endroit.
 iframeSrc: 'https://7n3sql2bqn9eg.h5games.usercontent.goog/v/2br4t62jndh88/'
 thumbnail: /new-images/thumbnails/one-line-only-dot-to-dot.jpg
+urlstr: one-line-only-dot-to-dot
 tags:
   - puzzle
   - thinky

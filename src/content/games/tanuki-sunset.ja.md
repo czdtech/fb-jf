@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Tanuki Sunset
+seoTitle: 無料でTanuki Sunsetをオンラインでプレイ | FiddleBops
 description: Tanuki Sunsetは、スタイリッシュなスケートボードゲームです。たぬきを操作して美しい夕日の中を滑りましょう。
 iframeSrc: 'https://ubg100.github.io/games/tanuki/index.html'
 thumbnail: /new-images/thumbnails/tanuki-sunset.jpg
 urlstr: tanuki-sunset
-score: 4.5/5  (300 votes)
 tags:
   - skateboard
   - arcade
   - retro
-locale: ja
+score: 4.5/5  (300 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

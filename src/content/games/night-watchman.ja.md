@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Night Watchman
+seoTitle: 無料でNight Watchmanをオンラインでプレイ | FiddleBops
 description: Night Watchmanはホラーサバイバルゲームです。施設をパトロールし、異変を確認しながら朝まで生き延びます。
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/night-watchman/'
 thumbnail: /new-images/thumbnails/night-watchman.jpg
 urlstr: night-watchman
-score: 4.5/5  (1344 votes)
 tags:
   - horror
   - casual
+score: 4.5/5  (1344 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

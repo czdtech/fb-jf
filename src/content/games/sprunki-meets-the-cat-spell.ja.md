@@ -1,13 +1,16 @@
 ---
-title: "Sprunki Meets The Cat Spell - Play Sprunki Meets The Cat Spell Online"
-description: "このModは、「Sprunki Cats Game」というタイトルの既存のModのリワーク版です。"
-iframeSrc: "https://turbowarp.org/1149710266/embed"
-thumbnail: /new-images/thumbnails/sprunki-meets-the-cat-spell.png
-urlstr: "sprunki-meets-the-cat-spell"
-score: "4.8/5  (649 votes)"
-tags: ["sprunki meets the cat spell", "sprunki meets the cat spell online"]
 locale: ja
-releaseDate: 2025-12-04
+title: Sprunki Meets The Cat Spell
+seoTitle: 無料でSprunki Meets The Cat Spellをオンラインでプレイ | FiddleBops
+description: このModは、「Sprunki Cats Game」というタイトルの既存のModのリワーク版です。
+iframeSrc: 'https://turbowarp.org/1149710266/embed'
+thumbnail: /new-images/thumbnails/sprunki-meets-the-cat-spell.png
+urlstr: sprunki-meets-the-cat-spell
+tags:
+  - sprunki meets the cat spell
+  - sprunki meets the cat spell online
+score: 4.8/5  (649 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Meets The Cat Spellの紹介

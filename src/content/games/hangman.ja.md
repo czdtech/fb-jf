@@ -1,14 +1,17 @@
 ---
-title: "Hangman (ハングマン)"
-description: "クラシックな単語当てゲーム：文字を提案して秘密の単語を推理しましょう。絵が完成してしまう前に、間違えすぎないように気をつけながら正解を目指します。"
-iframeSrc: "https://hangman-frontend.coolmathgames.com/home"
-thumbnail: /new-images/thumbnails/hangman.jpg
-urlstr: "hangman"
-score: "3.7/5  (708 votes)"
-tags: ["word", "puzzle"]
-developer: ""
-releaseDate: 2025-08-16
 locale: ja
+title: Hangman (ハングマン)
+seoTitle: 無料でHangman (ハングマン)をオンラインでプレイ | FiddleBops
+description: クラシックな単語当てゲーム：文字を提案して秘密の単語を推理しましょう。絵が完成してしまう前に、間違えすぎないように気をつけながら正解を目指します。
+iframeSrc: 'https://hangman-frontend.coolmathgames.com/home'
+thumbnail: /new-images/thumbnails/hangman.jpg
+urlstr: hangman
+tags:
+  - word
+  - puzzle
+score: 3.7/5  (708 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

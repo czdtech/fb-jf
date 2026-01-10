@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: big-shot-boxing
 title: Big Shot Boxing carrera de boxeo retro
+seoTitle: Juega a Big Shot Boxing carrera de boxeo retro en línea gratis | FiddleBops
 description: >-
   En Big Shot Boxing comienzas como un boxeador novato y asciendes desde peleas
   callejeras hasta campeonatos mundiales. Entrena, mejora tus estadísticas y
   domina unos controles sencillos pero profundos en este arcade retro.
 iframeSrc: 'https://rebemanae.github.io/big-shot-boxing/'
 thumbnail: /new-images/thumbnails/big-shot-boxing.jpg
+urlstr: big-shot-boxing
 tags:
   - sports
   - action

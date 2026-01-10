@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: The Hidden Antique Shop
+seoTitle: 無料でThe Hidden Antique Shopをオンラインでプレイ | FiddleBops
 description: The Hidden Antique Shopは、隠されたオブジェクトを見つけるパズルゲームです。アンティークショップで隠されたアイテムを探しましょう。
 iframeSrc: 'https://7nh0dnmovl0g0.h5games.usercontent.goog/v/01busogksrcm0/'
 thumbnail: /new-images/thumbnails/the-hidden-antique-shop.png
 urlstr: the-hidden-antique-shop
-score: 4.1/5  (1988 votes)
 tags:
   - puzzle
   - hidden objects
   - casual
-locale: ja
+score: 4.1/5  (1988 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

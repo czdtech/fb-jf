@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: mergest-kingdom
 title: Mergest Kingdom
+seoTitle: Jouez à Mergest Kingdom en ligne gratuitement | FiddleBops
 description: >-
   Mergest Kingdom est un jeu de fantasy basé sur la fusion et la construction :
   combine des tuiles, accomplis des quêtes et étends ton royaume grâce à des
   chaînes de fusions bien planifiées.
 iframeSrc: 'https://620tnu7381eao.h5games.usercontent.goog/v/27p309rk86cr8/'
 thumbnail: /new-images/thumbnails/mergest-kingdom.png
+urlstr: mergest-kingdom
 tags:
   - puzzle
   - adventure

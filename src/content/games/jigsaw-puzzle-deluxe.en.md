@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Jigsaw Puzzle Deluxe"
-description: "The classic jigsaw puzzle experience. Choose from a huge library of beautiful images and piece them together. With multiple difficulty levels, it's perfect for both beginners and experts."
-iframeSrc: "https://jigsawpuzzledeluxe.h5games.usercontent.goog/v/5jfat3ipu2790/"
+title: Jigsaw Puzzle Deluxe
+seoTitle: Play Jigsaw Puzzle Deluxe Online Free | FiddleBops
+description: >-
+  The classic jigsaw puzzle experience. Choose from a huge library of beautiful
+  images and piece them together. With multiple difficulty levels, it's perfect
+  for both beginners and experts.
+iframeSrc: 'https://jigsawpuzzledeluxe.h5games.usercontent.goog/v/5jfat3ipu2790/'
 thumbnail: /new-images/thumbnails/jigsaw-puzzle-deluxe.png
-urlstr: "jigsaw-puzzle-deluxe"
-score: "4.6/5  (3200 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: jigsaw-puzzle-deluxe
+tags:
+  - puzzle
+  - casual
+  - thinky
+score: 4.6/5  (3200 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

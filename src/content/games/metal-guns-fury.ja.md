@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Metal Guns Fury
+seoTitle: 無料でMetal Guns Furyをオンラインでプレイ | FiddleBops
 description: Metal Guns Furyはアクションシューターです。敵のウェーブをしのぎ、武器をアップグレードしながら進みます。
 iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
 thumbnail: /new-images/thumbnails/metal-guns-fury.jpg
 urlstr: metal-guns-fury
-score: 4.1/5  (2012 votes)
 tags:
   - action
   - shooter
+score: 4.1/5  (2012 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

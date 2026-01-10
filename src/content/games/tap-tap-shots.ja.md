@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Tap Tap Shots
+seoTitle: 無料でTap Tap Shotsをオンラインでプレイ | FiddleBops
 description: Tap Tap Shotsは、バスケットボールシューティングゲームです。タイミングよくタップしてシュートを決めましょう。
 iframeSrc: 'https://ubg77.github.io/game131022/tap-tap-shots/'
 thumbnail: /new-images/thumbnails/tap-tap-shots.jpg
 urlstr: tap-tap-shots
-score: 4.9/5  (415 votes)
 tags:
   - sports
   - basketball
   - arcade
-locale: ja
+score: 4.9/5  (415 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

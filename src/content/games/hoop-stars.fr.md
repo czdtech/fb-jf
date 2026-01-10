@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: hoop-stars
 title: Hoop Stars
+seoTitle: Jouez à Hoop Stars en ligne gratuitement | FiddleBops
 description: >-
   Hoop Stars est un jeu d’adresse avec des anneaux : fais tourner ton cercle,
   choisis le bon timing et fais‑le retomber proprement sur le piquet avant ton
   adversaire.
 iframeSrc: 'https://6si9877n1hvh8.h5games.usercontent.goog/v/717o1ln0arjho/'
 thumbnail: /new-images/thumbnails/hoop-stars.png
+urlstr: hoop-stars
 tags:
   - sports
   - action

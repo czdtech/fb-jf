@@ -1,16 +1,17 @@
 ---
 locale: zh
-urlstr: spacebar-clicker
 title: 《Spacebar Clicker》空格键点击器
+seoTitle: 免费在线玩 《Spacebar Clicker》空格键点击器 | FiddleBops
 description: 《Spacebar Clicker》是一款极简的点击/放置类小游戏。不断敲击空格键或点击按钮来增加计数，解锁升级与自动化加成，看数字一路飙升。
 iframeSrc: 'https://spacebarclicker.co/game/spacebar-counter/'
 thumbnail: /new-images/thumbnails/spacebar-clicker.jpg
+urlstr: spacebar-clicker
 tags:
   - clicker
   - idle
   - casual
 score: 4.1/5  (866 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

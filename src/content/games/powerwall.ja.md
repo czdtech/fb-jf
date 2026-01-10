@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Powerwall
+seoTitle: 無料でPowerwallをオンラインでプレイ | FiddleBops
 description: Powerwallはブロック破壊ゲームです。パドルでボールを跳ね返し、ブロックを壊して進みます。
 iframeSrc: 'https://powerwall2.h5games.usercontent.goog/v/2744b7jm5t0jg/'
 thumbnail: /new-images/thumbnails/powerwall.png
 urlstr: powerwall
-score: 4.1/5  (987 votes)
 tags:
   - action
   - casual
+score: 4.1/5  (987 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

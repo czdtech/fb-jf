@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Om Nom Bubbles
+seoTitle: 無料でOm Nom Bubblesをオンラインでプレイ | FiddleBops
 description: Om Nom Bubblesはバブルシューターです。同じ色の泡をそろえて消し、レベル目標の達成を目指します。
 iframeSrc: >-
   https://omnombubbles.h5games.usercontent.goog/v/6bdfc73b-7b9c-4046-9bfe-9269036a772f/
 thumbnail: /new-images/thumbnails/om-nom-bubbles.jpg
 urlstr: om-nom-bubbles
-score: 4.3/5  (2059 votes)
 tags:
   - puzzle
   - casual
+score: 4.3/5  (2059 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

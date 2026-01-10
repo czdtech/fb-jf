@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Slippery Slope
+seoTitle: 無料でSlippery Slopeをオンラインでプレイ | FiddleBops
 description: Slippery Slopeはスキーで滑り降りるアクションです。障害物を避けながらスピードに対応し、できるだけ先へ進みます。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231124/15/index.html
 thumbnail: /new-images/thumbnails/slippery-slope.jpg
 urlstr: slippery-slope
-score: 4.0/5  (1074 votes)
 tags:
   - action
   - casual
+score: 4.0/5  (1074 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

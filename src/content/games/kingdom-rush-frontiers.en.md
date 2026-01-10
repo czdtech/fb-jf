@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Kingdom Rush Frontiers"
-description: "Tower defense sequel: build and upgrade towers, deploy reinforcements and heroes, and counter enemy types with smart placement." 
-iframeSrc: "https://1000freegames.github.io/swf/kingdom-rush-frontiers.html"
+title: Kingdom Rush Frontiers
+seoTitle: Play Kingdom Rush Frontiers Online Free | FiddleBops
+description: >-
+  Tower defense sequel: build and upgrade towers, deploy reinforcements and
+  heroes, and counter enemy types with smart placement.
+iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush-frontiers.html'
 thumbnail: /new-images/thumbnails/kingdom-rush-frontiers.jpg
-urlstr: "kingdom-rush-frontiers"
-score: "4.6/5  (681 votes)"
-tags: ["tower-defense", "strategy"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: kingdom-rush-frontiers
+tags:
+  - tower-defense
+  - strategy
+score: 4.6/5  (681 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

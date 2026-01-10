@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Fancy Pants"
-description: "Stylish stick‑figure platformer: fast momentum, wall‑jumps, and flowy parkour across hand‑drawn levels and secret rooms."
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj8/index.html"
+title: Fancy Pants
+seoTitle: Play Fancy Pants Online Free | FiddleBops
+description: >-
+  Stylish stick‑figure platformer: fast momentum, wall‑jumps, and flowy parkour
+  across hand‑drawn levels and secret rooms.
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj8/index.html
 thumbnail: /new-images/thumbnails/fancy-pants.jpg
-urlstr: "fancy-pants"
-score: "4.7/5  (778 votes)"
-tags: ["platformer", "action"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: fancy-pants
+tags:
+  - platformer
+  - action
+score: 4.7/5  (778 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

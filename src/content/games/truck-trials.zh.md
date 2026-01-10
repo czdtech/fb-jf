@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: truck-trials
 title: 《Truck Trials》越野卡车试炼
+seoTitle: 免费在线玩 《Truck Trials》越野卡车试炼 | FiddleBops
 description: 《Truck Trials》是一款基于物理的越野卡车闯关游戏。驾驶重型卡车通过崎岖不平的地形，控制油门与重心，在不翻车的前提下顺利抵达终点。
 iframeSrc: 'https://trucktrials.h5games.usercontent.goog/v/4u5cado14l780/'
 thumbnail: /new-images/thumbnails/truck-trials.png
+urlstr: truck-trials
 tags:
   - driving
   - physics

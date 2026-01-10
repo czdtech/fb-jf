@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: fancy-pants-3
 title: Fancy Pants 3 手绘疾走平台 3 代
+seoTitle: 免费在线玩 Fancy Pants 3 手绘疾走平台 3 代 | FiddleBops
 description: 《Fancy Pants 3》让惯性跑酷再进化——关卡更大、秘密更多， 墙跑与滑行动作更加细腻，在手绘世界里一路冲刺探险。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj10/index.html
 thumbnail: /new-images/thumbnails/fancy-pants-3.jpg
+urlstr: fancy-pants-3
 tags:
   - platformer
   - action

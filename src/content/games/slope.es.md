@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: slope
 title: Slope
+seoTitle: Juega a Slope en línea gratis | FiddleBops
 description: >-
   Slope es el endless runner original en el que controlas una bola verde que
   baja por una pendiente muy inclinada, esquivando obstáculos rojos e intentando
@@ -9,6 +9,7 @@ description: >-
   desafiante.
 iframeSrc: 'https://webglmath.github.io/slope/'
 thumbnail: /new-images/thumbnails/slope.jpg
+urlstr: slope
 tags:
   - endless runner
   - original

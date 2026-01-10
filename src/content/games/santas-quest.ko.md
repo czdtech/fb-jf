@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: santas-quest
 title: Santa's Quest 산타의 퀘스트
+seoTitle: Santa's Quest 산타의 퀘스트 무료 온라인 플레이 | FiddleBops
 description: >-
   타일 기반 퍼즐 맵에서 산타를 움직여 선물을 모으고 출구까지 도달하는 크리스마스 퍼즐 게임입니다. 막다른 길을 만들지 않도록 이동 순서를 잘
   계획해 보세요.
 iframeSrc: 'https://santasquest.h5games.usercontent.goog/v/737gsbva7bkqo/'
 thumbnail: /new-images/thumbnails/santas-quest.png
+urlstr: santas-quest
 tags:
   - puzzle
   - casual

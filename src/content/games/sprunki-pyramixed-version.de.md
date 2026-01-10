@@ -1,17 +1,18 @@
 ---
 locale: de
-urlstr: sprunki-pyramixed-version
-title: Sprunki Pyramixed - Sprunki Pyramixed online spielen
+title: Sprunki Pyramixed
+seoTitle: Spiele Sprunki Pyramixed kostenlos online | FiddleBops
 description: >-
   Sprunki Pyramixed ist eine Musikplattform, in der du mit unterschiedlichen
   Sounds wie mit Bausteinen arbeitest und dir Schritt für Schritt dein eigenes
   Klang-„Pyramidenprojekt“ aufbaust.
 iframeSrc: 'https://turbowarp.org/1133167510/embed'
 thumbnail: /new-images/thumbnails/sprunki-pyramixed-version.png
+urlstr: sprunki-pyramixed-version
 tags:
   - sprunki pyramixed
 score: 4.0/5  (254 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

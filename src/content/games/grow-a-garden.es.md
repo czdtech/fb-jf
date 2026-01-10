@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: grow-a-garden
-title: "Grow a Garden"
+title: Grow a Garden
+seoTitle: Juega a Grow a Garden en línea gratis | FiddleBops
 description: >-
-  Descubre el relajante mundo de los juegos de jardinería con esta guía completa:
-  aprende las bases de plantar, cultivar y cosechar, además de consejos y estrategias
-  para crear tu jardín ideal.
+  Descubre el relajante mundo de los juegos de jardinería con esta guía
+  completa: aprende las bases de plantar, cultivar y cosechar, además de
+  consejos y estrategias para crear tu jardín ideal.
 iframeSrc: 'https://growden.io/'
 thumbnail: /new-images/thumbnails/grow-a-garden.jpeg
+urlstr: grow-a-garden
 tags:
   - simulation
   - casual

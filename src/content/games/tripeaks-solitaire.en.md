@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Tripeaks Solitaire"
-description: "Clear the three peaks in Tripeaks Solitaire! A fast-paced card game where you match cards that are one rank higher or lower to clear the board."
-iframeSrc: "https://tripeakssolitaire.h5games.usercontent.goog/v/4v3d7g06n6rug/"
+title: Tripeaks Solitaire
+seoTitle: Play Tripeaks Solitaire Online Free | FiddleBops
+description: >-
+  Clear the three peaks in Tripeaks Solitaire! A fast-paced card game where you
+  match cards that are one rank higher or lower to clear the board.
+iframeSrc: 'https://tripeakssolitaire.h5games.usercontent.goog/v/4v3d7g06n6rug/'
 thumbnail: /new-images/thumbnails/tripeaks-solitaire.png
-urlstr: "tripeaks-solitaire"
-score: "4.5/5  (2600 votes)"
-tags: ["card", "puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: tripeaks-solitaire
+tags:
+  - card
+  - puzzle
+  - casual
+score: 4.5/5  (2600 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

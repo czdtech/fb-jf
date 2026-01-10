@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Bad Ice-Cream バッド・アイスクリーム
+seoTitle: 無料でBad Ice-Cream バッド・アイスクリームをオンラインでプレイ | FiddleBops
 description: 「Bad Ice-Cream」で氷の迷宮を制覇しよう！氷の壁を作り、壊し、敵を閉じ込めながらフルーツを全部集める、人気のピクセルアート・アクションパズル。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x4/index.html
 thumbnail: /new-images/thumbnails/bad-ice-cream.jpg
 urlstr: bad-ice-cream
-score: 4.9/5  (1015 votes)
 tags:
   - puzzle
   - action
+score: 4.9/5  (1015 votes)
 developer: Nitrome
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

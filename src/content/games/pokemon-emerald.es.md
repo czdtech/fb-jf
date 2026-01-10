@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: pokemon-emerald
 title: Pokémon Esmeralda
+seoTitle: Juega a Pokémon Esmeralda en línea gratis | FiddleBops
 description: >-
   Pokémon Esmeralda es un JRPG clásico de la saga Pokémon en el que viajas por
   la región de Hoenn, capturando y entrenando Pokémon, combatiendo contra otros
@@ -9,6 +9,7 @@ description: >-
   frenas los planes de los equipos Magma y Aqua.
 iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonemerald'
 thumbnail: /new-images/thumbnails/pokemon-emerald.jpg
+urlstr: pokemon-emerald
 tags:
   - rpg
   - adventure

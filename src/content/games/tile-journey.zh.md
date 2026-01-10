@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: tile-journey
 title: 《Tile Journey》方块旅程
+seoTitle: 免费在线玩 《Tile Journey》方块旅程 | FiddleBops
 description: 《Tile Journey》是一款 3D 方块配对消除游戏。通过从堆叠结构中依次取出方块，在托盘中凑齐三张相同图案进行消除，清空所有方块即算通关。
 iframeSrc: 'https://0i1jh8boqif48.h5games.usercontent.goog/v/1643ot8on0v9g/'
 thumbnail: /new-images/thumbnails/tile-journey.png
+urlstr: tile-journey
 tags:
   - puzzle
   - casual

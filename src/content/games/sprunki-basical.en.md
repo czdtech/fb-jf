@@ -1,6 +1,7 @@
 ---
 locale: en
-title: Sprunki Basical - Play Sprunki Basical Online
+title: Sprunki Basical
+seoTitle: Play Sprunki Basical Online Free | FiddleBops
 description: >-
   Sprunki Basical is a back-to-basics music creation game that allows you to
   experience the purest musical fun in simple operations. If you like Incredibox
@@ -9,12 +10,12 @@ description: >-
 iframeSrc: 'https://sprunki-basical.pages.dev/'
 thumbnail: /new-images/thumbnails/sprunki-basical.png
 urlstr: sprunki-basical
-modType: sprunki
-score: 4.4/5  (420 votes)
 tags:
   - sprunki basical
   - sprunki basical online
   - music
+modType: sprunki
+score: 4.4/5  (420 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

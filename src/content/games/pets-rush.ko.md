@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: pets-rush
 title: Pets Rush 펫 러시
+seoTitle: Pets Rush 펫 러시 무료 온라인 플레이 | FiddleBops
 description: >-
   귀여운 동물 블록으로 즐기는 실시간 3매치 퍼즐 게임입니다. 아래에서 끊임없이 올라오는 펫 블록이 화면 위까지 닿기 전에 재빠르게 매치를
   만들어 지워 보세요.
 iframeSrc: >-
   https://petsrush2.h5games.usercontent.goog/v/e566fdbf-c420-4ec6-af2a-7e9a6edab856/
 thumbnail: /new-images/thumbnails/pets-rush.jpg
+urlstr: pets-rush
 tags:
   - puzzle
   - casual

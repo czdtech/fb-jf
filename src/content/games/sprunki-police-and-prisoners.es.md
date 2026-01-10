@@ -1,17 +1,18 @@
 ---
 locale: es
-urlstr: sprunki-police-and-prisoners
-title: 'Sprunki Police And Prisoners - Juega a Sprunki Police And Prisoners online'
+title: Sprunki Police And Prisoners
+seoTitle: Juega a Sprunki Police And Prisoners en línea gratis | FiddleBops
 description: >-
   Sprunki Police and Prisoners Mod es una modificación creativa del universo
   Incredibox Sprunki que reinterpreta personajes y escenario con un estilo
   abstracto y surrealista.
 iframeSrc: 'https://turbowarp.org/1113493234/embed'
 thumbnail: /new-images/thumbnails/sprunki-police-and-prisoners.png
+urlstr: sprunki-police-and-prisoners
 tags:
   - sprunki police and prisoners
 score: 3.9/5  (325 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

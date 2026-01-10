@@ -1,7 +1,9 @@
 ---
 locale: es
-urlstr: basket-random
 title: Basket Random baloncesto caótico con un botón
+seoTitle: >-
+  Juega a Basket Random baloncesto caótico con un botón en línea gratis |
+  FiddleBops
 description: >-
   Basket Random es un juego de baloncesto con físicas locas y cambios aleatorios
   en cada punto. Domina el único botón, acepta el caos y aprende a ganar en
@@ -9,6 +11,7 @@ description: >-
 iframeSrc: >-
   https://app-197304.games.s3.yandex.net/197304/kj9rcykboy6eol5xnn250jesr7v0hoh1/index.html
 thumbnail: /new-images/thumbnails/basket-random.jpg
+urlstr: basket-random
 tags:
   - casual
   - sports

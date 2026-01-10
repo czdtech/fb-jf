@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Mahjong Solitaire
+seoTitle: 無料でMahjong Solitaireをオンラインでプレイ | FiddleBops
 description: クラシックな麻雀ソリティアです。同じ絵柄のフリータイルをペアで消し、観察と順番選びで盤面をクリアします。
 iframeSrc: 'https://4erks8385j9eo.h5games.usercontent.goog/v/1ff4p4m8ilme8/'
 thumbnail: /new-images/thumbnails/mahjong-solitaire.png
 urlstr: mahjong-solitaire
-score: 4.6/5  (2300 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.6/5  (2300 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

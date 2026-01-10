@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Tanuki Sunset"
-description: "Grab your longboard and cruise into the sunset in Tanuki Sunset! Play as a cool raccoon and master the art of drifting down scenic, synthwave-themed mountainsides. Perform tricks, avoid cars, and collect Tanuki Bits to become a longboarding legend in this stylish arcade game."
-iframeSrc: "https://ubg100.github.io/games/tanuki/index.html"
+title: Tanuki Sunset
+seoTitle: Play Tanuki Sunset Online Free | FiddleBops
+description: >-
+  Grab your longboard and cruise into the sunset in Tanuki Sunset! Play as a
+  cool raccoon and master the art of drifting down scenic, synthwave-themed
+  mountainsides. Perform tricks, avoid cars, and collect Tanuki Bits to become a
+  longboarding legend in this stylish arcade game.
+iframeSrc: 'https://ubg100.github.io/games/tanuki/index.html'
 thumbnail: /new-images/thumbnails/tanuki-sunset.jpg
-urlstr: "tanuki-sunset"
-score: "4.5/5  (300 votes)"
-tags: ["arcade", "racing", "sports"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: tanuki-sunset
+tags:
+  - arcade
+  - racing
+  - sports
+score: 4.5/5  (300 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

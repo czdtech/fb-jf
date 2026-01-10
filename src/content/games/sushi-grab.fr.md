@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: sushi-grab
 title: Sushi Grab
+seoTitle: Jouez à Sushi Grab en ligne gratuitement | FiddleBops
 description: "Sushi Grab est un jeu d’arcade rapide\_: attrape les bons sushis sur le tapis roulant, évite les pièges et atteins l’objectif de score."
 iframeSrc: 'https://sushigrab.h5games.usercontent.goog/v/0ehlec2inmmrg/'
 thumbnail: /new-images/thumbnails/sushi-grab.png
+urlstr: sushi-grab
 tags:
   - casual
   - thinky

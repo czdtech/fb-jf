@@ -1,13 +1,16 @@
 ---
 locale: es
-urlstr: 60s-burger-run
 title: 60 Seconds Burger Run juego de plataformas exprés
+seoTitle: >-
+  Juega a 60 Seconds Burger Run juego de plataformas exprés en línea gratis |
+  FiddleBops
 description: >-
   60 Second Burger Run es un colorido juego de plataformas de velocidad donde tu
   objetivo es llegar a una hamburguesería a punto de cerrar en solo 60 segundos.
   Corre, salta y memoriza el recorrido antes de que el tiempo se agote.
 iframeSrc: 'https://www.playfiddlebops.com/embed/60s-burger-run/index.html'
 thumbnail: /new-images/thumbnails/60s-burger-run.jpg
+urlstr: 60s-burger-run
 tags:
   - 60 seconds burger run
 score: 4.6/5  (1344 votes)

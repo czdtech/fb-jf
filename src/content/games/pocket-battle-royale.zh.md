@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: pocket-battle-royale
 title: 《Pocket Battle Royale》迷你吃鸡竞技
+seoTitle: 免费在线玩 《Pocket Battle Royale》迷你吃鸡竞技 | FiddleBops
 description: >-
   《Pocket Battle Royale》是一款俯视角 2D
   吃鸡射击小游戏，你将被丢进迷宫式战场，在缩圈压力下搜集武器与血包，击败其他玩家，成为最后的生存者。
 iframeSrc: 'https://pocketbattleroyale.h5games.usercontent.goog/v/1n9qfv4cpdie8/'
 thumbnail: /new-images/thumbnails/pocket-battle-royale.png
+urlstr: pocket-battle-royale
 tags:
   - action
   - shooting

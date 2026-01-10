@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: fruit-chef
 title: Fruit Chef
+seoTitle: Jouez à Fruit Chef en ligne gratuitement | FiddleBops
 description: >-
   Fruit Chef est un jeu de découpe ultra rapide : enchaîne les tranches nettes,
   évite les bombes et gère ton tempo pour des combos monstrueux.
 iframeSrc: 'https://419in6alhpp88.h5games.usercontent.goog/v/22nao6drjf7v0/'
 thumbnail: /new-images/thumbnails/fruit-chef.png
+urlstr: fruit-chef
 tags:
   - action
   - casual

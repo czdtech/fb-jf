@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: tank-trouble
 title: Tank Trouble 탱크 트러블
+seoTitle: Tank Trouble 탱크 트러블 무료 온라인 플레이 | FiddleBops
 description: >-
   Tank Trouble는 미로 같은 아레나에서 탱크를 조종해 서로에게 포탄을 쏘는 멀티플레이 탱크 배틀 게임입니다. 벽에 튕기는 탄을 이용해
   간접 사격으로 마지막까지 살아남으세요.
 iframeSrc: 'https://www.friv2018.com/games/html5/tank-trouble-2/'
 thumbnail: /new-images/thumbnails/tank-trouble.jpg
+urlstr: tank-trouble
 tags:
   - multiplayer
   - action

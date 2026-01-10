@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Clicker Heroes"
-description: "The ultimate guide to Clicker Heroes. Learn the core gameplay, expert strategies for Ascension and Ancients, controls, and answers to common questions for this addictive idle/clicker game."
-iframeSrc: "https://cdn.clickerheroes.com/gamebuild/"
+title: Clicker Heroes
+seoTitle: Play Clicker Heroes Online Free | FiddleBops
+description: >-
+  The ultimate guide to Clicker Heroes. Learn the core gameplay, expert
+  strategies for Ascension and Ancients, controls, and answers to common
+  questions for this addictive idle/clicker game.
+iframeSrc: 'https://cdn.clickerheroes.com/gamebuild/'
 thumbnail: /new-images/thumbnails/clicker-heroes.jpg
-urlstr: "clicker-heroes"
-score: "3.9/5  (457 votes)"
-tags: ["clicker", "casual"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: clicker-heroes
+tags:
+  - clicker
+  - casual
+score: 3.9/5  (457 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: fullspeed-racing
 title: FullSpeed Racing 풀스피드 레이싱
+seoTitle: FullSpeed Racing 풀스피드 레이싱 무료 온라인 플레이 | FiddleBops
 description: '아케이드 감성의 서킷 레이싱 게임입니다. 최적의 라인을 고르고 브레이크 포인트를 익혀, 깨끗하게 추월해 보세요.'
 iframeSrc: 'https://fullspeedracing.h5games.usercontent.goog/v/4kqu52vbp4da8/'
 thumbnail: /new-images/thumbnails/fullspeed-racing.jpg
+urlstr: fullspeed-racing
 tags:
   - car
   - driving

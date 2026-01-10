@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: fly-or-die
 title: Fly or Die 进化生存 .io
+seoTitle: 免费在线玩 Fly or Die 进化生存 .io | FiddleBops
 description: Fly or Die 是一款进化生存类 .io 游戏，吃对应的食物才能升级进化， 同时避开天上与地面各种掠食者与环境危险。
 iframeSrc: >-
   https://app-96679.games.s3.yandex.net/96679/jshypemnvrae6bchv5d2nej2892owe69/index.html
 thumbnail: /new-images/thumbnails/fly-or-die.jpg
+urlstr: fly-or-die
 tags:
   - survival
   - io

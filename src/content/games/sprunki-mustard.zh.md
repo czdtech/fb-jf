@@ -1,13 +1,14 @@
 ---
 locale: zh
-urlstr: sprunki-mustard
-title: Sprunki Mustard - 在线玩 Sprunki Mustard
+title: Sprunki Mustard
+seoTitle: 免费在线玩 Sprunki Mustard | FiddleBops
 description: 在这款 Sprunki Mustard Mod 中，所有角色都被重新塑造，呈现出统一的芥末黄配色方案，为原本充满活力的画面增添了一种挥之不去的诡异感。
 iframeSrc: 'https://html-classic.itch.zone/html/14281578/index.html'
 thumbnail: /new-images/thumbnails/sprunki-mustard.png
-score: 3.9/5  (827 votes)
+urlstr: sprunki-mustard
 tags:
   - sprunki mustard
+score: 3.9/5  (827 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: idle-restaurants
 title: Idle Restaurants
+seoTitle: Juega a Idle Restaurants en línea gratis | FiddleBops
 description: >-
   Construye tu propio imperio de restaurantes en este adictivo juego idle.
   Contrata chefs, mejora cocina y mesas y automatiza el negocio hasta
   convertirte en un magnate gastronómico.
 iframeSrc: 'https://idlerestaurants.h5games.usercontent.goog/v/4ut41titp1kvg/'
 thumbnail: /new-images/thumbnails/idle-restaurants.png
+urlstr: idle-restaurants
 tags:
   - casual
   - clicker

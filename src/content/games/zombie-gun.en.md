@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Zombie Gun"
-description: "Zombie Gun is a physics shooter — ricochet bullets, trigger barrels, and clear rooms with clever angles and limited ammo."
-iframeSrc: "https://5bcvrmoqria48.h5games.usercontent.goog/v/7cfakbl479q6o/"
+title: Zombie Gun
+seoTitle: Play Zombie Gun Online Free | FiddleBops
+description: >-
+  Zombie Gun is a physics shooter — ricochet bullets, trigger barrels, and clear
+  rooms with clever angles and limited ammo.
+iframeSrc: 'https://5bcvrmoqria48.h5games.usercontent.goog/v/7cfakbl479q6o/'
 thumbnail: /new-images/thumbnails/zombie-gun.png
-urlstr: "zombie-gun"
-score: "4.0/5  (1898 votes)"
-tags: ["shooting", "puzzle"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: zombie-gun
+tags:
+  - shooting
+  - puzzle
+score: 4.0/5  (1898 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

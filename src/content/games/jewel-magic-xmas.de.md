@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: jewel-magic-xmas
 title: Jewel Magic Xmas
+seoTitle: Spiele Jewel Magic Xmas kostenlos online | FiddleBops
 description: >-
   Stimme dich mit Jewel Magic Xmas auf Weihnachten ein! In diesem festlichen
   Match-3-Puzzlespiel tauschst du bunte Weihnachtskugeln und Deko, löst Kombos
   aus und meisterst fröhliche Levelziele.
 iframeSrc: 'https://jewelmagicxmas.h5games.usercontent.goog/v/19095ne8tscfg/'
 thumbnail: /new-images/thumbnails/jewel-magic-xmas.png
+urlstr: jewel-magic-xmas
 tags:
   - puzzle
   - casual

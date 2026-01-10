@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Bad Ice Cream 2"
-description: "Master the frosty mazes of Bad Ice-Cream 2. Learn winning strategies, controls, and tips to collect all the fruit while freezing and smashing your enemies."
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x6/index.html"
+title: Bad Ice Cream 2
+seoTitle: Play Bad Ice Cream 2 Online Free | FiddleBops
+description: >-
+  Master the frosty mazes of Bad Ice-Cream 2. Learn winning strategies,
+  controls, and tips to collect all the fruit while freezing and smashing your
+  enemies.
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x6/index.html
 thumbnail: /new-images/thumbnails/bad-ice-cream-2.jpg
-urlstr: "bad-ice-cream-2"
-score: "3.9/5  (1035 votes)"
-tags: ["puzzle", "action"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: bad-ice-cream-2
+tags:
+  - puzzle
+  - action
+score: 3.9/5  (1035 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
  
 

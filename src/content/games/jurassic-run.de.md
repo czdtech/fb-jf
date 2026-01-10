@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: jurassic-run
 title: Jurassic Run
+seoTitle: Spiele Jurassic Run kostenlos online | FiddleBops
 description: >-
   Jurassic Run ist ein Dino-Runner: Weiche Hindernissen aus, wechsle die Spur im
   richtigen Moment und sprinte für neue Highscores.
 iframeSrc: 'https://260c4eej53igg.h5games.usercontent.goog/v/5h99gs1rujgk0/'
 thumbnail: /new-images/thumbnails/jurassic-run.png
+urlstr: jurassic-run
 tags:
   - action
   - casual

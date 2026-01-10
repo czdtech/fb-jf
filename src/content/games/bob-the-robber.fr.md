@@ -1,11 +1,12 @@
 ---
 locale: fr
-urlstr: bob-the-robber
 title: Bob the Robber
+seoTitle: Jouez à Bob the Robber en ligne gratuitement | FiddleBops
 description: "Dans Bob the Robber, incarne un cambrioleur malin\_: faufile‑toi entre les gardes, coupe les caméras, crochette les serrures et vole le butin sans te faire repérer."
 iframeSrc: >-
   https://app-190385.games.s3.yandex.net/190385/i7ty94goiswe8ohxdysos1uzmur0yfwk/index.html
 thumbnail: /new-images/thumbnails/bob-the-robber.jpg
+urlstr: bob-the-robber
 tags:
   - stealth
   - puzzle

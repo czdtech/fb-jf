@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: sprunki-halloween
-title: 'Sprunki Halloween - Juega a Sprunki Halloween online'
+title: Sprunki Halloween
+seoTitle: Juega a Sprunki Halloween en línea gratis | FiddleBops
 description: >-
   Sprunki Halloween es un mod que te permite desatar tu talento musical en un
   ambiente totalmente inspirado en Halloween. Únete a Sprunki Halloween y usa
@@ -9,10 +9,11 @@ description: >-
   escalofriante del año.
 iframeSrc: 'https://turbowarp.org/1087683438/embed'
 thumbnail: /new-images/thumbnails/sprunki-halloween.png
+urlstr: sprunki-halloween
 tags:
   - sprunki halloween
 score: 4.2/5  (142 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

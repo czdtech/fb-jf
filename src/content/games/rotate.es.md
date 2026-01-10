@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: rotate
 title: Rotate
+seoTitle: Juega a Rotate en línea gratis | FiddleBops
 description: >-
   Rotate es un exigente juego de puzles en el que debes girar el propio mundo
   para guiar una bola a través de laberintos y obstáculos, aprovechando la
   gravedad y el impulso para alcanzar la meta en cada nivel.
 iframeSrc: 'https://rebemanae.github.io/rotate/'
 thumbnail: /new-images/thumbnails/rotate.jpg
+urlstr: rotate
 tags:
   - puzzle
   - physics

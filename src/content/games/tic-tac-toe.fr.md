@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: tic-tac-toe
 title: Tic-Tac-Toe
+seoTitle: Jouez à Tic-Tac-Toe en ligne gratuitement | FiddleBops
 description: >-
   Tic-Tac-Toe est le jeu de strategie classique : deux joueurs placent des X et
   O sur une grille 3x3, visant a etre le premier a aligner trois symboles.
 iframeSrc: 'https://edit.coolmathgames.com//sites/cmatgame/files/public_games/32511/'
 thumbnail: /new-images/thumbnails/tic-tac-toe.jpg
+urlstr: tic-tac-toe
 tags:
   - strategy
   - classic

@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: trap-the-cat
 title: 《Trap the Cat》围住小猫
+seoTitle: 免费在线玩 《Trap the Cat》围住小猫 | FiddleBops
 description: 《Trap the Cat》是一款策略向的围堵解谜游戏。你需要在六边形格子上布置障碍，封死小猫的逃跑路线，在它跑到边缘之前将其围困。
 iframeSrc: 'https://freeonlinegames.github.io/cat-trap.html'
 thumbnail: /new-images/thumbnails/trap-the-cat.jpg
+urlstr: trap-the-cat
 tags:
   - strategy
   - puzzle

@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: pacman-30th-anniversary
 title: 《Pacman 30th Anniversary》吃豆人 30 周年纪念版
+seoTitle: 免费在线玩 《Pacman 30th Anniversary》吃豆人 30 周年纪念版 | FiddleBops
 description: >-
   《Pacman 30th Anniversary》是经典街机游戏《PAC-MAN》的 30
   周年纪念版，再次邀请玩家操控吃豆人在迷宫中吃豆、躲鬼、吃能量豆反吃幽灵，以怀旧画面重温迷宫追逐的乐趣。
 iframeSrc: 'https://pacman-30thanniversary.com/game/doodle-pacman/pacman.html'
 thumbnail: /new-images/thumbnails/pacman-30th-anniversary.jpg
+urlstr: pacman-30th-anniversary
 tags:
   - arcade
   - classic

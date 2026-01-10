@@ -1,14 +1,17 @@
 ---
-title: "99 Nights in the Forest 森林中的99夜"
-description: "独立恐怖游戏《99 Nights in the Forest》概述。了解其生存恐怖玩法、资源管理以及在神秘孤立森林中度过恐怖夜晚的策略。"
-iframeSrc: "https://st.8games.net/7/8g/igra-99-nochej-v-lesu-101-original/"
+locale: zh
+title: 99 Nights in the Forest 森林中的99夜
+seoTitle: 免费在线玩 99 Nights in the Forest 森林中的99夜 | FiddleBops
+description: 独立恐怖游戏《99 Nights in the Forest》概述。了解其生存恐怖玩法、资源管理以及在神秘孤立森林中度过恐怖夜晚的策略。
+iframeSrc: 'https://st.8games.net/7/8g/igra-99-nochej-v-lesu-101-original/'
 thumbnail: /new-images/thumbnails/99-nights-in-the-forest.webp
-urlstr: "99-nights-in-the-forest"
-locale: "zh"
-score: "4.7/5  (2765 votes)"
-tags: ["horror", "survival"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: 99-nights-in-the-forest
+tags:
+  - horror
+  - survival
+score: 4.7/5  (2765 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

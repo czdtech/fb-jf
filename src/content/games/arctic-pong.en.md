@@ -1,18 +1,19 @@
 ---
 locale: en
 title: Arctic Pong
+seoTitle: Play Arctic Pong Online Free | FiddleBops
 description: >-
   Arctic Pong is a frosty paddle duel — angle returns, control pace, and
   outscore your opponent.
 iframeSrc: 'https://arcticpong.h5games.usercontent.goog/v/1quekndr8ig0o/'
 thumbnail: /new-images/thumbnails/arctic-pong.png
 urlstr: arctic-pong
-score: 3.7/5  (1332 votes)
 tags:
   - 2-player
   - casual
+score: 3.7/5  (1332 votes)
 developer: ''
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

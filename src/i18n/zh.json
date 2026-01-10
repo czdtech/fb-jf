@@ -23,6 +23,7 @@
   "nav": {
     "home": "首页",
     "newGames": "新游戏",
+    "mods": "模组",
     "search": "搜索",
     "fiddlebopsMod": "Fiddlebops 模组",
     "incrediboxMod": "Incredibox 模组",
@@ -36,7 +37,7 @@
     "popularGames": "热门游戏",
     "newGames": "新游戏",
     "trendingGames": "流行游戏",
-    "recentlyPlayed": "最近玩过",
+    "featured": "精选",
     "exploreGames": "探索游戏"
   },
   "common": {

@@ -1,6 +1,7 @@
 ---
 locale: en
-title: Sprunki Like Minecraft - Play Sprunki Like Minecraft Online
+title: Sprunki Like Minecraft
+seoTitle: Play Sprunki Like Minecraft Online Free | FiddleBops
 description: >-
   Are you both a loyal fan of Incredibox Sprunki and a passionate lover of the
   pixel world of Minecraft? Then the Sprunki Like Minecraft Mod will definitely
@@ -8,11 +9,11 @@ description: >-
 iframeSrc: 'https://turbowarp.org/1095572358/embed'
 thumbnail: /new-images/thumbnails/sprunki-like-minecraft.png
 urlstr: sprunki-like-minecraft
-modType: sprunki
-score: 4.6/5  (601 votes)
 tags:
   - sprunki like minecraft
   - music
+modType: sprunki
+score: 4.6/5  (601 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

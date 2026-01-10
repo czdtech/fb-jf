@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: emoji-fun
 title: Emoji Fun
+seoTitle: Juega a Emoji Fun en línea gratis | FiddleBops
 description: >-
   Emoji Fun es un creativo puzle de asociaciones: une parejas de emojis
   relacionados dibujando líneas entre ellos. Piensa fuera de lo común para
   superar cada nivel.
 iframeSrc: 'https://0aijth0is3tko.h5games.usercontent.goog/v/1c1277hq9kr98/'
 thumbnail: /new-images/thumbnails/emoji-fun.png
+urlstr: emoji-fun
 tags:
   - puzzle
   - thinky

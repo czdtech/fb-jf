@@ -1,7 +1,7 @@
 ---
 locale: fr
-urlstr: brain-trainer
 title: Brain Trainer
+seoTitle: Jouez à Brain Trainer en ligne gratuitement | FiddleBops
 description: >-
   Brain Trainer regroupe plusieurs mini‑jeux pour entraîner ta mémoire, ta
   logique, ton calcul mental et ton sens spatial dans une série de défis
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://braintrainer.h5games.usercontent.goog/v/4f2ffbc6-4208-4087-bfaf-ab0db086da02/
 thumbnail: /new-images/thumbnails/brain-trainer.jpg
+urlstr: brain-trainer
 tags:
   - puzzle
   - thinky

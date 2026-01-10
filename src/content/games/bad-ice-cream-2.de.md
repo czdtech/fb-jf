@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: bad-ice-cream-2
 title: Bad Ice Cream 2
+seoTitle: Spiele Bad Ice Cream 2 kostenlos online | FiddleBops
 description: >-
   Meistere die frostigen Labyrinthe von Bad Ice‑Cream 2. Lerne Strategien,
   Steuerung und Tipps, um alle Früchte zu sammeln und Gegner mit Eismauern zu
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x6/index.html
 thumbnail: /new-images/thumbnails/bad-ice-cream-2.jpg
+urlstr: bad-ice-cream-2
 tags:
   - puzzle
   - action

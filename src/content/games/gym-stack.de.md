@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: gym-stack
 title: Gym Stack
+seoTitle: Spiele Gym Stack kostenlos online | FiddleBops
 description: >-
   Gym Stack ist ein kniffliges 3D-Puzzlespiel mit Hantelscheiben: Staple und
   kombiniere gleichfarbige Gewichte, um größere Scheiben zu bilden, Platz zu
   schaffen und hohe Punktzahlen zu erreichen.
 iframeSrc: 'https://gymstack.h5games.usercontent.goog/v/3js1l1d7rdkfg/'
 thumbnail: /new-images/thumbnails/gym-stack.jpeg
+urlstr: gym-stack
 tags:
   - action
   - casual

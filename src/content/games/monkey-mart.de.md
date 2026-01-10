@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: monkey-mart
 title: Monkey Mart
+seoTitle: Spiele Monkey Mart kostenlos online | FiddleBops
 description: >-
   Monkey Mart ist eine charmante Supermarkt-Simulation, in der du einen Laden
   voller Affen leitest: Ernte Feldfrüchte, befülle Regale, bediene Kundschaft
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/gamehwq/20221216/09/index.htm
 thumbnail: /new-images/thumbnails/monkey-mart.jpg
+urlstr: monkey-mart
 tags:
   - simulation
   - management

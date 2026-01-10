@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: word-connect
 title: Word Connect
+seoTitle: Jouez à Word Connect en ligne gratuitement | FiddleBops
 description: >-
   Word Connect est un jeu de mots addictif : relie les lettres pour former des
   mots et remplir la grille de mots croisés.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288677/index.html'
 thumbnail: /new-images/thumbnails/word-connect.jpg
+urlstr: word-connect
 tags:
   - word-game
   - puzzle

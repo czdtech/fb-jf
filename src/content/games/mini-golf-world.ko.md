@@ -1,13 +1,13 @@
 ---
 locale: ko
-urlstr: mini-golf-world
-title: "Mini Golf World 미니 골프 월드"
+title: Mini Golf World 미니 골프 월드
+seoTitle: Mini Golf World 미니 골프 월드 무료 온라인 플레이 | FiddleBops
 description: >-
-  Mini Golf World는 다양한 테마 코스에서 퍼팅 감각을 연습할 수 있는 미니 골프 게임입니다.
-  경사와 바람개비, 레일 등을 읽어 적절한 세기와 방향으로 공을 굴려 파를 지키거나
-  홀인원을 노려 보세요.
+  Mini Golf World는 다양한 테마 코스에서 퍼팅 감각을 연습할 수 있는 미니 골프 게임입니다. 경사와 바람개비, 레일 등을 읽어
+  적절한 세기와 방향으로 공을 굴려 파를 지키거나 홀인원을 노려 보세요.
 iframeSrc: 'https://32tnqh6bck80g.h5games.usercontent.goog/v/3auurdk9r953g/'
 thumbnail: /new-images/thumbnails/mini-golf-world.png
+urlstr: mini-golf-world
 tags:
   - sports
   - puzzle

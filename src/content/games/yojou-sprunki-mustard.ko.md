@@ -1,16 +1,17 @@
 ---
 locale: ko
-urlstr: yojou-sprunki-mustard
 title: Yojou Sprunki Mustard 요조 스프런키 머스타드
+seoTitle: Yojou Sprunki Mustard 요조 스프런키 머스타드 무료 온라인 플레이 | FiddleBops
 description: >-
   머스타드 소스에 잠식된 스프런키 세계를 다룬 패러디 모드입니다. 노란색으로 물든 캐릭터들을 조합해 기묘한 비트와 보컬을 섞고, 일반·호러
   모드에서 숨겨진 사운드와 연출을 발견해 보세요.
 iframeSrc: 'https://turbowarp.org/1153723334/embed'
 thumbnail: /new-images/thumbnails/yojou-sprunki-mustard.png
+urlstr: yojou-sprunki-mustard
 tags:
   - yojou sprunki mustard
 score: 4.5/5  (322 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

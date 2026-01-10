@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: tumble-towers
-title: Tumble Towers - Derriba la torre correcta
+title: Tumble Towers
+seoTitle: Juega a Tumble Towers en línea gratis | FiddleBops
 description: >-
   Un juego de físicas donde tienes que derribar torres de bloques sin dejar que
   caigan al agua los personajes que descansan sobre ellas. Elimina piezas con
   cuidado y deja que la gravedad haga el trabajo.
 iframeSrc: 'https://786ndsslg99r8.h5games.usercontent.goog/v/70bavan56u08g/'
 thumbnail: /new-images/thumbnails/tumble-towers.png
+urlstr: tumble-towers
 tags:
   - puzzle
   - physics

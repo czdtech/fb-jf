@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Tiletopia
+seoTitle: 無料でTiletopiaをオンラインでプレイ | FiddleBops
 description: Tiletopiaは、タイル配置とシティビルディングゲームです。タイルを配置して美しい街を作りましょう。
 iframeSrc: 'https://6nilllqpgkm6o.h5games.usercontent.goog/v/7d3689i7s5gfo/'
 thumbnail: /new-images/thumbnails/tiletopia.png
 urlstr: tiletopia
-score: 4.5/5  (2800 votes)
 tags:
   - puzzle
   - city building
   - strategy
-locale: ja
+score: 4.5/5  (2800 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 

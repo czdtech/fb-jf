@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: uno
 title: UNO Game 우노 게임
+seoTitle: UNO Game 우노 게임 무료 온라인 플레이 | FiddleBops
 description: >-
   세계적으로 사랑받는 카드 게임 UNO를 즐길 수 있는 온라인 버전입니다. 같은 색 또는 같은 숫자의 카드를 내고, 특수 카드로 상대의 흐름을
   끊으면서 손패를 가장 먼저 모두 비우고 "UNO!"를 외치는 사람이 승리합니다.
 iframeSrc: 'https://www.xpgameplus.com/games/uno/default.html'
 thumbnail: /new-images/thumbnails/uno.jpg
+urlstr: uno
 tags:
   - card game
   - strategy

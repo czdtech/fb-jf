@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Blob Opera"
-description: "Control four adorable, singing blobs to create your own unique opera music. A fun and accessible machine learning experiment that turns anyone into a composer, no musical skills required!"
-iframeSrc: "https://gacembed.withgoogle.com/blob-opera/"
+title: Blob Opera
+seoTitle: Play Blob Opera Online Free | FiddleBops
+description: >-
+  Control four adorable, singing blobs to create your own unique opera music. A
+  fun and accessible machine learning experiment that turns anyone into a
+  composer, no musical skills required!
+iframeSrc: 'https://gacembed.withgoogle.com/blob-opera/'
 thumbnail: /new-images/thumbnails/blob-opera.jpg
-urlstr: "blob-opera"
-score: "4.1/5  (617 votes)"
-tags: ["music", "casual"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: blob-opera
+tags:
+  - music
+  - casual
+score: 4.1/5  (617 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

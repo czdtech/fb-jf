@@ -1,11 +1,11 @@
 ---
 locale: fr
-urlstr: clicker-heroes
 title: Clicker Heroes
+seoTitle: Jouez à Clicker Heroes en ligne gratuitement | FiddleBops
 description: "Lance‑toi dans Clicker Heroes, le clicker/RPG culte\_: clique pour vaincre des monstres, recrute des héros, améliore‑les, puis utilise l’Ascension pour recommencer plus fort à chaque run."
-iframeSrc: >-
-  https://cdn.clickerheroes.com/gamebuild/
+iframeSrc: 'https://cdn.clickerheroes.com/gamebuild/'
 thumbnail: /new-images/thumbnails/clicker-heroes.jpg
+urlstr: clicker-heroes
 tags:
   - casual
   - clicker

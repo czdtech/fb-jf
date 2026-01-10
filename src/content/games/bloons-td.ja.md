@@ -1,14 +1,17 @@
 ---
-title: "Bloons TD ブルーンズTD"
-description: "タワーディフェンスの原点にして金字塔『Bloons TD』。モンキー・タワーを配置して、迫りくる Bloon の大群を一つ残らず割り尽くそう。"
-iframeSrc: "https://ad-freegames.github.io/flash/game/bloons-tower-defense.html"
-thumbnail: /new-images/thumbnails/bloons-td.jpg
-urlstr: "bloons-td"
-score: "4.1/5  (812 votes)"
-tags: ["casual", "strategy"]
-developer: ""
-releaseDate: 2025-08-16
 locale: ja
+title: Bloons TD ブルーンズTD
+seoTitle: 無料でBloons TD ブルーンズTDをオンラインでプレイ | FiddleBops
+description: タワーディフェンスの原点にして金字塔『Bloons TD』。モンキー・タワーを配置して、迫りくる Bloon の大群を一つ残らず割り尽くそう。
+iframeSrc: 'https://ad-freegames.github.io/flash/game/bloons-tower-defense.html'
+thumbnail: /new-images/thumbnails/bloons-td.jpg
+urlstr: bloons-td
+tags:
+  - casual
+  - strategy
+score: 4.1/5  (812 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

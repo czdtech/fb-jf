@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: tomb-of-the-mask
-title: Tomb of the Mask - Laberintos a toda velocidad
+title: Tomb of the Mask
+seoTitle: Juega a Tomb of the Mask en línea gratis | FiddleBops
 description: >-
   Recorre peligrosos laberintos en Tomb of the Mask, un trepidante arcade de
   reflejos. Deslízate de pared en pared, recoge monedas y potenciadores y escapa
@@ -9,6 +9,7 @@ description: >-
   tumba.
 iframeSrc: 'https://w8.snokido.com/games/unity-webgl/tomb-run/index.html'
 thumbnail: /new-images/thumbnails/tomb-of-the-mask.jpg
+urlstr: tomb-of-the-mask
 tags:
   - arcade
   - maze

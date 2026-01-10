@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: baldis-basics
 title: Baldi's Basics
+seoTitle: Jouez à Baldi's Basics en ligne gratuitement | FiddleBops
 description: "Baldi’s Basics est un faux jeu éducatif des années 90 qui se transforme en survival horror\_: récupère 7 cahiers, gère ton endurance, utilise les objets intelligemment et échappe à Baldi et aux autres élèves bizarres."
 iframeSrc: 'https://html5.iclouds.io/baldis-basics/index.html'
 thumbnail: /new-images/thumbnails/baldis-basics.jpg
+urlstr: baldis-basics
 tags:
   - puzzle
   - horror

@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: tennis
-title: Tennis - Clásico juego de tenis arcade
+title: Tennis
+seoTitle: Juega a Tennis en línea gratis | FiddleBops
 description: >-
   Salta a la pista en este clásico juego de tenis arcade. Toma la raqueta,
   sirve, intercambia golpes con tu rival controlado por la IA y gana puntos para
@@ -9,6 +9,7 @@ description: >-
   cualquier aficionado al deporte.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/tennis.html'
 thumbnail: /new-images/thumbnails/tennis.jpg
+urlstr: tennis
 tags:
   - sports
   - arcade

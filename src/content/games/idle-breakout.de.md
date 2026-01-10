@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: idle-breakout
 title: Idle Breakout
+seoTitle: Spiele Idle Breakout kostenlos online | FiddleBops
 description: >-
   Idle Breakout verbindet Idle-Mechaniken mit klassischem Brick-Breaker: Klicke
   Blöcke weg, kaufe automatische Bälle und Geschütze, resette für
   Multiplikatoren und optimiere deine Upgrades.
 iframeSrc: 'https://ubg98.github.io/IdleBreakout/'
 thumbnail: /new-images/thumbnails/idle-breakout.jpg
+urlstr: idle-breakout
 tags:
   - idle
   - clicker

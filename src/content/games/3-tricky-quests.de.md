@@ -1,14 +1,15 @@
 ---
 locale: de
-urlstr: 3-tricky-quests
-title: "Brain Test 3: Tricky Quests"
+title: 'Brain Test 3: Tricky Quests'
+seoTitle: 'Spiele Brain Test 3: Tricky Quests kostenlos online | FiddleBops'
 description: >-
   Brain Test 3: Tricky Quests führt die beliebte Rätselreihe als
-  Puzzle‑Abenteuer fort. Begleite Alyx auf der Suche nach sechs Macht‑Edelsteinen,
-  löse knifflige Level mit Inventar‑Gegenständen und unkonventionellen Lösungen
-  und rette ihren verzauberten Vater.
+  Puzzle‑Abenteuer fort. Begleite Alyx auf der Suche nach sechs
+  Macht‑Edelsteinen, löse knifflige Level mit Inventar‑Gegenständen und
+  unkonventionellen Lösungen und rette ihren verzauberten Vater.
 iframeSrc: 'https://bitlifeonline.github.io/brain-test-3-tricky-quests/'
 thumbnail: /new-images/thumbnails/3-tricky-quests.jpg
+urlstr: 3-tricky-quests
 tags:
   - casual
   - rhythm

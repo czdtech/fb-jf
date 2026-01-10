@@ -1,14 +1,22 @@
 ---
 locale: en
-title: "Parking Rush"
-description: "A fun and challenging puzzle game of traffic control! Draw a path for each car to its matching parking spot, but be careful not to let them crash into each other."
-iframeSrc: "https://7nq79vktk8fho.h5games.usercontent.goog/v/4u3a6m3hm9lj8/"
+title: Parking Rush
+seoTitle: Play Parking Rush Online Free | FiddleBops
+description: >-
+  A fun and challenging puzzle game of traffic control! Draw a path for each car
+  to its matching parking spot, but be careful not to let them crash into each
+  other.
+iframeSrc: 'https://7nq79vktk8fho.h5games.usercontent.goog/v/4u3a6m3hm9lj8/'
 thumbnail: /new-images/thumbnails/parking-rush.png
-urlstr: "parking-rush"
-score: "4.2/5  (1900 votes)"
-tags: ["puzzle", "driving", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: parking-rush
+tags:
+  - puzzle
+  - driving
+  - casual
+  - thinky
+score: 4.2/5  (1900 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

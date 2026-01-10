@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: space-survivor
 title: Space Survivor 스페이스 서바이버
+seoTitle: Space Survivor 스페이스 서바이버 무료 온라인 플레이 | FiddleBops
 description: >-
   Space Survivor는 끝없이 몰려오는 외계 함대를 피해 살아남는 로그라이크 생존 슈팅 게임입니다. 경험치를 모아 레벨업하고, 다양한
   무기와 강화 효과를 골라 얼마나 오래 버틸 수 있는지 도전해 보세요.
 iframeSrc: 'https://76sb7kgqtg5kg.h5games.usercontent.goog/v/5s72d5756n840/'
 thumbnail: /new-images/thumbnails/space-survivor.png
+urlstr: space-survivor
 tags:
   - action
   - shooting

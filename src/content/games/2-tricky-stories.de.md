@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: 2-tricky-stories
-title: "Brain Test 2: Tricky Stories"
+title: 'Brain Test 2: Tricky Stories'
+seoTitle: 'Spiele Brain Test 2: Tricky Stories kostenlos online | FiddleBops'
 description: >-
   In Brain Test 2: Tricky Stories erwartet dich eine Sammlung verrückter
   Denkspiele in kapitelbasierten Geschichten. Begleite verschiedene Figuren,
@@ -9,6 +9,7 @@ description: >-
   mit kreativen Aufgaben.
 iframeSrc: 'https://bitlifeonline.github.io/brain-test-2-tricky-stories/'
 thumbnail: /new-images/thumbnails/2-tricky-stories.jpg
+urlstr: 2-tricky-stories
 tags:
   - casual
   - rhythm

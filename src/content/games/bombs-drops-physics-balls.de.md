@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: bombs-drops-physics-balls
 title: Bombs Drops Physics balls
+seoTitle: Spiele Bombs Drops Physics balls kostenlos online | FiddleBops
 description: >-
   Bombs Drops Physics balls ist ein verspieltes Physik‑Puzzlespiel. Lasse Bälle
   oder Bomben im richtigen Moment fallen, löse Kettenreaktionen aus und triff
   deine Ziele mit cleveren Setups.
 iframeSrc: 'https://6nhcl6kaecsio.h5games.usercontent.goog/v/09ccnat7ptqs8/'
 thumbnail: /new-images/thumbnails/bombs-drops-physics-balls.jpg
+urlstr: bombs-drops-physics-balls
 tags:
   - puzzle
   - thinky

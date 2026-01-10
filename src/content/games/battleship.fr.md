@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: battleship
 title: Battleship
+seoTitle: Jouez à Battleship en ligne gratuitement | FiddleBops
 description: >-
   Bataille navale classique : place ta flotte, devine les coordonnées ennemies
   et coule chaque navire avant que l’adversaire ne t’expose.
 iframeSrc: 'https://cdn.gamesnacks.com/battleship2/gameCode/index.html'
 thumbnail: /new-images/thumbnails/battleship.jpg
+urlstr: battleship
 tags:
   - strategy
   - casual

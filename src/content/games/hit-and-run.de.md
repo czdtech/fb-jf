@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: hit-and-run
-title: "Hit and Run"
+title: Hit and Run
+seoTitle: Spiele Hit and Run kostenlos online | FiddleBops
 description: >-
   Entfessle das Chaos auf den Straßen in Hit and Run, einem actionreichen
   Fahrspiel! Rase durch die Stadt, ramme Objekte und andere Fahrzeuge und
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230911/07/index.html
 thumbnail: /new-images/thumbnails/hit-and-run.jpg
+urlstr: hit-and-run
 tags:
   - action
   - driving

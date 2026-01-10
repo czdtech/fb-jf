@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: monopoly
-title: MONOPOLY - Clásico juego de mesa inmobiliario
+title: MONOPOLY
+seoTitle: Juega a MONOPOLY en línea gratis | FiddleBops
 description: >-
   Monopoly es el clásico juego de mesa de compraventa de propiedades en el que
   los jugadores compran, alquilan y venden para llevar a la bancarrota a sus
   rivales y convertirse en el más rico.
 iframeSrc: 'https://w8.snokido.com/games/html5/monopoly/index.html'
 thumbnail: /new-images/thumbnails/monopoly.jpg
+urlstr: monopoly
 tags:
   - board game
   - strategy

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: word-detector
 title: Word Detector
+seoTitle: Spiele Word Detector kostenlos online | FiddleBops
 description: >-
   Stell deinen Wortschatz auf die Probe: Finde in Word Detector versteckte
   Wörter im Buchstabengitter, verbinde Buchstaben in alle Richtungen und
   erreiche dein Punktziel, bevor die Zeit abläuft.
 iframeSrc: 'https://worddetector.h5games.usercontent.goog/v/4gaf9ej9hp398/'
 thumbnail: /new-images/thumbnails/word-detector.png
+urlstr: word-detector
 tags:
   - puzzle
   - thinky

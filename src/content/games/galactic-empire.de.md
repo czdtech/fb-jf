@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: galactic-empire
 title: Galactic Empire
+seoTitle: Spiele Galactic Empire kostenlos online | FiddleBops
 description: >-
   Galactic Empire ist ein Top-Down-Weltraumstrategiespiel: Baue Ressourcen ab,
   errichte Schiffe und Verteidigungen und erobere Sektoren, während du
   feindliche Wellen abwehrst.
 iframeSrc: 'https://g.igroutka.ru/games/164/8plhaK3IOLoFbVPB/2/galactic_empire/'
 thumbnail: /new-images/thumbnails/galactic-empire.jpg
+urlstr: galactic-empire
 tags:
   - strategy
   - space

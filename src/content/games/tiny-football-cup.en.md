@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Tiny Football Cup"
-description: "Tiny Football Cup is bite‑size soccer — pass early, time shots, and win quick fixtures with clean positioning."
-iframeSrc: "https://67buf3k7fmhlg.h5games.usercontent.goog/v/4r92r0smsurf0/"
+title: Tiny Football Cup
+seoTitle: Play Tiny Football Cup Online Free | FiddleBops
+description: >-
+  Tiny Football Cup is bite‑size soccer — pass early, time shots, and win quick
+  fixtures with clean positioning.
+iframeSrc: 'https://67buf3k7fmhlg.h5games.usercontent.goog/v/4r92r0smsurf0/'
 thumbnail: /new-images/thumbnails/tiny-football-cup.png
-urlstr: "tiny-football-cup"
-score: "3.9/5  (1761 votes)"
-tags: ["sports", "soccer"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: tiny-football-cup
+tags:
+  - sports
+  - soccer
+score: 3.9/5  (1761 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

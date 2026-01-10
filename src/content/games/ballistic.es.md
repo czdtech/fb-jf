@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: ballistic
 title: Ballistic juego de bloques y rebotes
+seoTitle: Juega a Ballistic juego de bloques y rebotes en línea gratis | FiddleBops
 description: >-
   Ballistic es un arcade moderno con física donde lanzas una lluvia de bolas
   contra bloques numerados. Aprende a apuntar, recoger bolas extra, usar
@@ -9,6 +9,7 @@ description: >-
   fondo.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/'
 thumbnail: /new-images/thumbnails/ballistic.jpg
+urlstr: ballistic
 tags:
   - puzzle
   - casual

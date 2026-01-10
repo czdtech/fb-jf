@@ -1,13 +1,15 @@
 ---
-title: "Sprunki Halloween - Play Sprunki Halloween Online"
-description: "Sprunki Halloweenはハロウィンテーマの音楽作成Modです。不気味な雰囲気のサウンドや演出で、季節感のあるトラックを作れます。"
-iframeSrc: "https://turbowarp.org/1087683438/embed"
-thumbnail: /new-images/thumbnails/sprunki-halloween.png
-urlstr: "sprunki-halloween"
-score: "4.2/5  (142 votes)"
-tags: ["sprunki halloween"]
 locale: ja
-releaseDate: 2025-12-04
+title: Sprunki Halloween
+seoTitle: 無料でSprunki Halloweenをオンラインでプレイ | FiddleBops
+description: Sprunki Halloweenはハロウィンテーマの音楽作成Modです。不気味な雰囲気のサウンドや演出で、季節感のあるトラックを作れます。
+iframeSrc: 'https://turbowarp.org/1087683438/embed'
+thumbnail: /new-images/thumbnails/sprunki-halloween.png
+urlstr: sprunki-halloween
+tags:
+  - sprunki halloween
+score: 4.2/5  (142 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

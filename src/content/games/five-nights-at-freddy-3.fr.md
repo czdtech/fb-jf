@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: five-nights-at-freddy-3
 title: Five Nights at Freddy's 3 (FNAF 3)
+seoTitle: Jouez à Five Nights at Freddy's 3 (FNAF 3) en ligne gratuitement | FiddleBops
 description: >-
   Horreur orientée gestion de systèmes : attire Springtrap avec l’audio,
   surveille caméras/vents et redémarre les systèmes en panne pour survivre
   chaque nuit.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf3.html'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-3.jpg
+urlstr: five-nights-at-freddy-3
 tags:
   - horror
   - strategy

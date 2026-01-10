@@ -1,15 +1,16 @@
 ---
 locale: en
-title: Incredibox Sprunksters - Play Incredibox Sprunksters Online
+title: Incredibox Sprunksters
+seoTitle: Play Incredibox Sprunksters Online Free | FiddleBops
 description: Get ready for Sprunki Parasite ParaSprunki 15! This isn
 iframeSrc: 'https://kdata1.com/2025/03/paraSprunki-update-15-0-part-222/'
 thumbnail: /new-images/thumbnails/sprunki-parasite-parasprunki-15.png
 urlstr: sprunki-parasite-parasprunki-15
-modType: sprunki
-score: 4.3/5  (372 votes)
 tags:
   - incredibox sprunksters
   - music
+modType: sprunki
+score: 4.3/5  (372 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

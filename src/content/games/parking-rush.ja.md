@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Parking Rush
+seoTitle: 無料でParking Rushをオンラインでプレイ | FiddleBops
 description: Parking Rushは駐車パズルゲームです。車がぶつからないように誘導し、時間内に正しい駐車スペースへ入れます。
 iframeSrc: 'https://7nq79vktk8fho.h5games.usercontent.goog/v/4u3a6m3hm9lj8/'
 thumbnail: /new-images/thumbnails/parking-rush.png
 urlstr: parking-rush
-score: 4.2/5  (1900 votes)
 tags:
   - casual
   - action
+score: 4.2/5  (1900 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

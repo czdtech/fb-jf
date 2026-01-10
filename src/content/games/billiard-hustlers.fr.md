@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: billiard-hustlers
 title: Billiard Hustlers
+seoTitle: Jouez à Billiard Hustlers en ligne gratuitement | FiddleBops
 description: >-
   Billiard Hustlers est un simulateur de billard orienté technique : vise
   proprement, applique un peu d’effet et contrôle la bille blanche pour
   enchaîner les coups gagnants.
 iframeSrc: 'https://75hivpjsm2230.h5games.usercontent.goog/v/04igpiqnom6k0/'
 thumbnail: /new-images/thumbnails/billiard-hustlers.jpg
+urlstr: billiard-hustlers
 tags:
   - sports
   - pool

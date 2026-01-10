@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: tractor-mania
 title: 《Tractor Mania》拖拉机运货
+seoTitle: 免费在线玩 《Tractor Mania》拖拉机运货 | FiddleBops
 description: 《Tractor Mania》是一款物理驾驶+运货闯关游戏。驾驶拖拉机穿越颠簸山路，小心控制油门与车身平衡，把货物尽量完整地运到终点。
 iframeSrc: 'https://4agtsfcp8ur38.h5games.usercontent.goog/v/35kskpc4lmtig/'
 thumbnail: /new-images/thumbnails/tractor-mania.png
+urlstr: tractor-mania
 tags:
   - driving
   - physics

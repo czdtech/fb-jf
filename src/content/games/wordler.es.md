@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: wordler
-title: "Wordler - Deducción diaria de cinco letras"
+title: Wordler
+seoTitle: Juega a Wordler en línea gratis | FiddleBops
 description: >-
-  Wordler es un juego diario de deducción de palabras: adivina términos de
-  cinco letras, interpreta el código de colores y reduce posibilidades con pura
-  lógica de patrones.
-iframeSrc: "https://30mv2rsaljhjo.h5games.usercontent.goog/v/0hb0g2c5b4m9o/"
+  Wordler es un juego diario de deducción de palabras: adivina términos de cinco
+  letras, interpreta el código de colores y reduce posibilidades con pura lógica
+  de patrones.
+iframeSrc: 'https://30mv2rsaljhjo.h5games.usercontent.goog/v/0hb0g2c5b4m9o/'
 thumbnail: /new-images/thumbnails/wordler.png
+urlstr: wordler
 tags:
   - puzzle
   - thinky

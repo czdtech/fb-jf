@@ -1,6 +1,7 @@
 ---
 locale: en
 title: Paper io
+seoTitle: Play Paper io Online Free | FiddleBops
 description: >-
   Paper.io is a popular multiplayer online game where players control a colored
   block and aim to conquer as much territory as possible by drawing lines and
@@ -8,13 +9,13 @@ description: >-
 iframeSrc: 'https://mathgames66.github.io/games/html5/paperio2/'
 thumbnail: /new-images/thumbnails/paper-io.jpg
 urlstr: paper-io
-score: 4.2/5  (496 votes)
 tags:
   - multiplayer
   - strategy
   - io-game
+score: 4.2/5  (496 votes)
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: emoji-with-friends
 title: Emoji With Friends 이모지 위드 프렌즈
+seoTitle: Emoji With Friends 이모지 위드 프렌즈 무료 온라인 플레이 | FiddleBops
 description: '친구와 함께 즐기는 가벼운 이모지 파티 퍼즐입니다. 이모지를 빠르게 매칭하고 간단한 목표를 달성하며, 서로보다 먼저 보드를 해결해 보세요.'
 iframeSrc: 'https://2gtc787tjm7c8.h5games.usercontent.goog/v/5lfna7ldlrun8/'
 thumbnail: /new-images/thumbnails/emoji-with-friends.png
+urlstr: emoji-with-friends
 tags:
   - puzzle
   - casual

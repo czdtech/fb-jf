@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Solitaire 2048
+seoTitle: 無料でSolitaire 2048をオンラインでプレイ | FiddleBops
 description: Solitaire 2048は数字カードをマージして大きい数を作るパズルです。レーン管理で連鎖を狙います。
 iframeSrc: 'https://041gj41756cjg.h5games.usercontent.goog/v/7n148hti57veo/'
 thumbnail: /new-images/thumbnails/solitaire-2048.png
 urlstr: solitaire-2048
-score: 4.1/5  (1961 votes)
 tags:
   - card
   - puzzle
   - thinky
+score: 4.1/5  (1961 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 

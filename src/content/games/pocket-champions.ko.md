@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: pocket-champions
 title: 'Pocket Champs: 3D Racing 포켓 챔프 레이싱'
+seoTitle: 'Pocket Champs: 3D Racing 포켓 챔프 레이싱 무료 온라인 플레이 | FiddleBops'
 description: >-
   챔프를 육성하고 장비를 골라 레이스에 내보내는 방치형 멀티 레이싱 게임입니다. 달리기·비행·등반 능력을 훈련시키고, 코스에 맞는 장비를
   선택해 우승을 노려 보세요.
 iframeSrc: 'https://pocketchampions.h5games.usercontent.goog/v/24houhjfrhfi8/'
 thumbnail: /new-images/thumbnails/pocket-champions.png
+urlstr: pocket-champions
 tags:
   - strategy
   - casual

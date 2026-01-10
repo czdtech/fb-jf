@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: 4-pics-1-word
 title: 4 Pics 1 Word 포 픽스 원 워드
+seoTitle: 4 Pics 1 Word 포 픽스 원 워드 무료 온라인 플레이 | FiddleBops
 description: >-
   네 장의 사진 속 공통점을 찾아 하나의 단어를 맞히는 직관적인 단어 퍼즐 게임입니다. 간단한 규칙으로도 깊이 있는 추리와 어휘력을 시험해
   보세요.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288896/index.html'
 thumbnail: /new-images/thumbnails/4-pics-1-word.jpg
+urlstr: 4-pics-1-word
 tags:
   - casual
   - rhythm

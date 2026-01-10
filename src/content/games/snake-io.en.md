@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Snake.io"
-description: "Play Snake.io, a popular multiplayer action game that modernizes the classic snake experience. Compete against others to become the longest snake by consuming pellets and defeating opponents. Use speed boosts strategically to dominate the arena in this addictive casual game."
-iframeSrc: "https://snake.io/crazygames/"
+title: Snake.io
+seoTitle: Play Snake.io Online Free | FiddleBops
+description: >-
+  Play Snake.io, a popular multiplayer action game that modernizes the classic
+  snake experience. Compete against others to become the longest snake by
+  consuming pellets and defeating opponents. Use speed boosts strategically to
+  dominate the arena in this addictive casual game.
+iframeSrc: 'https://snake.io/crazygames/'
 thumbnail: /new-images/thumbnails/snake-io.jpg
-urlstr: "snake-io"
-score: "3.5/5  (677 votes)"
-tags: ["io-games", "snake", "multiplayer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: snake-io
+tags:
+  - io-games
+  - snake
+  - multiplayer
+score: 3.5/5  (677 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

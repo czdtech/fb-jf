@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: house-flip
-title: "House Flip 하우스 플립 리모델링"
+title: House Flip 하우스 플립 리모델링
+seoTitle: House Flip 하우스 플립 리모델링 무료 온라인 플레이 | FiddleBops
 description: >-
-  노후된 집을 수리·인테리어해 되팔아 수익을 내는 리모델링 시뮬레이션입니다.
-  구조와 동선, 스타일, 외관을 개선하면서 예산 안에서 최대 이익을 노려 보세요.
+  노후된 집을 수리·인테리어해 되팔아 수익을 내는 리모델링 시뮬레이션입니다. 구조와 동선, 스타일, 외관을 개선하면서 예산 안에서 최대 이익을
+  노려 보세요.
 iframeSrc: 'https://45g7qkftithd0.h5games.usercontent.goog/v/7691fk060s8pg/'
 thumbnail: /new-images/thumbnails/house-flip.png
+urlstr: house-flip
 tags:
   - puzzle
   - casual

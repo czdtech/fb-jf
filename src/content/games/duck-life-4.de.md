@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: duck-life-4
 title: Duck Life 4
+seoTitle: Spiele Duck Life 4 kostenlos online | FiddleBops
 description: >-
   Duck Life 4 ist eine Trainings- und Rennsimulation: Stärke die Werte deiner
   Ente in Minispielen und gewinne Turniere in verschiedenen Regionen.
 iframeSrc: 'https://webglmath.github.io/ducklife-4/'
 thumbnail: /new-images/thumbnails/duck-life-4.jpg
+urlstr: duck-life-4
 tags:
   - racing
   - simulation

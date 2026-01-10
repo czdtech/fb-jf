@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Garden Bloom"
-description: "Restore a beautiful garden in Garden Bloom! Solve challenging match-3 puzzles, earn stars, and choose from lovely decorations to design the garden of your dreams."
-iframeSrc: "https://gardenbloom.h5games.usercontent.goog/v/03uqf2ceev9h8/"
+title: Garden Bloom
+seoTitle: Play Garden Bloom Online Free | FiddleBops
+description: >-
+  Restore a beautiful garden in Garden Bloom! Solve challenging match-3 puzzles,
+  earn stars, and choose from lovely decorations to design the garden of your
+  dreams.
+iframeSrc: 'https://gardenbloom.h5games.usercontent.goog/v/03uqf2ceev9h8/'
 thumbnail: /new-images/thumbnails/garden-bloom.png
-urlstr: "garden-bloom"
-score: "4.6/5  (2780 votes)"
-tags: ["puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: garden-bloom
+tags:
+  - puzzle
+  - casual
+score: 4.6/5  (2780 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

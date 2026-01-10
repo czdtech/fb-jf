@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: lake-jump
 title: 《Lake Jump》湖面跳一跳
+seoTitle: 免费在线玩 《Lake Jump》湖面跳一跳 | FiddleBops
 description: 《Lake Jump》是一款单键节奏跳跃游戏，你要把握点击时机在湖面平台间起跳，避免落水并串联完美跳跃连击。
 iframeSrc: 'https://lakejump.h5games.usercontent.goog/v/33bg3iluek1fg/'
 thumbnail: /new-images/thumbnails/lake-jump.png
+urlstr: lake-jump
 tags:
   - action
   - casual

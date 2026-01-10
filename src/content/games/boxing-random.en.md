@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Boxing Random"
-description: "Experience chaotic, physics-based boxing in Boxing Random! Master one-button controls and adapt to random challenges to knock out your opponent in this hilarious 1 or 2-player fighting game."
-iframeSrc: "https://app-197305.games.s3.yandex.net/197305/ymb675rkal3nz409zur9etesdbd74y4d/index.html"
+title: Boxing Random
+seoTitle: Play Boxing Random Online Free | FiddleBops
+description: >-
+  Experience chaotic, physics-based boxing in Boxing Random! Master one-button
+  controls and adapt to random challenges to knock out your opponent in this
+  hilarious 1 or 2-player fighting game.
+iframeSrc: >-
+  https://app-197305.games.s3.yandex.net/197305/ymb675rkal3nz409zur9etesdbd74y4d/index.html
 thumbnail: /new-images/thumbnails/boxing-random.jpg
-urlstr: "boxing-random"
-score: "4.1/5  (855 votes)"
-tags: ["sports", "physics"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: boxing-random
+tags:
+  - sports
+  - physics
+score: 4.1/5  (855 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: billiard-hustlers
 title: Billiard Hustlers 빌리어드 허슬러스
+seoTitle: Billiard Hustlers 빌리어드 허슬러스 무료 온라인 플레이 | FiddleBops
 description: >-
   Billiard Hustlers는 에임과 회전, 수구 컨트롤에 집중한 포켓볼 게임입니다. 정확한 샷과 포지셔닝으로 다음 공까지 계산하며
   테이블을 정리해 보세요.
 iframeSrc: 'https://75hivpjsm2230.h5games.usercontent.goog/v/04igpiqnom6k0/'
 thumbnail: /new-images/thumbnails/billiard-hustlers.jpg
+urlstr: billiard-hustlers
 tags:
   - sports
   - pool

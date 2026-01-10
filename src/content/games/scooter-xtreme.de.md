@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: scooter-xtreme
 title: Scooter Xtreme 3D
+seoTitle: Spiele Scooter Xtreme 3D kostenlos online | FiddleBops
 description: >-
   Ab in den Skatepark mit Scooter Xtreme 3D! Rase durch Parcours, führe Tricks
   und Grinds aus und sammle Münzen, um neue Scooter und Charaktere
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://scooterxtreme.h5games.usercontent.goog/v/c842db43-7823-45bc-b575-acbd9bda5de4/
 thumbnail: /new-images/thumbnails/scooter-xtreme.jpg
+urlstr: scooter-xtreme
 tags:
   - action
   - sports

@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: mahjong-3d
 title: 《Mahjong 3D》三维麻将连连看
+seoTitle: 免费在线玩 《Mahjong 3D》三维麻将连连看 | FiddleBops
 description: 在《Mahjong 3D》中体验立体麻将消除乐趣：旋转 3D 拼图，从各个角度寻找成对的自由牌，一点点清空整座立体牌阵。
 iframeSrc: >-
   https://mahjong3d.h5games.usercontent.goog/v/eba0837e-4855-4bb2-b762-5dd6d8982cac/
 thumbnail: /new-images/thumbnails/mahjong-3d.jpg
+urlstr: mahjong-3d
 tags:
   - puzzle
   - thinky

@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: football-legends
 title: Football Legends 经典街机足球
+seoTitle: 免费在线玩 Football Legends 经典街机足球 | FiddleBops
 description: Football Legends 是一款街机风格足球对战游戏，支援 1v1 或 2v2， 通过头球、凌空抽射与必杀射门，在快节奏单场或锦标赛中一决高下。
 iframeSrc: 'https://webglmath.github.io/football-legends/'
 thumbnail: /new-images/thumbnails/football-legends.jpg
+urlstr: football-legends
 tags:
   - sports
   - soccer

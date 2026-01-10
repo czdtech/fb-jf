@@ -1,19 +1,19 @@
 ---
+locale: ja
 title: Mahjongg Solitaire
-description: >-
-  Mahjongg
-  Solitaireでタイルのペアを消しながら盤面をクリアしていく、クラシックな麻雀ソリティアです。
-iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjongg-solitaire/'
+seoTitle: 無料でMahjongg Solitaireをオンラインでプレイ | FiddleBops
+description: Mahjongg Solitaireでタイルのペアを消しながら盤面をクリアしていく、クラシックな麻雀ソリティアです。
+iframeSrc: >-
+  https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjongg-solitaire/
 thumbnail: /new-images/thumbnails/mahjongg-solitaire.jpg
 urlstr: mahjongg-solitaire
-score: 4.5/5  (256 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.5/5  (256 votes)
 developer: ''
-releaseDate: 2025-08-16
-locale: ja
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

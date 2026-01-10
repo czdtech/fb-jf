@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: football-kickoff
 title: Football Kickoff 美式足球开球练习
+seoTitle: 免费在线玩 Football Kickoff 美式足球开球练习 | FiddleBops
 description: Football Kickoff 聚焦于美式足球中的特勤组踢球场景——瞄准目标、判读风向、 控制力量与落点，争取最佳场地位置。
 iframeSrc: 'https://30sab7l7n7df0.h5games.usercontent.goog/v/5c7k7dlnf1c5g/'
 thumbnail: /new-images/thumbnails/football-kickoff.jpg
+urlstr: football-kickoff
 tags:
   - sports
   - casual

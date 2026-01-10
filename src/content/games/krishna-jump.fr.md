@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: krishna-jump
 title: Krishna Jump
+seoTitle: Jouez à Krishna Jump en ligne gratuitement | FiddleBops
 description: >-
   Krishna Jump est un runner vertical rythmique : enchaîne des sauts précis,
   évite les pièges et collecte des idoles à travers des niveaux colorés.
 iframeSrc: 'https://5gj672951lio0.h5games.usercontent.goog/v/2q5vk2ok37gr8/'
 thumbnail: /new-images/thumbnails/krishna-jump.png
+urlstr: krishna-jump
 tags:
   - action
   - casual

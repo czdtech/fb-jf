@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: zombie-gun
 title: Zombie Gun：物理弹射打僵尸
+seoTitle: 免费在线玩 Zombie Gun：物理弹射打僵尸 | FiddleBops
 description: 《Zombie Gun》是一款强调“反弹与连锁”的物理射击解谜游戏。 利用墙面反弹子弹、引爆红色油桶、击倒场景道具， 用有限的弹药清空房间里的僵尸。
 iframeSrc: 'https://5bcvrmoqria48.h5games.usercontent.goog/v/7cfakbl479q6o/'
 thumbnail: /new-images/thumbnails/zombie-gun.png
+urlstr: zombie-gun
 tags:
   - shooting
   - puzzle

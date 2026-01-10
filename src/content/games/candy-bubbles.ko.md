@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: candy-bubbles
 title: Candy Bubbles 캔디 버블즈
+seoTitle: Candy Bubbles 캔디 버블즈 무료 온라인 플레이 | FiddleBops
 description: >-
   Candy Bubbles는 달콤한 사탕 세계를 배경으로 한 버블 슈터 퍼즐 게임입니다. 캐넌으로 버블을 쏘아 같은 색을 세 개 이상 맞추고,
   연쇄 낙하를 이용해 화면을 깨끗이 비워 보세요.
 iframeSrc: 'https://candybubbles.h5games.usercontent.goog/v/370v1t5h5266g/'
 thumbnail: /new-images/thumbnails/candy-bubbles.png
+urlstr: candy-bubbles
 tags:
   - shooting
   - puzzle

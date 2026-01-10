@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: minigolf-clash
 title: 《Minigolf Clash》创意迷你高尔夫对决
+seoTitle: 免费在线玩 《Minigolf Clash》创意迷你高尔夫对决 | FiddleBops
 description: 《Minigolf Clash》是一款充满创意障碍与机关的迷你高尔夫游戏，你需要读懂坡度、利用墙角反弹，控制推杆力度，在各类古怪球洞中打出标准杆成绩。
 iframeSrc: 'https://7a8e5urbht3f8.h5games.usercontent.goog/v/2ptudqjkva98g/'
 thumbnail: /new-images/thumbnails/minigolf-clash.png
+urlstr: minigolf-clash
 tags:
   - sports
   - puzzle

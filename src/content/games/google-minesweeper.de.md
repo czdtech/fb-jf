@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: google-minesweeper
 title: Google Minesweeper
+seoTitle: Spiele Google Minesweeper kostenlos online | FiddleBops
 description: >-
   Klassisches Logikrätsel: Decke alle sicheren Felder auf, ohne eine Mine zu
   zünden, indem du aus Zahlenhinweisen und gesetzten Flaggen auf Minenpositionen
   schließt.
 iframeSrc: 'https://www.minesweepergoogle.com/gameapp.html'
 thumbnail: /new-images/thumbnails/google-minesweeper.jpg
+urlstr: google-minesweeper
 tags:
   - puzzle
   - logic

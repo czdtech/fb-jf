@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: unpark-me
 title: Unpark Me
+seoTitle: Spiele Unpark Me kostenlos online | FiddleBops
 description: >-
   Unpark Me ist ein klassisches Park‑Schiebepuzzle: Rangiere Autos und Laster so
   um, dass der rote Wagen endlich aus dem verstopften Parkplatz herausfahren
   kann.
 iframeSrc: 'https://unparkme.h5games.usercontent.goog/v/59baoe1o8mbe0/'
 thumbnail: /new-images/thumbnails/unpark-me.png
+urlstr: unpark-me
 tags:
   - puzzle
   - thinky

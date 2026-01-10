@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: soccer-random
 title: Soccer Random
+seoTitle: Juega a Soccer Random en línea gratis | FiddleBops
 description: >-
   Vive el fútbol como nunca en Soccer Random. Este divertidísimo juego con
   físicas locas se controla con una sola tecla para hacer que tus jugadores
@@ -11,6 +11,7 @@ description: >-
 iframeSrc: >-
   https://app-197306.games.s3.yandex.net/197306/b1dbvmcde0oog4ebj00rinxr3e367fl4/index.html
 thumbnail: /new-images/thumbnails/soccer-random.jpg
+urlstr: soccer-random
 tags:
   - 2-player
   - physics

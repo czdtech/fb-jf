@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: bubble-tower
 title: Bubble Tower 泡泡塔防
+seoTitle: 免费在线玩 Bubble Tower 泡泡塔防 | FiddleBops
 description: 《Bubble Tower 泡泡塔防》将泡泡射击与塔防元素结合，你需要从塔底发射泡泡，阻止彩色泡泡队列一路向下压到 终点。
 iframeSrc: 'https://bubbletower.h5games.usercontent.goog/v/7ebcukaef3voo/'
 thumbnail: /new-images/thumbnails/bubble-tower.png
+urlstr: bubble-tower
 tags:
   - puzzle
   - casual

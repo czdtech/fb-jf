@@ -1,14 +1,17 @@
 ---
-locale: "zh"
-urlstr: "sprunki-minecraft"
-
-title: "Sprunki Minecraft - 在线玩 Sprunki Minecraft"
-description: "Sprunki Minecraft 证明了创新仍然可以在熟悉的游戏循环中蓬勃发展。如果你正在寻找一种新鲜、极具创意的游戏体验，Sprunki Minecraft 绝对会让你大开眼界！"
-iframeSrc: "https://turbowarp.org/1140459751/embed"
+locale: zh
+title: Sprunki Minecraft
+seoTitle: 免费在线玩 Sprunki Minecraft | FiddleBops
+description: >-
+  Sprunki Minecraft 证明了创新仍然可以在熟悉的游戏循环中蓬勃发展。如果你正在寻找一种新鲜、极具创意的游戏体验，Sprunki
+  Minecraft 绝对会让你大开眼界！
+iframeSrc: 'https://turbowarp.org/1140459751/embed'
 thumbnail: /new-images/thumbnails/sprunki-minecraft.png
-score: "4.0/5  (212 votes)"
-tags: ["sprunki minecraft"]
-releaseDate: 2025-12-04
+urlstr: sprunki-minecraft
+tags:
+  - sprunki minecraft
+score: 4.0/5  (212 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

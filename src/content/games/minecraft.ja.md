@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Minecraft
+seoTitle: 無料でMinecraftをオンラインでプレイ | FiddleBops
 description: Minecraftはサンドボックス型の冒険ゲームです。ブロックの世界で建築や探索を行い、素材を集めて生き延びます。
 iframeSrc: >-
   https://app-167027.games.s3.yandex.net/167027/tnn3wq0qkjwhvr1271tszdhl82lm97e6/index.html
 thumbnail: /new-images/thumbnails/minecraft.jpg
 urlstr: minecraft
-score: 4.5/5  (671 votes)
 tags:
   - adventure
   - sandbox
   - casual
+score: 4.5/5  (671 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

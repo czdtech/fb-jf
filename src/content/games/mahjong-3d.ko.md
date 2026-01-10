@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: mahjong-3d
 title: Mahjong 3D 마작 3D
+seoTitle: Mahjong 3D 마작 3D 무료 온라인 플레이 | FiddleBops
 description: >-
   Mahjong 3D는 마작 솔리테어를 입체 구조로 옮긴 게임으로, 3D 퍼즐을 회전시키며 자유 타일 쌍을 찾아 보드를 비우는 전략적인 퍼즐
   경험을 제공합니다.
 iframeSrc: >-
   https://mahjong3d.h5games.usercontent.goog/v/eba0837e-4855-4bb2-b762-5dd6d8982cac/
 thumbnail: /new-images/thumbnails/mahjong-3d.jpg
+urlstr: mahjong-3d
 tags:
   - puzzle
   - thinky

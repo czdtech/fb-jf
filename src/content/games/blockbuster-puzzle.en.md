@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Blockbuster Puzzle"
-description: "Blockbuster Puzzle is a satisfying block clear — plan placements, chain blasts, and avoid sealing off critical space."
-iframeSrc: "https://177gd8gft04p0.h5games.usercontent.goog/v/0md288db3fuq8/"
+title: Blockbuster Puzzle
+seoTitle: Play Blockbuster Puzzle Online Free | FiddleBops
+description: >-
+  Blockbuster Puzzle is a satisfying block clear — plan placements, chain
+  blasts, and avoid sealing off critical space.
+iframeSrc: 'https://177gd8gft04p0.h5games.usercontent.goog/v/0md288db3fuq8/'
 thumbnail: /new-images/thumbnails/blockbuster-puzzle.png
-urlstr: "blockbuster-puzzle"
-score: "4.0/5  (1862 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: blockbuster-puzzle
+tags:
+  - puzzle
+  - thinky
+score: 4.0/5  (1862 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

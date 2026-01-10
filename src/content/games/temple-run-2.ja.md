@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Temple Run 2
+seoTitle: 無料でTemple Run 2をオンラインでプレイ | FiddleBops
 description: Temple Run 2は、人気のエンドレスランナーゲームの続編です。古代寺院を走り抜け、障害物を避けて宝物を集めましょう。
 iframeSrc: >-
   https://sxiao.4399.com/4399swf//upload_swf/ftp35/gamehwq/20210119/11/index.html
 thumbnail: /new-images/thumbnails/temple-run-2.jpg
 urlstr: temple-run-2
-score: 4.0/5  (277 votes)
 tags:
   - runner
   - endless
   - adventure
-locale: ja
+score: 4.0/5  (277 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

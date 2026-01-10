@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: tnt-bomb
-title: TNT Bomb - Puzle de demolición
+title: TNT Bomb
+seoTitle: Juega a TNT Bomb en línea gratis | FiddleBops
 description: >-
   Un puzle de demolición basado en físicas. Coloca de forma estratégica tu
   limitado arsenal de explosivos, desde dinamita hasta bombas potentes, para
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://tntbomb.h5games.usercontent.goog/v/78fb3628-2b9a-4ddc-86ef-7c46021357a2/
 thumbnail: /new-images/thumbnails/tnt-bomb.jpg
+urlstr: tnt-bomb
 tags:
   - puzzle
   - action

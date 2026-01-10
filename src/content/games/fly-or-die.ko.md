@@ -1,11 +1,12 @@
 ---
 locale: ko
-urlstr: fly-or-die
 title: Fly or Die 플라이 오어 다이
+seoTitle: Fly or Die 플라이 오어 다이 무료 온라인 플레이 | FiddleBops
 description: '먹이사슬을 따라 진화해 나가는 .io 스타일 생존 게임입니다. 다른 생물을 먹고 피하며, 점점 더 강한 형태로 진화해 보세요.'
 iframeSrc: >-
   https://app-96679.games.s3.yandex.net/96679/jshypemnvrae6bchv5d2nej2892owe69/index.html
 thumbnail: /new-images/thumbnails/fly-or-die.jpg
+urlstr: fly-or-die
 tags:
   - multiplayer
   - survival

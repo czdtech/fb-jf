@@ -1,17 +1,17 @@
 ---
 locale: ko
-urlstr: sprunki-but-with-memes
-title: 'Sprunki but with memes 스프룽키 밈 에디션'
+title: Sprunki but with memes 스프룽키 밈 에디션
+seoTitle: Sprunki but with memes 스프룽키 밈 에디션 무료 온라인 플레이 | FiddleBops
 description: >-
-  Sprunki but with memes는 각종 인터넷 밈과 스프룽키 스타일 음악 만들기를
-  결합한 게임입니다. 수많은 밈 사운드와 캐릭터를 섞어 자신만의 밈 뮤직을
-  만들어, 밈 폭발 분위기를 즐길 수 있습니다.
+  Sprunki but with memes는 각종 인터넷 밈과 스프룽키 스타일 음악 만들기를 결합한 게임입니다. 수많은 밈 사운드와 캐릭터를
+  섞어 자신만의 밈 뮤직을 만들어, 밈 폭발 분위기를 즐길 수 있습니다.
 iframeSrc: 'https://kdata1.com/5000/2024/sprunki-retake-memes/'
 thumbnail: /new-images/thumbnails/sprunki-but-with-memes.png
+urlstr: sprunki-but-with-memes
 tags:
   - sprunki but with memes
 score: 4.2/5  (142 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

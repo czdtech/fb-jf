@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: bad-ice-cream
 title: Bad Ice-Cream
+seoTitle: Spiele Bad Ice-Cream kostenlos online | FiddleBops
 description: >-
   Der komplette Guide zum ersten Bad Ice‑Cream. Lerne Strategien, Steuerung und
   Tipps, um alle Früchte zu sammeln und Gegner mit Eismauern auszutricksen.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x4/index.html
 thumbnail: /new-images/thumbnails/bad-ice-cream.jpg
+urlstr: bad-ice-cream
 tags:
   - casual
   - puzzle

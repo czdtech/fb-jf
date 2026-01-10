@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: the-jigsaw-game
 title: 《The Jigsaw Game》拼图时光
+seoTitle: 免费在线玩 《The Jigsaw Game》拼图时光 | FiddleBops
 description: 《The Jigsaw Game》是一款休闲拼图游戏。将被打散的图块重新拼回完整图片，享受安静细致的拼图过程。
 iframeSrc: 'https://2avtkm5bj06f0.h5games.usercontent.goog/v/66fijarm4ldv0/'
 thumbnail: /new-images/thumbnails/the-jigsaw-game.png
+urlstr: the-jigsaw-game
 tags:
   - jigsaw
   - puzzle

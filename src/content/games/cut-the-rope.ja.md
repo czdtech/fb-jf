@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Cut The Rope カット・ザ・ロープ
+seoTitle: 無料でCut The Rope カット・ザ・ロープをオンラインでプレイ | FiddleBops
 description: 「Cut The Rope」は世界的人気の物理パズル。ロープを切ってキャンディを操り、愛らしいモンスター「Om Nom（オム・ノム）」に食べさせてあげよう。
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/c/cut-the-rope/v020/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=4531b37c-a8e0-4a67-9ebd-e8d3190b6277&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=467&original_ref=
 thumbnail: /new-images/thumbnails/cut-the-rope.jpg
 urlstr: cut-the-rope
-score: 3.9/5  (1483 votes)
 tags:
   - puzzle
   - physics
+score: 3.9/5  (1483 votes)
 developer: ZeptoLab
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Crossy Road クロッシーロード
+seoTitle: 無料でCrossy Road クロッシーロードをオンラインでプレイ | FiddleBops
 description: 「Crossy Road」は簡単操作で奥深い横断アクションゲーム。車や川、電車を避けて、キャラクターをどこまでも遠くへ進めよう。
 iframeSrc: 'https://www.playfiddlebops.com/embed/crossyroad/index.html'
 thumbnail: /new-images/thumbnails/crossyroad.jpg
 urlstr: crossyroad
-score: 4.8/5  (1104 votes)
 tags:
   - arcade
   - casual
   - endless
+score: 4.8/5  (1104 votes)
 developer: Hipster Whale
 releaseDate: 2025-12-04T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,14 +1,18 @@
 ---
-title: "Addiction Mini アディクション・ミニ"
-description: "「Addiction Mini」はソリティア風の並べ替えパズルです。戦略的にカードを並べ替え、列をクリアし、数手先を読んで攻略しましょう。"
-iframeSrc: "https://0lk0u0jb90plo.h5games.usercontent.goog/v/2rppmab9dqneo/"
-thumbnail: /new-images/thumbnails/addiction-mini.jpg
-urlstr: "addiction-mini"
-score: "4.0/5  (1803 votes)"
-tags: ["card", "puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
 locale: ja
+title: Addiction Mini アディクション・ミニ
+seoTitle: 無料でAddiction Mini アディクション・ミニをオンラインでプレイ | FiddleBops
+description: 「Addiction Mini」はソリティア風の並べ替えパズルです。戦略的にカードを並べ替え、列をクリアし、数手先を読んで攻略しましょう。
+iframeSrc: 'https://0lk0u0jb90plo.h5games.usercontent.goog/v/2rppmab9dqneo/'
+thumbnail: /new-images/thumbnails/addiction-mini.jpg
+urlstr: addiction-mini
+tags:
+  - card
+  - puzzle
+  - thinky
+score: 4.0/5  (1803 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

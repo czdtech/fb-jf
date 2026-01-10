@@ -1,15 +1,22 @@
 ---
 locale: en
-modType: incredibox
-title: "Incredibox Instrumentalist"
-description: "Incredibox Instrumentalist This guide details its unique gameplay of summoning instruments to the stage and its eclectic world music palette, creating a purely instrumental orchestra"
-iframeSrc: "https://turbowarp.org/1040856097/embed"
+title: Incredibox Instrumentalist
+seoTitle: Play Incredibox Instrumentalist Online Free | FiddleBops
+description: >-
+  Incredibox Instrumentalist This guide details its unique gameplay of summoning
+  instruments to the stage and its eclectic world music palette, creating a
+  purely instrumental orchestra
+iframeSrc: 'https://turbowarp.org/1040856097/embed'
 thumbnail: /new-images/thumbnails/incredibox-instrumentalist.png
-urlstr: "incredibox-instrumentalist"
-score: "4.8/5 (2045 votes)"
-tags: ["music", "sandbox", "instrumental"]
-developer: ""
-releaseDate: 2025-10-10
+urlstr: incredibox-instrumentalist
+tags:
+  - music
+  - sandbox
+  - instrumental
+modType: incredibox
+score: 4.8/5 (2045 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 

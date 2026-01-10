@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Mazes
+seoTitle: 無料でMazesをオンラインでプレイ | FiddleBops
 description: Mazesは挑戦的なパスファインディングゲームです。複数の迷路をナビゲートし、障害物を避け、効率的に出口を見つけます。
 iframeSrc: 'https://1ivu76rhffpsg.h5games.usercontent.goog/v/00icu4vi09j18/'
 thumbnail: /new-images/thumbnails/mazes.jpg
 urlstr: mazes
-score: 4.0/5  (1894 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.0/5  (1894 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

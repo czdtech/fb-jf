@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: pool-8-ball-mania
 title: Pool 8 Ball Mania
+seoTitle: Juega a Pool 8 Ball Mania en línea gratis | FiddleBops
 description: >-
   Pool 8 Ball Mania lleva el billar de bar a tu pantalla: apunta con precisión,
   controla la bola blanca con efecto y limpia la mesa planificando bien cada
   posición.
 iframeSrc: 'https://4i2ksm0sqbsr0.h5games.usercontent.goog/v/6fbgaukuhtvqo/'
 thumbnail: /new-images/thumbnails/pool-8-ball-mania.png
+urlstr: pool-8-ball-mania
 tags:
   - sports
   - pool

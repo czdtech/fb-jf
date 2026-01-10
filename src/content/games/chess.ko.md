@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: chess
 title: Chess 체스
+seoTitle: Chess 체스 무료 온라인 플레이 | FiddleBops
 description: >-
   Chess는 여섯 가지 기물을 이용해 상대 킹을 체크메이트하는 고전 전략 보드게임입니다. 기물의 움직임과 기본 전술, 오프닝과 엔드게임
   원리를 익히며 보드를 지배해 보세요.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/chess/'
 thumbnail: /new-images/thumbnails/chess.jpg
+urlstr: chess
 tags:
   - strategy
   - puzzle

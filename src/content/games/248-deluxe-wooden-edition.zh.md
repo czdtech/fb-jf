@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: 248-deluxe-wooden-edition
 title: 248 Deluxe Wooden edition 248 豪华木质版
+seoTitle: 免费在线玩 248 Deluxe Wooden edition 248 豪华木质版 | FiddleBops
 description: >-
   《248 Deluxe Wooden edition（248
   豪华木质版）》是一款以温润木纹为主题的数字连接合并游戏，一边连线消除、一边规划空间，在安静的节奏里越玩越投入。
 iframeSrc: 'https://0k2rsj4f89nr8.h5games.usercontent.goog/v/03pkkc7ds3qdg/'
 thumbnail: /new-images/thumbnails/248-deluxe-wooden-edition.jpg
+urlstr: 248-deluxe-wooden-edition
 tags:
   - puzzle
   - thinky

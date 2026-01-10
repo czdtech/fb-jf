@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: pets-rush
-title: Pets Rush - Match-3 frenético de mascotas
+title: Pets Rush
+seoTitle: Juega a Pets Rush en línea gratis | FiddleBops
 description: >-
   Un match-3 rápido y lleno de color. Intercambia adorables mascotas para formar
   líneas de tres o más, crea potentes combos y limpia el tablero antes de que
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://petsrush2.h5games.usercontent.goog/v/e566fdbf-c420-4ec6-af2a-7e9a6edab856/
 thumbnail: /new-images/thumbnails/pets-rush.jpg
+urlstr: pets-rush
 tags:
   - puzzle
   - casual

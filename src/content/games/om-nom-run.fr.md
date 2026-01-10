@@ -1,19 +1,20 @@
 ---
 locale: fr
-urlstr: om-nom-run
 title: Om Nom Run
+seoTitle: Jouez à Om Nom Run en ligne gratuitement | FiddleBops
 description: >-
   Om Nom Run est un runner dynamique : cours avec Om Nom, évite les obstacles,
   collecte des pièces et active des bonus pour battre tes records.
 iframeSrc: 'https://omnomrun.h5games.usercontent.goog/v/38udj70raubl0/'
 thumbnail: /new-images/thumbnails/om-nom-run.png
+urlstr: om-nom-run
 tags:
   - runner
   - action
   - casual
+score: 4.5/5  (3400 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-score: 4.5/5  (3400 votes)
 ---
 
 <!-- i18n:section:introduction -->

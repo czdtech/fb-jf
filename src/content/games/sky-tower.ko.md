@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: sky-tower
 title: Sky Tower 스카이 타워
+seoTitle: Sky Tower 스카이 타워 무료 온라인 플레이 | FiddleBops
 description: >-
   움직이는 발판을 타이밍에 맞춰 떨어뜨려 하늘까지 쌓아 올리는 탑쌓기 퍼즐 게임입니다. 오차를 줄여 오버행을 최소화하고 가장 높은 타워를
   만들어 보세요.
 iframeSrc: 'https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/'
 thumbnail: /new-images/thumbnails/sky-tower.png
+urlstr: sky-tower
 tags:
   - puzzle
   - thinky

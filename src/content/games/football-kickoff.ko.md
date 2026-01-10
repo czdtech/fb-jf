@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: football-kickoff
 title: Football Kickoff 풋볼 킥오프
+seoTitle: Football Kickoff 풋볼 킥오프 무료 온라인 플레이 | FiddleBops
 description: >-
   Football Kickoff는 미식축구의 킥 장면에 초점을 맞춘 게임으로, 필드골과 킥오프, 펀트를 통해 정확한 조준과 바람 읽기, 파워
   컨트롤을 연습할 수 있습니다. 섬세한 타이밍과 코스를 잡아 최적의 필드 포지션을 만들어 보세요.
 iframeSrc: 'https://30sab7l7n7df0.h5games.usercontent.goog/v/5c7k7dlnf1c5g/'
 thumbnail: /new-images/thumbnails/football-kickoff.jpg
+urlstr: football-kickoff
 tags:
   - sports
   - casual

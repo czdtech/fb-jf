@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Tropical Merge"
-description: "Tropical Merge is a sunny merge adventure — build chains, complete quests, and expand islands with smart space/energy use."
-iframeSrc: "https://7jdqir15djng0.h5games.usercontent.goog/v/3nm4cvs4b09jo/"
+title: Tropical Merge
+seoTitle: Play Tropical Merge Online Free | FiddleBops
+description: >-
+  Tropical Merge is a sunny merge adventure — build chains, complete quests, and
+  expand islands with smart space/energy use.
+iframeSrc: 'https://7jdqir15djng0.h5games.usercontent.goog/v/3nm4cvs4b09jo/'
 thumbnail: /new-images/thumbnails/tropical-merge.png
-urlstr: "tropical-merge"
-score: "4.2/5  (2068 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: tropical-merge
+tags:
+  - puzzle
+  - casual
+  - thinky
+score: 4.2/5  (2068 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

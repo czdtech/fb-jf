@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: the-hidden-antique-shop
 title: The Hidden Antique Shop 더 히든 앤틱 샵
+seoTitle: The Hidden Antique Shop 더 히든 앤틱 샵 무료 온라인 플레이 | FiddleBops
 description: >-
   The Hidden Antique Shop은 앤틱 상점 내부를 배경으로, 어수선한 장식품 더미 속에서 숨겨진 물건을 찾아내는 숨은그림 찾기
   퍼즐 게임입니다.
 iframeSrc: 'https://7nh0dnmovl0g0.h5games.usercontent.goog/v/01busogksrcm0/'
 thumbnail: /new-images/thumbnails/the-hidden-antique-shop.png
+urlstr: the-hidden-antique-shop
 tags:
   - hidden-object
   - puzzle

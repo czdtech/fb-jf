@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: bricks-breaker-house
 title: Bricks Breaker House
+seoTitle: Spiele Bricks Breaker House kostenlos online | FiddleBops
 description: >-
   Bricks Breaker House verbindet klassisches Brick-Breaker-Gameplay mit
   gemütlichen Hauskulissen – platziere deine Schläge präzise, nutze Power-ups
   geschickt und sorge dafür, dass dein Haus nicht einstürzt.
 iframeSrc: 'https://1s6hqqts5ko6o.h5games.usercontent.goog/v/7n8ge2nvqqksg/'
 thumbnail: /new-images/thumbnails/bricks-breaker-house.png
+urlstr: bricks-breaker-house
 tags:
   - puzzle
   - casual

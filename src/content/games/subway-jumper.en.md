@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Subway Jumper"
-description: "Subway Jumper is a nimble runner — swap lanes, time hops/slides, and maintain rhythm through dense metro hazards."
-iframeSrc: "https://34clth7bs1mtg.h5games.usercontent.goog/v/20un142k99goo/"
+title: Subway Jumper
+seoTitle: Play Subway Jumper Online Free | FiddleBops
+description: >-
+  Subway Jumper is a nimble runner — swap lanes, time hops/slides, and maintain
+  rhythm through dense metro hazards.
+iframeSrc: 'https://34clth7bs1mtg.h5games.usercontent.goog/v/20un142k99goo/'
 thumbnail: /new-images/thumbnails/subway-jumper.png
-urlstr: "subway-jumper"
-score: "3.9/5  (1759 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: subway-jumper
+tags:
+  - action
+  - casual
+score: 3.9/5  (1759 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

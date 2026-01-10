@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: duck-life-4
 title: Duck Life 4 小鸭培训与竞速模拟
+seoTitle: 免费在线玩 Duck Life 4 小鸭培训与竞速模拟 | FiddleBops
 description: Duck Life 4 是一款结合培训与竞速的模拟游戏，你要通过各种迷你游戏训练小鸭的跑步、 游泳、飞行、攀爬等能力，提升体力，最后在各地锦标赛中夺冠。
 iframeSrc: 'https://webglmath.github.io/ducklife-4/'
 thumbnail: /new-images/thumbnails/duck-life-4.jpg
+urlstr: duck-life-4
 tags:
   - racing
   - simulation

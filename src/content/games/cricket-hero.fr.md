@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: cricket-hero
 title: Cricket Hero
+seoTitle: Jouez à Cricket Hero en ligne gratuitement | FiddleBops
 description: "Cricket Hero est un jeu de batting arcade\_: choisis le bon coup, lis la trajectoire de la balle et envoie‑la dans les tribunes sans te faire bowler."
 iframeSrc: 'https://crickethero.h5games.usercontent.goog/v/7cnfq54s3ilao/'
 thumbnail: /new-images/thumbnails/cricket-hero.jpg
+urlstr: cricket-hero
 tags:
   - sports
   - casual

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: minesweeper-2
 title: Minesweeper 고전 마인스위퍼
+seoTitle: Minesweeper 고전 마인스위퍼 무료 온라인 플레이 | FiddleBops
 description: >-
   Minesweeper는 숫자 힌트를 바탕으로 숨겨진 지뢰의 위치를 논리적으로 추리해, 한 번도 밟지 않고 보드를 전부 여는 고전 퍼즐
   게임입니다.
 iframeSrc: 'https://minesweeper.h5games.usercontent.goog/v/6uo6tf2lnil3o/'
 thumbnail: /new-images/thumbnails/minesweeper-2.jpg
+urlstr: minesweeper-2
 tags:
   - puzzle
   - thinky

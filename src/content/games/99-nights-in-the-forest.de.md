@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: 99-nights-in-the-forest
-title: "99 Nights in the Forest"
+title: 99 Nights in the Forest
+seoTitle: Spiele 99 Nights in the Forest kostenlos online | FiddleBops
 description: >-
-  99 Nights in the Forest ist ein Indie‑Survival‑Horrorspiel aus der Ego‑Perspektive.
-  Verwalte Ressourcen, verbarrikadiere deine Hütte und versuche, 99 Nächte lang
-  in einem verfluchten Wald zu überleben.
+  99 Nights in the Forest ist ein Indie‑Survival‑Horrorspiel aus der
+  Ego‑Perspektive. Verwalte Ressourcen, verbarrikadiere deine Hütte und
+  versuche, 99 Nächte lang in einem verfluchten Wald zu überleben.
 iframeSrc: 'https://st.8games.net/7/8g/igra-99-nochej-v-lesu-101-original/'
 thumbnail: /new-images/thumbnails/99-nights-in-the-forest.webp
+urlstr: 99-nights-in-the-forest
 tags:
   - horror
   - survival

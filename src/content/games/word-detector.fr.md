@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: word-detector
 title: Word Detector
+seoTitle: Jouez à Word Detector en ligne gratuitement | FiddleBops
 description: >-
   Word Detector te demande de trouver des mots cachés dans une grille de lettres
   en les reliant dans toutes les directions possibles.
 iframeSrc: 'https://worddetector.h5games.usercontent.goog/v/4gaf9ej9hp398/'
 thumbnail: /new-images/thumbnails/word-detector.png
+urlstr: word-detector
 tags:
   - puzzle
   - thinky

@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: funny-shooter-2
 title: Funny Shooter 2 奇葩射击 2
+seoTitle: 免费在线玩 Funny Shooter 2 奇葩射击 2 | FiddleBops
 description: 波次制第一人称射击：用越来越夸张的武器对付各种奇怪敌人， 赚取金币，在关卡之间升级火力与装备。
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter-2/'
 thumbnail: /new-images/thumbnails/funny-shooter-2.jpg
+urlstr: funny-shooter-2
 tags:
   - shooting
   - fps

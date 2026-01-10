@@ -1,14 +1,17 @@
 ---
-title: "2020 Connect 2020 コネクト"
-description: "「2020 コネクト」は、同じ数字をつなげてマージし、より大きな数字を作りながら、盤面のスペースを管理してハイスコアを目指す数字パズルゲームです。"
-iframeSrc: "https://4l7qr4mfc8o80.h5games.usercontent.goog/v/5sm797oi4heu0/"
-thumbnail: /new-images/thumbnails/2020-connect.png
-urlstr: "2020-connect"
-score: "4.2/5  (1965 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
 locale: ja
+title: 2020 Connect 2020 コネクト
+seoTitle: 無料で2020 Connect 2020 コネクトをオンラインでプレイ | FiddleBops
+description: 「2020 コネクト」は、同じ数字をつなげてマージし、より大きな数字を作りながら、盤面のスペースを管理してハイスコアを目指す数字パズルゲームです。
+iframeSrc: 'https://4l7qr4mfc8o80.h5games.usercontent.goog/v/5sm797oi4heu0/'
+thumbnail: /new-images/thumbnails/2020-connect.png
+urlstr: 2020-connect
+tags:
+  - puzzle
+  - thinky
+score: 4.2/5  (1965 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

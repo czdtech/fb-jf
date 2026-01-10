@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: bowling-stars
 title: Bowling Stars
+seoTitle: Juega a Bowling Stars en línea gratis | FiddleBops
 description: >-
   Bowling Stars lleva a tu navegador una experiencia de bolos de diez pinos muy
   fluida: lee la pista, elige bien los ángulos y encadena strikes de forma
   consistente.
 iframeSrc: 'https://0pst60kfu8pi8.h5games.usercontent.goog/v/249kviafiu6co/'
 thumbnail: /new-images/thumbnails/bowling-stars.png
+urlstr: bowling-stars
 tags:
   - sports
   - casual

@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: civilization
 title: 'Civilization: Collect And Build 문명: 수집과 건설'
+seoTitle: 'Civilization: Collect And Build 문명: 수집과 건설 무료 온라인 플레이 | FiddleBops'
 description: >-
-  작은 부족에서 시작해 거대한 문명으로 성장시키는 캐주얼 전략 게임입니다.
-  자원을 모으고 건물을 세우며 시대를 발전시켜, 나만의 문명을 완성해 보세요.
+  작은 부족에서 시작해 거대한 문명으로 성장시키는 캐주얼 전략 게임입니다. 자원을 모으고 건물을 세우며 시대를 발전시켜, 나만의 문명을 완성해
+  보세요.
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/u6OtaIwSh2rBbZQ8/rvvASMiM/05de7c87be654b588b44dfdafeb11312/
 thumbnail: /new-images/thumbnails/civilization.jpg
+urlstr: civilization
 tags:
   - casual
   - rhythm

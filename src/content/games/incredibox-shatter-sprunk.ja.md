@@ -1,13 +1,18 @@
 ---
-title: "Incredibox Shatter Sprunk - Play Incredibox Shatter Sprunk Online"
-description: "Incredibox Shatter Sprunkはファン作成のIncrediboxモッド音楽ゲームです。このバージョンでは、すべてのキャラクターが印象的な黄色で表示され、各キャラクターがユニークなサウンドエフェクトを持っています。"
-iframeSrc: "https://turbowarp.org/1144858827/embed"
-thumbnail: /new-images/thumbnails/incredibox-shatter-sprunk.png
-urlstr: "incredibox-shatter-sprunk"
-score: "4.5/5  (614 votes)"
-tags: ["incredibox shatter sprunk", "incredibox shatter sprunk online"]
 locale: ja
-releaseDate: 2025-12-04
+title: Incredibox Shatter Sprunk
+seoTitle: 無料でIncredibox Shatter Sprunkをオンラインでプレイ | FiddleBops
+description: >-
+  Incredibox Shatter
+  Sprunkはファン作成のIncrediboxモッド音楽ゲームです。このバージョンでは、すべてのキャラクターが印象的な黄色で表示され、各キャラクターがユニークなサウンドエフェクトを持っています。
+iframeSrc: 'https://turbowarp.org/1144858827/embed'
+thumbnail: /new-images/thumbnails/incredibox-shatter-sprunk.png
+urlstr: incredibox-shatter-sprunk
+tags:
+  - incredibox shatter sprunk
+  - incredibox shatter sprunk online
+score: 4.5/5  (614 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Incredibox Shatter Sprunkの面白さとは？

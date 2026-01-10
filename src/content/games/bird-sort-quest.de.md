@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: bird-sort-quest
-title: "Bird Sort Quest"
+title: Bird Sort Quest
+seoTitle: Spiele Bird Sort Quest kostenlos online | FiddleBops
 description: >-
-  Bird Sort Quest macht aus Farbsortieren ein entspanntes Logikrätsel. Verschiebe
-  Vögel zwischen Sitzstangen, trenne die Farben sauber und plane deine Züge ein
-  paar Schritte voraus.
+  Bird Sort Quest macht aus Farbsortieren ein entspanntes Logikrätsel.
+  Verschiebe Vögel zwischen Sitzstangen, trenne die Farben sauber und plane
+  deine Züge ein paar Schritte voraus.
 iframeSrc: 'https://59c0fiphd7ng0.h5games.usercontent.goog/v/5cgtqofbdtd08/'
 thumbnail: /new-images/thumbnails/bird-sort-quest.png
+urlstr: bird-sort-quest
 tags:
   - puzzle
   - thinky

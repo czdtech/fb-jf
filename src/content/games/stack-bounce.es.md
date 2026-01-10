@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: stack-bounce
 title: Stack Bounce
+seoTitle: Juega a Stack Bounce en línea gratis | FiddleBops
 description: >-
   Pon a prueba tu sincronización y tus reflejos en Stack Bounce. Rompe las
   plataformas de colores manteniendo pulsado, pero suelta a tiempo para no
   estrellarte contra los obstáculos negros y mantener la pelota rebotando.
 iframeSrc: 'https://stackbounce.h5games.usercontent.goog/v/1aqsvv0aegbjg/'
 thumbnail: /new-images/thumbnails/stack-bounce.jpeg
+urlstr: stack-bounce
 tags:
   - action
   - casual

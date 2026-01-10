@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: 2048-pizza
 title: 2048 Pizza 2048 披萨
+seoTitle: 免费在线玩 2048 Pizza 2048 披萨 | FiddleBops
 description: >-
   《2048 Pizza（2048 披萨）》用一整块披萨和丰富配料，把经典 2048
   的数字合成玩法做成更“有食欲”的休闲益智体验，在滑动与连锁合并之间越玩越投入。
 iframeSrc: 'https://14qikp6hbljig.h5games.usercontent.goog/v/4htrmkq5b0b78/'
 thumbnail: /new-images/thumbnails/2048-pizza.png
+urlstr: 2048-pizza
 tags:
   - puzzle
   - thinky

@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: diner-dash
 title: Diner Dash
+seoTitle: Jouez à Diner Dash en ligne gratuitement | FiddleBops
 description: "Diner Dash est un jeu de gestion du temps\_: place les clients, prends les commandes, sers les plats et garde tout le monde content pour réussir les niveaux."
 iframeSrc: 'https://ad-freegames.github.io/flash/game/diner-dash.html'
 thumbnail: /new-images/thumbnails/diner-dash.jpg
+urlstr: diner-dash
 tags:
   - time-management
   - strategy

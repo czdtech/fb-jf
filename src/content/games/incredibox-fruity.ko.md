@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: incredibox-fruity
 title: Incredibox Fruity 진화형 전략 게임
+seoTitle: Incredibox Fruity 진화형 전략 게임 무료 온라인 플레이 | FiddleBops
 description: >-
   고전 플래시 시대의 진화형 전략 게임 'Incredibox Fruity' 공략 가이드입니다. 석기 시대부터 미래까지 군대를 진화시키는 방법과
   승리 전략, 조작법을 한눈에 정리했습니다.
 iframeSrc: 'https://turbowarp.org/414716080/embed'
 thumbnail: /new-images/thumbnails/incredibox-fruity.jpg
+urlstr: incredibox-fruity
 tags:
   - strategy
   - action

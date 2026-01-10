@@ -1,14 +1,18 @@
 ---
-title: "Mahjong Match Puzzle"
-description: "麻雀マッチパズルは、タイルを素早くマッチし、ボーナスチェーンを構築し、タイマーと戦います。"
-iframeSrc: "https://5jdtfmidv5ao0.h5games.usercontent.goog/v/1qd7nn7jmar7g/"
-thumbnail: /new-images/thumbnails/mahjong-match-puzzle.png
-urlstr: "mahjong-match-puzzle"
-score: "4.1/5  (1981 votes)"
-tags: ["mahjong", "puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
 locale: ja
+title: Mahjong Match Puzzle
+seoTitle: 無料でMahjong Match Puzzleをオンラインでプレイ | FiddleBops
+description: 麻雀マッチパズルは、タイルを素早くマッチし、ボーナスチェーンを構築し、タイマーと戦います。
+iframeSrc: 'https://5jdtfmidv5ao0.h5games.usercontent.goog/v/1qd7nn7jmar7g/'
+thumbnail: /new-images/thumbnails/mahjong-match-puzzle.png
+urlstr: mahjong-match-puzzle
+tags:
+  - mahjong
+  - puzzle
+  - thinky
+score: 4.1/5  (1981 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

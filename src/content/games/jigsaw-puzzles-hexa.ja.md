@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Jigsaw Puzzles Hexa
+seoTitle: 無料でJigsaw Puzzles Hexaをオンラインでプレイ | FiddleBops
 description: 六角形のピースを配置して画像を完成させるパズルです。時間制限なしで自分のペースで進められます。
 iframeSrc: 'https://jigsawpuzzleshexa.h5games.usercontent.goog/v/5e9bm1tuf1me0/'
 thumbnail: /new-images/thumbnails/jigsaw-puzzles-hexa.jpg
 urlstr: jigsaw-puzzles-hexa
-score: 4.5/5  (2600 votes)
 tags:
   - puzzle
   - casual
   - thinky
+score: 4.5/5  (2600 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

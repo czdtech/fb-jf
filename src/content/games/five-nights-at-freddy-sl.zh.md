@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: five-nights-at-freddy-sl
 title: 'Five Nights at Freddy''s: Sister Location 姐妹店'
+seoTitle: '免费在线玩 Five Nights at Freddy''s: Sister Location 姐妹店 | FiddleBops'
 description: 带有明显剧情导向的篇章：在不同房间之间穿梭、完成维护任务， 监控 Funtime 系列机械玩偶，在脚本式事件中设法活下来。
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnafsl.html'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-sl.jpg
+urlstr: five-nights-at-freddy-sl
 tags:
   - horror
   - adventure

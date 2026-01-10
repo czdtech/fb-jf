@@ -1,10 +1,14 @@
 ---
 locale: de
-urlstr: word-scramble
-title: "Word Scramble"
-description: "Bringe durcheinandergewürfelte Buchstaben in die richtige Reihenfolge: In Word Scramble musst du das gesuchte Wort so schnell wie möglich aus einem Buchstabenmix zusammensetzen." 
+title: Word Scramble
+seoTitle: Spiele Word Scramble kostenlos online | FiddleBops
+description: >-
+  Bringe durcheinandergewürfelte Buchstaben in die richtige Reihenfolge: In Word
+  Scramble musst du das gesuchte Wort so schnell wie möglich aus einem
+  Buchstabenmix zusammensetzen.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/word-scramble/'
 thumbnail: /new-images/thumbnails/word-scramble.jpg
+urlstr: word-scramble
 tags:
   - word-game
   - puzzle

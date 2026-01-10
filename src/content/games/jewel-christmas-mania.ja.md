@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Jewel Christmas Mania
+seoTitle: 無料でJewel Christmas Maniaをオンラインでプレイ | FiddleBops
 description: クリスマス風のマッチ3パズルです。宝石を入れ替えてそろえ、各レベルの目標を達成します。
 iframeSrc: 'https://jewelchristmasmania.h5games.usercontent.goog/v/3vom8bn0qgmto/'
 thumbnail: /new-images/thumbnails/jewel-christmas-mania.png
 urlstr: jewel-christmas-mania
-score: 4.7/5  (2500 votes)
 tags:
   - puzzle
   - casual
   - flash
+score: 4.7/5  (2500 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

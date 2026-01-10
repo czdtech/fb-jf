@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Onet Connect Classic"
-description: "Test your speed and perception in Onet Connect Classic. Find pairs of identical tiles and clear the board by connecting them with a path of no more than two turns before time runs out!"
-iframeSrc: "https://onetconnectclassic.h5games.usercontent.goog/v/0q8248mt11l3g/"
+title: Onet Connect Classic
+seoTitle: Play Onet Connect Classic Online Free | FiddleBops
+description: >-
+  Test your speed and perception in Onet Connect Classic. Find pairs of
+  identical tiles and clear the board by connecting them with a path of no more
+  than two turns before time runs out!
+iframeSrc: 'https://onetconnectclassic.h5games.usercontent.goog/v/0q8248mt11l3g/'
 thumbnail: /new-images/thumbnails/onet-connect-classic.png
-urlstr: "onet-connect-classic"
-score: "4.3/5  (1840 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: onet-connect-classic
+tags:
+  - puzzle
+  - casual
+  - thinky
+score: 4.3/5  (1840 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

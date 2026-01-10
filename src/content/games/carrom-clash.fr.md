@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: carrom-clash
 title: Carrom Clash
+seoTitle: Jouez à Carrom Clash en ligne gratuitement | FiddleBops
 description: >-
   Découvre la version numérique du carrom : place ton striker, empoche tes pions
   et couvre la dame rouge avant ton adversaire dans ce duel de précision.
 iframeSrc: 'https://carromclash.h5games.usercontent.goog/v/4pmfd00515bbg/'
 thumbnail: /new-images/thumbnails/carrom-clash.png
+urlstr: carrom-clash
 tags:
   - sports
   - puzzle

@@ -1,14 +1,16 @@
 ---
-locale: "zh"
-urlstr: "sprunki-retake"
-
-title: "Sprunki Retake 🔥 在线玩 Sprunki Retake"
-description: "如果你热爱节奏游戏，又对恐怖元素情有独钟，Sprunki Retake 绝对会让你欲罢不能！"
-iframeSrc: "https://www.minijuegos.com/embed/sprunki-retake"
+locale: zh
+title: Sprunki Retake
+seoTitle: 免费在线玩 Sprunki Retake | FiddleBops
+description: 如果你热爱节奏游戏，又对恐怖元素情有独钟，Sprunki Retake 绝对会让你欲罢不能！
+iframeSrc: 'https://www.minijuegos.com/embed/sprunki-retake'
 thumbnail: /new-images/thumbnails/sprunki-retake.png
-score: "4.3/5  (524 votes)"
-tags: ["sprunki retake", "sprunki retake online"]
-releaseDate: 2025-12-04
+urlstr: sprunki-retake
+tags:
+  - sprunki retake
+  - sprunki retake online
+score: 4.3/5  (524 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Retake 介绍

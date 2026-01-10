@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: g-switch-3
 title: G-Switch 3 重力切换酷跑 3
+seoTitle: 免费在线玩 G-Switch 3 重力切换酷跑 3 | FiddleBops
 description: 《G-Switch 3》是在前作基础上的高速重力跑酷续作，加入更多致命陷阱与强化的本地多人模式， 专门考验你的节奏感与稳定度。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221121/2/index.html
 thumbnail: /new-images/thumbnails/g-switch-3.jpg
+urlstr: g-switch-3
 tags:
   - runner
   - platformer

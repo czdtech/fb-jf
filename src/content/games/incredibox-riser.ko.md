@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: incredibox-riser
 title: Incredibox Riser 코즈믹 일렉트로닉 모드
+seoTitle: Incredibox Riser 코즈믹 일렉트로닉 모드 무료 온라인 플레이 | FiddleBops
 description: >-
   우주·SF 분위기의 앰비언트 일렉트로닉 사운드를 담은 팬메이드 모드 'Incredibox Riser' 가이드입니다. 코즈믹 신스와 서서히
   고조되는 트랙을 만드는 방법을 소개합니다.
 iframeSrc: 'https://turbowarp.org/966510261/embed'
 thumbnail: /new-images/thumbnails/incredibox-riser.png
+urlstr: incredibox-riser
 tags:
   - music
   - electronic

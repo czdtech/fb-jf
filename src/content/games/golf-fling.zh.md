@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: golf-fling
 title: Golf Fling 抛抛高尔夫
+seoTitle: 免费在线玩 Golf Fling 抛抛高尔夫 | FiddleBops
 description: 在 Golf Fling 中用「弹射」的方式打高尔夫！通过瞄准、拉动与放开， 让球在物理场景中飞越障碍，以最少的抛射次数打进球洞。
 iframeSrc: >-
   https://golffling.h5games.usercontent.goog/v/0aa707a3-71a5-4ad8-be9b-32ce55e28d64/
 thumbnail: /new-images/thumbnails/golf-fling.jpg
+urlstr: golf-fling
 tags:
   - sports
   - puzzle

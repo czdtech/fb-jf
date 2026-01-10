@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Drift Hunters ドリフト・ハンターズ
+seoTitle: 無料でDrift Hunters ドリフト・ハンターズをオンラインでプレイ | FiddleBops
 description: 「Drift Hunters」は本格3Dドリフト・レーシング。マシンをチューニングし、美しいドリフトを繋げてポイントを稼ぎ、最強のドリフターを目指せ。
 iframeSrc: 'https://webglmath.github.io/drift-hunters/'
 thumbnail: /new-images/thumbnails/drift-hunters.jpg
 urlstr: drift-hunters
-score: 5.0/5  (563 votes)
 tags:
   - racing
   - simulation
+score: 5.0/5  (563 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

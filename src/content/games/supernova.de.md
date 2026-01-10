@@ -1,10 +1,15 @@
 ---
 locale: de
-urlstr: supernova
-title: "Supernova"
-description: "Navigiere in Supernova durch die Gefahren des Weltraums: Steuere dein Raumschiff durch ein gefährliches Asteroidenfeld, zerschieße Gesteinsbrocken und andere Bedrohungen und halte so lange wie möglich durch, um Highscores zu knacken." 
+title: Supernova
+seoTitle: Spiele Supernova kostenlos online | FiddleBops
+description: >-
+  Navigiere in Supernova durch die Gefahren des Weltraums: Steuere dein
+  Raumschiff durch ein gefährliches Asteroidenfeld, zerschieße Gesteinsbrocken
+  und andere Bedrohungen und halte so lange wie möglich durch, um Highscores zu
+  knacken.
 iframeSrc: 'https://rebemanae.github.io/supernova/'
 thumbnail: /new-images/thumbnails/supernova.jpg
+urlstr: supernova
 tags:
   - action
   - shooting

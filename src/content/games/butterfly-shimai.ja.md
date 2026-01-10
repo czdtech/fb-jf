@@ -1,19 +1,20 @@
 ---
+locale: ja
 title: Butterfly Shimai バタフライ姉妹
+seoTitle: 無料でButterfly Shimai バタフライ姉妹をオンラインでプレイ | FiddleBops
 description: >-
   「Butterfly
   Shimai」は美しい蝶のパズルアドベンチャー！同じ羽根をつなげて、蝶を大空へ羽ばたかせよう。リラックスしながら楽しめる二角取りパズル。
 iframeSrc: 'https://1pq2qond4eka0.h5games.usercontent.goog/v/4oiv5e7dd7vd8/'
 thumbnail: /new-images/thumbnails/butterfly-shimai.png
 urlstr: butterfly-shimai
-score: 4.6/5  (2100 votes)
 tags:
   - puzzle
   - casual
   - thinky
+score: 4.6/5  (2100 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

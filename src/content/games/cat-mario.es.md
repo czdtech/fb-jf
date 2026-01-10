@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: cat-mario
 title: Cat Mario
+seoTitle: Juega a Cat Mario en línea gratis | FiddleBops
 description: >-
   Enfréntate al plataformas más injusto en Cat Mario (Syobon Action). Recorre un
   mundo lleno de trampas ocultas, enemigos inesperados y diseños de niveles
   engañosos en esta parodia tan difícil como divertida.
 iframeSrc: 'https://tiwb.github.io/catmario/'
 thumbnail: /new-images/thumbnails/cat-mario.jpg
+urlstr: cat-mario
 tags:
   - platformer
   - casual

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: lows-adventures-3
 title: Low's Adventures 3 로우즈 어드벤처 3
+seoTitle: Low's Adventures 3 로우즈 어드벤처 3 무료 온라인 플레이 | FiddleBops
 description: >-
   Low's Adventures 3는 레트로 감성의 플랫포머 3부작 중 세 번째 작품으로, 더 타이트해진 점프 타이밍과 새로운 기믹 블록,
   숨겨진 길이 특징입니다.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/480663659/index.html'
 thumbnail: /new-images/thumbnails/lows-adventures-3.jpg
+urlstr: lows-adventures-3
 tags:
   - platformer
   - adventure

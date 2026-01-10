@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: crazy-cars
 title: Crazy Cars
+seoTitle: Juega a Crazy Cars en línea gratis | FiddleBops
 description: >-
   Crazy Cars es un juego de conducción y acrobacias en 3D: explora una ciudad
   abierta, completa eventos, recoge estrellas y llaves inglesas, y realiza
   saltos espectaculares con nitro directamente en tu navegador.
 iframeSrc: 'https://g.igroutka.ru/games/164/2afwOT8yZFmeYWGJ/2/crazy_cars/'
 thumbnail: /new-images/thumbnails/crazy-cars.jpg
+urlstr: crazy-cars
 tags:
   - racing
   - driving

@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: duck-life-4
 title: Duck Life 4 덕 라이프 4
+seoTitle: Duck Life 4 덕 라이프 4 무료 온라인 플레이 | FiddleBops
 description: '오리들을 훈련시켜 달리기·수영·비행 실력을 키우고, 레이스에서 우승을 노리는 육성 레이싱 게임입니다.'
 iframeSrc: 'https://webglmath.github.io/ducklife-4/'
 thumbnail: /new-images/thumbnails/duck-life-4.jpg
+urlstr: duck-life-4
 tags:
   - racing
   - animal

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: happy-wheels
-title: "Happy Wheels"
+title: Happy Wheels
+seoTitle: Spiele Happy Wheels kostenlos online | FiddleBops
 description: >-
   Happy Wheels ist ein berüchtigt brutales und schwarzhumoriges
   Physik-Plattformspiel. Lerne Strategien, Steuerung und Tipps, um die
   tödlichen, von Spielern erstellten Level möglichst lebend zu überstehen.
 iframeSrc: 'https://games-online.io/game/HappyWheels/'
 thumbnail: /new-images/thumbnails/happy-wheels.jpg
+urlstr: happy-wheels
 tags:
   - platformer
   - physics

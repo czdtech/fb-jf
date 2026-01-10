@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Raft Wars
+seoTitle: 無料でRaft Warsをオンラインでプレイ | FiddleBops
 description: Raft Warsは物理ベースのシューティングゲームです。角度とパワーを調整して敵を狙い、いかだの上で戦います。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210301/jj8/index.html
 thumbnail: /new-images/thumbnails/raft-wars.jpg
 urlstr: raft-wars
-score: 4.0/5  (1180 votes)
 tags:
   - action
   - strategy
   - casual
+score: 4.0/5  (1180 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

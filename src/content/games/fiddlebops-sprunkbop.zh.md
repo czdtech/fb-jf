@@ -1,14 +1,17 @@
 ---
-locale: "zh"
-urlstr: "fiddlebops-sprunkbop"
-
-title: "Fiddlebops Sprunkbop - 在线畅玩 Fiddlebops Sprunkbop"
-description: "Fiddlebops Sprunkbop 是一次精彩的跨界联动！它保留了 Fiddlebops 令人上瘾的音乐创作核心，但将所有原创角色换成了标志性的 Sprunki 团队。"
-iframeSrc: "https://turbowarp.org/1114551059/embed"
+locale: zh
+title: Fiddlebops Sprunkbop
+seoTitle: 免费在线玩 Fiddlebops Sprunkbop | FiddleBops
+description: >-
+  Fiddlebops Sprunkbop 是一次精彩的跨界联动！它保留了 Fiddlebops 令人上瘾的音乐创作核心，但将所有原创角色换成了标志性的
+  Sprunki 团队。
+iframeSrc: 'https://turbowarp.org/1114551059/embed'
 thumbnail: /new-images/thumbnails/fiddlebops-sprunkbop.png
-score: "4.1/5  (308 votes)"
-tags: ["fiddlebops sprunkbop"]
-releaseDate: 2025-12-04
+urlstr: fiddlebops-sprunkbop
+tags:
+  - fiddlebops sprunkbop
+score: 4.1/5  (308 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

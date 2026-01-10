@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: battleship
 title: Battleship 배틀십
+seoTitle: Battleship 배틀십 무료 온라인 플레이 | FiddleBops
 description: '배틀십 완전 공략: 함대를 비밀리에 배치하고 논리적인 포격 패턴으로 상대 함선을 모두 침몰시키세요.'
 iframeSrc: 'https://cdn.gamesnacks.com/battleship2/gameCode/index.html'
 thumbnail: /new-images/thumbnails/battleship.jpg
+urlstr: battleship
 tags:
   - strategy
   - casual

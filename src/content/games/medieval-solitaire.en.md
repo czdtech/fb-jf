@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Medieval Solitaire"
-description: "Journey back in time with Medieval Solitaire, a classic Klondike card game with a medieval theme. Build your foundations from Ace to King and clear the tableau in this strategic puzzle."
-iframeSrc: "https://7se96a0j4qu80.h5games.usercontent.goog/v/1iv1d4soimc78/"
+title: Medieval Solitaire
+seoTitle: Play Medieval Solitaire Online Free | FiddleBops
+description: >-
+  Journey back in time with Medieval Solitaire, a classic Klondike card game
+  with a medieval theme. Build your foundations from Ace to King and clear the
+  tableau in this strategic puzzle.
+iframeSrc: 'https://7se96a0j4qu80.h5games.usercontent.goog/v/1iv1d4soimc78/'
 thumbnail: /new-images/thumbnails/medieval-solitaire.png
-urlstr: "medieval-solitaire"
-score: "4.4/5  (1560 votes)"
-tags: ["card", "puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: medieval-solitaire
+tags:
+  - card
+  - puzzle
+  - casual
+score: 4.4/5  (1560 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: funny-shooter-2
 title: Funny Shooter 2
+seoTitle: Spiele Funny Shooter 2 kostenlos online | FiddleBops
 description: >-
   Funny Shooter 2 ist ein Wave-basierter FPS: Ballere skurrile Gegner mit einem
   wachsenden Waffenarsenal weg, sammle Coins und verbessere deine Ausrüstung
   zwischen den Runden.
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter-2/'
 thumbnail: /new-images/thumbnails/funny-shooter-2.jpg
+urlstr: funny-shooter-2
 tags:
   - shooting
   - fps

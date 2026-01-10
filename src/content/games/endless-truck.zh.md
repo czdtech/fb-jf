@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: endless-truck
 title: Endless Truck 无尽卡车特技
+seoTitle: 免费在线玩 Endless Truck 无尽卡车特技 | FiddleBops
 description: Endless Truck 是一款横版特技跑酷游戏，你要控制卡车的速度与着陆角度， 在坡道与斜坡之间做出流畅动作、串起加速，同时收集金钱与升级。
 iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
 thumbnail: /new-images/thumbnails/endless-truck.png
+urlstr: endless-truck
 tags:
   - car
   - driving

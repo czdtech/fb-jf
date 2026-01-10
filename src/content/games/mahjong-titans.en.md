@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Mahjong Titans"
-description: "Tile‑matching solitaire: clear pairs of identical tiles from layered layouts until the board is empty; plan around blocks." 
-iframeSrc: "https://ad-freegames.github.io/flash/game/mahjong-titans.html"
+title: Mahjong Titans
+seoTitle: Play Mahjong Titans Online Free | FiddleBops
+description: >-
+  Tile‑matching solitaire: clear pairs of identical tiles from layered layouts
+  until the board is empty; plan around blocks.
+iframeSrc: 'https://ad-freegames.github.io/flash/game/mahjong-titans.html'
 thumbnail: /new-images/thumbnails/mahjong-titans.jpg
-urlstr: "mahjong-titans"
-score: "4.0/5  (628 votes)"
-tags: ["puzzle", "mahjong"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: mahjong-titans
+tags:
+  - puzzle
+  - mahjong
+score: 4.0/5  (628 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

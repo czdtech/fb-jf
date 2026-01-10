@@ -1,17 +1,18 @@
 ---
 locale: fr
-urlstr: swap-sprunkgerny
-title: Swap Sprunkgerny - Jouer à Swap Sprunkgerny en ligne
+title: Swap Sprunkgerny
+seoTitle: Jouez à Swap Sprunkgerny en ligne gratuitement | FiddleBops
 description: >-
   Swap Sprunkgerny est un Mod musical où tu fais glisser des créatures colorées
   sur la scène pour leur faire jouer des boucles et composer ton propre morceau.
 iframeSrc: 'https://turbowarp.org/1141050651/embed'
 thumbnail: /new-images/thumbnails/swap-sprunkgerny.png
+urlstr: swap-sprunkgerny
 tags:
   - swap sprunkgerny
   - swap sprunkgerny online
 score: 4.9/5  (724 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:tips -->

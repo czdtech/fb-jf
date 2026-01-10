@@ -1,18 +1,19 @@
 ---
 locale: de
-urlstr: incredibox-yellow-colorbox
-title: "Incredibox Yellow Colorbox - Play Incredibox Yellow Colorbox Online"
+title: Incredibox Yellow Colorbox
+seoTitle: Spiele Incredibox Yellow Colorbox kostenlos online | FiddleBops
 description: >-
   Incredibox Yellow Colorbox ist ein von Fans erstellter Mod. Alle Charaktere
   sind in auffälligem Gelb gehalten und bringen ihren ganz eigenen,
   unverwechselbaren Sound mit – perfekt zum freien Kombinieren.
 iframeSrc: 'https://www.minijuegos.com/embed/incredibox-yellow-colorbox'
 thumbnail: /new-images/thumbnails/incredibox-yellow-colorbox.png
+urlstr: incredibox-yellow-colorbox
 tags:
   - incredibox yellow colorbox
   - incredibox yellow colorbox online
 score: 4.5/5  (614 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

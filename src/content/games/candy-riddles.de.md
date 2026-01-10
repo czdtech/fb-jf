@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: candy-riddles
-title: "Candy Riddles"
+title: Candy Riddles
+seoTitle: Spiele Candy Riddles kostenlos online | FiddleBops
 description: >-
-  Candy Riddles ist ein fröhliches Match-3-Spiel – tausche Süßigkeiten,
-  löse Kombos aus und erfülle Levelziele mit cleveren Kettenreaktionen.
+  Candy Riddles ist ein fröhliches Match-3-Spiel – tausche Süßigkeiten, löse
+  Kombos aus und erfülle Levelziele mit cleveren Kettenreaktionen.
 iframeSrc: 'https://7vciensnt6ei8.h5games.usercontent.goog/v/0lsk1qj66dbno/'
 thumbnail: /new-images/thumbnails/candy-riddles.png
+urlstr: candy-riddles
 tags:
   - puzzle
   - casual

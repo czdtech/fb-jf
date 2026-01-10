@@ -1,13 +1,13 @@
 ---
 locale: zh
-urlstr: wheely
-title: 'Wheely：小红车的解谜大冒险'
+title: Wheely：小红车的解谜大冒险
+seoTitle: 免费在线玩 Wheely：小红车的解谜大冒险 | FiddleBops
 description: >-
-  跟着可爱的小红车 Wheely 一起踏上点击解谜之旅！
-  通过操作场景中的机关与物体，帮助 Wheely 躲避障碍、通过关卡，
+  跟着可爱的小红车 Wheely 一起踏上点击解谜之旅！ 通过操作场景中的机关与物体，帮助 Wheely 躲避障碍、通过关卡，
   在充满童话感的世界里完成一段段温馨的小冒险。
 iframeSrc: 'https://www.friv.com/z/games/wheely/index-x.html'
 thumbnail: /new-images/thumbnails/wheely.jpg
+urlstr: wheely
 tags:
   - puzzle
   - adventure

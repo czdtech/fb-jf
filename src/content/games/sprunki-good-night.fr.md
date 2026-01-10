@@ -1,17 +1,18 @@
 ---
 locale: fr
-urlstr: sprunki-good-night
-title: Sprunki Good Night - Jouer à Sprunki Good Night en ligne
+title: Sprunki Good Night
+seoTitle: Jouez à Sprunki Good Night en ligne gratuitement | FiddleBops
 description: >-
   Sprunki Good Night est un Mod apaisant conçu pour t’aider à te détendre après
   une journée chargée. Crée des berceuses douces et des ambiances nocturnes
   relaxantes pour t’accompagner vers le sommeil.
 iframeSrc: 'https://turbowarp.org/1178264025/embed'
 thumbnail: /new-images/thumbnails/sprunki-good-night.png
-score: 4.2/5  (227 votes)
+urlstr: sprunki-good-night
 tags:
   - sprunki good night
-releaseDate: 2025-12-04
+score: 4.2/5  (227 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Comment créer dans Sprunki Good Night ?

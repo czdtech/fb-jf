@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Pixel Shooter"
-description: "Pixel Shooter is a retro-style pixel art shooting game where players control a character to battle hordes of enemies across various levels, collecting power-ups and upgrading weapons to survive."
-iframeSrc: "https://a.onlineigry.net/games3/igra-piksel-shuter/index.htm"
+title: Pixel Shooter
+seoTitle: Play Pixel Shooter Online Free | FiddleBops
+description: >-
+  Pixel Shooter is a retro-style pixel art shooting game where players control a
+  character to battle hordes of enemies across various levels, collecting
+  power-ups and upgrading weapons to survive.
+iframeSrc: 'https://a.onlineigry.net/games3/igra-piksel-shuter/index.htm'
 thumbnail: /new-images/thumbnails/pixel-shooter.jpg
-urlstr: "pixel-shooter"
-score: "3.9/5  (682 votes)"
-tags: ["shooting", "pixel art", "action"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: pixel-shooter
+tags:
+  - shooting
+  - pixel art
+  - action
+score: 3.9/5  (682 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

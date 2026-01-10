@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: yohoho-io
-title: YoHoHo.io - Batalla real de piratas
+title: YoHoHo.io
+seoTitle: Juega a YoHoHo.io en línea gratis | FiddleBops
 description: >-
   Zarpa hacia la aventura en YoHoHo.io, un frenético battle royale pirata. Haz
   crecer a tu corsario recogiendo oro, derriba a rivales más pequeños y
@@ -9,6 +9,7 @@ description: >-
   embestidas.
 iframeSrc: 'https://bitlifeonline.github.io/class16523/yohoho-io/'
 thumbnail: /new-images/thumbnails/yohoho-io.jpg
+urlstr: yohoho-io
 tags:
   - io-game
   - battle-royale

@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Pac-Man
+seoTitle: 無料でPac-Manをオンラインでプレイ | FiddleBops
 description: クラシックなPac-Manをプレイします。ドットを食べて迷路を進み、ゴーストを避けながら次の面を目指します。
 iframeSrc: 'https://bward2.github.io/pacman-js/'
 thumbnail: /new-images/thumbnails/pac-man.jpg
 urlstr: pac-man
-score: 5.0/5  (1241 votes)
 tags:
   - action
   - casual
   - arcade
+score: 5.0/5  (1241 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

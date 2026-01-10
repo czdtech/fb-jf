@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: tap-tap-shots
-title: Tap Tap Shots - Tiros de baloncesto a un toque
+title: Tap Tap Shots
+seoTitle: Juega a Tap Tap Shots en línea gratis | FiddleBops
 description: >-
   Pon a prueba tu ritmo y tu precisión en Tap Tap Shots, un adictivo juego de
   baloncesto de un solo toque. Haz botar la pelota con cada toque y encadena
@@ -9,6 +9,7 @@ description: >-
   tiros limpios y prende fuego al balón para conseguir puntuaciones récord.
 iframeSrc: 'https://ubg77.github.io/game131022/tap-tap-shots/'
 thumbnail: /new-images/thumbnails/tap-tap-shots.jpg
+urlstr: tap-tap-shots
 tags:
   - sports
   - arcade

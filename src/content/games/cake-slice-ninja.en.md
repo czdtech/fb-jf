@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Cake Slice Ninja"
-description: "Cake Slice Ninja is a sweet slicing rush — swipe clean cuts, chain combos, and avoid hazards for high scores."
-iframeSrc: "https://cakesliceninja.h5games.usercontent.goog/v/5bh2c88k8pku8/"
+title: Cake Slice Ninja
+seoTitle: Play Cake Slice Ninja Online Free | FiddleBops
+description: >-
+  Cake Slice Ninja is a sweet slicing rush — swipe clean cuts, chain combos, and
+  avoid hazards for high scores.
+iframeSrc: 'https://cakesliceninja.h5games.usercontent.goog/v/5bh2c88k8pku8/'
 thumbnail: /new-images/thumbnails/cake-slice-ninja.jpeg
-urlstr: "cake-slice-ninja"
-score: "4.2/5  (1931 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: cake-slice-ninja
+tags:
+  - action
+  - casual
+score: 4.2/5  (1931 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

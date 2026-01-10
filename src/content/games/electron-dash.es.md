@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: electron-dash
 title: Electron Dash
+seoTitle: Juega a Electron Dash en línea gratis | FiddleBops
 description: >-
   Electron Dash es un corredor de túnel ultrarrápido: salta, haz un impulso
   rápido y cae sobre plataformas giratorias para sobrevivir el máximo tiempo
   posible.
 iframeSrc: 'https://slope-game.github.io/electron-dash/'
 thumbnail: /new-images/thumbnails/electron-dash.jpg
+urlstr: electron-dash
 tags:
   - arcade
   - runner

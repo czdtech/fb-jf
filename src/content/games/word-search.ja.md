@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Word Search
+seoTitle: 無料でWord Searchをオンラインでプレイ | FiddleBops
 description: Word Searchは、クラシックな単語検索パズルゲームです。グリッドから隠された単語を見つけましょう。
 iframeSrc: 'https://cdn.gamesnacks.com/wordsearch1/gameCode/index.html'
 thumbnail: /new-images/thumbnails/word-search.jpg
 urlstr: word-search
-score: 3.8/5  (1143 votes)
 tags:
   - puzzle
   - word
   - classic
-locale: ja
+score: 3.8/5  (1143 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

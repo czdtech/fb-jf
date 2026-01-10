@@ -1,11 +1,12 @@
 ---
 locale: fr
-urlstr: pets-rush
 title: Pets Rush
+seoTitle: Jouez à Pets Rush en ligne gratuitement | FiddleBops
 description: "Pets Rush est un match‑3 nerveux\_: échange des animaux trop mignons pour former des lignes, déclencher des combos et empêcher le mur de blocs d'atteindre le haut de l'écran."
 iframeSrc: >-
   https://petsrush2.h5games.usercontent.goog/v/e566fdbf-c420-4ec6-af2a-7e9a6edab856/
 thumbnail: /new-images/thumbnails/pets-rush.jpg
+urlstr: pets-rush
 tags:
   - puzzle
   - casual

@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Cookie Clicker クッキークリッカー
+seoTitle: 無料でCookie Clicker クッキークリッカーをオンラインでプレイ | FiddleBops
 description: 「Cookie Clicker」は、元祖にして至高の放置ゲーム。クッキーを焼き、おばあちゃんを雇い、宇宙すらクッキーに変えていく、中毒性抜群のクリッカー。
 iframeSrc: 'https://freeonlinegames.github.io/cookie-clicker/'
 thumbnail: /new-images/thumbnails/cookie-clicker.jpg
 urlstr: cookie-clicker
-score: 4.6/5  (1437 votes)
 tags:
   - clicker
   - idle
   - casual
+score: 4.6/5  (1437 votes)
 developer: Orteil
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

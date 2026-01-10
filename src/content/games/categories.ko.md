@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: categories
 title: Categories 카테고리즈
+seoTitle: Categories 카테고리즈 무료 온라인 플레이 | FiddleBops
 description: >-
   Categories는 제시된 단어·아이템들을 공통 주제별로 묶어 나가는 분류 퍼즐 게임입니다. 제한 시간 안에 공통점을 찾아 그룹을 만들고,
   헷갈리는 미끼 단어를 가려 내 보세요.
 iframeSrc: 'https://1ssgr48qrfod0.h5games.usercontent.goog/v/20nv9be906iho/'
 thumbnail: /new-images/thumbnails/categories.png
+urlstr: categories
 tags:
   - thinky
   - puzzle

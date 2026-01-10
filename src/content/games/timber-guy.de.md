@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: timber-guy
 title: Timber Guy
+seoTitle: Spiele Timber Guy kostenlos online | FiddleBops
 description: >-
   Timber Guy ist ein schnelles Hack‑Arcade‑Spiel: Fäll den Baum, weiche Ästen
   aus und sammle Schlag um Schlag für einen neuen Highscore.
 iframeSrc: 'https://timberguy.h5games.usercontent.goog/v/2ke6osh59ras0/'
 thumbnail: /new-images/thumbnails/timber-guy.png
+urlstr: timber-guy
 tags:
   - action
   - casual

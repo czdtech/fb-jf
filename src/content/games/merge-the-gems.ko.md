@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: merge-the-gems
 title: Merge the Gems 머지 젬
+seoTitle: Merge the Gems 머지 젬 무료 온라인 플레이 | FiddleBops
 description: >-
   Merge the Gems는 같은 보석을 합쳐 더 가치 있는 보석으로 업그레이드하고, 보드를 관리해 도전 과제를 완수하며 모든 보석을
   수집하는 머지 퍼즐 게임입니다.
 iframeSrc: 'https://mergethegems.h5games.usercontent.goog/v/5rut2fhhuqb1g/'
 thumbnail: /new-images/thumbnails/merge-the-gems.jpg
+urlstr: merge-the-gems
 tags:
   - puzzle
   - casual

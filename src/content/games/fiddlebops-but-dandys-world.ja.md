@@ -1,13 +1,15 @@
 ---
-title: "Fiddlebops But Dandy's World - Fiddlebops But Dandy's Worldをオンラインでプレイ"
-description: "Fiddlebops But Dandy's Worldは、音楽制作とDandy's Worldの世界観を組み合わせたファン製Modです。"
-iframeSrc: "https://turbowarp.org/1114551059/embed"
-thumbnail: /new-images/thumbnails/fiddlebops-but-dandys-world.png
-urlstr: "fiddlebops-but-dandys-world"
-score: "4.6/5  (27 votes)"
-tags: ["fiddlebops but dandy"]
 locale: ja
-releaseDate: 2025-12-04
+title: Fiddlebops But Dandy's World
+seoTitle: 無料でFiddlebops But Dandy's Worldをオンラインでプレイ | FiddleBops
+description: Fiddlebops But Dandy's Worldは、音楽制作とDandy's Worldの世界観を組み合わせたファン製Modです。
+iframeSrc: 'https://turbowarp.org/1114551059/embed'
+thumbnail: /new-images/thumbnails/fiddlebops-but-dandys-world.png
+urlstr: fiddlebops-but-dandys-world
+tags:
+  - fiddlebops but dandy
+score: 4.6/5  (27 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

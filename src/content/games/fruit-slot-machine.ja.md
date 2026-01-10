@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Fruit Slot Machine
+seoTitle: 無料でFruit Slot Machineをオンラインでプレイ | FiddleBops
 description: Fruit Slot Machineはクラシックな3リールです。責任を持ってスピンし、ペイラインを学び、過剰なベットをせずにフィーチャーを追いかけましょう。
 iframeSrc: 'https://7f8j0t3m1ptv8.h5games.usercontent.goog/v/33cv74na0lvqg/'
 thumbnail: /new-images/thumbnails/fruit-slot-machine.jpg
 urlstr: fruit-slot-machine
-score: 3.6/5  (1527 votes)
 tags:
   - casual
+score: 3.6/5  (1527 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

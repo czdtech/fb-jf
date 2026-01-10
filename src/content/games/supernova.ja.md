@@ -1,13 +1,17 @@
 ---
-title: "Supernova"
-description: "Supernovaは、宇宙をテーマにした戦略ゲームです。銀河を探索し、資源を管理し、帝国を構築しましょう。"
-iframeSrc: "https://rebemanae.github.io/supernova/"
-thumbnail: /new-images/thumbnails/supernova.jpg
-urlstr: "supernova"
-score: "4.5/5  (915 votes)"
-tags: ["strategy", "space", "simulation"]
 locale: ja
-releaseDate: 2025-08-16
+title: Supernova
+seoTitle: 無料でSupernovaをオンラインでプレイ | FiddleBops
+description: Supernovaは、宇宙をテーマにした戦略ゲームです。銀河を探索し、資源を管理し、帝国を構築しましょう。
+iframeSrc: 'https://rebemanae.github.io/supernova/'
+thumbnail: /new-images/thumbnails/supernova.jpg
+urlstr: supernova
+tags:
+  - strategy
+  - space
+  - simulation
+score: 4.5/5  (915 votes)
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

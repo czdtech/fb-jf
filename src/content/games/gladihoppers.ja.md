@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Gladihoppers
+seoTitle: 無料でGladihoppersをオンラインでプレイ | FiddleBops
 description: 物理ホップを取り入れた2D剣闘士アクション：装備をカスタマイズし、突きやパリィのタイミングを計り、決闘やモードを通じてアリーナを勝ち上がりましょう。
 iframeSrc: 'https://m.igroutka.ru/g-1/113/Gladihoppers/'
 thumbnail: /new-images/thumbnails/gladihoppers.jpg
 urlstr: gladihoppers
-score: 3.7/5  (383 votes)
 tags:
   - fighting
   - action
+score: 3.7/5  (383 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

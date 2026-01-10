@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: table-tennis
 title: Table Tennis
+seoTitle: Juega a Table Tennis en línea gratis | FiddleBops
 description: >-
   Domina la pala en este clásico juego de tenis de mesa. Enfréntate a la IA,
   suma puntos y conviértete en campeón virtual de ping‑pong con buena
   sincronización y reflejos rápidos.
 iframeSrc: 'https://tabletennis.h5games.usercontent.goog/v/4eeofbe4nfj1g/'
 thumbnail: /new-images/thumbnails/table-tennis.png
+urlstr: table-tennis
 tags:
   - sports
   - 2 player

@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Thief Puzzle
+seoTitle: 無料でThief Puzzleをオンラインでプレイ | FiddleBops
 description: Thief Puzzleは、泥棒をテーマにしたパズルゲームです。伸びる腕を使ってアイテムを盗みましょう。
 iframeSrc: 'https://5mubkj30k8998.h5games.usercontent.goog/v/79n1cktk92370/'
 thumbnail: /new-images/thumbnails/thief-puzzle.png
 urlstr: thief-puzzle
-score: 4.0/5  (1876 votes)
 tags:
   - puzzle
   - strategy
   - casual
-locale: ja
+score: 4.0/5  (1876 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

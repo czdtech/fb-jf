@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: iron-snout
 title: Iron Snout
+seoTitle: Juega a Iron Snout en línea gratis | FiddleBops
 description: >-
   Beat 'em up de cerdito kung‑fú: desvía los ataques de los lobos, encadena
   patadas y devuélveles sus armas para sobrevivir a oleadas y batir récords.
 iframeSrc: 'https://webglmath.github.io/iron-snout/'
 thumbnail: /new-images/thumbnails/iron-snout.jpg
+urlstr: iron-snout
 tags:
   - fighting
   - arcade

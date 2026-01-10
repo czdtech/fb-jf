@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Jewel Magic
+seoTitle: 無料でJewel Magicをオンラインでプレイ | FiddleBops
 description: 宝石を入れ替えてそろえるクラシックなマッチ3パズルです。特殊宝石や連鎖を使って、各レベルの目標を達成します。
 iframeSrc: 'https://jewelmagic.h5games.usercontent.goog/v/55vd8l21hn1q8/'
 thumbnail: /new-images/thumbnails/jewel-magic.png
 urlstr: jewel-magic
-score: 4.4/5  (2150 votes)
 tags:
   - puzzle
   - casual
   - action
+score: 4.4/5  (2150 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

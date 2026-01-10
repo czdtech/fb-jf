@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Shooter
+seoTitle: 無料でShooterをオンラインでプレイ | FiddleBops
 description: Shooterはアクションシューターです。敵の波をしのぎ、武器を強化しながら生き残りを目指します。
 iframeSrc: 'https://bitlifeonline.github.io/fnaf-shooter/'
 thumbnail: /new-images/thumbnails/shooter.jpg
 urlstr: shooter
-score: 4.1/5  (805 votes)
 tags:
   - action
   - shooter
+score: 4.1/5  (805 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: gin-rummy
 title: Gin Rummy 金拉密牌
+seoTitle: 免费在线玩 Gin Rummy 金拉密牌 | FiddleBops
 description: 线上体验经典桌游 Gin Rummy：将手牌组成刻子与顺子，在手中剩余「废牌」点数足够低时敲牌结束回合， 试着在对手手里留下高分死牌。
 iframeSrc: 'https://ginrummy.h5games.usercontent.goog/v/1sj72j2nsfin0/'
 thumbnail: /new-images/thumbnails/gin-rummy.png
+urlstr: gin-rummy
 tags:
   - card
   - puzzle

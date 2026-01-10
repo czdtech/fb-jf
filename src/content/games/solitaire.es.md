@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: solitaire
 title: Solitaire
+seoTitle: Juega a Solitaire en línea gratis | FiddleBops
 description: >-
   Solitaire es el clásico juego de cartas para un solo jugador en el que ordenas
   cartas en secuencias y palos concretos, intentando moverlas todas a las pilas
   de fundación y limpiar el tablero en este puzle atemporal.
 iframeSrc: 'https://www.edogan.us/solitaire-js/'
 thumbnail: /new-images/thumbnails/solitaire.jpg
+urlstr: solitaire
 tags:
   - card game
   - classic

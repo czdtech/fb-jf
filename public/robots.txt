@@ -1,21 +1,19 @@
 User-agent: *
 Allow: /
-Disallow: https://www.playfiddlebops.com/Swap%20Sprunkgerny/
-Disallow: https://www.playfiddlebops.com/blog
-Disallow: https://www.playfiddlebops.com/de/terms-of-service
-Disallow: https://www.playfiddlebops.com/ja/terms-of-service
-Disallow: https://www.playfiddlebops.com/ko/terms-of-service
-Disallow: https://www.playfiddlebops.com/es/terms-of-service
-Disallow: https://www.playfiddlebops.com/fr/terms-of-service
-Disallow: https://www.playfiddlebops.com/zh/terms-of-service
-Disallow: https://www.playfiddlebops.com/de/privacy
-Disallow: https://www.playfiddlebops.com/es/privacy
-Disallow: https://www.playfiddlebops.com/ja/privacy
-Disallow: https://www.playfiddlebops.com/ko/privacy
-Disallow: https://www.playfiddlebops.com/fr/privacy
-Disallow: https://www.playfiddlebops.com/zh/privacy
-Disallow: https://www.playfiddlebops.com/share
-
-
+Disallow: /Swap%20Sprunkgerny/
+Disallow: /blog
+Disallow: /de/terms-of-service
+Disallow: /ja/terms-of-service
+Disallow: /ko/terms-of-service
+Disallow: /es/terms-of-service
+Disallow: /fr/terms-of-service
+Disallow: /zh/terms-of-service
+Disallow: /de/privacy
+Disallow: /es/privacy
+Disallow: /ja/privacy
+Disallow: /ko/privacy
+Disallow: /fr/privacy
+Disallow: /zh/privacy
+Disallow: /share
 
 Sitemap: https://www.playfiddlebops.com/sitemap.xml

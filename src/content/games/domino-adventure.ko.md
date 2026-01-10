@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: domino-adventure
 title: Domino Adventure 도미노 어드벤처
+seoTitle: Domino Adventure 도미노 어드벤처 무료 온라인 플레이 | FiddleBops
 description: >-
   Domino Adventure는 고전 보드게임 도미노를 디지털로 즐길 수 있는 게임입니다. 손패의 타일을 끝까지 잘 관리해 가장 먼저 모든
   도미노를 내려놓고, Block/Draw 두 모드에서 점수를 유리하게 가져가는 전략을 익혀 보세요.
 iframeSrc: 'https://28vlnkkhq8gjg.h5games.usercontent.goog/v/4mi9k9oin4dn8/'
 thumbnail: /new-images/thumbnails/domino-adventure.png
+urlstr: domino-adventure
 tags:
   - puzzle
   - strategy

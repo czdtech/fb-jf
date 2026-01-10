@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Stickman Fighter Mega
+seoTitle: 無料でStickman Fighter Megaをオンラインでプレイ | FiddleBops
 description: Stickman Fighter Megaは、壮大なスティックマン戦闘アクションゲームです。強力な技と武器で相手を倒しましょう。
 iframeSrc: 'https://0f2fr1ttejsng.h5games.usercontent.goog/v/6dfsqbbtglo48/'
 thumbnail: /new-images/thumbnails/stickman-fighter-mega.jpg
 urlstr: stickman-fighter-mega
-score: 4.1/5  (1975 votes)
 tags:
   - action
   - fighting
   - stickman
-locale: ja
+score: 4.1/5  (1975 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

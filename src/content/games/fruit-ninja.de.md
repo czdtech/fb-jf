@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: fruit-ninja
 title: Fruit Ninja
+seoTitle: Spiele Fruit Ninja kostenlos online | FiddleBops
 description: >-
   Fruit Ninja ist ein Arcade-Slicer: Wische durch fliegende Früchte, weiche
   Bomben aus und kette Kombos und Frenzy-Boni für hohe Scores.
 iframeSrc: 'https://emulatoros.github.io/gfile/fruitninja/'
 thumbnail: /new-images/thumbnails/fruit-ninja.jpg
+urlstr: fruit-ninja
 tags:
   - arcade
   - action

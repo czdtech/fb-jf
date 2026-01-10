@@ -1,10 +1,14 @@
 ---
 locale: fr
-urlstr: happy-wheels
-title: "Happy Wheels"
-description: "Guide complet de Happy Wheels, le platformer physique culte : découvre les bases, des stratégies de survie, les commandes et une FAQ pour traverser les niveaux mortels créés par la communauté."
+title: Happy Wheels
+seoTitle: Jouez à Happy Wheels en ligne gratuitement | FiddleBops
+description: >-
+  Guide complet de Happy Wheels, le platformer physique culte : découvre les
+  bases, des stratégies de survie, les commandes et une FAQ pour traverser les
+  niveaux mortels créés par la communauté.
 iframeSrc: 'https://games-online.io/game/HappyWheels/'
 thumbnail: /new-images/thumbnails/happy-wheels.jpg
+urlstr: happy-wheels
 tags:
   - platformer
   - physics

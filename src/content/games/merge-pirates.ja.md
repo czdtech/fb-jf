@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Merge Pirates
+seoTitle: 無料でMerge Piratesをオンラインでプレイ | FiddleBops
 description: Merge Piratesは海賊テーマのマージゲームです。海賊や船をマージして強化し、島を探索してアイテムを集めます。
 iframeSrc: 'https://mergepirates.h5games.usercontent.goog/v/2rugbh8p4845g/'
 thumbnail: /new-images/thumbnails/merge-pirates.png
 urlstr: merge-pirates
-score: 4.4/5  (2400 votes)
 tags:
   - casual
   - adventure
   - thinky
+score: 4.4/5  (2400 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

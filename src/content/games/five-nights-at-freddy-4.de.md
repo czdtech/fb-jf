@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: five-nights-at-freddy-4
 title: Five Nights at Freddy's 4 (FNAF 4)
+seoTitle: Spiele Five Nights at Freddy's 4 (FNAF 4) kostenlos online | FiddleBops
 description: >-
   Schlafzimmer-Albtraum: Höre auf Atemgeräusche, kontrolliere Türen und
   Kleiderschrank und nutze deine Taschenlampe mit Bedacht, um die Nachtmonster
   fernzuhalten.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf4.html'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-4.jpg
+urlstr: five-nights-at-freddy-4
 tags:
   - horror
   - strategy

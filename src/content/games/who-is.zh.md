@@ -1,13 +1,13 @@
 ---
 locale: zh
-urlstr: who-is
-title: 'Who Is?：谁才是真相？'
+title: Who Is?：谁才是真相？
+seoTitle: 免费在线玩 Who Is?：谁才是真相？ | FiddleBops
 description: >-
-  在《Who Is?》中测试你的推理与观察力！
-  通过阅读提示、寻找线索、揭穿冒名顶替者或解开古怪谜题，
+  在《Who Is?》中测试你的推理与观察力！ 通过阅读提示、寻找线索、揭穿冒名顶替者或解开古怪谜题，
   在上百个场景中一步步接近真相，是一款充满脑洞的益智解谜游戏。
 iframeSrc: 'https://rebemanae.github.io/who-is/'
 thumbnail: /new-images/thumbnails/who-is.jpg
+urlstr: who-is
 tags:
   - puzzle
   - riddle

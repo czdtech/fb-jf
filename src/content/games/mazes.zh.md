@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: mazes
 title: 《Mazes》经典迷宫闯关合集
+seoTitle: 免费在线玩 《Mazes》经典迷宫闯关合集 | FiddleBops
 description: 《Mazes》是一款经典迷宫闯关游戏，包含从简单网格到机关重重的多种关卡，你需要规划最优路径，躲开陷阱，并在限定时间内冲向终点。
 iframeSrc: 'https://1ivu76rhffpsg.h5games.usercontent.goog/v/00icu4vi09j18/'
 thumbnail: /new-images/thumbnails/mazes.jpg
+urlstr: mazes
 tags:
   - puzzle
   - thinky

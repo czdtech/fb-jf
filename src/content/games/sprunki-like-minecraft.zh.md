@@ -1,14 +1,17 @@
 ---
-locale: "zh"
-urlstr: "sprunki-like-minecraft"
-
-title: "Sprunki Like Minecraft - 在线玩 Sprunki Like Minecraft"
-description: "你既是 Incredibox Sprunki 的忠实粉丝，又是 Minecraft 像素世界的狂热爱好者？那么 Sprunki Like Minecraft Mod 绝对会让你眼前一亮！"
-iframeSrc: "https://turbowarp.org/1095572358/embed"
+locale: zh
+title: Sprunki Like Minecraft
+seoTitle: 免费在线玩 Sprunki Like Minecraft | FiddleBops
+description: >-
+  你既是 Incredibox Sprunki 的忠实粉丝，又是 Minecraft 像素世界的狂热爱好者？那么 Sprunki Like Minecraft
+  Mod 绝对会让你眼前一亮！
+iframeSrc: 'https://turbowarp.org/1095572358/embed'
 thumbnail: /new-images/thumbnails/sprunki-like-minecraft.png
-score: "4.6/5  (601 votes)"
-tags: ["sprunki like minecraft"]
-releaseDate: 2025-12-04
+urlstr: sprunki-like-minecraft
+tags:
+  - sprunki like minecraft
+score: 4.6/5  (601 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

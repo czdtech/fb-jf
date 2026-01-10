@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: incredibox-instrumentalist
 title: Incredibox Instrumentalist 악기 오케스트라 모드
+seoTitle: Incredibox Instrumentalist 악기 오케스트라 모드 무료 온라인 플레이 | FiddleBops
 description: >-
   무대 위에 악기를 직접 소환해 세계 각국의 악기로 오케스트라를 구성하는 팬메이드 모드 'Incredibox Instrumentalist'
   가이드입니다. 순수 기악 사운드로 풍부한 합주를 만드는 방법을 다룹니다.
 iframeSrc: 'https://turbowarp.org/1040856097/embed'
 thumbnail: /new-images/thumbnails/incredibox-instrumentalist.png
+urlstr: incredibox-instrumentalist
 tags:
   - music
   - sandbox

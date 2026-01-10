@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: tanuki-sunset
 title: Tanuki Sunset
+seoTitle: Jouez à Tanuki Sunset en ligne gratuitement | FiddleBops
 description: >-
   Tanuki Sunset est un jeu de longboard arcade : joue un raton laveur cool et
   maitrise l'art du drift sur des montagnes synthwave sceniques.
 iframeSrc: 'https://ubg100.github.io/games/tanuki/index.html'
 thumbnail: /new-images/thumbnails/tanuki-sunset.jpg
+urlstr: tanuki-sunset
 tags:
   - arcade
   - racing

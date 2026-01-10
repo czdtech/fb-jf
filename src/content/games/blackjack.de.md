@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: blackjack
-title: "BlackJack"
+title: BlackJack
+seoTitle: Spiele BlackJack kostenlos online | FiddleBops
 description: >-
   Lerne Regeln, Grundstrategien und typische Aktionen beim Blackjack (21).
   Versuche, mit deiner Hand näher an 21 zu kommen als der Dealer, ohne dich zu
   überkaufen.
 iframeSrc: 'https://freegames.org/games/blackjack/v1/'
 thumbnail: /new-images/thumbnails/blackjack.jpg
+urlstr: blackjack
 tags:
   - casual
   - rhythm

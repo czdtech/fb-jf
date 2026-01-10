@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: air-traffic-control
-title: "Air Traffic Control"
+title: Air Traffic Control
+seoTitle: Spiele Air Traffic Control kostenlos online | FiddleBops
 description: >-
   In Air Traffic Control koordinierst du den Luftraum in Echtzeit. Weise
   Flugzeugen sichere Vektoren zu, verhindere Konflikte und bringe die Ankünfte
   in einem gleichmäßigen, sicheren Rhythmus zur Landebahn.
 iframeSrc: 'https://2nuk1jh1nvsq8.h5games.usercontent.goog/v/5glj0btngbu2o/'
 thumbnail: /new-images/thumbnails/air-traffic-control.png
+urlstr: air-traffic-control
 tags:
   - thinky
   - puzzle

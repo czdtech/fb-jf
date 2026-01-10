@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: monkey-mart
 title: 《Monkey Mart》猴子超市经营
+seoTitle: 免费在线玩 《Monkey Mart》猴子超市经营 | FiddleBops
 description: 《Monkey Mart》是一款轻松上瘾的经营模拟游戏，你要操控一群可爱的猴子经营超市：种地收菜、加工商品、上架补货、服务顾客，一步步把小店做大。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/gamehwq/20221216/09/index.htm
 thumbnail: /new-images/thumbnails/monkey-mart.jpg
+urlstr: monkey-mart
 tags:
   - simulation
   - management

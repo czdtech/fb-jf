@@ -1,14 +1,19 @@
 ---
-title: "Incredibox Melophobia"
-description: "Incredibox Melophobiaのガイドです。チップチューンや奇妙なサンプルを特徴とする折衷的なサウンドパレットと、ボーナス演出を見つけるためのヒントをまとめます。"
-iframeSrc: "https://turbowarp.org/1110167821/embed"
-thumbnail: /new-images/thumbnails/incredibox-melophobia.png
-urlstr: "incredibox-melophobia"
-score: "4.7/5 (1987 votes)"
-tags: ["music", "rhythm"]
-developer: ""
-releaseDate: 2025-10-10
 locale: ja
+title: Incredibox Melophobia
+seoTitle: 無料でIncredibox Melophobiaをオンラインでプレイ | FiddleBops
+description: >-
+  Incredibox
+  Melophobiaのガイドです。チップチューンや奇妙なサンプルを特徴とする折衷的なサウンドパレットと、ボーナス演出を見つけるためのヒントをまとめます。
+iframeSrc: 'https://turbowarp.org/1110167821/embed'
+thumbnail: /new-images/thumbnails/incredibox-melophobia.png
+urlstr: incredibox-melophobia
+tags:
+  - music
+  - rhythm
+score: 4.7/5 (1987 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

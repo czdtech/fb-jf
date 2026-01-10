@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: doodle-cricket
 title: Doodle Cricket
+seoTitle: Juega a Doodle Cricket en línea gratis | FiddleBops
 description: >-
   Doodle Cricket es un minijuego de críquet casual: ajusta la sincronización del
   golpe para sumar carreras mientras evitas que te eliminen.
 iframeSrc: 'https://f3.silvergames.com/m/doodle-cricket/'
 thumbnail: /new-images/thumbnails/doodle-cricket.jpg
+urlstr: doodle-cricket
 tags:
   - sports
   - arcade

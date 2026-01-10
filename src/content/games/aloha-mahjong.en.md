@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Aloha Mahjong"
-description: "Aloha Mahjong is a relaxing tile‑match — find pairs, clear layers, and enjoy island vibes."
-iframeSrc: "https://02ef7fb7guapg.h5games.usercontent.goog/v/13knu9k9rm8go/"
+title: Aloha Mahjong
+seoTitle: Play Aloha Mahjong Online Free | FiddleBops
+description: >-
+  Aloha Mahjong is a relaxing tile‑match — find pairs, clear layers, and enjoy
+  island vibes.
+iframeSrc: 'https://02ef7fb7guapg.h5games.usercontent.goog/v/13knu9k9rm8go/'
 thumbnail: /new-images/thumbnails/aloha-mahjong.jpg
-urlstr: "aloha-mahjong"
-score: "4.1/5  (1956 votes)"
-tags: ["mahjong", "puzzle"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: aloha-mahjong
+tags:
+  - mahjong
+  - puzzle
+score: 4.1/5  (1956 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

@@ -1,13 +1,14 @@
 ---
 locale: zh
-urlstr: basket-random
 title: Basket Random 随机篮球
+seoTitle: 免费在线玩 Basket Random 随机篮球 | FiddleBops
 description: >-
   《Basket Random（随机篮球）》是一款物理引擎驱动的奇葩篮球游戏，场地、球、角色形态都会在每球得分后随机变化，主打“一键操作 + 完全拥抱混沌”的
   2 人对战体验。
 iframeSrc: >-
   https://app-197304.games.s3.yandex.net/197304/kj9rcykboy6eol5xnn250jesr7v0hoh1/index.html
 thumbnail: /new-images/thumbnails/basket-random.jpg
+urlstr: basket-random
 tags:
   - casual
   - sports

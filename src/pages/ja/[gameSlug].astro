@@ -18,11 +18,12 @@ const hreflangLinks = getGameHreflang(legacySlug);
 // Use pre-computed locale map instead of re-querying the collection
 const localizedGame = localeMap['ja'] ?? defaultGame;
 
-const { title, description, iframeSrc, tags, thumbnail, score } = localizedGame.data;
+const { title, seoTitle, description, iframeSrc, tags, thumbnail, score } = localizedGame.data;
 const { Content } = await localizedGame.render();
 ---
 <GameLayout
   title={title}
+  seoTitle={seoTitle}
   description={description}
   canonicalUrl={canonicalUrl}
   thumbnail={thumbnail}

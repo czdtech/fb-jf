@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: pirate-pop
 title: Pirate Pop
+seoTitle: Spiele Pirate Pop kostenlos online | FiddleBops
 description: >-
   Ahoi! Richte deine Kanone aus und lass die Piratenblasen platzen. Ein
   klassischer Bubble-Shooter, in dem du drei oder mehr gleichfarbige Blasen
   kombinierst, um das Feld zu räumen und den Schatz zu erbeuten.
 iframeSrc: 'https://piratepop.h5games.usercontent.goog/v/3japc2shd35ug/'
 thumbnail: /new-images/thumbnails/pirate-pop.png
+urlstr: pirate-pop
 tags:
   - shooting
   - puzzle

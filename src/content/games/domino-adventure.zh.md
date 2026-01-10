@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: domino-adventure
-title: "Domino Adventure 多米诺冒险指南"
+title: Domino Adventure 多米诺冒险指南
+seoTitle: 免费在线玩 Domino Adventure 多米诺冒险指南 | FiddleBops
 description: >-
-  《Domino Adventure 多米诺冒险指南》是经典多米诺骨牌玩法的精致数字版。本文会介绍 Block
-  / Draw 两种模式的核心规则与实用策略，帮助你通过巧妙出牌率先打光手牌赢下回合。
+  《Domino Adventure 多米诺冒险指南》是经典多米诺骨牌玩法的精致数字版。本文会介绍 Block / Draw
+  两种模式的核心规则与实用策略，帮助你通过巧妙出牌率先打光手牌赢下回合。
 iframeSrc: 'https://28vlnkkhq8gjg.h5games.usercontent.goog/v/4mi9k9oin4dn8/'
 thumbnail: /new-images/thumbnails/domino-adventure.png
+urlstr: domino-adventure
 tags:
   - puzzle
   - strategy

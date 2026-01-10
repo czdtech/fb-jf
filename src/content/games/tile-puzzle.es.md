@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: tile-puzzle
-title: Tile Puzzle - Puzle de fichas moderno
+title: Tile Puzzle
+seoTitle: Juega a Tile Puzzle en línea gratis | FiddleBops
 description: >-
   Tile Puzzle es un puzle relajante y estratégico: encuentra y selecciona tres
   fichas idénticas para eliminarlas del tablero y planifica cada jugada para no
   desbordar la bandeja de colección.
 iframeSrc: 'https://5u9qhnk84v07g.h5games.usercontent.goog/v/2h3elehja73a8/'
 thumbnail: /new-images/thumbnails/tile-puzzle.jpg
+urlstr: tile-puzzle
 tags:
   - puzzle
   - casual

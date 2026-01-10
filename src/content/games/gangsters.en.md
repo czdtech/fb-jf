@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Gangsters"
-description: "Physics ragdoll duels: two stick gangsters bounce and shoot on rooftops; time jumps and shots to knock the opponent off."
-iframeSrc: "https://app-185146.games.s3.yandex.net/185146/4mtxwijatlm9neect542qv9nbcqetm7u/index.html"
+title: Gangsters
+seoTitle: Play Gangsters Online Free | FiddleBops
+description: >-
+  Physics ragdoll duels: two stick gangsters bounce and shoot on rooftops; time
+  jumps and shots to knock the opponent off.
+iframeSrc: >-
+  https://app-185146.games.s3.yandex.net/185146/4mtxwijatlm9neect542qv9nbcqetm7u/index.html
 thumbnail: /new-images/thumbnails/gangsters.jpg
-urlstr: "gangsters"
-score: "4.4/5  (242 votes)"
-tags: ["action", "physics"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: gangsters
+tags:
+  - action
+  - physics
+score: 4.4/5  (242 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

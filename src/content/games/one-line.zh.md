@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: one-line
 title: 《One Line》一笔连线
+seoTitle: 免费在线玩 《One Line》一笔连线 | FiddleBops
 description: 《One Line》是一款极简风格的一笔画解谜游戏，你需要用一条连续的线把棋盘上的所有点依次连接起来，不能擡笔，也不能重复走过同一条路径。
 iframeSrc: 'https://g2.igroutka.ru/games/3/JLgd70b3BNafhVq5/10/igra-odna-liniya/game.html'
 thumbnail: /new-images/thumbnails/one-line.jpg
+urlstr: one-line
 tags:
   - puzzle
   - logic

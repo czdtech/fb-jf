@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: mazes
 title: Mazes
+seoTitle: Spiele Mazes kostenlos online | FiddleBops
 description: >-
   Mazes liefert klassische Labyrinthläufe: Zeichne optimale Wege, weiche Fallen
   aus und unterbiete die Vorgabezeiten mit sauberer Routenplanung.
 iframeSrc: 'https://1ivu76rhffpsg.h5games.usercontent.goog/v/00icu4vi09j18/'
 thumbnail: /new-images/thumbnails/mazes.jpg
+urlstr: mazes
 tags:
   - puzzle
   - thinky

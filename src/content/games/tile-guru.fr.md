@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: tile-guru
 title: Tile Guru
+seoTitle: Jouez à Tile Guru en ligne gratuitement | FiddleBops
 description: >-
   Tile Guru est un jeu de tuiles soigné : sélectionne des triplets, gère les
   piles et vide les plateaux sans bloquer les couloirs.
 iframeSrc: 'https://5en3tugq69tdo.h5games.usercontent.goog/v/4pu6to0p0cgrg/'
 thumbnail: /new-images/thumbnails/tile-guru.png
+urlstr: tile-guru
 tags:
   - mahjong
   - puzzle

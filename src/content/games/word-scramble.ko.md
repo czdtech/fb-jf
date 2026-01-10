@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: word-scramble
 title: Word Scramble 워드 스크램블
+seoTitle: Word Scramble 워드 스크램블 무료 온라인 플레이 | FiddleBops
 description: >-
   Word Scramble은 뒤섞인 알파벳을 다시 배열해 정답 단어를 맞히는 고전 단어 퍼즐 게임입니다. 제한 시간 안에 글자를 재배열해
   정답을 찾으며, 어휘력과 패턴 인식, 순발력을 동시에 시험해 보세요.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/word-scramble/'
 thumbnail: /new-images/thumbnails/word-scramble.jpg
+urlstr: word-scramble
 tags:
   - word-game
   - puzzle

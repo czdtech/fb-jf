@@ -1,14 +1,18 @@
 ---
 locale: fr
-urlstr: fiddlebops-polos
-title: "Fiddlebops Polos - Jouer à Fiddlebops Polos en ligne"
-description: "Fiddlebops Polos est un jeu musical créatif où tu composes des morceaux, explores des histoires interactives et échanges avec une communauté dynamique – gratuitement en ligne."
+title: Fiddlebops Polos
+seoTitle: Jouez à Fiddlebops Polos en ligne gratuitement | FiddleBops
+description: >-
+  Fiddlebops Polos est un jeu musical créatif où tu composes des morceaux,
+  explores des histoires interactives et échanges avec une communauté dynamique
+  – gratuitement en ligne.
 iframeSrc: 'https://turbowarp.org/1149630445/embed'
 thumbnail: /new-images/thumbnails/fiddlebops-polos.png
+urlstr: fiddlebops-polos
 tags:
   - fiddlebops polos
 score: 4.6/5  (217 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

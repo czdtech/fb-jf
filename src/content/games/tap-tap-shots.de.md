@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: tap-tap-shots
 title: Tap Tap Shots
+seoTitle: Spiele Tap Tap Shots kostenlos online | FiddleBops
 description: >-
   Teste Timing und Rhythmus in Tap Tap Shots: Tippe, um den Ball springen zu
   lassen, versenke möglichst viele Körbe am Stück und bring den Ball mit Clean
   Shots zum Brennen für Extrapunkte.
 iframeSrc: 'https://ubg77.github.io/game131022/tap-tap-shots/'
 thumbnail: /new-images/thumbnails/tap-tap-shots.jpg
+urlstr: tap-tap-shots
 tags:
   - sports
   - arcade

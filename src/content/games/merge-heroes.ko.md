@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: merge-heroes
 title: Merge Heroes 머지 히어로즈
+seoTitle: Merge Heroes 머지 히어로즈 무료 온라인 플레이 | FiddleBops
 description: 'Merge Heroes는 영웅을 합쳐 더 강한 부대를 만들고, 자동 전투로 몬스터 웨이브를 막아 왕국을 방어하는 머지 전략 배틀 게임입니다.'
 iframeSrc: 'https://mergeheroes.h5games.usercontent.goog/v/7i7m361ib4vr8/'
 thumbnail: /new-images/thumbnails/merge-heroes.png
+urlstr: merge-heroes
 tags:
   - strategy
   - action

@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Merge Melons"
-description: "Drop and merge fruits in this addictive puzzle game inspired by Suika Game. Combine identical fruits to create bigger ones, aiming for the giant watermelon, but don't let your container overflow!"
-iframeSrc: "https://mergemelons.h5games.usercontent.goog/v/7526h5to2d1v0/"
+title: Merge Melons
+seoTitle: Play Merge Melons Online Free | FiddleBops
+description: >-
+  Drop and merge fruits in this addictive puzzle game inspired by Suika Game.
+  Combine identical fruits to create bigger ones, aiming for the giant
+  watermelon, but don't let your container overflow!
+iframeSrc: 'https://mergemelons.h5games.usercontent.goog/v/7526h5to2d1v0/'
 thumbnail: /new-images/thumbnails/merge-melons.png
-urlstr: "merge-melons"
-score: "4.7/5  (2990 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: merge-melons
+tags:
+  - puzzle
+  - casual
+  - thinky
+score: 4.7/5  (2990 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

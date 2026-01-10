@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: the-pillar
-title: The Pillar - Aventura de puzles y escape
+title: The Pillar
+seoTitle: Juega a The Pillar en línea gratis | FiddleBops
 description: >-
   Emprende un viaje misterioso en The Pillar, un cautivador juego de puzles y
   salas de escape. Explora entornos enigmáticos, resuelve puzle intricados y
@@ -10,6 +10,7 @@ description: >-
   aventura inmersiva.
 iframeSrc: 'https://m.igroutka.ru/g-1/53/ThePillar/'
 thumbnail: /new-images/thumbnails/the-pillar.jpg
+urlstr: the-pillar
 tags:
   - puzzle
   - adventure

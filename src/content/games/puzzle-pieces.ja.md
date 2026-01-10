@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Puzzle Pieces
+seoTitle: 無料でPuzzle Piecesをオンラインでプレイ | FiddleBops
 description: Puzzle Piecesはクラシックなジグソーパズルです。ピースを配置し、画像を完成させ、リラックスしたパズルを楽しみます。
 iframeSrc: 'https://05c9vfh919cbg.h5games.usercontent.goog/v/0ki2bua5asq00/'
 thumbnail: /new-images/thumbnails/puzzle-pieces.png
 urlstr: puzzle-pieces
-score: 4.0/5  (1888 votes)
 tags:
   - puzzle
   - casual
+score: 4.0/5  (1888 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

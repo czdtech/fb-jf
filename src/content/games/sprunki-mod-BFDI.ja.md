@@ -1,13 +1,17 @@
 ---
-title: "Sprunki Mod BFDI - Play Sprunki Mod BFDI Online"
-description: "Sprunki Mod BFDI（スプランキー：ドリームアイランドの戦い）は、BFDI風の見た目を取り入れたSprunki系の音楽作成Modです。キャラクターを組み合わせて音を重ね、トラックを作れます。"
-iframeSrc: "https://turbowarp.org/1087434086/embed"
-thumbnail: /new-images/thumbnails/sprunki-mod-BFDI.png
-urlstr: "sprunki-mod-BFDI"
-score: "4.2/5  (347 votes)"
-tags: ["sprunki mod bfdi"]
 locale: ja
-releaseDate: 2025-12-04
+title: Sprunki Mod BFDI
+seoTitle: 無料でSprunki Mod BFDIをオンラインでプレイ | FiddleBops
+description: >-
+  Sprunki Mod
+  BFDI（スプランキー：ドリームアイランドの戦い）は、BFDI風の見た目を取り入れたSprunki系の音楽作成Modです。キャラクターを組み合わせて音を重ね、トラックを作れます。
+iframeSrc: 'https://turbowarp.org/1087434086/embed'
+thumbnail: /new-images/thumbnails/sprunki-mod-BFDI.png
+urlstr: sprunki-mod-BFDI
+tags:
+  - sprunki mod bfdi
+score: 4.2/5  (347 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Mod BFDIとは何ですか？

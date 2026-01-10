@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: super-smash-flash-2-v09
 title: Super Smash Flash 2 v0.9
+seoTitle: Spiele Super Smash Flash 2 v0.9 kostenlos online | FiddleBops
 description: >-
   Spiele eine aktualisierte Demo von Super Smash Flash 2: einem epischen
   Fan-Fighter mit großem Roster, technischen Kämpfen und ikonischen Stages im
   Smash‑Stil.
 iframeSrc: 'https://kdata1.com/games/SSF9_2011/?kbhgames'
 thumbnail: /new-images/thumbnails/super-smash-flash-2-v09.jpg
+urlstr: super-smash-flash-2-v09
 tags:
   - fighting
   - platformer

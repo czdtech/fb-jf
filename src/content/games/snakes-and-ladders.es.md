@@ -1,14 +1,15 @@
 ---
 locale: es
-urlstr: snakes-and-ladders
-title: "Snakes And Ladders"
+title: Snakes And Ladders
+seoTitle: Juega a Snakes And Ladders en línea gratis | FiddleBops
 description: >-
   Juega a Snakes and Ladders, el clásico juego de mesa de pura suerte. Lanza el
   dado, sube por las escaleras para avanzar y cuidado con las serpientes que te
   harán retroceder. Sé el primero en llegar a la casilla final para ganar este
   juego familiar de toda la vida.
-iframeSrc: "https://cdn.gamesnacks.com/snakesandladders/gameCode/index.html"
+iframeSrc: 'https://cdn.gamesnacks.com/snakesandladders/gameCode/index.html'
 thumbnail: /new-images/thumbnails/snakes-and-ladders.jpg
+urlstr: snakes-and-ladders
 tags:
   - board-game
   - classic

@@ -1,14 +1,22 @@
 ---
 locale: en
-title: "Cards of the Undead"
-description: "A turn-based strategy card game of survival. Move your hero across the board, battle zombies, and collect coins and power-ups. Manage your health and armor to survive as long as you can!"
-iframeSrc: "https://4afojpng981kg.h5games.usercontent.goog/v/1ge6qnd6h4ss0/"
+title: Cards of the Undead
+seoTitle: Play Cards of the Undead Online Free | FiddleBops
+description: >-
+  A turn-based strategy card game of survival. Move your hero across the board,
+  battle zombies, and collect coins and power-ups. Manage your health and armor
+  to survive as long as you can!
+iframeSrc: 'https://4afojpng981kg.h5games.usercontent.goog/v/1ge6qnd6h4ss0/'
 thumbnail: /new-images/thumbnails/cards-of-the-undead.png
-urlstr: "cards-of-the-undead"
-score: "4.3/5  (2250 votes)"
-tags: ["card", "strategy", "puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: cards-of-the-undead
+tags:
+  - card
+  - strategy
+  - puzzle
+  - thinky
+score: 4.3/5  (2250 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

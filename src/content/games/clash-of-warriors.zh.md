@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: clash-of-warriors
 title: Clash of Warriors 战士冲突
+seoTitle: 免费在线玩 Clash of Warriors 战士冲突 | FiddleBops
 description: >-
   《Clash of Warriors 战士冲突》是一款节奏紧凑的卡牌对战游戏。合理规划费用曲线、进
   行高效交换，读懂对手意图，在短时间内打出极具策略性的精彩对局。
 iframeSrc: 'https://7t89fh6irdv0g.h5games.usercontent.goog/v/5gpd6kf06hr8g/'
 thumbnail: /new-images/thumbnails/clash-of-warriors.png
+urlstr: clash-of-warriors
 tags:
   - card
   - thinky

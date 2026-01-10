@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: sprunki-like-minecraft
-title: Sprunki Like Minecraft - Sprunki Like Minecraft online spielen
+title: Sprunki Like Minecraft
+seoTitle: Spiele Sprunki Like Minecraft kostenlos online | FiddleBops
 description: >-
   Du liebst Incredibox Sprunki und gleichzeitig die Pixelwelt von Minecraft?
   Dann ist der Mod Sprunki Like Minecraft wie für dich gemacht: Er verbindet
@@ -9,6 +9,7 @@ description: >-
   aufeinanderprallen.
 iframeSrc: 'https://turbowarp.org/1095572358/embed'
 thumbnail: /new-images/thumbnails/sprunki-like-minecraft.png
+urlstr: sprunki-like-minecraft
 tags:
   - sprunki like minecraft
 score: 4.6/5  (601 votes)

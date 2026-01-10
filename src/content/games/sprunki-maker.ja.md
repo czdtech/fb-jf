@@ -1,13 +1,16 @@
 ---
-title: "Sprunki Maker (BIG update) - Play Sprunki Maker (BIG update) Online"
-description: "Sprunki MakerはSprunkiキャラクターをカスタマイズできる作成ツールです。見た目や色を調整して、自分好みのキャラクターを作れます。"
-iframeSrc: "https://www.playfiddlebops.com/embed/sprunki-marker/index.html"
-thumbnail: /new-images/thumbnails/sprunki-maker.png
-urlstr: "sprunki-maker"
-score: "4.8/5  (700 votes)"
-tags: ["sprunki maker (big update)", "sprunki maker (big update) online"]
 locale: ja
-releaseDate: 2025-12-04
+title: Sprunki Maker (BIG update)
+seoTitle: 無料でSprunki Maker (BIG update)をオンラインでプレイ | FiddleBops
+description: Sprunki MakerはSprunkiキャラクターをカスタマイズできる作成ツールです。見た目や色を調整して、自分好みのキャラクターを作れます。
+iframeSrc: 'https://www.playfiddlebops.com/embed/sprunki-marker/index.html'
+thumbnail: /new-images/thumbnails/sprunki-maker.png
+urlstr: sprunki-maker
+tags:
+  - sprunki maker (big update)
+  - sprunki maker (big update) online
+score: 4.8/5  (700 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Maker（大型アップデート）の紹介

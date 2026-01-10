@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: google-snake
 title: Google Snake 구글 스네이크
+seoTitle: Google Snake 구글 스네이크 무료 온라인 플레이 | FiddleBops
 description: >-
   클래식 뱀 게임을 현대적으로 재해석한 버전입니다. 과일을 먹어 몸을 키우되 벽과 자신의 몸통에 부딪히지 않도록 조심하며, 다양한 규칙과
   모드로 최고 점수를 노려 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230830/05/index.html
 thumbnail: /new-images/thumbnails/google-snake.jpg
+urlstr: google-snake
 tags:
   - arcade
   - snake

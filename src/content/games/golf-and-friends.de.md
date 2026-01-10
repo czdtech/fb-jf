@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: golf-and-friends
 title: Golf and Friends
+seoTitle: Spiele Golf and Friends kostenlos online | FiddleBops
 description: >-
   Golf and Friends ist ein entspanntes Minigolf-Spiel mit Freunden. Lies die
   Neigungen, spiele gezielte Bankschüsse und genieße gemütliche Runden im
   Mehrspielermodus.
 iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
 thumbnail: /new-images/thumbnails/golf-and-friends.jpg
+urlstr: golf-and-friends
 tags:
   - sports
   - 2 player

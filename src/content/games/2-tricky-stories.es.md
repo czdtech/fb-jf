@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: 2-tricky-stories
-title: "Brain Test 2: Tricky Stories en línea"
+title: 'Brain Test 2: Tricky Stories'
+seoTitle: 'Juega a Brain Test 2: Tricky Stories en línea gratis | FiddleBops'
 description: >-
-  Brain Test 2: Tricky Stories es un juego de puzles creativo y desafiante, lleno
-  de niveles con truco. Resuelve acertijos locos, sigue historias por capítulos
-  y pon a prueba tu manera de pensar "fuera de la caja".
+  Brain Test 2: Tricky Stories es un juego de puzles creativo y desafiante,
+  lleno de niveles con truco. Resuelve acertijos locos, sigue historias por
+  capítulos y pon a prueba tu manera de pensar "fuera de la caja".
 iframeSrc: 'https://bitlifeonline.github.io/brain-test-2-tricky-stories/'
 thumbnail: /new-images/thumbnails/2-tricky-stories.jpg
+urlstr: 2-tricky-stories
 tags:
   - casual
   - rhythm

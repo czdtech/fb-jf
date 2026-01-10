@@ -5,18 +5,20 @@
  * Requirements: 4.3
  */
 
+import { mergeConfig } from './utils/config-merge';
+
+// SVG paths for expand/compress icons
+const EXPAND_SVG = '<path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"/>';
+const COMPRESS_SVG = '<path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M4 14h6v6m10-10h-6V4m0 6 7-7M3 21l7-7"/>';
+
 export interface FullscreenConfig {
   buttonId: string;
   containerSelector: string;
-  expandIconClass?: string;
-  compressIconClass?: string;
 }
 
 const defaultConfig: FullscreenConfig = {
   buttonId: 'fullscreen-btn',
   containerSelector: '.game-iframe-sprunki',
-  expandIconClass: 'fa-expand',
-  compressIconClass: 'fa-compress'
 };
 
 /**
@@ -24,10 +26,7 @@ const defaultConfig: FullscreenConfig = {
  * Sets up click event on fullscreen button and handles fullscreen state changes
  */
 export function initFullscreen(config: Partial<FullscreenConfig> = {}): void {
-  const { buttonId, containerSelector, expandIconClass, compressIconClass } = {
-    ...defaultConfig,
-    ...config
-  };
+  const { buttonId, containerSelector } = mergeConfig(defaultConfig, config);
 
   const fullscreenBtn = document.getElementById(buttonId);
   const gameContainer = document.querySelector(containerSelector) as HTMLElement | null;
@@ -40,7 +39,14 @@ export function initFullscreen(config: Partial<FullscreenConfig> = {}): void {
     return;
   }
 
-  const fullscreenIcon = fullscreenBtn.querySelector('i');
+  const svgIcon = fullscreenBtn.querySelector('svg');
+
+  function updateIcon(isFullscreen: boolean) {
+    if (svgIcon) {
+      svgIcon.innerHTML = isFullscreen ? COMPRESS_SVG : EXPAND_SVG;
+    }
+    fullscreenBtn.dataset.expanded = String(isFullscreen);
+  }
 
   // Handle fullscreen button click
   fullscreenBtn.addEventListener('click', () => {
@@ -53,15 +59,7 @@ export function initFullscreen(config: Partial<FullscreenConfig> = {}): void {
 
   // Handle fullscreen state changes to update icon
   document.addEventListener('fullscreenchange', () => {
-    if (fullscreenIcon && expandIconClass && compressIconClass) {
-      if (document.fullscreenElement) {
-        fullscreenIcon.classList.remove(expandIconClass);
-        fullscreenIcon.classList.add(compressIconClass);
-      } else {
-        fullscreenIcon.classList.remove(compressIconClass);
-        fullscreenIcon.classList.add(expandIconClass);
-      }
-    }
+    updateIcon(!!document.fullscreenElement);
   });
 }
 

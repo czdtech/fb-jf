@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Letter Links
+seoTitle: 無料でLetter Linksをオンラインでプレイ | FiddleBops
 description: 毎日のワード構築チャレンジです。レタータイルをボードに配置して高得点の単語を形成し、ボーナスマスを利用し、すべての文字を1つのグループで接続します。
 iframeSrc: 'https://7u583tvdi3f00.h5games.usercontent.goog/v/424maigpuljoo/'
 thumbnail: /new-images/thumbnails/letter-links.png
 urlstr: letter-links
-score: 4.6/5  (2850 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.6/5  (2850 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

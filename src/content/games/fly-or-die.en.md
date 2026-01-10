@@ -1,6 +1,7 @@
 ---
 locale: en
 title: Fly or Die
+seoTitle: Play Fly or Die Online Free | FiddleBops
 description: >-
   Evolution survival (.io): eat correct food to evolve through the chain while
   avoiding predators and hazards across sky and ground biomes.
@@ -8,11 +9,11 @@ iframeSrc: >-
   https://app-96679.games.s3.yandex.net/96679/jshypemnvrae6bchv5d2nej2892owe69/index.html
 thumbnail: /new-images/thumbnails/fly-or-die.jpg
 urlstr: fly-or-die
-score: 4.6/5  (260 votes)
 tags:
   - survival
   - io
   - action
+score: 4.6/5  (260 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---

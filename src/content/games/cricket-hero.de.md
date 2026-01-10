@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: cricket-hero
 title: Cricket Hero
+seoTitle: Spiele Cricket Hero kostenlos online | FiddleBops
 description: >-
   Tritt an den Schlag und werde zum Cricket Hero. Triff den Ball im perfekten
   Timing und sammle so viele Runs wie möglich in diesem spannenden Schlagspiel.
 iframeSrc: 'https://crickethero.h5games.usercontent.goog/v/7cnfq54s3ilao/'
 thumbnail: /new-images/thumbnails/cricket-hero.jpg
+urlstr: cricket-hero
 tags:
   - sports
   - action

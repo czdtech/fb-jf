@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Gin Rummy
+seoTitle: 無料でGin Rummyをオンラインでプレイ | FiddleBops
 description: >-
   クラシックカードゲーム、ジン・ラミーをプレイしましょう。カードをセットやラン（連番）にまとめ、ノックしてラウンドを終わらせ、手札にデッドウッド（未完成のカード）を抱えた対戦相手を出し抜きましょう。
 iframeSrc: 'https://ginrummy.h5games.usercontent.goog/v/1sj72j2nsfin0/'
 thumbnail: /new-images/thumbnails/gin-rummy.png
 urlstr: gin-rummy
-score: 4.7/5  (2800 votes)
 tags:
   - card
   - puzzle
   - thinky
+score: 4.7/5  (2800 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

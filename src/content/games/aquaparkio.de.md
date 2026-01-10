@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: aquaparkio
 title: Aquapark io
+seoTitle: Spiele Aquapark io kostenlos online | FiddleBops
 description: >-
   Rase in aquapark.io zur Ziellinie! Lerne die besten Strategien, Tipps und
   Steuerungen, um die Wasserrutsche zu meistern, Gegner von der Bahn zu schubsen
   und mit gewagten Flugsprüngen Abkürzungen zu nehmen.
 iframeSrc: 'https://bitlifeonline.github.io/class23523/aquaparkio/'
 thumbnail: /new-images/thumbnails/aquaparkio.jpg
+urlstr: aquaparkio
 tags:
   - casual
   - racing

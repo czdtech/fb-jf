@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: freekick-football
 title: Freekick Football
+seoTitle: Spiele Freekick Football kostenlos online | FiddleBops
 description: >-
   Teste deine Freistoß-Fähigkeiten in Freekick Football: Ziele präzise, wähle
   die richtige Schusskraft und verwandle Standardsituation um Standardsituation.
 iframeSrc: 'https://freekickfootball.h5games.usercontent.goog/v/0lqeu7698mvk0/'
 thumbnail: /new-images/thumbnails/freekick-football.png
+urlstr: freekick-football
 tags:
   - soccer
   - sports

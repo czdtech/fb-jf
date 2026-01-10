@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: paper-io
-title: Paper.io - Conquista de territorio en línea
+title: Paper.io
+seoTitle: Juega a Paper.io en línea gratis | FiddleBops
 description: >-
   Paper.io es un popular juego multijugador en el que controlas un bloque de
   color y tratas de conquistar el máximo territorio posible dibujando líneas y
   cerrando áreas, mientras esquivas a otros jugadores.
 iframeSrc: 'https://mathgames66.github.io/games/html5/paperio2/'
 thumbnail: /new-images/thumbnails/paper-io.jpg
+urlstr: paper-io
 tags:
   - multiplayer
   - strategy

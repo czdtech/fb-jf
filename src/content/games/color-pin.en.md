@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Color Pin"
-description: "Color Pin is a precision pin‑dropper — stick pins into a rotating core without collisions, matching colors under pressure."
-iframeSrc: "https://6jgggrkjibvs0.h5games.usercontent.goog/v/7qaps53r4bt10/"
+title: Color Pin
+seoTitle: Play Color Pin Online Free | FiddleBops
+description: >-
+  Color Pin is a precision pin‑dropper — stick pins into a rotating core without
+  collisions, matching colors under pressure.
+iframeSrc: 'https://6jgggrkjibvs0.h5games.usercontent.goog/v/7qaps53r4bt10/'
 thumbnail: /new-images/thumbnails/color-pin.png
-urlstr: "color-pin"
-score: "3.8/5  (1576 votes)"
-tags: ["puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: color-pin
+tags:
+  - puzzle
+  - casual
+score: 3.8/5  (1576 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

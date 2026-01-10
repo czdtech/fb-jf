@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: basketball-master-2
 title: Basketball Master 2
+seoTitle: Spiele Basketball Master 2 kostenlos online | FiddleBops
 description: >-
   Zeig dein Wurftalent in Basketball Master 2. Ziele präzise, passe die
   Schusskraft an und triff den Korb – notfalls sogar durch Holz‑ und Eisblöcke
   hindurch.
 iframeSrc: 'https://basketballmaster2.h5games.usercontent.goog/v/267j5oehq25q0/'
 thumbnail: /new-images/thumbnails/basketball-master-2.png
+urlstr: basketball-master-2
 tags:
   - sports
   - basketball

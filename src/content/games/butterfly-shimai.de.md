@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: butterfly-shimai
 title: Butterfly Shimai
+seoTitle: Spiele Butterfly Shimai kostenlos online | FiddleBops
 description: >-
   Tauche ein in ein entspanntes Flügelpuzzle mit Butterfly Shimai. Verbinde
   passende Schmetterlingsflügel, lass fertige Schmetterlinge davonfliegen und
   räume das Spielfeld, bevor die Zeit abläuft.
 iframeSrc: 'https://1pq2qond4eka0.h5games.usercontent.goog/v/4oiv5e7dd7vd8/'
 thumbnail: /new-images/thumbnails/butterfly-shimai.png
+urlstr: butterfly-shimai
 tags:
   - puzzle
   - casual

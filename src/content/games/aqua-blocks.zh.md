@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: aqua-blocks
 title: Aqua Blocks 水元素方块
+seoTitle: 免费在线玩 Aqua Blocks 水元素方块 | FiddleBops
 description: 《Aqua Blocks（水元素方块）》是一款清爽的水纹风格方块摆放游戏：把给定形状放入网格，凑满整行或区域来清除腾挪，尽量别把空位封成死角。
 iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
 thumbnail: /new-images/thumbnails/aqua-blocks.png
+urlstr: aqua-blocks
 tags:
   - puzzle
   - thinky

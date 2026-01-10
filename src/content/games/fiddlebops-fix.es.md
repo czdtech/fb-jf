@@ -1,17 +1,18 @@
 ---
 locale: es
-urlstr: fiddlebops-fix
-title: "Fiddlebops Fix - Juega a Fiddlebops Fix en línea"
+title: Fiddlebops Fix
+seoTitle: Juega a Fiddlebops Fix en línea gratis | FiddleBops
 description: >-
   Fiddlebops Fix es un creativo juego de música en el que compones pistas,
   exploras historias interactivas y conectas con una comunidad vibrante, todo
   desde tu navegador y de forma gratuita.
 iframeSrc: 'https://turbowarp.org/1131610529/embed'
 thumbnail: /new-images/thumbnails/fiddlebops-fix.png
+urlstr: fiddlebops-fix
 tags:
   - fiddlebops fix
 score: 4.6/5  (217 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

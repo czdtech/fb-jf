@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: unpark-me
 title: Unpark Me
+seoTitle: Jouez à Unpark Me en ligne gratuitement | FiddleBops
 description: >-
   Un puzzle de blocs coulissants avec un thème de parking : déplace les autres
   voitures pour libérer le passage à la voiture rouge coincée.
 iframeSrc: 'https://unparkme.h5games.usercontent.goog/v/59baoe1o8mbe0/'
 thumbnail: /new-images/thumbnails/unpark-me.png
+urlstr: unpark-me
 tags:
   - puzzle
   - thinky

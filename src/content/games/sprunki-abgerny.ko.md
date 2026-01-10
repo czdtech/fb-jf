@@ -1,17 +1,17 @@
 ---
 locale: ko
-urlstr: sprunki-abgerny
-title: 'Sprunki Abgerny 스프룽키 앱거니'
+title: Sprunki Abgerny 스프룽키 앱거니
+seoTitle: Sprunki Abgerny 스프룽키 앱거니 무료 온라인 플레이 | FiddleBops
 description: >-
-  Sprunki Abgerny는 원시 부족과 호주의 어보리진 음악에서 영감을 받은 스프룽키
-  스타일 음악 게임입니다. 부족의 연주자들을 이끌어 북소리와 챈트로 독특한
-  트라이벌 비트를 만들어 볼 수 있습니다.
+  Sprunki Abgerny는 원시 부족과 호주의 어보리진 음악에서 영감을 받은 스프룽키 스타일 음악 게임입니다. 부족의 연주자들을 이끌어
+  북소리와 챈트로 독특한 트라이벌 비트를 만들어 볼 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1095335052/embed'
 thumbnail: /new-images/thumbnails/sprunki-abgerny.png
+urlstr: sprunki-abgerny
 tags:
   - sprunki abgerny
 score: 3.9/5  (132 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

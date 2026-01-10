@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: om-nom-bubbles
-title: Om Nom Bubbles - Dispara burbujas con Om Nom
+title: Om Nom Bubbles
+seoTitle: Juega a Om Nom Bubbles en línea gratis | FiddleBops
 description: >-
   Om Nom Bubbles es un colorido Bubble Shooter: empareja colores, usa tiros a
   banda y limpia el tablero aprovechando ángulos inteligentes.
 iframeSrc: >-
   https://omnombubbles.h5games.usercontent.goog/v/6bdfc73b-7b9c-4046-9bfe-9269036a772f/
 thumbnail: /new-images/thumbnails/om-nom-bubbles.jpg
+urlstr: om-nom-bubbles
 tags:
   - puzzle
   - casual

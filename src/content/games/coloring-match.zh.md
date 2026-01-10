@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: coloring-match
 title: Coloring Match 调色匹配实验室
+seoTitle: 免费在线玩 Coloring Match 调色匹配实验室 | FiddleBops
 description: >-
   《Coloring Match 调色匹配实验室》是一款教你如何真正“玩懂颜色”的小游戏。通过混合颜
   料、调整明度与饱和度，尽可能精确地还原目标色块，在不断尝试中提升自己的色感与调色 技巧。
 iframeSrc: 'https://21t5l4ct88d8g.h5games.usercontent.goog/v/6kels35kspngg/'
 thumbnail: /new-images/thumbnails/coloring-match.jpg
+urlstr: coloring-match
 tags:
   - puzzle
   - casual

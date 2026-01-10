@@ -1,5 +1,7 @@
 ---
+locale: fr
 title: Bloxorz
+seoTitle: Jouez à Bloxorz en ligne gratuitement | FiddleBops
 description: >-
   Fais rouler un bloc 1×2×1 sur des plateformes en suspension et fais-le tomber
   bien droit dans le trou final. Bloxorz mettra ta logique spatiale à rude
@@ -7,14 +9,13 @@ description: >-
 iframeSrc: 'https://ad-freegames.github.io/flash/game/bloxorz.html'
 thumbnail: /new-images/thumbnails/bloxorz.jpg
 urlstr: bloxorz
-score: 3.9/5  (922 votes)
 tags:
   - puzzle
   - logique
   - classique
+score: 3.9/5  (922 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: fr
 ---
 
 <!-- i18n:section:introduction -->

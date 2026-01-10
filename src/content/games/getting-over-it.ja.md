@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Getting over it
+seoTitle: 無料でGetting over itをオンラインでプレイ | FiddleBops
 description: ハンマーで登る挑戦：大釜に入った男が、ハンマーを振って、弾んで、引っ掛けて、シュールな障害物を登っていきます。精密な物理挙動が焦りを罰します。
 iframeSrc: 'https://ubg77.github.io/fix/getting-over-it/'
 thumbnail: /new-images/thumbnails/getting-over-it.jpg
 urlstr: getting-over-it
-score: 5.0/5  (226 votes)
 tags:
   - platformer
   - physics
+score: 5.0/5  (226 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

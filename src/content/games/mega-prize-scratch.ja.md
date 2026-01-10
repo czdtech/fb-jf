@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Mega Prize Scratch
+seoTitle: 無料でMega Prize Scratchをオンラインでプレイ | FiddleBops
 description: Mega Prize Scratchはスクラッチカード風のミニゲームです。カードを削ってシンボルを確認し、結果を楽しみます。
 iframeSrc: 'https://3a38lqtqled1o.h5games.usercontent.goog/v/37llbljplv5v0/'
 thumbnail: /new-images/thumbnails/mega-prize-scratch.png
 urlstr: mega-prize-scratch
-score: 3.6/5  (1538 votes)
 tags:
   - casual
   - novelty
+score: 3.6/5  (1538 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

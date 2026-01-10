@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: sushi-grab
 title: Sushi Grab 스시 그랩
+seoTitle: Sushi Grab 스시 그랩 무료 온라인 플레이 | FiddleBops
 description: >-
   Sushi Grab은 회전초밥 레일을 배경으로 주문된 초밥만 빠르게 집어 올려 점수를 쌓는 아케이드 게임입니다. 제한 시간 안에 올바른
   접시를 고르고, 함정과 벌점 접시는 피해 높은 점수 목표를 달성해 보세요.
 iframeSrc: 'https://sushigrab.h5games.usercontent.goog/v/0ehlec2inmmrg/'
 thumbnail: /new-images/thumbnails/sushi-grab.png
+urlstr: sushi-grab
 tags:
   - casual
   - thinky

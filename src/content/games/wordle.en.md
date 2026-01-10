@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Wordle"
-description: "Wordle is a popular daily word puzzle game where players have six attempts to guess a five-letter word, using color-coded feedback to deduce the correct letters and their positions in this addictive vocabulary challenge."
-iframeSrc: "https://ext.minijuegos.com/wordle/"
+title: Wordle
+seoTitle: Play Wordle Online Free | FiddleBops
+description: >-
+  Wordle is a popular daily word puzzle game where players have six attempts to
+  guess a five-letter word, using color-coded feedback to deduce the correct
+  letters and their positions in this addictive vocabulary challenge.
+iframeSrc: 'https://ext.minijuegos.com/wordle/'
 thumbnail: /new-images/thumbnails/wordle.jpg
-urlstr: "wordle"
-score: "4.8/5  (515 votes)"
-tags: ["word", "puzzle", "daily"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: wordle
+tags:
+  - word
+  - puzzle
+  - daily
+score: 4.8/5  (515 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

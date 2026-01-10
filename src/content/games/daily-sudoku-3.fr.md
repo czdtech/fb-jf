@@ -1,11 +1,12 @@
 ---
 locale: fr
-urlstr: daily-sudoku-3
 title: Daily Sudoku 3
+seoTitle: Jouez à Daily Sudoku 3 en ligne gratuitement | FiddleBops
 description: "Daily Sudoku 3 ajoute encore plus de grilles quotidiennes\_: varie les niveaux de difficulté et perfectionne tes techniques de résolution."
 iframeSrc: >-
   https://dailysudoku.h5games.usercontent.goog/v/03446732-f14b-4bcc-9e8b-68fc499a0cec/
 thumbnail: /new-images/thumbnails/daily-sudoku-3.jpg
+urlstr: daily-sudoku-3
 tags:
   - puzzle
   - thinky

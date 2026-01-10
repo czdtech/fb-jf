@@ -1,14 +1,17 @@
 ---
-title: "8x8 Match Tiles"
-description: "8x8 Match Tilesはクリーンなタイルマッチャーです。同じタイルをペアにし、ボードをクリアし、限られたスペースを考慮して計画しましょう。"
-iframeSrc: "https://75njrrvim9kq0.h5games.usercontent.goog/v/1v57mtiv2ele0/"
-thumbnail: /new-images/thumbnails/8x8-match-tiles.jpg
-urlstr: "8x8-match-tiles"
-score: "3.9/5  (1716 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
 locale: ja
+title: 8x8 Match Tiles
+seoTitle: 無料で8x8 Match Tilesをオンラインでプレイ | FiddleBops
+description: 8x8 Match Tilesはクリーンなタイルマッチャーです。同じタイルをペアにし、ボードをクリアし、限られたスペースを考慮して計画しましょう。
+iframeSrc: 'https://75njrrvim9kq0.h5games.usercontent.goog/v/1v57mtiv2ele0/'
+thumbnail: /new-images/thumbnails/8x8-match-tiles.jpg
+urlstr: 8x8-match-tiles
+tags:
+  - puzzle
+  - thinky
+score: 3.9/5  (1716 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

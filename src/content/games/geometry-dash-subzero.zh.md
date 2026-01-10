@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: geometry-dash-subzero
 title: Geometry Dash SubZero 几何冲刺：零度篇
+seoTitle: 免费在线玩 Geometry Dash SubZero 几何冲刺：零度篇 | FiddleBops
 description: 独立的冬季主题节奏关卡包：在冰冷视觉与高速谱面中， 跟着音乐节拍跳跃、飞行与踩环，挑战极限操作。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp46/chenling/20240322/06/index.html
 thumbnail: /new-images/thumbnails/geometry-dash-subzero.jpg
+urlstr: geometry-dash-subzero
 tags:
   - rhythm
   - platformer

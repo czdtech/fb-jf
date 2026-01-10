@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Grass Cutter"
-description: "Grid puzzler: mow every tile exactly once with limited moves, avoid obstacles, and plan routes to clear the lawn perfectly." 
-iframeSrc: "https://g2.igroutka.ru/games/23/wcIz2a3WYRNKhbuq/rvvASMiM/58925795805842fcbfd7edf67efcd606/"
+title: Grass Cutter
+seoTitle: Play Grass Cutter Online Free | FiddleBops
+description: >-
+  Grid puzzler: mow every tile exactly once with limited moves, avoid obstacles,
+  and plan routes to clear the lawn perfectly.
+iframeSrc: >-
+  https://g2.igroutka.ru/games/23/wcIz2a3WYRNKhbuq/rvvASMiM/58925795805842fcbfd7edf67efcd606/
 thumbnail: /new-images/thumbnails/grass-cutter.jpg
-urlstr: "grass-cutter"
-score: "4.5/5  (1065 votes)"
-tags: ["puzzle", "logic"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: grass-cutter
+tags:
+  - puzzle
+  - logic
+score: 4.5/5  (1065 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

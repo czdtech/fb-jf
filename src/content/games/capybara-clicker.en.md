@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Capybara Clicker"
-description: "Multiply your capybara population in Capybara Clicker! Click to create capybaras, buy auto-generating upgrades, unlock new weather, and dress up your capybara in stylish hats in this charming idle game."
-iframeSrc: "https://bitlifeonline.github.io/capybara-clicker/"
+title: Capybara Clicker
+seoTitle: Play Capybara Clicker Online Free | FiddleBops
+description: >-
+  Multiply your capybara population in Capybara Clicker! Click to create
+  capybaras, buy auto-generating upgrades, unlock new weather, and dress up your
+  capybara in stylish hats in this charming idle game.
+iframeSrc: 'https://bitlifeonline.github.io/capybara-clicker/'
 thumbnail: /new-images/thumbnails/capybara-clicker.jpg
-urlstr: "capybara-clicker"
-score: "4.4/5  (1397 votes)"
-tags: ["casual", "clicker"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: capybara-clicker
+tags:
+  - casual
+  - clicker
+score: 4.4/5  (1397 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

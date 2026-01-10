@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: polymatch
 title: PolyMatch
+seoTitle: Jouez à PolyMatch en ligne gratuitement | FiddleBops
 description: "PolyMatch est un jeu de tuiles à éliminer\_: sélectionne et regroupe des paires de symboles dans une zone de réserve limitée pour vider le plateau sans le saturer."
 iframeSrc: 'https://4h72h3ha1dnh0.h5games.usercontent.goog/v/4mrusdmqik1l8/'
 thumbnail: /new-images/thumbnails/polymatch.png
+urlstr: polymatch
 tags:
   - puzzle
   - thinky

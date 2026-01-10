@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Pocket Battle Royale
+seoTitle: 無料でPocket Battle Royaleをオンラインでプレイ | FiddleBops
 description: Pocket Battle Royaleはコンパクトなバトルロイヤルです。生き残り、武器を集め、敵と戦い、最後の一人になります。
 iframeSrc: 'https://pocketbattleroyale.h5games.usercontent.goog/v/1n9qfv4cpdie8/'
 thumbnail: /new-images/thumbnails/pocket-battle-royale.png
 urlstr: pocket-battle-royale
-score: 4.2/5  (2100 votes)
 tags:
   - action
   - shooter
   - 2 player
+score: 4.2/5  (2100 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Word Search"
-description: "Word Search is a classic puzzle game where players find hidden words in a grid of letters, searching horizontally, vertically, and diagonally to complete themed word lists in this relaxing brain exercise."
-iframeSrc: "https://cdn.gamesnacks.com/wordsearch1/gameCode/index.html"
+title: Word Search
+seoTitle: Play Word Search Online Free | FiddleBops
+description: >-
+  Word Search is a classic puzzle game where players find hidden words in a grid
+  of letters, searching horizontally, vertically, and diagonally to complete
+  themed word lists in this relaxing brain exercise.
+iframeSrc: 'https://cdn.gamesnacks.com/wordsearch1/gameCode/index.html'
 thumbnail: /new-images/thumbnails/word-search.jpg
-urlstr: "word-search"
-score: "3.8/5  (1143 votes)"
-tags: ["word", "puzzle", "brain training"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: word-search
+tags:
+  - word
+  - puzzle
+  - brain training
+score: 3.8/5  (1143 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

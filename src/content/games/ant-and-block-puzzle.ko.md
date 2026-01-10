@@ -1,12 +1,11 @@
 ---
 locale: ko
-urlstr: ant-and-block-puzzle
-title: 'Ant and block puzzle 앤트 앤 블록 퍼즐'
-description: >-
-  주어진 블록들을 보드에 빈틈없이 채워 넣는 캐주얼 퍼즐 게임입니다. 모양을
-  잘 배치해 줄을 지우고 막히지 않도록 공간을 관리해 보세요.
+title: Ant and block puzzle 앤트 앤 블록 퍼즐
+seoTitle: Ant and block puzzle 앤트 앤 블록 퍼즐 무료 온라인 플레이 | FiddleBops
+description: 주어진 블록들을 보드에 빈틈없이 채워 넣는 캐주얼 퍼즐 게임입니다. 모양을 잘 배치해 줄을 지우고 막히지 않도록 공간을 관리해 보세요.
 iframeSrc: 'https://6f5e193l1nhig.h5games.usercontent.goog/v/2bgjgmrog0tgg/'
 thumbnail: /new-images/thumbnails/ant-and-block-puzzle.png
+urlstr: ant-and-block-puzzle
 tags:
   - puzzle
   - thinky

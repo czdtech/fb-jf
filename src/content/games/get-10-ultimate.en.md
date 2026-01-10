@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Get 10 Ultimate"
-description: "A challenging number puzzle! Tap on adjacent, identical numbers to merge them into a higher number. Can you make it to 10 and beyond?"
-iframeSrc: "https://4oljglvsib9no.h5games.usercontent.goog/v/4nttt72qlep8o/"
+title: Get 10 Ultimate
+seoTitle: Play Get 10 Ultimate Online Free | FiddleBops
+description: >-
+  A challenging number puzzle! Tap on adjacent, identical numbers to merge them
+  into a higher number. Can you make it to 10 and beyond?
+iframeSrc: 'https://4oljglvsib9no.h5games.usercontent.goog/v/4nttt72qlep8o/'
 thumbnail: /new-images/thumbnails/get-10-ultimate.png
-urlstr: "get-10-ultimate"
-score: "4.4/5  (2400 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: get-10-ultimate
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.4/5  (2400 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

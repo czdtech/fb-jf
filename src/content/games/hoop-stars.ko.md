@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: hoop-stars
 title: Hoop Stars 훕 스타즈 링 뒤집기
+seoTitle: Hoop Stars 훕 스타즈 링 뒤집기 무료 온라인 플레이 | FiddleBops
 description: >-
   링을 회전시키고 뒤집어 말뚝 위에 정확히 걸어야 하는 실력 게임입니다. 각도를 잡고 타이밍을 맞춰 링을 깨끗하게 꽂아 넣어, 상대보다 먼저
   득점하세요.
 iframeSrc: 'https://6si9877n1hvh8.h5games.usercontent.goog/v/717o1ln0arjho/'
 thumbnail: /new-images/thumbnails/hoop-stars.png
+urlstr: hoop-stars
 tags:
   - sports
   - action

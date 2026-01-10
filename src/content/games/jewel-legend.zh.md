@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: jewel-legend
 title: 《Jewel Legend》宝石传奇
+seoTitle: 免费在线玩 《Jewel Legend》宝石传奇 | FiddleBops
 description: 在《Jewel Legend》的绚丽宝石世界中开启三消冒险，通过交换宝石制造爆炸连锁，完成数百个各具目标的谜题关卡，成为真正的宝石传奇。
 iframeSrc: 'https://jewellegend.h5games.usercontent.goog/v/36cb1hitjsa3o/'
 thumbnail: /new-images/thumbnails/jewel-legend.png
+urlstr: jewel-legend
 tags:
   - puzzle
   - casual

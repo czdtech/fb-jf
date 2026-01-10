@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: incredibox-riser
 title: Incredibox Riser
+seoTitle: Jouez à Incredibox Riser en ligne gratuitement | FiddleBops
 description: >-
   Incredibox Riser est un mod électronique atmosphérique : pads spatiaux, leads
   montants et FX futuristes pour composer des montées épiques façon
   science‑fiction.
 iframeSrc: 'https://turbowarp.org/966510261/embed'
 thumbnail: /new-images/thumbnails/incredibox-riser.png
+urlstr: incredibox-riser
 tags:
   - music
   - electronic

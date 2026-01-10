@@ -1,10 +1,13 @@
 ---
 locale: zh
-urlstr: king-rugni-tower-conquest
-title: "《King Rugni Tower Conquest》鲁格尼王之塔防征服"
-description: "《King Rugni Tower Conquest》是一款体量精简但思路完整的塔防游戏，你要合理放置与升级防御塔、规划敌人行进路径，在有限金币下撑住一波波进攻。"
+title: 《King Rugni Tower Conquest》鲁格尼王之塔防征服
+seoTitle: 免费在线玩 《King Rugni Tower Conquest》鲁格尼王之塔防征服 | FiddleBops
+description: >-
+  《King Rugni Tower
+  Conquest》是一款体量精简但思路完整的塔防游戏，你要合理放置与升级防御塔、规划敌人行进路径，在有限金币下撑住一波波进攻。
 iframeSrc: 'https://1kh2cdjui86vo.h5games.usercontent.goog/v/71hetkqd45518/'
 thumbnail: /new-images/thumbnails/king-rugni-tower-conquest.jpg
+urlstr: king-rugni-tower-conquest
 tags:
   - tower Defense
   - thinky

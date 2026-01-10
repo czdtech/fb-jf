@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Granny Hero
+seoTitle: 無料でGranny Heroをオンラインでプレイ | FiddleBops
 description: Granny Heroはコミカルなアクションランナーです。ハザードを避け、奇抜なアイテムを使い、驚くべき敏捷性で隣人を救助しましょう。
 iframeSrc: 'https://0nd9712ar55uo.h5games.usercontent.goog/v/3qru4tsu7d5v0/'
 thumbnail: /new-images/thumbnails/granny-hero.png
 urlstr: granny-hero
-score: 3.9/5  (1751 votes)
 tags:
   - action
   - casual
+score: 3.9/5  (1751 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

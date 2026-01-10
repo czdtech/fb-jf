@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: crazy-cars
 title: Crazy Cars 크레이지 카
+seoTitle: Crazy Cars 크레이지 카 무료 온라인 플레이 | FiddleBops
 description: >-
   3D 도시 맵을 자유롭게 달리며 점프와 스턴트를 즐기는 캐주얼 레이싱 게임 Crazy Cars입니다. 이벤트를 완료하고 별과 스패너를 모아
   더 빠른 차량을 해금해 보세요.
 iframeSrc: 'https://g.igroutka.ru/games/164/2afwOT8yZFmeYWGJ/2/crazy_cars/'
 thumbnail: /new-images/thumbnails/crazy-cars.jpg
+urlstr: crazy-cars
 tags:
   - racing
   - driving

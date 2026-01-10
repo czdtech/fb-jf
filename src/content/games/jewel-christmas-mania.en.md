@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Jewel Christmas Mania"
-description: "Get into the holiday spirit with Jewel Christmas Mania! Match sparkling jewels in this festive match-3 puzzle game and complete challenging levels."
-iframeSrc: "https://jewelchristmasmania.h5games.usercontent.goog/v/3vom8bn0qgmto/"
+title: Jewel Christmas Mania
+seoTitle: Play Jewel Christmas Mania Online Free | FiddleBops
+description: >-
+  Get into the holiday spirit with Jewel Christmas Mania! Match sparkling jewels
+  in this festive match-3 puzzle game and complete challenging levels.
+iframeSrc: 'https://jewelchristmasmania.h5games.usercontent.goog/v/3vom8bn0qgmto/'
 thumbnail: /new-images/thumbnails/jewel-christmas-mania.png
-urlstr: "jewel-christmas-mania"
-score: "4.7/5  (2500 votes)"
-tags: ["puzzle", "casual", "flash"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: jewel-christmas-mania
+tags:
+  - puzzle
+  - casual
+  - flash
+score: 4.7/5  (2500 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

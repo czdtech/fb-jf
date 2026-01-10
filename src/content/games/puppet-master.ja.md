@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Puppet Master
+seoTitle: 無料でPuppet Masterをオンラインでプレイ | FiddleBops
 description: Puppet Masterは物理パズルゲームです。ラグドールの動きを制御し、障害物を越えてゴールを目指します。
 iframeSrc: 'https://classroomjq.github.io/puppet-master/'
 thumbnail: /new-images/thumbnails/puppet-master.jpg
 urlstr: puppet-master
-score: 4.3/5  (1234 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.3/5  (1234 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Moving Co"
-description: "Moving Co. turns moving day into a puzzle — plan routes, carry items safely, and beat the clock with tidy logistics."
-iframeSrc: "https://movingco.h5games.usercontent.goog/v/3crgi5efdnml0/"
+title: Moving Co
+seoTitle: Play Moving Co Online Free | FiddleBops
+description: >-
+  Moving Co. turns moving day into a puzzle — plan routes, carry items safely,
+  and beat the clock with tidy logistics.
+iframeSrc: 'https://movingco.h5games.usercontent.goog/v/3crgi5efdnml0/'
 thumbnail: /new-images/thumbnails/moving-co.png
-urlstr: "moving-co"
-score: "3.8/5  (1364 votes)"
-tags: ["casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: moving-co
+tags:
+  - casual
+  - thinky
+score: 3.8/5  (1364 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

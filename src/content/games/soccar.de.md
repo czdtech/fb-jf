@@ -1,10 +1,15 @@
 ---
 locale: de
-urlstr: soccar
-title: "SocCar"
-description: "Setz dich ans Steuer in SocCar, einem actiongeladenen Spiel, das den Nervenkitzel von Fußball mit der Power schneller Autos verbindet. Rase über das Spielfeld, booste in den riesigen Fußball und schieße Tore gegen deine Gegner. Meistere Lenkung und Zielgefühl, um jedes Match zu gewinnen."
+title: SocCar
+seoTitle: Spiele SocCar kostenlos online | FiddleBops
+description: >-
+  Setz dich ans Steuer in SocCar, einem actiongeladenen Spiel, das den
+  Nervenkitzel von Fußball mit der Power schneller Autos verbindet. Rase über
+  das Spielfeld, booste in den riesigen Fußball und schieße Tore gegen deine
+  Gegner. Meistere Lenkung und Zielgefühl, um jedes Match zu gewinnen.
 iframeSrc: 'https://ubg77.github.io/edit/soccar/'
 thumbnail: /new-images/thumbnails/soccar.jpg
+urlstr: soccar
 tags:
   - sports
   - cars

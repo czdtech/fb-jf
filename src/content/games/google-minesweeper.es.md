@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: google-minesweeper
 title: Google Minesweeper
+seoTitle: Juega a Google Minesweeper en línea gratis | FiddleBops
 description: >-
   Clásico puzle de lógica: limpia el tablero sin detonar minas deduciendo las
   casillas seguras a partir de los números y las banderas.
 iframeSrc: 'https://www.minesweepergoogle.com/gameapp.html'
 thumbnail: /new-images/thumbnails/google-minesweeper.jpg
+urlstr: google-minesweeper
 tags:
   - puzzle
   - logic

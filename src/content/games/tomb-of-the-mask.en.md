@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Tomb of the Mask"
-description: "Navigate treacherous mazes in Tomb of the Mask, a fast-paced arcade game! Swipe to move your character from wall to wall, collecting coins and power-ups while outrunning a rising flood. Master precise movements and quick decisions to survive and uncover the tomb's secrets."
-iframeSrc: "https://w8.snokido.com/games/unity-webgl/tomb-run/index.html"
+title: Tomb of the Mask
+seoTitle: Play Tomb of the Mask Online Free | FiddleBops
+description: >-
+  Navigate treacherous mazes in Tomb of the Mask, a fast-paced arcade game!
+  Swipe to move your character from wall to wall, collecting coins and power-ups
+  while outrunning a rising flood. Master precise movements and quick decisions
+  to survive and uncover the tomb's secrets.
+iframeSrc: 'https://w8.snokido.com/games/unity-webgl/tomb-run/index.html'
 thumbnail: /new-images/thumbnails/tomb-of-the-mask.jpg
-urlstr: "tomb-of-the-mask"
-score: "3.7/5  (843 votes)"
-tags: ["arcade", "maze", "action"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: tomb-of-the-mask
+tags:
+  - arcade
+  - maze
+  - action
+score: 3.7/5  (843 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

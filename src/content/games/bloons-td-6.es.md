@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: bloons-td-6
 title: Bloons TD 6
+seoTitle: Juega a Bloons TD 6 en línea gratis | FiddleBops
 description: >-
   Domina Bloons TD 6, la entrega definitiva de defensa de torres con gráficos en
   3D, héroes, 3 rutas de mejora por torre y poderosos monos Parágon. Diseña la
   estrategia perfecta para reventar hasta el último Bloon invasor.
 iframeSrc: 'https://html5.gamenora.com/Bloons%20TD%206/'
 thumbnail: /new-images/thumbnails/bloons-td-6.jpg
+urlstr: bloons-td-6
 tags:
   - casual
   - strategy

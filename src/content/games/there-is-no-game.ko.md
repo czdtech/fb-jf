@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: there-is-no-game
 title: 'There Is No Game: Classic 디어 이즈 노 게임: 클래식'
+seoTitle: 'There Is No Game: Classic 디어 이즈 노 게임: 클래식 무료 온라인 플레이 | FiddleBops'
 description: >-
   There Is No Game: Classic은 "게임이 아니다"라고 우기며 플레이어를 막는 화면과 장난스러운 내레이션을 특징으로 하는 메타
   퍼즐 게임입니다.
 iframeSrc: 'https://webglmath.github.io/there-is-no-game/'
 thumbnail: /new-images/thumbnails/there-is-no-game.jpg
+urlstr: there-is-no-game
 tags:
   - puzzle
   - meta

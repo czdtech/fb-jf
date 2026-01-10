@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: doodle-jump
 title: Doodle Jump
+seoTitle: Juega a Doodle Jump en línea gratis | FiddleBops
 description: >-
   Doodle Jump es un juego de plataformas vertical infinito: rebota entre
   plataformas, esquiva peligros y sube todo lo que puedas.
 iframeSrc: 'https://ubg98.github.io/DoodleJump/'
 thumbnail: /new-images/thumbnails/doodle-jump.jpg
+urlstr: doodle-jump
 tags:
   - arcade
   - platformer

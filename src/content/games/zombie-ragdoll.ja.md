@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Zombie Ragdoll
+seoTitle: 無料でZombie Ragdollをオンラインでプレイ | FiddleBops
 description: Zombie Ragdollは、物理ベースのゾンビゲームです。ゾンビをラグドール物理で倒しましょう。
 iframeSrc: 'https://04qb5fhi49qmg.h5games.usercontent.goog/v/64br0v92f7928/'
 thumbnail: /new-images/thumbnails/zombie-ragdoll.jpg
 urlstr: zombie-ragdoll
-score: 3.9/5  (1753 votes)
 tags:
   - physics
   - zombie
   - casual
-locale: ja
+score: 3.9/5  (1753 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

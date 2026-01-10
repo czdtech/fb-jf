@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: sky-tower
 title: 《Sky Tower》高空叠塔挑战
+seoTitle: 免费在线玩 《Sky Tower》高空叠塔挑战 | FiddleBops
 description: 《Sky Tower》是一款操作简单但极考反应与节奏感的叠塔游戏。通过在恰当时机放下楼层方块，把摩天大楼一层层堆上天空。
 iframeSrc: 'https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/'
 thumbnail: /new-images/thumbnails/sky-tower.png
+urlstr: sky-tower
 tags:
   - arcade
   - one button

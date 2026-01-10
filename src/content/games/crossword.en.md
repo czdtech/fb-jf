@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Crossword"
-description: "Crossword is a classic fill‑in puzzle: solve across and down clues so all crossing letters match."
-iframeSrc: "https://ad-freegames.github.io/flash/game/crossword.html"
+title: Crossword
+seoTitle: Play Crossword Online Free | FiddleBops
+description: >-
+  Crossword is a classic fill‑in puzzle: solve across and down clues so all
+  crossing letters match.
+iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword.html'
 thumbnail: /new-images/thumbnails/crossword.jpg
-urlstr: "crossword"
-score: "4.8/5  (195 votes)"
-tags: ["word", "puzzle"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: crossword
+tags:
+  - word
+  - puzzle
+score: 4.8/5  (195 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

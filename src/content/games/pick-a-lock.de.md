@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: pick-a-lock
 title: Pick a Lock
+seoTitle: Spiele Pick a Lock kostenlos online | FiddleBops
 description: >-
   Pick a Lock testet Timing und Konzentration: Stoppe den Zeiger exakt auf den
   Markierungen, reihe perfekte Treffer aneinander und öffne immer kniffligere
   Schlösser.
 iframeSrc: 'https://17ul52pgrglf0.h5games.usercontent.goog/v/5b4f1rj0on970/'
 thumbnail: /new-images/thumbnails/pick-a-lock.jpg
+urlstr: pick-a-lock
 tags:
   - puzzle
   - thinky

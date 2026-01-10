@@ -1,14 +1,15 @@
 ---
-title: Dandyrunki Retake - Dandyrunki Retake Onlineで遊ぼう
+locale: ja
+title: Dandyrunki Retake
+seoTitle: 無料でDandyrunki Retakeをオンラインでプレイ | FiddleBops
 description: 「Dandyrunki Retake」でリズムとメロディを手軽に探索しよう。音楽愛好家も初心者も楽しめるリミックスバージョン。
 iframeSrc: 'https://turbowarp.org/1126924449/embed'
 thumbnail: /new-images/thumbnails/dandyrunki-retake.png
 urlstr: dandyrunki-retake
-score: 3.7/5  (255 votes)
 tags:
   - dandyrunki retake
   - dandyrunki retake online
-locale: ja
+score: 3.7/5  (255 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

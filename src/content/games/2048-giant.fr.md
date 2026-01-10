@@ -1,11 +1,12 @@
 ---
 locale: fr
-urlstr: 2048-giant
 title: 2048 Giant
+seoTitle: Jouez à 2048 Giant en ligne gratuitement | FiddleBops
 description: "2048 Giant reprend la formule de 2048 sur un plateau plus grand\_: fusionne les tuiles, anticipe davantage et vise toujours des valeurs plus folles."
 iframeSrc: >-
   https://2048giant.h5games.usercontent.goog/v/4bea87e2-a9a9-4f4b-b1c8-8b777220c567/
 thumbnail: /new-images/thumbnails/2048-giant.jpg
+urlstr: 2048-giant
 tags:
   - puzzle
   - thinky

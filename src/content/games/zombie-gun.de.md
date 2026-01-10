@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: zombie-gun
 title: Zombie Gun
+seoTitle: Spiele Zombie Gun kostenlos online | FiddleBops
 description: >-
   Zombie Gun ist ein Physik‑Shooter: Lass Kugeln an Wänden abprallen, sprenge
   Fässer und räume Räume mit cleveren Winkeln und begrenzter Munition.
 iframeSrc: 'https://5bcvrmoqria48.h5games.usercontent.goog/v/7cfakbl479q6o/'
 thumbnail: /new-images/thumbnails/zombie-gun.png
+urlstr: zombie-gun
 tags:
   - shooting
   - puzzle

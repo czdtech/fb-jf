@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: western-sniper
 title: Western Sniper
+seoTitle: Jouez à Western Sniper en ligne gratuitement | FiddleBops
 description: >-
   Western Sniper est un shooter au tir rapide : vise calmement, gère le
   balancement et choisis les cibles prioritaires à travers des missions courtes.
 iframeSrc: 'https://4oill7a9ltc9g.h5games.usercontent.goog/v/54hea44l6fm4o/'
 thumbnail: /new-images/thumbnails/western-sniper.png
+urlstr: western-sniper
 tags:
   - shooting
   - action

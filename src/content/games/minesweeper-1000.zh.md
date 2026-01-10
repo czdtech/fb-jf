@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: minesweeper-1000
 title: 《Minesweeper 1000》高难扫雷挑战
+seoTitle: 免费在线玩 《Minesweeper 1000》高难扫雷挑战 | FiddleBops
 description: 《Minesweeper 1000》是在经典扫雷基础上扩展的大棋盘逻辑游戏，你需要通过数字提示标记地雷、排除安全格，在超大棋盘上用高效技巧完成无误清盘。
 iframeSrc: 'https://5gsana77eub30.h5games.usercontent.goog/v/7363vv8e5mrb8/'
 thumbnail: /new-images/thumbnails/minesweeper-1000.png
+urlstr: minesweeper-1000
 tags:
   - puzzle
   - thinky

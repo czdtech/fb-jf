@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: superhot
 title: Superhot
+seoTitle: Spiele Superhot kostenlos online | FiddleBops
 description: >-
   Superhot ist ein innovativer Ego-Shooter, in dem sich die Zeit nur bewegt,
   wenn du dich bewegst – dadurch wird jede Szene zu einem taktischen Rätsel aus
   Kugeln, Wegen und Aktionen.
 iframeSrc: 'https://superhotgame.com/superhot-prototype-iframe'
 thumbnail: /new-images/thumbnails/superhot.jpg
+urlstr: superhot
 tags:
   - shooting
   - strategy

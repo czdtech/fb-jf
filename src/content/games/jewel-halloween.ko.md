@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: jewel-halloween
 title: Jewel Halloween 핼러윈 매치3
+seoTitle: Jewel Halloween 핼러윈 매치3 무료 온라인 플레이 | FiddleBops
 description: >-
   핼러윈 분위기의 3매치 퍼즐 게임 'Jewel Halloween' 가이드입니다. 보석을 맞바꿔 라인을 만들고, 특수 보석과 연쇄 반응으로
   스테이지 목표를 달성하는 방법을 소개합니다.
 iframeSrc: 'https://0gk3ormb878mg.h5games.usercontent.goog/v/1qgqb91tuaqv0/'
 thumbnail: /new-images/thumbnails/jewel-halloween.png
+urlstr: jewel-halloween
 tags:
   - puzzle
   - casual

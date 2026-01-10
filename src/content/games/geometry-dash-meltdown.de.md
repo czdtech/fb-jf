@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: geometry-dash-meltdown
 title: Geometry Dash Meltdown
+seoTitle: Spiele Geometry Dash Meltdown kostenlos online | FiddleBops
 description: >-
   Geometry Dash Meltdown ist ein eigenständiges Levelpaket: Springe und fliege
   durch neue, musik-synchrone Stages mit eigenen Themen, Fallen und
   Schiffspassagen.
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-meltdown/'
 thumbnail: /new-images/thumbnails/geometry-dash-meltdown.jpg
+urlstr: geometry-dash-meltdown
 tags:
   - rhythm
   - platformer

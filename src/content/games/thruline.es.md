@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: thruline
-title: Thruline - Traza la línea perfecta
+title: Thruline
+seoTitle: Juega a Thruline en línea gratis | FiddleBops
 description: >-
   Thruline es un elegante puzle de conectar nodos: dibuja una única línea
   continua que recorra la red cumpliendo las restricciones de giros y cobertura.
 iframeSrc: 'https://4bl9sdeaqndto.h5games.usercontent.goog/v/4qierjmnf0kng/'
 thumbnail: /new-images/thumbnails/thruline.jpg
+urlstr: thruline
 tags:
   - puzzle
   - thinky

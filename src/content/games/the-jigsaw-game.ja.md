@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: The Jigsaw Game
+seoTitle: 無料でThe Jigsaw Gameをオンラインでプレイ | FiddleBops
 description: The Jigsaw Gameは、クラシックなジグソーパズルゲームです。ピースを組み合わせて美しい画像を完成させましょう。
 iframeSrc: 'https://2avtkm5bj06f0.h5games.usercontent.goog/v/66fijarm4ldv0/'
 thumbnail: /new-images/thumbnails/the-jigsaw-game.png
 urlstr: the-jigsaw-game
-score: 4.3/5  (2146 votes)
 tags:
   - puzzle
   - jigsaw
   - relaxing
-locale: ja
+score: 4.3/5  (2146 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

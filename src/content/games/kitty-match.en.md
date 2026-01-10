@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Kitty Match"
-description: "Welcome to Kitty Match, a purr-fectly delightful match-3 puzzle game! Swap colorful cat-themed items to make matches and complete challenging levels."
-iframeSrc: "https://kittymatch.h5games.usercontent.goog/v/0fb0j00v75210/"
+title: Kitty Match
+seoTitle: Play Kitty Match Online Free | FiddleBops
+description: >-
+  Welcome to Kitty Match, a purr-fectly delightful match-3 puzzle game! Swap
+  colorful cat-themed items to make matches and complete challenging levels.
+iframeSrc: 'https://kittymatch.h5games.usercontent.goog/v/0fb0j00v75210/'
 thumbnail: /new-images/thumbnails/kitty-match.png
-urlstr: "kitty-match"
-score: "4.9/5  (2999 votes)"
-tags: ["puzzle", "casual", "action"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: kitty-match
+tags:
+  - puzzle
+  - casual
+  - action
+score: 4.9/5  (2999 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

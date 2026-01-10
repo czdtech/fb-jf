@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: tanuki-sunset
 title: 《Tanuki Sunset》狸猫日落滑板
+seoTitle: 免费在线玩 《Tanuki Sunset》狸猫日落滑板 | FiddleBops
 description: 《Tanuki Sunset》是一款氛围舒适的长下坡滑板游戏。扮演滑板高手小狸猫，在夕阳公路上一路滑行、飘移与收集物品，享受音乐与风景。
 iframeSrc: 'https://ubg100.github.io/games/tanuki/index.html'
 thumbnail: /new-images/thumbnails/tanuki-sunset.jpg
+urlstr: tanuki-sunset
 tags:
   - skating
   - racing

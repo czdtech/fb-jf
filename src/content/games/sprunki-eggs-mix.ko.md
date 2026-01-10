@@ -1,17 +1,17 @@
 ---
 locale: ko
-urlstr: sprunki-eggs-mix
-title: "Sprunki Egg's Mix 스프룽키 에그 믹스"
+title: Sprunki Egg's Mix 스프룽키 에그 믹스
+seoTitle: Sprunki Egg's Mix 스프룽키 에그 믹스 무료 온라인 플레이 | FiddleBops
 description: >-
-  Sprunki Egg's Mix는 서로 다른 능력을 가진 알들을 섞어 연쇄 반응을 일으키는 퍼즐
-  게임 콘셉트의 스프룽키 모드입니다. 각 알의 특성을 이해하고 조합해 보드 전체를
-  시원하게 정리하는 전략적인 플레이가 핵심입니다.
+  Sprunki Egg's Mix는 서로 다른 능력을 가진 알들을 섞어 연쇄 반응을 일으키는 퍼즐 게임 콘셉트의 스프룽키 모드입니다. 각 알의
+  특성을 이해하고 조합해 보드 전체를 시원하게 정리하는 전략적인 플레이가 핵심입니다.
 iframeSrc: 'https://turbowarp.org/1102648676/embed'
 thumbnail: /new-images/thumbnails/sprunki-eggs-mix.png
+urlstr: sprunki-eggs-mix
 tags:
   - sprunki egg
 score: 3.9/5  (125 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

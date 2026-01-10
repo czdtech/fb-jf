@@ -1,12 +1,11 @@
 ---
 locale: zh
-urlstr: fullspeed-racing
-title: "FullSpeed Racing 全速赛车"
-description: >-
-  FullSpeed Racing 是一款街机向赛车游戏——选择正确赛线、抓准煞车点，
-  在高速下干净完成超车。
+title: FullSpeed Racing 全速赛车
+seoTitle: 免费在线玩 FullSpeed Racing 全速赛车 | FiddleBops
+description: FullSpeed Racing 是一款街机向赛车游戏——选择正确赛线、抓准煞车点， 在高速下干净完成超车。
 iframeSrc: 'https://fullspeedracing.h5games.usercontent.goog/v/4kqu52vbp4da8/'
 thumbnail: /new-images/thumbnails/fullspeed-racing.jpg
+urlstr: fullspeed-racing
 tags:
   - car
   - driving

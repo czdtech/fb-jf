@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: krampus
 title: Krampus 크람푸스 공포 플랫폼
+seoTitle: Krampus 크람푸스 공포 플랫폼 무료 온라인 플레이 | FiddleBops
 description: >-
   크리스마스 전설 속 괴물 크람푸스를 소재로 한 공포 플랫폼 게임 'Krampus' 가이드입니다. 어두운 던전을 탐색하며 함정과 괴물을 피해
   열쇠와 아이템을 찾아 탈출하세요.
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/krampus1/'
 thumbnail: /new-images/thumbnails/krampus.jpg
+urlstr: krampus
 tags:
   - horror
   - platformer

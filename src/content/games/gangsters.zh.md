@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: gangsters
 title: Gangsters 屋顶帮派对决
+seoTitle: 免费在线玩 Gangsters 屋顶帮派对决 | FiddleBops
 description: 物理解体风格对战：两名火柴人黑帮在屋顶上弹跳与射击， 靠掌握跳跃与后座力，把对手从高处击落。
 iframeSrc: >-
   https://app-185146.games.s3.yandex.net/185146/4mtxwijatlm9neect542qv9nbcqetm7u/index.html
 thumbnail: /new-images/thumbnails/gangsters.jpg
+urlstr: gangsters
 tags:
   - action
   - physics

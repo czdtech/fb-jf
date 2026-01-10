@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Minesweeper 1000
+seoTitle: 無料でMinesweeper 1000をオンラインでプレイ | FiddleBops
 description: >-
   Minesweeper
   1000はクラシックな地雷ゲームです。数字の手がかりを使用して地雷をマークし、すべての安全なタイルを明らかにし、論理パズルをマスターします。
 iframeSrc: 'https://5gsana77eub30.h5games.usercontent.goog/v/7363vv8e5mrb8/'
 thumbnail: /new-images/thumbnails/minesweeper-1000.png
 urlstr: minesweeper-1000
-score: 4.3/5  (2107 votes)
 tags:
   - puzzle
   - thinky
+score: 4.3/5  (2107 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

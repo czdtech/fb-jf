@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: carrom-challenges
-title: "Carrom Challenges"
+title: Carrom Challenges
+seoTitle: Spiele Carrom Challenges kostenlos online | FiddleBops
 description: >-
   Carrom Challenges bringt Queue-Sport-Feeling auf das Carrom-Brett – ziele
   präzise, kontrolliere Abpraller und loch deine Steine mit Feingefühl.
 iframeSrc: 'https://6m4vq4nu17rto.h5games.usercontent.goog/v/1g4ai19abgj0g/'
 thumbnail: /new-images/thumbnails/carrom-challenges.png
+urlstr: carrom-challenges
 tags:
   - sports
   - pool

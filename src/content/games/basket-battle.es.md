@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: basket-battle
 title: Basket Battle duelos de tiro a canasta
+seoTitle: Juega a Basket Battle duelos de tiro a canasta en línea gratis | FiddleBops
 description: >-
   Basket Battle es un minijuego de baloncesto con física donde dos rivales se
   enfrentan a base de tiros rápidos, rebotes y buenos ángulos de lanzamiento.
 iframeSrc: 'https://1e2ocejsf0rm8.h5games.usercontent.goog/v/093f1a2jf2p98/'
 thumbnail: /new-images/thumbnails/basket-battle.png
+urlstr: basket-battle
 tags:
   - sports
   - basketball

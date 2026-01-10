@@ -1,15 +1,18 @@
 ---
-# Frontmatter: config.ts の schema に従う
-title: "Snakes And Ladders"
-description: "Snakes and Laddersはクラシックなボードゲームです。サイコロを振って進み、はしごで進み、ヘビで戻されながら最終マスを目指します。"
-iframeSrc: "https://cdn.gamesnacks.com/snakesandladders/gameCode/index.html"
-thumbnail: /new-images/thumbnails/snakes-and-ladders.jpg
-urlstr: "snakes-and-ladders"
-score: "4.2/5  (1342 votes)"
-tags: ["board-game", "classic", "multiplayer"]
-developer: ""
-releaseDate: 2025-08-16
 locale: ja
+title: Snakes And Ladders
+seoTitle: 無料でSnakes And Laddersをオンラインでプレイ | FiddleBops
+description: Snakes and Laddersはクラシックなボードゲームです。サイコロを振って進み、はしごで進み、ヘビで戻されながら最終マスを目指します。
+iframeSrc: 'https://cdn.gamesnacks.com/snakesandladders/gameCode/index.html'
+thumbnail: /new-images/thumbnails/snakes-and-ladders.jpg
+urlstr: snakes-and-ladders
+tags:
+  - board-game
+  - classic
+  - multiplayer
+score: 4.2/5  (1342 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,13 +1,13 @@
 ---
 locale: zh
-urlstr: wordler
-title: 'Wordler：进阶版每日五字推理'
+title: Wordler：进阶版每日五字推理
+seoTitle: 免费在线玩 Wordler：进阶版每日五字推理 | FiddleBops
 description: >-
-  《Wordler》是一款偏“高手向”的每日五字母推理游戏。
-  通过每次猜测后给出的颜色反馈，逐步排除不可能的组合，
+  《Wordler》是一款偏“高手向”的每日五字母推理游戏。 通过每次猜测后给出的颜色反馈，逐步排除不可能的组合，
   用模式识别和逻辑推理而不是纯运气逼近正确答案。
 iframeSrc: 'https://30mv2rsaljhjo.h5games.usercontent.goog/v/0hb0g2c5b4m9o/'
 thumbnail: /new-images/thumbnails/wordler.png
+urlstr: wordler
 tags:
   - puzzle
   - thinky

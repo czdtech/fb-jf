@@ -1,15 +1,15 @@
 ---
-title: Sprunki Virus New Update - Play Sprunki Virus New Update Online
-description: >-
-  Sprunki Virusはウイルスに感染した世界観を取り入れたSprunki系Modです。グリッチ風の演出や不穏なサウンドでトラックを作れます。
+locale: ja
+title: Sprunki Virus New Update
+seoTitle: 無料でSprunki Virus New Updateをオンラインでプレイ | FiddleBops
+description: Sprunki Virusはウイルスに感染した世界観を取り入れたSprunki系Modです。グリッチ風の演出や不穏なサウンドでトラックを作れます。
 iframeSrc: 'https://turbowarp.org/1104064786/embed'
 thumbnail: /new-images/thumbnails/sprunki-virus-new-update.png
 urlstr: sprunki-virus-new-update
-score: 4.0/5  (407 votes)
 tags:
   - sprunki virus new update
-locale: ja
-releaseDate: 2025-12-04
+score: 4.0/5  (407 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Eggy Car エッギー・カー
+seoTitle: 無料でEggy Car エッギー・カーをオンラインでプレイ | FiddleBops
 description: 「Eggy Car」は壊れやすい卵を運ぶドライブゲーム。デコボコ道を慎重に走り、卵を落として割らないように遠くまで進もう。
 iframeSrc: 'https://webglmath.github.io/eggy-car/'
 thumbnail: /new-images/thumbnails/eggy-car.jpg
 urlstr: eggy-car
-score: 4.9/5  (297 votes)
 tags:
   - driving
   - physics
+score: 4.9/5  (297 votes)
 developer: Beedo Games
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: finger-slayer
 title: Finger Slayer
+seoTitle: Juega a Finger Slayer en línea gratis | FiddleBops
 description: >-
   Finger Slayer pone a prueba tus reflejos puros: mantén el "dedo" en la zona de
   peligro y retíralo en el último milisegundo para esquivar la cuchilla sin
   asustarte antes de tiempo.
 iframeSrc: 'https://7ftsta5r737o8.h5games.usercontent.goog/v/3m7r2si8ppdlg/'
 thumbnail: /new-images/thumbnails/finger-slayer.jpg
+urlstr: finger-slayer
 tags:
   - action
   - casual

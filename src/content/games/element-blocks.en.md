@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Element Blocks"
-description: "A strategic block puzzle game with a twist. Place elemental blocks to clear lines, and collect stars to unleash powerful boosters. Plan your moves carefully to master the grid!"
-iframeSrc: "https://elementblocks.h5games.usercontent.goog/v/35up5t7ao24i8/"
+title: Element Blocks
+seoTitle: Play Element Blocks Online Free | FiddleBops
+description: >-
+  A strategic block puzzle game with a twist. Place elemental blocks to clear
+  lines, and collect stars to unleash powerful boosters. Plan your moves
+  carefully to master the grid!
+iframeSrc: 'https://elementblocks.h5games.usercontent.goog/v/35up5t7ao24i8/'
 thumbnail: /new-images/thumbnails/element-blocks.png
-urlstr: "element-blocks"
-score: "4.5/5  (2500 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: element-blocks
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.5/5  (2500 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

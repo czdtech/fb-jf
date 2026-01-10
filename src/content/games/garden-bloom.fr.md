@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: garden-bloom
 title: Garden Bloom
+seoTitle: Jouez à Garden Bloom en ligne gratuitement | FiddleBops
 description: >-
   Redonne vie à un superbe jardin dans Garden Bloom : résous des puzzles
   match‑3, gagne des étoiles et choisis de jolies décorations pour créer le
   jardin de tes rêves.
 iframeSrc: 'https://gardenbloom.h5games.usercontent.goog/v/03uqf2ceev9h8/'
 thumbnail: /new-images/thumbnails/garden-bloom.png
+urlstr: garden-bloom
 tags:
   - puzzle
   - casual

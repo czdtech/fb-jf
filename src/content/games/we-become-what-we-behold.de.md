@@ -1,10 +1,15 @@
 ---
 locale: de
-urlstr: we-become-what-we-behold
-title: "We Become What We Behold"
-description: "Erkunde in We Become What We Behold, wie Medien und Sensationsgier eine Gesellschaft formen: Knipse Nachrichten‑Schnappschüsse, sieh zu, wie sich dein Fokus auf dem Bildschirm widerspiegelt, und erlebe die Folgen eines dauernden Blicks auf das Negative." 
+title: We Become What We Behold
+seoTitle: Spiele We Become What We Behold kostenlos online | FiddleBops
+description: >-
+  Erkunde in We Become What We Behold, wie Medien und Sensationsgier eine
+  Gesellschaft formen: Knipse Nachrichten‑Schnappschüsse, sieh zu, wie sich dein
+  Fokus auf dem Bildschirm widerspiegelt, und erlebe die Folgen eines dauernden
+  Blicks auf das Negative.
 iframeSrc: 'https://html5.iclouds.io/we-become-behold/index.html'
 thumbnail: /new-images/thumbnails/we-become-what-we-behold.jpg
+urlstr: we-become-what-we-behold
 tags:
   - satire
   - social-commentary

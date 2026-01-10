@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: sprunki-like-minecraft
-title: Sprunki Like Minecraft - Juega a Sprunki Like Minecraft online
+title: Sprunki Like Minecraft
+seoTitle: Juega a Sprunki Like Minecraft en línea gratis | FiddleBops
 description: >-
   ¿Eres fan de Incredibox Sprunki y también amante del mundo de píxeles de
   Minecraft? Entonces Sprunki Like Minecraft Mod te va a encantar: une el estilo
   de bloques clásico con la creación musical de Sprunki en una sola experiencia.
 iframeSrc: 'https://turbowarp.org/1095572358/embed'
 thumbnail: /new-images/thumbnails/sprunki-like-minecraft.png
+urlstr: sprunki-like-minecraft
 tags:
   - sprunki like minecraft
 score: 4.6/5  (601 votes)

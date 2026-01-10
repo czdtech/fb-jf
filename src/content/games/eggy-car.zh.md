@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: eggy-car
 title: Eggy Car 蛋仔物理赛车
+seoTitle: 免费在线玩 Eggy Car 蛋仔物理赛车 | FiddleBops
 description: Eggy Car 是一款物理驾驶游戏，你要一边开着小车翻山越岭，一边保护车上的易碎鸡蛋， 不能让它从车顶滚落或被颠碎。
 iframeSrc: 'https://webglmath.github.io/eggy-car/'
 thumbnail: /new-images/thumbnails/eggy-car.jpg
+urlstr: eggy-car
 tags:
   - driving
   - physics

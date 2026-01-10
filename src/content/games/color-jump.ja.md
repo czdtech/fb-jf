@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Color Jump カラー・ジャンプ
+seoTitle: 無料でColor Jump カラー・ジャンプをオンラインでプレイ | FiddleBops
 description: 「Color Jump」はワンタップで遊べるランアクション。色を合わせ、ジャンプのタイミングを見極め、変化するパターンをすり抜けよう。
 iframeSrc: 'https://2sqb7s6hkuouo.h5games.usercontent.goog/v/251huhkdnons0/'
 thumbnail: /new-images/thumbnails/color-jump.png
 urlstr: color-jump
-score: 3.9/5  (1691 votes)
 tags:
   - action
   - casual
+score: 3.9/5  (1691 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

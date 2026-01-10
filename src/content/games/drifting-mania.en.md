@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Drifting mania"
-description: "Drifting mania tests top‑down drift control — feather throttle, link slides, and master corner rhythm."
-iframeSrc: "https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/"
+title: Drifting mania
+seoTitle: Play Drifting mania Online Free | FiddleBops
+description: >-
+  Drifting mania tests top‑down drift control — feather throttle, link slides,
+  and master corner rhythm.
+iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
 thumbnail: /new-images/thumbnails/drifting-mania.png
-urlstr: "drifting-mania"
-score: "3.8/5  (1640 votes)"
-tags: ["car", "driving"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: drifting-mania
+tags:
+  - car
+  - driving
+score: 3.8/5  (1640 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

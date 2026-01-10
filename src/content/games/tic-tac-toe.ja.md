@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Tic Tac Toe
+seoTitle: 無料でTic Tac Toeをオンラインでプレイ | FiddleBops
 description: Tic Tac Toeは、クラシックな三目並べゲームです。3つのマークを縦、横、斜めに揃えて勝ちましょう。
 iframeSrc: 'https://edit.coolmathgames.com//sites/cmatgame/files/public_games/32511/'
 thumbnail: /new-images/thumbnails/tic-tac-toe.jpg
 urlstr: tic-tac-toe
-score: 4.6/5  (216 votes)
 tags:
   - strategy
   - classic
   - board
-locale: ja
+score: 4.6/5  (216 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

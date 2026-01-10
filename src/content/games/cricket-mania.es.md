@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: cricket-mania
 title: Cricket Mania
+seoTitle: Juega a Cricket Mania en línea gratis | FiddleBops
 description: >-
   Cricket Mania es un juego rápido de bateo de críquet: elige el tipo de golpe,
   ajusta la sincronización y persigue el objetivo entrada a entrada.
 iframeSrc: 'https://73lnk17f84iog.h5games.usercontent.goog/v/1p7sdm5buflt0/'
 thumbnail: /new-images/thumbnails/cricket-mania.png
+urlstr: cricket-mania
 tags:
   - sports
   - casual

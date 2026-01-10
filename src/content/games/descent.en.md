@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Descent"
-description: "Descent is an arcade skill game: navigate downward, avoid hazards, and time movements to reach the goal."
-iframeSrc: "https://g2.igroutka.ru/games/17/4tWRaCD7AOzxbTsE/descent/"
+title: Descent
+seoTitle: Play Descent Online Free | FiddleBops
+description: >-
+  Descent is an arcade skill game: navigate downward, avoid hazards, and time
+  movements to reach the goal.
+iframeSrc: 'https://g2.igroutka.ru/games/17/4tWRaCD7AOzxbTsE/descent/'
 thumbnail: /new-images/thumbnails/descent.jpg
-urlstr: "descent"
-score: "5.0/5  (1486 votes)"
-tags: ["arcade", "skill"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: descent
+tags:
+  - arcade
+  - skill
+score: 5.0/5  (1486 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

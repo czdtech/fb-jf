@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Mundo Torajo Sprunki
+seoTitle: 無料でMundo Torajo Sprunkiをオンラインでプレイ | FiddleBops
 description: >-
   Mundo Torajo
   Sprunkiはカラフルな音楽作成ゲームです。サウンドをミックスし、キャラクターを選択し、ユニークなビートを作成し、音楽の創造性を楽しみます。
 iframeSrc: 'https://turbowarp.org/1096623350/embed'
 thumbnail: /new-images/thumbnails/mundo-torajo-sprunki.png
 urlstr: mundo-torajo-sprunki
-score: 4.0/5  (112 votes)
 tags:
   - casual
   - novelty
+score: 4.0/5  (112 votes)
 developer: ''
-releaseDate: 2025-12-04
-locale: ja
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

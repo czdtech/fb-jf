@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Stick Fight
+seoTitle: 無料でStick Fightをオンラインでプレイ | FiddleBops
 description: Stick Fightは、スティックマンキャラクターとの激しい戦闘アクションゲームです。戦って生き残りましょう。
 iframeSrc: 'https://ext.minijuegosgratis.com/stick-fighter-2/index.html'
 thumbnail: /new-images/thumbnails/stick-fight.jpg
 urlstr: stick-fight
-score: 3.6/5  (1015 votes)
 tags:
   - action
   - fighting
   - multiplayer
-locale: ja
+score: 3.6/5  (1015 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

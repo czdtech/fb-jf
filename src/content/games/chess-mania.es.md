@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: chess-mania
 title: Chess Mania
+seoTitle: Juega a Chess Mania en línea gratis | FiddleBops
 description: >-
   Vive Chess Mania, un juego de ajedrez lleno de opciones para todos los
   niveles. Enfréntate a la IA, resuelve puzles desafiantes y da pasos firmes
   hacia convertirte en maestro.
 iframeSrc: 'https://chessmania.h5games.usercontent.goog/v/3if0hd2c47oo8/'
 thumbnail: /new-images/thumbnails/chess-mania.png
+urlstr: chess-mania
 tags:
   - thinky
   - 2 player

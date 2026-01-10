@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: bubble-trouble
 title: Bubble Trouble 泡泡大麻烦
+seoTitle: 免费在线玩 Bubble Trouble 泡泡大麻烦 | FiddleBops
 description: 《Bubble Trouble 泡泡大麻烦》中，你操控角色用绳索或子弹射破场上的大泡泡，每次命中都会分裂成更小的泡泡，需要在不被击中前将所有泡泡全部清除。
 iframeSrc: >-
   https://app-96647.games.s3.yandex.net/96647/w4h0ydt7quklspc0jxwg9kauaiii2lnx/index.html
 thumbnail: /new-images/thumbnails/bubble-trouble.jpg
+urlstr: bubble-trouble
 tags:
   - arcade
   - action

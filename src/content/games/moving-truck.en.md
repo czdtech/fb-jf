@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Moving Truck"
-description: "Moving Truck is a physics-based puzzle game where players must strategically load furniture and items into a moving truck to ensure safe and balanced transport to the destination."
-iframeSrc: "https://g.igroutka.ru/games/164/JgHSvhdBMa5pf4WZ/moving_truck/"
+title: Moving Truck
+seoTitle: Play Moving Truck Online Free | FiddleBops
+description: >-
+  Moving Truck is a physics-based puzzle game where players must strategically
+  load furniture and items into a moving truck to ensure safe and balanced
+  transport to the destination.
+iframeSrc: 'https://g.igroutka.ru/games/164/JgHSvhdBMa5pf4WZ/moving_truck/'
 thumbnail: /new-images/thumbnails/moving-truck.jpg
-urlstr: "moving-truck"
-score: "3.6/5  (650 votes)"
-tags: ["puzzle", "physics", "driving"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: moving-truck
+tags:
+  - puzzle
+  - physics
+  - driving
+score: 3.6/5  (650 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

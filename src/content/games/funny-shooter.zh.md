@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: funny-shooter
 title: Funny Shooter 奇葩射击
+seoTitle: 免费在线玩 Funny Shooter 奇葩射击 | FiddleBops
 description: 波次制射击原型作：在一波波攻势中对付各式怪异敌人， 收集金钱并升级武器，才能在愈来愈硬的关卡中存活。
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter/'
 thumbnail: /new-images/thumbnails/funny-shooter.jpg
+urlstr: funny-shooter
 tags:
   - shooting
   - fps

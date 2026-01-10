@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: uncle-ahmed
 title: Uncle Ahmed
+seoTitle: Spiele Uncle Ahmed kostenlos online | FiddleBops
 description: >-
   Begib dich mit Uncle Ahmed auf ein klassisches 2D‑Jump‑and‑Run‑Abenteuer:
   Spring auf Gegner, sammle Münzen und nutze Power‑ups, um deinen entführten
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://uncleahmed.h5games.usercontent.goog/v/31ca380f-5493-4371-b5ac-5c3c2da67626/
 thumbnail: /new-images/thumbnails/uncle-ahmed.jpg
+urlstr: uncle-ahmed
 tags:
   - action
   - adventure

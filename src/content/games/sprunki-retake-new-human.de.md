@@ -1,17 +1,19 @@
 ---
 locale: de
-urlstr: sprunki-retake-new-human
-title: "Sprunki Retake New Human 🔥 Sprunki Retake New Human online spielen"
+title: Sprunki Retake New Human
+seoTitle: Spiele Sprunki Retake New Human kostenlos online | FiddleBops
 description: >-
-  Der Kern von Sprunki Retake New Human ist es, das klassische Incredibox-Erlebnis
-  durch ein neues humanoide Charakterdesign neu zu interpretieren.
+  Der Kern von Sprunki Retake New Human ist es, das klassische
+  Incredibox-Erlebnis durch ein neues humanoide Charakterdesign neu zu
+  interpretieren.
 iframeSrc: 'https://turbowarp.org/1139615160/embed'
 thumbnail: /new-images/thumbnails/sprunki-retake-new-human.png
+urlstr: sprunki-retake-new-human
 tags:
   - sprunki retake new human
   - musical mod
 score: 4.0/5  (829 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Einführung in Sprunki Retake New Human

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: mini-golf-world
-title: "Mini Golf World"
+title: Mini Golf World
+seoTitle: Spiele Mini Golf World kostenlos online | FiddleBops
 description: >-
-  Mini Golf World bringt Minigolf auf Hochglanz: Lies das Gefälle, nutze
-  Banden und dosiere die Schlagstärke, um verspielte Bahnen in Themenwelten zu
+  Mini Golf World bringt Minigolf auf Hochglanz: Lies das Gefälle, nutze Banden
+  und dosiere die Schlagstärke, um verspielte Bahnen in Themenwelten zu
   meistern.
 iframeSrc: 'https://32tnqh6bck80g.h5games.usercontent.goog/v/3auurdk9r953g/'
 thumbnail: /new-images/thumbnails/mini-golf-world.png
+urlstr: mini-golf-world
 tags:
   - sports
   - puzzle

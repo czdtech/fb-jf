@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: bird-sort-quest
 title: Bird Sort Quest
+seoTitle: Jouez à Bird Sort Quest en ligne gratuitement | FiddleBops
 description: "Bird Sort Quest est un jeu de tri apaisant\_: déplace les oiseaux d’un perchoir à l’autre pour regrouper les couleurs, tout en gérant les emplacements libres."
 iframeSrc: 'https://59c0fiphd7ng0.h5games.usercontent.goog/v/5cgtqofbdtd08/'
 thumbnail: /new-images/thumbnails/bird-sort-quest.png
+urlstr: bird-sort-quest
 tags:
   - puzzle
   - thinky

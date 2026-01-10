@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: 99-balls-3d
 title: 99 Balls 3D disparos y física
+seoTitle: Juega a 99 Balls 3D disparos y física en línea gratis | FiddleBops
 description: >-
   99 Balls 3D es un adictivo juego de disparos con física que mezcla Breakout y
   Bubble Shooter. Apunta, lanza una lluvia de bolas y destruye los objetivos
   numerados mientras recoges anillas y estrellas.
 iframeSrc: 'https://99balls3d.h5games.usercontent.goog/v/0b35ksethbio8/'
 thumbnail: /new-images/thumbnails/99-balls-3d.jpeg
+urlstr: 99-balls-3d
 tags:
   - shooting
   - puzzle

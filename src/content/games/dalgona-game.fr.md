@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: dalgona-game
 title: Dalgona Game
+seoTitle: Jouez à Dalgona Game en ligne gratuitement | FiddleBops
 description: "Dalgona Game s’inspire du défi du biscuit au sucre\_: découpe soigneusement la forme dans le bonbon sans le casser."
 iframeSrc: 'https://12d729aggg2h0.h5games.usercontent.goog/v/786aa9qgft3vo/'
 thumbnail: /new-images/thumbnails/dalgona-game.png
+urlstr: dalgona-game
 tags:
   - puzzle
   - casual

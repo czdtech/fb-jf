@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: panda-pizza-parlor
 title: Panda Pizza Parlor 판다 피자 가게
+seoTitle: Panda Pizza Parlor 판다 피자 가게 무료 온라인 플레이 | FiddleBops
 description: >-
   귀여운 판다 셰프가 운영하는 피자 가게 경영 게임입니다. 손님 주문을 확인하고, 알맞은 토핑을 올려 구운 뒤 빠르게 서빙해 피자 가게를
   성장시켜 보세요.
 iframeSrc: 'https://pandapizzaparlor.h5games.usercontent.goog/v/16ldgoh3to3f8/'
 thumbnail: /new-images/thumbnails/panda-pizza-parlor.png
+urlstr: panda-pizza-parlor
 tags:
   - casual
   - action

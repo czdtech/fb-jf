@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "War of Sticks"
-description: "Command your stickman army in War of Sticks, a strategic battle game! Mine for resources, train diverse units like shielders, archers, and barbarians, and deploy them to conquer the Red Empire. Build defenses, plan your attacks, and lead your forces to victory in this engaging RTS."
-iframeSrc: "https://g.igroutka.ru/games/164/lt2ARJHFBxPb4spD/4/war_of_sticks/"
+title: War of Sticks
+seoTitle: Play War of Sticks Online Free | FiddleBops
+description: >-
+  Command your stickman army in War of Sticks, a strategic battle game! Mine for
+  resources, train diverse units like shielders, archers, and barbarians, and
+  deploy them to conquer the Red Empire. Build defenses, plan your attacks, and
+  lead your forces to victory in this engaging RTS.
+iframeSrc: 'https://g.igroutka.ru/games/164/lt2ARJHFBxPb4spD/4/war_of_sticks/'
 thumbnail: /new-images/thumbnails/war-of-sticks.jpg
-urlstr: "war-of-sticks"
-score: "4.4/5  (816 votes)"
-tags: ["strategy", "rts", "stickman"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: war-of-sticks
+tags:
+  - strategy
+  - rts
+  - stickman
+score: 4.4/5  (816 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: dalgona-game
 title: Dalgona Game 鱿鱼游戏椪糖挑战
+seoTitle: 免费在线玩 Dalgona Game 鱿鱼游戏椪糖挑战 | FiddleBops
 description: 《Dalgona Game 鱿鱼游戏椪糖挑战》还原韩式椪糖刻图玩法。你需要沿着糖饼上压印的图案小 心描边，控制裂痕，在倒计时结束前成功掏出完整图形。
 iframeSrc: 'https://12d729aggg2h0.h5games.usercontent.goog/v/786aa9qgft3vo/'
 thumbnail: /new-images/thumbnails/dalgona-game.png
+urlstr: dalgona-game
 tags:
   - casual
   - thinky

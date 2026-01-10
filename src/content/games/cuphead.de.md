@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: cuphead
-title: "Cuphead"
+title: Cuphead
+seoTitle: Spiele Cuphead kostenlos online | FiddleBops
 description: >-
-  Cuphead ist ein schnelles Run-and-Gun-Spiel – meistere präzise Sprünge,
-  Dashes und Bossmuster, um die intensiven Kämpfe zu überleben.
+  Cuphead ist ein schnelles Run-and-Gun-Spiel – meistere präzise Sprünge, Dashes
+  und Bossmuster, um die intensiven Kämpfe zu überleben.
 iframeSrc: 'https://bitlifeonline.github.io/cuphead/'
 thumbnail: /new-images/thumbnails/cuphead.jpg
+urlstr: cuphead
 tags:
   - action
   - platformer

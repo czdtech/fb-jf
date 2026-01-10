@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: fireboy-and-watergirl-4
-title: "Fireboy And Watergirl 4: The Crystal Temple"
+title: 'Fireboy And Watergirl 4: The Crystal Temple'
+seoTitle: 'Fireboy And Watergirl 4: The Crystal Temple 무료 온라인 플레이 | FiddleBops'
 description: >-
-  크리스털 포탈이 등장하는 Fireboy and Watergirl 시리즈 4편입니다. 포탈을
-  활용한 협동 퍼즐 공략, 조작법, 공략 팁과 FAQ를 정리한 가이드입니다.
+  크리스털 포탈이 등장하는 Fireboy and Watergirl 시리즈 4편입니다. 포탈을 활용한 협동 퍼즐 공략, 조작법, 공략 팁과
+  FAQ를 정리한 가이드입니다.
 iframeSrc: 'https://slope-game.github.io/fireboy-water-4/'
 thumbnail: /new-images/thumbnails/fireboy-and-watergirl-4.jpg
+urlstr: fireboy-and-watergirl-4
 tags:
   - casual
   - rhythm

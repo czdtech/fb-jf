@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Gladihoppers"
-description: "2D gladiator brawler with physics hops: customize gear, time lunges and parries, and climb arenas in duels or modes." 
-iframeSrc: "https://m.igroutka.ru/g-1/113/Gladihoppers/"
+title: Gladihoppers
+seoTitle: Play Gladihoppers Online Free | FiddleBops
+description: >-
+  2D gladiator brawler with physics hops: customize gear, time lunges and
+  parries, and climb arenas in duels or modes.
+iframeSrc: 'https://m.igroutka.ru/g-1/113/Gladihoppers/'
 thumbnail: /new-images/thumbnails/gladihoppers.jpg
-urlstr: "gladihoppers"
-score: "3.7/5  (383 votes)"
-tags: ["fighting", "action"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: gladihoppers
+tags:
+  - fighting
+  - action
+score: 3.7/5  (383 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

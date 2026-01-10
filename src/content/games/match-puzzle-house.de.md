@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: match-puzzle-house
 title: Match Puzzle House
+seoTitle: Spiele Match Puzzle House kostenlos online | FiddleBops
 description: >-
   Match Puzzle House verbindet Match-3-Puzzle mit Wohnungsrenovierung: Erfülle
   Levelziele, verdiene Sterne und richte Räume mit clever eingesetzten Boostern
   ein.
 iframeSrc: 'https://7cp83ss0h08p0.h5games.usercontent.goog/v/49v2bsl4scjdo/'
 thumbnail: /new-images/thumbnails/match-puzzle-house.png
+urlstr: match-puzzle-house
 tags:
   - puzzle
   - casual

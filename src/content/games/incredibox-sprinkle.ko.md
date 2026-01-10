@@ -1,17 +1,17 @@
 ---
 locale: ko
-urlstr: incredibox-sprinkle
-title: "Incredibox Sprinkle 스프링클 음악 만들기"
+title: Incredibox Sprinkle 스프링클 음악 만들기
+seoTitle: Incredibox Sprinkle 스프링클 음악 만들기 무료 온라인 플레이 | FiddleBops
 description: >-
-  간단한 조작으로 누구나 즐길 수 있는 음악 제작 게임
-  'Sprinkle Incredibox' 가이드입니다. 캐릭터를 배치해 사운드를
-  조합하는 방법과 조작법, 특징을 소개합니다.
+  간단한 조작으로 누구나 즐길 수 있는 음악 제작 게임 'Sprinkle Incredibox' 가이드입니다. 캐릭터를 배치해 사운드를 조합하는
+  방법과 조작법, 특징을 소개합니다.
 iframeSrc: 'https://g.sprinkleincredibox.com/web-game/SprinkleIncredibox/index.html'
 thumbnail: /new-images/thumbnails/incredibox-sprinkle.png
+urlstr: incredibox-sprinkle
 tags:
   - incredibox sprinkle
 score: 3.8/5  (387 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

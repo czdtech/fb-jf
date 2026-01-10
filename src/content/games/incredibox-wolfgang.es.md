@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: incredibox-wolfgang
-title: "Incredibox Wolfgang"
+title: Incredibox Wolfgang
+seoTitle: Juega a Incredibox Wolfgang en línea gratis | FiddleBops
 description: >-
   Explora "Incredibox Wolfgang", un mod fan-made que rinde homenaje a la música
   clásica y a Mozart. Esta guía detalla su paleta orquestal, la jugabilidad para
@@ -9,6 +9,7 @@ description: >-
   dieciochesca.
 iframeSrc: 'https://turbowarp.org/943197191/embed'
 thumbnail: /new-images/thumbnails/incredibox-wolfgang.png
+urlstr: incredibox-wolfgang
 tags:
   - music
   - classical

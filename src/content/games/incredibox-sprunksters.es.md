@@ -1,17 +1,18 @@
 ---
 locale: es
-urlstr: incredibox-sprunksters
-title: "Incredibox Sprunksters - Juega Incredibox Sprunksters en línea"
+title: Incredibox Sprunksters
+seoTitle: Juega a Incredibox Sprunksters en línea gratis | FiddleBops
 description: >-
-  Di adiós a los sonidos de siempre. Incredibox Sprunksters trae nuevas
-  muestras y efectos, haciendo que tus temas suenen frescos, creativos y con
-  mucha personalidad.
+  Di adiós a los sonidos de siempre. Incredibox Sprunksters trae nuevas muestras
+  y efectos, haciendo que tus temas suenen frescos, creativos y con mucha
+  personalidad.
 iframeSrc: 'https://turbowarp.org/1129395199/embed'
 thumbnail: /new-images/thumbnails/incredibox-sprunksters.png
+urlstr: incredibox-sprunksters
 tags:
   - incredibox sprunksters
 score: 4.3/5  (185 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

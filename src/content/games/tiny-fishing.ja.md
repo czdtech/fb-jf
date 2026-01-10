@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Tiny Fishing
+seoTitle: 無料でTiny Fishingをオンラインでプレイ | FiddleBops
 description: Tiny Fishingは、リラックスできる釣りゲームです。魚を釣って、ロッドをアップグレードしましょう。
 iframeSrc: 'https://webglmath.github.io/tiny-fishing/'
 thumbnail: /new-images/thumbnails/tiny-fishing.jpg
 urlstr: tiny-fishing
-score: 4.7/5  (322 votes)
 tags:
   - fishing
   - casual
   - relaxing
-locale: ja
+score: 4.7/5  (322 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Quest Bingo
+seoTitle: 無料でQuest Bingoをオンラインでプレイ | FiddleBops
 description: Quest Bingoはビンゴアドベンチャーゲームです。番号をマークし、ビンゴを完成させ、クエストをクリアし、報酬をアンロックします。
 iframeSrc: 'https://52nk212336l1g.h5games.usercontent.goog/v/0smbj5p2kjk78/'
 thumbnail: /new-images/thumbnails/quest-bingo.png
 urlstr: quest-bingo
-score: 4.5/5  (2550 votes)
 tags:
   - casual
   - card
+score: 4.5/5  (2550 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: guns-n-bottles
 title: Guns n' Bottles 회전 사격 게임
+seoTitle: Guns n' Bottles 회전 사격 게임 무료 온라인 플레이 | FiddleBops
 description: >-
   중앙에서 계속 회전하는 권총으로 병을 쏘아 맞히는 원터치 아케이드 슈팅 게임입니다. 조준이 병을 스치기 직전에 발사해 초록 병은 깨뜨리고,
   빨간 병은 절대 맞추지 마세요.
 iframeSrc: 'https://aktestgunsandbottles.h5games.usercontent.goog/v/51pcsm84fc4ag/'
 thumbnail: /new-images/thumbnails/guns-n-bottles.png
+urlstr: guns-n-bottles
 tags:
   - shooting
   - action

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: getting-over-it
 title: Getting Over It
+seoTitle: Juega a Getting Over It en línea gratis | FiddleBops
 description: >-
   Reto de escalar con martillo: balancea, haz saltos tipo pogo y arrastra a un
   hombre en una cazuela por obstáculos surrealistas; una física muy precisa
   castiga cualquier impaciencia.
 iframeSrc: 'https://ubg77.github.io/fix/getting-over-it/'
 thumbnail: /new-images/thumbnails/getting-over-it.jpg
+urlstr: getting-over-it
 tags:
   - platformer
   - physics

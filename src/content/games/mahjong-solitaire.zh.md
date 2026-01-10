@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: mahjong-solitaire
 title: 《Mahjong Solitaire》麻将接龙
+seoTitle: 免费在线玩 《Mahjong Solitaire》麻将接龙 | FiddleBops
 description: 在《Mahjong Solitaire》中挑战你的观察力：在多层麻将牌阵中不断寻找并消除成对的自由牌，用策略与耐心清空整盘。
 iframeSrc: 'https://4erks8385j9eo.h5games.usercontent.goog/v/1ff4p4m8ilme8/'
 thumbnail: /new-images/thumbnails/mahjong-solitaire.png
+urlstr: mahjong-solitaire
 tags:
   - puzzle
   - card

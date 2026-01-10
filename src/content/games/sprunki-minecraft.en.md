@@ -1,17 +1,18 @@
 ---
 locale: en
-title: Sprunki Minecraft - Play Sprunki Minecraft Online
+title: Sprunki Minecraft
+seoTitle: Play Sprunki Minecraft Online Free | FiddleBops
 description: >-
   Sprunki Minecraft proves that innovation can still flourish within familiar
   gameplay loops. If you
 iframeSrc: 'https://turbowarp.org/1140459751/embed'
 thumbnail: /new-images/thumbnails/sprunki-minecraft.png
 urlstr: sprunki-minecraft
-modType: sprunki
-score: 4.0/5  (212 votes)
 tags:
   - sprunki minecraft
   - music
+modType: sprunki
+score: 4.0/5  (212 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

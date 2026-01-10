@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: dalgona-game
 title: Dalgona Game 달고나 게임
+seoTitle: Dalgona Game 달고나 게임 무료 온라인 플레이 | FiddleBops
 description: >-
   한국 전통 달고나 뽑기를 게임으로 옮긴 Dalgona Game입니다. 모양선을 따라 조심스럽게 선을 긋고, 균열을 관리하며 제한 시간 안에
   달고나를 깨지 않고 도려내 보세요.
 iframeSrc: 'https://12d729aggg2h0.h5games.usercontent.goog/v/786aa9qgft3vo/'
 thumbnail: /new-images/thumbnails/dalgona-game.png
+urlstr: dalgona-game
 tags:
   - casual
   - thinky

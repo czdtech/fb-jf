@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: ping-pong
 title: 《Ping Pong》经典乒乓街机
+seoTitle: 免费在线玩 《Ping Pong》经典乒乓街机 | FiddleBops
 description: 《Ping Pong》是一款经典的乒乓街机游戏，双方各操控一块拍子在屏幕两侧来回击球，试图让对手接不到球从而得分。
 iframeSrc: 'https://ranimania.com/Games/pingpong/ping_pong/'
 thumbnail: /new-images/thumbnails/ping-pong.jpg
+urlstr: ping-pong
 tags:
   - arcade
   - sports

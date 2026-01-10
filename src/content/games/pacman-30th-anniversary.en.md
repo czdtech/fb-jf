@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Pacman 30th Anniversary"
-description: "Pacman 30th Anniversary is a special edition of the iconic arcade game, celebrating three decades of maze-chasing fun. Players guide Pac-Man through a labyrinth, eating pellets and power-ups while avoiding ghosts, in this nostalgic and engaging classic."
-iframeSrc: "https://pacman-30thanniversary.com/game/doodle-pacman/pacman.html"
+title: Pacman 30th Anniversary
+seoTitle: Play Pacman 30th Anniversary Online Free | FiddleBops
+description: >-
+  Pacman 30th Anniversary is a special edition of the iconic arcade game,
+  celebrating three decades of maze-chasing fun. Players guide Pac-Man through a
+  labyrinth, eating pellets and power-ups while avoiding ghosts, in this
+  nostalgic and engaging classic.
+iframeSrc: 'https://pacman-30thanniversary.com/game/doodle-pacman/pacman.html'
 thumbnail: /new-images/thumbnails/pacman-30th-anniversary.jpg
-urlstr: "pacman-30th-anniversary"
-score: "3.6/5  (745 votes)"
-tags: ["arcade", "classic", "celebration"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: pacman-30th-anniversary
+tags:
+  - arcade
+  - classic
+  - celebration
+score: 3.6/5  (745 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

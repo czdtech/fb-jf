@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: rampage-road
 title: Rampage Road
+seoTitle: Juega a Rampage Road en línea gratis | FiddleBops
 description: >-
   Rampage Road es un caótico juego de disparos sobre ruedas: esquiva el tráfico,
   destroza enemigos y sobrevive a persecuciones llenas de explosiones.
 iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
 thumbnail: /new-images/thumbnails/rampage-road.png
+urlstr: rampage-road
 tags:
   - car
   - driving

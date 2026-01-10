@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: lake-jump
 title: Lake Jump
+seoTitle: Juega a Lake Jump en línea gratis | FiddleBops
 description: >-
   Lake Jump es un juego de un solo toque basado en el tiempo: salta de
   plataforma en plataforma, evita las caídas al agua y encadena saltos
   perfectos.
 iframeSrc: 'https://lakejump.h5games.usercontent.goog/v/33bg3iluek1fg/'
 thumbnail: /new-images/thumbnails/lake-jump.png
+urlstr: lake-jump
 tags:
   - action
   - casual

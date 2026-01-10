@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Golf Fling
+seoTitle: 無料でGolf Flingをオンラインでプレイ | FiddleBops
 description: Golf Flingでホールインワンを目指してボールを弾き飛ばそう！狙いを定め、引っ張って、放つ、物理ベースのパズルゲームです。
 iframeSrc: >-
   https://golffling.h5games.usercontent.goog/v/0aa707a3-71a5-4ad8-be9b-32ce55e28d64/
 thumbnail: /new-images/thumbnails/golf-fling.jpg
 urlstr: golf-fling
-score: 4.1/5  (1776 votes)
 tags:
   - sports
   - puzzle
   - casual
+score: 4.1/5  (1776 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

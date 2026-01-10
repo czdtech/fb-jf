@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: jet-boi
 title: 《Jet Boi》喷气背包对决
+seoTitle: 免费在线玩 《Jet Boi》喷气背包对决 | FiddleBops
 description: 《Jet Boi》是一款 2 人本地对战射击游戏，你和对手都背着喷气背包在平台间飞来飞去，抢武器、控燃料，用击退把对方从平台边缘打下去赢下回合。
 iframeSrc: >-
   https://g.igroutka.ru/games/23/yw5Aj09crUtBZC8T/rvvASMiM/5113cafa646f4648abc873fe8fbb7232/
 thumbnail: /new-images/thumbnails/jet-boi.jpg
+urlstr: jet-boi
 tags:
   - action
   - multiplayer

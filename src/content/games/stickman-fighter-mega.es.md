@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: stickman-fighter-mega
-title: 'Stickman Fighter Mega'
+title: Stickman Fighter Mega
+seoTitle: Juega a Stickman Fighter Mega en línea gratis | FiddleBops
 description: >-
   Stickman Fighter Mega es un brawler lateral muy dinámico: domina el tiempo de
   las paradas, encadena combos y desmonta oleadas de enemigos gestionando bien
   la distancia y los especiales.
 iframeSrc: 'https://0f2fr1ttejsng.h5games.usercontent.goog/v/6dfsqbbtglo48/'
 thumbnail: /new-images/thumbnails/stickman-fighter-mega.jpg
+urlstr: stickman-fighter-mega
 tags:
   - stickman
   - action

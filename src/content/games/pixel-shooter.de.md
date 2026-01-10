@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: pixel-shooter
 title: Pixel Shooter
+seoTitle: Spiele Pixel Shooter kostenlos online | FiddleBops
 description: >-
   Pixel Shooter ist ein Retro-Shooter im Pixelart-Stil, in dem du dich durch
   Horden von Gegnern kämpfst, Power-ups sammelst und deine Waffen aufrüstest, um
   in immer schwierigeren Leveln zu überleben.
 iframeSrc: 'https://a.onlineigry.net/games3/igra-piksel-shuter/index.htm'
 thumbnail: /new-images/thumbnails/pixel-shooter.jpg
+urlstr: pixel-shooter
 tags:
   - shooting
   - pixel art

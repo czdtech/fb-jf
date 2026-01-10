@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: nature-strikes-back
 title: 自然反击
+seoTitle: 免费在线玩 自然反击 | FiddleBops
 description: 在这款激动人心的塔防游戏中合并并指挥自然的守护精灵。组合你的单位使它们变得更强大，保卫自然之心免受污染怪物的侵袭！
 iframeSrc: 'https://79gloe1v4okkg.h5games.usercontent.goog/v/6qlhje6nn2bg0/'
 thumbnail: /new-images/thumbnails/nature-strikes-back.png
+urlstr: nature-strikes-back
 tags:
   - strategy
   - tower Defense

@@ -1,6 +1,7 @@
 ---
 locale: en
 title: The Binding of Isaac
+seoTitle: Play The Binding of Isaac Online Free | FiddleBops
 description: >-
   Descend into the basement in The Binding of Isaac, a dark and challenging
   roguelike action-RPG. Battle grotesque creatures, collect bizarre power-ups,
@@ -9,12 +10,12 @@ description: >-
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-binding-of-isaac.html'
 thumbnail: /new-images/thumbnails/the-binding-of-isaac.jpg
 urlstr: the-binding-of-isaac
-score: 4.1/5  (186 votes)
 tags:
   - roguelike
   - action-rpg
   - indie
   - action
+score: 4.1/5  (186 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---

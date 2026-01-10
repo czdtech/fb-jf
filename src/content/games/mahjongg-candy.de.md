@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: mahjongg-candy
-title: "Mahjongg Candy"
+title: Mahjongg Candy
+seoTitle: Spiele Mahjongg Candy kostenlos online | FiddleBops
 description: >-
   Still deinen Süßhunger und schärfe deinen Verstand mit Mahjongg Candy! In
   diesem farbenfrohen Kachel-Matching-Puzzle räumst du das Brett, indem du
   identische, freie Bonbon-Steine findest und kombinierst.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-candy-mahjongg/'
 thumbnail: /new-images/thumbnails/mahjongg-candy.jpg
+urlstr: mahjongg-candy
 tags:
   - puzzle
   - tile-matching

@@ -1,14 +1,20 @@
 ---
-title: "Air Traffic Control 航空管制官"
-description: "「Air Traffic Control」は、リアルタイムで航空機の離着陸を管理するパズルゲームです。衝突を回避し、安全な間隔を保ちながら飛行機を誘導しましょう。"
-iframeSrc: "https://2nuk1jh1nvsq8.h5games.usercontent.goog/v/5glj0btngbu2o/"
-thumbnail: /new-images/thumbnails/air-traffic-control.png
-urlstr: "air-traffic-control"
-score: "4.2/5  (1846 votes)"
-tags: ["thinky", "puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
 locale: ja
+title: Air Traffic Control 航空管制官
+seoTitle: 無料でAir Traffic Control 航空管制官をオンラインでプレイ | FiddleBops
+description: >-
+  「Air Traffic
+  Control」は、リアルタイムで航空機の離着陸を管理するパズルゲームです。衝突を回避し、安全な間隔を保ちながら飛行機を誘導しましょう。
+iframeSrc: 'https://2nuk1jh1nvsq8.h5games.usercontent.goog/v/5glj0btngbu2o/'
+thumbnail: /new-images/thumbnails/air-traffic-control.png
+urlstr: air-traffic-control
+tags:
+  - thinky
+  - puzzle
+  - casual
+score: 4.2/5  (1846 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

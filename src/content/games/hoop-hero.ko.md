@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: hoop-hero
 title: Hoop Hero 훕 히어로 덩크 게임
+seoTitle: Hoop Hero 훕 히어로 덩크 게임 무료 온라인 플레이 | FiddleBops
 description: >-
   공이 링 위로 올라오는 순간을 노려 화면을 탭해 덩크를 성공시키는 원터치 농구 게임입니다. 점점 빨라지는 공의 움직임에 맞춰 타이밍을 정확히
   재고, 연속 덩크로 하이스코어에 도전하세요.
 iframeSrc: 'https://06f80rna6d2sg.h5games.usercontent.goog/v/69kffdfih87r0/'
 thumbnail: /new-images/thumbnails/hoop-hero.png
+urlstr: hoop-hero
 tags:
   - action
   - casual

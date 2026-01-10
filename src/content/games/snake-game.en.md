@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Snake Game"
-description: "Snake Game is the classic arcade game where players control a growing snake to eat food items while avoiding collisions with walls and the snake's own body, aiming to achieve the highest possible score."
-iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/snake/"
+title: Snake Game
+seoTitle: Play Snake Game Online Free | FiddleBops
+description: >-
+  Snake Game is the classic arcade game where players control a growing snake to
+  eat food items while avoiding collisions with walls and the snake's own body,
+  aiming to achieve the highest possible score.
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/snake/'
 thumbnail: /new-images/thumbnails/snake-game.jpg
-urlstr: "snake-game"
-score: "4.7/5  (1143 votes)"
-tags: ["classic", "arcade", "snake"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: snake-game
+tags:
+  - classic
+  - arcade
+  - snake
+score: 4.7/5  (1143 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

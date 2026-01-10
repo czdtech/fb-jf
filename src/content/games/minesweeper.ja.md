@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Minesweeper
+seoTitle: 無料でMinesweeperをオンラインでプレイ | FiddleBops
 description: クラシックなMinesweeperです。数字の手がかりから地雷を推理し、安全なマスをすべて開けます。
 iframeSrc: 'https://freeonlinegames.github.io/games/minesweeper/'
 thumbnail: /new-images/thumbnails/minesweeper.jpg
 urlstr: minesweeper
-score: 3.6/5  (289 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 3.6/5  (289 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

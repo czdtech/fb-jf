@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Pokemon Fire Red
+seoTitle: 無料でPokemon Fire Redをオンラインでプレイ | FiddleBops
 description: Pokemon Fire Redはポケモンのアドベンチャーゲームです。カントー地方を冒険し、ポケモンを捕獲してジムバッジを集めます。
 iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonred'
 thumbnail: /new-images/thumbnails/pokemon-fire-red.jpg
 urlstr: pokemon-fire-red
-score: 4.0/5  (705 votes)
 tags:
   - adventure
   - casual
+score: 4.0/5  (705 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

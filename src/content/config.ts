@@ -4,7 +4,10 @@ const gamesCollection = defineCollection({
   type: 'content', 
   
   schema: z.object({
-    title: z.string(), // 游戏标题，必须是字符串
+    // Display title shown on page (H1, cards, breadcrumbs). Keep this clean (no SEO boilerplate).
+    title: z.string(),
+    // Optional SEO title for <title>/OG/Twitter. If omitted, pages may generate it from `title`.
+    seoTitle: z.string().optional(),
     description: z.string(), // 简短描述，用于 SEO meta 标签，必须是字符串
     iframeSrc: z.string().url(), // 游戏 iframe 的 URL，必须是有效的 URL 字符串
     thumbnail: z.string(), // 游戏缩略图的路径，必须是字符串 (例如 /thumbnails/game.jpg)

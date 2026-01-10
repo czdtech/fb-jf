@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Bloons TD 6"
-description: "Master Bloons TD 6, the ultimate tower defense game with 3D graphics, heroes, 3 unique upgrade paths per tower, and powerful Paragon monkeys. Devise the perfect strategy to pop every invading Bloon!"
-iframeSrc: "https://html5.gamenora.com/Bloons%20TD%206/"
+title: Bloons TD 6
+seoTitle: Play Bloons TD 6 Online Free | FiddleBops
+description: >-
+  Master Bloons TD 6, the ultimate tower defense game with 3D graphics, heroes,
+  3 unique upgrade paths per tower, and powerful Paragon monkeys. Devise the
+  perfect strategy to pop every invading Bloon!
+iframeSrc: 'https://html5.gamenora.com/Bloons%20TD%206/'
 thumbnail: /new-images/thumbnails/bloons-td-6.jpg
-urlstr: "bloons-td-6"
-score: "4.8/5  (1057 votes)"
-tags: ["casual", "strategy"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: bloons-td-6
+tags:
+  - casual
+  - strategy
+score: 4.8/5  (1057 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

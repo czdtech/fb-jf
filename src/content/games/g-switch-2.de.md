@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: g-switch-2
 title: G-Switch 2
+seoTitle: Spiele G-Switch 2 kostenlos online | FiddleBops
 description: >-
   G-Switch 2 ist der Nachfolger des Gravity-Flip-Runners: Laufe alleine oder im
   lokalen Multiplayer, kippe die Schwerkraft im richtigen Moment und überlebe
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/6/index.html
 thumbnail: /new-images/thumbnails/g-switch-2.jpg
+urlstr: g-switch-2
 tags:
   - runner
   - platformer

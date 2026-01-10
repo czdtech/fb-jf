@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: moving-co
 title: Moving Co
+seoTitle: Spiele Moving Co kostenlos online | FiddleBops
 description: >-
   Moving Co. macht den Umzugstag zum Puzzle: Plane Routen, trage Möbel sicher
   und schlage die Uhr mit cleverer Logistik.
 iframeSrc: 'https://movingco.h5games.usercontent.goog/v/3crgi5efdnml0/'
 thumbnail: /new-images/thumbnails/moving-co.png
+urlstr: moving-co
 tags:
   - casual
   - thinky

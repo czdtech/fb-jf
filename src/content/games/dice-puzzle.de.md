@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: dice-puzzle
 title: Dice Puzzle
+seoTitle: Spiele Dice Puzzle kostenlos online | FiddleBops
 description: >-
   Ein kniffliges Würfel-Denkspiel! Platziere und verschmelze Würfel auf einem
   5x5-Spielfeld, kombiniere drei gleiche Werte zu einer höheren Zahl und plane
   deine Züge, bevor das Brett vollläuft.
 iframeSrc: 'https://0vfcifju4i900.h5games.usercontent.goog/v/2jg90liogd5f8/'
 thumbnail: /new-images/thumbnails/dice-puzzle.jpg
+urlstr: dice-puzzle
 tags:
   - puzzle
   - thinky

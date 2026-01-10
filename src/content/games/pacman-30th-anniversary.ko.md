@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: pacman-30th-anniversary
 title: Pacman 30th Anniversary 팩맨 30주년 에디션
+seoTitle: Pacman 30th Anniversary 팩맨 30주년 에디션 무료 온라인 플레이 | FiddleBops
 description: >-
   Pacman 30th Anniversary는 3십 년 동안 사랑받아 온 오리지널 팩맨을 기념하는 특별판으로, 미로 속을 달리며 점과 파워업을
   먹고 유령을 피해 다니는 고전 아케이드 경험을 다시 즐길 수 있는 게임입니다.
 iframeSrc: 'https://pacman-30thanniversary.com/game/doodle-pacman/pacman.html'
 thumbnail: /new-images/thumbnails/pacman-30th-anniversary.jpg
+urlstr: pacman-30th-anniversary
 tags:
   - arcade
   - classic

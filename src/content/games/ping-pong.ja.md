@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Ping Pong
+seoTitle: 無料でPing Pongをオンラインでプレイ | FiddleBops
 description: Ping Pongは卓球ゲームです。パドルを動かしてボールを打ち返し、相手より多く得点します。
 iframeSrc: 'https://ranimania.com/Games/pingpong/ping_pong/'
 thumbnail: /new-images/thumbnails/ping-pong.jpg
 urlstr: ping-pong
-score: 4.6/5  (193 votes)
 tags:
   - sports
   - casual
   - 2 player
+score: 4.6/5  (193 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

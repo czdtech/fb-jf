@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: cluster-rush
 title: Cluster Rush
+seoTitle: Spiele Cluster Rush kostenlos online | FiddleBops
 description: >-
   Meistere die Kunst des Truck-Hoppings in Cluster Rush. Diese Anleitung gibt
   dir Strategien, Steuerungstipps und Antworten auf häufige Fragen zu diesem
   intensiven First-Person-Platformer.
 iframeSrc: 'https://clusterrush.io/game/cluster-rush/'
 thumbnail: /new-images/thumbnails/cluster-rush.jpg
+urlstr: cluster-rush
 tags:
   - platformer
   - parkour

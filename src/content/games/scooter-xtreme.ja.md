@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Scooter Xtreme
+seoTitle: 無料でScooter Xtremeをオンラインでプレイ | FiddleBops
 description: Scooter Xtremeはスクーターのスタントゲームです。ジャンプやトリックで得点し、バランスよく着地して進みます。
 iframeSrc: >-
   https://scooterxtreme.h5games.usercontent.goog/v/c842db43-7823-45bc-b575-acbd9bda5de4/
 thumbnail: /new-images/thumbnails/scooter-xtreme.jpg
 urlstr: scooter-xtreme
-score: 4.3/5  (2200 votes)
 tags:
   - action
   - sports
   - casual
+score: 4.3/5  (2200 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

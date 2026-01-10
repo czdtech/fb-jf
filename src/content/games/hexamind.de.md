@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: hexamind
 title: HexaMind
+seoTitle: Spiele HexaMind kostenlos online | FiddleBops
 description: >-
   HexaMind ist ein Logikpuzzle auf einem Wabengitter: Platziere Plättchen,
   erfülle Nachbarschaftsregeln und halte Zahlen und Farben in allen Richtungen
   im Lot.
 iframeSrc: 'https://518ndvi54l1n0.h5games.usercontent.goog/v/608gefgjbkc88/'
 thumbnail: /new-images/thumbnails/hexamind.png
+urlstr: hexamind
 tags:
   - puzzle
   - thinky

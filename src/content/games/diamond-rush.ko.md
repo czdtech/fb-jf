@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: diamond-rush
 title: Diamond Rush 다이아몬드 러시
+seoTitle: Diamond Rush 다이아몬드 러시 무료 온라인 플레이 | FiddleBops
 description: >-
   반짝이는 다이아몬드를 맞춰 보드를 지우는 빠른 속도의 매치3 퍼즐 게임입니다. 보석을 스왑해 줄을 만들고, 특수 보석을 활용해 높은 점수를
   노려 보세요.
 iframeSrc: 'https://diamondrush.h5games.usercontent.goog/v/63ok750qri670/'
 thumbnail: /new-images/thumbnails/diamond-rush.png
+urlstr: diamond-rush
 tags:
   - puzzle
   - casual

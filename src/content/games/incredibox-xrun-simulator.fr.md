@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: incredibox-xrun-simulator
 title: Incredibox XRun Simulator
+seoTitle: Jouez à Incredibox XRun Simulator en ligne gratuitement | FiddleBops
 description: >-
   Incredibox XRun Simulator est un mod Simulator nerveux : interface en grille
   pour déclencher des boucles électro rapides façon runner futuriste.
 iframeSrc: 'https://turbowarp.org/740478297/embed'
 thumbnail: /new-images/thumbnails/incredibox-xrun-simulator.png
+urlstr: incredibox-xrun-simulator
 tags:
   - music
   - simulator

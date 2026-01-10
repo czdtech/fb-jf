@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: hexamind
 title: HexaMind
+seoTitle: Juega a HexaMind en línea gratis | FiddleBops
 description: >-
   HexaMind es un puzle de lógica sobre una rejilla hexagonal: coloca fichas
   cumpliendo reglas de adyacencia y gestiona paridades y sumas en diseños de
   panal.
 iframeSrc: 'https://518ndvi54l1n0.h5games.usercontent.goog/v/608gefgjbkc88/'
 thumbnail: /new-images/thumbnails/hexamind.png
+urlstr: hexamind
 tags:
   - puzzle
   - thinky

@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Bombs Drops Physics balls"
-description: "Bombs Drops Physics balls is a playful physics puzzler — time drops, trigger chain reactions, and clear targets with smart setups."
-iframeSrc: "https://6nhcl6kaecsio.h5games.usercontent.goog/v/09ccnat7ptqs8/"
+title: Bombs Drops Physics balls
+seoTitle: Play Bombs Drops Physics balls Online Free | FiddleBops
+description: >-
+  Bombs Drops Physics balls is a playful physics puzzler — time drops, trigger
+  chain reactions, and clear targets with smart setups.
+iframeSrc: 'https://6nhcl6kaecsio.h5games.usercontent.goog/v/09ccnat7ptqs8/'
 thumbnail: /new-images/thumbnails/bombs-drops-physics-balls.jpg
-urlstr: "bombs-drops-physics-balls"
-score: "3.9/5  (1598 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: bombs-drops-physics-balls
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 3.9/5  (1598 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

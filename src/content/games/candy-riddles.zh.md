@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: candy-riddles
 title: Candy Riddles 糖果谜题三消
+seoTitle: 免费在线玩 Candy Riddles 糖果谜题三消 | FiddleBops
 description: >-
   《Candy Riddles 糖果谜题三消》是一款将糖果主题与关卡目标结合的三消游戏，通过消除可爱糖果和饼干，完成收集
   任务、清理障碍或在限定步数内达成高分。
 iframeSrc: 'https://7vciensnt6ei8.h5games.usercontent.goog/v/0lsk1qj66dbno/'
 thumbnail: /new-images/thumbnails/candy-riddles.png
+urlstr: candy-riddles
 tags:
   - puzzle
   - casual

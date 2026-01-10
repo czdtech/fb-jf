@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: sugar-heroes
 title: 《Sugar Heroes》糖果英雄三消
+seoTitle: 免费在线玩 《Sugar Heroes》糖果英雄三消 | FiddleBops
 description: 《Sugar Heroes》是一款卡通风格的三消解谜游戏。通过交换相邻糖果，连成三个及以上相同图案进行消除，完成关卡目标并推动故事发展。
 iframeSrc: 'https://2f4eprapfvtoo.h5games.usercontent.goog/v/4bc5h26thvau8/'
 thumbnail: /new-images/thumbnails/sugar-heroes.png
+urlstr: sugar-heroes
 tags:
   - match 3
   - puzzle

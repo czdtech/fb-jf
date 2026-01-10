@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: yummy-taco
 title: Yummy Taco
+seoTitle: Spiele Yummy Taco kostenlos online | FiddleBops
 description: >-
   Starte deinen eigenen Taco‑Stand in Yummy Taco: Nimm Bestellungen auf, wähle
   frische Zutaten, baue perfekte Tacos und bediene blitzschnell, um Trinkgeld zu
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://g2.igroutka.ru/games/7/K6bHUF2pdiz30Aam/4399swf/upload_swf/ftp40/chenling/20220916/6/
 thumbnail: /new-images/thumbnails/yummy-taco.jpg
+urlstr: yummy-taco
 tags:
   - cooking
   - simulation

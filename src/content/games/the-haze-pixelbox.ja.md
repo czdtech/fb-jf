@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: The Haze Pixelbox
+seoTitle: 無料でThe Haze Pixelboxをオンラインでプレイ | FiddleBops
 description: The Haze Pixelboxは、民族音楽テイストのサウンドで遊べる音楽制作ゲームです。独特の音色を重ねてトラックを作れます。
 iframeSrc: 'https://turbowarp.org/1020955547/embed'
 thumbnail: /new-images/thumbnails/the-haze-pixelbox.png
 urlstr: the-haze-pixelbox
-score: 3.9/5  (132 votes)
 tags:
   - adventure
   - pixel
   - exploration
-locale: ja
+score: 3.9/5  (132 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

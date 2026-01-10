@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Merge Heroes"
-description: "The ultimate merge-and-battle strategy game! Combine heroes to forge a powerful army, deploy them on the battlefield, and defend your kingdom from waves of monsters."
-iframeSrc: "https://mergeheroes.h5games.usercontent.goog/v/7i7m361ib4vr8/"
+title: Merge Heroes
+seoTitle: Play Merge Heroes Online Free | FiddleBops
+description: >-
+  The ultimate merge-and-battle strategy game! Combine heroes to forge a
+  powerful army, deploy them on the battlefield, and defend your kingdom from
+  waves of monsters.
+iframeSrc: 'https://mergeheroes.h5games.usercontent.goog/v/7i7m361ib4vr8/'
 thumbnail: /new-images/thumbnails/merge-heroes.png
-urlstr: "merge-heroes"
-score: "4.4/5  (2350 votes)"
-tags: ["strategy", "action", "puzzle"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: merge-heroes
+tags:
+  - strategy
+  - action
+  - puzzle
+score: 4.4/5  (2350 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

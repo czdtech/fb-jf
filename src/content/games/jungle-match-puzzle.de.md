@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: jungle-match-puzzle
 title: Jungle Match Puzzle
+seoTitle: Spiele Jungle Match Puzzle kostenlos online | FiddleBops
 description: >-
   Jungle Match Puzzle ist ein quirliges Match-3-Spiel im Dschungel: Räume
   Blocker weg, verkette Power-ups und erfülle Dschungelziele innerhalb knapper
   Zuglimits.
 iframeSrc: 'https://2sf7n68mggti0.h5games.usercontent.goog/v/2mk31nh92a0og/'
 thumbnail: /new-images/thumbnails/jungle-match-puzzle.png
+urlstr: jungle-match-puzzle
 tags:
   - puzzle
   - casual

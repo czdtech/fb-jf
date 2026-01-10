@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Island Of Treasures"
-description: "Embark on a thrilling pirate adventure in this 3D endless runner! Collect gleaming jewels, dodge deadly traps, and outsmart rival pirates to become the richest buccaneer on the forsaken island."
-iframeSrc: "https://5kvkrsasec6l8.h5games.usercontent.goog/v/7kfn10n6josho/"
+title: Island Of Treasures
+seoTitle: Play Island Of Treasures Online Free | FiddleBops
+description: >-
+  Embark on a thrilling pirate adventure in this 3D endless runner! Collect
+  gleaming jewels, dodge deadly traps, and outsmart rival pirates to become the
+  richest buccaneer on the forsaken island.
+iframeSrc: 'https://5kvkrsasec6l8.h5games.usercontent.goog/v/7kfn10n6josho/'
 thumbnail: /new-images/thumbnails/island-of-treasures.png
-urlstr: "island-of-treasures"
-score: "4.3/5  (2200 votes)"
-tags: ["action", "adventure", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: island-of-treasures
+tags:
+  - action
+  - adventure
+  - casual
+score: 4.3/5  (2200 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

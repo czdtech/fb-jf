@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: tunnel-rush
 title: Tunnel Rush
+seoTitle: Jouez à Tunnel Rush en ligne gratuitement | FiddleBops
 description: >-
   Tunnel Rush est un endless runner 3D ultra-rapide : navigue dans un tunnel
   coloré en évitant les obstacles à grande vitesse.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/gamehwq/20230830/12a/index.html
 thumbnail: /new-images/thumbnails/tunnel-rush.jpg
+urlstr: tunnel-rush
 tags:
   - endless runner
   - 3d

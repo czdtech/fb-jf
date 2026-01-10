@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Incredibox Studio
+seoTitle: 無料でIncredibox Studioをオンラインでプレイ | FiddleBops
 description: >-
   Incredibox
   Studioは、オリジナルのIncrediboxにインスパイアされたファン作成ゲームです。Scratchを使用して作成され、TurboWarpで最適化されており、プレイヤーはサンドボックス環境で独自のミュージカルミックスを作成できます。
 iframeSrc: 'https://turbowarp.org/1013575298/embed'
 thumbnail: /new-images/thumbnails/incredibox-studio.png
 urlstr: incredibox-studio
-score: 4.8/5 (1842 votes)
 tags:
   - music
   - sandbox
+score: 4.8/5 (1842 votes)
 developer: ''
 releaseDate: 2025-10-10T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

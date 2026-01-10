@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Bad Ice-Cream 3 バッド・アイスクリーム3
+seoTitle: 無料でBad Ice-Cream 3 バッド・アイスクリーム3をオンラインでプレイ | FiddleBops
 description: 「Bad Ice-Cream 3」が登場！砂漠や宇宙を舞台に、新しい敵とギミックが満載。氷の壁を作り、フルーツを集め、最大の冒険に挑め！
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x5/index.html
 thumbnail: /new-images/thumbnails/bad-ice-cream-3.jpg
 urlstr: bad-ice-cream-3
-score: 4.2/5  (660 votes)
 tags:
   - puzzle
   - action
+score: 4.2/5  (660 votes)
 developer: Nitrome
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

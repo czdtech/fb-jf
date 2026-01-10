@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: lucky-vegas-blackjack
-title: "Lucky Vegas Blackjack - 21 rápido y estratégico"
+title: Lucky Vegas Blackjack
+seoTitle: Juega a Lucky Vegas Blackjack en línea gratis | FiddleBops
 description: >-
   Lucky Vegas Blackjack simplifica el clásico 21: aplica estrategia básica,
   gestiona tu banca y disfruta manos rápidas sin perseguir pérdidas.
 iframeSrc: 'https://35ntqr0siokq8.h5games.usercontent.goog/v/1hhotshtjugn8/'
 thumbnail: /new-images/thumbnails/lucky-vegas-blackjack.png
+urlstr: lucky-vegas-blackjack
 tags:
   - card
   - casual

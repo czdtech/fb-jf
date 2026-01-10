@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: billiard-hustlers
 title: Billiard Hustlers
+seoTitle: Spiele Billiard Hustlers kostenlos online | FiddleBops
 description: >-
   Billiard Hustlers bringt die Grundlagen des Pool auf den Bildschirm. Ziele
   präzise, kontrolliere die Weiße mit Effet und räume den Tisch mit kluger
   Positionsspiel‑Strategie ab.
 iframeSrc: 'https://75hivpjsm2230.h5games.usercontent.goog/v/04igpiqnom6k0/'
 thumbnail: /new-images/thumbnails/billiard-hustlers.jpg
+urlstr: billiard-hustlers
 tags:
   - sports
   - pool

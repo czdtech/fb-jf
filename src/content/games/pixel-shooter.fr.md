@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: pixel-shooter
 title: Pixel Shooter
+seoTitle: Jouez à Pixel Shooter en ligne gratuitement | FiddleBops
 description: "Pixel Shooter est un shooter arcade rétro en pixel art\_: esquive les projectiles, vise juste et nettoie les vagues d'ennemis à l'écran."
 iframeSrc: 'https://a.onlineigry.net/games3/igra-piksel-shuter/index.htm'
 thumbnail: /new-images/thumbnails/pixel-shooter.jpg
+urlstr: pixel-shooter
 tags:
   - action
   - shooting

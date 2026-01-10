@@ -1,14 +1,14 @@
 ---
 locale: zh
-urlstr: cowboys-vs-aliens
-title: "Cowboys vs Aliens 牛仔大战外星人"
+title: Cowboys vs Aliens 牛仔大战外星人
+seoTitle: 免费在线玩 Cowboys vs Aliens 牛仔大战外星人 | FiddleBops
 description: >-
   《Cowboys vs Aliens 牛仔大战外星人》这版让你直接操控一名牛仔英雄，在横版或俯视视
-  角关卡中对抗一波又一波外星入侵者。本文聚焦动作射击玩法，讲解基础操作、武器取舍与
-  生存策略。
+  角关卡中对抗一波又一波外星入侵者。本文聚焦动作射击玩法，讲解基础操作、武器取舍与 生存策略。
 iframeSrc: >-
   https://app-183000.games.s3.yandex.net/183000/ej1ob1cdiuv0fq3vw88l1k7pakdngmk7/index.html
 thumbnail: /new-images/thumbnails/cowboys-vs-aliens.jpg
+urlstr: cowboys-vs-aliens
 tags:
   - action
   - shooting

@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: mad-honey
 title: Mad Honey 매드 허니
+seoTitle: Mad Honey 매드 허니 무료 온라인 플레이 | FiddleBops
 description: Mad Honey는 꿀을 모으고 위험을 피하며 벌집으로 무사히 돌아가는 짧은 아케이드 어드벤처 게임입니다.
 iframeSrc: 'https://49b5cg0v2itto.h5games.usercontent.goog/v/3tun18rhg88eg/'
 thumbnail: /new-images/thumbnails/mad-honey.png
+urlstr: mad-honey
 tags:
   - adventure
   - casual

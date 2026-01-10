@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: minesweeper-2
-title: Minesweeper - Clásico puzle de minas
+title: Minesweeper
+seoTitle: Juega a Minesweeper en línea gratis | FiddleBops
 description: >-
   El puzle lógico atemporal. Usa las pistas numéricas para deducir la posición
   de todas las minas ocultas y limpia el tablero sin hacer explotar ninguna.
 iframeSrc: 'https://minesweeper.h5games.usercontent.goog/v/6uo6tf2lnil3o/'
 thumbnail: /new-images/thumbnails/minesweeper-2.jpg
+urlstr: minesweeper-2
 tags:
   - puzzle
   - thinky

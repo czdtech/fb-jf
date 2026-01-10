@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: kitty-scramble
 title: Kitty Scramble 고양이 단어 찾기
+seoTitle: Kitty Scramble 고양이 단어 찾기 무료 온라인 플레이 | FiddleBops
 description: >-
   글자 격자에서 단어를 찾는 퍼즐 게임 'Kitty Scramble' 가이드입니다. 테마별 단어를 스와이프로 찾아내고, 추가 단어로 코인을
   모아 힌트를 확보해 보세요.
 iframeSrc: 'https://6cifr142haig8.h5games.usercontent.goog/v/1c963avg5lo9g/'
 thumbnail: /new-images/thumbnails/kitty-scramble.png
+urlstr: kitty-scramble
 tags:
   - puzzle
   - thinky

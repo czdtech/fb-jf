@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: incredibox-carol-of-the-bells
-title: "Incredibox Carol of the Bells"
+title: Incredibox Carol of the Bells
+seoTitle: Juega a Incredibox Carol of the Bells en línea gratis | FiddleBops
 description: >-
   Descubre el festivo mod fan-made "Incredibox Andlbox Carol of the Bells". Esta
   guía explica su temática navideña, cómo remezclar el villancico clásico y
   desbloquear sus bonus únicos de Navidad.
 iframeSrc: 'https://turbowarp.org/931427102/embed'
 thumbnail: /new-images/thumbnails/incredibox-carol-of-the-bells.png
+urlstr: incredibox-carol-of-the-bells
 tags:
   - music
   - christmas

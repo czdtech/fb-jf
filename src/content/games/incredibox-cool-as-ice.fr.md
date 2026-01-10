@@ -1,18 +1,19 @@
 ---
 locale: fr
-urlstr: incredibox-cool-as-ice
 title: Incredibox Cool As Ice
+seoTitle: Jouez à Incredibox Cool As Ice en ligne gratuitement | FiddleBops
 description: >-
   Le mod Incredibox Cool as Ice gèle l'expérience classique : personnages
   givrés, sons inspirés de l'hiver et bonus glacés pour des créations musicales
   au thème neige et glace.
 iframeSrc: 'https://turbowarp.org/1108441752/embed'
 thumbnail: /new-images/thumbnails/incredibox-cool-as-ice.png
+urlstr: incredibox-cool-as-ice
 tags:
   - incredibox cool as ice
   - incredibox cool as ice online
 score: 4.9/5  (724 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Introduction à Incredibox Cool As Ice

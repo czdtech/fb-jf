@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Fireboy And Watergirl 4"
-description: "The definitive guide to Fireboy and Watergirl 4: The Crystal Temple. Learn to master the crystal portals with co-op strategies, puzzle tips, controls, and FAQs for this 2-player platformer."
-iframeSrc: "https://slope-game.github.io/fireboy-water-4/"
+title: Fireboy And Watergirl 4
+seoTitle: Play Fireboy And Watergirl 4 Online Free | FiddleBops
+description: >-
+  The definitive guide to Fireboy and Watergirl 4: The Crystal Temple. Learn to
+  master the crystal portals with co-op strategies, puzzle tips, controls, and
+  FAQs for this 2-player platformer.
+iframeSrc: 'https://slope-game.github.io/fireboy-water-4/'
 thumbnail: /new-images/thumbnails/fireboy-and-watergirl-4.jpg
-urlstr: "fireboy-and-watergirl-4"
-score: "4.6/5  (117 votes)"
-tags: ["casual", "rhythm"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: fireboy-and-watergirl-4
+tags:
+  - casual
+  - rhythm
+score: 4.6/5  (117 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

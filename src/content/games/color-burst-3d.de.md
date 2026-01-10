@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: color-burst-3d
-title: "Color Burst 3D"
+title: Color Burst 3D
+seoTitle: Spiele Color Burst 3D kostenlos online | FiddleBops
 description: >-
   Meistere das schnelle Arcade-Spiel Color Burst 3D. Diese Anleitung verrät dir
   Strategien fürs perfekte Timing, das Anpassen an rotierende Ringe und das
   Überleben für einen neuen Highscore.
 iframeSrc: 'https://colorburst3d.h5games.usercontent.goog/v/3l27vlnq6dvto/'
 thumbnail: /new-images/thumbnails/color-burst-3d.jpeg
+urlstr: color-burst-3d
 tags:
   - action
   - casual

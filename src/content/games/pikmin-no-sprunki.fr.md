@@ -1,13 +1,16 @@
 ---
 locale: fr
-urlstr: "pikmin-no-sprunki"
-title: "Pikmin No Sprunki - Jouer à Pikmin No Sprunki en ligne"
-description: "Pikmin No Sprunki est un mod musical façon Sprunki : mélange l’univers de Pikmin avec la création sonore d’Incredibox et compose tes propres morceaux animés."
-iframeSrc: "https://img.sprunki.net/game/pikmin-no-sprunki.html"
+title: Pikmin No Sprunki
+seoTitle: Jouez à Pikmin No Sprunki en ligne gratuitement | FiddleBops
+description: "Pikmin No Sprunki est un mod musical façon Sprunki\_: mélange l’univers de Pikmin avec la création sonore d’Incredibox et compose tes propres morceaux animés."
+iframeSrc: 'https://img.sprunki.net/game/pikmin-no-sprunki.html'
 thumbnail: /new-images/thumbnails/pikmin-no-sprunki.png
-tags: ["pikmin no sprunki", "music"]
-score: "4.0/5  (89 votes)"
-releaseDate: 2025-12-04
+urlstr: pikmin-no-sprunki
+tags:
+  - pikmin no sprunki
+  - music
+score: 4.0/5  (89 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: my-space-pet
 title: My Space Pet
+seoTitle: Jouez à My Space Pet en ligne gratuitement | FiddleBops
 description: "Pars pour une aventure interstellaire avec My Space Pet\_! Adopte et chouchoute ta propre créature alien, explore la galaxie et personnalise sa maison spatiale."
 iframeSrc: 'https://6jqt3hoth456g.h5games.usercontent.goog/v/6jqt3hoth456g/'
 thumbnail: /new-images/thumbnails/my-space-pet.png
+urlstr: my-space-pet
 tags:
   - casual
   - adventure

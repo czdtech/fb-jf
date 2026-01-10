@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "The Pillar"
-description: "Embark on a mysterious journey in The Pillar, a captivating puzzle and escape room game. Explore enigmatic environments, solve intricate puzzles, and uncover hidden secrets as you progress through a series of challenging levels. Test your logic and observation skills in this immersive adventure."
-iframeSrc: "https://m.igroutka.ru/g-1/53/ThePillar/"
+title: The Pillar
+seoTitle: Play The Pillar Online Free | FiddleBops
+description: >-
+  Embark on a mysterious journey in The Pillar, a captivating puzzle and escape
+  room game. Explore enigmatic environments, solve intricate puzzles, and
+  uncover hidden secrets as you progress through a series of challenging levels.
+  Test your logic and observation skills in this immersive adventure.
+iframeSrc: 'https://m.igroutka.ru/g-1/53/ThePillar/'
 thumbnail: /new-images/thumbnails/the-pillar.jpg
-urlstr: "the-pillar"
-score: "3.8/5  (802 votes)"
-tags: ["puzzle", "adventure", "mystery"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: the-pillar
+tags:
+  - puzzle
+  - adventure
+  - mystery
+score: 3.8/5  (802 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

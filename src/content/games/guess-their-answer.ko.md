@@ -1,13 +1,13 @@
 ---
 locale: ko
-urlstr: guess-their-answer
-title: "Guess Their Answer 군중 심리 퀴즈"
+title: Guess Their Answer 군중 심리 퀴즈
+seoTitle: Guess Their Answer 군중 심리 퀴즈 무료 온라인 플레이 | FiddleBops
 description: >-
-  설문조사 결과를 맞히는 감각의 파티 퀴즈 게임입니다. 제시된 질문에 대해
-  사람들이 가장 많이 떠올릴 법한 답을 적어 넣어, 상대보다 더 많은 상위
-  응답을 맞혀 보세요.
+  설문조사 결과를 맞히는 감각의 파티 퀴즈 게임입니다. 제시된 질문에 대해 사람들이 가장 많이 떠올릴 법한 답을 적어 넣어, 상대보다 더 많은
+  상위 응답을 맞혀 보세요.
 iframeSrc: 'https://0s1do8fmhrn9g.h5games.usercontent.goog/v/08gmb663j6g78/'
 thumbnail: /new-images/thumbnails/guess-their-answer.png
+urlstr: guess-their-answer
 tags:
   - puzzle
   - thinky

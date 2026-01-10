@@ -1,14 +1,14 @@
 ---
 locale: ko
-urlstr: plants-vs-brainrots
-title: "Plants vs Brainrots 플랜츠 vs 브레인롯츠"
+title: Plants vs Brainrots 플랜츠 vs 브레인롯츠
+seoTitle: Plants vs Brainrots 플랜츠 vs 브레인롯츠 무료 온라인 플레이 | FiddleBops
 description: >-
-  Roblox에서 즐기는 패러디 타워 디펜스 게임입니다. 집중력(포커스)을
-  모아 다양한 식물을 심고, Skibidi Toilet과 Sigma 같은 밈 몬스터
-  "브레인롯" 군단으로부터 두뇌를 지켜 보세요.
+  Roblox에서 즐기는 패러디 타워 디펜스 게임입니다. 집중력(포커스)을 모아 다양한 식물을 심고, Skibidi Toilet과 Sigma
+  같은 밈 몬스터 "브레인롯" 군단으로부터 두뇌를 지켜 보세요.
 iframeSrc: >-
   https://playhop.com/dist-app/471072?header=no&utm_source=distrib&utm_medium=gameflare
 thumbnail: /new-images/thumbnails/plants-vs-brainrots.jpg
+urlstr: plants-vs-brainrots
 tags:
   - roblox
   - casual

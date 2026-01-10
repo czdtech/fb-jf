@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: captain-gold
 title: Captain Gold
+seoTitle: Jouez à Captain Gold en ligne gratuitement | FiddleBops
 description: >-
   Captain Gold est un classique du mineur d’or : fais balancer le grappin,
   lâche‑le au bon moment, remonte des pépites et évite les rochers pour
   atteindre l’objectif avant la fin du temps.
 iframeSrc: 'https://5djvqvgrgqc0o.h5games.usercontent.goog/v/58gqt26rjid7o/'
 thumbnail: /new-images/thumbnails/captain-gold.png
+urlstr: captain-gold
 tags:
   - casual
   - thinky

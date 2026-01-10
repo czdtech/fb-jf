@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Basket Battle"
-description: "Basket Battle is a physics basketball duel — aim arcs, box out, and outscore in quick bouts."
-iframeSrc: "https://1e2ocejsf0rm8.h5games.usercontent.goog/v/093f1a2jf2p98/"
+title: Basket Battle
+seoTitle: Play Basket Battle Online Free | FiddleBops
+description: >-
+  Basket Battle is a physics basketball duel — aim arcs, box out, and outscore
+  in quick bouts.
+iframeSrc: 'https://1e2ocejsf0rm8.h5games.usercontent.goog/v/093f1a2jf2p98/'
 thumbnail: /new-images/thumbnails/basket-battle.png
-urlstr: "basket-battle"
-score: "3.9/5  (1728 votes)"
-tags: ["sports", "basketball"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: basket-battle
+tags:
+  - sports
+  - basketball
+score: 3.9/5  (1728 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

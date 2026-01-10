@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Elite Chess"
-description: "Elite Chess focuses your fundamentals — sound openings, clean tactics, and endgame technique to convert advantages."
-iframeSrc: "https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/"
+title: Elite Chess
+seoTitle: Play Elite Chess Online Free | FiddleBops
+description: >-
+  Elite Chess focuses your fundamentals — sound openings, clean tactics, and
+  endgame technique to convert advantages.
+iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
 thumbnail: /new-images/thumbnails/elite-chess.png
-urlstr: "elite-chess"
-score: "4.4/5  (2326 votes)"
-tags: ["thinky", "puzzle"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: elite-chess
+tags:
+  - thinky
+  - puzzle
+score: 4.4/5  (2326 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

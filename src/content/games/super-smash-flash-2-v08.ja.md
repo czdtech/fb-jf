@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Super Smash Flash 2 v0.8
+seoTitle: 無料でSuper Smash Flash 2 v0.8をオンラインでプレイ | FiddleBops
 description: >-
   Super Smash Flash 2 v0.8は、Super Smash
   Bros.にインスパイアされた人気のファン製格闘ゲームです。さまざまなキャラクターで対戦できます。
 iframeSrc: 'https://kdata1.com/games/SSF22/?kbhgames'
 thumbnail: /new-images/thumbnails/super-smash-flash-2-v08.jpg
 urlstr: super-smash-flash-2-v08
-score: 4.3/5  (1114 votes)
 tags:
   - fighting
   - multiplayer
   - action
-locale: ja
+score: 4.3/5  (1114 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

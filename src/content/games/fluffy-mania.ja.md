@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Fluffy Mania
+seoTitle: 無料でFluffy Maniaをオンラインでプレイ | FiddleBops
 description: Fluffy Maniaは、キュートなフラッフィたちをつなげて消し、連鎖を起こしてハイスコアを目指す、居心地の良いマッチ＆クリアパズルです。
 iframeSrc: 'https://02rd6nna08dqg.h5games.usercontent.goog/v/3ngbs02gf9h88/'
 thumbnail: /new-images/thumbnails/fluffy-mania.png
 urlstr: fluffy-mania
-score: 4.0/5  (1729 votes)
 tags:
   - puzzle
   - casual
+score: 4.0/5  (1729 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

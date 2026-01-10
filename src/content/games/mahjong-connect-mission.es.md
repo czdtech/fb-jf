@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: mahjong-connect-mission
-title: 'Mahjong Connect: Mission - Conecta fichas bajo presión'
+title: 'Mahjong Connect: Mission'
+seoTitle: 'Juega a Mahjong Connect: Mission en línea gratis | FiddleBops'
 description: >-
   Mahjong Connect: Mission es un mahjong de conectar parejas: une fichas
   idénticas con un camino de hasta dos giros, limpia el tablero y vence al
   cronómetro.
 iframeSrc: 'https://7gsm6u8848nko.h5games.usercontent.goog/v/3qaqg5nju3th8/'
 thumbnail: /new-images/thumbnails/mahjong-connect-mission.png
+urlstr: mahjong-connect-mission
 tags:
   - mahjong
   - puzzle

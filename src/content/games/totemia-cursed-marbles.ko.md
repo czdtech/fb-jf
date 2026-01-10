@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: totemia-cursed-marbles
 title: 'Totemia: Cursed Marbles 토테미아: 커스드 마블즈'
+seoTitle: 'Totemia: Cursed Marbles 토테미아: 커스드 마블즈 무료 온라인 플레이 | FiddleBops'
 description: >-
   고전 퍼즐 Zuma 스타일의 구슬 쏘기 게임 Totemia: Cursed Marbles입니다. 티키 석상에서 구슬을 발사해 같은 색 구슬 세
   개 이상을 맞추고, 구슬 줄이 길의 끝에 도달하기 전에 모두 없애야 합니다.
 iframeSrc: 'https://totemiacursed.h5games.usercontent.goog/v/2hs7lfvsisr48/'
 thumbnail: /new-images/thumbnails/totemia-cursed-marbles.png
+urlstr: totemia-cursed-marbles
 tags:
   - shooting
   - puzzle

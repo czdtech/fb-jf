@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Armored Assault Strike"
-description: "Armored Assault Strike is a top‑down vehicle shooter — maneuver armor, manage cooldowns, and crush hostiles."
-iframeSrc: "https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/"
+title: Armored Assault Strike
+seoTitle: Play Armored Assault Strike Online Free | FiddleBops
+description: >-
+  Armored Assault Strike is a top‑down vehicle shooter — maneuver armor, manage
+  cooldowns, and crush hostiles.
+iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
 thumbnail: /new-images/thumbnails/armored-assault-strike.png
-urlstr: "armored-assault-strike"
-score: "4.0/5  (1930 votes)"
-tags: ["shooting", "action"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: armored-assault-strike
+tags:
+  - shooting
+  - action
+score: 4.0/5  (1930 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

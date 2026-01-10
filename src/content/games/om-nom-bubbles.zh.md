@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: om-nom-bubbles
 title: Om Nom 泡泡
+seoTitle: 免费在线玩 Om Nom 泡泡 | FiddleBops
 description: Om Nom 泡泡是一款色彩缤纷的泡泡射击游戏——匹配颜色、反弹射击，用巧妙的角度清除棋盘。
 iframeSrc: >-
   https://omnombubbles.h5games.usercontent.goog/v/6bdfc73b-7b9c-4046-9bfe-9269036a772f/
 thumbnail: /new-images/thumbnails/om-nom-bubbles.jpg
+urlstr: om-nom-bubbles
 tags:
   - puzzle
   - casual

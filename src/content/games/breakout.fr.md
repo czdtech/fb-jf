@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: breakout
 title: Breakout
+seoTitle: Jouez à Breakout en ligne gratuitement | FiddleBops
 description: "Breakout est le casse‑briques arcade classique\_: déplace ta raquette, renvoie la balle et détruis toutes les briques sans la laisser tomber."
 iframeSrc: 'https://ad-freegames.github.io/flash/game/atari-breakout.html'
 thumbnail: /new-images/thumbnails/breakout.jpg
+urlstr: breakout
 tags:
   - arcade
   - casual

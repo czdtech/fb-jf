@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: cards-of-the-undead
 title: Cards of the Undead 카드 오브 더 언데드
+seoTitle: Cards of the Undead 카드 오브 더 언데드 무료 온라인 플레이 | FiddleBops
 description: >-
   Cards of the Undead는 좀비 아포칼립스를 배경으로 한 턴제 로그라이트 카드 퍼즐 게임입니다. 카드로 이루어진 보드를 한 칸씩
   이동하며 좀비와 싸우고, 코인과 회복·방어 아이템을 모아 최대한 오래 살아남으세요.
 iframeSrc: 'https://4afojpng981kg.h5games.usercontent.goog/v/1ge6qnd6h4ss0/'
 thumbnail: /new-images/thumbnails/cards-of-the-undead.png
+urlstr: cards-of-the-undead
 tags:
   - card
   - strategy

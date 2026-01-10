@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: incredibox-dystopia
-title: "Incredibox Dystopia"
+title: Incredibox Dystopia
+seoTitle: Juega a Incredibox Dystopia en línea gratis | FiddleBops
 description: >-
   Explora "Incredibox Dystopia", un mod fan-made ambientado en un futuro
   ciberpunk oscuro. Esta guía detalla su paleta de sonidos electrónicos y
@@ -9,6 +9,7 @@ description: >-
   temáticos.
 iframeSrc: 'https://turbowarp.org/1015284026/embed'
 thumbnail: /new-images/thumbnails/incredibox-dystopia.png
+urlstr: incredibox-dystopia
 tags:
   - music
   - electronic

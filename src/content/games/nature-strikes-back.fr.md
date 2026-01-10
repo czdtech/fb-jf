@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: nature-strikes-back
 title: Nature Strikes Back
+seoTitle: Jouez à Nature Strikes Back en ligne gratuitement | FiddleBops
 description: >-
   Fusionne et commande les Esprits gardiens de la nature dans ce tower defense :
   combine tes unités pour les renforcer et protège le Cœur de la Nature des
   Mucklings pollueurs.
 iframeSrc: 'https://79gloe1v4okkg.h5games.usercontent.goog/v/6qlhje6nn2bg0/'
 thumbnail: /new-images/thumbnails/nature-strikes-back.png
+urlstr: nature-strikes-back
 tags:
   - strategy
   - tower Defense

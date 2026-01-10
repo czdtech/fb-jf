@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: checkers-legend
 title: Checkers Legend
+seoTitle: Spiele Checkers Legend kostenlos online | FiddleBops
 description: >-
   Werde zur Checkers-Legende in diesem klassischen Brettspiel. Plane deine Züge,
   schlage die Steine deines Gegners und kröne deine Figuren zu Königen, um das
   Brett zu dominieren.
 iframeSrc: 'https://checkerslegend.h5games.usercontent.goog/v/43mkj41ari948/'
 thumbnail: /new-images/thumbnails/checkers-legend.png
+urlstr: checkers-legend
 tags:
   - puzzle
   - thinky

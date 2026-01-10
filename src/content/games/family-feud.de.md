@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: family-feud
 title: Family Feud
+seoTitle: Spiele Family Feud kostenlos online | FiddleBops
 description: >-
   Family Feud ist ein Quiz auf Basis von Umfragen: Errate die beliebtesten
   Antworten auf Familienfragen über mehrere Runden und die Schnellraterunde.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/family-feud/'
 thumbnail: /new-images/thumbnails/family-feud.jpg
+urlstr: family-feud
 tags:
   - trivia
   - quiz

@@ -1,13 +1,13 @@
 ---
 locale: ko
-urlstr: spider-solitaire
-title: 'Spider Solitaire 스파이더 솔리테어'
+title: Spider Solitaire 스파이더 솔리테어
+seoTitle: Spider Solitaire 스파이더 솔리테어 무료 온라인 플레이 | FiddleBops
 description: >-
-  Spider Solitaire는 두 벌의 카드를 사용하는 도전적인 솔리테어 변형 게임입니다.
-  같은 무늬로 K부터 A까지 내림차순 열을 완성해 테이블로를 비우는 것이 목표로,
-  치밀한 계획과 수 읽기가 요구되는 전략 카드 퍼즐입니다.
+  Spider Solitaire는 두 벌의 카드를 사용하는 도전적인 솔리테어 변형 게임입니다. 같은 무늬로 K부터 A까지 내림차순 열을 완성해
+  테이블로를 비우는 것이 목표로, 치밀한 계획과 수 읽기가 요구되는 전략 카드 퍼즐입니다.
 iframeSrc: 'https://www.squidbyte.com/games_third/spider/en/spider-solitaire-halloween/'
 thumbnail: /new-images/thumbnails/spider-solitaire.jpg
+urlstr: spider-solitaire
 tags:
   - card-game
   - puzzle

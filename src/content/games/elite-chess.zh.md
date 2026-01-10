@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: elite-chess
 title: Elite Chess 精英国际象棋训练
+seoTitle: 免费在线玩 Elite Chess 精英国际象棋训练 | FiddleBops
 description: Elite Chess 聚焦你的象棋基本功——稳健开局、干净利落的战术计算， 和扎实的残局技术，帮你把优势确实转化为胜势。
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
 thumbnail: /new-images/thumbnails/elite-chess.png
+urlstr: elite-chess
 tags:
   - thinky
   - puzzle

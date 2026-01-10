@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: gunspin
 title: 《Gunspin》后坐力飞行射击
+seoTitle: 免费在线玩 《Gunspin》后坐力飞行射击 | FiddleBops
 description: 《Gunspin》是一款靠枪械后坐力推进的街机游戏。通过控制开火的时机和角度，让武器在空中不断翻转前进，收集子弹和金币，在躲避危险的同时飞得更远。
 iframeSrc: 'https://ubg44.github.io/GunSpin/'
 thumbnail: /new-images/thumbnails/gunspin.jpg
+urlstr: gunspin
 tags:
   - arcade
   - physics

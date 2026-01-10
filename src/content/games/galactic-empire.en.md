@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Galactic Empire"
-description: "Top‑down space strategy: harvest resources, build ships and defenses, and capture sectors while fending off enemy waves."
-iframeSrc: "https://g.igroutka.ru/games/164/8plhaK3IOLoFbVPB/2/galactic_empire/"
+title: Galactic Empire
+seoTitle: Play Galactic Empire Online Free | FiddleBops
+description: >-
+  Top‑down space strategy: harvest resources, build ships and defenses, and
+  capture sectors while fending off enemy waves.
+iframeSrc: 'https://g.igroutka.ru/games/164/8plhaK3IOLoFbVPB/2/galactic_empire/'
 thumbnail: /new-images/thumbnails/galactic-empire.jpg
-urlstr: "galactic-empire"
-score: "4.3/5  (618 votes)"
-tags: ["strategy", "space"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: galactic-empire
+tags:
+  - strategy
+  - space
+score: 4.3/5  (618 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: ragdoll-archers
 title: Ragdoll Archers 래그돌 궁수
+seoTitle: Ragdoll Archers 래그돌 궁수 무료 온라인 플레이 | FiddleBops
 description: '비틀거리는 인형 궁수를 조종해 화살을 쏘는 물리 기반 슈팅 게임입니다. 중력과 탄도를 계산해 적을 맞히고, 흔들리는 몸을 제어해 보세요.'
 iframeSrc: 'https://bitlifeonline.github.io/ragdoll-archers/'
 thumbnail: /new-images/thumbnails/ragdoll-archers.jpg
+urlstr: ragdoll-archers
 tags:
   - physics
   - archery

@@ -1,14 +1,19 @@
 ---
-title: "Incredibox Beatnik Simulator"
-description: "プレイヤーを1950年代と60年代の煙たいジャズクラブに連れて行きます。ジャズ、詩、反体制への祝賀で知られる運動である「ビートニク」サブカルチャーを中心としたテーマです。"
-iframeSrc: "https://turbowarp.org/948885978/embed"
-thumbnail: /new-images/thumbnails/incredibox-beatnik-simulator.png
-urlstr: "incredibox-beatnik-simulator"
-score: "4.6/5 (1102 votes)"
-tags: ["music", "rhythm", "simulator"]
-developer: ""
-releaseDate: 2025-10-10
 locale: ja
+title: Incredibox Beatnik Simulator
+seoTitle: 無料でIncredibox Beatnik Simulatorをオンラインでプレイ | FiddleBops
+description: >-
+  プレイヤーを1950年代と60年代の煙たいジャズクラブに連れて行きます。ジャズ、詩、反体制への祝賀で知られる運動である「ビートニク」サブカルチャーを中心としたテーマです。
+iframeSrc: 'https://turbowarp.org/948885978/embed'
+thumbnail: /new-images/thumbnails/incredibox-beatnik-simulator.png
+urlstr: incredibox-beatnik-simulator
+tags:
+  - music
+  - rhythm
+  - simulator
+score: 4.6/5 (1102 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

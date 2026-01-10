@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: drive-mad
 title: Drive Mad 드라이브 매드
+seoTitle: Drive Mad 드라이브 매드 무료 온라인 플레이 | FiddleBops
 description: 험난한 장애물 코스를 달리는 물리 기반 드라이빙 게임입니다. 속도와 균형을 조절해 차량을 뒤집지 않고 결승선까지 도달해 보세요.
 iframeSrc: 'https://ubg98.github.io/DriveMad/'
 thumbnail: /new-images/thumbnails/drive-mad.jpg
+urlstr: drive-mad
 tags:
   - racing
   - physics

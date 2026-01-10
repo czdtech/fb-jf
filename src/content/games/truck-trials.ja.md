@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Truck Trials
+seoTitle: 無料でTruck Trialsをオンラインでプレイ | FiddleBops
 description: Truck Trialsは、トラックトライアルゲームです。でこぼこのコースを走破してゴールを目指しましょう。
 iframeSrc: 'https://trucktrials.h5games.usercontent.goog/v/4u5cado14l780/'
 thumbnail: /new-images/thumbnails/truck-trials.png
 urlstr: truck-trials
-score: 4.1/5 (1123 votes)
 tags:
   - racing
   - physics
   - driving
-locale: ja
+score: 4.1/5 (1123 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

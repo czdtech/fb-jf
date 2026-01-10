@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: mahjongg-solitaire
-title: Mahjongg Solitaire - Despeja el tablero ficha a ficha
+title: Mahjongg Solitaire
+seoTitle: Juega a Mahjongg Solitaire en línea gratis | FiddleBops
 description: >-
   Limpia el tablero en Mahjongg Solitaire, el clásico puzle de fichas para un
   solo jugador. Encuentra y empareja fichas idénticas y libres, planea tus
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjongg-solitaire/
 thumbnail: /new-images/thumbnails/mahjongg-solitaire.jpg
+urlstr: mahjongg-solitaire
 tags:
   - puzzle
   - tile-matching

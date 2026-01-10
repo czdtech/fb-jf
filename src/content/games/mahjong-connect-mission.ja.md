@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: 'Mahjong Connect : Mission'
+seoTitle: '無料でMahjong Connect : Missionをオンラインでプレイ | FiddleBops'
 description: 同じタイルを、曲がり2回までの線で結んで消す「つなぐ系」麻雀パズルです。制限時間内に盤面をクリアします。
 iframeSrc: 'https://7gsm6u8848nko.h5games.usercontent.goog/v/3qaqg5nju3th8/'
 thumbnail: /new-images/thumbnails/mahjong-connect-mission.png
 urlstr: mahjong-connect-mission
-score: 4.2/5  (2061 votes)
 tags:
   - mahjong
   - puzzle
   - thinky
+score: 4.2/5  (2061 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

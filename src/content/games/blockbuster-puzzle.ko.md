@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: blockbuster-puzzle
 title: Blockbuster Puzzle 블록버스터 퍼즐
+seoTitle: Blockbuster Puzzle 블록버스터 퍼즐 무료 온라인 플레이 | FiddleBops
 description: >-
   Blockbuster Puzzle은 블록을 배치해 줄·클러스터를 지우는 퍼즐 게임입니다. 탈출용 공간을 남겨 두고, 연쇄 폭발처럼 여러 줄을
   한 번에 지울 기회를 노려 보세요.
 iframeSrc: 'https://177gd8gft04p0.h5games.usercontent.goog/v/0md288db3fuq8/'
 thumbnail: /new-images/thumbnails/blockbuster-puzzle.png
+urlstr: blockbuster-puzzle
 tags:
   - puzzle
   - thinky

@@ -1,7 +1,7 @@
 ---
 locale: fr
-urlstr: fancy-pants-2
 title: Fancy Pants 2
+seoTitle: Jouez à Fancy Pants 2 en ligne gratuitement | FiddleBops
 description: >-
   Suite d’un platformer basé sur la vitesse : mouvements encore plus rapides,
   nouveaux ennemis et grands niveaux dessinés à la main remplis de secrets et de
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj9/index.html
 thumbnail: /new-images/thumbnails/fancy-pants-2.jpg
+urlstr: fancy-pants-2
 tags:
   - platformer
   - action

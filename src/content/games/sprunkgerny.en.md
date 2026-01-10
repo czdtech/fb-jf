@@ -1,6 +1,7 @@
 ---
 locale: en
-title: Sprunkgerny - Play Sprunkgerny Online
+title: Sprunkgerny
+seoTitle: Play Sprunkgerny Online Free | FiddleBops
 description: >-
   If you are looking for a unique musical experience, then Sprunkgerny is
   definitely not to be missed! It breaks the shackles of traditional rhythm
@@ -9,11 +10,11 @@ description: >-
 iframeSrc: 'https://turbowarp.org/1107761681/embed'
 thumbnail: /new-images/thumbnails/sprunkgerny.png
 urlstr: sprunkgerny
-score: 4.9/5  (724 votes)
 tags:
   - sprunkgerny
   - sprunkgerny online
   - music
+score: 4.9/5  (724 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

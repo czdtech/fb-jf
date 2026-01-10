@@ -1,13 +1,13 @@
 ---
 locale: zh
-urlstr: cooking-mama
-title: "Cooking Mama: Mama Kills Animals 厨娘妈妈：动物大屠杀"
+title: 'Cooking Mama: Mama Kills Animals 厨娘妈妈：动物大屠杀'
+seoTitle: '免费在线玩 Cooking Mama: Mama Kills Animals 厨娘妈妈：动物大屠杀 | FiddleBops'
 description: >-
-  《Cooking Mama: Mama Kills Animals 厨娘妈妈：动物大屠杀》并不是官方 Cooking Mama
-  系列作品，而是由 PETA 制作的讽刺向网页游戏。本文将介绍它的出处、玩法结构以及背后
-  的动物保护议题，帮助你区分这款作品与正统系列。
+  《Cooking Mama: Mama Kills Animals 厨娘妈妈：动物大屠杀》并不是官方 Cooking Mama 系列作品，而是由 PETA
+  制作的讽刺向网页游戏。本文将介绍它的出处、玩法结构以及背后 的动物保护议题，帮助你区分这款作品与正统系列。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/cooking-mama.html'
 thumbnail: /new-images/thumbnails/cooking-mama.jpg
+urlstr: cooking-mama
 tags:
   - horror
 score: 4.4/5  (1078 votes)

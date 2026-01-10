@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: fuzzies
 title: Fuzzies
+seoTitle: Spiele Fuzzies kostenlos online | FiddleBops
 description: >-
   Fuzzies ist ein farbenfroher Bubble Shooter mit flauschigen Kugeln: Ziele,
   kombiniere Farben und verhindere, dass die Wand den unteren Bildschirmrand
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=662&original_ref=
 thumbnail: /new-images/thumbnails/fuzzies.jpg
+urlstr: fuzzies
 tags:
   - puzzle
   - match-3

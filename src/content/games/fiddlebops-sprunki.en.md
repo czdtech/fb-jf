@@ -1,6 +1,7 @@
 ---
 locale: en
-title: Fiddlebops Sprunki - Play Fiddlebops Sprunki Online
+title: Fiddlebops Sprunki
+seoTitle: Play Fiddlebops Sprunki Online Free | FiddleBops
 description: >-
   The Fiddlebops Sprunki breathes new life into the original Sprunki game by
   adding a delightful twist.it offers players a chance to enjoy a more whimsical
@@ -8,12 +9,12 @@ description: >-
 iframeSrc: 'https://67ce9d735e0d2d9051c65366--kaleidoscopic-sundae-181ab2.netlify.app/'
 thumbnail: /new-images/thumbnails/fiddlebops-sprunki.png
 urlstr: fiddlebops-sprunki
-modType: fiddlebops
-score: 4.3/5 (684 votes)
 tags:
   - fiddlebops sprunki
   - sprunki phase 5 online
   - music
+modType: fiddlebops
+score: 4.3/5 (684 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

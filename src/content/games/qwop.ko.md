@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: qwop
 title: QWOP Game QWOP 달리기 게임
+seoTitle: QWOP Game QWOP 달리기 게임 무료 온라인 플레이 | FiddleBops
 description: >-
   네 개의 키(Q, W, O, P)만으로 선수의 다리 근육을 조작해 100m를 완주해야 하는 악명 높은 물리 기반 달리기 게임입니다. 엉뚱한
   조작감과 쓰러지는 모션으로 유명합니다.
 iframeSrc: 'https://kdata1.com/2020/01/QWOP1/?webgl=true'
 thumbnail: /new-images/thumbnails/qwop.jpg
+urlstr: qwop
 tags:
   - physics
   - difficulty

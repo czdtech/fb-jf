@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: crossyroad
-title: Crossy Road - 在线玩 Crossy Road 过马路
+title: Crossy Road
+seoTitle: 免费在线玩 Crossy Road | FiddleBops
 description: >-
   《Crossy Road》是一款 8-bit 风格的无尽街机跳格游戏，你的任务是操控一只鸡（以及其他
   角色）不断穿越马路、河流与铁轨，在不被撞飞或淹死的前提下走得尽可能远。
 iframeSrc: 'https://www.playfiddlebops.com/embed/crossyroad/index.html'
 thumbnail: /new-images/thumbnails/crossyroad.jpg
+urlstr: crossyroad
 tags:
   - crossy road
 score: 4.8/5  (1104 votes)

@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: gold-miner
 title: Gold Miner
+seoTitle: Jouez à Gold Miner en ligne gratuitement | FiddleBops
 description: >-
   Classique arcade de grappin : choisis le bon timing pour lancer ta griffe,
   attraper or et gemmes, acheter des bonus et atteindre la somme cible avant la
   fin du temps.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/gold-miner.html'
 thumbnail: /new-images/thumbnails/gold-miner.jpg
+urlstr: gold-miner
 tags:
   - arcade
   - skill

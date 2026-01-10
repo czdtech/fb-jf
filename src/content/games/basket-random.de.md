@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: basket-random
 title: Basket Random
+seoTitle: Spiele Basket Random kostenlos online | FiddleBops
 description: >-
   Basket Random ist ein völlig verrücktes, physikbasiertes Basketballspiel. Mit
   nur einer Taste springst und fuchtelst du dich durch chaotische
@@ -10,6 +10,7 @@ description: >-
 iframeSrc: >-
   https://app-197304.games.s3.yandex.net/197304/kj9rcykboy6eol5xnn250jesr7v0hoh1/index.html
 thumbnail: /new-images/thumbnails/basket-random.jpg
+urlstr: basket-random
 tags:
   - casual
   - sports

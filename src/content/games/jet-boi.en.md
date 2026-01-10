@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Jet Boi"
-description: "2‑player jetpack duels: boost with limited fuel, grab weapons, and knock your rival off platforms in quick rounds." 
-iframeSrc: "https://g.igroutka.ru/games/23/yw5Aj09crUtBZC8T/rvvASMiM/5113cafa646f4648abc873fe8fbb7232/"
+title: Jet Boi
+seoTitle: Play Jet Boi Online Free | FiddleBops
+description: >-
+  2‑player jetpack duels: boost with limited fuel, grab weapons, and knock your
+  rival off platforms in quick rounds.
+iframeSrc: >-
+  https://g.igroutka.ru/games/23/yw5Aj09crUtBZC8T/rvvASMiM/5113cafa646f4648abc873fe8fbb7232/
 thumbnail: /new-images/thumbnails/jet-boi.jpg
-urlstr: "jet-boi"
-score: "4.9/5  (628 votes)"
-tags: ["action", "multiplayer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: jet-boi
+tags:
+  - action
+  - multiplayer
+score: 4.9/5  (628 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

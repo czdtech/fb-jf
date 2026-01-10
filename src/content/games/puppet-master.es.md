@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: puppet-master
 title: Puppet Master
+seoTitle: Juega a Puppet Master en línea gratis | FiddleBops
 description: >-
   Puppet Master es un extravagante juego de puzles basado en físicas en el que
   controlas a un muñeco a través de niveles llenos de obstáculos, moviendo sus
   extremidades y su cuerpo de forma precisa para llegar a la meta.
 iframeSrc: 'https://classroomjq.github.io/puppet-master/'
 thumbnail: /new-images/thumbnails/puppet-master.jpg
+urlstr: puppet-master
 tags:
   - puzzle
   - physics

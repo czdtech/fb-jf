@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Pocket Champs: 3D Racing"
-description: "Train your Champ, pick the right gadgets, and watch them race to victory! An idle racing game where strategy and preparation are key to becoming a Pocket Champ."
-iframeSrc: "https://pocketchampions.h5games.usercontent.goog/v/24houhjfrhfi8/"
+title: 'Pocket Champs: 3D Racing'
+seoTitle: 'Play Pocket Champs: 3D Racing Online Free | FiddleBops'
+description: >-
+  Train your Champ, pick the right gadgets, and watch them race to victory! An
+  idle racing game where strategy and preparation are key to becoming a Pocket
+  Champ.
+iframeSrc: 'https://pocketchampions.h5games.usercontent.goog/v/24houhjfrhfi8/'
 thumbnail: /new-images/thumbnails/pocket-champions.png
-urlstr: "pocket-champions"
-score: "4.4/5  (2600 votes)"
-tags: ["strategy", "casual", "sports"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: pocket-champions
+tags:
+  - strategy
+  - casual
+  - sports
+score: 4.4/5  (2600 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

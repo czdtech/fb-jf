@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: bloons-td-3
 title: Bloons TD 3 气球塔防 3
+seoTitle: 免费在线玩 Bloons TD 3 气球塔防 3 | FiddleBops
 description: >-
   《Bloons TD 3 气球塔防 3》在系列基础上加入更多猴子塔、首次引入 MOAB 飞艇与 Monkey Beacon 支援塔，通过更
   多样的地图与难度考验你的塔防布局功力。
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-3.html'
 thumbnail: /new-images/thumbnails/bloons-td-3.jpg
+urlstr: bloons-td-3
 tags:
   - casual
   - strategy

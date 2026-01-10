@@ -1,11 +1,12 @@
 ---
 locale: fr
-urlstr: crossword-puzzles
 title: Crossword Puzzles
+seoTitle: Jouez à Crossword Puzzles en ligne gratuitement | FiddleBops
 description: "Crossword Puzzles propose des grilles thématiques\_: trouve les réponses des définitions pour compléter chaque grille de mots croisés."
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/best-free-themed-puzzles/
 thumbnail: /new-images/thumbnails/crossword-puzzles.jpg
+urlstr: crossword-puzzles
 tags:
   - word
   - puzzle

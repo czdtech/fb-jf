@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Stickman Hook
+seoTitle: 無料でStickman Hookをオンラインでプレイ | FiddleBops
 description: Stickman Hookは、スティックマンがフックでスイングして進むアーケードゲームです。タイミングと勢いを使ってゴールを目指します。
 iframeSrc: 'https://ubg98.github.io/StickmanHook/'
 thumbnail: /new-images/thumbnails/stickman-hook.jpg
 urlstr: stickman-hook
-score: 3.7/5  (994 votes)
 tags:
   - arcade
   - physics
   - skill
-locale: ja
+score: 3.7/5  (994 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

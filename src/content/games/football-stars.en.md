@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Football Stars"
-description: "Football Stars condenses quick footy — pass smartly, time shots, and outplay defenders in short, arcade matches."
-iframeSrc: "https://0bqhpbln445co.h5games.usercontent.goog/v/2to6kd3co500g/"
+title: Football Stars
+seoTitle: Play Football Stars Online Free | FiddleBops
+description: >-
+  Football Stars condenses quick footy — pass smartly, time shots, and outplay
+  defenders in short, arcade matches.
+iframeSrc: 'https://0bqhpbln445co.h5games.usercontent.goog/v/2to6kd3co500g/'
 thumbnail: /new-images/thumbnails/football-stars.png
-urlstr: "football-stars"
-score: "3.9/5  (1763 votes)"
-tags: ["sports", "soccer"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: football-stars
+tags:
+  - sports
+  - soccer
+score: 3.9/5  (1763 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

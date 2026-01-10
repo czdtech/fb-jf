@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Om Nom: Run"
-description: "Join Om Nom and Om Nelle in a fast-paced endless runner! Dash through the streets, dodge obstacles, collect coins, and use awesome power-ups to run as far as you can."
-iframeSrc: "https://omnomrun.h5games.usercontent.goog/v/38udj70raubl0/"
+title: 'Om Nom: Run'
+seoTitle: 'Play Om Nom: Run Online Free | FiddleBops'
+description: >-
+  Join Om Nom and Om Nelle in a fast-paced endless runner! Dash through the
+  streets, dodge obstacles, collect coins, and use awesome power-ups to run as
+  far as you can.
+iframeSrc: 'https://omnomrun.h5games.usercontent.goog/v/38udj70raubl0/'
 thumbnail: /new-images/thumbnails/om-nom-run.png
-urlstr: "om-nom-run"
-score: "4.5/5  (3400 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: om-nom-run
+tags:
+  - action
+  - casual
+score: 4.5/5  (3400 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

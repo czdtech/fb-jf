@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Cat Mario"
-description: "Face the ultimate unfair platformer in Cat Mario (Syobon Action)! Navigate a world full of hidden traps, unexpected enemies, and deceptive level design in this notoriously difficult and hilarious parody game."
-iframeSrc: "https://tiwb.github.io/catmario/"
+title: Cat Mario
+seoTitle: Play Cat Mario Online Free | FiddleBops
+description: >-
+  Face the ultimate unfair platformer in Cat Mario (Syobon Action)! Navigate a
+  world full of hidden traps, unexpected enemies, and deceptive level design in
+  this notoriously difficult and hilarious parody game.
+iframeSrc: 'https://tiwb.github.io/catmario/'
 thumbnail: /new-images/thumbnails/cat-mario.jpg
-urlstr: "cat-mario"
-score: "4.6/5  (1147 votes)"
-tags: ["platformer", "casual"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: cat-mario
+tags:
+  - platformer
+  - casual
+score: 4.6/5  (1147 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

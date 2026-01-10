@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Baldi's Basics バルディ先生の教育実習
+seoTitle: 無料でBaldi's Basics バルディ先生の教育実習をオンラインでプレイ | FiddleBops
 description: >-
   「Baldi's
   Basics」の完全攻略ガイド。バルディ先生から逃げ切り、ノートを集め、この恐怖の学校から脱出するための戦略、アイテムの使い方、キャラクター対策を解説。
 iframeSrc: 'https://html5.iclouds.io/baldis-basics/index.html'
 thumbnail: /new-images/thumbnails/baldis-basics.jpg
 urlstr: baldis-basics
-score: 4.5/5  (781 votes)
 tags:
   - puzzle
   - horror
+score: 4.5/5  (781 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

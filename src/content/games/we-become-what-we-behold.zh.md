@@ -1,13 +1,13 @@
 ---
 locale: zh
-urlstr: we-become-what-we-behold
-title: 'We Become What We Behold：我们成了我们注视的样子'
+title: We Become What We Behold：我们成了我们注视的样子
+seoTitle: 免费在线玩 We Become What We Behold：我们成了我们注视的样子 | FiddleBops
 description: >-
-  《We Become What We Behold》是一款发人深省的讽刺小游戏，
-  通过“拍新闻”的互动体验，探讨媒体吸睛式报道如何放大仇恨与分裂，
+  《We Become What We Behold》是一款发人深省的讽刺小游戏， 通过“拍新闻”的互动体验，探讨媒体吸睛式报道如何放大仇恨与分裂，
   以及我们如何逐渐变成自己天天盯着看的那些东西。
 iframeSrc: 'https://html5.iclouds.io/we-become-behold/index.html'
 thumbnail: /new-images/thumbnails/we-become-what-we-behold.jpg
+urlstr: we-become-what-we-behold
 tags:
   - satire
   - social-commentary

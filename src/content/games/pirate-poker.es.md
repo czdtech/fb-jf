@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: pirate-poker
-title: Pirate Poker - Póker de cinco cartas en alta mar
+title: Pirate Poker
+seoTitle: Juega a Pirate Poker en línea gratis | FiddleBops
 description: >-
   ¡Ar, grumete! Apuesta, farolea y construye la mejor mano de cinco cartas en
   Pirate Poker. Reta a viejos lobos de mar, administra tus doblones y demuestra
   que eres el tiburón de las cartas más temido de los siete mares.
 iframeSrc: 'https://6ghou5c7rjb9g.h5games.usercontent.goog/v/2n3b0c56pikmo/'
 thumbnail: /new-images/thumbnails/pirate-poker.png
+urlstr: pirate-poker
 tags:
   - card
   - puzzle

@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: classic-solitaire
 title: Classic Solitaire 经典纸牌接龙
+seoTitle: 免费在线玩 Classic Solitaire 经典纸牌接龙 | FiddleBops
 description: >-
   在《Classic Solitaire 经典纸牌接龙》（Klondike）中体验最经典的单人纸牌游戏。通过 在牌桌与基座之间灵活移动纸牌，将所有同花色牌按从
   A 到 K 的顺序整理完成。
 iframeSrc: 'https://6uj90l2koon6g.h5games.usercontent.goog/v/2a72i89u7qfe8/'
 thumbnail: /new-images/thumbnails/classic-solitaire.png
+urlstr: classic-solitaire
 tags:
   - card
   - puzzle

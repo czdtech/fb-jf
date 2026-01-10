@@ -1,14 +1,22 @@
 ---
 locale: en
-title: "Tiletopia"
-description: "Build a thriving city one tile at a time in Tiletopia! A relaxing strategy puzzle where you place tiles to connect roads, build houses, and complete challenges to create your own miniature world."
-iframeSrc: "https://6nilllqpgkm6o.h5games.usercontent.goog/v/7d3689i7s5gfo/"
+title: Tiletopia
+seoTitle: Play Tiletopia Online Free | FiddleBops
+description: >-
+  Build a thriving city one tile at a time in Tiletopia! A relaxing strategy
+  puzzle where you place tiles to connect roads, build houses, and complete
+  challenges to create your own miniature world.
+iframeSrc: 'https://6nilllqpgkm6o.h5games.usercontent.goog/v/7d3689i7s5gfo/'
 thumbnail: /new-images/thumbnails/tiletopia.png
-urlstr: "tiletopia"
-score: "4.5/5  (2800 votes)"
-tags: ["puzzle", "strategy", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: tiletopia
+tags:
+  - puzzle
+  - strategy
+  - casual
+  - thinky
+score: 4.5/5  (2800 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

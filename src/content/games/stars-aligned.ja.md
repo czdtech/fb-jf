@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Stars Aligned
+seoTitle: 無料でStars Alignedをオンラインでプレイ | FiddleBops
 description: Stars Alignedは、落ち着いた星座パズラーです — フラグメントを回転させ、線をつなぎ、完全な星のパターンを形成します。
 iframeSrc: 'https://starsaligned.h5games.usercontent.goog/v/3i88p78sohtig/'
 thumbnail: /new-images/thumbnails/stars-aligned.jpg
 urlstr: stars-aligned
-score: 4.4/5  (2183 votes)
 tags:
   - puzzle
   - relaxing
   - casual
-locale: ja
+score: 4.4/5  (2183 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

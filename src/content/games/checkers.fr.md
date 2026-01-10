@@ -1,11 +1,12 @@
 ---
 locale: fr
-urlstr: checkers
 title: Checkers
+seoTitle: Jouez à Checkers en ligne gratuitement | FiddleBops
 description: "Découvre ou redécouvre le jeu de dames\_: apprends les règles de base, les prises obligatoires, la promotion en dame et les stratégies pour contrôler le damier et piéger ton adversaire."
 iframeSrc: >-
   https://app-98054.games.s3.yandex.net/98054/nmrr3mfit1y3qyd35l9zk4d8awgfxsjq/index.html
 thumbnail: /new-images/thumbnails/checkers.jpg
+urlstr: checkers
 tags:
   - strategy
   - puzzle

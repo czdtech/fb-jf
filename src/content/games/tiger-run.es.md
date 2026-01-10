@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: tiger-run
-title: Tiger Run - Carrera infinita en la jungla
+title: Tiger Run
+seoTitle: Juega a Tiger Run en línea gratis | FiddleBops
 description: >-
   Tiger Run es un endless runner ambientado en la jungla: corre, salta y
   deslízate para esquivar obstáculos, cambiar de carril y recoger monedas sin
   perder el ritmo.
 iframeSrc: 'https://tigerrun.h5games.usercontent.goog/v/1cl0c4rtsjsqo/'
 thumbnail: /new-images/thumbnails/tiger-run.jpeg
+urlstr: tiger-run
 tags:
   - action
   - casual

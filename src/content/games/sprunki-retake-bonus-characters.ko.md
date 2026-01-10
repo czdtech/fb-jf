@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: sprunki-retake-bonus-characters
 title: Sprunki Retake Bonus Characters 스프룽키 리테이크 보너스 캐릭터
+seoTitle: Sprunki Retake Bonus Characters 스프룽키 리테이크 보너스 캐릭터 무료 온라인 플레이 | FiddleBops
 description: >-
   Sprunki Retake Bonus Characters는 부족 음악과 원시 리듬에서 영감을 얻은 보너스 캐릭터들을 중심으로, 스프룽키식
   음악 만들기와 민족 색채를 결합한 모드입니다.
 iframeSrc: 'https://turbowarp.org/1107905149/embed'
 thumbnail: /new-images/thumbnails/sprunki-retake-bonus-characters.png
+urlstr: sprunki-retake-bonus-characters
 tags:
   - sprunki retake bonus characters
 score: 3.9/5  (132 votes)

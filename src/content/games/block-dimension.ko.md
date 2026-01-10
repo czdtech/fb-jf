@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: block-dimension
 title: Block Dimension 블록 디멘션
+seoTitle: Block Dimension 블록 디멘션 무료 온라인 플레이 | FiddleBops
 description: >-
   Block Dimension은 10×10 격자에서 블록을 배치해 줄을 지우는 퍼즐 게임입니다. 다양한 모양의 블록을 전략적으로 배치해 공간을
   관리하며 높은 점수를 노려 보세요.
 iframeSrc: 'https://62dfg8ps4f7lg.h5games.usercontent.goog/v/0k3gcfq0ljti8/'
 thumbnail: /new-images/thumbnails/block-dimension.png
+urlstr: block-dimension
 tags:
   - puzzle
   - thinky

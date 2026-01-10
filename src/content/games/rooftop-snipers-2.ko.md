@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: rooftop-snipers-2
 title: Rooftop Snipers 2 루프탑 스나이퍼 2
+seoTitle: Rooftop Snipers 2 루프탑 스나이퍼 2 무료 온라인 플레이 | FiddleBops
 description: >-
   빌딩 옥상에서 막대인간 둘이 총싸움을 벌이는 물리 기반 슈팅 게임입니다. 기묘한 래그돌 물리와 반동을 이용해 상대를 옥상 아래로
   떨어뜨리세요.
 iframeSrc: 'https://rebemanae.github.io/rooftop-snipers-2/'
 thumbnail: /new-images/thumbnails/rooftop-snipers-2.jpg
+urlstr: rooftop-snipers-2
 tags:
   - shooting
   - physics

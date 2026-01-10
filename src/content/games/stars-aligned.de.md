@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: stars-aligned
 title: Stars Aligned
+seoTitle: Spiele Stars Aligned kostenlos online | FiddleBops
 description: >-
   Stars Aligned ist ein beruhigendes Sternbild-Puzzle: Drehe Fragmente, verbinde
   Linien und lass nach und nach vollständige Sternmuster entstehen.
 iframeSrc: 'https://starsaligned.h5games.usercontent.goog/v/3i88p78sohtig/'
 thumbnail: /new-images/thumbnails/stars-aligned.jpg
+urlstr: stars-aligned
 tags:
   - puzzle
   - thinky

@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: cricket-world-cup
 title: Cricket World Cup
+seoTitle: Jouez à Cricket World Cup en ligne gratuitement | FiddleBops
 description: "Cricket World Cup te met à la batte dans des scénarios de coupe du monde\_: choisis ton tir, lis chaque lancer et poursuis des objectifs de score serrés."
 iframeSrc: 'https://5ret6v2c94q4g.h5games.usercontent.goog/v/09j66svc50570/'
 thumbnail: /new-images/thumbnails/cricket-world-cup.png
+urlstr: cricket-world-cup
 tags:
   - sports
   - casual

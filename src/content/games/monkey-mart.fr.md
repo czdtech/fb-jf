@@ -1,7 +1,7 @@
 ---
 locale: fr
-urlstr: monkey-mart
 title: Monkey Mart
+seoTitle: Jouez à Monkey Mart en ligne gratuitement | FiddleBops
 description: >-
   Monkey Mart est un jeu de gestion mignon et addictif où tu diriges un
   supermarché tenu par des singes, récoltes des cultures, remplis les rayons et
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/gamehwq/20221216/09/index.htm
 thumbnail: /new-images/thumbnails/monkey-mart.jpg
+urlstr: monkey-mart
 tags:
   - simulation
   - management

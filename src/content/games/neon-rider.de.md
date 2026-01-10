@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: neon-rider
-title: "Neon Rider"
+title: Neon Rider
+seoTitle: Spiele Neon Rider kostenlos online | FiddleBops
 description: >-
   Neon Rider bietet elegante Bike-Physik-Runs: Halte Balance, dosiere Gas und
   führe saubere Flips aus, um neonleuchtende Strecken zu meistern.
 iframeSrc: 'https://1ef80kndi1bv0.h5games.usercontent.goog/v/4glscq8hf3m20/'
 thumbnail: /new-images/thumbnails/neon-rider.png
+urlstr: neon-rider
 tags:
   - bike
   - action

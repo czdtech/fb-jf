@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: light-line
 title: Light Line
+seoTitle: Juega a Light Line en línea gratis | FiddleBops
 description: >-
   Light Line es un puzle de trazado de rutas luminosas: conecta nodos sin
   cruces, gestiona la energía y resuelve niveles con rutas elegantes.
 iframeSrc: 'https://4es9bmcl5tp2o.h5games.usercontent.goog/v/5uo8nsnhp1vjo/'
 thumbnail: /new-images/thumbnails/light-line.png
+urlstr: light-line
 tags:
   - puzzle
   - thinky

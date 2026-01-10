@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: traffic-tom
 title: Traffic Tom 트래픽 톰
+seoTitle: Traffic Tom 트래픽 톰 무료 온라인 플레이 | FiddleBops
 description: >-
   고양이 라이더 톰과 함께 고속도로를 질주하는 오토바이 게임입니다. 빽빽한 차량 사이를 요리조리 피해 다니며 미션을 수행하고, 코인으로
   바이크를 업그레이드해 도로의 제왕이 되어 보세요.
 iframeSrc: >-
   https://traffictom.h5games.usercontent.goog/v/7c1a9fb2-2097-4c14-b7b1-052d80d41adb/
 thumbnail: /new-images/thumbnails/traffic-tom.jpg
+urlstr: traffic-tom
 tags:
   - driving
   - action

@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: grass-cutter
 title: Grass Cutter
+seoTitle: Spiele Grass Cutter kostenlos online | FiddleBops
 description: >-
   Kniffliges Raster-Puzzlespiel: Mähe jedes Feld genau einmal, plane deine Route
   mit begrenzten Zügen, weiche Hindernissen aus und bringe den Rasen perfekt in
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/wcIz2a3WYRNKhbuq/rvvASMiM/58925795805842fcbfd7edf67efcd606/
 thumbnail: /new-images/thumbnails/grass-cutter.jpg
+urlstr: grass-cutter
 tags:
   - puzzle
   - logic

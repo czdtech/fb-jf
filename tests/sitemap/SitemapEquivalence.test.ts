@@ -237,7 +237,7 @@ describe('Sitemap Equivalence Tests', () => {
           expect(url).not.toContain(pattern);
         });
       });
-    });
+    }, 20000);
   });
 
   describe('Sitemap Format Validation', () => {

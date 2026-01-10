@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: five-nights-at-freddy-2
 title: Five Nights at Freddy's 2 (FNAF 2) 弗雷迪的五夜惊魂 2
+seoTitle: 免费在线玩 Five Nights at Freddy's 2 (FNAF 2) 弗雷迪的五夜惊魂 2 | FiddleBops
 description: 二代的核心是面具与八音盒管理：在同时监控多个机械玩偶的情况下， 持续上发条维持 Puppet 的音乐盒，适时使用手电筒与 Freddy 面具活下来。
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-2.jpg
+urlstr: five-nights-at-freddy-2
 tags:
   - horror
   - strategy

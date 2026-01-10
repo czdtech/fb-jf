@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Differences Find Quest 間違い探しクエスト
+seoTitle: 無料でDifferences Find Quest 間違い探しクエストをオンラインでプレイ | FiddleBops
 description: 「Differences Find Quest」はこだわりの間違い探しゲーム。2つの絵を見比べて、巧妙に隠された違いを見つけ出そう。
 iframeSrc: 'https://4rsldln0df32g.h5games.usercontent.goog/v/1hcmcbpl76s40/'
 thumbnail: /new-images/thumbnails/differences-find-quest.png
 urlstr: differences-find-quest
-score: 4.0/5  (1876 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.0/5  (1876 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

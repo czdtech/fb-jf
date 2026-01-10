@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: wheely
-title: Wheely - Aventuras del pequeño coche rojo
+title: Wheely
+seoTitle: Juega a Wheely en línea gratis | FiddleBops
 description: >-
   Acompaña a Wheely, el simpático coche rojo, en una serie de aventuras
   point‑and‑click. Activa mecanismos, resuelve puzles y ayúdalo a superar
   obstáculos en cada nivel.
 iframeSrc: 'https://www.friv.com/z/games/wheely/index-x.html'
 thumbnail: /new-images/thumbnails/wheely.jpg
+urlstr: wheely
 tags:
   - puzzle
   - adventure

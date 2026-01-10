@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Word Detector"
-description: "Put your vocabulary to the test! Find and trace hidden words in a grid of letters. Connect letters in any direction to form words and clear the board before time runs out."
-iframeSrc: "https://worddetector.h5games.usercontent.goog/v/4gaf9ej9hp398/"
+title: Word Detector
+seoTitle: Play Word Detector Online Free | FiddleBops
+description: >-
+  Put your vocabulary to the test! Find and trace hidden words in a grid of
+  letters. Connect letters in any direction to form words and clear the board
+  before time runs out.
+iframeSrc: 'https://worddetector.h5games.usercontent.goog/v/4gaf9ej9hp398/'
 thumbnail: /new-images/thumbnails/word-detector.png
-urlstr: "word-detector"
-score: "4.4/5  (2350 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: word-detector
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.4/5  (2350 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

@@ -1,13 +1,13 @@
 ---
 locale: ko
-urlstr: incredibox-beatnik-simulator
-title: "Incredibox Beatnik Simulator 비트닉 재즈 모드"
+title: Incredibox Beatnik Simulator 비트닉 재즈 모드
+seoTitle: Incredibox Beatnik Simulator 비트닉 재즈 모드 무료 온라인 플레이 | FiddleBops
 description: >-
-  1950~60년대 비트닉 서브컬처와 재즈 클럽 분위기를 담은 Incredibox 팬메이드
-  모드입니다. 재즈·시·비순응 문화를 기리는 테마와 사운드를 활용해, 감성적인
-  비트닉 믹스를 만들어 보세요.
+  1950~60년대 비트닉 서브컬처와 재즈 클럽 분위기를 담은 Incredibox 팬메이드 모드입니다. 재즈·시·비순응 문화를 기리는 테마와
+  사운드를 활용해, 감성적인 비트닉 믹스를 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/948885978/embed'
 thumbnail: /new-images/thumbnails/incredibox-beatnik-simulator.png
+urlstr: incredibox-beatnik-simulator
 tags:
   - music
   - rhythm

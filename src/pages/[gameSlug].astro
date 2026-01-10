@@ -57,12 +57,13 @@ const legacySlug = game.data.urlstr ?? game.slug;
 const canonicalUrl = `https://www.playfiddlebops.com/${legacySlug}/`;
 const hreflangLinks = getGameHreflang(legacySlug);
 
-const { title, description, iframeSrc, tags, thumbnail, score } = game.data;
+const { title, seoTitle, description, iframeSrc, tags, thumbnail, score } = game.data;
 const { Content } = await game.render();
 ---
 
 <GameLayout
   title={title}
+  seoTitle={seoTitle}
   description={description}
   canonicalUrl={canonicalUrl}
   thumbnail={thumbnail}

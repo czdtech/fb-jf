@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: HexaMind
+seoTitle: 無料でHexaMindをオンラインでプレイ | FiddleBops
 description: HexaMindは六角形グリッドの論理パズルです。タイルを配置し、隣接ルールを満たし、ハニカムレイアウト全体で偶奇性（パリティ）を管理しましょう。
 iframeSrc: 'https://518ndvi54l1n0.h5games.usercontent.goog/v/608gefgjbkc88/'
 thumbnail: /new-images/thumbnails/hexamind.png
 urlstr: hexamind
-score: 4.2/5  (2066 votes)
 tags:
   - puzzle
   - thinky
+score: 4.2/5  (2066 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

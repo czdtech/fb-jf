@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Bloons TD 3"
-description: "Defend against waves of colorful bloons in Bloons TD 3! Place and upgrade 8 unique towers, utilize the powerful Monkey Beacon, and prepare to face the first-ever MOAB in this classic tower defense strategy game."
-iframeSrc: "https://1000freegames.github.io/swf/bloons-td-3.html"
+title: Bloons TD 3
+seoTitle: Play Bloons TD 3 Online Free | FiddleBops
+description: >-
+  Defend against waves of colorful bloons in Bloons TD 3! Place and upgrade 8
+  unique towers, utilize the powerful Monkey Beacon, and prepare to face the
+  first-ever MOAB in this classic tower defense strategy game.
+iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-3.html'
 thumbnail: /new-images/thumbnails/bloons-td-3.jpg
-urlstr: "bloons-td-3"
-score: "4.9/5  (538 votes)"
-tags: ["casual", "strategy"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: bloons-td-3
+tags:
+  - casual
+  - strategy
+score: 4.9/5  (538 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

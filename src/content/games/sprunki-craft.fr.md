@@ -1,15 +1,16 @@
 ---
 locale: fr
-urlstr: sprunki-craft
-title: Sprunki Craft - Jouer à Sprunki Craft en ligne
+title: Sprunki Craft
+seoTitle: Jouez à Sprunki Craft en ligne gratuitement | FiddleBops
 description: "Sprunki Craft est la rencontre parfaite entre Minecraft et Incredibox\_: utilise des personnages inspirés de l’univers Minecraft pour composer des morceaux originaux dans le style Sprunki."
 iframeSrc: 'https://www.minijuegos.com/embed/sprunki-craft'
 thumbnail: /new-images/thumbnails/sprunki-craft.jpg
-score: 4.9/5  (724 votes)
+urlstr: sprunki-craft
 tags:
   - sprunki craft
   - sprunki craft online
-releaseDate: 2025-12-04
+score: 4.9/5  (724 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Présentation de Sprunki Craft

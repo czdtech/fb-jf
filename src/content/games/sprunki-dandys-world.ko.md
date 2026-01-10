@@ -1,17 +1,17 @@
 ---
 locale: ko
-urlstr: sprunki-dandys-world
-title: "Sprunki Dandy's World 스프룽키 댄디의 월드"
+title: Sprunki Dandy's World 스프룽키 댄디의 월드
+seoTitle: Sprunki Dandy's World 스프룽키 댄디의 월드 무료 온라인 플레이 | FiddleBops
 description: >-
-  Sprunki Dandy's World는 음악·아트·스토리텔링을 함께 즐길 수 있는 스프룽키식
-  리듬/뮤직 비디오 제작 게임입니다. 개성 강한 캐릭터와 악기를 조합해 나만의
-  뮤직 비디오를 연출할 수 있습니다.
+  Sprunki Dandy's World는 음악·아트·스토리텔링을 함께 즐길 수 있는 스프룽키식 리듬/뮤직 비디오 제작 게임입니다. 개성 강한
+  캐릭터와 악기를 조합해 나만의 뮤직 비디오를 연출할 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1075503895/embed'
 thumbnail: /new-images/thumbnails/sprunki-dandys-world.png
+urlstr: sprunki-dandys-world
 tags:
   - sprunki dandy
 score: 4.4/5  (304 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

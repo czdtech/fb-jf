@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: sprunki-swapped-horror
 title: Sprunki Swapped Horror
+seoTitle: Spiele Sprunki Swapped Horror kostenlos online | FiddleBops
 description: >-
   Sprunki Swapped Horror ist ein kreativer Incredibox-Mod, der durch seinen
   innovativen Charakter-Tausch-Mechanismus eine neue Dimension ins Spiel bringt.
@@ -10,6 +10,7 @@ description: >-
   zu erschaffen.
 iframeSrc: 'https://turbowarp.org/1132681434/embed'
 thumbnail: /new-images/thumbnails/sprunki-swapped-horror.png
+urlstr: sprunki-swapped-horror
 tags:
   - sprunki swapped horror
   - sprunki swapped horror online

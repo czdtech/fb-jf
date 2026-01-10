@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: stud-rider
-title: 'Stud Rider'
+title: Stud Rider
+seoTitle: Juega a Stud Rider en línea gratis | FiddleBops
 description: >-
-  Stud Rider es un juego de moto tipo carreras por colinas centrado en el flujo: gestiona
-  el impulso, aterriza plano y encadena saltos suaves a través de pistas llenas
-  de baches.
+  Stud Rider es un juego de moto tipo carreras por colinas centrado en el flujo:
+  gestiona el impulso, aterriza plano y encadena saltos suaves a través de
+  pistas llenas de baches.
 iframeSrc: 'https://0mm8l94jf1g88.h5games.usercontent.goog/v/6fo3rapem7uio/'
 thumbnail: /new-images/thumbnails/stud-rider.png
+urlstr: stud-rider
 tags:
   - bike
   - driving

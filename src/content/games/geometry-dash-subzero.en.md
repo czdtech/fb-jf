@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Geometry Dash SubZero"
-description: "Standalone winter‑themed rhythm levels: jump, fly, and time rings to music across icy visuals and fast patterns." 
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp46/chenling/20240322/06/index.html"
+title: Geometry Dash SubZero
+seoTitle: Play Geometry Dash SubZero Online Free | FiddleBops
+description: >-
+  Standalone winter‑themed rhythm levels: jump, fly, and time rings to music
+  across icy visuals and fast patterns.
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp46/chenling/20240322/06/index.html
 thumbnail: /new-images/thumbnails/geometry-dash-subzero.jpg
-urlstr: "geometry-dash-subzero"
-score: "3.9/5  (429 votes)"
-tags: ["rhythm", "platformer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: geometry-dash-subzero
+tags:
+  - rhythm
+  - platformer
+score: 3.9/5  (429 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

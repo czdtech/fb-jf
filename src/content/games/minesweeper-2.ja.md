@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Minesweeper 2
+seoTitle: 無料でMinesweeper 2をオンラインでプレイ | FiddleBops
 description: Minesweeper 2は改良された地雷ゲームです。地雷をマークし、論理を使用し、新しい機能でクラシックパズルをマスターします。
 iframeSrc: 'https://minesweeper.h5games.usercontent.goog/v/6uo6tf2lnil3o/'
 thumbnail: /new-images/thumbnails/minesweeper-2.jpg
 urlstr: minesweeper-2
-score: 4.7/5  (3500 votes)
 tags:
   - puzzle
   - thinky
+score: 4.7/5  (3500 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: perfect-piano
 title: Perfect Piano 퍼펙트 피아노
+seoTitle: Perfect Piano 퍼펙트 피아노 무료 온라인 플레이 | FiddleBops
 description: >-
   화면 위에서 떨어지는 타일을 리듬에 맞춰 두드리며 곡을 연주하는 리듬 액션 게임입니다. 한 음도 놓치지 않고 연주해 완벽한 콤보와 최고
   점수에 도전해 보세요.
 iframeSrc: 'https://perfectpiano.h5games.usercontent.goog/v/48c3ch9soa7cg/'
 thumbnail: /new-images/thumbnails/perfect-piano.png
+urlstr: perfect-piano
 tags:
   - action
   - casual

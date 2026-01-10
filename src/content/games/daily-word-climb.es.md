@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: daily-word-climb
 title: Daily Word Climb
+seoTitle: Juega a Daily Word Climb en línea gratis | FiddleBops
 description: >-
   Un desafío de palabras nuevo cada día. Intercambia letras en la cuadrícula
   para formar las palabras correctas y usa las pistas de color para deducir la
   posición exacta antes de que se agoten los movimientos.
 iframeSrc: 'https://7j9i6247552ro.h5games.usercontent.goog/v/1g49kcc7pdiio/'
 thumbnail: /new-images/thumbnails/daily-word-climb.png
+urlstr: daily-word-climb
 tags:
   - puzzle
   - thinky

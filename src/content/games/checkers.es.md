@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: checkers
 title: Checkers
+seoTitle: Juega a Checkers en línea gratis | FiddleBops
 description: >-
   Aprende las reglas y estrategias de Checkers, el clásico juego de mesa. Domina
   los movimientos en diagonal, las capturas obligatorias y la coronación de tus
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://app-98054.games.s3.yandex.net/98054/nmrr3mfit1y3qyd35l9zk4d8awgfxsjq/index.html
 thumbnail: /new-images/thumbnails/checkers.jpg
+urlstr: checkers
 tags:
   - strategy
   - puzzle

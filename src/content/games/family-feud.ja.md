@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Family Feud ファミリー・フュード
+seoTitle: 無料でFamily Feud ファミリー・フュードをオンラインでプレイ | FiddleBops
 description: 「Family Feud」はアンケート回答クイズゲーム。家族調査の質問に対する最も人気のある回答を推測し、複数ラウンドとファストマネーで得点を競おう。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/family-feud/'
 thumbnail: /new-images/thumbnails/family-feud.jpg
 urlstr: family-feud
-score: 4.1/5  (237 votes)
 tags:
   - trivia
   - quiz
+score: 4.1/5  (237 votes)
 developer: Fremantle
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Bolly Beat"
-description: "Bolly Beat is a rhythm challenge where you tap in time, chain combos, and master Bollywood‑style beats."
-iframeSrc: "https://bollybeat.h5games.usercontent.goog/v/4k75msiudusn0/"
+title: Bolly Beat
+seoTitle: Play Bolly Beat Online Free | FiddleBops
+description: >-
+  Bolly Beat is a rhythm challenge where you tap in time, chain combos, and
+  master Bollywood‑style beats.
+iframeSrc: 'https://bollybeat.h5games.usercontent.goog/v/4k75msiudusn0/'
 thumbnail: /new-images/thumbnails/bolly-beat.jpg
-urlstr: "bolly-beat"
-score: "4.0/5  (1672 votes)"
-tags: ["casual", "action"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: bolly-beat
+tags:
+  - casual
+  - action
+score: 4.0/5  (1672 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

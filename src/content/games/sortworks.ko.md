@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: sortworks
 title: SortWorks 소트웍스
+seoTitle: SortWorks 소트웍스 무료 온라인 플레이 | FiddleBops
 description: >-
   SortWorks는 다양한 물건을 규칙에 맞게 분류·적재하는 정렬 퍼즐 게임입니다. 컨베이어 벨트에서 흘러오는 아이템을 올바른 상자에
   보내고, 한정된 버퍼 칸을 계획적으로 사용해 막힘 없이 처리하는 것이 핵심입니다.
 iframeSrc: 'https://293f3i461vfvo.h5games.usercontent.goog/v/31blvf8tg44g0/'
 thumbnail: /new-images/thumbnails/sortworks.png
+urlstr: sortworks
 tags:
   - puzzle
   - thinky

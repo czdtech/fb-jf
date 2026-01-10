@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Infiltrating the Airship
+seoTitle: 無料でInfiltrating the Airshipをオンラインでプレイ | FiddleBops
 description: >-
   Henry
   Stickminの強盗ミッション：飛行船に乗り込むためにガジェットとルートを選択し、ギャグを発動し、シーンリプレイで複数のエンディングをアンロックしましょう。
 iframeSrc: 'https://rebemanae.github.io/infiltrating-the-airship/'
 thumbnail: /new-images/thumbnails/infiltrating-the-airship.jpg
 urlstr: infiltrating-the-airship
-score: 4.4/5  (982 votes)
 tags:
   - adventure
   - point-and-click
+score: 4.4/5  (982 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

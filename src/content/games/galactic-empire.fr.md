@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: galactic-empire
 title: Galactic Empire
+seoTitle: Jouez à Galactic Empire en ligne gratuitement | FiddleBops
 description: >-
   Stratégie spatiale vue du dessus : récolte des ressources, construis vaisseaux
   et défenses, et capture des secteurs tout en repoussant les vagues ennemies.
 iframeSrc: 'https://g.igroutka.ru/games/164/8plhaK3IOLoFbVPB/2/galactic_empire/'
 thumbnail: /new-images/thumbnails/galactic-empire.jpg
+urlstr: galactic-empire
 tags:
   - strategy
   - space

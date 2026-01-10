@@ -1,14 +1,11 @@
 ---
 locale: fr
-urlstr: snake
-title: 'Snake'
-description: >-
-  Redécouvre le classique intemporel Snake : contrôle une ligne en mouvement
-  continu, mange des bonus pour l’allonger et évite les murs comme ta propre
-  queue. Mets à l’épreuve réflexes et planification dans ce jeu d’arcade
-  simple mais redoutable.
+title: Snake
+seoTitle: Jouez à Snake en ligne gratuitement | FiddleBops
+description: "Redécouvre le classique intemporel Snake\_: contrôle une ligne en mouvement continu, mange des bonus pour l’allonger et évite les murs comme ta propre queue. Mets à l’épreuve réflexes et planification dans ce jeu d’arcade simple mais redoutable."
 iframeSrc: 'https://www.googlesnake.com/snakem.php'
 thumbnail: /new-images/thumbnails/snake.jpg
+urlstr: snake
 tags:
   - classic
   - arcade

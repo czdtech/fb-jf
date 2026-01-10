@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: jump-with-justin-2
 title: Jump With Justin 2
+seoTitle: Jouez à Jump With Justin 2 en ligne gratuitement | FiddleBops
 description: >-
   Jump With Justin 2 est un jeu de plateforme axé sur les sauts rebondissants :
   enchaîne ressorts et rebonds, évite les pièges et garde ton momentum jusqu’à
   la sortie.
 iframeSrc: 'https://jumpwithjustin2.h5games.usercontent.goog/v/54vavt12q94n8/'
 thumbnail: /new-images/thumbnails/jump-with-justin-2.png
+urlstr: jump-with-justin-2
 tags:
   - action
   - casual

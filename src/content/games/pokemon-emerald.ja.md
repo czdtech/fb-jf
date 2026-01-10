@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Pokemon Emerald
+seoTitle: 無料でPokemon Emeraldをオンラインでプレイ | FiddleBops
 description: Pokemon Emeraldはポケモンのアドベンチャーゲームです。ホウエン地方を冒険し、ポケモンを捕獲・育成してチャンピオンを目指します。
 iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonemerald'
 thumbnail: /new-images/thumbnails/pokemon-emerald.jpg
 urlstr: pokemon-emerald
-score: 4.6/5  (1365 votes)
 tags:
   - adventure
   - casual
+score: 4.6/5  (1365 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

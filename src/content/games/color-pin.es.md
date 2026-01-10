@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: color-pin
 title: Color Pin
+seoTitle: Juega a Color Pin en línea gratis | FiddleBops
 description: >-
   Color Pin es un juego de precisión en el que debes clavar alfileres en un
   núcleo giratorio sin chocar, y en algunos modos además acertar en el color
   correcto bajo presión.
 iframeSrc: 'https://6jgggrkjibvs0.h5games.usercontent.goog/v/7qaps53r4bt10/'
 thumbnail: /new-images/thumbnails/color-pin.png
+urlstr: color-pin
 tags:
   - puzzle
   - casual

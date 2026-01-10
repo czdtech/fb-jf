@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Bejeweled ビジュエルド
+seoTitle: 無料でBejeweled ビジュエルドをオンラインでプレイ | FiddleBops
 description: 「Bejeweled」を極めよう！宝石を3つ揃えて消す、元祖マッチ3パズルゲームの完全ガイド。ハイスコアを取るための戦略、各モードの特徴、ヒントを網羅。
 iframeSrc: 'https://files.acticdn.com/278374/30464/index.html'
 thumbnail: /new-images/thumbnails/bejeweled.png
 urlstr: bejeweled
-score: 4.8/5  (654 votes)
 tags:
   - puzzle
   - match-3
   - classic
+score: 4.8/5  (654 votes)
 developer: PopCap Games
 releaseDate: 2025-12-04T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

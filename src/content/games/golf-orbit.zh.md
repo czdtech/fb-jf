@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: golf-orbit
 title: Golf Orbit 行星高尔夫
+seoTitle: 免费在线玩 Golf Orbit 行星高尔夫 | FiddleBops
 description: Golf Orbit 把高尔夫变成物理飞行解谜：设置发射角度与力度，利用旋转与星球重力，打出又远又精准的弧线球。
 iframeSrc: 'https://7e0r297sgk0j0.h5games.usercontent.goog/v/1976bdao4gtf0/'
 thumbnail: /new-images/thumbnails/golf-orbit.png
+urlstr: golf-orbit
 tags:
   - sports
   - puzzle

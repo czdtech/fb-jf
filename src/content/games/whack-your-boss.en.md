@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Whack Your Boss"
-description: "Unleash your office frustrations in Whack Your Boss, a darkly humorous interactive game! Discover over a dozen creative and comical ways to 'whack' your annoying boss using everyday office items. Click on objects to trigger hilarious animations and find all the secret methods."
-iframeSrc: "https://flash-cdn.blogspot.com/2021/06/whack-your-boss-24-ways.html"
+title: Whack Your Boss
+seoTitle: Play Whack Your Boss Online Free | FiddleBops
+description: >-
+  Unleash your office frustrations in Whack Your Boss, a darkly humorous
+  interactive game! Discover over a dozen creative and comical ways to 'whack'
+  your annoying boss using everyday office items. Click on objects to trigger
+  hilarious animations and find all the secret methods.
+iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/whack-your-boss-24-ways.html'
 thumbnail: /new-images/thumbnails/whack-your-boss.jpg
-urlstr: "whack-your-boss"
-score: "4.7/5  (899 votes)"
-tags: ["interactive", "funny", "puzzle"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: whack-your-boss
+tags:
+  - interactive
+  - funny
+  - puzzle
+score: 4.7/5  (899 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

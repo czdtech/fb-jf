@@ -1,10 +1,14 @@
 ---
 locale: de
-urlstr: tennis
-title: "Tennis"
-description: "Klassisches Arcade‑Tennis im Browser: Schnapp dir deinen Schläger, serviere, spiele lange Ballwechsel und sichere dir Punkt um Punkt den Matchgewinn – leicht zu lernen, aber erstaunlich süchtig machend."
+title: Tennis
+seoTitle: Spiele Tennis kostenlos online | FiddleBops
+description: >-
+  Klassisches Arcade‑Tennis im Browser: Schnapp dir deinen Schläger, serviere,
+  spiele lange Ballwechsel und sichere dir Punkt um Punkt den Matchgewinn –
+  leicht zu lernen, aber erstaunlich süchtig machend.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/tennis.html'
 thumbnail: /new-images/thumbnails/tennis.jpg
+urlstr: tennis
 tags:
   - sports
   - arcade

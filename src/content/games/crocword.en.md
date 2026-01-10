@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Crocword"
-description: "Crocword is a relaxing word puzzle — connect letters, build words, and clear grids with clever vocabulary."
-iframeSrc: "https://4u2r33lp92ja0.h5games.usercontent.goog/v/53cgdtc83kng8/"
+title: Crocword
+seoTitle: Play Crocword Online Free | FiddleBops
+description: >-
+  Crocword is a relaxing word puzzle — connect letters, build words, and clear
+  grids with clever vocabulary.
+iframeSrc: 'https://4u2r33lp92ja0.h5games.usercontent.goog/v/53cgdtc83kng8/'
 thumbnail: /new-images/thumbnails/crocword.png
-urlstr: "crocword"
-score: "4.2/5  (2057 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: crocword
+tags:
+  - puzzle
+  - thinky
+score: 4.2/5  (2057 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

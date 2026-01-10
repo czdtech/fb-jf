@@ -1,15 +1,19 @@
 ---
 locale: fr
-urlstr: geometry-dash
-title: "Geometry Dash Wave Spam - Jouer à Geometry Dash en ligne"
-description: "Pas de fioritures. Ici, pas de balade classique de Geometry Dash : un défi wave pur et brutal, pensé pour briser tes réflexes… puis les reforger plus tranchants que jamais."
+title: Geometry Dash Wave Spam
+seoTitle: Jouez à Geometry Dash Wave Spam en ligne gratuitement | FiddleBops
+description: >-
+  Pas de fioritures. Ici, pas de balade classique de Geometry Dash : un défi
+  wave pur et brutal, pensé pour briser tes réflexes… puis les reforger plus
+  tranchants que jamais.
 iframeSrc: 'https://turbowarp.org/1185431027/embed'
 thumbnail: /new-images/thumbnails/geometry-dash.png
+urlstr: geometry-dash
 tags:
   - geometry dash
   - platformer
 score: 4.5/5  (604 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

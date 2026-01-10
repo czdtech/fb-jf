@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Pics Word Game
+seoTitle: 無料でPics Word Gameをオンラインでプレイ | FiddleBops
 description: Pics Word Gameは写真ワードパズルです。写真の共通点から単語を推測して答えを導きます。
 iframeSrc: 'https://picswordgame.h5games.usercontent.goog/v/40jujb4uelhb0/'
 thumbnail: /new-images/thumbnails/pics-word-game.jpg
 urlstr: pics-word-game
-score: 4.2/5 (1234 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.2/5 (1234 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

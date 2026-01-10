@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: totemia-cursed-marbles
 title: '《Totemia: Cursed Marbles》图腾诅咒弹珠'
+seoTitle: '免费在线玩 《Totemia: Cursed Marbles》图腾诅咒弹珠 | FiddleBops'
 description: >-
   《Totemia: Cursed Marbles》是一款类 Zuma
   弹珠消除游戏。在古老图腾与丛林背景下，发射彩色弹珠，消除逐步前进的诅咒弹珠链，阻止它们到达终点。
 iframeSrc: 'https://totemiacursed.h5games.usercontent.goog/v/2hs7lfvsisr48/'
 thumbnail: /new-images/thumbnails/totemia-cursed-marbles.png
+urlstr: totemia-cursed-marbles
 tags:
   - zuma
   - puzzle

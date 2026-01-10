@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: minesweeper
 title: Minesweeper
+seoTitle: Jouez à Minesweeper en ligne gratuitement | FiddleBops
 description: >-
   Minesweeper est un jeu de puzzle solo où tu dois vider une grille contenant
   des mines cachées sans les déclencher, en t’aidant des nombres qui indiquent
   combien de mines les entourent.
 iframeSrc: 'https://freeonlinegames.github.io/games/minesweeper/'
 thumbnail: /new-images/thumbnails/minesweeper.jpg
+urlstr: minesweeper
 tags:
   - puzzle
   - strategy

@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: super-bowling-mania
 title: 《Super Bowling Mania》超级保龄狂热
+seoTitle: 免费在线玩 《Super Bowling Mania》超级保龄狂热 | FiddleBops
 description: 《Super Bowling Mania》是一款节奏轻松的 3D 保龄球游戏。调整站位与出手角度，掌握旋转与力度，在各类球道上打出全中与补中，挑战高分纪录。
 iframeSrc: 'https://2tm5ud1ghg66o.h5games.usercontent.goog/v/6ifi8lgb3gv0g/'
 thumbnail: /new-images/thumbnails/super-bowling-mania.png
+urlstr: super-bowling-mania
 tags:
   - sports
   - bowling

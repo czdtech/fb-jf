@@ -1,16 +1,17 @@
 ---
 locale: en
-title: AYOCS Sprunkr - Play AYOCS Sprunkr Online
+title: AYOCS Sprunkr
+seoTitle: Play AYOCS Sprunkr Online Free | FiddleBops
 description: >-
   AYOCS Sprunkr gives the Sprunki universe a stylish makeover with modern
   character designs and unique sounds for fresh music creation.
 iframeSrc: 'https://turbowarp.org/1114188520/embed'
 thumbnail: /new-images/thumbnails/ayocs-sprunkr.png
 urlstr: ayocs-sprunkr
-score: 4.1/5  (54 votes)
 tags:
   - ayocs sprunkr
   - music
+score: 4.1/5  (54 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

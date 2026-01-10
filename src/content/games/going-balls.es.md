@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: going-balls
 title: Going Balls
+seoTitle: Juega a Going Balls en línea gratis | FiddleBops
 description: >-
   Runner 3D de rodar bolas por circuitos de obstáculos: equilibra sobre vigas y
   trampas, recoge monedas y llega a la meta sin caer al vacío.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231116/10/index.htm
 thumbnail: /new-images/thumbnails/going-balls.jpg
+urlstr: going-balls
 tags:
   - runner
   - balance

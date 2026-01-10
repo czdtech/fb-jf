@@ -1,18 +1,18 @@
 ---
 locale: ko
-urlstr: incredibox-shatter-sprunk
-title: "Incredibox Shatter Sprunk 샤터 스프렁크 모드"
+title: Incredibox Shatter Sprunk 샤터 스프렁크 모드
+seoTitle: Incredibox Shatter Sprunk 샤터 스프렁크 모드 무료 온라인 플레이 | FiddleBops
 description: >-
-  Incredibox와 Sprunki 감성을 결합한 팬메이드 모드
-  'Incredibox Shatter Sprunk' 가이드입니다. 노란 캐릭터들과
-  독특한 사운드를 활용해 개성 있는 믹스를 만드는 법을 소개합니다.
+  Incredibox와 Sprunki 감성을 결합한 팬메이드 모드 'Incredibox Shatter Sprunk' 가이드입니다. 노란
+  캐릭터들과 독특한 사운드를 활용해 개성 있는 믹스를 만드는 법을 소개합니다.
 iframeSrc: 'https://turbowarp.org/1144858827/embed'
 thumbnail: /new-images/thumbnails/incredibox-shatter-sprunk.png
+urlstr: incredibox-shatter-sprunk
 tags:
   - incredibox shatter sprunk
   - incredibox shatter sprunk online
 score: 4.5/5  (614 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

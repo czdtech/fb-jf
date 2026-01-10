@@ -1,10 +1,14 @@
 ---
 locale: fr
-urlstr: incredibox-banana
-title: "Incredibox Banana"
-description: "Découvre le mod fan‑made « Incredibox Banana » : un thème jungle bourré de mèmes inspiré du jeu VR populaire, avec une palette sonore unique pour créer ton propre mix de singes."
-iframeSrc: "https://turbowarp.org/1108699828/embed"
+title: Incredibox Banana
+seoTitle: Jouez à Incredibox Banana en ligne gratuitement | FiddleBops
+description: >-
+  Découvre le mod fan‑made « Incredibox Banana » : un thème jungle bourré de
+  mèmes inspiré du jeu VR populaire, avec une palette sonore unique pour créer
+  ton propre mix de singes.
+iframeSrc: 'https://turbowarp.org/1108699828/embed'
 thumbnail: /new-images/thumbnails/incredibox-banana.png
+urlstr: incredibox-banana
 tags:
   - music
   - rhythm

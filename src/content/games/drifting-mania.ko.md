@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: drifting-mania
 title: Drifting Mania 드리프팅 매니아
+seoTitle: Drifting Mania 드리프팅 매니아 무료 온라인 플레이 | FiddleBops
 description: 상단 시점에서 드리프트 컨트롤을 시험하는 레이싱 게임입니다. 코너 리듬에 맞춰 가속과 슬라이드를 조절하며 깔끔한 랩 타임을 노려 보세요.
 iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
 thumbnail: /new-images/thumbnails/drifting-mania.png
+urlstr: drifting-mania
 tags:
   - car
   - driving

@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Tile Journey"
-description: "Embark on a relaxing Tile Journey. Select three identical tiles to clear them from the board, but plan your moves carefully to avoid filling up your collection tray!"
-iframeSrc: "https://0i1jh8boqif48.h5games.usercontent.goog/v/1643ot8on0v9g/"
+title: Tile Journey
+seoTitle: Play Tile Journey Online Free | FiddleBops
+description: >-
+  Embark on a relaxing Tile Journey. Select three identical tiles to clear them
+  from the board, but plan your moves carefully to avoid filling up your
+  collection tray!
+iframeSrc: 'https://0i1jh8boqif48.h5games.usercontent.goog/v/1643ot8on0v9g/'
 thumbnail: /new-images/thumbnails/tile-journey.png
-urlstr: "tile-journey"
-score: "4.5/5  (2650 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: tile-journey
+tags:
+  - puzzle
+  - casual
+  - thinky
+score: 4.5/5  (2650 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

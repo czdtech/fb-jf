@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: incredibox-yaboo
 title: Incredibox YaBoo
+seoTitle: Spiele Incredibox YaBoo kostenlos online | FiddleBops
 description: >-
   Tauche ein in den Fan-Mod "Incredibox YaBoo". Dieser Guide erklärt die
   japanisch inspirierte Klangpalette, das Musik-Gameplay und wie du die
   thematischen Boni freischaltest.
 iframeSrc: 'https://turbowarp.org/1095206379/embed'
 thumbnail: /new-images/thumbnails/incredibox-yaboo.png
+urlstr: incredibox-yaboo
 tags:
   - music
   - rhythm

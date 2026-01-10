@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: butterfly-shimai
 title: Butterfly Shimai 버터플라이 시마이
+seoTitle: Butterfly Shimai 버터플라이 시마이 무료 온라인 플레이 | FiddleBops
 description: >-
   Butterfly Shimai는 마작·연결 퍼즐 느낌이 섞인 나비 날개 매칭 게임입니다. 같은 날개 무늬를 가진 타일을 연결해 나비를
   완성시키고, 날아가게 만들어 보드를 모두 비워 보세요.
 iframeSrc: 'https://1pq2qond4eka0.h5games.usercontent.goog/v/4oiv5e7dd7vd8/'
 thumbnail: /new-images/thumbnails/butterfly-shimai.png
+urlstr: butterfly-shimai
 tags:
   - puzzle
   - casual

@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: snow-rider-3d
 title: Snow Rider 3D 스노우 라이더 3D
+seoTitle: Snow Rider 3D 스노우 라이더 3D 무료 온라인 플레이 | FiddleBops
 description: >-
   눈 덮인 산을 썰매로 내려오는 3D 액션 게임입니다. 나무와 눈사람 같은 장애물을 피하고 점프대를 활용해 멀리 날아오르며, 선물을 모아
   새로운 썰매를 해금해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231130/2/index.html
 thumbnail: /new-images/thumbnails/snow-rider-3d.jpg
+urlstr: snow-rider-3d
 tags:
   - action
   - 3d

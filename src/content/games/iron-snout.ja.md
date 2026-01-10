@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Iron Snout
+seoTitle: 無料でIron Snoutをオンラインでプレイ | FiddleBops
 description: カンフー豚の格闘ゲーム：オオカミを受け流し、キックでジャグリングし、武器を投げ返して波を生き延び、ハイスコアを目指しましょう。
 iframeSrc: 'https://webglmath.github.io/iron-snout/'
 thumbnail: /new-images/thumbnails/iron-snout.jpg
 urlstr: iron-snout
-score: 4.3/5  (842 votes)
 tags:
   - fighting
   - arcade
+score: 4.3/5  (842 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

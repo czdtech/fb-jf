@@ -1,14 +1,15 @@
 ---
-locale: "zh"
-urlstr: "sprunki-interactive-beta"
-
-title: "Sprunki Interactive BETA - 在线玩 Sprunki Interactive BETA"
-description: "Sprunki Interactive BETA 不仅仅是 Sprunki 游戏的简单升级，它是一次打破规则的创新尝试。"
-iframeSrc: "https://turbowarp.org/1090663998/embed"
+locale: zh
+title: Sprunki Interactive BETA
+seoTitle: 免费在线玩 Sprunki Interactive BETA | FiddleBops
+description: Sprunki Interactive BETA 不仅仅是 Sprunki 游戏的简单升级，它是一次打破规则的创新尝试。
+iframeSrc: 'https://turbowarp.org/1090663998/embed'
 thumbnail: /new-images/thumbnails/sprunki-interactive-beta.png
-score: "4.0/5  (407 votes)"
-tags: ["sprunki interactive beta"]
-releaseDate: 2025-12-04
+urlstr: sprunki-interactive-beta
+tags:
+  - sprunki interactive beta
+score: 4.0/5  (407 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### 什么是 Sprunki Interactive BETA？

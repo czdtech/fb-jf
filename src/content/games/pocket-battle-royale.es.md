@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: pocket-battle-royale
 title: Pocket Battle Royale
+seoTitle: Juega a Pocket Battle Royale en línea gratis | FiddleBops
 description: >-
   Un battle royale en 2D con vista cenital y ritmo frenético. Recorre el mapa
   para encontrar armas y botiquines, mantente dentro de la zona segura que se va
   encogiendo y sobrevive hasta ser el último jugador en pie.
 iframeSrc: 'https://pocketbattleroyale.h5games.usercontent.goog/v/1n9qfv4cpdie8/'
 thumbnail: /new-images/thumbnails/pocket-battle-royale.png
+urlstr: pocket-battle-royale
 tags:
   - action
   - shooting

@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Word Wipe"
-description: "Clear the board with your vocabulary in Word Wipe, a fast-paced and addictive word puzzle game! Connect letters horizontally, vertically, or diagonally to form words. Watch them disappear and new letters fall as you race against the clock to clear rows and achieve a high score."
-iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-word-wipe/"
+title: Word Wipe
+seoTitle: Play Word Wipe Online Free | FiddleBops
+description: >-
+  Clear the board with your vocabulary in Word Wipe, a fast-paced and addictive
+  word puzzle game! Connect letters horizontally, vertically, or diagonally to
+  form words. Watch them disappear and new letters fall as you race against the
+  clock to clear rows and achieve a high score.
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-word-wipe/'
 thumbnail: /new-images/thumbnails/word-wipe.jpg
-urlstr: "word-wipe"
-score: "4.8/5  (1384 votes)"
-tags: ["word-game", "puzzle", "timed"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: word-wipe
+tags:
+  - word-game
+  - puzzle
+  - timed
+score: 4.8/5  (1384 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

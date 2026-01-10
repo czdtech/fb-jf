@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: traffic-tom
 title: Traffic Tom
+seoTitle: Spiele Traffic Tom kostenlos online | FiddleBops
 description: >-
   Begleite Tom auf einem Motorrad‑Abenteuer durch dichten Verkehr: Schlängle
   dich durch Autos, erfülle Missionen und tune dein Bike, bis du zum König der
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://traffictom.h5games.usercontent.goog/v/7c1a9fb2-2097-4c14-b7b1-052d80d41adb/
 thumbnail: /new-images/thumbnails/traffic-tom.jpg
+urlstr: traffic-tom
 tags:
   - driving
   - action

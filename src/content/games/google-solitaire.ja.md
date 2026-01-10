@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Google Solitaire
+seoTitle: 無料でGoogle Solitaireをオンラインでプレイ | FiddleBops
 description: クラシックなクロンダイクソリティア：交互の色の場札を使って、エースからキングまでスートごとにカードを組札に移動させましょう。
 iframeSrc: 'https://www.google.com/logos/fnbx/solitaire/standalone.html'
 thumbnail: /new-images/thumbnails/google-solitaire.jpg
 urlstr: google-solitaire
-score: 4.0/5  (1294 votes)
 tags:
   - solitaire
   - card
+score: 4.0/5  (1294 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

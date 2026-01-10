@@ -1,13 +1,14 @@
 ---
 locale: zh
-urlstr: hide-and-seek
 title: 《Hide And Seek!》躲猫猫大追捕
+seoTitle: 免费在线玩 《Hide And Seek!》躲猫猫大追捕 | FiddleBops
 description: >-
   《Hide And
   Seek!》是一款休闲潜行捉迷藏游戏：扮演躲藏者时混入人群、一边收集道具一边完成目标；扮演寻找者时则靠视野锥、冲刺和观察移动轨迹，在倒计时结束前把所有玩家揪出来。
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/YWRIxUAXudnq4HO1/rvvASMiM/239942ce1a1349f6bcc9d312b32c5c3b/
 thumbnail: /new-images/thumbnails/hide-and-seek.jpg
+urlstr: hide-and-seek
 tags:
   - stealth
   - arcade

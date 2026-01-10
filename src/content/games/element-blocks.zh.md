@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: element-blocks
 title: Element Blocks 元素方块拼图
+seoTitle: 免费在线玩 Element Blocks 元素方块拼图 | FiddleBops
 description: >-
   Element Blocks 是一款带有小巧变化的策略方块拼图游戏。将各种元素方块摆到 10x10 棋盘上
   消除整行整列，并收集星星启动强力道具，用精心规划掌控整个棋盘。
 iframeSrc: 'https://elementblocks.h5games.usercontent.goog/v/35up5t7ao24i8/'
 thumbnail: /new-images/thumbnails/element-blocks.png
+urlstr: element-blocks
 tags:
   - puzzle
   - thinky

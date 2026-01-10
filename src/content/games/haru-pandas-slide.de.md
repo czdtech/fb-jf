@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: haru-pandas-slide
 title: Haru Pandas Slide
+seoTitle: Spiele Haru Pandas Slide kostenlos online | FiddleBops
 description: >-
   Haru Pandas Slide ist ein entspanntes Schiebepuzzle: Verschiebe Kacheln, um
   niedliche Pandabilder mit möglichst wenigen Zügen wieder richtig
   zusammenzusetzen.
 iframeSrc: 'https://0vc1kolll32h8.h5games.usercontent.goog/v/0t898ulinrkag/'
 thumbnail: /new-images/thumbnails/haru-pandas-slide.png
+urlstr: haru-pandas-slide
 tags:
   - puzzle
   - thinky

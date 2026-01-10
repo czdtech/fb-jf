@@ -1,10 +1,14 @@
 ---
 locale: de
-urlstr: word-wipe
-title: "Word Wipe"
-description: "Räume in Word Wipe das Spielfeld mit deinem Wortschatz: Verbinde Buchstaben in alle Richtungen zu Wörtern, lass sie verschwinden und cleare Zeilen, bevor die Zeit abläuft." 
+title: Word Wipe
+seoTitle: Spiele Word Wipe kostenlos online | FiddleBops
+description: >-
+  Räume in Word Wipe das Spielfeld mit deinem Wortschatz: Verbinde Buchstaben in
+  alle Richtungen zu Wörtern, lass sie verschwinden und cleare Zeilen, bevor die
+  Zeit abläuft.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-word-wipe/'
 thumbnail: /new-images/thumbnails/word-wipe.jpg
+urlstr: word-wipe
 tags:
   - word-game
   - puzzle

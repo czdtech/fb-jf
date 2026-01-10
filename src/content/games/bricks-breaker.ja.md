@@ -1,19 +1,20 @@
 ---
+locale: ja
 title: Bricks Breaker ブリックス・ブレイカー
+seoTitle: 無料でBricks Breaker ブリックス・ブレイカーをオンラインでプレイ | FiddleBops
 description: >-
   「Bricks
   Breaker」は不朽の名作ブロック崩しの現代版。パドルでボールを打ち返し、全てのレンガを破壊しよう。マルチボールやレーザーなどのパワーアップも魅力。
 iframeSrc: 'https://5enjropk1ren8.h5games.usercontent.goog/v/6u5qapt4kt1j8/'
 thumbnail: /new-images/thumbnails/bricks-breaker.jpg
 urlstr: bricks-breaker
-score: 4.4/5  (1984 votes)
 tags:
   - action
   - casual
   - flash
+score: 4.4/5  (1984 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

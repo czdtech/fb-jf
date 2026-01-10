@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: roll-this-ball-3
 title: Roll This Ball
+seoTitle: Juega a Roll This Ball en línea gratis | FiddleBops
 description: >-
   Un clásico puzle de deslizamiento que pondrá a prueba tu lógica. Mueve los
   bloques de madera para crear un camino limpio por el que la bola pueda rodar
   desde el inicio hasta la meta.
 iframeSrc: 'https://rollthisball3.h5games.usercontent.goog/v/65vs8rm7dfjno/'
 thumbnail: /new-images/thumbnails/roll-this-ball-3.png
+urlstr: roll-this-ball-3
 tags:
   - puzzle
   - thinky

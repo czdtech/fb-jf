@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: ballistic
 title: Ballistic 볼리스틱 게임
+seoTitle: Ballistic 볼리스틱 게임 무료 온라인 플레이 | FiddleBops
 description: >-
   Ballistic는 화면 위에서 내려오는 숫자 블록들을 향해 공을 쏘아 없애는 물리 기반 아케이드 게임입니다. 각 블록은 맞아야 하는 횟수가
   적힌 숫자를 가지고 있으며, 벽과 블록에 튕기는 궤적을 잘 계산해 연쇄 타격을 노리는 것이 핵심입니다.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/'
 thumbnail: /new-images/thumbnails/ballistic.jpg
+urlstr: ballistic
 tags:
   - puzzle
   - casual

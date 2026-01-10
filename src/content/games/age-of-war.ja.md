@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Age of War いにしえの戦争
+seoTitle: 無料でAge of War いにしえの戦争をオンラインでプレイ | FiddleBops
 description: 「Age of War」は、石器時代から未来へと進化しながら敵の基地を破壊する、クラシックな防衛戦略ゲームです。文明を発展させ、最強の軍隊を築き上げよう！
 iframeSrc: >-
   https://app-196716.games.s3.yandex.net/196716/h5h3xwa1kxsz7wcma59tvvmko0zorc80/index.html
 thumbnail: /new-images/thumbnails/age-of-war.jpg
 urlstr: age-of-war
-score: 4.5/5  (525 votes)
 tags:
   - strategy
   - defense
   - war
+score: 4.5/5  (525 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

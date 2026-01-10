@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: dices-2048-3d
 title: Dices 2048 3D
+seoTitle: Jouez à Dices 2048 3D en ligne gratuitement | FiddleBops
 description: "Dices 2048 3D mélange 2048 et la physique des dés\_: fusionne des dés de même valeur pour viser 2048 en trois dimensions."
 iframeSrc: 'https://dices20483d.h5games.usercontent.goog/v/4fsrag1lb33t8/'
 thumbnail: /new-images/thumbnails/dices-2048-3d.png
+urlstr: dices-2048-3d
 tags:
   - puzzle
   - thinky

@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Find the Difference
+seoTitle: 無料でFind the Differenceをオンラインでプレイ | FiddleBops
 description: 目を鋭くし、細部への注意力をテストしましょう！ほぼ同じ2つの画像を比較し、時間切れ前にすべての違いを見つけましょう。
 iframeSrc: 'https://findthedifference.h5games.usercontent.goog/v/0tambv0iojsn8/'
 thumbnail: /new-images/thumbnails/find-the-difference.jpg
 urlstr: find-the-difference
-score: 4.3/5  (2100 votes)
 tags:
   - puzzle
   - casual
   - thinky
+score: 4.3/5  (2100 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

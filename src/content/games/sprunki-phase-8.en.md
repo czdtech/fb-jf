@@ -1,6 +1,7 @@
 ---
 locale: en
-title: Sprunki Phase 8 - Play Sprunki Phase 8 Online
+title: Sprunki Phase 8
+seoTitle: Play Sprunki Phase 8 Online Free | FiddleBops
 description: >-
   Sprunki Phase 8 is a bold experiment that successfully marries music creation
   with horror aesthetics. It offers a platform brimming with mystery and
@@ -9,12 +10,12 @@ description: >-
 iframeSrc: 'https://turbowarp.org/1140266189/embed'
 thumbnail: /new-images/thumbnails/sprunki-phase-8.png
 urlstr: sprunki-phase-8
-sidebarPopular: 2
-modType: sprunki
-score: 4.2/5  (396 votes)
 tags:
   - sprunki phase 8
   - music
+modType: sprunki
+sidebarPopular: 2
+score: 4.2/5  (396 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

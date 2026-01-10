@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: hobo
 title: Hobo
+seoTitle: Juega a Hobo en línea gratis | FiddleBops
 description: >-
   Beat 'em up exagerado: recorre niveles urbanos repartiendo golpes, desbloquea
   combos, usa armas improvisadas y ejecuta ataques especiales totalmente
   descabellados.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/hobo.html'
 thumbnail: /new-images/thumbnails/hobo.jpg
+urlstr: hobo
 tags:
   - fighting
   - beat-em-up

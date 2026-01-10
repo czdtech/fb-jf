@@ -1,13 +1,17 @@
 ---
-title: "Sprunki Clicker - Play Sprunki Clicker Online"
-description: "Sprunki Clickerはクリックするたびに音が育っていく、物語性のある音楽クリッカーです。サウンドの層を増やしながら、自分だけのシンフォニーを作れます。"
-iframeSrc: "https://1games.io/game/sprunki-clicker/"
-thumbnail: /new-images/thumbnails/sprunki-clicker.png
-urlstr: "sprunki-clicker"
-score: "4.7/5  (524 votes)"
-tags: ["sprunki clicker"]
 locale: ja
-releaseDate: 2025-12-04
+title: Sprunki Clicker
+seoTitle: 無料でSprunki Clickerをオンラインでプレイ | FiddleBops
+description: >-
+  Sprunki
+  Clickerはクリックするたびに音が育っていく、物語性のある音楽クリッカーです。サウンドの層を増やしながら、自分だけのシンフォニーを作れます。
+iframeSrc: 'https://1games.io/game/sprunki-clicker/'
+thumbnail: /new-images/thumbnails/sprunki-clicker.png
+urlstr: sprunki-clicker
+tags:
+  - sprunki clicker
+score: 4.7/5  (524 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

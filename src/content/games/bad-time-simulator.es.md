@@ -1,13 +1,16 @@
 ---
 locale: es
-urlstr: bad-time-simulator
 title: Bad Time Simulator recreación del combate con Sans
+seoTitle: >-
+  Juega a Bad Time Simulator recreación del combate con Sans en línea gratis |
+  FiddleBops
 description: >-
   Bad Time Simulator es un juego de navegador creado por fans que recrea el
   famoso combate contra Sans de la ruta genocida de Undertale. Aquí tienes
   estrategias, controles y consejos para sobrevivir a este desafío extremo.
 iframeSrc: 'https://gotoanddie.github.io/c2-sans-fight/'
 thumbnail: /new-images/thumbnails/bad-time-simulator.jpg
+urlstr: bad-time-simulator
 tags:
   - casual
   - rhythm

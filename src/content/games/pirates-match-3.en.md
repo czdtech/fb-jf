@@ -1,14 +1,22 @@
 ---
 locale: en
-title: "Pirates Match 3"
-description: "Ahoy, matey! Set sail on a puzzle adventure in Pirates Match 3. Swap pirate-themed gems like skulls, anchors, and coins to make matches of three or more and claim your treasure."
-iframeSrc: "https://piratesmatch3.h5games.usercontent.goog/v/fea2f25f-a39a-4273-93c1-38f8f9bd8260/"
+title: Pirates Match 3
+seoTitle: Play Pirates Match 3 Online Free | FiddleBops
+description: >-
+  Ahoy, matey! Set sail on a puzzle adventure in Pirates Match 3. Swap
+  pirate-themed gems like skulls, anchors, and coins to make matches of three or
+  more and claim your treasure.
+iframeSrc: >-
+  https://piratesmatch3.h5games.usercontent.goog/v/fea2f25f-a39a-4273-93c1-38f8f9bd8260/
 thumbnail: /new-images/thumbnails/pirates-match-3.jpg
-urlstr: "pirates-match-3"
-score: "4.3/5  (2150 votes)"
-tags: ["puzzle", "casual", "action"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: pirates-match-3
+tags:
+  - puzzle
+  - casual
+  - action
+score: 4.3/5  (2150 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

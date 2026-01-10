@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Solitaire Classic"
-description: "The timeless single-player card game, also known as Klondike. Move all cards to the foundation piles from Ace to King to win."
-iframeSrc: "https://solitaireclassic.h5games.usercontent.goog/v/7sbt28mppqim8/"
+title: Solitaire Classic
+seoTitle: Play Solitaire Classic Online Free | FiddleBops
+description: >-
+  The timeless single-player card game, also known as Klondike. Move all cards
+  to the foundation piles from Ace to King to win.
+iframeSrc: 'https://solitaireclassic.h5games.usercontent.goog/v/7sbt28mppqim8/'
 thumbnail: /new-images/thumbnails/solitaire-classic.png
-urlstr: "solitaire-classic"
-score: "4.7/5  (3100 votes)"
-tags: ["card", "puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: solitaire-classic
+tags:
+  - card
+  - puzzle
+  - casual
+score: 4.7/5  (3100 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

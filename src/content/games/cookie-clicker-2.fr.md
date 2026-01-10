@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: cookie-clicker-2
 title: Cookie Clicker 2
+seoTitle: Jouez à Cookie Clicker 2 en ligne gratuitement | FiddleBops
 description: "Cookie Clicker 2 reprend la folie des cookies\_: clique, achète encore plus de bâtiments, débloque de nouvelles mécaniques et fais exploser ton CPS."
 iframeSrc: 'https://games-online.io/game/cake-maker/'
 thumbnail: /new-images/thumbnails/cookie-clicker-2.jpg
+urlstr: cookie-clicker-2
 tags:
   - casual
   - clicker

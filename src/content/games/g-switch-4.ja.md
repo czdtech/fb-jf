@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: G-Switch 4
+seoTitle: 無料でG-Switch 4をオンラインでプレイ | FiddleBops
 description: 最新の重力反転ランナー作品：洗練された操作、トリッキーな障害物チェーン、多くのプレイヤーのための競争的なローカルレースです。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231127/09/index.html
 thumbnail: /new-images/thumbnails/g-switch-4.jpg
 urlstr: g-switch-4
-score: 4.9/5  (1069 votes)
 tags:
   - runner
   - platformer
+score: 4.9/5  (1069 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

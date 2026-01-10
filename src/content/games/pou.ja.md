@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Pou
+seoTitle: 無料でPouをオンラインでプレイ | FiddleBops
 description: Pouはバーチャルペット育成ゲームです。Pouの世話をし、ミニゲームでコインを集めてカスタマイズします。
 iframeSrc: >-
   https://app-184491.games.s3.yandex.net/184491/simr1s69tzefn132i2xlbk4dusun0mgw/index.html
 thumbnail: /new-images/thumbnails/pou.jpg
 urlstr: pou
-score: 3.5/5  (711 votes)
 tags:
   - casual
+score: 3.5/5  (711 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: scooter-xtreme
 title: 《Scooter Xtreme》极限滑板车竞速
+seoTitle: 免费在线玩 《Scooter Xtreme》极限滑板车竞速 | FiddleBops
 description: 《Scooter Xtreme》是一款街头风格的滑板车竞速游戏。骑上你的踏板车在城市赛道上加速、跳跃、躲避障碍，和对手比拼谁能率先冲过终点。
 iframeSrc: >-
   https://scooterxtreme.h5games.usercontent.goog/v/c842db43-7823-45bc-b575-acbd9bda5de4/
 thumbnail: /new-images/thumbnails/scooter-xtreme.jpg
+urlstr: scooter-xtreme
 tags:
   - racing
   - driving

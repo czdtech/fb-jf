@@ -1,14 +1,15 @@
 ---
 locale: zh
-urlstr: sprunkle-bops
-title: Sprunkle Bops - 在线畅玩 Sprunkle Bops
+title: Sprunkle Bops
+seoTitle: 免费在线玩 Sprunkle Bops | FiddleBops
 description: Sprunkle Bops 是热门 Incredibox 音乐混音游戏的粉丝自制扩展版，通过自定义模组、新阶段和独特的游戏元素，带来创意十足的全新体验。
 iframeSrc: 'https://turbowarp.org/1122091658/embed'
 thumbnail: /new-images/thumbnails/sprunkle-bops.png
-score: 4.3/5  (524 votes)
+urlstr: sprunkle-bops
 tags:
   - sprunkle bops
   - sprunkle bops online
+score: 4.3/5  (524 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

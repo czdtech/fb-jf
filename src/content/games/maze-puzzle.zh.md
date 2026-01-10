@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: maze-puzzle
 title: 《Maze Puzzle》迷宫解谜逃脱
+seoTitle: 免费在线玩 《Maze Puzzle》迷宫解谜逃脱 | FiddleBops
 description: 《Maze Puzzle》是一款简洁干净的迷宫跑酷解谜游戏，你需要规划最短路线，绕开巡逻守卫，拾取钥匙并在计时压力下找到出口。
 iframeSrc: 'https://3931uc3bsois0.h5games.usercontent.goog/v/7nvm8etm546uo/'
 thumbnail: /new-images/thumbnails/maze-puzzle.png
+urlstr: maze-puzzle
 tags:
   - puzzle
   - thinky

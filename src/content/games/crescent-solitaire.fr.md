@@ -1,11 +1,12 @@
 ---
 locale: fr
-urlstr: crescent-solitaire
 title: Crescent Solitaire
+seoTitle: Jouez à Crescent Solitaire en ligne gratuitement | FiddleBops
 description: "Crescent Solitaire est une variante du solitaire en croissant\_: réorganise les cartes autour des As et des Rois pour vider l’arc de cartes."
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/crescent-solitaire-phaser/
 thumbnail: /new-images/thumbnails/crescent-solitaire.jpg
+urlstr: crescent-solitaire
 tags:
   - card
   - puzzle

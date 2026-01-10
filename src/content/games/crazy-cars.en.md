@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Crazy Cars"
-description: "Crazy Cars is a casual 3D driving and stunt racing game: explore a city map, complete events, collect stars and wrenches, and perform jumps with nitro in your browser."
-iframeSrc: "https://g.igroutka.ru/games/164/2afwOT8yZFmeYWGJ/2/crazy_cars/"
+title: Crazy Cars
+seoTitle: Play Crazy Cars Online Free | FiddleBops
+description: >-
+  Crazy Cars is a casual 3D driving and stunt racing game: explore a city map,
+  complete events, collect stars and wrenches, and perform jumps with nitro in
+  your browser.
+iframeSrc: 'https://g.igroutka.ru/games/164/2afwOT8yZFmeYWGJ/2/crazy_cars/'
 thumbnail: /new-images/thumbnails/crazy-cars.jpg
-urlstr: "crazy-cars"
-score: "3.6/5  (197 votes)"
-tags: ["racing", "driving", "stunts"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: crazy-cars
+tags:
+  - racing
+  - driving
+  - stunts
+score: 3.6/5  (197 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

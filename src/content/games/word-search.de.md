@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: word-search
 title: Word Search
+seoTitle: Spiele Word Search kostenlos online | FiddleBops
 description: >-
   Word Search ist ein klassisches Suchsel‑Puzzle: Finde versteckte Wörter im
   Buchstabengitter – waagerecht, senkrecht und diagonal – und arbeite
   thematische Wortlisten in deinem eigenen Tempo ab.
 iframeSrc: 'https://cdn.gamesnacks.com/wordsearch1/gameCode/index.html'
 thumbnail: /new-images/thumbnails/word-search.jpg
+urlstr: word-search
 tags:
   - word
   - puzzle

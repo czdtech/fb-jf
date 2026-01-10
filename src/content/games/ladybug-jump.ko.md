@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: ladybug-jump
 title: Ladybug Jump 무당벌레 점프
+seoTitle: Ladybug Jump 무당벌레 점프 무료 온라인 플레이 | FiddleBops
 description: >-
   잎사귀와 버섯을 밟으며 앞으로 나아가는 플랫폼 게임 'Ladybug Jump' 가이드입니다. 점프 높이와 바람 방향을 조절해 위험을 피하고
   꿀을 모아 보세요.
 iframeSrc: 'https://1rtviun5s8hc0.h5games.usercontent.goog/v/2ajo6kl7ue0a0/'
 thumbnail: /new-images/thumbnails/ladybug-jump.png
+urlstr: ladybug-jump
 tags:
   - action
   - casual

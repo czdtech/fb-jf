@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: g-switch-4
 title: G-Switch 4
+seoTitle: Juega a G-Switch 4 en línea gratis | FiddleBops
 description: >-
   La última entrega del runner de gravedad invertida: controles mejorados,
   cadenas de obstáculos muy exigentes y carreras locales competitivas para
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231127/09/index.html
 thumbnail: /new-images/thumbnails/g-switch-4.jpg
+urlstr: g-switch-4
 tags:
   - runner
   - platformer

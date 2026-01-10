@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: onet-connect-classic
 title: Onet Connect Classic
+seoTitle: Jouez à Onet Connect Classic en ligne gratuitement | FiddleBops
 description: "Onet Connect Classic est un jeu de connexion de tuiles façon mahjong\_: relie des paires identiques avec un chemin à deux virages max pour vider le plateau."
 iframeSrc: 'https://onetconnectclassic.h5games.usercontent.goog/v/0q8248mt11l3g/'
 thumbnail: /new-images/thumbnails/onet-connect-classic.png
+urlstr: onet-connect-classic
 tags:
   - puzzle
   - casual

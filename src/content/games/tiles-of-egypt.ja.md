@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Tiles of Egypt
+seoTitle: 無料でTiles of Egyptをオンラインでプレイ | FiddleBops
 description: Tiles of Egyptは、古代エジプトをテーマにしたタイルマッチングゲームです。エジプトのタイルを揃えて謎を解きましょう。
 iframeSrc: >-
   https://tilesofegypt.h5games.usercontent.goog/v/dd964fa3-8999-4546-a4a0-d55a0cc72248/
 thumbnail: /new-images/thumbnails/tiles-of-egypt.jpg
 urlstr: tiles-of-egypt
-score: 4.4/5  (2350 votes)
 tags:
   - puzzle
   - matching
   - egypt
-locale: ja
+score: 4.4/5  (2350 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 

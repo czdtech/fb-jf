@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: slippery-slope
 title: 《Slippery Slope》极限雪坡速降
+seoTitle: 免费在线玩 《Slippery Slope》极限雪坡速降 | FiddleBops
 description: 《Slippery Slope》是一款刺激的滑雪/滑行速降游戏。你将沿着危险重重的山间雪坡一路下滑，在限时内躲避障碍、保持控制，并争取以最快速度冲向终点。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231124/15/index.html
 thumbnail: /new-images/thumbnails/slippery-slope.jpg
+urlstr: slippery-slope
 tags:
   - skiing
   - racing

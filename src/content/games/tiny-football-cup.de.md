@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: tiny-football-cup
 title: Tiny Football Cup
+seoTitle: Spiele Tiny Football Cup kostenlos online | FiddleBops
 description: >-
   Tiny Football Cup ist Fußball im Mini‑Format: Spiel kurze Partien, pass früh,
   zieh platziert ab und gewinne durch gutes Stellungsspiel statt wildem
   Dribbling.
 iframeSrc: 'https://67buf3k7fmhlg.h5games.usercontent.goog/v/4r92r0smsurf0/'
 thumbnail: /new-images/thumbnails/tiny-football-cup.png
+urlstr: tiny-football-cup
 tags:
   - sports
   - soccer

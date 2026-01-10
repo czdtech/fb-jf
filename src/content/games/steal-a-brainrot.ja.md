@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Steal a Brainrot
+seoTitle: 無料でSteal a Brainrotをオンラインでプレイ | FiddleBops
 description: Steal a Brainrotは、戦略とステルスのユニークなブレンドのゲームです。計画を立て、実行し、捕まらないようにしましょう。
 iframeSrc: 'https://st.8games.net/7/8g/igra-ukradi-brejnrot-100-original/'
 thumbnail: /new-images/thumbnails/steal-a-brainrot.webp
 urlstr: steal-a-brainrot
-score: 4.7/5  (3719 votes)
 tags:
   - strategy
   - stealth
   - puzzle
-locale: ja
+score: 4.7/5  (3719 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

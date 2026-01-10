@@ -1,15 +1,14 @@
 ---
 locale: es
-urlstr: sprunki-retake-bonus-characters
-title: >-
-  Sprunki Retake Bonus Characters - Juega a Sprunki Retake Bonus Characters
-  online
+title: Sprunki Retake Bonus Characters
+seoTitle: Juega a Sprunki Retake Bonus Characters en línea gratis | FiddleBops
 description: >-
   Sprunki Retake Bonus Characters no es solo un juego musical, sino también un
   homenaje a culturas ancestrales y una exploración de las posibilidades
   infinitas del ritmo y la percusión tribal.
 iframeSrc: 'https://turbowarp.org/1107905149/embed'
 thumbnail: /new-images/thumbnails/sprunki-retake-bonus-characters.png
+urlstr: sprunki-retake-bonus-characters
 tags:
   - sprunki retake bonus characters
 score: 3.9/5  (132 votes)

@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: tank-trouble
-title: Tank Trouble - Batallas de tanques multijugador
+title: Tank Trouble
+seoTitle: Juega a Tank Trouble en línea gratis | FiddleBops
 description: >-
   Tank Trouble es un juego de batallas de tanques multijugador en laberintos.
   Conduce tu tanque por corredores estrechos, dispara proyectiles que rebotan en
@@ -9,6 +9,7 @@ description: >-
   el último tanque en pie.
 iframeSrc: 'https://www.friv2018.com/games/html5/tank-trouble-2/'
 thumbnail: /new-images/thumbnails/tank-trouble.jpg
+urlstr: tank-trouble
 tags:
   - multiplayer
   - action

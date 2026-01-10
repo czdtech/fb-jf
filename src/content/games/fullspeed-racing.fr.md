@@ -1,10 +1,14 @@
 ---
 locale: fr
-urlstr: fullspeed-racing
-title: "FullSpeed Racing"
-description: "FullSpeed Racing est un jeu de course arcade : choisis les bonnes trajectoires, maîtrise tes points de freinage et dépasse proprement à haute vitesse."
+title: FullSpeed Racing
+seoTitle: Jouez à FullSpeed Racing en ligne gratuitement | FiddleBops
+description: >-
+  FullSpeed Racing est un jeu de course arcade : choisis les bonnes
+  trajectoires, maîtrise tes points de freinage et dépasse proprement à haute
+  vitesse.
 iframeSrc: 'https://fullspeedracing.h5games.usercontent.goog/v/4kqu52vbp4da8/'
 thumbnail: /new-images/thumbnails/fullspeed-racing.jpg
+urlstr: fullspeed-racing
 tags:
   - car
   - driving

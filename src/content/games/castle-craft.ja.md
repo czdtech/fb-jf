@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Castle Craft キャッスル・クラフト
+seoTitle: 無料でCastle Craft キャッスル・クラフトをオンラインでプレイ | FiddleBops
 description: 「Castle Craft」でマージ（合成）して王国を築くパズル。アイテムを合体させて資源を集め、クエストをこなし、霧を晴らしながら土地を広げましょう。
 iframeSrc: 'https://1hjdl8ff4msl0.h5games.usercontent.goog/v/2mn9n3pfbrrtg/'
 thumbnail: /new-images/thumbnails/castle-craft.png
 urlstr: castle-craft
-score: 4.3/5  (2104 votes)
 tags:
   - puzzle
   - casual
   - thinky
+score: 4.3/5  (2104 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

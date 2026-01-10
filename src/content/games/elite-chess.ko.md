@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: elite-chess
 title: Elite Chess 엘리트 체스
+seoTitle: Elite Chess 엘리트 체스 무료 온라인 플레이 | FiddleBops
 description: '탄탄한 체스 기본기를 다지는 데 초점을 맞춘 체스 게임입니다. 정석적인 오프닝과 깔끔한 전술, 실전적인 엔드게임 운영을 연습해 보세요.'
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
 thumbnail: /new-images/thumbnails/elite-chess.png
+urlstr: elite-chess
 tags:
   - thinky
   - puzzle

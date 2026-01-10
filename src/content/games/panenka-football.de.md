@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: panenka-football
 title: Panenka Football
+seoTitle: Spiele Panenka Football kostenlos online | FiddleBops
 description: >-
   Panenka Football dreht sich um die Kunst des Elfmeters: Täusche dein Ziel an,
   lupfe den Ball gefühlvoll in die Mitte und lies das Verhalten des Torwarts, um
   mit frechen Panenkas zu treffen.
 iframeSrc: 'https://15n5pfdq70ung.h5games.usercontent.goog/v/2ftdtu6n19sk8/'
 thumbnail: /new-images/thumbnails/panenka-football.png
+urlstr: panenka-football
 tags:
   - sports
   - soccer

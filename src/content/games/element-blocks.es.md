@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: element-blocks
 title: Element Blocks
+seoTitle: Juega a Element Blocks en línea gratis | FiddleBops
 description: >-
   Element Blocks es un puzle de bloques estratégico con un giro especial. Coloca
   bloques elementales para limpiar líneas y reúne estrellas para activar
   potentes potenciadores. Piensa cada movimiento para dominar la cuadrícula.
 iframeSrc: 'https://elementblocks.h5games.usercontent.goog/v/35up5t7ao24i8/'
 thumbnail: /new-images/thumbnails/element-blocks.png
+urlstr: element-blocks
 tags:
   - puzzle
   - thinky

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: train-miner
 title: Train Miner
+seoTitle: Spiele Train Miner kostenlos online | FiddleBops
 description: >-
   Train Miner ist ein Gleis‑Puzzler: Lege Schienen, sammle Erz ein und bring den
   Zug mit möglichst wenigen Kurven und ohne Spritverschwendung sicher zum
   Ausgang.
 iframeSrc: 'https://7r2vmm5fqv830.h5games.usercontent.goog/v/3ubj960lc0t4o/'
 thumbnail: /new-images/thumbnails/train-miner.png
+urlstr: train-miner
 tags:
   - puzzle
   - thinky

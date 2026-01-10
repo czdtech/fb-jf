@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: farming-10x10
 title: Farming 10x10 农场 10x10 方块
+seoTitle: 免费在线玩 Farming 10x10 农场 10x10 方块 | FiddleBops
 description: Farming 10x10 把经典 10x10 方块摆放玩法换上农场新皮肤—— 放置方块、消除整行整列，同时设法保留宝贵空间。
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
 thumbnail: /new-images/thumbnails/farming-10x10.jpg
+urlstr: farming-10x10
 tags:
   - puzzle
   - thinky

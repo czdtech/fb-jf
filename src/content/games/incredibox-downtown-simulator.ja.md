@@ -1,14 +1,17 @@
 ---
-title: "Incredibox Downtown Simulator"
-description: "発見する新しいIncredib​​oxモッドです。詳細は近日公開予定です。"
-iframeSrc: "https://turbowarp.org/949700724/embed"
-thumbnail: /new-images/thumbnails/incredibox-downtown-simulator.png
-urlstr: "incredibox-downtown-simulator"
-score: "4.7/5 (1523 votes)"
-tags: ["music", "simulator"]
-developer: ""
-releaseDate: 2025-10-10
 locale: ja
+title: Incredibox Downtown Simulator
+seoTitle: 無料でIncredibox Downtown Simulatorをオンラインでプレイ | FiddleBops
+description: 発見する新しいIncredib​​oxモッドです。詳細は近日公開予定です。
+iframeSrc: 'https://turbowarp.org/949700724/embed'
+thumbnail: /new-images/thumbnails/incredibox-downtown-simulator.png
+urlstr: incredibox-downtown-simulator
+tags:
+  - music
+  - simulator
+score: 4.7/5 (1523 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

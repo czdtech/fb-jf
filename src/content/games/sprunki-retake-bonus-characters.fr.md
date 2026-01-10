@@ -1,15 +1,14 @@
 ---
 locale: fr
-urlstr: sprunki-retake-bonus-characters
-title: >-
-  Sprunki Retake Bonus Characters - Jouer à Sprunki Retake Bonus Characters en
-  ligne
+title: Sprunki Retake Bonus Characters
+seoTitle: Jouez à Sprunki Retake Bonus Characters en ligne gratuitement | FiddleBops
 description: >-
   Sprunki Retake Bonus Characters est un Mod qui rend hommage aux musiques
   tribales et aux cultures anciennes, en proposant des personnages bonus
   inspirés de rythmes aborigènes et de percussions primitives.
 iframeSrc: 'https://turbowarp.org/1107905149/embed'
 thumbnail: /new-images/thumbnails/sprunki-retake-bonus-characters.png
+urlstr: sprunki-retake-bonus-characters
 tags:
   - sprunki retake bonus characters
 score: 3.9/5  (132 votes)

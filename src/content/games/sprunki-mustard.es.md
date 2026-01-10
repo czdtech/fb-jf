@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: sprunki-mustard
-title: Sprunki Mustard - Juega a Sprunki Mustard en línea
+title: Sprunki Mustard
+seoTitle: Juega a Sprunki Mustard en línea gratis | FiddleBops
 description: >-
   En Sprunki Mustard, todos los personajes se han rediseñado con una paleta
   uniforme de amarillo mostaza, añadiendo un toque inquietante a la estética
   vibrante original.
 iframeSrc: 'https://html-classic.itch.zone/html/14281578/index.html'
 thumbnail: /new-images/thumbnails/sprunki-mustard.png
+urlstr: sprunki-mustard
 tags:
   - sprunki mustard
 score: 3.9/5  (827 votes)

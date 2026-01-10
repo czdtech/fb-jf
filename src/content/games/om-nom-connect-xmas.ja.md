@@ -1,5 +1,7 @@
 ---
+locale: ja
 title: Om Nom Connect Xmas
+seoTitle: 無料でOm Nom Connect Xmasをオンラインでプレイ | FiddleBops
 description: >-
   Om Nom Connect Xmasはホリデーマッチングパズルです。クリスマステーマのタイルを接続し、フェスティブなレベルをクリアし、Om
   Nomと祝います。
@@ -7,14 +9,13 @@ iframeSrc: >-
   https://omnomconnectxmas.h5games.usercontent.goog/v/88a6b2cf-1027-4490-a613-9a135cf869ce/
 thumbnail: /new-images/thumbnails/om-nom-connect-xmas.jpg
 urlstr: om-nom-connect-xmas
-score: 4.6/5  (2765 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.6/5  (2765 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

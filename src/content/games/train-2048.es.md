@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: train-2048
-title: Train 2048 - Combina vagones
+title: Train 2048
+seoTitle: Juega a Train 2048 en línea gratis | FiddleBops
 description: >-
   Combina y fusiona vagones en Train 2048, una ingeniosa versión del clásico
   2048. Desliza coches de tren iguales para crear modelos más avanzados y
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://train2048.h5games.usercontent.goog/v/efebc769-0d8d-48f4-b437-af712b013132/
 thumbnail: /new-images/thumbnails/train-2048.jpg
+urlstr: train-2048
 tags:
   - puzzle
   - thinky

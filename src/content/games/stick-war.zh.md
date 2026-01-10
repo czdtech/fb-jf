@@ -1,16 +1,17 @@
 ---
 locale: zh
-urlstr: stick-war
 title: 《Stick War》火柴人战争
+seoTitle: 免费在线玩 《Stick War》火柴人战争 | FiddleBops
 description: 《Stick War》是一款战略向的火柴人战争游戏。指挥你的火柴人士兵采集资源、训练部队、占领阵地，与敌对部落展开大规模对战。
 iframeSrc: 'https://www.gamenora.com/upload/games/swf/stick_war/'
 thumbnail: /new-images/thumbnails/stick-war.jpg
+urlstr: stick-war
 tags:
   - strategy
   - war
   - stickman
 score: 3.6/5  (1080 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

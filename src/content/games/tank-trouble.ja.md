@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Tank Trouble
+seoTitle: 無料でTank Troubleをオンラインでプレイ | FiddleBops
 description: Tank Troubleは、マルチプレイヤー戦車戦闘ゲームです。迷路で戦車を操作して相手を倒しましょう。
 iframeSrc: 'https://www.friv2018.com/games/html5/tank-trouble-2/'
 thumbnail: /new-images/thumbnails/tank-trouble.jpg
 urlstr: tank-trouble
-score: 4.5/5  (525 votes)
 tags:
   - action
   - multiplayer
   - tanks
-locale: ja
+score: 4.5/5  (525 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

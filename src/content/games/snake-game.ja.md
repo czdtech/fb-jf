@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Snake Game
+seoTitle: 無料でSnake Gameをオンラインでプレイ | FiddleBops
 description: Snake Gameはクラシックなヘビゲームです。食べ物を食べて成長し、壁や自分の体に当たらないように進みます。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/snake/'
 thumbnail: /new-images/thumbnails/snake-game.jpg
 urlstr: snake-game
-score: 4.7/5  (1143 votes)
 tags:
   - action
   - casual
   - arcade
+score: 4.7/5  (1143 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

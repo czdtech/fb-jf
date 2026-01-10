@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: truck-trials
-title: Truck Trials - Desafíos todoterreno
+title: Truck Trials
+seoTitle: Juega a Truck Trials en línea gratis | FiddleBops
 description: >-
   Pon a prueba tus habilidades al volante en Truck Trials, un juego de
   conducción off‑road en el que llevas potentes camiones a través de circuitos
   llenos de obstáculos.
 iframeSrc: 'https://trucktrials.h5games.usercontent.goog/v/4u5cado14l780/'
 thumbnail: /new-images/thumbnails/truck-trials.png
+urlstr: truck-trials
 tags:
   - driving
   - action

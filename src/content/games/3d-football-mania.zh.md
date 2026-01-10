@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: 3d-football-mania
 title: 3D Football Mania 3D 足球狂热
+seoTitle: 免费在线玩 3D Football Mania 3D 足球狂热 | FiddleBops
 description: >-
   在《3D Football Mania（3D
   足球狂热）》中，你将通过一连串精简的进攻场景练习传球、跑位和射门节奏，在快节奏的回合里一次次撕开防线、把球送进球门。
 iframeSrc: 'https://0iadidf74ef9o.h5games.usercontent.goog/v/4cmv5jsv0n25g/'
 thumbnail: /new-images/thumbnails/3d-football-mania.png
+urlstr: 3d-football-mania
 tags:
   - sports
   - soccer

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: sprunki-cool-as-ice
-title: Sprunki Cool As Ice - Juega a Sprunki Cool As Ice en línea
+title: Sprunki Cool As Ice
+seoTitle: Juega a Sprunki Cool As Ice en línea gratis | FiddleBops
 description: >-
   Sprunki: Cool As Ice es una gran innovación dentro de la familia Incredibox y
   aporta una nueva mirada a la creación musical gracias a su marcado tema de
   invierno.
 iframeSrc: 'https://turbowarp.org/1114795409/embed'
 thumbnail: /new-images/thumbnails/sprunki-cool-as-ice.png
+urlstr: sprunki-cool-as-ice
 tags:
   - sprunki cool as ice
   - sprunki cool as ice online

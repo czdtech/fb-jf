@@ -1,14 +1,19 @@
 ---
-title: "Incredibox Hijinks"
-description: "混沌としたカートーンテーマのファン作成モッド『Incredibox Hijinks』を探索しましょう。このガイドでは、その風変わりなエレクトロニックサウンドパレット、楽しくいたずらなトラックを作成するためのゲームプレイ、テーマ別ボーナスのアンロック方法を詳しく説明します。"
-iframeSrc: "https://turbowarp.org/1027156305/embed"
-thumbnail: /new-images/thumbnails/incredibox-hijinks.png
-urlstr: "incredibox-hijinks"
-score: "4.7/5 (2250 votes)"
-tags: ["music", "rhythm"]
-developer: ""
-releaseDate: 2025-10-10
 locale: ja
+title: Incredibox Hijinks
+seoTitle: 無料でIncredibox Hijinksをオンラインでプレイ | FiddleBops
+description: >-
+  混沌としたカートーンテーマのファン作成モッド『Incredibox
+  Hijinks』を探索しましょう。このガイドでは、その風変わりなエレクトロニックサウンドパレット、楽しくいたずらなトラックを作成するためのゲームプレイ、テーマ別ボーナスのアンロック方法を詳しく説明します。
+iframeSrc: 'https://turbowarp.org/1027156305/embed'
+thumbnail: /new-images/thumbnails/incredibox-hijinks.png
+urlstr: incredibox-hijinks
+tags:
+  - music
+  - rhythm
+score: 4.7/5 (2250 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

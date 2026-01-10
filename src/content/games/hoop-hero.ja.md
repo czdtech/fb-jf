@@ -1,19 +1,20 @@
 ---
+locale: ja
 title: Hoop Hero
+seoTitle: 無料でHoop Heroをオンラインでプレイ | FiddleBops
 description: >-
   完璧なタイミングでタップしてボールをダンクしよう！このテンポの速いワンタッチバスケットボールゲームで反射神経を試しましょう。完璧なタイミングでダンクを決めて得点し、ハイスコアを達成しましょう。
 iframeSrc: 'https://06f80rna6d2sg.h5games.usercontent.goog/v/69kffdfih87r0/'
 thumbnail: /new-images/thumbnails/hoop-hero.png
 urlstr: hoop-hero
-score: 4.1/5  (1700 votes)
 tags:
   - action
   - casual
   - clicker
   - sports
+score: 4.1/5  (1700 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

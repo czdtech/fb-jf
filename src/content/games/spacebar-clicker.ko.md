@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: spacebar-clicker
 title: Spacebar Clicker 스페이스바 클릭커
+seoTitle: Spacebar Clicker 스페이스바 클릭커 무료 온라인 플레이 | FiddleBops
 description: >-
   Spacebar Clicker는 스페이스바를 눌러 점수를 모으고, 그 점수로 업그레이드를 구매하며 성장하는 중독성 강한 인크리멘탈 클릭커
   게임입니다. 자동 클릭과 배수 효과를 활용해 얼마나 높은 점수를 만들 수 있는지 도전해 보세요.
 iframeSrc: 'https://spacebarclicker.co/game/spacebar-counter/'
 thumbnail: /new-images/thumbnails/spacebar-clicker.jpg
+urlstr: spacebar-clicker
 tags:
   - clicker
   - idle

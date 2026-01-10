@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: elastic-man
 title: Elastic Man 弹力捏脸玩具
+seoTitle: 免费在线玩 Elastic Man 弹力捏脸玩具 | FiddleBops
 description: 'Elastic Man 是一个互动小玩具，你可以尽情拉扯、戳捏这张橡胶般的脸，看它被拉变形后, 又像果冻一样晃回原状。'
 iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/elasticman/0/index.html'
 thumbnail: /new-images/thumbnails/elastic-man.jpg
+urlstr: elastic-man
 tags:
   - simulation
   - toy

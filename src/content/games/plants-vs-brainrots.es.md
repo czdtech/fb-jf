@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: plants-vs-brainrots
-title: 'Plants Vs Brainrots'
+title: Plants Vs Brainrots
+seoTitle: Juega a Plants Vs Brainrots en línea gratis | FiddleBops
 description: >-
   Guía de Plants vs Brainrots en Roblox: conoce la jugabilidad, aprende
   estrategias para derrotar a enemigos‑meme como Skibidi Toilet y Sigma y domina
@@ -10,6 +10,7 @@ description: >-
 iframeSrc: >-
   https://playhop.com/dist-app/471072?header=no&utm_source=distrib&utm_medium=gameflare
 thumbnail: /new-images/thumbnails/plants-vs-brainrots.jpg
+urlstr: plants-vs-brainrots
 tags:
   - roblox
   - casual

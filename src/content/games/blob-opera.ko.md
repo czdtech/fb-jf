@@ -1,13 +1,13 @@
 ---
 locale: ko
-urlstr: blob-opera
-title: 'Blob Opera 블롭 오페라'
+title: Blob Opera 블롭 오페라
+seoTitle: Blob Opera 블롭 오페라 무료 온라인 플레이 | FiddleBops
 description: >-
-  네 마리의 귀여운 블롭을 드래그해 나만의 오페라를 만드는 인터랙티브 음악
-  실험입니다. 머신러닝으로 만든 성악 음성으로, 악보나 음악 지식 없이도
-  화음을 만들어 보세요.
+  네 마리의 귀여운 블롭을 드래그해 나만의 오페라를 만드는 인터랙티브 음악 실험입니다. 머신러닝으로 만든 성악 음성으로, 악보나 음악 지식
+  없이도 화음을 만들어 보세요.
 iframeSrc: 'https://gacembed.withgoogle.com/blob-opera/'
 thumbnail: /new-images/thumbnails/blob-opera.jpg
+urlstr: blob-opera
 tags:
   - music
   - casual

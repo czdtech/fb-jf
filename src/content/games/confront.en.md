@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Confront"
-description: "Confront places players in a fast-paced shooting scenario where quick aim and sharp reflexes are crucial."
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp37/gamehwq/20220228/07/index.htm"
+title: Confront
+seoTitle: Play Confront Online Free | FiddleBops
+description: >-
+  Confront places players in a fast-paced shooting scenario where quick aim and
+  sharp reflexes are crucial.
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp37/gamehwq/20220228/07/index.htm
 thumbnail: /new-images/thumbnails/confront.jpg
-urlstr: "confront"
-score: "4.7/5  (407 votes)"
-tags: ["casual", "shooting"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: confront
+tags:
+  - casual
+  - shooting
+score: 4.7/5  (407 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

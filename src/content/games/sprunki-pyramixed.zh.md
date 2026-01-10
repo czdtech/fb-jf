@@ -1,14 +1,16 @@
 ---
-locale: "zh"
-urlstr: "sprunki-pyramixed"
-
-title: "Sprunki Pyramixed 0.9 - 在线玩 Sprunki Pyramixed 0.9"
-description: "Sprunkgerny Pyramixed 0.9 是一款创新的音乐创作游戏，打破了传统音乐游戏的束缚，完美地将节奏与个性化角色设计相结合。"
-iframeSrc: "https://turbowarp.org/1144118565/embed"
+locale: zh
+title: Sprunki Pyramixed 0.9
+seoTitle: 免费在线玩 Sprunki Pyramixed 0.9 | FiddleBops
+description: Sprunkgerny Pyramixed 0.9 是一款创新的音乐创作游戏，打破了传统音乐游戏的束缚，完美地将节奏与个性化角色设计相结合。
+iframeSrc: 'https://turbowarp.org/1144118565/embed'
 thumbnail: /new-images/thumbnails/sprunki-pyramixed.png
-score: "4.7/5  (455 votes)"
-tags: ["sprunki pyramixed 0.9", "sprunki pyramixed 0.9 online"]
-releaseDate: 2025-12-04
+urlstr: sprunki-pyramixed
+tags:
+  - sprunki pyramixed 0.9
+  - sprunki pyramixed 0.9 online
+score: 4.7/5  (455 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

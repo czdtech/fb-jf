@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Fruit Ninja
+seoTitle: 無料でFruit Ninjaをオンラインでプレイ | FiddleBops
 description: アーケードスライシング：爆弾を避けながら飛んでくるフルーツをスワイプし、コンボとフレンジーブーストをチェインして高得点を目指しましょう。
 iframeSrc: 'https://emulatoros.github.io/gfile/fruitninja/'
 thumbnail: /new-images/thumbnails/fruit-ninja.jpg
 urlstr: fruit-ninja
-score: 4.3/5  (1027 votes)
 tags:
   - arcade
   - action
+score: 4.3/5  (1027 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

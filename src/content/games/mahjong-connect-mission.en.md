@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Mahjong Connect : Mission"
-description: "Mahjong Connect: Mission is a link‑pair mahjong — connect identical tiles by paths with ≤2 turns, clear boards, and race timers."
-iframeSrc: "https://7gsm6u8848nko.h5games.usercontent.goog/v/3qaqg5nju3th8/"
+title: 'Mahjong Connect : Mission'
+seoTitle: 'Play Mahjong Connect : Mission Online Free | FiddleBops'
+description: >-
+  Mahjong Connect: Mission is a link‑pair mahjong — connect identical tiles by
+  paths with ≤2 turns, clear boards, and race timers.
+iframeSrc: 'https://7gsm6u8848nko.h5games.usercontent.goog/v/3qaqg5nju3th8/'
 thumbnail: /new-images/thumbnails/mahjong-connect-mission.png
-urlstr: "mahjong-connect-mission"
-score: "4.2/5  (2061 votes)"
-tags: ["mahjong", "puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: mahjong-connect-mission
+tags:
+  - mahjong
+  - puzzle
+  - thinky
+score: 4.2/5  (2061 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

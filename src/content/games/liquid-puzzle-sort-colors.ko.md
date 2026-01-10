@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: liquid-puzzle-sort-colors
 title: Liquid puzzle sort colors 액체 색깔 정렬 퍼즐
+seoTitle: Liquid puzzle sort colors 액체 색깔 정렬 퍼즐 무료 온라인 플레이 | FiddleBops
 description: >-
   Liquid puzzle sort colors는 색깔별로 액체를 따라 옮기며 병을 정리하는 편안한 퍼즐 게임입니다. 색을 기준으로 붓기,
   여유 병 관리, 막힘 없는 마무리까지 계획적으로 진행해 보세요.
 iframeSrc: 'https://1b6vgcuid4b98.h5games.usercontent.goog/v/2vus27k78710o/'
 thumbnail: /new-images/thumbnails/liquid-puzzle-sort-colors.jpg
+urlstr: liquid-puzzle-sort-colors
 tags:
   - puzzle
   - thinky

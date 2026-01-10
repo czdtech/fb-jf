@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: thief-puzzle
 title: Thief Puzzle
+seoTitle: Spiele Thief Puzzle kostenlos online | FiddleBops
 description: >-
   Thief Puzzle ist ein freches Seilarm‑Puzzler: Strecke deinen Arm, meide Fallen
   und klaue das Zielobjekt mit cleveren Winkeln und gutem Timing.
 iframeSrc: 'https://5mubkj30k8998.h5games.usercontent.goog/v/79n1cktk92370/'
 thumbnail: /new-images/thumbnails/thief-puzzle.png
+urlstr: thief-puzzle
 tags:
   - puzzle
   - thinky

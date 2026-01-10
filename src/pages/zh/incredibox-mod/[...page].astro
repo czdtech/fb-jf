@@ -1,20 +1,23 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
-import { INCREDIBOX_MOD_HREFLANG } from '../../../data/hreflang';
+import { getPagedListHreflang } from '../../../data/hreflang';
 import { toGameCardData } from '../../../lib/canonical-games';
+import { buildListSeoTitle } from '../../../lib/seo-title';
 export { getStaticPaths } from '../../incredibox-mod/[...page].astro';
 
 const { page } = Astro.props;
+const hreflangLinks = getPagedListHreflang('/incredibox-mod/', page.currentPage);
 const locale = 'zh';
-const title = 'Incredibox 模组 - Incredibox 游戏世界';
+const baseTitle = 'Incredibox 模组';
+const title = buildListSeoTitle(locale, baseTitle, page.currentPage);
 const description =
   '浏览各类 Incredibox 模组、版本与同人混音作品，在浏览器中直接免费体验，无需下载。';
-const canonicalUrl = 'https://www.playfiddlebops.com/zh/incredibox-mod/';
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site).toString();
 const ogImage = 'https://www.playfiddlebops.com/tw.jpg';
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Game',
-  name: title,
+  name: baseTitle,
   alternateName: 'playfiddlebops.com',
   url: canonicalUrl,
   description
@@ -28,7 +31,7 @@ const jsonLd = {
   ogType="website"
   twitterCard="summary_large_image"
   jsonLd={jsonLd}
-  hreflangLinks={INCREDIBOX_MOD_HREFLANG}
+  hreflangLinks={hreflangLinks}
   lang="zh-CN"
 >
   <section class="games">

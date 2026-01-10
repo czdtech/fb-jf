@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Word Detector
+seoTitle: 無料でWord Detectorをオンラインでプレイ | FiddleBops
 description: Word Detectorは、単語検出パズルゲームです。隠された単語を見つけましょう。
 iframeSrc: 'https://worddetector.h5games.usercontent.goog/v/4gaf9ej9hp398/'
 thumbnail: /new-images/thumbnails/word-detector.png
 urlstr: word-detector
-score: 4.4/5  (2350 votes)
 tags:
   - puzzle
   - word
   - search
-locale: ja
+score: 4.4/5  (2350 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 

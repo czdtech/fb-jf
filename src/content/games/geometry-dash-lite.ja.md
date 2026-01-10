@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Geometry Dash Lite
+seoTitle: 無料でGeometry Dash Liteをオンラインでプレイ | FiddleBops
 description: >-
   リズムプラットフォーマーの入門版：音楽に合わせてジャンプや飛行を行い、トゲやタイミングパッド/ポータルを避けながら、プリセットされたレベルをクリアしましょう。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20240221/08/index.html
 thumbnail: /new-images/thumbnails/geometry-dash-lite.jpg
 urlstr: geometry-dash-lite
-score: 4.8/5  (332 votes)
 tags:
   - rhythm
   - platformer
+score: 4.8/5  (332 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: bloons-td-3
 title: Bloons TD 3
+seoTitle: Spiele Bloons TD 3 kostenlos online | FiddleBops
 description: >-
   Verteidige die Strecke in Bloons TD 3 gegen immer stärkere Bloon‑Wellen. Nutze
   acht verschiedene Türme, den starken Monkey Beacon und bereite dich auf den
   ersten MOAB‑Blimp der Reihe vor.
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-3.html'
 thumbnail: /new-images/thumbnails/bloons-td-3.jpg
+urlstr: bloons-td-3
 tags:
   - casual
   - strategy

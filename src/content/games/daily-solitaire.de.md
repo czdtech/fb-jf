@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: daily-solitaire
 title: Daily Solitaire
+seoTitle: Spiele Daily Solitaire kostenlos online | FiddleBops
 description: >-
   Jeden Tag wartet eine neue Klondike-Solitaire-Herausforderung auf dich.
   Sortiere die Karten von Ass bis König und teste dein Können mit einem frischen
   Rätsel pro Tag.
 iframeSrc: 'https://dailysolitaire.h5games.usercontent.goog/v/0e4orvvorj2mo/'
 thumbnail: /new-images/thumbnails/daily-solitaire.png
+urlstr: daily-solitaire
 tags:
   - card
   - puzzle

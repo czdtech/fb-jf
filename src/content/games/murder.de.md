@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: murder
 title: Murder
+seoTitle: Spiele Murder kostenlos online | FiddleBops
 description: >-
   Murder ist ein spannendes Social-Deduction-Spiel: Eine Person ist heimlich der
   Mörder und versucht, andere zu eliminieren, ohne enttarnt zu werden, während
   die übrigen Mitspieler ihn durch Beobachtung und Logik entlarven müssen.
 iframeSrc: 'https://ubg77.github.io/fix/murder/'
 thumbnail: /new-images/thumbnails/murder.jpg
+urlstr: murder
 tags:
   - social deduction
   - strategy

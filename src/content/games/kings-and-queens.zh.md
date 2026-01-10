@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: kings-and-queens
 title: 《Kings and Queens》国王与王后消消乐
+seoTitle: 免费在线玩 《Kings and Queens》国王与王后消消乐 | FiddleBops
 description: 《Kings and Queens》是一款带城堡翻新故事线的三消游戏，你要清理障碍、解锁增益道具，用精心规划一点点修复皇室大厅。
 iframeSrc: 'https://0ptbttt09g5cg.h5games.usercontent.goog/v/6c7l9okboa1u0/'
 thumbnail: /new-images/thumbnails/kings-and-queens.png
+urlstr: kings-and-queens
 tags:
   - puzzle
   - casual

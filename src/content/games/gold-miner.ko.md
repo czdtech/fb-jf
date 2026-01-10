@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: gold-miner
 title: Gold Miner 골드 마이너 클래식
+seoTitle: Gold Miner 골드 마이너 클래식 무료 온라인 플레이 | FiddleBops
 description: >-
   흔들리는 집게를 내려 금과 보석을 끌어올리는 아케이드 명작 Gold Miner입니다. 시간 안에 목표 금액을 맞추기 위해 집게 타이밍을
   정확히 맞추고, 상점에서 폭탄과 강화 아이템을 활용해 후반 스테이지를 공략해 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/gold-miner.html'
 thumbnail: /new-images/thumbnails/gold-miner.jpg
+urlstr: gold-miner
 tags:
   - arcade
   - skill

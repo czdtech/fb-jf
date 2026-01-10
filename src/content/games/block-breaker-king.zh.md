@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: block-breaker-king
-title: "Block Breaker King 方块任务王"
+title: Block Breaker King 方块任务王
+seoTitle: 免费在线玩 Block Breaker King 方块任务王 | FiddleBops
 description: >-
   《Block Breaker King 方块任务王》是一款类俄罗斯方块的方块摆放解谜游戏，从底部选择各种拼块放入棋盘，凑满整
   行或整列即可消除，合理规划布局与任务目标，尽量在棋盘被堵死前刷出高分。
 iframeSrc: 'https://40p3ck71ovs88.h5games.usercontent.goog/v/36e5gjc5plhi8/'
 thumbnail: /new-images/thumbnails/block-breaker-king.png
+urlstr: block-breaker-king
 tags:
   - puzzle
   - casual

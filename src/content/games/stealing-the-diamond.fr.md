@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: stealing-the-diamond
 title: Stealing the Diamond
+seoTitle: Jouez à Stealing the Diamond en ligne gratuitement | FiddleBops
 description: >-
   Dans Stealing the Diamond, tu aides Henry Stickmin à voler un énorme diamant
   de musée en choisissant parmi des options totalement barrées, avec de
   nombreuses fins possibles.
 iframeSrc: 'https://bitlifeonline.github.io/stealing-the-diamond/'
 thumbnail: /new-images/thumbnails/stealing-the-diamond.jpg
+urlstr: stealing-the-diamond
 tags:
   - adventure
   - point and click

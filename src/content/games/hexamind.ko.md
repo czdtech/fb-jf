@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: hexamind
 title: HexaMind 헥사마인드 논리 퍼즐
+seoTitle: HexaMind 헥사마인드 논리 퍼즐 무료 온라인 플레이 | FiddleBops
 description: >-
   벌집 모양 육각 격자 위에서 인접 규칙을 만족시키도록 타일을 배치하는 논리 퍼즐 게임입니다. 색·숫자·기호 제약을 모두 만족시키며 전체
   보드를 완성해 보세요.
 iframeSrc: 'https://518ndvi54l1n0.h5games.usercontent.goog/v/608gefgjbkc88/'
 thumbnail: /new-images/thumbnails/hexamind.png
+urlstr: hexamind
 tags:
   - puzzle
   - thinky

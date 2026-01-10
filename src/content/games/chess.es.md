@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: chess
 title: Chess
+seoTitle: Juega a Chess en línea gratis | FiddleBops
 description: >-
   Aprende las reglas, piezas y estrategias del ajedrez, el juego de habilidad
   por excelencia. Planifica tus jugadas, controla el tablero y da jaque mate al
   rey rival en este clásico atemporal.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/chess/'
 thumbnail: /new-images/thumbnails/chess.jpg
+urlstr: chess
 tags:
   - strategy
   - puzzle

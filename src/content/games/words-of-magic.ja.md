@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Words of Magic
+seoTitle: 無料でWords of Magicをオンラインでプレイ | FiddleBops
 description: Words of Magicは、魔法と単語を組み合わせたRPGパズルゲームです。単語を作って敵と戦いましょう。
 iframeSrc: 'https://5a5rs5ng5rvro.h5games.usercontent.goog/v/4grqmc17b1kc0/'
 thumbnail: /new-images/thumbnails/words-of-magic.png
 urlstr: words-of-magic
-score: 4.4/5  (2200 votes)
 tags:
   - rpg
   - word
   - magic
-locale: ja
+score: 4.4/5  (2200 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 

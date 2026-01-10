@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: merge-haven
-title: "Merge Haven - Refugio de merges y construcción"
+title: Merge Haven
+seoTitle: Juega a Merge Haven en línea gratis | FiddleBops
 description: >-
   Merge Haven es un constructor relajante basado en fusiones: crea cadenas de
   objetos, completa tareas y expande tu hogar gestionando bien cada casilla del
   tablero.
 iframeSrc: 'https://1jjan0u3n07qg.h5games.usercontent.goog/v/5aruivrappsfg/'
 thumbnail: /new-images/thumbnails/merge-haven.png
+urlstr: merge-haven
 tags:
   - puzzle
   - casual

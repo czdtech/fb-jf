@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: pool-8-ball-mania
 title: Pool 8 Ball Mania 8볼 당구 매니아
+seoTitle: Pool 8 Ball Mania 8볼 당구 매니아 무료 온라인 플레이 | FiddleBops
 description: >-
   8볼 룰을 기반으로 한 캐주얼 포켓볼 게임입니다. 당점과 스핀을 조절해 수구를 컨트롤하고, 다음 공까지 연결되는 포지션 플레이를 연습해
   보세요.
 iframeSrc: 'https://4i2ksm0sqbsr0.h5games.usercontent.goog/v/6fbgaukuhtvqo/'
 thumbnail: /new-images/thumbnails/pool-8-ball-mania.png
+urlstr: pool-8-ball-mania
 tags:
   - sports
   - pool

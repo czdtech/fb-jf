@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Crazy Balls クレイジーボールズ
+seoTitle: 無料でCrazy Balls クレイジーボールズをオンラインでプレイ | FiddleBops
 description: 「Crazy Balls」は物理演算アーケードパズル。跳ね返りやバンパーを利用し、正確なショットで障害物の迷路を突破せよ。
 iframeSrc: 'https://05hi0oufvrcro.h5games.usercontent.goog/v/0qeok5765gar8/'
 thumbnail: /new-images/thumbnails/crazy-balls.png
 urlstr: crazy-balls
-score: 3.8/5  (1617 votes)
 tags:
   - action
   - casual
+score: 3.8/5  (1617 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

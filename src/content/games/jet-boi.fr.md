@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: jet-boi
 title: Jet Boi
+seoTitle: Jouez à Jet Boi en ligne gratuitement | FiddleBops
 description: >-
   Duel 2 joueurs au jetpack : gère ton carburant, ramasse les armes et éjecte
   ton adversaire des plateformes dans des manches ultra rapides.
 iframeSrc: >-
   https://g.igroutka.ru/games/23/yw5Aj09crUtBZC8T/rvvASMiM/5113cafa646f4648abc873fe8fbb7232/
 thumbnail: /new-images/thumbnails/jet-boi.jpg
+urlstr: jet-boi
 tags:
   - action
   - multiplayer

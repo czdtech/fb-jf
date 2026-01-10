@@ -1,13 +1,17 @@
 ---
-title: "Woodcraft"
-description: "Woodcraftは、木工クラフトゲームです。木を集めて様々なアイテムを作りましょう。"
-iframeSrc: "https://g2.igroutka.ru/games/164/i06q7hMeRCsWOPKy/woodcraft/"
-thumbnail: /new-images/thumbnails/woodcraft.jpg
-urlstr: "woodcraft"
-score: "3.7/5  (568 votes)"
-tags: ["crafting", "simulation", "casual"]
 locale: ja
-releaseDate: 2025-08-16
+title: Woodcraft
+seoTitle: 無料でWoodcraftをオンラインでプレイ | FiddleBops
+description: Woodcraftは、木工クラフトゲームです。木を集めて様々なアイテムを作りましょう。
+iframeSrc: 'https://g2.igroutka.ru/games/164/i06q7hMeRCsWOPKy/woodcraft/'
+thumbnail: /new-images/thumbnails/woodcraft.jpg
+urlstr: woodcraft
+tags:
+  - crafting
+  - simulation
+  - casual
+score: 3.7/5  (568 votes)
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 ### ゲーム紹介

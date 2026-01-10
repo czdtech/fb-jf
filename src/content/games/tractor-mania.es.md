@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: tractor-mania
-title: "Tractor Mania - Entregas extremas en granja"
+title: Tractor Mania
+seoTitle: Juega a Tractor Mania en línea gratis | FiddleBops
 description: >-
   Tractor Mania es un simulador de transporte en granja: equilibra la carga,
   controla el par del motor y entrega el cargamento sano y salvo a través de
   terrenos irregulares.
-iframeSrc: "https://4agtsfcp8ur38.h5games.usercontent.goog/v/35kskpc4lmtig/"
+iframeSrc: 'https://4agtsfcp8ur38.h5games.usercontent.goog/v/35kskpc4lmtig/'
 thumbnail: /new-images/thumbnails/tractor-mania.png
+urlstr: tractor-mania
 tags:
   - car
   - driving

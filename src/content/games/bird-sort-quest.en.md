@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Bird Sort Quest"
-description: "Bird Sort Quest turns color‑sorting into a soothing challenge — move birds between perches, unify colors, and plan several steps ahead."
-iframeSrc: "https://59c0fiphd7ng0.h5games.usercontent.goog/v/5cgtqofbdtd08/"
+title: Bird Sort Quest
+seoTitle: Play Bird Sort Quest Online Free | FiddleBops
+description: >-
+  Bird Sort Quest turns color‑sorting into a soothing challenge — move birds
+  between perches, unify colors, and plan several steps ahead.
+iframeSrc: 'https://59c0fiphd7ng0.h5games.usercontent.goog/v/5cgtqofbdtd08/'
 thumbnail: /new-images/thumbnails/bird-sort-quest.png
-urlstr: "bird-sort-quest"
-score: "4.1/5  (2069 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: bird-sort-quest
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.1/5  (2069 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: parking-jam
-title: Parking Jam - Desatasca el aparcamiento
+title: Parking Jam
+seoTitle: Juega a Parking Jam en línea gratis | FiddleBops
 description: >-
   Parking Jam es un puzle espacial tipo "Rush Hour": mueve los coches en
   secuencia, libera el carril de salida y resuelve aparcamientos compactos con
   el mínimo de movimientos.
 iframeSrc: 'https://4knmpq6joecbg.h5games.usercontent.goog/v/1uamg2frss2qg/'
 thumbnail: /new-images/thumbnails/parking-jam.png
+urlstr: parking-jam
 tags:
   - puzzle
   - thinky

@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Quest 21"
-description: "A Blackjack adventure! Play hands of 21 to defeat opponents and progress on your quest. Get as close to 21 as possible without going over to win."
-iframeSrc: "https://7h2pln0tgo8q0.h5games.usercontent.goog/v/004k30od8uvog/"
+title: Quest 21
+seoTitle: Play Quest 21 Online Free | FiddleBops
+description: >-
+  A Blackjack adventure! Play hands of 21 to defeat opponents and progress on
+  your quest. Get as close to 21 as possible without going over to win.
+iframeSrc: 'https://7h2pln0tgo8q0.h5games.usercontent.goog/v/004k30od8uvog/'
 thumbnail: /new-images/thumbnails/quest-21.png
-urlstr: "quest-21"
-score: "4.5/5  (2700 votes)"
-tags: ["card", "puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: quest-21
+tags:
+  - card
+  - puzzle
+  - thinky
+score: 4.5/5  (2700 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

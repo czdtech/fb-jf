@@ -1,14 +1,20 @@
 ---
-title: "Bee Connect ビー・コネクト"
-description: "「Bee Connect」は蜂の巣（ハニカム）グリッドで遊ぶ数字マージパズルです。数字を組み合わせて大きな数を作り、同じ数字を「4つ以上」隣接させて合体させながらハイスコアを目指しましょう。"
-iframeSrc: "https://beeconnect.h5games.usercontent.goog/v/06c7e297-3e6d-4512-9fb2-e491ae2b2fb9/"
-thumbnail: /new-images/thumbnails/bee-connect.jpg
-urlstr: "bee-connect"
-score: "4.3/5  (1837 votes)"
-tags: ["puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
 locale: ja
+title: Bee Connect ビー・コネクト
+seoTitle: 無料でBee Connect ビー・コネクトをオンラインでプレイ | FiddleBops
+description: >-
+  「Bee
+  Connect」は蜂の巣（ハニカム）グリッドで遊ぶ数字マージパズルです。数字を組み合わせて大きな数を作り、同じ数字を「4つ以上」隣接させて合体させながらハイスコアを目指しましょう。
+iframeSrc: >-
+  https://beeconnect.h5games.usercontent.goog/v/06c7e297-3e6d-4512-9fb2-e491ae2b2fb9/
+thumbnail: /new-images/thumbnails/bee-connect.jpg
+urlstr: bee-connect
+tags:
+  - puzzle
+  - casual
+score: 4.3/5  (1837 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

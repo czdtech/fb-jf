@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: G-Switch 2
+seoTitle: 無料でG-Switch 2をオンラインでプレイ | FiddleBops
 description: 重力反転ランナー続編：ソロまたはローカルマルチプレイでレースし、重力を反転させて速度上昇中のトラップを生き延びましょう。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/6/index.html
 thumbnail: /new-images/thumbnails/g-switch-2.jpg
 urlstr: g-switch-2
-score: 3.6/5  (331 votes)
 tags:
   - runner
   - platformer
+score: 3.6/5  (331 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

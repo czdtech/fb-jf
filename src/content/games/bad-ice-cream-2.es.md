@@ -1,7 +1,9 @@
 ---
 locale: es
-urlstr: bad-ice-cream-2
 title: Bad Ice-Cream 2 laberintos helados con puzles
+seoTitle: >-
+  Juega a Bad Ice-Cream 2 laberintos helados con puzles en línea gratis |
+  FiddleBops
 description: >-
   Bad Ice-Cream 2 es un encantador arcade de puzles en pixel art. Controla a un
   helado viviente, crea y rompe muros de hielo, esquiva enemigos y recoge toda
@@ -9,6 +11,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x6/index.html
 thumbnail: /new-images/thumbnails/bad-ice-cream-2.jpg
+urlstr: bad-ice-cream-2
 tags:
   - puzzle
   - action

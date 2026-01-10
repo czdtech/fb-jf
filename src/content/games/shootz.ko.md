@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: shootz
 title: ShootZ 슛츠
+seoTitle: ShootZ 슛츠 무료 온라인 플레이 | FiddleBops
 description: 좀비와 괴물 무리를 상대로 싸우는 액션 슈팅 게임입니다. 다양한 무기를 업그레이드하며 점점 강해지는 웨이브를 버텨 보세요.
 iframeSrc: 'https://g.igroutka.ru/games/17/9IsudOxakgP0EVKC/shootz/'
 thumbnail: /new-images/thumbnails/shootz.jpg
+urlstr: shootz
 tags:
   - shooting
   - action

@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: stick-fighter
 title: Stick Fighter
+seoTitle: Juega a Stick Fighter en línea gratis | FiddleBops
 description: >-
   Conviértete en un maestro del combate stickman en Stick Fighter. Este brawler
   lleno de acción te enfrenta a otros muñecos de palo en arenas con físicas
@@ -10,6 +10,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221209/4/index.html
 thumbnail: /new-images/thumbnails/stick-fighter.jpg
+urlstr: stick-fighter
 tags:
   - fighting
   - action

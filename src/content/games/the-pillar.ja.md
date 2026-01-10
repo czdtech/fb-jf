@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: The Pillar
+seoTitle: 無料でThe Pillarをオンラインでプレイ | FiddleBops
 description: The Pillarは、パズルアドベンチャーゲームです。謎を解いて柱の秘密を明らかにしましょう。
 iframeSrc: 'https://m.igroutka.ru/g-1/53/ThePillar/'
 thumbnail: /new-images/thumbnails/the-pillar.jpg
 urlstr: the-pillar
-score: 3.8/5  (802 votes)
 tags:
   - puzzle
   - adventure
   - mystery
-locale: ja
+score: 3.8/5  (802 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

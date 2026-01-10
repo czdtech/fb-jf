@@ -1,16 +1,17 @@
 ---
 locale: fr
-urlstr: incredibox-sprunksters
 title: Incredibox Sprunksters
+seoTitle: Jouez à Incredibox Sprunksters en ligne gratuitement | FiddleBops
 description: >-
   Incredibox Sprunksters est un mod créatif de Bismeowth : nouveaux samples,
   esprit Sprunki et monde alternatif caché pour des mixes surprenants.
 iframeSrc: 'https://turbowarp.org/1129395199/embed'
 thumbnail: /new-images/thumbnails/incredibox-sprunksters.png
+urlstr: incredibox-sprunksters
 tags:
   - incredibox sprunksters
 score: 4.3/5  (185 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

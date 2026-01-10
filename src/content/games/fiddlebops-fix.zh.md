@@ -1,14 +1,15 @@
 ---
 locale: zh
-urlstr: fiddlebops-fix
-title: "Fiddlebops Fix - 在线玩 Fiddlebops Fix"
-description: "Fiddlebops Fix 是一款创意音乐游戏，玩家可以创作曲目、探索互动故事，并与充满活力的社区互动，完全免费在线游玩。"
+title: Fiddlebops Fix
+seoTitle: 免费在线玩 Fiddlebops Fix | FiddleBops
+description: Fiddlebops Fix 是一款创意音乐游戏，玩家可以创作曲目、探索互动故事，并与充满活力的社区互动，完全免费在线游玩。
 iframeSrc: 'https://turbowarp.org/1131610529/embed'
 thumbnail: /new-images/thumbnails/fiddlebops-fix.png
+urlstr: fiddlebops-fix
 tags:
   - fiddlebops fix
 score: 4.6/5  (217 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Fiddlebops Fix 有何独特之处？

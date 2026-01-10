@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: google-snake
 title: Google Snake
+seoTitle: Spiele Google Snake kostenlos online | FiddleBops
 description: >-
   Moderne Variante von Snake: Steuere eine immer länger werdende Schlange, friss
   Früchte, meide Kollisionen und jage Highscores in verschiedenen
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230830/05/index.html
 thumbnail: /new-images/thumbnails/google-snake.jpg
+urlstr: google-snake
 tags:
   - arcade
   - snake

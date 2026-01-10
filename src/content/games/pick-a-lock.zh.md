@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: pick-a-lock
 title: 《Pick a Lock》节奏开锁挑战
+seoTitle: 免费在线玩 《Pick a Lock》节奏开锁挑战 | FiddleBops
 description: 《Pick a Lock》是一款极简风节奏+时机游戏，你需要在指针旋转经过标记点的瞬间点击，连续命中所有标记才能成功解锁越来越刁钻的锁。
 iframeSrc: 'https://17ul52pgrglf0.h5games.usercontent.goog/v/5b4f1rj0on970/'
 thumbnail: /new-images/thumbnails/pick-a-lock.jpg
+urlstr: pick-a-lock
 tags:
   - puzzle
   - thinky

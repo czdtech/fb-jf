@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: iron-snout
 title: Iron Snout
+seoTitle: Spiele Iron Snout kostenlos online | FiddleBops
 description: >-
   Iron Snout ist ein schnelles 2D-Prügelspiel: Als Kung-Fu-Schwein parierst du
   Wölfe, jonglierst sie mit Tritten in der Luft und wirfst ihre Waffen zurück,
   um Wellen zu überleben und Highscores zu knacken.
 iframeSrc: 'https://webglmath.github.io/iron-snout/'
 thumbnail: /new-images/thumbnails/iron-snout.jpg
+urlstr: iron-snout
 tags:
   - fighting
   - arcade

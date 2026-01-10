@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: quiz-x
 title: Quiz x
+seoTitle: Jouez à Quiz x en ligne gratuitement | FiddleBops
 description: "Quiz x est un quiz rapide façon jeu télé\_: lis les questions, pense large et choisis la réponse la plus pertinente sous une légère pression de temps."
 iframeSrc: 'https://5348abrdhudu8.h5games.usercontent.goog/v/35ge2no4verb8/'
 thumbnail: /new-images/thumbnails/quiz-x.png
+urlstr: quiz-x
 tags:
   - puzzle
   - thinky

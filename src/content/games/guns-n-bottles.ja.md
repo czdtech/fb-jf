@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Guns n' Bottles
+seoTitle: 無料でGuns n' Bottlesをオンラインでプレイ | FiddleBops
 description: この射撃ギャラリーゲームで、タイミングと精度を試してください。銃が回転する中で完璧な瞬間にタップしてボトルを撃ち抜き、赤いボトルは避けましょう。
 iframeSrc: 'https://aktestgunsandbottles.h5games.usercontent.goog/v/51pcsm84fc4ag/'
 thumbnail: /new-images/thumbnails/guns-n-bottles.png
 urlstr: guns-n-bottles
-score: 4.1/5  (1800 votes)
 tags:
   - shooting
   - action
   - casual
+score: 4.1/5  (1800 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

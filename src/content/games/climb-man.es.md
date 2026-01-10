@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: climb-man
-title: "Climb Man"
+title: Climb Man
+seoTitle: Juega a Climb Man en línea gratis | FiddleBops
 description: >-
   Domina el frenético arcade Climb Man: Walk to the Sky. Esta guía recoge
-  estrategias para clavar la sincronización, esquivar obstáculos y desbloquear nuevos
-  personajes para alcanzar la máxima puntuación.
+  estrategias para clavar la sincronización, esquivar obstáculos y desbloquear
+  nuevos personajes para alcanzar la máxima puntuación.
 iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
 thumbnail: /new-images/thumbnails/climb-man.png
+urlstr: climb-man
 tags:
   - action
   - casual

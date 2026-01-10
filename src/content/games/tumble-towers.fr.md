@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: tumble-towers
 title: Tumble Towers
+seoTitle: Jouez à Tumble Towers en ligne gratuitement | FiddleBops
 description: >-
   Tumble Towers est un puzzle d'empilement physique : équilibre les blocs,
   contrôle les débordements et construis des tours stables.
 iframeSrc: 'https://786ndsslg99r8.h5games.usercontent.goog/v/70bavan56u08g/'
 thumbnail: /new-images/thumbnails/tumble-towers.png
+urlstr: tumble-towers
 tags:
   - puzzle
   - thinky

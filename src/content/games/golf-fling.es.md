@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: golf-fling
 title: Golf Fling
+seoTitle: Juega a Golf Fling en línea gratis | FiddleBops
 description: >-
   Lanza la bola directo al hoyo en Golf Fling. Un puzle de golf basado en
   físicas donde apuntas, tiras hacia atrás y sueltas para enviar la bola
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://golffling.h5games.usercontent.goog/v/0aa707a3-71a5-4ad8-be9b-32ce55e28d64/
 thumbnail: /new-images/thumbnails/golf-fling.jpg
+urlstr: golf-fling
 tags:
   - sports
   - puzzle

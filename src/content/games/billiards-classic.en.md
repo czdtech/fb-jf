@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Billiards Classic"
-description: "Enjoy a classic game of 8-ball pool. Aim your shots, apply spin, and sink your designated balls before pocketing the 8-ball to win!"
-iframeSrc: "https://billiardsclassic.h5games.usercontent.goog/v/27m4mvjv84l70/"
+title: Billiards Classic
+seoTitle: Play Billiards Classic Online Free | FiddleBops
+description: >-
+  Enjoy a classic game of 8-ball pool. Aim your shots, apply spin, and sink your
+  designated balls before pocketing the 8-ball to win!
+iframeSrc: 'https://billiardsclassic.h5games.usercontent.goog/v/27m4mvjv84l70/'
 thumbnail: /new-images/thumbnails/billiards-classic.png
-urlstr: "billiards-classic"
-score: "4.5/5  (2900 votes)"
-tags: ["sports", "puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: billiards-classic
+tags:
+  - sports
+  - puzzle
+  - casual
+score: 4.5/5  (2900 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

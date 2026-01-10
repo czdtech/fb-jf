@@ -1,6 +1,7 @@
 ---
 locale: en
 title: Run 3
+seoTitle: Play Run 3 Online Free | FiddleBops
 description: >-
   Run 3 is an endless running game set in space where players control an alien
   character running through a 3D tunnel, jumping over gaps and avoiding
@@ -8,13 +9,13 @@ description: >-
 iframeSrc: 'https://lekug.github.io/tn6pS9dCf37xAhkJv/index.html'
 thumbnail: /new-images/thumbnails/run-3.jpg
 urlstr: run-3
-score: 4.5/5  (650 votes)
 tags:
   - endless-runner
   - space
   - platformer
+score: 4.5/5  (650 votes)
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

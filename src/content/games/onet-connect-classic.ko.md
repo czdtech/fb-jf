@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: onet-connect-classic
 title: Onet Connect Classic 오넷 연결 퍼즐
+seoTitle: Onet Connect Classic 오넷 연결 퍼즐 무료 온라인 플레이 | FiddleBops
 description: >-
   같은 그림 타일을 선으로 이어 지우는 연결 퍼즐 'Onet Connect Classic' 가이드입니다. 두 번 이하로 꺾이는 경로로만 연결할
   수 있다는 규칙 아래, 제한 시간 안에 모든 타일을 지워 보세요.
 iframeSrc: 'https://onetconnectclassic.h5games.usercontent.goog/v/0q8248mt11l3g/'
 thumbnail: /new-images/thumbnails/onet-connect-classic.png
+urlstr: onet-connect-classic
 tags:
   - puzzle
   - casual

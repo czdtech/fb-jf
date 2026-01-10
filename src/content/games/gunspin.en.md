@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Gunspin"
-description: "Recoil‑propulsion arcade: fire your gun to spin and fly, collect ammo, and travel as far as possible through hazards." 
-iframeSrc: "https://ubg44.github.io/GunSpin/"
+title: Gunspin
+seoTitle: Play Gunspin Online Free | FiddleBops
+description: >-
+  Recoil‑propulsion arcade: fire your gun to spin and fly, collect ammo, and
+  travel as far as possible through hazards.
+iframeSrc: 'https://ubg44.github.io/GunSpin/'
 thumbnail: /new-images/thumbnails/gunspin.jpg
-urlstr: "gunspin"
-score: "4.1/5  (1211 votes)"
-tags: ["arcade", "physics"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: gunspin
+tags:
+  - arcade
+  - physics
+score: 4.1/5  (1211 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

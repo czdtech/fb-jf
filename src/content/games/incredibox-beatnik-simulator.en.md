@@ -1,15 +1,22 @@
 ---
 locale: en
-modType: incredibox
-title: "Incredibox Beatnik Simulator"
-description: "It transports players to the smoky jazz clubs of the 1950s and 60s, with a theme centered around the Beatnik subculture a movement known for its celebration of jazz, poetry, and nonconformity"
-iframeSrc: "https://turbowarp.org/948885978/embed"
+title: Incredibox Beatnik Simulator
+seoTitle: Play Incredibox Beatnik Simulator Online Free | FiddleBops
+description: >-
+  It transports players to the smoky jazz clubs of the 1950s and 60s, with a
+  theme centered around the Beatnik subculture a movement known for its
+  celebration of jazz, poetry, and nonconformity
+iframeSrc: 'https://turbowarp.org/948885978/embed'
 thumbnail: /new-images/thumbnails/incredibox-beatnik-simulator.png
-urlstr: "incredibox-beatnik-simulator"
-score: "4.6/5 (1102 votes)"
-tags: ["music", "rhythm", "simulator"]
-developer: ""
-releaseDate: 2025-10-10
+urlstr: incredibox-beatnik-simulator
+tags:
+  - music
+  - rhythm
+  - simulator
+modType: incredibox
+score: 4.6/5 (1102 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 

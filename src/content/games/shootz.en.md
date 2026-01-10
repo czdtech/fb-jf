@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "ShootZ"
-description: "ShootZ is an action-packed shooting game where players battle against zombies and other creatures, using a variety of weapons to survive increasingly challenging waves of enemies in fast-paced combat."
-iframeSrc: "https://g.igroutka.ru/games/17/9IsudOxakgP0EVKC/shootz/"
+title: ShootZ
+seoTitle: Play ShootZ Online Free | FiddleBops
+description: >-
+  ShootZ is an action-packed shooting game where players battle against zombies
+  and other creatures, using a variety of weapons to survive increasingly
+  challenging waves of enemies in fast-paced combat.
+iframeSrc: 'https://g.igroutka.ru/games/17/9IsudOxakgP0EVKC/shootz/'
 thumbnail: /new-images/thumbnails/shootz.jpg
-urlstr: "shootz"
-score: "3.7/5  (1015 votes)"
-tags: ["shooting", "action", "zombies"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: shootz
+tags:
+  - shooting
+  - action
+  - zombies
+score: 3.7/5  (1015 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

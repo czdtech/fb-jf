@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: house-of-hazards
 title: House Of Hazards 함정 하우스 파티
+seoTitle: House Of Hazards 함정 하우스 파티 무료 온라인 플레이 | FiddleBops
 description: >-
   집 안 곳곳에 숨겨진 함정을 서로 작동시키며 즐기는 로컬 파티 게임입니다. 한쪽은 커피 만들기, 식물 물 주기 같은 일상 미션을 수행하고,
   다른 쪽은 토스터·조명·바닥 트랩을 켜서 친구들을 날려 버리세요.
 iframeSrc: 'https://webglmath.github.io/house-of-hazards/'
 thumbnail: /new-images/thumbnails/house-of-hazards.jpg
+urlstr: house-of-hazards
 tags:
   - party
   - multiplayer

@@ -23,6 +23,7 @@
   "nav": {
     "home": "홈",
     "newGames": "새 게임",
+    "mods": "모드",
     "search": "검색",
     "fiddlebopsMod": "Fiddlebops 모드",
     "incrediboxMod": "Incredibox 모드",
@@ -36,7 +37,7 @@
     "popularGames": "인기 게임",
     "newGames": "새 게임",
     "trendingGames": "트렌딩 게임",
-    "recentlyPlayed": "최근 플레이",
+    "featured": "추천",
     "exploreGames": "게임 탐색"
   },
   "common": {

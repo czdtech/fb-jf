@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: only-up
 title: Only Up
+seoTitle: Spiele Only Up kostenlos online | FiddleBops
 description: >-
   Only Up ist ein knallhartes 3D-Plattformspiel, in dem du eine wackelige und
   oft chaotische Welt Stück für Stück hinaufkletterst. Mit präzisen Sprüngen
@@ -10,6 +10,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230826/01/index.htm
 thumbnail: /new-images/thumbnails/only-up.jpg
+urlstr: only-up
 tags:
   - platformer
   - adventure

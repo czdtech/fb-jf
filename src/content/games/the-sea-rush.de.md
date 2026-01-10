@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: the-sea-rush
 title: The Sea Rush
+seoTitle: Spiele The Sea Rush kostenlos online | FiddleBops
 description: >-
   Tauche in The Sea Rush in ein buntes Unterwasser‑Match‑3 ein: Tausche
   Meeresbewohner, bilde Ketten und sammle Punkte, während der Druck der Tiefe
   stetig steigt.
 iframeSrc: 'https://thesearush.h5games.usercontent.goog/v/5ie3e5aghbr18/'
 thumbnail: /new-images/thumbnails/the-sea-rush.png
+urlstr: the-sea-rush
 tags:
   - adventure
   - action

@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: we-become-what-we-behold
-title: We Become What We Behold - Nos convertimos en lo que miramos
+title: We Become What We Behold
+seoTitle: Juega a We Become What We Behold en línea gratis | FiddleBops
 description: >-
   Explora el impacto de los medios y el sensacionalismo en We Become What We
   Behold, una breve experiencia satírica. Captura escenas con tu cámara, observa
@@ -9,6 +9,7 @@ description: >-
   centrarte en lo negativo.
 iframeSrc: 'https://html5.iclouds.io/we-become-behold/index.html'
 thumbnail: /new-images/thumbnails/we-become-what-we-behold.jpg
+urlstr: we-become-what-we-behold
 tags:
   - satire
   - social-commentary

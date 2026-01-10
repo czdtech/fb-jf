@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: jewel-pets-match
 title: Jewel Pets Match
+seoTitle: Juega a Jewel Pets Match en línea gratis | FiddleBops
 description: >-
   Combina adorables mascotas‑joya en esta colorida aventura match‑3. Intercambia
   animales para formar líneas de tres o más y cumple los objetivos de cada
   nivel.
 iframeSrc: 'https://jewelpetsmatch.h5games.usercontent.goog/v/2kcabvevoilco/'
 thumbnail: /new-images/thumbnails/jewel-pets-match.png
+urlstr: jewel-pets-match
 tags:
   - puzzle
   - casual

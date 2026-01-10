@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: pocket-champions
 title: 'Pocket Champs: Carreras 3D'
+seoTitle: 'Juega a Pocket Champs: Carreras 3D en línea gratis | FiddleBops'
 description: >-
   Entrena a tu Champ, equípalo con los gadgets adecuados y míralo correr hacia
   la victoria. Un juego de carreras idle donde la estrategia y la preparación
   son la clave para convertirte en el mejor Pocket Champ.
 iframeSrc: 'https://pocketchampions.h5games.usercontent.goog/v/24houhjfrhfi8/'
 thumbnail: /new-images/thumbnails/pocket-champions.png
+urlstr: pocket-champions
 tags:
   - strategy
   - casual

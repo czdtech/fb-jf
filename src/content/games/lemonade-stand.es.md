@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: lemonade-stand
 title: Lemonade Stand
+seoTitle: Juega a Lemonade Stand en línea gratis | FiddleBops
 description: >-
   Lemonade Stand es un simulador clásico de negocio: fija el precio, la receta y
   la publicidad; compra vasos, limones, azúcar y hielo; y gestiona el beneficio
   diario según el tiempo que haga.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/lemonade-stand.html'
 thumbnail: /new-images/thumbnails/lemonade-stand.jpg
+urlstr: lemonade-stand
 tags:
   - simulation
   - tycoon

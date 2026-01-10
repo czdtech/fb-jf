@@ -1,15 +1,23 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Pokemon Emerald"
-description: "Pokemon Emerald is a role-playing video game in the Pokémon series, where players embark on an adventure in the Hoenn region, catching and training Pokémon, battling trainers, and challenging Gym Leaders to become the Champion, while also dealing with the conflict between Team Magma and Team Aqua."
-iframeSrc: "https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonemerald"
+title: Pokemon Emerald
+seoTitle: Play Pokemon Emerald Online Free | FiddleBops
+description: >-
+  Pokemon Emerald is a role-playing video game in the Pokémon series, where
+  players embark on an adventure in the Hoenn region, catching and training
+  Pokémon, battling trainers, and challenging Gym Leaders to become the
+  Champion, while also dealing with the conflict between Team Magma and Team
+  Aqua.
+iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonemerald'
 thumbnail: /new-images/thumbnails/pokemon-emerald.jpg
-urlstr: "pokemon-emerald"
-score: "4.6/5  (1365 votes)"
-tags: ["rpg", "adventure", "collecting"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: pokemon-emerald
+tags:
+  - rpg
+  - adventure
+  - collecting
+score: 4.6/5  (1365 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

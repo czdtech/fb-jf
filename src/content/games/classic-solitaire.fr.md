@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: classic-solitaire
 title: Classic Solitaire
+seoTitle: Jouez à Classic Solitaire en ligne gratuitement | FiddleBops
 description: "Joue au solitaire (Klondike) classique\_: déplace les cartes entre le tableau et les fondations pour trier chaque couleur de l'As au Roi."
 iframeSrc: 'https://6uj90l2koon6g.h5games.usercontent.goog/v/2a72i89u7qfe8/'
 thumbnail: /new-images/thumbnails/classic-solitaire.png
+urlstr: classic-solitaire
 tags:
   - card
   - puzzle

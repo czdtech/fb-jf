@@ -1,13 +1,12 @@
 ---
 locale: zh
-urlstr: bee-connect
-title: "Bee Connect 蜂巢连数"
-description: >-
-  在《Bee Connect 蜂巢连数》中，你要在六边形蜂巢棋盘上移动数字方块，把四个及以上相同数字连成一团合并升级，
-  一边控场一边冲击高分。
+title: Bee Connect 蜂巢连数
+seoTitle: 免费在线玩 Bee Connect 蜂巢连数 | FiddleBops
+description: 在《Bee Connect 蜂巢连数》中，你要在六边形蜂巢棋盘上移动数字方块，把四个及以上相同数字连成一团合并升级， 一边控场一边冲击高分。
 iframeSrc: >-
   https://beeconnect.h5games.usercontent.goog/v/06c7e297-3e6d-4512-9fb2-e491ae2b2fb9/
 thumbnail: /new-images/thumbnails/bee-connect.jpg
+urlstr: bee-connect
 tags:
   - puzzle
   - casual

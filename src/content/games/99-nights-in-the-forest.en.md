@@ -1,6 +1,7 @@
 ---
 locale: en
 title: 99 Nights in the Forest
+seoTitle: Play 99 Nights in the Forest Online Free | FiddleBops
 description: >-
   An overview of the indie horror game '99 Nights in the Forest.' Learn about
   its survival horror gameplay, resource management, and strategies for enduring
@@ -8,14 +9,14 @@ description: >-
 iframeSrc: 'https://st.8games.net/7/8g/igra-99-nochej-v-lesu-101-original/'
 thumbnail: /new-images/thumbnails/99-nights-in-the-forest.webp
 urlstr: 99-nights-in-the-forest
-featured: true
-featuredRank: 2
-sidebarNew: 2
-score: 4.7/5  (2765 votes)
 tags:
   - horror
   - survival
   - action
+featured: true
+featuredRank: 2
+sidebarNew: 2
+score: 4.7/5  (2765 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---

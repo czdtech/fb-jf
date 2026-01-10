@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Tennis
+seoTitle: 無料でTennisをオンラインでプレイ | FiddleBops
 description: Tennisは、クラシックなテニスゲームです。ラケットを振ってボールを打ち返し、相手を倒しましょう。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/tennis.html'
 thumbnail: /new-images/thumbnails/tennis.jpg
 urlstr: tennis
-score: 4.7/5  (793 votes)
 tags:
   - sports
   - tennis
   - arcade
-locale: ja
+score: 4.7/5  (793 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

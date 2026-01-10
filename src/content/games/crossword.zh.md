@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: crossword
 title: Crossword 纵横填字基础版
+seoTitle: 免费在线玩 Crossword 纵横填字基础版 | FiddleBops
 description: 《Crossword 纵横填字基础版》是一款经典英文填字游戏。根据横向与纵向线索填入单词，使 所有交叉字母相互匹配，完成整张网格。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword.html'
 thumbnail: /new-images/thumbnails/crossword.jpg
+urlstr: crossword
 tags:
   - word
   - puzzle

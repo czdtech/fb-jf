@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: comfy-farm
 title: Comfy Farm 컴피 팜
+seoTitle: Comfy Farm 컴피 팜 무료 온라인 플레이 | FiddleBops
 description: >-
   Comfy Farm는 작은 텃밭에서 시작해 아기자기한 농장을 키워 나가는 캐주얼 농장 시뮬레이션 게임입니다. 씨앗을 심고, 물을 주고,
   해충을 쫓아내며 수확한 작물로 농장을 업그레이드해 보세요.
 iframeSrc: 'https://comfyfarm.h5games.usercontent.goog/v/73m7i3ndifhg0/'
 thumbnail: /new-images/thumbnails/comfy-farm.png
+urlstr: comfy-farm
 tags:
   - casual
   - strategy

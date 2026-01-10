@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Match Puzzle House
+seoTitle: 無料でMatch Puzzle Houseをオンラインでプレイ | FiddleBops
 description: Match Puzzle Houseはホームデザイン系のマッチ3です。パズルを解き、報酬で家を改装します。
 iframeSrc: 'https://7cp83ss0h08p0.h5games.usercontent.goog/v/49v2bsl4scjdo/'
 thumbnail: /new-images/thumbnails/match-puzzle-house.png
 urlstr: match-puzzle-house
-score: 4.0/5  (1887 votes)
 tags:
   - puzzle
   - casual
   - thinky
+score: 4.0/5  (1887 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

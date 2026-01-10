@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: flappy-bird
 title: Flappy Bird
+seoTitle: Jouez à Flappy Bird en ligne gratuitement | FiddleBops
 description: >-
   Runner infini à tapotements : fais battre les ailes de l’oiseau pour le guider
   entre les tuyaux et augmenter ton score sans toucher les obstacles.
 iframeSrc: 'https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/TAhlQLDa/index.html'
 thumbnail: /new-images/thumbnails/flappy-bird.jpg
+urlstr: flappy-bird
 tags:
   - arcade
   - endless-runner

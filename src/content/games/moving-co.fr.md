@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: moving-co
 title: Moving Co
+seoTitle: Jouez à Moving Co en ligne gratuitement | FiddleBops
 description: >-
   Moving Co. transforme un déménagement en puzzle : planifie tes trajets,
   transporte les objets en sécurité et bats le chrono grâce à une logistique
   bien pensée.
 iframeSrc: 'https://movingco.h5games.usercontent.goog/v/3crgi5efdnml0/'
 thumbnail: /new-images/thumbnails/moving-co.png
+urlstr: moving-co
 tags:
   - casual
   - thinky

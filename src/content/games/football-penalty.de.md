@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: football-penalty
 title: Football Penalty
+seoTitle: Spiele Football Penalty kostenlos online | FiddleBops
 description: >-
   Football Penalty konzentriert sich auf Elfmeterschießen: Wähle Ecke und Höhe,
   dosiere die Schusskraft und trickse den Keeper unter Druck aus.
 iframeSrc: 'https://2fb6vjapfstro.h5games.usercontent.goog/v/5443q25keq2qg/'
 thumbnail: /new-images/thumbnails/football-penalty.png
+urlstr: football-penalty
 tags:
   - sports
   - soccer

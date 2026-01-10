@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: DogeMiner ドージ・マイナー
+seoTitle: 無料でDogeMiner ドージ・マイナーをオンラインでプレイ | FiddleBops
 description: 「DogeMiner」は柴犬（Doge）が主役の放置系クリッカーゲーム。採掘してコインを稼ぎ、仲間を雇い、ロケットを作って月へ行こう。Wow！
 iframeSrc: 'https://edufall.github.io/o16/doge-miner/'
 thumbnail: /new-images/thumbnails/dogeminer.jpg
 urlstr: dogeminer
-score: 4.2/5  (905 votes)
 tags:
   - idle
   - clicker
+score: 4.2/5  (905 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

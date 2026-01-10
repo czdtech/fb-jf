@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: the-haze-pixelbox
 title: The Haze Pixelbox
+seoTitle: Jouez à The Haze Pixelbox en ligne gratuitement | FiddleBops
 description: >-
   The Haze Pixelbox est un jeu de creation musicale unique : dirige ta tribu de
   beatboxers et explore des sons primitifs inspires de la culture aborigene.
 iframeSrc: 'https://turbowarp.org/1020955547/embed'
 thumbnail: /new-images/thumbnails/the-haze-pixelbox.png
+urlstr: the-haze-pixelbox
 tags:
   - the haze pixelbox
 score: 3.9/5  (132 votes)

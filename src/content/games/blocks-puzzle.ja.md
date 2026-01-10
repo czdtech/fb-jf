@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Blocks Puzzle ブロックス・パズル
+seoTitle: 無料でBlocks Puzzle ブロックス・パズルをオンラインでプレイ | FiddleBops
 description: 「Blocks Puzzle」は10x10グリッドに挑む、中毒性の高い定番ブロックパズル。戦略的な配置でラインを消し、コンボを決めてハイスコアを目指そう。
 iframeSrc: 'https://6ljls661l4lkg.h5games.usercontent.goog/v/1mil2011qbul0/'
 thumbnail: /new-images/thumbnails/blocks-puzzle.jpg
 urlstr: blocks-puzzle
-score: 4.2/5  (1765 votes)
 tags:
   - puzzle
   - casual
   - thinky
+score: 4.2/5  (1765 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

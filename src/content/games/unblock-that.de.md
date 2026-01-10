@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: unblock-that
 title: Unblock That
+seoTitle: Spiele Unblock That kostenlos online | FiddleBops
 description: >-
   Unblock That ist ein klassisches Schiebeblock‑Puzzle: Verschiebe Holzklötze
   so, dass der rote Block einen freien Weg zum Ausgang bekommt – ideal zum
   Knobeln und Trainieren deines Logikdenkens.
 iframeSrc: 'https://unblockthat.h5games.usercontent.goog/v/6iqu63hhulkgo/'
 thumbnail: /new-images/thumbnails/unblock-that.png
+urlstr: unblock-that
 tags:
   - puzzle
   - thinky

@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Mini Crossword"
-description: "Mini Crossword is a compact daily crossword puzzle game that provides a quick and engaging word challenge for players of all skill levels."
-iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword-mini/"
+title: Mini Crossword
+seoTitle: Play Mini Crossword Online Free | FiddleBops
+description: >-
+  Mini Crossword is a compact daily crossword puzzle game that provides a quick
+  and engaging word challenge for players of all skill levels.
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword-mini/'
 thumbnail: /new-images/thumbnails/mini-crossword.jpg
-urlstr: "mini-crossword"
-score: "4.9/5  (363 votes)"
-tags: ["puzzle", "word", "casual"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: mini-crossword
+tags:
+  - puzzle
+  - word
+  - casual
+score: 4.9/5  (363 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

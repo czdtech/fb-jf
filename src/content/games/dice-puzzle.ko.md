@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: dice-puzzle
 title: Dice Puzzle 주사위 퍼즐
+seoTitle: Dice Puzzle 주사위 퍼즐 무료 온라인 플레이 | FiddleBops
 description: >-
   5x5 보드에 주사위를 놓고 합쳐 가는 두뇌 퍼즐 게임입니다. 같은 눈의 주사위를 세 개 이상 인접하게 모아 더 큰 숫자로 합치고, 궁극의
   보석 큐브를 노려 보세요.
 iframeSrc: 'https://0vfcifju4i900.h5games.usercontent.goog/v/2jg90liogd5f8/'
 thumbnail: /new-images/thumbnails/dice-puzzle.jpg
+urlstr: dice-puzzle
 tags:
   - puzzle
   - thinky

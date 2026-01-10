@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: bad-ice-cream-3
 title: Bad Ice Cream 3
+seoTitle: Spiele Bad Ice Cream 3 kostenlos online | FiddleBops
 description: >-
   Bad Ice‑Cream 3 führt die eisige Puzzle‑Action der Reihe fort. Sammle Früchte,
   nutze Eismauern geschickt und passe dich neuen, gefährlicheren Gegnern an.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x5/index.html
 thumbnail: /new-images/thumbnails/bad-ice-cream-3.jpg
+urlstr: bad-ice-cream-3
 tags:
   - puzzle
   - casual

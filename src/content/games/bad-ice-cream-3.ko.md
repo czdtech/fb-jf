@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: bad-ice-cream-3
 title: Bad Ice Cream 3 배드 아이스크림 3
+seoTitle: Bad Ice Cream 3 배드 아이스크림 3 무료 온라인 플레이 | FiddleBops
 description: >-
   새로운 적과 퍼즐이 추가된 시리즈 3편 Bad Ice-Cream 3입니다. 얼음 블록을 이용해 적을 따돌리고, 과일을 모두 모아 미로를
   탈출해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x5/index.html
 thumbnail: /new-images/thumbnails/bad-ice-cream-3.jpg
+urlstr: bad-ice-cream-3
 tags:
   - puzzle
   - casual

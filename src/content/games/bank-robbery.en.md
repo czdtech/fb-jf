@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Bank Robbery"
-description: "A detailed guide for the team-based FPS game Bank Robbery 2. Learn strategies for both Robbers and Cops, controls, and answers to common questions to master the heist."
-iframeSrc: "https://app-183971.games.s3.yandex.net/183971/l0eme2yqkthl0y8stmfuz0u8pdpux64m/index.html"
+title: Bank Robbery
+seoTitle: Play Bank Robbery Online Free | FiddleBops
+description: >-
+  A detailed guide for the team-based FPS game Bank Robbery 2. Learn strategies
+  for both Robbers and Cops, controls, and answers to common questions to master
+  the heist.
+iframeSrc: >-
+  https://app-183971.games.s3.yandex.net/183971/l0eme2yqkthl0y8stmfuz0u8pdpux64m/index.html
 thumbnail: /new-images/thumbnails/bank-robbery.jpg
-urlstr: "bank-robbery"
-score: "4.2/5  (1331 votes)"
-tags: ["fps", "action"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: bank-robbery
+tags:
+  - fps
+  - action
+score: 4.2/5  (1331 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

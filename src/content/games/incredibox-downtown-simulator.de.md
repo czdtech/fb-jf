@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: incredibox-downtown-simulator
 title: Incredibox Downtown Simulator
+seoTitle: Spiele Incredibox Downtown Simulator kostenlos online | FiddleBops
 description: >-
   Ein neuer Incredibox-Mod mit Grid-Interface: Downtown Simulator setzt auf
   urbane Hip-Hop- und Street-Sounds, die du per Icon-Raster zu Loops
   kombinierst.
 iframeSrc: 'https://turbowarp.org/949700724/embed'
 thumbnail: /new-images/thumbnails/incredibox-downtown-simulator.png
+urlstr: incredibox-downtown-simulator
 tags:
   - music
   - simulator

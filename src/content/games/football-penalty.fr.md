@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: football-penalty
 title: Football Penalty
+seoTitle: Jouez à Football Penalty en ligne gratuitement | FiddleBops
 description: >-
   Football Penalty recrée l’intensité des séances de tirs au but : choisis la
   trajectoire, la hauteur et la puissance, et déjoue le gardien sous pression.
 iframeSrc: 'https://2fb6vjapfstro.h5games.usercontent.goog/v/5443q25keq2qg/'
 thumbnail: /new-images/thumbnails/football-penalty.png
+urlstr: football-penalty
 tags:
   - sports
   - soccer

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: tower-mania
-title: Tower Mania - Apila hasta el cielo
+title: Tower Mania
+seoTitle: Juega a Tower Mania en línea gratis | FiddleBops
 description: >-
   Construye la torre más alta en Tower Mania. Deja caer bloques en el momento
   perfecto, mantén el equilibrio y evita que la estructura se tambalee y se
   venga abajo.
 iframeSrc: 'https://49pvu1mm0ofc0.h5games.usercontent.goog/v/4apam1d97c7mo/'
 thumbnail: /new-images/thumbnails/tower-mania.png
+urlstr: tower-mania
 tags:
   - casual
   - puzzle

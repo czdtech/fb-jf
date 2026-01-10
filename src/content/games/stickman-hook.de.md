@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: stickman-hook
 title: Stickman Hook
+seoTitle: Spiele Stickman Hook kostenlos online | FiddleBops
 description: >-
   Stickman Hook ist ein physikbasiertes Swing-Spiel: Du schwingst dich mit Haken
   durch die Level, weichst Hindernissen aus und landest akrobatische Moves bis
   ins Ziel.
 iframeSrc: 'https://ubg98.github.io/StickmanHook/'
 thumbnail: /new-images/thumbnails/stickman-hook.jpg
+urlstr: stickman-hook
 tags:
   - physics
   - swinging

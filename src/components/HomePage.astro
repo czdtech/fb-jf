@@ -8,21 +8,21 @@
  *
  * Requirements: R3, R4
  */
-import BaseLayout from '../layouts/BaseLayout.astro';
-import PopularGames from './PopularGames.astro';
-import NewGames from './NewGames.astro';
-import IndexTrendingGames from './IndexTrendingGames.astro';
-import RecentlyPlayed from './RecentlyPlayed.astro';
-import Common from './Common.astro';
-import Categories from './Categories.astro';
-import LongContentDe from './homepage/HomePageLongContent.de.astro';
-import LongContentEn from './homepage/HomePageLongContent.en.astro';
-import LongContentEs from './homepage/HomePageLongContent.es.astro';
-import LongContentFr from './homepage/HomePageLongContent.fr.astro';
-import LongContentJa from './homepage/HomePageLongContent.ja.astro';
-import LongContentKo from './homepage/HomePageLongContent.ko.astro';
-import LongContentZh from './homepage/HomePageLongContent.zh.astro';
-import { getLocaleFromLangAttr, useTranslations, type Locale } from '../i18n/utils';
+	import BaseLayout from '../layouts/BaseLayout.astro';
+	import GameSidebar from './GameSidebar.astro';
+	import IndexTrendingGames from './IndexTrendingGames.astro';
+	import Common from './Common.astro';
+	import Categories from './Categories.astro';
+	import SoundCard from './SoundCard.astro';
+	import LongContentDe from './homepage/HomePageLongContent.de.astro';
+	import LongContentEn from './homepage/HomePageLongContent.en.astro';
+	import LongContentEs from './homepage/HomePageLongContent.es.astro';
+	import LongContentFr from './homepage/HomePageLongContent.fr.astro';
+	import LongContentJa from './homepage/HomePageLongContent.ja.astro';
+	import LongContentKo from './homepage/HomePageLongContent.ko.astro';
+	import LongContentZh from './homepage/HomePageLongContent.zh.astro';
+	import { HOMEPAGE_SOUNDS } from '../data/sounds';
+	import { getLocaleFromLangAttr, useTranslations, type Locale } from '../i18n/utils';
 
 interface Props {
   /**
@@ -139,9 +139,9 @@ const LongContent = LONG_CONTENT_BY_LOCALE[locale];
           <p>{t('common.welcomeDescription', 'Start your musical journey!')}</p>
         </div>
 
-        <PopularGames lang={lang} />
+        <GameSidebar lang={lang} kind="popular" />
         <div class="game-iframe-sprunki">
-          <iframe id="fiddlebops-iframe" src="about:blank" allowtransparency="true" allowfullscreen width="100%" height="100%"></iframe>
+          <iframe id="fiddlebops-iframe" src="about:blank" allowtransparency="true" allowfullscreen width="800" height="450" loading="lazy"></iframe>
           <a
             id="playButton"
             href="https://fiddlebops-49o.pages.dev/"
@@ -151,12 +151,10 @@ const LongContent = LONG_CONTENT_BY_LOCALE[locale];
             {t('game.play', 'Play')}
           </a>
         </div>
-        <NewGames lang={lang} />
+        <GameSidebar lang={lang} kind="new" />
       </div>
     </div>
   </section>
-
-  <RecentlyPlayed lang={lang} />
   <IndexTrendingGames lang={lang} />
   <Common lang={lang} />
   <Categories lang={lang} />
@@ -174,103 +172,16 @@ const LongContent = LONG_CONTENT_BY_LOCALE[locale];
         </div>
       </section>
 
-      <section class="games">
-        <div class="container">
-          <h2>{t('homepage.exploreSoundsTitle', 'Explore the Different Sounds in Fiddlebops Incredibox')}</h2>
-          <div class="game-grid">
-            <div class="game">
-              <div class="game-logo">
-                <img src="/img-1.png" alt="Beat 1" loading="lazy" width="150" height="150">
-              </div>
-              <p>Beat 1</p>
-              <audio controls preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
-                <source src="https://www.playfiddlebops.com/beat1.wav" type="audio/wav">
-              </audio>
-            </div>
-            <div class="game">
-              <div class="game-logo">
-                <img src="/img-2.png" alt="Beat 3" loading="lazy" width="150" height="150">
-              </div>
-              <p>Beat 3</p>
-              <audio controls preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
-                <source src="https://www.playfiddlebops.com/beat3.wav" type="audio/wav">
-              </audio>
-            </div>
-            <div class="game">
-              <div class="game-logo">
-                <img src="/img-3.png" alt="Beat 5" loading="lazy" width="150" height="150">
-              </div>
-              <p>Beat 5</p>
-              <audio controls preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
-                <source src="https://www.playfiddlebops.com/beat5.wav" type="audio/wav">
-              </audio>
-            </div>
-            <div class="game">
-              <div class="game-logo">
-                <img src="/img-4.png" alt="Effect 3" loading="lazy" width="150" height="150">
-              </div>
-              <p>Effect 3</p>
-              <audio controls preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
-                <source src="https://www.playfiddlebops.com/effect3.wav" type="audio/wav">
-              </audio>
-            </div>
-            <div class="game">
-              <div class="game-logo">
-                <img src="/img-5.png" alt="Effect 4" loading="lazy" width="150" height="150">
-              </div>
-              <p>Effect 4</p>
-              <audio controls preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
-                <source src="https://www.playfiddlebops.com/effect4.wav" type="audio/wav">
-              </audio>
-            </div>
-            <div class="game">
-              <div class="game-logo">
-                <img src="/img-6.png" alt="Effect 5" loading="lazy" width="150" height="150">
-              </div>
-              <p>Effect 5</p>
-              <audio controls preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
-                <source src="https://www.playfiddlebops.com/effect5.wav" type="audio/wav">
-              </audio>
-            </div>
-            <div class="game">
-              <div class="game-logo">
-                <img src="/img-7.png" alt="Voice 2" loading="lazy" width="150" height="150">
-              </div>
-              <p>Voice 2</p>
-              <audio controls preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
-                <source src="https://www.playfiddlebops.com/voice2.wav" type="audio/wav">
-              </audio>
-            </div>
-            <div class="game">
-              <div class="game-logo">
-                <img src="/img-8.png" alt="Voice 3" loading="lazy" width="150" height="150">
-              </div>
-              <p>Voice 3</p>
-              <audio controls preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
-                <source src="https://www.playfiddlebops.com/voice3.wav" type="audio/wav">
-              </audio>
-            </div>
-            <div class="game">
-              <div class="game-logo">
-                <img src="/img-9.png" alt="Voice 5" loading="lazy" width="150" height="150">
-              </div>
-              <p>Voice 5</p>
-              <audio controls preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
-                <source src="https://www.playfiddlebops.com/voice5.wav" type="audio/wav">
-              </audio>
-            </div>
-            <div class="game">
-              <div class="game-logo">
-                <img src="/img-10.png" alt="Bonus 1" loading="lazy" width="150" height="150">
-              </div>
-              <p>Bonus 1</p>
-              <audio controls preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
-                <source src="https://www.playfiddlebops.com/bonus1.wav" type="audio/wav">
-              </audio>
-            </div>
-          </div>
-        </div>
-      </section>
+	      <section class="games">
+	        <div class="container">
+	          <h2>{t('homepage.exploreSoundsTitle', 'Explore the Different Sounds in Fiddlebops Incredibox')}</h2>
+	          <div class="game-grid">
+	            {HOMEPAGE_SOUNDS.map((sound) => (
+	              <SoundCard title={sound.title} imageSrc={sound.imageSrc} audioSrc={sound.audioSrc} />
+	            ))}
+	          </div>
+	        </div>
+	      </section>
 
       <section class="game-video about">
         <div class="container">
@@ -280,6 +191,8 @@ const LongContent = LONG_CONTENT_BY_LOCALE[locale];
               src="https://www.youtube.com/embed/4Oj-dVLSA70"
               title="Fiddlebops ALL POLOS 4K (WITH SUBTITLES)"
               loading="lazy"
+              width="560"
+              height="315"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowfullscreen
             ></iframe>
@@ -287,6 +200,8 @@ const LongContent = LONG_CONTENT_BY_LOCALE[locale];
               src="https://www.youtube.com/embed/JlMa-fRBOwE"
               title="Every Incredibox Fiddlebops in 8 Minutes"
               loading="lazy"
+              width="560"
+              height="315"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"
               allowfullscreen
             ></iframe>

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: dices-2048-3d
 title: Dices 2048 3D
+seoTitle: Spiele Dices 2048 3D kostenlos online | FiddleBops
 description: >-
   Dices 2048 3D verbindet das klassische 2048-Prinzip mit Würfelphysik: Lasse
   gleiche Würfelwerte zusammenstoßen, verschmelze sie zu höheren Zahlen und
   arbeite dich im dreidimensionalen Spielfeld bis zur 2048 vor.
 iframeSrc: 'https://dices20483d.h5games.usercontent.goog/v/4fsrag1lb33t8/'
 thumbnail: /new-images/thumbnails/dices-2048-3d.png
+urlstr: dices-2048-3d
 tags:
   - puzzle
   - thinky

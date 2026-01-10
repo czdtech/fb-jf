@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Five Nights at Freddy's 2 (FNAF 2)
+seoTitle: 無料でFive Nights at Freddy's 2 (FNAF 2)をオンラインでプレイ | FiddleBops
 description: >-
   マスクとオルゴールの管理：複数のアニマトロニクスを追跡し、パペットのオルゴールを巻き、懐中電灯を使い、適切なタイミングでフレディのマスクを被って生き残りましょう。
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-2.jpg
 urlstr: five-nights-at-freddy-2
-score: 3.7/5  (697 votes)
 tags:
   - horror
   - strategy
+score: 3.7/5  (697 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

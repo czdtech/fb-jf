@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: trap-the-cat
 title: Trap the Cat 트랩 더 캣
+seoTitle: Trap the Cat 트랩 더 캣 무료 온라인 플레이 | FiddleBops
 description: >-
   육각형 격자 위에서 교묘한 고양이의 탈출 경로를 막아 가두는 전략 퍼즐 게임입니다. 한 칸씩 장애물을 놓아 고양이가 가장자리까지 도망치지
   못하도록 논리적으로 길을 차단해야 합니다.
 iframeSrc: 'https://freeonlinegames.github.io/cat-trap.html'
 thumbnail: /new-images/thumbnails/trap-the-cat.jpg
+urlstr: trap-the-cat
 tags:
   - strategy
   - puzzle

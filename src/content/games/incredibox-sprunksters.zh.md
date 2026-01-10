@@ -1,14 +1,15 @@
 ---
-locale: "zh"
-urlstr: "incredibox-sprunksters"
-
-title: "Incredibox Sprunksters - 在线畅玩 Incredibox Sprunksters"
-description: "告别千篇一律的声音！Incredibox Sprunksters 带来全新的采样和效果，让你的音乐感觉独特而富有创意。"
-iframeSrc: "https://turbowarp.org/1129395199/embed"
+locale: zh
+title: Incredibox Sprunksters
+seoTitle: 免费在线玩 Incredibox Sprunksters | FiddleBops
+description: 告别千篇一律的声音！Incredibox Sprunksters 带来全新的采样和效果，让你的音乐感觉独特而富有创意。
+iframeSrc: 'https://turbowarp.org/1129395199/embed'
 thumbnail: /new-images/thumbnails/incredibox-sprunksters.png
-score: "4.3/5  (185 votes)"
-tags: ["incredibox sprunksters"]
-releaseDate: 2025-12-04
+urlstr: incredibox-sprunksters
+tags:
+  - incredibox sprunksters
+score: 4.3/5  (185 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

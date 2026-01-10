@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: who-is
-title: Who Is? Game - ¿Quién es?
+title: Who Is? Game
+seoTitle: Juega a Who Is? Game en línea gratis | FiddleBops
 description: >-
   Pon a prueba tus dotes de detective en Who Is? Game. Resuelve acertijos,
   identifica impostores y encuentra pistas ocultas en decenas de situaciones
   ingeniosas que exigen pensar fuera de lo común.
 iframeSrc: 'https://rebemanae.github.io/who-is/'
 thumbnail: /new-images/thumbnails/who-is.jpg
+urlstr: who-is
 tags:
   - puzzle
   - riddle

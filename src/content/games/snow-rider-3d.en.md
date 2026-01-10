@@ -1,15 +1,23 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Snow Rider 3D"
-description: "Jump on your sled in Snow Rider 3D, a fast-paced winter-themed action game. Steer down the snowy hills, dodge obstacles like trees and snowmen, and use ramps to perform jumps. Collect gifts to unlock new sleds and challenge your reflexes to get the highest score."
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231130/2/index.html"
+title: Snow Rider 3D
+seoTitle: Play Snow Rider 3D Online Free | FiddleBops
+description: >-
+  Jump on your sled in Snow Rider 3D, a fast-paced winter-themed action game.
+  Steer down the snowy hills, dodge obstacles like trees and snowmen, and use
+  ramps to perform jumps. Collect gifts to unlock new sleds and challenge your
+  reflexes to get the highest score.
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231130/2/index.html
 thumbnail: /new-images/thumbnails/snow-rider-3d.jpg
-urlstr: "snow-rider-3d"
-score: "4.3/5  (1041 votes)"
-tags: ["action", "3d", "winter"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: snow-rider-3d
+tags:
+  - action
+  - 3d
+  - winter
+score: 4.3/5  (1041 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: sudoku
 title: Sudoku
+seoTitle: Spiele Sudoku kostenlos online | FiddleBops
 description: >-
   Sudoku ist der Klassiker unter den Zahlenrätseln: Du füllst ein 9×9‑Gitter mit
   den Ziffern 1–9, sodass jede Zahl in jeder Zeile, Spalte und jedem 3×3‑Block
   genau einmal vorkommt – ein reines Logikpuzzle ohne Rechnen.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/html5-sudoku/'
 thumbnail: /new-images/thumbnails/sudoku.jpg
+urlstr: sudoku
 tags:
   - puzzle
   - logic

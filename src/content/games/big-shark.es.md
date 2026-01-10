@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: big-shark
 title: Big Shark come o sé comido
+seoTitle: Juega a Big Shark come o sé comido en línea gratis | FiddleBops
 description: >-
   Big Shark es un juego de acción y supervivencia submarina en 2D. Controla a un
   tiburón, come para crecer, evita peligros como tiburones más grandes y minas y
   consigue la máxima puntuación del océano.
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/big-shark/'
 thumbnail: /new-images/thumbnails/big-shark.jpg
+urlstr: big-shark
 tags:
   - casual
   - action

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: monopoly
 title: MONOPOLY
+seoTitle: Spiele MONOPOLY kostenlos online | FiddleBops
 description: >-
   Monopoly ist der klassische Immobilien-Brettspiel-Hit: Kaufe, vermiete und
   verkaufe Straßen mit dem Ziel, deine Mitspieler in den Bankrott zu treiben und
   als reichste Person zu gewinnen.
 iframeSrc: 'https://w8.snokido.com/games/html5/monopoly/index.html'
 thumbnail: /new-images/thumbnails/monopoly.jpg
+urlstr: monopoly
 tags:
   - board game
   - strategy

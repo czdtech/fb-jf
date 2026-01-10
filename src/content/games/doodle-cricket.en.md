@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Doodle Cricket"
-description: "Doodle Cricket is a casual cricket mini‑game: time your swings to score runs while avoiding outs."
-iframeSrc: "https://f3.silvergames.com/m/doodle-cricket/"
+title: Doodle Cricket
+seoTitle: Play Doodle Cricket Online Free | FiddleBops
+description: >-
+  Doodle Cricket is a casual cricket mini‑game: time your swings to score runs
+  while avoiding outs.
+iframeSrc: 'https://f3.silvergames.com/m/doodle-cricket/'
 thumbnail: /new-images/thumbnails/doodle-cricket.jpg
-urlstr: "doodle-cricket"
-score: "4.2/5  (485 votes)"
-tags: ["sports", "arcade"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: doodle-cricket
+tags:
+  - sports
+  - arcade
+score: 4.2/5  (485 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

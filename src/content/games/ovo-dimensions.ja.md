@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Ovo Dimensions
+seoTitle: 無料でOvo Dimensionsをオンラインでプレイ | FiddleBops
 description: Ovo Dimensionsは次元切り替え要素のあるプラットフォーマーです。次元を切り替えて障害物を越え、パズルを解きながら進みます。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221219/8/index.html
 thumbnail: /new-images/thumbnails/ovo-dimensions.jpg
 urlstr: ovo-dimensions
-score: 4.9/5  (278 votes)
 tags:
   - action
   - platformer
   - thinky
+score: 4.9/5  (278 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

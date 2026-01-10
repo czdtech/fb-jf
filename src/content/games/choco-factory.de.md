@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: choco-factory
-title: "Choco Factory"
+title: Choco Factory
+seoTitle: Spiele Choco Factory kostenlos online | FiddleBops
 description: >-
   Leite deine eigene Schokoladenfabrik in diesem entspannten Casual-Game.
   Produziere leckere Pralinen, erfülle Bestellungen und baue dir Schritt für
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/0aJSAnXwHyEMfhVW/rvvASMiM/dae161e33a524a85af8ca53ea2f71865/
 thumbnail: /new-images/thumbnails/choco-factory.jpg
+urlstr: choco-factory
 tags:
   - casual
 score: 4.1/5  (915 votes)

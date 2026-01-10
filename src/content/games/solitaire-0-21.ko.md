@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: solitaire-0-21
 title: Solitaire 0-21 솔리테어 0-21
+seoTitle: Solitaire 0-21 솔리테어 0-21 무료 온라인 플레이 | FiddleBops
 description: >-
   0에서 21 사이의 합을 유지하도록 카드를 배치하는 수학 변형 솔리테어 게임입니다. 각 줄의 합을 조절하며 위험과 보상을 적절히 관리해
   보세요.
 iframeSrc: 'https://4hcssrsmrpvv0.h5games.usercontent.goog/v/2oipnrim9ar08/'
 thumbnail: /new-images/thumbnails/solitaire-0-21.png
+urlstr: solitaire-0-21
 tags:
   - card
   - puzzle

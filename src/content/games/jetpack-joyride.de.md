@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: jetpack-joyride
 title: Jetpack Joyride
+seoTitle: Spiele Jetpack Joyride kostenlos online | FiddleBops
 description: >-
   Seitlich scrollender Runner mit Gadgets: Weiche Stromzappern und Raketen aus,
   schnapp dir Fahrzeuge und Münzreihen und erfülle Missionen, um Upgrades
   freizuschalten.
 iframeSrc: 'https://slope-game.github.io/rungame/jetpack-joyride/'
 thumbnail: /new-images/thumbnails/jetpack-joyride.jpg
+urlstr: jetpack-joyride
 tags:
   - runner
   - arcade

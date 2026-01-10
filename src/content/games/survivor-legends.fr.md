@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: survivor-legends
 title: Survivor Legends
+seoTitle: Jouez à Survivor Legends en ligne gratuitement | FiddleBops
 description: >-
   Survivor Legends est un horde‑survivor : tourne en kite, choisis des synergies
   d’armes/passifs et découpe des vagues entières en gérant tes temps de recharge
   et ton positionnement.
 iframeSrc: 'https://244mb60l209a8.h5games.usercontent.goog/v/1koih6fev3le8/'
 thumbnail: /new-images/thumbnails/survivor-legends.png
+urlstr: survivor-legends
 tags:
   - action
   - shooting

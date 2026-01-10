@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: blockdrop
 title: BlockDrop
+seoTitle: Jouez à BlockDrop en ligne gratuitement | FiddleBops
 description: "BlockDrop est un puzzle 10×10 relaxant\_: fais glisser des blocs sur la grille pour compléter des lignes et tenir le plus longtemps possible sans te retrouver à court de mouvements."
 iframeSrc: 'https://51vi4vae20f8o.h5games.usercontent.goog/v/66bqinuuh36b8/'
 thumbnail: /new-images/thumbnails/blockdrop.png
+urlstr: blockdrop
 tags:
   - puzzle
   - thinky

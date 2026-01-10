@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: super-smash-flash
 title: Super Smash Flash
+seoTitle: Juega a Super Smash Flash en línea gratis | FiddleBops
 description: >-
   Vive el clásico fangame de lucha Super Smash Flash. Elige entre un plantel de
   personajes icónicos de videojuegos y enfréntate en arenas de plataformas. Tu
@@ -9,6 +9,7 @@ description: >-
   de daño. Domina los movimientos de tu personaje para ganar.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/super-smash-flash.html'
 thumbnail: /new-images/thumbnails/super-smash-flash.jpg
+urlstr: super-smash-flash
 tags:
   - fighting
   - platformer

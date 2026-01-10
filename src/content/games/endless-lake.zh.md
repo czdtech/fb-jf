@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: endless-lake
 title: Endless Lake 无尽湖跑酷
+seoTitle: 免费在线玩 Endless Lake 无尽湖跑酷 | FiddleBops
 description: 你能跑多远？在《Endless Lake》这款极简风无尽跑酷中测试你的反应力—— 点击跳跃、空中二段跳，跨越一个又一个危险断桥。
 iframeSrc: 'https://3llnkqqmic17g.h5games.usercontent.goog/v/0e8uaqritcs8o/'
 thumbnail: /new-images/thumbnails/endless-lake.png
+urlstr: endless-lake
 tags:
   - action
   - casual

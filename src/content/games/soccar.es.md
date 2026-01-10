@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: soccar
 title: SocCar
+seoTitle: Juega a SocCar en línea gratis | FiddleBops
 description: >-
   Súbete al volante en SocCar, un juego de acción que mezcla la emoción del
   fútbol con la potencia de los coches. Conduce por el campo, embiste la pelota
@@ -9,6 +9,7 @@ description: >-
   para ganar el partido.
 iframeSrc: 'https://ubg77.github.io/edit/soccar/'
 thumbnail: /new-images/thumbnails/soccar.jpg
+urlstr: soccar
 tags:
   - sports
   - cars

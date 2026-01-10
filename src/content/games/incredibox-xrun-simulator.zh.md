@@ -1,10 +1,13 @@
 ---
 locale: zh
-urlstr: incredibox-xrun-simulator
-title: "Incredibox Xrun Simulator - 在线玩 Incredibox Xrun Simulator"
-description: "探索 Incredibox Xrun Simulator，这款高能量的粉丝 Mod。本指南详细介绍了其 EDM 和 Dubstep 主题、基于网格的玩法，并提供创作激烈电子混音和循环的技巧。"
+title: Incredibox Xrun Simulator
+seoTitle: 免费在线玩 Incredibox Xrun Simulator | FiddleBops
+description: >-
+  探索 Incredibox Xrun Simulator，这款高能量的粉丝 Mod。本指南详细介绍了其 EDM 和 Dubstep
+  主题、基于网格的玩法，并提供创作激烈电子混音和循环的技巧。
 iframeSrc: 'https://turbowarp.org/740478297/embed'
 thumbnail: /new-images/thumbnails/incredibox-xrun-simulator.png
+urlstr: incredibox-xrun-simulator
 tags:
   - music
   - electronic

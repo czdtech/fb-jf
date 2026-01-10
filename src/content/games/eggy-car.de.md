@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: eggy-car
 title: Eggy Car
+seoTitle: Spiele Eggy Car kostenlos online | FiddleBops
 description: >-
   Eggy Car ist ein physikbasiertes Fahrspiel: Transportiere ein zerbrechliches
   Ei auf deinem Auto über Hügel und Täler, ohne es herunterfallen zu lassen.
 iframeSrc: 'https://webglmath.github.io/eggy-car/'
 thumbnail: /new-images/thumbnails/eggy-car.jpg
+urlstr: eggy-car
 tags:
   - driving
   - physics

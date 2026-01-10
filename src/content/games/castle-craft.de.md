@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: castle-craft
 title: Castle Craft
+seoTitle: Spiele Castle Craft kostenlos online | FiddleBops
 description: >-
   Brich in Castle Craft zu einem Merge-und-Bau-Abenteuer auf. Kombiniere Items,
   sammle Ressourcen, erfülle Quests und verwandle deinen kleinen Garten nach und
   nach in ein großes mittelalterliches Königreich.
 iframeSrc: 'https://1hjdl8ff4msl0.h5games.usercontent.goog/v/2mn9n3pfbrrtg/'
 thumbnail: /new-images/thumbnails/castle-craft.png
+urlstr: castle-craft
 tags:
   - puzzle
   - casual

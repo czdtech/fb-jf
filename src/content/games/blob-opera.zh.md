@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: blob-opera
-title: "Blob Opera 歌剧团果冻"
+title: Blob Opera 歌剧团果冻
+seoTitle: 免费在线玩 Blob Opera 歌剧团果冻 | FiddleBops
 description: >-
   《Blob Opera 歌剧团果冻》是 Google 开发的交互式音乐实验，拖动四个软萌果冻小人，就能实时生成和声华丽的歌剧
   演唱，不需要任何乐理基础也能即兴创作属于自己的作品。
 iframeSrc: 'https://gacembed.withgoogle.com/blob-opera/'
 thumbnail: /new-images/thumbnails/blob-opera.jpg
+urlstr: blob-opera
 tags:
   - music
   - casual

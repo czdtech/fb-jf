@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: fairyland
 title: Fairyland 페어리랜드
+seoTitle: Fairyland 페어리랜드 무료 온라인 플레이 | FiddleBops
 description: >-
   아기자기한 동화 풍 장면을 탐험하며 가벼운 퍼즐을 푸는 어드벤처 게임입니다. 숨은 물건을 찾고 스위치를 작동시켜 천천히 목표를 완수해
   보세요.
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
 thumbnail: /new-images/thumbnails/fairyland.png
+urlstr: fairyland
 tags:
   - adventure
   - puzzle

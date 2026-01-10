@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: dumb-ways-to-die
 title: Dumb Ways to Die 蠢蠢的死法迷你游戏合集
+seoTitle: 免费在线玩 Dumb Ways to Die 蠢蠢的死法迷你游戏合集 | FiddleBops
 description: Dumb Ways to Die 是一款节奏飞快的反应力迷你游戏合集，你要在极短时间内完成 一连串安全主题的小挑战，才能让那些呆萌角色活下来。
 iframeSrc: 'https://html5.iclouds.io/dumb-ways-die/'
 thumbnail: /new-images/thumbnails/dumb-ways-to-die.jpg
+urlstr: dumb-ways-to-die
 tags:
   - arcade
   - minigames

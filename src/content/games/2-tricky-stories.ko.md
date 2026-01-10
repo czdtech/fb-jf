@@ -1,13 +1,13 @@
 ---
 locale: ko
-urlstr: 2-tricky-stories
 title: 'Brain Test 2: Tricky Stories 브레인 테스트 2: 트리키 스토리즈'
+seoTitle: 'Brain Test 2: Tricky Stories 브레인 테스트 2: 트리키 스토리즈 무료 온라인 플레이 | FiddleBops'
 description: >-
-  기발한 스토리와 함께 상식을 깨는 문제들을 풀어 보는 두뇌 퍼즐 게임
-  Brain Test 2: Tricky Stories입니다. 다양한 캐릭터의 에피소드를 따라가며
-  창의력을 시험해 보세요.
+  기발한 스토리와 함께 상식을 깨는 문제들을 풀어 보는 두뇌 퍼즐 게임 Brain Test 2: Tricky Stories입니다. 다양한
+  캐릭터의 에피소드를 따라가며 창의력을 시험해 보세요.
 iframeSrc: 'https://bitlifeonline.github.io/brain-test-2-tricky-stories/'
 thumbnail: /new-images/thumbnails/2-tricky-stories.jpg
+urlstr: 2-tricky-stories
 tags:
   - casual
   - rhythm

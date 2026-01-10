@@ -1,17 +1,17 @@
 ---
 locale: ko
-urlstr: sprunki-minecraft
-title: 'Sprunki Minecraft 스프룽키 마인크래프트'
+title: Sprunki Minecraft 스프룽키 마인크래프트
+seoTitle: Sprunki Minecraft 스프룽키 마인크래프트 무료 온라인 플레이 | FiddleBops
 description: >-
-  Sprunki Minecraft는 블록을 쌓는 행위 자체를 리듬과 연결한 샌드박스 음악
-  콘셉트 게임입니다. 블록을 배치하고 광물을 캐는 모든 행동이 음악의 박자와
-  맞물리며, 건축과 작곡을 동시에 즐길 수 있습니다.
+  Sprunki Minecraft는 블록을 쌓는 행위 자체를 리듬과 연결한 샌드박스 음악 콘셉트 게임입니다. 블록을 배치하고 광물을 캐는 모든
+  행동이 음악의 박자와 맞물리며, 건축과 작곡을 동시에 즐길 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1140459751/embed'
 thumbnail: /new-images/thumbnails/sprunki-minecraft.png
+urlstr: sprunki-minecraft
 tags:
   - sprunki minecraft
 score: 4.0/5  (212 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

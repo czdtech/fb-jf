@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: idle-explorers
 title: 《Idle Explorers》放置探险队
+seoTitle: 免费在线玩 《Idle Explorers》放置探险队 | FiddleBops
 description: 在《Idle Explorers》中，你要经营一支挖掘探险队，从一条简陋矿井起步，不断升级工人、开辟新矿区、雇佣管理者自动化流程，打造跨世界的挖掘帝国。
 iframeSrc: 'https://5ik68qrla8g6g.h5games.usercontent.goog/v/1vuib5ibuof0g/'
 thumbnail: /new-images/thumbnails/idle-explorers.png
+urlstr: idle-explorers
 tags:
   - casual
   - clicker

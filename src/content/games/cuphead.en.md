@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Cuphead"
-description: "Cuphead is a fast‑paced run‑and‑gun: master precise jumps, dashes, and boss patterns to survive intense fights."
-iframeSrc: "https://bitlifeonline.github.io/cuphead/"
+title: Cuphead
+seoTitle: Play Cuphead Online Free | FiddleBops
+description: >-
+  Cuphead is a fast‑paced run‑and‑gun: master precise jumps, dashes, and boss
+  patterns to survive intense fights.
+iframeSrc: 'https://bitlifeonline.github.io/cuphead/'
 thumbnail: /new-images/thumbnails/cuphead.jpg
-urlstr: "cuphead"
-score: "4.0/5  (957 votes)"
-tags: ["action", "platformer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: cuphead
+tags:
+  - action
+  - platformer
+score: 4.0/5  (957 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: hobo
 title: Hobo 호보 난투 액션
+seoTitle: Hobo 호보 난투 액션 무료 온라인 플레이 | FiddleBops
 description: >-
   과장된 폭력과 막 나가는 유머로 유명한 횡스크롤 벨트스크롤 액션 게임입니다. 거리마다 등장하는 적들을 즉흥 무기와 콤보, 기상천외한 스페셜
   공격으로 쓰러뜨리며 스테이지를 돌파하세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/hobo.html'
 thumbnail: /new-images/thumbnails/hobo.jpg
+urlstr: hobo
 tags:
   - fighting
   - beat-em-up

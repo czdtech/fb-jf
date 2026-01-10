@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Domino Battle ドミノ・バトル
+seoTitle: 無料でDomino Battle ドミノ・バトルをオンラインでプレイ | FiddleBops
 description: 「Domino Battle」は正統派のドミノ対戦ゲーム。戦略的に牌を配置し、相手をブロックして、誰よりも早く手牌を使い切ろう。
 iframeSrc: 'https://dominobattle.h5games.usercontent.goog/v/45fvkhcnai3s0/'
 thumbnail: /new-images/thumbnails/domino-battle.png
 urlstr: domino-battle
-score: 4.5/5  (2700 votes)
 tags:
   - card
   - puzzle
   - thinky
+score: 4.5/5  (2700 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: polymatch
 title: PolyMatch
+seoTitle: Spiele PolyMatch kostenlos online | FiddleBops
 description: >-
   Tauche ein in die bunte Welt von PolyMatch! Ein kniffliges Puzzlespiel, in dem
   du Kacheln mit gleichen Motiven sammelst und kombinierst, ohne dass dein
   Ablagebereich überläuft.
 iframeSrc: 'https://4h72h3ha1dnh0.h5games.usercontent.goog/v/4mrusdmqik1l8/'
 thumbnail: /new-images/thumbnails/polymatch.png
+urlstr: polymatch
 tags:
   - puzzle
   - thinky

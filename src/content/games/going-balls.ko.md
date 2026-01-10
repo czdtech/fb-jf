@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: going-balls
 title: Going Balls 3D 구슬 러너
+seoTitle: Going Balls 3D 구슬 러너 무료 온라인 플레이 | FiddleBops
 description: >-
   좁은 길 위를 구슬을 굴리며 장애물을 피해 나가는 3D 러너 게임입니다. 빔과 함정, 움직이는 발판을 균형 있게 통과해 떨어지지 않고 골인
   지점에 도달하세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231116/10/index.htm
 thumbnail: /new-images/thumbnails/going-balls.jpg
+urlstr: going-balls
 tags:
   - runner
   - balance

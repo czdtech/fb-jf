@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: paper-io
 title: Paper io 페이퍼 아이오
+seoTitle: Paper io 페이퍼 아이오 무료 온라인 플레이 | FiddleBops
 description: >-
   온라인에서 다른 플레이어와 영토를 두고 겨루는 영역 점령 게임입니다. 색깔 블록을 움직여 선을 그려 영역을 넓히고, 상대의 선을 끊어 제거해
   최후까지 살아남으세요.
 iframeSrc: 'https://mathgames66.github.io/games/html5/paperio2/'
 thumbnail: /new-images/thumbnails/paper-io.jpg
+urlstr: paper-io
 tags:
   - multiplayer
   - strategy

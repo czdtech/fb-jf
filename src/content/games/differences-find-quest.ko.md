@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: differences-find-quest
 title: Differences Find Quest 틀린 그림 찾기 퀘스트
+seoTitle: Differences Find Quest 틀린 그림 찾기 퀘스트 무료 온라인 플레이 | FiddleBops
 description: '두 장의 그림을 비교해 다른 점을 찾아내는 퍼즐 게임입니다. 섬세한 차이를 발견하고, 힌트를 아껴 쓰며 모든 차이를 찾아 보세요.'
 iframeSrc: 'https://4rsldln0df32g.h5games.usercontent.goog/v/1hcmcbpl76s40/'
 thumbnail: /new-images/thumbnails/differences-find-quest.png
+urlstr: differences-find-quest
 tags:
   - puzzle
   - thinky

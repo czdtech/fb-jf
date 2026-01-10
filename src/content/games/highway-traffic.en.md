@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Highway Traffic"
-description: "First‑person lane‑splitter: weave through highway cars, complete missions, and earn cash for vehicles and upgrades." 
-iframeSrc: "https://app-97317.games.s3.yandex.net/97317/zr27uqx4qauq31fg2ud41a7oye9c4dki/index.html"
+title: Highway Traffic
+seoTitle: Play Highway Traffic Online Free | FiddleBops
+description: >-
+  First‑person lane‑splitter: weave through highway cars, complete missions, and
+  earn cash for vehicles and upgrades.
+iframeSrc: >-
+  https://app-97317.games.s3.yandex.net/97317/zr27uqx4qauq31fg2ud41a7oye9c4dki/index.html
 thumbnail: /new-images/thumbnails/highway-traffic.jpg
-urlstr: "highway-traffic"
-score: "4.5/5  (188 votes)"
-tags: ["driving", "traffic"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: highway-traffic
+tags:
+  - driving
+  - traffic
+score: 4.5/5  (188 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

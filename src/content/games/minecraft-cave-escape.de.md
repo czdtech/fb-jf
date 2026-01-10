@@ -1,17 +1,18 @@
 ---
 locale: de
-urlstr: minecraft-cave-escape
-title: "Minecraft Cave Escape - Play Minecraft Cave Escape Online"
+title: Minecraft Cave Escape
+seoTitle: Spiele Minecraft Cave Escape kostenlos online | FiddleBops
 description: >-
   In Minecraft Cave Escape sitzt du in einer Höhle fest und hast keine
-  Materialien, um hinauszugelangen. Klettere an herabfallenden Blöcken nach
-  oben – aber lass sie nicht auf dich stürzen!
+  Materialien, um hinauszugelangen. Klettere an herabfallenden Blöcken nach oben
+  – aber lass sie nicht auf dich stürzen!
 iframeSrc: 'https://turbowarp.org/1189417610/embed'
 thumbnail: /new-images/thumbnails/minecraft-cave-escape.png
+urlstr: minecraft-cave-escape
 tags:
   - minecraft cave escape
 score: 4.7/5  (354 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

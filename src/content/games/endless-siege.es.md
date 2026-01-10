@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: endless-siege
 title: Endless Siege
+seoTitle: Juega a Endless Siege en línea gratis | FiddleBops
 description: >-
   Endless Siege es un tower defense infinito contra oleadas de orcos: coloca y
   mejora cañones, ballestas y torres de apoyo para aguantar lo máximo posible en
   un mapa nuevo y desafiante cada día.
 iframeSrc: 'https://endlessseige.h5games.usercontent.goog/v/35nvlvatb9t8g/'
 thumbnail: /new-images/thumbnails/endless-siege.jpg
+urlstr: endless-siege
 tags:
   - tower Defense
   - strategy

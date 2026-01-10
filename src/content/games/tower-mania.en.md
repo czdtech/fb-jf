@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Tower Mania"
-description: "Build the tallest tower in Tower Mania! Carefully stack blocks to reach for the sky, but watch out for wobbles and toppling structures."
-iframeSrc: "https://49pvu1mm0ofc0.h5games.usercontent.goog/v/4apam1d97c7mo/"
-urlstr: "tower-mania"
+title: Tower Mania
+seoTitle: Play Tower Mania Online Free | FiddleBops
+description: >-
+  Build the tallest tower in Tower Mania! Carefully stack blocks to reach for
+  the sky, but watch out for wobbles and toppling structures.
+iframeSrc: 'https://49pvu1mm0ofc0.h5games.usercontent.goog/v/4apam1d97c7mo/'
 thumbnail: /new-images/thumbnails/tower-mania.png
-score: "4.2/5  (1850 votes)"
-tags: ["casual", "puzzle", "action"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: tower-mania
+tags:
+  - casual
+  - puzzle
+  - action
+score: 4.2/5  (1850 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

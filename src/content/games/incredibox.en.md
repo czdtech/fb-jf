@@ -1,6 +1,7 @@
 ---
 locale: en
-title: Incredibox - Play Incredibox Online
+title: Incredibox
+seoTitle: Play Incredibox Online Free | FiddleBops
 description: >-
   Want to create your own exclusive hit song with a group of quirky beatboxers?
   Incredibox can make your dream come true! This game is part game, part music
@@ -8,13 +9,13 @@ description: >-
 iframeSrc: 'https://nom74100.github.io/in-box/'
 thumbnail: /new-images/thumbnails/incredibox.png
 urlstr: incredibox
-sidebarNew: 4
-modType: incredibox
-score: 4.9/5  (724 votes)
 tags:
   - incredibox
   - incredibox online
   - music
+modType: incredibox
+sidebarNew: 4
+score: 4.9/5  (724 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

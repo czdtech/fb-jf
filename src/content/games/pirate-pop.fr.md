@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: pirate-pop
 title: Pirate Pop
+seoTitle: Jouez à Pirate Pop en ligne gratuitement | FiddleBops
 description: "Pirate Pop est un bubble shooter à thème pirate\_: vise les bulles, forme des groupes de couleur et fais tomber des blocs pour nettoyer le ciel des mers."
 iframeSrc: 'https://piratepop.h5games.usercontent.goog/v/3japc2shd35ug/'
 thumbnail: /new-images/thumbnails/pirate-pop.png
+urlstr: pirate-pop
 tags:
   - puzzle
   - casual

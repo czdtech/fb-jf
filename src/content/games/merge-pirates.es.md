@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: merge-pirates
-title: Merge Pirates - Funde cañones y levanta tu flota pirata
+title: Merge Pirates
+seoTitle: Juega a Merge Pirates en línea gratis | FiddleBops
 description: >-
   ¡Al abordaje, capitán! Fusiona cañones, barcos y equipo pirata para construir
   una flota temible. Completa pedidos, gana oro y conviértete en la leyenda más
   temida de los siete mares en este adictivo puzle de merges.
 iframeSrc: 'https://mergepirates.h5games.usercontent.goog/v/2rugbh8p4845g/'
 thumbnail: /new-images/thumbnails/merge-pirates.png
+urlstr: merge-pirates
 tags:
   - puzzle
   - casual

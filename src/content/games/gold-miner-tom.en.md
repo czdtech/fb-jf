@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Gold Miner Tom"
-description: "Help Tom get rich! A classic gold miner game where you cast your claw to grab gold nuggets, gems, and other treasures. Reach the level goal before time runs out!"
-iframeSrc: "https://goldminertom.h5games.usercontent.goog/v/5l8d724in1pco/"
+title: Gold Miner Tom
+seoTitle: Play Gold Miner Tom Online Free | FiddleBops
+description: >-
+  Help Tom get rich! A classic gold miner game where you cast your claw to grab
+  gold nuggets, gems, and other treasures. Reach the level goal before time runs
+  out!
+iframeSrc: 'https://goldminertom.h5games.usercontent.goog/v/5l8d724in1pco/'
 thumbnail: /new-images/thumbnails/gold-miner-tom.png
-urlstr: "gold-miner-tom"
-score: "4.3/5  (2200 votes)"
-tags: ["action", "casual", "clicker"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: gold-miner-tom
+tags:
+  - action
+  - casual
+  - clicker
+score: 4.3/5  (2200 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: getaway-shootout
 title: Getaway Shootout
+seoTitle: Juega a Getaway Shootout en línea gratis | FiddleBops
 description: >-
   Carrera y disparos con físicas caóticas: salta a golpes hasta el punto de
   huida, recoge armas disparatadas y supera a tus rivales en solitario o en modo
   2 jugadores.
 iframeSrc: 'https://ubg44.github.io/GetawayShootout/'
 thumbnail: /new-images/thumbnails/getaway-shootout.jpg
+urlstr: getaway-shootout
 tags:
   - action
   - multiplayer

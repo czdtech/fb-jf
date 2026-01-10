@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: stealing-the-diamond
 title: Stealing The Diamond 스틸링 더 다이아몬드
+seoTitle: Stealing The Diamond 스틸링 더 다이아몬드 무료 온라인 플레이 | FiddleBops
 description: >-
   Stealing the Diamond는 Henry Stickmin 시리즈의 인터랙티브 어드벤처 게임으로, 주인공 헨리가 경비가 삼엄한
   박물관에 침입해 거대한 다이아몬드를 훔치는 이야기를 다룹니다. 각 선택에 따라 서로 다른 웃픈 결말이 펼쳐집니다.
 iframeSrc: 'https://bitlifeonline.github.io/stealing-the-diamond/'
 thumbnail: /new-images/thumbnails/stealing-the-diamond.jpg
+urlstr: stealing-the-diamond
 tags:
   - adventure
   - funny

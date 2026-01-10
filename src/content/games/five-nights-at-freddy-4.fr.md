@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: five-nights-at-freddy-4
 title: Five Nights at Freddy's 4 (FNAF 4)
+seoTitle: Jouez à Five Nights at Freddy's 4 (FNAF 4) en ligne gratuitement | FiddleBops
 description: >-
   Survie cauchemardesque dans une chambre : écoute la respiration, gère portes
   et placard, et utilise ta lampe torche avec prudence pour tenir les terreurs
   nocturnes à distance.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf4.html'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-4.jpg
+urlstr: five-nights-at-freddy-4
 tags:
   - horror
   - strategy

@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: bee-connect
-title: 'Bee Connect 비 커넥트'
+title: Bee Connect 비 커넥트
+seoTitle: Bee Connect 비 커넥트 무료 온라인 플레이 | FiddleBops
 description: >-
-  육각 벌집 판 위에서 숫자 타일을 움직여 같은 숫자 네 개 이상을 이어 합치는
-  퍼즐 게임입니다. 한 수 한 수를 아껴 두며 높은 숫자를 만들어 보세요.
+  육각 벌집 판 위에서 숫자 타일을 움직여 같은 숫자 네 개 이상을 이어 합치는 퍼즐 게임입니다. 한 수 한 수를 아껴 두며 높은 숫자를
+  만들어 보세요.
 iframeSrc: >-
   https://beeconnect.h5games.usercontent.goog/v/06c7e297-3e6d-4512-9fb2-e491ae2b2fb9/
 thumbnail: /new-images/thumbnails/bee-connect.jpg
+urlstr: bee-connect
 tags:
   - puzzle
   - casual

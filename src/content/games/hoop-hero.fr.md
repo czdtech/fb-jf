@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: hoop-hero
 title: Hoop Hero
+seoTitle: Jouez à Hoop Hero en ligne gratuitement | FiddleBops
 description: >-
   Appuie au bon moment pour dunker ! Jeu de basket one‑tap nerveux où tu
   enchaînes les paniers pour battre ton record.
 iframeSrc: 'https://06f80rna6d2sg.h5games.usercontent.goog/v/69kffdfih87r0/'
 thumbnail: /new-images/thumbnails/hoop-hero.png
+urlstr: hoop-hero
 tags:
   - action
   - casual

@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Merge Defenders
+seoTitle: 無料でMerge Defendersをオンラインでプレイ | FiddleBops
 description: Merge Defendersはマージ要素のあるタワーディフェンスです。ユニットを合体させて強化し、敵のウェーブをしのぎます。
 iframeSrc: 'https://5c1j2nn9b0q4o.h5games.usercontent.goog/v/20drsjkant5s8/'
 thumbnail: /new-images/thumbnails/merge-defenders.png
 urlstr: merge-defenders
-score: 4.4/5  (2250 votes)
 tags:
   - tower-defense
   - strategy
   - casual
+score: 4.4/5  (2250 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: color-roll-3d
 title: Color Roll 3D
+seoTitle: Jouez à Color Roll 3D en ligne gratuitement | FiddleBops
 description: "Color Roll 3D est un puzzle de rouleaux colorés\_: déroule les bandes dans le bon ordre pour reconstituer le motif cible sans chevauchements inutiles."
 iframeSrc: 'https://63vakb2ehqof8.h5games.usercontent.goog/v/381au2qko6no0/'
 thumbnail: /new-images/thumbnails/color-roll-3d.png
+urlstr: color-roll-3d
 tags:
   - puzzle
   - thinky

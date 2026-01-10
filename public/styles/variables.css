@@ -1,130 +1,195 @@
 /**
- * CSS Custom Properties (Design Tokens)
+ * CSS Custom Properties (Design Tokens) - FiddleBops Theme Applied
  * 
- * This file defines the design system variables for the FiddleBops website.
- * All colors, spacing, typography, and other design tokens are centralized here.
+ * Mapped from fiddlebops-frontend design system.
+ * Dark Mode with Pink Glow accent.
  */
 
 :root {
   /* ===========================================
-   * COLOR PALETTE
+   * COLOR PALETTE - DARK MODE
    * =========================================== */
 
-  /* Primary Colors - Orange theme */
-  --color-primary: #ff9800;
-  --color-primary-light: #ffb74d;
-  --color-primary-dark: #f57c00;
-  --color-primary-darker: #e65100;
+  /* Core Backgrounds */
+  --color-bg-primary: #0a0a0a;    /* Main background */
+  --color-bg-card: #111111;       /* Cards */
+  --color-bg-light: #1a1a1a;      /* Elevated surfaces */
+  --color-bg-white: #111111;      /* Legacy compatibility (now dark) */
+  --color-bg-gray: #1a1a1a;       /* Alt surfaces */
+  --color-bg-dark: #050505;       /* Darker elements */
 
-  /* Secondary Colors - Deep orange/red accents */
-  --color-secondary: #ff7043;
-  --color-secondary-dark: #e64a19;
-  --color-accent-red: #ef5350;
-  --color-accent-red-dark: #c62828;
+  /* Primary Colors - Pink Glow Theme */
+  --color-primary: #ff6b9d;
+  --color-primary-light: #ff8cb2;
+  --color-primary-dark: #e64e82;
+  --color-primary-darker: #c93870;
+
+  /* Secondary Colors */
+  --color-secondary: #ff6b9d;
+  --color-secondary-dark: #e64e82;
+  --color-accent-red: #ef4444;
+  --color-accent-red-dark: #dc2626;
 
   /* Success/Action Colors */
-  --color-success: #4caf50;
-  --color-success-dark: #388e3c;
-
-  /* Background Colors */
-  --color-bg-primary: #364869;
-  --color-bg-light: #fff8e1;
-  --color-bg-white: #fff;
-  --color-bg-gray: #f3f3f3;
-  --color-bg-card: #fcfcfc;
-  --color-bg-dark: #35466a;
+  --color-success: #22c55e;
+  --color-success-dark: #16a34a;
 
   /* Text Colors */
-  --color-text-primary: #333;
-  --color-text-dark: #212121;
-  --color-text-gray: #424242;
-  --color-text-muted: #757575;
-  --color-text-light: #ccc;
-  --color-text-white: #fff;
+  --color-text-primary: #ffffff;
+  --color-text-dark: #ffffff;     /* Legacy compatibility */
+  --color-text-gray: #a0a0a0;
+  --color-text-muted: #a0a0a0;
+  --color-text-light: #ffffff;
+  --color-text-white: #ffffff;
 
   /* Link Colors */
-  --color-link: orange;
-  --color-link-hover: #333;
-  --color-link-footer-hover: #ffc107;
+  --color-link: #ff6b9d;
+  --color-link-hover: #ff8cb2;
+  --color-link-footer-hover: #ff6b9d;
 
   /* Border Colors */
-  --color-border: #ddd;
-  --color-border-light: #eee;
+  --color-border: #222222;
+  --color-border-light: #333333;
 
   /* Overlay Colors */
-  --color-overlay: rgba(0, 0, 0, 0.6);
-  --color-overlay-dark: rgba(0, 0, 0, 0.7);
-  --color-overlay-button: rgba(0, 0, 0, 0.5);
-  --color-nav-overlay: rgba(54, 72, 105, 0.95);
+  --color-overlay: rgba(0, 0, 0, 0.7);
+  --color-overlay-dark: rgba(0, 0, 0, 0.85);
+  --color-overlay-button: rgba(255, 107, 157, 0.1);
+  --color-nav-overlay: #0a0a0a;
 
-  /* Shadow Colors */
-  --color-shadow: rgba(0, 0, 0, 0.2);
-  --color-shadow-hover: rgba(0, 0, 0, 0.2);
-  --color-focus-shadow: rgba(255, 152, 0, 0.5);
+  /* ===========================================
+   * GAME GLOW COLORS (Dynamic Theme)
+   * =========================================== */
+
+  /* Default glow color (can be overridden per-game) */
+  --game-glow-color: #ff6b9d;
+
+  /* Multi-color glow palette */
+  --glow-pink: #ff6b9d;
+  --glow-cyan: #00ccff;
+  --glow-yellow: #ffcc00;
+  --glow-green: #66ff66;
+  --glow-purple: #9966ff;
+  --glow-red: #ff4444;
+
+  /* P3: 游戏类型专属颜色标签 */
+  --game-color-action: #ff4444;      /* 动作游戏 - 红色 */
+  --game-color-puzzle: #00ccff;      /* 益智游戏 - 青色 */
+  --game-color-music: #9966ff;       /* 音乐游戏 - 紫色 */
+  --game-color-new: #66ff66;         /* 新游戏标签 - 绿色 */
+  --game-color-hot: #ffcc00;         /* 热门标签 - 黄色 */
+  --game-color-featured: #ff6b9d;    /* 推荐游戏 - 粉色 */
+
+  /* P3: Featured 渐变色 */
+  --gradient-featured: linear-gradient(135deg, #ff6b9d, #9966ff, #00ccff);
+
+  /* Glow color with opacity variants */
+  --glow-color-80: rgba(255, 107, 157, 0.8);
+  --glow-color-50: rgba(255, 107, 157, 0.5);
+  --glow-color-40: rgba(255, 107, 157, 0.4);
+  --glow-color-25: rgba(255, 107, 157, 0.25);
+  --glow-color-20: rgba(255, 107, 157, 0.2);
+
+  /* Legacy alias */
+  --color-glow: var(--game-glow-color);
+
+  /* Shadow & Glow Colors */
+  --color-shadow: rgba(0, 0, 0, 0.5);
+  --color-shadow-hover: rgba(0, 0, 0, 0.6);
+  --color-focus-shadow: rgba(255, 107, 157, 0.5);
 
   /* ===========================================
    * SPACING SCALE
    * =========================================== */
-  --spacing-xs: 5px;
+  --spacing-xs: 4px;
   --spacing-sm: 8px;
-  --spacing-md: 10px;
-  --spacing-lg: 15px;
-  --spacing-xl: 20px;
-  --spacing-2xl: 30px;
-  --spacing-3xl: 50px;
+  --spacing-md: 12px;
+  --spacing-lg: 16px;
+  --spacing-xl: 24px;
+  --spacing-2xl: 32px;
+  --spacing-3xl: 48px;
   --spacing-4xl: 80px;
 
   /* ===========================================
    * TYPOGRAPHY
    * =========================================== */
 
-  /* Font Families */
-  --font-family-primary: "Poppins", sans-serif;
-  --font-family-icons: "Font Awesome 6 Free";
+  /* P2: Gaming Bold Typography - 更有冲击力的游戏网站字体 */
+  /* Chakra Petch: 科技感 body 字体, Russo One: 粗体 display 标题 */
+  --font-family-primary: "Chakra Petch", system-ui, sans-serif;
+  --font-family-display: "Russo One", "Orbitron", system-ui, sans-serif;
+  --font-family-chinese: "Noto Sans SC", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", system-ui, sans-serif;
+  /* Font Awesome removed; keep variable to avoid breaking legacy CSS */
+  --font-family-icons: inherit;
 
   /* Font Sizes */
+  --font-size-micro: 12px;
+  --font-size-caption: 14px;
+  --font-size-body: 16px;
+  --font-size-subhead: 18px;
+  --font-size-heading: 24px;
+  --font-size-display: 36px;
+  
+  /* Legacy aliases */
   --font-size-xs: 0.8em;
-  --font-size-sm: 12px;
-  --font-size-base: 1em;
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
   --font-size-md: 14px;
-  --font-size-lg: 1.2em;
-  --font-size-xl: 1.5em;
-  --font-size-2xl: 2em;
-  --font-size-3xl: 3em;
+  --font-size-lg: 18px;
+  --font-size-xl: 24px;
+  --font-size-2xl: 32px;
+  --font-size-3xl: 48px;
 
   /* Font Weights */
   --font-weight-light: 300;
   --font-weight-normal: 400;
+  --font-weight-medium: 600;
+  --font-weight-semibold: 600;
   --font-weight-bold: 700;
   --font-weight-icon: 900;
 
   /* ===========================================
    * LAYOUT
    * =========================================== */
-  --container-max-width: 1200px;
-  --header-height: auto;
+  --container-max-width: 1400px;
+  --header-height: 60px;
 
   /* ===========================================
    * BORDER RADIUS
    * =========================================== */
-  --radius-sm: 3px;
-  --radius-md: 5px;
-  --radius-lg: 10px;
-  --radius-xl: 15px;
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 20px;
+  --radius-full: 9999px;
 
   /* ===========================================
-   * TRANSITIONS
+   * TRANSITIONS & EASING
    * =========================================== */
-  --transition-fast: 0.2s ease;
-  --transition-normal: 0.3s ease;
+  --duration-fast: 150ms;
+  --duration-normal: 250ms;
+  --duration-slow: 400ms;
+  
+  --easing-default: cubic-bezier(0.4, 0, 0.2, 1);
+  --easing-bounce: cubic-bezier(0.34, 1.56, 0.64, 1);
+  
+  /* Legacy aliases */
+  --transition-fast: var(--duration-fast) var(--easing-default);
+  --transition-normal: var(--duration-normal) var(--easing-default);
+  --transition-slow: var(--duration-slow) var(--easing-default);
 
   /* ===========================================
-   * SHADOWS
+   * SHADOWS & GLOWS
    * =========================================== */
   --shadow-sm: 0 2px 4px var(--color-shadow);
   --shadow-md: 0 6px 16px var(--color-shadow);
-  --shadow-lg: 0 8px 16px var(--color-shadow-hover);
-  --shadow-focus: 0 0 5px var(--color-focus-shadow);
+  --shadow-lg: 0 8px 24px var(--color-shadow);
+  --shadow-focus: 0 0 10px var(--color-focus-shadow);
+  
+  /* Glow shadows (use game-glow-color for dynamic theming) */
+  --shadow-glow-sm: 0 0 20px var(--game-glow-color);
+  --shadow-glow-md: 0 0 40px var(--game-glow-color);
+  --shadow-glow-lg: 0 0 60px var(--game-glow-color);
 
   /* ===========================================
    * Z-INDEX SCALE
@@ -138,14 +203,36 @@
    * ASPECT RATIOS
    * =========================================== */
   --aspect-ratio-video: 16 / 9;
-  --aspect-ratio-thumbnail: 4 / 3;
+  --aspect-ratio-thumbnail: 16 / 9;
+  --aspect-ratio-game: 16 / 9;
+
+  /* ===========================================
+   * SAFE AREA - For notch/rounded corners
+   * Core game elements should be in center 80%
+   * =========================================== */
+  --safe-area-inset-top: env(safe-area-inset-top, 0px);
+  --safe-area-inset-right: env(safe-area-inset-right, 0px);
+  --safe-area-inset-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-area-inset-left: env(safe-area-inset-left, 0px);
+  --game-safe-padding: 10%;  /* 80% center = 10% padding each side */
 
   /* ===========================================
    * GRID
    * =========================================== */
-  --grid-gap: 15px;
-  --grid-min-card: 200px;
-  --grid-min-card-sm: 120px;
-  --grid-min-related: 150px;
-  --grid-min-related-sm: 100px;
+  --grid-gap: 20px;
+  --grid-min-card: 240px;
+  --grid-min-card-sm: 140px;
+  --grid-min-related: 180px;
+  --grid-min-related-sm: 120px;
+
+  /* ===========================================
+   * BREAKPOINTS (Documentation Only)
+   * CSS custom properties cannot be used in @media queries.
+   * These values document the breakpoints used across the site.
+   * When modifying, update all @media queries manually.
+   * =========================================== */
+  /* --breakpoint-xl: 1200px; */  /* Large desktops: category grid 4 cols */
+  /* --breakpoint-lg: 980px;  */  /* Tablets: sidebar collapse, 3 cols */
+  /* --breakpoint-md: 768px;  */  /* Mobile: single column, nav overlay */
+  /* --breakpoint-sm: 480px;  */  /* Small phones: 2 cols max for touch */
 }

@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Hole io"
-description: "City‑swallowing .io brawler: move a black hole to eat objects, grow larger, and outscore or eliminate rivals on the map." 
-iframeSrc: "https://holeio.com/"
+title: Hole io
+seoTitle: Play Hole io Online Free | FiddleBops
+description: >-
+  City‑swallowing .io brawler: move a black hole to eat objects, grow larger,
+  and outscore or eliminate rivals on the map.
+iframeSrc: 'https://holeio.com/'
 thumbnail: /new-images/thumbnails/hole-io.jpg
-urlstr: "hole-io"
-score: "4.0/5  (606 votes)"
-tags: ["io", "arcade"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: hole-io
+tags:
+  - io
+  - arcade
+score: 4.0/5  (606 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

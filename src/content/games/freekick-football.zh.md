@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: freekick-football
 title: Freekick Football 任意球大师
+seoTitle: 免费在线玩 Freekick Football 任意球大师 | FiddleBops
 description: 在 Freekick Football 中专注磨练你的任意球脚法——瞄准、射门、过人墙、破门， 一步步成为任意球专家。
 iframeSrc: 'https://freekickfootball.h5games.usercontent.goog/v/0lqeu7698mvk0/'
 thumbnail: /new-images/thumbnails/freekick-football.png
+urlstr: freekick-football
 tags:
   - soccer
   - sports

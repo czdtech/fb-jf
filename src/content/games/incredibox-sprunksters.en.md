@@ -1,17 +1,18 @@
 ---
 locale: en
-title: Incredibox Sprunksters - Play Incredibox Sprunksters Online
+title: Incredibox Sprunksters
+seoTitle: Play Incredibox Sprunksters Online Free | FiddleBops
 description: >-
   Say goodbye to the same old sounds! Incredibox Sprunksters brings new samples
   and effects to the table, making your music feel unique and creative.
 iframeSrc: 'https://turbowarp.org/1129395199/embed'
 thumbnail: /new-images/thumbnails/incredibox-sprunksters.png
 urlstr: incredibox-sprunksters
-modType: incredibox
-score: 4.3/5  (185 votes)
 tags:
   - incredibox sprunksters
   - music
+modType: incredibox
+score: 4.3/5  (185 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

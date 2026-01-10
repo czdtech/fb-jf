@@ -1,19 +1,20 @@
 ---
+locale: ja
 title: Comfy Farm コンフィ・ファーム
+seoTitle: 無料でComfy Farm コンフィ・ファームをオンラインでプレイ | FiddleBops
 description: >-
   「Comfy
   Farm」へようこそ！種をまき、水をやり、収穫して夢の農場を作ろう。害虫から作物を守り、設備を自動化して、最高の居心地（Comfy）を手に入れろ。
 iframeSrc: 'https://comfyfarm.h5games.usercontent.goog/v/73m7i3ndifhg0/'
 thumbnail: /new-images/thumbnails/comfy-farm.png
 urlstr: comfy-farm
-score: 4.3/5  (2000 votes)
 tags:
   - casual
   - strategy
   - clicker
+score: 4.3/5  (2000 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

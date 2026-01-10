@@ -1,16 +1,17 @@
 ---
 locale: zh
-urlstr: treasure-hunter
 title: 《Treasure Hunter》古墓寻宝者
+seoTitle: 免费在线玩 《Treasure Hunter》古墓寻宝者 | FiddleBops
 description: 《Treasure Hunter》是一款以探险寻宝为主题的动作/解谜游戏。你将深入古遗迹、神秘洞穴和丛林废墟，寻找传说中的宝物并躲避机关与竞争对手。
 iframeSrc: 'https://m.igroutka.ru/g-1/149/TreasureHunter/'
 thumbnail: /new-images/thumbnails/treasure-hunter.jpg
+urlstr: treasure-hunter
 tags:
   - adventure
   - puzzle
   - action
 score: 4.6/5  (1294 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

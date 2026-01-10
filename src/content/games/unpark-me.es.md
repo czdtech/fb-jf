@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: unpark-me
-title: Unpark Me - Desbloquea el aparcamiento
+title: Unpark Me
+seoTitle: Juega a Unpark Me en línea gratis | FiddleBops
 description: >-
   Unpark Me es un clásico puzle de bloques deslizantes con tema de aparcamiento:
   mueve coches y camiones para abrir camino y sacar el coche rojo del
   estacionamiento abarrotado.
 iframeSrc: 'https://unparkme.h5games.usercontent.goog/v/59baoe1o8mbe0/'
 thumbnail: /new-images/thumbnails/unpark-me.png
+urlstr: unpark-me
 tags:
   - puzzle
   - thinky

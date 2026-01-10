@@ -1,15 +1,18 @@
 ---
 locale: fr
-urlstr: fiddlebops-sprunkbop
-title: "Fiddlebops Sprunkbop - Jouer à Fiddlebops Sprunkbop en ligne"
-description: "Fiddlebops Sprunkbop est un crossover musical déjanté : il garde le cœur de création de Fiddlebops tout en l’alliant à l’énergie unique de Sprunki."
+title: Fiddlebops Sprunkbop
+seoTitle: Jouez à Fiddlebops Sprunkbop en ligne gratuitement | FiddleBops
+description: >-
+  Fiddlebops Sprunkbop est un crossover musical déjanté : il garde le cœur de
+  création de Fiddlebops tout en l’alliant à l’énergie unique de Sprunki.
 iframeSrc: 'https://turbowarp.org/1114551059/embed'
 thumbnail: /new-images/thumbnails/fiddlebops-sprunkbop.png
+urlstr: fiddlebops-sprunkbop
 tags:
   - fiddlebops sprunkbop
   - music
 score: 4.1/5  (308 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

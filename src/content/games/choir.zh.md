@@ -1,13 +1,13 @@
 ---
 locale: zh
-urlstr: choir
-title: "Choir Game Blob Opera 合唱实验"
+title: Choir Game Blob Opera 合唱实验
+seoTitle: 免费在线玩 Choir Game Blob Opera 合唱实验 | FiddleBops
 description: >-
   通过这份《Choir Game Blob Opera 合唱实验》指南，深入了解这款风靡网络的合唱互动游
-  戏。掌握基础操作、创作技巧与常见问题解答，在可爱的“胶团”歌手陪伴下，随心所欲创
-  作属于你自己的歌剧作品。
+  戏。掌握基础操作、创作技巧与常见问题解答，在可爱的“胶团”歌手陪伴下，随心所欲创 作属于你自己的歌剧作品。
 iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/choir/04/index.html'
 thumbnail: /new-images/thumbnails/choir.jpg
+urlstr: choir
 tags:
   - casual
   - music

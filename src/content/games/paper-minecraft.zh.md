@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: paper-minecraft
 title: 《Paper Minecraft》纸片版我的世界
+seoTitle: 免费在线玩 《Paper Minecraft》纸片版我的世界 | FiddleBops
 description: >-
   《Paper Minecraft》是人气沙盒游戏《Minecraft》的 2D
   侧视再创作版本，你可以在纸片风格的横版世界中探索、挖矿、合成道具、建造房屋并对抗怪物，体验不一样视角的生存与创造乐趣。
 iframeSrc: 'https://scratch.mit.edu/projects/10128407/embed'
 thumbnail: /new-images/thumbnails/paper-minecraft.jpg
+urlstr: paper-minecraft
 tags:
   - sandbox
   - crafting

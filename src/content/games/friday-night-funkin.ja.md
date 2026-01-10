@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Friday Night Funkin
+seoTitle: 無料でFriday Night Funkinをオンラインでプレイ | FiddleBops
 description: >-
   リズムバトル：ビートに合わせてノーツを叩き、数週間にわたって対戦相手と勝負しましょう。難易度が上がると、より速いパターンや難しいホールド（長押し）が追加されます。
 iframeSrc: 'https://html-classic.itch.zone/html/2876359-1077558/index.html'
 thumbnail: /new-images/thumbnails/friday-night-funkin.jpg
 urlstr: friday-night-funkin
-score: 4.7/5  (542 votes)
 tags:
   - rhythm
   - music
+score: 4.7/5  (542 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

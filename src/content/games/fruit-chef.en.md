@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Fruit Chef"
-description: "Fruit Chef is a swift slice‑’em‑up — chain clean cuts, avoid bombs, and manage tempo for monster combos."
-iframeSrc: "https://419in6alhpp88.h5games.usercontent.goog/v/22nao6drjf7v0/"
+title: Fruit Chef
+seoTitle: Play Fruit Chef Online Free | FiddleBops
+description: >-
+  Fruit Chef is a swift slice‑’em‑up — chain clean cuts, avoid bombs, and manage
+  tempo for monster combos.
+iframeSrc: 'https://419in6alhpp88.h5games.usercontent.goog/v/22nao6drjf7v0/'
 thumbnail: /new-images/thumbnails/fruit-chef.png
-urlstr: "fruit-chef"
-score: "4.1/5  (1948 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: fruit-chef
+tags:
+  - action
+  - casual
+score: 4.1/5  (1948 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

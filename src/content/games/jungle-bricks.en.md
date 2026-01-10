@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Jungle Bricks"
-description: "Aim and shoot to clear the board in Jungle Bricks! A vibrant brick-breaker game where you must strategically destroy numbered blocks before they reach the bottom."
-iframeSrc: "https://0gt5ae21ln70o.h5games.usercontent.goog/v/0762mjie8e8s0/"
+title: Jungle Bricks
+seoTitle: Play Jungle Bricks Online Free | FiddleBops
+description: >-
+  Aim and shoot to clear the board in Jungle Bricks! A vibrant brick-breaker
+  game where you must strategically destroy numbered blocks before they reach
+  the bottom.
+iframeSrc: 'https://0gt5ae21ln70o.h5games.usercontent.goog/v/0762mjie8e8s0/'
 thumbnail: /new-images/thumbnails/jungle-bricks.png
-urlstr: "jungle-bricks"
-score: "4.0/5  (988 votes)"
-tags: ["puzzle", "shooting", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: jungle-bricks
+tags:
+  - puzzle
+  - shooting
+  - casual
+score: 4.0/5  (988 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

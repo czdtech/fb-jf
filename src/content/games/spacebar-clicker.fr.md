@@ -1,13 +1,11 @@
 ---
 locale: fr
-urlstr: spacebar-clicker
-title: 'Spacebar Clicker'
-description: >-
-  Mets à l’épreuve ta vitesse de frappe avec Spacebar Clicker, un idle game
-  addictif : martèle la barre d’espace pour gagner des points, achète des
-  améliorations et automatise tes clics pour faire exploser ton score.
+title: Spacebar Clicker
+seoTitle: Jouez à Spacebar Clicker en ligne gratuitement | FiddleBops
+description: "Mets à l’épreuve ta vitesse de frappe avec Spacebar Clicker, un idle game addictif\_: martèle la barre d’espace pour gagner des points, achète des améliorations et automatise tes clics pour faire exploser ton score."
 iframeSrc: 'https://spacebarclicker.co/game/spacebar-counter/'
 thumbnail: /new-images/thumbnails/spacebar-clicker.jpg
+urlstr: spacebar-clicker
 tags:
   - clicker
   - idle

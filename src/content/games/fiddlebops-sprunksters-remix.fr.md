@@ -1,18 +1,19 @@
 ---
 locale: fr
-urlstr: fiddlebops-sprunksters-remix
-title: Fiddlebops Sprunksters remix - Jouer à Fiddlebops Sprunksters remix en ligne
+title: Fiddlebops Sprunksters remix
+seoTitle: Jouez à Fiddlebops Sprunksters remix en ligne gratuitement | FiddleBops
 description: >-
   Fiddlebops Sprunksters est un mod exceptionnel qui mélange à la perfection
   créativité, rythme et charme visuel, avec des personnages marquants, des sons
   inédits et un système de double monde ultra stylé.
 iframeSrc: 'https://turbowarp.org/1149194527/embed'
 thumbnail: /new-images/thumbnails/fiddlebops-sprunksters-remix.png
+urlstr: fiddlebops-sprunksters-remix
 tags:
   - fiddlebops sprunksters remix
   - music
 score: 4.1/5  (127 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

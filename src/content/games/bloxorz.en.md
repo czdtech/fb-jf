@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Bloxorz Magic"
-description: "Guide your rectangular block through challenging 3D puzzles in Bloxorz. Navigate fragile tiles, operate switches, split your block in two, and carefully roll to the exit hole in this classic brain-teasing game."
-iframeSrc: "https://ad-freegames.github.io/flash/game/bloxorz.html"
+title: Bloxorz Magic
+seoTitle: Play Bloxorz Magic Online Free | FiddleBops
+description: >-
+  Guide your rectangular block through challenging 3D puzzles in Bloxorz.
+  Navigate fragile tiles, operate switches, split your block in two, and
+  carefully roll to the exit hole in this classic brain-teasing game.
+iframeSrc: 'https://ad-freegames.github.io/flash/game/bloxorz.html'
 thumbnail: /new-images/thumbnails/bloxorz.jpg
-urlstr: "bloxorz"
-score: "3.9/5  (922 votes)"
-tags: ["casual", "rhythm"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: bloxorz
+tags:
+  - casual
+  - rhythm
+score: 3.9/5  (922 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

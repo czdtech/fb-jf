@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: baseball
 title: Doodle Baseball 手绘棒球
+seoTitle: 免费在线玩 Doodle Baseball 手绘棒球 | FiddleBops
 description: 《Doodle Baseball（手绘棒球）》是一款节奏简单但很考验打击手感的小游戏，下面是玩法说明、本垒打技巧、操作方式与常见问题。
 iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
 thumbnail: /new-images/thumbnails/baseball.jpg
+urlstr: baseball
 tags:
   - casual
   - sports

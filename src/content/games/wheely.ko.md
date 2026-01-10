@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: wheely
 title: Wheely 휠리
+seoTitle: Wheely 휠리 무료 온라인 플레이 | FiddleBops
 description: >-
   귀여운 빨간 자동차 휠리와 함께 떠나는 포인트앤클릭 퍼즐 어드벤처 게임입니다. 레버와 버튼, 엘리베이터 등 다양한 장치를 조작해 길을
   만들고, 휠리가 목적지에 도착할 수 있도록 퍼즐을 해결해 보세요.
 iframeSrc: 'https://www.friv.com/z/games/wheely/index-x.html'
 thumbnail: /new-images/thumbnails/wheely.jpg
+urlstr: wheely
 tags:
   - puzzle
   - adventure

@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Stick Fight"
-description: "Enter the chaotic arena of Stick Fight, a physics-based brawler where you battle other stick figures to be the last one standing. Use a variety of weapons and your own two fists to knock opponents off the stage in this fast-paced action game."
-iframeSrc: "https://ext.minijuegosgratis.com/stick-fighter-2/index.html"
+title: Stick Fight
+seoTitle: Play Stick Fight Online Free | FiddleBops
+description: >-
+  Enter the chaotic arena of Stick Fight, a physics-based brawler where you
+  battle other stick figures to be the last one standing. Use a variety of
+  weapons and your own two fists to knock opponents off the stage in this
+  fast-paced action game.
+iframeSrc: 'https://ext.minijuegosgratis.com/stick-fighter-2/index.html'
 thumbnail: /new-images/thumbnails/stick-fight.jpg
-urlstr: "stick-fight"
-score: "3.6/5  (1015 votes)"
-tags: ["fighting", "action", "stickman"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: stick-fight
+tags:
+  - fighting
+  - action
+  - stickman
+score: 3.6/5  (1015 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

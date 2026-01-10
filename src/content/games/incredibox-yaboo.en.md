@@ -1,15 +1,20 @@
 ---
 locale: en
-modType: incredibox
-title: "Incredibox YaBoo"
-description: "Dive into the fan-made 'Incredibox YaBoo' mod. This guide covers its unique sound palette, music creation gameplay, and how to unlock its themed bonuses."
-iframeSrc: "https://turbowarp.org/1095206379/embed"
+title: Incredibox YaBoo
+seoTitle: Play Incredibox YaBoo Online Free | FiddleBops
+description: >-
+  Dive into the fan-made 'Incredibox YaBoo' mod. This guide covers its unique
+  sound palette, music creation gameplay, and how to unlock its themed bonuses.
+iframeSrc: 'https://turbowarp.org/1095206379/embed'
 thumbnail: /new-images/thumbnails/incredibox-yaboo.png
-urlstr: "incredibox-yaboo"
-score: "4.5/5 (987 votes)"
-tags: ["music", "rhythm"]
-developer: ""
-releaseDate: 2025-10-10
+urlstr: incredibox-yaboo
+tags:
+  - music
+  - rhythm
+modType: incredibox
+score: 4.5/5 (987 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: geometry-dash-lite
 title: Geometry Dash Lite
+seoTitle: Spiele Geometry Dash Lite kostenlos online | FiddleBops
 description: >-
   Geometry Dash Lite ist der Einstieg ins Rhythmus-Platforming: Springe und
   fliege im Takt durch vorgegebene Level, weiche Stacheln aus und nutze Pads und
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20240221/08/index.html
 thumbnail: /new-images/thumbnails/geometry-dash-lite.jpg
+urlstr: geometry-dash-lite
 tags:
   - rhythm
   - platformer

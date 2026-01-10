@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: one-line-only-dot-to-dot
 title: 'One line only: dot to dot 원스트로크 점 잇기'
+seoTitle: 'One line only: dot to dot 원스트로크 점 잇기 무료 온라인 플레이 | FiddleBops'
 description: >-
   One line only: dot to dot는 점과 선분을 한 번의 끊기지 않는 선으로 모두 지나가야 하는 일필선 퍼즐로, 되돌아 그릴 수
   없다는 제약 속에서 경로를 설계하는 게임입니다.
 iframeSrc: 'https://7n3sql2bqn9eg.h5games.usercontent.goog/v/2br4t62jndh88/'
 thumbnail: /new-images/thumbnails/one-line-only-dot-to-dot.jpg
+urlstr: one-line-only-dot-to-dot
 tags:
   - puzzle
   - thinky

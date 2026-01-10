@@ -1,11 +1,12 @@
 ---
 locale: fr
-urlstr: confront
 title: Confront
+seoTitle: Jouez à Confront en ligne gratuitement | FiddleBops
 description: "Confront est un jeu de tir multijoueur nerveux\_: choisis ta classe, vise vite et coopère avec ton équipe pour prendre l’avantage sur la carte."
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp37/gamehwq/20220228/07/index.htm
 thumbnail: /new-images/thumbnails/confront.jpg
+urlstr: confront
 tags:
   - action
   - shooting

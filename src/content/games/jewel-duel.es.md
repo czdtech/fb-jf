@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: jewel-duel
-title: "Jewel Duel"
+title: Jewel Duel
+seoTitle: Juega a Jewel Duel en línea gratis | FiddleBops
 description: >-
   Jewel Duel mezcla el match‑3 con el RPG: intercambia gemas para atacar o
   defender, dispara habilidades y rompe escudos con jugadas tácticas.
 iframeSrc: 'https://5f4e2d55f2dt8.h5games.usercontent.goog/v/36105ruk0rln0/'
 thumbnail: /new-images/thumbnails/jewel-duel.jpg
+urlstr: jewel-duel
 tags:
   - puzzle
   - thinky

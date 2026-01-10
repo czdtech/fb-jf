@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Jetpack Joyride"
-description: "Side‑scroll runner with gadgets: dodge zappers and missiles, grab vehicles and coins, and complete missions for upgrades." 
-iframeSrc: "https://slope-game.github.io/rungame/jetpack-joyride/"
+title: Jetpack Joyride
+seoTitle: Play Jetpack Joyride Online Free | FiddleBops
+description: >-
+  Side‑scroll runner with gadgets: dodge zappers and missiles, grab vehicles and
+  coins, and complete missions for upgrades.
+iframeSrc: 'https://slope-game.github.io/rungame/jetpack-joyride/'
 thumbnail: /new-images/thumbnails/jetpack-joyride.jpg
-urlstr: "jetpack-joyride"
-score: "4.9/5  (437 votes)"
-tags: ["runner", "arcade"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: jetpack-joyride
+tags:
+  - runner
+  - arcade
+score: 4.9/5  (437 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

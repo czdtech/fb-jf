@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: dandyrunki-retake
-title: Dandyrunki Retake 단디어런키 리테이크 온라인 플레이
+title: Dandyrunki Retake 단디어런키 리테이크
+seoTitle: Dandyrunki Retake 단디어런키 리테이크 무료 온라인 플레이 | FiddleBops
 description: >-
   Dandyrunki Retake에서 다양한 캐릭터 루프를 조합해 나만의 음악을 만들어 보세요. 드래그 앤 드롭만으로 리듬과 멜로디를 섞어
   누구나 쉽게 즐길 수 있는 리믹스 음악 놀이 게임입니다.
 iframeSrc: 'https://turbowarp.org/1126924449/embed'
 thumbnail: /new-images/thumbnails/dandyrunki-retake.png
+urlstr: dandyrunki-retake
 tags:
   - dandyrunki retake
   - dandyrunki retake online

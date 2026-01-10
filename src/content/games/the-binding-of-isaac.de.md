@@ -1,10 +1,14 @@
 ---
 locale: de
-urlstr: the-binding-of-isaac
-title: "The Binding of Isaac"
-description: "Steig in den düsteren Keller hinab: In The Binding of Isaac kämpfst du dich als Isaac durch prozedural erzeugte Dungeons, schießt mit Tränen, sammelst schräge Items und stellst dich brutalen Bossen – jeder Run ist anders."
+title: The Binding of Isaac
+seoTitle: Spiele The Binding of Isaac kostenlos online | FiddleBops
+description: >-
+  Steig in den düsteren Keller hinab: In The Binding of Isaac kämpfst du dich
+  als Isaac durch prozedural erzeugte Dungeons, schießt mit Tränen, sammelst
+  schräge Items und stellst dich brutalen Bossen – jeder Run ist anders.
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-binding-of-isaac.html'
 thumbnail: /new-images/thumbnails/the-binding-of-isaac.jpg
+urlstr: the-binding-of-isaac
 tags:
   - roguelike
   - action-RPG

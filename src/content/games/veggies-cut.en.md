@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Veggies Cut"
-description: "Veggies Cut is a kitchen slicer — chain long clean cuts, avoid hazards, and manage rhythm for high scores."
-iframeSrc: "https://01pgt4aflffvo.h5games.usercontent.goog/v/2kpv41q3jen50/"
+title: Veggies Cut
+seoTitle: Play Veggies Cut Online Free | FiddleBops
+description: >-
+  Veggies Cut is a kitchen slicer — chain long clean cuts, avoid hazards, and
+  manage rhythm for high scores.
+iframeSrc: 'https://01pgt4aflffvo.h5games.usercontent.goog/v/2kpv41q3jen50/'
 thumbnail: /new-images/thumbnails/veggies-cut.jpg
-urlstr: "veggies-cut"
-score: "4.0/5  (1867 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: veggies-cut
+tags:
+  - action
+  - casual
+score: 4.0/5  (1867 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

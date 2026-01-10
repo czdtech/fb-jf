@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Block Blaster Puzzle ブロック・ブラスター・パズル
+seoTitle: 無料でBlock Blaster Puzzle ブロック・ブラスター・パズルをオンラインでプレイ | FiddleBops
 description: >-
   「Block Blaster
   Puzzle」で脳トレ！ブロックを隙間なく配置し、ラインを揃えて爆破しよう。戦略的な配置とスペース管理が鍵となる爽快パズルゲーム。
 iframeSrc: 'https://0nrdbfos8jhv8.h5games.usercontent.goog/v/6ovao2cpe86og/'
 thumbnail: /new-images/thumbnails/block-blaster-puzzle.png
 urlstr: block-blaster-puzzle
-score: 3.9/5  (1748 votes)
 tags:
   - puzzle
   - thinky
+score: 3.9/5  (1748 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

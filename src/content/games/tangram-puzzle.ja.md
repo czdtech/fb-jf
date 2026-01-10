@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Tangram Puzzle
+seoTitle: 無料でTangram Puzzleをオンラインでプレイ | FiddleBops
 description: Tangram Puzzleは、古典的な中国のパズルゲームです。7つのピースを使って特定の形を作りましょう。
 iframeSrc: 'https://38lbr23ak5hn8.h5games.usercontent.goog/v/3v2lg4sb2v3ug/'
 thumbnail: /new-images/thumbnails/tangram-puzzle.jpg
 urlstr: tangram-puzzle
-score: 4.3/5  (2091 votes)
 tags:
   - puzzle
   - logic
   - classic
-locale: ja
+score: 4.3/5  (2091 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

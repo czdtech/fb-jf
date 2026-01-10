@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: worlds-hardest-game
-title: World's Hardest Game - El juego más difícil del mundo
+title: World's Hardest Game
+seoTitle: Juega a World's Hardest Game en línea gratis | FiddleBops
 description: >-
   World’s Hardest Game es un arcade extremadamente desafiante en el que
   controlas un cuadrado rojo y atraviesas niveles llenos de círculos azules en
@@ -9,6 +9,7 @@ description: >-
   meta.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/the-worlds-hardest-game.html'
 thumbnail: /new-images/thumbnails/worlds-hardest-game.jpg
+urlstr: worlds-hardest-game
 tags:
   - difficulty
   - arcade

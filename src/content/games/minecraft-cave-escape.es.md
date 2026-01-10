@@ -1,17 +1,18 @@
 ---
 locale: es
-urlstr: minecraft-cave-escape
-title: "Minecraft Cave Escape - Escapa de la cueva"
+title: Minecraft Cave Escape
+seoTitle: Juega a Minecraft Cave Escape en línea gratis | FiddleBops
 description: >-
   En Minecraft Cave Escape estás atrapado en una cueva y no tienes materiales
   para salir. Trepa por los bloques que caen para escapar, pero no dejes que te
   aplasten.
 iframeSrc: 'https://turbowarp.org/1189417610/embed'
 thumbnail: /new-images/thumbnails/minecraft-cave-escape.png
+urlstr: minecraft-cave-escape
 tags:
   - minecraft cave escape
 score: 4.7/5  (354 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

@@ -1,16 +1,17 @@
 ---
 locale: zh
-urlstr: tennis
 title: 《Tennis》网球对决
+seoTitle: 免费在线玩 《Tennis》网球对决 | FiddleBops
 description: 《Tennis》是一款简化操作的网球游戏。通过移动站位与挥拍时机，在虚拟球场上和对手展开来回对攻，力争破发并赢下比赛。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/tennis.html'
 thumbnail: /new-images/thumbnails/tennis.jpg
+urlstr: tennis
 tags:
   - sports
   - 2 player
   - action
 score: 4.7/5  (793 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

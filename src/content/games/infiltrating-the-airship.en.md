@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Infiltrating the Airship"
-description: "Henry Stickmin heist: choose gadgets and routes to board an airship, trigger gags, and unlock multiple endings with scene replays." 
-iframeSrc: "https://rebemanae.github.io/infiltrating-the-airship/"
+title: Infiltrating the Airship
+seoTitle: Play Infiltrating the Airship Online Free | FiddleBops
+description: >-
+  Henry Stickmin heist: choose gadgets and routes to board an airship, trigger
+  gags, and unlock multiple endings with scene replays.
+iframeSrc: 'https://rebemanae.github.io/infiltrating-the-airship/'
 thumbnail: /new-images/thumbnails/infiltrating-the-airship.jpg
-urlstr: "infiltrating-the-airship"
-score: "4.4/5  (982 votes)"
-tags: ["adventure", "point-and-click"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: infiltrating-the-airship
+tags:
+  - adventure
+  - point-and-click
+score: 4.4/5  (982 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

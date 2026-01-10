@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: tricky-puzzles
 title: Brain Test Tricky Puzzles
+seoTitle: Jouez à Brain Test Tricky Puzzles en ligne gratuitement | FiddleBops
 description: >-
   Brain Test Tricky Puzzles est un jeu de reflexion qui defie la logique
   conventionnelle : resous des enigmes en tapant, glissant et meme en tournant
   ton appareil.
 iframeSrc: 'https://rebemanae.github.io/brain-test-tricky-puzzles/'
 thumbnail: /new-images/thumbnails/tricky-puzzles.jpg
+urlstr: tricky-puzzles
 tags:
   - puzzle
   - brain-teaser

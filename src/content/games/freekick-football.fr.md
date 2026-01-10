@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: freekick-football
 title: Freekick Football
+seoTitle: Jouez à Freekick Football en ligne gratuitement | FiddleBops
 description: >-
   Mets tes coups francs à l'épreuve dans Freekick Football : vise, frappe et
   marque pour devenir un maître des coups de pied arrêtés.
 iframeSrc: 'https://freekickfootball.h5games.usercontent.goog/v/0lqeu7698mvk0/'
 thumbnail: /new-images/thumbnails/freekick-football.png
+urlstr: freekick-football
 tags:
   - soccer
   - sports

@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: blockbuster-puzzle
 title: Blockbuster Puzzle 方块连锁爆破
+seoTitle: 免费在线玩 Blockbuster Puzzle 方块连锁爆破 | FiddleBops
 description: 《Blockbuster Puzzle 方块连锁爆破》是一款以连锁清除为核心的方块消除游戏，通过精心摆放来引爆整行或整片方 块，一口气清理大面积棋盘空间。
 iframeSrc: 'https://177gd8gft04p0.h5games.usercontent.goog/v/0md288db3fuq8/'
 thumbnail: /new-images/thumbnails/blockbuster-puzzle.png
+urlstr: blockbuster-puzzle
 tags:
   - puzzle
   - thinky

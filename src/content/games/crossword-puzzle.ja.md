@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Crossword Puzzle クロスワードパズル
+seoTitle: 無料でCrossword Puzzle クロスワードパズルをオンラインでプレイ | FiddleBops
 description: 「Crossword Puzzle」は古典的な言葉遊び。ヒント（カギ）を読み解き、縦と横のマスを文字で埋めてパズルを完成させよう。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword-puzzle.html'
 thumbnail: /new-images/thumbnails/crossword-puzzle.jpg
 urlstr: crossword-puzzle
-score: 4.0/5  (1105 votes)
 tags:
   - word
   - puzzle
+score: 4.0/5  (1105 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

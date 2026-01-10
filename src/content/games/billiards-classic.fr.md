@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: billiards-classic
 title: Billiards Classic
+seoTitle: Jouez à Billiards Classic en ligne gratuitement | FiddleBops
 description: >-
   Billiards Classic adapte le 8‑ball sur navigateur : vises, applique un peu
   d’effet, poche tes pleines ou rayées puis termine par la boule 8 pour gagner.
 iframeSrc: 'https://billiardsclassic.h5games.usercontent.goog/v/27m4mvjv84l70/'
 thumbnail: /new-images/thumbnails/billiards-classic.png
+urlstr: billiards-classic
 tags:
   - sports
   - puzzle

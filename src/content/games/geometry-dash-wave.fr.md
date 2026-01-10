@@ -1,7 +1,7 @@
 ---
 locale: fr
-urlstr: geometry-dash-wave
 title: Geometry Dash Wave
+seoTitle: Jouez à Geometry Dash Wave en ligne gratuitement | FiddleBops
 description: >-
   Maîtrise le rythme et traverse des niveaux piégés dans Geometry Dash Wave !
   Contrôle un triangle qui monte ou descend en diagonale d’un simple clic et
@@ -10,6 +10,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231205/04/index.html
 thumbnail: /new-images/thumbnails/geometry-dash-wave.jpg
+urlstr: geometry-dash-wave
 tags:
   - rhythm
   - platformer

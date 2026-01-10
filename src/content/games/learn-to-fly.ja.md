@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Learn To Fly
+seoTitle: 無料でLearn To Flyをオンラインでプレイ | FiddleBops
 description: ペンギンを飛ばして強化していく距離ゲームです。発射角度を調整して滑空し、お金を稼いでパーツをアップグレードします。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/learn-to-fly.html'
 thumbnail: /new-images/thumbnails/learn-to-fly.jpg
 urlstr: learn-to-fly
-score: 4.6/5  (132 votes)
 tags:
   - arcade
   - upgrade
+score: 4.6/5  (132 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

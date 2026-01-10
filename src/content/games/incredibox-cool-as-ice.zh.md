@@ -1,15 +1,18 @@
 ---
 locale: zh
-urlstr: incredibox-cool-as-ice
-title: "Incredibox Cool As Ice - 在线玩 Incredibox Cool As Ice"
-description: "Incredibox Cool as Ice Mod 非常适合喜欢音乐创作和季节主题的粉丝。深入这个冰冷版本，体验前所未有的 Incredibox，为你的声音创作带来清凉的转折。"
+title: Incredibox Cool As Ice
+seoTitle: 免费在线玩 Incredibox Cool As Ice | FiddleBops
+description: >-
+  Incredibox Cool as Ice Mod 非常适合喜欢音乐创作和季节主题的粉丝。深入这个冰冷版本，体验前所未有的
+  Incredibox，为你的声音创作带来清凉的转折。
 iframeSrc: 'https://turbowarp.org/1108441752/embed'
 thumbnail: /new-images/thumbnails/incredibox-cool-as-ice.png
+urlstr: incredibox-cool-as-ice
 tags:
   - incredibox cool as ice
   - incredibox cool as ice online
 score: 4.9/5  (724 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Incredibox Cool As Ice 介绍

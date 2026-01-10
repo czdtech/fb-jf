@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Bubble Trouble"
-description: "Pop bouncing bubbles with your harpoon in this fast-paced arcade action game. Split large bubbles into smaller ones while avoiding contact. Master power-ups and clear all bubbles before time runs out!"
-iframeSrc: "https://app-96647.games.s3.yandex.net/96647/w4h0ydt7quklspc0jxwg9kauaiii2lnx/index.html"
+title: Bubble Trouble
+seoTitle: Play Bubble Trouble Online Free | FiddleBops
+description: >-
+  Pop bouncing bubbles with your harpoon in this fast-paced arcade action game.
+  Split large bubbles into smaller ones while avoiding contact. Master power-ups
+  and clear all bubbles before time runs out!
+iframeSrc: >-
+  https://app-96647.games.s3.yandex.net/96647/w4h0ydt7quklspc0jxwg9kauaiii2lnx/index.html
 thumbnail: /new-images/thumbnails/bubble-trouble.jpg
-urlstr: "bubble-trouble"
-score: "4.4/5  (203 votes)"
-tags: ["arcade", "action"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: bubble-trouble
+tags:
+  - arcade
+  - action
+score: 4.4/5  (203 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

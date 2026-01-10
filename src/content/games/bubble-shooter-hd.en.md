@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Bubble Shooter HD"
-description: "Enjoy the classic and highly addictive Bubble Shooter HD! Aim your bubble and match three or more of the same color to clear the board."
-iframeSrc: "https://695vevup4pmu0.h5games.usercontent.goog/v/7ptf20o9mjr48/"
+title: Bubble Shooter HD
+seoTitle: Play Bubble Shooter HD Online Free | FiddleBops
+description: >-
+  Enjoy the classic and highly addictive Bubble Shooter HD! Aim your bubble and
+  match three or more of the same color to clear the board.
+iframeSrc: 'https://695vevup4pmu0.h5games.usercontent.goog/v/7ptf20o9mjr48/'
 thumbnail: /new-images/thumbnails/bubble-shooter-hd.png
-urlstr: "bubble-shooter-hd"
-score: "4.6/5  (2890 votes)"
-tags: ["puzzle", "casual", "shooting"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: bubble-shooter-hd
+tags:
+  - puzzle
+  - casual
+  - shooting
+score: 4.6/5  (2890 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

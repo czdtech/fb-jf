@@ -1,4 +1,5 @@
 ---
+import OptimizedImage from './OptimizedImage.astro';
 import { useTranslations, getLocaleFromLangAttr, getLocalizedPath } from '../i18n/utils';
 
 interface Props {
@@ -8,92 +9,41 @@ interface Props {
 const { lang = 'en' } = Astro.props as Props;
 const locale = getLocaleFromLangAttr(lang);
 const t = useTranslations(locale);
+
+// Game data for this section
+const games = [
+  { slug: 'fiddlebops-fix/', title: 'FiddleBops Fix', thumbnail: '/new-images/thumbnails/fiddlebops-fix.png' },
+  { slug: 'fiddlebops-polos/', title: 'FiddleBops Polos', thumbnail: '/new-images/thumbnails/fiddlebops-polos.png' },
+  { slug: 'incredibox/', title: 'Incredibox v1-v9', thumbnail: '/new-images/thumbnails/incredibox.png', alt: 'Incredibox' },
+  { slug: 'fiddlebops-but-dandys-world/', title: "Fiddlebops But Dandy's World", thumbnail: '/new-images/thumbnails/fiddlebops-but-dandys-world.png' },
+  { slug: 'fiddlebops-sprunkbop/', title: 'Fiddlebops Sprunkbop', thumbnail: '/new-images/thumbnails/fiddlebops-sprunkbop.png' },
+  { slug: 'fiddlebops-but-sprunki/', title: 'FiddleBops but Sprunki', thumbnail: '/new-images/thumbnails/fiddlebops-but-sprunki.png' },
+  { slug: 'fiddlebops-sprunki/', title: 'Fiddlebops Sprunki', thumbnail: '/new-images/thumbnails/fiddlebops-sprunki.png' },
+  { slug: 'fiddlebops-sprunksters-remix/', title: 'Fiddlebops Sprunksters remix', thumbnail: '/new-images/thumbnails/fiddlebops-sprunksters-remix.png' },
+  { slug: 'incredibox-yellow-colorbox/', title: 'Incredibox Yellow Colorbox', thumbnail: '/new-images/thumbnails/incredibox-yellow-colorbox.png' },
+  { slug: 'incredibox-cool-as-ice/', title: 'Incredibox Cool As Ice', thumbnail: '/new-images/thumbnails/incredibox-cool-as-ice.png' },
+];
 ---
 
         <section class="games">
             <div class="container">
                  <div class="game-grid">
-
+      {games.map((game) => (
                    <div class="game game--compact game--mod">
-                   <a href={getLocalizedPath('fiddlebops-fix/', locale)} title="FiddleBops Fix">
+          <a href={getLocalizedPath(game.slug, locale)} title={game.alt || game.title}>
                         <div class="game-logo game-l-2">
-                            <img src="/new-images/thumbnails/fiddlebops-fix.png" alt="FiddleBops Fix" loading="lazy" width="150" height="150">
+              <OptimizedImage 
+                src={game.thumbnail} 
+                alt={game.alt || game.title} 
+                loading="lazy" 
+                width={300}
+                height={169}
+              />
                          </div>
-                        <p class="game__title--ellipsis">FiddleBops Fix</p></a>
+            <p class="game__title--ellipsis">{game.title}</p>
+          </a>
                     </div>
-
-                   <div class="game game--compact game--mod">
-                   <a href={getLocalizedPath('fiddlebops-polos/', locale)} title="FiddleBops Polos">
-                        <div class="game-logo game-l-2">
-                            <img src="/new-images/thumbnails/fiddlebops-polos.png" alt="FiddleBops Polos" loading="lazy" width="150" height="150">
-                         </div>
-                        <p class="game__title--ellipsis">FiddleBops Polos</p></a>
-                    </div>
-
-                   <div class="game game--compact game--mod">
-                   <a href={getLocalizedPath('incredibox/', locale)} title="Incredibox">
-                        <div class="game-logo game-l-2">
-                            <img src="/new-images/thumbnails/incredibox.png" alt="Incredibox" loading="lazy" width="150" height="150">
-                         </div>
-                        <p class="game__title--ellipsis">Incredibox v1-v9</p></a>
-                    </div>
-
-                   <div class="game game--compact game--mod">
-                   <a href={getLocalizedPath('fiddlebops-but-dandys-world/', locale)} title="Fiddlebops But Dandy's World">
-                        <div class="game-logo game-l-2">
-                            <img src="/new-images/thumbnails/fiddlebops-but-dandys-world.png" alt="Fiddlebops But Dandy's World" loading="lazy" width="150" height="150">
-                         </div>
-                        <p class="game__title--ellipsis">Fiddlebops But Dandy's World</p></a>
-                    </div>
-
-                   <div class="game game--compact game--mod">
-                   <a href={getLocalizedPath('fiddlebops-sprunkbop/', locale)} title="Fiddlebops Sprunkbop">
-                        <div class="game-logo game-l-2">
-                            <img src="/new-images/thumbnails/fiddlebops-sprunkbop.png" alt="Fiddlebops Sprunkbop" loading="lazy" width="150" height="150">
-                         </div>
-                        <p class="game__title--ellipsis">Fiddlebops Sprunkbop</p></a>
-                    </div>
-
-                   <div class="game game--compact game--mod">
-                   <a href={getLocalizedPath('fiddlebops-but-sprunki/', locale)} title="FiddleBops but Sprunki">
-                        <div class="game-logo game-l-2">
-                            <img src="/new-images/thumbnails/fiddlebops-but-sprunki.png" alt="FiddleBops but Sprunki" loading="lazy" width="150" height="150">
-                         </div>
-                        <p class="game__title--ellipsis">FiddleBops but Sprunki</p></a>
-                    </div>
-
-                   <div class="game game--compact game--mod">
-                   <a href={getLocalizedPath('fiddlebops-sprunki/', locale)} title="Fiddlebops Sprunki">
-                        <div class="game-logo game-l-2">
-                            <img src="/new-images/thumbnails/fiddlebops-sprunki.png" alt="Fiddlebops Sprunki" loading="lazy" width="150" height="150">
-                         </div>
-                        <p class="game__title--ellipsis">Fiddlebops Sprunki</p></a>
-                    </div>
-
-                   <div class="game game--compact game--mod">
-                   <a href={getLocalizedPath('fiddlebops-sprunksters-remix/', locale)} title="Fiddlebops Sprunksters remix">
-                        <div class="game-logo game-l-2">
-                            <img src="/new-images/thumbnails/fiddlebops-sprunksters-remix.png" alt="Fiddlebops Sprunksters remix" loading="lazy" width="150" height="150">
-                         </div>
-                        <p class="game__title--ellipsis">Fiddlebops Sprunksters remix</p></a>
-                    </div>
-
-                   <div class="game game--compact game--mod">
-                   <a href={getLocalizedPath('incredibox-yellow-colorbox/', locale)} title="Incredibox Yellow Colorbox">
-                        <div class="game-logo game-l-2">
-                            <img src="/new-images/thumbnails/incredibox-yellow-colorbox.png" alt="Incredibox Yellow Colorbox" loading="lazy" width="150" height="150">
-                         </div>
-                        <p class="game__title--ellipsis">Incredibox Yellow Colorbox</p></a>
-                    </div>
-
-                   <div class="game game--compact game--mod">
-                   <a href={getLocalizedPath('incredibox-cool-as-ice/', locale)} title="Incredibox Cool As Ice">
-                        <div class="game-logo game-l-2">
-                            <img src="/new-images/thumbnails/incredibox-cool-as-ice.png" alt="Incredibox Cool As Ice" loading="lazy" width="150" height="150">
-                         </div>
-                        <p class="game__title--ellipsis">Incredibox Cool As Ice</p></a>
-                    </div>
-
+      ))}
                  </div>
             </div>
         </section>

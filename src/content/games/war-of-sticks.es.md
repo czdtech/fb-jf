@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: war-of-sticks
-title: War of Sticks - Guerra de stickmans
+title: War of Sticks
+seoTitle: Juega a War of Sticks en línea gratis | FiddleBops
 description: >-
   Comanda tu ejército de monigotes en War of Sticks, un juego de estrategia en
   tiempo real. Mina recursos, entrena unidades como escuderos, arqueros y
   bárbaros y derrota al Imperio Rojo con un ejército bien planificado.
 iframeSrc: 'https://g.igroutka.ru/games/164/lt2ARJHFBxPb4spD/4/war_of_sticks/'
 thumbnail: /new-images/thumbnails/war-of-sticks.jpg
+urlstr: war-of-sticks
 tags:
   - strategy
   - rTS

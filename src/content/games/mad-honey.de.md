@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: mad-honey
 title: Mad Honey
+seoTitle: Spiele Mad Honey kostenlos online | FiddleBops
 description: >-
   Mad Honey ist ein kleines Arcade-Abenteuer: Sammle Nektar, weiche Gefahren aus
   und bring deine Beute sicher in den Bienenstock zurück.
 iframeSrc: 'https://49b5cg0v2itto.h5games.usercontent.goog/v/3tun18rhg88eg/'
 thumbnail: /new-images/thumbnails/mad-honey.png
+urlstr: mad-honey
 tags:
   - adventure
   - casual

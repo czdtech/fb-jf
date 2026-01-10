@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: make-it-meme
 title: Make It Meme
+seoTitle: Jouez à Make It Meme en ligne gratuitement | FiddleBops
 description: >-
   Make It Meme est un jeu de soirée multijoueur en ligne où tu crées et notes
   des mèmes pour surpasser tes amis.
 iframeSrc: 'https://artedu1808.github.io/g177/make-it-meme/'
 thumbnail: /new-images/thumbnails/make-it-meme.jpg
+urlstr: make-it-meme
 tags:
   - party game
   - casual

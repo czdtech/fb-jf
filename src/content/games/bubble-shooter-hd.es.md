@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: bubble-shooter-hd
 title: Bubble Shooter HD
+seoTitle: Juega a Bubble Shooter HD en línea gratis | FiddleBops
 description: >-
   Disfruta del clásico y adictivo Bubble Shooter HD. Apunta tu burbuja y forma
   grupos de tres o más del mismo color para limpiar el tablero.
 iframeSrc: 'https://695vevup4pmu0.h5games.usercontent.goog/v/7ptf20o9mjr48/'
 thumbnail: /new-images/thumbnails/bubble-shooter-hd.png
+urlstr: bubble-shooter-hd
 tags:
   - puzzle
   - casual

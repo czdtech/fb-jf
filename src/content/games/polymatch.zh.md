@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: polymatch
 title: 《PolyMatch》多图案连连消
+seoTitle: 免费在线玩 《PolyMatch》多图案连连消 | FiddleBops
 description: 《PolyMatch》是一款考验观察力与规划能力的图案配对消除游戏，你需要从棋盘上找出成对相同的图块，并在下方有限的暂存槽中合理调度，逐步清空整个版面。
 iframeSrc: 'https://4h72h3ha1dnh0.h5games.usercontent.goog/v/4mrusdmqik1l8/'
 thumbnail: /new-images/thumbnails/polymatch.png
+urlstr: polymatch
 tags:
   - puzzle
   - thinky

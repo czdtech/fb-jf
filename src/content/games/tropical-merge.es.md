@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: tropical-merge
-title: Tropical Merge - Aventura de fusiones en las islas
+title: Tropical Merge
+seoTitle: Juega a Tropical Merge en línea gratis | FiddleBops
 description: >-
   Tropical Merge es una soleada aventura de combinar objetos: encadena fusiones,
   completa misiones y expande tus islas gestionando con cuidado el espacio y la
   energía.
 iframeSrc: 'https://7jdqir15djng0.h5games.usercontent.goog/v/3nm4cvs4b09jo/'
 thumbnail: /new-images/thumbnails/tropical-merge.png
+urlstr: tropical-merge
 tags:
   - puzzle
   - casual

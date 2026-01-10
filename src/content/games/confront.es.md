@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: confront
-title: "Confront"
+title: Confront
+seoTitle: Juega a Confront en línea gratis | FiddleBops
 description: >-
   Confront te coloca en un intenso escenario de disparos en el que la puntería
   rápida y los reflejos afilados son fundamentales.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp37/gamehwq/20220228/07/index.htm
 thumbnail: /new-images/thumbnails/confront.jpg
+urlstr: confront
 tags:
   - casual
   - shooting

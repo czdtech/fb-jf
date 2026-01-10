@@ -1,17 +1,18 @@
 ---
 locale: es
-urlstr: sprunki-but-with-memes
-title: Sprunki But With Memes - Juega a Sprunki But With Memes en línea
+title: Sprunki But With Memes
+seoTitle: Juega a Sprunki But With Memes en línea gratis | FiddleBops
 description: >-
   Sprunki but with memes es un juego musical que te deja crear sin límites en un
   océano de memes. Únete y utiliza tu talento musical para desatar una auténtica
   fiebre de memes sonoros.
 iframeSrc: 'https://kdata1.com/5000/2024/sprunki-retake-memes/'
 thumbnail: /new-images/thumbnails/sprunki-but-with-memes.png
+urlstr: sprunki-but-with-memes
 tags:
   - sprunki but with memes
 score: 4.2/5  (142 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

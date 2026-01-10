@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: kitty-scramble
 title: Kitty Scramble
+seoTitle: Juega a Kitty Scramble en línea gratis | FiddleBops
 description: >-
   Kitty Scramble es una sopa de letras acogedora: traza palabras en rejillas de
   letras, encuentra términos del tema y limpia el tablero gracias al
   reconocimiento de patrones.
 iframeSrc: 'https://6cifr142haig8.h5games.usercontent.goog/v/1c963avg5lo9g/'
 thumbnail: /new-images/thumbnails/kitty-scramble.png
+urlstr: kitty-scramble
 tags:
   - puzzle
   - thinky

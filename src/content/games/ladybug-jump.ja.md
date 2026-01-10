@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Ladybug Jump
+seoTitle: 無料でLadybug Jumpをオンラインでプレイ | FiddleBops
 description: Ladybug Jumpは陽気なホッププラットフォーマーです。ジャンプのタイミングを合わせ、移動する葉に乗り、障害物を避けながら蜜を収集します。
 iframeSrc: 'https://1rtviun5s8hc0.h5games.usercontent.goog/v/2ajo6kl7ue0a0/'
 thumbnail: /new-images/thumbnails/ladybug-jump.png
 urlstr: ladybug-jump
-score: 3.8/5  (1629 votes)
 tags:
   - action
   - casual
+score: 3.8/5  (1629 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

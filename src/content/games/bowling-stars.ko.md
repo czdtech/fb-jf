@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: bowling-stars
 title: Bowling Stars 볼링 스타즈
+seoTitle: Bowling Stars 볼링 스타즈 무료 온라인 플레이 | FiddleBops
 description: >-
   Bowling Stars는 십핀 볼링을 부드러운 조작으로 즐길 수 있는 캐주얼 볼링 시뮬레이션 게임입니다. 레인 상태를 읽고 각도와 회전을
   조절해, 스트라이크와 스페어를 꾸준히 이어 가 보세요.
 iframeSrc: 'https://0pst60kfu8pi8.h5games.usercontent.goog/v/249kviafiu6co/'
 thumbnail: /new-images/thumbnails/bowling-stars.png
+urlstr: bowling-stars
 tags:
   - sports
   - casual

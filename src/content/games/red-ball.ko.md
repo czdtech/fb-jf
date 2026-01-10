@@ -1,11 +1,12 @@
 ---
 locale: ko
-urlstr: red-ball
 title: Red Ball 레드 볼
+seoTitle: Red Ball 레드 볼 무료 온라인 플레이 | FiddleBops
 description: 통통 튀는 빨간 공을 조종해 함정과 퍼즐이 가득한 스테이지를 돌파하는 물리 기반 플랫폼 게임입니다. 관성·점프를 활용해 골까지 굴려 보세요.
 iframeSrc: >-
   https://app-185271.games.s3.yandex.net/185271/uvjrp10onrrllry3esbc3gpnf7s40cj5/index.html
 thumbnail: /new-images/thumbnails/red-ball.jpg
+urlstr: red-ball
 tags:
   - platformer
   - physics

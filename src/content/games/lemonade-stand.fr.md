@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: lemonade-stand
 title: Lemonade Stand
+seoTitle: Jouez à Lemonade Stand en ligne gratuitement | FiddleBops
 description: >-
   Simu business classique : fixe prix, recette et pub, achète
   gobelets/citrons/glace et gère ton bénéfice quotidien en fonction de la météo.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/lemonade-stand.html'
 thumbnail: /new-images/thumbnails/lemonade-stand.jpg
+urlstr: lemonade-stand
 tags:
   - simulation
   - tycoon

@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: g-switch-2
 title: G-Switch 2 중력 전환 러너
+seoTitle: G-Switch 2 중력 전환 러너 무료 온라인 플레이 | FiddleBops
 description: >-
   중력을 뒤집으며 질주하는 러닝 게임 G-Switch 2입니다. 한 명이 기록에 도전하거나, 한 키보드에서 여러 명이 동시에 플레이하며, 중력
   전환 타이밍만으로 함정과 낭떠러지를 피해 끝까지 살아남아야 합니다.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221123/6/index.html
 thumbnail: /new-images/thumbnails/g-switch-2.jpg
+urlstr: g-switch-2
 tags:
   - runner
   - platformer

@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: ovo-dimensions
 title: OvO Dimensions
+seoTitle: Spiele OvO Dimensions kostenlos online | FiddleBops
 description: >-
   OvO Dimensions ist ein anspruchsvoller 2D-Plattformspiel und erweitert die
   OvO- Reihe um neue Mechaniken und Hindernisse. Mit präzisen Sprüngen,
@@ -10,6 +10,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221219/8/index.html
 thumbnail: /new-images/thumbnails/ovo-dimensions.jpg
+urlstr: ovo-dimensions
 tags:
   - platformer
   - action

@@ -1,17 +1,18 @@
 ---
 locale: es
-urlstr: sprunki-dandys-world
-title: "Sprunki Dandy's World - Juega a Sprunki Dandy's World en línea"
+title: Sprunki Dandy's World
+seoTitle: Juega a Sprunki Dandy's World en línea gratis | FiddleBops
 description: >-
-  Sprunki Dandy's World es mucho más que un juego de ritmo: es una fusión
-  mágica entre música, arte y narrativa, donde cada personaje extraño se
-  convierte en parte de tu videoclip musical.
-iframeSrc: "https://turbowarp.org/1075503895/embed"
+  Sprunki Dandy's World es mucho más que un juego de ritmo: es una fusión mágica
+  entre música, arte y narrativa, donde cada personaje extraño se convierte en
+  parte de tu videoclip musical.
+iframeSrc: 'https://turbowarp.org/1075503895/embed'
 thumbnail: /new-images/thumbnails/sprunki-dandys-world.png
+urlstr: sprunki-dandys-world
 tags:
   - sprunki dandy
 score: 4.4/5  (304 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

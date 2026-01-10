@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: minesweeper-mania
-title: Minesweeper Mania - Buscaminas con varios desafíos
+title: Minesweeper Mania
+seoTitle: Juega a Minesweeper Mania en línea gratis | FiddleBops
 description: >-
   El clásico puzle lógico, reimaginado. Usa las pistas numéricas para localizar
   todas las minas ocultas del tablero. Con varios niveles de dificultad, es una
   auténtica prueba de deducción.
 iframeSrc: 'https://minesweepermania.h5games.usercontent.goog/v/6cje7ufl50e4g/'
 thumbnail: /new-images/thumbnails/minesweeper-mania.png
+urlstr: minesweeper-mania
 tags:
   - puzzle
   - thinky

@@ -1,17 +1,18 @@
 ---
 locale: ko
-urlstr: sprunki-retake-new-human
-title: "Sprunki Retake New Human \U0001F525 스프룽키 리테이크 뉴 휴먼"
+title: Sprunki Retake New Human 스프룽키 리테이크 뉴 휴먼
+seoTitle: Sprunki Retake New Human 스프룽키 리테이크 뉴 휴먼 무료 온라인 플레이 | FiddleBops
 description: >-
   Sprunki Retake New Human은 기존 Incredibox/Sprunki 캐릭터를 인간형 디자인으로 재해석한 모드입니다. 사람
   형태의 새 캐릭터들로 익숙한 시스템을 전혀 다른 비주얼 감성으로 즐길 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1139615160/embed'
 thumbnail: /new-images/thumbnails/sprunki-retake-new-human.png
+urlstr: sprunki-retake-new-human
 tags:
   - sprunki retake new human
   - musical mod
 score: 4.0/5  (829 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

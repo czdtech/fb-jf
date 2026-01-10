@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: chess-mania
 title: Chess Mania
+seoTitle: Spiele Chess Mania kostenlos online | FiddleBops
 description: >-
   Erlebe Chess Mania, ein funktionsreiches Schachspiel für alle Spielstärken.
   Tritt gegen die KI an, löse knifflige Aufgaben und arbeite dich zum
   Schachmeister hoch.
 iframeSrc: 'https://chessmania.h5games.usercontent.goog/v/3if0hd2c47oo8/'
 thumbnail: /new-images/thumbnails/chess-mania.png
+urlstr: chess-mania
 tags:
   - thinky
   - 2 player

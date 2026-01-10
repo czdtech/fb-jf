@@ -1,19 +1,20 @@
 ---
+locale: ja
 title: Endless Siege エンドレス・シージ
+seoTitle: 無料でEndless Siege エンドレス・シージをオンラインでプレイ | FiddleBops
 description: >-
   「Endless
   Siege」は魅力的なタワーディフェンス。オークの大群から王国を守れ。大砲、バリスタ、炎の塔を配置・強化し、毎日変わる新マップで生き残ろう。
 iframeSrc: 'https://endlessseige.h5games.usercontent.goog/v/35nvlvatb9t8g/'
 thumbnail: /new-images/thumbnails/endless-siege.jpg
 urlstr: endless-siege
-score: 4.6/5  (3100 votes)
 tags:
   - tower Defense
   - strategy
   - action
+score: 4.6/5  (3100 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

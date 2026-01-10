@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Daily Sudoku
+seoTitle: 無料でDaily Sudokuをオンラインでプレイ | FiddleBops
 description: 毎日新しい数独パズルであなたの論理に挑戦。9x9グリッドを各行、列、3x3ボックスに数字1～9が重複なく含まれるように埋めましょう。
 iframeSrc: >-
   https://dailysudoku.h5games.usercontent.goog/v/03446732-f14b-4bcc-9e8b-68fc499a0cec/
 thumbnail: /new-images/thumbnails/daily-sudoku-3.jpg
 urlstr: daily-sudoku-3
-score: 4.5/5  (2053 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.5/5  (2053 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

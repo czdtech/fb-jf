@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: block-dimension
 title: Block Dimension 方块维度
+seoTitle: 免费在线玩 Block Dimension 方块维度 | FiddleBops
 description: >-
   《Block Dimension 方块维度》是一款视觉现代的 10×10 方块拼图游戏，在棋盘上摆放各种形状的方块，通过横向
   或纵向消行与连消拿高分，考验的是你的空间想象与前瞻规划能力。
 iframeSrc: 'https://62dfg8ps4f7lg.h5games.usercontent.goog/v/0k3gcfq0ljti8/'
 thumbnail: /new-images/thumbnails/block-dimension.png
+urlstr: block-dimension
 tags:
   - puzzle
   - thinky

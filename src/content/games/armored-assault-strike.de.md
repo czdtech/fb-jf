@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: armored-assault-strike
-title: "Armored Assault Strike"
+title: Armored Assault Strike
+seoTitle: Spiele Armored Assault Strike kostenlos online | FiddleBops
 description: >-
   Armored Assault Strike ist ein Top‑Down‑Fahrzeug‑Shooter. Manövriere deine
   Panzerfahrzeuge, verwalte Abklingzeiten und zerlege feindliche Truppen.
 iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
 thumbnail: /new-images/thumbnails/armored-assault-strike.png
+urlstr: armored-assault-strike
 tags:
   - shooting
   - action

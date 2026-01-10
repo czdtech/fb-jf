@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: slither-io
 title: 《Slither.io》贪吃蛇大作战
+seoTitle: 免费在线玩 《Slither.io》贪吃蛇大作战 | FiddleBops
 description: 《Slither.io》是一款极受欢迎的在线多人贪吃蛇游戏。操控你的彩色小蛇吞食能量点、围杀其他玩家，让自己变成场上最长的一条蛇。
 iframeSrc: >-
   https://app-165910.games.s3.yandex.net/165910/rm0dpvrwyxo0cakog5vc1sr4c8b6xj1s/index.html
 thumbnail: /new-images/thumbnails/slither-io.jpg
+urlstr: slither-io
 tags:
   - io-games
   - snake

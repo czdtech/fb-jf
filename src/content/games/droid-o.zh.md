@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: droid-o
 title: Droid-O 机器人竞技场射击
+seoTitle: 免费在线玩 Droid-O 机器人竞技场射击 | FiddleBops
 description: 《Droid-O》是一款节奏紧凑的俯视角机器人竞技场射击游戏。通过风筝走位、合理衔接技能 与精确移动，在越来越密集的敌浪中存活下来。
 iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
 thumbnail: /new-images/thumbnails/droid-o.png
+urlstr: droid-o
 tags:
   - action
   - shooting

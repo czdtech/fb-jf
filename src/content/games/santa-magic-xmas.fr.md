@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: santa-magic-xmas
 title: Santa Magic Xmas
+seoTitle: Jouez à Santa Magic Xmas en ligne gratuitement | FiddleBops
 description: "Plonge dans la magie de Noël dans ce match‑3 festif\_! Aide le Père Noël en alignant des décorations colorées pour vider le plateau et livrer tous les cadeaux."
 iframeSrc: 'https://santamagicxmas.h5games.usercontent.goog/v/27gpp489kce80/'
 thumbnail: /new-images/thumbnails/santa-magic-xmas.png
+urlstr: santa-magic-xmas
 tags:
   - puzzle
   - casual

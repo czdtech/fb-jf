@@ -1,14 +1,22 @@
 ---
 locale: en
-title: "Hoop Hero"
-description: "Tap at the right moment to dunk the ball! Test your reflexes in this fast-paced, one-touch basketball game. Time your dunks perfectly to score and achieve a high score."
-iframeSrc: "https://06f80rna6d2sg.h5games.usercontent.goog/v/69kffdfih87r0/"
+title: Hoop Hero
+seoTitle: Play Hoop Hero Online Free | FiddleBops
+description: >-
+  Tap at the right moment to dunk the ball! Test your reflexes in this
+  fast-paced, one-touch basketball game. Time your dunks perfectly to score and
+  achieve a high score.
+iframeSrc: 'https://06f80rna6d2sg.h5games.usercontent.goog/v/69kffdfih87r0/'
 thumbnail: /new-images/thumbnails/hoop-hero.png
-urlstr: "hoop-hero"
-score: "4.1/5  (1700 votes)"
-tags: ["action", "casual", "clicker", "sports"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: hoop-hero
+tags:
+  - action
+  - casual
+  - clicker
+  - sports
+score: 4.1/5  (1700 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

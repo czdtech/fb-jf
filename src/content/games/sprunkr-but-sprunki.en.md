@@ -1,6 +1,7 @@
 ---
 locale: en
-title: Sprunkr But Sprunki - Play Sprunkr But Sprunki Online
+title: Sprunkr But Sprunki
+seoTitle: Play Sprunkr But Sprunki Online Free | FiddleBops
 description: >-
   Sprunkr But Sprunki Mod is a creative twist on the original Sprunkr mod,
   replacing the existing characters with beloved Sprunki figures. You can not
@@ -9,11 +10,11 @@ description: >-
 iframeSrc: 'https://turbowarp.org/1113707117/embed'
 thumbnail: /new-images/thumbnails/sprunkr-but-sprunki.png
 urlstr: sprunkr-but-sprunki
-modType: sprunki
-score: 4.5/5  (541 votes)
 tags:
   - sprunkr but sprunki
   - music
+modType: sprunki
+score: 4.5/5  (541 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: one-line
-title: One Line - Un trazo para conectar todos los puntos
+title: One Line
+seoTitle: Juega a One Line en línea gratis | FiddleBops
 description: >-
   One Line es un puzle minimalista en el que dibujas una única línea continua
   para conectar todos los puntos del tablero sin levantar el dedo ni repetir
   ningún camino.
 iframeSrc: 'https://g2.igroutka.ru/games/3/JLgd70b3BNafhVq5/10/igra-odna-liniya/game.html'
 thumbnail: /new-images/thumbnails/one-line.jpg
+urlstr: one-line
 tags:
   - puzzle
   - logic

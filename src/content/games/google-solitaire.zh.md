@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: google-solitaire
 title: Google Solitaire 谷歌接龙
+seoTitle: 免费在线玩 Google Solitaire 谷歌接龙 | FiddleBops
 description: 经典 Klondike 接龙玩法：将牌按花色从 A 排到 K 建立基础堆， 利用红黑相间递减的桌面牌列来移动与整理整副牌。
 iframeSrc: 'https://www.google.com/logos/fnbx/solitaire/standalone.html'
 thumbnail: /new-images/thumbnails/google-solitaire.jpg
+urlstr: google-solitaire
 tags:
   - solitaire
   - card

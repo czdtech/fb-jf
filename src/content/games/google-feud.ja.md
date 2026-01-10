@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Google Feud
+seoTitle: 無料でGoogle Feudをオンラインでプレイ | FiddleBops
 description: アンケートスタイルの推測ゲーム：最も人気のある検索クエリでオートコンプリートのプロンプトを完成させ、ストライクアウトせずにラウンドを勝ち進みましょう。
 iframeSrc: 'https://mac-web.github.io/macvg/projects/google-feud/game.html'
 thumbnail: /new-images/thumbnails/google-feud.jpg
 urlstr: google-feud
-score: 4.3/5  (511 votes)
 tags:
   - trivia
   - quiz
+score: 4.3/5  (511 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

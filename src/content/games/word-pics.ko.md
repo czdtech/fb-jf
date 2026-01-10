@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: word-pics
 title: Word Pics 워드 픽스
+seoTitle: Word Pics 워드 픽스 무료 온라인 플레이 | FiddleBops
 description: >-
   두 장의 사진에 공통으로 숨어 있는 단어를 맞히는 퍼즐 게임입니다. 이미지를 꼼꼼히 살펴 공통점을 찾아내고, 그를 하나의 영어 단어나
   표현으로 떠올려 보세요.
 iframeSrc: 'https://wordpics.h5games.usercontent.goog/v/7sfi13vvf0cro/'
 thumbnail: /new-images/thumbnails/word-pics.jpg
+urlstr: word-pics
 tags:
   - puzzle
   - thinky

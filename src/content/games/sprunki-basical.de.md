@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: sprunki-basical
-title: Sprunki Basical - Sprunki Basical online spielen
+title: Sprunki Basical
+seoTitle: Spiele Sprunki Basical kostenlos online | FiddleBops
 description: >-
   Sprunki Basical ist ein reduziertes Musikbaukasten-Spiel, bei dem du mit
   wenigen, einfachen Schritten eigene Tracks baust. Wenn du Incredibox magst und
@@ -9,6 +9,7 @@ description: >-
   Alternative.
 iframeSrc: 'https://sprunki-basical.pages.dev/'
 thumbnail: /new-images/thumbnails/sprunki-basical.png
+urlstr: sprunki-basical
 tags:
   - sprunki basical
   - sprunki basical online

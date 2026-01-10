@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: family-feud
 title: Family Feud
+seoTitle: Juega a Family Feud en línea gratis | FiddleBops
 description: >-
   Family Feud es un concurso de encuestas: intenta adivinar las respuestas más
   populares que dio el público a distintas preguntas a lo largo de varias rondas
   y la fase de Fast Money.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/family-feud/'
 thumbnail: /new-images/thumbnails/family-feud.jpg
+urlstr: family-feud
 tags:
   - trivia
   - quiz

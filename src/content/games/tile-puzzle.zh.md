@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: tile-puzzle
 title: 《Tile Puzzle》滑块拼图
+seoTitle: 免费在线玩 《Tile Puzzle》滑块拼图 | FiddleBops
 description: 《Tile Puzzle》是一款经典滑块拼图游戏。通过移动被打乱的图块，让它们重新排列成完整图片或正确数字顺序。
 iframeSrc: 'https://5u9qhnk84v07g.h5games.usercontent.goog/v/2h3elehja73a8/'
 thumbnail: /new-images/thumbnails/tile-puzzle.jpg
+urlstr: tile-puzzle
 tags:
   - puzzle
   - sliding

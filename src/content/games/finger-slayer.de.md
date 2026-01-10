@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: finger-slayer
 title: Finger Slayer
+seoTitle: Spiele Finger Slayer kostenlos online | FiddleBops
 description: >-
   Finger Slayer ist ein Reflex-Test mit nur einem Button: Ziehe deinen "Finger"
   in letzter Millisekunde zurück, um der zuschnappenden Falle zu entkommen –
   ohne zu früh zu zucken.
 iframeSrc: 'https://7ftsta5r737o8.h5games.usercontent.goog/v/3m7r2si8ppdlg/'
 thumbnail: /new-images/thumbnails/finger-slayer.jpg
+urlstr: finger-slayer
 tags:
   - action
   - casual

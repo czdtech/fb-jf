@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: word-search-2
 title: Word Search：经典找单词（版本 2）
+seoTitle: 免费在线玩 Word Search：经典找单词（版本 2） | FiddleBops
 description: >-
   《Word Search》是一款经典的英文找词游戏。 在字母方阵中寻找并标记给定的单词，单词可能横向、纵向、斜向，甚至倒着隐藏，
   非常适合用来锻炼观察力与英语拼写。
 iframeSrc: 'https://wordsearch.h5games.usercontent.goog/v/6abe3eefqt368/'
 thumbnail: /new-images/thumbnails/word-search-2.jpg
+urlstr: word-search-2
 tags:
   - puzzle
   - thinky

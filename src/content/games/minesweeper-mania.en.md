@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Minesweeper Mania"
-description: "The classic logic puzzle, reimagined! Use number clues to locate all the hidden mines on the board. With multiple difficulty levels, it's the ultimate test of deduction."
-iframeSrc: "https://minesweepermania.h5games.usercontent.goog/v/6cje7ufl50e4g/"
+title: Minesweeper Mania
+seoTitle: Play Minesweeper Mania Online Free | FiddleBops
+description: >-
+  The classic logic puzzle, reimagined! Use number clues to locate all the
+  hidden mines on the board. With multiple difficulty levels, it's the ultimate
+  test of deduction.
+iframeSrc: 'https://minesweepermania.h5games.usercontent.goog/v/6cje7ufl50e4g/'
 thumbnail: /new-images/thumbnails/minesweeper-mania.png
-urlstr: "minesweeper-mania"
-score: "4.7/5  (3400 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: minesweeper-mania
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.7/5  (3400 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

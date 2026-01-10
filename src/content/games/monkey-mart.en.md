@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Monkey Mart"
-description: "Monkey Mart is a charming and addictive simulation game where players manage a supermarket run by adorable monkeys, harvesting crops, stocking shelves, and serving customers to grow their business."
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp41/gamehwq/20221216/09/index.htm"
+title: Monkey Mart
+seoTitle: Play Monkey Mart Online Free | FiddleBops
+description: >-
+  Monkey Mart is a charming and addictive simulation game where players manage a
+  supermarket run by adorable monkeys, harvesting crops, stocking shelves, and
+  serving customers to grow their business.
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp41/gamehwq/20221216/09/index.htm
 thumbnail: /new-images/thumbnails/monkey-mart.jpg
-urlstr: "monkey-mart"
-score: "4.4/5  (592 votes)"
-tags: ["simulation", "management", "casual"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: monkey-mart
+tags:
+  - simulation
+  - management
+  - casual
+score: 4.4/5  (592 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

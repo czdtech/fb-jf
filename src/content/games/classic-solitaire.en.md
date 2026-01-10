@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Classic Solitaire"
-description: "Enjoy the timeless card game of Classic Solitaire (Klondike). Strategically move cards between the tableau and foundation piles to sort all suits in ascending order."
-iframeSrc: "https://6uj90l2koon6g.h5games.usercontent.goog/v/2a72i89u7qfe8/"
+title: Classic Solitaire
+seoTitle: Play Classic Solitaire Online Free | FiddleBops
+description: >-
+  Enjoy the timeless card game of Classic Solitaire (Klondike). Strategically
+  move cards between the tableau and foundation piles to sort all suits in
+  ascending order.
+iframeSrc: 'https://6uj90l2koon6g.h5games.usercontent.goog/v/2a72i89u7qfe8/'
 thumbnail: /new-images/thumbnails/classic-solitaire.png
-urlstr: "classic-solitaire"
-score: "4.7/5  (2950 votes)"
-tags: ["card", "puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: classic-solitaire
+tags:
+  - card
+  - puzzle
+  - casual
+score: 4.7/5  (2950 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

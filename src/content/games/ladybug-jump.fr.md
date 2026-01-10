@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: ladybug-jump
 title: Ladybug Jump
+seoTitle: Jouez à Ladybug Jump en ligne gratuitement | FiddleBops
 description: >-
   Ladybug Jump est un petit jeu de saut joyeux : enchaîne les bonds sur les
   feuilles, évite flaques et araignées, et récolte le nectar.
 iframeSrc: 'https://1rtviun5s8hc0.h5games.usercontent.goog/v/2ajo6kl7ue0a0/'
 thumbnail: /new-images/thumbnails/ladybug-jump.png
+urlstr: ladybug-jump
 tags:
   - action
   - casual

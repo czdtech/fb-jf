@@ -1,14 +1,18 @@
 ---
-title: "Backyard Zombie Defense 裏庭ゾンビディフェンス"
-description: "「Backyard Zombie Defense」は、バリケードを築き、武器を強化して、迫りくるアンデッドの群れから裏庭を守り抜くサバイバル防衛ゲームです。"
-iframeSrc: "https://18ivvthj417fo.h5games.usercontent.goog/v/27786m6fltuso/"
-thumbnail: /new-images/thumbnails/backyard-zombie-defense.png
-urlstr: "backyard-zombie-defense"
-score: "4.1/5  (1994 votes)"
-tags: ["action", "defense", "zombie"]
-developer: ""
-releaseDate: 2025-10-18
 locale: ja
+title: Backyard Zombie Defense 裏庭ゾンビディフェンス
+seoTitle: 無料でBackyard Zombie Defense 裏庭ゾンビディフェンスをオンラインでプレイ | FiddleBops
+description: 「Backyard Zombie Defense」は、バリケードを築き、武器を強化して、迫りくるアンデッドの群れから裏庭を守り抜くサバイバル防衛ゲームです。
+iframeSrc: 'https://18ivvthj417fo.h5games.usercontent.goog/v/27786m6fltuso/'
+thumbnail: /new-images/thumbnails/backyard-zombie-defense.png
+urlstr: backyard-zombie-defense
+tags:
+  - action
+  - defense
+  - zombie
+score: 4.1/5  (1994 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

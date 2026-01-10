@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: shootz
 title: ShootZ
+seoTitle: Jouez à ShootZ en ligne gratuitement | FiddleBops
 description: >-
   ShootZ est un jeu de tir survitaminé où tu combats des zombies et autres
   créatures en utilisant un arsenal varié pour survivre à des vagues d’ennemis
   de plus en plus coriaces dans des affrontements rapides.
 iframeSrc: 'https://g.igroutka.ru/games/17/9IsudOxakgP0EVKC/shootz/'
 thumbnail: /new-images/thumbnails/shootz.jpg
+urlstr: shootz
 tags:
   - shooting
   - action

@@ -1,14 +1,17 @@
 ---
-title: "Brain Test 3: Tricky Quests 脳トレテスト3：トリッキークエスト"
-description: "「Brain Test 3: Tricky Quests」をプレイする絶好のチャンスです。冒険とパズルが融合したこのゲームを存分にお楽しみください！"
-iframeSrc: "https://bitlifeonline.github.io/brain-test-3-tricky-quests/"
-thumbnail: /new-images/thumbnails/3-tricky-quests.jpg
-urlstr: "3-tricky-quests"
-score: "3.6/5  (787 votes)"
-tags: ["casual", "rhythm"]
-developer: ""
-releaseDate: 2025-08-16
 locale: ja
+title: 'Brain Test 3: Tricky Quests 脳トレテスト3：トリッキークエスト'
+seoTitle: '無料でBrain Test 3: Tricky Quests 脳トレテスト3：トリッキークエストをオンラインでプレイ | FiddleBops'
+description: '「Brain Test 3: Tricky Quests」をプレイする絶好のチャンスです。冒険とパズルが融合したこのゲームを存分にお楽しみください！'
+iframeSrc: 'https://bitlifeonline.github.io/brain-test-3-tricky-quests/'
+thumbnail: /new-images/thumbnails/3-tricky-quests.jpg
+urlstr: 3-tricky-quests
+tags:
+  - casual
+  - rhythm
+score: 3.6/5  (787 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

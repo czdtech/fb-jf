@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Speed Master
+seoTitle: 無料でSpeed Masterをオンラインでプレイ | FiddleBops
 description: Speed Masterはタイミング重視の反応ゲームです。表示に合わせて入力し、精度と連続成功を目指します。
 iframeSrc: 'https://6e0ej8ct9hdj8.h5games.usercontent.goog/v/1fssfmqquil18/'
 thumbnail: /new-images/thumbnails/speed-master.png
 urlstr: speed-master
-score: 4.0/5  (1811 votes)
 tags:
   - action
   - casual
+score: 4.0/5  (1811 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

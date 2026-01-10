@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Spacebar Clicker
+seoTitle: 無料でSpacebar Clickerをオンラインでプレイ | FiddleBops
 description: Spacebar Clickerはスペースバー連打でポイントを稼ぐクリッカーです。アップグレードで自動化し、獲得効率を上げていきます。
 iframeSrc: 'https://spacebarclicker.co/game/spacebar-counter/'
 thumbnail: /new-images/thumbnails/spacebar-clicker.jpg
 urlstr: spacebar-clicker
-score: 4.1/5  (866 votes)
 tags:
   - clicker
   - idle
   - skill
+score: 4.1/5  (866 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

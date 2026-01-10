@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Jetpack Joyride
+seoTitle: 無料でJetpack Joyrideをオンラインでプレイ | FiddleBops
 description: ガジェット付きの横スクロールランナーです。電撃装置やミサイルをかわし、乗り物やコインを集め、ミッションをこなしてアップグレードを進めます。
 iframeSrc: 'https://slope-game.github.io/rungame/jetpack-joyride/'
 thumbnail: /new-images/thumbnails/jetpack-joyride.jpg
 urlstr: jetpack-joyride
-score: 4.9/5  (437 votes)
 tags:
   - runner
   - arcade
+score: 4.9/5  (437 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

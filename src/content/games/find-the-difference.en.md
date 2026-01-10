@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Find the Difference"
-description: "Sharpen your eyes and test your attention to detail! Compare two nearly identical images and find all the differences before the time runs out."
-iframeSrc: "https://findthedifference.h5games.usercontent.goog/v/0tambv0iojsn8/"
+title: Find the Difference
+seoTitle: Play Find the Difference Online Free | FiddleBops
+description: >-
+  Sharpen your eyes and test your attention to detail! Compare two nearly
+  identical images and find all the differences before the time runs out.
+iframeSrc: 'https://findthedifference.h5games.usercontent.goog/v/0tambv0iojsn8/'
 thumbnail: /new-images/thumbnails/find-the-difference.jpg
-urlstr: "find-the-difference"
-score: "4.3/5  (2100 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: find-the-difference
+tags:
+  - puzzle
+  - casual
+  - thinky
+score: 4.3/5  (2100 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

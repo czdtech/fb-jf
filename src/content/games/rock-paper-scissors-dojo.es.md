@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: rock-paper-scissors-dojo
-title: "Rock Paper Scissors Dojo"
+title: Rock Paper Scissors Dojo
+seoTitle: Juega a Rock Paper Scissors Dojo en línea gratis | FiddleBops
 description: >-
   Rock Paper Scissors Dojo convierte el piedra‑papel‑tijera en un duelo mental:
   detecta patrones, mezcla estrategias y sorprende a tus rivales en series al
   mejor de varias rondas.
-iframeSrc: "https://0o2ssijd98lgg.h5games.usercontent.goog/v/39t01692a4rs8/"
+iframeSrc: 'https://0o2ssijd98lgg.h5games.usercontent.goog/v/39t01692a4rs8/'
 thumbnail: /new-images/thumbnails/rock-paper-scissors-dojo.png
+urlstr: rock-paper-scissors-dojo
 tags:
   - casual
   - 2 player

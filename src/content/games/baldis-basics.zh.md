@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: baldis-basics
 title: Baldi's Basics 巴尔迪基础
+seoTitle: 免费在线玩 Baldi's Basics 巴尔迪基础 | FiddleBops
 description: >-
   《Baldi's Basics（巴尔迪基础）》是一款披着 90
   年代低成本教育游戏外衣的恶搞向生存恐怖作品。下面整理了收集笔记本、道具使用、角色机制与逃出校园的攻略要点。
 iframeSrc: 'https://html5.iclouds.io/baldis-basics/index.html'
 thumbnail: /new-images/thumbnails/baldis-basics.jpg
+urlstr: baldis-basics
 tags:
   - puzzle
   - horror

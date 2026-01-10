@@ -1,17 +1,18 @@
 ---
 locale: fr
-urlstr: sprunki-parasite-parasprunki-15
-title: 'Incredibox Sprunksters - Jouer à Incredibox Sprunksters en ligne'
+title: Incredibox Sprunksters
+seoTitle: Jouez à Incredibox Sprunksters en ligne gratuitement | FiddleBops
 description: >-
   Prépare‑toi pour Sprunki Parasite ParaSprunki 15, un Mod fanmade à l’ambiance
   horrifique qui transforme l’univers Sprunki en expérience musicale sombre et
   dérangeante.
 iframeSrc: 'https://kdata1.com/2025/03/paraSprunki-update-15-0-part-222/'
 thumbnail: /new-images/thumbnails/sprunki-parasite-parasprunki-15.png
+urlstr: sprunki-parasite-parasprunki-15
 tags:
   - incredibox sprunksters
-score: "4.3/5  (372 votes)"
-releaseDate: 2025-12-04
+score: 4.3/5  (372 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

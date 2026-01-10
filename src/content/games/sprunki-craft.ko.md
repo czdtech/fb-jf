@@ -1,17 +1,18 @@
 ---
 locale: ko
-urlstr: sprunki-craft
-title: "Sprunki Craft \U0001F3AE 스프룽키 크래프트 온라인"
+title: Sprunki Craft 스프룽키 크래프트
+seoTitle: Sprunki Craft 스프룽키 크래프트 무료 온라인 플레이 | FiddleBops
 description: >-
   Sprunki Craft는 Minecraft 세계와 Sprunki/Incredibox식 음악 만들기를 결합한 모드입니다. 스티브, 크리퍼
   같은 익숙한 마인크래프트 캐릭터들을 합창단으로 꾸려 나만의 리듬과 멜로디를 만드는 창의적인 음악 게임입니다.
 iframeSrc: 'https://www.minijuegos.com/embed/sprunki-craft'
 thumbnail: /new-images/thumbnails/sprunki-craft.jpg
+urlstr: sprunki-craft
 tags:
   - sprunki craft
   - sprunki craft online
 score: 4.9/5  (724 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

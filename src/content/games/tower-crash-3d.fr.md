@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: tower-crash-3d
 title: Tower Crash 3D
+seoTitle: Jouez à Tower Crash 3D en ligne gratuitement | FiddleBops
 description: >-
   Tower Crash 3D est un jeu de physique satisfaisant : tire des balles de la
   meme couleur que les blocs pour provoquer des effondrements epiques.
 iframeSrc: >-
   https://towercrash3d.h5games.usercontent.goog/v/7c54afc1-3ca4-4121-a52a-9ea74e30f0d7/
 thumbnail: /new-images/thumbnails/tower-crash-3d.jpg
+urlstr: tower-crash-3d
 tags:
   - action
   - shooting

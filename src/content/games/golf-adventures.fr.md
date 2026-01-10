@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: golf-adventures
 title: Golf Adventures
+seoTitle: Jouez à Golf Adventures en ligne gratuitement | FiddleBops
 description: >-
   Pars en Golf Adventure ! Un puzzle basé sur la physique où tu ajustes ton tir
   pour mettre la balle dans le trou en contournant obstacles et parcours
   imaginatifs en un minimum de coups.
 iframeSrc: 'https://golfadventures.h5games.usercontent.goog/v/2er1vod6k6p0o/'
 thumbnail: /new-images/thumbnails/golf-adventures.png
+urlstr: golf-adventures
 tags:
   - sports
   - puzzle

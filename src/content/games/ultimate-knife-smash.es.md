@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: ultimate-knife-smash
-title: Ultimate Knife Smash - Lluvia de cuchillos
+title: Ultimate Knife Smash
+seoTitle: Juega a Ultimate Knife Smash en línea gratis | FiddleBops
 description: >-
   Ultimate Knife Smash es un arcade de reflejos: lanza cuchillos a un objetivo
   giratorio, evita golpear las hojas ya clavadas y rompe las dianas con
   precisión.
 iframeSrc: 'https://ultimateknifesmash.h5games.usercontent.goog/v/5ifrmqkiihdj0/'
 thumbnail: /new-images/thumbnails/ultimate-knife-smash.png
+urlstr: ultimate-knife-smash
 tags:
   - action
   - casual

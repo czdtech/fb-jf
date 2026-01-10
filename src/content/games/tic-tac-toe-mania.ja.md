@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Tic Tac Toe Mania
+seoTitle: 無料でTic Tac Toe Maniaをオンラインでプレイ | FiddleBops
 description: Tic Tac Toe Maniaは、クラシックな三目並べゲームの拡張版です。様々なモードと難易度で楽しめます。
 iframeSrc: 'https://7dcsid310v1u8.h5games.usercontent.goog/v/13cfdat69ufug/'
 thumbnail: /new-images/thumbnails/tic-tac-toe-mania.png
 urlstr: tic-tac-toe-mania
-score: 3.8/5  (1678 votes)
 tags:
   - strategy
   - classic
   - board
-locale: ja
+score: 3.8/5  (1678 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

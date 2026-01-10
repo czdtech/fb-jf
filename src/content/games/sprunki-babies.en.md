@@ -1,6 +1,7 @@
 ---
 locale: en
-title: Sprunki Babies - Play Sprunki Babies Online
+title: Sprunki Babies
+seoTitle: Play Sprunki Babies Online Free | FiddleBops
 description: >-
   This charming music sandbox puts you in charge of a crew of adorable baby
   Sprunki characters, each ready to lend their unique musical voice to your
@@ -8,11 +9,11 @@ description: >-
 iframeSrc: 'https://turbowarp.org/1110888906/embed'
 thumbnail: /new-images/thumbnails/sprunki-babies.png
 urlstr: sprunki-babies
-modType: sprunki
-score: 4.0/5  (212 votes)
 tags:
   - sprunki babies
   - music
+modType: sprunki
+score: 4.0/5  (212 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

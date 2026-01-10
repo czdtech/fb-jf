@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: treasure-hunter
 title: Treasure Hunter
+seoTitle: Jouez à Treasure Hunter en ligne gratuitement | FiddleBops
 description: >-
   Treasure Hunter est un jeu d'aventure palpitant : explore des ruines
   anciennes, des grottes mysterieuses et des jungles cachees a la recherche
   d'artefacts legendaires et d'or scintillant.
 iframeSrc: 'https://m.igroutka.ru/g-1/149/TreasureHunter/'
 thumbnail: /new-images/thumbnails/treasure-hunter.jpg
+urlstr: treasure-hunter
 tags:
   - adventure
   - exploration

@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Mahjong
+seoTitle: 無料でMahjongをオンラインでプレイ | FiddleBops
 description: クラシックな麻雀ソリティアです。同じ絵柄のフリータイルをペアで消し、順番を考えながら盤面をクリアしていきます。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjong/'
 thumbnail: /new-images/thumbnails/mahjong.jpg
 urlstr: mahjong
-score: 4.8/5  (888 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.8/5  (888 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

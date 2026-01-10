@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: bubble-shooter
 title: Bubble Shooter 经典泡泡射手
+seoTitle: 免费在线玩 Bubble Shooter 经典泡泡射手 | FiddleBops
 description: 《Bubble Shooter 经典泡泡射手》是老牌泡泡龙玩法的代表作，瞄准发射泡泡，与相同颜色组成三个及以上即可消除 ，连锁坠落更能获得高分。
 iframeSrc: 'https://www.bubbleshooter-new.com/'
 thumbnail: /new-images/thumbnails/bubble-shooter.jpg
+urlstr: bubble-shooter
 tags:
   - puzzle
   - casual

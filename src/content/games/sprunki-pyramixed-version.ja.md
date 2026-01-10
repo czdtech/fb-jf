@@ -1,14 +1,15 @@
 ---
-title: Sprunki Pyramixed - Play Sprunki Pyramixed Online
+locale: ja
+title: Sprunki Pyramixed
+seoTitle: 無料でSprunki Pyramixedをオンラインでプレイ | FiddleBops
 description: Sprunki Pyramixedは音を重ねて曲を作る音楽制作プラットフォームです。直感的に操作でき、試行錯誤しながら作れます。
 iframeSrc: 'https://turbowarp.org/1133167510/embed'
 thumbnail: /new-images/thumbnails/sprunki-pyramixed-version.png
 urlstr: sprunki-pyramixed-version
-score: 4.0/5  (254 votes)
 tags:
   - sprunki pyramixed
-locale: ja
-releaseDate: 2025-12-04
+score: 4.0/5  (254 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

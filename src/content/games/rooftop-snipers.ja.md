@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Rooftop Snipers
+seoTitle: 無料でRooftop Snipersをオンラインでプレイ | FiddleBops
 description: Rooftop Snipersは物理挙動のある対戦シューティングです。屋上で撃ち合い、相手を落とした方が勝ちになります。
 iframeSrc: 'https://webglmath.github.io/rooftop-snipers/'
 thumbnail: /new-images/thumbnails/rooftop-snipers.jpg
 urlstr: rooftop-snipers
-score: 3.8/5  (995 votes)
 tags:
   - action
   - 2 player
   - casual
+score: 3.8/5  (995 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: parking-rush
 title: Parking Rush
+seoTitle: Spiele Parking Rush kostenlos online | FiddleBops
 description: >-
   Parking Rush ist ein cleveres Verkehrs-Puzzlespiel: Zeichne für jedes Auto
   eine Route zu seinem farblich passenden Parkplatz – aber achte darauf, dass
   sie unterwegs nicht zusammenstoßen.
 iframeSrc: 'https://7nq79vktk8fho.h5games.usercontent.goog/v/4u3a6m3hm9lj8/'
 thumbnail: /new-images/thumbnails/parking-rush.png
+urlstr: parking-rush
 tags:
   - puzzle
   - driving

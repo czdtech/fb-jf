@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Merge Cakes
+seoTitle: 無料でMerge Cakesをオンラインでプレイ | FiddleBops
 description: Merge Cakesはデザートを作っていくマージパズルです。ケーキをマージして新しいレシピを開放し、目標を達成します。
 iframeSrc: 'https://mergecakes.h5games.usercontent.goog/v/516lkgikje8fo/'
 thumbnail: /new-images/thumbnails/merge-cakes.jpg
 urlstr: merge-cakes
-score: 4.4/5  (2350 votes)
 tags:
   - puzzle
   - casual
+score: 4.4/5  (2350 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: golf-and-friends
 title: Golf and Friends
+seoTitle: Juega a Golf and Friends en línea gratis | FiddleBops
 description: >-
   Golf and Friends es un relajado minigolf: lee las pendientes, aprovecha los
   rebotes en paredes y encaja los putts con tus amigos para partidas muy
   acogedoras.
 iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
 thumbnail: /new-images/thumbnails/golf-and-friends.jpg
+urlstr: golf-and-friends
 tags:
   - sports
   - 2 player

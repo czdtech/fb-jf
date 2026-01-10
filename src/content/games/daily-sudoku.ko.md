@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: daily-sudoku
 title: Daily Sudoku 데일리 스도쿠
+seoTitle: Daily Sudoku 데일리 스도쿠 무료 온라인 플레이 | FiddleBops
 description: >-
   Daily Sudoku는 매일 새로운 9×9 스도쿠 퍼즐을 제공하는 논리 퍼즐 게임입니다. 가로줄, 세로줄, 각 3×3 박스에 1~9 숫자를
   한 번씩만 배치하며, 추론으로 정답을 찾아가는 정통 스도쿠를 즐겨 보세요.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-daily-sudoku/'
 thumbnail: /new-images/thumbnails/daily-sudoku.jpg
+urlstr: daily-sudoku
 tags:
   - puzzle
   - logic

@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Five Nights at Freddy's 1 (FNAF 1)"
-description: "Horror survival at a pizzeria: monitor cameras, conserve power, and shut doors/lights to keep animatronics out across five nights and beyond." 
-iframeSrc: "https://ubg77.github.io/fix/fnaf1/"
+title: Five Nights at Freddy's 1 (FNAF 1)
+seoTitle: Play Five Nights at Freddy's 1 (FNAF 1) Online Free | FiddleBops
+description: >-
+  Horror survival at a pizzeria: monitor cameras, conserve power, and shut
+  doors/lights to keep animatronics out across five nights and beyond.
+iframeSrc: 'https://ubg77.github.io/fix/fnaf1/'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-1.jpg
-urlstr: "five-nights-at-freddy-1"
-score: "4.3/5  (370 votes)"
-tags: ["horror", "strategy"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: five-nights-at-freddy-1
+tags:
+  - horror
+  - strategy
+score: 4.3/5  (370 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

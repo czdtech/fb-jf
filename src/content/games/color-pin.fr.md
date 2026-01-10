@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: color-pin
 title: Color Pin
+seoTitle: Jouez à Color Pin en ligne gratuitement | FiddleBops
 description: "Color Pin est un jeu de précision\_: plante des aiguilles dans un disque en rotation sans toucher celles déjà posées, et dans les modes colorés vise le bon segment au bon moment."
 iframeSrc: 'https://6jgggrkjibvs0.h5games.usercontent.goog/v/7qaps53r4bt10/'
 thumbnail: /new-images/thumbnails/color-pin.png
+urlstr: color-pin
 tags:
   - puzzle
   - casual

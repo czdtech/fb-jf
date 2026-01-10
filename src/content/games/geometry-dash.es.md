@@ -1,17 +1,19 @@
 ---
 locale: es
-urlstr: geometry-dash
-title: "Geometry Dash Wave Spam - Juega Geometry Dash en línea"
+title: Geometry Dash Wave Spam
+seoTitle: Juega a Geometry Dash Wave Spam en línea gratis | FiddleBops
 description: >-
-  Aquí no hay adornos. Geometry Dash Wave Spam es un modo solo Wave, puro y
-  sin filtros, pensado para romperte y volver a forjar tus reflejos: nada de
-  portales, pads de salto ni monedas, solo tu nave y un corredor de pinchos al píxel.
+  Aquí no hay adornos. Geometry Dash Wave Spam es un modo solo Wave, puro y sin
+  filtros, pensado para romperte y volver a forjar tus reflejos: nada de
+  portales, pads de salto ni monedas, solo tu nave y un corredor de pinchos al
+  píxel.
 iframeSrc: 'https://turbowarp.org/1185431027/embed'
 thumbnail: /new-images/thumbnails/geometry-dash.png
+urlstr: geometry-dash
 tags:
   - geometry dash
 score: 4.5/5  (604 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Pin the UFO"
-description: "Master the 'pull the pin' puzzle game, Pin the UFO. This guide provides expert strategies for solving levels by pulling pins in the correct order to guide the colorful aliens safely into their spaceship."
-iframeSrc: "https://pintheufo.h5games.usercontent.goog/v/08ukqv01ac45o/"
+title: Pin the UFO
+seoTitle: Play Pin the UFO Online Free | FiddleBops
+description: >-
+  Master the 'pull the pin' puzzle game, Pin the UFO. This guide provides expert
+  strategies for solving levels by pulling pins in the correct order to guide
+  the colorful aliens safely into their spaceship.
+iframeSrc: 'https://pintheufo.h5games.usercontent.goog/v/08ukqv01ac45o/'
 thumbnail: /new-images/thumbnails/pin-the-ufo.jpeg
-urlstr: "pin-the-ufo"
-score: "3.8/5 (750 votes)"
-tags: ["puzzle", "casual", "strategy"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: pin-the-ufo
+tags:
+  - puzzle
+  - casual
+  - strategy
+score: 3.8/5 (750 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

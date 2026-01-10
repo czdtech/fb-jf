@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: merge-pirates
 title: Merge Pirates
+seoTitle: Spiele Merge Pirates kostenlos online | FiddleBops
 description: >-
   Ahoy, Captain! Merg e Kanonen, Schiffe und Piratenequipment, um eine mächtige
   Flotte aufzubauen. Erfülle Aufträge, verdiene Gold und werde die legendärste
@@ -9,6 +9,7 @@ description: >-
   Merge-Puzzlespiel.
 iframeSrc: 'https://mergepirates.h5games.usercontent.goog/v/2rugbh8p4845g/'
 thumbnail: /new-images/thumbnails/merge-pirates.png
+urlstr: merge-pirates
 tags:
   - puzzle
   - casual

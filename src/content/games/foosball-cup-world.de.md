@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: foosball-cup-world
 title: Foosball Cup World
+seoTitle: Spiele Foosball Cup World kostenlos online | FiddleBops
 description: >-
   Foosball Cup World bringt schnelles Tischfußball-Feeling: platziere Schüsse im
   richtigen Winkel, timinge Spins und verteidige clever in engen Partien.
 iframeSrc: 'https://7ak26cf4bf850.h5games.usercontent.goog/v/6jmmp78dbnp50/'
 thumbnail: /new-images/thumbnails/foosball-cup-world.png
+urlstr: foosball-cup-world
 tags:
   - sports
   - soccer

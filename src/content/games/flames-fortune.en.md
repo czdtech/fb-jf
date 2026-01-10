@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Flames & Fortune"
-description: "Flames & Fortune is a tactical card‑style battler — manage hands, trade tempo, and outplay foes with smart turns."
-iframeSrc: "https://0e8d16hkgti30.h5games.usercontent.goog/v/00r0qn2t79f3g/"
+title: Flames & Fortune
+seoTitle: Play Flames & Fortune Online Free | FiddleBops
+description: >-
+  Flames & Fortune is a tactical card‑style battler — manage hands, trade tempo,
+  and outplay foes with smart turns.
+iframeSrc: 'https://0e8d16hkgti30.h5games.usercontent.goog/v/00r0qn2t79f3g/'
 thumbnail: /new-images/thumbnails/flames-fortune.jpg
-urlstr: "flames-fortune"
-score: "4.0/5  (1776 votes)"
-tags: ["card", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: flames-fortune
+tags:
+  - card
+  - thinky
+score: 4.0/5  (1776 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: bubble-trouble
 title: Bubble Trouble
+seoTitle: Spiele Bubble Trouble kostenlos online | FiddleBops
 description: >-
   Zerschieße hüpfende Blasen mit deiner Harpune in diesem schnellen
   Arcade-Actionspiel. Teile große Blasen in kleinere auf, weiche ihnen aus,
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://app-96647.games.s3.yandex.net/96647/w4h0ydt7quklspc0jxwg9kauaiii2lnx/index.html
 thumbnail: /new-images/thumbnails/bubble-trouble.jpg
+urlstr: bubble-trouble
 tags:
   - arcade
   - action

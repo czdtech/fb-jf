@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Mergest Kingdom
+seoTitle: 無料でMergest Kingdomをオンラインでプレイ | FiddleBops
 description: Mergest Kingdomは王国構築系のマージゲームです。アイテムをマージして建物を建て、土地を広げながら王国を発展させます。
 iframeSrc: 'https://620tnu7381eao.h5games.usercontent.goog/v/27p309rk86cr8/'
 thumbnail: /new-images/thumbnails/mergest-kingdom.png
 urlstr: mergest-kingdom
-score: 4.2/5  (2079 votes)
 tags:
   - casual
   - thinky
   - strategy
+score: 4.2/5  (2079 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: escaping-the-prison
 title: Escaping the Prison 탈옥하기
+seoTitle: Escaping the Prison 탈옥하기 무료 온라인 플레이 | FiddleBops
 description: >-
   Henry Stickmin 시리즈의 포인트 앤 클릭 어드벤처입니다. 각종 아이템과 루트를 선택해 감옥에서 탈출을 시도하고, 다양한 엔딩과
   웃긴 실패 장면을 모아 보세요.
 iframeSrc: 'https://classroomjq.github.io/escaping-the-prison/'
 thumbnail: /new-images/thumbnails/escaping-the-prison.jpg
+urlstr: escaping-the-prison
 tags:
   - adventure
   - point-and-click

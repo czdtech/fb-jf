@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: train-2048
 title: Train 2048 트레인 2048
+seoTitle: Train 2048 트레인 2048 무료 온라인 플레이 | FiddleBops
 description: >-
   숫자 타일 대신 기차 칸을 합치는 2048 변형 퍼즐 게임입니다. 같은 종류의 객차를 슬라이드해 하나로 합치고, 한정된 칸 안에서 계속
   업그레이드해 궁극의 2048 열차 칸을 만들어 보세요.
 iframeSrc: >-
   https://train2048.h5games.usercontent.goog/v/efebc769-0d8d-48f4-b437-af712b013132/
 thumbnail: /new-images/thumbnails/train-2048.jpg
+urlstr: train-2048
 tags:
   - puzzle
   - thinky

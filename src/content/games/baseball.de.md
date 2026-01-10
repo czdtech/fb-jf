@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: baseball
 title: Doodle Baseball
+seoTitle: Spiele Doodle Baseball kostenlos online | FiddleBops
 description: >-
   Ein Guide zu Doodle Baseball, dem charmanten Timing‑Sportspiel im Doodle‑Look.
   Erfahre, wie du spielst, Home Runs triffst, die Steuerung nutzt und häufige
   Fragen klärst.
 iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
 thumbnail: /new-images/thumbnails/baseball.jpg
+urlstr: baseball
 tags:
   - casual
   - sports

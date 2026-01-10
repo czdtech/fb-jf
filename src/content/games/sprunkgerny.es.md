@@ -1,19 +1,20 @@
 ---
 locale: es
-urlstr: sprunkgerny
-title: "Sprunkgerny - Juega a Sprunkgerny en línea"
+title: Sprunkgerny
+seoTitle: Juega a Sprunkgerny en línea gratis | FiddleBops
 description: >-
   Si buscas una experiencia musical realmente única, Sprunkgerny es una parada
   obligada. Rompe las cadenas de los juegos de ritmo tradicionales, te anima a
   abrazar la imperfección y la aleatoriedad, y te permite desatar tu inspiración
   musical a base de explorar y divertirte.
-iframeSrc: "https://turbowarp.org/1107761681/embed"
+iframeSrc: 'https://turbowarp.org/1107761681/embed'
 thumbnail: /new-images/thumbnails/sprunkgerny.png
+urlstr: sprunkgerny
 tags:
   - sprunkgerny
   - sprunkgerny online
 score: 4.9/5  (724 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

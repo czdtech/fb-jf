@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Unblock That
+seoTitle: 無料でUnblock Thatをオンラインでプレイ | FiddleBops
 description: Unblock Thatは、ブロック解除パズルゲームです。ブロックを動かして赤いブロックを脱出させましょう。
 iframeSrc: 'https://unblockthat.h5games.usercontent.goog/v/6iqu63hhulkgo/'
 thumbnail: /new-images/thumbnails/unblock-that.png
 urlstr: unblock-that
-score: 4.4/5  (2500 votes)
 tags:
   - puzzle
   - logic
   - strategy
-locale: ja
+score: 4.4/5  (2500 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 

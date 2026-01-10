@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: light-line
 title: 《Light Line》光线连线谜题
+seoTitle: 免费在线玩 《Light Line》光线连线谜题 | FiddleBops
 description: 《Light Line》是一款发光路径绘制解谜游戏，你要在棋盘上连接发光节点，不能交叉，需在转折数、线长和机关限制下设计优雅路线。
 iframeSrc: 'https://4es9bmcl5tp2o.h5games.usercontent.goog/v/5uo8nsnhp1vjo/'
 thumbnail: /new-images/thumbnails/light-line.png
+urlstr: light-line
 tags:
   - puzzle
   - thinky

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: secret-agent
 title: Secret Agent
+seoTitle: Spiele Secret Agent kostenlos online | FiddleBops
 description: >-
   Secret Agent ist ein Schleich-Action-Spiel: Schleiche an Wachen vorbei,
   schalte Fallen aus und erfülle deine Missionsziele mit Gadgets und präzisem
   Timing.
 iframeSrc: 'https://087cce7dimlq8.h5games.usercontent.goog/v/6na8sphqpnhlo/'
 thumbnail: /new-images/thumbnails/secret-agent.png
+urlstr: secret-agent
 tags:
   - action
   - puzzle

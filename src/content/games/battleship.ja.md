@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Battleship バトルシップ：海戦ゲーム
+seoTitle: 無料でBattleship バトルシップ：海戦ゲームをオンラインでプレイ | FiddleBops
 description: 「Battleship」は戦略と運の古典的海戦ゲームです。敵艦隊を推測して攻撃し、自分の艦隊を守りながら相手の全艦を撃沈せよ。完全攻略とルール解説。
 iframeSrc: 'https://cdn.gamesnacks.com/battleship2/gameCode/index.html'
 thumbnail: /new-images/thumbnails/battleship.jpg
 urlstr: battleship
-score: 4.4/5  (986 votes)
 tags:
   - puzzle
   - strategy
   - thinky
+score: 4.4/5  (986 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

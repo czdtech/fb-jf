@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: 3d-free-kick
 title: 3D Free Kick
+seoTitle: Jouez à 3D Free Kick en ligne gratuitement | FiddleBops
 description: "3D Free Kick te permet de frapper des coups francs comme un pro\_: vise le mur, donne de l’effet et fais trembler les filets sur des situations arrêtées spectaculaires."
 iframeSrc: 'https://78b0enfiv98go.h5games.usercontent.goog/v/00acsktd29tjg/'
 thumbnail: /new-images/thumbnails/3d-free-kick.png
+urlstr: 3d-free-kick
 tags:
   - sports
   - soccer

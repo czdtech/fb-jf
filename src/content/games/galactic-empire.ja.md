@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Galactic Empire
+seoTitle: 無料でGalactic Empireをオンラインでプレイ | FiddleBops
 description: トップダウン型の宇宙戦略ゲーム：資源を収穫し、船や防衛施設を建設し、敵の波を防ぎながらセクターを占領しましょう。
 iframeSrc: 'https://g.igroutka.ru/games/164/8plhaK3IOLoFbVPB/2/galactic_empire/'
 thumbnail: /new-images/thumbnails/galactic-empire.jpg
 urlstr: galactic-empire
-score: 4.3/5  (618 votes)
 tags:
   - strategy
   - space
+score: 4.3/5  (618 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

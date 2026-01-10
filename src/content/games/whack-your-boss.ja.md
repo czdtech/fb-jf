@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Whack Your Boss
+seoTitle: 無料でWhack Your Bossをオンラインでプレイ | FiddleBops
 description: Whack Your Bossは、ストレス発散ゲームです。様々な方法でボスにストレスをぶつけましょう。
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/whack-your-boss-24-ways.html'
 thumbnail: /new-images/thumbnails/whack-your-boss.jpg
 urlstr: whack-your-boss
-score: 4.7/5  (899 votes)
 tags:
   - casual
   - stress relief
   - humor
-locale: ja
+score: 4.7/5  (899 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

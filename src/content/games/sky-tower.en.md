@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Sky Tower"
-description: "Sky Tower is a stack‑builder — time drops to align floors, minimize overhangs, and build the tallest, cleanest tower."
-iframeSrc: "https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/"
+title: Sky Tower
+seoTitle: Play Sky Tower Online Free | FiddleBops
+description: >-
+  Sky Tower is a stack‑builder — time drops to align floors, minimize overhangs,
+  and build the tallest, cleanest tower.
+iframeSrc: 'https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/'
 thumbnail: /new-images/thumbnails/sky-tower.png
-urlstr: "sky-tower"
-score: "3.9/5  (1731 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: sky-tower
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 3.9/5  (1731 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

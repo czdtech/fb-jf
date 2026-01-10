@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Tower Mania
+seoTitle: 無料でTower Maniaをオンラインでプレイ | FiddleBops
 description: Tower Maniaは、タワー建設ゲームです。ブロックを積み上げてできるだけ高い塔を作りましょう。
 iframeSrc: 'https://49pvu1mm0ofc0.h5games.usercontent.goog/v/4apam1d97c7mo/'
 thumbnail: /new-images/thumbnails/tower-mania.png
 urlstr: tower-mania
-score: 4.2/5  (1850 votes)
 tags:
   - arcade
   - stacking
   - casual
-locale: ja
+score: 4.2/5  (1850 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

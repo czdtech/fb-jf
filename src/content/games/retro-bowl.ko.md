@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: retro-bowl
 title: Retro Bowl 레트로 볼
+seoTitle: Retro Bowl 레트로 볼 무료 온라인 플레이 | FiddleBops
 description: >-
   Retro Bowl은 레트로 8비트 스타일 그래픽으로 즐기는 미식축구 게임으로, 감독이자 쿼터백이 되어 팀을 운영하고 플레이를 직접 호출하며
   챔피언십 우승을 노리는 작품입니다.
 iframeSrc: 'https://game316009.konggames.com/gamez/0031/6009/live/index.html'
 thumbnail: /new-images/thumbnails/retro-bowl.jpg
+urlstr: retro-bowl
 tags:
   - sports
   - retro

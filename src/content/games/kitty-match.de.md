@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: kitty-match
 title: Kitty Match
+seoTitle: Spiele Kitty Match kostenlos online | FiddleBops
 description: >-
   Willkommen in Kitty Match, einem "purr-fekt" gemütlichen Match-3-Puzzlespiel!
   Tausche bunte Katzen-Symbole, bilde Kombos und meistere knifflige Level.
 iframeSrc: 'https://kittymatch.h5games.usercontent.goog/v/0fb0j00v75210/'
 thumbnail: /new-images/thumbnails/kitty-match.png
+urlstr: kitty-match
 tags:
   - puzzle
   - casual

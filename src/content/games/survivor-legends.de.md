@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: survivor-legends
 title: Survivor Legends
+seoTitle: Spiele Survivor Legends kostenlos online | FiddleBops
 description: >-
   Survivor Legends ist ein Auto-Angriff-Horde-Survivor: Du kreist Gegner aus,
   draftest Synergien und mähst Wellen mit guter Cooldown-Ökonomie und
   Positionierung nieder.
 iframeSrc: 'https://244mb60l209a8.h5games.usercontent.goog/v/1koih6fev3le8/'
 thumbnail: /new-images/thumbnails/survivor-legends.png
+urlstr: survivor-legends
 tags:
   - action
   - shooting

@@ -1,13 +1,16 @@
 ---
 locale: es
-urlstr: basketball-serial-shooter
 title: Basketball Serial Shooter reto de tiro en serie
+seoTitle: >-
+  Juega a Basketball Serial Shooter reto de tiro en serie en línea gratis |
+  FiddleBops
 description: >-
   Basketball Serial Shooter es un desafío de tiro a canasta rápido y basado en
   física. Ajusta la parábola, gestiona el ritmo y encadena tiros limpios bajo
   presión.
 iframeSrc: 'https://41d3mmm660u50.h5games.usercontent.goog/v/1t2n5uvjnbv1o/'
 thumbnail: /new-images/thumbnails/basketball-serial-shooter.jpg
+urlstr: basketball-serial-shooter
 tags:
   - sports
   - basketball

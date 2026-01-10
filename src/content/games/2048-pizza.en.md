@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "2048 Pizza"
-description: "2048 Pizza reimagines 2048 with toppings — slide tiles, merge matches, and bake your way to bigger slices."
-iframeSrc: "https://14qikp6hbljig.h5games.usercontent.goog/v/4htrmkq5b0b78/"
+title: 2048 Pizza
+seoTitle: Play 2048 Pizza Online Free | FiddleBops
+description: >-
+  2048 Pizza reimagines 2048 with toppings — slide tiles, merge matches, and
+  bake your way to bigger slices.
+iframeSrc: 'https://14qikp6hbljig.h5games.usercontent.goog/v/4htrmkq5b0b78/'
 thumbnail: /new-images/thumbnails/2048-pizza.png
-urlstr: "2048-pizza"
-score: "4.2/5  (2089 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: 2048-pizza
+tags:
+  - puzzle
+  - thinky
+score: 4.2/5  (2089 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

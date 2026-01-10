@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Haru Pandas Slide"
-description: "Haru Pandas Slide is a chill slider — slide tiles to reassemble panda pictures with minimal moves and satisfying logic."
-iframeSrc: "https://0vc1kolll32h8.h5games.usercontent.goog/v/0t898ulinrkag/"
+title: Haru Pandas Slide
+seoTitle: Play Haru Pandas Slide Online Free | FiddleBops
+description: >-
+  Haru Pandas Slide is a chill slider — slide tiles to reassemble panda pictures
+  with minimal moves and satisfying logic.
+iframeSrc: 'https://0vc1kolll32h8.h5games.usercontent.goog/v/0t898ulinrkag/'
 thumbnail: /new-images/thumbnails/haru-pandas-slide.png
-urlstr: "haru-pandas-slide"
-score: "4.1/5  (1953 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: haru-pandas-slide
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.1/5  (1953 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

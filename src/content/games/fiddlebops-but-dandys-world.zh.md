@@ -1,14 +1,15 @@
 ---
 locale: zh
-urlstr: fiddlebops-but-dandys-world
-title: "Fiddlebops But Dandy's World - 在线玩 Fiddlebops But Dandy's World"
-description: "Fiddlebops But Dandy's World 不仅仅是一款游戏，更是一场充满惊喜的音乐之旅。"
+title: Fiddlebops But Dandy's World
+seoTitle: 免费在线玩 Fiddlebops But Dandy's World | FiddleBops
+description: Fiddlebops But Dandy's World 不仅仅是一款游戏，更是一场充满惊喜的音乐之旅。
 iframeSrc: 'https://turbowarp.org/1114551059/embed'
 thumbnail: /new-images/thumbnails/fiddlebops-but-dandys-world.png
+urlstr: fiddlebops-but-dandys-world
 tags:
   - fiddlebops but dandy
 score: 4.6/5  (27 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

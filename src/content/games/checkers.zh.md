@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: checkers
 title: Checkers 西洋跳棋
+seoTitle: 免费在线玩 Checkers 西洋跳棋 | FiddleBops
 description: 《Checkers 西洋跳棋》是经典 8×8 棋盘跳棋游戏，两位玩家轮流沿斜线移动棋子，通过跳吃与升王争夺盘面优势。
 iframeSrc: >-
   https://app-98054.games.s3.yandex.net/98054/nmrr3mfit1y3qyd35l9zk4d8awgfxsjq/index.html
 thumbnail: /new-images/thumbnails/checkers.jpg
+urlstr: checkers
 tags:
   - board
   - puzzle

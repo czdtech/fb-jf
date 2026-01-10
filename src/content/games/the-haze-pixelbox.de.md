@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: the-haze-pixelbox
-title: The Haze Pixelbox - Play The Haze Pixelbox Online
+title: The Haze Pixelbox
+seoTitle: Spiele The Haze Pixelbox kostenlos online | FiddleBops
 description: >-
   Egal ob du Musikerfahrung hast oder einfach neugierig bist – The Haze Pixelbox
   lässt dich mit einem Stamm aus Beatboxern experimentieren und mit
   tribal‑Sounds kreative Tracks bauen.
 iframeSrc: 'https://turbowarp.org/1020955547/embed'
 thumbnail: /new-images/thumbnails/the-haze-pixelbox.png
+urlstr: the-haze-pixelbox
 tags:
   - the haze pixelbox
 score: 3.9/5  (132 votes)

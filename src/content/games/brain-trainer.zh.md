@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: brain-trainer
 title: Brain Trainer 大脑训练馆
+seoTitle: 免费在线玩 Brain Trainer 大脑训练馆 | FiddleBops
 description: 《Brain Trainer 大脑训练馆》是一款包含多种小游戏的脑力训练合集，通过记忆、反应、逻辑与计算等项目，帮助 你以轻松方式锻炼专注力与思维速度。
 iframeSrc: >-
   https://braintrainer.h5games.usercontent.goog/v/4f2ffbc6-4208-4087-bfaf-ab0db086da02/
 thumbnail: /new-images/thumbnails/brain-trainer.jpg
+urlstr: brain-trainer
 tags:
   - puzzle
   - thinky

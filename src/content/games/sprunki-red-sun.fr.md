@@ -1,17 +1,18 @@
 ---
 locale: fr
-urlstr: sprunki-red-sun
-title: Sprunki Red Sun - Jouer à Sprunki Red Sun en ligne
+title: Sprunki Red Sun
+seoTitle: Jouez à Sprunki Red Sun en ligne gratuitement | FiddleBops
 description: >-
   Sprunki Red Sun projette l’univers Sprunki dans un monde baigné d’une lumière
   rouge brûlante, avec des personnages en fusion et des sons puissants comme une
   tempête solaire.
 iframeSrc: 'https://kdata1.com/2025/02/sprunki-x-redsun/'
 thumbnail: /new-images/thumbnails/sprunki-red-sun.png
+urlstr: sprunki-red-sun
 tags:
   - sprunki red sun
 score: 4.4/5  (232 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Qu’est‑ce que Sprunki Red Sun ?

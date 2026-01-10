@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: pocket-battle-royale
 title: Pocket Battle Royale
+seoTitle: Spiele Pocket Battle Royale kostenlos online | FiddleBops
 description: >-
   Ein schneller Battle Royale aus der Top-Down-Perspektive: Plündere Waffen und
   Medipacks, bleib in der kleiner werdenden Safezone und sei der letzte
   Überlebende, um den Sieg zu holen.
 iframeSrc: 'https://pocketbattleroyale.h5games.usercontent.goog/v/1n9qfv4cpdie8/'
 thumbnail: /new-images/thumbnails/pocket-battle-royale.png
+urlstr: pocket-battle-royale
 tags:
   - action
   - shooting

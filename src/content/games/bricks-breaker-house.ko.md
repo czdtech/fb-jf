@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: bricks-breaker-house
 title: Bricks Breaker House 브릭스 브레이커 하우스
+seoTitle: Bricks Breaker House 브릭스 브레이커 하우스 무료 온라인 플레이 | FiddleBops
 description: >-
   Bricks Breaker House는 아기자기한 집 테마가 더해진 벽돌 깨기 게임입니다. 각도를 세밀하게 조절해 볼을 오래 살리고,
   파워업을 놓치지 않으면서도 안전하게 집(패들)을 지켜 보세요.
 iframeSrc: 'https://1s6hqqts5ko6o.h5games.usercontent.goog/v/7n8ge2nvqqksg/'
 thumbnail: /new-images/thumbnails/bricks-breaker-house.png
+urlstr: bricks-breaker-house
 tags:
   - puzzle
   - casual

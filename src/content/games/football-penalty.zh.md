@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: football-penalty
 title: Football Penalty 点球大战
+seoTitle: 免费在线玩 Football Penalty 点球大战 | FiddleBops
 description: Football Penalty 专注重现足球点球大战——你要选择射门落点、高度与力度， 在压力下骗过门将；有些模式中你也可以反过来扮演门将读秒扑救。
 iframeSrc: 'https://2fb6vjapfstro.h5games.usercontent.goog/v/5443q25keq2qg/'
 thumbnail: /new-images/thumbnails/football-penalty.png
+urlstr: football-penalty
 tags:
   - sports
   - soccer

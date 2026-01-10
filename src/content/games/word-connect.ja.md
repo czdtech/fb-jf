@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Word Connect
+seoTitle: 無料でWord Connectをオンラインでプレイ | FiddleBops
 description: Word Connectは、単語つなぎパズルゲームです。文字をつないで単語を作りましょう。
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288677/index.html'
 thumbnail: /new-images/thumbnails/word-connect.jpg
 urlstr: word-connect
-score: 3.9/5  (144 votes)
 tags:
   - puzzle
   - word
   - brain
-locale: ja
+score: 3.9/5  (144 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

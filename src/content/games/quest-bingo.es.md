@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: quest-bingo
 title: Quest Bingo
+seoTitle: Juega a Quest Bingo en línea gratis | FiddleBops
 description: >-
   Emprende una aventura de Bingo. Marca números a través de niveles llenos de
   retos, completa misiones, usa potentes boosters y recoge piezas de puzle en
   esta versión moderna del clásico.
 iframeSrc: 'https://52nk212336l1g.h5games.usercontent.goog/v/0smbj5p2kjk78/'
 thumbnail: /new-images/thumbnails/quest-bingo.png
+urlstr: quest-bingo
 tags:
   - card
   - puzzle

@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: rooftop-snipers
 title: Rooftop Snipers
+seoTitle: Juega a Rooftop Snipers en línea gratis | FiddleBops
 description: >-
   Rooftop Snipers es el juego de disparos con físicas original en el que dos
   personajes pixelados luchan sobre tejados usando controles sencillos para
@@ -9,6 +9,7 @@ description: >-
   ragdoll.
 iframeSrc: 'https://webglmath.github.io/rooftop-snipers/'
 thumbnail: /new-images/thumbnails/rooftop-snipers.jpg
+urlstr: rooftop-snipers
 tags:
   - shooting
   - physics

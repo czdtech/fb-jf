@@ -1,16 +1,17 @@
 ---
 locale: zh
-urlstr: spider-solitaire-card-games
 title: 《Spider Solitaire Card Games》蜘蛛纸牌合集
+seoTitle: 免费在线玩 《Spider Solitaire Card Games》蜘蛛纸牌合集 | FiddleBops
 description: 《Spider Solitaire Card Games》是一款集合多种蜘蛛纸牌规则的接龙游戏。通过不同花色与难度组合，挑战从简单到高阶的蜘蛛纸牌玩法。
 iframeSrc: 'https://ubg98.github.io/SpiderSolitaire/'
 thumbnail: /new-images/thumbnails/spider-solitaire-card-games.jpg
+urlstr: spider-solitaire-card-games
 tags:
   - card
   - solitaire
   - puzzle
 score: 4.2/5  (1141 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

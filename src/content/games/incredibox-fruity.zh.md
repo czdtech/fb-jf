@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: incredibox-fruity
-title: Incredibox Fruity - 在线玩 Incredibox Fruity
+title: Incredibox Fruity
+seoTitle: 免费在线玩 Incredibox Fruity | FiddleBops
 description: 探索 Incredibox Fruity 的终极指南，这款经典策略游戏。学习制胜策略、操作和技巧，将你的军队从穴居人进化到未来战士，主宰战场。
 iframeSrc: 'https://turbowarp.org/414716080/embed'
 thumbnail: /new-images/thumbnails/incredibox-fruity.jpg
+urlstr: incredibox-fruity
 tags:
   - strategy
   - action

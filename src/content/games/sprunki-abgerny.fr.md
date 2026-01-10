@@ -1,18 +1,16 @@
 ---
 locale: fr
-urlstr: sprunki-abgerny
-title: 'Sprunki Abgerny - Jouer à Sprunki Abgerny en ligne'
-description: >-
-  Sprunki Abgerny n’est pas un simple jeu de musique : c’est un hommage aux
-  cultures anciennes et une exploration des possibilités infinies du son.
-  Crée tes morceaux et ressens la transmission et le mélange des cultures.
+title: Sprunki Abgerny
+seoTitle: Jouez à Sprunki Abgerny en ligne gratuitement | FiddleBops
+description: "Sprunki Abgerny n’est pas un simple jeu de musique\_: c’est un hommage aux cultures anciennes et une exploration des possibilités infinies du son. Crée tes morceaux et ressens la transmission et le mélange des cultures."
 iframeSrc: 'https://turbowarp.org/1095335052/embed'
 thumbnail: /new-images/thumbnails/sprunki-abgerny.png
+urlstr: sprunki-abgerny
 tags:
   - sprunki abgerny
   - music
 score: 3.9/5  (132 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

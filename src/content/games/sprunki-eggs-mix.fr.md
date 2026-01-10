@@ -1,14 +1,15 @@
 ---
 locale: fr
-urlstr: sprunki-eggs-mix
-title: Sprunki Egg's Mix - Jouer à Sprunki Egg's Mix en ligne
+title: Sprunki Egg's Mix
+seoTitle: Jouez à Sprunki Egg's Mix en ligne gratuitement | FiddleBops
 description: "Sprunki Egg's Mix est un jeu de réflexion basé sur des œufs Sprunki aux pouvoirs variés\_: combine‑les intelligemment pour déclencher des réactions en chaîne et résoudre des niveaux toujours plus corsés."
 iframeSrc: 'https://turbowarp.org/1102648676/embed'
 thumbnail: /new-images/thumbnails/sprunki-eggs-mix.png
-score: 3.9/5  (125 votes)
+urlstr: sprunki-eggs-mix
 tags:
   - sprunki egg
-releaseDate: 2025-12-04
+score: 3.9/5  (125 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Qu’est‑ce qui rend Sprunki Egg's Mix spécial ?

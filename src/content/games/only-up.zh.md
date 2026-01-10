@@ -1,13 +1,14 @@
 ---
 locale: zh
-urlstr: only-up
 title: 《Only Up》只许向上爬
+seoTitle: 免费在线玩 《Only Up》只许向上爬 | FiddleBops
 description: >-
   《Only Up》是一款高难度 3D
   跳跃攀爬游戏，你需要在由漂浮物、废弃建筑和诡异结构组成的世界中一路向上，依靠精确的跳跃与耐心，尽量在不失足坠落的前提下登上更高处。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230826/01/index.htm
 thumbnail: /new-images/thumbnails/only-up.jpg
+urlstr: only-up
 tags:
   - platformer
   - adventure

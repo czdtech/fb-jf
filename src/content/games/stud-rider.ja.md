@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Stud Rider
+seoTitle: 無料でStud Riderをオンラインでプレイ | FiddleBops
 description: Stud Riderは、バイクレーシングゲームです。スタントを実行し、障害物を避けてレースに勝ちましょう。
 iframeSrc: 'https://0mm8l94jf1g88.h5games.usercontent.goog/v/6fo3rapem7uio/'
 thumbnail: /new-images/thumbnails/stud-rider.png
 urlstr: stud-rider
-score: 3.9/5  (1707 votes)
 tags:
   - racing
   - motorcycle
   - stunt
-locale: ja
+score: 3.9/5  (1707 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

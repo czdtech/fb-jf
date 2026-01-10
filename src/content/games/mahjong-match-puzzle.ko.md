@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: mahjong-match-puzzle
-title: "Mahjong Match Puzzle 마작 매치 퍼즐"
+title: Mahjong Match Puzzle 마작 매치 퍼즐
+seoTitle: Mahjong Match Puzzle 마작 매치 퍼즐 무료 온라인 플레이 | FiddleBops
 description: >-
-  Mahjong Match Puzzle는 마작 솔리테어와 커넥트 방식의 요소를 섞은 퍼즐로, 열린 타일을
-  짝지어 층층이 쌓인 보드를 효율적으로 비우는 것이 목표입니다.
+  Mahjong Match Puzzle는 마작 솔리테어와 커넥트 방식의 요소를 섞은 퍼즐로, 열린 타일을 짝지어 층층이 쌓인 보드를 효율적으로
+  비우는 것이 목표입니다.
 iframeSrc: 'https://5jdtfmidv5ao0.h5games.usercontent.goog/v/1qd7nn7jmar7g/'
 thumbnail: /new-images/thumbnails/mahjong-match-puzzle.png
+urlstr: mahjong-match-puzzle
 tags:
   - mahjong
   - puzzle

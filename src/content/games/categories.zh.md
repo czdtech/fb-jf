@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: categories
 title: Categories 分类猜词
+seoTitle: 免费在线玩 Categories 分类猜词 | FiddleBops
 description: 《Categories 分类猜词》是一款文字与分类结合的益智小游戏，在限定时间或次数内，为给定开头字母想出属于不同分类 的词语。
 iframeSrc: 'https://1ssgr48qrfod0.h5games.usercontent.goog/v/20nv9be906iho/'
 thumbnail: /new-images/thumbnails/categories.png
+urlstr: categories
 tags:
   - puzzle
   - word

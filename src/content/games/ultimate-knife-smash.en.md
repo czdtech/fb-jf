@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Ultimate Knife Smash"
-description: "Ultimate Knife Smash is a quick‑reflex thrower — time stabs, avoid hitting knives, and break targets cleanly."
-iframeSrc: "https://ultimateknifesmash.h5games.usercontent.goog/v/5ifrmqkiihdj0/"
+title: Ultimate Knife Smash
+seoTitle: Play Ultimate Knife Smash Online Free | FiddleBops
+description: >-
+  Ultimate Knife Smash is a quick‑reflex thrower — time stabs, avoid hitting
+  knives, and break targets cleanly.
+iframeSrc: 'https://ultimateknifesmash.h5games.usercontent.goog/v/5ifrmqkiihdj0/'
 thumbnail: /new-images/thumbnails/ultimate-knife-smash.png
-urlstr: "ultimate-knife-smash"
-score: "4.0/5  (1749 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: ultimate-knife-smash
+tags:
+  - action
+  - casual
+score: 4.0/5  (1749 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

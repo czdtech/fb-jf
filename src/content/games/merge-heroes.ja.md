@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Merge Heroes
+seoTitle: 無料でMerge Heroesをオンラインでプレイ | FiddleBops
 description: Merge Heroesはヒーローをマージして強化するRPG系マージゲームです。編成を整え、敵と戦います。
 iframeSrc: 'https://mergeheroes.h5games.usercontent.goog/v/7i7m361ib4vr8/'
 thumbnail: /new-images/thumbnails/merge-heroes.png
 urlstr: merge-heroes
-score: 4.4/5  (2350 votes)
 tags:
   - strategy
   - casual
   - thinky
+score: 4.4/5  (2350 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

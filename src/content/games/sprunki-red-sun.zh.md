@@ -1,14 +1,15 @@
 ---
-locale: "zh"
-urlstr: "sprunki-red-sun"
-
-title: "Sprunki Red Sun - 在线玩 Sprunki Red Sun"
-description: "Sprunki Red Sun Mod 将熟悉的 Sprunki 宇宙投入一个戏剧性的、火热的领域，由强烈的红色色调和有力的节奏节拍主导。"
-iframeSrc: "https://kdata1.com/2025/02/sprunki-x-redsun/"
+locale: zh
+title: Sprunki Red Sun
+seoTitle: 免费在线玩 Sprunki Red Sun | FiddleBops
+description: Sprunki Red Sun Mod 将熟悉的 Sprunki 宇宙投入一个戏剧性的、火热的领域，由强烈的红色色调和有力的节奏节拍主导。
+iframeSrc: 'https://kdata1.com/2025/02/sprunki-x-redsun/'
 thumbnail: /new-images/thumbnails/sprunki-red-sun.png
-score: "4.4/5  (232 votes)"
-tags: ["sprunki red sun"]
-releaseDate: 2025-12-04
+urlstr: sprunki-red-sun
+tags:
+  - sprunki red sun
+score: 4.4/5  (232 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### 什么是 Sprunki Red Sun？

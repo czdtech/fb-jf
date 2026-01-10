@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: jigsaw-puzzles-hexa
 title: Jigsaw Puzzles Hexa
+seoTitle: Spiele Jigsaw Puzzles Hexa kostenlos online | FiddleBops
 description: >-
   Ein frischer Dreh für klassische Puzzles: Ziehe und platziere sechseckige
   Teile, um wunderschöne HD-Bilder zu vervollständigen – entspannend und
   zugleich knifflig für jedes Alter.
 iframeSrc: 'https://jigsawpuzzleshexa.h5games.usercontent.goog/v/5e9bm1tuf1me0/'
 thumbnail: /new-images/thumbnails/jigsaw-puzzles-hexa.jpg
+urlstr: jigsaw-puzzles-hexa
 tags:
   - puzzle
   - casual

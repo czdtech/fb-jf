@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Uncle Ahmed
+seoTitle: 無料でUncle Ahmedをオンラインでプレイ | FiddleBops
 description: Uncle Ahmedは、アドベンチャーパズルゲームです。アンクルアーメッドを助けて謎を解きましょう。
 iframeSrc: >-
   https://uncleahmed.h5games.usercontent.goog/v/31ca380f-5493-4371-b5ac-5c3c2da67626/
 thumbnail: /new-images/thumbnails/uncle-ahmed.jpg
 urlstr: uncle-ahmed
-score: 4.2/5  (1950 votes)
 tags:
   - adventure
   - puzzle
   - story
-locale: ja
+score: 4.2/5  (1950 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 

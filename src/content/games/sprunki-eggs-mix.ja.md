@@ -1,13 +1,15 @@
 ---
-title: "Sprunki Egg's Mix - Play Sprunki Egg's Mix Online"
-description: "Sprunki Egg's Mixはエッグを組み合わせて連鎖を狙うパズルゲームです。属性の違いを活かしながら盤面をクリアしていきます。"
-iframeSrc: "https://turbowarp.org/1102648676/embed"
-thumbnail: /new-images/thumbnails/sprunki-eggs-mix.png
-urlstr: "sprunki-eggs-mix"
-score: "3.9/5  (125 votes)"
-tags: ["sprunki egg"]
 locale: ja
-releaseDate: 2025-12-04
+title: Sprunki Egg's Mix
+seoTitle: 無料でSprunki Egg's Mixをオンラインでプレイ | FiddleBops
+description: Sprunki Egg's Mixはエッグを組み合わせて連鎖を狙うパズルゲームです。属性の違いを活かしながら盤面をクリアしていきます。
+iframeSrc: 'https://turbowarp.org/1102648676/embed'
+thumbnail: /new-images/thumbnails/sprunki-eggs-mix.png
+urlstr: sprunki-eggs-mix
+tags:
+  - sprunki egg
+score: 3.9/5  (125 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Egg's Mixの特別なところは？

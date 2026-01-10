@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: idle-breakout
 title: 《Idle Breakout》挂机打砖块
+seoTitle: 免费在线玩 《Idle Breakout》挂机打砖块 | FiddleBops
 description: >-
   《Idle
   Breakout》是一款把放置玩法与经典打砖块结合的游戏，你既可以点击砸砖，也能购买自动弹球与炮台，配合转生倍率和极限加点，打造越滚越快的刷砖工厂。
 iframeSrc: 'https://ubg98.github.io/IdleBreakout/'
 thumbnail: /new-images/thumbnails/idle-breakout.jpg
+urlstr: idle-breakout
 tags:
   - idle
   - clicker

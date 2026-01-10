@@ -1,19 +1,20 @@
 ---
+locale: ja
 title: Bubble Woods Ultimate バブル・ウッズ・アルティメット
+seoTitle: 無料でBubble Woods Ultimate バブル・ウッズ・アルティメットをオンラインでプレイ | FiddleBops
 description: >-
   「Bubble Woods
   Ultimate」は60秒一本勝負の高速バブルシューター。魔法の森で可愛いリスと協力し、スペシャルバブルを駆使してハイスコアを叩き出せ。
 iframeSrc: 'https://bubblewoods4.h5games.usercontent.goog/v/4jslovpheann0/'
 thumbnail: /new-images/thumbnails/bubble-woods-ultimate.png
 urlstr: bubble-woods-ultimate
-score: 4.4/5  (2500 votes)
 tags:
   - casual
   - puzzle
   - match-3
+score: 4.4/5  (2500 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

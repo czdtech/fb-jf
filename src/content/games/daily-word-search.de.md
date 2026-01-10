@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: daily-word-search
 title: Daily Word Search
+seoTitle: Spiele Daily Word Search kostenlos online | FiddleBops
 description: >-
   Daily Word Search bietet entspannte Wortsuchen – finde versteckte Begriffe in
   alle Richtungen und spiele auf Zeit oder ganz ohne Druck.
 iframeSrc: 'https://1i20ele8n07u0.h5games.usercontent.goog/v/1n8osodo9gs80/'
 thumbnail: /new-images/thumbnails/daily-word-search.png
+urlstr: daily-word-search
 tags:
   - puzzle
   - thinky

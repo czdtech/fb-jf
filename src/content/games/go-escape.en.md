@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Go Escape"
-description: "Go Escape is a precise escape‑platformer — time jumps, read traps, and thread safe routes through compact rooms."
-iframeSrc: "https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/"
+title: Go Escape
+seoTitle: Play Go Escape Online Free | FiddleBops
+description: >-
+  Go Escape is a precise escape‑platformer — time jumps, read traps, and thread
+  safe routes through compact rooms.
+iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
 thumbnail: /new-images/thumbnails/go-escape.png
-urlstr: "go-escape"
-score: "4.0/5  (1833 votes)"
-tags: ["puzzle", "escape", "action"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: go-escape
+tags:
+  - puzzle
+  - escape
+  - action
+score: 4.0/5  (1833 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

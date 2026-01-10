@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Big Shot Boxing ビッグショット・ボクシング
+seoTitle: 無料でBig Shot Boxing ビッグショット・ボクシングをオンラインでプレイ | FiddleBops
 description: >-
   「Big Shot
   Boxing」で伝説のチャンピオンを目指せ！ストリートファイトから世界王者へ。レトロスタイルの熱いボクシングゲームの攻略法、トレーニング戦略、操作テクニックを完全解説。
 iframeSrc: 'https://rebemanae.github.io/big-shot-boxing/'
 thumbnail: /new-images/thumbnails/big-shot-boxing.jpg
 urlstr: big-shot-boxing
-score: 4.8/5  (1401 votes)
 tags:
   - sports
   - action
+score: 4.8/5  (1401 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

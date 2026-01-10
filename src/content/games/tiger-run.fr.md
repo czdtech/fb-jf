@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: tiger-run
 title: Tiger Run
+seoTitle: Jouez à Tiger Run en ligne gratuitement | FiddleBops
 description: >-
   Tiger Run est un runner de jungle : fonce, saute et glisse pour esquiver les
   obstacles et collecter des pieces.
 iframeSrc: 'https://tigerrun.h5games.usercontent.goog/v/1cl0c4rtsjsqo/'
 thumbnail: /new-images/thumbnails/tiger-run.jpeg
+urlstr: tiger-run
 tags:
   - action
   - casual

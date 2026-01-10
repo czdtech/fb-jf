@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: candy-bubbles
 title: Candy Bubbles
+seoTitle: Spiele Candy Bubbles kostenlos online | FiddleBops
 description: >-
   Betritt eine zuckersüße Welt in Candy Bubbles. Ziele mit der Kanone, triff
   Gruppen aus mindestens drei gleichfarbigen Bonbonblasen und räume das
   Spielfeld in diesem entspannten Bubble-Shooter-Puzzle.
 iframeSrc: 'https://candybubbles.h5games.usercontent.goog/v/370v1t5h5266g/'
 thumbnail: /new-images/thumbnails/candy-bubbles.png
+urlstr: candy-bubbles
 tags:
   - shooting
   - puzzle

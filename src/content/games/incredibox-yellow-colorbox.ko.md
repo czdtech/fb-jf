@@ -1,18 +1,18 @@
 ---
 locale: ko
-urlstr: incredibox-yellow-colorbox
-title: "Incredibox Yellow Colorbox 옐로우 컬러박스 모드"
+title: Incredibox Yellow Colorbox 옐로우 컬러박스 모드
+seoTitle: Incredibox Yellow Colorbox 옐로우 컬러박스 모드 무료 온라인 플레이 | FiddleBops
 description: >-
-  모든 캐릭터가 노란색 테마로 등장하는 팬메이드 모드
-  'Incredibox Yellow Colorbox'를 소개합니다. 각기 다른 사운드를
+  모든 캐릭터가 노란색 테마로 등장하는 팬메이드 모드 'Incredibox Yellow Colorbox'를 소개합니다. 각기 다른 사운드를
   가진 캐릭터들을 조합해 나만의 음악을 만드는 방법을 다룹니다.
 iframeSrc: 'https://www.minijuegos.com/embed/incredibox-yellow-colorbox'
 thumbnail: /new-images/thumbnails/incredibox-yellow-colorbox.png
+urlstr: incredibox-yellow-colorbox
 tags:
   - incredibox yellow colorbox
   - incredibox yellow colorbox online
 score: 4.5/5  (614 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

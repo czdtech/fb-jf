@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: dogeminer
 title: DogeMiner 狗狗币挖矿放置版
+seoTitle: 免费在线玩 DogeMiner 狗狗币挖矿放置版 | FiddleBops
 description: >-
   《DogeMiner 狗狗币挖矿放置版》是一款主题搞怪的放置点击游戏。通过点击挖矿、购买升级和
   助手，让挖矿过程自动化并不断加速产出，最终朝月球甚至更远处进发。
 iframeSrc: 'https://edufall.github.io/o16/doge-miner/'
 thumbnail: /new-images/thumbnails/dogeminer.jpg
+urlstr: dogeminer
 tags:
   - idle
   - clicker

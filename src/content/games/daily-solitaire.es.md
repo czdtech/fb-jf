@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: daily-solitaire
 title: Daily Solitaire
+seoTitle: Juega a Daily Solitaire en línea gratis | FiddleBops
 description: >-
   Cada día te espera un nuevo desafío de Solitario Klondike. Ordena las cartas
   del As al Rey y pon a prueba tu habilidad con un puzle fresco a diario.
 iframeSrc: 'https://dailysolitaire.h5games.usercontent.goog/v/0e4orvvorj2mo/'
 thumbnail: /new-images/thumbnails/daily-solitaire.png
+urlstr: daily-solitaire
 tags:
   - card
   - puzzle

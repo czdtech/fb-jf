@@ -1,14 +1,15 @@
 ---
 locale: es
-urlstr: treasure-hunter
-title: "Treasure Hunter - Cazador de tesoros"
+title: Treasure Hunter
+seoTitle: Juega a Treasure Hunter en línea gratis | FiddleBops
 description: >-
   Emprende una emocionante búsqueda en Treasure Hunter. Explora ruinas antiguas,
   cuevas misteriosas y junglas ocultas en busca de artefactos legendarios y
   montones de oro. Esquiva trampas, resuelve puzles y adelántate a tus rivales
   para reclamar tu fortuna.
-iframeSrc: "https://m.igroutka.ru/g-1/149/TreasureHunter/"
+iframeSrc: 'https://m.igroutka.ru/g-1/149/TreasureHunter/'
 thumbnail: /new-images/thumbnails/treasure-hunter.jpg
+urlstr: treasure-hunter
 tags:
   - adventure
   - exploration

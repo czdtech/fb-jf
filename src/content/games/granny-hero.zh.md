@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: granny-hero
 title: 《Granny Hero》奶奶英雄跑酷
+seoTitle: 免费在线玩 《Granny Hero》奶奶英雄跑酷 | FiddleBops
 description: 《Granny Hero》是一款充满喜感的动作跑酷游戏——操控敏捷奶奶在街头疾跑，躲避危险、使用古怪道具，一路营救需要帮助的邻居。
 iframeSrc: 'https://0nd9712ar55uo.h5games.usercontent.goog/v/3qru4tsu7d5v0/'
 thumbnail: /new-images/thumbnails/granny-hero.png
+urlstr: granny-hero
 tags:
   - action
   - casual

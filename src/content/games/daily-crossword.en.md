@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Daily Crossword"
-description: "Daily Crossword delivers a fresh crossword each day: solve across and down clues to fill the grid."
-iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword/"
+title: Daily Crossword
+seoTitle: Play Daily Crossword Online Free | FiddleBops
+description: >-
+  Daily Crossword delivers a fresh crossword each day: solve across and down
+  clues to fill the grid.
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword/'
 thumbnail: /new-images/thumbnails/daily-crossword.jpg
-urlstr: "daily-crossword"
-score: "4.4/5  (1181 votes)"
-tags: ["word", "puzzle"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: daily-crossword
+tags:
+  - word
+  - puzzle
+score: 4.4/5  (1181 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

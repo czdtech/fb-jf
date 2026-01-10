@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Odd One Out
+seoTitle: 無料でOdd One Outをオンラインでプレイ | FiddleBops
 description: Odd One Outは観察パズルゲームです。並んだアイテムの中から異なるものを見つけ、違いを見抜きます。
 iframeSrc: 'https://oddoneout.h5games.usercontent.goog/v/50nqosk9lm28o/'
 thumbnail: /new-images/thumbnails/odd-one-out.jpg
 urlstr: odd-one-out
-score: 4.0/5 (987 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.0/5 (987 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

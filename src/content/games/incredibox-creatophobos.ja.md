@@ -1,14 +1,19 @@
 ---
-title: "Incredibox Creatophobos"
-description: "不気味なホラーテーマのファンメイドMod「Incredibox Creatophobos」の秘密を明らかにしましょう。このガイドでは、モンスター的で産業的なサウンドパレットを詳しく説明し、恐ろしいサウンドスケープを作成するためのヒントを提供します。"
-iframeSrc: "https://turbowarp.org/1041902515/embed"
-thumbnail: /new-images/thumbnails/incredibox-creatophobos.png
-urlstr: "incredibox-creatophobos"
-score: "4.6/5 (1342 votes)"
-tags: ["music", "horror"]
-developer: ""
-releaseDate: 2025-10-10
 locale: ja
+title: Incredibox Creatophobos
+seoTitle: 無料でIncredibox Creatophobosをオンラインでプレイ | FiddleBops
+description: >-
+  不気味なホラーテーマのファンメイドMod「Incredibox
+  Creatophobos」の秘密を明らかにしましょう。このガイドでは、モンスター的で産業的なサウンドパレットを詳しく説明し、恐ろしいサウンドスケープを作成するためのヒントを提供します。
+iframeSrc: 'https://turbowarp.org/1041902515/embed'
+thumbnail: /new-images/thumbnails/incredibox-creatophobos.png
+urlstr: incredibox-creatophobos
+tags:
+  - music
+  - horror
+score: 4.6/5 (1342 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

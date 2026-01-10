@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: highway-traffic
-title: "Highway Traffic"
+title: Highway Traffic
+seoTitle: Juega a Highway Traffic en línea gratis | FiddleBops
 description: >-
   Conduce a toda velocidad por una autopista abarrotada en primera persona,
   esquiva coches, completa misiones y gana dinero para desbloquear vehículos y
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://app-97317.games.s3.yandex.net/97317/zr27uqx4qauq31fg2ud41a7oye9c4dki/index.html
 thumbnail: /new-images/thumbnails/highway-traffic.jpg
+urlstr: highway-traffic
 tags:
   - driving
   - traffic

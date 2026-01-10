@@ -1,18 +1,19 @@
 ---
 locale: fr
-urlstr: incredibox
 title: Incredibox
+seoTitle: Jouez à Incredibox en ligne gratuitement | FiddleBops
 description: >-
   Envie de créer ton propre hit avec une bande de beatboxers déjantés ?
   Incredibox mélange jeu et création musicale pour tous les âges, directement
   dans ton navigateur.
 iframeSrc: 'https://nom74100.github.io/in-box/'
 thumbnail: /new-images/thumbnails/incredibox.png
+urlstr: incredibox
 tags:
   - incredibox
   - incredibox online
 score: 4.9/5  (724 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

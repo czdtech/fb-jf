@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Stick War"
-description: "Lead your stickman army to victory in Stick War, a classic real-time strategy game. Mine for gold, train a variety of units like swordsmen, archers, and giants, and command them in battle. Destroy the enemy statue while defending your own to conquer the land of Inamorta."
-iframeSrc: "https://www.gamenora.com/upload/games/swf/stick_war/"
+title: Stick War
+seoTitle: Play Stick War Online Free | FiddleBops
+description: >-
+  Lead your stickman army to victory in Stick War, a classic real-time strategy
+  game. Mine for gold, train a variety of units like swordsmen, archers, and
+  giants, and command them in battle. Destroy the enemy statue while defending
+  your own to conquer the land of Inamorta.
+iframeSrc: 'https://www.gamenora.com/upload/games/swf/stick_war/'
 thumbnail: /new-images/thumbnails/stick-war.jpg
-urlstr: "stick-war"
-score: "3.6/5  (1080 votes)"
-tags: ["strategy", "rts", "war"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: stick-war
+tags:
+  - strategy
+  - rts
+  - war
+score: 3.6/5  (1080 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

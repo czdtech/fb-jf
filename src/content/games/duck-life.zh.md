@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: duck-life
 title: Duck Life 小鸭养成与赛跑
+seoTitle: 免费在线玩 Duck Life 小鸭养成与赛跑 | FiddleBops
 description: Duck Life 是系列的初代作品，你要通过迷你游戏训练小鸭的跑步、游泳与飞行能力， 提升数值后参加比赛，一路解锁新地区。
 iframeSrc: 'https://games.wixgames.co.uk/games/ducklife1/webgl/'
 thumbnail: /new-images/thumbnails/duck-life.jpg
+urlstr: duck-life
 tags:
   - racing
   - simulation

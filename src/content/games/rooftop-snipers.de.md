@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: rooftop-snipers
 title: Rooftop Snipers
+seoTitle: Spiele Rooftop Snipers kostenlos online | FiddleBops
 description: >-
   Rooftop Snipers ist das ursprüngliche physikbasierte Duellspiel, in dem zwei
   Pixelfiguren auf Dächern gegeneinander antreten, mit simplen Controls schießen
   und sich dank Ragdoll-Physik gegenseitig von den Gebäuden fegen.
 iframeSrc: 'https://webglmath.github.io/rooftop-snipers/'
 thumbnail: /new-images/thumbnails/rooftop-snipers.jpg
+urlstr: rooftop-snipers
 tags:
   - shooting
   - physics

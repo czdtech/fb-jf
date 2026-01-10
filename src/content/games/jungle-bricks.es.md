@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: jungle-bricks
 title: Jungle Bricks
+seoTitle: Juega a Jungle Bricks en línea gratis | FiddleBops
 description: >-
   Apunta y dispara para limpiar el tablero en Jungle Bricks. Un brick‑breaker
   lleno de color donde debes destruir bloques numerados antes de que lleguen al
   fondo.
 iframeSrc: 'https://0gt5ae21ln70o.h5games.usercontent.goog/v/0762mjie8e8s0/'
 thumbnail: /new-images/thumbnails/jungle-bricks.png
+urlstr: jungle-bricks
 tags:
   - puzzle
   - shooting

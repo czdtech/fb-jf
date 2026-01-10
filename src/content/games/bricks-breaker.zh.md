@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: bricks-breaker
 title: Bricks Breaker 现代打砖块
+seoTitle: 免费在线玩 Bricks Breaker 现代打砖块 | FiddleBops
 description: 《Bricks Breaker 现代打砖块》是一款节奏爽快的打砖块游戏，控制挡板反弹小球打碎砖块，配合多种强化道具挑战 各种砖块布局。
 iframeSrc: 'https://5enjropk1ren8.h5games.usercontent.goog/v/6u5qapt4kt1j8/'
 thumbnail: /new-images/thumbnails/bricks-breaker.jpg
+urlstr: bricks-breaker
 tags:
   - action
   - casual

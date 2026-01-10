@@ -1,16 +1,21 @@
 ---
 locale: en
-modType: incredibox
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Incredibox Fruity"
-description: "iscover the ultimate guide to Incredibox Fruity, the classic strategy game. Learn winning strategies, controls, and tips to evolve your army from cavemen to future warriors and dominate the battlefield."
-iframeSrc: "https://turbowarp.org/414716080/embed"
+title: Incredibox Fruity
+seoTitle: Play Incredibox Fruity Online Free | FiddleBops
+description: >-
+  iscover the ultimate guide to Incredibox Fruity, the classic strategy game.
+  Learn winning strategies, controls, and tips to evolve your army from cavemen
+  to future warriors and dominate the battlefield.
+iframeSrc: 'https://turbowarp.org/414716080/embed'
 thumbnail: /new-images/thumbnails/incredibox-fruity.jpg
-urlstr: "incredibox-fruity"
-score: "4.5/5  (525 votes)"
-tags: ["strategy", "action"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: incredibox-fruity
+tags:
+  - strategy
+  - action
+modType: incredibox
+score: 4.5/5  (525 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

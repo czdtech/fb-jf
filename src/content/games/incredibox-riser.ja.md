@@ -1,14 +1,20 @@
 ---
-title: "Incredibox Riser"
-description: "Incredibox Riserのガイドです。アンビエント系サウンドパレットや、コズミックなトラックを作るゲームプレイ、SFテーマのボーナス演出の探し方を紹介します。"
-iframeSrc: "https://turbowarp.org/966510261/embed"
-thumbnail: /new-images/thumbnails/incredibox-riser.png
-urlstr: "incredibox-riser"
-score: "4.6/5 (1490 votes)"
-tags: ["music", "electronic", "rhythm"]
-developer: ""
-releaseDate: 2025-10-10
 locale: ja
+title: Incredibox Riser
+seoTitle: 無料でIncredibox Riserをオンラインでプレイ | FiddleBops
+description: >-
+  Incredibox
+  Riserのガイドです。アンビエント系サウンドパレットや、コズミックなトラックを作るゲームプレイ、SFテーマのボーナス演出の探し方を紹介します。
+iframeSrc: 'https://turbowarp.org/966510261/embed'
+thumbnail: /new-images/thumbnails/incredibox-riser.png
+urlstr: incredibox-riser
+tags:
+  - music
+  - electronic
+  - rhythm
+score: 4.6/5 (1490 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

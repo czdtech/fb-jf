@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: 2048-fusion
 title: 2048 Fusion
+seoTitle: Spiele 2048 Fusion kostenlos online | FiddleBops
 description: >-
   2048 Fusion ist eine moderne Variante des klassischen 2048‑Puzzles. Schiebe
   nummerierte Kacheln zusammen, verschmelze gleiche Zahlen zu höheren Werten und
   plane deine Züge so, dass das Feld nicht vollläuft.
 iframeSrc: 'https://7t79nelq6lu50.h5games.usercontent.goog/v/7jm0opa5dtf00/'
 thumbnail: /new-images/thumbnails/2048-fusion.png
+urlstr: 2048-fusion
 tags:
   - puzzle
   - thinky

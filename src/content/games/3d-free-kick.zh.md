@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: 3d-free-kick
 title: 3D Free Kick 3D 任意球
+seoTitle: 免费在线玩 3D Free Kick 3D 任意球 | FiddleBops
 description: 《3D Free Kick（3D 任意球）》让你在一球定胜负的定位球瞬间化身顶级射手，精确瞄准人墙和门将空当，用弧线与落点打出一记记教科书般的任意球。
 iframeSrc: 'https://78b0enfiv98go.h5games.usercontent.goog/v/00acsktd29tjg/'
 thumbnail: /new-images/thumbnails/3d-free-kick.png
+urlstr: 3d-free-kick
 tags:
   - sports
   - soccer

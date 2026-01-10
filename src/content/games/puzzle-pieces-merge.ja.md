@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Puzzle Pieces Merge
+seoTitle: 無料でPuzzle Pieces Mergeをオンラインでプレイ | FiddleBops
 description: Puzzle Pieces Mergeはパズルのマージゲームです。同じピースを組み合わせて画像を完成させます。
 iframeSrc: 'https://5burcumauc5p0.h5games.usercontent.goog/v/4k8cb35sbe9fo/'
 thumbnail: /new-images/thumbnails/puzzle-pieces-merge.jpg
 urlstr: puzzle-pieces-merge
-score: 4.3/5  (1800 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.3/5  (1800 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

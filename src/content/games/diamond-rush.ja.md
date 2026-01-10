@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Diamond Rush ダイヤモンド・ラッシュ
+seoTitle: 無料でDiamond Rush ダイヤモンド・ラッシュをオンラインでプレイ | FiddleBops
 description: 「Diamond Rush」で煌めくパズル体験を。ダイヤモンドを入れ替えてマッチさせ、ハイスコアを目指す爽快マッチ3パズル。
 iframeSrc: 'https://diamondrush.h5games.usercontent.goog/v/63ok750qri670/'
 thumbnail: /new-images/thumbnails/diamond-rush.png
 urlstr: diamond-rush
-score: 4.3/5  (2010 votes)
 tags:
   - puzzle
   - casual
   - action
+score: 4.3/5  (2010 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

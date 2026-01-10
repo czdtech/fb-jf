@@ -1,17 +1,18 @@
 ---
 locale: en
 title: Lemonade Stand
+seoTitle: Play Lemonade Stand Online Free | FiddleBops
 description: >-
   Classic business sim: set price, recipe, and advertising; buy cups/lemons/ice;
   and manage daily profit under changing weather.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/lemonade-stand.html'
 thumbnail: /new-images/thumbnails/lemonade-stand.jpg
 urlstr: lemonade-stand
-score: 3.9/5  (232 votes)
 tags:
   - simulation
   - tycoon
   - strategy
+score: 3.9/5  (232 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---

@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: jewel-blocks
 title: Jewel Blocks
+seoTitle: Jouez à Jewel Blocks en ligne gratuitement | FiddleBops
 description: >-
   Jewel Blocks est un puzzle de placement : fais glisser des blocs sertis de
   joyaux sur une grille 10x10 pour compléter des lignes, sans jamais pouvoir les
   faire pivoter.
 iframeSrc: 'https://jewelblocks.h5games.usercontent.goog/v/0puee6ie0j880/'
 thumbnail: /new-images/thumbnails/jewel-blocks.png
+urlstr: jewel-blocks
 tags:
   - puzzle
   - thinky

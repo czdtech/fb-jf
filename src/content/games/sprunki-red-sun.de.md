@@ -1,14 +1,18 @@
 ---
 locale: de
-urlstr: sprunki-red-sun
-title: "Sprunki Red Sun - Sprunki Red Sun online spielen"
-description: "Der Sprunki Red Sun Mod taucht das Sprunki-Universum in eine glühende, rote Welt: mit feurigen Charakterdesigns, schweren Bässen und einem Sound, der sich wie ein musikalischer Vulkanausbruch anfühlt."
+title: Sprunki Red Sun
+seoTitle: Spiele Sprunki Red Sun kostenlos online | FiddleBops
+description: >-
+  Der Sprunki Red Sun Mod taucht das Sprunki-Universum in eine glühende, rote
+  Welt: mit feurigen Charakterdesigns, schweren Bässen und einem Sound, der sich
+  wie ein musikalischer Vulkanausbruch anfühlt.
 iframeSrc: 'https://kdata1.com/2025/02/sprunki-x-redsun/'
 thumbnail: /new-images/thumbnails/sprunki-red-sun.png
+urlstr: sprunki-red-sun
 tags:
   - sprunki red sun
 score: 4.4/5  (232 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Was ist Sprunki Red Sun?

@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: archery
 title: Archery World Tour 아처리 월드 투어
+seoTitle: Archery World Tour 아처리 월드 투어 무료 온라인 플레이 | FiddleBops
 description: >-
   활과 화살을 들고 전 세계의 사격장을 돌며 점수를 겨루는 사실적인 양궁 게임 Archery World Tour입니다. 바람과 거리까지 고려해
   한가운데를 맞혀 보세요.
 iframeSrc: >-
   https://archery.h5games.usercontent.goog/v/f12fb2aa-d64b-4074-8974-31705698e2e6/
 thumbnail: /new-images/thumbnails/archery.jpg
+urlstr: archery
 tags:
   - sports
   - shooting

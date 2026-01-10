@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: run-3
 title: 《Run 3》太空隧道狂奔
+seoTitle: 免费在线玩 《Run 3》太空隧道狂奔 | FiddleBops
 description: 《Run 3》是一款发生在太空中的无尽跑酷游戏。你操控外星小角色在三维隧道里一路狂奔，跨越断层、躲避障碍，并利用重力变化在墙壁和天花板上奔跑。
 iframeSrc: 'https://lekug.github.io/tn6pS9dCf37xAhkJv/index.html'
 thumbnail: /new-images/thumbnails/run-3.jpg
+urlstr: run-3
 tags:
   - endless runner
   - space

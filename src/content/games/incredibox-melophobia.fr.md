@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: incredibox-melophobia
 title: Incredibox Melophobia
+seoTitle: Jouez à Incredibox Melophobia en ligne gratuitement | FiddleBops
 description: >-
   Incredibox Melophobia est un mod expérimental et surréaliste : sons chiptune,
   samples étranges et bruitages déroutants pour créer des paysages sonores
   atypiques.
 iframeSrc: 'https://turbowarp.org/1110167821/embed'
 thumbnail: /new-images/thumbnails/incredibox-melophobia.png
+urlstr: incredibox-melophobia
 tags:
   - music
   - rhythm

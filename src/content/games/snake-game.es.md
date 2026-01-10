@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: snake-game
 title: Snake Game
+seoTitle: Juega a Snake Game en línea gratis | FiddleBops
 description: >-
   Snake Game es el clásico juego de arcade en el que controlas una serpiente que
   crece al comer comida, evitando chocar contra las paredes o contra tu propio
   cuerpo mientras intentas lograr la mayor puntuación posible.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/snake/'
 thumbnail: /new-images/thumbnails/snake-game.jpg
+urlstr: snake-game
 tags:
   - classic
   - arcade

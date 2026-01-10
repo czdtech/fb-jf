@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Space Survivor
+seoTitle: 無料でSpace Survivorをオンラインでプレイ | FiddleBops
 description: Space Survivorはローグライク系のサバイバルアクションです。宇宙船を操作して敵の群れを避け、経験値で武器や強化を選びながら生き残ります。
 iframeSrc: 'https://76sb7kgqtg5kg.h5games.usercontent.goog/v/5s72d5756n840/'
 thumbnail: /new-images/thumbnails/space-survivor.png
 urlstr: space-survivor
-score: 4.5/5  (2900 votes)
 tags:
   - action
   - shooting
   - casual
+score: 4.5/5  (2900 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 

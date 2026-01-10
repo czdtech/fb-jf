@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: five-nights-at-freddy-2
 title: Five Nights at Freddy's 2 (FNAF 2)
+seoTitle: Juega a Five Nights at Freddy's 2 (FNAF 2) en línea gratis | FiddleBops
 description: >-
   Gestión de máscara y caja de música: controla a múltiples animatrónicos, dale
   cuerda a la caja de la Marioneta, usa la linterna y ponte la máscara de Freddy
   en el momento justo para sobrevivir.
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-2.jpg
+urlstr: five-nights-at-freddy-2
 tags:
   - horror
   - strategy

@@ -1,12 +1,11 @@
 ---
 locale: ko
-urlstr: 248-deluxe-wooden-edition
-title: '248 Deluxe Wooden edition 248 디럭스 우든 에디션'
-description: >-
-  나무 보드 위에서 같은 숫자를 이어 합치고, 공간을 관리하며 목표 숫자를 노리는
-  차분한 숫자 연결 퍼즐입니다.
+title: 248 Deluxe Wooden edition 248 디럭스 우든 에디션
+seoTitle: 248 Deluxe Wooden edition 248 디럭스 우든 에디션 무료 온라인 플레이 | FiddleBops
+description: '나무 보드 위에서 같은 숫자를 이어 합치고, 공간을 관리하며 목표 숫자를 노리는 차분한 숫자 연결 퍼즐입니다.'
 iframeSrc: 'https://0k2rsj4f89nr8.h5games.usercontent.goog/v/03pkkc7ds3qdg/'
 thumbnail: /new-images/thumbnails/248-deluxe-wooden-edition.jpg
+urlstr: 248-deluxe-wooden-edition
 tags:
   - puzzle
   - thinky

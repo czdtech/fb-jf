@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Bricks Breaker House ブリックス・ブレイカー・ハウス
+seoTitle: 無料でBricks Breaker House ブリックス・ブレイカー・ハウスをオンラインでプレイ | FiddleBops
 description: 「Bricks Breaker House」は優しいテーマのブロック崩し。角度を操り、パワーアップを活用し、家を守りながらレンガを崩そう。
 iframeSrc: 'https://1s6hqqts5ko6o.h5games.usercontent.goog/v/7n8ge2nvqqksg/'
 thumbnail: /new-images/thumbnails/bricks-breaker-house.png
 urlstr: bricks-breaker-house
-score: 3.8/5  (1679 votes)
 tags:
   - puzzle
   - casual
+score: 3.8/5  (1679 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

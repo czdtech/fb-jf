@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: 2048-fusion
 title: 2048 Fusion puzle de fichas
+seoTitle: Juega a 2048 Fusion puzle de fichas en línea gratis | FiddleBops
 description: >-
   2048 Fusion es una versión moderna del clásico puzle 2048. Desliza y combina
   fichas numeradas para crear la casilla 2048 (y más allá). Planifica bien tus
   movimientos para no llenar el tablero.
 iframeSrc: 'https://7t79nelq6lu50.h5games.usercontent.goog/v/7jm0opa5dtf00/'
 thumbnail: /new-images/thumbnails/2048-fusion.png
+urlstr: 2048-fusion
 tags:
   - puzzle
   - thinky

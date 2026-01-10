@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: steal-a-brainrot
 title: Steal a Brainrot
+seoTitle: Jouez à Steal a Brainrot en ligne gratuitement | FiddleBops
 description: "Découvre la folie de Steal a Brainrot sur Roblox\_: infiltre une zone gardée, vole des personnages‑memes comme Skibidi Toilet et échappe aux gardes grâce à la furtivité et au travail d’équipe."
 iframeSrc: 'https://st.8games.net/7/8g/igra-ukradi-brejnrot-100-original/'
 thumbnail: /new-images/thumbnails/steal-a-brainrot.webp
+urlstr: steal-a-brainrot
 tags:
   - casual
   - action

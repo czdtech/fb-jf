@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: domino-battle
 title: Domino Battle 도미노 배틀
+seoTitle: Domino Battle 도미노 배틀 무료 온라인 플레이 | FiddleBops
 description: >-
   클래식 도미노 게임을 기반으로 한 1대1 대전 게임입니다. 타일을 전략적으로 이어 붙여 손패를 먼저 비우고, 상대의 수를 막아 승리를
   거머쥐세요.
 iframeSrc: 'https://dominobattle.h5games.usercontent.goog/v/45fvkhcnai3s0/'
 thumbnail: /new-images/thumbnails/domino-battle.png
+urlstr: domino-battle
 tags:
   - card
   - puzzle

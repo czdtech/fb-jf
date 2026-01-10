@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Smash Karts"
-description: "Smash Karts is a multiplayer online kart racing game where players compete in fast-paced races, collect power-ups, and battle opponents while racing through various tracks in colorful 3D environments."
-iframeSrc: "https://webgltest-17af1.firebaseapp.com/"
+title: Smash Karts
+seoTitle: Play Smash Karts Online Free | FiddleBops
+description: >-
+  Smash Karts is a multiplayer online kart racing game where players compete in
+  fast-paced races, collect power-ups, and battle opponents while racing through
+  various tracks in colorful 3D environments.
+iframeSrc: 'https://webgltest-17af1.firebaseapp.com/'
 thumbnail: /new-images/thumbnails/smash-karts.jpg
-urlstr: "smash-karts"
-score: "4.7/5  (277 votes)"
-tags: ["racing", "multiplayer", "battle"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: smash-karts
+tags:
+  - racing
+  - multiplayer
+  - battle
+score: 4.7/5  (277 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

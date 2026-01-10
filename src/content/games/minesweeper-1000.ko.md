@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: minesweeper-1000
 title: Minesweeper 1000 마인스위퍼 1000
+seoTitle: Minesweeper 1000 마인스위퍼 1000 무료 온라인 플레이 | FiddleBops
 description: >-
   Minesweeper 1000은 고전 마인스위퍼를 현대적으로 확장한 퍼즐로, 숫자 논리를 읽어 지뢰를 표시하고, 효율적인 테크닉으로 거대한
   보드를 클리어하는 게임입니다.
 iframeSrc: 'https://5gsana77eub30.h5games.usercontent.goog/v/7363vv8e5mrb8/'
 thumbnail: /new-images/thumbnails/minesweeper-1000.png
+urlstr: minesweeper-1000
 tags:
   - puzzle
   - thinky

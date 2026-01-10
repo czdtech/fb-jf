@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Hoop Stars
+seoTitle: 無料でHoop Starsをオンラインでプレイ | FiddleBops
 description: Hoop Starsはリングフリップの技術ゲームです。回転させ、フリップのタイミングを計り、ライバルより先にペグ（棒）の上にリングをきれいに落としましょう。
 iframeSrc: 'https://6si9877n1hvh8.h5games.usercontent.goog/v/717o1ln0arjho/'
 thumbnail: /new-images/thumbnails/hoop-stars.png
 urlstr: hoop-stars
-score: 3.9/5  (1739 votes)
 tags:
   - sports
   - action
   - 2 player
+score: 3.9/5  (1739 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

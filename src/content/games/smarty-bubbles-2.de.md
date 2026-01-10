@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: smarty-bubbles-2
 title: Smarty Bubbles 2
+seoTitle: Spiele Smarty Bubbles 2 kostenlos online | FiddleBops
 description: >-
   Der süchtig machende Bubble-Shooter ist zurück! Ziele, schieße und kombiniere
   farbige Blasen, um das Feld zu räumen – und plane deine Schüsse gut, damit
   keine neuen Reihen herunterrutschen.
 iframeSrc: 'https://smartybubbles2.h5games.usercontent.goog/v/1u280qojm9oq0/'
 thumbnail: /new-images/thumbnails/smarty-bubbles-2.png
+urlstr: smarty-bubbles-2
 tags:
   - shooting
   - puzzle

@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: sky-tower
 title: Sky Tower
+seoTitle: Spiele Sky Tower kostenlos online | FiddleBops
 description: >-
   Sky Tower ist ein Stapelspiel: Lasse die schwebenden Stockwerke im richtigen
   Moment fallen, minimiere Überstände und baue so den höchsten, saubersten Turm.
 iframeSrc: 'https://11bhsd7s4hdbg.h5games.usercontent.goog/v/7a58l0501ebp8/'
 thumbnail: /new-images/thumbnails/sky-tower.png
+urlstr: sky-tower
 tags:
   - puzzle
   - thinky

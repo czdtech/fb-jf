@@ -1,19 +1,20 @@
 ---
+locale: ja
 title: Foosball Cup World
+seoTitle: 無料でFoosball Cup Worldをオンラインでプレイ | FiddleBops
 description: >-
   Foosball Cup
   Worldは、スピーディーなテーブルサッカーを提供します。角度をつけたショット、回転のタイミング、そして白熱した試合での賢いディフェンスが鍵となります。
 iframeSrc: 'https://7ak26cf4bf850.h5games.usercontent.goog/v/6jmmp78dbnp50/'
 thumbnail: /new-images/thumbnails/foosball-cup-world.png
 urlstr: foosball-cup-world
-score: 4.0/5  (1852 votes)
 tags:
   - sports
   - soccer
   - 2 player
+score: 4.0/5  (1852 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,13 +1,15 @@
 ---
-title: "FiddleBops but Sprunki - FiddleBops but Sprunkiをオンラインでプレイ"
-description: "FiddleBops but Sprunkiは、Fiddlebopsの音楽制作にSprunkiキャラクターを組み合わせたクロスオーバーModです。"
-iframeSrc: "https://turbowarp.org/1114915532/embed"
-thumbnail: /new-images/thumbnails/fiddlebops-but-sprunki.png
-urlstr: "fiddlebops-but-sprunki"
-score: "4.2/5  (94 votes)"
-tags: ["fiddlebops but sprunki"]
 locale: ja
-releaseDate: 2025-12-04
+title: FiddleBops but Sprunki
+seoTitle: 無料でFiddleBops but Sprunkiをオンラインでプレイ | FiddleBops
+description: FiddleBops but Sprunkiは、Fiddlebopsの音楽制作にSprunkiキャラクターを組み合わせたクロスオーバーModです。
+iframeSrc: 'https://turbowarp.org/1114915532/embed'
+thumbnail: /new-images/thumbnails/fiddlebops-but-sprunki.png
+urlstr: fiddlebops-but-sprunki
+tags:
+  - fiddlebops but sprunki
+score: 4.2/5  (94 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

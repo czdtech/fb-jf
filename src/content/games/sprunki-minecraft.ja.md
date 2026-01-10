@@ -1,13 +1,17 @@
 ---
-title: "Sprunki Minecraft - Play Sprunki Minecraft Online"
-description: "Sprunki MinecraftはMinecraft風のテーマで遊べるSprunki系の作品です。見た目や演出がブロック調になっている場合があります（内容はバージョンによって異なります）。"
-iframeSrc: "https://turbowarp.org/1140459751/embed"
-thumbnail: /new-images/thumbnails/sprunki-minecraft.png
-urlstr: "sprunki-minecraft"
-score: "4.0/5  (212 votes)"
-tags: ["sprunki minecraft"]
 locale: ja
-releaseDate: 2025-12-04
+title: Sprunki Minecraft
+seoTitle: 無料でSprunki Minecraftをオンラインでプレイ | FiddleBops
+description: >-
+  Sprunki
+  MinecraftはMinecraft風のテーマで遊べるSprunki系の作品です。見た目や演出がブロック調になっている場合があります（内容はバージョンによって異なります）。
+iframeSrc: 'https://turbowarp.org/1140459751/embed'
+thumbnail: /new-images/thumbnails/sprunki-minecraft.png
+urlstr: sprunki-minecraft
+tags:
+  - sprunki minecraft
+score: 4.0/5  (212 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

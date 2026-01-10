@@ -1,11 +1,11 @@
 ---
 locale: zh
-urlstr: mahjongg-candy
-title: "《Mahjongg Candy》糖果主题麻将连连看"
-description: >-
-  《Mahjongg Candy》是一款糖果主题的麻将连连看益智游戏，你需要在限定时间内找出并消除一对对相同的糖果牌，通过规划每一步落子来清空牌面、冲击高分。
+title: 《Mahjongg Candy》糖果主题麻将连连看
+seoTitle: 免费在线玩 《Mahjongg Candy》糖果主题麻将连连看 | FiddleBops
+description: 《Mahjongg Candy》是一款糖果主题的麻将连连看益智游戏，你需要在限定时间内找出并消除一对对相同的糖果牌，通过规划每一步落子来清空牌面、冲击高分。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-candy-mahjongg/'
 thumbnail: /new-images/thumbnails/mahjongg-candy.jpg
+urlstr: mahjongg-candy
 tags:
   - puzzle
   - tile-matching

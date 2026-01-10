@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: merge-melons
-title: Merge Melons - Suika Game de frutas y sandías gigantes
+title: Merge Melons
+seoTitle: Juega a Merge Melons en línea gratis | FiddleBops
 description: >-
   Suelta y fusiona frutas en este adictivo puzle inspirado en Suika Game.
   Combina frutas idénticas para crear versiones más grandes, apunta a la sandía
   gigante y evita que el contenedor se desborde.
 iframeSrc: 'https://mergemelons.h5games.usercontent.goog/v/7526h5to2d1v0/'
 thumbnail: /new-images/thumbnails/merge-melons.png
+urlstr: merge-melons
 tags:
   - puzzle
   - casual

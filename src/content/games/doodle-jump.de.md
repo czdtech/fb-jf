@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: doodle-jump
 title: Doodle Jump
+seoTitle: Spiele Doodle Jump kostenlos online | FiddleBops
 description: >-
   Doodle Jump ist ein vertikaler Endless-Platformer: Springe von Plattform zu
   Plattform, weiche Gefahren aus und klettere so hoch wie möglich.
 iframeSrc: 'https://ubg98.github.io/DoodleJump/'
 thumbnail: /new-images/thumbnails/doodle-jump.jpg
+urlstr: doodle-jump
 tags:
   - arcade
   - platformer

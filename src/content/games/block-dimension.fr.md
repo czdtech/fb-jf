@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: block-dimension
 title: Block Dimension
+seoTitle: Jouez à Block Dimension en ligne gratuitement | FiddleBops
 description: "Block Dimension est un puzzle de blocs 10×10 élégant\_: place des formes, crée des lignes complètes et enchaîne les combos sans remplir la grille."
 iframeSrc: 'https://62dfg8ps4f7lg.h5games.usercontent.goog/v/0k3gcfq0ljti8/'
 thumbnail: /new-images/thumbnails/block-dimension.png
+urlstr: block-dimension
 tags:
   - puzzle
   - thinky

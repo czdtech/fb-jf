@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: haru-pandas-slide
 title: Haru Pandas Slide
+seoTitle: Juega a Haru Pandas Slide en línea gratis | FiddleBops
 description: >-
   Haru Pandas Slide es un relajado puzle deslizante: mueve fichas para
   recomponer imágenes de pandas con el mínimo de movimientos y mucha lógica.
 iframeSrc: 'https://0vc1kolll32h8.h5games.usercontent.goog/v/0t898ulinrkag/'
 thumbnail: /new-images/thumbnails/haru-pandas-slide.png
+urlstr: haru-pandas-slide
 tags:
   - puzzle
   - thinky

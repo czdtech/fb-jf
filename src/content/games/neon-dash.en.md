@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Neon Dash"
-description: "Neon Dash is a fast precision runner — jump, dodge hazards, and time your inputs to survive neon gauntlets."
-iframeSrc: "https://1bveca4tkimog.h5games.usercontent.goog/v/4bq2naj6mtutg/"
+title: Neon Dash
+seoTitle: Play Neon Dash Online Free | FiddleBops
+description: >-
+  Neon Dash is a fast precision runner — jump, dodge hazards, and time your
+  inputs to survive neon gauntlets.
+iframeSrc: 'https://1bveca4tkimog.h5games.usercontent.goog/v/4bq2naj6mtutg/'
 thumbnail: /new-images/thumbnails/neon-dash.png
-urlstr: "neon-dash"
-score: "4.2/5  (1589 votes)"
-tags: ["action", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: neon-dash
+tags:
+  - action
+  - thinky
+score: 4.2/5  (1589 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

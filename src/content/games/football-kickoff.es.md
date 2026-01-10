@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: football-kickoff
 title: Football Kickoff
+seoTitle: Juega a Football Kickoff en línea gratis | FiddleBops
 description: >-
   Football Kickoff se centra en las jugadas de patada del fútbol americano:
   apunta tus patadas, lee el viento y controla la potencia para ganar posición
   de campo.
 iframeSrc: 'https://30sab7l7n7df0.h5games.usercontent.goog/v/5c7k7dlnf1c5g/'
 thumbnail: /new-images/thumbnails/football-kickoff.jpg
+urlstr: football-kickoff
 tags:
   - sports
   - casual

@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Northern Heights"
-description: "Embark on an exciting skiing journey in Northern Heights. Navigate steep descents, perform stunts, and collect coins to become a skiing legend."
-iframeSrc: "https://northernheights.h5games.usercontent.goog/v/1pct901lj7uko/"
+title: Northern Heights
+seoTitle: Play Northern Heights Online Free | FiddleBops
+description: >-
+  Embark on an exciting skiing journey in Northern Heights. Navigate steep
+  descents, perform stunts, and collect coins to become a skiing legend.
+iframeSrc: 'https://northernheights.h5games.usercontent.goog/v/1pct901lj7uko/'
 thumbnail: /new-images/thumbnails/northern-heights.png
-urlstr: "northern-heights"
-score: "4.6/5 (2876 votes)"
-tags: ["sports", "action", "driving"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: northern-heights
+tags:
+  - sports
+  - action
+  - driving
+score: 4.6/5 (2876 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

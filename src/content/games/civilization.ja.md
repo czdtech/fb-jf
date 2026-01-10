@@ -1,14 +1,20 @@
 ---
-title: "Civilization: Collect And Build 文明：収集と建設"
-description: "「Civilization: Collect And Build」でゼロから文明を築こう！資源を集め、建物を建て、時代を進化させる。リズム要素のあるカジュアル戦略ゲーム。"
-iframeSrc: "https://g2.igroutka.ru/games/23/u6OtaIwSh2rBbZQ8/rvvASMiM/05de7c87be654b588b44dfdafeb11312/"
-thumbnail: /new-images/thumbnails/civilization.jpg
-urlstr: "civilization"
-score: "4.9/5  (1122 votes)"
-tags: ["casual", "rhythm"]
-developer: ""
-releaseDate: 2025-08-16
 locale: ja
+title: 'Civilization: Collect And Build 文明：収集と建設'
+seoTitle: '無料でCivilization: Collect And Build 文明：収集と建設をオンラインでプレイ | FiddleBops'
+description: >-
+  「Civilization: Collect And
+  Build」でゼロから文明を築こう！資源を集め、建物を建て、時代を進化させる。リズム要素のあるカジュアル戦略ゲーム。
+iframeSrc: >-
+  https://g2.igroutka.ru/games/23/u6OtaIwSh2rBbZQ8/rvvASMiM/05de7c87be654b588b44dfdafeb11312/
+thumbnail: /new-images/thumbnails/civilization.jpg
+urlstr: civilization
+tags:
+  - casual
+  - rhythm
+score: 4.9/5  (1122 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 ### ゲーム紹介

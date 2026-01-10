@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Daily Room Escape"
-description: "Daily Room Escape delivers bite‑size escapes — scour rooms, solve logic locks, and piece clues together."
-iframeSrc: "https://0e53jjs7cgfvg.h5games.usercontent.goog/v/7ksqnmpcepl5g/"
+title: Daily Room Escape
+seoTitle: Play Daily Room Escape Online Free | FiddleBops
+description: >-
+  Daily Room Escape delivers bite‑size escapes — scour rooms, solve logic locks,
+  and piece clues together.
+iframeSrc: 'https://0e53jjs7cgfvg.h5games.usercontent.goog/v/7ksqnmpcepl5g/'
 thumbnail: /new-images/thumbnails/daily-room-escape.png
-urlstr: "daily-room-escape"
-score: "4.0/5  (1869 votes)"
-tags: ["puzzle", "escape", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: daily-room-escape
+tags:
+  - puzzle
+  - escape
+  - thinky
+score: 4.0/5  (1869 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

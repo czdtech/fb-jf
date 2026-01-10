@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Ballistic バリスティック
+seoTitle: 無料でBallistic バリスティックをオンラインでプレイ | FiddleBops
 description: 「Ballistic」を完全攻略！ボールを発射してブロックを壊し、画面が埋まる前にハイスコアを目指す、中毒性抜群の物理パズルゲームの戦略とコツを紹介。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/'
 thumbnail: /new-images/thumbnails/ballistic.jpg
 urlstr: ballistic
-score: 4.5/5  (764 votes)
 tags:
   - puzzle
   - arcade
   - physics
+score: 4.5/5  (764 votes)
 developer: Voodoo
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

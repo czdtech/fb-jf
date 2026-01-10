@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: g-switch-4
 title: G-Switch 4
+seoTitle: Spiele G-Switch 4 kostenlos online | FiddleBops
 description: >-
   G-Switch 4 ist der bisher feinste Gravity-Flip-Runner: präzise One-Button-
   Steuerung, dichte Fallenketten und kompetitive lokale Rennen für viele
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231127/09/index.html
 thumbnail: /new-images/thumbnails/g-switch-4.jpg
+urlstr: g-switch-4
 tags:
   - runner
   - platformer

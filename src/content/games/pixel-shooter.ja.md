@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Pixel Shooter
+seoTitle: 無料でPixel Shooterをオンラインでプレイ | FiddleBops
 description: Pixel Shooterはレトロ風のアクションシューターです。敵の波をしのぎ、武器を強化しながら生き残りを目指します。
 iframeSrc: 'https://a.onlineigry.net/games3/igra-piksel-shuter/index.htm'
 thumbnail: /new-images/thumbnails/pixel-shooter.jpg
 urlstr: pixel-shooter
-score: 3.9/5  (682 votes)
 tags:
   - action
   - shooter
+score: 3.9/5  (682 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

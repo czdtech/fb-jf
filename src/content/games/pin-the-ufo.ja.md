@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Pin the UFO
+seoTitle: 無料でPin the UFOをオンラインでプレイ | FiddleBops
 description: Pin the UFOは物理パズルです。ピンを抜く順番を考え、重力の動きを利用してUFOまで導きます。
 iframeSrc: 'https://pintheufo.h5games.usercontent.goog/v/08ukqv01ac45o/'
 thumbnail: /new-images/thumbnails/pin-the-ufo.jpeg
 urlstr: pin-the-ufo
-score: 3.8/5 (750 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 3.8/5 (750 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

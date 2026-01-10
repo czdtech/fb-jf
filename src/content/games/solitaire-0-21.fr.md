@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: solitaire-0-21
 title: Solitaire 0-21
+seoTitle: Jouez à Solitaire 0-21 en ligne gratuitement | FiddleBops
 description: "Solitaire 0‑21 revisite le solitaire avec des contraintes mathématiques\_: place les cartes pour que la somme de chaque ligne reste entre 0 et 21, en équilibrant en permanence risque et sécurité."
 iframeSrc: 'https://4hcssrsmrpvv0.h5games.usercontent.goog/v/2oipnrim9ar08/'
 thumbnail: /new-images/thumbnails/solitaire-0-21.png
+urlstr: solitaire-0-21
 tags:
   - card
   - puzzle

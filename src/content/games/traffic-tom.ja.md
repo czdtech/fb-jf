@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Traffic Tom
+seoTitle: 無料でTraffic Tomをオンラインでプレイ | FiddleBops
 description: Traffic Tomは、道路横断ゲームです。車を避けて安全に道路を渡りましょう。
 iframeSrc: >-
   https://traffictom.h5games.usercontent.goog/v/7c1a9fb2-2097-4c14-b7b1-052d80d41adb/
 thumbnail: /new-images/thumbnails/traffic-tom.jpg
 urlstr: traffic-tom
-score: 4.3/5  (2400 votes)
 tags:
   - arcade
   - casual
   - timing
-locale: ja
+score: 4.3/5  (2400 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 

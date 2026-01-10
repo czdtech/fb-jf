@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: happy-wheels
 title: Happy Wheels
+seoTitle: Juega a Happy Wheels en línea gratis | FiddleBops
 description: >-
   Guía completa del famoso juego de físicas tan sangriento como humorístico,
   Happy Wheels. Aprende estrategias, controles y trucos para sobrevivir a sus
   mortales niveles creados por la comunidad.
 iframeSrc: 'https://games-online.io/game/HappyWheels/'
 thumbnail: /new-images/thumbnails/happy-wheels.jpg
+urlstr: happy-wheels
 tags:
   - platformer
   - physics

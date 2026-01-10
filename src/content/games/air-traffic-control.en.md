@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Air Traffic Control"
-description: "Guide aircraft safely in Air Traffic Control — vector planes, avoid conflicts, and coordinate landings in a clean, accessible browser challenge."
-iframeSrc: "https://2nuk1jh1nvsq8.h5games.usercontent.goog/v/5glj0btngbu2o/"
+title: Air Traffic Control
+seoTitle: Play Air Traffic Control Online Free | FiddleBops
+description: >-
+  Guide aircraft safely in Air Traffic Control — vector planes, avoid conflicts,
+  and coordinate landings in a clean, accessible browser challenge.
+iframeSrc: 'https://2nuk1jh1nvsq8.h5games.usercontent.goog/v/5glj0btngbu2o/'
 thumbnail: /new-images/thumbnails/air-traffic-control.png
-urlstr: "air-traffic-control"
-score: "4.2/5  (1846 votes)"
-tags: ["thinky", "puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: air-traffic-control
+tags:
+  - thinky
+  - puzzle
+  - casual
+score: 4.2/5  (1846 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: escaping-the-prison
 title: Escaping the Prison 监狱大逃脱（Henry Stickmin）
+seoTitle: 免费在线玩 Escaping the Prison 监狱大逃脱（Henry Stickmin） | FiddleBops
 description: >-
   《Escaping the Prison》是 Henry Stickmin 系列的点击冒险篇章，
   通过选择道具与路线（潜行、火爆、法律途径）帮助火柴人越狱，体验多结局与满满恶搞梗。
 iframeSrc: 'https://classroomjq.github.io/escaping-the-prison/'
 thumbnail: /new-images/thumbnails/escaping-the-prison.jpg
+urlstr: escaping-the-prison
 tags:
   - adventure
   - point-and-click

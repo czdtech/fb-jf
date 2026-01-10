@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: basketball-master-2
 title: Basketball Master 2
+seoTitle: Jouez à Basketball Master 2 en ligne gratuitement | FiddleBops
 description: >-
   Basketball Master 2 est un jeu de tir au panier où tu vises, ajustes la
   puissance et brises parfois des obstacles en bois ou en glace pour faire
   rentrer la balle.
 iframeSrc: 'https://basketballmaster2.h5games.usercontent.goog/v/267j5oehq25q0/'
 thumbnail: /new-images/thumbnails/basketball-master-2.png
+urlstr: basketball-master-2
 tags:
   - sports
   - basketball

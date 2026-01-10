@@ -1,13 +1,13 @@
 ---
 locale: ko
-urlstr: bloons-td
-title: 'Bloons TD 블룬스 TD'
+title: Bloons TD 블룬스 TD
+seoTitle: Bloons TD 블룬스 TD 무료 온라인 플레이 | FiddleBops
 description: >-
-  Bloons TD는 원숭이 타워로 블룬(풍선) 물결을 막아 내는 대표적인 타워 디펜스
-  시리즈입니다. 다양한 원숭이 타워를 배치·업그레이드해 침입하는 블룬이 길 끝에
-  도달하기 전에 모두 터뜨려 보세요.
+  Bloons TD는 원숭이 타워로 블룬(풍선) 물결을 막아 내는 대표적인 타워 디펜스 시리즈입니다. 다양한 원숭이 타워를 배치·업그레이드해
+  침입하는 블룬이 길 끝에 도달하기 전에 모두 터뜨려 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/bloons-tower-defense.html'
 thumbnail: /new-images/thumbnails/bloons-td.jpg
+urlstr: bloons-td
 tags:
   - casual
   - strategy

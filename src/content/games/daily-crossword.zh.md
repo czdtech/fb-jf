@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: daily-crossword
 title: Daily Crossword 每日纵横填字
+seoTitle: 免费在线玩 Daily Crossword 每日纵横填字 | FiddleBops
 description: 《Daily Crossword 每日纵横填字》每天提供一张全新的英文填字谜题。根据横向与纵向提示 填入单词，让整张网格所有交叉字母完全吻合。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword/'
 thumbnail: /new-images/thumbnails/daily-crossword.jpg
+urlstr: daily-crossword
 tags:
   - word
   - puzzle

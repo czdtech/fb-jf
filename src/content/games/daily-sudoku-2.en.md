@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Daily Sudoku"
-description: "A new Sudoku puzzle every day to challenge your logic. Fill the 9x9 grid so each row, column, and 3x3 box contains the digits 1 to 9 without repetition."
-iframeSrc: "https://4j6utu2p6fklg.h5games.usercontent.goog/v/6qh61gl4k3ado/"
+title: Daily Sudoku
+seoTitle: Play Daily Sudoku Online Free | FiddleBops
+description: >-
+  A new Sudoku puzzle every day to challenge your logic. Fill the 9x9 grid so
+  each row, column, and 3x3 box contains the digits 1 to 9 without repetition.
+iframeSrc: 'https://4j6utu2p6fklg.h5games.usercontent.goog/v/6qh61gl4k3ado/'
 thumbnail: /new-images/thumbnails/daily-sudoku-2.png
-urlstr: "daily-sudoku-2"
-score: "4.8/5  (3550 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: daily-sudoku-2
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.8/5  (3550 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

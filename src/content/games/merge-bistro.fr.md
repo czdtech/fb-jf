@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: merge-bistro
 title: Merge Bistro
+seoTitle: Jouez à Merge Bistro en ligne gratuitement | FiddleBops
 description: >-
   Merge Bistro est un jeu de gestion‑fusion cosy : combine des ingrédients,
   exécute les commandes et agrandis un bistro chaleureux en optimisant ton
   plateau.
 iframeSrc: 'https://0f5mbl2u9ont8.h5games.usercontent.goog/v/50p3a8ekgfdk8/'
 thumbnail: /new-images/thumbnails/merge-bistro.png
+urlstr: merge-bistro
 tags:
   - puzzle
   - casual

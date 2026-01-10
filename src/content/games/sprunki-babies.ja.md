@@ -1,13 +1,15 @@
 ---
-title: "Sprunki Babies - Play Sprunki Babies Online"
-description: "Sprunki BabiesはベビーSprunkiのキャラクターで音を重ねて曲を作る音楽サンドボックスです。ドラッグ＆ドロップで簡単に組み合わせを試せます。"
-iframeSrc: "https://turbowarp.org/1110888906/embed"
-thumbnail: /new-images/thumbnails/sprunki-babies.png
-urlstr: "sprunki-babies"
-score: "4.0/5  (212 votes)"
-tags: ["sprunki babies"]
 locale: ja
-releaseDate: 2025-12-04
+title: Sprunki Babies
+seoTitle: 無料でSprunki Babiesをオンラインでプレイ | FiddleBops
+description: Sprunki BabiesはベビーSprunkiのキャラクターで音を重ねて曲を作る音楽サンドボックスです。ドラッグ＆ドロップで簡単に組み合わせを試せます。
+iframeSrc: 'https://turbowarp.org/1110888906/embed'
+thumbnail: /new-images/thumbnails/sprunki-babies.png
+urlstr: sprunki-babies
+tags:
+  - sprunki babies
+score: 4.0/5  (212 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

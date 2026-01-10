@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: incredibox-trillybox
 title: Incredibox Trillybox
+seoTitle: Spiele Incredibox Trillybox kostenlos online | FiddleBops
 description: >-
   Incredibox Trillybox ist ein Fan-Mod rund um modernen Trap: 808-Kicks, rasante
   Hi-Hats, dunkle Melodien und Autotune-Vocals für harte Trap-Beats.
 iframeSrc: 'https://turbowarp.org/907049948/embed'
 thumbnail: /new-images/thumbnails/incredibox-trillybox.png
+urlstr: incredibox-trillybox
 tags:
   - music
   - hip-Hop

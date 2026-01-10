@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Google Minesweeper"
-description: "Classic logic puzzle: clear the grid without triggering mines by deducing safe cells from numbered clues and flags." 
-iframeSrc: "https://www.minesweepergoogle.com/gameapp.html"
+title: Google Minesweeper
+seoTitle: Play Google Minesweeper Online Free | FiddleBops
+description: >-
+  Classic logic puzzle: clear the grid without triggering mines by deducing safe
+  cells from numbered clues and flags.
+iframeSrc: 'https://www.minesweepergoogle.com/gameapp.html'
 thumbnail: /new-images/thumbnails/google-minesweeper.jpg
-urlstr: "google-minesweeper"
-score: "4.7/5  (181 votes)"
-tags: ["puzzle", "logic"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: google-minesweeper
+tags:
+  - puzzle
+  - logic
+score: 4.7/5  (181 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

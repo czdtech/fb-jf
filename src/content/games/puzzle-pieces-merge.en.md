@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Puzzle Pieces Merge"
-description: "A relaxing and innovative puzzle game. Drag, drop, and merge puzzle pieces to complete beautiful landscape images. Rotate pieces and use boosters to solve each unique puzzle."
-iframeSrc: "https://5burcumauc5p0.h5games.usercontent.goog/v/4k8cb35sbe9fo/"
+title: Puzzle Pieces Merge
+seoTitle: Play Puzzle Pieces Merge Online Free | FiddleBops
+description: >-
+  A relaxing and innovative puzzle game. Drag, drop, and merge puzzle pieces to
+  complete beautiful landscape images. Rotate pieces and use boosters to solve
+  each unique puzzle.
+iframeSrc: 'https://5burcumauc5p0.h5games.usercontent.goog/v/4k8cb35sbe9fo/'
 thumbnail: /new-images/thumbnails/puzzle-pieces-merge.jpg
-urlstr: "puzzle-pieces-merge"
-score: "4.3/5  (1800 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: puzzle-pieces-merge
+tags:
+  - puzzle
+  - casual
+  - thinky
+score: 4.3/5  (1800 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

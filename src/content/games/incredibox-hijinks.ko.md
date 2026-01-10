@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: incredibox-hijinks
 title: Incredibox Hijinks 장난기 가득한 카툰 모드
+seoTitle: Incredibox Hijinks 장난기 가득한 카툰 모드 무료 온라인 플레이 | FiddleBops
 description: >-
   혼란스럽고 장난스러운 카툰 분위기를 담은 팬메이드 모드 'Incredibox Hijinks' 가이드입니다. 발랄한 전자 비트와 효과음으로
   재미있는 트랙을 만드는 방법과 보너스 해금 팁을 정리했습니다.
 iframeSrc: 'https://turbowarp.org/1027156305/embed'
 thumbnail: /new-images/thumbnails/incredibox-hijinks.png
+urlstr: incredibox-hijinks
 tags:
   - music
   - rhythm

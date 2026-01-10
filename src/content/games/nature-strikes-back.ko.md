@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: nature-strikes-back
 title: Nature Strikes Back 자연의 역습
+seoTitle: Nature Strikes Back 자연의 역습 무료 온라인 플레이 | FiddleBops
 description: >-
   Nature Strikes Back에서는 자연의 수호 정령들을 머지해 지휘하며, 오염 괴물 머클링의 물결로부터 자연의 심장을 지켜내야 하는
   머지 타워 디펜스 게임입니다.
 iframeSrc: 'https://79gloe1v4okkg.h5games.usercontent.goog/v/6qlhje6nn2bg0/'
 thumbnail: /new-images/thumbnails/nature-strikes-back.png
+urlstr: nature-strikes-back
 tags:
   - strategy
   - tower Defense

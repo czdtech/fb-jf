@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Eggy Car"
-description: "Eggy Car is a physics driver: carry a fragile egg on your car, climb and descend hills, and don’t let it fall."
-iframeSrc: "https://webglmath.github.io/eggy-car/"
+title: Eggy Car
+seoTitle: Play Eggy Car Online Free | FiddleBops
+description: >-
+  Eggy Car is a physics driver: carry a fragile egg on your car, climb and
+  descend hills, and don’t let it fall.
+iframeSrc: 'https://webglmath.github.io/eggy-car/'
 thumbnail: /new-images/thumbnails/eggy-car.jpg
-urlstr: "eggy-car"
-score: "4.9/5  (297 votes)"
-tags: ["driving", "physics"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: eggy-car
+tags:
+  - driving
+  - physics
+score: 4.9/5  (297 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

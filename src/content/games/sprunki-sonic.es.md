@@ -1,18 +1,19 @@
 ---
 locale: es
-urlstr: sprunki-sonic
-title: "Sprunki Sonic 🔥 Juega a Sprunki Sonic online"
+title: Sprunki Sonic
+seoTitle: Juega a Sprunki Sonic en línea gratis | FiddleBops
 description: >-
   Tanto si te encantan los juegos de ritmo como si eres fan incondicional de la
   saga Sonic, en Sprunki Sonic vas a encontrar tu sitio. Es fácil de aprender,
   difícil de dominar y perfecto para todo tipo de jugadores.
 iframeSrc: 'https://turbowarp.org/1114980098/embed'
 thumbnail: /new-images/thumbnails/sprunki-sonic.png
+urlstr: sprunki-sonic
 tags:
   - sprunki sonic
   - sprunki sonic online
 score: 4.0/5  (829 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

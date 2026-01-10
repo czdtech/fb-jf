@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: slippery-slope
 title: Slippery Slope
+seoTitle: Spiele Slippery Slope kostenlos online | FiddleBops
 description: >-
   Slippery Slope ist ein rasantes Ski- bzw. Rutschspiel, in dem du gefährliche
   Berghänge hinabjagst, Hindernissen ausweichst und unter Zeitdruck die
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/gamehwq/20231124/15/index.html
 thumbnail: /new-images/thumbnails/slippery-slope.jpg
+urlstr: slippery-slope
 tags:
   - skiing
   - racing

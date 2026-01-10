@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: lows-adventures-2
-title: Low's Adventures 2 - Plataformas retro de precisión
+title: Low's Adventures 2
+seoTitle: Juega a Low's Adventures 2 en línea gratis | FiddleBops
 description: >-
   Secuela de plataformas retro: corre y salta por niveles compactos, encuentra
   llaves y secretos y supera desafíos contrarreloj con saltos precisos.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/489323722/index.html'
 thumbnail: /new-images/thumbnails/lows-adventures-2.jpg
+urlstr: lows-adventures-2
 tags:
   - platformer
   - adventure

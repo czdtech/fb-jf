@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: pokemon-fire-red
 title: 《Pokemon Fire Red》宝可梦 火红版
+seoTitle: 免费在线玩 《Pokemon Fire Red》宝可梦 火红版 | FiddleBops
 description: >-
   《Pokemon Fire Red》是初代《宝可梦
   红》的忠实重制版，你将在关都地区展开冒险，捕捉与培养宝可梦、挑战八大道馆并挫败火箭队的阴谋，最终成为宝可梦联盟冠军。
 iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonred'
 thumbnail: /new-images/thumbnails/pokemon-fire-red.jpg
+urlstr: pokemon-fire-red
 tags:
   - rpg
   - adventure

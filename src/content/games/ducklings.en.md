@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Ducklings"
-description: "Ducklings is a relaxing collect‑’em‑up: rescue ducklings on the water and bring them safely back to your nest."
-iframeSrc: "https://g2.igroutka.ru/games/164/BkDlKfiWjEoZ2rcG/ducklings_io/"
+title: Ducklings
+seoTitle: Play Ducklings Online Free | FiddleBops
+description: >-
+  Ducklings is a relaxing collect‑’em‑up: rescue ducklings on the water and
+  bring them safely back to your nest.
+iframeSrc: 'https://g2.igroutka.ru/games/164/BkDlKfiWjEoZ2rcG/ducklings_io/'
 thumbnail: /new-images/thumbnails/ducklings.jpg
-urlstr: "ducklings"
-score: "4.0/5  (1129 votes)"
-tags: ["casual", "arcade"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: ducklings
+tags:
+  - casual
+  - arcade
+score: 4.0/5  (1129 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

@@ -1,18 +1,19 @@
 ---
 locale: fr
-urlstr: super-smash-flash-2-v08
 title: Super Smash Flash 2 v0.8
+seoTitle: Jouez à Super Smash Flash 2 v0.8 en ligne gratuitement | FiddleBops
 description: >-
   Super Smash Flash 2 v0.8 est une version fan‑made hommage à Super Smash Bros,
   avec des combats de plateforme nerveux et de nombreux personnages issus de
   licences célèbres.
 iframeSrc: 'https://kdata1.com/games/SSF22/?kbhgames'
 thumbnail: /new-images/thumbnails/super-smash-flash-2-v08.jpg
+urlstr: super-smash-flash-2-v08
 tags:
   - fighting
   - 2 player
 score: 4.3/5  (1114 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

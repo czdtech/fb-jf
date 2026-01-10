@@ -2,6 +2,51 @@
 
 const BASE = 'https://www.playfiddlebops.com';
 
+function normalizeBasePath(input: string): string {
+  const raw = String(input ?? '').trim();
+  if (!raw) return '/';
+  const withLeading = raw.startsWith('/') ? raw : `/${raw}`;
+  const withTrailing = withLeading.endsWith('/') ? withLeading : `${withLeading}/`;
+  return withTrailing.replace(/\/{2,}/g, '/');
+}
+
+function withPage(basePath: string, pageNum: number): string {
+  const base = normalizeBasePath(basePath);
+  const n = Number(pageNum);
+  if (!Number.isFinite(n) || n <= 1) return base;
+  // Astro paginate pages are directory-format: /games/2/
+  return normalizeBasePath(`${base}${n}/`);
+}
+
+/**
+ * Generate hreflang links for paginated list pages.
+ *
+ * Example:
+ * - basePath="/games/", page=1 -> "/games/"
+ * - basePath="/games/", page=2 -> "/games/2/"
+ * and for each locale: "/zh/games/2/", "/ja/games/2/", ...
+ */
+export function getPagedListHreflang(listBasePath: string, pageNum: number) {
+  const paged = withPage(listBasePath, pageNum);
+
+  // Note: our internal locale prefixes are directory-based (not Astro i18n routing).
+  const entries = [
+    { lang: 'x-default', prefix: '' },
+    { lang: 'en', prefix: '' },
+    { lang: 'zh-CN', prefix: '/zh' },
+    { lang: 'es', prefix: '/es' },
+    { lang: 'fr', prefix: '/fr' },
+    { lang: 'de', prefix: '/de' },
+    { lang: 'ja', prefix: '/ja' },
+    { lang: 'ko', prefix: '/ko' },
+  ] as const;
+
+  return entries.map((e) => ({
+    lang: e.lang,
+    url: `${BASE}${e.prefix}${paged}`,
+  }));
+}
+
 export const GAMES_HREFLANG = [
   { lang: 'x-default', url: `${BASE}/games/` },
   { lang: 'en', url: `${BASE}/games/` },

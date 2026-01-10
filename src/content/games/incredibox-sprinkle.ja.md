@@ -1,13 +1,16 @@
 ---
-title: "Incredibox Sprinkle - Play Incredibox Sprinkle Online"
-description: "Sprinkleは、操作がシンプルで楽しさに満ちた音楽制作ゲームです。カジュアルプレイヤーであれ、音楽制作に興味のあるファンであれ、Sprinkleの世界で独自の楽しみを見つけることができます。"
-iframeSrc: "https://g.sprinkleincredibox.com/web-game/SprinkleIncredibox/index.html"
-thumbnail: /new-images/thumbnails/incredibox-sprinkle.png
-urlstr: "incredibox-sprinkle"
-score: "3.8/5  (387 votes)"
-tags: ["incredibox sprinkle"]
 locale: ja
-releaseDate: 2025-12-04
+title: Incredibox Sprinkle
+seoTitle: 無料でIncredibox Sprinkleをオンラインでプレイ | FiddleBops
+description: >-
+  Sprinkleは、操作がシンプルで楽しさに満ちた音楽制作ゲームです。カジュアルプレイヤーであれ、音楽制作に興味のあるファンであれ、Sprinkleの世界で独自の楽しみを見つけることができます。
+iframeSrc: 'https://g.sprinkleincredibox.com/web-game/SprinkleIncredibox/index.html'
+thumbnail: /new-images/thumbnails/incredibox-sprinkle.png
+urlstr: incredibox-sprinkle
+tags:
+  - incredibox sprinkle
+score: 3.8/5  (387 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:how-to-play -->

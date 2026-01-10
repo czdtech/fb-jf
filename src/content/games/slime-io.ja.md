@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Slime.io
+seoTitle: 無料でSlime.ioをオンラインでプレイ | FiddleBops
 description: Slime.ioはスライムの成長ゲームです。小さい相手やアイテムを吸収して成長し、大きい相手を避けます。
 iframeSrc: 'https://slime-io.h5games.usercontent.goog/v/3p2ufrjemduhg/'
 thumbnail: /new-images/thumbnails/slime-io.png
 urlstr: slime-io
-score: 4.3/5  (2500 votes)
 tags:
   - action
   - 2 player
   - casual
+score: 4.3/5  (2500 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

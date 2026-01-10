@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: golf-orbit
 title: Golf Orbit
+seoTitle: Spiele Golf Orbit kostenlos online | FiddleBops
 description: >-
   Golf Orbit ist ein One-Tap-Golfspiel mit Weltraum-Flugphysik. Bestimme
   Abschlagswinkel und Kraft, nutze Spin und Schwerkraft der Planeten und lass
   den Ball möglichst weit und gezielt fliegen.
 iframeSrc: 'https://7e0r297sgk0j0.h5games.usercontent.goog/v/1976bdao4gtf0/'
 thumbnail: /new-images/thumbnails/golf-orbit.png
+urlstr: golf-orbit
 tags:
   - sports
   - puzzle

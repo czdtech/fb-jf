@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: 4-pics-1-word
 title: 4 Pics 1 Word
+seoTitle: Jouez à 4 Pics 1 Word en ligne gratuitement | FiddleBops
 description: "4 Pics 1 Word est un grand classique des jeux de mots\_: observe 4 images, trouve le mot qui les relie et complète des dizaines d’énigmes visuelles."
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288896/index.html'
 thumbnail: /new-images/thumbnails/4-pics-1-word.jpg
+urlstr: 4-pics-1-word
 tags:
   - casual
   - rhythm

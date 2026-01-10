@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: elastic-man
 title: Elastic Man
+seoTitle: Spiele Elastic Man kostenlos online | FiddleBops
 description: >-
   Elastic Man ist ein interaktives Spielzeug: Zieh, stupse und quetsche ein
   gummiges Gesicht und sieh zu, wie es mit weicher Physik zurückschnappt.
 iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/elasticman/0/index.html'
 thumbnail: /new-images/thumbnails/elastic-man.jpg
+urlstr: elastic-man
 tags:
   - simulation
   - toy

@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: elite-chess
 title: Elite Chess
+seoTitle: Juega a Elite Chess en línea gratis | FiddleBops
 description: >-
   Elite Chess está centrado en tus fundamentos: aperturas sólidas, táctica
   limpia y técnica de finales para convertir ventajas en victorias.
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
 thumbnail: /new-images/thumbnails/elite-chess.png
+urlstr: elite-chess
 tags:
   - thinky
   - puzzle

@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Cat Sort Quest"
-description: "Cat Sort Quest is a cozy color‑sorting puzzler — move cats between perches, unify colors, and manage scarce buffers."
-iframeSrc: "https://4ajc8tu89od7g.h5games.usercontent.goog/v/49be5kf9v96j0/"
+title: Cat Sort Quest
+seoTitle: Play Cat Sort Quest Online Free | FiddleBops
+description: >-
+  Cat Sort Quest is a cozy color‑sorting puzzler — move cats between perches,
+  unify colors, and manage scarce buffers.
+iframeSrc: 'https://4ajc8tu89od7g.h5games.usercontent.goog/v/49be5kf9v96j0/'
 thumbnail: /new-images/thumbnails/cat-sort-quest.png
-urlstr: "cat-sort-quest"
-score: "4.2/5  (2088 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: cat-sort-quest
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.2/5  (2088 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

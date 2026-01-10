@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Words Challenge
+seoTitle: 無料でWords Challengeをオンラインでプレイ | FiddleBops
 description: Words Challengeは、単語チャレンジゲームです。様々な単語パズルに挑戦しましょう。
 iframeSrc: 'https://60p1t41kumli8.h5games.usercontent.goog/v/7pss7j2tdq7io/'
 thumbnail: /new-images/thumbnails/words-challenge.jpg
 urlstr: words-challenge
-score: 4.1/5  (1982 votes)
 tags:
   - puzzle
   - word
   - challenge
-locale: ja
+score: 4.1/5  (1982 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

@@ -1,16 +1,17 @@
 ---
 locale: en
-title: Minecraft Cave Escape - Play Minecraft Cave Escape Online
+title: Minecraft Cave Escape
+seoTitle: Play Minecraft Cave Escape Online Free | FiddleBops
 description: >-
   In Minecraft Cave Escape, You are stuck in a cave and have no materials to get
   out! Climb the falling blocks to escape, but dont let them fall on you!
 iframeSrc: 'https://turbowarp.org/1189417610/embed'
 thumbnail: /new-images/thumbnails/minecraft-cave-escape.png
 urlstr: minecraft-cave-escape
-score: 4.7/5  (354 votes)
 tags:
   - minecraft cave escape
   - adventure
+score: 4.7/5  (354 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

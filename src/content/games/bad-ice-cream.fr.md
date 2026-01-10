@@ -1,7 +1,7 @@
 ---
 locale: fr
-urlstr: bad-ice-cream
 title: Bad Ice-Cream
+seoTitle: Jouez à Bad Ice-Cream en ligne gratuitement | FiddleBops
 description: >-
   Bad Ice‑Cream est le premier épisode d’un jeu d’arcade/puzzle givré où tu
   crées ou détruis des murs de glace pour collecter tous les fruits du
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x4/index.html
 thumbnail: /new-images/thumbnails/bad-ice-cream.jpg
+urlstr: bad-ice-cream
 tags:
   - casual
   - puzzle

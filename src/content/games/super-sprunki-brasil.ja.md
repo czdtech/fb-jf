@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Super Sprunki Brasil
+seoTitle: 無料でSuper Sprunki Brasilをオンラインでプレイ | FiddleBops
 description: Super Sprunki Brasilは、ブラジルの音楽や文化をテーマにした音楽制作Modです。サンバやボサノバ風のリズムでトラックを作れます。
 iframeSrc: 'https://turbowarp.org/1080827660/embed'
 thumbnail: /new-images/thumbnails/super-sprunki-brasil.png
 urlstr: super-sprunki-brasil
-score: 4.3/5  (380 votes)
 tags:
   - sprunki
   - music
   - brasil
-locale: ja
+score: 4.3/5  (380 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

@@ -1,17 +1,18 @@
 ---
 locale: es
-urlstr: sprunki-clicker
-title: "Sprunki Clicker - Juega a Sprunki Clicker en línea"
+title: Sprunki Clicker
+seoTitle: Juega a Sprunki Clicker en línea gratis | FiddleBops
 description: >-
   Emprende una encantadora aventura musical en la que cada clic da vida a una
   sinfonía creada por ti. Sprunki Clicker es mucho más que un juego: es un viaje
   a un mundo lleno de ritmo y magia.
-iframeSrc: "https://1games.io/game/sprunki-clicker/"
+iframeSrc: 'https://1games.io/game/sprunki-clicker/'
 thumbnail: /new-images/thumbnails/sprunki-clicker.png
+urlstr: sprunki-clicker
 tags:
   - sprunki clicker
 score: 4.7/5  (524 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

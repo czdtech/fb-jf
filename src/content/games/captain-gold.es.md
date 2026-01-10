@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: captain-gold
 title: Captain Gold
+seoTitle: Juega a Captain Gold en línea gratis | FiddleBops
 description: >-
   Captain Gold recupera el clásico desafío del minero de oro: calcula el momento
   del lanzamiento, engancha los objetos valiosos y esquiva las rocas para
   alcanzar la cuota.
 iframeSrc: 'https://5djvqvgrgqc0o.h5games.usercontent.goog/v/58gqt26rjid7o/'
 thumbnail: /new-images/thumbnails/captain-gold.png
+urlstr: captain-gold
 tags:
   - casual
   - thinky

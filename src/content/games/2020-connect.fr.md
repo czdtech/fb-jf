@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: 2020-connect
-title: "2020 Connect"
-description: "2020 Connect est un puzzle de fusion de nombres relaxant : relie des cases identiques, crée des valeurs plus élevées et gère l’espace pour préparer de grosses chaînes." 
+title: 2020 Connect
+seoTitle: Jouez à 2020 Connect en ligne gratuitement | FiddleBops
+description: "2020 Connect est un puzzle de fusion de nombres relaxant\_: relie des cases identiques, crée des valeurs plus élevées et gère l’espace pour préparer de grosses chaînes."
 iframeSrc: 'https://4l7qr4mfc8o80.h5games.usercontent.goog/v/5sm797oi4heu0/'
 thumbnail: /new-images/thumbnails/2020-connect.png
+urlstr: 2020-connect
 tags:
   - puzzle
   - thinky

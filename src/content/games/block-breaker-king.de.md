@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: block-breaker-king
-title: "Block Breaker King"
+title: Block Breaker King
+seoTitle: Spiele Block Breaker King kostenlos online | FiddleBops
 description: >-
   Block Breaker King: Mission ist ein strategisches Block‑Puzzle. Platziere
   Tetris‑ähnliche Formen auf dem Raster, räume komplette Reihen und erfülle
   Missionsziele, ohne dir das Brett zu verbauen.
 iframeSrc: 'https://40p3ck71ovs88.h5games.usercontent.goog/v/36e5gjc5plhi8/'
 thumbnail: /new-images/thumbnails/block-breaker-king.png
+urlstr: block-breaker-king
 tags:
   - puzzle
   - casual

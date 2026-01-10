@@ -1,16 +1,17 @@
 ---
 locale: es
-urlstr: sprunki-red-sun
-title: 'Sprunki Red Sun - Juega a Sprunki Red Sun online'
+title: Sprunki Red Sun
+seoTitle: Juega a Sprunki Red Sun en línea gratis | FiddleBops
 description: >-
   El mod Sprunki Red Sun sumerge el universo Sprunki en un reino dramático y
   abrasador dominado por tonos rojos intensos y beats rítmicos muy potentes.
 iframeSrc: 'https://kdata1.com/2025/02/sprunki-x-redsun/'
 thumbnail: /new-images/thumbnails/sprunki-red-sun.png
+urlstr: sprunki-red-sun
 tags:
   - sprunki red sun
 score: 4.4/5  (232 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: go-escape
 title: Go Escape
+seoTitle: Jouez à Go Escape en ligne gratuitement | FiddleBops
 description: >-
   Go Escape est un platformer d’évasion de précision : cale tes sauts, lis les
   pièges et trouve des trajectoires sûres à travers des salles compactes.
 iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
 thumbnail: /new-images/thumbnails/go-escape.png
+urlstr: go-escape
 tags:
   - puzzle
   - escape

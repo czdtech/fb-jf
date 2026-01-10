@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: zoo-boom
 title: Zoo Boom：动物方块连消乐园
+seoTitle: 免费在线玩 Zoo Boom：动物方块连消乐园 | FiddleBops
 description: 欢迎来到《Zoo Boom》！这是一款色彩缤纷的消除游戏， 点击相邻的同色动物方块即可爆破，完成关卡目标、触发华丽连锁反应， 在轻松的动物园冒险中一路闯关。
 iframeSrc: 'https://zooboom.h5games.usercontent.goog/v/4g2tps61g9djg/'
 thumbnail: /new-images/thumbnails/zoo-boom.png
+urlstr: zoo-boom
 tags:
   - puzzle
   - casual

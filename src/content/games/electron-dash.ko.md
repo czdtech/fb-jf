@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: electron-dash
 title: Electron Dash 일렉트론 대시
+seoTitle: Electron Dash 일렉트론 대시 무료 온라인 플레이 | FiddleBops
 description: 빠른 속도의 터널 러너 게임입니다. 회전하는 통로와 발판 위를 달리며 점프와 대시를 활용해 멀리까지 생존해 보세요.
 iframeSrc: 'https://slope-game.github.io/electron-dash/'
 thumbnail: /new-images/thumbnails/electron-dash.jpg
+urlstr: electron-dash
 tags:
   - arcade
   - runner

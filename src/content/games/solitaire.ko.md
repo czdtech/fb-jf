@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: solitaire
 title: Solitaire 솔리테어
+seoTitle: Solitaire 솔리테어 무료 온라인 플레이 | FiddleBops
 description: >-
   Solitaire는 카드를 정해진 순서와 무늬에 맞게 늘어놓아 모든 카드를 바닥 패로 옮기고 테이블로를 비우는 고전 1인용 카드 게임입니다.
   규칙은 단순하지만 높은 전략성이 있어 오래 즐길 수 있는 퍼즐 카드 게임입니다.
 iframeSrc: 'https://www.edogan.us/solitaire-js/'
 thumbnail: /new-images/thumbnails/solitaire.jpg
+urlstr: solitaire
 tags:
   - card game
   - classic

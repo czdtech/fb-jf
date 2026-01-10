@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: chess-grandmaster
 title: Chess Grandmaster 체스 그랜드마스터
+seoTitle: Chess Grandmaster 체스 그랜드마스터 무료 온라인 플레이 | FiddleBops
 description: >-
   Chess Grandmaster는 AI 또는 로컬 대전으로 즐기는 본격 체스 게임입니다. 오프닝, 미들게임 전술, 엔드게임 기본기를 단계별로
   익히며 그랜드마스터를 향해 실력을 쌓아 보세요.
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
 thumbnail: /new-images/thumbnails/chess-grandmaster.jpg
+urlstr: chess-grandmaster
 tags:
   - thinky
   - puzzle

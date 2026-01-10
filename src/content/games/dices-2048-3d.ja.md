@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Dices 2048 3D ダイス2048 3D
+seoTitle: 無料でDices 2048 3D ダイス2048 3Dをオンラインでプレイ | FiddleBops
 description: 「Dices 2048 3D」は物理演算と2048パズルの融合。サイコロを投げ入れ、ぶつけて合体させ、3D空間で2048を目指そう。
 iframeSrc: 'https://dices20483d.h5games.usercontent.goog/v/4fsrag1lb33t8/'
 thumbnail: /new-images/thumbnails/dices-2048-3d.png
 urlstr: dices-2048-3d
-score: 4.1/5  (1924 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.1/5  (1924 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

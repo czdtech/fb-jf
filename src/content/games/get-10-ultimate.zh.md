@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: get-10-ultimate
 title: Get 10 Ultimate 数字合成终极版
+seoTitle: 免费在线玩 Get 10 Ultimate 数字合成终极版 | FiddleBops
 description: 具挑战性的数字拼图游戏！点击相邻且相同的数字方块，将它们合并成更高的数字。 你能一路合成到 10，甚至更高吗？
 iframeSrc: 'https://4oljglvsib9no.h5games.usercontent.goog/v/4nttt72qlep8o/'
 thumbnail: /new-images/thumbnails/get-10-ultimate.png
+urlstr: get-10-ultimate
 tags:
   - puzzle
   - thinky

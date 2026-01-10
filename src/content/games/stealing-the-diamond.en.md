@@ -1,15 +1,23 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Stealing The Diamond"
-description: "Join Henry Stickmin in Stealing the Diamond, a hilarious choose-your-own-adventure game. Your mission: infiltrate the museum and make off with the giant diamond. Choose from a variety of tools and paths, from busting in loudly to sneaking in unseen. Discover all the funny fails and multiple endings!"
-iframeSrc: "https://bitlifeonline.github.io/stealing-the-diamond/"
+title: Stealing The Diamond
+seoTitle: Play Stealing The Diamond Online Free | FiddleBops
+description: >-
+  Join Henry Stickmin in Stealing the Diamond, a hilarious
+  choose-your-own-adventure game. Your mission: infiltrate the museum and make
+  off with the giant diamond. Choose from a variety of tools and paths, from
+  busting in loudly to sneaking in unseen. Discover all the funny fails and
+  multiple endings!
+iframeSrc: 'https://bitlifeonline.github.io/stealing-the-diamond/'
 thumbnail: /new-images/thumbnails/stealing-the-diamond.jpg
-urlstr: "stealing-the-diamond"
-score: "3.5/5  (951 votes)"
-tags: ["adventure", "funny", "puzzle"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: stealing-the-diamond
+tags:
+  - adventure
+  - funny
+  - puzzle
+score: 3.5/5  (951 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

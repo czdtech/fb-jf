@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: pin-the-ufo
-title: "Pin the UFO"
+title: Pin the UFO
+seoTitle: Spiele Pin the UFO kostenlos online | FiddleBops
 description: >-
   Meistere das „Pull-the-Pin“-Puzzlespiel Pin the UFO. Ziehe die Pins in der
   richtigen Reihenfolge, damit alle bunten Aliens sicher in ihrem Raumschiff
   landen.
 iframeSrc: 'https://pintheufo.h5games.usercontent.goog/v/08ukqv01ac45o/'
 thumbnail: /new-images/thumbnails/pin-the-ufo.jpeg
+urlstr: pin-the-ufo
 tags:
   - puzzle
   - casual

@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: fairyland
 title: Fairyland 精灵小镇解谜之旅
+seoTitle: 免费在线玩 Fairyland 精灵小镇解谜之旅 | FiddleBops
 description: Fairyland 是一款气氛温柔的解谜冒险游戏，在温馨场景中慢慢探索、解开轻量谜题， 以悠闲步调完成各种小目标。
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
 thumbnail: /new-images/thumbnails/fairyland.png
+urlstr: fairyland
 tags:
   - adventure
   - puzzle

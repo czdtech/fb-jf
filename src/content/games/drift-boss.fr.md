@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: drift-boss
 title: Drift Boss
+seoTitle: Jouez à Drift Boss en ligne gratuitement | FiddleBops
 description: "Drift Boss est un jeu de drift à un seul bouton\_: synchronise tes virages pour rester sur la piste et gagne des pièces pour des améliorations."
 iframeSrc: 'https://ubg98.github.io/DriftBoss/'
 thumbnail: /new-images/thumbnails/drift-boss.jpg
+urlstr: drift-boss
 tags:
   - racing
   - drifting

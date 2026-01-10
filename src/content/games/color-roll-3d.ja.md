@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Color Roll 3D カラーロール 3D
+seoTitle: 無料でColor Roll 3D カラーロール 3Dをオンラインでプレイ | FiddleBops
 description: 「Color Roll 3D」は色とりどりのロールを展開して絵を完成させるパズル。正しい順番で広げて、 お手本通りの重なりを作ろう。
 iframeSrc: 'https://63vakb2ehqof8.h5games.usercontent.goog/v/381au2qko6no0/'
 thumbnail: /new-images/thumbnails/color-roll-3d.png
 urlstr: color-roll-3d
-score: 4.0/5  (1812 votes)
 tags:
   - puzzle
   - thinky
+score: 4.0/5  (1812 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

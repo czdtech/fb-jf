@@ -1,17 +1,18 @@
 ---
 locale: en
-title: Sprunki Egg's Mix - Play Sprunki Egg's Mix Online
+title: Sprunki Egg's Mix
+seoTitle: Play Sprunki Egg's Mix Online Free | FiddleBops
 description: >-
   Sprunki Egg's Mix features unpredictable egg combinations with unique
   attributes that create surprising chain reactions.
 iframeSrc: 'https://turbowarp.org/1102648676/embed'
 thumbnail: /new-images/thumbnails/sprunki-eggs-mix.png
 urlstr: sprunki-eggs-mix
-modType: sprunki
-score: 3.9/5  (125 votes)
 tags:
   - sprunki egg
   - music
+modType: sprunki
+score: 3.9/5  (125 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

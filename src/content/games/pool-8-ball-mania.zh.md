@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: pool-8-ball-mania
 title: 《Pool 8 Ball Mania》八球桌球高手
+seoTitle: 免费在线玩 《Pool 8 Ball Mania》八球桌球高手 | FiddleBops
 description: 《Pool 8 Ball Mania》是一款规则接近酒吧八球的台球游戏，你需要精准瞄准、利用旋转控制主球走位，用合理的母球线路规划来清台取胜。
 iframeSrc: 'https://4i2ksm0sqbsr0.h5games.usercontent.goog/v/6fbgaukuhtvqo/'
 thumbnail: /new-images/thumbnails/pool-8-ball-mania.png
+urlstr: pool-8-ball-mania
 tags:
   - sports
   - pool

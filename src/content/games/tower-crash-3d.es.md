@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: tower-crash-3d
-title: Tower Crash 3D - Derriba la torre perfecta
+title: Tower Crash 3D
+seoTitle: Juega a Tower Crash 3D en línea gratis | FiddleBops
 description: >-
   Demuele torres de colores en este satisfactorio juego de físicas 3D. Dispara
   bolas del color correcto para provocar colapsos espectaculares, pero piensa
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://towercrash3d.h5games.usercontent.goog/v/7c54afc1-3ca4-4121-a52a-9ea74e30f0d7/
 thumbnail: /new-images/thumbnails/tower-crash-3d.jpg
+urlstr: tower-crash-3d
 tags:
   - action
   - shooting

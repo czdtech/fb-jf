@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: differences-find-quest
 title: Differences Find Quest
+seoTitle: Spiele Differences Find Quest kostenlos online | FiddleBops
 description: >-
   Differences Find Quest ist ein detailreiches Such-die-Unterschiede-Spiel: Du
   vergleichst zwei Szenen, markierst Abweichungen und setzt Hinweise gezielt
   ein, um alle Unterschiede zu finden.
 iframeSrc: 'https://4rsldln0df32g.h5games.usercontent.goog/v/1hcmcbpl76s40/'
 thumbnail: /new-images/thumbnails/differences-find-quest.png
+urlstr: differences-find-quest
 tags:
   - puzzle
   - thinky

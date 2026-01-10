@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: color-burst-3d
 title: Color Burst 3D 컬러 버스트 3D
+seoTitle: Color Burst 3D 컬러 버스트 3D 무료 온라인 플레이 | FiddleBops
 description: >-
   Color Burst 3D는 움직이는 컬러 링 사이를 통과해야 하는 속도감 있는 아케이드 게임입니다. 공의 색과 회전하는 링의 색을 맞춰
   타이밍 좋게 돌파하며, 실수 없이 더 많은 링을 통과해 높은 점수를 노려 보세요.
 iframeSrc: 'https://colorburst3d.h5games.usercontent.goog/v/3l27vlnq6dvto/'
 thumbnail: /new-images/thumbnails/color-burst-3d.jpeg
+urlstr: color-burst-3d
 tags:
   - action
   - casual

@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: daily-sudoku-3
 title: Daily Sudoku
+seoTitle: Juega a Daily Sudoku en línea gratis | FiddleBops
 description: >-
   Un nuevo Sudoku cada día para retar tu lógica. Rellena la cuadrícula 9x9 de
   forma que cada fila, columna y subcuadrícula 3x3 contenga los dígitos del 1 al
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://dailysudoku.h5games.usercontent.goog/v/03446732-f14b-4bcc-9e8b-68fc499a0cec/
 thumbnail: /new-images/thumbnails/daily-sudoku-3.jpg
+urlstr: daily-sudoku-3
 tags:
   - puzzle
   - thinky

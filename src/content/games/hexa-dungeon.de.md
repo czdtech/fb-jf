@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: hexa-dungeon
 title: Hexa Dungeon
+seoTitle: Spiele Hexa Dungeon kostenlos online | FiddleBops
 description: >-
   Betritt den Hexa Dungeon und kämpfe gegen Skelette! In diesem Match-3-Puzzle-
   RPG verbindest du gleichfarbige Hexfelder, um mächtige Angriffe auf deine
   Gegner zu entfesseln.
 iframeSrc: 'https://hexadungeon.h5games.usercontent.goog/v/0j3gttu45n06g/'
 thumbnail: /new-images/thumbnails/hexa-dungeon.png
+urlstr: hexa-dungeon
 tags:
   - puzzle
   - action

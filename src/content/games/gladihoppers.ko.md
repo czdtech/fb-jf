@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: gladihoppers
 title: Gladihoppers 물리 검투사 배틀
+seoTitle: Gladihoppers 물리 검투사 배틀 무료 온라인 플레이 | FiddleBops
 description: >-
   튀어 오르는 물리 움직임과 무기 전투가 결합된 2D 검투사 액션 게임입니다. 장비를 커스터마이즈하고, 돌진과 패링 타이밍을 맞춰 1대1
   결투와 여러 모드의 아레나를 정복해 보세요.
 iframeSrc: 'https://m.igroutka.ru/g-1/113/Gladihoppers/'
 thumbnail: /new-images/thumbnails/gladihoppers.jpg
+urlstr: gladihoppers
 tags:
   - fighting
   - action

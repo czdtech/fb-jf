@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: slither-io
 title: Slither.io 슬리더 아이오
+seoTitle: Slither.io 슬리더 아이오 무료 온라인 플레이 | FiddleBops
 description: >-
   빛나는 먹이를 먹으며 몸집을 키우는 멀티플레이 뱀 .io 게임입니다. 다른 뱀과 충돌하지 않도록 조심하면서, 상대의 길을 끊어 거대한
   에너지를 먹어 성장해 보세요.
 iframeSrc: >-
   https://app-165910.games.s3.yandex.net/165910/rm0dpvrwyxo0cakog5vc1sr4c8b6xj1s/index.html
 thumbnail: /new-images/thumbnails/slither-io.jpg
+urlstr: slither-io
 tags:
   - multiplayer
   - io game

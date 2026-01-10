@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Coloring Match カラー・マッチ
+seoTitle: 無料でColoring Match カラー・マッチをオンラインでプレイ | FiddleBops
 description: 「Coloring Match」は色混合の達人になるゲーム。絵の具を混ぜて手本と同じ色を作り出せ。色相、彩度、明度を調整する微細な感覚が試される。
 iframeSrc: 'https://21t5l4ct88d8g.h5games.usercontent.goog/v/6kels35kspngg/'
 thumbnail: /new-images/thumbnails/coloring-match.jpg
 urlstr: coloring-match
-score: 4.1/5  (1968 votes)
 tags:
   - puzzle
   - casual
   - thinky
+score: 4.1/5  (1968 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

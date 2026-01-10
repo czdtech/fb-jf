@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: words-challenge
 title: Words Challenge 워즈 챌린지
+seoTitle: Words Challenge 워즈 챌린지 무료 온라인 플레이 | FiddleBops
 description: >-
   애너그램, 미니 십자말풀이, 단어 퀴즈 등이 섞인 종합 단어 퍼즐 세트입니다. 접두사·접미사와 글자 패턴을 활용해 단어를 추론하고, 제한
   시간 안에 문제를 풀어 연속 정답 보너스를 노려 보세요.
 iframeSrc: 'https://60p1t41kumli8.h5games.usercontent.goog/v/7pss7j2tdq7io/'
 thumbnail: /new-images/thumbnails/words-challenge.jpg
+urlstr: words-challenge
 tags:
   - puzzle
   - thinky

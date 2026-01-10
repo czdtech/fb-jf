@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Idle Breakout"
-description: "Idle + brick‑breaker hybrid: click to smash bricks, buy autonomous balls/turrets, prestige for multipliers, and min‑max upgrades." 
-iframeSrc: "https://ubg98.github.io/IdleBreakout/"
+title: Idle Breakout
+seoTitle: Play Idle Breakout Online Free | FiddleBops
+description: >-
+  Idle + brick‑breaker hybrid: click to smash bricks, buy autonomous
+  balls/turrets, prestige for multipliers, and min‑max upgrades.
+iframeSrc: 'https://ubg98.github.io/IdleBreakout/'
 thumbnail: /new-images/thumbnails/idle-breakout.jpg
-urlstr: "idle-breakout"
-score: "4.3/5  (1151 votes)"
-tags: ["idle", "clicker"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: idle-breakout
+tags:
+  - idle
+  - clicker
+score: 4.3/5  (1151 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

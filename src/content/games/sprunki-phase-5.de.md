@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: sprunki-phase-5
-title: Sprunki Phase 5 - Sprunki Phase 5 online spielen
+title: Sprunki Phase 5
+seoTitle: Spiele Sprunki Phase 5 kostenlos online | FiddleBops
 description: >-
   Sprunki Phase 5 ist ein Fan-Musikspiel, das das klassische Sprunki-Layering
   mit einer düsteren, atmosphärischen Horror-Note kombiniert.
 iframeSrc: 'https://sprunki-phase-5-ekz.pages.dev/'
 thumbnail: /new-images/thumbnails/sprunki-phase-5.png
+urlstr: sprunki-phase-5
 tags:
   - sprunki phase 5
   - sprunki phase 5 online

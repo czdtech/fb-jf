@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: lows-adventures-2
 title: Low's Adventures 2
+seoTitle: Jouez à Low's Adventures 2 en ligne gratuitement | FiddleBops
 description: >-
   Suite rétro de plateforme : enchaîne de petits niveaux, trouve des clés et des
   secrets et relève des défis chronométrés.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/489323722/index.html'
 thumbnail: /new-images/thumbnails/lows-adventures-2.jpg
+urlstr: lows-adventures-2
 tags:
   - platformer
   - adventure

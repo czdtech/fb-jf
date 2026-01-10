@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: crescent-solitaire
 title: Crescent Solitaire
+seoTitle: Spiele Crescent Solitaire kostenlos online | FiddleBops
 description: >-
   Crescent Solitaire ist eine entspannende Patience-Variante: verschiebe Karten
   zwischen halbmondförmigen Stapeln, baue die Fundamente auf und räume das
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/crescent-solitaire-phaser/
 thumbnail: /new-images/thumbnails/crescent-solitaire.jpg
+urlstr: crescent-solitaire
 tags:
   - solitaire
   - card

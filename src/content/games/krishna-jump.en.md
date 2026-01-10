@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Krishna Jump"
-description: "Krishna Jump is a rhythmic vertical runner — chain precise jumps, dodge hazards, and collect idols across colorful stages."
-iframeSrc: "https://5gj672951lio0.h5games.usercontent.goog/v/2q5vk2ok37gr8/"
+title: Krishna Jump
+seoTitle: Play Krishna Jump Online Free | FiddleBops
+description: >-
+  Krishna Jump is a rhythmic vertical runner — chain precise jumps, dodge
+  hazards, and collect idols across colorful stages.
+iframeSrc: 'https://5gj672951lio0.h5games.usercontent.goog/v/2q5vk2ok37gr8/'
 thumbnail: /new-images/thumbnails/krishna-jump.png
-urlstr: "krishna-jump"
-score: "3.9/5  (1718 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: krishna-jump
+tags:
+  - action
+  - casual
+score: 3.9/5  (1718 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

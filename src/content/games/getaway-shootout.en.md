@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Getaway Shootout"
-description: "Chaotic physics race‑and‑shoot: hop your way to the getaway point, grab goofy weapons, and outsmart rivals in 2‑player or solo." 
-iframeSrc: "https://ubg44.github.io/GetawayShootout/"
+title: Getaway Shootout
+seoTitle: Play Getaway Shootout Online Free | FiddleBops
+description: >-
+  Chaotic physics race‑and‑shoot: hop your way to the getaway point, grab goofy
+  weapons, and outsmart rivals in 2‑player or solo.
+iframeSrc: 'https://ubg44.github.io/GetawayShootout/'
 thumbnail: /new-images/thumbnails/getaway-shootout.jpg
-urlstr: "getaway-shootout"
-score: "4.4/5  (670 votes)"
-tags: ["action", "multiplayer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: getaway-shootout
+tags:
+  - action
+  - multiplayer
+score: 4.4/5  (670 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

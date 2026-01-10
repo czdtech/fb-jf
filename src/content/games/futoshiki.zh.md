@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: futoshiki
 title: Futoshiki 不等式数独
+seoTitle: 免费在线玩 Futoshiki 不等式数独 | FiddleBops
 description: Futoshiki 是一种强化逻辑的拉丁方格谜题——在保证每行每列数字不重复的前提下， 还必须满足格子间的「大于／小于」不等式，利用这些约束做出优雅推理。
 iframeSrc: 'https://6g7i64vihegl0.h5games.usercontent.goog/v/7bd886r75d4ag/'
 thumbnail: /new-images/thumbnails/futoshiki.jpg
+urlstr: futoshiki
 tags:
   - puzzle
   - thinky

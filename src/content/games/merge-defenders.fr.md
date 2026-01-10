@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: merge-defenders
 title: Merge Defenders
+seoTitle: Jouez à Merge Defenders en ligne gratuitement | FiddleBops
 description: >-
   Protège ton territoire en fusionnant et en améliorant tes unités dans Merge
   Defenders ! Combine des défenseurs identiques pour créer des versions plus
   puissantes et place‑les stratégiquement pour arrêter les vagues d'ennemis.
 iframeSrc: 'https://5c1j2nn9b0q4o.h5games.usercontent.goog/v/20drsjkant5s8/'
 thumbnail: /new-images/thumbnails/merge-defenders.png
+urlstr: merge-defenders
 tags:
   - strategy
   - tower Defense

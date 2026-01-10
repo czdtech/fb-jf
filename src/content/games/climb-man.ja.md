@@ -1,20 +1,20 @@
 ---
+locale: ja
 title: Climb Man クライム・マン
+seoTitle: 無料でClimb Man クライム・マンをオンラインでプレイ | FiddleBops
 description: >-
   「Climb Man」こと「Infinite
   Stairs」は、リズミカルに階段を登り続ける中毒性抜群のゲーム。方向を素早く判断し、障害物を避けながら無限の階段を駆け上がれ！
-iframeSrc: >-
-  https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/
+iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
 thumbnail: /new-images/thumbnails/climb-man.png
 urlstr: climb-man
-score: 3.9/5  (1658 votes)
 tags:
   - arcade
   - rhythm
   - casual
+score: 3.9/5  (1658 votes)
 developer: ''
-releaseDate: 2025-10-18
-locale: ja
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

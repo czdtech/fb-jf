@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Idle Explorers"
-description: "Manage a team of explorers and automate your digging empire in Idle Explorers! Upgrade your workers, unlock new dig sites, and discover rare artifacts in this addictive idle adventure."
-iframeSrc: "https://5ik68qrla8g6g.h5games.usercontent.goog/v/1vuib5ibuof0g/"
+title: Idle Explorers
+seoTitle: Play Idle Explorers Online Free | FiddleBops
+description: >-
+  Manage a team of explorers and automate your digging empire in Idle Explorers!
+  Upgrade your workers, unlock new dig sites, and discover rare artifacts in
+  this addictive idle adventure.
+iframeSrc: 'https://5ik68qrla8g6g.h5games.usercontent.goog/v/1vuib5ibuof0g/'
 thumbnail: /new-images/thumbnails/idle-explorers.png
-urlstr: "idle-explorers"
-score: "4.4/5  (2400 votes)"
-tags: ["casual", "clicker", "strategy"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: idle-explorers
+tags:
+  - casual
+  - clicker
+  - strategy
+score: 4.4/5  (2400 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

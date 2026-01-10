@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: kings-and-queens
 title: Kings and Queens
+seoTitle: Juega a Kings and Queens en línea gratis | FiddleBops
 description: >-
   Kings and Queens es una aventura match‑3 de realeza: limpia obstáculos,
   desbloquea boosters y restaura salones reales con planificación inteligente.
 iframeSrc: 'https://0ptbttt09g5cg.h5games.usercontent.goog/v/6c7l9okboa1u0/'
 thumbnail: /new-images/thumbnails/kings-and-queens.png
+urlstr: kings-and-queens
 tags:
   - puzzle
   - casual

@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Google Solitaire"
-description: "Classic Klondike solitaire: move cards to build foundations by suit from Ace to King, using tableau stacks that alternate colors." 
-iframeSrc: "https://www.google.com/logos/fnbx/solitaire/standalone.html"
+title: Google Solitaire
+seoTitle: Play Google Solitaire Online Free | FiddleBops
+description: >-
+  Classic Klondike solitaire: move cards to build foundations by suit from Ace
+  to King, using tableau stacks that alternate colors.
+iframeSrc: 'https://www.google.com/logos/fnbx/solitaire/standalone.html'
 thumbnail: /new-images/thumbnails/google-solitaire.jpg
-urlstr: "google-solitaire"
-score: "4.0/5  (1294 votes)"
-tags: ["solitaire", "card"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: google-solitaire
+tags:
+  - solitaire
+  - card
+score: 4.0/5  (1294 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

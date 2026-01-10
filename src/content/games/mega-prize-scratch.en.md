@@ -1,14 +1,18 @@
 ---
 locale: en
-title: "Mega Prize Scratch"
-description: "Mega Prize Scratch is a casual scratch‑card — reveal panels, match symbols, and set session limits to keep it fun."
-iframeSrc: "https://3a38lqtqled1o.h5games.usercontent.goog/v/37llbljplv5v0/"
+title: Mega Prize Scratch
+seoTitle: Play Mega Prize Scratch Online Free | FiddleBops
+description: >-
+  Mega Prize Scratch is a casual scratch‑card — reveal panels, match symbols,
+  and set session limits to keep it fun.
+iframeSrc: 'https://3a38lqtqled1o.h5games.usercontent.goog/v/37llbljplv5v0/'
 thumbnail: /new-images/thumbnails/mega-prize-scratch.png
-urlstr: "mega-prize-scratch"
-score: "3.6/5  (1538 votes)"
-tags: ["casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: mega-prize-scratch
+tags:
+  - casual
+score: 3.6/5  (1538 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

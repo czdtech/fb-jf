@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Totemia: Cursed Marbles"
-description: "A classic marble shooter puzzle! Shoot marbles from your tiki stone to create matches of three or more, and destroy the entire chain before it reaches the end of the path."
-iframeSrc: "https://totemiacursed.h5games.usercontent.goog/v/2hs7lfvsisr48/"
+title: 'Totemia: Cursed Marbles'
+seoTitle: 'Play Totemia: Cursed Marbles Online Free | FiddleBops'
+description: >-
+  A classic marble shooter puzzle! Shoot marbles from your tiki stone to create
+  matches of three or more, and destroy the entire chain before it reaches the
+  end of the path.
+iframeSrc: 'https://totemiacursed.h5games.usercontent.goog/v/2hs7lfvsisr48/'
 thumbnail: /new-images/thumbnails/totemia-cursed-marbles.png
-urlstr: "totemia-cursed-marbles"
-score: "4.5/5  (2750 votes)"
-tags: ["shooting", "puzzle", "action"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: totemia-cursed-marbles
+tags:
+  - shooting
+  - puzzle
+  - action
+score: 4.5/5  (2750 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

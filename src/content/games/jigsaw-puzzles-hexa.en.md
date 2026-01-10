@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Jigsaw Puzzles Hexa"
-description: "A new twist on the classic jigsaw puzzle! Drag and drop hexagonal pieces to complete beautiful high-definition images. A relaxing and challenging puzzle for all ages."
-iframeSrc: "https://jigsawpuzzleshexa.h5games.usercontent.goog/v/5e9bm1tuf1me0/"
+title: Jigsaw Puzzles Hexa
+seoTitle: Play Jigsaw Puzzles Hexa Online Free | FiddleBops
+description: >-
+  A new twist on the classic jigsaw puzzle! Drag and drop hexagonal pieces to
+  complete beautiful high-definition images. A relaxing and challenging puzzle
+  for all ages.
+iframeSrc: 'https://jigsawpuzzleshexa.h5games.usercontent.goog/v/5e9bm1tuf1me0/'
 thumbnail: /new-images/thumbnails/jigsaw-puzzles-hexa.jpg
-urlstr: "jigsaw-puzzles-hexa"
-score: "4.5/5  (2600 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: jigsaw-puzzles-hexa
+tags:
+  - puzzle
+  - casual
+  - thinky
+score: 4.5/5  (2600 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

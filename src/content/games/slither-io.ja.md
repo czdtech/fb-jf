@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Slither.io
+seoTitle: 無料でSlither.ioをオンラインでプレイ | FiddleBops
 description: Slither.ioはヘビの成長ゲームです。ペレットを食べて大きくなり、相手を巻き込んで倒しながら上位を目指します。
 iframeSrc: >-
   https://app-165910.games.s3.yandex.net/165910/rm0dpvrwyxo0cakog5vc1sr4c8b6xj1s/index.html
 thumbnail: /new-images/thumbnails/slither-io.jpg
 urlstr: slither-io
-score: 4.8/5  (1149 votes)
 tags:
   - action
   - 2 player
   - casual
+score: 4.8/5  (1149 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

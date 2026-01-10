@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: 2048-giant
 title: 2048 Giant 2048 巨型版
+seoTitle: 免费在线玩 2048 Giant 2048 巨型版 | FiddleBops
 description: 在《2048 Giant（2048 巨型版）》中，你将在更大的棋盘上体验经典 2048 的合成爽感，通过精细布局和连锁合并不断刷新分数记录。
 iframeSrc: >-
   https://2048giant.h5games.usercontent.goog/v/4bea87e2-a9a9-4f4b-b1c8-8b777220c567/
 thumbnail: /new-images/thumbnails/2048-giant.jpg
+urlstr: 2048-giant
 tags:
   - puzzle
   - thinky

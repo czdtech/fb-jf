@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: retro-bowl
 title: Retro Bowl
+seoTitle: Spiele Retro Bowl kostenlos online | FiddleBops
 description: >-
   Retro Bowl ist ein nostalgisches American-Football-Spiel im 8-Bit-Look, in dem
   du als Coach und Quarterback dein Team managst, Spielzüge callst, Pässe wirfst
   und deine Mannschaft zum Meistertitel führst.
 iframeSrc: 'https://game316009.konggames.com/gamez/0031/6009/live/index.html'
 thumbnail: /new-images/thumbnails/retro-bowl.jpg
+urlstr: retro-bowl
 tags:
   - sports
   - retro

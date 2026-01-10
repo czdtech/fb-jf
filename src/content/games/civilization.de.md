@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: civilization
-title: "Civilization: Collect And Build"
+title: 'Civilization: Collect And Build'
+seoTitle: 'Spiele Civilization: Collect And Build kostenlos online | FiddleBops'
 description: >-
   Errichte deine Zivilisation von Grund auf. Sammle Ressourcen, baue Gebäude und
   schreite durch die Zeitalter – ein entspanntes Strategiespiel mit einem Hauch
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/u6OtaIwSh2rBbZQ8/rvvASMiM/05de7c87be654b588b44dfdafeb11312/
 thumbnail: /new-images/thumbnails/civilization.jpg
+urlstr: civilization
 tags:
   - casual
   - rhythm

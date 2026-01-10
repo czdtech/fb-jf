@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: words-challenge
 title: Words Challenge
+seoTitle: Jouez à Words Challenge en ligne gratuitement | FiddleBops
 description: >-
   Words Challenge mélange anagrammes, mots croisés et quiz rapides pour tester
   ta culture générale et ta déduction.
 iframeSrc: 'https://60p1t41kumli8.h5games.usercontent.goog/v/7pss7j2tdq7io/'
 thumbnail: /new-images/thumbnails/words-challenge.jpg
+urlstr: words-challenge
 tags:
   - puzzle
   - thinky

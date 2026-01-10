@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: age-of-war
 title: Age of War 에이지 오브 워
+seoTitle: Age of War 에이지 오브 워 무료 온라인 플레이 | FiddleBops
 description: >-
   동굴인에서 미래 병사까지 시대를 진화시키며 적 기지를 파괴하는 고전 전략 게임 Age of War입니다. 공격과 수비, 진화 타이밍을 조절해
   전장을 지배해 보세요.
 iframeSrc: >-
   https://app-196716.games.s3.yandex.net/196716/h5h3xwa1kxsz7wcma59tvvmko0zorc80/index.html
 thumbnail: /new-images/thumbnails/age-of-war.jpg
+urlstr: age-of-war
 tags:
   - strategy
   - action

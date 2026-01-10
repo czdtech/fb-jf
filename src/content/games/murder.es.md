@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: murder
-title: Murder - Deducción social en la oscuridad
+title: Murder
+seoTitle: Juega a Murder en línea gratis | FiddleBops
 description: >-
   Murder es un juego de deducción social cargado de suspense en el que un
   jugador es el asesino en secreto e intenta eliminar a los demás sin ser
   descubierto, mientras el resto trata de identificarlo y detenerlo.
 iframeSrc: 'https://ubg77.github.io/fix/murder/'
 thumbnail: /new-images/thumbnails/murder.jpg
+urlstr: murder
 tags:
   - social deduction
   - strategy

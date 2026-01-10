@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: puzzle-pieces-merge
 title: Puzzle Pieces Merge 퍼즐 피스 머지
+seoTitle: Puzzle Pieces Merge 퍼즐 피스 머지 무료 온라인 플레이 | FiddleBops
 description: 조각을 드래그해 서로 맞닿게 두면 자동으로 합쳐지는 병합 퍼즐 게임입니다. 회전과 부스터를 활용해 아름다운 풍경 이미지를 완성해 보세요.
 iframeSrc: 'https://5burcumauc5p0.h5games.usercontent.goog/v/4k8cb35sbe9fo/'
 thumbnail: /new-images/thumbnails/puzzle-pieces-merge.jpg
+urlstr: puzzle-pieces-merge
 tags:
   - puzzle
   - casual

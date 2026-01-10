@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Word Search"
-description: "The classic word-finding puzzle. Find all the hidden words in the letter grid. Words can be hidden horizontally, vertically, or diagonally—and even backwards!"
-iframeSrc: "https://wordsearch.h5games.usercontent.goog/v/6abe3eefqt368/"
+title: Word Search
+seoTitle: Play Word Search Online Free | FiddleBops
+description: >-
+  The classic word-finding puzzle. Find all the hidden words in the letter grid.
+  Words can be hidden horizontally, vertically, or diagonally—and even
+  backwards!
+iframeSrc: 'https://wordsearch.h5games.usercontent.goog/v/6abe3eefqt368/'
 thumbnail: /new-images/thumbnails/word-search-2.jpg
-urlstr: "word-search-2"
-score: "4.5/5  (2800 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: word-search-2
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.5/5  (2800 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

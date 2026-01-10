@@ -1,14 +1,22 @@
 ---
 locale: en
-title: "Crazy Caves"
-description: "Enter the Crazy Caves and test your reflexes! Dodge an endless barrage of falling rocks while throwing pickaxes to smash them for valuable gems and gold. Upgrade your gear to survive longer and score higher."
-iframeSrc: "https://crazycaves.h5games.usercontent.goog/v/24bc2c61-c599-4c5a-9fde-fd3a14fd28a6/"
+title: Crazy Caves
+seoTitle: Play Crazy Caves Online Free | FiddleBops
+description: >-
+  Enter the Crazy Caves and test your reflexes! Dodge an endless barrage of
+  falling rocks while throwing pickaxes to smash them for valuable gems and
+  gold. Upgrade your gear to survive longer and score higher.
+iframeSrc: >-
+  https://crazycaves.h5games.usercontent.goog/v/24bc2c61-c599-4c5a-9fde-fd3a14fd28a6/
 thumbnail: /new-images/thumbnails/crazy-caves.jpg
-urlstr: "crazy-caves"
-score: "4.2/5  (1850 votes)"
-tags: ["action", "casual", "clicker"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: crazy-caves
+tags:
+  - action
+  - casual
+  - clicker
+score: 4.2/5  (1850 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

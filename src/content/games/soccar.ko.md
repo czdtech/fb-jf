@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: soccar
 title: SocCar 삭카
+seoTitle: SocCar 삭카 무료 온라인 플레이 | FiddleBops
 description: '자동차로 즐기는 축구 게임입니다. 필드를 질주하며 거대한 공을 밀어 넣고, 부스트와 점프로 공중 볼까지 노려 골을 기록해 보세요.'
 iframeSrc: 'https://ubg77.github.io/edit/soccar/'
 thumbnail: /new-images/thumbnails/soccar.jpg
+urlstr: soccar
 tags:
   - sports
   - cars

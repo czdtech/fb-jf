@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: emoji-with-friends
 title: Emoji With Friends
+seoTitle: Spiele Emoji With Friends kostenlos online | FiddleBops
 description: >-
   Emoji With Friends ist ein leichtes Party-Puzzlespiel: Finde und kombiniere
   Emoji-Muster, ziehe Schlüsse und trete in schnellen Runden gegen Freunde an.
 iframeSrc: 'https://2gtc787tjm7c8.h5games.usercontent.goog/v/5lfna7ldlrun8/'
 thumbnail: /new-images/thumbnails/emoji-with-friends.png
+urlstr: emoji-with-friends
 tags:
   - puzzle
   - casual

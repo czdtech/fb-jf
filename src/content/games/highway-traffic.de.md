@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: highway-traffic
-title: "Highway Traffic"
+title: Highway Traffic
+seoTitle: Spiele Highway Traffic kostenlos online | FiddleBops
 description: >-
   Rasantes Arcade-Autorennen auf der Autobahn: Wechsle präzise die Spur,
   schlängle dich durch den Verkehr, erfülle Missionen und verdiene Geld für neue
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://app-97317.games.s3.yandex.net/97317/zr27uqx4qauq31fg2ud41a7oye9c4dki/index.html
 thumbnail: /new-images/thumbnails/highway-traffic.jpg
+urlstr: highway-traffic
 tags:
   - driving
   - traffic

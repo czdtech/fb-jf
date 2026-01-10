@@ -1,6 +1,7 @@
 ---
 locale: en
-title: Sprunki Mod BFDI - Play Sprunki Mod BFDI Online
+title: Sprunki Mod BFDI
+seoTitle: Play Sprunki Mod BFDI Online Free | FiddleBops
 description: >-
   The Sprunki Mod BFDI, also known as Sprunki Battle for Dream Island,
   reimagines the classic Incredibox Sprunki gameplay by integrating the
@@ -8,11 +9,11 @@ description: >-
 iframeSrc: 'https://turbowarp.org/1087434086/embed'
 thumbnail: /new-images/thumbnails/sprunki-mod-BFDI.png
 urlstr: sprunki-mod-BFDI
-modType: sprunki
-score: 4.2/5  (347 votes)
 tags:
   - sprunki mod bfdi
   - music
+modType: sprunki
+score: 4.2/5  (347 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

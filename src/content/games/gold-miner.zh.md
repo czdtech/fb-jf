@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: gold-miner
 title: Gold Miner 黄金矿工
+seoTitle: 免费在线玩 Gold Miner 黄金矿工 | FiddleBops
 description: 经典钩爪拉矿街机游戏：抓准时机放下钩爪，勾住地下的金块与宝石， 在时间结束前达成关卡目标金额，并用道具辅助通关。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/gold-miner.html'
 thumbnail: /new-images/thumbnails/gold-miner.jpg
+urlstr: gold-miner
 tags:
   - arcade
   - skill

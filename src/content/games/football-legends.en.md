@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Football Legends"
-description: "Arcade soccer duels: play 1v1 or 2v2 with headers, volleys, and special shots, in quick matches or tournaments."
-iframeSrc: "https://webglmath.github.io/football-legends/"
+title: Football Legends
+seoTitle: Play Football Legends Online Free | FiddleBops
+description: >-
+  Arcade soccer duels: play 1v1 or 2v2 with headers, volleys, and special shots,
+  in quick matches or tournaments.
+iframeSrc: 'https://webglmath.github.io/football-legends/'
 thumbnail: /new-images/thumbnails/football-legends.jpg
-urlstr: "football-legends"
-score: "4.3/5  (222 votes)"
-tags: ["sports", "soccer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: football-legends
+tags:
+  - sports
+  - soccer
+score: 4.3/5  (222 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

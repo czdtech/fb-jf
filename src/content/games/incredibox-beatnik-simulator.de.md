@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: incredibox-beatnik-simulator
-title: "Incredibox Beatnik Simulator"
+title: Incredibox Beatnik Simulator
+seoTitle: Spiele Incredibox Beatnik Simulator kostenlos online | FiddleBops
 description: >-
   Der Incredibox Beatnik Simulator versetzt dich in verrauchte Jazzclubs der
   50er/60er – ein Fan-Mod mit Fokus auf Beatnik-Kultur, Jazz, Poesie und
   nonkonformem Vibe.
 iframeSrc: 'https://turbowarp.org/948885978/embed'
 thumbnail: /new-images/thumbnails/incredibox-beatnik-simulator.png
+urlstr: incredibox-beatnik-simulator
 tags:
   - music
   - rhythm

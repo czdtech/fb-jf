@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: quest-21
 title: Quest 21
+seoTitle: Spiele Quest 21 kostenlos online | FiddleBops
 description: >-
   Ein Blackjack-Abenteuer! Spiele 21er-Hände, besiege Gegner und schreite auf
   deiner Quest voran, indem du näher an 21 kommst als dein Gegenüber – ohne zu
   überziehen.
 iframeSrc: 'https://7h2pln0tgo8q0.h5games.usercontent.goog/v/004k30od8uvog/'
 thumbnail: /new-images/thumbnails/quest-21.png
+urlstr: quest-21
 tags:
   - card
   - puzzle

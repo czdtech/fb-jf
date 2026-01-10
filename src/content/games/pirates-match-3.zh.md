@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: pirates-match-3
 title: 《Pirates Match 3》海盗消消乐
+seoTitle: 免费在线玩 《Pirates Match 3》海盗消消乐 | FiddleBops
 description: 《Pirates Match 3》是一款海盗主题三消益智游戏，你需要交换骷髅、锚、船舵、金币等图标，凑成三个或更多相同图案来完成关卡目标、收集宝藏。
 iframeSrc: >-
   https://piratesmatch3.h5games.usercontent.goog/v/fea2f25f-a39a-4273-93c1-38f8f9bd8260/
 thumbnail: /new-images/thumbnails/pirates-match-3.jpg
+urlstr: pirates-match-3
 tags:
   - puzzle
   - casual

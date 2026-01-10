@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: incredibox-studio
 title: Incredibox Studio
+seoTitle: Spiele Incredibox Studio kostenlos online | FiddleBops
 description: >-
   Incredibox Studio ist ein Fan-Projekt, das die Idee eines offenen Studios
   umsetzt: In einer Sandbox-Umgebung kannst du frei mit Sounds experimentieren
   und eigene Mixes bauen.
 iframeSrc: 'https://turbowarp.org/1013575298/embed'
 thumbnail: /new-images/thumbnails/incredibox-studio.png
+urlstr: incredibox-studio
 tags:
   - music
   - sandbox

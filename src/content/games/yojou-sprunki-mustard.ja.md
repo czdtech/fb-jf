@@ -1,16 +1,18 @@
 ---
+locale: ja
 title: Yojou Sprunki Mustard
+seoTitle: 無料でYojou Sprunki Mustardをオンラインでプレイ | FiddleBops
 description: >-
-  Yojou Sprunki Mustardは、謎の「マスタードソース」で世界が侵食されたSprunki系のパロディModです。黄色いキャラクターとクセの強いサウンドでカオスな曲作りを楽しめます。
+  Yojou Sprunki
+  Mustardは、謎の「マスタードソース」で世界が侵食されたSprunki系のパロディModです。黄色いキャラクターとクセの強いサウンドでカオスな曲作りを楽しめます。
 iframeSrc: 'https://turbowarp.org/1153723334/embed'
 thumbnail: /new-images/thumbnails/yojou-sprunki-mustard.png
 urlstr: yojou-sprunki-mustard
-score: 4.5/5  (322 votes)
 tags:
   - sprunki
   - music
   - mustard
-locale: ja
+score: 4.5/5  (322 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

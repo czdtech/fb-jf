@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: drift-boss
 title: Drift Boss 드리프트 보스
+seoTitle: Drift Boss 드리프트 보스 무료 온라인 플레이 | FiddleBops
 description: >-
   Drift Boss는 공중에 떠 있는 좁은 트랙 위에서 한 버튼으로만 드리프트를 조절하며 최대한 오래 버티는 레이싱 게임입니다. 타이밍 좋게
   눌렀다 떼며 코너를 돌아 나가고, 코인을 모아 더 좋은 차량을 해금해 보세요.
 iframeSrc: 'https://ubg98.github.io/DriftBoss/'
 thumbnail: /new-images/thumbnails/drift-boss.jpg
+urlstr: drift-boss
 tags:
   - racing
   - drifting

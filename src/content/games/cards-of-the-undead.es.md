@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: cards-of-the-undead
 title: Cards of the Undead
+seoTitle: Juega a Cards of the Undead en línea gratis | FiddleBops
 description: >-
   Un juego de cartas táctico por turnos sobre supervivencia. Mueve a tu héroe
   por el tablero, enfréntate a zombis y recoge monedas y potenciadores. Gestiona
   tu vida y armadura para aguantar el máximo tiempo posible.
 iframeSrc: 'https://4afojpng981kg.h5games.usercontent.goog/v/1ge6qnd6h4ss0/'
 thumbnail: /new-images/thumbnails/cards-of-the-undead.png
+urlstr: cards-of-the-undead
 tags:
   - card
   - strategy

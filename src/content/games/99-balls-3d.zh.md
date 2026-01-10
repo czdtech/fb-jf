@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: 99-balls-3d
 title: 99 Balls 3D（99 球 3D）
+seoTitle: 免费在线玩 99 Balls 3D（99 球 3D） | FiddleBops
 description: >-
   《99 Balls 3D（99 球
   3D）》是一款基于物理弹跳的益智射击游戏，融合了打砖块与泡泡射击的爽快感：你需要精确瞄准、让小球多次反弹，击碎不断下落的数字球，并通过收集圆环与星星来提升火力。
 iframeSrc: 'https://99balls3d.h5games.usercontent.goog/v/0b35ksethbio8/'
 thumbnail: /new-images/thumbnails/99-balls-3d.jpeg
+urlstr: 99-balls-3d
 tags:
   - shooting
   - puzzle

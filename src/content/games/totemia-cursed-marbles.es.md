@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: totemia-cursed-marbles
-title: 'Totemia: Cursed Marbles - Dispara y rompe la cadena'
+title: 'Totemia: Cursed Marbles'
+seoTitle: 'Juega a Totemia: Cursed Marbles en línea gratis | FiddleBops'
 description: >-
   Un puzle clásico de disparar canicas. Lanza bolas desde tu tótem tiki, forma
   grupos de tres o más del mismo color y destruye toda la cadena antes de que
   llegue al final del recorrido.
 iframeSrc: 'https://totemiacursed.h5games.usercontent.goog/v/2hs7lfvsisr48/'
 thumbnail: /new-images/thumbnails/totemia-cursed-marbles.png
+urlstr: totemia-cursed-marbles
 tags:
   - shooting
   - puzzle

@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Retro Bowl"
-description: "Retro Bowl is a nostalgic American football game with retro 8-bit graphics where players manage and play as a football team, calling plays, throwing passes, and leading their team to championship glory."
-iframeSrc: "https://game316009.konggames.com/gamez/0031/6009/live/index.html"
+title: Retro Bowl
+seoTitle: Play Retro Bowl Online Free | FiddleBops
+description: >-
+  Retro Bowl is a nostalgic American football game with retro 8-bit graphics
+  where players manage and play as a football team, calling plays, throwing
+  passes, and leading their team to championship glory.
+iframeSrc: 'https://game316009.konggames.com/gamez/0031/6009/live/index.html'
 thumbnail: /new-images/thumbnails/retro-bowl.jpg
-urlstr: "retro-bowl"
-score: "3.5/5  (637 votes)"
-tags: ["sports", "retro", "management"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: retro-bowl
+tags:
+  - sports
+  - retro
+  - management
+score: 3.5/5  (637 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: choir
-title: "Choir Game"
+title: Choir Game
+seoTitle: Juega a Choir Game en línea gratis | FiddleBops
 description: >-
   Descubre Blob Opera, el juego de coro viral. Esta guía te ofrece instrucciones
   de juego detalladas, controles, consejos y respuestas a las dudas más
   frecuentes sobre este creativo experimento musical.
 iframeSrc: 'https://d21u3ic0kp9e91.cloudfront.net/choir/04/index.html'
 thumbnail: /new-images/thumbnails/choir.jpg
+urlstr: choir
 tags:
   - casual
   - music

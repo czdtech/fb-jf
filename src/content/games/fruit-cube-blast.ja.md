@@ -1,19 +1,20 @@
 ---
+locale: ja
 title: Fruit Cube Blast
+seoTitle: 無料でFruit Cube Blastをオンラインでプレイ | FiddleBops
 description: >-
   Fruit Cube
   Blastでジューシーなレベルをブラストしましょう！マッチするフルーツキューブのグループをタップして爆発的なコンボを作り、この楽しいカラフルなパズルゲームでボードをクリアしましょう。
 iframeSrc: 'https://5pj67mkaqugmo.h5games.usercontent.goog/v/151if1r687t30/'
 thumbnail: /new-images/thumbnails/fruit-cube-blast.jpg
 urlstr: fruit-cube-blast
-score: 4.2/5  (1770 votes)
 tags:
   - puzzle
   - casual
   - clicker
+score: 4.2/5  (1770 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

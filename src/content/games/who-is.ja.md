@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Who Is?
+seoTitle: 無料でWho Is?をオンラインでプレイ | FiddleBops
 description: Who Is?は、推理パズルゲームです。謎を解いて正しい答えを見つけましょう。
 iframeSrc: 'https://rebemanae.github.io/who-is/'
 thumbnail: /new-images/thumbnails/who-is.jpg
 urlstr: who-is
-score: 4.1/5  (907 votes)
 tags:
   - puzzle
   - brain
   - detective
-locale: ja
+score: 4.1/5  (907 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

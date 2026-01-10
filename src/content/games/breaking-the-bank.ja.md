@@ -1,14 +1,19 @@
 ---
-title: "Breaking the Bank ブレーキング・ザ・バンク"
-description: "伝説の棒人間アドベンチャー「Breaking the Bank」！銀行強盗を企むヘンリー・スティックミンの運命を選べ。成功への道はたった一つ、他は全て爆笑の失敗のみ。"
-iframeSrc: "https://rebemanae.github.io/breaking-the-bank/"
-thumbnail: /new-images/thumbnails/breaking-the-bank.jpg
-urlstr: "breaking-the-bank"
-score: "4.7/5  (1071 votes)"
-tags: ["puzzle", "adventure"]
-developer: ""
-releaseDate: 2025-08-16
 locale: ja
+title: Breaking the Bank ブレーキング・ザ・バンク
+seoTitle: 無料でBreaking the Bank ブレーキング・ザ・バンクをオンラインでプレイ | FiddleBops
+description: >-
+  伝説の棒人間アドベンチャー「Breaking the
+  Bank」！銀行強盗を企むヘンリー・スティックミンの運命を選べ。成功への道はたった一つ、他は全て爆笑の失敗のみ。
+iframeSrc: 'https://rebemanae.github.io/breaking-the-bank/'
+thumbnail: /new-images/thumbnails/breaking-the-bank.jpg
+urlstr: breaking-the-bank
+tags:
+  - puzzle
+  - adventure
+score: 4.7/5  (1071 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: om-nom-connect-xmas
 title: Om Nom Connect Xmas
+seoTitle: Spiele Om Nom Connect Xmas kostenlos online | FiddleBops
 description: >-
   Begleite Om Nom in ein festliches Puzzle-Abenteuer! Om Nom Connect Xmas ist
   ein weihnachtliches Verbindespiel, in dem du Paare von Kacheln mit
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://omnomconnectxmas.h5games.usercontent.goog/v/88a6b2cf-1027-4490-a613-9a135cf869ce/
 thumbnail: /new-images/thumbnails/om-nom-connect-xmas.jpg
+urlstr: om-nom-connect-xmas
 tags:
   - puzzle
   - casual

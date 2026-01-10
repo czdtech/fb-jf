@@ -1,13 +1,14 @@
 ---
 locale: zh
-urlstr: qwop
 title: 《QWOP Game》魔性物理解谜跑步
+seoTitle: 免费在线玩 《QWOP Game》魔性物理解谜跑步 | FiddleBops
 description: >-
   《QWOP
   Game》是一款以诙谐着称、极其难上手的物理跑步游戏。玩家只靠键盘四个按键（Q、W、O、P）分别驱动跑步者双腿的不同肌肉，目标是在不摔倒的前提下艰难挪到
   100 米终点。
 iframeSrc: 'https://kdata1.com/2020/01/QWOP1/?webgl=true'
 thumbnail: /new-images/thumbnails/qwop.jpg
+urlstr: qwop
 tags:
   - physics
   - difficulty

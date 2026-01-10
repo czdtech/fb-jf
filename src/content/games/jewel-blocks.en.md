@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Jewel Blocks"
-description: "A captivating puzzle game of strategy and spatial awareness. Drag and drop jewel-themed blocks onto the grid to create and clear full lines, but plan carefully—no rotations allowed!"
-iframeSrc: "https://jewelblocks.h5games.usercontent.goog/v/0puee6ie0j880/"
+title: Jewel Blocks
+seoTitle: Play Jewel Blocks Online Free | FiddleBops
+description: >-
+  A captivating puzzle game of strategy and spatial awareness. Drag and drop
+  jewel-themed blocks onto the grid to create and clear full lines, but plan
+  carefully—no rotations allowed!
+iframeSrc: 'https://jewelblocks.h5games.usercontent.goog/v/0puee6ie0j880/'
 thumbnail: /new-images/thumbnails/jewel-blocks.png
-urlstr: "jewel-blocks"
-score: "4.4/5  (2410 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: jewel-blocks
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.4/5  (2410 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

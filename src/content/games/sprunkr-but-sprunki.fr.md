@@ -1,18 +1,19 @@
 ---
 locale: fr
-urlstr: sprunkr-but-sprunki
-title: Sprunkr But Sprunki - Jouer à Sprunkr But Sprunki en ligne
+title: Sprunkr But Sprunki
+seoTitle: Jouez à Sprunkr But Sprunki en ligne gratuitement | FiddleBops
 description: >-
   Sprunkr But Sprunki est un Mod crossover qui reprend le principe de Sprunkr en
   remplaçant tous les personnages par des versions Sprunki, avec leurs sons et
   animations caractéristiques.
 iframeSrc: 'https://turbowarp.org/1113707117/embed'
 thumbnail: /new-images/thumbnails/sprunkr-but-sprunki.png
+urlstr: sprunkr-but-sprunki
 tags:
   - sprunkr but sprunki
   - music
 score: 4.5/5  (541 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

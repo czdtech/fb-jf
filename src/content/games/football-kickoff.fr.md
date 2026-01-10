@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: football-kickoff
 title: Football Kickoff
+seoTitle: Jouez à Football Kickoff en ligne gratuitement | FiddleBops
 description: >-
   Football Kickoff met en avant les équipes spéciales : vise tes coups de pied,
   lis le vent et gagne la bataille du terrain avec une bonne gestion de la
   puissance.
 iframeSrc: 'https://30sab7l7n7df0.h5games.usercontent.goog/v/5c7k7dlnf1c5g/'
 thumbnail: /new-images/thumbnails/football-kickoff.jpg
+urlstr: football-kickoff
 tags:
   - sports
   - casual

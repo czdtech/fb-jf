@@ -1,19 +1,20 @@
 ---
+locale: ja
 title: Basketball Legends バスケットボール・レジェンド
+seoTitle: 無料でBasketball Legends バスケットボール・レジェンドをオンラインでプレイ | FiddleBops
 description: >-
   「Basketball
   Legends」でコートの伝説となれ！レジェンド選手たちを操り、1対1や2対2の対戦、トーナメントを勝ち抜くための完全攻略ガイド。スーパーショットの使い方が勝負を決める。
 iframeSrc: 'https://webglmath.github.io/basketball-legends/'
 thumbnail: /new-images/thumbnails/basketball-legends.jpg
 urlstr: basketball-legends
-score: 4.5/5  (832 votes)
 tags:
   - sports
   - basketball
   - multiplayer
+score: 4.5/5  (832 votes)
 developer: MadPuffers
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

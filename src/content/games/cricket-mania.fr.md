@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: cricket-mania
 title: Cricket Mania
+seoTitle: Jouez à Cricket Mania en ligne gratuitement | FiddleBops
 description: "Cricket Mania condense le cricket en défis de batting rapides\_: lis chaque lancer, choisis ton tir et poursuis les objectifs de score."
 iframeSrc: 'https://73lnk17f84iog.h5games.usercontent.goog/v/1p7sdm5buflt0/'
 thumbnail: /new-images/thumbnails/cricket-mania.png
+urlstr: cricket-mania
 tags:
   - sports
   - casual

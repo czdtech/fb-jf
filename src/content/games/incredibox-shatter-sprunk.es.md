@@ -1,18 +1,19 @@
 ---
 locale: es
-urlstr: incredibox-shatter-sprunk
-title: "Incredibox Shatter Sprunk - Juega Incredibox Shatter Sprunk en línea"
+title: Incredibox Shatter Sprunk
+seoTitle: Juega a Incredibox Shatter Sprunk en línea gratis | FiddleBops
 description: >-
   Incredibox Shatter Sprunk es un mod musical creado por fans para Incredibox.
   En esta versión, todos los personajes aparecen en un llamativo color amarillo
   y cada uno aporta un efecto sonoro único.
 iframeSrc: 'https://turbowarp.org/1144858827/embed'
 thumbnail: /new-images/thumbnails/incredibox-shatter-sprunk.png
+urlstr: incredibox-shatter-sprunk
 tags:
   - incredibox shatter sprunk
   - incredibox shatter sprunk online
 score: 4.5/5  (614 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

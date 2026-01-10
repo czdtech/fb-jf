@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Chess チェス
+seoTitle: 無料でChess チェスをオンラインでプレイ | FiddleBops
 description: 「Chess」で究極の頭脳戦に挑戦。ルール、駒の動き、そして戦略を学び、盤面を支配せよ。相手のキングをチェックメイトして勝利を掴め。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/chess/'
 thumbnail: /new-images/thumbnails/chess.jpg
 urlstr: chess
-score: 4.0/5  (1497 votes)
 tags:
   - strategy
   - puzzle
   - classic
+score: 4.0/5  (1497 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

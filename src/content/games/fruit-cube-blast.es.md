@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: fruit-cube-blast
 title: Fruit Cube Blast
+seoTitle: Juega a Fruit Cube Blast en línea gratis | FiddleBops
 description: >-
   Explota niveles llenos de color en Fruit Cube Blast. Toca grupos de cubos de
   fruta del mismo tipo para crear combos explosivos y limpiar el tablero en este
   divertido puzle.
 iframeSrc: 'https://5pj67mkaqugmo.h5games.usercontent.goog/v/151if1r687t30/'
 thumbnail: /new-images/thumbnails/fruit-cube-blast.jpg
+urlstr: fruit-cube-blast
 tags:
   - puzzle
   - casual

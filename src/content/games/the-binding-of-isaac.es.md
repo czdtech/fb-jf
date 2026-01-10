@@ -1,6 +1,7 @@
 ---
 locale: es
-title: The Binding of Isaac - Roguelike de acción oscura
+title: The Binding of Isaac
+seoTitle: Juega a The Binding of Isaac en línea gratis | FiddleBops
 description: >-
   Desciende al sótano en The Binding of Isaac, un exigente roguelike de acción
   con disparos en todas direcciones. Enfréntate a criaturas grotescas, recoge
@@ -10,11 +11,11 @@ description: >-
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-binding-of-isaac.html'
 thumbnail: /new-images/thumbnails/the-binding-of-isaac.jpg
 urlstr: the-binding-of-isaac
-score: 4.1/5  (186 votes)
 tags:
   - roguelike
   - action-RPG
   - indie
+score: 4.1/5  (186 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---

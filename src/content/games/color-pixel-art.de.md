@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: color-pixel-art
 title: Color Pixel Art Classic
+seoTitle: Spiele Color Pixel Art Classic kostenlos online | FiddleBops
 description: >-
   Entspanne dich mit diesem klassischen "Malen nach Zahlen"-Pixel-Art-Spiel.
   Wähle eine Farbe, suche die passende Zahl und fülle die Pixel, bis ein
   vollständiges Bild entsteht.
 iframeSrc: 'https://colorpixel.h5games.usercontent.goog/v/6ko86juonaau0/'
 thumbnail: /new-images/thumbnails/color-pixel-art.png
+urlstr: color-pixel-art
 tags:
   - puzzle
   - casual

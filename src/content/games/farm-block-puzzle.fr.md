@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: farm-block-puzzle
 title: Farm Block Puzzle
+seoTitle: Jouez à Farm Block Puzzle en ligne gratuitement | FiddleBops
 description: >-
   Un jeu de puzzle de blocs relaxant et amusant avec un thème de ferme charmant.
   Fais glisser les formes sur la grille 10x10 pour compléter des lignes et les
   effacer du plateau.
 iframeSrc: 'https://5hefbqkv5o0do.h5games.usercontent.goog/v/0bio68l8dojl0/'
 thumbnail: /new-images/thumbnails/farm-block-puzzle.png
+urlstr: farm-block-puzzle
 tags:
   - puzzle
   - thinky

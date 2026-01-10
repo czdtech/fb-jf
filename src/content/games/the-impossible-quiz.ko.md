@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: the-impossible-quiz
 title: The Impossible Quiz 디 임파서블 퀴즈
+seoTitle: The Impossible Quiz 디 임파서블 퀴즈 무료 온라인 플레이 | FiddleBops
 description: >-
   The Impossible Quiz는 의도적으로 말도 안 되는 함정과 트릭 문제로 가득한 퀴즈 게임입니다. 상식에만 의존하지 말고, 엉뚱한
   발상과 눈치로 정답을 찾아내야 합니다.
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-impossible-quiz.html'
 thumbnail: /new-images/thumbnails/the-impossible-quiz.jpg
+urlstr: the-impossible-quiz
 tags:
   - quiz
   - puzzle

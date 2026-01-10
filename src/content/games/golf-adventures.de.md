@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: golf-adventures
 title: Golf Adventures
+seoTitle: Spiele Golf Adventures kostenlos online | FiddleBops
 description: >-
   Golf Adventures ist ein physikbasiertes Golf-Puzzlespiel. Ziele deinen Ball,
   überwinde kreative Hindernisse und versenke ihn mit möglichst wenigen Schlägen
   im Loch.
 iframeSrc: 'https://golfadventures.h5games.usercontent.goog/v/2er1vod6k6p0o/'
 thumbnail: /new-images/thumbnails/golf-adventures.png
+urlstr: golf-adventures
 tags:
   - sports
   - puzzle

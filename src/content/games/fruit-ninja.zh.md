@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: fruit-ninja
 title: Fruit Ninja 切水果忍者
+seoTitle: 免费在线玩 Fruit Ninja 切水果忍者 | FiddleBops
 description: 街机式切水果游戏代表作：在空中用手势划破飞出的水果， 避开炸弹，串起连斩与狂热模式来冲击高分。
 iframeSrc: 'https://emulatoros.github.io/gfile/fruitninja/'
 thumbnail: /new-images/thumbnails/fruit-ninja.jpg
+urlstr: fruit-ninja
 tags:
   - arcade
   - action

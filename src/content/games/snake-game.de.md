@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: snake-game
 title: Snake Game
+seoTitle: Spiele Snake Game kostenlos online | FiddleBops
 description: >-
   Snake Game ist der klassische Arcade-Snake: Steuere eine ständig wachsende
   Schlange, friss Futter, um länger zu werden, und vermeide Kollisionen mit
   Wänden oder deinem eigenen Körper, um den Highscore zu knacken.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/snake/'
 thumbnail: /new-images/thumbnails/snake-game.jpg
+urlstr: snake-game
 tags:
   - classic
   - arcade

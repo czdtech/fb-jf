@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: checkers
 title: Checkers 체커스
+seoTitle: Checkers 체커스 무료 온라인 플레이 | FiddleBops
 description: >-
   Checkers는 Draughts로도 알려진 고전 보드게임입니다. 대각선 이동과 강제 잡기 규칙을 익히고, 자신의 말을 왕(King)으로
   승격시켜 상대 말을 모두 잡아내거나 이동 불능 상태로 몰아 보세요.
 iframeSrc: >-
   https://app-98054.games.s3.yandex.net/98054/nmrr3mfit1y3qyd35l9zk4d8awgfxsjq/index.html
 thumbnail: /new-images/thumbnails/checkers.jpg
+urlstr: checkers
 tags:
   - strategy
   - puzzle

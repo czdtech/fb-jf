@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: roadfury
 title: Road Fury 로드 퓨리
+seoTitle: Road Fury 로드 퓨리 무료 온라인 플레이 | FiddleBops
 description: >-
   고속도로를 질주하며 적 차량을 파괴하는 상단 시점 스크롤 슈팅 게임입니다. 파워업을 모으고 차량을 업그레이드해 분노의 도로를 끝까지 버텨
   보세요.
 iframeSrc: 'https://roadfury.h5games.usercontent.goog/v/6u0uos6j6vvl0/'
 thumbnail: /new-images/thumbnails/roadfury.png
+urlstr: roadfury
 tags:
   - action
   - shooting

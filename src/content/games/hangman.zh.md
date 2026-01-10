@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: hangman
-title: "《Hangman》经典吊死鬼猜单词"
-description: "《Hangman》是一款经典的英语猜词游戏，通过逐个猜字母来推理出隐藏单词，在小人被画完整之前尽量避免犯太多错误。"
+title: 《Hangman》经典吊死鬼猜单词
+seoTitle: 免费在线玩 《Hangman》经典吊死鬼猜单词 | FiddleBops
+description: 《Hangman》是一款经典的英语猜词游戏，通过逐个猜字母来推理出隐藏单词，在小人被画完整之前尽量避免犯太多错误。
 iframeSrc: 'https://hangman-frontend.coolmathgames.com/home'
 thumbnail: /new-images/thumbnails/hangman.jpg
+urlstr: hangman
 tags:
   - word
   - puzzle

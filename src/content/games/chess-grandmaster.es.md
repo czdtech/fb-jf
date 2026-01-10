@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: chess-grandmaster
 title: Chess Grandmaster
+seoTitle: Juega a Chess Grandmaster en línea gratis | FiddleBops
 description: >-
   Chess Grandmaster ofrece ajedrez clásico a fondo: aprende aperturas, calcula
   tácticas y convierte ventajas apoyándote en los fundamentos de finales.
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
 thumbnail: /new-images/thumbnails/chess-grandmaster.jpg
+urlstr: chess-grandmaster
 tags:
   - thinky
   - puzzle

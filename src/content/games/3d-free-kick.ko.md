@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: 3d-free-kick
 title: 3D Free Kick 3D 프리킥
+seoTitle: 3D Free Kick 3D 프리킥 무료 온라인 플레이 | FiddleBops
 description: 프리킥 상황에 집중한 축구 게임입니다. 수비벽과 골키퍼를 피해 공을 휘어 차 멋진 프리킥 골을 넣어 보세요.
 iframeSrc: 'https://78b0enfiv98go.h5games.usercontent.goog/v/00acsktd29tjg/'
 thumbnail: /new-images/thumbnails/3d-free-kick.png
+urlstr: 3d-free-kick
 tags:
   - sports
   - soccer

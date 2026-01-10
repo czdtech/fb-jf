@@ -1,16 +1,17 @@
 ---
 locale: zh
-urlstr: sprunki-night-time
-title: Sprunki Night Time - 在线玩 Sprunki Night Time
+title: Sprunki Night Time
+seoTitle: 免费在线玩 Sprunki Night Time | FiddleBops
 description: >-
   Sprunki Night Time 带你进入一个充满神秘和未知的黑暗世界，让你在夜晚的寂静中体验一场迷幻的音乐之旅。快来加入 Sprunki Night
   Time，用你的音乐点亮这深邃而神秘的夜晚！
 iframeSrc: 'https://turbowarp.org/1100659044/embed'
 thumbnail: /new-images/thumbnails/sprunki-night-time.png
-score: 4.2/5  (324 votes)
+urlstr: sprunki-night-time
 tags:
   - sprunki night time
   - sprunki night time online
+score: 4.2/5  (324 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

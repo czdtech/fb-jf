@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: one-line-only-dot-to-dot
 title: '《One line only: dot to dot》一笔连点'
+seoTitle: '免费在线玩 《One line only: dot to dot》一笔连点 | FiddleBops'
 description: >-
   《One line only: dot to
   dot》是一款简洁的一笔画解谜游戏，你需要用一条连续不断的线连接所有点和线段，既不能擡笔，也不能重复走已有路径。
 iframeSrc: 'https://7n3sql2bqn9eg.h5games.usercontent.goog/v/2br4t62jndh88/'
 thumbnail: /new-images/thumbnails/one-line-only-dot-to-dot.jpg
+urlstr: one-line-only-dot-to-dot
 tags:
   - puzzle
   - thinky

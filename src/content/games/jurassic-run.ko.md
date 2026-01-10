@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: jurassic-run
 title: Jurassic Run 공룡 러너
+seoTitle: Jurassic Run 공룡 러너 무료 온라인 플레이 | FiddleBops
 description: >-
   공룡과 정글을 배경으로 한 끝없는 러너 'Jurassic Run' 가이드입니다. 레인을 바꾸고 점프·슬라이드로 장애물을 피하며, 코인을 모아
   높은 점수를 노려 보세요.
 iframeSrc: 'https://260c4eej53igg.h5games.usercontent.goog/v/5h99gs1rujgk0/'
 thumbnail: /new-images/thumbnails/jurassic-run.png
+urlstr: jurassic-run
 tags:
   - action
   - casual

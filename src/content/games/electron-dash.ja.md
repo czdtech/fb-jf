@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Electron Dash エレクトロン・ダッシュ
+seoTitle: 無料でElectron Dash エレクトロン・ダッシュをオンラインでプレイ | FiddleBops
 description: 「Electron Dash」は高速トンネル・ランナー。回転する足場をジャンプし、ダッシュで駆け抜け、どこまでも走り続けろ。
 iframeSrc: 'https://slope-game.github.io/electron-dash/'
 thumbnail: /new-images/thumbnails/electron-dash.jpg
 urlstr: electron-dash
-score: 4.4/5  (1386 votes)
 tags:
   - arcade
   - runner
+score: 4.4/5  (1386 votes)
 developer: ''
-locale: ja
 releaseDate: 2025-09-09T00:00:00.000Z
 ---
 

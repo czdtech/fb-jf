@@ -1,13 +1,13 @@
 ---
 locale: ko
-urlstr: jewel-duel
-title: "Jewel Duel 보석 턴제 배틀"
+title: Jewel Duel 보석 턴제 배틀
+seoTitle: Jewel Duel 보석 턴제 배틀 무료 온라인 플레이 | FiddleBops
 description: >-
-  3매치 퍼즐과 RPG 전투를 결합한 'Jewel Duel' 가이드입니다.
-  색상 매치로 공격·방어·스킬 게이지를 채우고, 적의 보호막을
-  깨며 전투를 유리하게 이끄는 방법을 다룹니다.
+  3매치 퍼즐과 RPG 전투를 결합한 'Jewel Duel' 가이드입니다. 색상 매치로 공격·방어·스킬 게이지를 채우고, 적의 보호막을 깨며
+  전투를 유리하게 이끄는 방법을 다룹니다.
 iframeSrc: 'https://5f4e2d55f2dt8.h5games.usercontent.goog/v/36105ruk0rln0/'
 thumbnail: /new-images/thumbnails/jewel-duel.jpg
+urlstr: jewel-duel
 tags:
   - puzzle
   - thinky

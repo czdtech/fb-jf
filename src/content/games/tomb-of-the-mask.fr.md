@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: tomb-of-the-mask
 title: Tomb of the Mask
+seoTitle: Jouez à Tomb of the Mask en ligne gratuitement | FiddleBops
 description: >-
   Tomb of the Mask est un jeu arcade rapide : glisse de mur en mur, collecte des
   pieces et bonus tout en fuyant une maree montante.
 iframeSrc: 'https://w8.snokido.com/games/unity-webgl/tomb-run/index.html'
 thumbnail: /new-images/thumbnails/tomb-of-the-mask.jpg
+urlstr: tomb-of-the-mask
 tags:
   - arcade
   - maze

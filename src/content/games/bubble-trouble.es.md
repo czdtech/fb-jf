@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: bubble-trouble
 title: Bubble Trouble
+seoTitle: Juega a Bubble Trouble en línea gratis | FiddleBops
 description: >-
   Revienta burbujas que rebotan usando tu arpón en este trepidante arcade de
   acción. Divide las burbujas grandes en otras más pequeñas mientras evitas el
@@ -10,6 +10,7 @@ description: >-
 iframeSrc: >-
   https://app-96647.games.s3.yandex.net/96647/w4h0ydt7quklspc0jxwg9kauaiii2lnx/index.html
 thumbnail: /new-images/thumbnails/bubble-trouble.jpg
+urlstr: bubble-trouble
 tags:
   - arcade
   - action

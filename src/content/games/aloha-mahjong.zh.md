@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: aloha-mahjong
 title: Aloha Mahjong 阿罗哈麻将
+seoTitle: 免费在线玩 Aloha Mahjong 阿罗哈麻将 | FiddleBops
 description: 《Aloha Mahjong（阿罗哈麻将）》是一款海岛主题的麻将接龙游戏：在叠放牌阵中找出可配对的牌面，一层层清空牌堆，轻松解压。
 iframeSrc: 'https://02ef7fb7guapg.h5games.usercontent.goog/v/13knu9k9rm8go/'
 thumbnail: /new-images/thumbnails/aloha-mahjong.jpg
+urlstr: aloha-mahjong
 tags:
   - mahjong
   - puzzle

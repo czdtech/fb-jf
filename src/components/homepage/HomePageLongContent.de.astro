@@ -2,286 +2,124 @@
 /**
  * Legacy long-form homepage content (German).
  * Kept intentionally to preserve existing localized long text.
+ * Updated with Accordion components for better UX.
  */
+import Accordion from '../Accordion.astro';
+import AccordionGroup from '../AccordionGroup.astro';
+import SoundCard from '../SoundCard.astro';
+import { HOMEPAGE_SOUNDS } from '../../data/sounds';
 ---
 
 <section class="about" id="about">
   <div class="container">
     <h2>Über Fiddlebops Incredibox</h2>
-    <div class="about-content">
-      <h3>I. Fiddlebops: Basisinformationen und Spielprinzip</h3>
-      <p>
-        <strong>Spielname:</strong> Fiddlebops
-      </p>
-      <p>
-        <strong>Genre/Tags:</strong> Musikkreation, Rhythmus, Experimentell, Bildung, Familienfreundlich, Gelegenheitsspiel,
-        Einzelspieler, Kreativ
-      </p>
-      <p>
-        <strong>Plattform:</strong> Web (Browser)
-      </p>
-      <p>
-        <strong>Veröffentlichungsdatum:</strong> Ungefähr im der 7. November 2024
-      </p>
-      <p>
-        <strong>Preis/Verfügbarkeit:</strong> Kostenlos
-      </p>
-      <hr />
-      <h4>1. Kompositionsmechanik</h4>
-      <ul>
-        <li>
-          <strong>Kernmechanik:</strong> Wähle liebenswerte Fiddlebops-Charaktere aus, von denen jeder einen einzigartigen
-          Instrumentalklang oder ein musikalisches Element darstellt. Kombiniere Klänge, indem du Charaktere auf
-          Performance-Positionen oder eine Zeitleiste ziehst und ablegst.
-        </li>
-        <li>
-          <strong>Klangkombination:</strong> Kombiniere mehrere Fiddlebops-Charaktere, um vielschichtige Musik zu erschaffen.
-          Unterschiedliche Kombinationen erzeugen verschiedene musikalische Texturen.
-        </li>
-        <li>
-          <strong>Rhythmus und Timing:</strong> Möglicherweise wird eine gitterbasierte Platzierung oder eine einfache Zeitleiste
-          verwendet, um das Timing und den Rhythmus der Klänge zu steuern.
-        </li>
-        <li>
-          <strong>Looping und Wiederholung:</strong> Kann Mechanismen zum Loopen von Klängen enthalten, um sich wiederholende
-          musikalische Phrasen zu erzeugen.
-        </li>
-        <li>
-          <strong>Erkundung und Experimentieren:</strong> Ermutigt zur freien Erkundung von Klangkombinationen und betont den Spaß am
-          Schaffen.
-        </li>
-      </ul>
-      <hr />
-      <h3>II. Fiddlebops Mods und Community-Inhalte</h3>
+    <AccordionGroup>
+      <Accordion title="I. Fiddlebops: Basisinformationen und Spielprinzip" defaultOpen={true}>
+        <p><strong>Spielname:</strong> Fiddlebops</p>
+        <p><strong>Genre/Tags:</strong> Musikkreation, Rhythmus, Experimentell, Bildung, Familienfreundlich, Gelegenheitsspiel, Einzelspieler, Kreativ</p>
+        <p><strong>Plattform:</strong> Web (Browser)</p>
+        <p><strong>Veröffentlichungsdatum:</strong> Ungefähr im der 7. November 2024</p>
+        <p><strong>Preis/Verfügbarkeit:</strong> Kostenlos</p>
+        <hr />
+        <h4>1. Kompositionsmechanik</h4>
+        <ul>
+          <li><strong>Kernmechanik:</strong> Wähle liebenswerte Fiddlebops-Charaktere aus, von denen jeder einen einzigartigen Instrumentalklang oder ein musikalisches Element darstellt. Kombiniere Klänge, indem du Charaktere auf Performance-Positionen oder eine Zeitleiste ziehst und ablegst.</li>
+          <li><strong>Klangkombination:</strong> Kombiniere mehrere Fiddlebops-Charaktere, um vielschichtige Musik zu erschaffen. Unterschiedliche Kombinationen erzeugen verschiedene musikalische Texturen.</li>
+          <li><strong>Rhythmus und Timing:</strong> Möglicherweise wird eine gitterbasierte Platzierung oder eine einfache Zeitleiste verwendet, um das Timing und den Rhythmus der Klänge zu steuern.</li>
+          <li><strong>Looping und Wiederholung:</strong> Kann Mechanismen zum Loopen von Klängen enthalten, um sich wiederholende musikalische Phrasen zu erzeugen.</li>
+          <li><strong>Erkundung und Experimentieren:</strong> Ermutigt zur freien Erkundung von Klangkombinationen und betont den Spaß am Schaffen.</li>
+        </ul>
+      </Accordion>
 
-      <h4>1. Überblick über beliebte Spiel-Mods</h4>
-      <ul>
-        <li>
-          <a href="/fiddlebops-but-sprunki/">Fiddlebops but Sprunki</a>
-        </li>
-        <li>
-          <a href="/fiddlebops-fix/">Fiddlebops Fix</a>
-        </li>
-        <li>
-          <a href="/fiddlebops-polos/">Fiddlebops Polos</a>
-        </li>
-        <li>
-          <a href="/fiddlebops-but-dandys-world/">Fiddlebops But Dandy's World</a>
-        </li>
-      </ul>
+      <Accordion title="II. Fiddlebops Mods und Community-Inhalte">
+        <h4>1. Überblick über beliebte Spiel-Mods</h4>
+        <ul>
+          <li><a href="/fiddlebops-but-sprunki/">Fiddlebops but Sprunki</a></li>
+          <li><a href="/fiddlebops-fix/">Fiddlebops Fix</a></li>
+          <li><a href="/fiddlebops-polos/">Fiddlebops Polos</a></li>
+          <li><a href="/fiddlebops-but-dandys-world/">Fiddlebops But Dandy's World</a></li>
+        </ul>
+        <h4>2. Charaktervorstellung und Community-Kreationen</h4>
+        <ul>
+          <li>
+            <strong>Charaktervorstellung:</strong> Fiddlebops sind eine Gruppe liebenswerter, farbenfroher Cartoon-Charaktere, von denen jeder mit einem bestimmten Klang/Instrument verbunden ist.
+            <ul>
+              <li><em>Schlagzeuger-Typ Charaktere:</em> Liefern rhythmische Abschnitte.</li>
+              <li><em>Melodie-Typ Charaktere:</em> Bieten Klänge ähnlich wie Flöten, Keyboards oder Synthesizer.</li>
+              <li><em>Akkord-Typ Charaktere:</em> Steuern Hintergrundharmonien oder Basslinien bei.</li>
+              <li><em>Soundeffekt-Typ Charaktere:</em> Erzeugen spezielle Effektsounds oder Gesangssamples.</li>
+            </ul>
+          </li>
+          <li><strong>Community-Kreationen:</strong> Umfassen hauptsächlich Spieler, die ihre mit "Fiddlebops" erstellten musikalischen Werke kreieren und teilen. Diese Werke werden auf Plattformen wie itch / scratch Kommentarbereichen, Foren und sozialen Medien (YouTube, TikTok, Twitter mit dem Hashtag #Fiddlebops) geteilt.</li>
+        </ul>
+      </Accordion>
 
-      <h4>2. Charaktervorstellung und Community-Kreationen</h4>
-      <ul>
-        <li>
-          <strong>Charaktervorstellung:</strong> Fiddlebops sind eine Gruppe liebenswerter, farbenfroher Cartoon-Charaktere, von denen
-          jeder mit einem bestimmten Klang/Instrument verbunden ist.
-          <ul>
-            <li>
-              <em>Schlagzeuger-Typ Charaktere:</em> Liefern rhythmische Abschnitte.
-            </li>
-            <li>
-              <em>Melodie-Typ Charaktere:</em> Bieten Klänge ähnlich wie Flöten, Keyboards oder Synthesizer.
-            </li>
-            <li>
-              <em>Akkord-Typ Charaktere:</em> Steuern Hintergrundharmonien oder Basslinien bei.
-            </li>
-            <li>
-              <em>Soundeffekt-Typ Charaktere:</em> Erzeugen spezielle Effektsounds oder Gesangssamples.
-            </li>
-          </ul>
-        </li>
-        <li>
-          <strong>Community-Kreationen:</strong> Umfassen hauptsächlich Spieler, die ihre mit "Fiddlebops" erstellten musikalischen Werke
-          kreieren und teilen. Diese Werke werden auf Plattformen wie itch / scratch Kommentarbereichen, Foren und sozialen Medien
-          (YouTube, TikTok, Twitter mit dem Hashtag #Fiddlebops) geteilt.
-        </li>
-      </ul>
-      <hr />
-      <h3>III. Wie man Fiddlebops spielt</h3>
+      <Accordion title="III. Wie man Fiddlebops spielt">
+        <h4>1. Charaktere auswählen</h4>
+        <ul>
+          <li>Spieler wählen aus einer Bibliothek von Fiddlebops-Charakteren, jeder mit einem einzigartigen Aussehen und Klang.</li>
+          <li>Eine Klangvorschau kann beim Anklicken oder Ziehen eines Charakters abgespielt werden.</li>
+        </ul>
+        <h4>2. Klänge kombinieren</h4>
+        <ul>
+          <li>Spieler ziehen ausgewählte Fiddlebops per Drag & Drop auf vorgesehene Bereiche der Spieloberfläche.</li>
+          <li>Mehrere Fiddlebops können gleichzeitig platziert werden, um Klänge simultan abzuspielen.</li>
+        </ul>
+        <h4>3. Mischen und Komponieren</h4>
+        <ul>
+          <li>Spieler können die Struktur, den Rhythmus und die Melodie der Musik durch Anpassen der Positionen und der Anzahl der Fiddlebops verändern.</li>
+          <li>Das Spiel bietet möglicherweise einfache Steuerelemente (z.B. Lautstärkeregelung), konzentriert sich aber auf den Spaß am Kombinieren.</li>
+        </ul>
+        <h4>4. Werke teilen</h4>
+        <ul>
+          <li>Das Spiel selbst verfügt möglicherweise nicht über integrierte Aufnahme-/Teilfunktionen.</li>
+          <li>Spieler verwenden typischerweise Bildschirmaufnahme-Software von Drittanbietern, um ihre Kreationen festzuhalten und auf verschiedenen Online-Plattformen zu teilen.</li>
+        </ul>
+      </Accordion>
 
-      <h4>1. Charaktere auswählen</h4>
-      <ul>
-        <li>Spieler wählen aus einer Bibliothek von Fiddlebops-Charakteren, jeder mit einem einzigartigen Aussehen und Klang.</li>
-        <li>Eine Klangvorschau kann beim Anklicken oder Ziehen eines Charakters abgespielt werden.</li>
-      </ul>
+      <Accordion title="IV. Fiddlebops Merkmale">
+        <ul>
+          <li><strong>Intuitiv und einfach zu bedienen:</strong> Entwickelt für alle Altersgruppen, insbesondere Anfänger, mit einfacher Steuerung.</li>
+          <li><strong>Fördert Kreativität:</strong> Eine freie Plattform zum Experimentieren mit Klängen.</li>
+          <li><strong>Niedlicher und einzigartiger visueller Stil:</strong> Farbenfroh mit liebenswerten Charakterdesigns.</li>
+          <li><strong>Experimentelles Musikerlebnis:</strong> Entdecke unerwartete Klangkombinationen.</li>
+          <li><strong>Pädagogischer Wert:</strong> Führt auf unterhaltsame Weise in grundlegende musikalische Elemente ein.</li>
+          <li><strong>Stressfreies Schaffen:</strong> Keine Gewinn-/Verlustbedingungen oder Bewertungen.</li>
+          <li><strong>Kostenlos oder "Zahle, was du willst":</strong> Niedrige Einstiegshürde.</li>
+        </ul>
+      </Accordion>
 
-      <h4>2. Klänge kombinieren</h4>
-      <ul>
-        <li>Spieler ziehen ausgewählte Fiddlebops per Drag & Drop auf vorgesehene Bereiche der Spieloberfläche.</li>
-        <li>Mehrere Fiddlebops können gleichzeitig platziert werden, um Klänge simultan abzuspielen.</li>
-      </ul>
-
-      <h4>3. Mischen und Komponieren</h4>
-      <ul>
-        <li>
-          Spieler können die Struktur, den Rhythmus und die Melodie der Musik durch Anpassen der Positionen und der Anzahl der
-          Fiddlebops verändern.
-        </li>
-        <li>
-          Das Spiel bietet möglicherweise einfache Steuerelemente (z.B. Lautstärkeregelung), konzentriert sich aber auf den Spaß am
-          Kombinieren.
-        </li>
-      </ul>
-
-      <h4>4. Werke teilen</h4>
-      <ul>
-        <li>Das Spiel selbst verfügt möglicherweise nicht über integrierte Aufnahme-/Teilfunktionen.</li>
-        <li>
-          Spieler verwenden typischerweise Bildschirmaufnahme-Software von Drittanbietern, um ihre Kreationen festzuhalten und auf
-          verschiedenen Online-Plattformen zu teilen.
-        </li>
-      </ul>
-      <hr />
-      <h3>IV. Fiddlebops Merkmale</h3>
-      <ul>
-        <li>
-          <strong>Intuitiv und einfach zu bedienen:</strong> Entwickelt für alle Altersgruppen, insbesondere Anfänger, mit einfacher
-          Steuerung.
-        </li>
-        <li>
-          <strong>Fördert Kreativität:</strong> Eine freie Plattform zum Experimentieren mit Klängen.
-        </li>
-        <li>
-          <strong>Niedlicher und einzigartiger visueller Stil:</strong> Farbenfroh mit liebenswerten Charakterdesigns.
-        </li>
-        <li>
-          <strong>Experimentelles Musikerlebnis:</strong> Entdecke unerwartete Klangkombinationen.
-        </li>
-        <li>
-          <strong>Pädagogischer Wert:</strong> Führt auf unterhaltsame Weise in grundlegende musikalische Elemente ein.
-        </li>
-        <li>
-          <strong>Stressfreies Schaffen:</strong> Keine Gewinn-/Verlustbedingungen oder Bewertungen.
-        </li>
-        <li>
-          <strong>Kostenlos oder "Zahle, was du willst":</strong> Niedrige Einstiegshürde.
-        </li>
-      </ul>
-      <hr />
-      <h3>V. Fiddlebops Download und Erlebnis</h3>
-      <ul>
-        <li>
-          <strong>Hauptplattformen:</strong>
-          <a href="https://www.playfiddlebops.com/">playfiddlebops.com</a>
-          oder itch und scratch.
-        </li>
-        <li>
-          <strong>Erfahrungsempfehlung:</strong> Da es direkt im Browser läuft, wird neuen Spielern empfohlen, zuerst die Webversion
-          auszuprobieren. Wenn es gefällt und ein flüssigeres Erlebnis oder Offline-Spielen gewünscht wird, kann die Desktop-Version
-          in Betracht gezogen werden.
-        </li>
-      </ul>
-    </div>
+      <Accordion title="V. Fiddlebops Download und Erlebnis">
+        <ul>
+          <li><strong>Hauptplattformen:</strong> <a href="https://www.playfiddlebops.com/">playfiddlebops.com</a> oder itch und scratch.</li>
+          <li><strong>Erfahrungsempfehlung:</strong> Da es direkt im Browser läuft, wird neuen Spielern empfohlen, zuerst die Webversion auszuprobieren. Wenn es gefällt und ein flüssigeres Erlebnis oder Offline-Spielen gewünscht wird, kann die Desktop-Version in Betracht gezogen werden.</li>
+        </ul>
+      </Accordion>
+    </AccordionGroup>
   </div>
 </section>
 
-<section class="games">
+<section class="games sound-explorer-section">
   <div class="container">
     <h2>Entdecke die verschiedenen Klänge in Fiddlebops</h2>
-    <div class="game-grid">
-      <div class="game">
-        <div class="game-logo">
-          <img src="../img-1.png" alt="Beat 1" loading="lazy" width="150" height="150">
-        </div>
-        <p>Beat 1</p>
-        <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
-          <source src="https://www.playfiddlebops.com/beat1.wav" type="audio/wav">
-        </audio>
-      </div>
-      <div class="game">
-        <div class="game-logo">
-          <img src="../img-2.png" alt="Beat 3" loading="lazy" width="150" height="150">
-        </div>
-        <p>Beat 3</p>
-        <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
-          <source src="https://www.playfiddlebops.com/beat3.wav" type="audio/wav">
-        </audio>
-      </div>
-      <div class="game">
-        <div class="game-logo">
-          <img src="../img-3.png" alt="Beat 5" loading="lazy" width="150" height="150">
-        </div>
-        <p>Beat 5</p>
-        <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
-          <source src="https://www.playfiddlebops.com/beat5.wav" type="audio/wav">
-        </audio>
-      </div>
-      <div class="game">
-        <div class="game-logo">
-          <img src="../img-4.png" alt="Effect 3" loading="lazy" width="150" height="150">
-        </div>
-        <p>Effect 3</p>
-        <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
-          <source src="https://www.playfiddlebops.com/effect3.wav" type="audio/wav">
-        </audio>
-      </div>
-      <div class="game">
-        <div class="game-logo">
-          <img src="../img-5.png" alt="Effect 4" loading="lazy" width="150" height="150">
-        </div>
-        <p>Effect 4</p>
-        <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
-          <source src="https://www.playfiddlebops.com/effect4.wav" type="audio/wav">
-        </audio>
-      </div>
-      <div class="game">
-        <div class="game-logo">
-          <img src="../img-6.png" alt="Effect 5" loading="lazy" width="150" height="150">
-        </div>
-        <p>Effect 5</p>
-        <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
-          <source src="https://www.playfiddlebops.com/effect5.wav" type="audio/wav">
-        </audio>
-      </div>
-      <div class="game">
-        <div class="game-logo">
-          <img src="../img-7.png" alt="Voice 2" loading="lazy" width="150" height="150">
-        </div>
-        <p>Voice 2</p>
-        <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
-          <source src="https://www.playfiddlebops.com/voice2.wav" type="audio/wav">
-        </audio>
-      </div>
-      <div class="game">
-        <div class="game-logo">
-          <img src="../img-8.png" alt="Voice 3" loading="lazy" width="150" height="150">
-        </div>
-        <p>Voice 3</p>
-        <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
-          <source src="https://www.playfiddlebops.com/voice3.wav" type="audio/wav">
-        </audio>
-      </div>
-      <div class="game">
-        <div class="game-logo">
-          <img src="../img-9.png" alt="Voice 5" loading="lazy" width="150" height="150">
-        </div>
-        <p>Voice 5</p>
-        <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
-          <source src="https://www.playfiddlebops.com/voice5.wav" type="audio/wav">
-        </audio>
-      </div>
-      <div class="game">
-        <div class="game-logo">
-          <img src="../img-10.png" alt="Bonus 1" loading="lazy" width="150" height="150">
-        </div>
-        <p>Bonus 1</p>
-        <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous">
-          <source src="https://www.playfiddlebops.com/bonus1.wav" type="audio/wav">
-        </audio>
-      </div>
+    <div class="sound-grid">
+      {HOMEPAGE_SOUNDS.map((sound) => (
+        <SoundCard title={sound.title} imageSrc={sound.imageSrc} audioSrc={sound.audioSrc} />
+      ))}
     </div>
   </div>
 </section>
 
 <section class="game-video about">
   <div class="container">
-    <h2>Fiddlebops Incredibox Game Video</h2>
+    <h2>Fiddlebops Incredibox Spielvideo</h2>
     <div class="video-container">
       <iframe
         src="https://www.youtube.com/embed/4Oj-dVLSA70"
         title="Fiddlebops ALL POLOS 4K (WITH SUBTITLES)"
         loading="lazy"
-        frameborder="0"
+        width="560"
+        height="315"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowfullscreen
       ></iframe>
@@ -289,7 +127,8 @@
         src="https://www.youtube.com/embed/JlMa-fRBOwE"
         title="Every Incredibox Fiddlebops in 8 Minutes"
         loading="lazy"
-        frameborder="0"
+        width="560"
+        height="315"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"
         allowfullscreen
       ></iframe>
@@ -301,44 +140,37 @@
 
 <div class="clear-both"></div>
 
-<section class="about" id="faq">
+<section class="about faq-section" id="faq">
   <div class="container">
     <h2>Häufig gestellte Fragen zum Fiddlebops-Spiel</h2>
-    <div class="about-content">
-      <h3>Was ist das Fiddlebops-Spiel?</h3>
-      <p>
-        Das Fiddlebops-Spiel ist ein von Fans erstelltes Projekt, inspiriert von Incredibox. Hier kannst du die Freude am Mischen von
-        Sounds erleben und durch eine intuitive Benutzeroberfläche einzigartige Musikstücke erstellen.
-      </p>
-    </div>
+    <AccordionGroup exclusive={true}>
+      <Accordion title="Was ist das Fiddlebops-Spiel?" defaultOpen={true}>
+        <p>Das Fiddlebops-Spiel ist ein von Fans erstelltes Projekt, inspiriert von Incredibox. Hier kannst du die Freude am Mischen von Sounds erleben und durch eine intuitive Benutzeroberfläche einzigartige Musikstücke erstellen.</p>
+      </Accordion>
 
-    <div class="about-content">
-      <h3>Ist das Fiddlebops-Spiel kostenlos?</h3>
-      <p>Ja, das Fiddlebops-Spiel ist völlig kostenlos. Spieler können online spielen, ohne etwas herunterzuladen.</p>
-    </div>
+      <Accordion title="Ist das Fiddlebops-Spiel kostenlos?">
+        <p>Ja, das Fiddlebops-Spiel ist völlig kostenlos. Spieler können online spielen, ohne etwas herunterzuladen.</p>
+      </Accordion>
 
-    <div class="about-content">
-      <h3>Muss man etwas herunterladen oder installieren?</h3>
-      <p>Nein. Das Spiel läuft direkt im Browser und unterstützt sowohl Desktop- als auch Mobilgeräte.</p>
-    </div>
+      <Accordion title="Muss man etwas herunterladen oder installieren?">
+        <p>Nein. Das Spiel läuft direkt im Browser und unterstützt sowohl Desktop- als auch Mobilgeräte.</p>
+      </Accordion>
 
-    <div class="about-content">
-      <h3>Wie beginne ich mit der Musikproduktion im Fiddlebops-Spiel?</h3>
-      <p>
-        Spieler können beginnen, indem sie Charaktere auf die Bühne ziehen und ihre einzigartigen Sounds zu einem Musikstück kombinieren.
-        Das Experimentieren mit verschiedenen Charakterkombinationen kann versteckte Melodien und Bonusinhalte freischalten.
-      </p>
-    </div>
+      <Accordion title="Brauche ich musikalische Vorkenntnisse zum Spielen?">
+        <p>Überhaupt nicht! Fiddlebops Incredibox wurde speziell so entwickelt, dass auch Menschen ohne musikalischen Hintergrund problemlos Musik kreieren können. Es ist eher ein Klangspielzeug und kreatives Werkzeug.</p>
+      </Accordion>
 
-    <div class="about-content">
-      <h3>Ist das Spiel für Musikliebhaber geeignet?</h3>
-      <p>Absolut! „Fiddlebops“ bietet Musikliebhabern eine Plattform voller Kreativität und Spaß.</p>
-    </div>
+      <Accordion title="Wie beginne ich mit der Musikproduktion?">
+        <p>Spieler können beginnen, indem sie Charaktere auf die Bühne ziehen und ihre einzigartigen Sounds zu einem Musikstück kombinieren. Das Experimentieren mit verschiedenen Charakterkombinationen kann versteckte Melodien und Bonusinhalte freischalten.</p>
+      </Accordion>
 
-    <div class="about-content">
-      <h3>Unterstützt das Spiel Multiplayer-Kollaboration?</h3>
-      <p>Ja, Spieler können mit anderen Spielern in Echtzeit zusammenarbeiten, um gemeinsam Musik zu erstellen.</p>
-    </div>
+      <Accordion title="Ist das Spiel für Musikliebhaber geeignet?">
+        <p>Absolut! „Fiddlebops" bietet Musikliebhabern eine Plattform voller Kreativität und Spaß.</p>
+      </Accordion>
+
+      <Accordion title="Unterstützt das Spiel Multiplayer-Kollaboration?">
+        <p>Ja, Spieler können mit anderen Spielern in Echtzeit zusammenarbeiten, um gemeinsam Musik zu erstellen.</p>
+      </Accordion>
+    </AccordionGroup>
   </div>
 </section>
-

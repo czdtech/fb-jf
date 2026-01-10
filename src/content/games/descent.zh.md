@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: descent
 title: Descent 垂直坠落挑战
+seoTitle: 免费在线玩 Descent 垂直坠落挑战 | FiddleBops
 description: 《Descent 垂直坠落挑战》是一款极简风竖版技巧游戏。你需要沿着竖井一路向下，利用墙 面跳跃，躲开尖刺与机关，在重力拉扯下安全抵达更深处。
 iframeSrc: 'https://g2.igroutka.ru/games/17/4tWRaCD7AOzxbTsE/descent/'
 thumbnail: /new-images/thumbnails/descent.jpg
+urlstr: descent
 tags:
   - arcade
   - skill

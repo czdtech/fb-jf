@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: odd-one-out
 title: Odd One Out
+seoTitle: Spiele Odd One Out kostenlos online | FiddleBops
 description: >-
   In Odd One Out musst du in jeder Gruppe das Objekt finden, das nicht dazu
   gehört. Das Spiel testet deine Beobachtungsgabe und dein logisches Denken.
 iframeSrc: 'https://oddoneout.h5games.usercontent.goog/v/50nqosk9lm28o/'
 thumbnail: /new-images/thumbnails/odd-one-out.jpg
+urlstr: odd-one-out
 tags:
   - puzzle
   - thinky

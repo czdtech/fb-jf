@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: footchinko
 title: Footchinko
+seoTitle: Jouez à Footchinko en ligne gratuitement | FiddleBops
 description: >-
   Découvre le mélange unique de football et de pachinko dans Footchinko : lâche
   le ballon, percute les obstacles et vise les buts, bonus et gros scores.
 iframeSrc: 'https://footchinko2.h5games.usercontent.goog/v/3iniom5rsklno/'
 thumbnail: /new-images/thumbnails/footchinko.jpg
+urlstr: footchinko
 tags:
   - sports
   - casual

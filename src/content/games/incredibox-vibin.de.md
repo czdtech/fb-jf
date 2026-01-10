@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: incredibox-vibin
 title: Incredibox Vibin'
+seoTitle: Spiele Incredibox Vibin' kostenlos online | FiddleBops
 description: >-
   Incredibox Vibin' ist ein lo-fi-hip-hop-inspirierter Fan-Mod: Erzeuge chillige
   Beats mit soften Drums, warmen Pads, einfachen Melodien und sanften Vocals.
 iframeSrc: 'https://turbowarp.org/1050468579/embed'
 thumbnail: /new-images/thumbnails/incredibox-vibin.png
+urlstr: incredibox-vibin
 tags:
   - music
   - rhythm

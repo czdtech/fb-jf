@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: soccar
 title: 《SocCar》汽车足球对决
+seoTitle: 免费在线玩 《SocCar》汽车足球对决 | FiddleBops
 description: 《SocCar》是一款把足球与赛车结合在一起的对战游戏。开着小车在球场上飞驰，加速撞向巨型足球，将球射进对方球门，用驾驶与预判赢下比赛。
 iframeSrc: 'https://ubg77.github.io/edit/soccar/'
 thumbnail: /new-images/thumbnails/soccar.jpg
+urlstr: soccar
 tags:
   - sports
   - cars

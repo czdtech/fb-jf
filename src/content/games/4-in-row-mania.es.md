@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: 4-in-row-mania
 title: 4 In Row MANIA conecta 4 clásico
+seoTitle: Juega a 4 In Row MANIA conecta 4 clásico en línea gratis | FiddleBops
 description: >-
   4 In Row MANIA es un duelo clásico de conecta 4. Domina las columnas, crea
   amenazas dobles y sé el primero en alinear cuatro fichas.
 iframeSrc: 'https://4vt1c4a3eda48.h5games.usercontent.goog/v/73p1lulj7oe3o/'
 thumbnail: /new-images/thumbnails/4-in-row-mania.jpg
+urlstr: 4-in-row-mania
 tags:
   - 2 player
   - thinky

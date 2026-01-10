@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: word-scramble
 title: Word Scramble
+seoTitle: Jouez à Word Scramble en ligne gratuitement | FiddleBops
 description: >-
   Word Scramble est un classique du casse-tête : réarrange les lettres mélangées
   pour former le mot correct avant la fin du temps.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/word-scramble/'
 thumbnail: /new-images/thumbnails/word-scramble.jpg
+urlstr: word-scramble
 tags:
   - word-game
   - puzzle

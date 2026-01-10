@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: pokemon-fire-red
 title: Pokemon Fire Red
+seoTitle: Jouez à Pokemon Fire Red en ligne gratuitement | FiddleBops
 description: "Pokemon Fire Red est un remake GBA de Pokémon Rouge\_: parcours la région de Kanto, capture et fais évoluer des Pokémon, affronte la Team Rocket et deviens Maître de la Ligue."
 iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonred'
 thumbnail: /new-images/thumbnails/pokemon-fire-red.jpg
+urlstr: pokemon-fire-red
 tags:
   - rpg
   - adventure

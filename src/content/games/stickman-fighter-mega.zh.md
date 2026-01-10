@@ -1,16 +1,17 @@
 ---
 locale: zh
-urlstr: stickman-fighter-mega
 title: 《Stickman Fighter Mega》火柴人搏击：终极版
+seoTitle: 免费在线玩 《Stickman Fighter Mega》火柴人搏击：终极版 | FiddleBops
 description: 《Stickman Fighter Mega》是一款节奏紧凑的火柴人动作游戏。通过快速连击、格挡和反应，在一波又一波敌人中杀出重围，成为终极搏击大师。
 iframeSrc: 'https://0f2fr1ttejsng.h5games.usercontent.goog/v/6dfsqbbtglo48/'
 thumbnail: /new-images/thumbnails/stickman-fighter-mega.jpg
+urlstr: stickman-fighter-mega
 tags:
   - fighting
   - action
   - stickman
 score: 4.1/5  (1975 votes)
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: 3-tricky-quests
-title: 'Brain Test 3: Tricky Quests en línea'
+title: 'Brain Test 3: Tricky Quests'
+seoTitle: 'Juega a Brain Test 3: Tricky Quests en línea gratis | FiddleBops'
 description: >-
   Brain Test 3: Tricky Quests es la tercera entrega de la serie Brain Test.
   Mezcla puzles "fuera de la caja" con elementos de aventura y una historia
   completa mientras ayudas a Alyx a reunir las Gemas de Poder.
 iframeSrc: 'https://bitlifeonline.github.io/brain-test-3-tricky-quests/'
 thumbnail: /new-images/thumbnails/3-tricky-quests.jpg
+urlstr: 3-tricky-quests
 tags:
   - casual
   - rhythm

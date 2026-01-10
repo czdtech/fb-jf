@@ -1,19 +1,20 @@
 ---
+locale: ja
 title: 99 Balls 3D ナインティナイン・ボールズ 3D
+seoTitle: 無料で99 Balls 3D ナインティナイン・ボールズ 3Dをオンラインでプレイ | FiddleBops
 description: >-
   「99 Balls
   3D」は、病みつきになるアーケードシューティングゲームです。ボールを発射して、番号付きのブロックが底に到達する前に破壊しましょう！戦略と物理演算が融合した爽快パズル。
 iframeSrc: 'https://99balls3d.h5games.usercontent.goog/v/0b35ksethbio8/'
 thumbnail: /new-images/thumbnails/99-balls-3d.jpeg
 urlstr: 99-balls-3d
-score: 4.3/5  (2300 votes)
 tags:
   - arcade
   - ball
   - shooter
+score: 4.3/5  (2300 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

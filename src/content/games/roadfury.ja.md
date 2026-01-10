@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: RoadFury
+seoTitle: 無料でRoadFuryをオンラインでプレイ | FiddleBops
 description: RoadFuryはカーアクションのチェイスゲームです。走りながら射撃し、敵車両や障害物を避けて生き残ります。
 iframeSrc: 'https://roadfury.h5games.usercontent.goog/v/6u0uos6j6vvl0/'
 thumbnail: /new-images/thumbnails/roadfury.png
 urlstr: roadfury
-score: 4.3/5  (2450 votes)
 tags:
   - action
   - racing
   - shooter
+score: 4.3/5  (2450 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

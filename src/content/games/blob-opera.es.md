@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: blob-opera
-title: "Blob Opera"
+title: Blob Opera
+seoTitle: Juega a Blob Opera en línea gratis | FiddleBops
 description: >-
   Controla a cuatro adorables blobs cantores para crear tu propia música de
   ópera. Un experimento de aprendizaje automático divertido y accesible que
   convierte a cualquiera en compositor, sin necesidad de saber música.
 iframeSrc: 'https://gacembed.withgoogle.com/blob-opera/'
 thumbnail: /new-images/thumbnails/blob-opera.jpg
+urlstr: blob-opera
 tags:
   - music
   - casual

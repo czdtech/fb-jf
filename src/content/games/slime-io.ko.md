@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: slime-io
 title: Slime.io 슬라임 아이오
+seoTitle: Slime.io 슬라임 아이오 무료 온라인 플레이 | FiddleBops
 description: >-
   도시 안의 모든 것을 집어삼키며 몸집을 키우는 3D .io 게임입니다. 작은 물체와 다른 플레이어를 흡수해 거대한 슬라임이 되어 랭킹 1위를
   노려 보세요.
 iframeSrc: 'https://slime-io.h5games.usercontent.goog/v/3p2ufrjemduhg/'
 thumbnail: /new-images/thumbnails/slime-io.png
+urlstr: slime-io
 tags:
   - action
   - casual

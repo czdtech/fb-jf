@@ -1,14 +1,22 @@
 ---
 locale: en
-title: "Unpark Me"
-description: "A classic sliding block puzzle with a parking lot theme. Move the other cars and trucks out of the way to clear a path for the red car to exit the crowded parking lot."
-iframeSrc: "https://unparkme.h5games.usercontent.goog/v/59baoe1o8mbe0/"
+title: Unpark Me
+seoTitle: Play Unpark Me Online Free | FiddleBops
+description: >-
+  A classic sliding block puzzle with a parking lot theme. Move the other cars
+  and trucks out of the way to clear a path for the red car to exit the crowded
+  parking lot.
+iframeSrc: 'https://unparkme.h5games.usercontent.goog/v/59baoe1o8mbe0/'
 thumbnail: /new-images/thumbnails/unpark-me.png
-urlstr: "unpark-me"
-score: "4.4/5  (2500 votes)"
-tags: ["puzzle", "thinky", "casual", "driving"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: unpark-me
+tags:
+  - puzzle
+  - thinky
+  - casual
+  - driving
+score: 4.4/5  (2500 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: perfect-piano
 title: 《Perfect Piano》完美钢琴
+seoTitle: 免费在线玩 《Perfect Piano》完美钢琴 | FiddleBops
 description: 《Perfect Piano》是一款节奏感十足的音乐游戏，你需要在音符落到琴键位置的瞬间精准点击，完整演奏出一首首动听乐曲，一键失误都不能有。
 iframeSrc: 'https://perfectpiano.h5games.usercontent.goog/v/48c3ch9soa7cg/'
 thumbnail: /new-images/thumbnails/perfect-piano.png
+urlstr: perfect-piano
 tags:
   - action
   - casual

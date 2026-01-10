@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: fruit-ninja
 title: Fruit Ninja
+seoTitle: Jouez à Fruit Ninja en ligne gratuitement | FiddleBops
 description: >-
   Arcade de découpe culte : tranche les fruits en plein vol en évitant les
   bombes, enchaîne les combos et profite des modes frénésie pour booster ton
   score.
 iframeSrc: 'https://emulatoros.github.io/gfile/fruitninja/'
 thumbnail: /new-images/thumbnails/fruit-ninja.jpg
+urlstr: fruit-ninja
 tags:
   - arcade
   - action

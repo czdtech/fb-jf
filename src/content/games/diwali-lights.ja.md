@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Diwali Lights ディワリ・ライツ
+seoTitle: 無料でDiwali Lights ディワリ・ライツをオンラインでプレイ | FiddleBops
 description: 「Diwali Lights」は光のパズルゲーム。ディワリのお祭りをテーマに、秩序正しくランプ（ディヤ）を点灯させ、美しい光の模様を描き出そう。
 iframeSrc: 'https://diwalilights.h5games.usercontent.goog/v/5cddqg9lrn3kg/'
 thumbnail: /new-images/thumbnails/diwali-lights.jpg
 urlstr: diwali-lights
-score: 4.1/5  (1835 votes)
 tags:
   - puzzle
   - casual
+score: 4.1/5  (1835 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

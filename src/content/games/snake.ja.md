@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Snake
+seoTitle: 無料でSnakeをオンラインでプレイ | FiddleBops
 description: >-
   クラシックなSnake（スネーク）です。ヘビを操作して食べ物を食べ、体を伸ばしながら壁や自分の体との衝突を避けます。シンプルですが、反射神経と先読みが問われます。
 iframeSrc: 'https://www.googlesnake.com/snakem.php'
 thumbnail: /new-images/thumbnails/snake.jpg
 urlstr: snake
-score: 4.1/5  (242 votes)
 tags:
   - classic
   - arcade
   - skill
+score: 4.1/5  (242 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

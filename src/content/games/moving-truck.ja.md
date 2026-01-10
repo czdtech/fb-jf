@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Moving Truck
+seoTitle: 無料でMoving Truckをオンラインでプレイ | FiddleBops
 description: Moving Truckは駐車パズルゲームです。トラックを操縦し、障害物を避け、狭いスペースに駐車し、運転スキルをマスターします。
 iframeSrc: 'https://g.igroutka.ru/games/164/JgHSvhdBMa5pf4WZ/moving_truck/'
 thumbnail: /new-images/thumbnails/moving-truck.jpg
 urlstr: moving-truck
-score: 3.6/5  (650 votes)
 tags:
   - casual
   - thinky
+score: 3.6/5  (650 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

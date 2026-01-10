@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: retro-drift
 title: Retro Drift
+seoTitle: Jouez à Retro Drift en ligne gratuitement | FiddleBops
 description: "Retro Drift est un jeu de drift rétro en vue de dessus\_: dose l’accélérateur, gère tes angles et glisse proprement dans chaque virage."
 iframeSrc: 'https://retrodrift.h5games.usercontent.goog/v/3jr7fjtqu0j18/'
 thumbnail: /new-images/thumbnails/retro-drift.jpg
+urlstr: retro-drift
 tags:
   - car
   - driving

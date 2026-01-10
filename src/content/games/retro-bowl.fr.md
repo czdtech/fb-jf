@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: retro-bowl
 title: Retro Bowl
+seoTitle: Jouez à Retro Bowl en ligne gratuitement | FiddleBops
 description: "Retro Bowl est un jeu de football américain rétro en 8‑bit où tu es à la fois coach et quarterback\_: tu gères ton équipe, appelles les jeux, lances les passes et tentes de mener ton club au titre."
 iframeSrc: 'https://game316009.konggames.com/gamez/0031/6009/live/index.html'
 thumbnail: /new-images/thumbnails/retro-bowl.jpg
+urlstr: retro-bowl
 tags:
   - sports
   - retro

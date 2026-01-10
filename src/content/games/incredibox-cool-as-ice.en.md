@@ -1,6 +1,7 @@
 ---
 locale: en
-title: "Incredibox Cool As Ice \U0001F3AE Play Incredibox Cool As Ice Online"
+title: Incredibox Cool As Ice
+seoTitle: Play Incredibox Cool As Ice Online Free | FiddleBops
 description: >-
   The Incredibox Cool as Ice Mod is perfect for fans who love both music-making
   and seasonal themes. Dive into this frosty version to experience Incredibox
@@ -8,12 +9,12 @@ description: >-
 iframeSrc: 'https://turbowarp.org/1108441752/embed'
 thumbnail: /new-images/thumbnails/incredibox-cool-as-ice.png
 urlstr: incredibox-cool-as-ice
-modType: incredibox
-score: 4.9/5  (724 votes)
 tags:
   - incredibox cool as ice
   - incredibox cool as ice online
   - music
+modType: incredibox
+score: 4.9/5  (724 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

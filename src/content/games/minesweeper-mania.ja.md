@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Minesweeper Mania
+seoTitle: 無料でMinesweeper Maniaをオンラインでプレイ | FiddleBops
 description: Minesweeper Maniaはタイムアタック要素のあるMinesweeperです。地雷を推理し、時間内に盤面をクリアします。
 iframeSrc: 'https://minesweepermania.h5games.usercontent.goog/v/6cje7ufl50e4g/'
 thumbnail: /new-images/thumbnails/minesweeper-mania.png
 urlstr: minesweeper-mania
-score: 4.7/5  (3400 votes)
 tags:
   - puzzle
   - thinky
+score: 4.7/5  (3400 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

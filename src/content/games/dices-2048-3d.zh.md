@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: dices-2048-3d
 title: Dices 2048 3D 骰子 2048 立体版
+seoTitle: 免费在线玩 Dices 2048 3D 骰子 2048 立体版 | FiddleBops
 description: >-
   《Dices 2048 3D 骰子 2048 立体版》把经典 2048 与骰子物理相结合。通过投放并合成相同 点数的骰子，在立体空间里一路冲击 2048
   甚至更高数值。
 iframeSrc: 'https://dices20483d.h5games.usercontent.goog/v/4fsrag1lb33t8/'
 thumbnail: /new-images/thumbnails/dices-2048-3d.png
+urlstr: dices-2048-3d
 tags:
   - puzzle
   - thinky

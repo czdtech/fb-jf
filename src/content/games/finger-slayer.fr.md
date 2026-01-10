@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: finger-slayer
 title: Finger Slayer
+seoTitle: Jouez à Finger Slayer en ligne gratuitement | FiddleBops
 description: >-
   Finger Slayer met tes réflexes bruts à l’épreuve : retire ton doigt virtuel à
   la toute dernière milliseconde pour éviter la lame sans sursauter trop tôt.
 iframeSrc: 'https://7ftsta5r737o8.h5games.usercontent.goog/v/3m7r2si8ppdlg/'
 thumbnail: /new-images/thumbnails/finger-slayer.jpg
+urlstr: finger-slayer
 tags:
   - action
   - casual

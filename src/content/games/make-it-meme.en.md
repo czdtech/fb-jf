@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Make It Meme"
-description: "Make It Meme is a multiplayer online party game where players compete by creating and rating memes."
-iframeSrc: "https://artedu1808.github.io/g177/make-it-meme/"
+title: Make It Meme
+seoTitle: Play Make It Meme Online Free | FiddleBops
+description: >-
+  Make It Meme is a multiplayer online party game where players compete by
+  creating and rating memes.
+iframeSrc: 'https://artedu1808.github.io/g177/make-it-meme/'
 thumbnail: /new-images/thumbnails/make-it-meme.jpg
-urlstr: "make-it-meme"
-score: "4.4/5  (1458 votes)"
-tags: ["party game", "casual", "online"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: make-it-meme
+tags:
+  - party game
+  - casual
+  - online
+score: 4.4/5  (1458 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

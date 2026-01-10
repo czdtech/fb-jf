@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Word Pics"
-description: "Guess the word that connects the two pictures in Word Pics, a fun and addictive word puzzle game."
-iframeSrc: "https://wordpics.h5games.usercontent.goog/v/7sfi13vvf0cro/"
+title: Word Pics
+seoTitle: Play Word Pics Online Free | FiddleBops
+description: >-
+  Guess the word that connects the two pictures in Word Pics, a fun and
+  addictive word puzzle game.
+iframeSrc: 'https://wordpics.h5games.usercontent.goog/v/7sfi13vvf0cro/'
 thumbnail: /new-images/thumbnails/word-pics.jpg
-urlstr: "word-pics"
-score: "4.4/5 (2150 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: word-pics
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.4/5 (2150 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

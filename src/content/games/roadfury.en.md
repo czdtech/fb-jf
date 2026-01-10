@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Road Fury"
-description: "An action-packed vertical shoot-'em-up on the highway! Control your armed vehicle, destroy enemy cars, and collect coins to upgrade your weapons and armor to survive the fury of the road."
-iframeSrc: "https://roadfury.h5games.usercontent.goog/v/6u0uos6j6vvl0/"
+title: Road Fury
+seoTitle: Play Road Fury Online Free | FiddleBops
+description: >-
+  An action-packed vertical shoot-'em-up on the highway! Control your armed
+  vehicle, destroy enemy cars, and collect coins to upgrade your weapons and
+  armor to survive the fury of the road.
+iframeSrc: 'https://roadfury.h5games.usercontent.goog/v/6u0uos6j6vvl0/'
 thumbnail: /new-images/thumbnails/roadfury.png
-urlstr: "roadfury"
-score: "4.3/5  (2450 votes)"
-tags: ["action", "shooting", "driving"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: roadfury
+tags:
+  - action
+  - shooting
+  - driving
+score: 4.3/5  (2450 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

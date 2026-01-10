@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Bubble Trouble バブル・トラブル
+seoTitle: 無料でBubble Trouble バブル・トラブルをオンラインでプレイ | FiddleBops
 description: 「Bubble Trouble」で跳ね回るバブルを撃ち落とせ！ハープーンで分裂させ、触れないように全滅させるアクションゲーム。協力プレイも熱い！
 iframeSrc: >-
   https://app-96647.games.s3.yandex.net/96647/w4h0ydt7quklspc0jxwg9kauaiii2lnx/index.html
 thumbnail: /new-images/thumbnails/bubble-trouble.jpg
 urlstr: bubble-trouble
-score: 4.4/5  (203 votes)
 tags:
   - arcade
   - action
+score: 4.4/5  (203 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

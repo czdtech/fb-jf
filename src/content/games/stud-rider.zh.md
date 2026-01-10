@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: stud-rider
 title: 《Stud Rider》山地越野骑手
+seoTitle: 免费在线玩 《Stud Rider》山地越野骑手 | FiddleBops
 description: 《Stud Rider》是一款横版摩托越野游戏。驾驶你的摩托在起伏的山地上飞驰，控制油门与重心，在不翻车的前提下完成远距离跳跃和特技。
 iframeSrc: 'https://0mm8l94jf1g88.h5games.usercontent.goog/v/6fo3rapem7uio/'
 thumbnail: /new-images/thumbnails/stud-rider.png
+urlstr: stud-rider
 tags:
   - racing
   - motorcycle

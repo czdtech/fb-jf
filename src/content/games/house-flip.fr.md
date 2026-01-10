@@ -1,10 +1,13 @@
 ---
 locale: fr
-urlstr: house-flip
-title: "House Flip"
-description: "House Flip gamifie la rénovation : inspecte, planifie ton budget et revends les maisons en améliorant le plan, le style et l’attrait extérieur."
-iframeSrc: "https://45g7qkftithd0.h5games.usercontent.goog/v/7691fk060s8pg/"
+title: House Flip
+seoTitle: Jouez à House Flip en ligne gratuitement | FiddleBops
+description: >-
+  House Flip gamifie la rénovation : inspecte, planifie ton budget et revends
+  les maisons en améliorant le plan, le style et l’attrait extérieur.
+iframeSrc: 'https://45g7qkftithd0.h5games.usercontent.goog/v/7691fk060s8pg/'
 thumbnail: /new-images/thumbnails/house-flip.png
+urlstr: house-flip
 tags:
   - puzzle
   - casual

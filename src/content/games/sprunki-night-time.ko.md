@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: sprunki-night-time
 title: Sprunki Night Time 스프룽키 나이트 타임
+seoTitle: Sprunki Night Time 스프룽키 나이트 타임 무료 온라인 플레이 | FiddleBops
 description: >-
   Sprunki Night Time은 어두운 밤의 분위기와 스프룽키식 음악 만들기를 결합한 모드입니다. 깊고 몽환적인 신스와 베이스, 네온
   조명 연출 속에서 밤의 사운드 스케이프를 직접 만들어 볼 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1100659044/embed'
 thumbnail: /new-images/thumbnails/sprunki-night-time.png
+urlstr: sprunki-night-time
 tags:
   - sprunki night time
   - sprunki night time online

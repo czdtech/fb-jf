@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: ludo-legend
 title: 《Ludo Legend》飞行棋传奇
+seoTitle: 免费在线玩 《Ludo Legend》飞行棋传奇 | FiddleBops
 description: 在《Ludo Legend》中体验最经典的飞行棋竞速：掷骰前进棋子，与对手争先冲向终点，成为棋盘上的真正传奇。
 iframeSrc: 'https://ludolegend.h5games.usercontent.goog/v/613uvcaa3eiqo/'
 thumbnail: /new-images/thumbnails/ludo-legend.png
+urlstr: ludo-legend
 tags:
   - 2 player
   - card

@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Mini Golf World"
-description: "Mini Golf World polishes putt‑putt — read slopes, bank rails, and master pace for playful holes across themed worlds."
-iframeSrc: "https://32tnqh6bck80g.h5games.usercontent.goog/v/3auurdk9r953g/"
+title: Mini Golf World
+seoTitle: Play Mini Golf World Online Free | FiddleBops
+description: >-
+  Mini Golf World polishes putt‑putt — read slopes, bank rails, and master pace
+  for playful holes across themed worlds.
+iframeSrc: 'https://32tnqh6bck80g.h5games.usercontent.goog/v/3auurdk9r953g/'
 thumbnail: /new-images/thumbnails/mini-golf-world.png
-urlstr: "mini-golf-world"
-score: "4.1/5  (1903 votes)"
-tags: ["sports", "puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: mini-golf-world
+tags:
+  - sports
+  - puzzle
+  - casual
+score: 4.1/5  (1903 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

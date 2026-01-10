@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: cake-slice-ninja
 title: Cake Slice Ninja 蛋糕忍者切切乐
+seoTitle: 免费在线玩 Cake Slice Ninja 蛋糕忍者切切乐 | FiddleBops
 description: 《Cake Slice Ninja 蛋糕忍者切切乐》是一款节奏明快的切水果类游戏变体，在空中划出利落刀光，连续切开飞起的蛋糕 与甜点，躲开炸弹冲击高分连击。
 iframeSrc: 'https://cakesliceninja.h5games.usercontent.goog/v/5bh2c88k8pku8/'
 thumbnail: /new-images/thumbnails/cake-slice-ninja.jpeg
+urlstr: cake-slice-ninja
 tags:
   - action
   - casual

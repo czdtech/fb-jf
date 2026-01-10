@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: metal-guns-fury
 title: 《Metal Guns Fury》横版热血射击
+seoTitle: 免费在线玩 《Metal Guns Fury》横版热血射击 | FiddleBops
 description: 《Metal Guns Fury》是一款街机场景风格的横版跑射动作游戏，你需要在弹雨中翻滚前进，灵活切换武器、营救人质，对抗成群士兵、炮台与载具。
 iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
 thumbnail: /new-images/thumbnails/metal-guns-fury.jpg
+urlstr: metal-guns-fury
 tags:
   - action
   - shooting

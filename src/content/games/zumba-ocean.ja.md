@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Zumba Ocean
+seoTitle: 無料でZumba Oceanをオンラインでプレイ | FiddleBops
 description: Zumba Oceanは、海をテーマにしたマーブルシューターゲームです。同じ色のボールを揃えて消しましょう。
 iframeSrc: 'https://zumbaocean.h5games.usercontent.goog/v/1gb65icesunig/'
 thumbnail: /new-images/thumbnails/zumba-ocean.png
 urlstr: zumba-ocean
-score: 4.5/5  (2800 votes)
 tags:
   - puzzle
   - shooter
   - match-3
-locale: ja
+score: 4.5/5  (2800 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 

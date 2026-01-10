@@ -1,13 +1,17 @@
 ---
-title: "Fiddlebops Sprunksters remix - Fiddlebops Sprunksters remixをオンラインでプレイ"
-description: "Fiddlebops Sprunkstersは、創造性、リズム、そして視覚的な魅力を完璧に融合させた傑出したModです。魅力的なキャラクターデザインと斬新なサウンドが特徴です。"
-iframeSrc: "https://turbowarp.org/1149194527/embed"
-thumbnail: /new-images/thumbnails/fiddlebops-sprunksters-remix.png
-urlstr: "fiddlebops-sprunksters-remix"
-score: "4.1/5  (127 votes)"
-tags: ["fiddlebops sprunksters remix"]
 locale: ja
-releaseDate: 2025-12-04
+title: Fiddlebops Sprunksters remix
+seoTitle: 無料でFiddlebops Sprunksters remixをオンラインでプレイ | FiddleBops
+description: >-
+  Fiddlebops
+  Sprunkstersは、創造性、リズム、そして視覚的な魅力を完璧に融合させた傑出したModです。魅力的なキャラクターデザインと斬新なサウンドが特徴です。
+iframeSrc: 'https://turbowarp.org/1149194527/embed'
+thumbnail: /new-images/thumbnails/fiddlebops-sprunksters-remix.png
+urlstr: fiddlebops-sprunksters-remix
+tags:
+  - fiddlebops sprunksters remix
+score: 4.1/5  (127 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

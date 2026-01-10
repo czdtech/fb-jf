@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Santas Quest
+seoTitle: 無料でSantas Questをオンラインでプレイ | FiddleBops
 description: Santas Questはホリデー風のプラットフォームゲームです。プレゼントを集め、敵や罠を避けてゴールを目指します。
 iframeSrc: 'https://santasquest.h5games.usercontent.goog/v/737gsbva7bkqo/'
 thumbnail: /new-images/thumbnails/santas-quest.png
 urlstr: santas-quest
-score: 3.9/5  (1688 votes)
 tags:
   - platformer
   - casual
+score: 3.9/5  (1688 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

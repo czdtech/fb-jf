@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Addiction Mini"
-description: "Addiction Mini distills solitaire‑style sequencing — place cards in order, clear rows, and think several moves ahead."
-iframeSrc: "https://0lk0u0jb90plo.h5games.usercontent.goog/v/2rppmab9dqneo/"
+title: Addiction Mini
+seoTitle: Play Addiction Mini Online Free | FiddleBops
+description: >-
+  Addiction Mini distills solitaire‑style sequencing — place cards in order,
+  clear rows, and think several moves ahead.
+iframeSrc: 'https://0lk0u0jb90plo.h5games.usercontent.goog/v/2rppmab9dqneo/'
 thumbnail: /new-images/thumbnails/addiction-mini.jpg
-urlstr: "addiction-mini"
-score: "4.0/5  (1803 votes)"
-tags: ["card", "puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: addiction-mini
+tags:
+  - card
+  - puzzle
+  - thinky
+score: 4.0/5  (1803 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

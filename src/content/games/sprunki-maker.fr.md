@@ -1,18 +1,19 @@
 ---
 locale: fr
-urlstr: sprunki-maker
-title: 'Sprunki Maker (BIG update) - Jouer à Sprunki Maker (BIG update) en ligne'
+title: Sprunki Maker (BIG update)
+seoTitle: Jouez à Sprunki Maker (BIG update) en ligne gratuitement | FiddleBops
 description: >-
-  Tu rêves d’avoir ton propre personnage Sprunki ? Sprunki Maker (BIG update)
-  te permet de le créer de A à Z : apparence, couleurs, tenues et accessoires,
-  tout est personnalisable.
+  Tu rêves d’avoir ton propre personnage Sprunki ? Sprunki Maker (BIG update) te
+  permet de le créer de A à Z : apparence, couleurs, tenues et accessoires, tout
+  est personnalisable.
 iframeSrc: 'https://www.playfiddlebops.com/embed/sprunki-marker/index.html'
 thumbnail: /new-images/thumbnails/sprunki-maker.png
+urlstr: sprunki-maker
 tags:
   - sprunki maker (big update)
   - sprunki maker (big update) online
-score: "4.8/5  (700 votes)"
-releaseDate: 2025-12-04
+score: 4.8/5  (700 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Présentation de Sprunki Maker (BIG update)

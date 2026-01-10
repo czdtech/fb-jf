@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: super-brick-builder
 title: Super Brick Builder 슈퍼 브릭 빌더
+seoTitle: Super Brick Builder 슈퍼 브릭 빌더 무료 온라인 플레이 | FiddleBops
 description: >-
   Super Brick Builder는 벽돌 블록을 차곡차곡 쌓아 실루엣 형태를 완성하는 퍼즐 게임으로, 깔끔한 배치와 지지 구조 설계가
   중요한 물리 기반 쌓기 게임입니다.
 iframeSrc: 'https://0hlb6nt2jsom8.h5games.usercontent.goog/v/4jac78qnv0nr8/'
 thumbnail: /new-images/thumbnails/super-brick-builder.png
+urlstr: super-brick-builder
 tags:
   - puzzle
   - thinky

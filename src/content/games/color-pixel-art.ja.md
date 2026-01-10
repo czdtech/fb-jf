@@ -1,19 +1,20 @@
 ---
+locale: ja
 title: Color Pixel Art Classic カラー・ピクセルアート・クラシック
+seoTitle: 無料でColor Pixel Art Classic カラー・ピクセルアート・クラシックをオンラインでプレイ | FiddleBops
 description: >-
   「Color Pixel Art
   Classic」でリラックスした時間を。番号に従ってピクセルを塗りつぶし、美しいドット絵を完成させる、癒やしの塗り絵パズル。
 iframeSrc: 'https://colorpixel.h5games.usercontent.goog/v/6ko86juonaau0/'
 thumbnail: /new-images/thumbnails/color-pixel-art.png
 urlstr: color-pixel-art
-score: 4.6/5  (3000 votes)
 tags:
   - puzzle
   - casual
   - thinky
+score: 4.6/5  (3000 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

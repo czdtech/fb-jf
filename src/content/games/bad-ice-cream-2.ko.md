@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: bad-ice-cream-2
 title: Bad Ice Cream 2 배드 아이스크림 2
+seoTitle: Bad Ice Cream 2 배드 아이스크림 2 무료 온라인 플레이 | FiddleBops
 description: >-
   얼음 블록을 만들고 부수며 과일을 모으는 퍼즐 액션 게임 Bad Ice-Cream 2입니다. 친구와 함께 협동 플레이로 미로를 공략해
   보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x6/index.html
 thumbnail: /new-images/thumbnails/bad-ice-cream-2.jpg
+urlstr: bad-ice-cream-2
 tags:
   - puzzle
   - action

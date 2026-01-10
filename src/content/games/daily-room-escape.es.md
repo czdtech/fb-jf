@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: daily-room-escape
 title: Daily Room Escape
+seoTitle: Juega a Daily Room Escape en línea gratis | FiddleBops
 description: >-
   Daily Room Escape ofrece pequeños desafíos de escape: explora la habitación,
   resuelve cerraduras lógicas y encaja las pistas para encontrar la salida.
 iframeSrc: 'https://0e53jjs7cgfvg.h5games.usercontent.goog/v/7ksqnmpcepl5g/'
 thumbnail: /new-images/thumbnails/daily-room-escape.png
+urlstr: daily-room-escape
 tags:
   - puzzle
   - escape

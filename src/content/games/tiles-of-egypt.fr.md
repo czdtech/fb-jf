@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: tiles-of-egypt
 title: Tiles of Egypt
+seoTitle: Jouez à Tiles of Egypt en ligne gratuitement | FiddleBops
 description: >-
   Tiles of Egypt est un puzzle triple-tuiles theme Egypte antique : selectionne
   trois tuiles identiques non bloquees pour les effacer du plateau.
 iframeSrc: >-
   https://tilesofegypt.h5games.usercontent.goog/v/dd964fa3-8999-4546-a4a0-d55a0cc72248/
 thumbnail: /new-images/thumbnails/tiles-of-egypt.jpg
+urlstr: tiles-of-egypt
 tags:
   - puzzle
   - casual

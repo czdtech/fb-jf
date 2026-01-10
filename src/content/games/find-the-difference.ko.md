@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: find-the-difference
 title: Find the Difference 틀린 그림 찾기
+seoTitle: Find the Difference 틀린 그림 찾기 무료 온라인 플레이 | FiddleBops
 description: 거의 똑같은 두 이미지를 비교해 다른 점을 찾는 관찰력 퍼즐입니다. 시간 안에 모든 차이를 찾아 눈썰미를 시험해 보세요.
 iframeSrc: 'https://findthedifference.h5games.usercontent.goog/v/0tambv0iojsn8/'
 thumbnail: /new-images/thumbnails/find-the-difference.jpg
+urlstr: find-the-difference
 tags:
   - puzzle
   - casual

@@ -1,16 +1,17 @@
 ---
 locale: zh
-urlstr: splatoon-3
 title: 《Splatoon 3》泼墨对战 3
+seoTitle: 免费在线玩 《Splatoon 3》泼墨对战 3 | FiddleBops
 description: 《Splatoon 3》是一款风格鲜明的射击对战游戏，你将操控喷墨小乌贼在战场上泼洒颜料，占领地盘并击退对手，体验快节奏的涂地对抗。
 iframeSrc: 'https://bitlifeonline.github.io/splatoon-3/'
 thumbnail: /new-images/thumbnails/splatoon-3.jpg
+urlstr: splatoon-3
 tags:
   - shooter
   - multiplayer
   - action
 score: 4.3/5  (955 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

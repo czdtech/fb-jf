@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: jewel-legend
 title: Jewel Legend
+seoTitle: Spiele Jewel Legend kostenlos online | FiddleBops
 description: >-
   Werde zur Juwelen-Legende in diesem funkelnden Match-3-Abenteuer. Tausche
   glitzernde Edelsteine, erschaffe explosive Kombos und löse hunderte
   herausfordernde Puzzles.
 iframeSrc: 'https://jewellegend.h5games.usercontent.goog/v/36cb1hitjsa3o/'
 thumbnail: /new-images/thumbnails/jewel-legend.png
+urlstr: jewel-legend
 tags:
   - puzzle
   - casual

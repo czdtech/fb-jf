@@ -23,6 +23,7 @@
   "nav": {
     "home": "Accueil",
     "newGames": "Nouveaux Jeux",
+    "mods": "Mods",
     "search": "Rechercher",
     "fiddlebopsMod": "Mod Fiddlebops",
     "incrediboxMod": "Mod Incredibox",
@@ -36,7 +37,7 @@
     "popularGames": "Jeux Populaires",
     "newGames": "Nouveaux Jeux",
     "trendingGames": "Jeux Tendance",
-    "recentlyPlayed": "Joués Récemment",
+    "featured": "En vedette",
     "exploreGames": "Explorer les Jeux"
   },
   "common": {

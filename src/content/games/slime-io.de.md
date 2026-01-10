@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: slime-io
 title: Slime.io
+seoTitle: Spiele Slime.io kostenlos online | FiddleBops
 description: >-
   Slime.io ist ein chaotisches .io-Game rund ums Fressen: Steuere deinen Slime
   durch die Stadt, verschlinge alles von Autos bis Gebäuden und friss kleinere
   Spieler, um zum größten Schleimklumpen der Runde zu werden.
 iframeSrc: 'https://slime-io.h5games.usercontent.goog/v/3p2ufrjemduhg/'
 thumbnail: /new-images/thumbnails/slime-io.png
+urlstr: slime-io
 tags:
   - action
   - casual

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: perfect-piano
-title: Perfect Piano - Toca cada nota a tiempo
+title: Perfect Piano
+seoTitle: Juega a Perfect Piano en línea gratis | FiddleBops
 description: >-
   Pon a prueba tu ritmo y reflejos en Perfect Piano. Toca las notas que caen en
   cuanto lleguen al teclado para interpretar preciosas canciones. No dejes pasar
   ni una sola tecla.
 iframeSrc: 'https://perfectpiano.h5games.usercontent.goog/v/48c3ch9soa7cg/'
 thumbnail: /new-images/thumbnails/perfect-piano.png
+urlstr: perfect-piano
 tags:
   - action
   - casual

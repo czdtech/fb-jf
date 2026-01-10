@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: friday-night-funkin
 title: Friday Night Funkin
+seoTitle: Spiele Friday Night Funkin kostenlos online | FiddleBops
 description: >-
   Friday Night Funkin ist ein Week-basierter Rhythmus-Battle: Triff die Noten im
   Takt gegen verschiedene Gegner, während höhere Schwierigkeitsgrade schnellere
   Patterns und knifflige Holds hinzufügen.
 iframeSrc: 'https://html-classic.itch.zone/html/2876359-1077558/index.html'
 thumbnail: /new-images/thumbnails/friday-night-funkin.jpg
+urlstr: friday-night-funkin
 tags:
   - rhythm
   - music

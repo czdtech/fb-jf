@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: gin-rummy
 title: Gin Rummy 진 러미 카드 게임
+seoTitle: Gin Rummy 진 러미 카드 게임 무료 온라인 플레이 | FiddleBops
 description: >-
   클래식 2인용 카드 게임 Gin Rummy를 온라인으로 즐겨 보세요. 손패를 셋과 런으로 정리해 데드우드를 줄이고, 적절한 타이밍에
   낙(knock)을 선언해 라운드를 끝낸 뒤 상대의 손패에 남은 데드우드로 점수를 벌어 보세요.
 iframeSrc: 'https://ginrummy.h5games.usercontent.goog/v/1sj72j2nsfin0/'
 thumbnail: /new-images/thumbnails/gin-rummy.png
+urlstr: gin-rummy
 tags:
   - card
   - puzzle

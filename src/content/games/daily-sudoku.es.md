@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: daily-sudoku
 title: Daily Sudoku
+seoTitle: Juega a Daily Sudoku en línea gratis | FiddleBops
 description: >-
   Daily Sudoku te ofrece cada día un nuevo puzle de lógica: coloca los dígitos
   del 1 al 9 de forma que cada fila, columna y caja contenga todos los números
   sin repetir.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-daily-sudoku/'
 thumbnail: /new-images/thumbnails/daily-sudoku.jpg
+urlstr: daily-sudoku
 tags:
   - puzzle
   - logic

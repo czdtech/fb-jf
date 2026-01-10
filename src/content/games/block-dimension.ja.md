@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Block Dimension ブロック・ディメンション
+seoTitle: 無料でBlock Dimension ブロック・ディメンションをオンラインでプレイ | FiddleBops
 description: 「Block Dimension」は空間認識力が試される3Dパズルゲームです。構造を回転させ、ブロックを完璧にはめ込みましょう。
 iframeSrc: 'https://62dfg8ps4f7lg.h5games.usercontent.goog/v/0k3gcfq0ljti8/'
 thumbnail: /new-images/thumbnails/block-dimension.png
 urlstr: block-dimension
-score: 3.8/5  (1432 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 3.8/5  (1432 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

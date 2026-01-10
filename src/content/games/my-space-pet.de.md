@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: my-space-pet
 title: My Space Pet
+seoTitle: Spiele My Space Pet kostenlos online | FiddleBops
 description: >-
   Brich mit My Space Pet zu einem interstellaren Abenteuer auf! Adoptiere ein
   eigenes Alien-Haustier, kümmere dich um es, erkunde das All und gestalte sein
   Zuhause ganz nach deinem Geschmack.
 iframeSrc: 'https://6jqt3hoth456g.h5games.usercontent.goog/v/6jqt3hoth456g/'
 thumbnail: /new-images/thumbnails/my-space-pet.png
+urlstr: my-space-pet
 tags:
   - casual
   - adventure

@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: pac-man
 title: PAC-MAN
+seoTitle: Jouez à PAC-MAN en ligne gratuitement | FiddleBops
 description: >-
   PAC-MAN est un jeu d'arcade de labyrinthe classique où tu guides Pac‑Man pour
   manger toutes les pastilles tout en fuyant quatre fantômes colorés. Les super
   pastilles te permettent temporairement de les dévorer.
 iframeSrc: 'https://bward2.github.io/pacman-js/'
 thumbnail: /new-images/thumbnails/pac-man.jpg
+urlstr: pac-man
 tags:
   - arcade
   - maze

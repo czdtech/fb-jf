@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: We Become What We Behold
+seoTitle: 無料でWe Become What We Beholdをオンラインでプレイ | FiddleBops
 description: We Become What We Beholdは、社会実験ゲームです。メディアと人間行動の関係を探索しましょう。
 iframeSrc: 'https://html5.iclouds.io/we-become-behold/index.html'
 thumbnail: /new-images/thumbnails/we-become-what-we-behold.jpg
 urlstr: we-become-what-we-behold
-score: 4.0/5  (987 votes)
 tags:
   - experimental
   - story
   - social
-locale: ja
+score: 4.0/5  (987 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

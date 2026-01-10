@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: gold-miner-tom
 title: Gold Miner Tom
+seoTitle: Jouez à Gold Miner Tom en ligne gratuitement | FiddleBops
 description: >-
   Aide Tom à devenir riche ! Un classique du mineur d'or où tu lances ta griffe
   pour attraper pépites, gemmes et autres trésors. Atteins l'objectif de chaque
   niveau avant la fin du temps.
 iframeSrc: 'https://goldminertom.h5games.usercontent.goog/v/5l8d724in1pco/'
 thumbnail: /new-images/thumbnails/gold-miner-tom.png
+urlstr: gold-miner-tom
 tags:
   - action
   - casual

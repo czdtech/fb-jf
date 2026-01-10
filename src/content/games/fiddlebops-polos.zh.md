@@ -1,14 +1,15 @@
 ---
 locale: zh
-urlstr: fiddlebops-polos
-title: "Fiddlebops Polos - 在线玩 Fiddlebops Polos"
-description: "Fiddlebops Polos 是一款创意音乐游戏，玩家可以创作曲目、探索互动故事，并与充满活力的社区互动，完全免费在线游玩。"
+title: Fiddlebops Polos
+seoTitle: 免费在线玩 Fiddlebops Polos | FiddleBops
+description: Fiddlebops Polos 是一款创意音乐游戏，玩家可以创作曲目、探索互动故事，并与充满活力的社区互动，完全免费在线游玩。
 iframeSrc: 'https://turbowarp.org/1149630445/embed'
 thumbnail: /new-images/thumbnails/fiddlebops-polos.png
+urlstr: fiddlebops-polos
 tags:
   - fiddlebops polos
 score: 4.6/5  (217 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Fiddlebops Polos 有何独特之处？

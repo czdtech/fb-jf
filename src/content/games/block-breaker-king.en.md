@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Block Breaker King"
-description: "Block Breaker King modernizes brick‑breaker — aim caroms, manage power‑ups, and control ball speed for efficient clears."
-iframeSrc: "https://40p3ck71ovs88.h5games.usercontent.goog/v/36e5gjc5plhi8/"
+title: Block Breaker King
+seoTitle: Play Block Breaker King Online Free | FiddleBops
+description: >-
+  Block Breaker King modernizes brick‑breaker — aim caroms, manage power‑ups,
+  and control ball speed for efficient clears.
+iframeSrc: 'https://40p3ck71ovs88.h5games.usercontent.goog/v/36e5gjc5plhi8/'
 thumbnail: /new-images/thumbnails/block-breaker-king.png
-urlstr: "block-breaker-king"
-score: "3.8/5  (1631 votes)"
-tags: ["puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: block-breaker-king
+tags:
+  - puzzle
+  - casual
+score: 3.8/5  (1631 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

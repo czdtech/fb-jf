@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: kings-and-queens
 title: Kings and Queens 왕과 여왕 매치3
+seoTitle: Kings and Queens 왕과 여왕 매치3 무료 온라인 플레이 | FiddleBops
 description: >-
   성을 복원하는 스토리가 더해진 3매치 퍼즐 'Kings and Queens' 가이드입니다. 장애물을 지우고 부스터를 활용해 별을 모으고,
   왕실 홀을 꾸미는 방법을 소개합니다.
 iframeSrc: 'https://0ptbttt09g5cg.h5games.usercontent.goog/v/6c7l9okboa1u0/'
 thumbnail: /new-images/thumbnails/kings-and-queens.png
+urlstr: kings-and-queens
 tags:
   - puzzle
   - casual

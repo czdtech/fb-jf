@@ -1,15 +1,21 @@
 ---
 locale: en
-modType: incredibox
-title: "Incredibox Riser"
-description: "Incredibox Riser this guide details its ambient electronic sound palette, gameplay for creating cosmic tracks, and how to unlock its sci-fi bonuses."
-iframeSrc: "https://turbowarp.org/966510261/embed"
+title: Incredibox Riser
+seoTitle: Play Incredibox Riser Online Free | FiddleBops
+description: >-
+  Incredibox Riser this guide details its ambient electronic sound palette,
+  gameplay for creating cosmic tracks, and how to unlock its sci-fi bonuses.
+iframeSrc: 'https://turbowarp.org/966510261/embed'
 thumbnail: /new-images/thumbnails/incredibox-riser.png
-urlstr: "incredibox-riser"
-score: "4.6/5 (1490 votes)"
-tags: ["music", "electronic", "rhythm"]
-developer: ""
-releaseDate: 2025-10-10
+urlstr: incredibox-riser
+tags:
+  - music
+  - electronic
+  - rhythm
+modType: incredibox
+score: 4.6/5 (1490 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 

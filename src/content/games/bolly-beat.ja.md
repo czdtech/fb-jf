@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Bolly Beat ボリー・ビート
+seoTitle: 無料でBolly Beat ボリー・ビートをオンラインでプレイ | FiddleBops
 description: >-
   「Bolly
   Beat」はボリウッドスタイルに乗って楽しむリズムアクション。ビートに合わせてタップし、コンボを繋げよう。エネルギッシュな音楽とリズム感が試される。
 iframeSrc: 'https://bollybeat.h5games.usercontent.goog/v/4k75msiudusn0/'
 thumbnail: /new-images/thumbnails/bolly-beat.jpg
 urlstr: bolly-beat
-score: 4.0/5  (1672 votes)
 tags:
   - casual
   - action
+score: 4.0/5  (1672 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

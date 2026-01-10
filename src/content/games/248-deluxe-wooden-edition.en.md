@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "248 Deluxe Wooden edition"
-description: "248 Deluxe Wooden edition is a calm number‑link puzzler — connect equal tiles, merge values, and manage space."
-iframeSrc: "https://0k2rsj4f89nr8.h5games.usercontent.goog/v/03pkkc7ds3qdg/"
+title: 248 Deluxe Wooden edition
+seoTitle: Play 248 Deluxe Wooden edition Online Free | FiddleBops
+description: >-
+  248 Deluxe Wooden edition is a calm number‑link puzzler — connect equal tiles,
+  merge values, and manage space.
+iframeSrc: 'https://0k2rsj4f89nr8.h5games.usercontent.goog/v/03pkkc7ds3qdg/'
 thumbnail: /new-images/thumbnails/248-deluxe-wooden-edition.jpg
-urlstr: "248-deluxe-wooden-edition"
-score: "4.0/5  (1764 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: 248-deluxe-wooden-edition
+tags:
+  - puzzle
+  - thinky
+score: 4.0/5  (1764 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

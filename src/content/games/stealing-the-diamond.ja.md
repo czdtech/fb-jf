@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Stealing the Diamond
+seoTitle: 無料でStealing the Diamondをオンラインでプレイ | FiddleBops
 description: >-
   Stealing the
   Diamondは、選択によって展開が分岐するインタラクティブアドベンチャーゲームです。ダイヤモンドを盗むための手段を選び、結果の違いを楽しみます。
 iframeSrc: 'https://bitlifeonline.github.io/stealing-the-diamond/'
 thumbnail: /new-images/thumbnails/stealing-the-diamond.jpg
 urlstr: stealing-the-diamond
-score: 3.5/5  (951 votes)
 tags:
   - adventure
   - interactive
   - comedy
-locale: ja
+score: 3.5/5  (951 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

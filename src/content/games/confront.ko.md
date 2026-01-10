@@ -1,14 +1,14 @@
 ---
 locale: ko
-urlstr: confront
-title: 'Confront 컨프론트'
+title: Confront 컨프론트
+seoTitle: Confront 컨프론트 무료 온라인 플레이 | FiddleBops
 description: >-
-  Confront는 총알 시간(bullet time)을 활용해 빠른 전투 속에서도 침착하게 조준을
-  결정해야 하는 1인칭 슈팅 액션 게임입니다. 빠른 반응과 정확한 에임으로 다가오는
-  적들을 처치하세요.
+  Confront는 총알 시간(bullet time)을 활용해 빠른 전투 속에서도 침착하게 조준을 결정해야 하는 1인칭 슈팅 액션 게임입니다.
+  빠른 반응과 정확한 에임으로 다가오는 적들을 처치하세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp37/gamehwq/20220228/07/index.htm
 thumbnail: /new-images/thumbnails/confront.jpg
+urlstr: confront
 tags:
   - casual
   - shooting

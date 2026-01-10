@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: incredibox-riser
 title: Incredibox Riser
+seoTitle: Spiele Incredibox Riser kostenlos online | FiddleBops
 description: >-
   Incredibox Riser setzt auf cineastische, ambient-elektronische Sounds: Erzeuge
   kosmische Tracks mit steigender Spannung und schalte passende Sci-Fi Boni
   frei.
 iframeSrc: 'https://turbowarp.org/966510261/embed'
 thumbnail: /new-images/thumbnails/incredibox-riser.png
+urlstr: incredibox-riser
 tags:
   - music
   - electronic

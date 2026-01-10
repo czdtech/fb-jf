@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: billiards-classic
 title: Billiards Classic 클래식 당구
+seoTitle: Billiards Classic 클래식 당구 무료 온라인 플레이 | FiddleBops
 description: >-
   클래식 8볼 룰을 브라우저에서 즐길 수 있는 Billiards Classic입니다. 에임과 회전을 조절해 자신의 공을 모두 넣고, 마지막에
   8번 볼까지 정확히 넣어 승리를 노려 보세요.
 iframeSrc: 'https://billiardsclassic.h5games.usercontent.goog/v/27m4mvjv84l70/'
 thumbnail: /new-images/thumbnails/billiards-classic.png
+urlstr: billiards-classic
 tags:
   - sports
   - puzzle

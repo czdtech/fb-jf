@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Fancy Pants 2"
-description: "Momentum‑driven platformer sequel: faster movement tech, new enemies, and larger hand‑drawn stages with secrets and trophies."
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj9/index.html"
+title: Fancy Pants 2
+seoTitle: Play Fancy Pants 2 Online Free | FiddleBops
+description: >-
+  Momentum‑driven platformer sequel: faster movement tech, new enemies, and
+  larger hand‑drawn stages with secrets and trophies.
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj9/index.html
 thumbnail: /new-images/thumbnails/fancy-pants-2.jpg
-urlstr: "fancy-pants-2"
-score: "4.3/5  (582 votes)"
-tags: ["platformer", "action"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: fancy-pants-2
+tags:
+  - platformer
+  - action
+score: 4.3/5  (582 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

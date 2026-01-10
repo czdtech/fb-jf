@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: tile-journey
 title: Tile Journey
+seoTitle: Spiele Tile Journey kostenlos online | FiddleBops
 description: >-
   Begib dich auf eine entspannte Tile Journey: Sammle immer drei gleiche Kacheln
   im Tablett, räume das Brett leer und plane deine Züge so, dass der begrenzte
   Ablageplatz nicht überläuft.
 iframeSrc: 'https://0i1jh8boqif48.h5games.usercontent.goog/v/1643ot8on0v9g/'
 thumbnail: /new-images/thumbnails/tile-journey.png
+urlstr: tile-journey
 tags:
   - puzzle
   - casual

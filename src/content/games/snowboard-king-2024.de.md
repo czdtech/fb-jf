@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: snowboard-king-2024
 title: Snowboard King 2024
+seoTitle: Spiele Snowboard King 2024 kostenlos online | FiddleBops
 description: >-
   Rase den Berg hinab und entkomme einer tödlichen Lawine! Schlängle dich an
   Bäumen und Felsen vorbei, sammle Münzen und verbessere deine Fähigkeiten, um
   zum Snowboard King zu werden.
 iframeSrc: 'https://61nls5ipnd8o8.h5games.usercontent.goog/v/6mdu5qlsugsl0/'
 thumbnail: /new-images/thumbnails/snowboard-king-2024.png
+urlstr: snowboard-king-2024
 tags:
   - sports
   - action

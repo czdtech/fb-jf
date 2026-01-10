@@ -1,14 +1,18 @@
 ---
 locale: de
-urlstr: sprunki-virus-new-update
-title: "Sprunki Virus New Update"
-description: "Sprunki Virus schickt dich in eine von einem Virus befallene Sprunki-Welt: mit Glitch-Grafik, düsteren Loops und einem Gameplay, das ständig mit deinen Erwartungen spielt." 
+title: Sprunki Virus New Update
+seoTitle: Spiele Sprunki Virus New Update kostenlos online | FiddleBops
+description: >-
+  Sprunki Virus schickt dich in eine von einem Virus befallene Sprunki-Welt: mit
+  Glitch-Grafik, düsteren Loops und einem Gameplay, das ständig mit deinen
+  Erwartungen spielt.
 iframeSrc: 'https://turbowarp.org/1104064786/embed'
 thumbnail: /new-images/thumbnails/sprunki-virus-new-update.png
+urlstr: sprunki-virus-new-update
 tags:
   - sprunki virus new update
 score: 4.0/5  (407 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

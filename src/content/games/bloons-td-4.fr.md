@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: bloons-td-4
 title: Bloons TD 4
+seoTitle: Jouez à Bloons TD 4 en ligne gratuitement | FiddleBops
 description: "Bloons TD 4 introduit les chemins d’amélioration séparés, de nouvelles tours et le BFB\_: choisis la bonne branche pour chaque tour et développe une économie solide pour survivre aux blimps."
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-4.html'
 thumbnail: /new-images/thumbnails/bloons-td-4.jpg
+urlstr: bloons-td-4
 tags:
   - casual
   - strategy

@@ -1,14 +1,15 @@
 ---
 locale: es
-urlstr: spider-solitaire
-title: "Spider Solitaire"
+title: Spider Solitaire
+seoTitle: Juega a Spider Solitaire en línea gratis | FiddleBops
 description: >-
   Juega a Spider Solitaire, un juego de cartas tan desafiante como gratificante.
   Tu objetivo es construir ocho secuencias descendentes por palo, de Rey a As.
-  Limpia el tablero para ganar en este puzle estratégico que pone a
-  prueba tu planificación y tu visión a largo plazo.
-iframeSrc: "https://www.squidbyte.com/games_third/spider/en/spider-solitaire-halloween/"
+  Limpia el tablero para ganar en este puzle estratégico que pone a prueba tu
+  planificación y tu visión a largo plazo.
+iframeSrc: 'https://www.squidbyte.com/games_third/spider/en/spider-solitaire-halloween/'
 thumbnail: /new-images/thumbnails/spider-solitaire.jpg
+urlstr: spider-solitaire
 tags:
   - card-game
   - puzzle

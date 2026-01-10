@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: tiletopia
 title: Tiletopia 타일토피아
+seoTitle: Tiletopia 타일토피아 무료 온라인 플레이 | FiddleBops
 description: >-
   육각형 타일을 하나씩 배치해 작은 도시와 풍경을 만들어 가는 퍼즐 게임 Tiletopia입니다. 도로와 숲, 마을의 가장자리를 맞추고
   퀘스트를 완료해 높은 점수를 노려 보세요.
 iframeSrc: 'https://6nilllqpgkm6o.h5games.usercontent.goog/v/7d3689i7s5gfo/'
 thumbnail: /new-images/thumbnails/tiletopia.png
+urlstr: tiletopia
 tags:
   - puzzle
   - strategy

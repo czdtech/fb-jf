@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: ballistic
 title: Ballistic 弹射方块
+seoTitle: 免费在线玩 Ballistic 弹射方块 | FiddleBops
 description: 《Ballistic（弹射方块）》是一款基于物理引擎的打砖块式街机游戏，通过精确瞄准、收集额外弹球和善用强化道具，在数字方块压到底线之前把它们统统击碎。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/'
 thumbnail: /new-images/thumbnails/ballistic.jpg
+urlstr: ballistic
 tags:
   - puzzle
   - casual

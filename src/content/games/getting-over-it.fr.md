@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: getting-over-it
 title: Getting over it
+seoTitle: Jouez à Getting over it en ligne gratuitement | FiddleBops
 description: >-
   Défi d’escalade au marteau : balance‑toi, fais du pogo et hisse un homme dans
   un chaudron sur des obstacles surréalistes ; une physique précise punit chaque
   geste impatient.
 iframeSrc: 'https://ubg77.github.io/fix/getting-over-it/'
 thumbnail: /new-images/thumbnails/getting-over-it.jpg
+urlstr: getting-over-it
 tags:
   - platformer
   - physics

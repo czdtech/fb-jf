@@ -1,15 +1,16 @@
 ---
 locale: en
-title: Sprunki Interactive BETA - Play Sprunki Interactive BETA Online
+title: Sprunki Interactive BETA
+seoTitle: Play Sprunki Interactive BETA Online Free | FiddleBops
 description: 'Sprunki Interactive BETA is not just a simple upgrade to the Sprunki game, it'
 iframeSrc: 'https://turbowarp.org/1090663998/embed'
 thumbnail: /new-images/thumbnails/sprunki-interactive-beta.png
 urlstr: sprunki-interactive-beta
-modType: sprunki
-score: 4.0/5  (407 votes)
 tags:
   - sprunki interactive beta
   - music
+modType: sprunki
+score: 4.0/5  (407 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

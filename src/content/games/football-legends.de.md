@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: football-legends
 title: Football Legends
+seoTitle: Spiele Football Legends kostenlos online | FiddleBops
 description: >-
   Football Legends ist Arcade-Fußball im Duellformat: Spiele 1-gegen-1 oder
   2-gegen-2 mit Kopfbällen, Volleys und Specials in schnellen Matches oder
   Turnieren.
 iframeSrc: 'https://webglmath.github.io/football-legends/'
 thumbnail: /new-images/thumbnails/football-legends.jpg
+urlstr: football-legends
 tags:
   - sports
   - soccer

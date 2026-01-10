@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: incredibox-geek-dance-simulator
 title: Incredibox Geek Dance Simulator 긱 댄스 시뮬레이터
+seoTitle: Incredibox Geek Dance Simulator 긱 댄스 시뮬레이터 무료 온라인 플레이 | FiddleBops
 description: >-
   긱·너드 문화를 기념하는 팬메이드 모드 'Incredibox Geek Dance Simulator' 가이드입니다. 8비트 칩튠 사운드와
   그리드 기반 인터페이스로 레트로 게임 루프를 만드는 방법을 소개합니다.
 iframeSrc: 'https://turbowarp.org/904948672/embed'
 thumbnail: /new-images/thumbnails/incredibox-geek-dance-simulator.png
+urlstr: incredibox-geek-dance-simulator
 tags:
   - music
   - rhythm

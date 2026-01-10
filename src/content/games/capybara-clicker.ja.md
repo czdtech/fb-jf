@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Capybara Clicker カピバラ・クリッカー
+seoTitle: 無料でCapybara Clicker カピバラ・クリッカーをオンラインでプレイ | FiddleBops
 description: 「Capybara Clicker」でカピバラを増殖させよう！クリックして生産、アップグレードで自動化、そしておめかし。癒やしの放置系クリッカーゲーム。
 iframeSrc: 'https://bitlifeonline.github.io/capybara-clicker/'
 thumbnail: /new-images/thumbnails/capybara-clicker.jpg
 urlstr: capybara-clicker
-score: 4.4/5  (1397 votes)
 tags:
   - casual
   - clicker
+score: 4.4/5  (1397 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

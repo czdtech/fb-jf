@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: domino-battle
 title: Domino Battle
+seoTitle: Jouez à Domino Battle en ligne gratuitement | FiddleBops
 description: >-
   Affronte un adversaire dans une partie de dominos classique. Pose tes tuiles
   intelligemment, bloque l'autre joueur et vide ta main en premier pour gagner.
 iframeSrc: 'https://dominobattle.h5games.usercontent.goog/v/45fvkhcnai3s0/'
 thumbnail: /new-images/thumbnails/domino-battle.png
+urlstr: domino-battle
 tags:
   - card
   - puzzle

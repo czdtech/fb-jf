@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: crazy-caves
 title: Crazy Caves
+seoTitle: Juega a Crazy Caves en línea gratis | FiddleBops
 description: >-
   Adéntrate en Crazy Caves y pon a prueba tus reflejos. Esquiva una lluvia
   constante de rocas mientras lanzas picos para romperlas y conseguir gemas y
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://crazycaves.h5games.usercontent.goog/v/24bc2c61-c599-4c5a-9fde-fd3a14fd28a6/
 thumbnail: /new-images/thumbnails/crazy-caves.jpg
+urlstr: crazy-caves
 tags:
   - action
   - casual

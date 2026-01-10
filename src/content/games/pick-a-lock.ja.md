@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Pick a Lock
+seoTitle: 無料でPick a Lockをオンラインでプレイ | FiddleBops
 description: Pick a Lockはロック解除パズルです。タイミングを合わせてピンを揃え、ロックを解除します。
 iframeSrc: 'https://17ul52pgrglf0.h5games.usercontent.goog/v/5b4f1rj0on970/'
 thumbnail: /new-images/thumbnails/pick-a-lock.jpg
 urlstr: pick-a-lock
-score: 3.9/5  (1712 votes)
 tags:
   - puzzle
   - casual
+score: 3.9/5  (1712 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,14 +1,15 @@
 ---
 locale: zh
-urlstr: incredibox-donki-abgerny
-title: "Incredibox Donki Abgerny - 在线玩 Incredibox Donki Abgerny"
-description: "Incredibox Donki Abgerny 将深沉的部落节奏、独特的迪吉里杜管和充满灵魂的吟唱融入经典的 Incredibox 玩法中。"
+title: Incredibox Donki Abgerny
+seoTitle: 免费在线玩 Incredibox Donki Abgerny | FiddleBops
+description: Incredibox Donki Abgerny 将深沉的部落节奏、独特的迪吉里杜管和充满灵魂的吟唱融入经典的 Incredibox 玩法中。
 iframeSrc: 'https://turbowarp.org/1135326100/embed'
 thumbnail: /new-images/thumbnails/incredibox-donki-abgerny.png
+urlstr: incredibox-donki-abgerny
 tags:
   - incredibox donki abgerny
 score: 4.3/5  (154 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

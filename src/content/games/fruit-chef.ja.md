@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Fruit Chef
+seoTitle: 無料でFruit Chefをオンラインでプレイ | FiddleBops
 description: Fruit Chefはテンポよくフルーツを切るスライスゲーム。コンボをつなぎ、爆弾を避けてスコアを伸ばします。
 iframeSrc: 'https://419in6alhpp88.h5games.usercontent.goog/v/22nao6drjf7v0/'
 thumbnail: /new-images/thumbnails/fruit-chef.png
 urlstr: fruit-chef
-score: 4.1/5  (1948 votes)
 tags:
   - action
   - casual
+score: 4.1/5  (1948 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

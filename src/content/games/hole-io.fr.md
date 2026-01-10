@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: hole-io
 title: Hole io
+seoTitle: Jouez à Hole io en ligne gratuitement | FiddleBops
 description: >-
   Brawler .io urbain : contrôle un trou noir, avale des objets pour grandir,
   puis dépasse ou élimine les autres joueurs sur la carte.
 iframeSrc: 'https://holeio.com/'
 thumbnail: /new-images/thumbnails/hole-io.jpg
+urlstr: hole-io
 tags:
   - io
   - arcade

@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Jurassic Run
+seoTitle: 無料でJurassic Runをオンラインでプレイ | FiddleBops
 description: 恐竜を操作するエンドレスランナーです。レーン移動やジャンプ/スライドで障害物を避け、ハイスコアを目指します。
 iframeSrc: 'https://260c4eej53igg.h5games.usercontent.goog/v/5h99gs1rujgk0/'
 thumbnail: /new-images/thumbnails/jurassic-run.png
 urlstr: jurassic-run
-score: 3.9/5  (1721 votes)
 tags:
   - action
   - casual
+score: 3.9/5  (1721 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

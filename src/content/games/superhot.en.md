@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Superhot"
-description: "Superhot is an innovative first-person shooter where time moves only when you move, creating a unique tactical puzzle experience that combines action with strategic planning."
-iframeSrc: "https://superhotgame.com/superhot-prototype-iframe"
+title: Superhot
+seoTitle: Play Superhot Online Free | FiddleBops
+description: >-
+  Superhot is an innovative first-person shooter where time moves only when you
+  move, creating a unique tactical puzzle experience that combines action with
+  strategic planning.
+iframeSrc: 'https://superhotgame.com/superhot-prototype-iframe'
 thumbnail: /new-images/thumbnails/superhot.jpg
-urlstr: "superhot"
-score: "3.9/5  (1186 votes)"
-tags: ["shooting", "strategy", "manipulation"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: superhot
+tags:
+  - shooting
+  - strategy
+  - manipulation
+score: 3.9/5  (1186 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

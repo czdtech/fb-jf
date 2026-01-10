@@ -1,13 +1,14 @@
 ---
 locale: zh
-urlstr: geometry-dash-wave
-title: "Geometry Dash Wave 几何冲刺：波形模式"
+title: Geometry Dash Wave 几何冲刺：波形模式
+seoTitle: 免费在线玩 Geometry Dash Wave 几何冲刺：波形模式 | FiddleBops
 description: >-
   在 Geometry Dash Wave 中掌握节奏，穿越充满陷阱的关卡！
   你要用单一按键控制三角波形图示，以斜线上下穿梭避开障碍，完成音乐同步的高难度关卡。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20231205/04/index.html
 thumbnail: /new-images/thumbnails/geometry-dash-wave.jpg
+urlstr: geometry-dash-wave
 tags:
   - rhythm
   - platformer

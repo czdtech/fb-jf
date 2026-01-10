@@ -1,14 +1,21 @@
 ---
 locale: fr
-urlstr: "merge-haven"
-title: "Merge Haven"
-description: "Merge Haven est un constructeur relaxant à base de fusion : enchaîne les combinaisons, termine des tâches et agrandis ton domaine en gérant intelligemment ton plateau."
-iframeSrc: "https://1jjan0u3n07qg.h5games.usercontent.goog/v/5aruivrappsfg/"
+title: Merge Haven
+seoTitle: Jouez à Merge Haven en ligne gratuitement | FiddleBops
+description: >-
+  Merge Haven est un constructeur relaxant à base de fusion : enchaîne les
+  combinaisons, termine des tâches et agrandis ton domaine en gérant
+  intelligemment ton plateau.
+iframeSrc: 'https://1jjan0u3n07qg.h5games.usercontent.goog/v/5aruivrappsfg/'
 thumbnail: /new-images/thumbnails/merge-haven.png
-tags: ["puzzle", "casual", "thinky"]
-score: "4.1/5  (1989 votes)"
-developer: ""
-releaseDate: 2025-10-18
+urlstr: merge-haven
+tags:
+  - puzzle
+  - casual
+  - thinky
+score: 4.1/5  (1989 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 ### Présentation du jeu

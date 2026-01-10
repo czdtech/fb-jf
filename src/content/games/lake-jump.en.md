@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Lake Jump"
-description: "Lake Jump is a one‑tap timing game — hop across platforms, avoid falls, and chain perfect jumps."
-iframeSrc: "https://lakejump.h5games.usercontent.goog/v/33bg3iluek1fg/"
+title: Lake Jump
+seoTitle: Play Lake Jump Online Free | FiddleBops
+description: >-
+  Lake Jump is a one‑tap timing game — hop across platforms, avoid falls, and
+  chain perfect jumps.
+iframeSrc: 'https://lakejump.h5games.usercontent.goog/v/33bg3iluek1fg/'
 thumbnail: /new-images/thumbnails/lake-jump.png
-urlstr: "lake-jump"
-score: "3.7/5  (1276 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: lake-jump
+tags:
+  - action
+  - casual
+score: 3.7/5  (1276 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 ## English Guide

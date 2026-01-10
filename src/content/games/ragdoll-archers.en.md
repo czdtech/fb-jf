@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Ragdoll Archers"
-description: "Ragdoll Archers is a physics-based archery game where players control wobbly ragdoll archers to shoot arrows at opponents, with realistic physics making each shot challenging and entertaining."
-iframeSrc: "https://bitlifeonline.github.io/ragdoll-archers/"
+title: Ragdoll Archers
+seoTitle: Play Ragdoll Archers Online Free | FiddleBops
+description: >-
+  Ragdoll Archers is a physics-based archery game where players control wobbly
+  ragdoll archers to shoot arrows at opponents, with realistic physics making
+  each shot challenging and entertaining.
+iframeSrc: 'https://bitlifeonline.github.io/ragdoll-archers/'
 thumbnail: /new-images/thumbnails/ragdoll-archers.jpg
-urlstr: "ragdoll-archers"
-score: "4.4/5  (466 votes)"
-tags: ["physics", "archery", "action"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: ragdoll-archers
+tags:
+  - physics
+  - archery
+  - action
+score: 4.4/5  (466 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

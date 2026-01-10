@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Bricks Breaker Crush"
-description: "Bricks Breaker Crush showers bricks to shatter — aim volleys, stack multipliers, and carve optimal angles through dense fields."
-iframeSrc: "https://7uvo1rchfrhr8.h5games.usercontent.goog/v/4tk6unop5lefg/"
+title: Bricks Breaker Crush
+seoTitle: Play Bricks Breaker Crush Online Free | FiddleBops
+description: >-
+  Bricks Breaker Crush showers bricks to shatter — aim volleys, stack
+  multipliers, and carve optimal angles through dense fields.
+iframeSrc: 'https://7uvo1rchfrhr8.h5games.usercontent.goog/v/4tk6unop5lefg/'
 thumbnail: /new-images/thumbnails/bricks-breaker-crush.png
-urlstr: "bricks-breaker-crush"
-score: "4.0/5  (1906 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: bricks-breaker-crush
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.0/5  (1906 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

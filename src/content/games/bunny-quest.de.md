@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: bunny-quest
 title: Bunny Quest
+seoTitle: Spiele Bunny Quest kostenlos online | FiddleBops
 description: >-
   Bunny Quest ist ein Wegbau-Schiebepuzzle – verschiebe Kacheln, verbinde den
   Pfad und führe den Hasen mit möglichst wenigen Zügen sicher ins Ziel.
 iframeSrc: 'https://630h8fcg3e938.h5games.usercontent.goog/v/51qfd4fr90dro/'
 thumbnail: /new-images/thumbnails/bunny-quest.png
+urlstr: bunny-quest
 tags:
   - puzzle
   - thinky

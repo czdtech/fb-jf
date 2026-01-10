@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Snowboard King 2024
+seoTitle: 無料でSnowboard King 2024をオンラインでプレイ | FiddleBops
 description: Snowboard King 2024は雪山を滑り降りるアーケードゲームです。雪崩に追われながら障害物を避け、コインで能力を強化します。
 iframeSrc: 'https://61nls5ipnd8o8.h5games.usercontent.goog/v/6mdu5qlsugsl0/'
 thumbnail: /new-images/thumbnails/snowboard-king-2024.png
 urlstr: snowboard-king-2024
-score: 4.4/5  (2500 votes)
 tags:
   - sports
   - action
   - driving
+score: 4.4/5  (2500 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 

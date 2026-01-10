@@ -1,7 +1,7 @@
 ---
 locale: fr
-urlstr: bank-robbery
 title: Bank Robbery
+seoTitle: Jouez à Bank Robbery en ligne gratuitement | FiddleBops
 description: >-
   Bank Robbery 2 est un FPS en équipes Cops vs Robbers : perfore les coffres et
   évade‑toi avec l’argent côté braqueurs, ou défends la banque et fais échouer
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://app-183971.games.s3.yandex.net/183971/l0eme2yqkthl0y8stmfuz0u8pdpux64m/index.html
 thumbnail: /new-images/thumbnails/bank-robbery.jpg
+urlstr: bank-robbery
 tags:
   - fPS
   - action

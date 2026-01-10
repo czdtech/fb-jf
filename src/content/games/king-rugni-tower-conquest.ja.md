@@ -1,14 +1,19 @@
 ---
-title: "King Rugni Tower Conquest"
-description: "King Rugni Tower Conquestはコンパクトなタワーディフェンスです。タワーを配置し、敵のルートを誘導し、賢くアップグレードして防衛ラインを守りましょう。"
-iframeSrc: "https://1kh2cdjui86vo.h5games.usercontent.goog/v/71hetkqd45518/"
-thumbnail: /new-images/thumbnails/king-rugni-tower-conquest.jpg
-urlstr: "king-rugni-tower-conquest"
-score: "4.2/5  (2106 votes)"
-tags: ["tower Defense", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
 locale: ja
+title: King Rugni Tower Conquest
+seoTitle: 無料でKing Rugni Tower Conquestをオンラインでプレイ | FiddleBops
+description: >-
+  King Rugni Tower
+  Conquestはコンパクトなタワーディフェンスです。タワーを配置し、敵のルートを誘導し、賢くアップグレードして防衛ラインを守りましょう。
+iframeSrc: 'https://1kh2cdjui86vo.h5games.usercontent.goog/v/71hetkqd45518/'
+thumbnail: /new-images/thumbnails/king-rugni-tower-conquest.jpg
+urlstr: king-rugni-tower-conquest
+tags:
+  - tower Defense
+  - thinky
+score: 4.2/5  (2106 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

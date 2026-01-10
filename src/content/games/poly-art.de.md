@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: poly-art
 title: Poly Art
+seoTitle: Spiele Poly Art kostenlos online | FiddleBops
 description: >-
   Entspanne dich und fordere deine Wahrnehmung mit Poly Art heraus – einem
   wunderschönen 3D-Puzzlespiel, in dem du eine Wolke bunter Polygone drehst, bis
   sich daraus ein klares Bild formt.
 iframeSrc: 'https://polyart.h5games.usercontent.goog/v/47aiosp2dbqgg/'
 thumbnail: /new-images/thumbnails/poly-art.png
+urlstr: poly-art
 tags:
   - puzzle
   - thinky

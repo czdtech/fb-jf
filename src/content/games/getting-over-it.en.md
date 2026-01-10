@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Getting over it"
-description: "Climb‑with‑a‑hammer challenge: swing, pogo, and drag a cauldron man up surreal obstacles; precision physics punish impatience." 
-iframeSrc: "https://ubg77.github.io/fix/getting-over-it/"
+title: Getting over it
+seoTitle: Play Getting over it Online Free | FiddleBops
+description: >-
+  Climb‑with‑a‑hammer challenge: swing, pogo, and drag a cauldron man up surreal
+  obstacles; precision physics punish impatience.
+iframeSrc: 'https://ubg77.github.io/fix/getting-over-it/'
 thumbnail: /new-images/thumbnails/getting-over-it.jpg
-urlstr: "getting-over-it"
-score: "5.0/5  (226 votes)"
-tags: ["platformer", "physics"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: getting-over-it
+tags:
+  - platformer
+  - physics
+score: 5.0/5  (226 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

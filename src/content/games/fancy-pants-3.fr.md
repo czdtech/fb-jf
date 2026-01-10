@@ -1,7 +1,7 @@
 ---
 locale: fr
-urlstr: fancy-pants-3
 title: Fancy Pants 3
+seoTitle: Jouez à Fancy Pants 3 en ligne gratuitement | FiddleBops
 description: >-
   Le platforming basé sur le momentum revient avec des niveaux plus grands,
   encore plus de secrets et des wall‑runs/glissades affinés dans des mondes
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj10/index.html
 thumbnail: /new-images/thumbnails/fancy-pants-3.jpg
+urlstr: fancy-pants-3
 tags:
   - platformer
   - action

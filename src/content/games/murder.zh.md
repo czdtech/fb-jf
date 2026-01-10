@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: murder
 title: 《Murder》暗杀派对推理
+seoTitle: 免费在线玩 《Murder》暗杀派对推理 | FiddleBops
 description: 《Murder》是一款紧张刺激的社交推理小游戏，在一群玩家之中有人暗中扮演“凶手”，试图悄悄干掉其他人而不被识破，其余玩家则要通过观察与推理揪出真凶。
 iframeSrc: 'https://ubg77.github.io/fix/murder/'
 thumbnail: /new-images/thumbnails/murder.jpg
+urlstr: murder
 tags:
   - social deduction
   - strategy

@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: tumble-towers
 title: Tumble Towers
+seoTitle: Spiele Tumble Towers kostenlos online | FiddleBops
 description: >-
   Tumble Towers ist ein Physik‑Stapelspiel: Balanciere Blöcke, halte Überhänge
   klein und baue Türme, die auch nach dem Aufpralltest noch stehen.
 iframeSrc: 'https://786ndsslg99r8.h5games.usercontent.goog/v/70bavan56u08g/'
 thumbnail: /new-images/thumbnails/tumble-towers.png
+urlstr: tumble-towers
 tags:
   - puzzle
   - thinky

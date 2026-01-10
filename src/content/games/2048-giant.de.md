@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: 2048-giant
 title: 2048 Giant
+seoTitle: Spiele 2048 Giant kostenlos online | FiddleBops
 description: >-
   2048 Giant bringt das klassische 2048‑Puzzle auf ein größeres Spielfeld.
   Schiebe Zahlenkacheln zusammen, bilde immer höhere Werte und plane voraus,
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://2048giant.h5games.usercontent.goog/v/4bea87e2-a9a9-4f4b-b1c8-8b777220c567/
 thumbnail: /new-images/thumbnails/2048-giant.jpg
+urlstr: 2048-giant
 tags:
   - puzzle
   - thinky

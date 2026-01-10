@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Fluffy Mania"
-description: "Fluffy Mania is a cozy match‑and‑clear puzzler — connect cute fluffies, trigger cascades, and chase high scores."
-iframeSrc: "https://02rd6nna08dqg.h5games.usercontent.goog/v/3ngbs02gf9h88/"
+title: Fluffy Mania
+seoTitle: Play Fluffy Mania Online Free | FiddleBops
+description: >-
+  Fluffy Mania is a cozy match‑and‑clear puzzler — connect cute fluffies,
+  trigger cascades, and chase high scores.
+iframeSrc: 'https://02rd6nna08dqg.h5games.usercontent.goog/v/3ngbs02gf9h88/'
 thumbnail: /new-images/thumbnails/fluffy-mania.png
-urlstr: "fluffy-mania"
-score: "4.0/5  (1729 votes)"
-tags: ["puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: fluffy-mania
+tags:
+  - puzzle
+  - casual
+score: 4.0/5  (1729 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

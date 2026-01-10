@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: pirate-pop
 title: Pirate Pop 해적 버블 팝
+seoTitle: Pirate Pop 해적 버블 팝 무료 온라인 플레이 | FiddleBops
 description: >-
   해적 테마의 버블 슈터 게임입니다. 대포로 버블을 쏴 같은 색을 세 개 이상 맞추고, 한 번에 큰 덩어리를 떨어뜨려 보드를 시원하게 비워
   보세요.
 iframeSrc: 'https://piratepop.h5games.usercontent.goog/v/3japc2shd35ug/'
 thumbnail: /new-images/thumbnails/pirate-pop.png
+urlstr: pirate-pop
 tags:
   - shooting
   - puzzle

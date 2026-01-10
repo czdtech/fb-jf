@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: egg-maker
 title: Egg Maker 金牌煎蛋小厨房
+seoTitle: 免费在线玩 Egg Maker 金牌煎蛋小厨房 | FiddleBops
 description: Egg Maker 是一款节奏明快的厨房解谜游戏，你要在高压出餐时间里安排备料顺序、 控制平底锅火候，端出一盘盘完美熟度的蛋料理。
 iframeSrc: 'https://2jbqv0uarsk18.h5games.usercontent.goog/v/2cnuunat3mtpg/'
 thumbnail: /new-images/thumbnails/egg-maker.png
+urlstr: egg-maker
 tags:
   - casual
   - thinky

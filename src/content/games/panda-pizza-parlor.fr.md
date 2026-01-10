@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: panda-pizza-parlor
 title: Panda Pizza Parlor
+seoTitle: Jouez à Panda Pizza Parlor en ligne gratuitement | FiddleBops
 description: "Entre dans la Panda Pizza Parlor et sers de délicieuses pizzas à des clients affamés\_! Gère ton temps, respecte les commandes et développe ta pizzeria."
 iframeSrc: 'https://pandapizzaparlor.h5games.usercontent.goog/v/16ldgoh3to3f8/'
 thumbnail: /new-images/thumbnails/panda-pizza-parlor.png
+urlstr: panda-pizza-parlor
 tags:
   - casual
   - action

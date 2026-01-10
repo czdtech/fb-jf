@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: incredibox-creatophobos
 title: Incredibox Creatophobos 공포 테마 모드
+seoTitle: Incredibox Creatophobos 공포 테마 모드 무료 온라인 플레이 | FiddleBops
 description: >-
   공포·괴물 콘셉트의 팬메이드 모드 'Incredibox Creatophobos'를 소개하는 가이드입니다. 산업 소음과 몬스터 보컬이 섞인
   사운드 팔레트와 긴장감 있는 믹스를 만드는 팁을 다룹니다.
 iframeSrc: 'https://turbowarp.org/1041902515/embed'
 thumbnail: /new-images/thumbnails/incredibox-creatophobos.png
+urlstr: incredibox-creatophobos
 tags:
   - music
   - horror

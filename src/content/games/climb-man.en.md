@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Climb Man"
-description: "Master the fast-paced arcade game, Climb Man: Walk to the Sky. This guide provides expert strategies for timing your climbs, avoiding obstacles, and unlocking new characters to reach the highest score."
-iframeSrc: "https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/"
+title: Climb Man
+seoTitle: Play Climb Man Online Free | FiddleBops
+description: >-
+  Master the fast-paced arcade game, Climb Man: Walk to the Sky. This guide
+  provides expert strategies for timing your climbs, avoiding obstacles, and
+  unlocking new characters to reach the highest score.
+iframeSrc: 'https://1muicq0oght78.h5games.usercontent.goog/v/1aim9ophd8cdg/'
 thumbnail: /new-images/thumbnails/climb-man.png
-urlstr: "climb-man"
-score: "3.9/5  (1658 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: climb-man
+tags:
+  - action
+  - casual
+score: 3.9/5  (1658 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

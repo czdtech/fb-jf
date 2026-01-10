@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Red Ball"
-description: "Red Ball is the original physics-based platformer game where players control a bouncing red ball through various levels filled with obstacles, enemies, and puzzles, using momentum and physics to overcome challenges."
-iframeSrc: "https://app-185271.games.s3.yandex.net/185271/uvjrp10onrrllry3esbc3gpnf7s40cj5/index.html"
+title: Red Ball
+seoTitle: Play Red Ball Online Free | FiddleBops
+description: >-
+  Red Ball is the original physics-based platformer game where players control a
+  bouncing red ball through various levels filled with obstacles, enemies, and
+  puzzles, using momentum and physics to overcome challenges.
+iframeSrc: >-
+  https://app-185271.games.s3.yandex.net/185271/uvjrp10onrrllry3esbc3gpnf7s40cj5/index.html
 thumbnail: /new-images/thumbnails/red-ball.jpg
-urlstr: "red-ball"
-score: "4.2/5  (1161 votes)"
-tags: ["platformer", "physics", "classic"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: red-ball
+tags:
+  - platformer
+  - physics
+  - classic
+score: 4.2/5  (1161 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

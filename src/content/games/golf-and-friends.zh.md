@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: golf-and-friends
 title: Golf and Friends 朋友高尔夫
+seoTitle: 免费在线玩 Golf and Friends 朋友高尔夫 | FiddleBops
 description: Golf and Friends 是一款轻松的迷你高尔夫游戏——阅读坡度、利用墙壁反弹， 和朋友一起慢节奏推杆，在欢乐的派对气氛中完成每一洞。
 iframeSrc: 'https://1uerepsm8tbpg.h5games.usercontent.goog/v/3st9sicdd4eu0/'
 thumbnail: /new-images/thumbnails/golf-and-friends.jpg
+urlstr: golf-and-friends
 tags:
   - sports
   - 2 player

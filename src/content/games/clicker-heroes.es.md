@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: clicker-heroes
 title: Clicker Heroes
+seoTitle: Juega a Clicker Heroes en línea gratis | FiddleBops
 description: >-
   Guía completa de Clicker Heroes. Aprende las mecánicas básicas, estrategias de
   experto para Ascension y Ancients, controles y respuestas a las dudas más
   habituales de este adictivo idle/clicker.
 iframeSrc: 'https://cdn.clickerheroes.com/gamebuild/'
 thumbnail: /new-images/thumbnails/clicker-heroes.jpg
+urlstr: clicker-heroes
 tags:
   - clicker
   - casual

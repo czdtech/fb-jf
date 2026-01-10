@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: funny-shooter-2
 title: Funny Shooter 2 퍼니 슈터 2
+seoTitle: Funny Shooter 2 퍼니 슈터 2 무료 온라인 플레이 | FiddleBops
 description: >-
   더욱 다양한 적과 무기를 추가한 Funny Shooter 후속작입니다. 코인을 모아 무기를 업그레이드하고, 라운드를 거듭하며 강해지는 적들에
   맞서 싸워 보세요.
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter-2/'
 thumbnail: /new-images/thumbnails/funny-shooter-2.jpg
+urlstr: funny-shooter-2
 tags:
   - shooting
   - fps

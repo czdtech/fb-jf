@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: splatoon-3
 title: Splatoon 3
+seoTitle: Juega a Splatoon 3 en línea gratis | FiddleBops
 description: >-
   Sumérgete en el colorido mundo de Splatoon 3. En este juego de disparos
   cargado de acción, cubre el territorio con la tinta de tu equipo para
@@ -10,6 +10,7 @@ description: >-
   equipo para dominar el terreno.
 iframeSrc: 'https://bitlifeonline.github.io/splatoon-3/'
 thumbnail: /new-images/thumbnails/splatoon-3.jpg
+urlstr: splatoon-3
 tags:
   - action
   - shooting

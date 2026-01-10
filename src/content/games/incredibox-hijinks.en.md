@@ -1,15 +1,21 @@
 ---
 locale: en
-modType: incredibox
-title: "Incredibox Hijinks"
-description: "Explore 'Incredibox Hijinks,' the chaotic cartoon-themed fan-made mod. This guide details its zany electronic sound palette, gameplay for creating fun and mischievous tracks, and how to unlock its themed bonuses."
-iframeSrc: "https://turbowarp.org/1027156305/embed"
+title: Incredibox Hijinks
+seoTitle: Play Incredibox Hijinks Online Free | FiddleBops
+description: >-
+  Explore 'Incredibox Hijinks,' the chaotic cartoon-themed fan-made mod. This
+  guide details its zany electronic sound palette, gameplay for creating fun and
+  mischievous tracks, and how to unlock its themed bonuses.
+iframeSrc: 'https://turbowarp.org/1027156305/embed'
 thumbnail: /new-images/thumbnails/incredibox-hijinks.png
-urlstr: "incredibox-hijinks"
-score: "4.7/5 (2250 votes)"
-tags: ["music", "rhythm"]
-developer: ""
-releaseDate: 2025-10-10
+urlstr: incredibox-hijinks
+tags:
+  - music
+  - rhythm
+modType: incredibox
+score: 4.7/5 (2250 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 

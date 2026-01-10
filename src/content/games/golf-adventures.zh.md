@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: golf-adventures
 title: Golf Adventures 高尔夫大冒险
+seoTitle: 免费在线玩 Golf Adventures 高尔夫大冒险 | FiddleBops
 description: 展开一场高尔夫冒险！这是一款基于物理的解谜游戏，你需要精准瞄准与控制力度， 让球在各种创意地形与机关中穿梭，用尽可能少的杆数打进洞。
 iframeSrc: 'https://golfadventures.h5games.usercontent.goog/v/2er1vod6k6p0o/'
 thumbnail: /new-images/thumbnails/golf-adventures.png
+urlstr: golf-adventures
 tags:
   - sports
   - puzzle

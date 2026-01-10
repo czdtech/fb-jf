@@ -1,11 +1,11 @@
 ---
 locale: zh
-urlstr: neon-rider
-title: '霓虹骑士'
-description: >-
-  霓虹骑士提供流畅的摩托车物理跑酷——平衡、油门和干净的翻转以征服霓虹赛道。
+title: 霓虹骑士
+seoTitle: 免费在线玩 霓虹骑士 | FiddleBops
+description: 霓虹骑士提供流畅的摩托车物理跑酷——平衡、油门和干净的翻转以征服霓虹赛道。
 iframeSrc: 'https://1ef80kndi1bv0.h5games.usercontent.goog/v/4glscq8hf3m20/'
 thumbnail: /new-images/thumbnails/neon-rider.png
+urlstr: neon-rider
 tags:
   - bike
   - action

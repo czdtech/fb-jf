@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: santas-quest
 title: 《Santa's Quest》圣诞老人的消除之旅
+seoTitle: 免费在线玩 《Santa's Quest》圣诞老人的消除之旅 | FiddleBops
 description: 《Santa's Quest》是一款节日主题的三消益智游戏。通过交换拼图块完成匹配、收集礼物与糖果，帮助圣诞老人完成他的送礼任务。
 iframeSrc: 'https://santasquest.h5games.usercontent.goog/v/737gsbva7bkqo/'
 thumbnail: /new-images/thumbnails/santas-quest.png
+urlstr: santas-quest
 tags:
   - puzzle
   - match 3

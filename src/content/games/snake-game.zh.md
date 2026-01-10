@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: snake-game
 title: 《Snake Game》经典贪吃蛇
+seoTitle: 免费在线玩 《Snake Game》经典贪吃蛇 | FiddleBops
 description: 《Snake Game》是一款复刻经典的贪吃蛇小游戏。控制蛇在方格中移动，吃掉食物让身体不断变长，同时避免撞到墙壁或自己的身体。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/snake/'
 thumbnail: /new-images/thumbnails/snake-game.jpg
+urlstr: snake-game
 tags:
   - snake
   - classic

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: gin-rummy
 title: Gin Rummy
+seoTitle: Juega a Gin Rummy en línea gratis | FiddleBops
 description: >-
   Juega al clásico juego de cartas Gin Rummy. Forma combinaciones en tu mano,
   "llama" para terminar la ronda y pilla a tu rival con la mano llena de
   deadwood.
 iframeSrc: 'https://ginrummy.h5games.usercontent.goog/v/1sj72j2nsfin0/'
 thumbnail: /new-images/thumbnails/gin-rummy.png
+urlstr: gin-rummy
 tags:
   - card
   - puzzle

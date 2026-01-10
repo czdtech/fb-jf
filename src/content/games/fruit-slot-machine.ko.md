@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: fruit-slot-machine
 title: Fruit Slot Machine 과일 슬롯 머신
+seoTitle: Fruit Slot Machine 과일 슬롯 머신 무료 온라인 플레이 | FiddleBops
 description: '클래식 과일 심볼이 등장하는 3릴 슬롯 머신입니다. 배당표와 라인을 확인하고, 적절한 베팅으로 가볍게 스핀을 즐겨 보세요.'
 iframeSrc: 'https://7f8j0t3m1ptv8.h5games.usercontent.goog/v/33cv74na0lvqg/'
 thumbnail: /new-images/thumbnails/fruit-slot-machine.jpg
+urlstr: fruit-slot-machine
 tags:
   - casual
 score: 3.6/5  (1527 votes)

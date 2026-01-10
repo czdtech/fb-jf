@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: speed-master
 title: Speed Master 스피드 마스터
+seoTitle: Speed Master 스피드 마스터 무료 온라인 플레이 | FiddleBops
 description: >-
   Speed Master는 정확한 타이밍과 집중력을 시험하는 리액션 게임입니다. 화면을 가로지르는 표시가 판정선과 겹치는 순간에 정확히 눌러
   콤보를 이어 가고, 점점 빨라지는 속도 속에서도 침착함을 유지해야 합니다.
 iframeSrc: 'https://6e0ej8ct9hdj8.h5games.usercontent.goog/v/1fssfmqquil18/'
 thumbnail: /new-images/thumbnails/speed-master.png
+urlstr: speed-master
 tags:
   - action
   - casual

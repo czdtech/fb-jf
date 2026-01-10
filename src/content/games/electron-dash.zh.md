@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: electron-dash
 title: Electron Dash 电子隧道跑酷
+seoTitle: 免费在线玩 Electron Dash 电子隧道跑酷 | FiddleBops
 description: Electron Dash 是一款高速隧道跑酷游戏，你要在圆柱与浮空平台上奔跑、跳跃与冲刺， 在越来越快的节奏下尽量跑出最远距离。
 iframeSrc: 'https://slope-game.github.io/electron-dash/'
 thumbnail: /new-images/thumbnails/electron-dash.jpg
+urlstr: electron-dash
 tags:
   - arcade
   - runner

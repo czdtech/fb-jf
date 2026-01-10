@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: baldis-basics
 title: Baldi's Basics
+seoTitle: Spiele Baldi's Basics kostenlos online | FiddleBops
 description: >-
   Ein ausführlicher Guide zu Baldi's Basics, der absurden Schul‑Horror‑Parodie.
   Erfahre, wie du Notizbücher sammelst, Items sinnvoll einsetzt, Baldi und
   andere Figuren ausmanövrierst und aus der Schule entkommst.
 iframeSrc: 'https://html5.iclouds.io/baldis-basics/index.html'
 thumbnail: /new-images/thumbnails/baldis-basics.jpg
+urlstr: baldis-basics
 tags:
   - puzzle
   - horror

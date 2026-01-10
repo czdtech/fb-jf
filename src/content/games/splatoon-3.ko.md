@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: splatoon-3
 title: Splatoon 3 스플래툰 3
+seoTitle: Splatoon 3 스플래툰 3 무료 온라인 플레이 | FiddleBops
 description: >-
   Splatoon 3는 땅을 차지하는 잉크 배틀이 핵심인 팀 기반 슈팅 게임입니다. 잉크를 쏘고, 오징어 형태로 잉크 속을 헤엄치며 맵을 칠해
   더 넓은 구역을 점령하는 팀이 승리합니다.
 iframeSrc: 'https://bitlifeonline.github.io/splatoon-3/'
 thumbnail: /new-images/thumbnails/splatoon-3.jpg
+urlstr: splatoon-3
 tags:
   - action
   - shooting

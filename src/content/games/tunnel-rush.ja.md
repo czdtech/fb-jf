@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Tunnel Rush
+seoTitle: 無料でTunnel Rushをオンラインでプレイ | FiddleBops
 description: Tunnel Rushは、高速トンネルラッシュゲームです。障害物を避けてトンネルを駆け抜けましょう。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/gamehwq/20230830/12a/index.html
 thumbnail: /new-images/thumbnails/tunnel-rush.jpg
 urlstr: tunnel-rush
-score: 4.6/5  (919 votes)
 tags:
   - arcade
   - endless
   - speed
-locale: ja
+score: 4.6/5  (919 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

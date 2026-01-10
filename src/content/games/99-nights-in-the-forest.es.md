@@ -1,7 +1,9 @@
 ---
 locale: es
-urlstr: 99-nights-in-the-forest
-title: "99 Nights in the Forest juego de terror y supervivencia"
+title: 99 Nights in the Forest juego de terror y supervivencia
+seoTitle: >-
+  Juega a 99 Nights in the Forest juego de terror y supervivencia en línea
+  gratis | FiddleBops
 description: >-
   99 Nights in the Forest es un juego de terror y supervivencia en primera
   persona centrado en la gestión de recursos y la defensa de una cabaña. Explora
@@ -9,6 +11,7 @@ description: >-
   oscuridad.
 iframeSrc: 'https://st.8games.net/7/8g/igra-99-nochej-v-lesu-101-original/'
 thumbnail: /new-images/thumbnails/99-nights-in-the-forest.webp
+urlstr: 99-nights-in-the-forest
 tags:
   - horror
   - survival

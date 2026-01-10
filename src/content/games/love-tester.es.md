@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: love-tester
-title: Love Tester - Test de compatibilidad amorosa
+title: Love Tester
+seoTitle: Juega a Love Tester en línea gratis | FiddleBops
 description: >-
   Novedad divertida: escribe dos nombres y obtén un porcentaje de compatibilidad
   amorosa lleno de humor. No es científico ni serio, está pensado solo para
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://games.cdn.famobi.com/html5games/l/love-tester/v030/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=24cb4711-7c74-4831-8b1c-678985959174&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=176&original_ref=
 thumbnail: /new-images/thumbnails/love-tester.jpg
+urlstr: love-tester
 tags:
   - casual
   - novelty

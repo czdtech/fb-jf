@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: block-blaster-puzzle
 title: Block Blaster Puzzle 블록 블래스터 퍼즐
+seoTitle: Block Blaster Puzzle 블록 블래스터 퍼즐 무료 온라인 플레이 | FiddleBops
 description: >-
   다양한 블록 조각을 보드에 배치해 줄을 지우는 퍼즐 게임입니다. 난해한 조각을 위한 공간을 남겨 두고, 여러 줄을 한 번에 지우는 연쇄를
   노려 보세요.
 iframeSrc: 'https://0nrdbfos8jhv8.h5games.usercontent.goog/v/6ovao2cpe86og/'
 thumbnail: /new-images/thumbnails/block-blaster-puzzle.png
+urlstr: block-blaster-puzzle
 tags:
   - puzzle
   - thinky

@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Medieval Solitaire
+seoTitle: 無料でMedieval Solitaireをオンラインでプレイ | FiddleBops
 description: 中世風テーマのソリティア（クロンダイク）です。カードを並べ替えながら基礎を完成させ、盤面をクリアします。
 iframeSrc: 'https://7se96a0j4qu80.h5games.usercontent.goog/v/1iv1d4soimc78/'
 thumbnail: /new-images/thumbnails/medieval-solitaire.png
 urlstr: medieval-solitaire
-score: 4.4/5  (1560 votes)
 tags:
   - card
   - solitaire
   - casual
+score: 4.4/5  (1560 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

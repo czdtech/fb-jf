@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: blockdrop
 title: BlockDrop 블록드롭
+seoTitle: BlockDrop 블록드롭 무료 온라인 플레이 | FiddleBops
 description: >-
   10×10 격자 위에 블록을 배치해 줄을 지우는 클래식 퍼즐 게임입니다. 시간 제한 없이 세 블록을 어떻게 놓을지 고민하며 최고 점수를 노려
   보세요.
 iframeSrc: 'https://51vi4vae20f8o.h5games.usercontent.goog/v/66bqinuuh36b8/'
 thumbnail: /new-images/thumbnails/blockdrop.png
+urlstr: blockdrop
 tags:
   - puzzle
   - thinky

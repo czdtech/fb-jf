@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: incredibox-kochari
 title: Incredibox Kochari
+seoTitle: Spiele Incredibox Kochari kostenlos online | FiddleBops
 description: >-
   Incredibox Kochari ist ein Fan-Mod, der klassisches Incredibox-Gameplay mit
   der lebendigen Kultur des armenischen Volkstanzes Kochari verbindet. Erstelle
   einzigartige Beats mit traditionellen Rhythmen und Klängen.
 iframeSrc: 'https://turbowarp.org/718091148/embed'
 thumbnail: /new-images/thumbnails/incredibox-kochari.png
+urlstr: incredibox-kochari
 tags:
   - music
   - cultural

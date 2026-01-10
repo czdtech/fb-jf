@@ -1,10 +1,14 @@
 ---
 locale: de
-urlstr: treasure-hunter
-title: "Treasure Hunter"
-description: "Begib dich in Treasure Hunter auf eine Schatzsuche: Erforsche Ruinen, Höhlen und Dschungel, sammle legendäre Artefakte ein und überlebe Fallen sowie Rivalen auf deinem Weg zum großen Fund."
+title: Treasure Hunter
+seoTitle: Spiele Treasure Hunter kostenlos online | FiddleBops
+description: >-
+  Begib dich in Treasure Hunter auf eine Schatzsuche: Erforsche Ruinen, Höhlen
+  und Dschungel, sammle legendäre Artefakte ein und überlebe Fallen sowie
+  Rivalen auf deinem Weg zum großen Fund.
 iframeSrc: 'https://m.igroutka.ru/g-1/149/TreasureHunter/'
 thumbnail: /new-images/thumbnails/treasure-hunter.jpg
+urlstr: treasure-hunter
 tags:
   - adventure
   - exploration

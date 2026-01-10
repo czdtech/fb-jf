@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: incredibox-melophobia
-title: "Incredibox Melophobia - 在线玩 Incredibox Melophobia"
-description: "Incredibox Melophobia 本指南详细介绍了其折衷的音色调色板，包括芯片音乐和奇怪的采样，并提供解锁其奇异动画奖励的技巧。"
+title: Incredibox Melophobia
+seoTitle: 免费在线玩 Incredibox Melophobia | FiddleBops
+description: Incredibox Melophobia 本指南详细介绍了其折衷的音色调色板，包括芯片音乐和奇怪的采样，并提供解锁其奇异动画奖励的技巧。
 iframeSrc: 'https://turbowarp.org/1110167821/embed'
 thumbnail: /new-images/thumbnails/incredibox-melophobia.png
+urlstr: incredibox-melophobia
 tags:
   - music
   - rhythm

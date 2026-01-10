@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: ragdoll-archers
 title: Ragdoll Archers
+seoTitle: Spiele Ragdoll Archers kostenlos online | FiddleBops
 description: >-
   Ragdoll Archers ist ein physikbasiertes Bogenschießspiel, in dem du wackelige
   Ragdoll-Bogenschützen steuerst, Pfeile auf Gegner feuern lässt und dank
   schräger Physik jede Runde chaotisch und lustig verläuft.
 iframeSrc: 'https://bitlifeonline.github.io/ragdoll-archers/'
 thumbnail: /new-images/thumbnails/ragdoll-archers.jpg
+urlstr: ragdoll-archers
 tags:
   - physics
   - archery

@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: TNT Bomb
+seoTitle: 無料でTNT Bombをオンラインでプレイ | FiddleBops
 description: TNT Bombは、爆弾パズルゲームです。TNTを配置して建物を爆破しましょう。
 iframeSrc: >-
   https://tntbomb.h5games.usercontent.goog/v/78fb3628-2b9a-4ddc-86ef-7c46021357a2/
 thumbnail: /new-images/thumbnails/tnt-bomb.jpg
 urlstr: tnt-bomb
-score: 4.3/5  (2200 votes)
 tags:
   - puzzle
   - physics
   - destruction
-locale: ja
+score: 4.3/5  (2200 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 

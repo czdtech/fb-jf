@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: blocks-puzzle
 title: Blocks Puzzle 블록 퍼즐
+seoTitle: Blocks Puzzle 블록 퍼즐 무료 온라인 플레이 | FiddleBops
 description: Blocks Puzzle는 10x10 격자에 다양한 모양의 블록을 끼워 넣으며 높은 점수를 노리는 고전 퍼즐 게임입니다.
 iframeSrc: 'https://6ljls661l4lkg.h5games.usercontent.goog/v/1mil2011qbul0/'
 thumbnail: /new-images/thumbnails/blocks-puzzle.jpg
+urlstr: blocks-puzzle
 tags:
   - puzzle
   - casual

@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: big-shot-boxing
 title: Big Shot Boxing
+seoTitle: Jouez à Big Shot Boxing en ligne gratuitement | FiddleBops
 description: >-
   Big Shot Boxing est un jeu de boxe arcade rétro : entraîne ton boxeur, grimpe
   dans le classement et utilise des contrôles simples mais techniques pour
   devenir champion du monde.
 iframeSrc: 'https://rebemanae.github.io/big-shot-boxing/'
 thumbnail: /new-images/thumbnails/big-shot-boxing.jpg
+urlstr: big-shot-boxing
 tags:
   - sports
   - action

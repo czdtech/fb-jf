@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: candy-bubbles
 title: Candy Bubbles
+seoTitle: Jouez à Candy Bubbles en ligne gratuitement | FiddleBops
 description: >-
   Plonge dans un monde de bonbons colorés et fais éclater des bulles sucrées.
   Vise avec ton canon, aligne au moins trois bulles de la même couleur et
   nettoie le tableau dans ce jeu de tir de bulles aussi relaxant que malin.
 iframeSrc: 'https://candybubbles.h5games.usercontent.goog/v/370v1t5h5266g/'
 thumbnail: /new-images/thumbnails/candy-bubbles.png
+urlstr: candy-bubbles
 tags:
   - shooting
   - puzzle

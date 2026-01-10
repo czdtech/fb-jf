@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Shootz
+seoTitle: 無料でShootzをオンラインでプレイ | FiddleBops
 description: Shootzはターゲットを素早く撃つシューティングです。反射神経と正確さでスコアを伸ばします。
 iframeSrc: 'https://g.igroutka.ru/games/17/9IsudOxakgP0EVKC/shootz/'
 thumbnail: /new-images/thumbnails/shootz.jpg
 urlstr: shootz
-score: 3.7/5  (1015 votes)
 tags:
   - action
   - casual
+score: 3.7/5  (1015 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: mahjong-titans
 title: Mahjong Titans
+seoTitle: Spiele Mahjong Titans kostenlos online | FiddleBops
 description: >-
   Kachel-Matching-Solitaire: Räume identische Paare aus geschichteten Layouts,
   bis das Brett leer ist – und plane deine Züge so, dass du Blockaden
   vermeidest.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/mahjong-titans.html'
 thumbnail: /new-images/thumbnails/mahjong-titans.jpg
+urlstr: mahjong-titans
 tags:
   - puzzle
   - mahjong

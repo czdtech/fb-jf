@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Paper.io
+seoTitle: 無料でPaper.ioをオンラインでプレイ | FiddleBops
 description: Paper.ioは領土征服ゲームです。エリアを主張し、対戦相手を避け、ボードを支配し、戦略的に拡大します。
 iframeSrc: 'https://mathgames66.github.io/games/html5/paperio2/'
 thumbnail: /new-images/thumbnails/paper-io.jpg
 urlstr: paper-io
-score: 4.2/5  (496 votes)
 tags:
   - action
   - 2 player
   - casual
+score: 4.2/5  (496 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

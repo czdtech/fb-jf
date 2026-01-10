@@ -1,12 +1,11 @@
 ---
 locale: ko
-urlstr: addiction-mini
-title: 'Addiction Mini 애딕션 미니'
-description: >-
-  카드 숫자를 순서대로 배열해 줄을 정리하는 솔리테어류 퍼즐 게임입니다.
-  빈 칸을 만들고, 수 순서를 맞춰가며 몇 수 앞까지 내다보세요.
+title: Addiction Mini 애딕션 미니
+seoTitle: Addiction Mini 애딕션 미니 무료 온라인 플레이 | FiddleBops
+description: '카드 숫자를 순서대로 배열해 줄을 정리하는 솔리테어류 퍼즐 게임입니다. 빈 칸을 만들고, 수 순서를 맞춰가며 몇 수 앞까지 내다보세요.'
 iframeSrc: 'https://0lk0u0jb90plo.h5games.usercontent.goog/v/2rppmab9dqneo/'
 thumbnail: /new-images/thumbnails/addiction-mini.jpg
+urlstr: addiction-mini
 tags:
   - card
   - puzzle

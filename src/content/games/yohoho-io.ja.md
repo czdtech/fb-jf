@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Yohoho.io
+seoTitle: 無料でYohoho.ioをオンラインでプレイ | FiddleBops
 description: Yohoho.ioは、海賊バトルロイヤルゲームです。他の海賊と戦って最後の一人になりましょう。
 iframeSrc: 'https://bitlifeonline.github.io/class16523/yohoho-io/'
 thumbnail: /new-images/thumbnails/yohoho-io.jpg
 urlstr: yohoho-io
-score: 5.0/5  (316 votes)
 tags:
   - io
   - battle royale
   - pirate
-locale: ja
+score: 5.0/5  (316 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

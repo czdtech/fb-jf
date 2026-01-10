@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: battleships-armada
 title: Battleships Armada
+seoTitle: Jouez à Battleships Armada en ligne gratuitement | FiddleBops
 description: >-
   Version numérique de la bataille navale : place intelligemment ta flotte,
   applique un motif de tir et coule tous les navires adverses.
 iframeSrc: 'https://3hcluun64uid0.h5games.usercontent.goog/v/0op00pgc2n4kg/'
 thumbnail: /new-images/thumbnails/battleships-armada.png
+urlstr: battleships-armada
 tags:
   - puzzle
   - strategy

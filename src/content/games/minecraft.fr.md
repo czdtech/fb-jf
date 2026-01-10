@@ -1,7 +1,7 @@
 ---
 locale: fr
-urlstr: minecraft
 title: Minecraft
+seoTitle: Jouez à Minecraft en ligne gratuitement | FiddleBops
 description: >-
   Minecraft est un jeu vidéo sandbox où tu explores un monde 3D cubique, extrais
   des ressources, fabriques des outils, construis des structures et crées toutes
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://app-167027.games.s3.yandex.net/167027/tnn3wq0qkjwhvr1271tszdhl82lm97e6/index.html
 thumbnail: /new-images/thumbnails/minecraft.jpg
+urlstr: minecraft
 tags:
   - sandbox
   - survival

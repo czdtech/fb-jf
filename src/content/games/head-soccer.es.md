@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: head-soccer
 title: Head Soccer
+seoTitle: Juega a Head Soccer en línea gratis | FiddleBops
 description: >-
   Fútbol arcade 1v1 con cabezas gigantes: salta, chuta y usa tiros especiales
   para marcar más goles que tu rival en partidos cortos.
 iframeSrc: 'https://1games.io/game/head-soccer-2024/'
 thumbnail: /new-images/thumbnails/head-soccer.jpg
+urlstr: head-soccer
 tags:
   - sports
   - soccer

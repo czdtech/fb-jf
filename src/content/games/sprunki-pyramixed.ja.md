@@ -1,13 +1,16 @@
 ---
-title: "Sprunki Pyramixed 0.9 - Play Sprunki Pyramixed 0.9 Online"
-description: "Sprunki Pyramixed 0.9は音を重ねて曲を作る音楽制作ゲームです。リズムの高揚感とキャラクターカスタマイズを両立して遊べます。"
-iframeSrc: "https://turbowarp.org/1144118565/embed"
-thumbnail: /new-images/thumbnails/sprunki-pyramixed.png
-urlstr: "sprunki-pyramixed"
-score: "4.7/5  (455 votes)"
-tags: ["sprunki pyramixed 0.9", "sprunki pyramixed 0.9 online"]
 locale: ja
-releaseDate: 2025-12-04
+title: Sprunki Pyramixed 0.9
+seoTitle: 無料でSprunki Pyramixed 0.9をオンラインでプレイ | FiddleBops
+description: Sprunki Pyramixed 0.9は音を重ねて曲を作る音楽制作ゲームです。リズムの高揚感とキャラクターカスタマイズを両立して遊べます。
+iframeSrc: 'https://turbowarp.org/1144118565/embed'
+thumbnail: /new-images/thumbnails/sprunki-pyramixed.png
+urlstr: sprunki-pyramixed
+tags:
+  - sprunki pyramixed 0.9
+  - sprunki pyramixed 0.9 online
+score: 4.7/5  (455 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

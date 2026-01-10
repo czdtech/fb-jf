@@ -1,13 +1,13 @@
 ---
 locale: zh
-urlstr: whack-your-boss
-title: 'Whack Your Boss：发泄办公室怒火的黑色幽默小游戏'
+title: Whack Your Boss：发泄办公室怒火的黑色幽默小游戏
+seoTitle: 免费在线玩 Whack Your Boss：发泄办公室怒火的黑色幽默小游戏 | FiddleBops
 description: >-
   在《Whack Your Boss》中，用极端夸张、卡通化的方式发泄对烦人上司的郁闷。
-  点击办公室里的各种物品，解锁十几种离谱又好笑的“收拾老板”的动画场景，
-  纯属黑色幽默与减压娱乐。
+  点击办公室里的各种物品，解锁十几种离谱又好笑的“收拾老板”的动画场景， 纯属黑色幽默与减压娱乐。
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/whack-your-boss-24-ways.html'
 thumbnail: /new-images/thumbnails/whack-your-boss.jpg
+urlstr: whack-your-boss
 tags:
   - interactive
   - funny

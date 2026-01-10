@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: jungle-match-puzzle
 title: 《Jungle Match Puzzle》丛林宝石消除
+seoTitle: 免费在线玩 《Jungle Match Puzzle》丛林宝石消除 | FiddleBops
 description: >-
   《Jungle Match
   Puzzle》是一款节奏活跃的丛林主题三消游戏，你要在藤蔓、木箱和粘连地块之间清除障碍、连锁道具，在紧张的步数限制下完成场景目标。
 iframeSrc: 'https://2sf7n68mggti0.h5games.usercontent.goog/v/2mk31nh92a0og/'
 thumbnail: /new-images/thumbnails/jungle-match-puzzle.png
+urlstr: jungle-match-puzzle
 tags:
   - puzzle
   - casual

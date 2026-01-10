@@ -1,13 +1,15 @@
 ---
-title: "Sprunki Interactive BETA - Play Sprunki Interactive BETA Online"
-description: "Sprunki Interactive BETAはキャラクターが動き回り、相互作用で音が変わる実験的なSprunkiです。予測しにくい展開を楽しめます。"
-iframeSrc: "https://turbowarp.org/1090663998/embed"
-thumbnail: /new-images/thumbnails/sprunki-interactive-beta.png
-urlstr: "sprunki-interactive-beta"
-score: "4.0/5  (407 votes)"
-tags: ["sprunki interactive beta"]
 locale: ja
-releaseDate: 2025-12-04
+title: Sprunki Interactive BETA
+seoTitle: 無料でSprunki Interactive BETAをオンラインでプレイ | FiddleBops
+description: Sprunki Interactive BETAはキャラクターが動き回り、相互作用で音が変わる実験的なSprunkiです。予測しにくい展開を楽しめます。
+iframeSrc: 'https://turbowarp.org/1090663998/embed'
+thumbnail: /new-images/thumbnails/sprunki-interactive-beta.png
+urlstr: sprunki-interactive-beta
+tags:
+  - sprunki interactive beta
+score: 4.0/5  (407 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Interactive BETAとは何ですか？

@@ -1,12 +1,15 @@
 ---
 locale: es
-urlstr: basket-champ
 title: Basket Champ reto de encestar con un toque
+seoTitle: >-
+  Juega a Basket Champ reto de encestar con un toque en línea gratis |
+  FiddleBops
 description: >-
   Basket Champ es un juego minimalista de baloncesto a un toque. Ajusta la
   parábola, encesta limpio y encadena tiros perfectos para subir tu marcador.
 iframeSrc: 'https://0outkmbudufj8.h5games.usercontent.goog/v/1stcrgq2b9d08/'
 thumbnail: /new-images/thumbnails/basket-champ.png
+urlstr: basket-champ
 tags:
   - sports
   - basketball

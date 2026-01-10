@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: bad-time-simulator
 title: Bad Time Simulator 坏时间模拟器
+seoTitle: 免费在线玩 Bad Time Simulator 坏时间模拟器 | FiddleBops
 description: >-
   《Bad Time Simulator（坏时间模拟器）》是一款粉丝自制浏览器游戏，完整复刻了《Undertale》屠杀路线中与 Sans
   的高难度最终战，下面是关于玩法策略、操作与常见问题的详细说明。
 iframeSrc: 'https://gotoanddie.github.io/c2-sans-fight/'
 thumbnail: /new-images/thumbnails/bad-time-simulator.jpg
+urlstr: bad-time-simulator
 tags:
   - casual
   - rhythm

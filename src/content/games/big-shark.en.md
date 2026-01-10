@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Big Shark"
-description: "A guide to the action-survival game Big Shark. Learn how to eat, grow, avoid dangers like bigger sharks and mines, and achieve the highest score in the ocean."
-iframeSrc: "https://g2.igroutka.ru/lib/crazy/games/big-shark/"
+title: Big Shark
+seoTitle: Play Big Shark Online Free | FiddleBops
+description: >-
+  A guide to the action-survival game Big Shark. Learn how to eat, grow, avoid
+  dangers like bigger sharks and mines, and achieve the highest score in the
+  ocean.
+iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/big-shark/'
 thumbnail: /new-images/thumbnails/big-shark.jpg
-urlstr: "big-shark"
-score: "4.0/5  (372 votes)"
-tags: ["casual", "action"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: big-shark
+tags:
+  - casual
+  - action
+score: 4.0/5  (372 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

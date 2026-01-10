@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Funny Shooter 2
+seoTitle: 無料でFunny Shooter 2をオンラインでプレイ | FiddleBops
 description: ウェーブベースのFPS：奇妙な敵の集団を拡大し続ける武器で爆破し、コインを稼ぎ、ステージ間で武器をアップグレードしましょう。
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter-2/'
 thumbnail: /new-images/thumbnails/funny-shooter-2.jpg
 urlstr: funny-shooter-2
-score: 3.8/5  (514 votes)
 tags:
   - shooting
   - fps
+score: 3.8/5  (514 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

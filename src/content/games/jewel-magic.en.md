@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Jewel Magic"
-description: "Unleash the magic of gems in Jewel Magic, a classic match-3 puzzle game. Match sparkling jewels, create powerful combos, and clear challenging levels in this enchanting adventure."
-iframeSrc: "https://jewelmagic.h5games.usercontent.goog/v/55vd8l21hn1q8/"
+title: Jewel Magic
+seoTitle: Play Jewel Magic Online Free | FiddleBops
+description: >-
+  Unleash the magic of gems in Jewel Magic, a classic match-3 puzzle game. Match
+  sparkling jewels, create powerful combos, and clear challenging levels in this
+  enchanting adventure.
+iframeSrc: 'https://jewelmagic.h5games.usercontent.goog/v/55vd8l21hn1q8/'
 thumbnail: /new-images/thumbnails/jewel-magic.png
-urlstr: "jewel-magic"
-score: "4.4/5  (2150 votes)"
-tags: ["puzzle", "casual", "action"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: jewel-magic
+tags:
+  - puzzle
+  - casual
+  - action
+score: 4.4/5  (2150 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

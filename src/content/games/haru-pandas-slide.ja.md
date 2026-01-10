@@ -1,19 +1,20 @@
 ---
+locale: ja
 title: Haru Pandas Slide
+seoTitle: 無料でHaru Pandas Slideをオンラインでプレイ | FiddleBops
 description: >-
   Haru Pandas
   Slideは癒やしのスライドパズルです。タイルをスライドさせて愛らしいパンダの写真を完成させましょう。最小限の手数と論理的思考でクリアを目指します。
 iframeSrc: 'https://0vc1kolll32h8.h5games.usercontent.goog/v/0t898ulinrkag/'
 thumbnail: /new-images/thumbnails/haru-pandas-slide.png
 urlstr: haru-pandas-slide
-score: 4.1/5  (1953 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.1/5  (1953 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

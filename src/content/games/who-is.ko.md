@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: who-is
 title: Who Is? Game 후 이즈 게임
+seoTitle: Who Is? Game 후 이즈 게임 무료 온라인 플레이 | FiddleBops
 description: >-
   수상한 사람을 가려내고 숨겨진 단서를 찾는 추리 퍼즐 게임입니다. 기발한 수수께끼와 상황 문제를 풀며, 화면 곳곳의 힌트를 조합해 진짜
   범인과 임포스터를 밝혀내 보세요.
 iframeSrc: 'https://rebemanae.github.io/who-is/'
 thumbnail: /new-images/thumbnails/who-is.jpg
+urlstr: who-is
 tags:
   - puzzle
   - riddle

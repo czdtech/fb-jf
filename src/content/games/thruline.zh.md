@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: thruline
 title: 《Thruline》单线连网谜题
+seoTitle: 免费在线玩 《Thruline》单线连网谜题 | FiddleBops
 description: 《Thruline》是一款极简风格的连线解谜游戏。你需要画出一条连续不断的路径，按规则经过所有必要节点，同时满足转弯与覆盖限制。
 iframeSrc: 'https://4bl9sdeaqndto.h5games.usercontent.goog/v/4qierjmnf0kng/'
 thumbnail: /new-images/thumbnails/thruline.jpg
+urlstr: thruline
 tags:
   - puzzle
   - thinky

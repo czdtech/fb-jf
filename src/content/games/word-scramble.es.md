@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: word-scramble
-title: Word Scramble - Desordena y descubre la palabra
+title: Word Scramble
+seoTitle: Juega a Word Scramble en línea gratis | FiddleBops
 description: >-
   Ordena letras descolocadas y pon a prueba tu mente en Word Scramble, un
   clásico puzle de palabras. Recoloca las letras para formar la palabra correcta
   antes de que se acabe el tiempo y demuestra tu vocabulario y rapidez mental.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/word-scramble/'
 thumbnail: /new-images/thumbnails/word-scramble.jpg
+urlstr: word-scramble
 tags:
   - word-game
   - puzzle

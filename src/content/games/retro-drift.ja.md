@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Retro Drift
+seoTitle: 無料でRetro Driftをオンラインでプレイ | FiddleBops
 description: Retro Driftはレトロ風のドリフトレースです。コーナーでドリフトしてポイントを稼ぎ、トラックの走り方に慣れていきます。
 iframeSrc: 'https://retrodrift.h5games.usercontent.goog/v/3jr7fjtqu0j18/'
 thumbnail: /new-images/thumbnails/retro-drift.jpg
 urlstr: retro-drift
-score: 3.7/5  (1338 votes)
 tags:
   - racing
   - casual
+score: 3.7/5  (1338 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

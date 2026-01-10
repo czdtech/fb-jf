@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: 3d-football-mania
 title: 3D Football Mania juego de fútbol 3D
+seoTitle: Juega a 3D Football Mania juego de fútbol 3D en línea gratis | FiddleBops
 description: >-
   3D Football Mania condensa la esencia del fútbol en pequeños retos. Lee el
   movimiento de los defensas, elige el pase correcto y remata con buen
   sincronizado para batir al portero.
 iframeSrc: 'https://0iadidf74ef9o.h5games.usercontent.goog/v/4cmv5jsv0n25g/'
 thumbnail: /new-images/thumbnails/3d-football-mania.png
+urlstr: 3d-football-mania
 tags:
   - sports
   - soccer

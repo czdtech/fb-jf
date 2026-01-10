@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: kitty-scramble
 title: 《Kitty Scramble》喵喵找单词
+seoTitle: 免费在线玩 《Kitty Scramble》喵喵找单词 | FiddleBops
 description: 《Kitty Scramble》是一款温馨的英文单词寻字游戏，在各类主题字母盘中滑动连线，找出指定单词并用模式识别清空棋盘。
 iframeSrc: 'https://6cifr142haig8.h5games.usercontent.goog/v/1c963avg5lo9g/'
 thumbnail: /new-images/thumbnails/kitty-scramble.png
+urlstr: kitty-scramble
 tags:
   - puzzle
   - thinky

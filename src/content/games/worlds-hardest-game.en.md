@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "World's Hardest Game"
-description: "World's Hardest Game is an extremely challenging arcade game where players control a red square to navigate through levels filled with moving blue circles, requiring precise timing and patience to avoid obstacles and reach the goal."
-iframeSrc: "https://ad-freegames.github.io/flash/game/the-worlds-hardest-game.html"
+title: World's Hardest Game
+seoTitle: Play World's Hardest Game Online Free | FiddleBops
+description: >-
+  World's Hardest Game is an extremely challenging arcade game where players
+  control a red square to navigate through levels filled with moving blue
+  circles, requiring precise timing and patience to avoid obstacles and reach
+  the goal.
+iframeSrc: 'https://ad-freegames.github.io/flash/game/the-worlds-hardest-game.html'
 thumbnail: /new-images/thumbnails/worlds-hardest-game.jpg
-urlstr: "worlds-hardest-game"
-score: "4.9/5  (1070 votes)"
-tags: ["difficulty", "arcade", "precision"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: worlds-hardest-game
+tags:
+  - difficulty
+  - arcade
+  - precision
+score: 4.9/5  (1070 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

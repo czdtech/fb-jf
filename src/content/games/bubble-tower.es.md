@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: bubble-tower
 title: Bubble Tower 3D
+seoTitle: Juega a Bubble Tower 3D en línea gratis | FiddleBops
 description: >-
   Enfréntate a una nueva dimensión del clásico juego de disparar burbujas en
   Bubble Tower 3D. Gira la torre, apunta tus disparos y combina tres o más
@@ -9,6 +9,7 @@ description: >-
   parte inferior.
 iframeSrc: 'https://bubbletower.h5games.usercontent.goog/v/7ebcukaef3voo/'
 thumbnail: /new-images/thumbnails/bubble-tower.png
+urlstr: bubble-tower
 tags:
   - puzzle
   - shooting

@@ -1,7 +1,7 @@
 ---
 locale: fr
-urlstr: endless-lake
 title: Endless Lake
+seoTitle: Jouez à Endless Lake en ligne gratuitement | FiddleBops
 description: >-
   Jusqu'où peux-tu courir ? Mets tes réflexes à l'épreuve dans ce runner
   minimaliste sans fin. Appuie pour sauter, puis appuie une seconde fois en
@@ -9,6 +9,7 @@ description: >-
   d'Endless Lake.
 iframeSrc: 'https://3llnkqqmic17g.h5games.usercontent.goog/v/0e8uaqritcs8o/'
 thumbnail: /new-images/thumbnails/endless-lake.png
+urlstr: endless-lake
 tags:
   - action
   - casual

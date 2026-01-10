@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Head Soccer"
-description: "1v1 arcade football with giant heads: jump, shoot, and use power shots to outscore your opponent in short matches." 
-iframeSrc: "https://1games.io/game/head-soccer-2024/"
+title: Head Soccer
+seoTitle: Play Head Soccer Online Free | FiddleBops
+description: >-
+  1v1 arcade football with giant heads: jump, shoot, and use power shots to
+  outscore your opponent in short matches.
+iframeSrc: 'https://1games.io/game/head-soccer-2024/'
 thumbnail: /new-images/thumbnails/head-soccer.jpg
-urlstr: "head-soccer"
-score: "3.9/5  (540 votes)"
-tags: ["sports", "soccer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: head-soccer
+tags:
+  - sports
+  - soccer
+score: 3.9/5  (540 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

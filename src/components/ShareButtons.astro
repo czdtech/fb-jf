@@ -1,4 +1,6 @@
 ---
+import Icon from './Icon.astro';
+
 interface Props {
   url: string;
   title: string;
@@ -16,49 +18,49 @@ const links = [
   {
     id: 'x',
     label: 'X',
-    iconClass: 'fa-brands fa-twitter',
+    icon: 'twitter',
     href: `https://twitter.com/intent/tweet?text=${encodedTitle}&url=${encodedUrl}`,
   },
   {
     id: 'facebook',
     label: 'Facebook',
-    iconClass: 'fa-brands fa-facebook',
+    icon: 'facebook',
     href: `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`,
   },
   {
     id: 'reddit',
     label: 'Reddit',
-    iconClass: 'fa-brands fa-reddit-alien',
+    icon: 'reddit',
     href: `https://www.reddit.com/submit?url=${encodedUrl}&title=${encodedTitle}`,
   },
   {
     id: 'whatsapp',
     label: 'WhatsApp',
-    iconClass: 'fa-brands fa-whatsapp',
+    icon: 'whatsapp',
     href: `https://wa.me/?text=${encodedText}`,
   },
   {
     id: 'telegram',
     label: 'Telegram',
-    iconClass: 'fa-brands fa-telegram',
+    icon: 'telegram',
     href: `https://t.me/share/url?url=${encodedUrl}&text=${encodedTitle}`,
   },
   {
     id: 'linkedin',
     label: 'LinkedIn',
-    iconClass: 'fa-brands fa-linkedin',
+    icon: 'linkedin',
     href: `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`,
   },
   {
     id: 'pinterest',
     label: 'Pinterest',
-    iconClass: 'fa-brands fa-pinterest',
+    icon: 'pinterest',
     href: `https://pinterest.com/pin/create/button/?url=${encodedUrl}&description=${encodedTitle}`,
   },
   {
     id: 'email',
     label: 'Email',
-    iconClass: 'fa-solid fa-envelope',
+    icon: 'envelope',
     href: `mailto:?subject=${encodedTitle}&body=${encodedEmailBody}`,
   },
 ] as const;
@@ -71,7 +73,7 @@ const links = [
   data-share-title={title}
 >
   <summary class="share-toggle" aria-label="Share">
-    <i class="fa-solid fa-share" aria-hidden="true"></i>
+    <Icon name="share" size={16} />
     <span class="share-toggle-text">Share</span>
   </summary>
 
@@ -90,7 +92,7 @@ const links = [
           rel="noopener noreferrer nofollow"
           aria-label={`Share on ${link.label}`}
         >
-          <i class={link.iconClass} aria-hidden="true"></i>
+          <Icon name={link.icon} size={16} />
           <span class="share-link-text">{link.label}</span>
         </a>
       ))}
@@ -289,4 +291,3 @@ const links = [
     }
   }
 </style>
-

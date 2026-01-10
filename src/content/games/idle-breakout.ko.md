@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: idle-breakout
 title: Idle Breakout 방치형 브릭 브레이커
+seoTitle: Idle Breakout 방치형 브릭 브레이커 무료 온라인 플레이 | FiddleBops
 description: >-
   벽돌깨기와 방치형 인크리멘탈이 결합된 게임입니다. 클릭으로 벽돌을 깨며 공과 포탑을 구매해 자동 공격을 늘리고, 프레스티지로 배수를 쌓아
   다음 플레이를 더 빠르게 진행하세요.
 iframeSrc: 'https://ubg98.github.io/IdleBreakout/'
 thumbnail: /new-images/thumbnails/idle-breakout.jpg
+urlstr: idle-breakout
 tags:
   - idle
   - clicker

@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Battleships Armada"
-description: "The classic naval combat game! Strategically place your fleet of ships on the grid and fire at your opponent's grid to find and sink their entire armada before they sink yours."
-iframeSrc: "https://3hcluun64uid0.h5games.usercontent.goog/v/0op00pgc2n4kg/"
+title: Battleships Armada
+seoTitle: Play Battleships Armada Online Free | FiddleBops
+description: >-
+  The classic naval combat game! Strategically place your fleet of ships on the
+  grid and fire at your opponent's grid to find and sink their entire armada
+  before they sink yours.
+iframeSrc: 'https://3hcluun64uid0.h5games.usercontent.goog/v/0op00pgc2n4kg/'
 thumbnail: /new-images/thumbnails/battleships-armada.png
-urlstr: "battleships-armada"
-score: "4.5/5  (2900 votes)"
-tags: ["puzzle", "strategy", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: battleships-armada
+tags:
+  - puzzle
+  - strategy
+  - thinky
+score: 4.5/5  (2900 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

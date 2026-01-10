@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: smarty-bubbles-2
 title: Smarty Bubbles 2 스마티 버블 2
+seoTitle: Smarty Bubbles 2 스마티 버블 2 무료 온라인 플레이 | FiddleBops
 description: >-
   클래식 버블 슈터가 더욱 많은 스테이지와 깔끔한 그래픽으로 돌아온 후속작입니다. 색색의 버블을 조준해 3개 이상 맞추고, 새 줄이 내려오기
   전에 보드를 정리해 보세요.
 iframeSrc: 'https://smartybubbles2.h5games.usercontent.goog/v/1u280qojm9oq0/'
 thumbnail: /new-images/thumbnails/smarty-bubbles-2.png
+urlstr: smarty-bubbles-2
 tags:
   - shooting
   - puzzle

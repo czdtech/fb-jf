@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Mahjongg Candy
+seoTitle: 無料でMahjongg Candyをオンラインでプレイ | FiddleBops
 description: Mahjongg Candyはキャンディテーマの麻雀ソリティアです。タイルをペアで消し、ボーナスを狙いながら盤面をクリアします。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-candy-mahjongg/'
 thumbnail: /new-images/thumbnails/mahjongg-candy.jpg
 urlstr: mahjongg-candy
-score: 4.8/5  (1096 votes)
 tags:
   - puzzle
   - casual
+score: 4.8/5  (1096 votes)
 developer: ''
-releaseDate: 2025-08-16
-locale: ja
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

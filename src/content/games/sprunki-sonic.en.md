@@ -1,6 +1,7 @@
 ---
 locale: en
-title: "Sprunki Sonic \U0001F525 Play Sprunki Sonic Online"
+title: Sprunki Sonic
+seoTitle: Play Sprunki Sonic Online Free | FiddleBops
 description: >-
   Whether you are a rhythm game lover or a loyal fan of the Sonic series, you
   can find your fun in Sprunki Sonic. This game is easy to learn but difficult
@@ -8,12 +9,12 @@ description: >-
 iframeSrc: 'https://turbowarp.org/1114980098/embed'
 thumbnail: /new-images/thumbnails/sprunki-sonic.png
 urlstr: sprunki-sonic
-modType: sprunki
-score: 4.0/5  (829 votes)
 tags:
   - sprunki sonic
   - sprunki sonic online
   - music
+modType: sprunki
+score: 4.0/5  (829 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

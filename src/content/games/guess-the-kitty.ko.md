@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: guess-the-kitty
 title: Guess the Kitty 고양이 맞히기 퀴즈
+seoTitle: Guess the Kitty 고양이 맞히기 퀴즈 무료 온라인 플레이 | FiddleBops
 description: >-
   사진과 힌트를 보고 고양이의 품종이나 특징을 맞히는 이미지 퀴즈입니다. 귀 모양과 무늬, 색 패턴 등을 단서로 삼아, 테마별 라운드를
   클리어해 보세요.
 iframeSrc: 'https://webglmath.github.io/guess-the-kitty/'
 thumbnail: /new-images/thumbnails/guess-the-kitty.jpg
+urlstr: guess-the-kitty
 tags:
   - trivia
   - puzzle

@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Timber Guy"
-description: "Timber Guy is a chop‑timing arcade — fell the tree, dodge branches, and rack up chops."
-iframeSrc: "https://timberguy.h5games.usercontent.goog/v/2ke6osh59ras0/"
+title: Timber Guy
+seoTitle: Play Timber Guy Online Free | FiddleBops
+description: >-
+  Timber Guy is a chop‑timing arcade — fell the tree, dodge branches, and rack
+  up chops.
+iframeSrc: 'https://timberguy.h5games.usercontent.goog/v/2ke6osh59ras0/'
 thumbnail: /new-images/thumbnails/timber-guy.png
-urlstr: "timber-guy"
-score: "3.8/5  (1659 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: timber-guy
+tags:
+  - action
+  - casual
+score: 3.8/5  (1659 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

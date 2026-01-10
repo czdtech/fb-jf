@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: cricket-mania
 title: Cricket Mania 크리켓 매니아
+seoTitle: Cricket Mania 크리켓 매니아 무료 온라인 플레이 | FiddleBops
 description: >-
   빠른 템포로 진행되는 크리켓 타격 게임 Cricket Mania입니다. 라인과 길이를 읽고, 적절한 샷을 선택해 타이밍을 맞추며 오버마다
   목표 스코어를 추격해 보세요.
 iframeSrc: 'https://73lnk17f84iog.h5games.usercontent.goog/v/1p7sdm5buflt0/'
 thumbnail: /new-images/thumbnails/cricket-mania.png
+urlstr: cricket-mania
 tags:
   - sports
   - casual

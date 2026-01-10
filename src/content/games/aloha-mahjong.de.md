@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: aloha-mahjong
-title: "Aloha Mahjong"
+title: Aloha Mahjong
+seoTitle: Spiele Aloha Mahjong kostenlos online | FiddleBops
 description: >-
   Aloha Mahjong ist ein entspannendes Mahjong‑Solitaire. Finde offene Paare,
   räume gestapelte Steine ab und genieße dabei die gemütliche Inselatmosphäre.
 iframeSrc: 'https://02ef7fb7guapg.h5games.usercontent.goog/v/13knu9k9rm8go/'
 thumbnail: /new-images/thumbnails/aloha-mahjong.jpg
+urlstr: aloha-mahjong
 tags:
   - mahjong
   - puzzle

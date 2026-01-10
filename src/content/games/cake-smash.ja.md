@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Cake Smash ケーキ・スマッシュ
+seoTitle: 無料でCake Smash ケーキ・スマッシュをオンラインでプレイ | FiddleBops
 description: 「Cake Smash」でおいしいケーキをマッチ＆スマッシュ！楽しくて中毒性のあるマッチ3パズルゲーム。
 iframeSrc: 'https://41la6sld9ed88.h5games.usercontent.goog/v/36d90atplnu7o/'
 thumbnail: /new-images/thumbnails/cake-smash.png
 urlstr: cake-smash
-score: 4.3/5 (1543 votes)
 tags:
   - puzzle
   - casual
   - clicker
+score: 4.3/5 (1543 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

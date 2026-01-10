@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: kitty-match
 title: Kitty Match
+seoTitle: Jouez à Kitty Match en ligne gratuitement | FiddleBops
 description: >-
   Kitty Match est un match‑3 tout mignon : échange des tuiles à thème chat pour
   faire des lignes et remplir des objectifs variés.
 iframeSrc: 'https://kittymatch.h5games.usercontent.goog/v/0fb0j00v75210/'
 thumbnail: /new-images/thumbnails/kitty-match.png
+urlstr: kitty-match
 tags:
   - puzzle
   - casual

@@ -1,17 +1,18 @@
 ---
 locale: fr
-urlstr: sprunki-minecraft
-title: Sprunki Minecraft - Jouer à Sprunki Minecraft en ligne
+title: Sprunki Minecraft
+seoTitle: Jouez à Sprunki Minecraft en ligne gratuitement | FiddleBops
 description: >-
   Sprunki Minecraft imagine un monde où chaque bloc posé ou miné participe à ta
   musique. Construis, casse et explore en rythme dans un concept qui mêle
   sandbox et création musicale.
 iframeSrc: 'https://turbowarp.org/1140459751/embed'
 thumbnail: /new-images/thumbnails/sprunki-minecraft.png
+urlstr: sprunki-minecraft
 tags:
   - sprunki minecraft
 score: 4.0/5  (212 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

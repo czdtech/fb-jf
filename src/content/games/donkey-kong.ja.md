@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Donkey Kong ドンキーコング
+seoTitle: 無料でDonkey Kong ドンキーコングをオンラインでプレイ | FiddleBops
 description: 「ドンキーコング」は1981年の伝説的アーケードゲーム。マリオとなり、樽を飛び越え、ハシゴを登り、ドンキーコングからポリーンを救出せよ。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/donkey-kong.html'
 thumbnail: /new-images/thumbnails/donkey-kong.jpg
 urlstr: donkey-kong
-score: 4.0/5  (537 votes)
 tags:
   - platformer
   - arcade
+score: 4.0/5  (537 votes)
 developer: Nintendo
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

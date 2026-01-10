@@ -1,7 +1,7 @@
 ---
 locale: fr
-urlstr: om-nom-connect-classic
 title: Om Nom Connect Classic
+seoTitle: Jouez à Om Nom Connect Classic en ligne gratuitement | FiddleBops
 description: >-
   Om Nom Connect Classic est un jeu de connexion de tuiles : trouve des paires
   identiques d'Om Nom et de ses amis et relie‑les avec un chemin comportant au
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://omnomconnectclassic.h5games.usercontent.goog/v/6bc88dac-9f6b-4f2f-8c85-e715c899bb63/
 thumbnail: /new-images/thumbnails/om-nom-connect-classic.jpg
+urlstr: om-nom-connect-classic
 tags:
   - puzzle
   - casual

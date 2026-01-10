@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Tower Crash 3D
+seoTitle: 無料でTower Crash 3Dをオンラインでプレイ | FiddleBops
 description: Tower Crash 3Dは、タワーを破壊する3Dゲームです。ボールを落として塔を崩しましょう。
 iframeSrc: >-
   https://towercrash3d.h5games.usercontent.goog/v/7c54afc1-3ca4-4121-a52a-9ea74e30f0d7/
 thumbnail: /new-images/thumbnails/tower-crash-3d.jpg
 urlstr: tower-crash-3d
-score: 4.3/5  (2100 votes)
 tags:
   - 3d
   - arcade
   - casual
-locale: ja
+score: 4.3/5  (2100 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 

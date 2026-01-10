@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: mountayonnaise
-title: Sprunki Mountayonnaise - Jouer à Sprunki Mountayonnaise en ligne
+title: Sprunki Mountayonnaise
+seoTitle: Jouez à Sprunki Mountayonnaise en ligne gratuitement | FiddleBops
 description: >-
   Sprunki Mountayonnaise est un mod Sprunki étonnamment réjouissant où
   différents animaux apparaissent selon les effets sonores que tu ajoutes. La
   rejouabilité est énorme !
 iframeSrc: 'https://turbowarp.org/1135773023/embed'
 thumbnail: /new-images/thumbnails/mountayonnaise.png
+urlstr: mountayonnaise
 tags:
   - sprunki mountayonnaise
   - sprunki mountayonnaise online

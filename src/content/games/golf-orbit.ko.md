@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: golf-orbit
 title: Golf Orbit 골프 오빗
+seoTitle: Golf Orbit 골프 오빗 무료 온라인 플레이 | FiddleBops
 description: >-
   한 번의 탭으로 공을 쏘아 올려 행성 중력을 타고 날려 보내는 골프 게임입니다. 발사 각도와 스핀을 조절해 지형과 중력을 활용하고, 멀리
   날릴수록 높은 기록을 노릴 수 있습니다.
 iframeSrc: 'https://7e0r297sgk0j0.h5games.usercontent.goog/v/1976bdao4gtf0/'
 thumbnail: /new-images/thumbnails/golf-orbit.png
+urlstr: golf-orbit
 tags:
   - sports
   - puzzle

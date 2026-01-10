@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Finger Slayer
+seoTitle: 無料でFinger Slayerをオンラインでプレイ | FiddleBops
 description: Finger Slayerは反射神経テスト。刃が閉じる直前に指を引き戻し、早すぎても遅すぎても失敗するギリギリを狙います。
 iframeSrc: 'https://7ftsta5r737o8.h5games.usercontent.goog/v/3m7r2si8ppdlg/'
 thumbnail: /new-images/thumbnails/finger-slayer.jpg
 urlstr: finger-slayer
-score: 3.8/5  (1690 votes)
 tags:
   - action
   - casual
+score: 3.8/5  (1690 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

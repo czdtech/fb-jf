@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Guess The Word"
-description: "Guess The Word is a clean word‑builder — connect letters, exploit patterns, and clear crosswords with vocabulary and logic."
-iframeSrc: "https://5e2trj00jcfog.h5games.usercontent.goog/v/1hrc6f7979nig/"
+title: Guess The Word
+seoTitle: Play Guess The Word Online Free | FiddleBops
+description: >-
+  Guess The Word is a clean word‑builder — connect letters, exploit patterns,
+  and clear crosswords with vocabulary and logic.
+iframeSrc: 'https://5e2trj00jcfog.h5games.usercontent.goog/v/1hrc6f7979nig/'
 thumbnail: /new-images/thumbnails/guess-the-word.png
-urlstr: "guess-the-word"
-score: "4.2/5  (2041 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: guess-the-word
+tags:
+  - puzzle
+  - thinky
+score: 4.2/5  (2041 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

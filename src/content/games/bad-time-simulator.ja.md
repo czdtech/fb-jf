@@ -1,19 +1,20 @@
 ---
+locale: ja
 title: Bad Time Simulator (Sans Fight) サンズ戦シミュレーター
+seoTitle: 無料でBad Time Simulator (Sans Fight) サンズ戦シミュレーターをオンラインでプレイ | FiddleBops
 description: >-
   「Bad Time
   Simulator」で、Undertale最難関のサンズ戦をブラウザで体験。すべての攻撃パターンや回避方法を練習して、悪夢のような弾幕を生き延びろ。
 iframeSrc: 'https://gotoanddie.github.io/c2-sans-fight/'
 thumbnail: /new-images/thumbnails/bad-time-simulator.jpg
 urlstr: bad-time-simulator
-score: 4.6/5  (1058 votes)
 tags:
   - action
   - rhythm
   - bullet-hell
+score: 4.6/5  (1058 votes)
 developer: Jcw87
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

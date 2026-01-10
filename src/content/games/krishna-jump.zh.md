@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: krishna-jump
 title: 《Krishna Jump》节奏神像跳跃
+seoTitle: 免费在线玩 《Krishna Jump》节奏神像跳跃 | FiddleBops
 description: 《Krishna Jump》是一款节奏感很强的纵向跳跃游戏，你只需一个按键控制角色在平台间向上跃进，躲开危险并收集神像道具。
 iframeSrc: 'https://5gj672951lio0.h5games.usercontent.goog/v/2q5vk2ok37gr8/'
 thumbnail: /new-images/thumbnails/krishna-jump.png
+urlstr: krishna-jump
 tags:
   - action
   - casual

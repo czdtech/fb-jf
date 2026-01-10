@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: unblock-that
 title: 《Unblock That》华容道推块
+seoTitle: 免费在线玩 《Unblock That》华容道推块 | FiddleBops
 description: 《Unblock That》是一款经典滑块华容道解谜游戏。通过前后左右移动木块，为红色方块让出一条通路，将它顺利滑出出口。
 iframeSrc: 'https://unblockthat.h5games.usercontent.goog/v/6iqu63hhulkgo/'
 thumbnail: /new-images/thumbnails/unblock-that.png
+urlstr: unblock-that
 tags:
   - puzzle
   - thinky

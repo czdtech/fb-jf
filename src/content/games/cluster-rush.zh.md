@@ -1,13 +1,13 @@
 ---
 locale: zh
-urlstr: cluster-rush
-title: "Cluster Rush 卡车疾驰跳跃"
+title: Cluster Rush 卡车疾驰跳跃
+seoTitle: 免费在线玩 Cluster Rush 卡车疾驰跳跃 | FiddleBops
 description: >-
   《Cluster Rush 卡车疾驰跳跃》是一款第一人称 3D 跑酷平台游戏，你必须在失去地面的
-  情况下不断在疾驶卡车之间腾跃前进。本指南将帮助你掌握移动节奏、利用卡车侧面保命，
-  并通过关卡模式化记忆攻克高难度关卡。
+  情况下不断在疾驶卡车之间腾跃前进。本指南将帮助你掌握移动节奏、利用卡车侧面保命， 并通过关卡模式化记忆攻克高难度关卡。
 iframeSrc: 'https://clusterrush.io/game/cluster-rush/'
 thumbnail: /new-images/thumbnails/cluster-rush.jpg
+urlstr: cluster-rush
 tags:
   - platformer
   - parkour

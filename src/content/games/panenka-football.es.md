@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: panenka-football
-title: Panenka Football - Maestría en penaltis estilo Panenka
+title: Panenka Football
+seoTitle: Juega a Panenka Football en línea gratis | FiddleBops
 description: >-
   Panenka Football es un simulador de penaltis centrado en la célebre Panenka:
   disfraza la intención, pica el balón con sutileza y adivina al portero
   alternando perfiles de disparo.
 iframeSrc: 'https://15n5pfdq70ung.h5games.usercontent.goog/v/2ftdtu6n19sk8/'
 thumbnail: /new-images/thumbnails/panenka-football.png
+urlstr: panenka-football
 tags:
   - sports
   - soccer

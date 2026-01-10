@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: kingdom-rush
 title: Kingdom Rush
+seoTitle: Juega a Kingdom Rush en línea gratis | FiddleBops
 description: >-
   Tower defense emblemático: coloca y mejora cuatro tipos de torres, llama
   refuerzos y microgestiona a un héroe para mantener los cuellos de botella.
 iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush.html'
 thumbnail: /new-images/thumbnails/kingdom-rush.jpg
+urlstr: kingdom-rush
 tags:
   - tower-defense
   - strategy

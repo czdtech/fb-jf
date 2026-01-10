@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: letter-links
 title: Letter Links
+seoTitle: Spiele Letter Links kostenlos online | FiddleBops
 description: >-
   Tägliche Wortbau-Herausforderung: Platziere deine Buchstabensteine auf dem
   Brett, bilde punktestarke Wörter, nutze Bonusfelder und verbinde alle Steine
   zu einer zusammenhängenden Gruppe.
 iframeSrc: 'https://7u583tvdi3f00.h5games.usercontent.goog/v/424maigpuljoo/'
 thumbnail: /new-images/thumbnails/letter-links.png
+urlstr: letter-links
 tags:
   - puzzle
   - thinky

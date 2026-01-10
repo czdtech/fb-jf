@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: neon-dash
 title: Neon Dash
+seoTitle: Jouez à Neon Dash en ligne gratuitement | FiddleBops
 description: >-
   Neon Dash est un runner de précision ultra dynamique : saute, évite les pièges
   et cale ton timing pour survivre à des parcours néon truffés d’obstacles.
 iframeSrc: 'https://1bveca4tkimog.h5games.usercontent.goog/v/4bq2naj6mtutg/'
 thumbnail: /new-images/thumbnails/neon-dash.png
+urlstr: neon-dash
 tags:
   - action
   - thinky

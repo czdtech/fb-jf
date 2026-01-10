@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: incredibox-downtown-simulator
 title: Incredibox Downtown Simulator 도심 시뮬레이터 모드
+seoTitle: Incredibox Downtown Simulator 도심 시뮬레이터 모드 무료 온라인 플레이 | FiddleBops
 description: >-
   그리드 기반 인터페이스로 도심 힙합·일렉트로닉 비트를 만드는 팬메이드 모드 'Incredibox Downtown Simulator'에 대한
   소개와 기본 전략, 조작법을 정리한 가이드입니다.
 iframeSrc: 'https://turbowarp.org/949700724/embed'
 thumbnail: /new-images/thumbnails/incredibox-downtown-simulator.png
+urlstr: incredibox-downtown-simulator
 tags:
   - music
   - simulator

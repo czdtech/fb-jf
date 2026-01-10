@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: super-brick-builder
 title: Super Brick Builder
+seoTitle: Juega a Super Brick Builder en línea gratis | FiddleBops
 description: >-
   Super Brick Builder es un puzle de apilar bloques con físicas: coloca
   ladrillos con precisión, planifica apoyos y completa estructuras con el mínimo
   desperdicio.
 iframeSrc: 'https://0hlb6nt2jsom8.h5games.usercontent.goog/v/4jac78qnv0nr8/'
 thumbnail: /new-images/thumbnails/super-brick-builder.png
+urlstr: super-brick-builder
 tags:
   - puzzle
   - thinky

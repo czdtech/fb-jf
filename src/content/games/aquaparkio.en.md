@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Aquapark io"
-description: "ace to the finish line in aquapark.io! Learn the best strategies, tips, and controls to master the water slide, bump opponents, and take epic flight shortcuts to win."
-iframeSrc: "https://bitlifeonline.github.io/class23523/aquaparkio/"
+title: Aquapark io
+seoTitle: Play Aquapark io Online Free | FiddleBops
+description: >-
+  ace to the finish line in aquapark.io! Learn the best strategies, tips, and
+  controls to master the water slide, bump opponents, and take epic flight
+  shortcuts to win.
+iframeSrc: 'https://bitlifeonline.github.io/class23523/aquaparkio/'
 thumbnail: /new-images/thumbnails/aquaparkio.jpg
-urlstr: "aquaparkio"
-score: "4.9/5  (169 votes)"
-tags: ["casual", "racing"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: aquaparkio
+tags:
+  - casual
+  - racing
+score: 4.9/5  (169 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

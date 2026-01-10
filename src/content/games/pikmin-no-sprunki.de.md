@@ -1,17 +1,18 @@
 ---
 locale: de
-urlstr: pikmin-no-sprunki
-title: "Pikmin No Sprunki - Play Pikmin No Sprunki Online"
+title: Pikmin No Sprunki
+seoTitle: Spiele Pikmin No Sprunki kostenlos online | FiddleBops
 description: >-
   Pikmin No Sprunki ist mehr als nur ein einfaches Spiel – es ist eine kreative
   Musik-Spielwiese, die Elemente aus Pikmin mit dem Sprunki-/Incredibox-Stil
   verbindet und dir erlaubt, eigene Beats zu bauen.
 iframeSrc: 'https://img.sprunki.net/game/pikmin-no-sprunki.html'
 thumbnail: /new-images/thumbnails/pikmin-no-sprunki.png
+urlstr: pikmin-no-sprunki
 tags:
   - pikmin no sprunki
 score: 4.0/5  (89 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

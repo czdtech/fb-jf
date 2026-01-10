@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Fleeing the Complex
+seoTitle: 無料でFleeing the Complexをオンラインでプレイ | FiddleBops
 description: 分岐する棒人間の脱出劇：アイテムやルートを選んで施設から脱出し、複数のエンディングを発見し、すべての失敗やバイオ（人物紹介）を集めましょう。
 iframeSrc: 'https://ubg77.github.io/fleeing-the-complex/'
 thumbnail: /new-images/thumbnails/fleeing-the-complex.jpg
 urlstr: fleeing-the-complex
-score: 4.7/5  (1158 votes)
 tags:
   - adventure
   - point-and-click
+score: 4.7/5  (1158 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

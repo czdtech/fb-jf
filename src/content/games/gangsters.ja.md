@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Gangsters
+seoTitle: 無料でGangstersをオンラインでプレイ | FiddleBops
 description: 物理ラグドールの決闘：2人の棒人間ギャングが屋上で跳ね回り、撃ち合います。ジャンプと射撃のタイミングを計って、相手を叩き落としましょう。
 iframeSrc: >-
   https://app-185146.games.s3.yandex.net/185146/4mtxwijatlm9neect542qv9nbcqetm7u/index.html
 thumbnail: /new-images/thumbnails/gangsters.jpg
 urlstr: gangsters
-score: 4.4/5  (242 votes)
 tags:
   - action
   - physics
+score: 4.4/5  (242 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

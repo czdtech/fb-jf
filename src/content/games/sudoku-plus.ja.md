@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Sudoku Plus
+seoTitle: 無料でSudoku Plusをオンラインでプレイ | FiddleBops
 description: Sudoku Plusは、クラシックな数独パズルゲームの拡張版です。さまざまな難易度とモードで論理的思考をテストしましょう。
 iframeSrc: 'https://sudokuplus.h5games.usercontent.goog/v/3q827iuj6msno/'
 thumbnail: /new-images/thumbnails/sudoku-plus.jpg
 urlstr: sudoku-plus
-score: 4.7/5  (3100 votes)
 tags:
   - puzzle
   - logic
   - sudoku
-locale: ja
+score: 4.7/5  (3100 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 

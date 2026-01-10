@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: mahjong-3d
 title: Mahjong 3D
+seoTitle: Spiele Mahjong 3D kostenlos online | FiddleBops
 description: >-
   Erlebe Mahjong Solitaire in einer neuen Dimension! Drehe das 3D-Puzzle, finde
   passende Paare freier Steine und räume das Feld in diesem räumlichen
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://mahjong3d.h5games.usercontent.goog/v/eba0837e-4855-4bb2-b762-5dd6d8982cac/
 thumbnail: /new-images/thumbnails/mahjong-3d.jpg
+urlstr: mahjong-3d
 tags:
   - puzzle
   - thinky

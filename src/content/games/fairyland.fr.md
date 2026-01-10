@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: fairyland
 title: Fairyland
+seoTitle: Jouez à Fairyland en ligne gratuitement | FiddleBops
 description: >-
   Fairyland est une aventure de puzzle toute en douceur : explore des décors
   chaleureux, résous de petites énigmes et atteins tes objectifs à ton rythme.
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
 thumbnail: /new-images/thumbnails/fairyland.png
+urlstr: fairyland
 tags:
   - adventure
   - puzzle

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: zombie-ragdoll
-title: Zombie Ragdoll - Cadáveres como munición
+title: Zombie Ragdoll
+seoTitle: Juega a Zombie Ragdoll en línea gratis | FiddleBops
 description: >-
   Zombie Ragdoll es un juego de disparos con físicas y ragdolls: lanza cuerpos,
   activa trampas y resuelve puzles provocando espectaculares reacciones en
   cadena.
 iframeSrc: 'https://04qb5fhi49qmg.h5games.usercontent.goog/v/64br0v92f7928/'
 thumbnail: /new-images/thumbnails/zombie-ragdoll.jpg
+urlstr: zombie-ragdoll
 tags:
   - shooting
   - puzzle

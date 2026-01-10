@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Footchinko
+seoTitle: 無料でFootchinkoをオンラインでプレイ | FiddleBops
 description: >-
   Footchinkoでサッカーとパチンコのユニークなブレンドを体験しましょう！ボールを落とし、ペグにヒットし、ハイスコアとエキサイティングなボーナスを目指しましょう。
 iframeSrc: 'https://footchinko2.h5games.usercontent.goog/v/3iniom5rsklno/'
 thumbnail: /new-images/thumbnails/footchinko.jpg
 urlstr: footchinko
-score: 4.5/5  (2230 votes)
 tags:
   - sports
   - casual
   - action
+score: 4.5/5  (2230 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

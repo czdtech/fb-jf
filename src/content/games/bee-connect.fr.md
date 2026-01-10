@@ -1,15 +1,19 @@
 ---
 locale: fr
-urlstr: bee-connect
-title: "Bee Connect"
-description: "Assemble des nombres identiques sur une ruche hexagonale, planifie chaque fusion et vise le meilleur score possible."
-iframeSrc: "https://beeconnect.h5games.usercontent.goog/v/06c7e297-3e6d-4512-9fb2-e491ae2b2fb9/"
+title: Bee Connect
+seoTitle: Jouez à Bee Connect en ligne gratuitement | FiddleBops
+description: >-
+  Assemble des nombres identiques sur une ruche hexagonale, planifie chaque
+  fusion et vise le meilleur score possible.
+iframeSrc: >-
+  https://beeconnect.h5games.usercontent.goog/v/06c7e297-3e6d-4512-9fb2-e491ae2b2fb9/
 thumbnail: /new-images/thumbnails/bee-connect.jpg
+urlstr: bee-connect
 tags:
   - puzzle
   - casual
 score: 4.3/5  (1837 votes)
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

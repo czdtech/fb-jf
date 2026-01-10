@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: crazy-cars
 title: Crazy Cars 疯狂城市赛车
+seoTitle: 免费在线玩 Crazy Cars 疯狂城市赛车 | FiddleBops
 description: >-
   《Crazy Cars 疯狂城市赛车》是一款轻松向 3D 驾驶与特技游戏。你可以在开放城市地图中自
   由探索，参加赛事、收集星星与扳手，借助氮气在各种坡道上腾空飞跃，并逐步解锁更强力 的赛车。
 iframeSrc: 'https://g.igroutka.ru/games/164/2afwOT8yZFmeYWGJ/2/crazy_cars/'
 thumbnail: /new-images/thumbnails/crazy-cars.jpg
+urlstr: crazy-cars
 tags:
   - racing
   - driving

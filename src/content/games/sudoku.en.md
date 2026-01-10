@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Sudoku"
-description: "Sudoku is a classic number puzzle game where players fill a 9x9 grid with digits 1-9, ensuring each row, column, and 3x3 box contains all numbers exactly once in this challenging logic-based brain teaser."
-iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/html5-sudoku/"
+title: Sudoku
+seoTitle: Play Sudoku Online Free | FiddleBops
+description: >-
+  Sudoku is a classic number puzzle game where players fill a 9x9 grid with
+  digits 1-9, ensuring each row, column, and 3x3 box contains all numbers
+  exactly once in this challenging logic-based brain teaser.
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/html5-sudoku/'
 thumbnail: /new-images/thumbnails/sudoku.jpg
-urlstr: "sudoku"
-score: "5.0/5  (1136 votes)"
-tags: ["puzzle", "logic", "numbers"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: sudoku
+tags:
+  - puzzle
+  - logic
+  - numbers
+score: 5.0/5  (1136 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: endless-truck
 title: Endless Truck 엔들리스 트럭
+seoTitle: Endless Truck 엔들리스 트럭 무료 온라인 플레이 | FiddleBops
 description: >-
   스턴트와 점프가 가득한 사이드뷰 트럭 러너입니다. 착지 각도와 속도를 관리해 깨끗하게 착지하고, 부스트와 업그레이드로 더 먼 거리를 달려
   보세요.
 iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
 thumbnail: /new-images/thumbnails/endless-truck.png
+urlstr: endless-truck
 tags:
   - car
   - driving

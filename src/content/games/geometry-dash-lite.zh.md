@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: geometry-dash-lite
 title: Geometry Dash Lite 几何冲刺 体验版
+seoTitle: 免费在线玩 Geometry Dash Lite 几何冲刺 体验版 | FiddleBops
 description: 节奏平台跳跃入门版：跟着音乐节拍跳跃与飞行，穿越预设关卡中的跳板、重力门与飞船段落， 避开尖刺与锯齿障碍。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp45/chenling/20240221/08/index.html
 thumbnail: /new-images/thumbnails/geometry-dash-lite.jpg
+urlstr: geometry-dash-lite
 tags:
   - rhythm
   - platformer

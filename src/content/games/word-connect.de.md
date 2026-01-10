@@ -1,10 +1,14 @@
 ---
 locale: de
-urlstr: word-connect
-title: "Word Connect"
-description: "Verbinde Buchstaben und erweitere deinen Wortschatz in Word Connect: Ziehe eine Linie über die Buchstaben im Kreis, bilde Wörter und fülle das Kreuzwort‑Gitter in diesem entspannten Wortpuzzle." 
+title: Word Connect
+seoTitle: Spiele Word Connect kostenlos online | FiddleBops
+description: >-
+  Verbinde Buchstaben und erweitere deinen Wortschatz in Word Connect: Ziehe
+  eine Linie über die Buchstaben im Kreis, bilde Wörter und fülle das
+  Kreuzwort‑Gitter in diesem entspannten Wortpuzzle.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288677/index.html'
 thumbnail: /new-images/thumbnails/word-connect.jpg
+urlstr: word-connect
 tags:
   - word-game
   - puzzle

@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Battleship game"
-description: "A comprehensive guide to the classic Battleship game. Learn the rules, ship placement strategies, effective search patterns, and tips to sink the enemy fleet before they find yours."
-iframeSrc: "https://cdn.gamesnacks.com/battleship2/gameCode/index.html"
+title: Battleship game
+seoTitle: Play Battleship game Online Free | FiddleBops
+description: >-
+  A comprehensive guide to the classic Battleship game. Learn the rules, ship
+  placement strategies, effective search patterns, and tips to sink the enemy
+  fleet before they find yours.
+iframeSrc: 'https://cdn.gamesnacks.com/battleship2/gameCode/index.html'
 thumbnail: /new-images/thumbnails/battleship.jpg
-urlstr: "battleship"
-score: "4.4/5  (986 votes)"
-tags: ["strategy", "casual"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: battleship
+tags:
+  - strategy
+  - casual
+score: 4.4/5  (986 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

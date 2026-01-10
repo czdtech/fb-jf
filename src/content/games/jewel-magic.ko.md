@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: jewel-magic
 title: Jewel Magic 매직 매치3
+seoTitle: Jewel Magic 매직 매치3 무료 온라인 플레이 | FiddleBops
 description: >-
   클래식 3매치 퍼즐 'Jewel Magic' 가이드입니다. 보석을 맞바꿔 특수 보석과 연쇄 반응을 만들고, 다양한 목표를 가진 레벨을
   공략하는 방법을 소개합니다.
 iframeSrc: 'https://jewelmagic.h5games.usercontent.goog/v/55vd8l21hn1q8/'
 thumbnail: /new-images/thumbnails/jewel-magic.png
+urlstr: jewel-magic
 tags:
   - puzzle
   - casual

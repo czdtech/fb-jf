@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Daily Room Escape デイリー・ルーム・エスケープ
+seoTitle: 無料でDaily Room Escape デイリー・ルーム・エスケープをオンラインでプレイ | FiddleBops
 description: 「Daily Room Escape」は毎日楽しめる脱出ゲーム。部屋を探索し、暗号を解き、アイテムを組み合わせて、閉ざされた扉を開けよう。
 iframeSrc: 'https://0e53jjs7cgfvg.h5games.usercontent.goog/v/7ksqnmpcepl5g/'
 thumbnail: /new-images/thumbnails/daily-room-escape.png
 urlstr: daily-room-escape
-score: 4.0/5  (1869 votes)
 tags:
   - puzzle
   - escape
   - thinky
+score: 4.0/5  (1869 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

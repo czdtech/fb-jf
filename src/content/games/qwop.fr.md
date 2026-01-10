@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: qwop
 title: QWOP Game
+seoTitle: Jouez à QWOP Game en ligne gratuitement | FiddleBops
 description: "QWOP est un jeu de course basé sur la physique, célèbre pour sa difficulté\_: tu contrôles les muscles des jambes du coureur uniquement avec quatre touches (Q, W, O, P) pour tenter de parcourir 100 mètres sans tomber."
 iframeSrc: 'https://kdata1.com/2020/01/QWOP1/?webgl=true'
 thumbnail: /new-images/thumbnails/qwop.jpg
+urlstr: qwop
 tags:
   - physics
   - difficulty

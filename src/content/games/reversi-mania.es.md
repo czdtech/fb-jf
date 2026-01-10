@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: reversi-mania
 title: Reversi Mania
+seoTitle: Juega a Reversi Mania en línea gratis | FiddleBops
 description: >-
   Reversi Mania lleva el clásico Othello a tu navegador: flanquea fichas, toma
   las esquinas y gana con un final de partida bien calculado.
 iframeSrc: 'https://reversimania.h5games.usercontent.goog/v/7rhqf6sl8lpf0/'
 thumbnail: /new-images/thumbnails/reversi-mania.png
+urlstr: reversi-mania
 tags:
   - 2 player
   - thinky

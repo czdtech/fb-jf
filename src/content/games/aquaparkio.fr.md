@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: aquaparkio
 title: Aquapark io
+seoTitle: Jouez à Aquapark io en ligne gratuitement | FiddleBops
 description: >-
   Dans aquapark.io, tu dévales un toboggan géant, bouscules tes adversaires et
   prends des raccourcis en volant hors de la piste pour franchir la ligne
   d’arrivée en premier.
 iframeSrc: 'https://bitlifeonline.github.io/class23523/aquaparkio/'
 thumbnail: /new-images/thumbnails/aquaparkio.jpg
+urlstr: aquaparkio
 tags:
   - casual
   - racing

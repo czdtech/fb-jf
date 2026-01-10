@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: mahjongg-candy
-title: Mahjongg Candy - Puzle dulce de emparejar fichas
+title: Mahjongg Candy
+seoTitle: Juega a Mahjongg Candy en línea gratis | FiddleBops
 description: >-
   Sacia tu lado goloso y afina la mente con Mahjongg Candy. Este delicioso puzle
   de emparejar fichas te reta a limpiar el tablero encontrando parejas idénticas
@@ -9,6 +9,7 @@ description: >-
   para lograr la máxima puntuación.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-candy-mahjongg/'
 thumbnail: /new-images/thumbnails/mahjongg-candy.jpg
+urlstr: mahjongg-candy
 tags:
   - puzzle
   - tile-matching

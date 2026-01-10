@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Rotate
+seoTitle: 無料でRotateをオンラインでプレイ | FiddleBops
 description: Rotateは回転パズルゲームです。世界を回転させ、障害物をナビゲートし、ゴールに到達し、視点をマスターします。
 iframeSrc: 'https://rebemanae.github.io/rotate/'
 thumbnail: /new-images/thumbnails/rotate.jpg
 urlstr: rotate
-score: 4.9/5  (1155 votes)
 tags:
   - puzzle
   - thinky
   - platformer
+score: 4.9/5  (1155 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

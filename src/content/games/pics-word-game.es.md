@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: pics-word-game
-title: Pics Word Game - Adivina la palabra a partir de las imágenes
+title: Pics Word Game
+seoTitle: Juega a Pics Word Game en línea gratis | FiddleBops
 description: >-
   Adivina la palabra que conecta las imágenes en Pics Word Game, un adictivo
   juego de puzles de palabras.
 iframeSrc: 'https://picswordgame.h5games.usercontent.goog/v/40jujb4uelhb0/'
 thumbnail: /new-images/thumbnails/pics-word-game.jpg
+urlstr: pics-word-game
 tags:
   - puzzle
   - thinky

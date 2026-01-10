@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: pin-the-ufo
-title: "Pin the UFO - Tira del pin y salva a los alienígenas"
+title: Pin the UFO
+seoTitle: Juega a Pin the UFO en línea gratis | FiddleBops
 description: >-
-  Domina el puzle de "pull the pin" en Pin the UFO. Resuelve niveles
-  tirando de los pines en el orden correcto para guiar con seguridad a los
-  alienígenas de colores hasta su nave espacial.
+  Domina el puzle de "pull the pin" en Pin the UFO. Resuelve niveles tirando de
+  los pines en el orden correcto para guiar con seguridad a los alienígenas de
+  colores hasta su nave espacial.
 iframeSrc: 'https://pintheufo.h5games.usercontent.goog/v/08ukqv01ac45o/'
 thumbnail: /new-images/thumbnails/pin-the-ufo.jpeg
+urlstr: pin-the-ufo
 tags:
   - puzzle
   - casual

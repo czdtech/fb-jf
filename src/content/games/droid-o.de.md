@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: droid-o
 title: Droid-O
+seoTitle: Spiele Droid-O kostenlos online | FiddleBops
 description: >-
   Droid-O ist ein kompakter Top-Down-Arena-Shooter: Ziehe Gegnerwellen im Kreis,
   kombiniere Fähigkeiten geschickt und überlebe immer stärkere Angriffe mit
   präziser Bewegung.
 iframeSrc: 'https://6r2lv8eg0tif8.h5games.usercontent.goog/v/56d4ef8srjpfg/'
 thumbnail: /new-images/thumbnails/droid-o.png
+urlstr: droid-o
 tags:
   - action
   - shooting

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: alien-hominid
 title: Alien Hominid 에일리언 호미니드
+seoTitle: Alien Hominid 에일리언 호미니드 무료 온라인 플레이 | FiddleBops
 description: >-
   Alien Hominid는 The Behemoth가 개발한 클래식 런앤건 슈팅 게임으로, 빠른 전개와 높은 난이도, 손그림 스타일의 아트가
   특징입니다. 이 가이드는 스테이지 공략, 조작법, FAQ를 통해 도전적인 2D 액션을 정복하는 데 도움을 줍니다.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/alien-hominid.html'
 thumbnail: /new-images/thumbnails/alien-hominid.jpg
+urlstr: alien-hominid
 tags:
   - shooting
   - action

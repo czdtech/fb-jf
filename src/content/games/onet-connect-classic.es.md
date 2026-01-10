@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: onet-connect-classic
-title: Onet Connect Classic - Empareja y conecta antes de que acabe el tiempo
+title: Onet Connect Classic
+seoTitle: Juega a Onet Connect Classic en línea gratis | FiddleBops
 description: >-
   Pon a prueba tu velocidad y tu percepción en Onet Connect Classic. Encuentra
   parejas de fichas idénticas y limpia el tablero conectándolas con un camino
   que no tenga más de dos giros antes de que se agote el tiempo.
 iframeSrc: 'https://onetconnectclassic.h5games.usercontent.goog/v/0q8248mt11l3g/'
 thumbnail: /new-images/thumbnails/onet-connect-classic.png
+urlstr: onet-connect-classic
 tags:
   - puzzle
   - casual

@@ -1,3 +1,13 @@
+/**
+ * Component Styles
+ * Extracted from inline styles in Astro components and static game pages
+ * 
+ * Requirements: 3.2, 3.3, 7.1, 7.2
+ */
+
+/* Import CSS Variables - MUST be at the top of the file */
+@import url("/styles/variables.css");
+
 /* Shared styles for backup static pages */
 
 /* Audio controls */
@@ -9,39 +19,16 @@ audio {
   audio {
     width: 120px;
   }
-}
-
-/* Game iframe backgrounds */
-.game-card .game-iframe-sprunki {
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-}
-
-@media (max-width: 980px) {
   .game-card .game-iframe-sprunki {
     width: 100%;
     height: auto;
   }
 }
-/**
- * Component Styles
- * Extracted from inline styles in Astro components and static game pages
- * 
- * Requirements: 3.2, 3.3, 7.1, 7.2
- */
-
-/* Import CSS Variables */
-@import url("/styles/variables.css");
 
 /* ==========================================================================
    Game Iframe Container Styles
    Used by: GameLayout.astro, static game pages
    ========================================================================== */
-
-audio {
-  width: 210px;
-}
 
 .game-card .game-iframe-sprunki {
   float: left;
@@ -99,20 +86,46 @@ iframe {
    Responsive Styles for Game Iframe
    ========================================================================== */
 
-@media screen and (max-width: 980px) {
+@media (max-width: 768px) {
   .game-card .game-iframe-sprunki {
-    width: 100%;
+    height: 330px;
   }
 }
 
-@media screen and (max-width: 768px) {
-  audio {
-    width: 120px;
-  }
+/* ==========================================================================
+   Controls / How-to-play card (injected by GameLayout.astro)
+   ========================================================================== */
 
-  .game-card .game-iframe-sprunki {
-    height: 330px !important;
-  }
+.controls-card {
+  background: var(--color-bg-light);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: var(--spacing-xl);
+  margin: var(--spacing-xl) 0;
+  box-shadow: var(--shadow-glow-sm);
+}
+
+.controls-card > h2,
+.controls-card > h3,
+.controls-card > h4 {
+  margin-top: 0;
+}
+
+.controls-card ul {
+  margin: var(--spacing-md) 0 0;
+  padding-left: 1.25em;
+}
+
+.controls-card kbd,
+.controls-card code {
+  display: inline-block;
+  padding: 0.1em 0.45em;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--color-border-light);
+  background: rgba(255, 255, 255, 0.06);
+  color: var(--color-text-white);
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 0.95em;
 }
 
 /* ==========================================================================
@@ -148,7 +161,8 @@ iframe {
    ========================================================================== */
 
 .about-content > p > a[href="/"] {
-  float: left;
+  float: none;
+  display: inline;
 }
 
 /* Configuration container used by GameLayout iframe loader */

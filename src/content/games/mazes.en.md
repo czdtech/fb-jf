@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Mazes"
-description: "Mazes delivers classic labyrinth runs — draw optimal paths, dodge traps, and beat par times with clean routing."
-iframeSrc: "https://1ivu76rhffpsg.h5games.usercontent.goog/v/00icu4vi09j18/"
+title: Mazes
+seoTitle: Play Mazes Online Free | FiddleBops
+description: >-
+  Mazes delivers classic labyrinth runs — draw optimal paths, dodge traps, and
+  beat par times with clean routing.
+iframeSrc: 'https://1ivu76rhffpsg.h5games.usercontent.goog/v/00icu4vi09j18/'
 thumbnail: /new-images/thumbnails/mazes.jpg
-urlstr: "mazes"
-score: "4.0/5  (1894 votes)"
-tags: ["puzzle", "thinky", "escape"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: mazes
+tags:
+  - puzzle
+  - thinky
+  - escape
+score: 4.0/5  (1894 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

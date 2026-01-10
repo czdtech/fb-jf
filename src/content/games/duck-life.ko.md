@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: duck-life
 title: Duck Life 덕 라이프
+seoTitle: Duck Life 덕 라이프 무료 온라인 플레이 | FiddleBops
 description: 작은 오리를 훈련시켜 다양한 레이스에 참가시키는 육성 레이싱 게임입니다. 달리기·점프·수영·비행 능력을 키워 챔피언을 만들어 보세요.
 iframeSrc: 'https://games.wixgames.co.uk/games/ducklife1/webgl/'
 thumbnail: /new-images/thumbnails/duck-life.jpg
+urlstr: duck-life
 tags:
   - racing
   - animal

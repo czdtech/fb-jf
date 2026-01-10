@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: crazy-caves
 title: Crazy Caves 크레이지 케이브
+seoTitle: Crazy Caves 크레이지 케이브 무료 온라인 플레이 | FiddleBops
 description: >-
   끝없이 떨어지는 바위를 피하며 곡괭이를 던져 보석과 금을 캐내는 아케이드 액션 게임 Crazy Caves입니다. 장비를 업그레이드해 더 오래
   살아남고 최고 점수에 도전해 보세요.
 iframeSrc: >-
   https://crazycaves.h5games.usercontent.goog/v/24bc2c61-c599-4c5a-9fde-fd3a14fd28a6/
 thumbnail: /new-images/thumbnails/crazy-caves.jpg
+urlstr: crazy-caves
 tags:
   - action
   - casual

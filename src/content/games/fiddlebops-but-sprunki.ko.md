@@ -1,16 +1,17 @@
 ---
 locale: ko
-urlstr: fiddlebops-but-sprunki
 title: FiddleBops but Sprunki 피들밥스 x 스프런키
+seoTitle: FiddleBops but Sprunki 피들밥스 x 스프런키 무료 온라인 플레이 | FiddleBops
 description: >-
   Fiddlebops의 음악 제작 시스템에 Sprunki 캐릭터들을 더한 크로스오버 Mod입니다. 스프런키 크루로 비트를 쌓고, 새로운 감성의
   사운드를 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1114915532/embed'
 thumbnail: /new-images/thumbnails/fiddlebops-but-sprunki.png
+urlstr: fiddlebops-but-sprunki
 tags:
   - fiddlebops but sprunki
 score: 4.2/5  (94 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

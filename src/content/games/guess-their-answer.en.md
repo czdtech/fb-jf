@@ -1,19 +1,20 @@
 ---
 locale: en
 title: Guess Their Answer
+seoTitle: Play Guess Their Answer Online Free | FiddleBops
 description: >-
   Guess Their Answer is a quick survey showdown — think like the crowd, list top
   answers, and outscore opponents with broad coverage.
 iframeSrc: 'https://0s1do8fmhrn9g.h5games.usercontent.goog/v/08gmb663j6g78/'
 thumbnail: /new-images/thumbnails/guess-their-answer.png
 urlstr: guess-their-answer
-score: 4.0/5  (1878 votes)
 tags:
   - puzzle
   - thinky
   - 2-player
+score: 4.0/5  (1878 votes)
 developer: ''
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

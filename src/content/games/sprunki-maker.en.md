@@ -1,16 +1,17 @@
 ---
 locale: en
-title: Sprunki Maker (BIG update) - Play Sprunki Maker (BIG update) Online
+title: Sprunki Maker (BIG update)
+seoTitle: Play Sprunki Maker (BIG update) Online Free | FiddleBops
 description: Want to own a unique Sprunki character? Now
 iframeSrc: 'https://www.playfiddlebops.com/embed/sprunki-marker/index.html'
 thumbnail: /new-images/thumbnails/sprunki-maker.png
 urlstr: sprunki-maker
-modType: sprunki
-score: 4.8/5  (700 votes)
 tags:
   - sprunki maker (big update)
   - sprunki maker (big update) online
   - music
+modType: sprunki
+score: 4.8/5  (700 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

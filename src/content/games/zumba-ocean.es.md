@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: zumba-ocean
-title: Zumba Ocean - Dispara perlas en el océano
+title: Zumba Ocean
+seoTitle: Juega a Zumba Ocean en línea gratis | FiddleBops
 description: >-
   Sumérgete en una aventura de disparo de canicas en Zumba Ocean. Lanza perlas
   de colores para formar grupos de tres o más y destruye la cadena antes de que
   llegue a la concha final.
 iframeSrc: 'https://zumbaocean.h5games.usercontent.goog/v/1gb65icesunig/'
 thumbnail: /new-images/thumbnails/zumba-ocean.png
+urlstr: zumba-ocean
 tags:
   - shooting
   - puzzle

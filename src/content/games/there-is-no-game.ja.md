@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: There Is No Game
+seoTitle: 無料でThere Is No Gameをオンラインでプレイ | FiddleBops
 description: There Is No Gameは、メタゲームパズルです。ゲームがないと言われますが、実際には予想外のパズルがあります。
 iframeSrc: 'https://webglmath.github.io/there-is-no-game/'
 thumbnail: /new-images/thumbnails/there-is-no-game.jpg
 urlstr: there-is-no-game
-score: 3.9/5  (1003 votes)
 tags:
   - puzzle
   - meta
   - humor
-locale: ja
+score: 3.9/5  (1003 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

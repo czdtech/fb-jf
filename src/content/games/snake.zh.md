@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: snake
 title: 《Snake》经典贪吃蛇
+seoTitle: 免费在线玩 《Snake》经典贪吃蛇 | FiddleBops
 description: >-
   《Snake》是一款经久不衰的街机经典小游戏。你要控制一条不断前进的“线条小蛇”，吃掉屏幕上的食物让身体变长，同时避免撞到墙壁或自己的身体，在简单规则下检验你的反应和预判能力。
 iframeSrc: 'https://www.googlesnake.com/snakem.php'
 thumbnail: /new-images/thumbnails/snake.jpg
+urlstr: snake
 tags:
   - classic
   - arcade

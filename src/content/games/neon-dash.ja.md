@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Neon Dash
+seoTitle: 無料でNeon Dashをオンラインでプレイ | FiddleBops
 description: Neon Dashはリズムに合わせて走るランナーゲームです。ネオンの障害物を避け、ジャンプのタイミングを合わせて進みます。
 iframeSrc: 'https://1bveca4tkimog.h5games.usercontent.goog/v/4bq2naj6mtutg/'
 thumbnail: /new-images/thumbnails/neon-dash.png
 urlstr: neon-dash
-score: 4.2/5  (1589 votes)
 tags:
   - action
   - casual
+score: 4.2/5  (1589 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

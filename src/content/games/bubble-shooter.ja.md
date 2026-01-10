@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Bubble Shooter バブルシューター
+seoTitle: 無料でBubble Shooter バブルシューターをオンラインでプレイ | FiddleBops
 description: 「Bubble Shooter」は中毒性のある元祖バブルパズル。色を揃えて泡を消し、ハイスコアを目指せ。シンプルながら深い戦略性があなたを待っている。
 iframeSrc: 'https://www.bubbleshooter-new.com/'
 thumbnail: /new-images/thumbnails/bubble-shooter.jpg
 urlstr: bubble-shooter
-score: 4.3/5  (1339 votes)
 tags:
   - casual
   - puzzle
   - match-3
+score: 4.3/5  (1339 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

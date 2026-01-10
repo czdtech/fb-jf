@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Bloons TD 2 ブルーンズTD 2
+seoTitle: 無料でBloons TD 2 ブルーンズTD 2をオンラインでプレイ | FiddleBops
 description: >-
   古典的な名作タワーディフェンスの続編「Bloons TD
   2」。3つの難易度、新タワー「モンキービーコン」、そして厄介な「鉛（Lead）ブルーン」が登場。戦略を練って風船を割ろう！
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-2.html'
 thumbnail: /new-images/thumbnails/bloons-td-2.jpg
 urlstr: bloons-td-2
-score: 4.9/5  (574 votes)
 tags:
   - casual
   - strategy
+score: 4.9/5  (574 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

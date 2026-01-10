@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: geometry-dash-subzero
 title: Geometry Dash SubZero
+seoTitle: Spiele Geometry Dash SubZero kostenlos online | FiddleBops
 description: >-
   Geometry Dash SubZero bietet eigenständige Winter-Levels: Springe, fliege und
   triff Ringe im Takt der Musik durch eisige Welten mit schnellen Patterns.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp46/chenling/20240322/06/index.html
 thumbnail: /new-images/thumbnails/geometry-dash-subzero.jpg
+urlstr: geometry-dash-subzero
 tags:
   - rhythm
   - platformer

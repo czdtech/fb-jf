@@ -1,14 +1,19 @@
 ---
 locale: de
-urlstr: sprunki-abgerny
-title: "Sprunki Abgerny - Sprunki Abgerny online spielen"
-description: "Sprunki Abgerny ist ein Musikspiel mit starkem Tribal-Flair: Du leitest einen Stamm von Beatboxern, kombinierst traditionelle Klänge und moderne Effekte und erkundest so die Verbindung zwischen alter Kultur und kreativer Sound-Experimente."
+title: Sprunki Abgerny
+seoTitle: Spiele Sprunki Abgerny kostenlos online | FiddleBops
+description: >-
+  Sprunki Abgerny ist ein Musikspiel mit starkem Tribal-Flair: Du leitest einen
+  Stamm von Beatboxern, kombinierst traditionelle Klänge und moderne Effekte und
+  erkundest so die Verbindung zwischen alter Kultur und kreativer
+  Sound-Experimente.
 iframeSrc: 'https://turbowarp.org/1095335052/embed'
 thumbnail: /new-images/thumbnails/sprunki-abgerny.png
+urlstr: sprunki-abgerny
 tags:
   - sprunki abgerny
 score: 3.9/5  (132 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Was macht Sprunki Abgerny so besonders?

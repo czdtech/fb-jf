@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: sprunki-interactive-beta
 title: Sprunki Interactive BETA 스프룽키 인터랙티브 베타
+seoTitle: Sprunki Interactive BETA 스프룽키 인터랙티브 베타 무료 온라인 플레이 | FiddleBops
 description: >-
   Sprunki Interactive BETA는 캐릭터가 화면 곳곳을 돌아다니며 서로 부딪히는 상호작용을 통해 즉흥적인 사운드를 만드는
   실험적인 스프룽키 모드입니다. 귀여움과 공포가 점차 뒤섞이는 독특한 연출이 특징입니다.
 iframeSrc: 'https://turbowarp.org/1090663998/embed'
 thumbnail: /new-images/thumbnails/sprunki-interactive-beta.png
+urlstr: sprunki-interactive-beta
 tags:
   - sprunki interactive beta
 score: 4.0/5  (407 votes)

@@ -1,14 +1,17 @@
 ---
-locale: "zh"
-urlstr: "sprunkr-but-sprunki"
-
-title: "Sprunkr But Sprunki - 在线玩 Sprunkr But Sprunki"
-description: "Sprunkr But Sprunki Mod 是对原版 Sprunkr Mod 的创意改编，用深受喜爱的 Sprunki 角色替换了现有角色。你不仅可以体验 Sprunkr 的经典玩法，还可以沉浸在 Sprunki 风格的视觉和听觉盛宴中。"
-iframeSrc: "https://turbowarp.org/1113707117/embed"
+locale: zh
+title: Sprunkr But Sprunki
+seoTitle: 免费在线玩 Sprunkr But Sprunki | FiddleBops
+description: >-
+  Sprunkr But Sprunki Mod 是对原版 Sprunkr Mod 的创意改编，用深受喜爱的 Sprunki
+  角色替换了现有角色。你不仅可以体验 Sprunkr 的经典玩法，还可以沉浸在 Sprunki 风格的视觉和听觉盛宴中。
+iframeSrc: 'https://turbowarp.org/1113707117/embed'
 thumbnail: /new-images/thumbnails/sprunkr-but-sprunki.png
-score: "4.5/5  (541 votes)"
-tags: ["sprunkr but sprunki"]
-releaseDate: 2025-12-04
+urlstr: sprunkr-but-sprunki
+tags:
+  - sprunkr but sprunki
+score: 4.5/5  (541 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

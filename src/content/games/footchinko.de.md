@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: footchinko
 title: Footchinko
+seoTitle: Spiele Footchinko kostenlos online | FiddleBops
 description: >-
   Footchinko verbindet Fußball mit Pachinko: Lass den Ball fallen, pralle an
   Pins ab und ziele auf Tore, hohe Punktzahlen und coole Boni.
 iframeSrc: 'https://footchinko2.h5games.usercontent.goog/v/3iniom5rsklno/'
 thumbnail: /new-images/thumbnails/footchinko.jpg
+urlstr: footchinko
 tags:
   - sports
   - casual

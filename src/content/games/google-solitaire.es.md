@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: google-solitaire
 title: Google Solitaire
+seoTitle: Juega a Google Solitaire en línea gratis | FiddleBops
 description: >-
   Solitario Klondike clásico: mueve cartas para construir las pilas de
   fundamentos por palo de As a Rey usando columnas que bajan alternando colores.
 iframeSrc: 'https://www.google.com/logos/fnbx/solitaire/standalone.html'
 thumbnail: /new-images/thumbnails/google-solitaire.jpg
+urlstr: google-solitaire
 tags:
   - solitaire
   - card

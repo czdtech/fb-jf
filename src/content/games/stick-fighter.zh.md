@@ -1,16 +1,18 @@
 ---
 locale: zh
-urlstr: stick-fighter
 title: 《Stick Fighter》火柴人格斗
+seoTitle: 免费在线玩 《Stick Fighter》火柴人格斗 | FiddleBops
 description: 《Stick Fighter》是一款以火柴人为主角的横版格斗游戏。运用连招、跳跃和防御，在各种场景中与敌人展开一对一或一对多的战斗。
-iframeSrc: 'https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221209/4/index.html'
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221209/4/index.html
 thumbnail: /new-images/thumbnails/stick-fighter.jpg
+urlstr: stick-fighter
 tags:
   - fighting
   - action
   - stickman
 score: 3.6/5  (1444 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

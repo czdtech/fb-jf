@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: rocket-league
 title: Rocket League
+seoTitle: Spiele Rocket League kostenlos online | FiddleBops
 description: >-
   Rocket League ist ein temporeiches Sportspiel, das Fußball mit
   raketenbetriebenen Autos kombiniert: Du fährst, springst und boostest, um
@@ -9,6 +9,7 @@ description: >-
   spektakulärer Luftduelle.
 iframeSrc: 'https://ubg77.github.io/edit/rocket-soccer-derby/'
 thumbnail: /new-images/thumbnails/rocket-league.jpg
+urlstr: rocket-league
 tags:
   - sports
   - racing

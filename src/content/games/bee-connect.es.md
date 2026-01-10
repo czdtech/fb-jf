@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: bee-connect
-title: "Bee Connect puzle numérico en panal"
+title: Bee Connect puzle numérico en panal
+seoTitle: Juega a Bee Connect puzle numérico en panal en línea gratis | FiddleBops
 description: >-
   En Bee Connect debes organizar los números de un panal hexagonal formando
   grupos de cuatro o más celdas iguales para fusionarlas en valores superiores.
 iframeSrc: >-
   https://beeconnect.h5games.usercontent.goog/v/06c7e297-3e6d-4512-9fb2-e491ae2b2fb9/
 thumbnail: /new-images/thumbnails/bee-connect.jpg
+urlstr: bee-connect
 tags:
   - puzzle
   - casual

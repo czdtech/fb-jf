@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: onet-connect-classic
 title: Onet Connect Classic
+seoTitle: Spiele Onet Connect Classic kostenlos online | FiddleBops
 description: >-
   Teste deine Reaktion und dein Auge in Onet Connect Classic. Finde Paare
   identischer Kacheln und räume das Spielfeld, indem du sie mit einem Weg mit
   höchstens zwei Ecken verbindest, bevor die Zeit abläuft.
 iframeSrc: 'https://onetconnectclassic.h5games.usercontent.goog/v/0q8248mt11l3g/'
 thumbnail: /new-images/thumbnails/onet-connect-classic.png
+urlstr: onet-connect-classic
 tags:
   - puzzle
   - casual

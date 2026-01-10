@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: cat-sort-quest
 title: Cat Sort Quest 小猫排序挑战
+seoTitle: 免费在线玩 Cat Sort Quest 小猫排序挑战 | FiddleBops
 description: 《Cat Sort Quest 小猫排序挑战》是一款类似试管排序的脑洞小游戏，把不同颜色的小猫按顺序移到对应的栖木或容器 中，直到每根栖木只剩一种颜色。
 iframeSrc: 'https://4ajc8tu89od7g.h5games.usercontent.goog/v/49be5kf9v96j0/'
 thumbnail: /new-images/thumbnails/cat-sort-quest.png
+urlstr: cat-sort-quest
 tags:
   - puzzle
   - thinky

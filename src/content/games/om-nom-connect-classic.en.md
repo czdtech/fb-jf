@@ -1,14 +1,22 @@
 ---
 locale: en
-title: "Om Nom Connect Classic"
-description: "Connect with Om Nom in this classic tile-matching puzzle! Find pairs of identical tiles featuring Om Nom and his friends, and clear the board by linking them with a path of no more than two turns."
-iframeSrc: "https://omnomconnectclassic.h5games.usercontent.goog/v/6bc88dac-9f6b-4f2f-8c85-e715c899bb63/"
+title: Om Nom Connect Classic
+seoTitle: Play Om Nom Connect Classic Online Free | FiddleBops
+description: >-
+  Connect with Om Nom in this classic tile-matching puzzle! Find pairs of
+  identical tiles featuring Om Nom and his friends, and clear the board by
+  linking them with a path of no more than two turns.
+iframeSrc: >-
+  https://omnomconnectclassic.h5games.usercontent.goog/v/6bc88dac-9f6b-4f2f-8c85-e715c899bb63/
 thumbnail: /new-images/thumbnails/om-nom-connect-classic.jpg
-urlstr: "om-nom-connect-classic"
-score: "4.4/5  (2400 votes)"
-tags: ["puzzle", "casual", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: om-nom-connect-classic
+tags:
+  - puzzle
+  - casual
+  - thinky
+score: 4.4/5  (2400 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

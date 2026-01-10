@@ -1,6 +1,7 @@
 ---
 locale: en
-title: Swap Sprunkgerny - Play Swap Sprunkgerny Online
+title: Swap Sprunkgerny
+seoTitle: Play Swap Sprunkgerny Online Free | FiddleBops
 description: >-
   Imagine a group of alien creatures standing in front of you, with exaggerated
   eyes and quirky personalities, waiting for you to bring them to life. And you
@@ -9,11 +10,11 @@ description: >-
 iframeSrc: 'https://turbowarp.org/1141050651/embed'
 thumbnail: /new-images/thumbnails/swap-sprunkgerny.png
 urlstr: swap-sprunkgerny
-score: 4.9/5  (724 votes)
 tags:
   - swap sprunkgerny
   - swap sprunkgerny online
   - music
+score: 4.9/5  (724 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

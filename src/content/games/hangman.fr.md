@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: hangman
 title: Hangman
+seoTitle: Jouez à Hangman en ligne gratuitement | FiddleBops
 description: >-
   Jeu de pendu classique : devine le mot secret en proposant des lettres sans
   faire trop d'erreurs avant que le dessin du personnage soit complet.
 iframeSrc: 'https://hangman-frontend.coolmathgames.com/home'
 thumbnail: /new-images/thumbnails/hangman.jpg
+urlstr: hangman
 tags:
   - word
   - puzzle

@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Solitaire
+seoTitle: 無料でSolitaireをオンラインでプレイ | FiddleBops
 description: >-
   Solitaireは、プレイヤーが特定のシーケンスとスートでカードを配置するクラシックな一人用カードゲーム。すべてのカードをファウンデーションパイルに移動してタブローをクリアすることを目指す、この不朽のパズルゲーム。
 iframeSrc: 'https://www.edogan.us/solitaire-js/'
 thumbnail: /new-images/thumbnails/solitaire.jpg
 urlstr: solitaire
-score: 4.8/5  (1242 votes)
 tags:
   - card game
   - classic
   - puzzle
+score: 4.8/5  (1242 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 

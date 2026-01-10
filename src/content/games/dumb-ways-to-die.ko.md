@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: dumb-ways-to-die
 title: Dumb Ways to Die 덤 웨이즈 투 다이
+seoTitle: Dumb Ways to Die 덤 웨이즈 투 다이 무료 온라인 플레이 | FiddleBops
 description: 각종 황당한 사고를 피해야 하는 빠른 반응형 미니 게임 모음입니다. 짧은 마이크로 게임들을 빠르게 성공시켜 캐릭터들을 지켜 보세요.
 iframeSrc: 'https://html5.iclouds.io/dumb-ways-die/'
 thumbnail: /new-images/thumbnails/dumb-ways-to-die.jpg
+urlstr: dumb-ways-to-die
 tags:
   - arcade
   - minigames

@@ -1,14 +1,20 @@
 ---
 locale: fr
-urlstr: "lucky-vegas-blackjack"
-title: "Lucky Vegas Blackjack"
-description: "Lucky Vegas Blackjack simplifie le blackjack : applique la stratégie de base, gère ta bankroll et profite de parties rapides sans courir après tes pertes."
-iframeSrc: "https://35ntqr0siokq8.h5games.usercontent.goog/v/1hhotshtjugn8/"
+title: Lucky Vegas Blackjack
+seoTitle: Jouez à Lucky Vegas Blackjack en ligne gratuitement | FiddleBops
+description: >-
+  Lucky Vegas Blackjack simplifie le blackjack : applique la stratégie de base,
+  gère ta bankroll et profite de parties rapides sans courir après tes pertes.
+iframeSrc: 'https://35ntqr0siokq8.h5games.usercontent.goog/v/1hhotshtjugn8/'
 thumbnail: /new-images/thumbnails/lucky-vegas-blackjack.png
-tags: ["card", "casual", "thinky"]
-score: "3.7/5  (1604 votes)"
-developer: ""
-releaseDate: 2025-10-18
+urlstr: lucky-vegas-blackjack
+tags:
+  - card
+  - casual
+  - thinky
+score: 3.7/5  (1604 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

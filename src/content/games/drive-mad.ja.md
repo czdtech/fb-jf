@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Drive Mad ドライブ・マッド
+seoTitle: 無料でDrive Mad ドライブ・マッドをオンラインでプレイ | FiddleBops
 description: 「Drive Mad」は物理演算ドライビング・パズル。バランスを取り、障害物を乗り越え、どんな手を使ってでもゴールまでトラックを運ぼう。
 iframeSrc: 'https://ubg98.github.io/DriveMad/'
 thumbnail: /new-images/thumbnails/drive-mad.jpg
 urlstr: drive-mad
-score: 3.7/5  (1285 votes)
 tags:
   - driving
   - physics
+score: 3.7/5  (1285 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

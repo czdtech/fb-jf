@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Duck Life 4 ダックライフ4
+seoTitle: 無料でDuck Life 4 ダックライフ4をオンラインでプレイ | FiddleBops
 description: 「Duck Life 4」はアヒル育成レースゲームの第4弾。走って、泳いで、飛んでトレーニング。能力を鍛え上げてトーナメントを制覇しよう。
 iframeSrc: 'https://webglmath.github.io/ducklife-4/'
 thumbnail: /new-images/thumbnails/duck-life-4.jpg
 urlstr: duck-life-4
-score: 4.8/5  (1295 votes)
 tags:
   - racing
   - simulation
+score: 4.8/5  (1295 votes)
 developer: Wix Games
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

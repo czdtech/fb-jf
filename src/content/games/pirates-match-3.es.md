@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: pirates-match-3
-title: Pirates Match 3 - Aventura de tesoros y combinaciones
+title: Pirates Match 3
+seoTitle: Juega a Pirates Match 3 en línea gratis | FiddleBops
 description: >-
   ¡Ar, marinero! Zarpa en una aventura de puzles en Pirates Match 3. Intercambia
   gemas pirata como calaveras, anclas y monedas para formar líneas de tres o más
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://piratesmatch3.h5games.usercontent.goog/v/fea2f25f-a39a-4273-93c1-38f8f9bd8260/
 thumbnail: /new-images/thumbnails/pirates-match-3.jpg
+urlstr: pirates-match-3
 tags:
   - puzzle
   - casual

@@ -1,17 +1,18 @@
 ---
 locale: fr
-urlstr: super-smash-flash-2-v09
 title: Super Smash Flash 2 v0.9
+seoTitle: Jouez à Super Smash Flash 2 v0.9 en ligne gratuitement | FiddleBops
 description: >-
   Super Smash Flash 2 v0.9 améliore encore le contenu et l’équilibrage, tout en
   gardant la formule de combat de plateforme à la Smash Bros.
 iframeSrc: 'https://kdata1.com/games/SSF9_2011/?kbhgames'
 thumbnail: /new-images/thumbnails/super-smash-flash-2-v09.jpg
+urlstr: super-smash-flash-2-v09
 tags:
   - fighting
   - 2 player
 score: 4.2/5  (265 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

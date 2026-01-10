@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Cluster Rush クラスター・ラッシュ
+seoTitle: 無料でCluster Rush クラスター・ラッシュをオンラインでプレイ | FiddleBops
 description: 「Cluster Rush」でカオスなトラックの車列を飛び移れ！物理演算ベースの激ムズ一人称パルクールアクション。タイミングと反射神経が全てだ。
 iframeSrc: 'https://clusterrush.io/game/cluster-rush/'
 thumbnail: /new-images/thumbnails/cluster-rush.jpg
 urlstr: cluster-rush
-score: 4.6/5  (1082 votes)
 tags:
   - platformer
   - parkour
+score: 4.6/5  (1082 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

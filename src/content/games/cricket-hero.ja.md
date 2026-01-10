@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Cricket Hero クリケット・ヒーロー
+seoTitle: 無料でCricket Hero クリケット・ヒーローをオンラインでプレイ | FiddleBops
 description: 「Cricket Hero」でバッティングの天才になろう。タイミングよくバットを振って、ボールを打ち返し、クリケットの伝説として高得点を叩き出せ。
 iframeSrc: 'https://crickethero.h5games.usercontent.goog/v/7cnfq54s3ilao/'
 thumbnail: /new-images/thumbnails/cricket-hero.jpg
 urlstr: cricket-hero
-score: 4.3/5  (2109 votes)
 tags:
   - sports
   - action
   - casual
+score: 4.3/5  (2109 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

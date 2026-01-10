@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: pac-man
-title: PAC-MAN - Clásico arcade comefantasmas
+title: PAC-MAN
+seoTitle: Juega a PAC-MAN en línea gratis | FiddleBops
 description: >-
   PAC-MAN es el clásico juego de laberintos de recreativa en el que controlas a
   Pac-Man para recorrer el mapa comiendo todos los puntos mientras esquivas a
@@ -9,6 +9,7 @@ description: >-
   darles la vuelta a las tornas y zamparse a los fantasmas.
 iframeSrc: 'https://bward2.github.io/pacman-js/'
 thumbnail: /new-images/thumbnails/pac-man.jpg
+urlstr: pac-man
 tags:
   - arcade
   - maze

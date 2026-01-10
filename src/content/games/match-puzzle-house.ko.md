@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: match-puzzle-house
 title: Match Puzzle House 매치 퍼즐 하우스
+seoTitle: Match Puzzle House 매치 퍼즐 하우스 무료 온라인 플레이 | FiddleBops
 description: >-
   Match Puzzle House는 집 리모델링 요소가 결합된 매치-3 퍼즐 게임으로, 스테이지 목표를 달성해 별을 모으고 다양한 방을 꾸밀
   수 있습니다. 부스터를 현명하게 사용해 어려운 퍼즐을 돌파해 보세요.
 iframeSrc: 'https://7cp83ss0h08p0.h5games.usercontent.goog/v/49v2bsl4scjdo/'
 thumbnail: /new-images/thumbnails/match-puzzle-house.png
+urlstr: match-puzzle-house
 tags:
   - puzzle
   - casual

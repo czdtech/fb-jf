@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Five Nights at Freddy's Sister Location
+seoTitle: 無料でFive Nights at Freddy's Sister Locationをオンラインでプレイ | FiddleBops
 description: >-
   タスクベースのシフト制ホラー：部屋を移動し、メンテナンス作業を完了し、Funtimeアニマトロニクスを監視して、スクリプト化されたセットピースを生き残りましょう。
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnafsl.html'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-sl.jpg
 urlstr: five-nights-at-freddy-sl
-score: 3.9/5  (678 votes)
 tags:
   - horror
   - adventure
+score: 3.9/5  (678 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

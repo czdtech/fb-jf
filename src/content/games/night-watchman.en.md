@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Night Watchman"
-description: "Night Watchman is a horror-survival game where players work as a night guard, monitoring security cameras and managing limited resources to survive against mysterious threats in a dark, abandoned building."
-iframeSrc: "https://g2.igroutka.ru/lib/crazy/games/night-watchman/"
+title: Night Watchman
+seoTitle: Play Night Watchman Online Free | FiddleBops
+description: >-
+  Night Watchman is a horror-survival game where players work as a night guard,
+  monitoring security cameras and managing limited resources to survive against
+  mysterious threats in a dark, abandoned building.
+iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/night-watchman/'
 thumbnail: /new-images/thumbnails/night-watchman.jpg
-urlstr: "night-watchman"
-score: "4.5/5  (1344 votes)"
-tags: ["horror", "survival", "puzzle"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: night-watchman
+tags:
+  - horror
+  - survival
+  - puzzle
+score: 4.5/5  (1344 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

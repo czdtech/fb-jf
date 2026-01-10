@@ -1,14 +1,15 @@
 ---
-locale: "zh"
-urlstr: "sprunki-phase-8"
-
-title: "Sprunki Phase 8 - 在线 Sprunki Phase 8 游戏"
-description: "Sprunki Phase 8 是一次大胆的实验，将音乐创作与恐怖美学成功融合在一起。在这里，你可以一边享受创作音乐的乐趣，一边探索黑暗而神秘的世界。"
-iframeSrc: "https://turbowarp.org/1140266189/embed"
+locale: zh
+title: Sprunki Phase 8
+seoTitle: 免费在线玩 Sprunki Phase 8 | FiddleBops
+description: Sprunki Phase 8 是一次大胆的实验，将音乐创作与恐怖美学成功融合在一起。在这里，你可以一边享受创作音乐的乐趣，一边探索黑暗而神秘的世界。
+iframeSrc: 'https://turbowarp.org/1140266189/embed'
 thumbnail: /new-images/thumbnails/sprunki-phase-8.png
-score: "4.2/5  (396 votes)"
-tags: ["sprunki phase 8"]
-releaseDate: 2025-12-04
+urlstr: sprunki-phase-8
+tags:
+  - sprunki phase 8
+score: 4.2/5  (396 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

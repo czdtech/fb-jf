@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: bad-ice-cream
 title: Bad Ice-Cream guía del original
+seoTitle: Juega a Bad Ice-Cream guía del original en línea gratis | FiddleBops
 description: >-
   Bad Ice-Cream es el primer juego de la querida serie de puzles helados.
   Aprende estrategias, controles y consejos para recoger toda la fruta mientras
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/x4/index.html
 thumbnail: /new-images/thumbnails/bad-ice-cream.jpg
+urlstr: bad-ice-cream
 tags:
   - casual
   - puzzle

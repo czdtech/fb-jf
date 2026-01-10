@@ -1,13 +1,18 @@
 ---
-title: "Incredibox Cool As Ice 🎮 Play Incredibox Cool As Ice Online"
-description: "Incredibox Cool as Iceは冬（氷）テーマのファンメイドModです。キャラクターやサウンドが冬仕様になり、ドラッグ＆ドロップでループ音楽を作れます。"
-iframeSrc: "https://turbowarp.org/1108441752/embed"
-thumbnail: /new-images/thumbnails/incredibox-cool-as-ice.png
-urlstr: "incredibox-cool-as-ice"
-score: "4.9/5  (724 votes)"
-tags: ["incredibox cool as ice", "incredibox cool as ice online"]
 locale: ja
-releaseDate: 2025-12-04
+title: Incredibox Cool As Ice
+seoTitle: 無料でIncredibox Cool As Iceをオンラインでプレイ | FiddleBops
+description: >-
+  Incredibox Cool as
+  Iceは冬（氷）テーマのファンメイドModです。キャラクターやサウンドが冬仕様になり、ドラッグ＆ドロップでループ音楽を作れます。
+iframeSrc: 'https://turbowarp.org/1108441752/embed'
+thumbnail: /new-images/thumbnails/incredibox-cool-as-ice.png
+urlstr: incredibox-cool-as-ice
+tags:
+  - incredibox cool as ice
+  - incredibox cool as ice online
+score: 4.9/5  (724 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Incredibox Cool As Iceの紹介

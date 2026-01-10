@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: flappy-bird
 title: Flappy Bird 플래피 버드
+seoTitle: Flappy Bird 플래피 버드 무료 온라인 플레이 | FiddleBops
 description: >-
   Flappy Bird는 화면을 탭해 새를 위로 띄우며, 파이프 사이 좁은 틈을 통과해 최대한 멀리 가는 것을 목표로 하는 간단하지만 난이도
   높은 아케이드 게임입니다.
 iframeSrc: 'https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/TAhlQLDa/index.html'
 thumbnail: /new-images/thumbnails/flappy-bird.jpg
+urlstr: flappy-bird
 tags:
   - arcade
   - endless-runner

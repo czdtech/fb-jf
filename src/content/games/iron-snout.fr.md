@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: iron-snout
 title: Iron Snout
+seoTitle: Jouez à Iron Snout en ligne gratuitement | FiddleBops
 description: >-
   Brawler 2D nerveux avec cochon kung‑fu : pare les loups, jongle avec des coups
   de pied et renvoie leurs armes pour survivre aux vagues et battre des records.
 iframeSrc: 'https://webglmath.github.io/iron-snout/'
 thumbnail: /new-images/thumbnails/iron-snout.jpg
+urlstr: iron-snout
 tags:
   - fighting
   - arcade

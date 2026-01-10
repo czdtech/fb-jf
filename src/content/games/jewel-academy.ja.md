@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Jewel Academy
+seoTitle: 無料でJewel Academyをオンラインでプレイ | FiddleBops
 description: 宝石を入れ替えてそろえるマッチ3パズルです。特殊宝石を作り、各レベルの目標を達成して進めます。
 iframeSrc: 'https://jewelacademy.h5games.usercontent.goog/v/2krc7uv2m9998/'
 thumbnail: /new-images/thumbnails/jewel-academy.png
 urlstr: jewel-academy
-score: 4.5/5  (2890 votes)
 tags:
   - puzzle
   - casual
   - action
+score: 4.5/5  (2890 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

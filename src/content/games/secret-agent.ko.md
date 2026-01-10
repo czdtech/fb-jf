@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: secret-agent
 title: Secret Agent 시크릿 에이전트
+seoTitle: Secret Agent 시크릿 에이전트 무료 온라인 플레이 | FiddleBops
 description: >-
   잠입과 퍼즐 요소가 섞인 스텔스 액션 게임입니다. 경비의 시야를 피해 카메라와 함정을 해제하고, 각종 도구를 활용해 임무를 완수한 뒤
   안전하게 탈출하세요.
 iframeSrc: 'https://087cce7dimlq8.h5games.usercontent.goog/v/6na8sphqpnhlo/'
 thumbnail: /new-images/thumbnails/secret-agent.png
+urlstr: secret-agent
 tags:
   - action
   - puzzle

@@ -1,17 +1,18 @@
 ---
 locale: es
-urlstr: sprunki-parasite-parasprunki-15
-title: 'Sprunki Parasite ParaSprunki 15 - Juega a Sprunki Parasite ParaSprunki 15 en línea'
+title: Sprunki Parasite ParaSprunki 15
+seoTitle: Juega a Sprunki Parasite ParaSprunki 15 en línea gratis | FiddleBops
 description: >-
   Prepárate para Sprunki Parasite ParaSprunki 15. Este mod retuerce la clásica
   experiencia de creación musical en una aventura inquietante, con personajes
   parasitados y paisajes sonoros llenos de glitches y terror.
 iframeSrc: 'https://kdata1.com/2025/03/paraSprunki-update-15-0-part-222/'
 thumbnail: /new-images/thumbnails/sprunki-parasite-parasprunki-15.png
+urlstr: sprunki-parasite-parasprunki-15
 tags:
   - incredibox sprunksters
 score: 4.3/5  (372 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

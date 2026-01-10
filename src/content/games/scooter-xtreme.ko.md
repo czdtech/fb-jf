@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: scooter-xtreme
 title: Scooter Xtreme 3D 스쿠터 익스트림
+seoTitle: Scooter Xtreme 3D 스쿠터 익스트림 무료 온라인 플레이 | FiddleBops
 description: >-
   3D 스케이트 파크를 질주하며 점프와 그라인드를 펼치는 스턴트 레이싱 게임입니다. 코스를 완주하고 코인을 모아 새로운 스쿠터와 라이더를
   해금해 보세요.
 iframeSrc: >-
   https://scooterxtreme.h5games.usercontent.goog/v/c842db43-7823-45bc-b575-acbd9bda5de4/
 thumbnail: /new-images/thumbnails/scooter-xtreme.jpg
+urlstr: scooter-xtreme
 tags:
   - action
   - sports

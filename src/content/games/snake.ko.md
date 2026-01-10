@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: snake
 title: Snake 스네이크
+seoTitle: Snake 스네이크 무료 온라인 플레이 | FiddleBops
 description: >-
   Snake는 화면 위를 계속 움직이는 뱀을 조종해 먹이를 먹고 길이를 늘리는 고전 아케이드 게임입니다. 벽이나 자기 몸에 부딪히지 않도록
   조심하면서, 얼마나 길게 성장시킬 수 있는지 도전해 보세요.
 iframeSrc: 'https://www.googlesnake.com/snakem.php'
 thumbnail: /new-images/thumbnails/snake.jpg
+urlstr: snake
 tags:
   - classic
   - arcade

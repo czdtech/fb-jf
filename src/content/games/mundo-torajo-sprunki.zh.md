@@ -1,14 +1,15 @@
 ---
-locale: "zh"
-urlstr: "mundo-torajo-sprunki"
-
-title: "Mundo Torajo Sprunki - 在线玩 Mundo Torajo Sprunki"
-description: "这款独特的 Mod 巧妙地将 Mundo Torajo 的奇幻宇宙与 Sprunki 平台的节奏创意乐趣相融合，让你在游戏中释放无限创意。"
-iframeSrc: "https://turbowarp.org/1096623350/embed"
+locale: zh
+title: Mundo Torajo Sprunki
+seoTitle: 免费在线玩 Mundo Torajo Sprunki | FiddleBops
+description: 这款独特的 Mod 巧妙地将 Mundo Torajo 的奇幻宇宙与 Sprunki 平台的节奏创意乐趣相融合，让你在游戏中释放无限创意。
+iframeSrc: 'https://turbowarp.org/1096623350/embed'
 thumbnail: /new-images/thumbnails/mundo-torajo-sprunki.png
-score: "4.0/5  (112 votes)"
-tags: ["mundo torajo sprunki"]
-releaseDate: 2025-12-04
+urlstr: mundo-torajo-sprunki
+tags:
+  - mundo torajo sprunki
+score: 4.0/5  (112 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

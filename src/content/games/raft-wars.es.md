@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: raft-wars
 title: Raft Wars
+seoTitle: Juega a Raft Wars en línea gratis | FiddleBops
 description: >-
   Raft Wars es un juego de disparos por turnos en el que ayudas a dos hermanos
   pequeños a defender su tesoro de piratas y vikingos usando pelotas de tenis y
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210301/jj8/index.html
 thumbnail: /new-images/thumbnails/raft-wars.jpg
+urlstr: raft-wars
 tags:
   - strategy
   - shooting

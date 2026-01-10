@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: crocword
 title: Crocword
+seoTitle: Jouez à Crocword en ligne gratuitement | FiddleBops
 description: "Crocword est un jeu de mots relaxant\_: relie les lettres pour former des mots et remplir une grille façon mots croisés."
 iframeSrc: 'https://4u2r33lp92ja0.h5games.usercontent.goog/v/53cgdtc83kng8/'
 thumbnail: /new-images/thumbnails/crocword.png
+urlstr: crocword
 tags:
   - puzzle
   - thinky

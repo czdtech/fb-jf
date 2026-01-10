@@ -1,10 +1,13 @@
 ---
 locale: zh
-urlstr: incredibox-geek-dance-simulator
-title: "Incredibox Geek Dance Simulator - 在线玩 Incredibox Geek Dance Simulator"
-description: "探索 Incredibox Geek Dance Simulator，这款粉丝 Mod 以基于网格的界面庆祝极客文化。本指南详细介绍了其 8 位芯片音乐音色调色板和创作复古视频游戏循环的玩法。"
+title: Incredibox Geek Dance Simulator
+seoTitle: 免费在线玩 Incredibox Geek Dance Simulator | FiddleBops
+description: >-
+  探索 Incredibox Geek Dance Simulator，这款粉丝 Mod 以基于网格的界面庆祝极客文化。本指南详细介绍了其 8
+  位芯片音乐音色调色板和创作复古视频游戏循环的玩法。
 iframeSrc: 'https://turbowarp.org/904948672/embed'
 thumbnail: /new-images/thumbnails/incredibox-geek-dance-simulator.png
+urlstr: incredibox-geek-dance-simulator
 tags:
   - music
   - rhythm

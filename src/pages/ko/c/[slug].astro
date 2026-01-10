@@ -3,6 +3,7 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import CATEGORIES from '../../../components/Categories.astro';
 import { getCategoryHreflang } from '../../../data/hreflang';
 import { toGameCardData, type GameEntry } from '../../../lib/canonical-games';
+import { buildCategorySeoTitle } from '../../../lib/seo-title';
 
 export { getStaticPaths } from '../../c/[slug].astro';
 
@@ -26,7 +27,7 @@ const description = `FiddleBops Game World에서 ${gameCount}개의 ${displayTag
   .slice(0, 3)
   .map((g) => toGameCardData(g, locale).title)
   .join(', ')} 등 인기 게임이 포함됩니다.`;
-const title = `${displayTagName} 게임 - FiddleBops Game World`;
+const title = buildCategorySeoTitle(locale, displayTagName);
 const canonicalUrl = `https://www.playfiddlebops.com/ko/c/${slug}/`;
 
 const jsonLd = {

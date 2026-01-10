@@ -1,13 +1,14 @@
 ---
 locale: zh
-urlstr: pou
 title: 《Pou Game》外星宠物养成
+seoTitle: 免费在线玩 《Pou Game》外星宠物养成 | FiddleBops
 description: >-
   《Pou Game》是一款虚拟宠物养成游戏，你将收养一只名叫 Pou
   的外星小宠物，通过喂食、清洁、陪玩和装扮等日常互动，让它健康成长，并在各种小游戏中一起玩乐。
 iframeSrc: >-
   https://app-184491.games.s3.yandex.net/184491/simr1s69tzefn132i2xlbk4dusun0mgw/index.html
 thumbnail: /new-images/thumbnails/pou.jpg
+urlstr: pou
 tags:
   - virtual pet
   - simulation

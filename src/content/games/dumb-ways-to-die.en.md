@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Dumb Ways to Die"
-description: "Dumb Ways to Die is a fast‑reaction mini‑game collection: complete micro‑challenges quickly to keep characters alive."
-iframeSrc: "https://html5.iclouds.io/dumb-ways-die/"
+title: Dumb Ways to Die
+seoTitle: Play Dumb Ways to Die Online Free | FiddleBops
+description: >-
+  Dumb Ways to Die is a fast‑reaction mini‑game collection: complete
+  micro‑challenges quickly to keep characters alive.
+iframeSrc: 'https://html5.iclouds.io/dumb-ways-die/'
 thumbnail: /new-images/thumbnails/dumb-ways-to-die.jpg
-urlstr: "dumb-ways-to-die"
-score: "3.9/5  (534 votes)"
-tags: ["arcade", "minigames"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: dumb-ways-to-die
+tags:
+  - arcade
+  - minigames
+score: 3.9/5  (534 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

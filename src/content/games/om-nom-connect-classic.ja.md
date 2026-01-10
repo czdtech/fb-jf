@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Om Nom Connect Classic
+seoTitle: 無料でOm Nom Connect Classicをオンラインでプレイ | FiddleBops
 description: Om Nom Connect Classicはマッチングパズルです。同じタイルを接続し、パスをクリアし、Om Nomをテーマにしたレベルをマスターします。
 iframeSrc: >-
   https://omnomconnectclassic.h5games.usercontent.goog/v/6bc88dac-9f6b-4f2f-8c85-e715c899bb63/
 thumbnail: /new-images/thumbnails/om-nom-connect-classic.jpg
 urlstr: om-nom-connect-classic
-score: 4.4/5  (2400 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.4/5  (2400 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

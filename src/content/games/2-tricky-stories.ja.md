@@ -1,14 +1,17 @@
 ---
-title: "Brain Test 2: Tricky Stories 脳トレテスト2：トリッキーストーリー"
-description: "「Brain Test 2: Tricky Stories」をプレイする絶好のチャンスです。このゲームを存分にお楽しみください！"
-iframeSrc: "https://bitlifeonline.github.io/brain-test-2-tricky-stories/"
-thumbnail: /new-images/thumbnails/2-tricky-stories.jpg
-urlstr: "2-tricky-stories"
-score: "4.0/5  (1166 votes)"
-tags: ["casual", "rhythm"]
-developer: ""
-releaseDate: 2025-08-16
 locale: ja
+title: 'Brain Test 2: Tricky Stories 脳トレテスト2：トリッキーストーリー'
+seoTitle: '無料でBrain Test 2: Tricky Stories 脳トレテスト2：トリッキーストーリーをオンラインでプレイ | FiddleBops'
+description: '「Brain Test 2: Tricky Stories」をプレイする絶好のチャンスです。このゲームを存分にお楽しみください！'
+iframeSrc: 'https://bitlifeonline.github.io/brain-test-2-tricky-stories/'
+thumbnail: /new-images/thumbnails/2-tricky-stories.jpg
+urlstr: 2-tricky-stories
+tags:
+  - casual
+  - rhythm
+score: 4.0/5  (1166 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

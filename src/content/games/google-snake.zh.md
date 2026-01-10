@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: google-snake
 title: Google Snake 谷歌贪吃蛇
+seoTitle: 免费在线玩 Google Snake 谷歌贪吃蛇 | FiddleBops
 description: 现代版贪吃蛇：操控越变越长的小蛇吃水果、躲避墙壁与自己的身体， 在不同规则与模式下挑战高分。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230830/05/index.html
 thumbnail: /new-images/thumbnails/google-snake.jpg
+urlstr: google-snake
 tags:
   - arcade
   - snake

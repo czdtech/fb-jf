@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: tower-crash-3d
 title: Tower Crash 3D
+seoTitle: Spiele Tower Crash 3D kostenlos online | FiddleBops
 description: >-
   Sprenge bunte Türme in Tower Crash 3D: Schieße Kugeln der passenden Farbe,
   kippe die Physik‑Türme unter die Ziellinie und pass auf – deine Schüsse sind
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://towercrash3d.h5games.usercontent.goog/v/7c54afc1-3ca4-4121-a52a-9ea74e30f0d7/
 thumbnail: /new-images/thumbnails/tower-crash-3d.jpg
+urlstr: tower-crash-3d
 tags:
   - action
   - shooting

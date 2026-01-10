@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: merge-melons
 title: Merge Melons
+seoTitle: Jouez à Merge Melons en ligne gratuitement | FiddleBops
 description: >-
   Lâche et fusionne des fruits dans ce jeu de puzzle inspiré de Suika Game.
   Combine des fruits identiques pour en créer de plus gros, vise la pastèque
   géante et ne laisse pas ton récipient déborder !
 iframeSrc: 'https://mergemelons.h5games.usercontent.goog/v/7526h5to2d1v0/'
 thumbnail: /new-images/thumbnails/merge-melons.png
+urlstr: merge-melons
 tags:
   - puzzle
   - casual

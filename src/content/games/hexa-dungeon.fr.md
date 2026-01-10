@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: hexa-dungeon
 title: Hexa Dungeon
+seoTitle: Jouez à Hexa Dungeon en ligne gratuitement | FiddleBops
 description: >-
   Entre dans Hexa Dungeon et combat des squelettes ! Connecte des tuiles
   hexagonales de même couleur dans ce puzzle match‑3 pour lancer de puissantes
   attaques et progresser dans le donjon.
 iframeSrc: 'https://hexadungeon.h5games.usercontent.goog/v/0j3gttu45n06g/'
 thumbnail: /new-images/thumbnails/hexa-dungeon.png
+urlstr: hexa-dungeon
 tags:
   - puzzle
   - action

@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Giant Attack
+seoTitle: 無料でGiant Attackをオンラインでプレイ | FiddleBops
 description: >-
   アクション満載のアーケードゲームで巨大なモンスターに挑みましょう！味方を集めてサイズとパワーを上げ、壊滅的な攻撃を繰り出して、そびえ立つ怪物を倒してください。
 iframeSrc: 'https://5699ri02mr840.h5games.usercontent.goog/v/0dov2qbpnafb0/'
 thumbnail: /new-images/thumbnails/giant-attack.png
 urlstr: giant-attack
-score: 4.1/5  (1800 votes)
 tags:
   - action
   - casual
+score: 4.1/5  (1800 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

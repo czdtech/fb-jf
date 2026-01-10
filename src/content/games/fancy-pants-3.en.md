@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Fancy Pants 3"
-description: "Momentum platforming returns with bigger stages, more secrets, and refined wall‑runs and slides in hand‑drawn worlds."
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj10/index.html"
+title: Fancy Pants 3
+seoTitle: Play Fancy Pants 3 Online Free | FiddleBops
+description: >-
+  Momentum platforming returns with bigger stages, more secrets, and refined
+  wall‑runs and slides in hand‑drawn worlds.
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj10/index.html
 thumbnail: /new-images/thumbnails/fancy-pants-3.jpg
-urlstr: "fancy-pants-3"
-score: "4.3/5  (1419 votes)"
-tags: ["platformer", "action"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: fancy-pants-3
+tags:
+  - platformer
+  - action
+score: 4.3/5  (1419 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

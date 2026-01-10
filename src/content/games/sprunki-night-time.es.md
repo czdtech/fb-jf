@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: sprunki-night-time
-title: Sprunki Night Time - Juega a Sprunki Night Time online
+title: Sprunki Night Time
+seoTitle: Juega a Sprunki Night Time en línea gratis | FiddleBops
 description: >-
   Sprunki Night Time te lleva a un mundo oscuro lleno de misterio y secretos,
   donde puedes vivir un viaje musical psicodélico en pleno silencio nocturno.
@@ -9,6 +9,7 @@ description: >-
   enigmática.
 iframeSrc: 'https://turbowarp.org/1100659044/embed'
 thumbnail: /new-images/thumbnails/sprunki-night-time.png
+urlstr: sprunki-night-time
 tags:
   - sprunki night time
   - sprunki night time online

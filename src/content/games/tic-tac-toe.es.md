@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: tic-tac-toe
-title: Tic-Tac-Toe - Tres en raya clásico
+title: Tic-Tac-Toe
+seoTitle: Juega a Tic-Tac-Toe en línea gratis | FiddleBops
 description: >-
   Tic‑Tac‑Toe es el clásico juego de estrategia en el que dos jugadores se
   turnan para colocar X y O en una cuadrícula de 3×3, intentando ser los
   primeros en alinear tres símbolos en fila, columna o diagonal.
 iframeSrc: 'https://edit.coolmathgames.com//sites/cmatgame/files/public_games/32511/'
 thumbnail: /new-images/thumbnails/tic-tac-toe.jpg
+urlstr: tic-tac-toe
 tags:
   - strategy
   - classic

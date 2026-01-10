@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Chess"
-description: "Learn the rules, pieces, and strategies of Chess, the ultimate game of skill. Plan your moves, control the board, and checkmate your opponent's king to win this timeless classic."
-iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/chess/"
+title: Chess
+seoTitle: Play Chess Online Free | FiddleBops
+description: >-
+  Learn the rules, pieces, and strategies of Chess, the ultimate game of skill.
+  Plan your moves, control the board, and checkmate your opponent's king to win
+  this timeless classic.
+iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/chess/'
 thumbnail: /new-images/thumbnails/chess.jpg
-urlstr: "chess"
-score: "4.0/5  (1497 votes)"
-tags: ["strategy", "puzzle", "classic"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: chess
+tags:
+  - strategy
+  - puzzle
+  - classic
+score: 4.0/5  (1497 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

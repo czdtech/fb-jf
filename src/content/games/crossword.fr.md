@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: crossword
 title: Crossword
+seoTitle: Jouez à Crossword en ligne gratuitement | FiddleBops
 description: "Résous des grilles de mots croisés en ligne\_: lis les définitions, remplis les mots horizontaux et verticaux et utilise les lettres croisées pour t’aider."
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword.html'
 thumbnail: /new-images/thumbnails/crossword.jpg
+urlstr: crossword
 tags:
   - word
   - puzzle

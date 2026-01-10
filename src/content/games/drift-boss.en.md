@@ -1,17 +1,18 @@
 ---
 locale: en
 title: Drift Boss
+seoTitle: Play Drift Boss Online Free | FiddleBops
 description: >-
   Drift Boss is a one‑button drifting game: time your turns to stay on the track
   and earn coins for upgrades.
 iframeSrc: 'https://ubg98.github.io/DriftBoss/'
 thumbnail: /new-images/thumbnails/drift-boss.jpg
 urlstr: drift-boss
-score: 3.7/5  (679 votes)
 tags:
   - racing
   - drifting
   - driving
+score: 3.7/5  (679 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
 ---

@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: blocks-puzzle
 title: Blocks Puzzle
+seoTitle: Jouez à Blocks Puzzle en ligne gratuitement | FiddleBops
 description: "Blocks Puzzle est un jeu de blocs 10×10 addictif\_: ajuste tes placements pour compléter des lignes, créer des combos et éviter de bloquer ton plateau."
 iframeSrc: 'https://6ljls661l4lkg.h5games.usercontent.goog/v/1mil2011qbul0/'
 thumbnail: /new-images/thumbnails/blocks-puzzle.jpg
+urlstr: blocks-puzzle
 tags:
   - puzzle
   - casual

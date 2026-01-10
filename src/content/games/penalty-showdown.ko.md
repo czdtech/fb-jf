@@ -1,13 +1,13 @@
 ---
 locale: ko
-urlstr: penalty-showdown
-title: "Penalty Showdown 페널티 쇼다운"
+title: Penalty Showdown 페널티 쇼다운
+seoTitle: Penalty Showdown 페널티 쇼다운 무료 온라인 플레이 | FiddleBops
 description: >-
-  슈터와 골키퍼 역할을 번갈아 맡으며 승부차기를 치르는 축구 게임입니다.
-  코너와 슛 높이를 바꾸고, 타이밍을 흔들어 심리전으로 상대를
-  속여 보세요.
+  슈터와 골키퍼 역할을 번갈아 맡으며 승부차기를 치르는 축구 게임입니다. 코너와 슛 높이를 바꾸고, 타이밍을 흔들어 심리전으로 상대를 속여
+  보세요.
 iframeSrc: 'https://58r8ibinmpjeg.h5games.usercontent.goog/v/2m3pjv3her9fg/'
 thumbnail: /new-images/thumbnails/penalty-showdown.jpg
+urlstr: penalty-showdown
 tags:
   - sports
   - soccer

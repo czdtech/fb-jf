@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Moto X3M
+seoTitle: 無料でMoto X3Mをオンラインでプレイ | FiddleBops
 description: Moto X3Mはバイクの障害物コースを走るレースゲームです。スタントでタイム短縮を狙い、クラッシュせずにゴールします。
 iframeSrc: 'https://webglmath.github.io/moto-x3m/'
 thumbnail: /new-images/thumbnails/moto-x3m.jpg
 urlstr: moto-x3m
-score: 3.5/5  (666 votes)
 tags:
   - action
   - racing
   - sports
+score: 3.5/5  (666 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: zombie-hunter-survival
 title: 'Zombie Hunter: Survival：顶视角丧尸生存战'
+seoTitle: '免费在线玩 Zombie Hunter: Survival：顶视角丧尸生存战 | FiddleBops'
 description: '《Zombie Hunter: Survival》是一款俯视角生存射击游戏。 在狭窄地图中风筝成群僵尸，精打细算每一发子弹， 在一波又一波尸潮中活得更久。'
 iframeSrc: 'https://6ctmcm40nbff0.h5games.usercontent.goog/v/2a81mr3h8ut10/'
 thumbnail: /new-images/thumbnails/zombie-hunter-survival.png
+urlstr: zombie-hunter-survival
 tags:
   - shooting
   - horror

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: sprunki-phase-5
 title: Sprunki Phase 5 스프룽키 페이즈 5
+seoTitle: Sprunki Phase 5 스프룽키 페이즈 5 무료 온라인 플레이 | FiddleBops
 description: >-
   Sprunki Phase 5는 리듬 기반 음악 제작에 어두운 분위기를 더한 팬 메이드 모드로, Sprunki Definitive 시리즈의
   일부입니다. 다양한 캐릭터와 사운드로 음산하면서도 매력적인 트랙을 만들 수 있습니다.
 iframeSrc: 'https://sprunki-phase-5-ekz.pages.dev/'
 thumbnail: /new-images/thumbnails/sprunki-phase-5.png
+urlstr: sprunki-phase-5
 tags:
   - sprunki phase 5
   - sprunki phase 5 online

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: baldis-basics
 title: Baldi's Basics 발디즈 베이식스
+seoTitle: Baldi's Basics 발디즈 베이식스 무료 온라인 플레이 | FiddleBops
 description: >-
   90년대 교육 게임 패러디처럼 보이지만 실은 서바이벌 호러인 Baldi's Basics 공략입니다. 공책을 모으고, 아이템을 활용해 발디와
   기묘한 인물들을 피해 학교에서 탈출해 보세요.
 iframeSrc: 'https://html5.iclouds.io/baldis-basics/index.html'
 thumbnail: /new-images/thumbnails/baldis-basics.jpg
+urlstr: baldis-basics
 tags:
   - puzzle
   - horror

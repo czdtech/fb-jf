@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Only Up
+seoTitle: 無料でOnly Upをオンラインでプレイ | FiddleBops
 description: Only Upは垂直方向に登るアクションです。ジャンプで足場を渡り、落下を避けながら上を目指します。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp44/chenling/20230826/01/index.htm
 thumbnail: /new-images/thumbnails/only-up.jpg
 urlstr: only-up
-score: 3.5/5  (1311 votes)
 tags:
   - action
   - casual
+score: 3.5/5  (1311 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

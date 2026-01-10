@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: One Line Only Dot to Dot
+seoTitle: 無料でOne Line Only Dot to Dotをオンラインでプレイ | FiddleBops
 description: One Line Only Dot to Dotは一筆書きパズルです。すべての点を一筆で接続し、論理パズルをマスターします。
 iframeSrc: 'https://7n3sql2bqn9eg.h5games.usercontent.goog/v/2br4t62jndh88/'
 thumbnail: /new-images/thumbnails/one-line-only-dot-to-dot.jpg
 urlstr: one-line-only-dot-to-dot
-score: 4.2/5  (2050 votes)
 tags:
   - puzzle
   - thinky
+score: 4.2/5  (2050 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

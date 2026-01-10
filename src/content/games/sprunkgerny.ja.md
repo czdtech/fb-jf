@@ -1,13 +1,16 @@
 ---
-title: "Sprunkgerny - Play Sprunkgerny Online"
-description: "Sprunkgernyは音を組み合わせて曲を作る音楽作成ゲームです。キャラクターの組み合わせを試しながら、ビートや雰囲気を作っていきます。"
-iframeSrc: "https://turbowarp.org/1107761681/embed"
-thumbnail: /new-images/thumbnails/sprunkgerny.png
-urlstr: "sprunkgerny"
-score: "4.9/5  (724 votes)"
-tags: ["sprunkgerny", "sprunkgerny online"]
 locale: ja
-releaseDate: 2025-12-04
+title: Sprunkgerny
+seoTitle: 無料でSprunkgernyをオンラインでプレイ | FiddleBops
+description: Sprunkgernyは音を組み合わせて曲を作る音楽作成ゲームです。キャラクターの組み合わせを試しながら、ビートや雰囲気を作っていきます。
+iframeSrc: 'https://turbowarp.org/1107761681/embed'
+thumbnail: /new-images/thumbnails/sprunkgerny.png
+urlstr: sprunkgerny
+tags:
+  - sprunkgerny
+  - sprunkgerny online
+score: 4.9/5  (724 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunkgernyの紹介

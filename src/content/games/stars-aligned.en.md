@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Stars Aligned"
-description: "Stars Aligned is a soothing constellation puzzler — rotate fragments, connect lines, and form complete star patterns."
-iframeSrc: "https://starsaligned.h5games.usercontent.goog/v/3i88p78sohtig/"
+title: Stars Aligned
+seoTitle: Play Stars Aligned Online Free | FiddleBops
+description: >-
+  Stars Aligned is a soothing constellation puzzler — rotate fragments, connect
+  lines, and form complete star patterns.
+iframeSrc: 'https://starsaligned.h5games.usercontent.goog/v/3i88p78sohtig/'
 thumbnail: /new-images/thumbnails/stars-aligned.jpg
-urlstr: "stars-aligned"
-score: "4.4/5  (2183 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: stars-aligned
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.4/5  (2183 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

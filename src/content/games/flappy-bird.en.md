@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Flappy Bird"
-description: "Tap‑to‑flap endless runner: guide the bird through pipe gaps to increase your score without touching obstacles."
-iframeSrc: "https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/TAhlQLDa/index.html"
+title: Flappy Bird
+seoTitle: Play Flappy Bird Online Free | FiddleBops
+description: >-
+  Tap‑to‑flap endless runner: guide the bird through pipe gaps to increase your
+  score without touching obstacles.
+iframeSrc: 'https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/TAhlQLDa/index.html'
 thumbnail: /new-images/thumbnails/flappy-bird.jpg
-urlstr: "flappy-bird"
-score: "3.6/5  (297 votes)"
-tags: ["arcade", "endless-runner"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: flappy-bird
+tags:
+  - arcade
+  - endless-runner
+score: 3.6/5  (297 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

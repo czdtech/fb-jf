@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: mini-golf-world
-title: "Mini Golf World - Mundos temáticos de minigolf"
+title: Mini Golf World
+seoTitle: Juega a Mini Golf World en línea gratis | FiddleBops
 description: >-
   Mini Golf World pule la experiencia del minigolf: lee pendientes, usa las
   bandas y domina la fuerza del golpe para superar hoyos creativos en mundos
   temáticos.
 iframeSrc: 'https://32tnqh6bck80g.h5games.usercontent.goog/v/3auurdk9r953g/'
 thumbnail: /new-images/thumbnails/mini-golf-world.png
+urlstr: mini-golf-world
 tags:
   - sports
   - puzzle

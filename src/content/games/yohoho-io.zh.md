@@ -1,13 +1,13 @@
 ---
 locale: zh
-urlstr: yohoho-io
-title: 'YoHoHo.io：海盗大逃杀岛'
+title: YoHoHo.io：海盗大逃杀岛
+seoTitle: 免费在线玩 YoHoHo.io：海盗大逃杀岛 | FiddleBops
 description: >-
-  在《YoHoHo.io》中扬帆起航，登上充满海盗的混战小岛！
-  通过收集金币变强、挥剑击倒比你小的对手，并躲避不断缩小的安全圈，
+  在《YoHoHo.io》中扬帆起航，登上充满海盗的混战小岛！ 通过收集金币变强、挥剑击倒比你小的对手，并躲避不断缩小的安全圈，
   在剑技与走位中活到最后，成为海上最令人生畏的海盗。
 iframeSrc: 'https://bitlifeonline.github.io/class16523/yohoho-io/'
 thumbnail: /new-images/thumbnails/yohoho-io.jpg
+urlstr: yohoho-io
 tags:
   - io-game
   - battle-royale

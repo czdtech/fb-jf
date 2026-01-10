@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: mini-crossword
 title: 《Mini Crossword》每日迷你填字
+seoTitle: 免费在线玩 《Mini Crossword》每日迷你填字 | FiddleBops
 description: 《Mini Crossword》是一款体量精巧的每日填字游戏，用一小块方格就能带来紧凑、有趣的文字挑战，适合各个水平的玩家随时来一局动动脑。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword-mini/'
 thumbnail: /new-images/thumbnails/mini-crossword.jpg
+urlstr: mini-crossword
 tags:
   - puzzle
   - word

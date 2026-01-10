@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Candy Bubbles
+seoTitle: 無料でCandy Bubblesをオンラインでプレイ | FiddleBops
 description: >-
   甘い世界に足を踏み入れ、カラフルなキャンディバブルをポップしましょう！大砲を狙い、3つ以上をマッチさせ、この楽しいバブルシューターパズルゲームでボードをクリアしましょう。
 iframeSrc: 'https://candybubbles.h5games.usercontent.goog/v/370v1t5h5266g/'
 thumbnail: /new-images/thumbnails/candy-bubbles.png
 urlstr: candy-bubbles
-score: 4.3/5  (2050 votes)
 tags:
   - shooting
   - puzzle
   - casual
+score: 4.3/5  (2050 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

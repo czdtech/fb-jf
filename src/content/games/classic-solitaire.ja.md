@@ -1,19 +1,20 @@
 ---
+locale: ja
 title: Classic Solitaire クラシック・ソリティア
+seoTitle: 無料でClassic Solitaire クラシック・ソリティアをオンラインでプレイ | FiddleBops
 description: >-
   「Classic
   Solitaire」は世界中で最も有名なカードゲーム。クロンダイクのルールで、カードを並べ替え、エースからキングまで揃えよう。シンプルで奥深いパズル。
 iframeSrc: 'https://6uj90l2koon6g.h5games.usercontent.goog/v/2a72i89u7qfe8/'
 thumbnail: /new-images/thumbnails/classic-solitaire.png
 urlstr: classic-solitaire
-score: 4.7/5  (2950 votes)
 tags:
   - card
   - casual
   - classic
+score: 4.7/5  (2950 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

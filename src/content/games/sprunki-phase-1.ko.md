@@ -1,17 +1,17 @@
 ---
 locale: ko
-urlstr: sprunki-phase-1
-title: "Sprunki Phase 1 스프룽키 페이즈 1 온라인"
+title: Sprunki Phase 1 스프룽키 페이즈 1
+seoTitle: Sprunki Phase 1 스프룽키 페이즈 1 무료 온라인 플레이 | FiddleBops
 description: >-
-  Sprunki Phase 1은 Sprunki 유니버스가 처음 시작된 버전을 경험할 수 있는 모드로,
-  클래식 Incredibox 스타일 기반에 새로운 캐릭터와 사운드를 더한 입문용 음악 제작
-  게임입니다.
+  Sprunki Phase 1은 Sprunki 유니버스가 처음 시작된 버전을 경험할 수 있는 모드로, 클래식 Incredibox 스타일 기반에
+  새로운 캐릭터와 사운드를 더한 입문용 음악 제작 게임입니다.
 iframeSrc: 'https://turbowarp.org/1127823859/embed'
 thumbnail: /new-images/thumbnails/sprunki-phase-1.png
+urlstr: sprunki-phase-1
 tags:
   - sprunki phase 1
 score: 4.3/5  (96 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

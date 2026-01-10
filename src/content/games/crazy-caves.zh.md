@@ -1,13 +1,14 @@
 ---
 locale: zh
-urlstr: crazy-caves
 title: Crazy Caves 疯狂矿洞
+seoTitle: 免费在线玩 Crazy Caves 疯狂矿洞 | FiddleBops
 description: >-
   进入《Crazy Caves 疯狂矿洞》，检验你的反应与生存能力！在洞顶不断落下巨石的险境中
   疾驰移动，甩出镐子砸碎岩石，回收掉落的宝石与金币，并用收益升级装备，让自己活得更 久、得分更高。
 iframeSrc: >-
   https://crazycaves.h5games.usercontent.goog/v/24bc2c61-c599-4c5a-9fde-fd3a14fd28a6/
 thumbnail: /new-images/thumbnails/crazy-caves.jpg
+urlstr: crazy-caves
 tags:
   - action
   - casual

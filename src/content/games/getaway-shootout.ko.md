@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: getaway-shootout
 title: Getaway Shootout 겟어웨이 슈트아웃
+seoTitle: Getaway Shootout 겟어웨이 슈트아웃 무료 온라인 플레이 | FiddleBops
 description: >-
   덜컹거리는 물리 점프와 총격전이 섞인 레이싱 게임입니다. 좌우로 깡총깡총 점프하며 탈출 지점까지 달리고, 무기 상자를 열어 기상천외한 무기를
   집어 들어 상대를 방해하세요. 1인용과 로컬 2인용을 모두 지원합니다.
 iframeSrc: 'https://ubg44.github.io/GetawayShootout/'
 thumbnail: /new-images/thumbnails/getaway-shootout.jpg
+urlstr: getaway-shootout
 tags:
   - action
   - multiplayer

@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: foosball-cup-world
 title: Foosball Cup World 테이블 축구 월드컵
+seoTitle: Foosball Cup World 테이블 축구 월드컵 무료 온라인 플레이 | FiddleBops
 description: 월드컵 분위기 속에서 테이블 축구를 즐기는 게임입니다. 팀을 선택하고 막대를 회전시켜 슛과 수비를 하며 골을 넣어 승리를 노려 보세요.
 iframeSrc: 'https://7ak26cf4bf850.h5games.usercontent.goog/v/6jmmp78dbnp50/'
 thumbnail: /new-images/thumbnails/foosball-cup-world.png
+urlstr: foosball-cup-world
 tags:
   - sports
   - football

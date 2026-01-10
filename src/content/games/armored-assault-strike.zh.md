@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: armored-assault-strike
 title: Armored Assault Strike 装甲突击打击
+seoTitle: 免费在线玩 Armored Assault Strike 装甲突击打击 | FiddleBops
 description: 《Armored Assault Strike（装甲突击打击）》是一款俯视角载具射击游戏：驾驶装甲单位穿梭战场，利用走位、地形与技能冷却高效清理敌群。
 iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
 thumbnail: /new-images/thumbnails/armored-assault-strike.png
+urlstr: armored-assault-strike
 tags:
   - shooting
   - action

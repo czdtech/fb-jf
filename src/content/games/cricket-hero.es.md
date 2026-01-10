@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: cricket-hero
 title: Cricket Hero
+seoTitle: Juega a Cricket Hero en línea gratis | FiddleBops
 description: >-
   Salta al campo y conviértete en un auténtico Cricket Hero. Calcula el momento
   perfecto de cada golpe y consigue tantas carreras como puedas en este adictivo
   juego de bateo de críquet.
 iframeSrc: 'https://crickethero.h5games.usercontent.goog/v/7cnfq54s3ilao/'
 thumbnail: /new-images/thumbnails/cricket-hero.jpg
+urlstr: cricket-hero
 tags:
   - sports
   - action

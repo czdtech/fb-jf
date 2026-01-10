@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: smash-karts
 title: Smash Karts 스매시 카트
+seoTitle: Smash Karts 스매시 카트 무료 온라인 플레이 | FiddleBops
 description: >-
   온라인 멀티플레이 카트 배틀 레이싱 게임입니다. 아이템 상자를 먹어 무기를 장착하고, 컬러풀한 3D 트랙에서 다른 플레이어와 속도와 화력을
   겨루세요.
 iframeSrc: 'https://webgltest-17af1.firebaseapp.com/'
 thumbnail: /new-images/thumbnails/smash-karts.jpg
+urlstr: smash-karts
 tags:
   - racing
   - multiplayer

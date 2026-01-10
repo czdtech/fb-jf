@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: 2048-fusion
 title: 2048 Fusion（2048 融合）
+seoTitle: 免费在线玩 2048 Fusion（2048 融合） | FiddleBops
 description: 《2048 Fusion（2048 融合）》是一款基于经典 2048 的滑动合成益智游戏：通过滑动合并数字方块冲击更高数值，在有限棋盘里考验你的布局与预判。
 iframeSrc: 'https://7t79nelq6lu50.h5games.usercontent.goog/v/7jm0opa5dtf00/'
 thumbnail: /new-images/thumbnails/2048-fusion.png
+urlstr: 2048-fusion
 tags:
   - puzzle
   - thinky

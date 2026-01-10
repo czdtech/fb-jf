@@ -1,14 +1,19 @@
 ---
-title: "House Flip"
-description: "House Flipはリノベーションをゲーム化します。物件を調査し、アップグレードの予算を組み、レイアウト、スタイル、外観の魅力を修正して不動産を転売しましょう。"
-iframeSrc: "https://45g7qkftithd0.h5games.usercontent.goog/v/7691fk060s8pg/"
-thumbnail: /new-images/thumbnails/house-flip.png
-urlstr: "house-flip"
-score: "4.0/5  (1861 votes)"
-tags: ["puzzle", "casual"]
-developer: ""
-releaseDate: 2025-10-18
 locale: ja
+title: House Flip
+seoTitle: 無料でHouse Flipをオンラインでプレイ | FiddleBops
+description: >-
+  House
+  Flipはリノベーションをゲーム化します。物件を調査し、アップグレードの予算を組み、レイアウト、スタイル、外観の魅力を修正して不動産を転売しましょう。
+iframeSrc: 'https://45g7qkftithd0.h5games.usercontent.goog/v/7691fk060s8pg/'
+thumbnail: /new-images/thumbnails/house-flip.png
+urlstr: house-flip
+tags:
+  - puzzle
+  - casual
+score: 4.0/5  (1861 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

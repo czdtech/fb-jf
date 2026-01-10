@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: tiger-run
 title: 《Tiger Run》丛林猛虎奔跑
+seoTitle: 免费在线玩 《Tiger Run》丛林猛虎奔跑 | FiddleBops
 description: 《Tiger Run》是一款丛林主题的跑酷游戏。你将化身敏捷的老虎，在树林与岩石间飞奔、跳跃与滑行，躲避障碍并收集道具。
 iframeSrc: 'https://tigerrun.h5games.usercontent.goog/v/1cl0c4rtsjsqo/'
 thumbnail: /new-images/thumbnails/tiger-run.jpeg
+urlstr: tiger-run
 tags:
   - running
   - animal

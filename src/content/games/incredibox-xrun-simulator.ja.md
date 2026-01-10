@@ -1,14 +1,20 @@
 ---
-title: "Incredibox Xrun simulator"
-description: "ハイエナジーなファン作成モッド『Incredibox Xrun Simulator』を探索しましょう。このガイドでは、EDMとダブステップテーマ、グリッドベースのゲームプレイを詳しく説明し、激しいエレクトロニックミックスとループを作成するためのヒントを提供します。"
-iframeSrc: "https://turbowarp.org/740478297/embed"
-thumbnail: /new-images/thumbnails/incredibox-xrun-simulator.png
-urlstr: "incredibox-xrun-simulator"
-score: "4.5/5 (1055 votes)"
-tags: ["music", "electronic", "simulator"]
-developer: ""
-releaseDate: 2025-10-10
 locale: ja
+title: Incredibox Xrun simulator
+seoTitle: 無料でIncredibox Xrun simulatorをオンラインでプレイ | FiddleBops
+description: >-
+  ハイエナジーなファン作成モッド『Incredibox Xrun
+  Simulator』を探索しましょう。このガイドでは、EDMとダブステップテーマ、グリッドベースのゲームプレイを詳しく説明し、激しいエレクトロニックミックスとループを作成するためのヒントを提供します。
+iframeSrc: 'https://turbowarp.org/740478297/embed'
+thumbnail: /new-images/thumbnails/incredibox-xrun-simulator.png
+urlstr: incredibox-xrun-simulator
+tags:
+  - music
+  - electronic
+  - simulator
+score: 4.5/5 (1055 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

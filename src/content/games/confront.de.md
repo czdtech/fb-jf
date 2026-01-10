@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: confront
-title: "Confront"
+title: Confront
+seoTitle: Spiele Confront kostenlos online | FiddleBops
 description: >-
   In Confront landest du in einem schnellen Shooter-Szenario, in dem präzises
   Zielen und schnelle Reaktionen entscheidend sind – inklusive Bullet-Time für
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp37/gamehwq/20220228/07/index.htm
 thumbnail: /new-images/thumbnails/confront.jpg
+urlstr: confront
 tags:
   - casual
   - shooting

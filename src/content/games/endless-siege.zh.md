@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: endless-siege
 title: Endless Siege 无尽攻城塔防
+seoTitle: 免费在线玩 Endless Siege 无尽攻城塔防 | FiddleBops
 description: 在《Endless Siege》中对抗一波又一波永不停止的兽人攻势——布置并升级火砲、弩砲等防御塔， 在每天更新的随机地图上尽可能撑过更多回合。
 iframeSrc: 'https://endlessseige.h5games.usercontent.goog/v/35nvlvatb9t8g/'
 thumbnail: /new-images/thumbnails/endless-siege.jpg
+urlstr: endless-siege
 tags:
   - tower Defense
   - strategy

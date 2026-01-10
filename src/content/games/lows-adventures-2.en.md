@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Low's Adventures 2"
-description: "Retro platformer sequel: run‑and‑jump through compact stages, find keys and secrets, and beat timed challenges." 
-iframeSrc: "https://previews.customer.envatousercontent.com/files/489323722/index.html"
+title: Low's Adventures 2
+seoTitle: Play Low's Adventures 2 Online Free | FiddleBops
+description: >-
+  Retro platformer sequel: run‑and‑jump through compact stages, find keys and
+  secrets, and beat timed challenges.
+iframeSrc: 'https://previews.customer.envatousercontent.com/files/489323722/index.html'
 thumbnail: /new-images/thumbnails/lows-adventures-2.jpg
-urlstr: "lows-adventures-2"
-score: "3.6/5  (671 votes)"
-tags: ["platformer", "adventure"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: lows-adventures-2
+tags:
+  - platformer
+  - adventure
+score: 3.6/5  (671 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

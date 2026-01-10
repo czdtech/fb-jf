@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Totemia Cursed Marbles
+seoTitle: 無料でTotemia Cursed Marblesをオンラインでプレイ | FiddleBops
 description: Totemia Cursed Marblesは、マッチ3スタイルのマーブルシューターゲームです。同じ色のボールを揃えて消しましょう。
 iframeSrc: 'https://totemiacursed.h5games.usercontent.goog/v/2hs7lfvsisr48/'
 thumbnail: /new-images/thumbnails/totemia-cursed-marbles.png
 urlstr: totemia-cursed-marbles
-score: 4.5/5  (2750 votes)
 tags:
   - puzzle
   - shooter
   - match-3
-locale: ja
+score: 4.5/5  (2750 votes)
 releaseDate: 2025-10-17T00:00:00.000Z
 ---
 

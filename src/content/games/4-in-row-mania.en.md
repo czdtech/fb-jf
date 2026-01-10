@@ -1,18 +1,19 @@
 ---
 locale: en
 title: 4 In Row MANIA
+seoTitle: Play 4 In Row MANIA Online Free | FiddleBops
 description: >-
   4 In Row MANIA is a classic connect‑four duel — outmaneuver, control columns,
   and line up four first.
 iframeSrc: 'https://4vt1c4a3eda48.h5games.usercontent.goog/v/73p1lulj7oe3o/'
 thumbnail: /new-images/thumbnails/4-in-row-mania.jpg
 urlstr: 4-in-row-mania
-score: 4.1/5  (1993 votes)
 tags:
   - 2-player
   - thinky
+score: 4.1/5  (1993 votes)
 developer: ''
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

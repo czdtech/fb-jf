@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "He Likes The Darkness"
-description: "He Likes The Darkness is a moody platformer — navigate shadowy stages, collect orbs, and time precise jumps through hazards."
-iframeSrc: "https://77gr97nn0bej0.h5games.usercontent.goog/v/0emki8kk9qofo/"
+title: He Likes The Darkness
+seoTitle: Play He Likes The Darkness Online Free | FiddleBops
+description: >-
+  He Likes The Darkness is a moody platformer — navigate shadowy stages, collect
+  orbs, and time precise jumps through hazards.
+iframeSrc: 'https://77gr97nn0bej0.h5games.usercontent.goog/v/0emki8kk9qofo/'
 thumbnail: /new-images/thumbnails/he-likes-the-darkness.png
-urlstr: "he-likes-the-darkness"
-score: "4.1/5  (1972 votes)"
-tags: ["action", "puzzle"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: he-likes-the-darkness
+tags:
+  - action
+  - puzzle
+score: 4.1/5  (1972 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

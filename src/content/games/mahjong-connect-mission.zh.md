@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: mahjong-connect-mission
 title: '《Mahjong Connect : Mission》连连看任务版'
+seoTitle: '免费在线玩 《Mahjong Connect : Mission》连连看任务版 | FiddleBops'
 description: '《Mahjong Connect : Mission》是一款连线配对版麻将游戏，你需要用不超过两次转折的路径连接相同牌面，在计时与任务限制下清空棋盘。'
 iframeSrc: 'https://7gsm6u8848nko.h5games.usercontent.goog/v/3qaqg5nju3th8/'
 thumbnail: /new-images/thumbnails/mahjong-connect-mission.png
+urlstr: mahjong-connect-mission
 tags:
   - mahjong
   - puzzle

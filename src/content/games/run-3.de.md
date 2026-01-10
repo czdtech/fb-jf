@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: run-3
 title: Run 3
+seoTitle: Spiele Run 3 kostenlos online | FiddleBops
 description: >-
   Run 3 ist ein Endlos-Runner im Weltall: Du steuerst ein Alien durch einen
   3D-Tunnel, springst über Lücken, weichst Hindernissen aus und läufst dank
   wechselnder Schwerkraft sogar an Wänden und Decken entlang.
 iframeSrc: 'https://lekug.github.io/tn6pS9dCf37xAhkJv/index.html'
 thumbnail: /new-images/thumbnails/run-3.jpg
+urlstr: run-3
 tags:
   - endless runner
   - space

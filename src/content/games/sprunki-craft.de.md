@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: sprunki-craft
-title: "Sprunki Craft \U0001F3AE Sprunki Craft online spielen"
+title: Sprunki Craft
+seoTitle: Spiele Sprunki Craft kostenlos online | FiddleBops
 description: >-
   Sprunki Craft vereint Minecraft und Incredibox: Mit Steve, Creeper und Co.
   baust du dir deinen eigenen Block-Soundchor und kombinierst vertraute
   Minecraft-Figuren mit einem interaktiven Musikbaukasten.
 iframeSrc: 'https://www.minijuegos.com/embed/sprunki-craft'
 thumbnail: /new-images/thumbnails/sprunki-craft.jpg
+urlstr: sprunki-craft
 tags:
   - sprunki craft
   - sprunki craft online

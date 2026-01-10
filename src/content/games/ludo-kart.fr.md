@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: ludo-kart
 title: Ludo Kart
+seoTitle: Jouez à Ludo Kart en ligne gratuitement | FiddleBops
 description: >-
   Ludo Kart est un jeu de plateau léger mêlant dés et course : lance le dé,
   déplace tes pions et sois le premier à rentrer à la maison.
 iframeSrc: 'https://35q41h2gp6dd8.h5games.usercontent.goog/v/6q7tggnmscsj8/'
 thumbnail: /new-images/thumbnails/ludo-kart.png
+urlstr: ludo-kart
 tags:
   - casual
   - thinky

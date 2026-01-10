@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: minesweeper
-title: Minesweeper - Puzle clásico de un solo jugador
+title: Minesweeper
+seoTitle: Juega a Minesweeper en línea gratis | FiddleBops
 description: >-
   Minesweeper es un puzle para un jugador en el que debes limpiar un tablero
   rectangular que oculta minas sin detonar ninguna, ayudándote de las pistas
   numéricas que indican cuántas minas hay en las casillas vecinas.
 iframeSrc: 'https://freeonlinegames.github.io/games/minesweeper/'
 thumbnail: /new-images/thumbnails/minesweeper.jpg
+urlstr: minesweeper
 tags:
   - puzzle
   - strategy

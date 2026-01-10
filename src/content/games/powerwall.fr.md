@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: powerwall
 title: Powerwall
+seoTitle: Jouez à Powerwall en ligne gratuitement | FiddleBops
 description: "Défends ton but dans Powerwall, un jeu d'arcade nerveux\_: déclenche un mur d'énergie au bon moment pour bloquer la balle qui fonce sur toi."
 iframeSrc: 'https://powerwall2.h5games.usercontent.goog/v/2744b7jm5t0jg/'
 thumbnail: /new-images/thumbnails/powerwall.png
+urlstr: powerwall
 tags:
   - action
   - sports

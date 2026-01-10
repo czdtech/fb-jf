@@ -1,13 +1,16 @@
 ---
 locale: es
-urlstr: armored-assault-strike
-title: "Armored Assault Strike: disparos con vehículos blindados"
+title: 'Armored Assault Strike: disparos con vehículos blindados'
+seoTitle: >-
+  Juega a Armored Assault Strike: disparos con vehículos blindados en línea
+  gratis | FiddleBops
 description: >-
-  Armored Assault Strike es un juego de disparos cenital con vehículos acorazados.
-  Maniobra tu blindado, gestiona enfriamientos y habilidades y destruye oleadas
-  de enemigos sin exponerte demasiado.
+  Armored Assault Strike es un juego de disparos cenital con vehículos
+  acorazados. Maniobra tu blindado, gestiona enfriamientos y habilidades y
+  destruye oleadas de enemigos sin exponerte demasiado.
 iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
 thumbnail: /new-images/thumbnails/armored-assault-strike.png
+urlstr: armored-assault-strike
 tags:
   - shooting
   - action

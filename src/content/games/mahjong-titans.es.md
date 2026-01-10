@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: mahjong-titans
-title: Mahjong Titans - Solitario de fichas clásico
+title: Mahjong Titans
+seoTitle: Juega a Mahjong Titans en línea gratis | FiddleBops
 description: >-
   Solitario de emparejar fichas: elimina parejas de fichas idénticas en diseños
   por capas hasta vaciar el tablero; planifica para evitar bloqueos.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/mahjong-titans.html'
 thumbnail: /new-images/thumbnails/mahjong-titans.jpg
+urlstr: mahjong-titans
 tags:
   - puzzle
   - mahjong

@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Gold Miner"
-description: "Hook‑and‑haul arcade classic: time your claw to snag gold and gems, buy power‑ups, and reach the target cash before time runs out." 
-iframeSrc: "https://ad-freegames.github.io/flash/game/gold-miner.html"
+title: Gold Miner
+seoTitle: Play Gold Miner Online Free | FiddleBops
+description: >-
+  Hook‑and‑haul arcade classic: time your claw to snag gold and gems, buy
+  power‑ups, and reach the target cash before time runs out.
+iframeSrc: 'https://ad-freegames.github.io/flash/game/gold-miner.html'
 thumbnail: /new-images/thumbnails/gold-miner.jpg
-urlstr: "gold-miner"
-score: "4.2/5  (260 votes)"
-tags: ["arcade", "skill"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: gold-miner
+tags:
+  - arcade
+  - skill
+score: 4.2/5  (260 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

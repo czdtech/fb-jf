@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Cut The Rope"
-description: "Cut The Rope is a physics puzzle: cut ropes, collect stars, and feed Om Nom the candy without losing it."
-iframeSrc: "https://games.cdn.famobi.com/html5games/c/cut-the-rope/v020/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=4531b37c-a8e0-4a67-9ebd-e8d3190b6277&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=467&original_ref="
+title: Cut The Rope
+seoTitle: Play Cut The Rope Online Free | FiddleBops
+description: >-
+  Cut The Rope is a physics puzzle: cut ropes, collect stars, and feed Om Nom
+  the candy without losing it.
+iframeSrc: >-
+  https://games.cdn.famobi.com/html5games/c/cut-the-rope/v020/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=4531b37c-a8e0-4a67-9ebd-e8d3190b6277&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=467&original_ref=
 thumbnail: /new-images/thumbnails/cut-the-rope.jpg
-urlstr: "cut-the-rope"
-score: "3.9/5  (1483 votes)"
-tags: ["puzzle", "physics"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: cut-the-rope
+tags:
+  - puzzle
+  - physics
+score: 3.9/5  (1483 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

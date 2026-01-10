@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: word-connect
-title: Word Connect - Conecta letras y forma palabras
+title: Word Connect
+seoTitle: Juega a Word Connect en línea gratis | FiddleBops
 description: >-
   Conecta letras y amplía tu vocabulario en Word Connect, un adictivo puzle de
   palabras. Desliza para formar términos a partir de un círculo de letras y
@@ -9,6 +9,7 @@ description: >-
   pistas a lo largo de cientos de niveles relajantes.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/309288677/index.html'
 thumbnail: /new-images/thumbnails/word-connect.jpg
+urlstr: word-connect
 tags:
   - word-game
   - puzzle

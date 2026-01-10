@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: jewel-halloween
 title: Jewel Halloween
+seoTitle: Juega a Jewel Halloween en línea gratis | FiddleBops
 description: >-
   Jewel Halloween es un match‑3 con ambiente tenebroso: intercambia gemas,
   provoca cascadas y cumple los objetivos de cada nivel.
 iframeSrc: 'https://0gk3ormb878mg.h5games.usercontent.goog/v/1qgqb91tuaqv0/'
 thumbnail: /new-images/thumbnails/jewel-halloween.png
+urlstr: jewel-halloween
 tags:
   - puzzle
   - casual

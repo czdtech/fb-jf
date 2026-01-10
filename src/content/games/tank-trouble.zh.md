@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: tank-trouble
 title: 《Tank Trouble》坦克迷宫对战
+seoTitle: 免费在线玩 《Tank Trouble》坦克迷宫对战 | FiddleBops
 description: 《Tank Trouble》是一款俯视角坦克对战游戏。你需要在迷宫般的地图里驾驶小坦克，利用反弹炮弹击中对手，同时避免自己被爆炸波及。
 iframeSrc: 'https://www.friv2018.com/games/html5/tank-trouble-2/'
 thumbnail: /new-images/thumbnails/tank-trouble.jpg
+urlstr: tank-trouble
 tags:
   - tank
   - multiplayer

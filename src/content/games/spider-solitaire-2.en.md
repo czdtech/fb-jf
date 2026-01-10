@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Spider Solitaire"
-description: "Take on the challenge of Spider Solitaire. Arrange cards in descending order by suit to clear them from the tableau. A true test of strategy and planning."
-iframeSrc: "https://spidersolitaire.h5games.usercontent.goog/v/42fd7cuq80rao/"
+title: Spider Solitaire
+seoTitle: Play Spider Solitaire Online Free | FiddleBops
+description: >-
+  Take on the challenge of Spider Solitaire. Arrange cards in descending order
+  by suit to clear them from the tableau. A true test of strategy and planning.
+iframeSrc: 'https://spidersolitaire.h5games.usercontent.goog/v/42fd7cuq80rao/'
 thumbnail: /new-images/thumbnails/spider-solitaire-2.png
-urlstr: "spider-solitaire-2"
-score: "4.8/5  (3200 votes)"
-tags: ["card", "puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: spider-solitaire-2
+tags:
+  - card
+  - puzzle
+  - thinky
+score: 4.8/5  (3200 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

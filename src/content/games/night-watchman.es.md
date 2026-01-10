@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: night-watchman
-title: Night Watchman - Guardia nocturno en un edificio maldito
+title: Night Watchman
+seoTitle: Juega a Night Watchman en línea gratis | FiddleBops
 description: >-
   Night Watchman es un juego de terror y supervivencia en el que trabajas como
   vigilante nocturno, controlando cámaras de seguridad y gestionando recursos
   limitados para sobrevivir a amenazas misteriosas en un edificio abandonado.
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/night-watchman/'
 thumbnail: /new-images/thumbnails/night-watchman.jpg
+urlstr: night-watchman
 tags:
   - horror
   - survival

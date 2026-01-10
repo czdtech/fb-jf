@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Crossword Puzzles
+seoTitle: 無料でCrossword Puzzlesをオンラインでプレイ | FiddleBops
 description: Crossword Puzzlesはテーマ別のクロスワードを提供します。縦と横のヒントを解いて各グリッドを完成させましょう。
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/best-free-themed-puzzles/
 thumbnail: /new-images/thumbnails/crossword-puzzles.jpg
 urlstr: crossword-puzzles
-score: 4.1/5  (697 votes)
 tags:
   - word
   - puzzle
+score: 4.1/5  (697 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

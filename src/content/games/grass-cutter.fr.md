@@ -1,7 +1,7 @@
 ---
 locale: fr
-urlstr: grass-cutter
 title: Grass Cutter
+seoTitle: Jouez à Grass Cutter en ligne gratuitement | FiddleBops
 description: >-
   Puzzle sur grille : tonds chaque case exactement une fois avec des
   déplacements limités, évite les obstacles et planifie ta route pour raser la
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://g2.igroutka.ru/games/23/wcIz2a3WYRNKhbuq/rvvASMiM/58925795805842fcbfd7edf67efcd606/
 thumbnail: /new-images/thumbnails/grass-cutter.jpg
+urlstr: grass-cutter
 tags:
   - puzzle
   - logic

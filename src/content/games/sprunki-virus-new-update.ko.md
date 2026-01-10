@@ -1,17 +1,17 @@
 ---
 locale: ko
-urlstr: sprunki-virus-new-update
-title: "Sprunki Virus New Update 스프룽키 바이러스 뉴 업데이트"
+title: Sprunki Virus New Update 스프룽키 바이러스 뉴 업데이트
+seoTitle: Sprunki Virus New Update 스프룽키 바이러스 뉴 업데이트 무료 온라인 플레이 | FiddleBops
 description: >-
-  Sprunki Virus New Update는 바이러스에 감염된 듯한 스프룽키 세계를 배경으로, 글리치
-  사운드와 어두운 비주얼, 변형된 캐릭터를 활용해 불길한 분위기의 음악을 만드는
-  모드입니다. 감각을 자극하는 괴이한 루프를 조합해 색다른 트랙을 만들어 보세요.
+  Sprunki Virus New Update는 바이러스에 감염된 듯한 스프룽키 세계를 배경으로, 글리치 사운드와 어두운 비주얼, 변형된
+  캐릭터를 활용해 불길한 분위기의 음악을 만드는 모드입니다. 감각을 자극하는 괴이한 루프를 조합해 색다른 트랙을 만들어 보세요.
 iframeSrc: 'https://turbowarp.org/1104064786/embed'
 thumbnail: /new-images/thumbnails/sprunki-virus-new-update.png
+urlstr: sprunki-virus-new-update
 tags:
   - sprunki virus new update
 score: 4.0/5  (407 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

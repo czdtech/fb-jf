@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: word-search-2
 title: Word Search
+seoTitle: Spiele Word Search kostenlos online | FiddleBops
 description: >-
   Der Wortsuch‑Klassiker: Finde alle versteckten Wörter im Buchstabengitter –
   waagerecht, senkrecht, diagonal und sogar rückwärts.
 iframeSrc: 'https://wordsearch.h5games.usercontent.goog/v/6abe3eefqt368/'
 thumbnail: /new-images/thumbnails/word-search-2.jpg
+urlstr: word-search-2
 tags:
   - puzzle
   - thinky

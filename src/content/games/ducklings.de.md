@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: ducklings
 title: Ducklings
+seoTitle: Spiele Ducklings kostenlos online | FiddleBops
 description: >-
   Ducklings ist ein entspanntes Sammelspiel auf dem Wasser: Rette Entenküken auf
   dem See und bring sie sicher zurück in dein Nest.
 iframeSrc: 'https://g2.igroutka.ru/games/164/BkDlKfiWjEoZ2rcG/ducklings_io/'
 thumbnail: /new-images/thumbnails/ducklings.jpg
+urlstr: ducklings
 tags:
   - casual
   - arcade

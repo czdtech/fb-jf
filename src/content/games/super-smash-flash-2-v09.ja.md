@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Super Smash Flash 2 v0.9
+seoTitle: 無料でSuper Smash Flash 2 v0.9をオンラインでプレイ | FiddleBops
 description: Super Smash Flash 2 v0.9は、最新版のファン製格闘ゲームです。新しいキャラクターと改善された機能で楽しめます。
 iframeSrc: 'https://kdata1.com/games/SSF9_2011/?kbhgames'
 thumbnail: /new-images/thumbnails/super-smash-flash-2-v09.jpg
 urlstr: super-smash-flash-2-v09
-score: 4.2/5  (265 votes)
 tags:
   - fighting
   - multiplayer
   - action
-locale: ja
+score: 4.2/5  (265 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

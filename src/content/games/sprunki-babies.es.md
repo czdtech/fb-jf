@@ -1,17 +1,18 @@
 ---
 locale: es
-urlstr: sprunki-babies
-title: "Sprunki Babies - Juega a Sprunki Babies en línea"
+title: Sprunki Babies
+seoTitle: Juega a Sprunki Babies en línea gratis | FiddleBops
 description: >-
   Este encantador sandbox musical te pone al mando de un grupo de adorables
   Sprunki bebé, cada uno listo para aportar su propia voz musical a tus
   composiciones.
-iframeSrc: "https://turbowarp.org/1110888906/embed"
+iframeSrc: 'https://turbowarp.org/1110888906/embed'
 thumbnail: /new-images/thumbnails/sprunki-babies.png
+urlstr: sprunki-babies
 tags:
   - sprunki babies
 score: 4.0/5  (212 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

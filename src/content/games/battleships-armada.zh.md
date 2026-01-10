@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: battleships-armada
 title: Battleships Armada 海战舰队
+seoTitle: 免费在线玩 Battleships Armada 海战舰队 | FiddleBops
 description: >-
   《Battleships Armada 海战舰队》是经典海战棋的数字改编版：在网格棋盘上布置自己的舰队，推理敌方舰船所在
   位置，在对手击沉你之前先一步摧毁他们的整支舰队。
 iframeSrc: 'https://3hcluun64uid0.h5games.usercontent.goog/v/0op00pgc2n4kg/'
 thumbnail: /new-images/thumbnails/battleships-armada.png
+urlstr: battleships-armada
 tags:
   - puzzle
   - strategy

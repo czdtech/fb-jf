@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: billiards-classic
 title: Billiards Classic
+seoTitle: Spiele Billiards Classic kostenlos online | FiddleBops
 description: >-
   Genieße klassisches 8‑Ball‑Pool im Browser. Ziele deine Stöße, setze Effet ein
   und versenke zuerst deine Gruppe, bevor du die Schwarze spielst, um das Match
   zu gewinnen.
 iframeSrc: 'https://billiardsclassic.h5games.usercontent.goog/v/27m4mvjv84l70/'
 thumbnail: /new-images/thumbnails/billiards-classic.png
+urlstr: billiards-classic
 tags:
   - sports
   - puzzle

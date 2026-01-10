@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Super Smash Flash"
-description: "Experience the classic fan-made fighter, Super Smash Flash! Choose from a roster of iconic video game characters and battle it out in a platform-fighting arena. The goal is to launch your opponents off the screen by increasing their damage percentage. Master your character's moves to win."
-iframeSrc: "https://ad-freegames.github.io/flash/game/super-smash-flash.html"
+title: Super Smash Flash
+seoTitle: Play Super Smash Flash Online Free | FiddleBops
+description: >-
+  Experience the classic fan-made fighter, Super Smash Flash! Choose from a
+  roster of iconic video game characters and battle it out in a
+  platform-fighting arena. The goal is to launch your opponents off the screen
+  by increasing their damage percentage. Master your character's moves to win.
+iframeSrc: 'https://ad-freegames.github.io/flash/game/super-smash-flash.html'
 thumbnail: /new-images/thumbnails/super-smash-flash.jpg
-urlstr: "super-smash-flash"
-score: "3.5/5  (679 votes)"
-tags: ["fighting", "platformer", "multiplayer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: super-smash-flash
+tags:
+  - fighting
+  - platformer
+  - multiplayer
+score: 3.5/5  (679 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

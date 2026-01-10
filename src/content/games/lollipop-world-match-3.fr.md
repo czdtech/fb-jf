@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: lollipop-world-match-3
 title: 'Lollipop World : match 3'
+seoTitle: 'Jouez à Lollipop World : match 3 en ligne gratuitement | FiddleBops'
 description: >-
   Lollipop World : Match 3 est un jeu de réflexion gourmand : combine des bonus,
   casse les bloqueurs et atteins les objectifs de chaque niveau avec un nombre
   de coups limité.
 iframeSrc: 'https://4oij9suhguc58.h5games.usercontent.goog/v/1osssadggdrao/'
 thumbnail: /new-images/thumbnails/lollipop-world-match-3.jpg
+urlstr: lollipop-world-match-3
 tags:
   - puzzle
   - casual

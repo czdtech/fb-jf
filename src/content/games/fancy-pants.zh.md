@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: fancy-pants
 title: Fancy Pants 手绘疾走平台 1 代
+seoTitle: 免费在线玩 Fancy Pants 手绘疾走平台 1 代 | FiddleBops
 description: 《Fancy Pants》是一款风格鲜明的火柴人平台游戏， 通过高速惯性、墙跳与流畅跑酷，在手绘关卡与隐藏房间间穿梭。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj8/index.html
 thumbnail: /new-images/thumbnails/fancy-pants.jpg
+urlstr: fancy-pants
 tags:
   - platformer
   - action

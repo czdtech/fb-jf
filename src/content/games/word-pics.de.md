@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: word-pics
 title: Word Pics
+seoTitle: Spiele Word Pics kostenlos online | FiddleBops
 description: >-
   Errate in Word Pics das Wort, das zwei Bilder verbindet – ein leicht zu
   lernendes, aber süchtig machendes Bilder‑Worträtsel.
 iframeSrc: 'https://wordpics.h5games.usercontent.goog/v/7sfi13vvf0cro/'
 thumbnail: /new-images/thumbnails/word-pics.jpg
+urlstr: word-pics
 tags:
   - puzzle
   - thinky

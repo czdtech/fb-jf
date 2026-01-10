@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: emoji-with-friends
 title: Emoji With Friends 表情派对益智
+seoTitle: 免费在线玩 Emoji With Friends 表情派对益智 | FiddleBops
 description: Emoji With Friends 是一款轻松的派对类益智游戏，用各种表情符号进行配对与推理， 和好友比拼谁先完成目标。
 iframeSrc: 'https://2gtc787tjm7c8.h5games.usercontent.goog/v/5lfna7ldlrun8/'
 thumbnail: /new-images/thumbnails/emoji-with-friends.png
+urlstr: emoji-with-friends
 tags:
   - puzzle
   - casual

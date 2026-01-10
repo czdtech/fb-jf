@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Unblock That"
-description: "A classic sliding block puzzle. Move the wooden blocks around to clear a path and slide the red block out of the board. A great brain-teaser for puzzle lovers!"
-iframeSrc: "https://unblockthat.h5games.usercontent.goog/v/6iqu63hhulkgo/"
+title: Unblock That
+seoTitle: Play Unblock That Online Free | FiddleBops
+description: >-
+  A classic sliding block puzzle. Move the wooden blocks around to clear a path
+  and slide the red block out of the board. A great brain-teaser for puzzle
+  lovers!
+iframeSrc: 'https://unblockthat.h5games.usercontent.goog/v/6iqu63hhulkgo/'
 thumbnail: /new-images/thumbnails/unblock-that.png
-urlstr: "unblock-that"
-score: "4.4/5  (2500 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: unblock-that
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.4/5  (2500 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

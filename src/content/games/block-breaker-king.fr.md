@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: block-breaker-king
 title: Block Breaker King
+seoTitle: Jouez à Block Breaker King en ligne gratuitement | FiddleBops
 description: "Block Breaker King modernise le casse‑briques\_: dirige ta raquette, ajuste l’angle des rebonds, gère les bonus et casse toutes les briques sans laisser passer la balle."
 iframeSrc: 'https://40p3ck71ovs88.h5games.usercontent.goog/v/36e5gjc5plhi8/'
 thumbnail: /new-images/thumbnails/block-breaker-king.png
+urlstr: block-breaker-king
 tags:
   - puzzle
   - casual

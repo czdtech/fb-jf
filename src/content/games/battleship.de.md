@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: battleship
 title: Battleship
+seoTitle: Spiele Battleship kostenlos online | FiddleBops
 description: >-
   Legendäres Schlachtschiff-Duell: Verstecke deine Flotte, lies die Trefferkarte
   des Gegners und versenke jeden Rumpf, bevor er deine Schiffe findet.
 iframeSrc: 'https://cdn.gamesnacks.com/battleship2/gameCode/index.html'
 thumbnail: /new-images/thumbnails/battleship.jpg
+urlstr: battleship
 tags:
   - strategy
   - casual

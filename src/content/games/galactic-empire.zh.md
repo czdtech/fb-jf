@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: galactic-empire
 title: Galactic Empire 星河帝国
+seoTitle: 免费在线玩 Galactic Empire 星河帝国 | FiddleBops
 description: 俯视角太空策略游戏：开采资源、建造舰队与防御工事，在抵御敌军波次的同时夺下周边星域。
 iframeSrc: 'https://g.igroutka.ru/games/164/8plhaK3IOLoFbVPB/2/galactic_empire/'
 thumbnail: /new-images/thumbnails/galactic-empire.jpg
+urlstr: galactic-empire
 tags:
   - strategy
   - space

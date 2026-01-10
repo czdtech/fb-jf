@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: aquaparkio
 title: Aquapark io 水上乐园大作战
+seoTitle: 免费在线玩 Aquapark io 水上乐园大作战 | FiddleBops
 description: 在《aquapark.io（水上乐园大作战）》中，你将和一群对手一起冲下巨型水滑道，通过撞飞别人、飞出赛道走捷径等技巧，争夺第一个冲到终点的冠军。
 iframeSrc: 'https://bitlifeonline.github.io/class23523/aquaparkio/'
 thumbnail: /new-images/thumbnails/aquaparkio.jpg
+urlstr: aquaparkio
 tags:
   - casual
   - racing

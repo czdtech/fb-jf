@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: make-it-meme
 title: 《Make It Meme》线上多人梗图派对
+seoTitle: 免费在线玩 《Make It Meme》线上多人梗图派对 | FiddleBops
 description: 《Make It Meme》是一款多人在线派对游戏，玩家需要在限定时间内为梗图模板配上最有梗的文案，并互相打分评选出全场最佳梗王。
 iframeSrc: 'https://artedu1808.github.io/g177/make-it-meme/'
 thumbnail: /new-images/thumbnails/make-it-meme.jpg
+urlstr: make-it-meme
 tags:
   - party game
   - casual

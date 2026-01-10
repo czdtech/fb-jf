@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: bonanza-shooter-bubble
 title: Bonanza Shooter Bubble
+seoTitle: Juega a Bonanza Shooter Bubble en línea gratis | FiddleBops
 description: >-
   Bonanza Shooter Bubble es un colorido juego de disparar burbujas: ajusta
   ángulos, gestiona colores y suelta enormes racimos para sumar puntos.
 iframeSrc: 'https://65bijcm9l375g.h5games.usercontent.goog/v/6v521t1km2i30/'
 thumbnail: /new-images/thumbnails/bonanza-shooter-bubble.jpg
+urlstr: bonanza-shooter-bubble
 tags:
   - puzzle
   - casual

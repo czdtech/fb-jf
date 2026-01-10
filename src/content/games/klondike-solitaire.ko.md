@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: klondike-solitaire
 title: Klondike Solitaire 클론다이크 솔리테어
+seoTitle: Klondike Solitaire 클론다이크 솔리테어 무료 온라인 플레이 | FiddleBops
 description: >-
   고전 카드 게임 'Klondike Solitaire' 가이드입니다. 7개의 테이블루 열과 패를 활용해 A부터 K까지 같은 무늬 기초 더미를
   완성하는 기본 규칙과 전략을 설명합니다.
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-klondike-solitaire/
 thumbnail: /new-images/thumbnails/klondike-solitaire.jpg
+urlstr: klondike-solitaire
 tags:
   - solitaire
   - card

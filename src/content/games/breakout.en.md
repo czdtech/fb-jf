@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Breakout"
-description: "Control the paddle, bounce the ball, and destroy all the bricks in the classic arcade game, Breakout. Learn tips and tricks to master this timeless block-breaker."
-iframeSrc: "https://ad-freegames.github.io/flash/game/atari-breakout.html"
+title: Breakout
+seoTitle: Play Breakout Online Free | FiddleBops
+description: >-
+  Control the paddle, bounce the ball, and destroy all the bricks in the classic
+  arcade game, Breakout. Learn tips and tricks to master this timeless
+  block-breaker.
+iframeSrc: 'https://ad-freegames.github.io/flash/game/atari-breakout.html'
 thumbnail: /new-images/thumbnails/breakout.jpg
-urlstr: "breakout"
-score: "3.8/5  (494 votes)"
-tags: ["arcade", "casual"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: breakout
+tags:
+  - arcade
+  - casual
+score: 3.8/5  (494 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: grow-a-garden
-title: "Grow a Garden"
+title: Grow a Garden
+seoTitle: Spiele Grow a Garden kostenlos online | FiddleBops
 description: >-
   Entdecke die entspannte Welt von Gartenbau-Spielen mit diesem Guide. Lerne die
   Grundlagen von Säen, Pflegen und Ernten kennen und erhalte Tipps, wie du
   deinen Traumgarten Schritt für Schritt aufbaust.
 iframeSrc: 'https://growden.io/'
 thumbnail: /new-images/thumbnails/grow-a-garden.jpeg
+urlstr: grow-a-garden
 tags:
   - simulation
   - casual

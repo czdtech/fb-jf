@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Geometry Dash World
+seoTitle: 無料でGeometry Dash Worldをオンラインでプレイ | FiddleBops
 description: >-
   コンパクトなリズムプラットフォーマーの世界：短く、音楽に同期したレベルを走り、ジャンプし、飛び回りましょう。集めたオーブでゲートをアンロックし、デイリーレベルを訪れてください。
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-world/'
 thumbnail: /new-images/thumbnails/geometry-dash-world.jpg
 urlstr: geometry-dash-world
-score: 3.6/5  (1425 votes)
 tags:
   - rhythm
   - platformer
+score: 3.6/5  (1425 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "BlockDrop"
-description: "A classic and relaxing block puzzle game. Drag and drop the shapes onto the 10x10 grid to form complete lines and clear them from the board. How high can you score?"
-iframeSrc: "https://51vi4vae20f8o.h5games.usercontent.goog/v/66bqinuuh36b8/"
+title: BlockDrop
+seoTitle: Play BlockDrop Online Free | FiddleBops
+description: >-
+  A classic and relaxing block puzzle game. Drag and drop the shapes onto the
+  10x10 grid to form complete lines and clear them from the board. How high can
+  you score?
+iframeSrc: 'https://51vi4vae20f8o.h5games.usercontent.goog/v/66bqinuuh36b8/'
 thumbnail: /new-images/thumbnails/blockdrop.png
-urlstr: "blockdrop"
-score: "4.3/5  (2200 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: blockdrop
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.3/5  (2200 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

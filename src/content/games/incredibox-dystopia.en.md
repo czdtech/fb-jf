@@ -1,15 +1,22 @@
 ---
 locale: en
-modType: incredibox
-title: "Incredibox Dystopia"
-description: "Explore 'Incredibox Dystopia,' the fan-made mod set in a dark cyberpunk world. This guide details its electronic and synthwave sound palette, gameplay tips for creating futuristic beats, and how to unlock its themed bonuses"
-iframeSrc: "https://turbowarp.org/1015284026/embed"
+title: Incredibox Dystopia
+seoTitle: Play Incredibox Dystopia Online Free | FiddleBops
+description: >-
+  Explore 'Incredibox Dystopia,' the fan-made mod set in a dark cyberpunk world.
+  This guide details its electronic and synthwave sound palette, gameplay tips
+  for creating futuristic beats, and how to unlock its themed bonuses
+iframeSrc: 'https://turbowarp.org/1015284026/embed'
 thumbnail: /new-images/thumbnails/incredibox-dystopia.png
-urlstr: "incredibox-dystopia"
-score: "4.8/5 (2345 votes)"
-tags: ["music", "electronic", "rhythm"]
-developer: ""
-releaseDate: 2025-10-10
+urlstr: incredibox-dystopia
+tags:
+  - music
+  - electronic
+  - rhythm
+modType: incredibox
+score: 4.8/5 (2345 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 

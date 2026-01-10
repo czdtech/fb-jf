@@ -1,16 +1,12 @@
 ---
 locale: fr
-urlstr: soccer-random
-title: 'Soccer Random'
-description: >-
-  Découvre le foot comme tu ne l’as jamais vu dans Soccer Random ! Ce jeu
-  délirant basé sur la physique se joue avec une seule touche pour faire
-  sauter et tirer tes joueurs. Adapte‑toi aux terrains, ballons et joueurs
-  qui changent à chaque but et sois le premier à marquer cinq fois, contre un
-  ami ou l’IA.
+title: Soccer Random
+seoTitle: Jouez à Soccer Random en ligne gratuitement | FiddleBops
+description: "Découvre le foot comme tu ne l’as jamais vu dans Soccer Random\_! Ce jeu délirant basé sur la physique se joue avec une seule touche pour faire sauter et tirer tes joueurs. Adapte‑toi aux terrains, ballons et joueurs qui changent à chaque but et sois le premier à marquer cinq fois, contre un ami ou l’IA."
 iframeSrc: >-
   https://app-197306.games.s3.yandex.net/197306/b1dbvmcde0oog4ebj00rinxr3e367fl4/index.html
 thumbnail: /new-images/thumbnails/soccer-random.jpg
+urlstr: soccer-random
 tags:
   - 2-player
   - physics

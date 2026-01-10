@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: paper-minecraft
 title: Paper Minecraft 페이퍼 마인크래프트
+seoTitle: Paper Minecraft 페이퍼 마인크래프트 무료 온라인 플레이 | FiddleBops
 description: >-
   인기 샌드박스 게임을 2D 횡스크롤 방식으로 재해석한 게임입니다. 자원을 채집하고 아이템을 제작해 건물을 짓고, 몬스터를 피해 끝까지 생존해
   보세요.
 iframeSrc: 'https://scratch.mit.edu/projects/10128407/embed'
 thumbnail: /new-images/thumbnails/paper-minecraft.jpg
+urlstr: paper-minecraft
 tags:
   - sandbox
   - crafting

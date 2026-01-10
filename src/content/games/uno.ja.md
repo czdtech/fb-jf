@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: UNO
+seoTitle: 無料でUNOをオンラインでプレイ | FiddleBops
 description: UNOは、クラシックなカードゲームです。カードを出して先に手札をなくしましょう。
 iframeSrc: 'https://www.xpgameplus.com/games/uno/default.html'
 thumbnail: /new-images/thumbnails/uno.jpg
 urlstr: uno
-score: 4.4/5  (1083 votes)
 tags:
   - cards
   - classic
   - multiplayer
-locale: ja
+score: 4.4/5  (1083 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

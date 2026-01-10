@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: friday-night-funkin
 title: Friday Night Funkin 节奏对决
+seoTitle: 免费在线玩 Friday Night Funkin 节奏对决 | FiddleBops
 description: >-
   《Friday Night Funkin》是一款节奏对战游戏，跟着音乐节拍准确敲击箭头音符，
   在一周又一周的对决中打败对手；高难度下会出现更快、更复杂的谱面与长押。
 iframeSrc: 'https://html-classic.itch.zone/html/2876359-1077558/index.html'
 thumbnail: /new-images/thumbnails/friday-night-funkin.jpg
+urlstr: friday-night-funkin
 tags:
   - rhythm
   - music

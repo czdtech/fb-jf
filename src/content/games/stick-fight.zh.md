@@ -1,16 +1,17 @@
 ---
 locale: zh
-urlstr: stick-fight
 title: 《Stick Fight》火柴人乱斗
+seoTitle: 免费在线玩 《Stick Fight》火柴人乱斗 | FiddleBops
 description: 《Stick Fight》是一款节奏明快的火柴人对战游戏。在物理效果夸张的场景中拳打脚踢、拾取武器，把对手击飞出场成为最后的赢家。
 iframeSrc: 'https://ext.minijuegosgratis.com/stick-fighter-2/index.html'
 thumbnail: /new-images/thumbnails/stick-fight.jpg
+urlstr: stick-fight
 tags:
   - fighting
   - physics
   - multiplayer
 score: 3.6/5  (1015 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

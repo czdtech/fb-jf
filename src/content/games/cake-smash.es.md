@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: cake-smash
 title: Cake Smash
+seoTitle: Juega a Cake Smash en línea gratis | FiddleBops
 description: >-
   Combina y aplasta deliciosos pasteles en Cake Smash, un adictivo puzle match‑3
   lleno de color.
 iframeSrc: 'https://41la6sld9ed88.h5games.usercontent.goog/v/36d90atplnu7o/'
 thumbnail: /new-images/thumbnails/cake-smash.png
+urlstr: cake-smash
 tags:
   - puzzle
   - casual

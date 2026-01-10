@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: ghost-pro-racing
-title: "Ghost Pro Racing"
+title: Ghost Pro Racing
+seoTitle: Spiele Ghost Pro Racing kostenlos online | FiddleBops
 description: >-
   Ghost Pro Racing ist ein Time-Trial-Racer: Jage Ghost-Replays, perfektioniere
   deine Linien und feile mit konstanten Inputs Zehntelsekunden von deinen
   Rundenzeiten ab.
 iframeSrc: 'https://52v00umba6lko.h5games.usercontent.goog/v/46gechg282a6g/'
 thumbnail: /new-images/thumbnails/ghost-pro-racing.jpg
+urlstr: ghost-pro-racing
 tags:
   - car
   - driving

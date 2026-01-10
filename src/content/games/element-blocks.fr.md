@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: element-blocks
 title: Element Blocks
+seoTitle: Jouez à Element Blocks en ligne gratuitement | FiddleBops
 description: "Element Blocks est un puzzle de placement\_: pose des blocs de formes variées sur la grille pour former des lignes complètes et les faire disparaître."
 iframeSrc: 'https://elementblocks.h5games.usercontent.goog/v/35up5t7ao24i8/'
 thumbnail: /new-images/thumbnails/element-blocks.png
+urlstr: element-blocks
 tags:
   - puzzle
   - thinky

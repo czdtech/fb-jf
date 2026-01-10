@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Red Ball 4"
-description: "Red Ball 4 is a physics-based platformer game where players control a red ball on a mission to save the world from evil squares that want to turn everything into squares, navigating through challenging levels filled with obstacles and puzzles."
-iframeSrc: "https://class198.github.io/g177/red-ball-4/"
+title: Red Ball 4
+seoTitle: Play Red Ball 4 Online Free | FiddleBops
+description: >-
+  Red Ball 4 is a physics-based platformer game where players control a red ball
+  on a mission to save the world from evil squares that want to turn everything
+  into squares, navigating through challenging levels filled with obstacles and
+  puzzles.
+iframeSrc: 'https://class198.github.io/g177/red-ball-4/'
 thumbnail: /new-images/thumbnails/red-ball-4.jpg
-urlstr: "red-ball-4"
-score: "4.2/5  (1186 votes)"
-tags: ["platformer", "physics", "adventure"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: red-ball-4
+tags:
+  - platformer
+  - physics
+  - adventure
+score: 4.2/5  (1186 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

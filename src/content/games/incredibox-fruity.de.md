@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: incredibox-fruity
 title: Incredibox Fruity
+seoTitle: Spiele Incredibox Fruity kostenlos online | FiddleBops
 description: >-
   Incredibox Fruity ist ein klassisches 2D-Strategiespiel: Entwickle dein Heer
   von der Steinzeit bis in die Zukunft, setze Spezialfähigkeiten ein und
   vernichte die gegnerische Basis.
 iframeSrc: 'https://turbowarp.org/414716080/embed'
 thumbnail: /new-images/thumbnails/incredibox-fruity.jpg
+urlstr: incredibox-fruity
 tags:
   - strategy
   - action

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: chess-classic
 title: Chess Classic
+seoTitle: Spiele Chess Classic kostenlos online | FiddleBops
 description: >-
   Genieße das klassische Schach in Chess Classic. Spiele gegen den Computer in
   verschiedenen Schwierigkeitsstufen und verbessere Schritt für Schritt dein
   Können.
 iframeSrc: 'https://chessclassic.h5games.usercontent.goog/v/7hf0vulane380/'
 thumbnail: /new-images/thumbnails/chess-classic.png
+urlstr: chess-classic
 tags:
   - thinky
   - 2 player

@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Splatoon 3"
-description: "Dive into the colorful world of Splatoon 3! In this action-packed shooter, cover the territory with your team's ink to claim victory. Transform into a squid to swim through your ink, ambush opponents, and refill your weapon. Master movement and teamwork to dominate the turf."
-iframeSrc: "https://bitlifeonline.github.io/splatoon-3/"
+title: Splatoon 3
+seoTitle: Play Splatoon 3 Online Free | FiddleBops
+description: >-
+  Dive into the colorful world of Splatoon 3! In this action-packed shooter,
+  cover the territory with your team's ink to claim victory. Transform into a
+  squid to swim through your ink, ambush opponents, and refill your weapon.
+  Master movement and teamwork to dominate the turf.
+iframeSrc: 'https://bitlifeonline.github.io/splatoon-3/'
 thumbnail: /new-images/thumbnails/splatoon-3.jpg
-urlstr: "splatoon-3"
-score: "4.3/5  (955 votes)"
-tags: ["action", "shooting", "multiplayer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: splatoon-3
+tags:
+  - action
+  - shooting
+  - multiplayer
+score: 4.3/5  (955 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

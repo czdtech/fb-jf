@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Carrom Clash"
-description: "Experience the classic tabletop game of Carrom on your device! Aim your striker, pocket your pieces, and cover the queen to defeat your opponent in this game of skill and precision."
-iframeSrc: "https://carromclash.h5games.usercontent.goog/v/4pmfd00515bbg/"
+title: Carrom Clash
+seoTitle: Play Carrom Clash Online Free | FiddleBops
+description: >-
+  Experience the classic tabletop game of Carrom on your device! Aim your
+  striker, pocket your pieces, and cover the queen to defeat your opponent in
+  this game of skill and precision.
+iframeSrc: 'https://carromclash.h5games.usercontent.goog/v/4pmfd00515bbg/'
 thumbnail: /new-images/thumbnails/carrom-clash.png
-urlstr: "carrom-clash"
-score: "4.4/5  (2600 votes)"
-tags: ["sports", "puzzle", "action"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: carrom-clash
+tags:
+  - sports
+  - puzzle
+  - action
+score: 4.4/5  (2600 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

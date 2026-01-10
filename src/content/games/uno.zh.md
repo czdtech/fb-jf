@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: uno
 title: UNO 纸牌：经典出牌对战
+seoTitle: 免费在线玩 UNO 纸牌：经典出牌对战 | FiddleBops
 description: UNO 是一款家喻户晓的经典卡牌游戏。玩家通过颜色或数字匹配不断出牌， 灵活使用功能牌干扰对手，率先打空自己手牌并成功喊出“UNO！”即获得胜利。
 iframeSrc: 'https://www.xpgameplus.com/games/uno/default.html'
 thumbnail: /new-images/thumbnails/uno.jpg
+urlstr: uno
 tags:
   - card game
   - strategy

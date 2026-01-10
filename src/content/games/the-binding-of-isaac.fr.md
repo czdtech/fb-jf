@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: the-binding-of-isaac
 title: The Binding of Isaac
+seoTitle: Jouez à The Binding of Isaac en ligne gratuitement | FiddleBops
 description: >-
   The Binding of Isaac est un roguelike action-RPG sombre : combats des
   creatures grotesques, collecte des bonus bizarres et explore des donjons
   generes proceduralement.
 iframeSrc: 'https://flash-cdn.blogspot.com/2021/06/the-binding-of-isaac.html'
 thumbnail: /new-images/thumbnails/the-binding-of-isaac.jpg
+urlstr: the-binding-of-isaac
 tags:
   - roguelike
   - action-rpg

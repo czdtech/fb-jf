@@ -1,17 +1,20 @@
 ---
+locale: ja
 title: 'Cooking Mama: Mama Kills Animals クッキングママ：ママ・キルズ・アニマルズ'
+seoTitle: >-
+  無料でCooking Mama: Mama Kills Animals クッキングママ：ママ・キルズ・アニマルズをオンラインでプレイ |
+  FiddleBops
 description: >-
   「Cooking Mama: Mama Kills
   Animals」はPETAによる衝撃的なパロディゲーム。公式シリーズとは異なる、動物愛護団体の風刺的なメッセージとゲーム内容を解説。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/cooking-mama.html'
 thumbnail: /new-images/thumbnails/cooking-mama.jpg
 urlstr: cooking-mama
-score: 4.4/5  (1078 votes)
 tags:
   - horror
+score: 4.4/5  (1078 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

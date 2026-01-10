@@ -1,15 +1,21 @@
 ---
 locale: en
-modType: incredibox
-title: "Incredibox Banana"
-description: "Explore the fan-made 'Incredibox Banana' mod. This guide details its jungle and meme theme inspired by the popular VR game, its unique sound palette, and tips for creating your own monkey mix."
-iframeSrc: "https://turbowarp.org/1108699828/embed"
+title: Incredibox Banana
+seoTitle: Play Incredibox Banana Online Free | FiddleBops
+description: >-
+  Explore the fan-made 'Incredibox Banana' mod. This guide details its jungle
+  and meme theme inspired by the popular VR game, its unique sound palette, and
+  tips for creating your own monkey mix.
+iframeSrc: 'https://turbowarp.org/1108699828/embed'
 thumbnail: /new-images/thumbnails/incredibox-banana.png
-urlstr: "incredibox-banana"
-score: "4.4/5 (678 votes)"
-tags: ["music", "rhythm"]
-developer: ""
-releaseDate: 2025-10-10
+urlstr: incredibox-banana
+tags:
+  - music
+  - rhythm
+modType: incredibox
+score: 4.4/5 (678 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 

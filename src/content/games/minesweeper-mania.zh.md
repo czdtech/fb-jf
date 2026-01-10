@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: minesweeper-mania
 title: 《Minesweeper Mania》进阶扫雷狂热
+seoTitle: 免费在线玩 《Minesweeper Mania》进阶扫雷狂热 | FiddleBops
 description: >-
   《Minesweeper
   Mania》是在经典扫雷基础上打磨升级的版本，提供多种难度与精致界面，通过数字提示逻辑推理出所有地雷位置，是检验推理能力的绝佳挑战。
 iframeSrc: 'https://minesweepermania.h5games.usercontent.goog/v/6cje7ufl50e4g/'
 thumbnail: /new-images/thumbnails/minesweeper-mania.png
+urlstr: minesweeper-mania
 tags:
   - puzzle
   - thinky

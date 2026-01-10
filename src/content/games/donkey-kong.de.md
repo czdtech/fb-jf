@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: donkey-kong
 title: Donkey Kong
+seoTitle: Spiele Donkey Kong kostenlos online | FiddleBops
 description: >-
   Donkey Kong ist ein legendärer Arcade-Platformer: Klettere Leitern und Träger
   hinauf, weiche Fässern und Feuerbällen aus und erreiche die Spitze, um die
   Stage abzuschließen.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/donkey-kong.html'
 thumbnail: /new-images/thumbnails/donkey-kong.jpg
+urlstr: donkey-kong
 tags:
   - platformer
   - arcade

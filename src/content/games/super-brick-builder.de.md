@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: super-brick-builder
 title: Super Brick Builder
+seoTitle: Spiele Super Brick Builder kostenlos online | FiddleBops
 description: >-
   Super Brick Builder ist ein physikbewusstes Bau-Puzzle: Platziere Steine
   sauber, plane Tragstrukturen und vervollständige Silhouetten mit möglichst
   wenig Wacklern.
 iframeSrc: 'https://0hlb6nt2jsom8.h5games.usercontent.goog/v/4jac78qnv0nr8/'
 thumbnail: /new-images/thumbnails/super-brick-builder.png
+urlstr: super-brick-builder
 tags:
   - puzzle
   - thinky

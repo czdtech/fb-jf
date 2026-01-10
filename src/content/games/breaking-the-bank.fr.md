@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: breaking-the-bank
 title: Breaking the Bank
+seoTitle: Jouez à Breaking the Bank en ligne gratuitement | FiddleBops
 description: "Breaking the Bank est le tout premier épisode d’Henry Stickmin\_: choisis une méthode pour cambrioler une banque et découvre une série de FAILs hilarants… une seule option mène au «\_succès\_»."
 iframeSrc: 'https://rebemanae.github.io/breaking-the-bank/'
 thumbnail: /new-images/thumbnails/breaking-the-bank.jpg
+urlstr: breaking-the-bank
 tags:
   - puzzle
   - adventure

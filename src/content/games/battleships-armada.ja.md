@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Battleships Armada バトルシップ・アルマダ
+seoTitle: 無料でBattleships Armada バトルシップ・アルマダをオンラインでプレイ | FiddleBops
 description: 古典的な海戦ゲームの決定版！艦隊を戦略的に配置し、敵の座標を砲撃して、あなたの船が沈められる前に敵艦隊を全滅させよう。
 iframeSrc: 'https://3hcluun64uid0.h5games.usercontent.goog/v/0op00pgc2n4kg/'
 thumbnail: /new-images/thumbnails/battleships-armada.png
 urlstr: battleships-armada
-score: 4.5/5  (2900 votes)
 tags:
   - puzzle
   - strategy
   - thinky
+score: 4.5/5  (2900 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

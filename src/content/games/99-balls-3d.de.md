@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: 99-balls-3d
 title: 99 Balls 3D
+seoTitle: Spiele 99 Balls 3D kostenlos online | FiddleBops
 description: >-
   99 Balls 3D ist ein moderner Mix aus Arcade‑Action und Physik‑Puzzle. Ziele
   geschickt, feuere eine Kugelsalve ab und zerbrich nummerierte Bälle, sammle
   Ringe für mehr Munition und Sterne für neue Skins.
 iframeSrc: 'https://99balls3d.h5games.usercontent.goog/v/0b35ksethbio8/'
 thumbnail: /new-images/thumbnails/99-balls-3d.jpeg
+urlstr: 99-balls-3d
 tags:
   - shooting
   - puzzle

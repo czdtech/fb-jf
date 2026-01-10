@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Hex Puzzle
+seoTitle: 無料でHex Puzzleをオンラインでプレイ | FiddleBops
 description: >-
   六角形のグリッドでの、やりがいのある中毒性の高いブロックパズル。ヘキサブロックをドラッグ＆ドロップして、あらゆる方向に完全なラインを作って消しましょう。ブロックは回転できないので、計画的に動かしましょう！
 iframeSrc: 'https://blockpuzzle.h5games.usercontent.goog/v/3rkr8c5j9b23o/'
 thumbnail: /new-images/thumbnails/hex-puzzle.jpg
 urlstr: hex-puzzle
-score: 4.4/5  (2450 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.4/5  (2450 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

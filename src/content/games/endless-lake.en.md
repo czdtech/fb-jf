@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Endless Lake"
-description: "How far can you run? Test your reflexes in this minimalist endless runner. Tap to jump once, or tap again in mid-air for a double jump to cross the treacherous gaps of the Endless Lake."
-iframeSrc: "https://3llnkqqmic17g.h5games.usercontent.goog/v/0e8uaqritcs8o/"
+title: Endless Lake
+seoTitle: Play Endless Lake Online Free | FiddleBops
+description: >-
+  How far can you run? Test your reflexes in this minimalist endless runner. Tap
+  to jump once, or tap again in mid-air for a double jump to cross the
+  treacherous gaps of the Endless Lake.
+iframeSrc: 'https://3llnkqqmic17g.h5games.usercontent.goog/v/0e8uaqritcs8o/'
 thumbnail: /new-images/thumbnails/endless-lake.png
-urlstr: "endless-lake"
-score: "4.2/5  (1900 votes)"
-tags: ["action", "casual", "clicker"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: endless-lake
+tags:
+  - action
+  - casual
+  - clicker
+score: 4.2/5  (1900 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

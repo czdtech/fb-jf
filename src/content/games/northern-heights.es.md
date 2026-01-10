@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: northern-heights
-title: Northern Heights - Descensos extremos sobre la nieve
+title: Northern Heights
+seoTitle: Juega a Northern Heights en línea gratis | FiddleBops
 description: >-
   Emprende una emocionante aventura de esquí en Northern Heights. Domina las
   pendientes, realiza acrobacias y recoge monedas para convertirte en una
   auténtica leyenda del esquí.
 iframeSrc: 'https://northernheights.h5games.usercontent.goog/v/1pct901lj7uko/'
 thumbnail: /new-images/thumbnails/northern-heights.png
+urlstr: northern-heights
 tags:
   - sports
   - action

@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: cards-21
 title: Cards 21 纸牌 21 点
+seoTitle: 免费在线玩 Cards 21 纸牌 21 点 | FiddleBops
 description: 《Cards 21 纸牌 21 点》是基于 Blackjack 规则的纸牌小游戏，通过抽牌和停牌让手牌尽量接近 21 且不爆牌，以超过 庄家点数为目标。
 iframeSrc: 'https://11kvu79prlefg.h5games.usercontent.goog/v/67r78cf7q96c0/'
 thumbnail: /new-images/thumbnails/cards-21.png
+urlstr: cards-21
 tags:
   - casual
   - card

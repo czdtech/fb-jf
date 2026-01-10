@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: pacman-30th-anniversary
-title: Pacman 30th Anniversary - 30 años de laberintos
+title: Pacman 30th Anniversary
+seoTitle: Juega a Pacman 30th Anniversary en línea gratis | FiddleBops
 description: >-
   Pacman 30th Anniversary es una edición especial del mítico arcade que celebra
   tres décadas de persecuciones en laberintos. Guía a Pac-Man por el laberinto,
@@ -9,6 +9,7 @@ description: >-
   clásico tan nostálgico como adictivo.
 iframeSrc: 'https://pacman-30thanniversary.com/game/doodle-pacman/pacman.html'
 thumbnail: /new-images/thumbnails/pacman-30th-anniversary.jpg
+urlstr: pacman-30th-anniversary
 tags:
   - arcade
   - classic

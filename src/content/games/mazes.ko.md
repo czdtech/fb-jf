@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: mazes
 title: Mazes 미로 모음
+seoTitle: Mazes 미로 모음 무료 온라인 플레이 | FiddleBops
 description: >-
   Mazes는 단순한 격자형부터 함정이 가득한 코스까지 다양한 미로를 달리며, 최적 경로를 그리고 함정을 피해 기준 기록에 도전하는 퍼즐
   게임입니다.
 iframeSrc: 'https://1ivu76rhffpsg.h5games.usercontent.goog/v/00icu4vi09j18/'
 thumbnail: /new-images/thumbnails/mazes.jpg
+urlstr: mazes
 tags:
   - puzzle
   - thinky

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: farming-10x10
 title: Farming 10x10
+seoTitle: Spiele Farming 10x10 kostenlos online | FiddleBops
 description: >-
   Farming 10x10 kleidet das klassische 10x10-Blockpuzzle im Farmstil neu ein:
   Platziere Formen, räume Reihen/Spalten ab und halte dir immer genug
   Spielfeldraum offen.
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
 thumbnail: /new-images/thumbnails/farming-10x10.jpg
+urlstr: farming-10x10
 tags:
   - puzzle
   - thinky

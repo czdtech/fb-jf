@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: farm-block-puzzle
 title: Farm Block Puzzle 农场方块拼图
+seoTitle: 免费在线玩 Farm Block Puzzle 农场方块拼图 | FiddleBops
 description: Farm Block Puzzle 是一款氛围轻松的 10x10 方块拼图游戏， 以可爱农场为主题，拖拽方块到棋盘上排成整行，消除得分。
 iframeSrc: 'https://5hefbqkv5o0do.h5games.usercontent.goog/v/0bio68l8dojl0/'
 thumbnail: /new-images/thumbnails/farm-block-puzzle.png
+urlstr: farm-block-puzzle
 tags:
   - puzzle
   - thinky

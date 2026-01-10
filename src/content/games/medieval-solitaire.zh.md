@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: medieval-solitaire
 title: 《Medieval Solitaire》中世纪纸牌接龙
+seoTitle: 免费在线玩 《Medieval Solitaire》中世纪纸牌接龙 | FiddleBops
 description: >-
   《Medieval Solitaire》是一款中世纪主题的经典 Klondike 接龙纸牌游戏，在骑士与城堡的氛围中，从 A 到 K
   依次构建基础牌堆，清空整个牌局。
 iframeSrc: 'https://7se96a0j4qu80.h5games.usercontent.goog/v/1iv1d4soimc78/'
 thumbnail: /new-images/thumbnails/medieval-solitaire.png
+urlstr: medieval-solitaire
 tags:
   - card
   - puzzle

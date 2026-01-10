@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Hide And Seek!"
-description: "Casual stealth‑tag: as a hider, blend and collect; as a seeker, use vision cones and sprints to catch everyone before time runs out." 
-iframeSrc: "https://g2.igroutka.ru/games/23/YWRIxUAXudnq4HO1/rvvASMiM/239942ce1a1349f6bcc9d312b32c5c3b/"
+title: Hide And Seek!
+seoTitle: Play Hide And Seek! Online Free | FiddleBops
+description: >-
+  Casual stealth‑tag: as a hider, blend and collect; as a seeker, use vision
+  cones and sprints to catch everyone before time runs out.
+iframeSrc: >-
+  https://g2.igroutka.ru/games/23/YWRIxUAXudnq4HO1/rvvASMiM/239942ce1a1349f6bcc9d312b32c5c3b/
 thumbnail: /new-images/thumbnails/hide-and-seek.jpg
-urlstr: "hide-and-seek"
-score: "4.5/5  (917 votes)"
-tags: ["stealth", "arcade"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: hide-and-seek
+tags:
+  - stealth
+  - arcade
+score: 4.5/5  (917 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

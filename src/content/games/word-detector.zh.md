@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: word-detector
 title: Word Detector：单词侦探
+seoTitle: 免费在线玩 Word Detector：单词侦探 | FiddleBops
 description: 《Word Detector》是一款节奏明快的找词游戏。 在字母方阵中连线拼出单词，在时间耗尽前尽可能多地得分， 一边检验词汇量，一边提升观察与反应速度。
 iframeSrc: 'https://worddetector.h5games.usercontent.goog/v/4gaf9ej9hp398/'
 thumbnail: /new-images/thumbnails/word-detector.png
+urlstr: word-detector
 tags:
   - puzzle
   - thinky

@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Alien Hominid エイリアン・ホミニッド
+seoTitle: 無料でAlien Hominid エイリアン・ホミニッドをオンラインでプレイ | FiddleBops
 description: >-
   クラシックなラン＆ガン・シューティングゲーム「Alien Hominid」の究極ガイド。The
   Behemothが贈るこの高難易度な横スクロールアクションを攻略するための戦略、操作方法、FAQを網羅。
 iframeSrc: 'https://ad-freegames.github.io/flash/game/alien-hominid.html'
 thumbnail: /new-images/thumbnails/alien-hominid.jpg
 urlstr: alien-hominid
-score: 5.0/5  (126 votes)
 tags:
   - shooting
   - action
+score: 5.0/5  (126 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

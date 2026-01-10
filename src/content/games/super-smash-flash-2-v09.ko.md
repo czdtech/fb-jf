@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: super-smash-flash-2-v09
 title: Super Smash Flash 2 v0.9 슈퍼 스매시 플래시 2 v0.9
+seoTitle: Super Smash Flash 2 v0.9 슈퍼 스매시 플래시 2 v0.9 무료 온라인 플레이 | FiddleBops
 description: >-
   Super Smash Flash 2 v0.9는 다양한 게임·애니 캐릭터가 난투를 벌이는 팬 메이드 대전 액션 게임의 업데이트 버전입니다.
   신규 캐릭터와 스테이지가 추가되어 더욱 풍성한 대전을 즐길 수 있습니다.
 iframeSrc: 'https://kdata1.com/games/SSF9_2011/?kbhgames'
 thumbnail: /new-images/thumbnails/super-smash-flash-2-v09.jpg
+urlstr: super-smash-flash-2-v09
 tags:
   - fighting
   - action

@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Merge Fruit"
-description: "Merge Fruit is a juicy merge‑and‑drop — combine identical fruits, manage stack heights, and engineer cascades for big scores."
-iframeSrc: "https://3eltb7i874s60.h5games.usercontent.goog/v/28f34ighqoh10/"
+title: Merge Fruit
+seoTitle: Play Merge Fruit Online Free | FiddleBops
+description: >-
+  Merge Fruit is a juicy merge‑and‑drop — combine identical fruits, manage stack
+  heights, and engineer cascades for big scores.
+iframeSrc: 'https://3eltb7i874s60.h5games.usercontent.goog/v/28f34ighqoh10/'
 thumbnail: /new-images/thumbnails/merge-fruit.png
-urlstr: "merge-fruit"
-score: "4.1/5  (1957 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: merge-fruit
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.1/5  (1957 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

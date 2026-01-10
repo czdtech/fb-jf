@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: stick-war
 title: Stick War
+seoTitle: Jouez à Stick War en ligne gratuitement | FiddleBops
 description: "Dans Stick War, dirige la nation de l’Ordre dans un jeu de stratégie en temps réel culte\_: mine de l’or, entraîne des unités stickman et détruis la statue ennemie pour conquérir Inamorta."
 iframeSrc: 'https://www.gamenora.com/upload/games/swf/stick_war/'
 thumbnail: /new-images/thumbnails/stick-war.jpg
+urlstr: stick-war
 tags:
   - strategy
   - rTS

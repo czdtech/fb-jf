@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Hole io
+seoTitle: 無料でHole ioをオンラインでプレイ | FiddleBops
 description: 街を飲み込む.io対戦ゲーム：ブラックホールを動かして物を食べ、大きく成長し、マップ上のライバルより高得点を出すか、消し去りましょう。
 iframeSrc: 'https://holeio.com/'
 thumbnail: /new-images/thumbnails/hole-io.jpg
 urlstr: hole-io
-score: 4.0/5  (606 votes)
 tags:
   - io
   - arcade
+score: 4.0/5  (606 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

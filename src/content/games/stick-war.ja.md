@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Stick War
+seoTitle: 無料でStick Warをオンラインでプレイ | FiddleBops
 description: Stick Warは、戦略とアクションを組み合わせたスティックマンゲームです。軍隊を指揮して敵を倒しましょう。
 iframeSrc: 'https://www.gamenora.com/upload/games/swf/stick_war/'
 thumbnail: /new-images/thumbnails/stick-war.jpg
 urlstr: stick-war
-score: 3.6/5  (1080 votes)
 tags:
   - strategy
   - action
   - war
-locale: ja
+score: 3.6/5  (1080 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

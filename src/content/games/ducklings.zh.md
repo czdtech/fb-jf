@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: ducklings
 title: Ducklings 小鸭接力护送
+seoTitle: 免费在线玩 Ducklings 小鸭接力护送 | FiddleBops
 description: Ducklings 是一款轻松疗愈的收集游戏，你要在湖面上救回散落四处的小鸭， 把牠们安全地护送回巢穴。
 iframeSrc: 'https://g2.igroutka.ru/games/164/BkDlKfiWjEoZ2rcG/ducklings_io/'
 thumbnail: /new-images/thumbnails/ducklings.jpg
+urlstr: ducklings
 tags:
   - casual
   - arcade

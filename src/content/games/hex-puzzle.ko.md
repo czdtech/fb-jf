@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: hex-puzzle
 title: Hex Puzzle 헥스 퍼즐
+seoTitle: Hex Puzzle 헥스 퍼즐 무료 온라인 플레이 | FiddleBops
 description: >-
   Hex Puzzle는 육각형 격자 위에 블록을 배치해 줄을 완성하는 퍼즐 게임으로, 회전할 수 없는 헥사 블록을 빈틈없이 배치해 라인을
   지우는 공간 설계가 중요합니다.
 iframeSrc: 'https://blockpuzzle.h5games.usercontent.goog/v/3rkr8c5j9b23o/'
 thumbnail: /new-images/thumbnails/hex-puzzle.jpg
+urlstr: hex-puzzle
 tags:
   - puzzle
   - thinky

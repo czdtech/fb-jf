@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Slope 3
+seoTitle: 無料でSlope 3をオンラインでプレイ | FiddleBops
 description: Slope 3はエンドレスの3Dランナーです。ボールを転がして障害物を避け、できるだけ長く進みます。
 iframeSrc: 'https://games-online.io/game/Slope3/'
 thumbnail: /new-images/thumbnails/slope-3.jpg
 urlstr: slope-3
-score: 4.6/5  (1420 votes)
 tags:
   - action
   - casual
+score: 4.6/5  (1420 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

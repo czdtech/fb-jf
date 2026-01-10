@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Smash Karts
+seoTitle: 無料でSmash Kartsをオンラインでプレイ | FiddleBops
 description: Smash Kartsは対戦カートアクションです。レースしながらアイテムを使って戦い、順位やスコアを競います。
 iframeSrc: 'https://webgltest-17af1.firebaseapp.com/'
 thumbnail: /new-images/thumbnails/smash-karts.jpg
 urlstr: smash-karts
-score: 4.7/5  (277 votes)
 tags:
   - racing
   - action
   - 2 player
+score: 4.7/5  (277 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

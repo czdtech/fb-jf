@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: lows-adventures-3
-title: Low's Adventures 3 - Plataformas retro avanzadas
+title: Low's Adventures 3
+seoTitle: Juega a Low's Adventures 3 en línea gratis | FiddleBops
 description: >-
   Tercera entrega de la trilogía de plataformas retro: saltos más ajustados,
   nuevos bloques especiales y muchos más secretos en niveles compactos.
 iframeSrc: 'https://previews.customer.envatousercontent.com/files/480663659/index.html'
 thumbnail: /new-images/thumbnails/lows-adventures-3.jpg
+urlstr: lows-adventures-3
 tags:
   - platformer
   - adventure

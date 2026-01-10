@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: solitaire-2048
 title: Solitaire 2048
+seoTitle: Jouez à Solitaire 2048 en ligne gratuitement | FiddleBops
 description: "Solitaire 2048 mélange 2048 et un flux de cartes\_: pose des cartes numérotées pour fusionner les valeurs et gère tes colonnes pour déclencher de gros enchaînements."
 iframeSrc: 'https://041gj41756cjg.h5games.usercontent.goog/v/7n148hti57veo/'
 thumbnail: /new-images/thumbnails/solitaire-2048.png
+urlstr: solitaire-2048
 tags:
   - card
   - puzzle

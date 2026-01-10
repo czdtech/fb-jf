@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Pokemon Fire Red"
-description: "Pokemon Fire Red is a faithful remake of the original Pokémon Red game, where players journey through the Kanto region to catch and train Pokémon, battle Gym Leaders, and thwart the plans of Team Rocket to become the Pokémon League Champion."
-iframeSrc: "https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonred"
+title: Pokemon Fire Red
+seoTitle: Play Pokemon Fire Red Online Free | FiddleBops
+description: >-
+  Pokemon Fire Red is a faithful remake of the original Pokémon Red game, where
+  players journey through the Kanto region to catch and train Pokémon, battle
+  Gym Leaders, and thwart the plans of Team Rocket to become the Pokémon League
+  Champion.
+iframeSrc: 'https://picklekid31.github.io/GBA-unblocked-games/launcher.html#pokemonred'
 thumbnail: /new-images/thumbnails/pokemon-fire-red.jpg
-urlstr: "pokemon-fire-red"
-score: "4.0/5  (705 votes)"
-tags: ["rpg", "adventure", "collecting"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: pokemon-fire-red
+tags:
+  - rpg
+  - adventure
+  - collecting
+score: 4.0/5  (705 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

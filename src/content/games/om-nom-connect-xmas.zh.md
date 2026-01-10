@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: om-nom-connect-xmas
 title: Om Nom 圣诞连连看
+seoTitle: 免费在线玩 Om Nom 圣诞连连看 | FiddleBops
 description: 与 Om Nom 一起参加节日益智冒险！Om Nom 圣诞连连看是一款有趣的方块匹配游戏，你可以连接圣诞主题的美食对。
 iframeSrc: >-
   https://omnomconnectxmas.h5games.usercontent.goog/v/88a6b2cf-1027-4490-a613-9a135cf869ce/
 thumbnail: /new-images/thumbnails/om-nom-connect-xmas.jpg
+urlstr: om-nom-connect-xmas
 tags:
   - puzzle
   - casual

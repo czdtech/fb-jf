@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: iron-snout
 title: 《Iron Snout》铁鼻小猪大乱斗
+seoTitle: 免费在线玩 《Iron Snout》铁鼻小猪大乱斗 | FiddleBops
 description: >-
   《Iron Snout》是一款节奏极快的 2D
   清版游戏，你操控一只会功夫的小猪，对抗从左右两侧涌来的狼群，通过格挡、连踢和反弹武器在一波波攻势中生存下去刷高分。
 iframeSrc: 'https://webglmath.github.io/iron-snout/'
 thumbnail: /new-images/thumbnails/iron-snout.jpg
+urlstr: iron-snout
 tags:
   - fighting
   - arcade

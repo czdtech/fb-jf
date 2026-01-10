@@ -1,6 +1,7 @@
 ---
 locale: en
-title: Fiddlebops Sprunkbop - Play Fiddlebops Sprunkbop Online
+title: Fiddlebops Sprunkbop
+seoTitle: Play Fiddlebops Sprunkbop Online Free | FiddleBops
 description: >-
   Fiddlebops Sprunkbop is an awesome crossover event! It keeps the addictive
   music-making core of Fiddlebops but swaps out all the original characters for
@@ -8,11 +9,11 @@ description: >-
 iframeSrc: 'https://turbowarp.org/1114551059/embed'
 thumbnail: /new-images/thumbnails/fiddlebops-sprunkbop.png
 urlstr: fiddlebops-sprunkbop
-modType: fiddlebops
-score: 4.1/5  (308 votes)
 tags:
   - fiddlebops sprunkbop
   - music
+modType: fiddlebops
+score: 4.1/5  (308 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

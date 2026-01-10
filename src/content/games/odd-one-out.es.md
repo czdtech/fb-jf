@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: odd-one-out
-title: Odd One Out - Encuentra el que no encaja
+title: Odd One Out
+seoTitle: Juega a Odd One Out en línea gratis | FiddleBops
 description: >-
   Encuentra el elemento que no pertenece al grupo en Odd One Out, un juego que
   pone a prueba tu capacidad de observación y tu pensamiento crítico.
 iframeSrc: 'https://oddoneout.h5games.usercontent.goog/v/50nqosk9lm28o/'
 thumbnail: /new-images/thumbnails/odd-one-out.jpg
+urlstr: odd-one-out
 tags:
   - puzzle
   - thinky

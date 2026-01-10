@@ -1,6 +1,7 @@
 ---
 locale: en
-title: Sprunki Phase 1 - Play Sprunki Phase 1 Online
+title: Sprunki Phase 1
+seoTitle: Play Sprunki Phase 1 Online Free | FiddleBops
 description: >-
   Sprunki Phase 1 is the perfect gateway into the amazing Sprunki universe. It
   offers a simple, intuitive way to experience the joy of music creation and see
@@ -8,11 +9,11 @@ description: >-
 iframeSrc: 'https://turbowarp.org/1127823859/embed'
 thumbnail: /new-images/thumbnails/sprunki-phase-1.png
 urlstr: sprunki-phase-1
-modType: sprunki
-score: 4.3/5  (96 votes)
 tags:
   - sprunki phase 1
   - music
+modType: sprunki
+score: 4.3/5  (96 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: bubble-shooter
 title: Bubble Shooter
+seoTitle: Juega a Bubble Shooter en línea gratis | FiddleBops
 description: >-
   Apunta, dispara y combina burbujas de colores para limpiar el tablero en el
   clásico puzle Bubble Shooter. Planifica tus tiros, usa las paredes y derriba
   enormes grupos para lograr una puntuación récord.
 iframeSrc: 'https://www.bubbleshooter-new.com/'
 thumbnail: /new-images/thumbnails/bubble-shooter.jpg
+urlstr: bubble-shooter
 tags:
   - casual
   - puzzle

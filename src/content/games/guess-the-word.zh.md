@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: guess-the-word
 title: 《Guess The Word》连线猜单词
+seoTitle: 免费在线玩 《Guess The Word》连线猜单词 | FiddleBops
 description: 《Guess The Word》是一款干净利落的拼词解谜游戏，你要连接字母、利用常见字母组合和词缀，在类似填字格的棋盘中拼出单词并全部填满。
 iframeSrc: 'https://5e2trj00jcfog.h5games.usercontent.goog/v/1hrc6f7979nig/'
 thumbnail: /new-images/thumbnails/guess-the-word.png
+urlstr: guess-the-word
 tags:
   - puzzle
   - thinky

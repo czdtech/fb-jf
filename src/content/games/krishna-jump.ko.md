@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: krishna-jump
 title: Krishna Jump 크리슈나 점프 러너
+seoTitle: Krishna Jump 크리슈나 점프 러너 무료 온라인 플레이 | FiddleBops
 description: >-
   한 버튼으로 즐기는 수직 러너 'Krishna Jump' 가이드입니다. 점프 타이밍을 맞춰 발판을 오르고, 장애물을 피하며 아이템을 모아
   높은 기록에 도전해 보세요.
 iframeSrc: 'https://5gj672951lio0.h5games.usercontent.goog/v/2q5vk2ok37gr8/'
 thumbnail: /new-images/thumbnails/krishna-jump.png
+urlstr: krishna-jump
 tags:
   - action
   - casual

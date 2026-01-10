@@ -1,17 +1,17 @@
 ---
 locale: ko
-urlstr: sprunki-pyramixed-version
-title: 'Sprunki Pyramixed 스프룽키 피라믹스트'
+title: Sprunki Pyramixed 스프룽키 피라믹스트
+seoTitle: Sprunki Pyramixed 스프룽키 피라믹스트 무료 온라인 플레이 | FiddleBops
 description: >-
-  Sprunki Pyramixed는 직관적인 조작과 깊이 있는 사운드 디자인을 모두 갖춘 음악
-  제작 플랫폼형 모드입니다. 여러 사운드 요소를 "피라미드"처럼 쌓아 올리며
-  자신만의 곡을 만들어 볼 수 있습니다.
+  Sprunki Pyramixed는 직관적인 조작과 깊이 있는 사운드 디자인을 모두 갖춘 음악 제작 플랫폼형 모드입니다. 여러 사운드 요소를
+  "피라미드"처럼 쌓아 올리며 자신만의 곡을 만들어 볼 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1133167510/embed'
 thumbnail: /new-images/thumbnails/sprunki-pyramixed-version.png
+urlstr: sprunki-pyramixed-version
 tags:
   - sprunki pyramixed
 score: 4.0/5  (254 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

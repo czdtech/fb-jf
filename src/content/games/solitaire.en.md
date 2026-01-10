@@ -1,6 +1,7 @@
 ---
 locale: en
 title: Solitaire
+seoTitle: Play Solitaire Online Free | FiddleBops
 description: >-
   Solitaire is the classic single-player card game where players arrange cards
   in specific sequences and suits, aiming to move all cards to foundation piles
@@ -8,13 +9,13 @@ description: >-
 iframeSrc: 'https://www.edogan.us/solitaire-js/'
 thumbnail: /new-images/thumbnails/solitaire.jpg
 urlstr: solitaire
-score: 4.8/5  (1242 votes)
 tags:
   - card-game
   - classic
   - puzzle
+score: 4.8/5  (1242 votes)
 developer: ''
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

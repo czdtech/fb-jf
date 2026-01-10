@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: lucky-vegas-blackjack
 title: 《Lucky Vegas Blackjack》幸运维加斯黑杰克
+seoTitle: 免费在线玩 《Lucky Vegas Blackjack》幸运维加斯黑杰克 | FiddleBops
 description: 《Lucky Vegas Blackjack》是一款简化的 21 点游戏，你可以运用基础策略、管理资金，在轻快节奏中享受一局局下注，而不是盲目追输。
 iframeSrc: 'https://35ntqr0siokq8.h5games.usercontent.goog/v/1hhotshtjugn8/'
 thumbnail: /new-images/thumbnails/lucky-vegas-blackjack.png
+urlstr: lucky-vegas-blackjack
 tags:
   - card
   - casual

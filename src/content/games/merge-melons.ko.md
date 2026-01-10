@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: merge-melons
 title: Merge Melons 머지 멜론
+seoTitle: Merge Melons 머지 멜론 무료 온라인 플레이 | FiddleBops
 description: >-
   Merge Melons는 수이카 게임에서 영감을 받은 과일 머지 퍼즐로, 떨어지는 과일을 합쳐 점점 더 큰 과일을 만들고, 거대한 수박까지
   노려 보는 게임입니다. 다만, 통이 넘치지 않도록 높이를 잘 관리해야 합니다.
 iframeSrc: 'https://mergemelons.h5games.usercontent.goog/v/7526h5to2d1v0/'
 thumbnail: /new-images/thumbnails/merge-melons.png
+urlstr: merge-melons
 tags:
   - puzzle
   - casual

@@ -1,7 +1,7 @@
 ---
 locale: fr
-urlstr: klondike-solitaire
 title: Klondike Solitaire
+seoTitle: Jouez à Klondike Solitaire en ligne gratuitement | FiddleBops
 description: >-
   Solitaire Klondike classique : construis les fondations de l’As au Roi par
   couleur en utilisant des colonnes décroissantes alternant les couleurs, en
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-klondike-solitaire/
 thumbnail: /new-images/thumbnails/klondike-solitaire.jpg
+urlstr: klondike-solitaire
 tags:
   - solitaire
   - card

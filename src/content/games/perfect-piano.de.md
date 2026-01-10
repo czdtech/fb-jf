@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: perfect-piano
 title: Perfect Piano
+seoTitle: Spiele Perfect Piano kostenlos online | FiddleBops
 description: >-
   Teste Rhythmusgefühl und Reaktion in Perfect Piano! Tippe die herabfallenden
   Noten genau dann an, wenn sie die Klaviatur erreichen, und spiele so
   wunderschöne Melodien – ohne auch nur eine Kachel zu verfehlen.
 iframeSrc: 'https://perfectpiano.h5games.usercontent.goog/v/48c3ch9soa7cg/'
 thumbnail: /new-images/thumbnails/perfect-piano.png
+urlstr: perfect-piano
 tags:
   - action
   - casual

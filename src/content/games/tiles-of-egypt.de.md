@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: tiles-of-egypt
 title: Tiles of Egypt
+seoTitle: Spiele Tiles of Egypt kostenlos online | FiddleBops
 description: >-
   Reise im Triple‑Tile‑Puzzle Tiles of Egypt ins alte Ägypten: Wähle drei
   gleiche, freiliegende Kacheln, räume das Brett und passe auf, dass dein
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://tilesofegypt.h5games.usercontent.goog/v/dd964fa3-8999-4546-a4a0-d55a0cc72248/
 thumbnail: /new-images/thumbnails/tiles-of-egypt.jpg
+urlstr: tiles-of-egypt
 tags:
   - puzzle
   - casual

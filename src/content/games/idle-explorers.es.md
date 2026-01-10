@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: idle-explorers
 title: Idle Explorers
+seoTitle: Juega a Idle Explorers en línea gratis | FiddleBops
 description: >-
   Gestiona un equipo de exploradores y automatiza tu imperio de excavación en
   Idle Explorers. Mejora a tus trabajadores, desbloquea nuevos yacimientos y
   descubre artefactos raros en esta adictiva aventura idle.
 iframeSrc: 'https://5ik68qrla8g6g.h5games.usercontent.goog/v/1vuib5ibuof0g/'
 thumbnail: /new-images/thumbnails/idle-explorers.png
+urlstr: idle-explorers
 tags:
   - casual
   - clicker

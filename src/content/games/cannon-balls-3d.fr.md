@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: cannon-balls-3d
 title: Cannon Balls 3D
+seoTitle: Jouez à Cannon Balls 3D en ligne gratuitement | FiddleBops
 description: >-
   Prends les commandes d'un canon puissant et démolis des structures en 3D. Vise
   les points faibles, gère ton stock limité de boulets et fais tout s'effondrer
   dans ce puzzle de physique spectaculaire.
 iframeSrc: 'https://cannonballs3d.h5games.usercontent.goog/v/004m7ejm69rs0/'
 thumbnail: /new-images/thumbnails/cannon-balls-3d.png
+urlstr: cannon-balls-3d
 tags:
   - shooting
   - puzzle

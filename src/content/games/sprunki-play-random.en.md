@@ -1,6 +1,7 @@
 ---
 locale: en
-title: Sprunki Play Random - Play Sprunki Play Random Online
+title: Sprunki Play Random
+seoTitle: Play Sprunki Play Random Online Free | FiddleBops
 description: >-
   Sprunki Play Random is a music creation game full of surprises and fun. If you
   like challenges and exploration, then Sprunki Play Random is definitely for
@@ -8,12 +9,12 @@ description: >-
 iframeSrc: 'https://turbowarp.org/1148555262/embed'
 thumbnail: /new-images/thumbnails/sprunki-play-random.png
 urlstr: sprunki-play-random
-modType: sprunki
-score: 4.5/5  (614 votes)
 tags:
   - sprunki play random
   - sprunki play random online
   - music
+modType: sprunki
+score: 4.5/5  (614 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

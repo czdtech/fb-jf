@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: arctic-pong
-title: "Arctic Pong duelo de palas helado"
+title: Arctic Pong duelo de palas helado
+seoTitle: Juega a Arctic Pong duelo de palas helado en línea gratis | FiddleBops
 description: >-
   Arctic Pong es una versión invernal del clásico Pong. Mueve tu pala, devuelve
   el disco con distintos ángulos y controla el ritmo del intercambio para
   superar a tu rival.
 iframeSrc: 'https://arcticpong.h5games.usercontent.goog/v/1quekndr8ig0o/'
 thumbnail: /new-images/thumbnails/arctic-pong.png
+urlstr: arctic-pong
 tags:
   - 2 player
   - casual

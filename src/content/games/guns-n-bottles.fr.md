@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: guns-n-bottles
 title: Guns n' Bottles
+seoTitle: Jouez à Guns n' Bottles en ligne gratuitement | FiddleBops
 description: >-
   Teste ton sens du timing et ta précision dans ce jeu de tir d'arcade : tire au
   moment parfait pendant que ton pistolet tourne et brise les bouteilles, tout
   en évitant les rouges.
 iframeSrc: 'https://aktestgunsandbottles.h5games.usercontent.goog/v/51pcsm84fc4ag/'
 thumbnail: /new-images/thumbnails/guns-n-bottles.png
+urlstr: guns-n-bottles
 tags:
   - shooting
   - action

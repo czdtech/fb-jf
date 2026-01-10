@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Bullet Force"
-description: "Jump into fast-paced multiplayer combat in Bullet Force, a modern first-person shooter. Customize a vast arsenal of weapons, master multiple game modes, and battle players worldwide or practice offline against bots."
-iframeSrc: "https://ubg44.github.io/BulletForce/"
+title: Bullet Force
+seoTitle: Play Bullet Force Online Free | FiddleBops
+description: >-
+  Jump into fast-paced multiplayer combat in Bullet Force, a modern first-person
+  shooter. Customize a vast arsenal of weapons, master multiple game modes, and
+  battle players worldwide or practice offline against bots.
+iframeSrc: 'https://ubg44.github.io/BulletForce/'
 thumbnail: /new-images/thumbnails/bullet-force.jpg
-urlstr: "bullet-force"
-score: "3.9/5  (951 votes)"
-tags: ["action", "shooting"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: bullet-force
+tags:
+  - action
+  - shooting
+score: 3.9/5  (951 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

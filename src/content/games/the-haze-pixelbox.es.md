@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: the-haze-pixelbox
-title: The Haze Pixelbox - Crea ritmos tribales en línea
+title: The Haze Pixelbox
+seoTitle: Juega a The Haze Pixelbox en línea gratis | FiddleBops
 description: >-
   Tanto si eres músico experimentado como si solo tienes curiosidad, The Haze
   Pixelbox te ofrece diversión sin fin. Dirige a un coro de beatboxers tribales,
@@ -9,6 +9,7 @@ description: >-
   único.
 iframeSrc: 'https://turbowarp.org/1020955547/embed'
 thumbnail: /new-images/thumbnails/the-haze-pixelbox.png
+urlstr: the-haze-pixelbox
 tags:
   - the haze pixelbox
 score: 3.9/5  (132 votes)

@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: northern-heights
 title: Northern Heights
+seoTitle: Jouez à Northern Heights en ligne gratuitement | FiddleBops
 description: >-
   Northern Heights est un jeu de ski arcade : dévale les pentes, enchaîne les
   figures et collecte des pièces pour devenir une légende de la glisse.
 iframeSrc: 'https://northernheights.h5games.usercontent.goog/v/1pct901lj7uko/'
 thumbnail: /new-images/thumbnails/northern-heights.png
+urlstr: northern-heights
 tags:
   - sports
   - action

@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: minecraft
 title: Minecraft 마인크래프트
+seoTitle: Minecraft 마인크래프트 무료 온라인 플레이 | FiddleBops
 description: >-
   Minecraft는 블록으로 이루어진 3D 세계를 탐험하며 자원을 채집하고, 도구를 제작하고, 건축과 모험을 즐길 수 있는 샌드박스
   게임입니다. 정해진 목표 없이 자유롭게 놀 수 있는 높은 자유도가 특징입니다.
 iframeSrc: >-
   https://app-167027.games.s3.yandex.net/167027/tnn3wq0qkjwhvr1271tszdhl82lm97e6/index.html
 thumbnail: /new-images/thumbnails/minecraft.jpg
+urlstr: minecraft
 tags:
   - sandbox
   - survival

@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Spider Solitaire
+seoTitle: 無料でSpider Solitaireをオンラインでプレイ | FiddleBops
 description: Spider Solitaireは104枚で遊ぶソリティアです。スートごとに降順の並びを作ってタブローをクリアします。
 iframeSrc: 'https://spidersolitaire.h5games.usercontent.goog/v/42fd7cuq80rao/'
 thumbnail: /new-images/thumbnails/spider-solitaire-2.png
 urlstr: spider-solitaire-2
-score: 4.8/5  (3200 votes)
 tags:
   - card
   - puzzle
   - thinky
+score: 4.8/5  (3200 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 

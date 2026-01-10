@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: basketball-master-2
 title: Basketball Master 2 농구 마스터 2
+seoTitle: Basketball Master 2 농구 마스터 2 무료 온라인 플레이 | FiddleBops
 description: >-
   드래그로 각도와 힘을 조절해 슛을 넣는 농구 슈팅 연습 게임입니다. 나무와 얼음 블록을 부수며 골대를 노리고, 난이도가 올라가는 스테이지를
   클리어해 보세요.
 iframeSrc: 'https://basketballmaster2.h5games.usercontent.goog/v/267j5oehq25q0/'
 thumbnail: /new-images/thumbnails/basketball-master-2.png
+urlstr: basketball-master-2
 tags:
   - sports
   - basketball

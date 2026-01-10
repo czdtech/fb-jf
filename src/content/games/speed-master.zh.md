@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: speed-master
 title: 《Speed Master》极速赛车大师
+seoTitle: 免费在线玩 《Speed Master》极速赛车大师 | FiddleBops
 description: 《Speed Master》是一款节奏快速的赛车游戏。驾驶你的赛车在赛道上飞驰，精准过弯、躲避交通、争取在最短时间内冲线，成为真正的速度大师。
 iframeSrc: 'https://6e0ej8ct9hdj8.h5games.usercontent.goog/v/1fssfmqquil18/'
 thumbnail: /new-images/thumbnails/speed-master.png
+urlstr: speed-master
 tags:
   - racing
   - driving

@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Garden Bloom
+seoTitle: 無料でGarden Bloomをオンラインでプレイ | FiddleBops
 description: Garden Bloomで美しい庭を復元しましょう！やりがいのあるマッチ3パズルを解き、星を獲得し、素敵な装飾を選んで夢の庭をデザインしましょう。
 iframeSrc: 'https://gardenbloom.h5games.usercontent.goog/v/03uqf2ceev9h8/'
 thumbnail: /new-images/thumbnails/garden-bloom.png
 urlstr: garden-bloom
-score: 4.6/5  (2780 votes)
 tags:
   - puzzle
   - casual
+score: 4.6/5  (2780 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

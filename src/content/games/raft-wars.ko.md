@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: raft-wars
 title: Raft Wars 래프트 워즈
+seoTitle: Raft Wars 래프트 워즈 무료 온라인 플레이 | FiddleBops
 description: >-
   두 형제가 발견한 보물을 지키기 위해 해적과 바이킹과 싸우는 턴제 포탄 슈팅 게임입니다. 각도를 조절해 테니스공과 폭탄을 쏘아 적을 뗏목
   밖으로 떨어뜨리세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210301/jj8/index.html
 thumbnail: /new-images/thumbnails/raft-wars.jpg
+urlstr: raft-wars
 tags:
   - strategy
   - shooting

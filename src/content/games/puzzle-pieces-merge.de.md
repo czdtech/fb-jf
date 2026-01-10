@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: puzzle-pieces-merge
 title: Puzzle Pieces Merge
+seoTitle: Spiele Puzzle Pieces Merge kostenlos online | FiddleBops
 description: >-
   Ein entspannendes, innovatives Puzzlespiel: Ziehe, lege und kombiniere
   Puzzleteile, um wunderschöne Landschaftsbilder fertigzustellen – mit Drehung
   der Teile und hilfreichen Boostern.
 iframeSrc: 'https://5burcumauc5p0.h5games.usercontent.goog/v/4k8cb35sbe9fo/'
 thumbnail: /new-images/thumbnails/puzzle-pieces-merge.jpg
+urlstr: puzzle-pieces-merge
 tags:
   - puzzle
   - casual

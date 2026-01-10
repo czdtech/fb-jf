@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: solitaire-2048
 title: Solitaire 2048 솔리테어 2048
+seoTitle: Solitaire 2048 솔리테어 2048 무료 온라인 플레이 | FiddleBops
 description: >-
   Solitaire 2048은 2048 퍼즐의 합치기 규칙을 카드 스트림으로 옮긴 게임입니다. 숫자 카드(2, 4, 8…)를 열에 배치해 같은
   숫자를 합치고, 열이 막히지 않도록 병합 순서와 칸을 관리하면서 큰 연쇄를 노리는 게임입니다.
 iframeSrc: 'https://041gj41756cjg.h5games.usercontent.goog/v/7n148hti57veo/'
 thumbnail: /new-images/thumbnails/solitaire-2048.png
+urlstr: solitaire-2048
 tags:
   - card
   - puzzle

@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: bubble-woods-ultimate
 title: Bubble Woods Ultimate
+seoTitle: Juega a Bubble Woods Ultimate en línea gratis | FiddleBops
 description: >-
   Corre contra el reloj en este frenético juego de disparar burbujas. Tienes 60
   segundos para reventar tantas burbujas como puedas, encadenar combos enormes y
   usar potentes potenciadores para lograr la máxima puntuación.
 iframeSrc: 'https://bubblewoods4.h5games.usercontent.goog/v/4jslovpheann0/'
 thumbnail: /new-images/thumbnails/bubble-woods-ultimate.png
+urlstr: bubble-woods-ultimate
 tags:
   - shooting
   - action

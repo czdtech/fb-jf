@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: finger-slayer
 title: Finger Slayer 手指极限反应
+seoTitle: 免费在线玩 Finger Slayer 手指极限反应 | FiddleBops
 description: 《Finger Slayer》是一款纯粹测试反应速度的游戏，你要在刀刃落下前最后一瞬间把「手指」收回， 既不能太早，也不能太晚。
 iframeSrc: 'https://7ftsta5r737o8.h5games.usercontent.goog/v/3m7r2si8ppdlg/'
 thumbnail: /new-images/thumbnails/finger-slayer.jpg
+urlstr: finger-slayer
 tags:
   - action
   - casual

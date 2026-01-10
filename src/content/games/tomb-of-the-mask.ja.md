@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Tomb of the Mask
+seoTitle: 無料でTomb of the Maskをオンラインでプレイ | FiddleBops
 description: Tomb of the Maskは、迷路を駆け抜けるアーケードゲームです。マスクをつけた冒険者を操作して墓を探索しましょう。
 iframeSrc: 'https://w8.snokido.com/games/unity-webgl/tomb-run/index.html'
 thumbnail: /new-images/thumbnails/tomb-of-the-mask.jpg
 urlstr: tomb-of-the-mask
-score: 3.7/5  (843 votes)
 tags:
   - arcade
   - maze
   - action
-locale: ja
+score: 3.7/5  (843 votes)
 releaseDate: 2025-08-16T00:00:00.000Z
 ---
 

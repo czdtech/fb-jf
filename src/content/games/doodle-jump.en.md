@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Doodle Jump"
-description: "Doodle Jump is a vertical platformer: bounce between platforms, avoid hazards, and climb as high as possible."
-iframeSrc: "https://ubg98.github.io/DoodleJump/"
+title: Doodle Jump
+seoTitle: Play Doodle Jump Online Free | FiddleBops
+description: >-
+  Doodle Jump is a vertical platformer: bounce between platforms, avoid hazards,
+  and climb as high as possible.
+iframeSrc: 'https://ubg98.github.io/DoodleJump/'
 thumbnail: /new-images/thumbnails/doodle-jump.jpg
-urlstr: "doodle-jump"
-score: "4.2/5  (915 votes)"
-tags: ["arcade", "platformer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: doodle-jump
+tags:
+  - arcade
+  - platformer
+score: 4.2/5  (915 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

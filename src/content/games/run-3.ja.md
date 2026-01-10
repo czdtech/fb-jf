@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Run 3
+seoTitle: 無料でRun 3をオンラインでプレイ | FiddleBops
 description: Run 3は宇宙トンネルを走るアクションです。壁で重力を切り替えながら落下を避け、先へ進みます。
 iframeSrc: 'https://lekug.github.io/tn6pS9dCf37xAhkJv/index.html'
 thumbnail: /new-images/thumbnails/run-3.jpg
 urlstr: run-3
-score: 4.5/5  (650 votes)
 tags:
   - platformer
   - action
   - casual
+score: 4.5/5  (650 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

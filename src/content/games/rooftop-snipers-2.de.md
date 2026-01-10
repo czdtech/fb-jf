@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: rooftop-snipers-2
 title: Rooftop Snipers 2
+seoTitle: Spiele Rooftop Snipers 2 kostenlos online | FiddleBops
 description: >-
   Rooftop Snipers 2 ist ein physikbasiertes Duellspiel, in dem zwei
   Strichmännchen auf Dächern kämpfen und mit abgedrehten Waffen versuchen, den
   Gegner von der Plattform zu schießen.
 iframeSrc: 'https://rebemanae.github.io/rooftop-snipers-2/'
 thumbnail: /new-images/thumbnails/rooftop-snipers-2.jpg
+urlstr: rooftop-snipers-2
 tags:
   - shooting
   - physics

@@ -1,17 +1,17 @@
 ---
 locale: ko
-urlstr: sprunki-phase-8
-title: 'Sprunki Phase 8 스프룽키 페이즈 8'
+title: Sprunki Phase 8 스프룽키 페이즈 8
+seoTitle: Sprunki Phase 8 스프룽키 페이즈 8 무료 온라인 플레이 | FiddleBops
 description: >-
-  Sprunki Phase 8은 음악 제작과 호러 미학을 결합한 실험적인 스프룽키 모드입니다.
-  섬뜩한 캐릭터와 음산한 사운드로, 어두운 분위기의 트랙을 만들며 공포 감성을
-  즐길 수 있습니다.
+  Sprunki Phase 8은 음악 제작과 호러 미학을 결합한 실험적인 스프룽키 모드입니다. 섬뜩한 캐릭터와 음산한 사운드로, 어두운
+  분위기의 트랙을 만들며 공포 감성을 즐길 수 있습니다.
 iframeSrc: 'https://turbowarp.org/1140266189/embed'
 thumbnail: /new-images/thumbnails/sprunki-phase-8.png
+urlstr: sprunki-phase-8
 tags:
   - sprunki phase 8
 score: 4.2/5  (396 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

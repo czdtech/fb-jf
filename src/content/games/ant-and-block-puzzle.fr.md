@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: ant-and-block-puzzle
 title: Ant and Block Puzzle
+seoTitle: Jouez à Ant and Block Puzzle en ligne gratuitement | FiddleBops
 description: >-
   Ant and Block Puzzle est un jeu de placement de pièces où tu dois caser des
   formes sur le plateau, compléter des lignes et éviter de te retrouver sans
   emplacement possible.
 iframeSrc: 'https://6f5e193l1nhig.h5games.usercontent.goog/v/2bgjgmrog0tgg/'
 thumbnail: /new-images/thumbnails/ant-and-block-puzzle.png
+urlstr: ant-and-block-puzzle
 tags:
   - puzzle
   - thinky

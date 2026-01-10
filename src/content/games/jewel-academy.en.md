@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Jewel Academy"
-description: "Enroll in the Jewel Academy and become a master of match-3 puzzles. Swap colorful gems, create powerful special jewels, and solve hundreds of challenging levels with unique objectives."
-iframeSrc: "https://jewelacademy.h5games.usercontent.goog/v/2krc7uv2m9998/"
+title: Jewel Academy
+seoTitle: Play Jewel Academy Online Free | FiddleBops
+description: >-
+  Enroll in the Jewel Academy and become a master of match-3 puzzles. Swap
+  colorful gems, create powerful special jewels, and solve hundreds of
+  challenging levels with unique objectives.
+iframeSrc: 'https://jewelacademy.h5games.usercontent.goog/v/2krc7uv2m9998/'
 thumbnail: /new-images/thumbnails/jewel-academy.png
-urlstr: "jewel-academy"
-score: "4.5/5  (2890 votes)"
-tags: ["puzzle", "casual", "action"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: jewel-academy
+tags:
+  - puzzle
+  - casual
+  - action
+score: 4.5/5  (2890 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

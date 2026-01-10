@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: tropical-merge
 title: Tropical Merge 트로피컬 머지
+seoTitle: Tropical Merge 트로피컬 머지 무료 온라인 플레이 | FiddleBops
 description: >-
   남국 섬에서 자원을 합쳐 나무와 건물을 업그레이드하는 머지 어드벤처 게임입니다. 같은 아이템을 3개 또는 5개씩 합쳐 더 높은 등급으로
   만들고, 안개를 거두며 섬을 확장해 보세요.
 iframeSrc: 'https://7jdqir15djng0.h5games.usercontent.goog/v/3nm4cvs4b09jo/'
 thumbnail: /new-images/thumbnails/tropical-merge.png
+urlstr: tropical-merge
 tags:
   - puzzle
   - casual

@@ -1,16 +1,17 @@
 ---
 locale: zh
-urlstr: the-pillar
 title: 《The Pillar》石柱解谜之旅
+seoTitle: 免费在线玩 《The Pillar》石柱解谜之旅 | FiddleBops
 description: 《The Pillar》是一款第一人称视角的环境解谜游戏。你将游走于神秘岛屿与高耸石柱之间，通过观察线索、解开机关谜题，逐步探索这个世界背后的秘密。
 iframeSrc: 'https://m.igroutka.ru/g-1/53/ThePillar/'
 thumbnail: /new-images/thumbnails/the-pillar.jpg
+urlstr: the-pillar
 tags:
   - puzzle
   - exploration
   - first-person
 score: 3.8/5  (802 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

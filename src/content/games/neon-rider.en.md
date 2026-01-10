@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Neon Rider"
-description: "Neon Rider delivers sleek bike‑physics runs — balance, throttle, and flip cleanly to conquer neon tracks."
-iframeSrc: "https://1ef80kndi1bv0.h5games.usercontent.goog/v/4glscq8hf3m20/"
+title: Neon Rider
+seoTitle: Play Neon Rider Online Free | FiddleBops
+description: >-
+  Neon Rider delivers sleek bike‑physics runs — balance, throttle, and flip
+  cleanly to conquer neon tracks.
+iframeSrc: 'https://1ef80kndi1bv0.h5games.usercontent.goog/v/4glscq8hf3m20/'
 thumbnail: /new-images/thumbnails/neon-rider.png
-urlstr: "neon-rider"
-score: "4.0/5  (1768 votes)"
-tags: ["bike", "action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: neon-rider
+tags:
+  - bike
+  - action
+  - casual
+score: 4.0/5  (1768 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

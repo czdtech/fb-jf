@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: jewel-legend
 title: Jewel Legend 보석 레전드
+seoTitle: Jewel Legend 보석 레전드 무료 온라인 플레이 | FiddleBops
 description: >-
   다채로운 보석 세계에서 모험을 즐기는 3매치 퍼즐 게임 'Jewel Legend' 가이드입니다. 특수 보석과 콤보를 활용해 수백 개의
   스테이지를 공략하는 방법을 소개합니다.
 iframeSrc: 'https://jewellegend.h5games.usercontent.goog/v/36cb1hitjsa3o/'
 thumbnail: /new-images/thumbnails/jewel-legend.png
+urlstr: jewel-legend
 tags:
   - puzzle
   - casual

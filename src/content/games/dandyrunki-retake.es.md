@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: dandyrunki-retake
-title: Dandyrunki Retake - Juega a Dandyrunki Retake en línea
+title: Dandyrunki Retake
+seoTitle: Juega a Dandyrunki Retake en línea gratis | FiddleBops
 description: >-
   En Dandyrunki Retake puedes empezar a crear música enseguida y explorar ritmos
   y melodías sin esfuerzo. Tanto si eres jugador ocasional como amante de la
   música, este remix te da espacio para experimentar y divertirte.
 iframeSrc: 'https://turbowarp.org/1126924449/embed'
 thumbnail: /new-images/thumbnails/dandyrunki-retake.png
+urlstr: dandyrunki-retake
 tags:
   - dandyrunki retake
   - dandyrunki retake online

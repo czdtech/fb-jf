@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Fairyland フェアリーランド
+seoTitle: 無料でFairyland フェアリーランドをオンラインでプレイ | FiddleBops
 description: 「Fairyland」は優しいパズルアドベンチャー。心地よいシーンを探索し、軽いパズルを解き、ゆったりとしたペースで目標を達成しよう。
 iframeSrc: 'https://66ts484uf5r18.h5games.usercontent.goog/v/1nt4ffhi7k9jo/'
 thumbnail: /new-images/thumbnails/fairyland.png
 urlstr: fairyland
-score: 4.0/5  (1821 votes)
 tags:
   - adventure
   - puzzle
   - casual
+score: 4.0/5  (1821 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

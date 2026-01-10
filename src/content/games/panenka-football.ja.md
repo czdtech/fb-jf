@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Panenka Football
+seoTitle: 無料でPanenka Footballをオンラインでプレイ | FiddleBops
 description: Panenka Footballはペナルティキックゲームです。Panenka（チップキック）のタイミングをつかみ、キーパーの動きを見て決めます。
 iframeSrc: 'https://15n5pfdq70ung.h5games.usercontent.goog/v/2ftdtu6n19sk8/'
 thumbnail: /new-images/thumbnails/panenka-football.png
 urlstr: panenka-football
-score: 4.0/5  (1863 votes)
 tags:
   - sports
   - casual
+score: 4.0/5  (1863 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

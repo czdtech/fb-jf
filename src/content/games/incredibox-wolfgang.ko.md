@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: incredibox-wolfgang
 title: Incredibox Wolfgang 클래식 모드
+seoTitle: Incredibox Wolfgang 클래식 모드 무료 온라인 플레이 | FiddleBops
 description: >-
   모차르트를 비롯한 고전 음악 시대를 테마로 한 팬메이드 모드 'Incredibox Wolfgang' 가이드입니다. 오케스트라·합창 사운드
   팔레트와 클래식 스타일 곡을 만드는 전략, 보너스 해금 팁을 정리했습니다.
 iframeSrc: 'https://turbowarp.org/943197191/embed'
 thumbnail: /new-images/thumbnails/incredibox-wolfgang.png
+urlstr: incredibox-wolfgang
 tags:
   - music
   - classical

@@ -1,10 +1,14 @@
 ---
 locale: de
-urlstr: there-is-no-game
-title: "There is no game"
-description: "Erlebe das Meta‑Puzzle‑Abenteuer There is no game: Widersprich einem sarkastischen Erzähler, brich die vierte Wand und löse ungewöhnliche Rätsel, indem du mit der Benutzeroberfläche spielst."
+title: There is no game
+seoTitle: Spiele There is no game kostenlos online | FiddleBops
+description: >-
+  Erlebe das Meta‑Puzzle‑Abenteuer There is no game: Widersprich einem
+  sarkastischen Erzähler, brich die vierte Wand und löse ungewöhnliche Rätsel,
+  indem du mit der Benutzeroberfläche spielst.
 iframeSrc: 'https://webglmath.github.io/there-is-no-game/'
 thumbnail: /new-images/thumbnails/there-is-no-game.jpg
+urlstr: there-is-no-game
 tags:
   - puzzle
   - adventure

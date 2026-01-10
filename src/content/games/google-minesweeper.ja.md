@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Google Minesweeper
+seoTitle: 無料でGoogle Minesweeperをオンラインでプレイ | FiddleBops
 description: クラシックな論理パズル：数字の手がかりから安全なセルを推測し、地雷を作動させることなくグリッドをクリアしましょう。
 iframeSrc: 'https://www.minesweepergoogle.com/gameapp.html'
 thumbnail: /new-images/thumbnails/google-minesweeper.jpg
 urlstr: google-minesweeper
-score: 4.7/5  (181 votes)
 tags:
   - puzzle
   - logic
+score: 4.7/5  (181 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: mahjong-match-puzzle
-title: "Mahjong Match Puzzle"
+title: Mahjong Match Puzzle
+seoTitle: Spiele Mahjong Match Puzzle kostenlos online | FiddleBops
 description: >-
   Mahjong Match Puzzle mischt Solitaire- und Connect-Regeln: Finde passende
   freie Steine, verwalte Ebenen geschickt und räume die Layouts effizient.
 iframeSrc: 'https://5jdtfmidv5ao0.h5games.usercontent.goog/v/1qd7nn7jmar7g/'
 thumbnail: /new-images/thumbnails/mahjong-match-puzzle.png
+urlstr: mahjong-match-puzzle
 tags:
   - mahjong
   - puzzle

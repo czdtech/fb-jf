@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: fiddlebops-sprunki
 title: Fiddlebops Sprunki 피들밥스 스프런키
+seoTitle: Fiddlebops Sprunki 피들밥스 스프런키 무료 온라인 플레이 | FiddleBops
 description: >-
   원작 Sprunki에 피들밥스식 음악 제작 요소를 더한 Mod입니다. 다양한 캐릭터와 루프를 조합해 더 가볍고 유쾌한 Sprunki 트랙을
   만들어 보세요.
 iframeSrc: 'https://67ce9d735e0d2d9051c65366--kaleidoscopic-sundae-181ab2.netlify.app/'
 thumbnail: /new-images/thumbnails/fiddlebops-sprunki.png
+urlstr: fiddlebops-sprunki
 tags:
   - fiddlebops sprunki
   - sprunki phase 5 online

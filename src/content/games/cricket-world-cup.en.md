@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Cricket World Cup"
-description: "Cricket World Cup condenses batting drills — pick shots, read line/length, and chase targets with smart risk control."
-iframeSrc: "https://5ret6v2c94q4g.h5games.usercontent.goog/v/09j66svc50570/"
+title: Cricket World Cup
+seoTitle: Play Cricket World Cup Online Free | FiddleBops
+description: >-
+  Cricket World Cup condenses batting drills — pick shots, read line/length, and
+  chase targets with smart risk control.
+iframeSrc: 'https://5ret6v2c94q4g.h5games.usercontent.goog/v/09j66svc50570/'
 thumbnail: /new-images/thumbnails/cricket-world-cup.png
-urlstr: "cricket-world-cup"
-score: "4.1/5  (1998 votes)"
-tags: ["sports", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: cricket-world-cup
+tags:
+  - sports
+  - casual
+score: 4.1/5  (1998 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

@@ -1,14 +1,14 @@
 ---
 locale: ko
-urlstr: boxing-random
-title: 'Boxing Random 복싱 랜덤'
+title: Boxing Random 복싱 랜덤
+seoTitle: Boxing Random 복싱 랜덤 무료 온라인 플레이 | FiddleBops
 description: >-
-  Boxing Random는 물리 엔진으로 굴러가는 엉뚱한 복싱 대전 게임입니다.
-  원버튼 조작만으로 점프와 펀치를 동시에 컨트롤하며, 매 라운드 달라지는
-  랜덤 환경에 적응해 상대를 먼저 쓰러뜨려 보세요.
+  Boxing Random는 물리 엔진으로 굴러가는 엉뚱한 복싱 대전 게임입니다. 원버튼 조작만으로 점프와 펀치를 동시에 컨트롤하며, 매
+  라운드 달라지는 랜덤 환경에 적응해 상대를 먼저 쓰러뜨려 보세요.
 iframeSrc: >-
   https://app-197305.games.s3.yandex.net/197305/ymb675rkal3nz409zur9etesdbd74y4d/index.html
 thumbnail: /new-images/thumbnails/boxing-random.jpg
+urlstr: boxing-random
 tags:
   - sports
   - physics

@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "99 Balls 3D"
-description: "A modern twist on classic arcade action! Aim and shoot your stream of balls to destroy the numbered targets. Collect rings to increase your ammo and stars to unlock new weapons."
-iframeSrc: "https://99balls3d.h5games.usercontent.goog/v/0b35ksethbio8/"
+title: 99 Balls 3D
+seoTitle: Play 99 Balls 3D Online Free | FiddleBops
+description: >-
+  A modern twist on classic arcade action! Aim and shoot your stream of balls to
+  destroy the numbered targets. Collect rings to increase your ammo and stars to
+  unlock new weapons.
+iframeSrc: 'https://99balls3d.h5games.usercontent.goog/v/0b35ksethbio8/'
 thumbnail: /new-images/thumbnails/99-balls-3d.jpeg
-urlstr: "99-balls-3d"
-score: "4.3/5  (2300 votes)"
-tags: ["shooting", "puzzle", "action"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: 99-balls-3d
+tags:
+  - shooting
+  - puzzle
+  - action
+score: 4.3/5  (2300 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: sprunki-mustard
 title: Sprunki Mustard 스프룽키 머스터드
+seoTitle: Sprunki Mustard 스프룽키 머스터드 무료 온라인 플레이 | FiddleBops
 description: >-
   Sprunki Mustard는 모든 캐릭터와 UI를 머스터드 옐로 톤으로 물들여, 익숙한 Sprunki를 오싹한 공포 분위기로 재해석한
   모드입니다. 노란색에 스며든 섬뜩한 사운드와 연출로 색다른 음악을 만들어 보세요.
 iframeSrc: 'https://html-classic.itch.zone/html/14281578/index.html'
 thumbnail: /new-images/thumbnails/sprunki-mustard.png
+urlstr: sprunki-mustard
 tags:
   - sprunki mustard
 score: 3.9/5  (827 votes)

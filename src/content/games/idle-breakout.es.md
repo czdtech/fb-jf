@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: idle-breakout
 title: Idle Breakout
+seoTitle: Juega a Idle Breakout en línea gratis | FiddleBops
 description: >-
   Híbrido entre idle y rompe‑ladrillos: haz clic para destruir bloques, compra
   bolas y torretas automáticas, reinicia con prestigio para conseguir
   multiplicadores y optimiza cada mejora.
 iframeSrc: 'https://ubg98.github.io/IdleBreakout/'
 thumbnail: /new-images/thumbnails/idle-breakout.jpg
+urlstr: idle-breakout
 tags:
   - idle
   - clicker

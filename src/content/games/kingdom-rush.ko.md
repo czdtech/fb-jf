@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: kingdom-rush
 title: Kingdom Rush 킹덤 러시
+seoTitle: Kingdom Rush 킹덤 러시 무료 온라인 플레이 | FiddleBops
 description: >-
   타워 디펜스 대표작 'Kingdom Rush' 가이드입니다. 네 가지 기본 타워와 히어로·지원 스킬을 활용해 길목을 지키는 핵심 전략을
   정리했습니다.
 iframeSrc: 'https://1000freegames.github.io/swf/kingdom-rush.html'
 thumbnail: /new-images/thumbnails/kingdom-rush.jpg
+urlstr: kingdom-rush
 tags:
   - tower-defense
   - strategy

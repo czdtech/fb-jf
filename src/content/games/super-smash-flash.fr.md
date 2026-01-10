@@ -1,17 +1,18 @@
 ---
 locale: fr
-urlstr: super-smash-flash
 title: Super Smash Flash
+seoTitle: Jouez à Super Smash Flash en ligne gratuitement | FiddleBops
 description: >-
   Super Smash Flash est un jeu de combat de plateforme fan‑made rendant hommage
   à Super Smash Bros, jouable à deux sur le même clavier.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/super-smash-flash.html'
 thumbnail: /new-images/thumbnails/super-smash-flash.jpg
+urlstr: super-smash-flash
 tags:
   - fighting
   - 2 player
 score: 3.5/5  (679 votes)
-releaseDate: 2025-08-16
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Mountayonnaise
+seoTitle: 無料でMountayonnaiseをオンラインでプレイ | FiddleBops
 description: Mountayonnaiseは物理挙動のある登山ゲームです。マヨネーズの山を登り、滑りやすい足場と障害物を越えて頂上を目指します。
 iframeSrc: 'https://turbowarp.org/1135773023/embed'
 thumbnail: /new-images/thumbnails/mountayonnaise.png
 urlstr: mountayonnaise
-score: 4.8/5  (649 votes)
 tags:
   - casual
   - novelty
+score: 4.8/5  (649 votes)
 developer: ''
 releaseDate: 2025-12-04T00:00:00.000Z
-locale: ja
 ---
 
 

@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Head Soccer
+seoTitle: 無料でHead Soccerをオンラインでプレイ | FiddleBops
 description: 巨大な頭のキャラクターによる1対1のアーケードサッカー：ジャンプ、シュート、パワーショットを駆使して、短い試合で対戦相手より多く得点しましょう。
 iframeSrc: 'https://1games.io/game/head-soccer-2024/'
 thumbnail: /new-images/thumbnails/head-soccer.jpg
 urlstr: head-soccer
-score: 3.9/5  (540 votes)
 tags:
   - sports
   - soccer
+score: 3.9/5  (540 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

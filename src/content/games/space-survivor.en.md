@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Space Survivor"
-description: "Pilot your ship through endless waves of alien enemies in this thrilling roguelike survival game. Collect XP, choose powerful upgrades, and see how long you can survive the onslaught!"
-iframeSrc: "https://76sb7kgqtg5kg.h5games.usercontent.goog/v/5s72d5756n840/"
+title: Space Survivor
+seoTitle: Play Space Survivor Online Free | FiddleBops
+description: >-
+  Pilot your ship through endless waves of alien enemies in this thrilling
+  roguelike survival game. Collect XP, choose powerful upgrades, and see how
+  long you can survive the onslaught!
+iframeSrc: 'https://76sb7kgqtg5kg.h5games.usercontent.goog/v/5s72d5756n840/'
 thumbnail: /new-images/thumbnails/space-survivor.png
-urlstr: "space-survivor"
-score: "4.5/5  (2900 votes)"
-tags: ["action", "shooting", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: space-survivor
+tags:
+  - action
+  - shooting
+  - casual
+score: 4.5/5  (2900 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: iron-snout
 title: Iron Snout 무술 돼지 액션
+seoTitle: Iron Snout 무술 돼지 액션 무료 온라인 플레이 | FiddleBops
 description: >-
   늑대를 상대로 맨몸으로 싸우는 격투 액션 게임 'Iron Snout' 가이드입니다. 방향키만으로 펀치·킥·회피를 구사하고, 적이 던진 무기를
   되받아쳐 높은 점수를 노려 보세요.
 iframeSrc: 'https://webglmath.github.io/iron-snout/'
 thumbnail: /new-images/thumbnails/iron-snout.jpg
+urlstr: iron-snout
 tags:
   - fighting
   - arcade

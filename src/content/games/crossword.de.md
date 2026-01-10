@@ -1,12 +1,13 @@
 ---
 locale: de
-urlstr: crossword
 title: Crossword
+seoTitle: Spiele Crossword kostenlos online | FiddleBops
 description: >-
   Crossword ist ein klassisches Buchstabengitter: Löse horizontale und vertikale
   Hinweise, sodass alle Kreuzungsbuchstaben zueinander passen.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crossword.html'
 thumbnail: /new-images/thumbnails/crossword.jpg
+urlstr: crossword
 tags:
   - word
   - puzzle

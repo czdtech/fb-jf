@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: escaping-the-prison
 title: Escaping the Prison
+seoTitle: Spiele Escaping the Prison kostenlos online | FiddleBops
 description: >-
   Escaping the Prison ist ein Henry-Stickmin-Point-and-Click-Abenteuer: Wähle
   Items und Routen (Sneaky/Badass/Legal), scheitere spektakulär und finde die
   verschiedenen Ausbruchs-Enden.
 iframeSrc: 'https://classroomjq.github.io/escaping-the-prison/'
 thumbnail: /new-images/thumbnails/escaping-the-prison.jpg
+urlstr: escaping-the-prison
 tags:
   - adventure
   - point-and-click

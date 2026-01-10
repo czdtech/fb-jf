@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: bloons-td
-title: "Bloons TD"
+title: Bloons TD
+seoTitle: Juega a Bloons TD en línea gratis | FiddleBops
 description: >-
   Domina el arte de la defensa de torres en Bloons TD. Coloca y mejora poderosas
   torres de monos para reventar oleadas de globos invasores (Bloons) antes de
   que superen tus defensas.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/bloons-tower-defense.html'
 thumbnail: /new-images/thumbnails/bloons-td.jpg
+urlstr: bloons-td
 tags:
   - casual
   - strategy

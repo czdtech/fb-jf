@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: diwali-lights
 title: Diwali Lights 디왈리 라이트
+seoTitle: Diwali Lights 디왈리 라이트 무료 온라인 플레이 | FiddleBops
 description: >-
   인도의 축제 디왈리를 테마로 한 불빛 퍼즐 게임입니다. 디야 등불을 올바른 순서와 패턴으로 밝히고, 겹치지 않게 아름다운 무늬를 완성해
   보세요.
 iframeSrc: 'https://diwalilights.h5games.usercontent.goog/v/5cddqg9lrn3kg/'
 thumbnail: /new-images/thumbnails/diwali-lights.jpg
+urlstr: diwali-lights
 tags:
   - puzzle
   - casual

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: hoop-hero
 title: Hoop Hero
+seoTitle: Spiele Hoop Hero kostenlos online | FiddleBops
 description: >-
   Tippe im richtigen Moment, um den Ball zu stopfen! Teste deine Reflexe in
   diesem schnellen One-Tap-Basketballspiel und timinge deine Dunks perfekt für
   hohe Punktzahlen.
 iframeSrc: 'https://06f80rna6d2sg.h5games.usercontent.goog/v/69kffdfih87r0/'
 thumbnail: /new-images/thumbnails/hoop-hero.png
+urlstr: hoop-hero
 tags:
   - action
   - casual

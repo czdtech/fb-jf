@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: neon-dash
-title: Neon Dash - Runner de precisión a ritmo de neón
+title: Neon Dash
+seoTitle: Juega a Neon Dash en línea gratis | FiddleBops
 description: >-
   Neon Dash es un runner de precisión frenético: salta, esquiva trampas y ajusta
   tus pulsos al milisegundo para sobrevivir a circuitos de neón llenos de
   peligros.
 iframeSrc: 'https://1bveca4tkimog.h5games.usercontent.goog/v/4bq2naj6mtutg/'
 thumbnail: /new-images/thumbnails/neon-dash.png
+urlstr: neon-dash
 tags:
   - action
   - thinky

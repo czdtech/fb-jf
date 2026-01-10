@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: neon-rider
 title: Neon Rider
+seoTitle: Jouez à Neon Rider en ligne gratuitement | FiddleBops
 description: >-
   Neon Rider est un jeu de moto basé sur la physique : équilibre ta moto, dose
   les gaz et enchaîne les réceptions propres pour dompter des pistes néon.
 iframeSrc: 'https://1ef80kndi1bv0.h5games.usercontent.goog/v/4glscq8hf3m20/'
 thumbnail: /new-images/thumbnails/neon-rider.png
+urlstr: neon-rider
 tags:
   - bike
   - action

@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: archery
 title: Archery World Tour 射箭世界巡回赛
+seoTitle: 免费在线玩 Archery World Tour 射箭世界巡回赛 | FiddleBops
 description: 在《Archery World Tour（射箭世界巡回赛）》中，背上弓箭走遍全球射箭场，学会根据风向与距离精确修正瞄准，用一箭命中靶心的方式赢下比赛。
 iframeSrc: >-
   https://archery.h5games.usercontent.goog/v/f12fb2aa-d64b-4074-8974-31705698e2e6/
 thumbnail: /new-images/thumbnails/archery.jpg
+urlstr: archery
 tags:
   - sports
   - shooting

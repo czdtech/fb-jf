@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Block Blaster Puzzle"
-description: "Block Blaster Puzzle blends block‑fitting with clears — slot shapes, set up multi‑line blasts, and keep the board breathable."
-iframeSrc: "https://0nrdbfos8jhv8.h5games.usercontent.goog/v/6ovao2cpe86og/"
+title: Block Blaster Puzzle
+seoTitle: Play Block Blaster Puzzle Online Free | FiddleBops
+description: >-
+  Block Blaster Puzzle blends block‑fitting with clears — slot shapes, set up
+  multi‑line blasts, and keep the board breathable.
+iframeSrc: 'https://0nrdbfos8jhv8.h5games.usercontent.goog/v/6ovao2cpe86og/'
 thumbnail: /new-images/thumbnails/block-blaster-puzzle.png
-urlstr: "block-blaster-puzzle"
-score: "3.9/5  (1748 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: block-blaster-puzzle
+tags:
+  - puzzle
+  - thinky
+score: 3.9/5  (1748 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

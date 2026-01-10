@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: kitchen-sorting
 title: Kitchen Sorting
+seoTitle: Spiele Kitchen Sorting kostenlos online | FiddleBops
 description: >-
   Kitchen Sorting ist ein aufgeräumtes Sortier-Puzzle: Ordne Lebensmittel,
   Küchenutensilien und Abfall unter Zeitdruck den richtigen Behältern zu und
   vermeide Kreuzkontamination.
 iframeSrc: 'https://757entlesmh4g.h5games.usercontent.goog/v/1r9oimecfevc0/'
 thumbnail: /new-images/thumbnails/kitchen-sorting.png
+urlstr: kitchen-sorting
 tags:
   - puzzle
   - thinky

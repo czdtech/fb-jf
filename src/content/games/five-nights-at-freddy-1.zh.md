@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: five-nights-at-freddy-1
 title: Five Nights at Freddy's 1 (FNAF 1) 弗雷迪的五夜惊魂 1
+seoTitle: 免费在线玩 Five Nights at Freddy's 1 (FNAF 1) 弗雷迪的五夜惊魂 1 | FiddleBops
 description: 恐怖生存游戏经典作：你在披萨店值夜班，通过监视器观察、节省电力， 适时关门与开灯，撑过五个夜班（甚至更多）避免机械玩偶闯入办公室。
 iframeSrc: 'https://ubg77.github.io/fix/fnaf1/'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-1.jpg
+urlstr: five-nights-at-freddy-1
 tags:
   - horror
   - strategy

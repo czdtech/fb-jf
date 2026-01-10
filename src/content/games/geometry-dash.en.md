@@ -1,14 +1,15 @@
 ---
 locale: en
-title: Geometry Dash Wave Spam - Play Geometry Dash Online
+title: Geometry Dash Wave Spam
+seoTitle: Play Geometry Dash Wave Spam Online Free | FiddleBops
 description: Forget the fluff. This isn
 iframeSrc: 'https://turbowarp.org/1185431027/embed'
 thumbnail: /new-images/thumbnails/geometry-dash.png
 urlstr: geometry-dash
-score: 4.5/5  (604 votes)
 tags:
   - geometry dash
   - platformer
+score: 4.5/5  (604 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

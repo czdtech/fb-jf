@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Google Doodle Baseball"
-description: "Pick‑up batting game from Google’s 4th of July doodle: time swings, aim for gaps, and rack up runs before outs." 
-iframeSrc: "https://freeonlinegames.github.io/fourth-of-july-2019.html"
+title: Google Doodle Baseball
+seoTitle: Play Google Doodle Baseball Online Free | FiddleBops
+description: >-
+  Pick‑up batting game from Google’s 4th of July doodle: time swings, aim for
+  gaps, and rack up runs before outs.
+iframeSrc: 'https://freeonlinegames.github.io/fourth-of-july-2019.html'
 thumbnail: /new-images/thumbnails/google-doodle-baseball.jpg
-urlstr: "google-doodle-baseball"
-score: "4.4/5  (1154 votes)"
-tags: ["sports", "arcade"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: google-doodle-baseball
+tags:
+  - sports
+  - arcade
+score: 4.4/5  (1154 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Kitty Match
+seoTitle: 無料でKitty Matchをオンラインでプレイ | FiddleBops
 description: Kitty Matchは猫テーマのマッチ3パズルです。カラフルなアイテムを入れ替えてマッチを作り、レベルごとの目標を達成します。
 iframeSrc: 'https://kittymatch.h5games.usercontent.goog/v/0fb0j00v75210/'
 thumbnail: /new-images/thumbnails/kitty-match.png
 urlstr: kitty-match
-score: 4.9/5  (2999 votes)
 tags:
   - puzzle
   - casual
   - action
+score: 4.9/5  (2999 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

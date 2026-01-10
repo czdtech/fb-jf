@@ -1,10 +1,11 @@
 ---
 locale: ko
-urlstr: footchinko
 title: Footchinko 풋친코
+seoTitle: Footchinko 풋친코 무료 온라인 플레이 | FiddleBops
 description: '축구와 파칭코를 섞은 독특한 아케이드 게임입니다. 공을 떨어뜨려 핀과 장애물을 통과시키고, 골대를 향해 궤적을 설계해 보세요.'
 iframeSrc: 'https://footchinko2.h5games.usercontent.goog/v/3iniom5rsklno/'
 thumbnail: /new-images/thumbnails/footchinko.jpg
+urlstr: footchinko
 tags:
   - sports
   - casual

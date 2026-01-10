@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: the-sea-rush
 title: The Sea Rush 더 씨 러시
+seoTitle: The Sea Rush 더 씨 러시 무료 온라인 플레이 | FiddleBops
 description: >-
   The Sea Rush는 바닷속 보석 블록을 세 개 이상 맞춰 없애는 매치-3 퍼즐 게임입니다. 이동 횟수 안에 목표 점수나 미션을
   달성하며, 스페셜 보석으로 큰 폭발을 일으켜 보세요.
 iframeSrc: 'https://thesearush.h5games.usercontent.goog/v/5ie3e5aghbr18/'
 thumbnail: /new-images/thumbnails/the-sea-rush.png
+urlstr: the-sea-rush
 tags:
   - match-3
   - puzzle

@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Snake"
-description: "Play the timeless classic, Snake. Control a continuously moving line, consume food to grow longer, and avoid colliding with walls or your own tail. Test your reflexes and planning in this simple yet challenging arcade game."
-iframeSrc: "https://www.googlesnake.com/snakem.php"
+title: Snake
+seoTitle: Play Snake Online Free | FiddleBops
+description: >-
+  Play the timeless classic, Snake. Control a continuously moving line, consume
+  food to grow longer, and avoid colliding with walls or your own tail. Test
+  your reflexes and planning in this simple yet challenging arcade game.
+iframeSrc: 'https://www.googlesnake.com/snakem.php'
 thumbnail: /new-images/thumbnails/snake.jpg
-urlstr: "snake"
-score: "4.1/5  (242 votes)"
-tags: ["classic", "arcade", "skill"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: snake
+tags:
+  - classic
+  - arcade
+  - skill
+score: 4.1/5  (242 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

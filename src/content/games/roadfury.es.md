@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: roadfury
 title: Road Fury
+seoTitle: Juega a Road Fury en línea gratis | FiddleBops
 description: >-
   Un frenético juego de disparos vertical en la autopista. Pilota un coche
   armado hasta los dientes, destruye vehículos enemigos y reúne monedas para
   mejorar tus armas y armadura y sobrevivir a la furia de la carretera.
 iframeSrc: 'https://roadfury.h5games.usercontent.goog/v/6u0uos6j6vvl0/'
 thumbnail: /new-images/thumbnails/roadfury.png
+urlstr: roadfury
 tags:
   - action
   - shooting

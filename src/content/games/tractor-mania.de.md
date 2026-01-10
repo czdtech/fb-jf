@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: tractor-mania
 title: Tractor Mania
+seoTitle: Spiele Tractor Mania kostenlos online | FiddleBops
 description: >-
   Tractor Mania ist ein Farm‑Transporter: Halte Ladungen im Gleichgewicht,
   dosiere Gas und Drehmoment und bring deine Fracht über holpriges Gelände
   sicher ins Ziel.
 iframeSrc: 'https://4agtsfcp8ur38.h5games.usercontent.goog/v/35kskpc4lmtig/'
 thumbnail: /new-images/thumbnails/tractor-mania.png
+urlstr: tractor-mania
 tags:
   - car
   - driving

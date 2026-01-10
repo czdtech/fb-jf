@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: moving-truck
-title: Moving Truck - Carga el camión sin perder el equilibrio
+title: Moving Truck
+seoTitle: Juega a Moving Truck en línea gratis | FiddleBops
 description: >-
   Moving Truck es un puzle basado en físicas en el que debes cargar muebles y
   objetos en un camión de mudanzas de forma estratégica para que el viaje sea
   seguro y equilibrado.
 iframeSrc: 'https://g.igroutka.ru/games/164/JgHSvhdBMa5pf4WZ/moving_truck/'
 thumbnail: /new-images/thumbnails/moving-truck.jpg
+urlstr: moving-truck
 tags:
   - puzzle
   - physics

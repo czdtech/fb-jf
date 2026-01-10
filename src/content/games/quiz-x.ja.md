@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Quiz X
+seoTitle: 無料でQuiz Xをオンラインでプレイ | FiddleBops
 description: Quiz Xはトリビアクイズゲームです。質問に答え、知識をテストし、スコアを競い、クイズチャンピオンになります。
 iframeSrc: 'https://5348abrdhudu8.h5games.usercontent.goog/v/35ge2no4verb8/'
 thumbnail: /new-images/thumbnails/quiz-x.png
 urlstr: quiz-x
-score: 3.9/5  (1725 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 3.9/5  (1725 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

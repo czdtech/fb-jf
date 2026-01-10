@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: letter-links
 title: Letter Links
+seoTitle: Jouez à Letter Links en ligne gratuitement | FiddleBops
 description: >-
   Défi quotidien de mots croisés : place tes lettres sur la grille pour former
   des mots liés, profite des cases bonus et garde tous tes tuiles connectées.
 iframeSrc: 'https://7u583tvdi3f00.h5games.usercontent.goog/v/424maigpuljoo/'
 thumbnail: /new-images/thumbnails/letter-links.png
+urlstr: letter-links
 tags:
   - puzzle
   - thinky

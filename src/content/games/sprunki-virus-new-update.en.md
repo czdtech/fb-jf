@@ -1,6 +1,7 @@
 ---
 locale: en
-title: Sprunki Virus New Update - Play Sprunki Virus New Update Online
+title: Sprunki Virus New Update
+seoTitle: Play Sprunki Virus New Update Online Free | FiddleBops
 description: >-
   Are you craving a musical journey that challenges the limits of your senses?
   Sprunki Virus will take you into a virus-infested Sprunki world, using eerie
@@ -9,11 +10,11 @@ description: >-
 iframeSrc: 'https://turbowarp.org/1104064786/embed'
 thumbnail: /new-images/thumbnails/sprunki-virus-new-update.png
 urlstr: sprunki-virus-new-update
-modType: sprunki
-score: 4.0/5  (407 votes)
 tags:
   - sprunki virus new update
   - music
+modType: sprunki
+score: 4.0/5  (407 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

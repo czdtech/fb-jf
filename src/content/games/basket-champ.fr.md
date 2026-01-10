@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: basket-champ
 title: Basket Champ
+seoTitle: Jouez à Basket Champ en ligne gratuitement | FiddleBops
 description: >-
   Basket Champ est un jeu de tir au panier « one‑tap » : règle la puissance et
   l’arc pour faire passer la balle à travers des paniers parfois mobiles et
   enchaîner les tirs parfaits.
 iframeSrc: 'https://0outkmbudufj8.h5games.usercontent.goog/v/1stcrgq2b9d08/'
 thumbnail: /new-images/thumbnails/basket-champ.png
+urlstr: basket-champ
 tags:
   - sports
   - basketball

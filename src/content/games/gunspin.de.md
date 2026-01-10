@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: gunspin
 title: Gunspin
+seoTitle: Spiele Gunspin kostenlos online | FiddleBops
 description: >-
   Gunspin ist ein Arcade-Spiel, in dem der Rückstoß deine Bewegung antreibt:
   Schieße, um dich zu drehen und voranzufliegen, sammle Munition ein und
   versuche, möglichst weit durch die Level zu kommen.
 iframeSrc: 'https://ubg44.github.io/GunSpin/'
 thumbnail: /new-images/thumbnails/gunspin.jpg
+urlstr: gunspin
 tags:
   - arcade
   - physics

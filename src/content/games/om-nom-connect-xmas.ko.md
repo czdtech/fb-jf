@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: om-nom-connect-xmas
 title: Om Nom Connect Xmas 옴놈 커넥트 크리스마스
+seoTitle: Om Nom Connect Xmas 옴놈 커넥트 크리스마스 무료 온라인 플레이 | FiddleBops
 description: >-
   Om Nom Connect Xmas는 옴놈과 함께하는 크리스마스 테마 커넥트 퍼즐로, 눈사람·사탕·선물 등 크리스마스 간식을 짝지어 보드를
   비워 나가는 게임입니다.
 iframeSrc: >-
   https://omnomconnectxmas.h5games.usercontent.goog/v/88a6b2cf-1027-4490-a613-9a135cf869ce/
 thumbnail: /new-images/thumbnails/om-nom-connect-xmas.jpg
+urlstr: om-nom-connect-xmas
 tags:
   - puzzle
   - casual

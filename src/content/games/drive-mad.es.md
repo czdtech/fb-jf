@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: drive-mad
 title: Drive Mad
+seoTitle: Juega a Drive Mad en línea gratis | FiddleBops
 description: >-
   Drive Mad es un desafío de conducción con físicas: equilibra tu vehículo,
   supera obstáculos y llega a la meta sin volcar.
 iframeSrc: 'https://ubg98.github.io/DriveMad/'
 thumbnail: /new-images/thumbnails/drive-mad.jpg
+urlstr: drive-mad
 tags:
   - driving
   - physics

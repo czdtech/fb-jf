@@ -1,15 +1,16 @@
 ---
 locale: en
-title: Sprunki Retake Bonus Characters - Play Sprunki Retake Bonus Characters Online
+title: Sprunki Retake Bonus Characters
+seoTitle: Play Sprunki Retake Bonus Characters Online Free | FiddleBops
 description: Sprunki Retake Bonus Characters isn
 iframeSrc: 'https://turbowarp.org/1107905149/embed'
 thumbnail: /new-images/thumbnails/sprunki-retake-bonus-characters.png
 urlstr: sprunki-retake-bonus-characters
-modType: sprunki
-score: 3.9/5  (132 votes)
 tags:
   - sprunki retake bonus characters
   - music
+modType: sprunki
+score: 3.9/5  (132 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

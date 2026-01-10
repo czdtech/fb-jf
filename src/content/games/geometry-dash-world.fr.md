@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: geometry-dash-world
 title: Geometry Dash World
+seoTitle: Jouez à Geometry Dash World en ligne gratuitement | FiddleBops
 description: >-
   Mondes compacts de platformer rythmique : cours, saute et vole dans de courts
   niveaux synchronisés à la musique, débloque des portails avec des orbes et
   visite des niveaux quotidiens.
 iframeSrc: 'https://geometrylite.io/game/geometry-dash-world/'
 thumbnail: /new-images/thumbnails/geometry-dash-world.jpg
+urlstr: geometry-dash-world
 tags:
   - rhythm
   - platformer

@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: unblock-that
 title: Unblock That
+seoTitle: Jouez à Unblock That en ligne gratuitement | FiddleBops
 description: >-
   Un puzzle de blocs coulissants classique : déplace les blocs en bois pour
   libérer le passage et faire sortir le bloc rouge du plateau.
 iframeSrc: 'https://unblockthat.h5games.usercontent.goog/v/6iqu63hhulkgo/'
 thumbnail: /new-images/thumbnails/unblock-that.png
+urlstr: unblock-that
 tags:
   - puzzle
   - thinky

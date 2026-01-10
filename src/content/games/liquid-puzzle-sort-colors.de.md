@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: liquid-puzzle-sort-colors
 title: Liquid puzzle sort colors
+seoTitle: Spiele Liquid puzzle sort colors kostenlos online | FiddleBops
 description: >-
   Liquid puzzle sort colors ist ein entspanntes Gieß-Puzzle: Sortiere farbige
   Flüssigkeiten nach Farben in die Flaschen, plane Puffer clever ein und löse
   jedes Level, ohne in eine Sackgasse zu geraten.
 iframeSrc: 'https://1b6vgcuid4b98.h5games.usercontent.goog/v/2vus27k78710o/'
 thumbnail: /new-images/thumbnails/liquid-puzzle-sort-colors.jpg
+urlstr: liquid-puzzle-sort-colors
 tags:
   - puzzle
   - thinky

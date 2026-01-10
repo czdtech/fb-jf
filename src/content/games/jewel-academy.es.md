@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: jewel-academy
 title: Jewel Academy
+seoTitle: Juega a Jewel Academy en línea gratis | FiddleBops
 description: >-
   Matricúlate en Jewel Academy y conviértete en maestro del match‑3. Intercambia
   gemas de colores, crea joyas especiales y resuelve cientos de niveles con
   objetivos únicos.
 iframeSrc: 'https://jewelacademy.h5games.usercontent.goog/v/2krc7uv2m9998/'
 thumbnail: /new-images/thumbnails/jewel-academy.png
+urlstr: jewel-academy
 tags:
   - puzzle
   - casual

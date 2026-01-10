@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Breaking the Bank"
-description: "Attempt a daring bank heist in Breaking the Bank, the first Henry Stickmin adventure! Choose your method and watch the hilarious outcomes, but only one path leads to success."
-iframeSrc: "https://rebemanae.github.io/breaking-the-bank/"
+title: Breaking the Bank
+seoTitle: Play Breaking the Bank Online Free | FiddleBops
+description: >-
+  Attempt a daring bank heist in Breaking the Bank, the first Henry Stickmin
+  adventure! Choose your method and watch the hilarious outcomes, but only one
+  path leads to success.
+iframeSrc: 'https://rebemanae.github.io/breaking-the-bank/'
 thumbnail: /new-images/thumbnails/breaking-the-bank.jpg
-urlstr: "breaking-the-bank"
-score: "4.7/5  (1071 votes)"
-tags: ["puzzle", "adventure"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: breaking-the-bank
+tags:
+  - puzzle
+  - adventure
+score: 4.7/5  (1071 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

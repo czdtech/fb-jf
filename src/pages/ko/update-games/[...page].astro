@@ -1,20 +1,23 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
-import { UPDATE_GAMES_HREFLANG } from '../../../data/hreflang';
+import { getPagedListHreflang } from '../../../data/hreflang';
 import { toGameCardData } from '../../../lib/canonical-games';
+import { buildListSeoTitle } from '../../../lib/seo-title';
 export { getStaticPaths } from '../../update-games/[...page].astro';
 
 const { page } = Astro.props;
+const hreflangLinks = getPagedListHreflang('/update-games/', page.currentPage);
 const locale = 'ko';
-const title = '신규 게임 - FiddleBops 게임 월드';
+const baseTitle = '신규 게임';
+const title = buildListSeoTitle(locale, baseTitle, page.currentPage);
 const description =
   'FiddleBops 게임 월드에 새로 추가된 최신 게임 목록입니다. 음악, 퍼즐, 아케이드 등 다양한 장르의 게임을 다운로드 없이 무료로 즐겨보세요.';
-const canonicalUrl = 'https://www.playfiddlebops.com/ko/update-games/';
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site).toString();
 const ogImage = 'https://www.playfiddlebops.com/tw.jpg';
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Game',
-  name: title,
+  name: baseTitle,
   alternateName: 'playfiddlebops.com',
   url: canonicalUrl,
   description
@@ -28,7 +31,7 @@ const jsonLd = {
   ogType="website"
   twitterCard="summary_large_image"
   jsonLd={jsonLd}
-  hreflangLinks={UPDATE_GAMES_HREFLANG}
+  hreflangLinks={hreflangLinks}
   lang="ko"
 >
   <section class="games">

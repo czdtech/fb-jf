@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Super Smash Flash 2: Demo v0.8b"
-description: "The legendary fan-made fighting game returns with Super Smash Flash 2! Choose from an even larger roster of iconic characters and battle it out in highly polished, fast-paced platform-fighting action. Master advanced techniques and compete against friends or CPU opponents to prove your skill."
-iframeSrc: "https://kdata1.com/games/SSF22/?kbhgames"
+title: 'Super Smash Flash 2: Demo v0.8b'
+seoTitle: 'Play Super Smash Flash 2: Demo v0.8b Online Free | FiddleBops'
+description: >-
+  The legendary fan-made fighting game returns with Super Smash Flash 2! Choose
+  from an even larger roster of iconic characters and battle it out in highly
+  polished, fast-paced platform-fighting action. Master advanced techniques and
+  compete against friends or CPU opponents to prove your skill.
+iframeSrc: 'https://kdata1.com/games/SSF22/?kbhgames'
 thumbnail: /new-images/thumbnails/super-smash-flash-2-v08.jpg
-urlstr: "super-smash-flash-2-v08"
-score: "4.3/5  (1114 votes)"
-tags: ["fighting", "platformer", "multiplayer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: super-smash-flash-2-v08
+tags:
+  - fighting
+  - platformer
+  - multiplayer
+score: 4.3/5  (1114 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

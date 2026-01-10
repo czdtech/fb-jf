@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: funny-shooter
 title: Funny Shooter
+seoTitle: Jouez à Funny Shooter en ligne gratuitement | FiddleBops
 description: >-
   Prototype de shooter à vagues : affronte des ennemis déjantés, ramasse de
   l’argent et améliore tes armes pour survivre à des manches de plus en plus
   difficiles.
 iframeSrc: 'https://bitlifeonline.github.io/class2623/funny-shooter/'
 thumbnail: /new-images/thumbnails/funny-shooter.jpg
+urlstr: funny-shooter
 tags:
   - shooting
   - fps

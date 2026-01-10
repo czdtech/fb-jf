@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: paper-minecraft
 title: Paper Minecraft
+seoTitle: Spiele Paper Minecraft kostenlos online | FiddleBops
 description: >-
   Paper Minecraft ist eine 2D-Neuinterpretation des bekannten Sandbox-Hits und
   bietet dir eine seitlich scrollende Welt zum Erkunden, Rohstoffe abbauen,
   Craften, Bauen und Überleben gegen Monster.
 iframeSrc: 'https://scratch.mit.edu/projects/10128407/embed'
 thumbnail: /new-images/thumbnails/paper-minecraft.jpg
+urlstr: paper-minecraft
 tags:
   - sandbox
   - crafting

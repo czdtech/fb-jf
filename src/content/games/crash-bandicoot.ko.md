@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: crash-bandicoot
 title: Crash Bandicoot 크래시 밴디쿳
+seoTitle: Crash Bandicoot 크래시 밴디쿳 무료 온라인 플레이 | FiddleBops
 description: >-
   레트로 감성의 아케이드 플랫포머 Crash Bandicoot 브라우저 버전입니다. 달리고, 점프하고, 회전 공격으로 상자를 부수며 움파
   열매와 크리스털을 모아 스테이지를 클리어해 보세요.
 iframeSrc: 'https://ad-freegames.github.io/flash/game/crash-bandicoot.html'
 thumbnail: /new-images/thumbnails/crash-bandicoot.jpg
+urlstr: crash-bandicoot
 tags:
   - arcade
   - platformer

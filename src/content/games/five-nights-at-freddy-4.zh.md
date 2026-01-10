@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: five-nights-at-freddy-4
 title: Five Nights at Freddy's 4 (FNAF 4) 弗雷迪的五夜惊魂 4
+seoTitle: 免费在线玩 Five Nights at Freddy's 4 (FNAF 4) 弗雷迪的五夜惊魂 4 | FiddleBops
 description: 卧室场景的恶梦生存：专心听呼吸与脚步声，管理房门与衣柜， 聪明使用手电筒，才能把夜晚的梦魇挡在门外。
 iframeSrc: 'https://ubg77.github.io/fix/fnaf2/fnaf4.html'
 thumbnail: /new-images/thumbnails/five-nights-at-freddy-4.jpg
+urlstr: five-nights-at-freddy-4
 tags:
   - horror
   - strategy

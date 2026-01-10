@@ -1,17 +1,19 @@
 ---
+locale: ja
 title: Plants vs Brainrots
+seoTitle: 無料でPlants vs Brainrotsをオンラインでプレイ | FiddleBops
 description: Plants vs Brainrotsはタワーディフェンスゲームです。植物を配置してブレインロットの波から庭を守り、防御をアップグレードします。
-iframeSrc: 'https://playhop.com/dist-app/471072?header=no&utm_source=distrib&utm_medium=gameflare'
+iframeSrc: >-
+  https://playhop.com/dist-app/471072?header=no&utm_source=distrib&utm_medium=gameflare
 thumbnail: /new-images/thumbnails/plants-vs-brainrots.jpg
 urlstr: plants-vs-brainrots
-score: 4.6/5  (4375 votes)
 tags:
   - tower-defense
   - strategy
   - casual
+score: 4.6/5  (4375 votes)
 developer: ''
-releaseDate: 2025-08-16
-locale: ja
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

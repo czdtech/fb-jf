@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Smarty Bubbles
+seoTitle: 無料でSmarty Bubblesをオンラインでプレイ | FiddleBops
 description: Smarty Bubblesはバブルシューターのパズルです。同じ色をそろえて消し、盤面をクリアします。
 iframeSrc: 'https://smartybubbles.h5games.usercontent.goog/v/09fhbor6rfpv0/'
 thumbnail: /new-images/thumbnails/smarty-bubbles.png
 urlstr: smarty-bubbles
-score: 4.3/5  (2200 votes)
 tags:
   - puzzle
   - casual
+score: 4.3/5  (2200 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: gin-rummy
 title: Gin Rummy
+seoTitle: Jouez à Gin Rummy en ligne gratuitement | FiddleBops
 description: >-
   Joue au grand classique Gin Rummy : forme des brelans et des suites, « knock »
   pour terminer la manche et tente de piéger l'adversaire avec une main pleine
   de deadwood.
 iframeSrc: 'https://ginrummy.h5games.usercontent.goog/v/1sj72j2nsfin0/'
 thumbnail: /new-images/thumbnails/gin-rummy.png
+urlstr: gin-rummy
 tags:
   - card
   - puzzle

@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: bolly-beat
 title: Bolly Beat
+seoTitle: Juega a Bolly Beat en línea gratis | FiddleBops
 description: >-
   Bolly Beat es un reto de ritmo en el que debes pulsar al compás, encadenar
   combos y dominar ritmos al estilo Bollywood.
 iframeSrc: 'https://bollybeat.h5games.usercontent.goog/v/4k75msiudusn0/'
 thumbnail: /new-images/thumbnails/bolly-beat.jpg
+urlstr: bolly-beat
 tags:
   - casual
   - action

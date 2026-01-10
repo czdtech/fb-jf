@@ -1,15 +1,20 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Klondike Solitaire"
-description: "Classic Klondike: build foundations Ace to King by suit using tableau stacks that descend in alternating colors; draw‑1 or draw‑3." 
-iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-klondike-solitaire/"
+title: Klondike Solitaire
+seoTitle: Play Klondike Solitaire Online Free | FiddleBops
+description: >-
+  Classic Klondike: build foundations Ace to King by suit using tableau stacks
+  that descend in alternating colors; draw‑1 or draw‑3.
+iframeSrc: >-
+  https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-klondike-solitaire/
 thumbnail: /new-images/thumbnails/klondike-solitaire.jpg
-urlstr: "klondike-solitaire"
-score: "4.1/5  (1091 votes)"
-tags: ["solitaire", "card"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: klondike-solitaire
+tags:
+  - solitaire
+  - card
+score: 4.1/5  (1091 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

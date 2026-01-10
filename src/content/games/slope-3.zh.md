@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: slope-3
 title: 《Slope 3》极限斜坡 3
+seoTitle: 免费在线玩 《Slope 3》极限斜坡 3 | FiddleBops
 description: >-
   《Slope 3》是在高速斜坡跑酷基础上的进一步升级作品。你操控一颗炫光小球在更加复杂多变的 3D
   斜坡赛道上狂奔，下滑速度更快、障碍更密集，对反应与操作要求更高。
 iframeSrc: 'https://games-online.io/game/Slope3/'
 thumbnail: /new-images/thumbnails/slope-3.jpg
+urlstr: slope-3
 tags:
   - 3d
   - running

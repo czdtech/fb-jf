@@ -1,15 +1,23 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Text Twist"
-description: "Challenge your vocabulary and quick thinking in Text Twist, an addictive word puzzle game! Unscramble jumbled letters to form as many words as possible within a time limit. Find the 'Bingo word' to advance and aim for the highest score in this classic brain-teaser."
-iframeSrc: "https://games.cdn.famobi.com/html5games/t/text-twist/v010/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref="
+title: Text Twist
+seoTitle: Play Text Twist Online Free | FiddleBops
+description: >-
+  Challenge your vocabulary and quick thinking in Text Twist, an addictive word
+  puzzle game! Unscramble jumbled letters to form as many words as possible
+  within a time limit. Find the 'Bingo word' to advance and aim for the highest
+  score in this classic brain-teaser.
+iframeSrc: >-
+  https://games.cdn.famobi.com/html5games/t/text-twist/v010/?fg_domain=play.famobi.com&fg_aid=A-FAMOBI-COM&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=96ab9c2f-6013-4b31-96dc-ccb5c7a89329&fg_beat=465&original_ref=
 thumbnail: /new-images/thumbnails/text-twist.jpg
-urlstr: "text-twist"
-score: "4.0/5  (100 votes)"
-tags: ["word-game", "puzzle", "brain-teaser"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: text-twist
+tags:
+  - word-game
+  - puzzle
+  - brain-teaser
+score: 4.0/5  (100 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

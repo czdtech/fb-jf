@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: pou
 title: Pou Game 푸 게임
+seoTitle: Pou Game 푸 게임 무료 온라인 플레이 | FiddleBops
 description: >-
   외계 생명체 푸(Pou)를 돌보는 버추얼 펫 시뮬레이션 게임입니다. 먹이고, 씻기고, 놀아 주고, 꾸며 주면서 다양한 미니게임도 함께 즐길
   수 있습니다.
 iframeSrc: >-
   https://app-184491.games.s3.yandex.net/184491/simr1s69tzefn132i2xlbk4dusun0mgw/index.html
 thumbnail: /new-images/thumbnails/pou.jpg
+urlstr: pou
 tags:
   - virtual pet
   - simulation

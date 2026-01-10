@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: incredibox-wolfgang
 title: Incredibox Wolfgang
+seoTitle: Spiele Incredibox Wolfgang kostenlos online | FiddleBops
 description: >-
   Incredibox Wolfgang ist ein klassischer Fan-Mod im Stil von Mozart: Baue
   orchestrale Stücke aus Cembalo, Streichern, Pauken und Opernchören und schalte
   passende Bonus-Szenen aus dem 18. Jahrhundert frei.
 iframeSrc: 'https://turbowarp.org/943197191/embed'
 thumbnail: /new-images/thumbnails/incredibox-wolfgang.png
+urlstr: incredibox-wolfgang
 tags:
   - music
   - classical

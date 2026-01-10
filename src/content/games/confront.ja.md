@@ -1,14 +1,18 @@
 ---
-title: "Confront コンフロント"
-description: "「Confront」は一瞬の判断が生死を分けるハイスピード・シューティング。バレットタイム（時間停止）を駆使し、群がる敵を精密な射撃でなぎ倒せ。"
-iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp37/gamehwq/20220228/07/index.htm"
-thumbnail: /new-images/thumbnails/confront.jpg
-urlstr: "confront"
-score: "4.7/5  (407 votes)"
-tags: ["casual", "shooting"]
-developer: ""
-releaseDate: 2025-08-16
 locale: ja
+title: Confront コンフロント
+seoTitle: 無料でConfront コンフロントをオンラインでプレイ | FiddleBops
+description: 「Confront」は一瞬の判断が生死を分けるハイスピード・シューティング。バレットタイム（時間停止）を駆使し、群がる敵を精密な射撃でなぎ倒せ。
+iframeSrc: >-
+  https://szhong.4399.com/4399swf//upload_swf/ftp37/gamehwq/20220228/07/index.htm
+thumbnail: /new-images/thumbnails/confront.jpg
+urlstr: confront
+tags:
+  - casual
+  - shooting
+score: 4.7/5  (407 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

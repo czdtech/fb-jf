@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: bloons-td-4
 title: Bloons TD 4 气球塔防 4
+seoTitle: 免费在线玩 Bloons TD 4 气球塔防 4 | FiddleBops
 description: 《Bloons TD 4 气球塔防 4》带来全新的分支升级体系、等级解锁系统和 BFB 飞艇等内容，在更炫的画面下构建更深 度的塔防策略。
 iframeSrc: 'https://1000freegames.github.io/swf/bloons-td-4.html'
 thumbnail: /new-images/thumbnails/bloons-td-4.jpg
+urlstr: bloons-td-4
 tags:
   - casual
   - strategy

@@ -1,14 +1,15 @@
 ---
-locale: "zh"
-urlstr: "sprunki-eggs-mix"
-
-title: "Sprunki Egg's Mix - 在线玩 Sprunki Egg's Mix"
-description: "Sprunki Egg's Mix 是一款视觉惊艳、智力刺激的益智游戏，适合益智游戏爱好者、休闲玩家以及欣赏独特游戏体验的人。"
-iframeSrc: "https://turbowarp.org/1102648676/embed"
+locale: zh
+title: Sprunki Egg's Mix
+seoTitle: 免费在线玩 Sprunki Egg's Mix | FiddleBops
+description: Sprunki Egg's Mix 是一款视觉惊艳、智力刺激的益智游戏，适合益智游戏爱好者、休闲玩家以及欣赏独特游戏体验的人。
+iframeSrc: 'https://turbowarp.org/1102648676/embed'
 thumbnail: /new-images/thumbnails/sprunki-eggs-mix.png
-score: "3.9/5  (125 votes)"
-tags: ["sprunki egg"]
-releaseDate: 2025-12-04
+urlstr: sprunki-eggs-mix
+tags:
+  - sprunki egg
+score: 3.9/5  (125 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Egg's Mix 有什么特别之处？

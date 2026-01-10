@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Pikmin no Sprunki
+seoTitle: 無料でPikmin no Sprunkiをオンラインでプレイ | FiddleBops
 description: Pikmin no Sprunkiは音楽作成ゲームです。Pikminスタイルのキャラクターをミックスし、サウンドを組み合わせ、ユニークなビートを作成します。
 iframeSrc: 'https://img.sprunki.net/game/pikmin-no-sprunki.html'
 thumbnail: /new-images/thumbnails/pikmin-no-sprunki.png
 urlstr: pikmin-no-sprunki
-score: 4.0/5  (89 votes)
 tags:
   - casual
   - novelty
+score: 4.0/5  (89 votes)
 developer: ''
-releaseDate: 2025-12-04
-locale: ja
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

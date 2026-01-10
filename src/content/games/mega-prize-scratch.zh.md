@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: mega-prize-scratch
 title: 《Mega Prize Scratch》大奖刮刮卡
+seoTitle: 免费在线玩 《Mega Prize Scratch》大奖刮刮卡 | FiddleBops
 description: 《Mega Prize Scratch》是一款轻松休闲的刮刮卡模拟游戏，通过刮开涂层揭示符号、匹配中奖图案，并在自定预算范围内享受揭晓瞬间的乐趣。
 iframeSrc: 'https://3a38lqtqled1o.h5games.usercontent.goog/v/37llbljplv5v0/'
 thumbnail: /new-images/thumbnails/mega-prize-scratch.png
+urlstr: mega-prize-scratch
 tags:
   - casual
 score: 3.6/5  (1538 votes)

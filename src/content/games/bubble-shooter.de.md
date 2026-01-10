@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: bubble-shooter
 title: Bubble Shooter
+seoTitle: Spiele Bubble Shooter kostenlos online | FiddleBops
 description: >-
   Ziele, schieße und kombiniere bunte Blasen im klassischen Bubble-Shooter.
   Plane deine Schüsse, nutze die Wände für Abpraller und lasse große
   Blasencluster fallen, um einen Höchstscore zu knacken.
 iframeSrc: 'https://www.bubbleshooter-new.com/'
 thumbnail: /new-images/thumbnails/bubble-shooter.jpg
+urlstr: bubble-shooter
 tags:
   - casual
   - puzzle

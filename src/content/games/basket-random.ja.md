@@ -1,5 +1,7 @@
 ---
+locale: ja
 title: Basket Random バスケット・ランダム
+seoTitle: 無料でBasket Random バスケット・ランダムをオンラインでプレイ | FiddleBops
 description: >-
   「Basket
   Random」は、物理演算ベースの予測不能ハチャメチャ・バスケゲームの完全ガイド。ワンボタン操作をマスターし、カオスな状況を楽しみながら2人対戦で勝利を掴もう。
@@ -7,13 +9,12 @@ iframeSrc: >-
   https://app-197304.games.s3.yandex.net/197304/kj9rcykboy6eol5xnn250jesr7v0hoh1/index.html
 thumbnail: /new-images/thumbnails/basket-random.jpg
 urlstr: basket-random
-score: 4.2/5  (284 votes)
 tags:
   - casual
   - sports
+score: 4.2/5  (284 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

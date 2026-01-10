@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: daily-crossword
 title: Daily Crossword
+seoTitle: Jouez à Daily Crossword en ligne gratuitement | FiddleBops
 description: "Résous un nouveau mot croisé chaque jour\_: lis les définitions, complète la grille et entraîne ton vocabulaire."
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/daily-crossword/'
 thumbnail: /new-images/thumbnails/daily-crossword.jpg
+urlstr: daily-crossword
 tags:
   - word
   - puzzle

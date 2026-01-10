@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: wood-block-match
-title: Wood Block Match - Encaja los bloques de madera
+title: Wood Block Match
+seoTitle: Juega a Wood Block Match en línea gratis | FiddleBops
 description: >-
   Wood Block Match es un relajante juego de encajar piezas: coloca figuras de
   madera, completa filas o columnas y conserva espacio planificando bien tus
   huecos.
 iframeSrc: 'https://2rfr65hktjv5o.h5games.usercontent.goog/v/46h85f5g0sldo/'
 thumbnail: /new-images/thumbnails/wood-block-match.png
+urlstr: wood-block-match
 tags:
   - puzzle
   - thinky

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: gold-miner-tom
 title: Gold Miner Tom
+seoTitle: Spiele Gold Miner Tom kostenlos online | FiddleBops
 description: >-
   Hilf Tom dabei, reich zu werden! Wirf seine Greifklaue im richtigen Moment,
   sammle Goldklumpen, Diamanten und andere Schätze ein und erreiche das
   Geldziel, bevor die Zeit abläuft.
 iframeSrc: 'https://goldminertom.h5games.usercontent.goog/v/5l8d724in1pco/'
 thumbnail: /new-images/thumbnails/gold-miner-tom.png
+urlstr: gold-miner-tom
 tags:
   - action
   - casual

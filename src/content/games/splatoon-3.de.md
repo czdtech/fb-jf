@@ -1,10 +1,15 @@
 ---
 locale: de
-urlstr: splatoon-3
-title: "Splatoon 3"
-description: "Tauche ein in die farbenfrohe Welt von Splatoon 3! In diesem actiongeladenen Shooter geht es darum, so viel Gelände wie möglich mit der Tinte deines Teams zu überziehen, als Kid zu schießen und als Squid durch eure Farbe zu gleiten, Gegner zu überraschen und deine Waffen aufzuladen."
+title: Splatoon 3
+seoTitle: Spiele Splatoon 3 kostenlos online | FiddleBops
+description: >-
+  Tauche ein in die farbenfrohe Welt von Splatoon 3! In diesem actiongeladenen
+  Shooter geht es darum, so viel Gelände wie möglich mit der Tinte deines Teams
+  zu überziehen, als Kid zu schießen und als Squid durch eure Farbe zu gleiten,
+  Gegner zu überraschen und deine Waffen aufzuladen.
 iframeSrc: 'https://bitlifeonline.github.io/splatoon-3/'
 thumbnail: /new-images/thumbnails/splatoon-3.jpg
+urlstr: splatoon-3
 tags:
   - action
   - shooting

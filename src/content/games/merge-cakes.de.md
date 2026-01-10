@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: merge-cakes
 title: Merge Cakes
+seoTitle: Spiele Merge Cakes kostenlos online | FiddleBops
 description: >-
   Merg e identische Kuchen, um neue, noch aufwendigere Desserts zu kreieren!
   Fülle deine Auslage, erfülle Bestellungen und baue die süßeste Bäckerei in
   diesem entspannten Merge-Puzzlespiel.
 iframeSrc: 'https://mergecakes.h5games.usercontent.goog/v/516lkgikje8fo/'
 thumbnail: /new-images/thumbnails/merge-cakes.jpg
+urlstr: merge-cakes
 tags:
   - puzzle
   - casual

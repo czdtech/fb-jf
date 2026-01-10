@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: bricks-breaker-crush
 title: Bricks Breaker Crush
+seoTitle: Spiele Bricks Breaker Crush kostenlos online | FiddleBops
 description: >-
   In Bricks Breaker Crush regnen dir unzählige Blöcke entgegen – ziele deine
   Schüsse präzise, sammle zusätzliche Bälle und finde perfekte Winkel, um dich
   mit langen Abprallerketten durch dichte Reihen zu fräsen.
 iframeSrc: 'https://7uvo1rchfrhr8.h5games.usercontent.goog/v/4tk6unop5lefg/'
 thumbnail: /new-images/thumbnails/bricks-breaker-crush.png
+urlstr: bricks-breaker-crush
 tags:
   - puzzle
   - thinky

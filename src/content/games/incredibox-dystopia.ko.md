@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: incredibox-dystopia
 title: Incredibox Dystopia 디스토피아 사이버펑크 모드
+seoTitle: Incredibox Dystopia 디스토피아 사이버펑크 모드 무료 온라인 플레이 | FiddleBops
 description: >-
   어두운 사이버펑크 미래를 배경으로 한 팬메이드 모드 'Incredibox Dystopia' 가이드입니다. 신스웨이브·인더스트리얼 사운드로
   미래 도시 비트를 만드는 방법과 보너스 해금 팁을 다룹니다.
 iframeSrc: 'https://turbowarp.org/1015284026/embed'
 thumbnail: /new-images/thumbnails/incredibox-dystopia.png
+urlstr: incredibox-dystopia
 tags:
   - music
   - electronic

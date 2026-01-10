@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: secret-agent
 title: 《Secret Agent》潜入特工行动
+seoTitle: 免费在线玩 《Secret Agent》潜入特工行动 | FiddleBops
 description: 《Secret Agent》是一款潜行+解谜向的动作游戏。你将扮演一名秘密特工，潜入高度戒备的基地，躲避守卫、破解机关并完成情报或营救任务。
 iframeSrc: 'https://087cce7dimlq8.h5games.usercontent.goog/v/6na8sphqpnhlo/'
 thumbnail: /new-images/thumbnails/secret-agent.png
+urlstr: secret-agent
 tags:
   - stealth
   - puzzle

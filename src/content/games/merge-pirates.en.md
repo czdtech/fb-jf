@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Merge Pirates"
-description: "Ahoy, captain! Merge cannons, ships, and pirate gear to build a powerful fleet. Fulfill orders, earn gold, and become the most legendary pirate on the seven seas in this addictive merge puzzle game."
-iframeSrc: "https://mergepirates.h5games.usercontent.goog/v/2rugbh8p4845g/"
+title: Merge Pirates
+seoTitle: Play Merge Pirates Online Free | FiddleBops
+description: >-
+  Ahoy, captain! Merge cannons, ships, and pirate gear to build a powerful
+  fleet. Fulfill orders, earn gold, and become the most legendary pirate on the
+  seven seas in this addictive merge puzzle game.
+iframeSrc: 'https://mergepirates.h5games.usercontent.goog/v/2rugbh8p4845g/'
 thumbnail: /new-images/thumbnails/merge-pirates.png
-urlstr: "merge-pirates"
-score: "4.4/5  (2400 votes)"
-tags: ["puzzle", "casual", "clicker"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: merge-pirates
+tags:
+  - puzzle
+  - casual
+  - clicker
+score: 4.4/5  (2400 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: addiction-mini
-title: "Addiction Mini"
+title: Addiction Mini
+seoTitle: Spiele Addiction Mini kostenlos online | FiddleBops
 description: >-
-  Addiction Mini ist eine kompakte Variante des Geduldspiels "Addiction".
-  Ordne Karten in aufsteigenden Reihen, öffne gezielt freie Felder und plane
-  mehrere Züge im Voraus, um vertrackte Blockaden zu lösen.
+  Addiction Mini ist eine kompakte Variante des Geduldspiels "Addiction". Ordne
+  Karten in aufsteigenden Reihen, öffne gezielt freie Felder und plane mehrere
+  Züge im Voraus, um vertrackte Blockaden zu lösen.
 iframeSrc: 'https://0lk0u0jb90plo.h5games.usercontent.goog/v/2rppmab9dqneo/'
 thumbnail: /new-images/thumbnails/addiction-mini.jpg
+urlstr: addiction-mini
 tags:
   - card
   - puzzle

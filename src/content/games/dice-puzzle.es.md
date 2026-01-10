@@ -1,13 +1,14 @@
 ---
 locale: es
-urlstr: dice-puzzle
 title: Dice Puzzle
+seoTitle: Juega a Dice Puzzle en línea gratis | FiddleBops
 description: >-
   Un puzle exigente para la mente. Coloca y fusiona dados en el tablero; combina
   tres iguales para crear un valor superior y apunta al codiciado cubo de joya
   antes de que se llene la cuadrícula.
 iframeSrc: 'https://0vfcifju4i900.h5games.usercontent.goog/v/2jg90liogd5f8/'
 thumbnail: /new-images/thumbnails/dice-puzzle.jpg
+urlstr: dice-puzzle
 tags:
   - puzzle
   - thinky

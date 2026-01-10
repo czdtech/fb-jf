@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: wordler
 title: Wordler
+seoTitle: Jouez à Wordler en ligne gratuitement | FiddleBops
 description: >-
   Wordler est un jeu de déduction quotidien : devine des mots de cinq lettres en
   utilisant les indices de couleur pour affiner tes hypothèses.
 iframeSrc: 'https://30mv2rsaljhjo.h5games.usercontent.goog/v/0hb0g2c5b4m9o/'
 thumbnail: /new-images/thumbnails/wordler.png
+urlstr: wordler
 tags:
   - puzzle
   - thinky

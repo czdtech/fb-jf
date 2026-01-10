@@ -1,15 +1,21 @@
 ---
 locale: en
-modType: incredibox
-title: "Incredibox Creatophobos"
-description: "Uncover the secrets of 'Incredibox Creatophobos,' the unsettling horror-themed fan-made mod. This guide details its monstrous and industrial sound palette, and provides tips for creating terrifying soundscapes."
-iframeSrc: "https://turbowarp.org/1041902515/embed"
+title: Incredibox Creatophobos
+seoTitle: Play Incredibox Creatophobos Online Free | FiddleBops
+description: >-
+  Uncover the secrets of 'Incredibox Creatophobos,' the unsettling horror-themed
+  fan-made mod. This guide details its monstrous and industrial sound palette,
+  and provides tips for creating terrifying soundscapes.
+iframeSrc: 'https://turbowarp.org/1041902515/embed'
 thumbnail: /new-images/thumbnails/incredibox-creatophobos.png
-urlstr: "incredibox-creatophobos"
-score: "4.6/5 (1342 votes)"
-tags: ["music", "horror"]
-developer: ""
-releaseDate: 2025-10-10
+urlstr: incredibox-creatophobos
+tags:
+  - music
+  - horror
+modType: incredibox
+score: 4.6/5 (1342 votes)
+developer: ''
+releaseDate: 2025-10-10T00:00:00.000Z
 ---
 
 

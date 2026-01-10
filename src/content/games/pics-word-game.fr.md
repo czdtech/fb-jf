@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: pics-word-game
 title: Pics Word Game
+seoTitle: Jouez à Pics Word Game en ligne gratuitement | FiddleBops
 description: >-
   Pics Word Game est un jeu de mots où tu dois trouver le mot qui relie
   plusieurs images, en faisant appel à ton sens de l'observation et à ton
   vocabulaire.
 iframeSrc: 'https://picswordgame.h5games.usercontent.goog/v/40jujb4uelhb0/'
 thumbnail: /new-images/thumbnails/pics-word-game.jpg
+urlstr: pics-word-game
 tags:
   - puzzle
   - thinky

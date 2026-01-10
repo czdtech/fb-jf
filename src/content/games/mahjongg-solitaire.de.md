@@ -1,13 +1,15 @@
 ---
 locale: de
-urlstr: mahjongg-solitaire
-title: "Mahjongg Solitaire"
+title: Mahjongg Solitaire
+seoTitle: Spiele Mahjongg Solitaire kostenlos online | FiddleBops
 description: >-
   Räume das Brett in Mahjongg Solitaire, dem klassischen Einzelspieler-
   Kachel-Matching-Puzzle! Finde und paare identische, freie Steine und plane
   deine Züge, um das gesamte Layout zu leeren.
-iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjongg-solitaire/'
+iframeSrc: >-
+  https://ams.cdn.arkadiumhosted.com/assets/global/game/webgl-mahjongg-solitaire/
 thumbnail: /new-images/thumbnails/mahjongg-solitaire.jpg
+urlstr: mahjongg-solitaire
 tags:
   - puzzle
   - tile-matching

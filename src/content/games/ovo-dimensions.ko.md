@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: ovo-dimensions
 title: OvO Dimensions 오보 디멘션즈
+seoTitle: OvO Dimensions 오보 디멘션즈 무료 온라인 플레이 | FiddleBops
 description: >-
   하드코어 2D 플랫폼 시리즈 OvO의 확장판 'OvO Dimensions' 가이드입니다. 정교한 점프·벽 미끄러지기·관성 컨트롤을 익혀
   복잡한 스테이지를 빠르게 돌파해 보세요.
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp41/liuxinyu/20221219/8/index.html
 thumbnail: /new-images/thumbnails/ovo-dimensions.jpg
+urlstr: ovo-dimensions
 tags:
   - platformer
   - action

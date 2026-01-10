@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: elite-chess
 title: Elite Chess
+seoTitle: Spiele Elite Chess kostenlos online | FiddleBops
 description: >-
   Elite Chess hilft dir, deine Schachgrundlagen zu schärfen – solide
   Eröffnungen, saubere Taktik und Endspieltechnik, mit denen du Vorteile sicher
   verwertest.
 iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
 thumbnail: /new-images/thumbnails/elite-chess.png
+urlstr: elite-chess
 tags:
   - thinky
   - puzzle

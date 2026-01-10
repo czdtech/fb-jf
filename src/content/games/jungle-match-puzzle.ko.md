@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: jungle-match-puzzle
 title: Jungle Match Puzzle 정글 매치 퍼즐
+seoTitle: Jungle Match Puzzle 정글 매치 퍼즐 무료 온라인 플레이 | FiddleBops
 description: >-
   정글을 배경으로 한 3매치 퍼즐 'Jungle Match Puzzle' 가이드입니다. 덩굴과 상자 같은 장애물을 지우고, 파워업을 연쇄해
   제한된 이동 수 안에 목표를 달성하는 방법을 소개합니다.
 iframeSrc: 'https://2sf7n68mggti0.h5games.usercontent.goog/v/2mk31nh92a0og/'
 thumbnail: /new-images/thumbnails/jungle-match-puzzle.png
+urlstr: jungle-match-puzzle
 tags:
   - puzzle
   - casual

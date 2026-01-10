@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: endless-siege
 title: Endless Siege
+seoTitle: Spiele Endless Siege kostenlos online | FiddleBops
 description: >-
   Endless Siege ist ein forderndes Tower-Defense-Spiel: Baue und verbessere
   Kanonen, Ballisten und andere Türme, um endlose Ork-Wellen auf täglich neuen
   Karten aufzuhalten.
 iframeSrc: 'https://endlessseige.h5games.usercontent.goog/v/35nvlvatb9t8g/'
 thumbnail: /new-images/thumbnails/endless-siege.jpg
+urlstr: endless-siege
 tags:
   - tower Defense
   - strategy

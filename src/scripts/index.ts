@@ -9,3 +9,4 @@ export { initNavToggle, type NavToggleConfig } from './nav-toggle';
 export { initLanguageSwitcher, type LanguageSwitcherConfig } from './language-switcher';
 export { initIframeLoader, createIframeLoader, type IframeLoaderConfig } from './iframe-loader';
 export { initFullscreen, showFullscreenButton, isFullscreen, toggleFullscreen, type FullscreenConfig } from './fullscreen';
+export { initNavDropdown, cleanupNavDropdown } from './nav-dropdown';

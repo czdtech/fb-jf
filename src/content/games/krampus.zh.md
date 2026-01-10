@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: krampus
 title: 《Krampus》圣诞恶灵地牢
+seoTitle: 免费在线玩 《Krampus》圣诞恶灵地牢 | FiddleBops
 description: 《Krampus》是一款圣诞题材的恐怖平台动作游戏，你要在昏暗关卡中穿行，躲避陷阱与怪物，寻找钥匙和道具，从克拉姆普斯的巢穴中逃出生天。
 iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/krampus1/'
 thumbnail: /new-images/thumbnails/krampus.jpg
+urlstr: krampus
 tags:
   - horror
   - platformer

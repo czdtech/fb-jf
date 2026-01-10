@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Cricket Mania"
-description: "Cricket Mania is a quick cricket hitter — pick shots, time swings, and chase targets over by over."
-iframeSrc: "https://73lnk17f84iog.h5games.usercontent.goog/v/1p7sdm5buflt0/"
+title: Cricket Mania
+seoTitle: Play Cricket Mania Online Free | FiddleBops
+description: >-
+  Cricket Mania is a quick cricket hitter — pick shots, time swings, and chase
+  targets over by over.
+iframeSrc: 'https://73lnk17f84iog.h5games.usercontent.goog/v/1p7sdm5buflt0/'
 thumbnail: /new-images/thumbnails/cricket-mania.png
-urlstr: "cricket-mania"
-score: "4.0/5  (1897 votes)"
-tags: ["sports", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: cricket-mania
+tags:
+  - sports
+  - casual
+score: 4.0/5  (1897 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

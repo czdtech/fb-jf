@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Krampus"
-description: "Holiday horror platformer: navigate dark levels, avoid traps and creatures, and find keys/items to escape Krampus’s lair." 
-iframeSrc: "https://g2.igroutka.ru/lib/crazy/games/krampus1/"
+title: Krampus
+seoTitle: Play Krampus Online Free | FiddleBops
+description: >-
+  Holiday horror platformer: navigate dark levels, avoid traps and creatures,
+  and find keys/items to escape Krampus’s lair.
+iframeSrc: 'https://g2.igroutka.ru/lib/crazy/games/krampus1/'
 thumbnail: /new-images/thumbnails/krampus.jpg
-urlstr: "krampus"
-score: "3.9/5  (275 votes)"
-tags: ["horror", "platformer"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: krampus
+tags:
+  - horror
+  - platformer
+score: 3.9/5  (275 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

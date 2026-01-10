@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: fiddlebops-sprunki
-title: Fiddlebops Sprunki - Jouer à Fiddlebops Sprunki en ligne
+title: Fiddlebops Sprunki
+seoTitle: Jouez à Fiddlebops Sprunki en ligne gratuitement | FiddleBops
 description: >-
   Fiddlebops Sprunki redonne vie au jeu Sprunki original en ajoutant une touche
   légère et fantaisiste pour une expérience moins stressante et plus amusante.
 iframeSrc: 'https://67ce9d735e0d2d9051c65366--kaleidoscopic-sundae-181ab2.netlify.app/'
 thumbnail: /new-images/thumbnails/fiddlebops-sprunki.png
+urlstr: fiddlebops-sprunki
 tags:
   - fiddlebops sprunki
   - sprunki phase 5 online

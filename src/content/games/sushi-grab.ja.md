@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Sushi Grab
+seoTitle: 無料でSushi Grabをオンラインでプレイ | FiddleBops
 description: Sushi Grabは、寿司を集める楽しいアーケードゲームです。タイミングよくクリックして寿司を掴みましょう。
 iframeSrc: 'https://sushigrab.h5games.usercontent.goog/v/0ehlec2inmmrg/'
 thumbnail: /new-images/thumbnails/sushi-grab.png
 urlstr: sushi-grab
-score: 3.9/5  (1602 votes)
 tags:
   - arcade
   - casual
   - timing
-locale: ja
+score: 3.9/5  (1602 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

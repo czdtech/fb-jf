@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Football Legends
+seoTitle: 無料でFootball Legendsをオンラインでプレイ | FiddleBops
 description: アーケードサッカーの決闘：ヘディング、ボレー、特別なショットを使って、クイックマッチやトーナメントで1対1または2対2の対戦を楽しみましょう。
 iframeSrc: 'https://webglmath.github.io/football-legends/'
 thumbnail: /new-images/thumbnails/football-legends.jpg
 urlstr: football-legends
-score: 4.3/5  (222 votes)
 tags:
   - sports
   - soccer
+score: 4.3/5  (222 votes)
 developer: ''
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

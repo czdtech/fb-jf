@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: temple-run-2
 title: Temple Run 2
+seoTitle: Spiele Temple Run 2 kostenlos online | FiddleBops
 description: >-
   Temple Run 2 ist ein Endless‑Runner-Abenteuer: Du rennst über gefährliche
   Tempelpfade, sammelst Münzen und Power-ups, weichst Fallen aus und entkommst
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://sxiao.4399.com/4399swf//upload_swf/ftp35/gamehwq/20210119/11/index.html
 thumbnail: /new-images/thumbnails/temple-run-2.jpg
+urlstr: temple-run-2
 tags:
   - endless runner
   - adventure

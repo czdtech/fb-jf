@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: speed-master
 title: Speed Master
+seoTitle: Spiele Speed Master kostenlos online | FiddleBops
 description: >-
   Speed Master ist ein präzises Reaktionsspiel: Triff eingehende Signale genau
   im Takt, kette Perfect-Treffer aneinander und bleib ruhig, wenn das Tempo
   plötzlich anzieht.
 iframeSrc: 'https://6e0ej8ct9hdj8.h5games.usercontent.goog/v/1fssfmqquil18/'
 thumbnail: /new-images/thumbnails/speed-master.png
+urlstr: speed-master
 tags:
   - action
   - casual

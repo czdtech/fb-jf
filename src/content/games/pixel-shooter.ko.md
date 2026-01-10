@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: pixel-shooter
 title: Pixel Shooter 픽셀 슈터
+seoTitle: Pixel Shooter 픽셀 슈터 무료 온라인 플레이 | FiddleBops
 description: >-
   레트로 픽셀 그래픽으로 즐기는 슈팅 액션 게임입니다. 몰려오는 적들을 쏘아 쓰러뜨리고, 파워업과 무기 업그레이드를 모아 스테이지를 돌파해
   보세요.
 iframeSrc: 'https://a.onlineigry.net/games3/igra-piksel-shuter/index.htm'
 thumbnail: /new-images/thumbnails/pixel-shooter.jpg
+urlstr: pixel-shooter
 tags:
   - shooting
   - pixel art

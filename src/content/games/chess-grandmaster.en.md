@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Chess Grandmaster"
-description: "Chess Grandmaster offers classic chess — learn openings, calculate tactics, and convert advantages with endgame fundamentals."
-iframeSrc: "https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/"
+title: Chess Grandmaster
+seoTitle: Play Chess Grandmaster Online Free | FiddleBops
+description: >-
+  Chess Grandmaster offers classic chess — learn openings, calculate tactics,
+  and convert advantages with endgame fundamentals.
+iframeSrc: 'https://6kf8oom91mt10.h5games.usercontent.goog/v/01dag2rajhv1g/'
 thumbnail: /new-images/thumbnails/chess-grandmaster.jpg
-urlstr: "chess-grandmaster"
-score: "4.5/5  (2431 votes)"
-tags: ["thinky", "puzzle"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: chess-grandmaster
+tags:
+  - thinky
+  - puzzle
+score: 4.5/5  (2431 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

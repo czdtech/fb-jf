@@ -1,14 +1,18 @@
 ---
 locale: en
-title: "Fruit Slot Machine"
-description: "Fruit Slot Machine is a classic three‑reel — spin responsibly, learn paylines, and chase features without overbetting."
-iframeSrc: "https://7f8j0t3m1ptv8.h5games.usercontent.goog/v/33cv74na0lvqg/"
+title: Fruit Slot Machine
+seoTitle: Play Fruit Slot Machine Online Free | FiddleBops
+description: >-
+  Fruit Slot Machine is a classic three‑reel — spin responsibly, learn paylines,
+  and chase features without overbetting.
+iframeSrc: 'https://7f8j0t3m1ptv8.h5games.usercontent.goog/v/33cv74na0lvqg/'
 thumbnail: /new-images/thumbnails/fruit-slot-machine.jpg
-urlstr: "fruit-slot-machine"
-score: "3.6/5  (1527 votes)"
-tags: ["casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: fruit-slot-machine
+tags:
+  - casual
+score: 3.6/5  (1527 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

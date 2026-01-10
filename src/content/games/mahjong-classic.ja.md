@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Mahjong Classic
+seoTitle: 無料でMahjong Classicをオンラインでプレイ | FiddleBops
 description: 麻雀タイルを使った定番の麻雀ソリティアです。同じ絵柄でブロックされていないタイルをペアで消し、盤面をクリアします。
 iframeSrc: 'https://mahjongclassic.h5games.usercontent.goog/v/6tue6un26r7v0/'
 thumbnail: /new-images/thumbnails/mahjong-classic.png
 urlstr: mahjong-classic
-score: 4.6/5  (2900 votes)
 tags:
   - puzzle
   - thinky
   - casual
   - card
+score: 4.6/5  (2900 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

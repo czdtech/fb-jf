@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: slope-3
 title: Slope 3
+seoTitle: Jouez à Slope 3 en ligne gratuitement | FiddleBops
 description: "Slope 3 est le dernier opus de la série Slope\_: dirige une bille lancée sur une pente infinie, profite de graphismes améliorés et affronte de nouveaux obstacles mortels tout en évitant les barrières et blocs rouges."
 iframeSrc: 'https://games-online.io/game/Slope3/'
 thumbnail: /new-images/thumbnails/slope-3.jpg
+urlstr: slope-3
 tags:
   - endless runner
   - 3d

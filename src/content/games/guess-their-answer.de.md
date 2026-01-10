@@ -1,13 +1,14 @@
 ---
 locale: de
-urlstr: guess-their-answer
-title: "Guess Their Answer"
+title: Guess Their Answer
+seoTitle: Spiele Guess Their Answer kostenlos online | FiddleBops
 description: >-
   Guess Their Answer ist ein schnelles Umfrage-Quiz: Versuche wie die Masse zu
   denken, finde die beliebtesten Antworten auf eine Frage und schlage deine
   Gegner mit möglichst breiter Abdeckung.
 iframeSrc: 'https://0s1do8fmhrn9g.h5games.usercontent.goog/v/08gmb663j6g78/'
 thumbnail: /new-images/thumbnails/guess-their-answer.png
+urlstr: guess-their-answer
 tags:
   - puzzle
   - thinky

@@ -1,0 +1,86 @@
+---
+/**
+ * Accordion Group Component
+ * A wrapper for multiple accordions with optional "only one open" behavior
+ * 
+ * Usage:
+ * <AccordionGroup exclusive={true}>
+ *   <Accordion title="Q1">Answer 1</Accordion>
+ *   <Accordion title="Q2">Answer 2</Accordion>
+ * </AccordionGroup>
+ */
+
+interface Props {
+  exclusive?: boolean;
+  class?: string;
+}
+
+const { exclusive = false, class: className = '' } = Astro.props;
+---
+
+<div class={`accordion-group ${className}`} data-accordion-group data-exclusive={exclusive ? 'true' : 'false'}>
+  <slot />
+</div>
+
+<style>
+  .accordion-group {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-sm, 8px);
+  }
+</style>
+
+<script>
+  function initAccordionGroups() {
+    const groups = document.querySelectorAll('[data-accordion-group]');
+    
+    groups.forEach((group) => {
+      if (!(group instanceof HTMLElement)) return;
+      const isExclusive = group.getAttribute('data-exclusive') === 'true';
+      
+      if (!isExclusive) return;
+
+      const groupEl = group;
+      if (groupEl.dataset.accordionGroupInitialized === 'true') return;
+      groupEl.dataset.accordionGroupInitialized = 'true';
+
+      function closeAccordion(accordion) {
+        if (!(accordion instanceof HTMLElement)) return;
+        if (!accordion.classList.contains('is-open')) return;
+        accordion.classList.remove('is-open');
+        const otherHeader = accordion.querySelector('.accordion__header');
+        const otherContent = accordion.querySelector('.accordion__content');
+        if (otherHeader) otherHeader.setAttribute('aria-expanded', 'false');
+        if (otherContent) {
+          otherContent.setAttribute('aria-hidden', 'true');
+          otherContent.toggleAttribute('inert', true);
+        }
+      }
+
+      // Event delegation: only one listener per group.
+      groupEl.addEventListener('click', (e) => {
+        const target = e.target;
+        if (!(target instanceof Element)) return;
+        const header = target.closest('.accordion__header');
+        if (!header) return;
+
+        const current = header.closest('[data-accordion]');
+        if (!current) return;
+
+        // If the clicked accordion is now open, close the others.
+        if (!current.classList.contains('is-open')) return;
+
+        const accordions = groupEl.querySelectorAll('[data-accordion]');
+        accordions.forEach((other) => {
+          if (other !== current) closeAccordion(other);
+        });
+      });
+    });
+  }
+  
+  // Initialize on load
+  initAccordionGroups();
+  
+  // Re-initialize on view transitions (Astro)
+  document.addEventListener('astro:page-load', initAccordionGroups);
+</script>

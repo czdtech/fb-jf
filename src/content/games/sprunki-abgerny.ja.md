@@ -1,13 +1,15 @@
 ---
-title: "Sprunki Abgerny - Play Sprunki Abgerny Online"
-description: "Sprunki Abgernyは民族調のサウンドを取り入れた音楽作成ゲームです。キャラクターを組み合わせて音を重ね、雰囲気のあるビートを作れます。"
-iframeSrc: "https://turbowarp.org/1095335052/embed"
-thumbnail: /new-images/thumbnails/sprunki-abgerny.png
-urlstr: "sprunki-abgerny"
-score: "3.9/5  (132 votes)"
-tags: ["sprunki abgerny"]
 locale: ja
-releaseDate: 2025-12-04
+title: Sprunki Abgerny
+seoTitle: 無料でSprunki Abgernyをオンラインでプレイ | FiddleBops
+description: Sprunki Abgernyは民族調のサウンドを取り入れた音楽作成ゲームです。キャラクターを組み合わせて音を重ね、雰囲気のあるビートを作れます。
+iframeSrc: 'https://turbowarp.org/1095335052/embed'
+thumbnail: /new-images/thumbnails/sprunki-abgerny.png
+urlstr: sprunki-abgerny
+tags:
+  - sprunki abgerny
+score: 3.9/5  (132 votes)
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 ### Sprunki Abgernyの特別なところは？

@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: chess-classic
 title: Chess Classic
+seoTitle: Juega a Chess Classic en línea gratis | FiddleBops
 description: >-
   Disfruta del ajedrez clásico con Chess Classic. Enfréntate a la IA en
   distintos niveles de dificultad y mejora tu juego movimiento a movimiento.
 iframeSrc: 'https://chessclassic.h5games.usercontent.goog/v/7hf0vulane380/'
 thumbnail: /new-images/thumbnails/chess-classic.png
+urlstr: chess-classic
 tags:
   - thinky
   - 2 player

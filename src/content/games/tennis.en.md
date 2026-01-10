@@ -1,15 +1,21 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Tennis"
-description: "Step onto the court in this classic arcade Tennis game! Grab your racket and compete against a challenging opponent. Serve, rally, and score points to win the match. It's a simple, fun, and addictive sports game for everyone."
-iframeSrc: "https://ad-freegames.github.io/flash/game/tennis.html"
+title: Tennis
+seoTitle: Play Tennis Online Free | FiddleBops
+description: >-
+  Step onto the court in this classic arcade Tennis game! Grab your racket and
+  compete against a challenging opponent. Serve, rally, and score points to win
+  the match. It's a simple, fun, and addictive sports game for everyone.
+iframeSrc: 'https://ad-freegames.github.io/flash/game/tennis.html'
 thumbnail: /new-images/thumbnails/tennis.jpg
-urlstr: "tennis"
-score: "4.7/5  (793 votes)"
-tags: ["sports", "arcade", "classic"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: tennis
+tags:
+  - sports
+  - arcade
+  - classic
+score: 4.7/5  (793 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

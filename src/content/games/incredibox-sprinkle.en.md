@@ -1,6 +1,7 @@
 ---
 locale: en
-title: Incredibox Sprinkle - Play Incredibox Sprinkle Online
+title: Incredibox Sprinkle
+seoTitle: Play Incredibox Sprinkle Online Free | FiddleBops
 description: >-
   Sprinkle is a music creation game that is simple to operate and full of fun.
   Whether you are a casual player or a fan interested in music production, you
@@ -8,11 +9,11 @@ description: >-
 iframeSrc: 'https://g.sprinkleincredibox.com/web-game/SprinkleIncredibox/index.html'
 thumbnail: /new-images/thumbnails/incredibox-sprinkle.png
 urlstr: incredibox-sprinkle
-modType: incredibox
-score: 3.8/5  (387 votes)
 tags:
   - incredibox sprinkle
   - music
+modType: incredibox
+score: 3.8/5  (387 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

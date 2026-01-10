@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: tropical-merge
 title: 《Tropical Merge》热带合成小岛
+seoTitle: 免费在线玩 《Tropical Merge》热带合成小岛 | FiddleBops
 description: 《Tropical Merge》是一款岛屿建设+合成玩法的休闲游戏。通过拖动合并相同物品，解锁更高阶建筑与资源，逐步修复和发展热带小岛。
 iframeSrc: 'https://7jdqir15djng0.h5games.usercontent.goog/v/3nm4cvs4b09jo/'
 thumbnail: /new-images/thumbnails/tropical-merge.png
+urlstr: tropical-merge
 tags:
   - merge
   - building

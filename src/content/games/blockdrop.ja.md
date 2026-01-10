@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: BlockDrop ブロックドロップ
+seoTitle: 無料でBlockDrop ブロックドロップをオンラインでプレイ | FiddleBops
 description: >-
   「BlockDrop」はクラシックでリラックスできるブロックパズル。10x10のグリッドに形をはめてラインを消そう。シンプルだけど奥深い、ハイスコアを目指す戦略ガイド。
 iframeSrc: 'https://51vi4vae20f8o.h5games.usercontent.goog/v/66bqinuuh36b8/'
 thumbnail: /new-images/thumbnails/blockdrop.png
 urlstr: blockdrop
-score: 4.3/5  (2200 votes)
 tags:
   - puzzle
   - thinky
   - casual
+score: 4.3/5  (2200 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

@@ -1,18 +1,19 @@
 ---
 locale: en
-title: Sprunki Phase 5 - Play Sprunki Phase 5 Online
+title: Sprunki Phase 5
+seoTitle: Play Sprunki Phase 5 Online Free | FiddleBops
 description: >-
   Sprunki Phase 5 is a fan-made music-creation game that blends rhythm-based
   creativity with a spooky, atmospheric twist.
 iframeSrc: 'https://sprunki-phase-5-ekz.pages.dev/'
 thumbnail: /new-images/thumbnails/sprunki-phase-5.png
 urlstr: sprunki-phase-5
-modType: sprunki
-score: 4.0/5  (604 votes)
 tags:
   - sprunki phase 5
   - sprunki phase 5 online
   - music
+modType: sprunki
+score: 4.0/5  (604 votes)
 releaseDate: 2025-12-04T00:00:00.000Z
 ---
 

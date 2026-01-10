@@ -1,15 +1,22 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "Who Is? Game"
-description: "Test your detective skills and challenge your brain in Who Is? Game! Solve tricky riddles, identify imposters, and find hidden clues in over a hundred unique scenarios. This mind-bending puzzle game requires out-of-the-box thinking and keen observation to uncover the truth."
-iframeSrc: "https://rebemanae.github.io/who-is/"
+title: Who Is? Game
+seoTitle: Play Who Is? Game Online Free | FiddleBops
+description: >-
+  Test your detective skills and challenge your brain in Who Is? Game! Solve
+  tricky riddles, identify imposters, and find hidden clues in over a hundred
+  unique scenarios. This mind-bending puzzle game requires out-of-the-box
+  thinking and keen observation to uncover the truth.
+iframeSrc: 'https://rebemanae.github.io/who-is/'
 thumbnail: /new-images/thumbnails/who-is.jpg
-urlstr: "who-is"
-score: "4.1/5  (907 votes)"
-tags: ["puzzle", "riddle", "brain-teaser"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: who-is
+tags:
+  - puzzle
+  - riddle
+  - brain-teaser
+score: 4.1/5  (907 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 <!-- i18n:section:introduction -->

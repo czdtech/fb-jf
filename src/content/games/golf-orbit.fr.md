@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: golf-orbit
 title: Golf Orbit
+seoTitle: Jouez à Golf Orbit en ligne gratuitement | FiddleBops
 description: >-
   Golf Orbit transforme le golf en puzzle de vol physique : règle ton angle de
   lancement, gère l’effet et profite de la gravité des planètes pour des
   trajectoires longues et stratégiques.
 iframeSrc: 'https://7e0r297sgk0j0.h5games.usercontent.goog/v/1976bdao4gtf0/'
 thumbnail: /new-images/thumbnails/golf-orbit.png
+urlstr: golf-orbit
 tags:
   - sports
   - puzzle

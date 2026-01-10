@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: gunspin
 title: Gunspin
+seoTitle: Jouez à Gunspin en ligne gratuitement | FiddleBops
 description: >-
   Jeu d’arcade basé sur le recul : tire pour faire tourner ton arme et te
   propulser, récupère des munitions et voyage le plus loin possible tout en
   évitant les dangers.
 iframeSrc: 'https://ubg44.github.io/GunSpin/'
 thumbnail: /new-images/thumbnails/gunspin.jpg
+urlstr: gunspin
 tags:
   - arcade
   - physics

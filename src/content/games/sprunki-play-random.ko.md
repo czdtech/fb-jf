@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: sprunki-play-random
 title: Sprunki Play Random 스프룽키 플레이 랜덤
+seoTitle: Sprunki Play Random 스프룽키 플레이 랜덤 무료 온라인 플레이 | FiddleBops
 description: >-
   Sprunki Play Random은 매번 다른 사운드가 나오는 랜덤 요소가 핵심인 음악 제작 모드입니다. 어떤 캐릭터에서 어떤 소리가
   나올지 모르는 채, 우연을 활용해 나만의 트랙을 완성해 보세요.
 iframeSrc: 'https://turbowarp.org/1148555262/embed'
 thumbnail: /new-images/thumbnails/sprunki-play-random.png
+urlstr: sprunki-play-random
 tags:
   - sprunki play random
   - sprunki play random online

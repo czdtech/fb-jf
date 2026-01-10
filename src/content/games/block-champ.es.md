@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: block-champ
 title: Block Champ
+seoTitle: Juega a Block Champ en línea gratis | FiddleBops
 description: >-
   Pon a prueba tu mente estratégica con Block Champ, un puzle en una cuadrícula
   de 10x10. Coloca las piezas para limpiar líneas, domina los bloques especiales
@@ -9,6 +9,7 @@ description: >-
   puzle.
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/block-champ/'
 thumbnail: /new-images/thumbnails/block-champ.jpg
+urlstr: block-champ
 tags:
   - puzzle
   - board Game

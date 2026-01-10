@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: tower-mania
 title: Tower Mania
+seoTitle: Jouez à Tower Mania en ligne gratuitement | FiddleBops
 description: >-
   Tower Mania : construis la tour la plus haute en empilant soigneusement les
   blocs, mais attention aux oscillations et aux effondrements !
 iframeSrc: 'https://49pvu1mm0ofc0.h5games.usercontent.goog/v/4apam1d97c7mo/'
 thumbnail: /new-images/thumbnails/tower-mania.png
+urlstr: tower-mania
 tags:
   - casual
   - puzzle

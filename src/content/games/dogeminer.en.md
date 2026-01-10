@@ -1,15 +1,19 @@
 ---
 locale: en
-# Frontmatter: 遵循上面 config.ts 中定义的 schema
-title: "DogeMiner"
-description: "DogeMiner is an idle clicker: mine coins, buy upgrades and helpers, and automate production to earn faster."
-iframeSrc: "https://edufall.github.io/o16/doge-miner/"
+title: DogeMiner
+seoTitle: Play DogeMiner Online Free | FiddleBops
+description: >-
+  DogeMiner is an idle clicker: mine coins, buy upgrades and helpers, and
+  automate production to earn faster.
+iframeSrc: 'https://edufall.github.io/o16/doge-miner/'
 thumbnail: /new-images/thumbnails/dogeminer.jpg
-urlstr: "dogeminer"
-score: "4.2/5  (905 votes)"
-tags: ["idle", "clicker"]
-developer: ""
-releaseDate: 2025-08-16
+urlstr: dogeminer
+tags:
+  - idle
+  - clicker
+score: 4.2/5  (905 votes)
+developer: ''
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 

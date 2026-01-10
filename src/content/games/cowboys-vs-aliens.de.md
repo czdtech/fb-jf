@@ -1,7 +1,7 @@
 ---
 locale: de
-urlstr: cowboys-vs-aliens
 title: Cowboys vs Aliens
+seoTitle: Spiele Cowboys vs Aliens kostenlos online | FiddleBops
 description: >-
   Ein Guide zum Cowboy-vs.-Aliens-Setting: In dieser Action-Shooter-Variante
   verteidigst du den Wilden Westen gegen außerirdische Invasoren – mit Tipps zu
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://app-183000.games.s3.yandex.net/183000/ej1ob1cdiuv0fq3vw88l1k7pakdngmk7/index.html
 thumbnail: /new-images/thumbnails/cowboys-vs-aliens.jpg
+urlstr: cowboys-vs-aliens
 tags:
   - action
   - shooting

@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Thruline
+seoTitle: 無料でThrulineをオンラインでプレイ | FiddleBops
 description: Thrulineは、線をつなぐパズルゲームです。すべての点を一筆書きでつなぎましょう。
 iframeSrc: 'https://4bl9sdeaqndto.h5games.usercontent.goog/v/4qierjmnf0kng/'
 thumbnail: /new-images/thumbnails/thruline.jpg
 urlstr: thruline
-score: 4.1/5  (1983 votes)
 tags:
   - puzzle
   - logic
   - drawing
-locale: ja
+score: 4.1/5  (1983 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

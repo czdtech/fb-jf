@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Jewel Duel"
-description: "Jewel Duel mixes match‑3 with RPG — swap to attack/defend, trigger skills, and break shields with tactical matches."
-iframeSrc: "https://5f4e2d55f2dt8.h5games.usercontent.goog/v/36105ruk0rln0/"
+title: Jewel Duel
+seoTitle: Play Jewel Duel Online Free | FiddleBops
+description: >-
+  Jewel Duel mixes match‑3 with RPG — swap to attack/defend, trigger skills, and
+  break shields with tactical matches.
+iframeSrc: 'https://5f4e2d55f2dt8.h5games.usercontent.goog/v/36105ruk0rln0/'
 thumbnail: /new-images/thumbnails/jewel-duel.jpg
-urlstr: "jewel-duel"
-score: "4.2/5  (2052 votes)"
-tags: ["puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: jewel-duel
+tags:
+  - puzzle
+  - thinky
+score: 4.2/5  (2052 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

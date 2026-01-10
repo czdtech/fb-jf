@@ -1,15 +1,16 @@
 ---
+locale: ja
 title: Zoo Boom
+seoTitle: 無料でZoo Boomをオンラインでプレイ | FiddleBops
 description: Zoo Boomは、動物マッチングパズルゲームです。同じ動物を揃えて消しましょう。
 iframeSrc: 'https://zooboom.h5games.usercontent.goog/v/4g2tps61g9djg/'
 thumbnail: /new-images/thumbnails/zoo-boom.png
 urlstr: zoo-boom
-score: 4.5/5  (2050 votes)
 tags:
   - puzzle
   - match-3
   - animals
-locale: ja
+score: 4.5/5  (2050 votes)
 releaseDate: 2025-10-18T00:00:00.000Z
 ---
 

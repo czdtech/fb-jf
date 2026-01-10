@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: hole-io
 title: Hole io 홀.io 블랙홀 배틀
+seoTitle: Hole io 홀.io 블랙홀 배틀 무료 온라인 플레이 | FiddleBops
 description: >-
   도시 곳곳의 물체를 빨아들이며 커지는 블랙홀.io 게임입니다. 작은 물체부터 차·건물까지 삼키며 몸집을 키우고, 다른 플레이어보다 더 많은
   점수를 얻거나 직접 집어삼켜 탈락시키세요.
 iframeSrc: 'https://holeio.com/'
 thumbnail: /new-images/thumbnails/hole-io.jpg
+urlstr: hole-io
 tags:
   - io
   - arcade

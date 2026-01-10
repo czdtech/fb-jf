@@ -1,13 +1,14 @@
 ---
 locale: fr
-urlstr: bejeweled
-title: Bejeweled - Jouer à Bejeweled en ligne
+title: Bejeweled
+seoTitle: Jouez à Bejeweled en ligne gratuitement | FiddleBops
 description: >-
   Bejeweled est le match‑3 culte où tu échanges des gemmes adjacentes pour
   aligner des séries, déclencher des cascades et créer des gemmes spéciales
   explosives.
 iframeSrc: 'https://files.acticdn.com/278374/30464/index.html'
 thumbnail: /new-images/thumbnails/bejeweled.png
+urlstr: bejeweled
 tags:
   - bejeweled
   - puzzle

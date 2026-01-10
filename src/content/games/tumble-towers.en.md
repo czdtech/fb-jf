@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Tumble Towers"
-description: "Tumble Towers is a physics stack‑and‑drop — balance blocks, control overhangs, and build stable towers that survive gravity checks."
-iframeSrc: "https://786ndsslg99r8.h5games.usercontent.goog/v/70bavan56u08g/"
+title: Tumble Towers
+seoTitle: Play Tumble Towers Online Free | FiddleBops
+description: >-
+  Tumble Towers is a physics stack‑and‑drop — balance blocks, control overhangs,
+  and build stable towers that survive gravity checks.
+iframeSrc: 'https://786ndsslg99r8.h5games.usercontent.goog/v/70bavan56u08g/'
 thumbnail: /new-images/thumbnails/tumble-towers.png
-urlstr: "tumble-towers"
-score: "3.9/5  (1742 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: tumble-towers
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 3.9/5  (1742 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

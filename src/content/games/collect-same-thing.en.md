@@ -1,14 +1,20 @@
 ---
 locale: en
-title: "Collect Same Thing"
-description: "Collect Same Thing is a tidy pairing game — find identical items, clear the board, and plan around limited space."
-iframeSrc: "https://01cqom45rtuoo.h5games.usercontent.goog/v/6t1iulpqr6t5g/"
+title: Collect Same Thing
+seoTitle: Play Collect Same Thing Online Free | FiddleBops
+description: >-
+  Collect Same Thing is a tidy pairing game — find identical items, clear the
+  board, and plan around limited space.
+iframeSrc: 'https://01cqom45rtuoo.h5games.usercontent.goog/v/6t1iulpqr6t5g/'
 thumbnail: /new-images/thumbnails/collect-same-thing.png
-urlstr: "collect-same-thing"
-score: "3.8/5  (1582 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: collect-same-thing
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 3.8/5  (1582 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

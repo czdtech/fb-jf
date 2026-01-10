@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: ducklings
 title: Ducklings
+seoTitle: Jouez à Ducklings en ligne gratuitement | FiddleBops
 description: "Ducklings est un jeu relax de collecte\_: sauve des canetons sur l’eau et ramène‑les en sécurité au nid."
 iframeSrc: 'https://g2.igroutka.ru/games/164/BkDlKfiWjEoZ2rcG/ducklings_io/'
 thumbnail: /new-images/thumbnails/ducklings.jpg
+urlstr: ducklings
 tags:
   - casual
   - arcade

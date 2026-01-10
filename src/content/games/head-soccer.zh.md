@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: head-soccer
 title: 《Head Soccer》大头足球对战
+seoTitle: 免费在线玩 《Head Soccer》大头足球对战 | FiddleBops
 description: 《Head Soccer》是一款节奏明快的 1v1 街机足球游戏，大头角色在小场地上对拼，你要通过跳跃、射门和必杀技，在短时间内比对手进更多球。
 iframeSrc: 'https://1games.io/game/head-soccer-2024/'
 thumbnail: /new-images/thumbnails/head-soccer.jpg
+urlstr: head-soccer
 tags:
   - sports
   - soccer

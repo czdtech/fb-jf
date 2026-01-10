@@ -1,13 +1,17 @@
 ---
-title: "Treasure Hunter"
-description: "Treasure Hunterは、宝探しアドベンチャーゲームです。宝を見つけて障害物を避けましょう。"
-iframeSrc: "https://m.igroutka.ru/g-1/149/TreasureHunter/"
-thumbnail: /new-images/thumbnails/treasure-hunter.jpg
-urlstr: "treasure-hunter"
-score: "4.6/5  (1294 votes)"
-tags: ["adventure", "puzzle", "exploration"]
 locale: ja
-releaseDate: 2025-08-16
+title: Treasure Hunter
+seoTitle: 無料でTreasure Hunterをオンラインでプレイ | FiddleBops
+description: Treasure Hunterは、宝探しアドベンチャーゲームです。宝を見つけて障害物を避けましょう。
+iframeSrc: 'https://m.igroutka.ru/g-1/149/TreasureHunter/'
+thumbnail: /new-images/thumbnails/treasure-hunter.jpg
+urlstr: treasure-hunter
+tags:
+  - adventure
+  - puzzle
+  - exploration
+score: 4.6/5  (1294 votes)
+releaseDate: 2025-08-16T00:00:00.000Z
 ---
 
 ### ゲーム紹介

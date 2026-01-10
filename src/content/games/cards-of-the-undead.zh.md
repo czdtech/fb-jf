@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: cards-of-the-undead
 title: Cards of the Undead 不死牌局
+seoTitle: 免费在线玩 Cards of the Undead 不死牌局 | FiddleBops
 description: >-
   《Cards of the Undead 不死牌局》是一款带 Roguelike 元素的卡牌策略游戏，在末日世界中合理打出攻击、防御与技能
   卡，抵御一波波亡灵敌人。
 iframeSrc: 'https://4afojpng981kg.h5games.usercontent.goog/v/1ge6qnd6h4ss0/'
 thumbnail: /new-images/thumbnails/cards-of-the-undead.png
+urlstr: cards-of-the-undead
 tags:
   - card
   - strategy

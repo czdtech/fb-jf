@@ -1,17 +1,18 @@
 ---
+locale: ja
 title: Rampage Road
+seoTitle: 無料でRampage Roadをオンラインでプレイ | FiddleBops
 description: Rampage Roadは破壊要素のあるレーシングゲームです。車を運転して障害物を壊し、スコアを稼ぎます。
 iframeSrc: 'https://3a73fjju0knmg.h5games.usercontent.goog/v/5ammj72815kno/'
 thumbnail: /new-images/thumbnails/rampage-road.png
 urlstr: rampage-road
-score: 3.9/5  (1753 votes)
 tags:
   - action
   - racing
   - casual
+score: 3.9/5  (1753 votes)
 developer: ''
 releaseDate: 2025-10-18T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

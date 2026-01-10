@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Hex Puzzle"
-description: "A challenging and addictive block puzzle on a hexagonal grid. Drag and drop the hexa blocks to create and clear full lines in any direction. Plan your moves, as blocks cannot be rotated!"
-iframeSrc: "https://blockpuzzle.h5games.usercontent.goog/v/3rkr8c5j9b23o/"
+title: Hex Puzzle
+seoTitle: Play Hex Puzzle Online Free | FiddleBops
+description: >-
+  A challenging and addictive block puzzle on a hexagonal grid. Drag and drop
+  the hexa blocks to create and clear full lines in any direction. Plan your
+  moves, as blocks cannot be rotated!
+iframeSrc: 'https://blockpuzzle.h5games.usercontent.goog/v/3rkr8c5j9b23o/'
 thumbnail: /new-images/thumbnails/hex-puzzle.jpg
-urlstr: "hex-puzzle"
-score: "4.4/5  (2450 votes)"
-tags: ["puzzle", "thinky", "casual"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: hex-puzzle
+tags:
+  - puzzle
+  - thinky
+  - casual
+score: 4.4/5  (2450 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

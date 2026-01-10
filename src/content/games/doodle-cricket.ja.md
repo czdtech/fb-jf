@@ -1,16 +1,17 @@
 ---
+locale: ja
 title: Doodle Cricket ドゥードゥル・クリケット
+seoTitle: 無料でDoodle Cricket ドゥードゥル・クリケットをオンラインでプレイ | FiddleBops
 description: 「Doodle Cricket」手軽に遊べるクリケットのミニゲーム。タイミングよくスイングしてランを稼ぎ、アウトを避けながらハイスコアを目指そう。
 iframeSrc: 'https://f3.silvergames.com/m/doodle-cricket/'
 thumbnail: /new-images/thumbnails/doodle-cricket.jpg
 urlstr: doodle-cricket
-score: 4.2/5  (485 votes)
 tags:
   - sports
   - arcade
+score: 4.2/5  (485 votes)
 developer: Google
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

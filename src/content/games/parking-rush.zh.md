@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: parking-rush
 title: 《Parking Rush》画线停车管制
+seoTitle: 免费在线玩 《Parking Rush》画线停车管制 | FiddleBops
 description: 《Parking Rush》是一款画线式停车解谜游戏，你需要为每辆车划定行驶路线，让它们安全驶入对应颜色的车位，同时避免在路线上发生碰撞。
 iframeSrc: 'https://7nq79vktk8fho.h5games.usercontent.goog/v/4u3a6m3hm9lj8/'
 thumbnail: /new-images/thumbnails/parking-rush.png
+urlstr: parking-rush
 tags:
   - puzzle
   - driving

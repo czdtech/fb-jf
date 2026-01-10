@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: footchinko
 title: Footchinko 足球柏青哥
+seoTitle: 免费在线玩 Footchinko 足球柏青哥 | FiddleBops
 description: 在 Footchinko 体验足球与柏青哥结合的独特玩法！投下足球、撞击钉子与弹板， 朝球门与高分奖励前进。
 iframeSrc: 'https://footchinko2.h5games.usercontent.goog/v/3iniom5rsklno/'
 thumbnail: /new-images/thumbnails/footchinko.jpg
+urlstr: footchinko
 tags:
   - sports
   - casual

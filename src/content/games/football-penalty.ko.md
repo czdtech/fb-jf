@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: football-penalty
 title: Football Penalty 풋볼 페널티
+seoTitle: Football Penalty 풋볼 페널티 무료 온라인 플레이 | FiddleBops
 description: >-
   Football Penalty는 페널티킥 상황에만 집중한 축구 게임으로, 슈터로서는 코스와 높이, 파워를 정해 골키퍼를 속이고, 골키퍼로서는
   슈터의 움직임을 읽어 방향을 맞춰야 합니다. 압박 속에서 침착하게 한 골 한 골을 성공시키세요.
 iframeSrc: 'https://2fb6vjapfstro.h5games.usercontent.goog/v/5443q25keq2qg/'
 thumbnail: /new-images/thumbnails/football-penalty.png
+urlstr: football-penalty
 tags:
   - sports
   - soccer

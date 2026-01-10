@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: pac-man
 title: PAC-MAN 팩맨
+seoTitle: PAC-MAN 팩맨 무료 온라인 플레이 | FiddleBops
 description: >-
   PAC-MAN은 노란 주인공 팩맨을 조종해 미로 속 모든 점을 먹으며, 네 마리 유령을 피해 달아나야 하는 클래식 아케이드 미로 게임입니다.
   파워 펠릿을 먹으면 잠시 동안 유령을 되려 먹을 수 있습니다.
 iframeSrc: 'https://bward2.github.io/pacman-js/'
 thumbnail: /new-images/thumbnails/pac-man.jpg
+urlstr: pac-man
 tags:
   - arcade
   - maze

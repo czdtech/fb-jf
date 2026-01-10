@@ -1,13 +1,14 @@
 ---
 locale: ko
-urlstr: soccer-random
 title: Soccer Random 사커 랜덤
+seoTitle: Soccer Random 사커 랜덤 무료 온라인 플레이 | FiddleBops
 description: >-
   Soccer Random는 단 하나의 버튼만으로 점프와 슛을 수행하는 물리 기반 축구 게임으로, 매 골마다 경기장, 공, 선수 모습이
   랜덤으로 바뀌는 혼돈의 풋볼 파티입니다. 먼저 5골을 넣는 쪽이 승리합니다.
 iframeSrc: >-
   https://app-197306.games.s3.yandex.net/197306/b1dbvmcde0oog4ebj00rinxr3e367fl4/index.html
 thumbnail: /new-images/thumbnails/soccer-random.jpg
+urlstr: soccer-random
 tags:
   - 2-player
   - physics

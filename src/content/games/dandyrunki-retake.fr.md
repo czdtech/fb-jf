@@ -1,16 +1,19 @@
 ---
 locale: fr
-urlstr: dandyrunki-retake
 title: Dandyrunki Retake
-description: "Dandyrunki Retake est une version remix musicale accessible : explore rythmes et mélodies, et compose facilement des morceaux dans ton navigateur."
+seoTitle: Jouez à Dandyrunki Retake en ligne gratuitement | FiddleBops
+description: >-
+  Dandyrunki Retake est une version remix musicale accessible : explore rythmes
+  et mélodies, et compose facilement des morceaux dans ton navigateur.
 iframeSrc: 'https://turbowarp.org/1126924449/embed'
 thumbnail: /new-images/thumbnails/dandyrunki-retake.png
+urlstr: dandyrunki-retake
 tags:
   - dandyrunki retake
   - dandyrunki retake online
   - music
 score: 3.7/5  (255 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

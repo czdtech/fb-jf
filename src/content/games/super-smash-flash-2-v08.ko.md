@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: super-smash-flash-2-v08
 title: Super Smash Flash 2 v0.8 슈퍼 스매시 플래시 2 v0.8
+seoTitle: Super Smash Flash 2 v0.8 슈퍼 스매시 플래시 2 v0.8 무료 온라인 플레이 | FiddleBops
 description: >-
   Super Smash Flash 2 v0.8은 여러 게임·애니 캐릭터가 한 무대에서 싸우는 팬 메이드 대전 액션 게임의 구버전입니다. 간단한
   조작으로 최대 4인이 난투를 벌일 수 있습니다.
 iframeSrc: 'https://kdata1.com/games/SSF22/?kbhgames'
 thumbnail: /new-images/thumbnails/super-smash-flash-2-v08.jpg
+urlstr: super-smash-flash-2-v08
 tags:
   - fighting
   - action

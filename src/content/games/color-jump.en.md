@@ -1,14 +1,19 @@
 ---
 locale: en
-title: "Color Jump"
-description: "Color Jump is a one‑tap runner — match colors, time jumps, and thread through shifting patterns."
-iframeSrc: "https://2sqb7s6hkuouo.h5games.usercontent.goog/v/251huhkdnons0/"
+title: Color Jump
+seoTitle: Play Color Jump Online Free | FiddleBops
+description: >-
+  Color Jump is a one‑tap runner — match colors, time jumps, and thread through
+  shifting patterns.
+iframeSrc: 'https://2sqb7s6hkuouo.h5games.usercontent.goog/v/251huhkdnons0/'
 thumbnail: /new-images/thumbnails/color-jump.png
-urlstr: "color-jump"
-score: "3.9/5  (1691 votes)"
-tags: ["action", "casual"]
-developer: ""
-releaseDate: 2025-10-18
+urlstr: color-jump
+tags:
+  - action
+  - casual
+score: 3.9/5  (1691 votes)
+developer: ''
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

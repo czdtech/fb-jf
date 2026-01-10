@@ -1,12 +1,13 @@
 ---
 locale: fr
-urlstr: there-is-no-game
 title: There is no game
+seoTitle: Jouez à There is no game en ligne gratuitement | FiddleBops
 description: >-
   There is no game est une aventure meta-puzzle unique : defie un narrateur
   sarcastique, brise le quatrieme mur et resous des puzzles non conventionnels.
 iframeSrc: 'https://webglmath.github.io/there-is-no-game/'
 thumbnail: /new-images/thumbnails/there-is-no-game.jpg
+urlstr: there-is-no-game
 tags:
   - puzzle
   - adventure

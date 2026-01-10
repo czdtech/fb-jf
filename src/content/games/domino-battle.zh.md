@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: domino-battle
 title: Domino Battle 多米诺对战
+seoTitle: 免费在线玩 Domino Battle 多米诺对战 | FiddleBops
 description: 在《Domino Battle 多米诺对战》中，你将与电脑一对一比拼传统多米诺玩法。通过巧妙出牌 和阻断布局，率先打光手牌赢下每一局。
 iframeSrc: 'https://dominobattle.h5games.usercontent.goog/v/45fvkhcnai3s0/'
 thumbnail: /new-images/thumbnails/domino-battle.png
+urlstr: domino-battle
 tags:
   - card
   - puzzle

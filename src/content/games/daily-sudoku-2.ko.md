@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: daily-sudoku-2
 title: Daily Sudoku 데일리 스도쿠
+seoTitle: Daily Sudoku 데일리 스도쿠 무료 온라인 플레이 | FiddleBops
 description: >-
   매일 새로운 9x9 스도쿠 퍼즐로 논리력을 시험해 보세요. 각 가로줄, 세로줄, 3x3 박스에 1부터 9까지 숫자가 한 번씩만 들어가도록
   격자를 채우면 됩니다.
 iframeSrc: 'https://4j6utu2p6fklg.h5games.usercontent.goog/v/6qh61gl4k3ado/'
 thumbnail: /new-images/thumbnails/daily-sudoku-2.png
+urlstr: daily-sudoku-2
 tags:
   - puzzle
   - thinky

@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Idle Explorers
+seoTitle: 無料でIdle Explorersをオンラインでプレイ | FiddleBops
 description: >-
   探検家チームを管理し、採掘帝国を自動化しましょう！労働者をアップグレードし、新しい発掘サイトをアンロックし、希少な遺物を発見する、中毒性のある放置アドベンチャーです。
 iframeSrc: 'https://5ik68qrla8g6g.h5games.usercontent.goog/v/1vuib5ibuof0g/'
 thumbnail: /new-images/thumbnails/idle-explorers.png
 urlstr: idle-explorers
-score: 4.4/5  (2400 votes)
 tags:
   - casual
   - clicker
   - strategy
+score: 4.4/5  (2400 votes)
 developer: ''
 releaseDate: 2025-10-17T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

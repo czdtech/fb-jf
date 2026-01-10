@@ -1,12 +1,13 @@
 ---
 locale: ko
-urlstr: aquaparkio
 title: Aquapark io 아쿠아파크.io
+seoTitle: Aquapark io 아쿠아파크.io 무료 온라인 플레이 | FiddleBops
 description: >-
   거대한 워터슬라이드를 미끄러져 가장 먼저 결승에 도착하는 하이퍼 캐주얼 레이싱 게임입니다. 상대를 밀어 떨어뜨리고, 공중으로 날아가 지름길을
   노려 승리를 거머쥐세요.
 iframeSrc: 'https://bitlifeonline.github.io/class23523/aquaparkio/'
 thumbnail: /new-images/thumbnails/aquaparkio.jpg
+urlstr: aquaparkio
 tags:
   - casual
   - racing

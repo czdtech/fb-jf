@@ -1,12 +1,15 @@
 ---
 locale: es
-urlstr: basketball-master-2
 title: Basketball Master 2 práctica de tiro a canasta
+seoTitle: >-
+  Juega a Basketball Master 2 práctica de tiro a canasta en línea gratis |
+  FiddleBops
 description: >-
   Basketball Master 2 es un juego centrado en perfeccionar tu tiro. Apunta,
   lanza y rompe obstáculos para encestar en niveles cada vez más desafiantes.
 iframeSrc: 'https://basketballmaster2.h5games.usercontent.goog/v/267j5oehq25q0/'
 thumbnail: /new-images/thumbnails/basketball-master-2.png
+urlstr: basketball-master-2
 tags:
   - sports
   - basketball

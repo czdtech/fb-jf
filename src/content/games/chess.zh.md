@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: chess
 title: Chess 国际象棋基础指南
+seoTitle: 免费在线玩 Chess 国际象棋基础指南 | FiddleBops
 description: >-
   通过这份《Chess 国际象棋基础指南》系统学习国际象棋的规则、棋子走法与常见策略。规
   划每一步落子、掌控整盘局面，在攻守转换中将死对手的国王，赢下这款经久不衰的经典 桌游。
 iframeSrc: 'https://ams.cdn.arkadiumhosted.com/assets/global/game/chess/'
 thumbnail: /new-images/thumbnails/chess.jpg
+urlstr: chess
 tags:
   - strategy
   - puzzle

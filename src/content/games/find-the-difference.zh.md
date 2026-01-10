@@ -1,10 +1,11 @@
 ---
 locale: zh
-urlstr: find-the-difference
 title: Find the Difference 经典找不同
+seoTitle: 免费在线玩 Find the Difference 经典找不同 | FiddleBops
 description: 锻炼眼力与细节感知！在《Find the Difference》中比较两张近乎相同的图片， 在时间耗尽前找出所有差异。
 iframeSrc: 'https://findthedifference.h5games.usercontent.goog/v/0tambv0iojsn8/'
 thumbnail: /new-images/thumbnails/find-the-difference.jpg
+urlstr: find-the-difference
 tags:
   - puzzle
   - casual

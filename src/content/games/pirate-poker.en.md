@@ -1,14 +1,21 @@
 ---
 locale: en
-title: "Pirate Poker"
-description: "Ahoy! Bet, bluff, and build the best five-card hand in Pirate Poker. Challenge salty sea dogs, manage your doubloons, and prove you're the sharpest card shark on the seven seas."
-iframeSrc: "https://6ghou5c7rjb9g.h5games.usercontent.goog/v/2n3b0c56pikmo/"
+title: Pirate Poker
+seoTitle: Play Pirate Poker Online Free | FiddleBops
+description: >-
+  Ahoy! Bet, bluff, and build the best five-card hand in Pirate Poker. Challenge
+  salty sea dogs, manage your doubloons, and prove you're the sharpest card
+  shark on the seven seas.
+iframeSrc: 'https://6ghou5c7rjb9g.h5games.usercontent.goog/v/2n3b0c56pikmo/'
 thumbnail: /new-images/thumbnails/pirate-poker.png
-urlstr: "pirate-poker"
-score: "4.3/5  (2200 votes)"
-tags: ["card", "puzzle", "thinky"]
-developer: ""
-releaseDate: 2025-10-17
+urlstr: pirate-poker
+tags:
+  - card
+  - puzzle
+  - thinky
+score: 4.3/5  (2200 votes)
+developer: ''
+releaseDate: 2025-10-17T00:00:00.000Z
 ---
 
 

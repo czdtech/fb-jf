@@ -1,17 +1,17 @@
 ---
 locale: ko
-urlstr: sprunki-clicker
-title: 'Sprunki Clicker 스프룽키 클릭커'
+title: Sprunki Clicker 스프룽키 클릭커
+seoTitle: Sprunki Clicker 스프룽키 클릭커 무료 온라인 플레이 | FiddleBops
 description: >-
-  Sprunki Clicker는 클릭할 때마다 새로운 사운드 레이어가 얹히는 음악 클릭커
-  게임입니다. 클릭으로 에너지를 모으고, 스프룽키 스타일 캐릭터와 음원을
-  해금해 나만의 사운드 심포니를 완성해 보세요.
+  Sprunki Clicker는 클릭할 때마다 새로운 사운드 레이어가 얹히는 음악 클릭커 게임입니다. 클릭으로 에너지를 모으고, 스프룽키
+  스타일 캐릭터와 음원을 해금해 나만의 사운드 심포니를 완성해 보세요.
 iframeSrc: 'https://1games.io/game/sprunki-clicker/'
 thumbnail: /new-images/thumbnails/sprunki-clicker.png
+urlstr: sprunki-clicker
 tags:
   - sprunki clicker
 score: 4.7/5  (524 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

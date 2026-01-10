@@ -1,12 +1,13 @@
 ---
 locale: zh
-urlstr: there-is-no-game
 title: 《There Is No Game》这里没有游戏
+seoTitle: 免费在线玩 《There Is No Game》这里没有游戏 | FiddleBops
 description: >-
   《There Is No Game》是一款极具 meta
   风格的解谜/互动作品。屏幕上的“旁白”不断告诉你这里没有游戏，而你要通过各种反常操作打破规则，发现隐藏的玩法与故事。
 iframeSrc: 'https://webglmath.github.io/there-is-no-game/'
 thumbnail: /new-images/thumbnails/there-is-no-game.jpg
+urlstr: there-is-no-game
 tags:
   - puzzle
   - meta

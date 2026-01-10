@@ -1,18 +1,18 @@
 ---
 locale: ko
-urlstr: sprunki-pyramixed
-title: "Sprunki Pyramixed 0.9 스프룽키 피라믹스 0.9 온라인"
+title: Sprunki Pyramixed 0.9 스프룽키 피라믹스 0.9
+seoTitle: Sprunki Pyramixed 0.9 스프룽키 피라믹스 0.9 무료 온라인 플레이 | FiddleBops
 description: >-
-  Sprunkgerny Pyramixed 0.9는 리듬 플레이와 캐릭터 커스터마이징을 결합한 음악 제작 게임으로,
-  다양한 캐릭터와 사운드를 조합해 자신만의 곡과 아바타를 만들 수 있는 Sprunki 세계의
-  초기 버전입니다.
+  Sprunkgerny Pyramixed 0.9는 리듬 플레이와 캐릭터 커스터마이징을 결합한 음악 제작 게임으로, 다양한 캐릭터와 사운드를
+  조합해 자신만의 곡과 아바타를 만들 수 있는 Sprunki 세계의 초기 버전입니다.
 iframeSrc: 'https://turbowarp.org/1144118565/embed'
 thumbnail: /new-images/thumbnails/sprunki-pyramixed.png
+urlstr: sprunki-pyramixed
 tags:
   - sprunki pyramixed 0.9
   - sprunki pyramixed 0.9 online
 score: 4.7/5  (455 votes)
-releaseDate: 2025-12-04
+releaseDate: 2025-12-04T00:00:00.000Z
 ---
 
 

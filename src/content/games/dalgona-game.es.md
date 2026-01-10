@@ -1,12 +1,13 @@
 ---
 locale: es
-urlstr: dalgona-game
 title: Dalgona Game
+seoTitle: Juega a Dalgona Game en línea gratis | FiddleBops
 description: >-
   Dalgona Game recrea el reto de recortar dalgona: perfila con cuidado la forma,
   controla las grietas y termina antes de que se agote el tiempo.
 iframeSrc: 'https://12d729aggg2h0.h5games.usercontent.goog/v/786aa9qgft3vo/'
 thumbnail: /new-images/thumbnails/dalgona-game.png
+urlstr: dalgona-game
 tags:
   - casual
   - thinky

@@ -1,10 +1,11 @@
 ---
 locale: fr
-urlstr: rooftop-snipers-2
 title: Rooftop Snipers 2
+seoTitle: Jouez à Rooftop Snipers 2 en ligne gratuitement | FiddleBops
 description: "Rooftop Snipers 2 est un jeu de tir basé sur la physique, complètement déjanté\_: deux personnages bâtons s’affrontent sur des toits et tentent de se faire tomber dans le vide à coups d’armes aux réactions imprévisibles."
 iframeSrc: 'https://rebemanae.github.io/rooftop-snipers-2/'
 thumbnail: /new-images/thumbnails/rooftop-snipers-2.jpg
+urlstr: rooftop-snipers-2
 tags:
   - shooting
   - physics

@@ -1,18 +1,19 @@
 ---
+locale: ja
 title: Dumb Ways to Die おバカな死に方
+seoTitle: 無料でDumb Ways to Die おバカな死に方をオンラインでプレイ | FiddleBops
 description: >-
   「Dumb Ways to
   Die」はブラックユーモア溢れる瞬間ミニゲーム集。数秒の制限時間内に正しいアクションを行い、キャラクターたちをおバカな死から救え。
 iframeSrc: 'https://html5.iclouds.io/dumb-ways-die/'
 thumbnail: /new-images/thumbnails/dumb-ways-to-die.jpg
 urlstr: dumb-ways-to-die
-score: 3.9/5  (534 votes)
 tags:
   - arcade
   - minigames
+score: 3.9/5  (534 votes)
 developer: Metro Trains
 releaseDate: 2025-08-16T00:00:00.000Z
-locale: ja
 ---
 
 <!-- i18n:section:introduction -->

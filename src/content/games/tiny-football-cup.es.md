@@ -1,11 +1,13 @@
 ---
 locale: es
-urlstr: tiny-football-cup
-title: "Tiny Football Cup - Minipartidos de fútbol"
+title: Tiny Football Cup
+seoTitle: Juega a Tiny Football Cup en línea gratis | FiddleBops
 description: >-
-  Tiny Football Cup condensa el fútbol en partidos rápidos: pasa pronto, temporiza tus disparos y gana encuentros relámpago con buen posicionamiento.
+  Tiny Football Cup condensa el fútbol en partidos rápidos: pasa pronto,
+  temporiza tus disparos y gana encuentros relámpago con buen posicionamiento.
 iframeSrc: 'https://67buf3k7fmhlg.h5games.usercontent.goog/v/4r92r0smsurf0/'
 thumbnail: /new-images/thumbnails/tiny-football-cup.png
+urlstr: tiny-football-cup
 tags:
   - sports
   - soccer

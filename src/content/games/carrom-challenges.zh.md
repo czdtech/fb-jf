@@ -1,16 +1,17 @@
 ---
 locale: zh
-urlstr: carrom-challenges
 title: Carrom Challenges 卡罗姆挑战
+seoTitle: 免费在线玩 Carrom Challenges 卡罗姆挑战 | FiddleBops
 description: 《Carrom Challenges 卡罗姆挑战》以桌上卡罗姆为核心，通过设计各类练习与挑战关卡，考验你用 Striker 击打棋子 入袋的精度与角度控制。
 iframeSrc: 'https://6m4vq4nu17rto.h5games.usercontent.goog/v/1g4ai19abgj0g/'
 thumbnail: /new-images/thumbnails/carrom-challenges.png
+urlstr: carrom-challenges
 tags:
   - sports
   - puzzle
   - action
 score: 4.1/5  (1979 votes)
-releaseDate: 2025-10-18
+releaseDate: 2025-10-18T00:00:00.000Z
 ---
 
 

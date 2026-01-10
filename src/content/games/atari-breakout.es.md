@@ -1,7 +1,7 @@
 ---
 locale: es
-urlstr: atari-breakout
 title: Atari Breakout guía del clásico de arcade
+seoTitle: Juega a Atari Breakout guía del clásico de arcade en línea gratis | FiddleBops
 description: >-
   Atari Breakout es uno de los clásicos fundamentales de los videojuegos.
   Descubre estrategias, controles y trucos para romper todos los ladrillos y
@@ -9,6 +9,7 @@ description: >-
 iframeSrc: >-
   https://app-184523.games.s3.yandex.net/184523/bdryh2h6iqjirujzrk3tlum0j0n28j1o/index.html
 thumbnail: /new-images/thumbnails/atari-breakout.jpg
+urlstr: atari-breakout
 tags:
   - casual
   - action

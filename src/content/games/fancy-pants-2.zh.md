@@ -1,11 +1,12 @@
 ---
 locale: zh
-urlstr: fancy-pants-2
 title: Fancy Pants 2 手绘疾走平台续作
+seoTitle: 免费在线玩 Fancy Pants 2 手绘疾走平台续作 | FiddleBops
 description: 《Fancy Pants 2》是一款以惯性与速度感为核心的横版平台续作， 速度动作更流畅、敌人与关卡更丰富，手绘风场景中藏着大量秘密与奖杯。
 iframeSrc: >-
   https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210305/jj9/index.html
 thumbnail: /new-images/thumbnails/fancy-pants-2.jpg
+urlstr: fancy-pants-2
 tags:
   - platformer
   - action
