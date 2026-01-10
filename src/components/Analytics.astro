@@ -3,19 +3,28 @@
  * Analytics Component
  * Contains Google Analytics (gtag.js) and Google AdSense code.
  *
- * 性能优化：延后加载（首次用户交互 或 5秒后）
+ * 性能优化：
  * - 先初始化 Consent Mode（轻量，不阻塞）
- * - GA/AdSense 脚本延后到用户交互时再注入
+ * - AdSense / Funding Choices 立即加载（避免 Auto Ads 不触发）
+ * - GA 延后加载（首次用户交互 或 5秒后）
  */
 ---
 
 <meta name="google-adsense-account" content="ca-pub-1444054360166733">
 
+<!-- Funding Choices CMP (should be loaded early for consent flows) -->
+<script async src="https://fundingchoicesmessages.google.com/i/pub-1444054360166733?ers=1"></script>
+
+<!-- AdSense Auto Ads (must be loaded early; deferring can prevent Auto Ads from appearing) -->
+<script
+  async
+  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1444054360166733"
+  crossorigin="anonymous"
+></script>
+
 <script is:inline>
   (function () {
     const GA_ID = 'G-9JME3P55QJ';
-    const ADSENSE_CLIENT = 'ca-pub-1444054360166733';
-    const FC_URL = 'https://fundingchoicesmessages.google.com/i/pub-1444054360166733?ers=1';
 
     // EEA + UK (GB) + CH - ISO 3166-1 alpha-2 codes
     const GDPR_REGIONS = [
@@ -44,22 +53,6 @@
       ad_personalization: 'granted',
     });
 
-    // --- Deferred loading (on first interaction OR 5s timeout) ---
-    var loaded = false;
-
-    function injectScript(src, attrs) {
-      var s = document.createElement('script');
-      s.src = src;
-      if (attrs) {
-        for (var k in attrs) {
-          var v = attrs[k];
-          if (v === true) s.setAttribute(k, '');
-          else if (v !== false && v != null) s.setAttribute(k, String(v));
-        }
-      }
-      document.head.appendChild(s);
-    }
-
     function signalGooglefcPresent() {
       try { if (window.frames && window.frames.googlefcPresent) return; } catch {}
       if (!document.body) { setTimeout(signalGooglefcPresent, 0); return; }
@@ -69,35 +62,31 @@
       document.body.appendChild(iframe);
     }
 
-    function loadAll() {
-      if (loaded) return;
-      loaded = true;
+    // Funding Choices expects an iframe named `googlefcPresent`
+    signalGooglefcPresent();
 
-      // Funding Choices CMP
-      injectScript(FC_URL, { async: true });
-      signalGooglefcPresent();
-
-    // GA4
-      injectScript('https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(GA_ID), { async: true });
+    // --- Deferred loading (GA only: on first interaction OR 5s timeout) ---
+    var gaLoaded = false;
+    function loadGA() {
+      if (gaLoaded) return;
+      gaLoaded = true;
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(GA_ID);
+      document.head.appendChild(s);
       window.gtag('js', new Date());
       window.gtag('config', GA_ID);
-
-      // AdSense
-      injectScript(
-        'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=' + encodeURIComponent(ADSENSE_CLIENT),
-        { async: true, crossorigin: 'anonymous' }
-      );
     }
 
     // Trigger on first user interaction (intentionally no mousemove - fires too easily)
     var events = ['click', 'scroll', 'keydown', 'touchstart'];
     function onInteraction() {
       events.forEach(function(e) { document.removeEventListener(e, onInteraction, { passive: true, capture: true }); });
-      loadAll();
+      loadGA();
     }
     events.forEach(function(e) { document.addEventListener(e, onInteraction, { passive: true, capture: true }); });
 
-    // Fallback: load after 5 seconds if no interaction
-    setTimeout(loadAll, 5000);
+    // Fallback: load after 1.5 seconds if no interaction
+    setTimeout(loadGA, 1500);
   })();
 </script>
