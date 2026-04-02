@@ -1,27 +1,23 @@
 {
-  "generatedAt": "2026-04-01T05:07:54.016Z",
+  "generatedAt": "2026-04-02T04:38:25.886Z",
   "window": "7d",
   "source": "ga4",
   "items": [
     {
       "slug": "incredibox",
-      "score": 9837
+      "score": 10246
     },
     {
       "slug": "cuphead",
-      "score": 297
+      "score": 299
     },
     {
       "slug": "sprunki-phase-8",
-      "score": 234
+      "score": 241
     },
     {
       "slug": "incredibox-dystopia",
-      "score": 154
-    },
-    {
-      "slug": "fiddlebops-fix",
-      "score": 148
+      "score": 162
     },
     {
       "slug": "sprunki-clicker",
@@ -29,167 +25,171 @@
     },
     {
       "slug": "steal-a-brainrot",
-      "score": 135
+      "score": 140
     },
     {
-      "slug": "baldis-basics",
+      "slug": "fiddlebops-fix",
+      "score": 132
+    },
+    {
+      "slug": "incredibox-yellow-colorbox",
       "score": 118
     },
     {
       "slug": "incredibox-choir",
-      "score": 112
+      "score": 117
     },
     {
-      "slug": "incredibox-yellow-colorbox",
-      "score": 103
+      "slug": "baldis-basics",
+      "score": 113
     },
     {
       "slug": "incredibox-xrun-simulator",
-      "score": 95
-    },
-    {
-      "slug": "grow-a-garden",
-      "score": 83
-    },
-    {
-      "slug": "incredibox-downtown-simulator",
-      "score": 82
+      "score": 93
     },
     {
       "slug": "99-nights-in-the-forest",
-      "score": 77
+      "score": 86
+    },
+    {
+      "slug": "incredibox-downtown-simulator",
+      "score": 85
     },
     {
       "slug": "level-devil",
-      "score": 77
+      "score": 80
     },
     {
       "slug": "geometry-dash",
       "score": 72
     },
     {
+      "slug": "grow-a-garden",
+      "score": 69
+    },
+    {
       "slug": "incredibox-vibin",
       "score": 68
     },
     {
-      "slug": "whack-your-boss",
-      "score": 65
-    },
-    {
-      "slug": "minecraft",
-      "score": 60
-    },
-    {
-      "slug": "super-smash-flash-2-v08",
-      "score": 59
-    },
-    {
       "slug": "elastic-man",
-      "score": 58
+      "score": 66
     },
     {
-      "slug": "60s-burger-run",
-      "score": 54
+      "slug": "whack-your-boss",
+      "score": 66
     },
     {
       "slug": "choir",
-      "score": 52
+      "score": 56
     },
     {
       "slug": "sprunki-mustard",
+      "score": 56
+    },
+    {
+      "slug": "super-smash-flash-2-v08",
+      "score": 56
+    },
+    {
+      "slug": "minecraft",
+      "score": 55
+    },
+    {
+      "slug": "fiddlebops-but-sprunki",
+      "score": 51
+    },
+    {
+      "slug": "60s-burger-run",
       "score": 50
     },
     {
       "slug": "incredibox-carol-of-the-bells",
-      "score": 49
-    },
-    {
-      "slug": "fiddlebops-but-sprunki",
-      "score": 46
+      "score": 50
     },
     {
       "slug": "fiddlebops-but-dandys-world",
-      "score": 45
-    },
-    {
-      "slug": "happy-wheels",
-      "score": 45
-    },
-    {
-      "slug": "geometry-dash-wave",
-      "score": 43
-    },
-    {
-      "slug": "fiddlebops-sprunki",
-      "score": 39
+      "score": 42
     },
     {
       "slug": "friday-night-funkin",
-      "score": 38
+      "score": 42
+    },
+    {
+      "slug": "happy-wheels",
+      "score": 42
+    },
+    {
+      "slug": "geometry-dash-wave",
+      "score": 41
     },
     {
       "slug": "murder",
-      "score": 38
-    },
-    {
-      "slug": "cat-mario",
-      "score": 37
+      "score": 40
     },
     {
       "slug": "incredibox-trillybox",
-      "score": 36
+      "score": 38
+    },
+    {
+      "slug": "fiddlebops-sprunki",
+      "score": 33
     },
     {
       "slug": "incredibox-cool-as-ice",
       "score": 32
     },
     {
-      "slug": "incredibox-geek-dance-simulator",
-      "score": 29
-    },
-    {
-      "slug": "google-doodle-baseball",
-      "score": 27
-    },
-    {
-      "slug": "tunnel-rush",
-      "score": 26
+      "slug": "cat-mario",
+      "score": 30
     },
     {
       "slug": "geometry-dash-meltdown",
-      "score": 25
+      "score": 28
     },
     {
-      "slug": "crossyroad",
-      "score": 24
+      "slug": "google-doodle-baseball",
+      "score": 28
+    },
+    {
+      "slug": "incredibox-geek-dance-simulator",
+      "score": 26
     },
     {
       "slug": "dumb-ways-to-die",
-      "score": 24
+      "score": 25
     },
     {
       "slug": "incredibox-beatnik-simulator",
-      "score": 23
+      "score": 25
+    },
+    {
+      "slug": "tunnel-rush",
+      "score": 25
     },
     {
       "slug": "incredibox-melophobia",
       "score": 22
     },
     {
-      "slug": "basket-random",
-      "score": 19
+      "slug": "crossyroad",
+      "score": 21
+    },
+    {
+      "slug": "sprunki-good-night",
+      "score": 21
     },
     {
       "slug": "incredibox-banana",
+      "score": 20
+    },
+    {
+      "slug": "slippery-slope",
       "score": 18
     },
     {
       "slug": "stick-fighter",
-      "score": 17
-    },
-    {
-      "slug": "sprunki-good-night",
-      "score": 16
+      "score": 18
     },
     {
       "slug": "fiddlebops-sprunkbop",
@@ -200,23 +200,23 @@
       "score": 14
     },
     {
-      "slug": "ragdoll-archers",
-      "score": 14
-    },
-    {
-      "slug": "incredibox-yaboo",
-      "score": 13
-    },
-    {
-      "slug": "geometry-dash-subzero",
+      "slug": "basket-random",
       "score": 12
     },
     {
-      "slug": "fiddlebops-polos",
+      "slug": "incredibox-yaboo",
+      "score": 12
+    },
+    {
+      "slug": "ragdoll-archers",
+      "score": 12
+    },
+    {
+      "slug": "geometry-dash-subzero",
       "score": 11
     },
     {
-      "slug": "cookie-clicker-2",
+      "slug": "fiddlebops-polos",
       "score": 10
     },
     {
@@ -224,15 +224,7 @@
       "score": 10
     },
     {
-      "slug": "stick-war",
-      "score": 10
-    },
-    {
-      "slug": "fiddlebops-sprunksters-remix",
-      "score": 9
-    },
-    {
-      "slug": "ovo-dimensions",
+      "slug": "cookie-clicker-2",
       "score": 9
     },
     {
@@ -240,23 +232,31 @@
       "score": 9
     },
     {
-      "slug": "super-smash-flash-2-v09",
+      "slug": "stick-war",
       "score": 9
+    },
+    {
+      "slug": "fiddlebops-sprunksters-remix",
+      "score": 8
     },
     {
       "slug": "he-likes-the-darkness",
       "score": 8
     },
     {
-      "slug": "incredibox-piege-simulator",
+      "slug": "ovo-dimensions",
       "score": 8
     },
     {
-      "slug": "incredibox-sprunksters",
+      "slug": "super-smash-flash-2-v09",
       "score": 8
     },
     {
       "slug": "incredibox-riser",
+      "score": 7
+    },
+    {
+      "slug": "incredibox-sprunksters",
       "score": 7
     },
     {
@@ -272,11 +272,15 @@
       "score": 6
     },
     {
+      "slug": "incredibox-piege-simulator",
+      "score": 6
+    },
+    {
       "slug": "incredibox-studio",
       "score": 6
     },
     {
-      "slug": "slippery-slope",
+      "slug": "sprunki-phase-1",
       "score": 6
     },
     {
@@ -284,11 +288,27 @@
       "score": 5
     },
     {
+      "slug": "google-snake",
+      "score": 5
+    },
+    {
       "slug": "incredibox-instrumentalist",
       "score": 5
     },
     {
+      "slug": "incredibox-sprinkle",
+      "score": 5
+    },
+    {
+      "slug": "paper-minecraft",
+      "score": 5
+    },
+    {
       "slug": "sprunki-mod-BFDI",
+      "score": 5
+    },
+    {
+      "slug": "superhot",
       "score": 5
     },
     {
@@ -304,7 +324,7 @@
       "score": 4
     },
     {
-      "slug": "google-snake",
+      "slug": "incredibox-creatophobos",
       "score": 4
     },
     {
@@ -316,35 +336,11 @@
       "score": 4
     },
     {
-      "slug": "incredibox-sprinkle",
+      "slug": "sprunki-craft",
       "score": 4
     },
     {
-      "slug": "iron-snout",
-      "score": 4
-    },
-    {
-      "slug": "pokemon-emerald",
-      "score": 4
-    },
-    {
-      "slug": "sprunki-phase-1",
-      "score": 4
-    },
-    {
-      "slug": "sprunki-retake-new-human",
-      "score": 4
-    },
-    {
-      "slug": "superhot",
-      "score": 4
-    },
-    {
-      "slug": "yojou-sprunki-mustard",
-      "score": 4
-    },
-    {
-      "slug": "aloha-mahjong",
+      "slug": "bad-time-simulator",
       "score": 3
     },
     {
@@ -352,19 +348,11 @@
       "score": 3
     },
     {
-      "slug": "color-burst-3d",
-      "score": 3
-    },
-    {
-      "slug": "diner-dash",
+      "slug": "bullet-force",
       "score": 3
     },
     {
       "slug": "drift-hunters",
-      "score": 3
-    },
-    {
-      "slug": "five-nights-at-freddy-4",
       "score": 3
     },
     {
@@ -376,11 +364,11 @@
       "score": 3
     },
     {
-      "slug": "incredibox-creatophobos",
+      "slug": "incredibox-wolfgang",
       "score": 3
     },
     {
-      "slug": "incredibox-wolfgang",
+      "slug": "iron-snout",
       "score": 3
     },
     {
@@ -388,7 +376,7 @@
       "score": 3
     },
     {
-      "slug": "minecraft-cave-escape",
+      "slug": "pokemon-emerald",
       "score": 3
     },
     {
@@ -396,19 +384,7 @@
       "score": 3
     },
     {
-      "slug": "sprunki-but-with-memes",
-      "score": 3
-    },
-    {
-      "slug": "sprunki-phase-5",
-      "score": 3
-    },
-    {
-      "slug": "sprunki-play-random",
-      "score": 3
-    },
-    {
-      "slug": "sprunki-pyramixed",
+      "slug": "sprunki-retake-new-human",
       "score": 3
     },
     {
@@ -428,23 +404,23 @@
       "score": 3
     },
     {
+      "slug": "trap-the-cat",
+      "score": 3
+    },
+    {
       "slug": "war-of-sticks",
       "score": 3
     },
     {
-      "slug": "3d-football-mania",
-      "score": 2
+      "slug": "yojou-sprunki-mustard",
+      "score": 3
     },
     {
       "slug": "addiction-mini",
       "score": 2
     },
     {
-      "slug": "alien-hominid",
-      "score": 2
-    },
-    {
-      "slug": "bad-time-simulator",
+      "slug": "aloha-mahjong",
       "score": 2
     },
     {
@@ -452,19 +428,7 @@
       "score": 2
     },
     {
-      "slug": "butterfly-shimai",
-      "score": 2
-    },
-    {
       "slug": "capybara-clicker",
-      "score": 2
-    },
-    {
-      "slug": "carrom-challenges",
-      "score": 2
-    },
-    {
-      "slug": "color-jump",
       "score": 2
     },
     {
@@ -472,7 +436,19 @@
       "score": 2
     },
     {
+      "slug": "crossword",
+      "score": 2
+    },
+    {
+      "slug": "diner-dash",
+      "score": 2
+    },
+    {
       "slug": "drifting-mania",
+      "score": 2
+    },
+    {
+      "slug": "endless-truck",
       "score": 2
     },
     {
@@ -485,6 +461,14 @@
     },
     {
       "slug": "five-nights-at-freddy-1",
+      "score": 2
+    },
+    {
+      "slug": "five-nights-at-freddy-4",
+      "score": 2
+    },
+    {
+      "slug": "five-nights-at-freddy-sl",
       "score": 2
     },
     {
@@ -512,11 +496,7 @@
       "score": 2
     },
     {
-      "slug": "paper-minecraft",
-      "score": 2
-    },
-    {
-      "slug": "qwop",
+      "slug": "only-up",
       "score": 2
     },
     {
@@ -532,19 +512,15 @@
       "score": 2
     },
     {
-      "slug": "sprunki-craft",
-      "score": 2
-    },
-    {
-      "slug": "sprunki-interactive-beta",
-      "score": 2
-    },
-    {
-      "slug": "sprunki-maker",
-      "score": 2
-    },
-    {
       "slug": "sprunki-phase-2-5",
+      "score": 2
+    },
+    {
+      "slug": "sprunki-phase-5",
+      "score": 2
+    },
+    {
+      "slug": "sprunki-pyramixed",
       "score": 2
     },
     {
@@ -560,6 +536,10 @@
       "score": 2
     },
     {
+      "slug": "sprunki-sonic",
+      "score": 2
+    },
+    {
       "slug": "sprunki-swapped-horror",
       "score": 2
     },
@@ -568,7 +548,7 @@
       "score": 2
     },
     {
-      "slug": "swap-sprunkgerny",
+      "slug": "the-haze-pixelbox",
       "score": 2
     },
     {
@@ -580,10 +560,6 @@
       "score": 2
     },
     {
-      "slug": "uno",
-      "score": 2
-    },
-    {
       "slug": "unpark-me",
       "score": 2
     },
@@ -592,7 +568,7 @@
       "score": 2
     },
     {
-      "slug": "2-tricky-stories",
+      "slug": "2020-connect",
       "score": 1
     },
     {
@@ -605,6 +581,10 @@
     },
     {
       "slug": "4-in-row-mania",
+      "score": 1
+    },
+    {
+      "slug": "alien-hominid",
       "score": 1
     },
     {
@@ -656,11 +636,11 @@
       "score": 1
     },
     {
-      "slug": "bullet-force",
+      "slug": "butterfly-shimai",
       "score": 1
     },
     {
-      "slug": "chess-classic",
+      "slug": "carrom-challenges",
       "score": 1
     },
     {
@@ -669,6 +649,14 @@
     },
     {
       "slug": "collect-same-thing",
+      "score": 1
+    },
+    {
+      "slug": "color-burst-3d",
+      "score": 1
+    },
+    {
+      "slug": "color-jump",
       "score": 1
     },
     {
@@ -696,11 +684,11 @@
       "score": 1
     },
     {
-      "slug": "crossword",
+      "slug": "cube-tower",
       "score": 1
     },
     {
-      "slug": "cube-tower",
+      "slug": "daily-room-escape",
       "score": 1
     },
     {
@@ -724,35 +712,11 @@
       "score": 1
     },
     {
-      "slug": "endless-truck",
-      "score": 1
-    },
-    {
-      "slug": "escaping-the-prison",
-      "score": 1
-    },
-    {
       "slug": "fancy-pants-2",
       "score": 1
     },
     {
-      "slug": "fleeing-the-complex",
-      "score": 1
-    },
-    {
-      "slug": "football-kickoff",
-      "score": 1
-    },
-    {
-      "slug": "freekick-football",
-      "score": 1
-    },
-    {
       "slug": "fullspeed-racing",
-      "score": 1
-    },
-    {
-      "slug": "g-switch-2",
       "score": 1
     },
     {
@@ -777,10 +741,6 @@
     },
     {
       "slug": "golf-fling",
-      "score": 1
-    },
-    {
-      "slug": "golf-orbit",
       "score": 1
     },
     {
@@ -840,6 +800,10 @@
       "score": 1
     },
     {
+      "slug": "minecraft-cave-escape",
+      "score": 1
+    },
+    {
       "slug": "mini-crossword",
       "score": 1
     },
@@ -860,15 +824,15 @@
       "score": 1
     },
     {
-      "slug": "only-up",
-      "score": 1
-    },
-    {
       "slug": "pocket-battle-royale",
       "score": 1
     },
     {
       "slug": "pocket-champions",
+      "score": 1
+    },
+    {
+      "slug": "pou",
       "score": 1
     },
     {
@@ -908,7 +872,11 @@
       "score": 1
     },
     {
-      "slug": "sprunki-cool-as-ice",
+      "slug": "sprunki-but-with-memes",
+      "score": 1
+    },
+    {
+      "slug": "sprunki-interactive-beta",
       "score": 1
     },
     {
@@ -916,7 +884,7 @@
       "score": 1
     },
     {
-      "slug": "sprunki-meets-the-cat-spell",
+      "slug": "sprunki-maker",
       "score": 1
     },
     {
@@ -928,15 +896,11 @@
       "score": 1
     },
     {
+      "slug": "sprunki-play-random",
+      "score": 1
+    },
+    {
       "slug": "sprunki-police-and-prisoners",
-      "score": 1
-    },
-    {
-      "slug": "sprunki-pyramixed-version",
-      "score": 1
-    },
-    {
-      "slug": "sprunki-sonic",
       "score": 1
     },
     {
@@ -952,7 +916,7 @@
       "score": 1
     },
     {
-      "slug": "super-sprunki-brasil",
+      "slug": "swap-sprunkgerny",
       "score": 1
     },
     {
@@ -972,7 +936,7 @@
       "score": 1
     },
     {
-      "slug": "trap-the-cat",
+      "slug": "uno",
       "score": 1
     },
     {
@@ -981,6 +945,10 @@
     },
     {
       "slug": "word-pics",
+      "score": 1
+    },
+    {
+      "slug": "words-challenge",
       "score": 1
     },
     {
